@@ -6,19 +6,19 @@
      most distinct; colours only repeat far down the rare/one-off tail (which
      also live in separate story arcs). The speaker name is always shown in
      dialogue, so colour is an accent, never the only way to tell who speaks. */
-  --char-rhen:#7DD3FC; --char-sera:#FDA4AF; --char-kael:#FCD34D; --char-liang:#F0ABFC; --char-jin:#A78BFA;
-  --char-lei:#60A5FA; --char-rui:#2DD4BF; --char-qin:#C084FC; --char-han:#FB923C; --char-arin:#34D399;
-  --char-luo:#FBBF24; --char-yun:#F472B6; --char-ilyra:#22D3EE; --char-aethon:#F8FAFC; --char-mo:#A3E635;
-  --char-haejin:#FB7185; --char-tae:#E879F9; --char-jiang:#4ADE80; --char-wei:#38BDF8; --char-huo:#F59E0B;
-  --char-nam:#D8B4FE; --char-amon:#F87171; --char-seo:#5EEAD4; --char-shiyue:#F9A8D4; --char-vaelor:#818CF8;
-  --char-yan:#FDBA74; --char-gong:#93C5FD; --char-mi:#FCA5A5; --char-rhavenn:#E9D5FF; --char-zhao:#CBD5E1;
-  --char-tor:#EAB308; --char-draven:#FDA4AF; --char-duan:#FCD34D; --char-lin:#34D399; --char-varesh:#C084FC;
-  --char-cao:#FB923C; --char-valeria:#22D3EE; --char-ji:#F472B6; --char-meilin:#A3E635; --char-meizhen:#A78BFA;
-  --char-orun:#FB7185; --char-qiu:#2DD4BF; --char-iscaryn:#FBBF24; --char-mu:#60A5FA; --char-qiao:#E879F9;
-  --char-sorin:#4ADE80; --char-yunke:#38BDF8; --char-aurel:#F59E0B; --char-caedros:#D8B4FE; --char-chun:#F87171;
-  --char-daemun:#5EEAD4; --char-song:#F9A8D4; --char-ye:#818CF8; --char-baek:#FDBA74; --char-gaoren:#93C5FD;
-  --char-gu:#FCA5A5; --char-ren:#E9D5FF; --char-shufen:#CBD5E1; --char-zhao_renkai:#F0ABFC; --char-gwon:#EAB308;
-  --char-miri:#7DD3FC; --char-baotien:#FDA4AF; --char-neutral:#9CA3AF;
+  --char-rhen:#7DD3FC; --char-sera:#FDA4AF; --char-kael:#FCD34D; --char-rui:#2DD4BF; --char-arin:#34D399;
+  --char-liang:#F0ABFC; --char-lei:#E8E2B0; --char-jin:#E76AE7; --char-yun:#E79C6A; --char-qin:#E76ACE;
+  --char-mo:#B5E76A; --char-haejin:#6AE7B5; --char-han:#DDB0E8; --char-luo:#6A8FE7; --char-tae:#E76A9C;
+  --char-ilyra:#E76A6A; --char-jiang:#CE6AE7; --char-wei:#E7CE6A; --char-huo:#D7E8B0; --char-nam:#C08BE4;
+  --char-aethon:#E7E76A; --char-amon:#8DE378; --char-seo:#AA8EEB; --char-shiyue:#9CE76A; --char-vaelor:#E3AD78;
+  --char-yan:#EBD98E; --char-gong:#D878E3; --char-mi:#76E76A; --char-rhavenn:#6AE7CE; --char-zhao:#8B8BE4;
+  --char-tor:#6AE783; --char-draven:#8BE4AF; --char-duan:#CEE76A; --char-lin:#D8E378; --char-varesh:#8EA1EB;
+  --char-cao:#E8D2B0; --char-valeria:#6A9CE7; --char-ji:#AFE48B; --char-meilin:#E7836A; --char-meizhen:#94E48B;
+  --char-orun:#E7B56A; --char-qiu:#E76AB5; --char-iscaryn:#8BE4D2; --char-mu:#B0E8D2; --char-qiao:#E4E48B;
+  --char-sorin:#6AE79C; --char-yunke:#C1B0E8; --char-aurel:#8BD2E4; --char-caedros:#8BE4C0; --char-chun:#B8E378;
+  --char-daemun:#E4C08B; --char-song:#E378AD; --char-ye:#B0E8C1; --char-baek:#C9E48B; --char-gaoren:#BBE8B0;
+  --char-gu:#B878E3; --char-ren:#E378CE; --char-shufen:#E48BD2; --char-zhao_renkai:#8BE49D; --char-gwon:#DB8BE4;
+  --char-miri:#E3C378; --char-baotien:#B0C6E8; --char-neutral:#E49D8B;
 }
 *{box-sizing:border-box}
 html{scroll-behavior:smooth}
@@ -167,7 +167,6 @@ table th{color:var(--accent);font-size:13px;letter-spacing:.02em}
 .arc-head::-webkit-details-marker{display:none}.arc-head h2{margin:0 0 5px;font-size:1.25rem}.arc-head p{margin:6px 0 0;color:var(--muted);font-size:.92rem;max-width:850px}
 .arc-body{padding:8px 14px 16px}.arc-toggle{font-size:1.1rem;transition:.2s}.arc-accordion[open]>.arc-head .arc-toggle{transform:rotate(180deg)}
 
-:root{--char-mo:#FDE68A;--char-yun:#C4B5FD;--char-mu:#D4D4D8;--char-seo:#FCA5A5;--char-tae:#93C5FD;--char-gu:#D8B4FE;--char-ren:#F0ABFC;--char-qiao:#FDBA74;--char-miri:#A7F3D0;--char-neutral:#E5E7EB}
 .character-mo{color:var(--char-mo)!important}.character-yun{color:var(--char-yun)!important}.character-mu{color:var(--char-mu)!important}.character-seo{color:var(--char-seo)!important}.character-tae{color:var(--char-tae)!important}.character-gu{color:var(--char-gu)!important}.character-ren{color:var(--char-ren)!important}.character-qiao{color:var(--char-qiao)!important}.character-miri{color:var(--char-miri)!important}.character-neutral{color:var(--char-neutral)!important}
 .character-sorin{color:var(--char-sorin)!important}.character-valeria{color:var(--char-valeria)!important}.character-draven{color:var(--char-draven)!important}.character-ilyra{color:var(--char-ilyra)!important}.character-aurel{color:var(--char-aurel)!important}.character-vaelor{color:var(--char-vaelor)!important}
 .skill.ultimate{border-color:#f5d76e;box-shadow:0 0 0 1px rgba(245,215,110,.18),0 0 24px rgba(245,215,110,.08)}
