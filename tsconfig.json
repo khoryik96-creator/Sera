@@ -12,10 +12,10 @@
     "forceConsistentCasingInFileNames": true,
     "esModuleInterop": true,
 
-    "strict": false,
-    "noImplicitAny": false,
-    "noUnusedLocals": false,
-    "noUnusedParameters": false
+    "strict": true,
+    "noImplicitAny": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true
   },
   "include": ["src", "vite.config.ts", "eslint.config.js"]
 }

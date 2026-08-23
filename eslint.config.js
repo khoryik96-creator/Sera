@@ -17,11 +17,8 @@ export default tseslint.config(
       },
     },
     rules: {
-      // The render code intentionally uses loose data access during this first
-      // migration pass; tighten these as the data model is fully typed.
-      '@typescript-eslint/no-explicit-any': 'off',
       '@typescript-eslint/no-unused-vars': [
-        'warn',
+        'error',
         { argsIgnorePattern: '^_', varsIgnorePattern: '^_' },
       ],
     },
