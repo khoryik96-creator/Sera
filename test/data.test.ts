@@ -1,7 +1,7 @@
 import { describe, it, expect } from 'vitest';
 import rawData from '../src/data.json';
 import { charOrder } from '../src/characters';
-import { characterImageMap } from '../src/db';
+import { characterImageMap } from '../src/images';
 import type { Database } from '../src/types';
 
 const data = rawData as unknown as Database;

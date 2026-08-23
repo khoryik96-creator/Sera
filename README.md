@@ -43,6 +43,23 @@ npm run lint       # eslint
 npm run test       # vitest (unit + data-integrity tests)
 ```
 
+## Two build outputs
+
+```bash
+npm run build         # web build  -> dist/         (code-split; needs a server)
+npm run build:single  # single file -> dist-single/index.html
+```
+
+- **`dist/`** is the normal web build: small JS, `data.json` and images as
+  separate cacheable assets. Serve it (e.g. `npm run preview`) or deploy the
+  folder.
+- **`dist-single/index.html`** is one self-contained file with the JS, CSS,
+  images, and lore data all inlined. **Double-click it to open** — no server,
+  no install. Handy for sharing or offline use.
+
+Both are produced from the same source; the data/image strategy is switched
+at build time by the `__SINGLEFILE__` flag (fetched assets vs. inlined).
+
 ## Migration notes
 
 Originally one 6 MB HTML file; migrated to Vite + TypeScript and then tightened:
