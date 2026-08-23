@@ -1,4 +1,5 @@
-import { DB, characterImageMap, characterExtraImages, colorKeyMap } from './db';
+import { DB, colorKeyMap } from './db';
+import { characterImageMap, characterExtraImages } from './images';
 import { getEl } from './dom';
 import { renderSeraSkills } from './skills';
 import { legendCard } from './legends';

@@ -1,10 +1,8 @@
-import dataUrl from './data.json?url';
 import type { Database } from './types';
 
 /**
  * The lore database. Populated by `loadDB()` before any rendering runs, so
  * render code (which only reads `DB` inside functions) can treat it as present.
- * Loaded as a fetched static asset rather than inlined into the JS bundle.
  */
 export let DB: Database;
 
@@ -13,35 +11,25 @@ export function setDB(data: Database): void {
   DB = data;
 }
 
-/** Fetch and install the lore database. Call once before the first render. */
+/**
+ * Install the lore database. Two strategies, chosen at build time so the unused
+ * branch is dropped by dead-code elimination:
+ *  - web build (`__SINGLEFILE__` false): fetch data.json as a separate cacheable
+ *    asset, keeping it out of the JS bundle;
+ *  - single-file build (`__SINGLEFILE__` true): import it so it is inlined into
+ *    the one self-contained HTML (works over file://, no fetch).
+ */
 export async function loadDB(): Promise<void> {
-  const res = await fetch(dataUrl);
-  if (!res.ok) throw new Error(`Failed to load lore data: ${res.status} ${res.statusText}`);
-  setDB(await res.json() as Database);
+  if (__SINGLEFILE__) {
+    const mod = await import('./data.json');
+    setDB(mod.default as unknown as Database);
+  } else {
+    const { default: dataUrl } = await import('./data.json?url');
+    const res = await fetch(dataUrl);
+    if (!res.ok) throw new Error(`Failed to load lore data: ${res.status} ${res.statusText}`);
+    setDB(await res.json() as Database);
+  }
 }
-
-/** Main portrait per character key. */
-export const characterImageMap: Record<string, string> = {
-  sera: '/assets/sera.jpg',
-  rhen: '/assets/rhen.jpg',
-  arin: '/assets/arin.jpg',
-  liang: '/assets/liang.jpg',
-  kael: '/assets/kael.jpg',
-  jin: '/assets/jin.jpg',
-  lei: '/assets/lei.jpg',
-  rui: '/assets/rui.jpg',
-  qin: '/assets/qin.jpg',
-  han: '/assets/han.jpg',
-  ilyra: '/assets/ilyra.jpg',
-  mo: '/assets/mo.jpg',
-  yun: '/assets/yun.jpg',
-  wen: '/assets/wen.jpg',
-};
-
-/** Additional gallery portraits per character key. */
-export const characterExtraImages: Record<string, string[]> = {
-  sera: ['/assets/sera-extra-1.jpg', '/assets/sera-extra-2.jpg', '/assets/sera-extra-3.jpg'],
-};
 
 /** Maps a character/speaker key to its CSS colour class suffix. */
 export const colorKeyMap: Record<string, string> = {

@@ -1,13 +1,13 @@
 import { defineConfig } from 'vite';
 
-// Static single-page lore repository.
+// Web build: code-split, data.json fetched as a separate asset, images hashed.
 // - `src/main.ts` is the entry (loaded as a module from index.html)
-// - `public/assets/*` are served at /assets/* and copied verbatim into dist/
 export default defineConfig({
   base: './',
+  define: {
+    __SINGLEFILE__: 'false',
+  },
   build: {
     outDir: 'dist',
-    // The main character portrait is a large inline-free JPEG; keep assets as files.
-    assetsInlineLimit: 0,
   },
 });
