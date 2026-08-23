@@ -7,14 +7,27 @@ import type { Database } from '../src/types';
 beforeAll(() => setDB(data as unknown as Database));
 
 describe('legendsForCharacter', () => {
-  it('returns no legends for characters without a label (regression: Mo/Yun once showed all 58)', () => {
-    expect(legendsForCharacter('mo')).toHaveLength(0);
-    expect(legendsForCharacter('yun')).toHaveLength(0);
+  it('surfaces the dedicated legends for Mo and Yun (were wrongly showing 0)', () => {
+    const mo = legendsForCharacter('mo');
+    const yun = legendsForCharacter('yun');
+    expect(mo.length).toBeGreaterThan(0);
+    expect(yun.length).toBeGreaterThan(0);
+    expect(mo.every((l) => /\bMo\b/i.test(l.rank))).toBe(true);
+    expect(yun.every((l) => /\bYun\b/i.test(l.rank))).toBe(true);
   });
 
   it('returns matching legends for labelled characters', () => {
     expect(legendsForCharacter('rui').length).toBeGreaterThan(0);
     expect(legendsForCharacter('sera').length).toBeGreaterThan(0);
+  });
+
+  it('matches whole words only — Sera does not pick up "Ilyra Serath"', () => {
+    // Every Sera legend must contain "Sera" as a standalone word, never "Serath".
+    for (const l of legendsForCharacter('sera')) {
+      expect(/\bSera\b/i.test(l.rank), l.rank).toBe(true);
+    }
+    // Ilyra has no dedicated legend in the data, and must not inherit Sera's.
+    expect(legendsForCharacter('ilyra')).toHaveLength(0);
   });
 
   it('never returns the entire legend set for any character', () => {
