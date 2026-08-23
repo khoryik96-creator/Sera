@@ -10,20 +10,7 @@ import { renderSeraTimeline } from './seraTimeline';
 import { renderEpisodes, renderSeasonCast } from './episodes';
 import { renderArcFigures } from './arcFigures';
 import { renderColorKey } from './colorKey';
-
-function activateTab(tabName: string): void {
-  document.querySelectorAll<HTMLElement>('.tab').forEach((b) => b.classList.toggle('active', b.dataset.tab === tabName));
-  document.querySelectorAll('.panel').forEach((p) => p.classList.toggle('hidden', p.id !== tabName));
-  getEl<HTMLInputElement>('search').value = '';
-  if (tabName === 'skills') renderSkills();
-  if (tabName === 'rankings') renderRanks();
-  if (tabName === 'legends') renderLegends();
-  if (tabName === 'former') renderFormer();
-  if (tabName === 'sera-timeline') renderSeraTimeline();
-  if (tabName === 'episodes') renderEpisodes();
-  if (tabName === 'characters') renderCharacterButtons();
-  if (tabName === 'others') renderArcFigures();
-}
+import { activateTab } from './tabs';
 
 /** Attach static-element listeners (tabs, search boxes, quicklinks). */
 function wireEvents(): void {
