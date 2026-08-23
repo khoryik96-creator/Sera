@@ -6,7 +6,7 @@ import { legendCard } from './legends';
 import type { Character, Legend } from './types';
 
 let currentCharacterKey = 'sera';
-let seraPortraits: string[] = [];
+let galleryPortraits: string[] = [];
 
 export const charOrder = ['rhen', 'kael', 'liang', 'jin', 'lei', 'rui', 'ilyra', 'sera', 'mo', 'arin', 'wen', 'yun', 'qin', 'han'];
 
@@ -38,8 +38,8 @@ export function renderCharacterButtons(q = ''): void {
   }).join('');
 }
 
-function showSeraPortrait(index: number): void {
-  const pics = seraPortraits;
+function showGalleryPortrait(index: number): void {
+  const pics = galleryPortraits;
   const main = document.getElementById('seraOnlyPortrait') as HTMLImageElement | null;
   if (!main || !pics[index]) return;
   main.src = pics[index];
@@ -65,16 +65,16 @@ export function renderCharacter(key: string): void {
   const extras = characterExtraImages[key] || [];
   let visual = '';
   if (img) {
-    if (key === 'sera') {
+    if (extras.length) {
       const gallery = [img, ...extras];
-      seraPortraits = gallery;
+      galleryPortraits = gallery;
       visual = `<div class="profile-visual sera-v101-gallery">
         <div class="sera-v101-stage">
           <img id="seraOnlyPortrait" src="${gallery[0]}" alt="${c.name} portrait">
         </div>
         <div class="sera-v101-controls">
-          ${gallery.map((src, i) => `<button type="button" class="sera-v101-thumb${i === 0 ? ' active' : ''}" data-idx="${i}" aria-label="Show Sera portrait ${i + 1}">
-            <img src="${src}" alt="Sera portrait ${i + 1} thumbnail">
+          ${gallery.map((src, i) => `<button type="button" class="sera-v101-thumb${i === 0 ? ' active' : ''}" data-idx="${i}" aria-label="Show ${c.name} portrait ${i + 1}">
+            <img src="${src}" alt="${c.name} portrait ${i + 1} thumbnail">
           </button>`).join('')}
           <span id="seraV101Count">1 / ${gallery.length}</span>
         </div>
@@ -148,6 +148,6 @@ export function mountCharacterEvents(): void {
   });
   getEl('charDetail').addEventListener('click', (e) => {
     const thumb = (e.target as HTMLElement).closest<HTMLElement>('.sera-v101-thumb');
-    if (thumb?.dataset.idx) showSeraPortrait(Number(thumb.dataset.idx));
+    if (thumb?.dataset.idx) showGalleryPortrait(Number(thumb.dataset.idx));
   });
 }
