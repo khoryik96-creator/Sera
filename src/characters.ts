@@ -2,12 +2,12 @@ import { DB, characterImageMap, characterExtraImages, colorKeyMap } from './db';
 import { getEl } from './dom';
 import { renderSeraSkills } from './skills';
 import { legendCard } from './legends';
-import type { Character } from './types';
+import type { Character, Legend } from './types';
 
 let currentCharacterKey = 'sera';
 let seraPortraits: string[] = [];
 
-const charOrder = ['rhen', 'kael', 'liang', 'jin', 'lei', 'rui', 'ilyra', 'sera', 'mo', 'arin', 'wen', 'yun', 'qin', 'han'];
+export const charOrder = ['rhen', 'kael', 'liang', 'jin', 'lei', 'rui', 'ilyra', 'sera', 'mo', 'arin', 'wen', 'yun', 'qin', 'han'];
 
 function displayRank(c: Character): string {
   const m = String(c.name || '').match(/^(Former\s+)?#\d+/);
@@ -122,10 +122,20 @@ export function renderCharacter(key: string): void {
   renderCharacterLegends(key);
 }
 
+const legendLabelMap: Record<string, string> = { rhen: 'Rhen', kael: 'Kael', liang: 'Liang', jin: 'Jin', lei: 'Lei', rui: 'Rui', qin: 'Qin', sera: 'Sera', ilyra: 'Ilyra', han: 'Han', arin: 'Arin', wen: 'Luo' };
+
+/**
+ * Legends belonging to a character. Characters with no label (e.g. Mo, Yun)
+ * return an empty list — never every legend (guards the empty-string
+ * `includes('')` bug that matched all entries).
+ */
+export function legendsForCharacter(key: string): Legend[] {
+  const n = legendLabelMap[key] || '';
+  return n ? DB.legends.filter((l) => l.rank.toLowerCase().includes(n.toLowerCase())) : [];
+}
+
 function renderCharacterLegends(key: string): void {
-  const labelMap: Record<string, string> = { rhen: 'Rhen', kael: 'Kael', liang: 'Liang', jin: 'Jin', lei: 'Lei', rui: 'Rui', qin: 'Qin', sera: 'Sera', ilyra: 'Ilyra', han: 'Han', arin: 'Arin', wen: 'Luo' };
-  const n = labelMap[key] || '';
-  const items = n ? DB.legends.filter((l) => l.rank.toLowerCase().includes(n.toLowerCase())) : [];
+  const items = legendsForCharacter(key);
   getEl('characterLegendList').innerHTML = items.length ? items.map(legendCard).join('') : '<div class="card muted">No dedicated legend entry yet.</div>';
 }
 

@@ -1,7 +1,24 @@
-import rawDB from './data.json';
+import dataUrl from './data.json?url';
 import type { Database } from './types';
 
-export const DB = rawDB as unknown as Database;
+/**
+ * The lore database. Populated by `loadDB()` before any rendering runs, so
+ * render code (which only reads `DB` inside functions) can treat it as present.
+ * Loaded as a fetched static asset rather than inlined into the JS bundle.
+ */
+export let DB: Database;
+
+/** Replace the active database (used by loadDB and by tests). */
+export function setDB(data: Database): void {
+  DB = data;
+}
+
+/** Fetch and install the lore database. Call once before the first render. */
+export async function loadDB(): Promise<void> {
+  const res = await fetch(dataUrl);
+  if (!res.ok) throw new Error(`Failed to load lore data: ${res.status} ${res.statusText}`);
+  setDB(await res.json() as Database);
+}
 
 /** Main portrait per character key. */
 export const characterImageMap: Record<string, string> = {

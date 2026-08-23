@@ -65,7 +65,7 @@ function annotateSkills(text: string): string {
   return out;
 }
 
-function rankForStory(name: string, season?: number): string {
+export function rankForStory(name: string, season?: number): string {
   if (!season) return rankLabelMap[name] || '';
   const aliases: Record<string, string> = { Sera: 'Sera', 'Ilyra Serath': 'Ilyra', Ilyra: 'Ilyra', 'Mo Qingzhao': 'Mo', Mo: 'Mo', 'Arin Vale': 'Arin', Arin: 'Arin', 'Luo Wen': 'Luo', Luo: 'Luo', 'Yun Shizhen': 'Yun', Yun: 'Yun' };
   const n = aliases[name] || name;

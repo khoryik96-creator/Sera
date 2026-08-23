@@ -24,8 +24,10 @@ src/
   arcFigures.ts     # "Others" / villains tab
   colorKey.ts       # character colour legend
   types.ts          # interfaces for the data model
-  data.json         # the lore database (was `const DB = {...}` inline)
+  data.json         # the lore database (fetched at runtime, not bundled into JS)
   styles.css        # all styles (was 5 inline <style> blocks)
+  vite-env.d.ts     # Vite client types (for the data.json?url import)
+test/               # vitest unit + data-integrity tests
 public/assets/      # character portraits (were base64 data: URIs)
 ```
 
@@ -38,6 +40,7 @@ npm run build      # typecheck + production build to dist/
 npm run preview    # serve the built dist/
 npm run typecheck  # tsc --noEmit
 npm run lint       # eslint
+npm run test       # vitest (unit + data-integrity tests)
 ```
 
 ## Migration notes
@@ -52,8 +55,14 @@ Originally one 6 MB HTML file; migrated to Vite + TypeScript and then tightened:
   `main.ts` is a thin entry point.
 - **No inline JavaScript** — all interactions use delegated event listeners
   (`data-char`, `data-idx`, `data-scroll`); nothing hangs off `window`.
+- **Code-split data** — `data.json` is imported with Vite's `?url` and
+  fetched at runtime by `loadDB()`, so it ships as a cacheable static asset
+  instead of being inlined into the JS bundle (JS bundle ~22 kB vs ~970 kB
+  before). Render code reads the live `DB` binding after the initial load.
+- **Automated tests** — Vitest covers the novel/rank logic, the
+  per-character legend filter (regression guard for the empty-label bug),
+  and data-integrity invariants (all 64 seasons present, every character
+  and portrait key valid, row widths).
 
-`npm run typecheck`, `npm run lint` and `npm run build` all pass.
-
-Possible further work: code-split the bundle (the inlined `data.json` makes
-it large) and add automated tests.
+`npm run typecheck`, `npm run lint`, `npm run test` and `npm run build`
+all pass.
