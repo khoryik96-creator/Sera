@@ -128,22 +128,19 @@
       <div id="colorKey" class="character-color-grid"></div>
     </div>
     <div class="callout"><strong>Dialogue speaker audit rule:</strong> colors come from explicit <code>[[speaker:...]]</code> tags in the novel source, never conversational guesswork. If speaker ownership is uncertain, the line stays white.</div>
-    <div id="episodeJumpBar" class="episode-jumpbar">
-      <div class="stepper-row">
-        <button id="seasonPrev" class="step-btn" type="button" aria-label="Previous season">‹</button>
-        <button id="seasonCur" class="season-cur" type="button" aria-expanded="false" aria-controls="seasonPicker">
-          <span class="k">Season <span id="seasonCurNum">1</span></span>
-          <span class="sub">tap to choose a season</span>
-        </button>
-        <button id="seasonNext" class="step-btn" type="button" aria-label="Next season">›</button>
+    <div id="episodeJumpBar" class="episode-navbar">
+      <div class="nav-core">
+        <button id="seasonPrev" class="nav-step" type="button" aria-label="Previous season">‹</button>
+        <button id="seasonCur" class="nav-season" type="button" aria-expanded="false" aria-controls="seasonPicker">S<span id="seasonCurNum">1</span><i aria-hidden="true">▾</i></button>
+        <button id="seasonNext" class="nav-step" type="button" aria-label="Next season">›</button>
+        <button id="episodeToggle" class="nav-ep" type="button" aria-expanded="false" aria-controls="episodePad"><span id="episodeToggleLabel">Episode</span><i aria-hidden="true">▾</i></button>
+        <span class="nav-spacer"></span>
+        <button id="resumeReading" class="nav-icon nav-resume" type="button" hidden aria-label="Resume reading">▸<span class="nav-icon-label"> Resume</span></button>
+        <button id="bookmarksToggle" class="nav-icon" type="button" aria-expanded="false" aria-controls="bookmarksPanel" aria-label="Bookmarks">★</button>
       </div>
-      <div id="seasonPicker" class="season-picker" hidden></div>
-      <div id="episodePad" class="episode-pad" aria-label="Episodes in this season"></div>
-      <div class="jump-row jump-actions">
-        <button id="resumeReading" class="jump-btn resume-btn" hidden>▸ Resume reading</button>
-        <button id="bookmarksToggle" class="jump-btn">★ Bookmarks</button>
-      </div>
-      <div id="bookmarksPanel" class="bookmarks-panel" hidden></div>
+      <div id="seasonPicker" class="nav-pop season-picker" hidden></div>
+      <div id="episodePad" class="nav-pop episode-pad" aria-label="Episodes in this season" hidden></div>
+      <div id="bookmarksPanel" class="nav-pop bookmarks-panel" hidden></div>
     </div>
     <details class="arc-accordion">
       <summary class="arc-head"><div><h2>Arc I — The Quiet Regular</h2><span class="badge">Seasons 1–3</span><p>Tea shop beginnings, Sera and Rhen's early relationship, and the first hints of the hidden legend.</p></div><span class="arc-toggle">▾</span></summary>
@@ -479,8 +476,6 @@
     </div>
   </section>
 </div>
-<footer>Standalone local HTML · full lore browser · no updater or patcher required.</footer>
-<button id="jumpFab" class="jump-fab" hidden aria-label="Open episode navigator" title="Jump to season / episode">≡ Jump</button>
-<script type="module" src="/src/main.ts"></script>
+<footer>Standalone local HTML · full lore browser · no updater or patcher required.</footer><script type="module" src="/src/main.ts"></script>
 </body>
 </html>

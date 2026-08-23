@@ -1,10 +1,11 @@
 /**
- * Episode navigation for the Episodes tab — a "reader stepper":
- *  - prev / next through seasons, with the current season title opening a
- *    season picker grid;
- *  - an episode number pad for the current season (bookmarked episodes show a ★);
- *  - per-episode bookmarks with a "Resume reading" shortcut and a bookmarks list;
- *  - a floating "Jump" button that brings the stepper back into reach.
+ * Compact, pinned episode navigator for the Episodes tab:
+ *  - a single sticky row: prev / next season, a season button, an episode
+ *    button, and bookmarks / resume;
+ *  - season grid, episode number pad, and bookmarks each open as a pop-panel
+ *    under the bar (one at a time; click outside to close);
+ *  - per-episode bookmarks with resume-reading; bookmarked episodes show a ★
+ *    on the number pad.
  *
  * The episode list is re-rendered on search/tab changes, so all interaction is
  * done via event delegation on stable parents; bookmark star state is baked in
@@ -16,7 +17,7 @@ import type { Bookmark } from './bookmarks';
 
 interface SeasonRef {
   season: number;
-  containerId: string; // id of the element holding that season's episode cards
+  containerId: string;
 }
 
 let seasons: SeasonRef[] = [];
@@ -26,7 +27,6 @@ function el<T extends HTMLElement = HTMLElement>(id: string): T | null {
   return document.getElementById(id) as T | null;
 }
 
-/** Discover every season block currently in the DOM. */
 function collectSeasons(): SeasonRef[] {
   const out: SeasonRef[] = [];
   document.querySelectorAll<HTMLElement>('#episodes .season-accordion').forEach((acc) => {
@@ -39,7 +39,6 @@ function collectSeasons(): SeasonRef[] {
   return out.sort((a, b) => a.season - b.season);
 }
 
-/** Open a <details> element and every ancestor <details> so it becomes visible. */
 function revealAncestors(node: HTMLElement | null): void {
   let n: HTMLElement | null = node;
   while (n) {
@@ -52,7 +51,6 @@ function scrollToEl(node: HTMLElement): void {
   node.scrollIntoView({ behavior: 'smooth', block: 'start' });
 }
 
-/** The episode cards for a season, in order. */
 function seasonCards(season: number): HTMLDetailsElement[] {
   const ref = seasons.find((s) => s.season === season);
   const container = ref ? el(ref.containerId) : null;
@@ -71,7 +69,40 @@ function jumpToEpisode(id: string): void {
   if (Number.isFinite(season) && season !== curSeason) setSeason(season);
 }
 
-/* ---------- season stepper ---------- */
+/* ---------- pop-panels (one open at a time) ---------- */
+
+const POPS: Record<string, string> = {
+  seasonPicker: 'seasonCur',
+  episodePad: 'episodeToggle',
+  bookmarksPanel: 'bookmarksToggle',
+};
+
+function closePops(): void {
+  for (const popId of Object.keys(POPS)) {
+    const pop = el(popId);
+    if (pop) pop.hidden = true;
+    el(POPS[popId])?.setAttribute('aria-expanded', 'false');
+  }
+}
+
+function openPop(id: string): void {
+  for (const popId of Object.keys(POPS)) {
+    const open = popId === id;
+    const pop = el(popId);
+    if (pop) pop.hidden = !open;
+    el(POPS[popId])?.setAttribute('aria-expanded', String(open));
+  }
+  if (id === 'episodePad') renderEpisodePad();
+  if (id === 'bookmarksPanel') renderBookmarksPanel();
+}
+
+function togglePop(id: string): void {
+  const pop = el(id);
+  if (pop && !pop.hidden) closePops();
+  else openPop(id);
+}
+
+/* ---------- season stepper + episode pad ---------- */
 
 function buildSeasonPicker(): void {
   const picker = el('seasonPicker');
@@ -89,8 +120,8 @@ function renderEpisodePad(): void {
     const m = card.id.match(/-e(\d+)$/);
     const num = m ? m[1] : '';
     const marked = isBookmarked(card.id) ? ' is-marked' : '';
-    const title = card.dataset.epTitle || `Episode ${num}`;
-    return `<button type="button" class="epnum${marked}" data-target="${card.id}" title="${title.replace(/"/g, '&quot;')}">${num}</button>`;
+    const title = (card.dataset.epTitle || `Episode ${num}`).replace(/"/g, '&quot;');
+    return `<button type="button" class="epnum${marked}" data-target="${card.id}" title="${title}">${num}</button>`;
   }).join('');
 }
 
@@ -101,6 +132,8 @@ function setSeason(n: number): void {
   curSeason = Math.min(Math.max(n, min), max);
   const numEl = el('seasonCurNum');
   if (numEl) numEl.textContent = String(curSeason);
+  const label = el('episodeToggleLabel');
+  if (label) label.textContent = `${seasonCards(curSeason).length} eps`;
   const prev = el<HTMLButtonElement>('seasonPrev');
   const next = el<HTMLButtonElement>('seasonNext');
   if (prev) prev.disabled = curSeason <= min;
@@ -108,16 +141,7 @@ function setSeason(n: number): void {
   el('seasonPicker')?.querySelectorAll<HTMLElement>('.season-chip').forEach((c) => {
     c.classList.toggle('active', Number(c.dataset.season) === curSeason);
   });
-  renderEpisodePad();
-}
-
-function toggleSeasonPicker(force?: boolean): void {
-  const picker = el('seasonPicker');
-  const btn = el('seasonCur');
-  if (!picker) return;
-  const show = force ?? picker.hidden;
-  picker.hidden = !show;
-  btn?.setAttribute('aria-expanded', String(show));
+  if (!el('episodePad')?.hidden) renderEpisodePad();
 }
 
 /* ---------- bookmarks ---------- */
@@ -130,8 +154,8 @@ function handleBookmarkClick(btn: HTMLElement): void {
   btn.classList.toggle('is-marked', nowOn);
   btn.setAttribute('aria-pressed', String(nowOn));
   btn.textContent = nowOn ? '★' : '☆';
-  renderEpisodePad(); // reflect the ★ on the number pad
-  if (!el<HTMLElement>('bookmarksPanel')?.hidden) renderBookmarksPanel();
+  if (!el('episodePad')?.hidden) renderEpisodePad();
+  if (!el('bookmarksPanel')?.hidden) renderBookmarksPanel();
 }
 
 function updateResumeButton(): void {
@@ -140,7 +164,7 @@ function updateResumeButton(): void {
   const last = getLastRead();
   if (last && document.getElementById(last.id)) {
     btn.hidden = false;
-    btn.textContent = `▸ Resume: ${last.title}`;
+    btn.title = `Resume: ${last.title}`;
   } else {
     btn.hidden = true;
   }
@@ -151,7 +175,7 @@ function renderBookmarksPanel(): void {
   if (!panel) return;
   const list = getBookmarks();
   if (list.length === 0) {
-    panel.innerHTML = '<p class="muted" style="margin:0">No bookmarks yet. Tap the ☆ on any episode to save it here.</p>';
+    panel.innerHTML = '<p class="muted" style="margin:0;padding:4px 2px">No bookmarks yet. Tap the ☆ on any episode to save it here.</p>';
     return;
   }
   panel.innerHTML = list
@@ -161,19 +185,6 @@ function renderBookmarksPanel(): void {
     .join('');
 }
 
-function toggleBookmarksPanel(): void {
-  const panel = el('bookmarksPanel');
-  if (!panel) return;
-  panel.hidden = !panel.hidden;
-  if (!panel.hidden) renderBookmarksPanel();
-}
-
-function updateFabVisibility(): void {
-  const fab = el('jumpFab');
-  if (!fab) return;
-  fab.hidden = !!el('episodes')?.classList.contains('hidden');
-}
-
 export function initEpisodeNav(): void {
   seasons = collectSeasons();
   buildSeasonPicker();
@@ -181,22 +192,22 @@ export function initEpisodeNav(): void {
 
   el('seasonPrev')?.addEventListener('click', () => setSeason(curSeason - 1));
   el('seasonNext')?.addEventListener('click', () => setSeason(curSeason + 1));
-  el('seasonCur')?.addEventListener('click', () => toggleSeasonPicker());
+  el('seasonCur')?.addEventListener('click', () => togglePop('seasonPicker'));
+  el('episodeToggle')?.addEventListener('click', () => togglePop('episodePad'));
+  el('bookmarksToggle')?.addEventListener('click', () => togglePop('bookmarksPanel'));
 
   el('seasonPicker')?.addEventListener('click', (e) => {
     const chip = (e.target as HTMLElement).closest<HTMLElement>('.season-chip');
     if (!chip?.dataset.season) return;
     setSeason(Number(chip.dataset.season));
-    toggleSeasonPicker(false);
-    // scroll to the chosen season's accordion
-    const ref = seasons.find((s) => s.season === curSeason);
-    const acc = ref ? el(ref.containerId)?.closest('details') : null;
-    if (acc instanceof HTMLDetailsElement) { revealAncestors(acc); scrollToEl(acc); }
+    openPop('episodePad'); // move straight to choosing an episode
   });
 
   el('episodePad')?.addEventListener('click', (e) => {
     const btn = (e.target as HTMLElement).closest<HTMLElement>('.epnum');
-    if (btn?.dataset.target) jumpToEpisode(btn.dataset.target);
+    if (!btn?.dataset.target) return;
+    jumpToEpisode(btn.dataset.target);
+    closePops();
   });
 
   el('resumeReading')?.addEventListener('click', () => {
@@ -204,7 +215,17 @@ export function initEpisodeNav(): void {
     if (last) jumpToEpisode(last.id);
   });
 
-  el('bookmarksToggle')?.addEventListener('click', toggleBookmarksPanel);
+  el('bookmarksPanel')?.addEventListener('click', (e) => {
+    const item = (e.target as HTMLElement).closest<HTMLElement>('[data-jump]');
+    if (!item?.dataset.jump) return;
+    jumpToEpisode(item.dataset.jump);
+    closePops();
+  });
+
+  // Click outside the navbar closes any open pop-panel.
+  document.addEventListener('click', (e) => {
+    if (!(e.target as HTMLElement).closest('#episodeJumpBar')) closePops();
+  });
 
   // Delegated handling inside the (re-rendered) episodes panel.
   el('episodes')?.addEventListener('click', (e) => {
@@ -216,7 +237,6 @@ export function initEpisodeNav(): void {
       handleBookmarkClick(bm);
       return;
     }
-    // Remember the last episode the reader opened (for Resume).
     const summary = t.closest('.legend-card > summary');
     if (summary) {
       const det = summary.parentElement as HTMLDetailsElement;
@@ -229,22 +249,5 @@ export function initEpisodeNav(): void {
     }
   });
 
-  // Bookmarks panel: jump when an entry is tapped.
-  el('bookmarksPanel')?.addEventListener('click', (e) => {
-    const item = (e.target as HTMLElement).closest<HTMLElement>('[data-jump]');
-    if (item?.dataset.jump) jumpToEpisode(item.dataset.jump);
-  });
-
-  // Floating button brings the stepper back within reach.
-  el('jumpFab')?.addEventListener('click', () => {
-    el('episodeJumpBar')?.scrollIntoView({ behavior: 'smooth', block: 'start' });
-  });
-
-  // Show the floating button only while the Episodes tab is open.
-  document.querySelectorAll<HTMLElement>('.tab').forEach((btn) => btn.addEventListener('click', () => {
-    setTimeout(updateFabVisibility, 0);
-  }));
-
   updateResumeButton();
-  updateFabVisibility();
 }

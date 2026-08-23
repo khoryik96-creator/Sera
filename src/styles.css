@@ -768,36 +768,46 @@ input.search:focus{outline:none;border-color:#745a80!important;box-shadow:0 0 0 
 }
 /* --- Episode navigation: jump bar, bookmarks, floating button (mobile-first) --- */
 #episodes details{scroll-margin-top:84px}
-.episode-jumpbar{scroll-margin-top:84px;background:rgba(20,24,32,.96);border:1px solid var(--line);border-radius:16px;padding:12px;margin:14px 0 22px}
-.jump-row{display:flex;gap:10px;flex-wrap:wrap}
-.jump-row+.jump-row{margin-top:10px}
-/* Reader stepper (navigator C) */
-.stepper-row{display:flex;align-items:stretch;gap:8px}
-.step-btn{flex:0 0 auto;width:48px;border:1px solid var(--line2);background:var(--panel2);color:var(--text);border-radius:12px;font-size:20px;line-height:1;cursor:pointer;transition:.14s}
-.step-btn:hover{border-color:var(--accent2);color:var(--accent2)}
-.step-btn:disabled{opacity:.35;cursor:default}
-.season-cur{flex:1;text-align:center;border:1px solid var(--line);background:var(--panel);color:var(--text);border-radius:12px;padding:8px 12px;cursor:pointer;transition:.14s}
-.season-cur:hover{border-color:var(--accent2)}
-.season-cur .k{display:block;font-family:Georgia,"Times New Roman",serif;font-size:17px;font-weight:600;font-variant-numeric:tabular-nums}
-.season-cur .sub{display:block;font-size:10px;letter-spacing:.12em;text-transform:uppercase;color:var(--muted);margin-top:2px}
-.season-picker{margin-top:10px;display:grid;grid-template-columns:repeat(auto-fill,minmax(46px,1fr));gap:6px;max-height:176px;overflow:auto;border:1px solid var(--line);border-radius:12px;padding:8px;background:var(--panel);scrollbar-width:thin}
-.season-picker[hidden]{display:none}
-.season-chip{border:1px solid var(--line);background:var(--panel2);color:var(--muted);border-radius:9px;padding:9px 4px;font-size:13px;font-weight:700;font-variant-numeric:tabular-nums;text-align:center;cursor:pointer;transition:.13s}
+/* Compact pinned episode navigator — a single sticky row under the top menu,
+   with season / episode / bookmarks as pop-open panels (no floating button). */
+.episode-navbar{
+  position:sticky;top:104px;z-index:35;scroll-margin-top:112px;
+  background:rgba(16,20,28,.97);backdrop-filter:blur(12px);
+  border:1px solid var(--line2);border-radius:12px;margin:12px 0 20px;
+}
+@media(max-width:980px){.episode-navbar{top:46px;scroll-margin-top:54px}}
+.nav-core{display:flex;align-items:center;gap:6px;padding:7px 9px}
+.nav-step{flex:0 0 auto;width:34px;height:34px;border:1px solid var(--line2);background:var(--panel2);color:var(--text);border-radius:9px;font-size:17px;line-height:1;cursor:pointer;transition:.13s}
+.nav-step:hover{border-color:var(--accent2);color:var(--accent2)}
+.nav-step:disabled{opacity:.35;cursor:default}
+.nav-season,.nav-ep{flex:0 0 auto;display:inline-flex;align-items:center;gap:5px;border:1px solid var(--line2);background:var(--panel);color:var(--text);border-radius:9px;padding:7px 11px;font-size:13.5px;font-weight:700;font-variant-numeric:tabular-nums;cursor:pointer;transition:.13s}
+.nav-ep{font-weight:600;color:var(--muted)}
+.nav-season i,.nav-ep i{font-size:9px;opacity:.7;transition:transform .16s}
+.nav-season[aria-expanded="true"] i,.nav-ep[aria-expanded="true"] i{transform:rotate(180deg)}
+.nav-season:hover,.nav-ep:hover{border-color:var(--accent2)}
+.nav-spacer{flex:1 1 auto}
+.nav-icon{flex:0 0 auto;min-width:34px;height:34px;display:inline-flex;align-items:center;justify-content:center;border:1px solid var(--line2);background:var(--panel2);color:var(--muted);border-radius:9px;font-size:15px;padding:0 9px;cursor:pointer;transition:.13s}
+.nav-icon:hover{color:var(--gold);border-color:var(--gold)}
+.nav-icon[aria-expanded="true"]{color:var(--gold);border-color:var(--gold)}
+.nav-resume{color:#07101d;background:var(--accent2);border-color:transparent;font-weight:800}
+.nav-resume:hover{color:#07101d;border-color:transparent;filter:brightness(1.06)}
+.nav-icon-label{font-size:12.5px;font-weight:700;white-space:nowrap}
+@media(max-width:520px){.nav-icon-label{display:none}}
+/* Pop-open panels anchored under the bar */
+.nav-pop{position:absolute;left:8px;right:8px;top:calc(100% + 6px);z-index:5;background:var(--panel2);border:1px solid var(--line2);border-radius:12px;padding:9px;box-shadow:0 18px 44px rgba(0,0,0,.5)}
+.nav-pop[hidden]{display:none}
+.season-picker{display:grid;grid-template-columns:repeat(auto-fill,minmax(46px,1fr));gap:6px;max-height:min(58vh,320px);overflow:auto;scrollbar-width:thin}
+.season-chip{border:1px solid var(--line);background:var(--panel3,#232a37);color:var(--muted);border-radius:9px;padding:9px 4px;font-size:13px;font-weight:700;font-variant-numeric:tabular-nums;text-align:center;cursor:pointer;transition:.13s}
 .season-chip:hover{color:var(--text);border-color:var(--line2)}
 .season-chip.active{color:#07101d;background:var(--accent2);border-color:transparent}
-.episode-pad{margin-top:12px;display:grid;grid-template-columns:repeat(auto-fill,minmax(46px,1fr));gap:7px}
-.epnum{position:relative;border:1px solid var(--line);background:var(--panel2);color:var(--text);border-radius:10px;padding:11px 2px 12px;font-size:14px;font-weight:700;font-variant-numeric:tabular-nums;text-align:center;cursor:pointer;transition:.13s}
+.episode-pad{display:grid;grid-template-columns:repeat(auto-fill,minmax(46px,1fr));gap:7px;max-height:min(58vh,320px);overflow:auto;scrollbar-width:thin}
+.epnum{position:relative;border:1px solid var(--line);background:var(--panel3,#232a37);color:var(--text);border-radius:10px;padding:11px 2px 12px;font-size:14px;font-weight:700;font-variant-numeric:tabular-nums;text-align:center;cursor:pointer;transition:.13s}
 .epnum:hover{border-color:var(--gold);color:var(--gold)}
 .epnum.is-marked{border-color:rgba(216,173,61,.5)}
 .epnum.is-marked::after{content:"★";position:absolute;top:2px;right:4px;font-size:8px;color:var(--gold);line-height:1}
-.step-btn:focus-visible,.season-cur:focus-visible,.season-chip:focus-visible,.epnum:focus-visible{outline:2px solid var(--accent2);outline-offset:2px}
-.jump-actions{align-items:center}
-.jump-btn{flex:1 1 auto;border:1px solid var(--line);background:var(--panel);color:var(--text);border-radius:999px;padding:12px 16px;font-size:15px;font-weight:700;cursor:pointer}
-.resume-btn{background:var(--accent2);color:#07101d;border-color:transparent}
-.bookmarks-panel{margin-top:12px;display:flex;flex-direction:column;gap:8px;max-height:44vh;overflow:auto}
-.bookmark-item{text-align:left;border:1px solid var(--line);background:var(--panel2);color:var(--text);border-radius:12px;padding:12px;font-size:15px;cursor:pointer}
+.bookmarks-panel{display:flex;flex-direction:column;gap:7px;max-height:min(58vh,340px);overflow:auto;scrollbar-width:thin}
+.bookmark-item{text-align:left;border:1px solid var(--line);background:var(--panel3,#232a37);color:var(--text);border-radius:10px;padding:10px 12px;font-size:14px;cursor:pointer}
 .bookmark-item:hover{border-color:var(--accent2)}
+.nav-step:focus-visible,.nav-season:focus-visible,.nav-ep:focus-visible,.nav-icon:focus-visible,.season-chip:focus-visible,.epnum:focus-visible,.bookmark-item:focus-visible{outline:2px solid var(--accent2);outline-offset:2px}
 .ep-bookmark{float:right;border:none;background:transparent;color:var(--muted);font-size:22px;line-height:1;padding:0 2px 0 8px;cursor:pointer}
 .ep-bookmark.is-marked{color:var(--gold);text-shadow:0 0 10px rgba(216,173,61,.4)}
-.jump-fab{position:fixed;right:16px;bottom:16px;z-index:60;border:none;background:var(--accent2);color:#07101d;font-weight:800;border-radius:999px;padding:14px 18px;font-size:15px;box-shadow:0 10px 24px rgba(0,0,0,.35);cursor:pointer}
-@media(min-width:720px){.jump-fab{display:none!important}}
