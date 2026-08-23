@@ -1,5 +1,9 @@
 # The Quiet Regular — Lore Repository
 
+## 📖 Read it online
+
+**➡️ [https://khoryik96-creator.github.io/Sera/](https://khoryik96-creator.github.io/Sera/)**
+
 Interactive single-page browser for the *Quiet Regular* lore (characters,
 skills, rankings, legends, 64 seasons of episodes). Originally a single 6 MB
 HTML file with everything inlined; now split into a small Vite + TypeScript
