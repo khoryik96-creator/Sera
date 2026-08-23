@@ -1480,7 +1480,7 @@ function renderCharacter(key){
 function renderCharacterLegends(key){
   const labelMap={rhen:"Rhen",kael:"Kael",liang:"Liang",jin:"Jin",lei:"Lei",rui:"Rui",qin:"Qin",sera:"Sera",ilyra:"Ilyra",han:"Han",arin:"Arin",wen:"Luo"};
   const n=labelMap[key]||"";
-  const items=DB.legends.filter(l=>l.rank.toLowerCase().includes(n.toLowerCase()));
+  const items=n?DB.legends.filter(l=>l.rank.toLowerCase().includes(n.toLowerCase())):[];
   document.getElementById("characterLegendList").innerHTML=items.length?items.map(legendCard).join(""):`<div class="card muted">No dedicated legend entry yet.</div>`;
 }
 function renderArcFigures(q=""){
