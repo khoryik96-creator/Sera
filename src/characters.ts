@@ -1,6 +1,6 @@
 import { DB, colorKeyMap } from './db';
 import { characterImageMap, characterExtraImages } from './images';
-import { getEl } from './dom';
+import { getEl, escRe } from './dom';
 import { renderSeraSkills } from './skills';
 import { legendCard } from './legends';
 import type { Character, Legend } from './types';
@@ -117,22 +117,35 @@ export function renderCharacter(key: string): void {
     getEl('topSkillTable').innerHTML = `<thead><tr><th>#</th><th>Technique</th><th>Category</th><th>Signature</th><th>Rating</th><th>Description</th></tr></thead><tbody>${rows.map((s, i) => `<tr><td><span class="badge">${i === rows.length - 1 ? 'Ω' : String(i + 1).padStart(2, '0')}</span></td><td><strong>${s[0]}</strong></td><td>${s[1]}</td><td style="color:var(--gold)">${s[2]}</td><td class="rating">${s[3]}</td><td>${s[4]}</td></tr>`).join('')}</tbody>`;
   } else {
     wrap.classList.add('hidden');
+    getEl('topSkillTitle').textContent = '';
+    getEl('topSkillTable').innerHTML = '';
   }
   const seraWrap = getEl('seraSkillsWrap');
-  if (key === 'sera') { seraWrap.classList.remove('hidden'); renderSeraSkills(); } else { seraWrap.classList.add('hidden'); }
+  if (key === 'sera') {
+    seraWrap.classList.remove('hidden');
+    renderSeraSkills();
+  } else {
+    seraWrap.classList.add('hidden');
+    getEl('seraSkillTable').innerHTML = '';
+    getEl('seraSkillList').innerHTML = '';
+  }
   renderCharacterLegends(key);
 }
 
-const legendLabelMap: Record<string, string> = { rhen: 'Rhen', kael: 'Kael', liang: 'Liang', jin: 'Jin', lei: 'Lei', rui: 'Rui', qin: 'Qin', sera: 'Sera', ilyra: 'Ilyra', han: 'Han', arin: 'Arin', wen: 'Luo' };
+const legendLabelMap: Record<string, string> = { rhen: 'Rhen', kael: 'Kael', liang: 'Liang', jin: 'Jin', lei: 'Lei', rui: 'Rui', qin: 'Qin', sera: 'Sera', ilyra: 'Ilyra', mo: 'Mo', yun: 'Yun', han: 'Han', arin: 'Arin', wen: 'Luo' };
 
 /**
- * Legends belonging to a character. Characters with no label (e.g. Mo, Yun)
- * return an empty list — never every legend (guards the empty-string
- * `includes('')` bug that matched all entries).
+ * Legends belonging to a character, matched by the character's label appearing
+ * as a whole word in the legend's `rank` field. Whole-word matching avoids
+ * substring false positives ("Mo" vs "Amon", "Sera" vs "Ilyra Serath"). A
+ * character with no label (or no matching legend) returns an empty list — never
+ * every legend.
  */
 export function legendsForCharacter(key: string): Legend[] {
-  const n = legendLabelMap[key] || '';
-  return n ? DB.legends.filter((l) => l.rank.toLowerCase().includes(n.toLowerCase())) : [];
+  const n = legendLabelMap[key];
+  if (!n) return [];
+  const re = new RegExp('\\b' + escRe(n) + '\\b', 'i');
+  return DB.legends.filter((l) => re.test(l.rank));
 }
 
 function renderCharacterLegends(key: string): void {
