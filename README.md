@@ -60,6 +60,12 @@ npm run build:single  # single file -> dist-single/index.html
 Both are produced from the same source; the data/image strategy is switched
 at build time by the `__SINGLEFILE__` flag (fetched assets vs. inlined).
 
+### Windows one-click
+
+Double-click **`Run-App.bat`**. On the first run it installs dependencies
+(needs Node.js and internet once), builds the single file, and opens it in
+your browser. Later runs just rebuild and open.
+
 ## Migration notes
 
 Originally one 6 MB HTML file; migrated to Vite + TypeScript and then tightened:
