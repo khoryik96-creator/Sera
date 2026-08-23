@@ -8,9 +8,21 @@ project.
 ## Layout
 
 ```
-index.html          # markup shell (loads src/main.ts as a module)
+index.html          # markup shell (loads src/main.ts as a module, no inline JS)
 src/
-  main.ts           # all render/interaction logic
+  main.ts           # entry: wires tab/search/quicklink events + initial render
+  db.ts             # DB import + cast, image maps, colour-key map
+  dom.ts            # getEl() helper + regex escaping
+  novel.ts          # dialogue / skill / ranked-name annotation
+  characters.ts     # character tab: profile, nav, legends, Sera gallery
+  skills.ts         # Rhen + Sera skill tables and cards
+  legends.ts        # legends tab
+  ranks.ts          # rankings tab
+  former.ts         # former rank-holders tab
+  seraTimeline.ts   # Sera chronology tab
+  episodes.ts       # 64-season episode archive + season cast
+  arcFigures.ts     # "Others" / villains tab
+  colorKey.ts       # character colour legend
   types.ts          # interfaces for the data model
   data.json         # the lore database (was `const DB = {...}` inline)
   styles.css        # all styles (was 5 inline <style> blocks)
@@ -30,16 +42,18 @@ npm run lint       # eslint
 
 ## Migration notes
 
-This is the first migration pass. To keep the diff safe, the extracted logic
-was moved verbatim and TypeScript runs in a lenient mode
-(`strict: false`, `noImplicitAny: false`). The data model in `src/types.ts`
-is fully typed and applied to the `DB` object.
+Originally one 6 MB HTML file; migrated to Vite + TypeScript and then tightened:
 
-Recommended follow-ups:
+- **Strict TypeScript** — `strict`, `noImplicitAny`, `noUnusedLocals`,
+  `noUnusedParameters` are all on. Function parameters, callbacks and DOM
+  lookups are typed; `getEl<T>()` in `src/dom.ts` throws on missing elements
+  rather than using scattered non-null assertions.
+- **Per-tab modules** — logic is split across focused modules (see Layout);
+  `main.ts` is a thin entry point.
+- **No inline JavaScript** — all interactions use delegated event listeners
+  (`data-char`, `data-idx`, `data-scroll`); nothing hangs off `window`.
 
-- Turn on `strict` / `noImplicitAny` and annotate function parameters and
-  DOM lookups (add a `getEl(id)` helper that throws on missing elements).
-- Replace the two remaining inline `onclick="renderCharacter(...)"` /
-  `onclick="showSeraPortrait(...)"` handlers (generated in `main.ts`) with
-  delegated event listeners so nothing needs to hang off `window`.
-- Split `main.ts` into per-tab render modules.
+`npm run typecheck`, `npm run lint` and `npm run build` all pass.
+
+Possible further work: code-split the bundle (the inlined `data.json` makes
+it large) and add automated tests.
