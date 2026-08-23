@@ -1,32 +1,32 @@
 /**
- * Mobile-friendly episode navigation for the Episodes tab:
- *  - a sticky jump bar with Season + Episode dropdowns that open and scroll to
- *    the chosen place (opening the enclosing arc/season accordions on the way);
+ * Episode navigation for the Episodes tab — a "reader stepper":
+ *  - prev / next through seasons, with the current season title opening a
+ *    season picker grid;
+ *  - an episode number pad for the current season (bookmarked episodes show a ★);
  *  - per-episode bookmarks with a "Resume reading" shortcut and a bookmarks list;
- *  - a floating "Jump" button that brings the jump bar back into reach while
- *    reading.
+ *  - a floating "Jump" button that brings the stepper back into reach.
  *
  * The episode list is re-rendered on search/tab changes, so all interaction is
  * done via event delegation on stable parents; bookmark star state is baked in
  * at render time (see episodes.ts).
  */
 
-import { getBookmarks, toggleBookmark, setLastRead, getLastRead } from './bookmarks';
+import { getBookmarks, toggleBookmark, setLastRead, getLastRead, isBookmarked } from './bookmarks';
 import type { Bookmark } from './bookmarks';
 
 interface SeasonRef {
   season: number;
-  title: string;
   containerId: string; // id of the element holding that season's episode cards
 }
 
 let seasons: SeasonRef[] = [];
+let curSeason = 1;
 
 function el<T extends HTMLElement = HTMLElement>(id: string): T | null {
   return document.getElementById(id) as T | null;
 }
 
-/** Discover every season block currently in the DOM (id + human title). */
+/** Discover every season block currently in the DOM. */
 function collectSeasons(): SeasonRef[] {
   const out: SeasonRef[] = [];
   document.querySelectorAll<HTMLElement>('#episodes .season-accordion').forEach((acc) => {
@@ -34,8 +34,7 @@ function collectSeasons(): SeasonRef[] {
     if (!container) return;
     const season = container.id === 'episodeList' ? 1 : Number(container.id.replace('episodeListSeason', ''));
     if (!Number.isFinite(season)) return;
-    const title = acc.querySelector('h2')?.textContent?.trim() || `Season ${season}`;
-    out.push({ season, title, containerId: container.id });
+    out.push({ season, containerId: container.id });
   });
   return out.sort((a, b) => a.season - b.season);
 }
@@ -50,19 +49,14 @@ function revealAncestors(node: HTMLElement | null): void {
 }
 
 function scrollToEl(node: HTMLElement): void {
-  // scroll-margin-top (set in CSS) keeps the target clear of the sticky toolbar.
   node.scrollIntoView({ behavior: 'smooth', block: 'start' });
 }
 
-function jumpToSeason(season: number): void {
+/** The episode cards for a season, in order. */
+function seasonCards(season: number): HTMLDetailsElement[] {
   const ref = seasons.find((s) => s.season === season);
-  if (!ref) return;
-  const container = el(ref.containerId);
-  const acc = container?.closest('details');
-  if (acc instanceof HTMLDetailsElement) {
-    revealAncestors(acc);
-    scrollToEl(acc);
-  }
+  const container = ref ? el(ref.containerId) : null;
+  return container ? [...container.querySelectorAll<HTMLDetailsElement>('.legend-card')] : [];
 }
 
 function jumpToEpisode(id: string): void {
@@ -71,34 +65,62 @@ function jumpToEpisode(id: string): void {
   revealAncestors(target);
   scrollToEl(target);
   const det = target as HTMLDetailsElement;
-  setLastRead({ id, season: Number(det.dataset.season), title: det.dataset.epTitle || '' });
+  const season = Number(det.dataset.season);
+  setLastRead({ id, season, title: det.dataset.epTitle || '' });
   updateResumeButton();
+  if (Number.isFinite(season) && season !== curSeason) setSeason(season);
 }
 
-function populateSeasonSelect(): void {
-  const sel = el<HTMLSelectElement>('seasonJump');
-  if (!sel) return;
-  sel.innerHTML = '<option value="">Choose a season…</option>' +
-    seasons.map((s) => `<option value="${s.season}">${s.title}</option>`).join('');
+/* ---------- season stepper ---------- */
+
+function buildSeasonPicker(): void {
+  const picker = el('seasonPicker');
+  if (!picker) return;
+  picker.innerHTML = seasons
+    .map((s) => `<button type="button" class="season-chip" data-season="${s.season}">${s.season}</button>`)
+    .join('');
 }
 
-function populateEpisodeSelect(season: number): void {
-  const sel = el<HTMLSelectElement>('episodeJump');
-  if (!sel) return;
-  const ref = seasons.find((s) => s.season === season);
-  const container = ref ? el(ref.containerId) : null;
-  if (!container) {
-    sel.innerHTML = '<option value="">—</option>';
-    return;
-  }
-  const cards = container.querySelectorAll<HTMLDetailsElement>('.legend-card');
-  const opts = ['<option value="">Choose an episode…</option>'];
-  cards.forEach((card) => {
-    const title = card.dataset.epTitle || card.querySelector('h3')?.textContent?.trim() || card.id;
-    opts.push(`<option value="${card.id}">${title}</option>`);
+function renderEpisodePad(): void {
+  const pad = el('episodePad');
+  if (!pad) return;
+  const cards = seasonCards(curSeason);
+  pad.innerHTML = cards.map((card) => {
+    const m = card.id.match(/-e(\d+)$/);
+    const num = m ? m[1] : '';
+    const marked = isBookmarked(card.id) ? ' is-marked' : '';
+    const title = card.dataset.epTitle || `Episode ${num}`;
+    return `<button type="button" class="epnum${marked}" data-target="${card.id}" title="${title.replace(/"/g, '&quot;')}">${num}</button>`;
+  }).join('');
+}
+
+function setSeason(n: number): void {
+  if (!seasons.length) return;
+  const min = seasons[0].season;
+  const max = seasons[seasons.length - 1].season;
+  curSeason = Math.min(Math.max(n, min), max);
+  const numEl = el('seasonCurNum');
+  if (numEl) numEl.textContent = String(curSeason);
+  const prev = el<HTMLButtonElement>('seasonPrev');
+  const next = el<HTMLButtonElement>('seasonNext');
+  if (prev) prev.disabled = curSeason <= min;
+  if (next) next.disabled = curSeason >= max;
+  el('seasonPicker')?.querySelectorAll<HTMLElement>('.season-chip').forEach((c) => {
+    c.classList.toggle('active', Number(c.dataset.season) === curSeason);
   });
-  sel.innerHTML = opts.join('');
+  renderEpisodePad();
 }
+
+function toggleSeasonPicker(force?: boolean): void {
+  const picker = el('seasonPicker');
+  const btn = el('seasonCur');
+  if (!picker) return;
+  const show = force ?? picker.hidden;
+  picker.hidden = !show;
+  btn?.setAttribute('aria-expanded', String(show));
+}
+
+/* ---------- bookmarks ---------- */
 
 function handleBookmarkClick(btn: HTMLElement): void {
   const id = btn.dataset.epId;
@@ -108,6 +130,7 @@ function handleBookmarkClick(btn: HTMLElement): void {
   btn.classList.toggle('is-marked', nowOn);
   btn.setAttribute('aria-pressed', String(nowOn));
   btn.textContent = nowOn ? '★' : '☆';
+  renderEpisodePad(); // reflect the ★ on the number pad
   if (!el<HTMLElement>('bookmarksPanel')?.hidden) renderBookmarksPanel();
 }
 
@@ -148,25 +171,32 @@ function toggleBookmarksPanel(): void {
 function updateFabVisibility(): void {
   const fab = el('jumpFab');
   if (!fab) return;
-  const episodesVisible = !el('episodes')?.classList.contains('hidden');
-  fab.hidden = !episodesVisible;
+  fab.hidden = !!el('episodes')?.classList.contains('hidden');
 }
 
 export function initEpisodeNav(): void {
   seasons = collectSeasons();
-  populateSeasonSelect();
+  buildSeasonPicker();
+  setSeason(1);
 
-  const seasonSel = el<HTMLSelectElement>('seasonJump');
-  seasonSel?.addEventListener('change', () => {
-    const v = Number(seasonSel.value);
-    if (!v) return;
-    populateEpisodeSelect(v);
-    jumpToSeason(v);
+  el('seasonPrev')?.addEventListener('click', () => setSeason(curSeason - 1));
+  el('seasonNext')?.addEventListener('click', () => setSeason(curSeason + 1));
+  el('seasonCur')?.addEventListener('click', () => toggleSeasonPicker());
+
+  el('seasonPicker')?.addEventListener('click', (e) => {
+    const chip = (e.target as HTMLElement).closest<HTMLElement>('.season-chip');
+    if (!chip?.dataset.season) return;
+    setSeason(Number(chip.dataset.season));
+    toggleSeasonPicker(false);
+    // scroll to the chosen season's accordion
+    const ref = seasons.find((s) => s.season === curSeason);
+    const acc = ref ? el(ref.containerId)?.closest('details') : null;
+    if (acc instanceof HTMLDetailsElement) { revealAncestors(acc); scrollToEl(acc); }
   });
 
-  const epSel = el<HTMLSelectElement>('episodeJump');
-  epSel?.addEventListener('change', () => {
-    if (epSel.value) jumpToEpisode(epSel.value);
+  el('episodePad')?.addEventListener('click', (e) => {
+    const btn = (e.target as HTMLElement).closest<HTMLElement>('.epnum');
+    if (btn?.dataset.target) jumpToEpisode(btn.dataset.target);
   });
 
   el('resumeReading')?.addEventListener('click', () => {
@@ -177,8 +207,7 @@ export function initEpisodeNav(): void {
   el('bookmarksToggle')?.addEventListener('click', toggleBookmarksPanel);
 
   // Delegated handling inside the (re-rendered) episodes panel.
-  const episodes = el('episodes');
-  episodes?.addEventListener('click', (e) => {
+  el('episodes')?.addEventListener('click', (e) => {
     const t = e.target as HTMLElement;
     const bm = t.closest<HTMLElement>('.ep-bookmark');
     if (bm) {
@@ -206,14 +235,13 @@ export function initEpisodeNav(): void {
     if (item?.dataset.jump) jumpToEpisode(item.dataset.jump);
   });
 
-  // Floating button brings the jump bar back within reach.
+  // Floating button brings the stepper back within reach.
   el('jumpFab')?.addEventListener('click', () => {
     el('episodeJumpBar')?.scrollIntoView({ behavior: 'smooth', block: 'start' });
   });
 
   // Show the floating button only while the Episodes tab is open.
   document.querySelectorAll<HTMLElement>('.tab').forEach((btn) => btn.addEventListener('click', () => {
-    // Defer so the panel's hidden class is updated first.
     setTimeout(updateFabVisibility, 0);
   }));
 
