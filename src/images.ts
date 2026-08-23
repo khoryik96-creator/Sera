@@ -18,13 +18,19 @@ import wen from './assets/wen.jpg';
 import seraExtra1 from './assets/sera-extra-1.jpg';
 import seraExtra2 from './assets/sera-extra-2.jpg';
 import seraExtra3 from './assets/sera-extra-3.jpg';
+import rhenExtra1 from './assets/rhen-extra-1.jpg';
+import rhenExtra2 from './assets/rhen-extra-2.jpg';
+import rhenExtra3 from './assets/rhen-extra-3.jpg';
+import rhenExtra4 from './assets/rhen-extra-4.jpg';
 
 /** Main portrait per character key. */
 export const characterImageMap: Record<string, string> = {
   sera, rhen, arin, liang, kael, jin, lei, rui, qin, han, ilyra, mo, yun, wen,
 };
 
-/** Additional gallery portraits per character key. */
+/** Additional gallery portraits per character key. Any character with entries
+ *  here gets a scrollable portrait gallery (main image first, then these). */
 export const characterExtraImages: Record<string, string[]> = {
   sera: [seraExtra1, seraExtra2, seraExtra3],
+  rhen: [rhenExtra1, rhenExtra2, rhenExtra3, rhenExtra4],
 };
