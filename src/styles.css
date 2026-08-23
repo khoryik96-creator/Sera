@@ -1,16 +1,24 @@
-:root{--char-orun:#F6C453;--char-iscaryn:#A7F3D0;--char-rhavenn:#C4B5FD;--char-tor:#FDBA74;--char-caedros:#E5E7EB;--char-varesh:#FCA5A5;--char-amon:#FB7185;--char-aethon:#F8FAFC;--char-sorin:#FBBF24;--char-valeria:#E879F9;--char-draven:#F87171;--char-ilyra:#67E8F9;--char-aurel:#FDE68A;--char-vaelor:#FB7185;
+:root{
   --bg:#0f1115; --panel:#171a21; --panel2:#1f2430; --text:#eef2f7;
   --muted:#9aa4b2; --line:#2b3240; --accent:#d9e7ff; --accent2:#91b8ff;
   --good:#a8e6cf; --danger:#ffb3b3; --gold:#d8ad3d;
-  --char-rhen:#7DD3FC; --char-sera:#FDA4AF; --char-kael:#FCD34D; --char-liang:#F0ABFC;
-  --char-jin:#C4B5FD; --char-lei:#93C5FD; --char-rui:#5EEAD4; --char-qin:#D8B4FE;
-  --char-han:#FDBA74; --char-arin:#86EFAC; --char-luo:#FDE68A;
-  --char-wei:#F87171; --char-ji:#C084FC; --char-cao:#2DD4BF; --char-ye:#F472B6;
-  --char-zhao:#FCA5A5; --char-lin:#67E8F9; --char-yan:#FB7185; --char-meizhen:#F9A8D4;
-  --char-nam:#CBD5E1; --char-chun:#A3A3A3; --char-haejin:#FB7185; --char-gwon:#94A3B8;
-  --char-daemun:#F0ABFC; --char-baek:#FDE68A; --char-gong:#E5E7EB; --char-jiang:#F59E0B; --char-duan:#FCA5A5; --char-mi:#FB7185; --char-qiu:#D6D3D1; --char-zhao_renkai:#FDBA74;
-  --char-yunke:#A7F3D0; --char-gaoren:#FBBF24; --char-shufen:#C4B5FD; --char-baotien:#FDBA74;
-  --char-meilin:#FDE68A; --char-song:#A5B4FC; --char-shiyue:#E9D5FF; --char-huo:#FB923C;
+  /* Character colours. Assigned so the most frequently-appearing cast are the
+     most distinct; colours only repeat far down the rare/one-off tail (which
+     also live in separate story arcs). The speaker name is always shown in
+     dialogue, so colour is an accent, never the only way to tell who speaks. */
+  --char-rhen:#7DD3FC; --char-sera:#FDA4AF; --char-kael:#FCD34D; --char-liang:#F0ABFC; --char-jin:#A78BFA;
+  --char-lei:#60A5FA; --char-rui:#2DD4BF; --char-qin:#C084FC; --char-han:#FB923C; --char-arin:#34D399;
+  --char-luo:#FBBF24; --char-yun:#F472B6; --char-ilyra:#22D3EE; --char-aethon:#F8FAFC; --char-mo:#A3E635;
+  --char-haejin:#FB7185; --char-tae:#E879F9; --char-jiang:#4ADE80; --char-wei:#38BDF8; --char-huo:#F59E0B;
+  --char-nam:#D8B4FE; --char-amon:#F87171; --char-seo:#5EEAD4; --char-shiyue:#F9A8D4; --char-vaelor:#818CF8;
+  --char-yan:#FDBA74; --char-gong:#93C5FD; --char-mi:#FCA5A5; --char-rhavenn:#E9D5FF; --char-zhao:#CBD5E1;
+  --char-tor:#EAB308; --char-draven:#FDA4AF; --char-duan:#FCD34D; --char-lin:#34D399; --char-varesh:#C084FC;
+  --char-cao:#FB923C; --char-valeria:#22D3EE; --char-ji:#F472B6; --char-meilin:#A3E635; --char-meizhen:#A78BFA;
+  --char-orun:#FB7185; --char-qiu:#2DD4BF; --char-iscaryn:#FBBF24; --char-mu:#60A5FA; --char-qiao:#E879F9;
+  --char-sorin:#4ADE80; --char-yunke:#38BDF8; --char-aurel:#F59E0B; --char-caedros:#D8B4FE; --char-chun:#F87171;
+  --char-daemun:#5EEAD4; --char-song:#F9A8D4; --char-ye:#818CF8; --char-baek:#FDBA74; --char-gaoren:#93C5FD;
+  --char-gu:#FCA5A5; --char-ren:#E9D5FF; --char-shufen:#CBD5E1; --char-zhao_renkai:#F0ABFC; --char-gwon:#EAB308;
+  --char-miri:#7DD3FC; --char-baotien:#FDA4AF; --char-neutral:#9CA3AF;
 }
 *{box-sizing:border-box}
 html{scroll-behavior:smooth}
@@ -64,6 +72,10 @@ table th{color:var(--accent);font-size:13px;letter-spacing:.02em}
 .episode-season-head{display:flex;align-items:center;justify-content:space-between;gap:12px;flex-wrap:wrap;border-bottom:1px solid var(--line);padding-bottom:8px}
 .episode-season-head h2{margin:0}
 .novel-dialogue{font-weight:570}
+/* Speaker name shown before each line of dialogue (in the speaker's colour).
+   Makes it unmistakable who is talking even when two characters share a hue. */
+.novel-speaker{font-weight:800;letter-spacing:.2px}
+.novel-speaker::after{content:"\00a0\00a0"}
 .novel-character-name{font-weight:750}
 .character-color{filter:brightness(1.04)}
 .character-color-key{margin:16px 0}
@@ -95,6 +107,9 @@ table th{color:var(--accent);font-size:13px;letter-spacing:.02em}
 .character-daemun{color:var(--char-daemun)!important}.character-baek{color:var(--char-baek)!important}
 .character-gong{color:var(--char-gong)!important}
 .character-jiang{color:var(--char-jiang)!important}.character-duan{color:var(--char-duan)!important}.character-mi{color:var(--char-mi)!important}.character-qiu{color:var(--char-qiu)!important}.character-zhao_renkai{color:var(--char-zhao_renkai)!important}
+/* Ancient-king speakers — previously had colour variables but no rule to apply them. */
+.character-amon{color:var(--char-amon)!important}.character-aethon{color:var(--char-aethon)!important}.character-tor{color:var(--char-tor)!important}.character-rhavenn{color:var(--char-rhavenn)!important}
+.character-caedros{color:var(--char-caedros)!important}.character-iscaryn{color:var(--char-iscaryn)!important}.character-orun{color:var(--char-orun)!important}.character-varesh{color:var(--char-varesh)!important}
 .arc-skill-list{margin:10px 0 0;padding-left:18px;color:var(--text)}
 .arc-skill-list li{margin:7px 0;line-height:1.5}
 .arc-skill-type{color:var(--muted);font-size:.9em}
@@ -746,3 +761,20 @@ input.search:focus{outline:none;border-color:#745a80!important;box-shadow:0 0 0 
   font-size:10px !important;
   color:#b7afbc !important;
 }
+/* --- Episode navigation: jump bar, bookmarks, floating button (mobile-first) --- */
+#episodes details{scroll-margin-top:84px}
+.episode-jumpbar{scroll-margin-top:84px;background:rgba(20,24,32,.96);border:1px solid var(--line);border-radius:16px;padding:12px;margin:14px 0 22px}
+.jump-row{display:flex;gap:10px;flex-wrap:wrap}
+.jump-row+.jump-row{margin-top:10px}
+.jump-field{flex:1 1 160px;display:flex;flex-direction:column;gap:4px;font-size:12px;color:var(--muted)}
+.jump-field select{width:100%;border:1px solid var(--line);background:var(--panel);color:var(--text);border-radius:12px;padding:12px;font-size:15px}
+.jump-actions{align-items:center}
+.jump-btn{flex:1 1 auto;border:1px solid var(--line);background:var(--panel);color:var(--text);border-radius:999px;padding:12px 16px;font-size:15px;font-weight:700;cursor:pointer}
+.resume-btn{background:var(--accent2);color:#07101d;border-color:transparent}
+.bookmarks-panel{margin-top:12px;display:flex;flex-direction:column;gap:8px;max-height:44vh;overflow:auto}
+.bookmark-item{text-align:left;border:1px solid var(--line);background:var(--panel2);color:var(--text);border-radius:12px;padding:12px;font-size:15px;cursor:pointer}
+.bookmark-item:hover{border-color:var(--accent2)}
+.ep-bookmark{float:right;border:none;background:transparent;color:var(--muted);font-size:22px;line-height:1;padding:0 2px 0 8px;cursor:pointer}
+.ep-bookmark.is-marked{color:var(--gold);text-shadow:0 0 10px rgba(216,173,61,.4)}
+.jump-fab{position:fixed;right:16px;bottom:16px;z-index:60;border:none;background:var(--accent2);color:#07101d;font-weight:800;border-radius:999px;padding:14px 18px;font-size:15px;box-shadow:0 10px 24px rgba(0,0,0,.35);cursor:pointer}
+@media(min-width:720px){.jump-fab{display:none!important}}

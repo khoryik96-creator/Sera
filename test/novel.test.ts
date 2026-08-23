@@ -31,6 +31,12 @@ describe('renderNovel', () => {
     expect(out).toContain('Hello there.');
   });
 
+  it('labels dialogue with the speaker name', () => {
+    const out = renderNovel('[[speaker:han]]“One person?”');
+    expect(out).toContain('novel-speaker');
+    expect(out).toContain('Han Myeong');
+  });
+
   it('marks supreme arts', () => {
     const out = renderNovel('SUPREME ART — Frozen Bloom');
     expect(out).toContain('novel-skill-supreme');
