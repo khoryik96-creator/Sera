@@ -1,36 +1,39 @@
-// Character portraits are imported (not referenced by string path) so the
-// bundler owns them: in the web build they become hashed files, and in the
-// single-file build they are inlined as base64 data URIs.
-import sera from './assets/sera.jpg';
-import rhen from './assets/rhen.jpg';
-import arin from './assets/arin.jpg';
-import liang from './assets/liang.jpg';
-import kael from './assets/kael.jpg';
-import jin from './assets/jin.jpg';
-import lei from './assets/lei.jpg';
-import rui from './assets/rui.jpg';
-import qin from './assets/qin.jpg';
-import han from './assets/han.jpg';
-import ilyra from './assets/ilyra.jpg';
-import mo from './assets/mo.jpg';
-import yun from './assets/yun.jpg';
-import wen from './assets/wen.jpg';
-import seraExtra1 from './assets/sera-extra-1.jpg';
-import seraExtra2 from './assets/sera-extra-2.jpg';
-import seraExtra3 from './assets/sera-extra-3.jpg';
-import rhenExtra1 from './assets/rhen-extra-1.jpg';
-import rhenExtra2 from './assets/rhen-extra-2.jpg';
-import rhenExtra3 from './assets/rhen-extra-3.jpg';
-import rhenExtra4 from './assets/rhen-extra-4.jpg';
+// Portraits are auto-discovered from src/assets by filename, so adding images
+// needs no code change — just drop files in following the convention:
+//
+//   <key>.jpg           main portrait for a character key   (e.g. kael.jpg)
+//   <key>-extra-<n>.jpg gallery image, ordered by <n>       (e.g. sera-extra-1.jpg)
+//
+// A character with one or more `-extra-` images gets a scrollable gallery
+// (main image first, then the extras in numeric order). `<key>` must match the
+// character key used in the data (see DB.characters).
+//
+// Importing eagerly means the bundler still owns every file: hashed in the web
+// build, inlined as data URIs in the single-file build.
+const files = import.meta.glob<string>('./assets/*.{jpg,jpeg,png,webp}', {
+  eager: true,
+  import: 'default',
+});
+
+const mainMap: Record<string, string> = {};
+const extras: Record<string, { n: number; url: string }[]> = {};
+
+for (const [path, url] of Object.entries(files)) {
+  const base = path.substring(path.lastIndexOf('/') + 1).replace(/\.(jpe?g|png|webp)$/i, '');
+  const m = base.match(/^(.+)-extra-(\d+)$/);
+  if (m) {
+    const key = m[1];
+    (extras[key] ??= []).push({ n: Number(m[2]), url });
+  } else {
+    mainMap[base] = url;
+  }
+}
 
 /** Main portrait per character key. */
-export const characterImageMap: Record<string, string> = {
-  sera, rhen, arin, liang, kael, jin, lei, rui, qin, han, ilyra, mo, yun, wen,
-};
+export const characterImageMap: Record<string, string> = mainMap;
 
-/** Additional gallery portraits per character key. Any character with entries
- *  here gets a scrollable portrait gallery (main image first, then these). */
-export const characterExtraImages: Record<string, string[]> = {
-  sera: [seraExtra1, seraExtra2, seraExtra3],
-  rhen: [rhenExtra1, rhenExtra2, rhenExtra3, rhenExtra4],
-};
+/** Gallery portraits per character key, in numeric order. Any character with
+ *  entries here gets a scrollable portrait gallery (main image first). */
+export const characterExtraImages: Record<string, string[]> = Object.fromEntries(
+  Object.entries(extras).map(([key, list]) => [key, list.sort((a, b) => a.n - b.n).map((x) => x.url)]),
+);

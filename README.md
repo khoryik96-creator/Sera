@@ -45,6 +45,24 @@ npm run lint       # eslint
 npm run test       # vitest (unit + data-integrity tests)
 ```
 
+## Adding character portraits
+
+Portraits are auto-discovered from `src/assets/` by filename — no code change
+needed. Follow the convention:
+
+```
+<key>.jpg            main portrait for a character   (e.g. kael.jpg)
+<key>-extra-<n>.jpg  gallery image, ordered by <n>   (e.g. sera-extra-1.jpg)
+```
+
+- `<key>` must match the character key in the data (`DB.characters` — e.g.
+  `wen` for Luo Wen).
+- A character with one or more `-extra-` images automatically gets a
+  scrollable gallery (main image first, then the extras in numeric order).
+- JPEG/PNG/WebP are accepted; JPEG keeps the bundle small.
+
+Drop the files in and rebuild — that's it.
+
 ## Two build outputs
 
 ```bash
