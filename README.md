@@ -11,13 +11,15 @@ project.
 index.html          # markup shell (loads src/main.ts as a module, no inline JS)
 src/
   main.ts           # entry: wires tab/search/quicklink events + initial render
-  db.ts             # DB import + cast, image maps, colour-key map
+  tabs.ts           # activateTab + clearSearchInputs
+  db.ts             # DB loader (fetch or inline) + colour-key map
+  images.ts         # portrait imports -> characterImageMap / characterExtraImages
   dom.ts            # getEl() helper + regex escaping
   novel.ts          # dialogue / skill / ranked-name annotation
   characters.ts     # character tab: profile, nav, legends, Sera gallery
   skills.ts         # Rhen + Sera skill tables and cards
   legends.ts        # legends tab
-  ranks.ts          # rankings tab
+  ranks.ts          # rankings tab (+ rankColorKey)
   former.ts         # former rank-holders tab
   seraTimeline.ts   # Sera chronology tab
   episodes.ts       # 64-season episode archive + season cast
@@ -26,9 +28,9 @@ src/
   types.ts          # interfaces for the data model
   data.json         # the lore database (fetched at runtime, not bundled into JS)
   styles.css        # all styles (was 5 inline <style> blocks)
-  vite-env.d.ts     # Vite client types (for the data.json?url import)
-test/               # vitest unit + data-integrity tests
-public/assets/      # character portraits (were base64 data: URIs)
+  vite-env.d.ts     # Vite client types + __SINGLEFILE__ declaration
+  assets/           # character portraits (imported; hashed for web, inlined for single-file)
+test/               # vitest unit, data-integrity, and DOM tests
 ```
 
 ## Develop

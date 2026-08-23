@@ -643,6 +643,8 @@ input.search:focus{outline:none;border-color:#745a80!important;box-shadow:0 0 0 
 }
 .sera-single-thumb img{
   display:block !important;
+  position:static !important;
+  inset:auto !important;
   width:100% !important;
   height:100% !important;
   object-fit:cover !important;
@@ -727,6 +729,8 @@ input.search:focus{outline:none;border-color:#745a80!important;box-shadow:0 0 0 
 }
 .sera-v101-thumb img{
   display:block !important;
+  position:static !important;
+  inset:auto !important;
   width:100% !important;
   height:100% !important;
   object-fit:cover !important;

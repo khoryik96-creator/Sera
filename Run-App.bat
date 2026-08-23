@@ -22,17 +22,16 @@ if errorlevel 1 (
   exit /b 1
 )
 
-REM 2) Install dependencies on the first run only (needs internet once).
-if not exist "node_modules" (
-  echo First run: installing dependencies. This can take a minute...
+REM 2) Install / update dependencies. npm install is a no-op when everything is
+REM already present, and picks up new packages after the project is updated.
+echo Checking dependencies (may take a minute the first time)...
+echo.
+call npm install
+if errorlevel 1 (
   echo.
-  call npm install
-  if errorlevel 1 (
-    echo.
-    echo Dependency install failed. Check your internet connection and try again.
-    pause
-    exit /b 1
-  )
+  echo Dependency install failed. Check your internet connection and try again.
+  pause
+  exit /b 1
 )
 
 REM 3) Build the single self-contained HTML file.
