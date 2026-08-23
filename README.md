@@ -27,6 +27,8 @@ src/
   former.ts         # former rank-holders tab
   seraTimeline.ts   # Sera chronology tab
   episodes.ts       # 64-season episode archive + season cast
+  episodeNav.ts     # jump bar (season/episode), bookmarks, floating jump button
+  bookmarks.ts      # localStorage bookmarks + "resume reading" state
   arcFigures.ts     # "Others" / villains tab
   colorKey.ts       # character colour legend
   types.ts          # interfaces for the data model
@@ -48,6 +50,23 @@ npm run typecheck  # tsc --noEmit
 npm run lint       # eslint
 npm run test       # vitest (unit + data-integrity tests)
 ```
+
+## Reading the episodes (mobile-friendly)
+
+The **Episodes** tab has a jump bar at the top:
+
+- **Season / Episode dropdowns** jump straight to any of the 64 seasons and
+  open the enclosing arc automatically — no endless scrolling.
+- **☆ on each episode** bookmarks it; **★ Bookmarks** lists your saved episodes.
+- **▸ Resume reading** returns to the last episode you opened.
+- A floating **≡ Jump** button (mobile) brings the jump bar back within reach
+  while reading.
+
+Bookmarks and reading position are stored in the browser (`localStorage`), so
+they persist on the same device and degrade gracefully where storage is blocked.
+
+Every line of tagged dialogue is now prefixed with the **speaker's name** in
+their colour, so characters are never confused even when two share a hue.
 
 ## Adding character portraits
 

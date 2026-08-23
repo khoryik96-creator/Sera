@@ -10,6 +10,7 @@ import { renderSeraTimeline } from './seraTimeline';
 import { renderEpisodes, renderSeasonCast } from './episodes';
 import { renderArcFigures } from './arcFigures';
 import { renderColorKey } from './colorKey';
+import { initEpisodeNav } from './episodeNav';
 import { activateTab } from './tabs';
 
 /** Attach static-element listeners (tabs, search boxes, quicklinks). */
@@ -57,6 +58,7 @@ async function main(): Promise<void> {
   renderEpisodes();
   renderSeasonCast();
   renderColorKey();
+  initEpisodeNav();
 }
 
 main().catch((err) => {

@@ -127,7 +127,19 @@
       <p class="muted">Bright colors are intentionally chosen for the black background. The same color follows each recurring character's name and explicitly tagged dialogue.</p>
       <div id="colorKey" class="character-color-grid"></div>
     </div>
-    <div class="callout"><strong>Dialogue speaker audit rule:</strong> colors come from explicit <code>[[speaker:...]]</code> tags in the novel source, never conversational guesswork. If speaker ownership is uncertain, the line stays white.</div>    <details class="arc-accordion">
+    <div class="callout"><strong>Dialogue speaker audit rule:</strong> colors come from explicit <code>[[speaker:...]]</code> tags in the novel source, never conversational guesswork. If speaker ownership is uncertain, the line stays white.</div>
+    <div id="episodeJumpBar" class="episode-jumpbar">
+      <div class="jump-row">
+        <label class="jump-field"><span>Season</span><select id="seasonJump" aria-label="Jump to season"></select></label>
+        <label class="jump-field"><span>Episode</span><select id="episodeJump" aria-label="Jump to episode"></select></label>
+      </div>
+      <div class="jump-row jump-actions">
+        <button id="resumeReading" class="jump-btn resume-btn" hidden>▸ Resume reading</button>
+        <button id="bookmarksToggle" class="jump-btn">★ Bookmarks</button>
+      </div>
+      <div id="bookmarksPanel" class="bookmarks-panel" hidden></div>
+    </div>
+    <details class="arc-accordion">
       <summary class="arc-head"><div><h2>Arc I — The Quiet Regular</h2><span class="badge">Seasons 1–3</span><p>Tea shop beginnings, Sera and Rhen's early relationship, and the first hints of the hidden legend.</p></div><span class="arc-toggle">▾</span></summary>
       <div class="arc-body">
 
@@ -345,7 +357,6 @@
 <details class="season-accordion"><summary class="episode-season-head"><div><h2>Season 41 - The Crown Beyond Crowns</h2><span class="badge">10 Episodes · FIVE DUKES FALL / TAE ARRIVES</span></div><span class="season-toggle">▾</span></summary><div id="seasonCast41" class="season-cast-guide"></div><div id="episodeListSeason41" class="season-episode-list"></div></details>
 <details class="season-accordion"><summary class="episode-season-head"><div><h2>Season 42 - Beyond the Summit</h2><span class="badge">10 Episodes · BOTH NUMBER ONES FALL / RHEN ENDS IT</span></div><span class="season-toggle">▾</span></summary><div id="seasonCast42" class="season-cast-guide"></div><div id="episodeListSeason42" class="season-episode-list"></div></details></div>
     </details>
-  </section>
 
 
     <details class="arc-accordion">
@@ -393,6 +404,7 @@
         <details class="season-accordion"><summary class="episode-season-head"><div><h2>Season 64 - Epilogue: Two Years Later</h2><span class="badge">3 Episodes · SECOND SPRING / BEYOND DUKE / QUIET ENDING</span></div><span class="season-toggle">▾</span></summary><div id="seasonCast64" class="season-cast-guide"></div><div id="episodeListSeason64" class="season-episode-list"></div></details>
       </div>
     </details>
+  </section>
   <section id="canon" class="panel hidden">
     <div class="grid two">
       
@@ -462,6 +474,7 @@
   </section>
 </div>
 <footer>Standalone local HTML · full lore browser · no updater or patcher required.</footer>
+<button id="jumpFab" class="jump-fab" hidden aria-label="Open episode navigator" title="Jump to season / episode">≡ Jump</button>
 <script type="module" src="/src/main.ts"></script>
 </body>
 </html>

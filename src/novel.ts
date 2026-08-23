@@ -42,12 +42,33 @@ const rankLabelMap: Record<string, string> = {
   'Aethon Vael': 'OL', Aethon: 'OL',
 };
 
+// Best display name per colour key, derived from nameMap (prefer the fullest name).
+const speakerNameByKey: Record<string, string> = {};
+nameMap.forEach(([name, key]) => {
+  const cur = speakerNameByKey[key];
+  if (!cur || name.length > cur.length) speakerNameByKey[key] = name;
+});
+
+// Friendly labels for generic/unnamed speakers (they share the neutral colour).
+const neutralNames: Record<string, string> = {
+  novice: 'Novice', girl: 'Girl', flowerseller: 'Flower Seller', covenant: 'Covenant Envoy',
+  duchess: 'Duchess', soldier: 'Soldier', opponent: 'Opponent', captain: 'Captain',
+  lieutenant: 'Lieutenant', attacker: 'Attacker', messenger: 'Messenger', grandmaster: 'Grandmaster',
+};
+
+/** Human-readable name for a `[[speaker:key]]` tag. */
+function speakerName(raw: string): string {
+  const colorKey = colorKeyMap[raw] || raw;
+  return speakerNameByKey[colorKey] || neutralNames[raw] || (raw.charAt(0).toUpperCase() + raw.slice(1));
+}
+
 function annotateDialogue(text: string): string {
   return String(text || '').split('\n').map((line) => {
     const m = line.match(/^\[\[speaker:([a-z0-9_]+)\]\](.*)$/);
     if (!m) return line;
     const key = colorKeyMap[m[1]] || m[1];
-    return `<span class="novel-dialogue character-${key}">${m[2]}</span>`;
+    const name = speakerName(m[1]);
+    return `<span class="novel-dialogue character-${key}"><b class="novel-speaker">${name}</b>${m[2]}</span>`;
   }).join('\n');
 }
 
