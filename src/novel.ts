@@ -68,7 +68,11 @@ function annotateDialogue(text: string): string {
     if (!m) return line;
     const key = colorKeyMap[m[1]] || m[1];
     const name = speakerName(m[1]);
-    return `<span class="novel-dialogue character-${key}"><b class="novel-speaker">${name}</b>${m[2]}</span>`;
+    // Block "dialogue card": a colour-keyed border + uppercase speaker label
+    // above the quote (kept near-white for readability). Inner tags are <b>
+    // (never <span>) so annotateNamesForSeason's span-guard protects the whole
+    // card and does not re-annotate names inside the label or quote.
+    return `<span class="novel-dialogue dialogue-card character-${key}"><b class="novel-speaker dialogue-speaker">${name}</b><b class="dialogue-quote">${m[2]}</b></span>`;
   }).join('\n');
 }
 
@@ -123,7 +127,10 @@ function annotateNamesForSeason(text: string, season?: number): string {
   return out;
 }
 
-/** Render an episode/legend body: dialogue colouring, skill callouts, and ranked names. */
+/** Render an episode/legend body: dialogue cards, skill callouts, and ranked names. */
 export function renderNovel(text: string, season?: number): string {
-  return annotateNamesForSeason(annotateSkills(annotateDialogue(text)), season);
+  const html = annotateNamesForSeason(annotateSkills(annotateDialogue(text)), season);
+  // Dialogue cards are block-level; strip the surrounding pre-line newlines so
+  // the card's own margin controls spacing instead of doubling it.
+  return html.replace(/\n*(<span class="novel-dialogue[\s\S]*?<\/span>)\n*/g, '$1');
 }

@@ -72,10 +72,34 @@ table th{color:var(--accent);font-size:13px;letter-spacing:.02em}
 .episode-season-head{display:flex;align-items:center;justify-content:space-between;gap:12px;flex-wrap:wrap;border-bottom:1px solid var(--line);padding-bottom:8px}
 .episode-season-head h2{margin:0}
 .novel-dialogue{font-weight:570}
-/* Speaker name shown before each line of dialogue (in the speaker's colour).
-   Makes it unmistakable who is talking even when two characters share a hue. */
+/* Dialogue "card": a colour-keyed block with the speaker's name as a small
+   uppercase label above the quote. The card border + label take the speaker's
+   colour; the quote itself stays near-white so it's easy to read on black. */
+.dialogue-card{
+  display:block;
+  margin:16px 0;
+  padding:11px 16px 13px;
+  border:1px solid rgba(255,255,255,.08);
+  border-left:3px solid currentColor;
+  border-radius:12px;
+  background:rgba(255,255,255,.04);
+}
+.dialogue-speaker{
+  display:block;
+  font-size:.72em;
+  letter-spacing:.09em;
+  text-transform:uppercase;
+  font-weight:800;
+  margin-bottom:5px;
+}
+.dialogue-card .dialogue-quote{
+  display:block;
+  color:var(--text)!important;
+  font-weight:500;
+  font-size:1.05em;
+  line-height:1.6;
+}
 .novel-speaker{font-weight:800;letter-spacing:.2px}
-.novel-speaker::after{content:"\00a0\00a0"}
 .novel-character-name{font-weight:750}
 .character-color{filter:brightness(1.04)}
 .character-color-key{margin:16px 0}
