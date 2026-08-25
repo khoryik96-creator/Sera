@@ -27,14 +27,17 @@ describe('rankForStory', () => {
 describe('renderNovel', () => {
   it('colours dialogue by speaker', () => {
     const out = renderNovel('[[speaker:sera]]Hello there.');
-    expect(out).toContain('novel-dialogue character-sera');
+    expect(out).toContain('novel-dialogue');
+    expect(out).toContain('character-sera');
     expect(out).toContain('Hello there.');
   });
 
-  it('labels dialogue with the speaker name', () => {
+  it('renders dialogue as a card with the speaker name and quote', () => {
     const out = renderNovel('[[speaker:han]]“One person?”');
-    expect(out).toContain('novel-speaker');
+    expect(out).toContain('dialogue-card');
+    expect(out).toContain('dialogue-speaker');
     expect(out).toContain('Han Myeong');
+    expect(out).toContain('dialogue-quote');
   });
 
   it('marks supreme arts', () => {
