@@ -32,8 +32,8 @@ test('Back to Season returns to the current season and shows read state', async 
   await expect(page.locator('.reader-prose')).toBeVisible({ timeout: 20_000 });
   await page.getByRole('button', { name: 'Back to Season 12' }).click();
   await expect(page).toHaveURL(/#chapters$/);
-  await expect(page.locator('.season-selected-heading__meta')).toContainText('Season 12');
-  await expect(page.locator('.season-selected-heading__meta')).toContainText('1/10 opened');
+  await expect(page.locator('.season-selected-heading__meta')).toHaveText('Season 12');
+  await expect(page.locator('.season-selected-heading__progress')).toContainText('1/10 opened');
   await expect(page.locator('.chapter-row.is-read')).toHaveCount(1);
   await expect(page.locator('.season-next-unread-button')).toContainText('Next unread E4');
 });
