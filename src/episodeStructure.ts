@@ -1,4 +1,5 @@
 import { getEl } from './dom';
+import { EPISODE_ARCS } from './episodeMeta';
 
 export interface EpisodeSeasonMeta {
   season: number;
@@ -15,36 +16,6 @@ export interface EpisodeArcMeta {
 }
 
 let archiveStructure: EpisodeArcMeta[] = [];
-
-function directChild(parent: Element, selector: string): HTMLElement | null {
-  return [...parent.children].find((child) => child.matches(selector)) as HTMLElement | undefined || null;
-}
-
-/** Extract the legacy static archive headings into a typed metadata structure. */
-export function extractEpisodeStructure(root: HTMLElement): EpisodeArcMeta[] {
-  const arcs = [...root.children].filter((child) => child.matches('.arc-accordion')) as HTMLDetailsElement[];
-  return arcs.map((arc) => {
-    const head = directChild(arc, '.arc-head');
-    const body = directChild(arc, '.arc-body');
-    const title = head?.querySelector('h2')?.textContent?.trim() || 'Untitled Arc';
-    const badge = head?.querySelector('.badge')?.textContent?.trim() || '';
-    const description = head?.querySelector('p')?.textContent?.trim() || '';
-    const seasonNodes = body ? [...body.children].filter((child) => child.matches('.season-accordion')) as HTMLDetailsElement[] : [];
-    const seasons = seasonNodes.map((seasonNode) => {
-      const seasonTitle = seasonNode.querySelector('h2')?.textContent?.trim() || '';
-      const match = seasonTitle.match(/Season\s+(\d+)/i);
-      if (!match) throw new Error(`Cannot determine season number from: ${seasonTitle}`);
-      const season = Number(match[1]);
-      return {
-        season,
-        title: seasonTitle,
-        badge: seasonNode.querySelector('.badge')?.textContent?.trim() || '',
-        hasCast: Boolean(seasonNode.querySelector(`#seasonCast${season}`)),
-      };
-    });
-    return { title, badge, description, seasons };
-  });
-}
 
 function seasonListId(season: number): string {
   return season === 1 ? 'episodeList' : `episodeListSeason${season}`;
@@ -64,23 +35,23 @@ function arcMarkup(arc: EpisodeArcMeta): string {
 }
 
 /**
- * Replace the large handwritten archive DOM with a generated shell. The old
- * markup is read once as migration metadata, then discarded; episode prose is
- * rendered lazily into the generated season containers.
+ * Build the archive from typed metadata and discard the legacy handwritten arc
+ * markup if it is still present in index.html. Episode prose is rendered lazily
+ * into these generated season containers.
  */
 export function prepareEpisodeArchive(): EpisodeArcMeta[] {
   const root = getEl('episodes');
   const existing = document.getElementById('episodeArchiveGenerated');
   if (existing) return archiveStructure;
 
-  archiveStructure = extractEpisodeStructure(root);
+  archiveStructure = EPISODE_ARCS;
   const originalArcs = [...root.children].filter((child) => child.matches('.arc-accordion')) as HTMLElement[];
-  if (originalArcs.length === 0) throw new Error('Episode archive metadata is missing.');
-
   const generated = document.createElement('div');
   generated.id = 'episodeArchiveGenerated';
   generated.innerHTML = archiveStructure.map(arcMarkup).join('');
-  root.insertBefore(generated, originalArcs[0]);
+
+  if (originalArcs[0]) root.insertBefore(generated, originalArcs[0]);
+  else root.appendChild(generated);
   originalArcs.forEach((arc) => arc.remove());
   return archiveStructure;
 }
