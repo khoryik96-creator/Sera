@@ -58,6 +58,20 @@ describe('renderNovel', () => {
     expect(out).not.toContain('#1 - Kael');
     expect(out).not.toContain('Former #6 - Sera');
     expect(out).toContain('character-kael">Kael</span><span class="rank-badge rank-badge--current">#1</span>');
-    expect(out).toContain('character-sera">Sera</span><span class="rank-badge rank-badge--former">Former #6</span>');
+    expect(out).toContain('rank-badge rank-badge--former">#6 <span class="rank-badge__state">FORMER</span>');
+  });
+
+  it('uses Lucy-style deceased and retired indicators after succession', () => {
+    const out = renderNovel('Han Myeong stood in memory beside Qin Luo.', 30);
+    expect(out).toContain('character-han">Han Myeong</span><span class="rank-badge rank-badge--deceased">#8 †</span>');
+    expect(out).toContain('character-qin">Qin Luo</span><span class="rank-badge rank-badge--retired">#6 <span class="rank-badge__state">RET</span>');
+  });
+
+  it('keeps Han and Qin active before the succession arc', () => {
+    const out = renderNovel('Han Myeong and Qin Luo arrived.', 20);
+    expect(out).toContain('rank-badge rank-badge--current">#8</span>');
+    expect(out).toContain('rank-badge rank-badge--current">#6</span>');
+    expect(out).not.toContain('rank-badge--deceased');
+    expect(out).not.toContain('rank-badge--retired');
   });
 });
