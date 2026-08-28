@@ -13,7 +13,7 @@ const BOOKMARK_LIMIT = 633;
 const MAX_TITLE_LENGTH = 500;
 
 export interface Bookmark {
-  id: string;      // episode element id, e.g. "ep-s12-e3"
+  id: string;
   season: number;
   title: string;
 }
@@ -55,7 +55,7 @@ export function isBookmarked(id: string): boolean {
 
 /** Add or remove a bookmark. Returns the actual persisted state. */
 export function toggleBookmark(b: Bookmark): boolean {
-  if (!validBookmark(b)) return isBookmarked(b.id);
+  if (!validBookmark(b)) return false;
   const list = getBookmarks();
   const idx = list.findIndex((x) => x.id === b.id);
   const next = list.slice();
