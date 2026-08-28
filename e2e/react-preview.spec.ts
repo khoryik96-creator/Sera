@@ -35,7 +35,7 @@ async function coreCounts(page: import('@playwright/test').Page): Promise<CoreCo
   return page.evaluate(async () => {
     const resourceUrl = performance.getEntriesByType('resource')
       .map((entry) => (entry as PerformanceResourceTiming).name)
-      .find((name) => /\/assets\/core-[^/]+\.json(?:\?|$)/.test(name));
+      .find((name) => /\/(?:assets\/core-[^/]+|src\/generated\/core)\.json(?:\?|$)/.test(name));
     if (!resourceUrl) throw new Error('Production core lore resource was not observed');
     const response = await fetch(resourceUrl);
     if (!response.ok) throw new Error(`Unable to reload core lore resource: ${response.status}`);
