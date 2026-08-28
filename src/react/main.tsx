@@ -6,6 +6,7 @@ import { ReaderProvider } from './features/reader/ReaderContext';
 import './styles/global.css';
 import './styles/reader.css';
 import './styles/archive.css';
+import './styles/mobile.css';
 
 async function boot(): Promise<void> {
   const root = document.getElementById('react-root');
