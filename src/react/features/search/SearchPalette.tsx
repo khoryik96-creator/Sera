@@ -65,9 +65,10 @@ export function SearchPalette({ open, query, onClose, onOpenSection, onOpenChara
   const [episodeLoading, setEpisodeLoading] = useState(false);
   const [episodeError, setEpisodeError] = useState('');
   const needle = query.trim();
+  const shouldLoadEpisodeIndex = open && needle.length >= 2;
 
   useEffect(() => {
-    if (!open || needle.length < 2 || episodeIndex.length || episodeLoading) return;
+    if (!shouldLoadEpisodeIndex || episodeIndex.length) return;
     let alive = true;
     setEpisodeLoading(true);
     setEpisodeError('');
@@ -81,7 +82,7 @@ export function SearchPalette({ open, query, onClose, onOpenSection, onOpenChara
       setEpisodeLoading(false);
     });
     return () => { alive = false; };
-  }, [open, needle, episodeIndex.length, episodeLoading]);
+  }, [shouldLoadEpisodeIndex, episodeIndex.length]);
 
   const results = useMemo<SearchResult[]>(() => {
     if (!needle) return [];
