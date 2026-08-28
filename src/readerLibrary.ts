@@ -1,4 +1,5 @@
 import type { Bookmark } from './bookmarks';
+import { episodeCountForSeason } from './readingProgress';
 
 export const HISTORY_KEY = 'tqr:readingHistory:v1';
 export const BOOKMARKS_KEY = 'tqr:bookmarks';
@@ -31,19 +32,26 @@ export interface ReaderStateBackup {
   preferences: ReaderPreferenceBackup;
 }
 
-function validEpisodeId(value: unknown): value is string {
-  if (typeof value !== 'string') return false;
+function episodeParts(value: unknown): { season: number; episode: number } | null {
+  if (typeof value !== 'string') return null;
   const match = value.match(EPISODE_ID);
-  if (!match) return false;
+  if (!match) return null;
   const season = Number(match[1]);
   const episode = Number(match[2]);
-  return season >= 1 && season <= 64 && episode >= 1 && episode <= 20;
+  const total = episodeCountForSeason(season);
+  if (!total || episode < 1 || episode > total) return null;
+  return { season, episode };
+}
+
+function validEpisodeId(value: unknown): value is string {
+  return Boolean(episodeParts(value));
 }
 
 function validBookmark(value: unknown): value is Bookmark {
   if (!value || typeof value !== 'object') return false;
   const item = value as Partial<Bookmark>;
-  return validEpisodeId(item.id) && Number.isInteger(item.season) && Number(item.season) >= 1 && Number(item.season) <= 64 && typeof item.title === 'string';
+  const parts = episodeParts(item.id);
+  return Boolean(parts && Number.isInteger(item.season) && Number(item.season) === parts?.season && typeof item.title === 'string');
 }
 
 function validHistory(value: unknown): value is ReadingHistoryEntry {
