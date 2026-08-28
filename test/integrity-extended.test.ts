@@ -4,11 +4,12 @@ import { normalizeDatabase, colorKeyMap } from '../src/db';
 import { charOrder } from '../src/characters';
 import type { RawDatabase } from '../src/types';
 
-const data = normalizeDatabase(rawData as unknown as RawDatabase);
+const raw = rawData as unknown as RawDatabase;
+const data = normalizeDatabase(raw);
 
 function allEpisodes() {
-  return Array.from({ length: 64 }, (_, i) => i + 1).flatMap((season) =>
-    data[`season${season}` as `season${number}`].map((episode, index) => ({ season, index, episode })),
+  return Array.from({ length: 64 }, (_, index) => index + 1).flatMap((season) =>
+    raw[`season${season}` as `season${number}`].map((episode, index) => ({ season, index, episode })),
   );
 }
 
@@ -25,9 +26,7 @@ describe('extended canon integrity', () => {
   });
 
   it('keeps former-holder rank metadata wherever a historical figure was ranked', () => {
-    for (const person of data.former) {
-      expect(person.rank, person.name).toBeTruthy();
-    }
+    for (const person of data.former) expect(person.rank, person.name).toBeTruthy();
   });
 
   it('keeps Rhen ultimate as the final archived Rhen technique', () => {
@@ -60,8 +59,8 @@ describe('extended canon integrity', () => {
 
   it('contains every season from 1 through 64 and the epilogue remains season 64', () => {
     for (let season = 1; season <= 64; season++) {
-      expect(data[`season${season}` as `season${number}`].length, `season${season}`).toBeGreaterThan(0);
+      expect(raw[`season${season}` as `season${number}`].length, `season${season}`).toBeGreaterThan(0);
     }
-    expect(data.season64[0]?.title.toLowerCase()).toMatch(/second spring|two years|epilogue/);
+    expect(raw.season64[0]?.title.toLowerCase()).toMatch(/second spring|two years|epilogue/);
   });
 });
