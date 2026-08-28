@@ -1,3 +1,5 @@
+/* global self, caches, fetch, URL, Response */
+
 const version = new URL(self.location.href).searchParams.get('v') || 'dev';
 const CACHE = `quiet-regular-${version}`;
 const SHELL = ['./', './index.html', './manifest.webmanifest', './icon.svg'];
