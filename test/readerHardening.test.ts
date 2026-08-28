@@ -66,7 +66,7 @@ describe('reader hardening', () => {
 
     const originalSetItem = Storage.prototype.setItem;
     let failed = false;
-    vi.spyOn(Storage.prototype, 'setItem').mockImplementation(function setItem(key: string, value: string) {
+    vi.spyOn(Storage.prototype, 'setItem').mockImplementation(function setItem(this: Storage, key: string, value: string) {
       if (!failed && key === PASSAGES_KEY) {
         failed = true;
         throw new DOMException('Quota exceeded', 'QuotaExceededError');
@@ -82,7 +82,7 @@ describe('reader hardening', () => {
 
   it('does not return optimistic note or journey state when localStorage rejects a write', () => {
     const originalSetItem = Storage.prototype.setItem;
-    vi.spyOn(Storage.prototype, 'setItem').mockImplementation(function setItem(key: string, value: string) {
+    vi.spyOn(Storage.prototype, 'setItem').mockImplementation(function setItem(this: Storage, key: string, value: string) {
       if (key === 'tqr:episodeNotes:v1' || key === 'tqr:readingJourney:v2') throw new DOMException('Quota exceeded', 'QuotaExceededError');
       return originalSetItem.call(this, key, value);
     });
