@@ -10,6 +10,12 @@ export function cleanCharacterName(name: string): string {
 export function rankLabel(name: string, season?: number): string {
   const clean = cleanCharacterName(name);
   if (clean === 'Rhen') return 'Unranked';
+  // Qin and Han are stored using their present-day historical labels in the
+  // core registry. Preserve their active rank during the pre-Season 23 era.
+  if (season !== undefined && season <= 22) {
+    if (clean === 'Qin Luo' || clean === 'Qin') return '#6';
+    if (clean === 'Han Myeong' || clean === 'Han') return '#8';
+  }
   return rankForStory(clean, season);
 }
 
@@ -26,8 +32,8 @@ export function rankStatus(name: string, season?: number): RankStatus {
   const clean = cleanCharacterName(name);
   const rank = rankLabel(clean, season);
   if (/unranked|\bUNR\b/i.test(rank)) return 'unranked';
-  if (clean === 'Han Myeong' || clean === 'Han') return season !== undefined && season <= 23 ? 'current' : 'deceased';
-  if (clean === 'Qin Luo' || clean === 'Qin') return season !== undefined && season <= 23 ? 'current' : 'retired';
+  if (clean === 'Han Myeong' || clean === 'Han') return season !== undefined && season <= 22 ? 'current' : 'deceased';
+  if (clean === 'Qin Luo' || clean === 'Qin') return season !== undefined && season <= 22 ? 'current' : 'retired';
   if (rank.startsWith('Former ')) return 'former';
   return 'current';
 }
