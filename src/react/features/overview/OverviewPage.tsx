@@ -1,5 +1,6 @@
 import { DB } from '../../../db';
 import { EPISODE_ARCS } from '../../../episodeMeta';
+import { completedSeasonCount, overallReadingProgress } from '../../../readingProgress';
 import { RankBadge } from '../../components/Shared';
 import type { AppSection } from '../../app/navigation';
 import { cleanCharacterName, rankLabel, rankStatus } from '../../shared/rankState';
@@ -17,12 +18,14 @@ function episodeNumber(id: string): number {
 }
 
 export function OverviewPage({ onOpenSection, onOpenChapter, onOpenCharacter }: OverviewPageProps) {
-  const { bookmarks, lastRead } = useReaderState();
+  const { bookmarks, lastRead, readEpisodes } = useReaderState();
   const seasons = EPISODE_ARCS.reduce((sum, arc) => sum + arc.seasons.length, 0);
   const activeEpisode = lastRead ? episodeNumber(lastRead.id) : 1;
   const activeArc = lastRead ? EPISODE_ARCS.find((arc) => arc.seasons.some((entry) => entry.season === lastRead.season)) : EPISODE_ARCS[0];
   const protagonists = ['sera', 'rhen'].map((key) => ({ key, profile: DB.characters[key] })).filter((item) => Boolean(item.profile));
   const topTen = DB.ranks.slice(0, 10);
+  const storyProgress = overallReadingProgress(readEpisodes);
+  const completedSeasons = completedSeasonCount(readEpisodes);
 
   return (
     <section className="overview-dashboard">
@@ -52,11 +55,12 @@ export function OverviewPage({ onOpenSection, onOpenChapter, onOpenCharacter }: 
             <span>Reading position</span>
             <strong>{lastRead ? `Season ${lastRead.season} · Episode ${activeEpisode}` : 'Ready to begin'}</strong>
             <p>{activeArc?.title || 'Opening arc'}</p>
+            <div className="overview-reading-progress"><span><i style={{ width: `${storyProgress.percent}%` }} /></span><small>{storyProgress.read} / {storyProgress.total} episodes opened</small></div>
           </div>
           <div className="overview-pulse__stats">
             <div><strong>{bookmarks.length}</strong><span>bookmarks</span></div>
-            <div><strong>13</strong><span>story arcs</span></div>
-            <div><strong>64</strong><span>seasons</span></div>
+            <div><strong>{storyProgress.percent}%</strong><span>story read</span></div>
+            <div><strong>{completedSeasons}</strong><span>seasons done</span></div>
           </div>
         </aside>
       </div>
@@ -110,7 +114,7 @@ export function OverviewPage({ onOpenSection, onOpenChapter, onOpenCharacter }: 
             <button onClick={() => onOpenSection('legends')} type="button"><span>World memory</span><strong>Legends</strong><small>Feats that shaped reputations.</small><b>→</b></button>
             <button onClick={() => onOpenSection('canon')} type="button"><span>Source of truth</span><strong>Canon</strong><small>Rules that keep the world consistent.</small><b>→</b></button>
             <button onClick={() => onOpenSection('bookmarks')} type="button"><span>Your reader</span><strong>Bookmarks</strong><small>{bookmarks.length ? `${bookmarks.length} saved episode${bookmarks.length === 1 ? '' : 's'}.` : 'Save episodes for later.'}</small><b>→</b></button>
-            <button onClick={() => onOpenSection('chapters')} type="button"><span>Complete story</span><strong>13 Story Arcs</strong><small>Jump directly into all 64 seasons.</small><b>→</b></button>
+            <button onClick={() => onOpenSection('chapters')} type="button"><span>Complete story</span><strong>13 Story Arcs</strong><small>{storyProgress.percent ? `${storyProgress.percent}% opened across ${completedSeasons} completed season${completedSeasons === 1 ? '' : 's'}.` : 'Jump directly into all 64 seasons.'}</small><b>→</b></button>
           </div>
         </section>
       </div>

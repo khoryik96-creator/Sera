@@ -2,6 +2,7 @@ import type { ReactNode } from 'react';
 import { createContext, useContext, useEffect, useState } from 'react';
 import { getBookmarks, getLastRead, setLastRead, toggleBookmark } from '../../../bookmarks';
 import type { Bookmark } from '../../../bookmarks';
+import { getReadEpisodeIds, markEpisodeRead } from '../../../readingProgress';
 
 export type ReaderFont = 'serif' | 'book' | 'sans';
 export type ReaderSpacing = 'compact' | 'comfortable' | 'relaxed';
@@ -17,6 +18,7 @@ interface ReaderPreferences {
 interface ReaderContextValue extends ReaderPreferences {
   bookmarks: Bookmark[];
   lastRead: Bookmark | null;
+  readEpisodes: string[];
   markRead(bookmark: Bookmark): void;
   toggleSaved(bookmark: Bookmark): void;
   changeScale(delta: number): void;
@@ -88,6 +90,7 @@ function nextValue<T>(current: T, values: readonly T[]): T {
 export function ReaderProvider({ children }: { children?: ReactNode }) {
   const [bookmarks, setBookmarks] = useState<Bookmark[]>(() => getBookmarks());
   const [lastRead, setLastReadState] = useState<Bookmark | null>(() => getLastRead());
+  const [readEpisodes, setReadEpisodes] = useState<string[]>(() => getReadEpisodeIds());
   const [preferences, setPreferences] = useState<ReaderPreferences>(loadPreferences);
 
   useEffect(() => {
@@ -101,6 +104,7 @@ export function ReaderProvider({ children }: { children?: ReactNode }) {
   function markRead(bookmark: Bookmark): void {
     setLastRead(bookmark);
     setLastReadState(bookmark);
+    setReadEpisodes(markEpisodeRead(bookmark.id));
   }
 
   function toggleSaved(bookmark: Bookmark): void {
@@ -131,6 +135,7 @@ export function ReaderProvider({ children }: { children?: ReactNode }) {
   const value: ReaderContextValue = {
     bookmarks,
     lastRead,
+    readEpisodes,
     ...preferences,
     markRead,
     toggleSaved,
