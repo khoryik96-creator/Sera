@@ -37,11 +37,17 @@ describe('rankColorKey', () => {
     }
   });
 
-  it('uses an unranked pill only for Rhen and distinguishes former/retired rows', () => {
+  it('uses an unranked pill only for Rhen and explicit former/retired statuses', () => {
     for (const r of data.ranks) {
       const tone = rankBadgeTone(r);
       if (r.name === 'Rhen') expect(tone).toBe('unranked');
-      if (/former|retired/i.test(`${r.rank} ${r.className} ${r.description}`)) expect(tone).toBe('former');
+      if (/^Former\s+#\d+/i.test(r.name) || /former|retired|deceased/i.test(`${r.rank} ${r.className}`)) {
+        expect(tone).toBe('former');
+      }
     }
+  });
+
+  it('does not demote a current rank merely because its biography mentions a former rank', () => {
+    expect(rankBadgeTone({ rank: '#2', name: 'Liang Yue', className: 'Duke', description: 'Former World #1.' })).toBe('current');
   });
 });
