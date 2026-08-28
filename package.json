@@ -5,15 +5,18 @@
   "type": "module",
   "description": "The Quiet Regular — interactive lore repository (Vite + TypeScript).",
   "scripts": {
-    "dev": "vite",
-    "build": "tsc --noEmit && vite build",
-    "build:single": "tsc --noEmit && vite build --config vite.singlefile.config.ts",
+    "prepare:data": "node scripts/prepare-data.mjs",
+    "dev": "npm run prepare:data && vite",
+    "build": "npm run prepare:data && tsc --noEmit && vite build",
+    "build:single": "npm run prepare:data && tsc --noEmit && vite build --config vite.singlefile.config.ts",
     "preview": "vite preview",
-    "typecheck": "tsc --noEmit",
+    "typecheck": "npm run prepare:data && tsc --noEmit",
     "lint": "eslint .",
-    "test": "vitest run",
+    "test": "npm run prepare:data && vitest run",
     "validate:assets": "node scripts/validate-assets.mjs",
-    "quality": "npm run typecheck && npm run lint && npm run test && npm run validate:assets"
+    "audit:prod": "npm audit --omit=dev --audit-level=high",
+    "quality": "npm run prepare:data && tsc --noEmit && eslint . && vitest run && node scripts/validate-assets.mjs && npm run audit:prod",
+    "test:e2e": "playwright test"
   },
   "devDependencies": {
     "@eslint/js": "^9.9.0",
