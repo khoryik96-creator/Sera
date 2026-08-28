@@ -124,7 +124,7 @@ export function CharactersPage({ selectedKey, onOpenCharacter, onOpenChapter }: 
           </section>
 
           <section className="character-v2-section" aria-labelledby="relationshipsHeading">
-            <div className="character-v2-heading"><div><p className="eyebrow">Relationships</p><h3 id="relationshipsHeading">Connected characters</h3></div><span>Derived from existing profile records</span></div>
+            <div className="character-v2-heading"><div><p className="eyebrow">Relationships</p><h3 id="relationshipsHeading">Connections</h3></div><span>Derived from existing profile records</span></div>
             {relationships.length ? (
               <div className="relationship-grid">
                 {relationships.map((item) => <button key={item.key} onClick={() => onOpenCharacter(item.key)} type="button"><span className={`character-${item.key}`}><strong>{item.name}</strong></span><small>{item.subtitle}</small><b>Open profile →</b></button>)}
