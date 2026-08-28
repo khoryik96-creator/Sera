@@ -98,7 +98,7 @@ export function App() {
     return [...characters, ...ranks].slice(0, 12);
   }, [searchQuery]);
 
-  let page: any;
+  let page: unknown;
   if (route.chapter) {
     page = <ReaderPage season={route.chapter.season} episode={route.chapter.episode} onBack={() => openSection('chapters')} onOpenChapter={openChapter} />;
   } else {
@@ -130,7 +130,7 @@ export function App() {
       <div className="main-column">
         <header className="topbar">
           <button className="mobile-brand" onClick={() => openSection('overview')} type="button"><div className="brand__mark">QR</div><strong>The Quiet Regular</strong></button>
-          <label className="search-box"><span aria-hidden="true">⌕</span><input value={searchQuery} onChange={(event: any) => { setSearchQuery(event.target.value); setSearchOpen(true); }} onFocus={() => setSearchOpen(true)} placeholder="Search characters or ranks…" /><kbd>⌘K</kbd></label>
+          <label className="search-box"><span aria-hidden="true">⌕</span><input value={searchQuery} onChange={(event: { target: HTMLInputElement }) => { setSearchQuery(event.target.value); setSearchOpen(true); }} onFocus={() => setSearchOpen(true)} placeholder="Search characters or ranks…" /><kbd>⌘K</kbd></label>
           {lastRead ? <button className="topbar__continue" onClick={() => openChapter(lastRead.season, episodeNumber(lastRead.id))} type="button">Continue S{lastRead.season} E{episodeNumber(lastRead.id)}</button> : null}
           <span className="topbar__meta">64 seasons · 633 episodes</span>
         </header>
