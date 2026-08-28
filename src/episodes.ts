@@ -1,5 +1,4 @@
 import { DB } from './db';
-import { getEl } from './dom';
 import { renderNovel } from './novel';
 import { isBookmarked } from './bookmarks';
 import { allSeasonNumbers } from './episodeStructure';
@@ -44,9 +43,11 @@ function renderSeasonCastFor(season: number): void {
     : '';
 }
 
-/** Ensure a season exists in the DOM before navigation/search needs its cards. */
+/** Ensure a season exists in the DOM before navigation needs its cards. */
 export function ensureSeasonRendered(season: number): void {
-  if (renderedSeasons.has(season)) return;
+  // While global search is active a container may hold filtered cards, so a
+  // direct navigator request must be allowed to restore that season unfiltered.
+  if (renderedSeasons.has(season) && !searchActive) return;
   const container = document.getElementById(seasonListId(season));
   if (!container) return;
   container.innerHTML = episodeCards(seasonData(season), season);
