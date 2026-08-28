@@ -209,7 +209,7 @@ export function App() {
       case 'timeline': page = <TimelinePage />; break;
       case 'canon': page = <CanonPage />; break;
       case 'overview':
-      default: page = <OverviewPage onOpenSection={openSection} onOpenChapter={openChapter} />; break;
+      default: page = <OverviewPage onOpenSection={openSection} onOpenChapter={openChapter} onOpenCharacter={openCharacter} />; break;
     }
   }
 
