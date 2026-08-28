@@ -3,6 +3,8 @@ import { colorKeyMap, novelNameMap, rankForStory, speakerName } from './characte
 
 export { rankForStory } from './characterRegistry';
 
+type NovelRankTone = 'current' | 'former' | 'retired' | 'deceased' | 'unranked';
+
 function annotateDialogue(text: string): string {
   return String(text || '').split('\n').map((line) => {
     const match = line.match(/^\[\[speaker:([a-z0-9_]+)\]\](.*)$/);
@@ -26,10 +28,37 @@ function annotateSkills(text: string): string {
   return out;
 }
 
-function rankBadgeMarkup(rank: string): string {
+function effectiveRank(name: string, season?: number): string {
+  // Qin and Han are active #6/#8 before the Ranking Succession arc. Their
+  // registry stores present-day status, so preserve the historical badge in prose.
+  if (season && season <= 22) {
+    if (name === 'Qin Luo' || name === 'Qin') return '#6';
+    if (name === 'Han Myeong' || name === 'Han') return '#8';
+  }
+  return rankForStory(name, season);
+}
+
+function rankTone(name: string, rank: string, season?: number): NovelRankTone {
+  if (rank === 'UNR') return 'unranked';
+  const currentEra = !season || season >= 23;
+  if (currentEra && (name === 'Han Myeong' || name === 'Han')) return 'deceased';
+  if (currentEra && (name === 'Qin Luo' || name === 'Qin')) return 'retired';
+  if (rank.startsWith('Former ')) return 'former';
+  return 'current';
+}
+
+function rankBadgeMarkup(rank: string, name: string, season?: number): string {
   if (!rank) return '';
-  const tone = rank.startsWith('Former ') ? 'former' : rank === 'UNR' ? 'unranked' : 'current';
-  return `<span class="rank-badge rank-badge--${tone}">${rank}</span>`;
+  const tone = rankTone(name, rank, season);
+  const base = rank.replace(/^Former\s+/i, '').trim();
+  const label = tone === 'deceased'
+    ? `${base} †`
+    : tone === 'retired'
+      ? `${base} <span class="rank-badge__state">RET</span>`
+      : tone === 'former'
+        ? `${base} <span class="rank-badge__state">FORMER</span>`
+        : base;
+  return `<span class="rank-badge rank-badge--${tone}">${label}</span>`;
 }
 
 function annotateNamesForSeason(text: string, season?: number): string {
@@ -47,8 +76,8 @@ function annotateNamesForSeason(text: string, season?: number): string {
     // reader always shows one canonical Lucy-style badge instead of "#1 - Name".
     const re = new RegExp('(?:(?:Former\\s+)?#\\d+\\s*(?:—|-)?\\s*)?\\b' + escRe(name) + '\\b', 'g');
     out = out.replace(re, () => {
-      const rank = rankForStory(name, season);
-      const badge = rankBadgeMarkup(rank);
+      const rank = effectiveRank(name, season);
+      const badge = rankBadgeMarkup(rank, name, season);
       const token = `@@NAME${placeholders.length}@@`;
       placeholders.push(`<span class="ranked-name"><span class="novel-character-name character-${key}">${name}</span>${badge}</span>`);
       return token;
