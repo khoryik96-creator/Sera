@@ -10,6 +10,7 @@ import type { Episode } from '../../../types';
 import { RankBadge } from '../../components/Shared';
 import { cleanCharacterName, rankLabel, rankStatus } from '../../shared/rankState';
 import '../../styles/contextual-lore.css';
+import { EpisodeNoteEditor } from './EpisodeNoteEditor';
 import { useReaderState } from './ReaderContext';
 import type { ReaderFont, ReaderSpacing, ReaderWidth } from './ReaderContext';
 
@@ -171,6 +172,8 @@ export function ReaderPage({ season, episode, onBack, onOpenChapter }: ReaderPag
             <button onClick={cycleWidth} type="button">Width · {WIDTH_LABELS[width]}</button>
             <button className="reader-controls__reset" onClick={resetPreferences} type="button">Reset</button>
           </div>
+
+          {bookmark ? <EpisodeNoteEditor episode={bookmark} /> : null}
 
           {loreEntry ? (
             <aside className="reader-lore-context" aria-label={`Lore reference for ${loreName}`}>
