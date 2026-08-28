@@ -1,7 +1,6 @@
 import { defineConfig } from 'vite';
 
-// Web build: core lore loads up front; season payloads remain independent chunks.
-// The React reader is built as a parallel preview page until feature parity is complete.
+// Web build: React is the production shell. The pre-cutover reader remains as legacy.html for rollback.
 export default defineConfig({
   base: './',
   define: {
@@ -12,6 +11,7 @@ export default defineConfig({
     rollupOptions: {
       input: {
         main: 'index.html',
+        legacy: 'legacy.html',
         reactPreview: 'react-preview.html',
       },
     },

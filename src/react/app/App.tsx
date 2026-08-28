@@ -178,7 +178,7 @@ export function App() {
         <nav className="primary-nav" aria-label="Repository sections">
           {navigationItems.map((item, index) => <button className={activeSection === item.id ? 'is-active' : ''} key={item.id} onClick={() => openSection(item.id)} type="button"><span>{String(index + 1).padStart(2, '0')}</span><strong>{item.label}</strong></button>)}
         </nav>
-        <div className="sidebar__footer"><span className="status-dot" /><div><strong>React preview</strong><p>Parallel to production</p></div></div>
+        <div className="sidebar__footer"><span className="status-dot" /><div><strong>Lore repository</strong><p>Production reader</p></div></div>
       </aside>
 
       <div className="main-column">
@@ -193,7 +193,7 @@ export function App() {
           {navigationItems.map((item) => <button className={activeSection === item.id ? 'is-active' : ''} key={item.id} onClick={() => openSection(item.id)} type="button">{item.shortLabel}</button>)}
         </nav>
 
-        <main className="content">
+        <main id="mainContent" className="content" tabIndex={-1}>
           {searchOpen ? (
             <section>
               <div className="search-page-heading"><div><p className="eyebrow">Global index</p><h2>Search</h2></div><button className="text-button" onClick={() => { setSearchOpen(false); setSearchQuery(''); }} type="button">Close</button></div>

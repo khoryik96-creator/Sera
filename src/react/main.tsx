@@ -11,7 +11,7 @@ import './styles/pwa.css';
 
 async function boot(): Promise<void> {
   const root = document.getElementById('react-root');
-  if (!root) throw new Error('React preview root is missing');
+  if (!root) throw new Error('Reader root is missing');
 
   root.innerHTML = '<div class="preview-boot">Loading The Quiet Regular…</div>';
   try {
@@ -20,7 +20,7 @@ async function boot(): Promise<void> {
     initPwa();
   } catch (error) {
     const message = error instanceof Error ? error.message : 'Unknown loading error';
-    root.innerHTML = `<div class="preview-boot preview-boot--error"><strong>React preview failed to load.</strong><p>${message}</p><a href="./index.html">Return to the production reader</a></div>`;
+    root.innerHTML = `<div class="preview-boot preview-boot--error"><strong>The lore reader failed to load.</strong><p>${message}</p><a href="./legacy.html">Open the legacy reader</a></div>`;
   }
 }
 

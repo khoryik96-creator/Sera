@@ -2,7 +2,7 @@
 
 const version = new URL(self.location.href).searchParams.get('v') || 'dev';
 const CACHE = `quiet-regular-${version}`;
-const SHELL = ['./', './index.html', './react-preview.html', './manifest.webmanifest', './icon.svg'];
+const SHELL = ['./', './index.html', './legacy.html', './react-preview.html', './manifest.webmanifest', './icon.svg'];
 
 self.addEventListener('install', (event) => {
   event.waitUntil(caches.open(CACHE).then((cache) => cache.addAll(SHELL)).then(() => self.skipWaiting()));
@@ -34,7 +34,8 @@ self.addEventListener('fetch', (event) => {
           const exact = await caches.match(request);
           if (exact) return exact;
           const preview = url.pathname.endsWith('/react-preview.html') ? await caches.match('./react-preview.html') : null;
-          return preview || (await caches.match('./index.html')) || Response.error();
+          const legacy = url.pathname.endsWith('/legacy.html') ? await caches.match('./legacy.html') : null;
+          return preview || legacy || (await caches.match('./index.html')) || Response.error();
         }),
     );
     return;

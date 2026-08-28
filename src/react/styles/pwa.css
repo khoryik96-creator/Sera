@@ -13,3 +13,20 @@
 }
 
 .react-offline-banner[hidden]{display:none}
+
+.skip-link{
+  position:fixed;
+  left:12px;
+  top:-64px;
+  z-index:100;
+  border:1px solid #36534d;
+  border-radius:9px;
+  padding:9px 12px;
+  background:#111317;
+  color:#b6e8dc;
+  font-size:.75rem;
+  font-weight:700;
+  text-decoration:none;
+  transition:top .16s ease;
+}
+.skip-link:focus{top:12px}

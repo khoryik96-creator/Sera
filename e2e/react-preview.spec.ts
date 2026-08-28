@@ -1,7 +1,8 @@
 import { test, expect } from '@playwright/test';
+import AxeBuilder from '@axe-core/playwright';
 
 async function openPreview(page: import('@playwright/test').Page, hash = 'overview') {
-  await page.goto(`/react-preview.html#${hash}`);
+  await page.goto(`/#${hash}`);
   await expect(page.locator('.app-shell')).toBeVisible({ timeout: 20_000 });
 }
 
@@ -10,7 +11,7 @@ test('React preview shell renders and routes between core features', async ({ pa
   await expect(page.getByText('Second Spring,', { exact: false })).toBeVisible();
   const visibleCharacterNav = page.locator('.primary-nav button:visible, .mobile-tabs button:visible').filter({ hasText: /Characters|Cast/ }).first();
   await visibleCharacterNav.click();
-  await expect(page).toHaveURL(/react-preview\.html#characters$/);
+  await expect(page).toHaveURL(/#characters$/);
   await expect(page.getByRole('heading', { name: 'Characters' })).toBeVisible();
 });
 
@@ -25,12 +26,12 @@ test('legacy production hashes remain valid in the React reader', async ({ page 
   for (const [hash, heading] of aliases) {
     await openPreview(page, hash);
     await expect(page.locator('.content h2').first()).toHaveText(heading);
-    await expect(page).toHaveURL(new RegExp(`react-preview\\.html#${hash}$`));
+    await expect(page).toHaveURL(new RegExp(`#${hash}$`));
   }
 
   await openPreview(page, 'episodes/1/1');
   await expect(page.locator('.reader-prose')).toBeVisible({ timeout: 20_000 });
-  await expect(page).toHaveURL(/react-preview\.html#episodes\/1\/1$/);
+  await expect(page).toHaveURL(/#episodes\/1\/1$/);
 });
 
 test('React preview is mobile-safe with swipeable navigation and no page overflow', async ({ page }, testInfo) => {
@@ -83,9 +84,9 @@ test('React reader controls and episode navigation stay in-flow on mobile', asyn
 test('React preview keeps deceased, retired, and former rank states distinct', async ({ page }) => {
   await openPreview(page, 'characters/han');
   await expect(page.locator('.character-name-line .react-rank-badge--deceased')).toContainText('†');
-  await page.goto('/react-preview.html#characters/qin');
+  await page.goto('/#characters/qin');
   await expect(page.locator('.character-name-line .react-rank-badge--retired')).toContainText('RET');
-  await page.goto('/react-preview.html#characters/sera');
+  await page.goto('/#characters/sera');
   await expect(page.locator('.character-name-line .react-rank-badge--former')).toContainText('FORMER');
 });
 
@@ -101,6 +102,19 @@ test('React preview declares the PWA manifest and registers the service worker',
     return ready;
   });
   expect(registration).toBe(true);
+});
+
+test('production React surface has no critical automated accessibility violations', async ({ page }) => {
+  await openPreview(page, 'characters/sera');
+  const result = await new AxeBuilder({ page }).analyze();
+  const critical = result.violations.filter((violation) => violation.impact === 'critical');
+  expect(critical, critical.map((violation) => `${violation.id}: ${violation.help}`).join('\n')).toEqual([]);
+});
+
+test('React preview alias remains available after production cutover', async ({ page }) => {
+  await page.goto('/react-preview.html#characters/sera');
+  await expect(page.locator('.app-shell')).toBeVisible({ timeout: 20_000 });
+  await expect(page.locator('.character-name-line')).toContainText('Sera');
 });
 
 test('capture React preview visual review surfaces', async ({ page }, testInfo) => {
