@@ -15,6 +15,7 @@ import '../../styles/contextual-lore.css';
 import '../../styles/passages.css';
 import '../../styles/reader-v4.css';
 import { EpisodeNoteEditor } from './EpisodeNoteEditor';
+import { SeasonEpisodeSwitcher } from './SeasonEpisodeSwitcher';
 import { useReaderState } from './ReaderContext';
 import type { ReaderFont, ReaderSpacing, ReaderWidth } from './ReaderContext';
 
@@ -328,6 +329,8 @@ export function ReaderPage({ season, episode, onBack, onOpenChapter }: ReaderPag
             <div><span>Chapter position</span><strong>{chapterScrollPercent}%</strong></div>
             <div className="reader-chapter-position__track" role="progressbar" aria-valuemin={0} aria-valuemax={100} aria-valuenow={chapterScrollPercent} aria-label={`Chapter ${chapterScrollPercent}%`}><span style={{ width: `${chapterScrollPercent}%` }} /></div>
           </div>
+
+          <SeasonEpisodeSwitcher season={season} episode={episode} episodes={episodes} readEpisodes={readEpisodes} onOpenChapter={onOpenChapter} />
 
           {bookmark ? <EpisodeNoteEditor episode={bookmark} /> : null}
 
