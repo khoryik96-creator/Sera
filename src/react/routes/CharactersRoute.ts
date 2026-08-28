@@ -1,2 +1,5 @@
 import '../styles/characters-v2.css';
-export { CharactersPage } from '../features/characters/CharactersPage';
+import { CharactersPage as CharactersView } from '../features/characters/CharactersPage';
+import { withReactData } from './withReactData';
+
+export const CharactersPage = withReactData(CharactersView, ['legends', 'seasonCast']);
