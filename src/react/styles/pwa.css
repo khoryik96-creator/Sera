@@ -1,0 +1,15 @@
+.react-offline-banner{
+  position:relative;
+  z-index:20;
+  width:100%;
+  padding:9px 16px;
+  border-bottom:1px solid #4d4530;
+  background:#1b1912;
+  color:#e4c977;
+  text-align:center;
+  font-size:.72rem;
+  font-weight:700;
+  letter-spacing:.02em;
+}
+
+.react-offline-banner[hidden]{display:none}
