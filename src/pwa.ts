@@ -15,6 +15,13 @@ function updateInstallButton(): void {
   button.hidden = standalone || !installPrompt;
 }
 
+function registerServiceWorker(): void {
+  if (!('serviceWorker' in navigator) || !location.protocol.startsWith('http')) return;
+  navigator.serviceWorker.register(`./sw.js?v=${encodeURIComponent(APP_VERSION)}`).catch((error) => {
+    console.warn('Service worker registration failed', error);
+  });
+}
+
 export function initPwa(): void {
   setOfflineBanner(!navigator.onLine);
   window.addEventListener('online', () => setOfflineBanner(false));
@@ -39,11 +46,6 @@ export function initPwa(): void {
     updateInstallButton();
   });
 
-  if ('serviceWorker' in navigator && location.protocol.startsWith('http')) {
-    window.addEventListener('load', () => {
-      navigator.serviceWorker.register(`./sw.js?v=${encodeURIComponent(APP_VERSION)}`).catch((error) => {
-        console.warn('Service worker registration failed', error);
-      });
-    }, { once: true });
-  }
+  if (document.readyState === 'complete') registerServiceWorker();
+  else window.addEventListener('load', registerServiceWorker, { once: true });
 }
