@@ -10,6 +10,22 @@ const limits = {
   coreJson: 210 * 1024,
 };
 
+const requiredLazyRoutes = [
+  'ReaderRoute',
+  'ChaptersRoute',
+  'OverviewRoute',
+  'CharactersRoute',
+  'VillainsRoute',
+  'TechniquesRoute',
+  'RankingsRoute',
+  'BookmarksRoute',
+  'LegendsRoute',
+  'FormerRoute',
+  'TimelineRoute',
+  'CanonRoute',
+  'SearchRoute',
+];
+
 async function sizeOf(pattern, label) {
   const matches = files.filter((file) => pattern.test(file));
   if (matches.length !== 1) throw new Error(`${label}: expected one matching asset, found ${matches.length}: ${matches.join(', ')}`);
@@ -35,8 +51,10 @@ assertLimit(entryJs, limits.entryJs, 'Initial JS');
 assertLimit(entryCss, limits.entryCss, 'Initial CSS');
 assertLimit(coreJson, limits.coreJson, 'Core lore JSON');
 
-for (const route of ['ReaderRoute', 'ChaptersRoute', 'OverviewRoute', 'CharactersRoute', 'SearchRoute']) {
+for (const route of requiredLazyRoutes) {
   const exists = files.some((file) => new RegExp(`^${route}-[^.]+\\.js$`).test(file));
   if (!exists) throw new Error(`Expected lazy route chunk ${route}-*.js; route splitting may have regressed.`);
   console.log(`✓ lazy chunk: ${route}`);
 }
+
+console.log(`✓ route boundaries: ${requiredLazyRoutes.length} production chunks guarded`);
