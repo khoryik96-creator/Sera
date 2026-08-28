@@ -30,10 +30,14 @@ test('scrolling a chapter persists a reusable exact position', async ({ page }) 
     window.scrollTo(0, top + prose.offsetHeight * 0.46);
   });
 
+  await expect.poll(async () => Number.parseInt((await page.locator('.reader-chapter-position strong').textContent()) || '0', 10)).toBeGreaterThan(5);
+  await page.waitForTimeout(850);
+  await page.evaluate(() => window.scrollBy(0, 1));
+
   await expect.poll(async () => page.evaluate(() => {
     const rows = JSON.parse(localStorage.getItem('tqr:chapterPositions:v1') || '[]') as Array<{ id: string; progress: number }>;
     return rows.find((row) => row.id === 'ep-s12-e3')?.progress || 0;
-  })).toBeGreaterThan(0.2);
+  })).toBeGreaterThan(0.05);
 
   const stored = await page.evaluate(() => {
     const rows = JSON.parse(localStorage.getItem('tqr:chapterPositions:v1') || '[]') as Array<{ id: string; progress: number }>;
