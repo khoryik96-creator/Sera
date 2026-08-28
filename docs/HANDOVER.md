@@ -33,16 +33,18 @@ Suggested first instruction in a new chat:
 
 Latest feature release audited when this handover was written:
 
-- **PR #52 — Reader UX v4: exact chapter resume + focus mode**
-- merge commit: `6a0ae25a74ff783dbba5c76a4dcdc212cbff53cd`
-- GitHub Pages workflow run: `33188294840`
+- **PR #54 — Reader Library v4: collections, tags, and favorites**
+- merge commit: `dabf4fcd44517f85cfec26d631ba3237f67ce035`
+- GitHub Pages workflow run: `33191067065`
 - workflow status: **completed / success**
 
-Documentation-only continuity commits follow that runtime feature release. Recheck `main` for anything merged after PR #52 before starting new work.
+The production deployment independently re-ran quality, build, performance, single-file compatibility, Pixel/mobile + desktop browser regressions, artifact upload, and Pages deployment successfully.
+
+Documentation-only continuity commits may follow that runtime feature release. Recheck `main` for anything merged after PR #54 before starting new work.
 
 ---
 
-## Important: the original roadmap is already complete
+## Important: the original roadmap and approved post-roadmap phases are complete
 
 Do **not** repeat these:
 
@@ -52,7 +54,7 @@ Do **not** repeat these:
 - arc-based episode browser
 - typography / width reader controls
 - PWA controlled updates
-- Overview dashboard / Lucy-style visual cohesion
+- Overview dashboard / visual cohesion
 - Reader UX v3 + persistent reading progress
 - Characters v2
 - Search v2
@@ -60,7 +62,7 @@ Do **not** repeat these:
 - production cleanup
 - final Pixel/mobile visual audit
 
-The repository also progressed beyond that roadmap. These are already production features too:
+The repository also progressed beyond that original roadmap. These are already production features too:
 
 - Reader Library history + portable backups
 - contextual character/lore links inside chapters
@@ -69,6 +71,8 @@ The repository also progressed beyond that roadmap. These are already production
 - historical Qin/Han rank-state correction
 - Reading Insights
 - Reader UX v4 exact chapter position + Focus Mode
+- in-chapter current-season episode switcher
+- Reader Library v4 collections, tags, favorites, and unified organization
 
 See `docs/ROADMAP.md` for PR numbers and status.
 
@@ -86,6 +90,8 @@ The focused chapter reader supports:
 - Next Unread
 - Back to Season
 - Previous / Next episode navigation
+- in-chapter switcher across the already-loaded current season
+- current/opened episode state inside that switcher
 - persisted font size
 - persisted font family
 - persisted line spacing
@@ -97,6 +103,8 @@ The focused chapter reader supports:
 - save selected prose passages
 - bookmark state
 
+The episode switcher remains usable in Focus Mode and is intentionally compact rather than a full-screen picker.
+
 ### Reader Library
 
 The historical `#bookmarks` route is the Reader Library.
@@ -107,9 +115,27 @@ It includes:
 - Recently Read
 - Notes
 - Passages
+- Organize
 - Backup
 
-Backups are validated and can include supported local reader state such as bookmarks, Continue Reading, opened-episode progress, recent history, notes, passages, reader preferences, and exact chapter positions. Older backup versions remain compatible where implemented.
+Reader Library v4 organization is already implemented and device-local. It supports:
+
+- custom named collections spanning bookmarks, notes, and saved passages
+- Favorites as a built-in filter
+- normalized, bounded, de-duplicated free-form tags
+- unified search/filtering across organized items
+- assign/remove collection membership
+- favorite/unfavorite
+- tag editing
+- collection rename/delete
+- direct return to the underlying chapter
+- responsive contained mobile layout
+
+Organization persists in validated local state under `tqr:readerOrganization:v1` and does **not** add accounts, backend sync, or analytics.
+
+Backups are validated and can include supported local reader state such as bookmarks, Continue Reading, opened-episode progress, recent history, notes, passages, reader preferences, exact chapter positions, and Reader Library organization. Older v1 backups without organization remain compatible and import with empty organization state. Malformed/dangling organization references are rejected by validation.
+
+Deleting an underlying bookmark, note, or saved passage also cleans its organization metadata so invisible stale collection/tag/favorite records do not accumulate.
 
 ### Reading Insights
 
@@ -187,6 +213,7 @@ src/characterRegistry.ts      canonical identity/alias/rank story rules
 src/readingProgress.ts        opened-episode progress calculations
 src/readingInsights.ts        device-local insights calculations
 src/readerLibrary.ts          history + backup model
+src/readerOrganization.ts     collections / favorites / tags state
 src/readerNotes.ts            private episode notes
 src/readerPassages.ts         saved passage state
 src/bookmarks.ts              bookmark + Continue Reading state
@@ -194,6 +221,14 @@ src/novel.ts                  focused prose/rank/dialogue/context renderer
 src/pwa.ts                    service-worker/update integration
 src/types.ts                  runtime data types
 src/images.ts                 portrait discovery
+```
+
+Reader Library v4 UI is primarily in:
+
+```text
+src/react/features/bookmarks/BookmarksPage.tsx
+src/react/features/reader/ReaderContext.tsx
+src/react/styles/library.css
 ```
 
 Build/data tooling:
@@ -250,10 +285,12 @@ The user reads heavily on mobile. Existing regression work intentionally protect
 - contained mobile tab strip
 - contained character browser
 - contained arc/season browsers
+- contained Reader Library organization controls
 - reader controls remain in normal document flow
 - mobile chrome can move away while reading
 - active navigation remains visible
 - long character profiles remain navigable
+- in-chapter episode switcher remains compact and contained
 
 Do not reintroduce a fixed bottom navigator or a screen-covering season/episode picker.
 
@@ -316,6 +353,8 @@ Expected production verification includes:
 - legacy/compatibility reader checks
 - visual diagnostics
 
+Reader Library v4 specifically has unit/browser coverage for collection creation, assignment, favorites, tags, filtering, persistence/reload, collection rename/delete, cleanup, backup validation/compatibility, and mobile overflow containment.
+
 Never claim a release is live until the `main` Pages deployment itself is successful.
 
 ---
@@ -332,11 +371,11 @@ Always branch from current `main` after checking its SHA.
 
 ## Current roadmap state
 
-There is **no pre-authorized major phase after Reader UX v4** in the canonical roadmap.
+There is **no pre-authorized major phase after Reader Library v4 / PR #54** in the canonical roadmap.
 
-The next chat should not invent or repeat a large phase automatically. It should inspect current production and then continue from the user's newest request.
+The next chat should not invent or repeat a large phase automatically. In particular, do not rebuild Reader Library organization, the in-chapter switcher, Reader UX v4, Reading Insights, Search v2, Characters v2, or the original architecture/performance phases.
 
-Possible future ideas are listed in `docs/ROADMAP.md`, but they are deliberately marked as candidates rather than approved work.
+Possible future ideas are listed in `docs/ROADMAP.md`, but they are deliberately marked as candidates rather than approved work. Cross-device sync would require a deliberate backend/account decision rather than being silently added to the current private local model.
 
 ---
 
@@ -346,9 +385,9 @@ Possible future ideas are listed in `docs/ROADMAP.md`, but they are deliberately
 2. Read `docs/ROADMAP.md`.
 3. Read `docs/HANDOVER.md`.
 4. Fetch current `main` SHA.
-5. List recent merged PRs newer than #52.
+5. List recent merged PRs newer than #54.
 6. Verify the latest Pages run for current `main`.
-7. Only then plan new work.
+7. Only then plan genuinely new work from the user's newest instruction.
 8. Create a fresh branch from current `main`.
 9. Preserve portraits/canon unless explicitly part of the request.
 10. Run full CI before merge and follow Pages through deployment.
