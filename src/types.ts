@@ -1,6 +1,6 @@
 // Type definitions for The Quiet Regular lore repository data model.
-// The persisted lore still lives in src/data.json. Legacy positional rows are
-// normalized once in db.ts so render modules work with named, typed fields.
+// src/data.json remains the canonical authoring file. Build preparation splits
+// it into a small core payload plus independently loadable season payloads.
 
 export interface Character {
   name: string;
@@ -102,7 +102,7 @@ export type LegacyTopSkillRow = [string, string, string, string, string];
 export type LegacyRankRow = [string, string, string, string];
 export type LegacySeasonCastRow = [string, string, string];
 
-interface DatabaseCore {
+interface CoreFields {
   characters: Record<string, Character>;
   legends: Legend[];
   arcFigures: ArcFigure[];
@@ -111,19 +111,23 @@ interface DatabaseCore {
   rhenSkills: Skill[];
   seraSkills: Skill[];
   canonRules?: unknown[];
-  [season: `season${number}`]: Episode[];
 }
 
-/** Runtime shape consumed by render code. */
-export interface Database extends DatabaseCore {
+/** Runtime core shape consumed by non-episode render code. */
+export interface Database extends CoreFields {
   topSkills: Record<string, TopSkillEntry[]>;
   ranks: RankEntry[];
   seasonCast: Record<string, SeasonCastEntry[]>;
 }
 
-/** On-disk shape of data.json during the compatibility migration. */
-export interface RawDatabase extends DatabaseCore {
+/** Generated core.json shape before positional compatibility rows are normalized. */
+export interface RawCoreDatabase extends CoreFields {
   topSkills: Record<string, LegacyTopSkillRow[]>;
   ranks: LegacyRankRow[];
   seasonCast: Record<string, LegacySeasonCastRow[]>;
+}
+
+/** Canonical authoring shape of src/data.json. */
+export interface RawDatabase extends RawCoreDatabase {
+  [season: `season${number}`]: Episode[];
 }
