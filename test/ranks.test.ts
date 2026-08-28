@@ -1,9 +1,10 @@
 import { describe, it, expect } from 'vitest';
 import rawData from '../src/data.json';
-import { rankColorKey } from '../src/ranks';
-import type { Database } from '../src/types';
+import { normalizeDatabase } from '../src/db';
+import { rankColorKey, rankBadgeTone } from '../src/ranks';
+import type { RawDatabase } from '../src/types';
 
-const data = rawData as unknown as Database;
+const data = normalizeDatabase(rawData as unknown as RawDatabase);
 
 describe('rankColorKey', () => {
   it('maps each current ranked character to its own colour', () => {
@@ -30,9 +31,23 @@ describe('rankColorKey', () => {
 
   it('gives every ranking row its own colour, never the rhen fallback except Rhen', () => {
     for (const r of data.ranks) {
-      const key = rankColorKey(r[1]);
-      if (r[1] === 'Rhen') expect(key).toBe('rhen');
-      else expect(key, r[1]).not.toBe('rhen');
+      const key = rankColorKey(r.name);
+      if (r.name === 'Rhen') expect(key).toBe('rhen');
+      else expect(key, r.name).not.toBe('rhen');
     }
+  });
+
+  it('uses an unranked pill only for Rhen and explicit former/retired statuses', () => {
+    for (const r of data.ranks) {
+      const tone = rankBadgeTone(r);
+      if (r.name === 'Rhen') expect(tone).toBe('unranked');
+      if (/^Former\s+#\d+/i.test(r.name) || /former|retired|deceased/i.test(`${r.rank} ${r.className}`)) {
+        expect(tone).toBe('former');
+      }
+    }
+  });
+
+  it('does not demote a current rank merely because its biography mentions a former rank', () => {
+    expect(rankBadgeTone({ rank: '#2', name: 'Liang Yue', className: 'Duke', description: 'Former World #1.' })).toBe('current');
   });
 });

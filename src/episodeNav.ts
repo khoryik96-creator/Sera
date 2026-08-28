@@ -1,18 +1,11 @@
 /**
- * Compact, pinned episode navigator for the Episodes tab:
- *  - a single sticky row: prev / next season, a season button, an episode
- *    button, and bookmarks / resume;
- *  - season grid, episode number pad, and bookmarks each open as a pop-panel
- *    under the bar (one at a time; click outside to close);
- *  - per-episode bookmarks with resume-reading; bookmarked episodes show a ★
- *    on the number pad.
- *
- * The episode list is re-rendered on search/tab changes, so all interaction is
- * done via event delegation on stable parents; bookmark star state is baked in
- * at render time (see episodes.ts).
+ * Compact, pinned episode navigator for the Episodes tab. Episode prose is now
+ * rendered lazily, so navigation ensures a season is materialized before it
+ * queries or scrolls to one of its cards.
  */
 
 import { getBookmarks, toggleBookmark, setLastRead, getLastRead, isBookmarked } from './bookmarks';
+import { ensureSeasonRendered } from './episodes';
 import type { Bookmark } from './bookmarks';
 
 interface SeasonRef {
@@ -32,7 +25,7 @@ function collectSeasons(): SeasonRef[] {
   document.querySelectorAll<HTMLElement>('#episodes .season-accordion').forEach((acc) => {
     const container = acc.querySelector<HTMLElement>('[id^="episodeList"]');
     if (!container) return;
-    const season = container.id === 'episodeList' ? 1 : Number(container.id.replace('episodeListSeason', ''));
+    const season = Number(acc.dataset.season || (container.id === 'episodeList' ? 1 : container.id.replace('episodeListSeason', '')));
     if (!Number.isFinite(season)) return;
     out.push({ season, containerId: container.id });
   });
@@ -52,12 +45,20 @@ function scrollToEl(node: HTMLElement): void {
 }
 
 function seasonCards(season: number): HTMLDetailsElement[] {
+  ensureSeasonRendered(season);
   const ref = seasons.find((s) => s.season === season);
   const container = ref ? el(ref.containerId) : null;
   return container ? [...container.querySelectorAll<HTMLDetailsElement>('.legend-card')] : [];
 }
 
+function seasonFromEpisodeId(id: string): number | null {
+  const match = id.match(/^ep-s(\d+)-e\d+$/);
+  return match ? Number(match[1]) : null;
+}
+
 function jumpToEpisode(id: string): void {
+  const requestedSeason = seasonFromEpisodeId(id);
+  if (requestedSeason) ensureSeasonRendered(requestedSeason);
   const target = document.getElementById(id);
   if (!target) return;
   revealAncestors(target);
@@ -130,6 +131,7 @@ function setSeason(n: number): void {
   const min = seasons[0].season;
   const max = seasons[seasons.length - 1].season;
   curSeason = Math.min(Math.max(n, min), max);
+  ensureSeasonRendered(curSeason);
   const numEl = el('seasonCurNum');
   if (numEl) numEl.textContent = String(curSeason);
   const label = el('episodeToggleLabel');
@@ -162,7 +164,7 @@ function updateResumeButton(): void {
   const btn = el('resumeReading');
   if (!btn) return;
   const last = getLastRead();
-  if (last && document.getElementById(last.id)) {
+  if (last && seasons.some((season) => season.season === last.season)) {
     btn.hidden = false;
     btn.title = `Resume: ${last.title}`;
   } else {
@@ -200,7 +202,7 @@ export function initEpisodeNav(): void {
     const chip = (e.target as HTMLElement).closest<HTMLElement>('.season-chip');
     if (!chip?.dataset.season) return;
     setSeason(Number(chip.dataset.season));
-    openPop('episodePad'); // move straight to choosing an episode
+    openPop('episodePad');
   });
 
   el('episodePad')?.addEventListener('click', (e) => {
@@ -222,12 +224,10 @@ export function initEpisodeNav(): void {
     closePops();
   });
 
-  // Click outside the navbar closes any open pop-panel.
   document.addEventListener('click', (e) => {
     if (!(e.target as HTMLElement).closest('#episodeJumpBar')) closePops();
   });
 
-  // Delegated handling inside the (re-rendered) episodes panel.
   el('episodes')?.addEventListener('click', (e) => {
     const t = e.target as HTMLElement;
     const bm = t.closest<HTMLElement>('.ep-bookmark');

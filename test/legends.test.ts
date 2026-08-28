@@ -2,9 +2,10 @@ import { describe, it, expect, beforeAll } from 'vitest';
 import data from '../src/data.json';
 import { setDB } from '../src/db';
 import { legendsForCharacter, charOrder } from '../src/characters';
-import type { Database } from '../src/types';
+import type { RawDatabase } from '../src/types';
 
-beforeAll(() => setDB(data as unknown as Database));
+const raw = data as unknown as RawDatabase;
+beforeAll(() => setDB(raw));
 
 describe('legendsForCharacter', () => {
   it('surfaces the dedicated legends for Mo and Yun (were wrongly showing 0)', () => {
@@ -22,16 +23,14 @@ describe('legendsForCharacter', () => {
   });
 
   it('matches whole words only — Sera does not pick up "Ilyra Serath"', () => {
-    // Every Sera legend must contain "Sera" as a standalone word, never "Serath".
     for (const l of legendsForCharacter('sera')) {
       expect(/\bSera\b/i.test(l.rank), l.rank).toBe(true);
     }
-    // Ilyra has no dedicated legend in the data, and must not inherit Sera's.
     expect(legendsForCharacter('ilyra')).toHaveLength(0);
   });
 
   it('never returns the entire legend set for any character', () => {
-    const total = (data as unknown as Database).legends.length;
+    const total = raw.legends.length;
     for (const key of charOrder) {
       expect(legendsForCharacter(key).length, key).toBeLessThan(total);
     }

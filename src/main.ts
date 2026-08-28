@@ -1,4 +1,7 @@
 import './styles.css';
+import './styles/portraits.css';
+import './styles/rank-badges.css';
+import './styles/episodes.css';
 import { getEl } from './dom';
 import { loadDB } from './db';
 import { renderCharacterButtons, renderCharacter, mountCharacterEvents } from './characters';
@@ -7,7 +10,8 @@ import { renderRanks } from './ranks';
 import { renderLegends } from './legends';
 import { renderFormer } from './former';
 import { renderSeraTimeline } from './seraTimeline';
-import { renderEpisodes, renderSeasonCast } from './episodes';
+import { renderEpisodes, mountEpisodeLazyRendering } from './episodes';
+import { prepareEpisodeArchive } from './episodeStructure';
 import { renderArcFigures } from './arcFigures';
 import { renderColorKey } from './colorKey';
 import { initEpisodeNav } from './episodeNav';
@@ -35,7 +39,6 @@ function wireEvents(): void {
   getEl<HTMLInputElement>('legendSearch').addEventListener('input', (e) => renderLegends((e.target as HTMLInputElement).value));
   getEl<HTMLInputElement>('otherSearch').addEventListener('input', (e) => renderArcFigures((e.target as HTMLInputElement).value));
 
-  // Quicklink scroll buttons (data-scroll="<target id>") replace inline onclick handlers.
   document.querySelectorAll<HTMLElement>('[data-scroll]').forEach((btn) => btn.addEventListener('click', () => {
     const target = btn.dataset.scroll;
     if (target) getEl(target).scrollIntoView({ behavior: 'smooth' });
@@ -44,6 +47,11 @@ function wireEvents(): void {
 
 async function main(): Promise<void> {
   await loadDB();
+
+  // Capture the old season headings once, replace them with a generated shell,
+  // and only materialize episode prose when a season is opened/navigated to.
+  prepareEpisodeArchive();
+
   wireEvents();
   mountCharacterEvents();
   renderCharacterButtons();
@@ -55,9 +63,8 @@ async function main(): Promise<void> {
   renderLegends();
   renderFormer();
   renderSeraTimeline();
-  renderEpisodes();
-  renderSeasonCast();
   renderColorKey();
+  mountEpisodeLazyRendering();
   initEpisodeNav();
 }
 

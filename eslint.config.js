@@ -3,7 +3,7 @@ import tseslint from 'typescript-eslint';
 
 export default tseslint.config(
   {
-    ignores: ['dist/**', 'node_modules/**'],
+    ignores: ['dist/**', 'dist-single/**', 'node_modules/**'],
   },
   js.configs.recommended,
   ...tseslint.configs.recommended,
@@ -14,6 +14,9 @@ export default tseslint.config(
         window: 'readonly',
         document: 'readonly',
         console: 'readonly',
+        localStorage: 'readonly',
+        HTMLInputElement: 'readonly',
+        HTMLDetailsElement: 'readonly',
       },
     },
     rules: {
@@ -21,6 +24,15 @@ export default tseslint.config(
         'error',
         { argsIgnorePattern: '^_', varsIgnorePattern: '^_' },
       ],
+    },
+  },
+  {
+    files: ['scripts/**/*.mjs'],
+    languageOptions: {
+      globals: {
+        console: 'readonly',
+        process: 'readonly',
+      },
     },
   },
 );

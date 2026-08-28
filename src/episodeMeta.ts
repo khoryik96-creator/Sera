@@ -1,0 +1,163 @@
+import type { EpisodeArcMeta, EpisodeSeasonMeta } from './episodeStructure';
+
+const season = (season: number, title: string, badge: string): EpisodeSeasonMeta => ({
+  season,
+  title: season === 1 ? 'Season 1' : `Season ${season} - ${title}`,
+  badge,
+  hasCast: season >= 4,
+});
+
+/** Canonical archive structure. Episode prose remains in data.json. */
+export const EPISODE_ARCS: EpisodeArcMeta[] = [
+  {
+    title: 'Arc I — The Quiet Regular',
+    badge: 'Seasons 1–3',
+    description: "Tea shop beginnings, Sera and Rhen's early relationship, and the first hints of the hidden legend.",
+    seasons: [
+      season(1, '', '10 Episodes · LOCKED'),
+      season(2, 'The Manufactured Calamities', '10 Episodes · COMPLETE DRAFT'),
+      season(3, 'The Man Beneath the Snow', '10 Episodes · COMPLETE DRAFT'),
+    ],
+  },
+  {
+    title: 'Arc II — The Nine Seals',
+    badge: 'Seasons 4–8',
+    description: "Seal conflicts, Duke politics, old sovereign history, and Huo Wujin's first rise.",
+    seasons: [
+      season(4, 'The Sea That Remembers', '10 Episodes · NINE SEALS SAGA'),
+      season(5, 'The White Funeral', '10 Episodes · NINE SEALS SAGA'),
+      season(6, 'Ten Thousand False Lanterns', '10 Episodes · NINE SEALS SAGA'),
+      season(7, "The Golden Lion's Last Thunder", '10 Episodes · DUKE CLASH'),
+      season(8, 'The Unmoving Heaven', '10 Episodes · SAGA CONTINUES'),
+    ],
+  },
+  {
+    title: 'Arc III — The Old War Awakens',
+    badge: 'Seasons 9–12',
+    description: "Old-war sovereigns, buried histories, the Pale Regent, and Rhen's past returning.",
+    seasons: [
+      season(9, 'The Man Beneath Stone', '10 Episodes · OLD WAR AWAKENS'),
+      season(10, 'Red Snow, Pale Orchid', '10 Episodes · ROMANCE / MYSTERY'),
+      season(11, 'When Two Dukes Disagree', '10 Episodes · DUKE CLASH'),
+      season(12, 'The Pale Regent', '10 Episodes · SERA-LED ARC'),
+    ],
+  },
+  {
+    title: 'Arc IV — Moonless City & Marquis War',
+    badge: 'Seasons 13–17',
+    description: 'Mo Yanshu, Yan Luochen, Marquis warfare, political romance, and the Hollow Saint.',
+    seasons: [
+      season(13, 'The City That Forgot the Moon', '10 Episodes · MOONLESS CITY / ROMANCE'),
+      season(14, 'The Marquis War', '10 Episodes · MARQUIS WAR'),
+      season(15, 'Dukes at War', '10 Episodes · DUKE ATTACK'),
+      season(16, "The Pale Orchid's Wedding Rumor", '10 Episodes · ROMANCE / POLITICAL COMEDY'),
+      season(17, "The Night Rhen Couldn't Protect Her", '10 Episodes · DARK ARC / ROMANCE'),
+    ],
+  },
+  {
+    title: 'Arc V — The Black Sun Saga',
+    badge: 'Seasons 18–22',
+    description: "Jiang Taixuan, Duke attacks, Sera and Rhen's marriage, and Ninety-Seven Minutes of Winter.",
+    seasons: [
+      season(18, 'The Black Sun Beyond the Gate', '10 Episodes · #4 DUKE / ENGAGEMENT'),
+      season(19, 'White Court Bleeds', '10 Episodes · #2 DUKE GRAVELY INJURED'),
+      season(20, 'The Unmoving Heaven Answers', '10 Episodes · #1 DUKE / BLACK SUN WAR'),
+      season(21, 'Tea Before War', '10 Episodes · WEDDING / DUKE FRONTS'),
+      season(22, 'Ninety-Seven Minutes of Winter', '10 Episodes · SERA WOUNDED / RHEN UNLEASHED'),
+    ],
+  },
+  {
+    title: 'Arc VI — The Ranking Succession',
+    badge: 'Seasons 23–27',
+    description: "Han's death, Qin's semi-retirement, the rebuilt Top Ten, and the Nine Graves Society.",
+    seasons: [
+      season(23, 'The Empty Eighth Seat', '10 Episodes · NINE GRAVES / HAN TARGETED'),
+      season(24, 'Ashes of Number Eight', '10 Episodes · HAN DIES / QIN RETIRES'),
+      season(25, 'The Woman Who Should Be Dead', '10 Episodes · YUN SHIZHEN / NEW #10'),
+      season(26, 'Nine Graves', '10 Episodes · NEW TOP TEN / SERA VS MU'),
+      season(27, 'The Ten Pillars Lie', '10 Episodes · GRAVE SOVEREIGN / NEW GENERATION'),
+    ],
+  },
+  {
+    title: 'Arc VII — The Empty Throne',
+    badge: 'Seasons 28–32',
+    description: "Huo Wujin's evolved return, Jiang's stolen cultivation, Kael's defeat, Autumn Without End, and Eternal Spring.",
+    seasons: [
+      season(28, 'The Emperor Without a Funeral', '10 Episodes · HUO RETURNS / JIANG FALLS'),
+      season(29, 'The Marquises Against Heaven', '10 Episodes · #6–#10 MAX OUTPUT'),
+      season(30, 'Two Number Ones', '10 Episodes · TAE / JIN / KAEL REMATCH'),
+      season(31, 'World Number One Falls', '10 Episodes · KAEL DEFEAT / RHEN AUTUMN'),
+      season(32, 'The Empty Throne Aftermath', '10 Episodes · ETERNAL SPRING / CO-#1'),
+    ],
+  },
+  {
+    title: 'Arc VIII Part I — The Six Crowns: Western Dark',
+    badge: 'Seasons 33–37',
+    description: 'Rhen remains in seclusion for all five seasons while the five elite Crowns emerge. Crown V leaves the lower Marquises critical, Crown IV decisively defeats Lei, Crown III repeatedly injures Sera, and Jin finally sends a world-level calamity alert at the end of Season 37.',
+    seasons: [
+      season(33, 'The Last Quiet Morning', '10 Episodes · RHEN SECLUSION / CROWN V'),
+      season(34, 'The Red God', '10 Episodes · SERA VS CROWN III / JIN VS CROWN II'),
+      season(35, 'The Horizon and the Red God', '10 Episodes · TAE VS AUREL / SERA VS DRAVEN'),
+      season(36, 'Five Crowns, No Leader', '10 Episodes · #1 / #2 / #3 / #4 / #5 ALL ACTIVE'),
+      season(37, 'World-Level Calamity', '10 Episodes · FIFTH SECLUSION SEASON / JIN SENDS ALERT'),
+    ],
+  },
+  {
+    title: 'Arc VIII Part II — The Six Crowns: Crown Beyond Crowns',
+    badge: 'Seasons 38–42',
+    description: "Rhen returns in Season 38 and kills Crown III, but Vaelor himself remains unseen until Seasons 41–42. His True Crown defeats all Five Dukes and then both Number Ones; Sera and the Marquises hold the line until Rhen returns to the battlefield and ends the calamity with Winter Has No Horizon.",
+    seasons: [
+      season(38, 'Winter Returns', "10 Episodes · HEAVEN'S RETURN / DRAVEN DIES"),
+      season(39, 'Before the Crown', '10 Episodes · DUKES PREPARE / WINTER TRAINS'),
+      season(40, 'The Last Quiet Before Vaelor', '10 Episodes · FINAL MOBILIZATION / LEADER STILL UNSEEN'),
+      season(41, 'The Crown Beyond Crowns', '10 Episodes · FIVE DUKES FALL / TAE ARRIVES'),
+      season(42, 'Beyond the Summit', '10 Episodes · BOTH NUMBER ONES FALL / RHEN ENDS IT'),
+    ],
+  },
+  {
+    title: 'Arc VIII Coda — After the Darkest Winter',
+    badge: 'Season 43',
+    description: 'Recovery, romance, the first Crown Accord negotiations, and a warning that the Six Crowns were only the visible shield against far older powers in the west.',
+    seasons: [season(43, 'After the Darkest Winter', '10 Episodes · AFTERMATH / ROMANCE / WESTERN TEASER')],
+  },
+  {
+    title: 'Final Major Arc Part I — The Seven Thrones',
+    badge: 'Seasons 44–53',
+    description: "Two years after Vaelor, Sera and Rhen's peaceful retirement ends when the Seven Ancient Kings awaken. The weakest King erases the old Crown court, Ilyra becomes #6, the East suffers catastrophic defeats, and Rhen returns only when Rhavenn's ninth life becomes unsolvable—then trains the world instead of fighting for it.",
+    seasons: [
+      season(44, 'Two Years Quiet', '10 Episodes · RETIREMENT / ORUN AWAKENS'),
+      season(45, 'The Buried King', '10 Episodes · KING VII / KING VI'),
+      season(46, 'Every Road Returns', '10 Episodes · KING VI / RHAVENN AWAKENS'),
+      season(47, 'Nine Graves', '10 Episodes · KING V / EAST COLLAPSES'),
+      season(48, 'The Tea Sellers Return', '10 Episodes · SERA DUKE-LEVEL / RHEN TRAINS'),
+      season(49, 'Make Nine Disagree', '10 Episodes · RHAVENN REMATCH / ORUN FALLS'),
+      season(50, 'The Road Home', '10 Episodes · KING VI FALLS / TOR ARRIVES'),
+      season(51, 'Borrowed Tomorrow', '10 Episodes · KING IV / NAMELESS KING'),
+      season(52, 'Nameless Heaven', '10 Episodes · KING III FALLS / KING II'),
+      season(53, 'The Twelve Against Heaven', '10 Episodes · VARESH FALLS / AMON ARRIVES'),
+    ],
+  },
+  {
+    title: 'Final Major Arc Part II — The Sovereign Before Heaven',
+    badge: 'Seasons 54–63',
+    description: 'The Rhen-trained coalition barely defeats King II before Amon annihilates their advantage. Rhen finally intervenes, then faces the mythical white-haired Overlord Aethon Vael. Petals in Stasis and Petals Beneath a Frozen Moon are finally revealed before Rhen and Sera abandon the martial world.',
+    seasons: [
+      season(54, 'The Dying Sun', '10 Episodes · AMON / WINTER MOON SEVERANCE'),
+      season(55, 'The Sovereign Before Heaven', '10 Episodes · AETHON ARRIVES'),
+      season(56, 'Two Learners', '10 Episodes · AETHON VS PASSIVE / KING RESOURCES'),
+      season(57, 'Seven Thrones Turn', '10 Episodes · KINGS ALLY WITH EAST'),
+      season(58, 'Petals in Stasis', '10 Episodes · SUPREME COMBAT REVEAL / SEVEN CORPSES'),
+      season(59, 'Beneath a Frozen Moon', '10 Episodes · ULTIMATE REVEAL / AETHON ENDS'),
+      season(60, 'No Thrones', '10 Episodes · RECONSTRUCTION / ILYRA #6'),
+      season(61, 'The Petals Monarch Problem', '10 Episodes · FAME / RELOCATION'),
+      season(62, 'Retirement With Conditions', '10 Episodes · QUIET LIFE / CURRENT BOARD'),
+      season(63, 'Leave the World Behind', '10 Episodes · FINAL MAJOR ARC CLOSURE'),
+    ],
+  },
+  {
+    title: 'Final Saga Coda — Second Spring',
+    badge: 'Season 64',
+    description: 'Two peaceful years after Second Spring opens, the epilogue revisits Rhen and Sera: Sera has grown beyond the old Duke framework, while Rhen has become even less measurable without becoming any less domestic.',
+    seasons: [season(64, 'Epilogue: Two Years Later', '3 Episodes · SECOND SPRING / BEYOND DUKE / QUIET ENDING')],
+  },
+];

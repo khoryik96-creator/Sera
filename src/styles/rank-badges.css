@@ -1,0 +1,36 @@
+/* Compact ranking pills adapted from the Lucy/Despicable-Heretic reader. */
+.rank-badge{
+  display:inline-flex;
+  align-items:center;
+  justify-content:center;
+  width:max-content;
+  white-space:nowrap;
+  border-radius:999px;
+  padding:3px 8px;
+  font-size:10px;
+  line-height:1.15;
+  font-weight:850;
+  letter-spacing:.03em;
+  vertical-align:middle;
+}
+.rank-badge--current{
+  border:1px solid #5d512c;
+  background:#211d12;
+  color:var(--gold);
+}
+.rank-badge--former{
+  border:1px solid #4b5965;
+  background:#151b20;
+  color:#b4c0ca;
+}
+.rank-badge--unranked{
+  border:1px solid #315d6c;
+  background:#101a20;
+  color:var(--char-rhen);
+}
+.profile-name .rank-badge{margin-left:9px;transform:translateY(-2px)}
+.char-nav-rank .rank-badge{font-size:9px;padding:2px 7px}
+.rank-class{margin-top:4px;color:var(--muted);font-size:11px;line-height:1.35}
+@media(max-width:620px){
+  .profile-name .rank-badge{margin-left:6px;font-size:9px}
+}

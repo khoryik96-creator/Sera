@@ -1,0 +1,10 @@
+/* Episode archive-specific additions. The generated shell stays lightweight;
+   prose cards are inserted only for seasons the reader opens or navigates to. */
+#episodeArchiveGenerated{display:block}
+#episodeArchiveGenerated .arc-accordion{content-visibility:auto;contain-intrinsic-size:120px 900px}
+#episodeArchiveGenerated .season-accordion{content-visibility:auto;contain-intrinsic-size:96px 680px}
+.season-episode-list:empty{min-height:0}
+@media(max-width:720px){
+  #episodeArchiveGenerated .arc-accordion,
+  #episodeArchiveGenerated .season-accordion{contain-intrinsic-size:90px 760px}
+}

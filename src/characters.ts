@@ -3,10 +3,10 @@ import { characterImageMap, characterExtraImages } from './images';
 import { getEl, escRe } from './dom';
 import { renderSeraSkills } from './skills';
 import { legendCard } from './legends';
+import { portraitGalleryMarkup, handlePortraitGalleryClick } from './portraitGallery';
 import type { Character, Legend } from './types';
 
 let currentCharacterKey = 'sera';
-let galleryPortraits: string[] = [];
 
 export const charOrder = ['rhen', 'kael', 'liang', 'jin', 'lei', 'rui', 'ilyra', 'sera', 'mo', 'arin', 'wen', 'yun', 'qin', 'han'];
 
@@ -17,9 +17,19 @@ function displayRank(c: Character): string {
   return '';
 }
 
+function rankBadgeMarkup(c: Character): string {
+  const label = displayRank(c);
+  if (!label) return '';
+  const tone = label === 'UNR' ? 'unranked' : c.name.startsWith('Former ') ? 'former' : 'current';
+  return `<span class="rank-badge rank-badge--${tone}">${label}</span>`;
+}
+
+function displayName(c: Character): string {
+  return String(c.name || '').replace(/^(Former\s+)?#\d+\s*[-–—]\s*/, '').trim();
+}
+
 function characterInitial(c: Character): string {
-  const n = String(c.name || '').replace(/^(Former\s+)?#\d+\s*[-–—]\s*/, '').trim();
-  return n.split(/\s+/).map((x) => x[0]).join('').slice(0, 2).toUpperCase();
+  return displayName(c).split(/\s+/).map((x) => x[0]).join('').slice(0, 2).toUpperCase();
 }
 
 export function renderCharacterButtons(q = ''): void {
@@ -32,20 +42,10 @@ export function renderCharacterButtons(q = ''): void {
     const img = characterImageMap[k];
     return `<button class="char-nav-item${active}" data-char="${k}">
       <span class="char-avatar">${img ? `<img src="${img}" alt="${c.name}">` : characterInitial(c)}</span>
-      <span class="char-nav-copy"><span class="char-nav-name character-${color}">${c.name.replace(/^(Former\s+)?#\d+\s*[-–—]\s*/, '')}</span><span class="char-nav-sub">${c.subtitle}</span></span>
-      <span class="char-nav-rank">${displayRank(c)}</span>
+      <span class="char-nav-copy"><span class="char-nav-name character-${color}">${displayName(c)}</span><span class="char-nav-sub">${c.subtitle}</span></span>
+      <span class="char-nav-rank">${rankBadgeMarkup(c)}</span>
     </button>`;
   }).join('');
-}
-
-function showGalleryPortrait(index: number): void {
-  const pics = galleryPortraits;
-  const main = document.getElementById('seraOnlyPortrait') as HTMLImageElement | null;
-  if (!main || !pics[index]) return;
-  main.src = pics[index];
-  document.querySelectorAll('.sera-v101-thumb').forEach((x, i) => x.classList.toggle('active', i === index));
-  const count = document.getElementById('seraV101Count');
-  if (count) count.textContent = `${index + 1} / ${pics.length}`;
 }
 
 export function renderCharacter(key: string): void {
@@ -63,28 +63,9 @@ export function renderCharacter(key: string): void {
       ? 'The world called him the Petals Monarch. He still preferred a quiet table and tea.'
       : (c.legend || c.reputation || c.identity || '').split('.')[0] + '.';
   const extras = characterExtraImages[key] || [];
-  let visual = '';
-  if (img) {
-    if (extras.length) {
-      const gallery = [img, ...extras];
-      galleryPortraits = gallery;
-      visual = `<div class="profile-visual sera-v101-gallery">
-        <div class="sera-v101-stage">
-          <img id="seraOnlyPortrait" src="${gallery[0]}" alt="${c.name} portrait">
-        </div>
-        <div class="sera-v101-controls">
-          ${gallery.map((src, i) => `<button type="button" class="sera-v101-thumb${i === 0 ? ' active' : ''}" data-idx="${i}" aria-label="Show ${c.name} portrait ${i + 1}">
-            <img src="${src}" alt="${c.name} portrait ${i + 1} thumbnail">
-          </button>`).join('')}
-          <span id="seraV101Count">1 / ${gallery.length}</span>
-        </div>
-      </div>`;
-    } else {
-      visual = `<div class="profile-visual"><img id="profileMainImage" src="${img}" alt="${c.name} portrait"></div>`;
-    }
-  } else {
-    visual = `<div class="profile-visual"><div class="profile-placeholder"><div class="sigil character-${color}">${characterInitial(c)}</div></div></div>`;
-  }
+  const visual = img
+    ? portraitGalleryMarkup(c.name, [img, ...extras])
+    : `<div class="profile-visual"><div class="profile-placeholder"><div class="sigil character-${color}">${characterInitial(c)}</div></div></div>`;
   const facts: [string, string | undefined][] = [
     ['STATUS', c.subtitle],
     ['IDENTITY', c.identity],
@@ -95,7 +76,7 @@ export function renderCharacter(key: string): void {
     <div class="profile-hero">
       <div class="profile-copy">
         <div class="profile-overline">CHARACTER PROFILE</div>
-        <h2 class="profile-name character-${color}">${c.name.replace(/^(Former\s+)?#\d+\s*[-–—]\s*/, '')}</h2>
+        <h2 class="profile-name character-${color}"><span>${displayName(c)}</span>${rankBadgeMarkup(c)}</h2>
         <div class="profile-subtitle">${c.subtitle}</div>
         <div class="profile-tags">${(c.tags || []).map((t) => `<span class="badge">${t}</span>`).join('')}</div>
         <div class="profile-quote">“${quote.replace(/^“|”$/g, '')}”</div>
@@ -114,7 +95,7 @@ export function renderCharacter(key: string): void {
   if (rows) {
     wrap.classList.remove('hidden');
     getEl('topSkillTitle').textContent = `${c.name} — Signature Martial Arts`;
-    getEl('topSkillTable').innerHTML = `<thead><tr><th>#</th><th>Technique</th><th>Category</th><th>Signature</th><th>Rating</th><th>Description</th></tr></thead><tbody>${rows.map((s, i) => `<tr><td><span class="badge">${i === rows.length - 1 ? 'Ω' : String(i + 1).padStart(2, '0')}</span></td><td><strong>${s[0]}</strong></td><td>${s[1]}</td><td style="color:var(--gold)">${s[2]}</td><td class="rating">${s[3]}</td><td>${s[4]}</td></tr>`).join('')}</tbody>`;
+    getEl('topSkillTable').innerHTML = `<thead><tr><th>#</th><th>Technique</th><th>Category</th><th>Signature</th><th>Rating</th><th>Description</th></tr></thead><tbody>${rows.map((s, i) => `<tr><td><span class="badge">${i === rows.length - 1 ? 'Ω' : String(i + 1).padStart(2, '0')}</span></td><td><strong>${s.name}</strong></td><td>${s.category}</td><td style="color:var(--gold)">${s.signature}</td><td class="rating">${s.rating}</td><td>${s.description}</td></tr>`).join('')}</tbody>`;
   } else {
     wrap.classList.add('hidden');
     getEl('topSkillTitle').textContent = '';
@@ -153,14 +134,13 @@ function renderCharacterLegends(key: string): void {
   getEl('characterLegendList').innerHTML = items.length ? items.map(legendCard).join('') : '<div class="card muted">No dedicated legend entry yet.</div>';
 }
 
-/** Wire up delegated click handlers for character navigation and the Sera gallery. */
+/** Wire up delegated click handlers for character navigation and all galleries. */
 export function mountCharacterEvents(): void {
   getEl('characterButtons').addEventListener('click', (e) => {
     const btn = (e.target as HTMLElement).closest<HTMLElement>('[data-char]');
     if (btn?.dataset.char) renderCharacter(btn.dataset.char);
   });
   getEl('charDetail').addEventListener('click', (e) => {
-    const thumb = (e.target as HTMLElement).closest<HTMLElement>('.sera-v101-thumb');
-    if (thumb?.dataset.idx) showGalleryPortrait(Number(thumb.dataset.idx));
+    handlePortraitGalleryClick(e.target as HTMLElement);
   });
 }
