@@ -1,4 +1,4 @@
-/* React preview mobile containment. Keep horizontal browsing local to controls;
+/* Production mobile containment. Keep horizontal browsing local to controls;
    never let wide card rows expand the document itself. */
 @media (max-width: 800px) {
   html,
@@ -89,6 +89,14 @@
   .mobile-tabs {
     max-width: 100%;
     overscroll-behavior-inline: contain;
+  }
+
+  .mobile-tabs {
+    scroll-padding-inline: 40%;
+  }
+
+  .mobile-tabs button {
+    scroll-margin-inline: 12px;
   }
 }
 
