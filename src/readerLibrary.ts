@@ -4,6 +4,8 @@ import { NOTES_KEY, persistEpisodeNotes, validEpisodeNote } from './readerNotes'
 import type { EpisodeNote } from './readerNotes';
 import { PASSAGES_KEY, persistSavedPassages, validSavedPassage } from './readerPassages';
 import type { SavedPassage } from './readerPassages';
+import { persistChapterPositions, validChapterPosition } from './readerPositions';
+import type { ChapterPosition } from './readerPositions';
 
 export const HISTORY_KEY = 'tqr:readingHistory:v1';
 export const BOOKMARKS_KEY = 'tqr:bookmarks';
@@ -35,8 +37,13 @@ export interface ReaderStateBackup {
   history: ReadingHistoryEntry[];
   notes: EpisodeNote[];
   passages: SavedPassage[];
+  positions: ChapterPosition[];
   preferences: ReaderPreferenceBackup;
 }
+
+type ReaderBackupInput = Omit<ReaderStateBackup, 'product' | 'version' | 'exportedAt' | 'positions'> & {
+  positions?: ChapterPosition[];
+};
 
 function episodeParts(value: unknown): { season: number; episode: number } | null {
   if (typeof value !== 'string') return null;
@@ -105,7 +112,7 @@ export function clearReadingHistory(): void {
   }
 }
 
-export function createReaderBackup(input: Omit<ReaderStateBackup, 'product' | 'version' | 'exportedAt'>): ReaderStateBackup {
+export function createReaderBackup(input: ReaderBackupInput): ReaderStateBackup {
   return {
     product: 'The Quiet Regular',
     version: 1,
@@ -116,6 +123,7 @@ export function createReaderBackup(input: Omit<ReaderStateBackup, 'product' | 'v
     history: input.history.filter(validHistory).slice(0, HISTORY_LIMIT),
     notes: input.notes.filter(validEpisodeNote).sort((a, b) => b.updatedAt - a.updatedAt),
     passages: input.passages.filter(validSavedPassage).sort((a, b) => b.createdAt - a.createdAt),
+    positions: (input.positions || []).filter(validChapterPosition).sort((a, b) => b.updatedAt - a.updatedAt),
     preferences: input.preferences,
   };
 }
@@ -138,6 +146,8 @@ export function parseReaderBackup(raw: string): ReaderStateBackup {
   if (!Array.isArray(notes) || !notes.every(validEpisodeNote)) throw new Error('Backup episode notes are invalid.');
   const passages = backup.passages === undefined ? [] : backup.passages;
   if (!Array.isArray(passages) || !passages.every(validSavedPassage)) throw new Error('Backup saved passages are invalid.');
+  const positions = backup.positions === undefined ? [] : backup.positions;
+  if (!Array.isArray(positions) || !positions.every(validChapterPosition)) throw new Error('Backup chapter positions are invalid.');
   if (!validPreferences(backup.preferences)) throw new Error('Backup reader preferences are invalid.');
 
   return {
@@ -150,6 +160,7 @@ export function parseReaderBackup(raw: string): ReaderStateBackup {
     history: backup.history.sort((a, b) => b.openedAt - a.openedAt).slice(0, HISTORY_LIMIT),
     notes: notes.sort((a, b) => b.updatedAt - a.updatedAt),
     passages: passages.sort((a, b) => b.createdAt - a.createdAt),
+    positions: positions.sort((a, b) => b.updatedAt - a.updatedAt),
     preferences: backup.preferences,
   };
 }
@@ -166,6 +177,7 @@ export function persistReaderBackup(backup: ReaderStateBackup): void {
     else persistEpisodeNotes(backup.notes);
     if (!backup.passages.length) localStorage.removeItem(PASSAGES_KEY);
     else persistSavedPassages(backup.passages);
+    persistChapterPositions(backup.positions);
   } catch {
     throw new Error('This browser blocked reader storage, so the backup could not be restored.');
   }

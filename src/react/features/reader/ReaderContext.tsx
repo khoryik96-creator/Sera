@@ -9,6 +9,7 @@ import { deleteEpisodeNote, getEpisodeNotes, saveEpisodeNote } from '../../../re
 import type { EpisodeNote } from '../../../readerNotes';
 import { deletePassage as deleteSavedPassage, getSavedPassages, savePassage as persistPassage } from '../../../readerPassages';
 import type { SavedPassage } from '../../../readerPassages';
+import { getChapterPositions } from '../../../readerPositions';
 
 export type ReaderFont = 'serif' | 'book' | 'sans';
 export type ReaderSpacing = 'compact' | 'comfortable' | 'relaxed';
@@ -169,7 +170,7 @@ export function ReaderProvider({ children }: { children?: ReactNode }) {
   }
 
   function exportBackup(): string {
-    return JSON.stringify(createReaderBackup({ bookmarks, lastRead, readEpisodes, history, notes, passages, preferences }), null, 2);
+    return JSON.stringify(createReaderBackup({ bookmarks, lastRead, readEpisodes, history, notes, passages, positions: getChapterPositions(), preferences }), null, 2);
   }
 
   function restoreBackup(raw: string): void {

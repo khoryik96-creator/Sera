@@ -1,5 +1,6 @@
 import { useRef, useState } from 'react';
 import { completedSeasonCount, nextUnreadTarget, overallReadingProgress } from '../../../readingProgress';
+import { getChapterPositions } from '../../../readerPositions';
 import { EmptyState, PageHeader } from '../../components/Shared';
 import '../../styles/library.css';
 import '../../styles/notes.css';
@@ -35,6 +36,7 @@ export function BookmarksPage({ onOpenChapter }: BookmarksPageProps) {
   const completedSeasons = completedSeasonCount(readEpisodes);
   const lastEpisode = lastRead ? episodeNumber(lastRead.id) : 1;
   const nextUnread = nextUnreadTarget(readEpisodes, lastRead ? { season: lastRead.season, episode: lastEpisode } : null);
+  const positionCount = getChapterPositions().length;
   const normalizedNoteQuery = noteQuery.trim().toLowerCase();
   const filteredNotes = notes.filter((note) => {
     if (!normalizedNoteQuery) return true;
@@ -78,7 +80,7 @@ export function BookmarksPage({ onOpenChapter }: BookmarksPageProps) {
 
   return (
     <section className="reader-library">
-      <PageHeader eyebrow="Your reader" title="Reader Library" description="Bookmarks, recent reading, private notes, saved passages, progress, and a portable backup of your local reader state—all kept on your device unless you export it yourself." />
+      <PageHeader eyebrow="Your reader" title="Reader Library" description="Bookmarks, recent reading, private notes, saved passages, exact chapter positions, progress, and a portable backup of your local reader state—all kept on your device unless you export it yourself." />
 
       <div className="library-summary" aria-label="Reader library summary">
         <button className="library-summary__continue" disabled={!lastRead} onClick={() => lastRead && onOpenChapter(lastRead.season, lastEpisode)} type="button">
@@ -179,8 +181,8 @@ export function BookmarksPage({ onOpenChapter }: BookmarksPageProps) {
           <article className="library-backup__card">
             <p className="eyebrow">Portable reader state</p>
             <h3>Move your reading state between devices</h3>
-            <p>The backup contains only The Quiet Regular reader data: bookmarks, Continue Reading, opened-episode progress, recent history, private episode notes, saved passages, and your font/spacing/width preferences. It does not include account data or anything else from your browser.</p>
-            <div className="library-backup__facts"><span>{bookmarks.length} bookmarks</span><span>{overall.read} opened episodes</span><span>{history.length} recent entries</span><span>{notes.length} notes</span><span>{passages.length} passages</span></div>
+            <p>The backup contains only The Quiet Regular reader data: bookmarks, Continue Reading, opened-episode progress, exact in-chapter positions, recent history, private episode notes, saved passages, and your font/spacing/width preferences. It does not include account data or anything else from your browser.</p>
+            <div className="library-backup__facts"><span>{bookmarks.length} bookmarks</span><span>{overall.read} opened episodes</span><span>{positionCount} exact positions</span><span>{history.length} recent entries</span><span>{notes.length} notes</span><span>{passages.length} passages</span></div>
             <div className="library-backup__actions">
               <button className="library-backup__primary" onClick={downloadBackup} type="button">Export backup</button>
               <button onClick={() => fileInputRef.current?.click()} type="button">Import backup</button>
