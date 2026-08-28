@@ -1,0 +1,7 @@
+- Feature parity
+- Mobile validation
+- Desktop validation
+- Rank history parity
+- Portrait parity
+- Bookmark/progress parity
+- Lazy season loading parity
