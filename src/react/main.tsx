@@ -13,14 +13,14 @@ async function boot(): Promise<void> {
   const root = document.getElementById('react-root');
   if (!root) throw new Error('Reader root is missing');
 
-  root.innerHTML = '<div class="preview-boot">Loading The Quiet Regular…</div>';
+  root.innerHTML = '<div class="app-boot">Loading The Quiet Regular…</div>';
   try {
     await loadDB();
     createRoot(root).render(<ReaderProvider><App /></ReaderProvider>);
     initPwa();
   } catch (error) {
     const message = error instanceof Error ? error.message : 'Unknown loading error';
-    root.innerHTML = `<div class="preview-boot preview-boot--error"><strong>The lore reader failed to load.</strong><p>${message}</p><a href="./legacy.html">Open the legacy reader</a></div>`;
+    root.innerHTML = `<div class="app-boot app-boot--error"><strong>The lore reader failed to load.</strong><p>${message}</p><a href="./legacy.html">Open the legacy reader</a></div>`;
   }
 }
 

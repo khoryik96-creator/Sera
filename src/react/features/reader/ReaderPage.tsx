@@ -4,6 +4,7 @@ import { loadSeason } from '../../../seasonStore';
 import { renderNovel } from '../../../novel';
 import type { Episode } from '../../../types';
 import { useReaderState } from './ReaderContext';
+import type { ReaderFont, ReaderSpacing, ReaderWidth } from './ReaderContext';
 
 interface ReaderPageProps {
   season: number;
@@ -12,8 +13,39 @@ interface ReaderPageProps {
   onOpenChapter(season: number, episode: number): void;
 }
 
+const FONT_STACKS: Record<ReaderFont, string> = {
+  serif: "Georgia, 'Times New Roman', serif",
+  book: "'Palatino Linotype', Palatino, 'Book Antiqua', serif",
+  sans: "Inter, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif",
+};
+const FONT_LABELS: Record<ReaderFont, string> = { serif: 'Serif', book: 'Book', sans: 'Sans' };
+const LINE_HEIGHTS: Record<ReaderSpacing, number> = { compact: 1.66, comfortable: 1.82, relaxed: 2.05 };
+const SPACING_LABELS: Record<ReaderSpacing, string> = { compact: 'Compact', comfortable: 'Comfort', relaxed: 'Relaxed' };
+const WIDTHS: Record<ReaderWidth, string> = { narrow: '640px', standard: '760px', wide: '900px' };
+const WIDTH_LABELS: Record<ReaderWidth, string> = { narrow: 'Narrow', standard: 'Standard', wide: 'Wide' };
+
+type ReaderSurfaceStyle = CSSProperties & {
+  '--reader-scale': number;
+  '--reader-line-height': number;
+  '--reader-max-width': string;
+  '--reader-font-family': string;
+};
+
 export function ReaderPage({ season, episode, onBack, onOpenChapter }: ReaderPageProps) {
-  const { bookmarks, markRead, toggleSaved, scale, relaxedSpacing, changeScale, toggleSpacing } = useReaderState();
+  const {
+    bookmarks,
+    markRead,
+    toggleSaved,
+    scale,
+    font,
+    spacing,
+    width,
+    changeScale,
+    cycleFont,
+    cycleSpacing,
+    cycleWidth,
+    resetPreferences,
+  } = useReaderState();
   const [episodes, setEpisodes] = useState<Episode[]>([]);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState('');
@@ -52,6 +84,13 @@ export function ReaderPage({ season, episode, onBack, onOpenChapter }: ReaderPag
     if (season < 64) onOpenChapter(season + 1, 1);
   }
 
+  const surfaceStyle: ReaderSurfaceStyle = {
+    '--reader-scale': scale,
+    '--reader-line-height': LINE_HEIGHTS[spacing],
+    '--reader-max-width': WIDTHS[width],
+    '--reader-font-family': FONT_STACKS[font],
+  };
+
   return (
     <section className="reader-page">
       <div className="reader-page__topline">
@@ -65,19 +104,24 @@ export function ReaderPage({ season, episode, onBack, onOpenChapter }: ReaderPag
       {!loading && !error && current ? (
         <>
           <header className="reader-header">
-            <div><p className="eyebrow">Season {season} · Episode {episode}</p><h2>{current.title}</h2><p>The Quiet Regular</p></div>
+            <div><p className="eyebrow">Season {season} · Episode {episode} of {episodes.length}</p><h2>{current.title}</h2><p>The Quiet Regular</p></div>
             <button className={`bookmark-toggle ${saved ? 'is-saved' : ''}`} onClick={() => bookmark && toggleSaved(bookmark)} type="button">{saved ? '★ Saved' : '☆ Bookmark'}</button>
           </header>
 
           <div className="reader-controls" aria-label="Reading preferences">
             <span>Reading</span>
-            <button onClick={() => changeScale(-0.08)} type="button">A−</button>
-            <strong>{Math.round(scale * 100)}%</strong>
-            <button onClick={() => changeScale(0.08)} type="button">A+</button>
-            <button className={relaxedSpacing ? 'is-active' : ''} onClick={toggleSpacing} type="button">Spacing</button>
+            <div className="reader-controls__group" aria-label="Text size">
+              <button onClick={() => changeScale(-0.08)} type="button">A−</button>
+              <strong>{Math.round(scale * 100)}%</strong>
+              <button onClick={() => changeScale(0.08)} type="button">A+</button>
+            </div>
+            <button onClick={cycleFont} type="button">Font · {FONT_LABELS[font]}</button>
+            <button onClick={cycleSpacing} type="button">Spacing · {SPACING_LABELS[spacing]}</button>
+            <button onClick={cycleWidth} type="button">Width · {WIDTH_LABELS[width]}</button>
+            <button className="reader-controls__reset" onClick={resetPreferences} type="button">Reset</button>
           </div>
 
-          <article className="reader-surface" style={{ '--reader-scale': scale, '--reader-line-height': relaxedSpacing ? 2.05 : 1.82 } as CSSProperties & { '--reader-scale': number; '--reader-line-height': number }}>
+          <article className="reader-surface" style={surfaceStyle}>
             <div className="reader-prose" dangerouslySetInnerHTML={{ __html: renderNovel(current.text, season) }} />
           </article>
 

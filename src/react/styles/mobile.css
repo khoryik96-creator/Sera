@@ -1,5 +1,4 @@
-/* Production mobile containment. Keep horizontal browsing local to controls;
-   never let wide card rows expand the document itself. */
+/* Production mobile containment. Horizontal browsers must never widen the page. */
 @media (max-width: 800px) {
   html,
   body,
@@ -86,7 +85,9 @@
   }
 
   .portrait-thumbs,
-  .mobile-tabs {
+  .mobile-tabs,
+  .arc-browser,
+  .season-browser {
     max-width: 100%;
     overscroll-behavior-inline: contain;
   }
@@ -97,6 +98,49 @@
 
   .mobile-tabs button {
     scroll-margin-inline: 12px;
+  }
+
+  .app-shell.is-reading .topbar {
+    height: 58px;
+    padding-inline: 14px;
+    transition: transform .2s ease;
+  }
+
+  .app-shell.is-reading .topbar .search-box,
+  .app-shell.is-reading .topbar__continue,
+  .app-shell.is-reading .topbar__meta {
+    display: none;
+  }
+
+  .app-shell.is-reading .mobile-tabs {
+    position: sticky;
+    top: 58px;
+    z-index: 7;
+    transition: transform .2s ease;
+  }
+
+  .app-shell.is-reading.is-mobile-chrome-hidden .topbar {
+    transform: translateY(-100%);
+  }
+
+  .app-shell.is-reading.is-mobile-chrome-hidden .mobile-tabs {
+    transform: translateY(calc(-100% - 58px));
+  }
+
+  .app-shell.is-reading .reader-controls {
+    top: 112px;
+  }
+
+  .app-shell.is-reading.is-mobile-chrome-hidden .reader-controls {
+    top: 8px;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .app-shell.is-reading .topbar,
+  .app-shell.is-reading .mobile-tabs,
+  .reader-controls {
+    transition: none;
   }
 }
 

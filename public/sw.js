@@ -5,7 +5,11 @@ const CACHE = `quiet-regular-${version}`;
 const SHELL = ['./', './index.html', './legacy.html', './react-preview.html', './manifest.webmanifest', './icon.svg'];
 
 self.addEventListener('install', (event) => {
-  event.waitUntil(caches.open(CACHE).then((cache) => cache.addAll(SHELL)).then(() => self.skipWaiting()));
+  event.waitUntil(caches.open(CACHE).then((cache) => cache.addAll(SHELL)));
+});
+
+self.addEventListener('message', (event) => {
+  if (event.data?.type === 'SKIP_WAITING') self.skipWaiting();
 });
 
 self.addEventListener('activate', (event) => {
@@ -33,9 +37,9 @@ self.addEventListener('fetch', (event) => {
         .catch(async () => {
           const exact = await caches.match(request);
           if (exact) return exact;
-          const preview = url.pathname.endsWith('/react-preview.html') ? await caches.match('./react-preview.html') : null;
+          const compatibility = url.pathname.endsWith('/react-preview.html') ? await caches.match('./react-preview.html') : null;
           const legacy = url.pathname.endsWith('/legacy.html') ? await caches.match('./legacy.html') : null;
-          return preview || legacy || (await caches.match('./index.html')) || Response.error();
+          return compatibility || legacy || (await caches.match('./index.html')) || Response.error();
         }),
     );
     return;

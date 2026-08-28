@@ -16,7 +16,9 @@ import { FormerPage } from '../features/former/FormerPage';
 import { TimelinePage } from '../features/timeline/TimelinePage';
 import { CanonPage } from '../features/canon/CanonPage';
 import { useReaderState } from '../features/reader/ReaderContext';
-import { cleanCharacterName } from '../shared/rankState';
+import { RankBadge } from '../components/Shared';
+import { cleanCharacterName, parseRankBadge, rankLabel, rankStatus, rankStatusForEntry } from '../shared/rankState';
+import type { RankStatus } from '../shared/rankState';
 
 interface RouteState {
   section: AppSection;
@@ -29,6 +31,8 @@ interface SearchResult {
   label: string;
   meta: string;
   kind: string;
+  rank?: string;
+  rankStatus?: RankStatus;
   section?: AppSection;
   characterKey?: string;
 }
@@ -75,15 +79,18 @@ export function App() {
   const [route, setRoute] = useState<RouteState>(initial);
   const [searchQuery, setSearchQuery] = useState('');
   const [searchOpen, setSearchOpen] = useState(false);
+  const [mobileChromeHidden, setMobileChromeHidden] = useState(false);
   const { lastRead } = useReaderState();
   const mobileTabsRef = useRef<HTMLElement>(null);
   const activeSection: AppSection = route.chapter ? 'chapters' : route.section;
+  const reading = Boolean(route.chapter);
 
   useEffect(() => {
     function applyRoute(): void {
       setRoute(readRoute());
       setSearchOpen(false);
       setSearchQuery('');
+      setMobileChromeHidden(false);
       window.scrollTo({ top: 0, behavior: 'auto' });
     }
     function onKeyDown(event: KeyboardEvent): void {
@@ -107,6 +114,32 @@ export function App() {
     activeTab?.scrollIntoView({ behavior: 'smooth', block: 'nearest', inline: 'center' });
   }, [activeSection]);
 
+  useEffect(() => {
+    if (!reading || window.matchMedia('(min-width: 801px)').matches) {
+      setMobileChromeHidden(false);
+      return;
+    }
+    let lastY = window.scrollY;
+    let frame = 0;
+    const update = (): void => {
+      frame = 0;
+      const nextY = window.scrollY;
+      const delta = nextY - lastY;
+      if (nextY < 96) setMobileChromeHidden(false);
+      else if (delta > 12) setMobileChromeHidden(true);
+      else if (delta < -8) setMobileChromeHidden(false);
+      lastY = nextY;
+    };
+    const onScroll = (): void => {
+      if (!frame) frame = window.requestAnimationFrame(update);
+    };
+    window.addEventListener('scroll', onScroll, { passive: true });
+    return () => {
+      window.removeEventListener('scroll', onScroll);
+      if (frame) window.cancelAnimationFrame(frame);
+    };
+  }, [reading]);
+
   function navigate(hash: string): void {
     const next = `#${hash}`;
     if (window.location.hash === next) {
@@ -129,11 +162,14 @@ export function App() {
     const characters: SearchResult[] = Object.entries(DB.characters)
       .filter(([, item]) => `${item.name} ${item.subtitle} ${(item.tags || []).join(' ')}`.toLowerCase().includes(q))
       .slice(0, 6)
-      .map(([key, item]) => ({ id: `character-${key}`, label: cleanCharacterName(item.name), meta: item.subtitle, kind: 'Character', characterKey: key }));
+      .map(([key, item]) => {
+        const rank = rankLabel(item.name);
+        return { id: `character-${key}`, label: cleanCharacterName(item.name), meta: item.subtitle, kind: 'Character', characterKey: key, rank: rank || undefined, rankStatus: rank ? rankStatus(item.name) : undefined };
+      });
     const ranks: SearchResult[] = DB.ranks
       .filter((item) => `${item.rank} ${item.name} ${item.className}`.toLowerCase().includes(q))
       .slice(0, 4)
-      .map((item) => ({ id: `rank-${item.rank}-${item.name}`, label: item.name, meta: `${item.rank} · ${item.className}`, kind: 'Ranking', section: 'rankings' }));
+      .map((item) => ({ id: `rank-${item.rank}-${item.name}`, label: item.name, meta: item.className, kind: 'Ranking', section: 'rankings', rank: item.rank, rankStatus: rankStatusForEntry(item.name, item.rank, item.className) }));
     const arts: SearchResult[] = [...DB.rhenSkills, ...DB.seraSkills]
       .filter((item) => JSON.stringify(item).toLowerCase().includes(q))
       .slice(0, 4)
@@ -141,7 +177,10 @@ export function App() {
     const legends: SearchResult[] = DB.legends
       .filter((item) => JSON.stringify(item).toLowerCase().includes(q))
       .slice(0, 3)
-      .map((item) => ({ id: `legend-${item.title}`, label: item.title, meta: item.kind, kind: 'Legend', section: 'legends' }));
+      .map((item) => {
+        const parsed = parseRankBadge(item.rank);
+        return { id: `legend-${item.title}`, label: item.title, meta: item.kind, kind: 'Legend', section: 'legends', rank: parsed?.rank, rankStatus: parsed?.status };
+      });
     const canon: SearchResult[] = (DB.canonRules || [])
       .filter((item) => JSON.stringify(item).toLowerCase().includes(q))
       .slice(0, 3)
@@ -174,15 +213,17 @@ export function App() {
     }
   }
 
+  const shellClass = ['app-shell', reading ? 'is-reading' : '', mobileChromeHidden ? 'is-mobile-chrome-hidden' : ''].filter(Boolean).join(' ');
+
   return (
-    <div className="app-shell">
+    <div className={shellClass}>
       <aside className="sidebar">
         <button className="brand" onClick={() => openSection('overview')} type="button" aria-label="Quiet Regular overview">
           <div className="brand__mark">QR</div>
           <div><p>Second Spring</p><h1>The Quiet Regular</h1></div>
         </button>
         <nav className="primary-nav" aria-label="Repository sections">
-          {navigationItems.map((item, index) => <button className={activeSection === item.id ? 'is-active' : ''} key={item.id} onClick={() => openSection(item.id)} type="button"><span>{String(index + 1).padStart(2, '0')}</span><strong>{item.label}</strong></button>)}
+          {navigationItems.map((item, index) => <button aria-current={activeSection === item.id ? 'page' : undefined} className={activeSection === item.id ? 'is-active' : ''} key={item.id} onClick={() => openSection(item.id)} type="button"><span>{String(index + 1).padStart(2, '0')}</span><strong>{item.label}</strong></button>)}
         </nav>
         <div className="sidebar__footer"><span className="status-dot" /><div><strong>Lore repository</strong><p>Production reader</p></div></div>
       </aside>
@@ -196,7 +237,7 @@ export function App() {
         </header>
 
         <nav className="mobile-tabs" aria-label="Mobile repository sections" ref={mobileTabsRef}>
-          {navigationItems.map((item) => <button className={activeSection === item.id ? 'is-active' : ''} key={item.id} onClick={() => openSection(item.id)} type="button">{item.shortLabel}</button>)}
+          {navigationItems.map((item) => <button aria-current={activeSection === item.id ? 'page' : undefined} className={activeSection === item.id ? 'is-active' : ''} key={item.id} onClick={() => openSection(item.id)} type="button">{item.shortLabel}</button>)}
         </nav>
 
         <main id="mainContent" className="content" tabIndex={-1}>
@@ -204,7 +245,7 @@ export function App() {
             <section>
               <div className="search-page-heading"><div><p className="eyebrow">Global index</p><h2>Search</h2></div><button className="text-button" onClick={() => { setSearchOpen(false); setSearchQuery(''); }} type="button">Close</button></div>
               {!searchQuery.trim() ? <div className="empty-state"><div><strong>Search the repository</strong><p>Characters, ranks, techniques, legends, and canon rules are indexed here.</p></div></div> : (
-                <div className="search-results">{results.length ? results.map((result) => <button className="search-result" key={result.id} onClick={() => openSearchResult(result)} type="button"><span><small>{result.kind}</small><strong>{result.label}</strong></span><p>{result.meta}</p><span>→</span></button>) : <div className="empty-state"><div><strong>No matches</strong><p>Try a character, title, technique, rank, legend, or canon phrase.</p></div></div>}</div>
+                <div className="search-results">{results.length ? results.map((result) => <button className="search-result" key={result.id} onClick={() => openSearchResult(result)} type="button"><span><small>{result.kind}</small><span className="search-result__title"><strong>{result.label}</strong>{result.rank ? <RankBadge rank={result.rank} status={result.rankStatus} /> : null}</span></span><p>{result.meta}</p><span>→</span></button>) : <div className="empty-state"><div><strong>No matches</strong><p>Try a character, title, technique, rank, legend, or canon phrase.</p></div></div>}</div>
               )}
             </section>
           ) : page}

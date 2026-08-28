@@ -1,7 +1,7 @@
 import { useEffect, useMemo, useState } from 'react';
 import { DB } from '../../../db';
 import { characterExtraImages, characterImageMap } from '../../../images';
-import { cleanCharacterName, previewRank, previewRankStatus } from '../../shared/rankState';
+import { cleanCharacterName, rankLabel, rankStatus } from '../../shared/rankState';
 import { PageHeader, RankBadge } from '../../components/Shared';
 
 interface CharactersPageProps {
@@ -26,8 +26,8 @@ export function CharactersPage({ selectedKey, onOpenCharacter }: CharactersPageP
 
   const visible = entries.filter(([, item]) => `${item.name} ${item.subtitle} ${(item.tags || []).join(' ')}`.toLowerCase().includes(filter.toLowerCase()));
   const portraits = [characterImageMap[activeKey], ...(characterExtraImages[activeKey] || [])].filter(Boolean);
-  const currentRank = previewRank(character.name);
-  const status = previewRankStatus(character.name);
+  const currentRank = rankLabel(character.name);
+  const status = rankStatus(character.name);
 
   return (
     <section>
@@ -38,8 +38,8 @@ export function CharactersPage({ selectedKey, onOpenCharacter }: CharactersPageP
           <div className="character-browser__list">
             {visible.map(([key, item]) => {
               const name = cleanCharacterName(item.name);
-              const rank = previewRank(item.name);
-              const itemStatus = previewRankStatus(item.name);
+              const rank = rankLabel(item.name);
+              const itemStatus = rankStatus(item.name);
               return (
                 <button className={`character-nav-card ${key === activeKey ? 'is-active' : ''}`} key={key} onClick={() => onOpenCharacter(key)} type="button">
                   <span className={`character-${key}`}>{name}</span>

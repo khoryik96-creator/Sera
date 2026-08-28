@@ -1,4 +1,5 @@
-import type { PreviewRankStatus } from '../shared/rankState';
+import type { RankStatus } from '../shared/rankState';
+import { rankStatusFromText } from '../shared/rankState';
 
 export function PageHeader({ eyebrow, title, description }: { eyebrow: string; title: string; description?: string }) {
   return (
@@ -10,14 +11,16 @@ export function PageHeader({ eyebrow, title, description }: { eyebrow: string; t
   );
 }
 
-export function RankBadge({ rank, status = 'current' }: { rank: string; status?: PreviewRankStatus }) {
+export function RankBadge({ rank, status }: { rank: string; status?: RankStatus }) {
   if (!rank) return null;
-  let tone = 'current';
+  const resolved = status ?? rankStatusFromText(rank);
+  const cleaned = rank.replace(/^Former\s+/i, '').trim();
+  const displayRank = resolved === 'unranked' ? 'UNRANKED' : cleaned;
   let suffix = '';
-  if (status === 'deceased') { tone = 'deceased'; suffix = ' †'; }
-  else if (status === 'retired') { tone = 'retired'; suffix = ' · RET'; }
-  else if (status === 'former' || rank.startsWith('Former ')) { tone = 'former'; suffix = ' · FORMER'; }
-  return <span className={`react-rank-badge react-rank-badge--${tone}`}>{rank}{suffix}</span>;
+  if (resolved === 'deceased') suffix = ' †';
+  else if (resolved === 'retired') suffix = ' · RET';
+  else if (resolved === 'former') suffix = ' · FORMER';
+  return <span className={`react-rank-badge react-rank-badge--${resolved}`}>{displayRank}{suffix}</span>;
 }
 
 export function EmptyState({ title, text }: { title: string; text: string }) {
