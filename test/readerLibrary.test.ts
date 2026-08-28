@@ -17,12 +17,19 @@ describe('reader library', () => {
     ]);
   });
 
-  it('creates and restores known reader-state fields including organization, notes, passages, and exact positions', () => {
+  it('creates and restores known reader-state fields including journey, organization, notes, passages, and exact positions', () => {
     const backup = createReaderBackup({
       bookmarks: [{ id: 'ep-s2-e1', season: 2, title: 'Saved' }],
       lastRead: { id: 'ep-s2-e2', season: 2, title: 'Continue' },
       readEpisodes: ['ep-s2-e1', 'ep-s2-e2'],
       history: [{ id: 'ep-s2-e2', season: 2, title: 'Continue', openedAt: 1234 }],
+      journey: {
+        visits: [
+          { id: 'ep-s2-e2', season: 2, title: 'Continue', openedAt: 2234 },
+          { id: 'ep-s2-e1', season: 2, title: 'Saved', openedAt: 1234 },
+        ],
+        seasonCompletions: [{ season: 2, completedAt: 3333 }],
+      },
       notes: [{ id: 'ep-s2-e2', season: 2, title: 'Continue', text: 'Remember the callback.', updatedAt: 2222 }],
       passages: [{ key: 'ep-s2-e2:3333', id: 'ep-s2-e2', season: 2, title: 'Continue', text: 'A line worth keeping.', createdAt: 3333 }],
       positions: [{ id: 'ep-s2-e2', season: 2, episode: 2, progress: 0.57, updatedAt: 4444 }],
@@ -37,6 +44,8 @@ describe('reader library', () => {
     expect(JSON.parse(localStorage.getItem('tqr:bookmarks') || '[]')).toHaveLength(1);
     expect(JSON.parse(localStorage.getItem('tqr:readEpisodes:v1') || '[]')).toEqual(['ep-s2-e1', 'ep-s2-e2']);
     expect(JSON.parse(localStorage.getItem('tqr:readingHistory:v1') || '[]')[0].id).toBe('ep-s2-e2');
+    expect(JSON.parse(localStorage.getItem('tqr:readingJourney:v2') || '{}').visits).toHaveLength(2);
+    expect(JSON.parse(localStorage.getItem('tqr:readingJourney:v2') || '{}').seasonCompletions[0].season).toBe(2);
     expect(JSON.parse(localStorage.getItem('tqr:episodeNotes:v1') || '[]')[0].text).toBe('Remember the callback.');
     expect(JSON.parse(localStorage.getItem('tqr:savedPassages:v1') || '[]')[0].text).toBe('A line worth keeping.');
     expect(JSON.parse(localStorage.getItem('tqr:chapterPositions:v1') || '[]')[0].progress).toBe(0.57);
@@ -44,20 +53,22 @@ describe('reader library', () => {
     expect(JSON.parse(localStorage.getItem('tqr:react-reader-prefs-v2') || '{}')).toEqual(preferences);
   });
 
-  it('keeps old v1 backups valid by defaulting newer optional fields to empty', () => {
+  it('keeps old v1 backups valid by deriving journey visits from legacy history and defaulting other newer fields', () => {
     const parsed = parseReaderBackup(JSON.stringify({
       product: 'The Quiet Regular',
       version: 1,
       bookmarks: [],
       lastRead: null,
       readEpisodes: [],
-      history: [],
+      history: [{ id: 'ep-s1-e1', season: 1, title: 'Legacy recent', openedAt: 1000 }],
       preferences,
     }));
     expect(parsed.notes).toEqual([]);
     expect(parsed.passages).toEqual([]);
     expect(parsed.positions).toEqual([]);
     expect(parsed.organization).toEqual({ collections: [], items: [] });
+    expect(parsed.journey.visits).toEqual(parsed.history);
+    expect(parsed.journey.seasonCompletions).toEqual([]);
   });
 
   it('rejects malformed or phantom episode progress', () => {
@@ -154,5 +165,21 @@ describe('reader library', () => {
       },
       preferences,
     }))).toThrow(/organization/i);
+  });
+
+  it('rejects malformed Reading Journey data', () => {
+    expect(() => parseReaderBackup(JSON.stringify({
+      product: 'The Quiet Regular',
+      version: 1,
+      bookmarks: [],
+      lastRead: null,
+      readEpisodes: [],
+      history: [],
+      journey: {
+        visits: [{ id: 'ep-s1-e99', season: 1, title: 'Phantom', openedAt: 1 }],
+        seasonCompletions: [],
+      },
+      preferences,
+    }))).toThrow(/reading journey/i);
   });
 });

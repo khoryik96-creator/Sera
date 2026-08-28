@@ -20,20 +20,31 @@ async function seedReaderState(page: import('@playwright/test').Page) {
       { id: 'ep-s1-e9', season: 1, title: 'Episode Nine', openedAt: yesterday.getTime() },
       { id: 'ep-s1-e8', season: 1, title: 'Episode Eight', openedAt: twoDaysAgo.getTime() },
     ]));
+    localStorage.setItem('tqr:readingJourney:v2', JSON.stringify({
+      visits: [
+        { id: 'ep-s1-e10', season: 1, title: 'Season One Finale', openedAt: now },
+        { id: 'ep-s1-e9', season: 1, title: 'Episode Nine', openedAt: yesterday.getTime() },
+        { id: 'ep-s1-e8', season: 1, title: 'Episode Eight', openedAt: twoDaysAgo.getTime() },
+        { id: 'ep-s1-e10', season: 1, title: 'Season One Finale reread', openedAt: twoDaysAgo.getTime() - 60_000 },
+      ],
+      seasonCompletions: [{ season: 1, completedAt: now }],
+    }));
     localStorage.setItem('tqr:bookmarks', JSON.stringify([{ id: 'ep-s1-e4', season: 1, title: 'Saved Episode' }]));
     localStorage.setItem('tqr:episodeNotes:v1', JSON.stringify([{ id: 'ep-s1-e5', season: 1, title: 'Note Episode', text: 'Private note', updatedAt: now }]));
     localStorage.setItem('tqr:savedPassages:v1', JSON.stringify([{ key: `ep-s1-e6:${now}`, id: 'ep-s1-e6', season: 1, title: 'Passage Episode', text: 'A saved line from the story.', createdAt: now }]));
   });
 }
 
-test('Reading Insights summarizes existing local reader state', async ({ page }) => {
+test('Reading Insights summarizes existing local reader state and journey', async ({ page }) => {
   await seedReaderState(page);
   await openInsights(page);
 
   await expect(page.locator('.insights-hero')).toContainText('10 of 633 episodes');
   await expect(page.locator('.insights-stat-grid')).toContainText('Current streak');
   await expect(page.locator('.insights-stat-grid')).toContainText('3');
-  await expect(page.locator('.insights-library-grid')).toContainText('1');
+  await expect(page.locator('.insights-library-panel .insights-library-grid')).toContainText('4');
+  await expect(page.getByRole('heading', { name: 'How you move through the story' })).toBeVisible();
+  await expect(page.getByText('episode revisits')).toBeVisible();
   await expect(page.locator('.insights-arc-card')).toHaveCount(13);
   await expect(page.locator('.insights-secondary')).toContainText('S2 E1');
 });

@@ -2,9 +2,11 @@ import type { ReactNode } from 'react';
 import { createContext, useContext, useEffect, useState } from 'react';
 import { getBookmarks, getLastRead, setLastRead, toggleBookmark } from '../../../bookmarks';
 import type { Bookmark } from '../../../bookmarks';
-import { getReadEpisodeIds, markEpisodeRead } from '../../../readingProgress';
+import { getReadEpisodeIds, markEpisodeRead, progressForSeason } from '../../../readingProgress';
 import { clearReadingHistory, createReaderBackup, getReadingHistory, parseReaderBackup, persistReaderBackup, recordReadingHistory } from '../../../readerLibrary';
 import type { ReadingHistoryEntry } from '../../../readerLibrary';
+import { clearReadingJourney, getReadingJourney, recordReadingJourney } from '../../../readerJourney';
+import type { ReadingJourneyState } from '../../../readerJourney';
 import { deleteEpisodeNote, getEpisodeNotes, saveEpisodeNote } from '../../../readerNotes';
 import type { EpisodeNote } from '../../../readerNotes';
 import {
@@ -40,6 +42,7 @@ interface ReaderContextValue extends ReaderPreferences {
   lastRead: Bookmark | null;
   readEpisodes: string[];
   history: ReadingHistoryEntry[];
+  journey: ReadingJourneyState;
   notes: EpisodeNote[];
   passages: SavedPassage[];
   organization: ReaderOrganizationState;
@@ -129,6 +132,7 @@ export function ReaderProvider({ children }: { children?: ReactNode }) {
   const [lastRead, setLastReadState] = useState<Bookmark | null>(() => getLastRead());
   const [readEpisodes, setReadEpisodes] = useState<string[]>(() => getReadEpisodeIds());
   const [history, setHistory] = useState<ReadingHistoryEntry[]>(() => getReadingHistory());
+  const [journey, setJourney] = useState<ReadingJourneyState>(() => getReadingJourney(history));
   const [notes, setNotes] = useState<EpisodeNote[]>(() => getEpisodeNotes());
   const [passages, setPassages] = useState<SavedPassage[]>(() => getSavedPassages());
   const [organization, setOrganization] = useState<ReaderOrganizationState>(() => getReaderOrganization());
@@ -147,10 +151,16 @@ export function ReaderProvider({ children }: { children?: ReactNode }) {
   }
 
   function markRead(bookmark: Bookmark): void {
+    const openedAt = Date.now();
+    const beforeRead = getReadEpisodeIds();
+    const wasComplete = progressForSeason(beforeRead, bookmark.season).complete;
     setLastRead(bookmark);
     setLastReadState(bookmark);
-    setReadEpisodes(markEpisodeRead(bookmark.id));
-    setHistory(recordReadingHistory(bookmark));
+    const nextRead = markEpisodeRead(bookmark.id);
+    const seasonCompleted = !wasComplete && progressForSeason(nextRead, bookmark.season).complete;
+    setReadEpisodes(nextRead);
+    setHistory(recordReadingHistory(bookmark, openedAt));
+    setJourney(recordReadingJourney(bookmark, seasonCompleted, openedAt));
   }
 
   function toggleSaved(bookmark: Bookmark): void {
@@ -225,7 +235,7 @@ export function ReaderProvider({ children }: { children?: ReactNode }) {
   }
 
   function exportBackup(): string {
-    return JSON.stringify(createReaderBackup({ bookmarks, lastRead, readEpisodes, history, notes, passages, positions: getChapterPositions(), organization, preferences }), null, 2);
+    return JSON.stringify(createReaderBackup({ bookmarks, lastRead, readEpisodes, history, journey, notes, passages, positions: getChapterPositions(), organization, preferences }), null, 2);
   }
 
   function restoreBackup(raw: string): void {
@@ -235,6 +245,7 @@ export function ReaderProvider({ children }: { children?: ReactNode }) {
     setLastReadState(backup.lastRead);
     setReadEpisodes(backup.readEpisodes);
     setHistory(backup.history);
+    setJourney(backup.journey);
     setNotes(backup.notes);
     setPassages(backup.passages);
     setOrganization(backup.organization);
@@ -243,7 +254,9 @@ export function ReaderProvider({ children }: { children?: ReactNode }) {
 
   function clearHistory(): void {
     clearReadingHistory();
+    clearReadingJourney();
     setHistory([]);
+    setJourney({ visits: [], seasonCompletions: [] });
   }
 
   const value: ReaderContextValue = {
@@ -251,6 +264,7 @@ export function ReaderProvider({ children }: { children?: ReactNode }) {
     lastRead,
     readEpisodes,
     history,
+    journey,
     notes,
     passages,
     organization,

@@ -5,17 +5,17 @@ async function openLibrary(page: import('@playwright/test').Page) {
   await expect(page.getByRole('heading', { name: 'Reader Library' })).toBeVisible({ timeout: 20_000 });
 }
 
-test('recently read history is recorded from opened chapters', async ({ page }) => {
+test('reading journey is recorded from opened chapters', async ({ page }) => {
   await page.goto('/#chapter/1/1');
   await expect(page.locator('.reader-prose')).toBeVisible({ timeout: 20_000 });
   await page.goto('/#chapter/1/2');
   await expect(page.locator('.reader-prose')).toBeVisible({ timeout: 20_000 });
   await openLibrary(page);
-  await page.getByRole('tab', { name: /Recently Read/ }).click();
-  await expect(page.locator('.library-history-list > button')).toHaveCount(2);
-  await expect(page.locator('.library-history-list > button').first()).toContainText('S1 · E2');
+  await page.getByRole('tab', { name: /Journey/ }).click();
+  await expect(page.locator('.journey-timeline > button')).toHaveCount(2);
+  await expect(page.locator('.journey-timeline > button').first()).toContainText('S1 E2');
 
-  await page.locator('.library-history-list > button').first().click();
+  await page.locator('.journey-timeline > button').first().click();
   await expect(page).toHaveURL(/#chapter\/1\/2$/);
 });
 
@@ -33,7 +33,7 @@ test('reader backup exports with a portable JSON filename', async ({ page }) => 
   await expect(page.getByRole('status')).toContainText('Reader backup exported');
 });
 
-test('validated backup import refreshes reader state immediately', async ({ page }) => {
+test('validated backup import refreshes reader state immediately and migrates legacy history into Journey', async ({ page }) => {
   await openLibrary(page);
   await page.getByRole('tab', { name: 'Backup' }).click();
   const backup = {
@@ -60,8 +60,9 @@ test('validated backup import refreshes reader state immediately', async ({ page
 
   await page.getByRole('tab', { name: /Saved/ }).click();
   await expect(page.locator('.library-bookmark-grid .bookmark-card')).toHaveCount(2);
-  await page.getByRole('tab', { name: /Recently Read/ }).click();
-  await expect(page.locator('.library-history-list > button')).toHaveCount(1);
+  await page.getByRole('tab', { name: /Journey/ }).click();
+  await expect(page.locator('.journey-timeline > button')).toHaveCount(1);
+  await expect(page.locator('.journey-timeline')).toContainText('Imported continue position');
 });
 
 test('invalid backup is rejected without replacing current reader state', async ({ page }) => {
@@ -79,7 +80,7 @@ test('invalid backup is rejected without replacing current reader state', async 
   await expect(page.locator('.library-summary__continue')).toContainText('S1 · E1');
 });
 
-test('Reader Library stays contained on phone and desktop', async ({ page }, testInfo) => {
+test('Reader Library Journey stays contained on phone and desktop', async ({ page }, testInfo) => {
   await page.addInitScript(() => {
     localStorage.setItem('tqr:readingHistory:v1', JSON.stringify([
       { id: 'ep-s1-e1', season: 1, title: 'Opening', openedAt: 200 },
@@ -89,7 +90,9 @@ test('Reader Library stays contained on phone and desktop', async ({ page }, tes
   await openLibrary(page);
   const dimensions = await page.evaluate(() => ({ width: document.documentElement.clientWidth, scroll: document.documentElement.scrollWidth }));
   expect(dimensions.scroll).toBeLessThanOrEqual(dimensions.width + 2);
-  await page.getByRole('tab', { name: /Recently Read/ }).click();
-  await expect(page.locator('.library-history-list')).toBeVisible();
+  await page.getByRole('tab', { name: /Journey/ }).click();
+  await expect(page.locator('.journey-timeline')).toBeVisible();
+  const journeyDimensions = await page.evaluate(() => ({ width: document.documentElement.clientWidth, scroll: document.documentElement.scrollWidth }));
+  expect(journeyDimensions.scroll).toBeLessThanOrEqual(journeyDimensions.width + 2);
   await page.screenshot({ path: testInfo.outputPath('reader-library.png'), fullPage: true });
 });
