@@ -8,7 +8,9 @@ export function cleanCharacterName(name: string): string {
 }
 
 export function rankLabel(name: string, season?: number): string {
-  return rankForStory(cleanCharacterName(name), season);
+  const clean = cleanCharacterName(name);
+  if (clean === 'Rhen') return 'Unranked';
+  return rankForStory(clean, season);
 }
 
 export function rankStatusFromText(rank: string, statusText = ''): RankStatus {
