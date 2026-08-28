@@ -5,6 +5,7 @@ export const JOURNEY_KEY = 'tqr:readingJourney:v2';
 
 const EPISODE_ID = /^ep-s(\d+)-e(\d+)$/;
 const VISIT_LIMIT = 500;
+const COMPLETION_LIMIT = 64;
 
 export interface ReadingJourneyEntry extends Bookmark {
   openedAt: number;
@@ -55,8 +56,8 @@ export function validSeasonCompletionEntry(value: unknown): value is SeasonCompl
 export function validReadingJourney(value: unknown): value is ReadingJourneyState {
   if (!value || typeof value !== 'object') return false;
   const state = value as Partial<ReadingJourneyState>;
-  if (!Array.isArray(state.visits) || !state.visits.every(validReadingJourneyEntry)) return false;
-  if (!Array.isArray(state.seasonCompletions) || !state.seasonCompletions.every(validSeasonCompletionEntry)) return false;
+  if (!Array.isArray(state.visits) || state.visits.length > VISIT_LIMIT || !state.visits.every(validReadingJourneyEntry)) return false;
+  if (!Array.isArray(state.seasonCompletions) || state.seasonCompletions.length > COMPLETION_LIMIT || !state.seasonCompletions.every(validSeasonCompletionEntry)) return false;
   const seasons = state.seasonCompletions.map((entry) => entry.season);
   return new Set(seasons).size === seasons.length;
 }
@@ -69,7 +70,8 @@ function normalizeReadingJourney(state: ReadingJourneyState): ReadingJourneyStat
       .slice(0, VISIT_LIMIT),
     seasonCompletions: state.seasonCompletions
       .filter(validSeasonCompletionEntry)
-      .sort((a, b) => b.completedAt - a.completedAt),
+      .sort((a, b) => b.completedAt - a.completedAt)
+      .slice(0, COMPLETION_LIMIT),
   };
 }
 
