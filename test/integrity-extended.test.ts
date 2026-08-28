@@ -31,7 +31,7 @@ describe('extended canon integrity', () => {
   });
 
   it('keeps Rhen ultimate as the final archived Rhen technique', () => {
-    const last = data.rhenSkills.at(-1);
+    const last = data.rhenSkills[data.rhenSkills.length - 1];
     expect(last?.name).toBe('Petals Beneath a Frozen Moon');
     expect(last?.tier?.toLowerCase()).toContain('ultimate');
   });
