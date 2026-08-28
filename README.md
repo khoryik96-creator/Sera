@@ -9,8 +9,9 @@ rankings, legends, chronology and all 64 seasons / 633 short-novel episodes.
 
 The primary reader is a **React 19 + TypeScript + Vite** application with
 mobile-first navigation, route-level code splitting, lazy season/search data,
-persistent reading progress and preferences, bookmarks, PWA/offline support,
-and an optional self-contained single-file build.
+persistent reading progress and preferences, a private device-local Reader
+Library, contextual lore links, PWA/offline support, and an optional
+self-contained single-file build.
 
 The pre-React reader remains at **`legacy.html`** as a tested rollback path.
 `react-preview.html` is retained only as a tested compatibility entry for links
@@ -37,8 +38,8 @@ src/
       villains/                  Other Characters / Villains archive
       techniques/                Rhen + Sera arts
       chapters/                  arc/season/episode browser
-      reader/                    focused reader + progress/preferences
-      bookmarks/                 saved chapters / resume reading
+      reader/                    focused reader + progress/preferences/lore
+      bookmarks/                 Reader Library: saved/history/notes/passages/backup
       rankings/                  current ranking board
       legends/                   legends archive
       former/                    former rank holders
@@ -53,9 +54,12 @@ src/
   data.json                      canonical lore database
   seasonStore.ts                 independently loaded season cache
   readingProgress.ts             device-local reading progress model
+  readerLibrary.ts               history + portable backup validation
+  readerNotes.ts                 private per-episode notes
+  readerPassages.ts              private saved prose passages
   generated/                     generated core/season/search payloads
   images.ts                      automatic portrait discovery
-  bookmarks.ts                   shared local persistence
+  bookmarks.ts                   saved episode persistence
   novel.ts                       dialogue/technique/rank prose renderer
   pwa.ts                         offline/update/service-worker setup
   types.ts                       canonical runtime types
@@ -71,8 +75,9 @@ e2e/
   characters-v2.spec.ts          character profile regressions
   search-v2.spec.ts              command-palette/search regressions
   reader-progress.spec.ts        reading-progress regressions
+  saved-passages.spec.ts         passage selection/library regressions
   reader.spec.ts                 legacy/reader compatibility regressions
-test/                            unit + canon/data integrity tests
+test/                            unit + canon/data/library integrity tests
 public/
   manifest.webmanifest           install metadata
   sw.js                          offline/cache/update worker
@@ -102,6 +107,32 @@ Sans fonts, Compact / Comfort / Relaxed line spacing, and Narrow / Standard /
 Wide reading columns. Mobile navigation chrome moves out of the way while
 reading and returns on upward scrolling.
 
+Character names rendered in episode prose can expose contextual lore without
+leaving the chapter. The contextual card uses the same canonical rank-state
+model as the rest of the app and links to the full profile when one exists.
+
+## Reader Library
+
+Reader state is deliberately **device-local**. Nothing in the Reader Library is
+sent to a server. The library contains:
+
+- **Saved** — bookmarked episodes
+- **Recently Read** — a bounded recent-opening history
+- **Notes** — private per-episode notes with local search
+- **Passages** — selected prose saved directly from the chapter reader
+- **Backup** — validated JSON export/import for moving reader state between devices
+
+To save a passage, select text inside the rendered episode prose and use the
+**Save passage** action that appears in the existing reading controls. Saving a
+passage never rewrites the episode HTML; the stored record contains only the
+selected text plus its season/episode/title metadata. Identical selections from
+the same episode are deduplicated.
+
+Reader backups include bookmarks, Continue Reading, opened-episode progress,
+recent history, notes, passages and reading preferences. The backup format stays
+backward-compatible with earlier version-1 exports that did not contain notes
+or passages.
+
 ## Characters v2
 
 Character profiles derive additional navigation and history from existing canon
@@ -113,6 +144,10 @@ sources rather than maintaining a second lore database. Profiles expose:
 - season footprint from the canonical season-cast index
 - a user-triggered lazy appearance scan that turns relevant seasons into direct
   episode links without loading all 633 episode bodies on profile open
+
+Historical rank rendering is season-aware: Qin Luo and Han Myeong remain active
+#6 / #8 through Season 22 before their present-day retired/deceased former-rank
+states apply from Season 23 onward.
 
 Portrait files themselves are not modified by character/profile refactors.
 
@@ -153,9 +188,9 @@ initial JavaScript payload.
 ## Mobile and PWA behavior
 
 Mobile is a first-class target. The section navigator, character browser, story
-arc browser and season browser are contained horizontal scrollers and may not
-expand the document width. The active top-level section is automatically kept
-visible in the mobile tab strip.
+arc browser, season browser, Reader Library tabs and reading controls are
+contained scrollers where needed and may not expand the document width. The
+active top-level section is automatically kept visible in the mobile tab strip.
 
 The app exposes `manifest.webmanifest` and registers `sw.js`. Previously opened
 resources can be served from cache when offline. Service-worker updates do not
@@ -224,8 +259,11 @@ The browser/unit suite covers, among other things:
 - all 64 seasons / 633 episodes and the 13-arc archive
 - Continue Reading, reading progress, Next Unread and Back to Season
 - persistent typography/reading-width preferences
+- Reader Library history, notes, saved passages and validated backup/restore
+- contextual character lore inside the focused reader
 - mobile navigation behavior and page-level overflow
 - current, former, retired, deceased and unranked badge semantics
+- seasonal Qin/Han historical rank-state transitions
 - Characters v2 rank history, relationships and lazy episode appearances
 - Search v2 grouped results, keyboard navigation and lazy episode lookup
 - direct-reader route splitting and deferred inactive feature chunks
