@@ -1,3 +1,4 @@
+import { readFile } from 'node:fs/promises';
 import { test, expect } from '@playwright/test';
 import AxeBuilder from '@axe-core/playwright';
 
@@ -30,29 +31,21 @@ async function openProduction(page: import('@playwright/test').Page, hash = 'ove
   await expect(page.locator('.app-shell')).toBeVisible({ timeout: 20_000 });
 }
 
-async function coreCounts(page: import('@playwright/test').Page): Promise<CoreCounts> {
-  await openProduction(page);
-  return page.evaluate(async () => {
-    const resourceUrl = performance.getEntriesByType('resource')
-      .map((entry) => (entry as PerformanceResourceTiming).name)
-      .find((name) => /\/(?:assets\/core-[^/]+|src\/generated\/core)\.json(?:\?|$)/.test(name));
-    if (!resourceUrl) throw new Error('Production core lore resource was not observed');
-    const response = await fetch(resourceUrl);
-    if (!response.ok) throw new Error(`Unable to reload core lore resource: ${response.status}`);
-    const core = await response.json() as CoreCountShape;
-    const mainFigureKeys = new Set(['mo_qingzhao', 'yun_shizhen', 'ilyra_serath']);
-    return {
-      characters: Object.keys(core.characters).length,
-      villains: core.arcFigures.filter((figure) => !mainFigureKeys.has(figure.key)).length,
-      rhenSkills: core.rhenSkills.length,
-      seraSkills: core.seraSkills.length,
-      ranks: core.ranks.length,
-      legends: core.legends.length,
-      former: core.former.length,
-      timeline: core.seraTimeline.length,
-      canon: (core.canonRules || []).length,
-    };
-  });
+async function sourceCoreCounts(): Promise<CoreCounts> {
+  const source = await readFile(new URL('../src/data.json', import.meta.url), 'utf8');
+  const core = JSON.parse(source) as CoreCountShape;
+  const mainFigureKeys = new Set(['mo_qingzhao', 'yun_shizhen', 'ilyra_serath']);
+  return {
+    characters: Object.keys(core.characters).length,
+    villains: core.arcFigures.filter((figure) => !mainFigureKeys.has(figure.key)).length,
+    rhenSkills: core.rhenSkills.length,
+    seraSkills: core.seraSkills.length,
+    ranks: core.ranks.length,
+    legends: core.legends.length,
+    former: core.former.length,
+    timeline: core.seraTimeline.length,
+    canon: (core.canonRules || []).length,
+  };
 }
 
 test('production React shell renders and routes between core features', async ({ page }) => {
@@ -84,7 +77,7 @@ test('legacy production hashes remain valid in the React reader', async ({ page 
 });
 
 test('production React archive renders every canonical core record', async ({ page }) => {
-  const expected = await coreCounts(page);
+  const expected = await sourceCoreCounts();
   const sections: Array<[string, string, number]> = [
     ['characters', '.character-nav-card', expected.characters],
     ['villains', '.lore-card', expected.villains],
