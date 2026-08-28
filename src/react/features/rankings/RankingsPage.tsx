@@ -1,13 +1,12 @@
 import React from 'https://esm.sh/react@19.0.0';
 import { DB } from '../../../db';
 import { rankColorKey } from '../../../ranks';
-import { rankStateForStory } from '../../../characterRegistry';
-import type { RankStatus } from '../../../characterRegistry';
+import { previewRankStatus } from '../../shared/rankState';
+import type { PreviewRankStatus } from '../../shared/rankState';
 import { PageHeader, RankBadge } from '../../components/Shared';
 
-function statusFor(name: string, rank: string, className: string): RankStatus {
-  const cleanName = name.split(' — ')[0].trim();
-  const registered = rankStateForStory(cleanName);
+function statusFor(name: string, rank: string, className: string): PreviewRankStatus {
+  const registered = previewRankStatus(name);
   if (registered !== 'current') return registered;
   if (/deceased/i.test(className)) return 'deceased';
   if (/retired/i.test(className)) return 'retired';
