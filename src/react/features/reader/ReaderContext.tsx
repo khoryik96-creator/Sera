@@ -11,6 +11,8 @@ import {
   createReaderCollection as addReaderCollection,
   deleteReaderCollection as removeReaderCollection,
   getReaderOrganization,
+  readerLibraryItemKey,
+  removeReaderItemOrganization as dropReaderItemOrganization,
   renameReaderCollection as editReaderCollection,
   saveReaderOrganization,
   setReaderItemTags as updateReaderItemTags,
@@ -140,6 +142,10 @@ export function ReaderProvider({ children }: { children?: ReactNode }) {
     }
   }, [preferences]);
 
+  function updateOrganization(update: (state: ReaderOrganizationState) => ReaderOrganizationState): void {
+    setOrganization((state) => saveReaderOrganization(update(state)));
+  }
+
   function markRead(bookmark: Bookmark): void {
     setLastRead(bookmark);
     setLastReadState(bookmark);
@@ -148,16 +154,21 @@ export function ReaderProvider({ children }: { children?: ReactNode }) {
   }
 
   function toggleSaved(bookmark: Bookmark): void {
+    const removing = bookmarks.some((item) => item.id === bookmark.id);
     toggleBookmark(bookmark);
     setBookmarks(getBookmarks());
+    if (removing) updateOrganization((state) => dropReaderItemOrganization(state, readerLibraryItemKey('bookmark', bookmark.id)));
   }
 
   function saveNote(note: Omit<EpisodeNote, 'updatedAt'>): void {
-    setNotes(saveEpisodeNote(note));
+    const next = saveEpisodeNote(note);
+    setNotes(next);
+    if (!next.some((item) => item.id === note.id)) updateOrganization((state) => dropReaderItemOrganization(state, readerLibraryItemKey('note', note.id)));
   }
 
   function deleteNote(id: string): void {
     setNotes(deleteEpisodeNote(id));
+    updateOrganization((state) => dropReaderItemOrganization(state, readerLibraryItemKey('note', id)));
   }
 
   function savePassage(passage: Omit<SavedPassage, 'key' | 'createdAt'>): void {
@@ -166,10 +177,7 @@ export function ReaderProvider({ children }: { children?: ReactNode }) {
 
   function deletePassage(key: string): void {
     setPassages(deleteSavedPassage(key));
-  }
-
-  function updateOrganization(update: (state: ReaderOrganizationState) => ReaderOrganizationState): void {
-    setOrganization((state) => saveReaderOrganization(update(state)));
+    updateOrganization((state) => dropReaderItemOrganization(state, readerLibraryItemKey('passage', key)));
   }
 
   function createCollection(name: string): void {
