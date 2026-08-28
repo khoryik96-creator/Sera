@@ -68,3 +68,11 @@ test('React preview keeps deceased, retired, and former rank states distinct', a
   await page.goto('/react-preview.html#characters/sera');
   await expect(page.locator('.character-name-line .react-rank-badge--former')).toContainText('FORMER');
 });
+
+test('capture React preview visual review surfaces', async ({ page }, testInfo) => {
+  await openPreview(page, 'characters/sera');
+  await page.screenshot({ path: `test-results/react-preview-${testInfo.project.name}-character.png`, fullPage: true });
+  await openPreview(page, 'chapter/1/1');
+  await expect(page.locator('.reader-prose')).toBeVisible({ timeout: 20_000 });
+  await page.screenshot({ path: `test-results/react-preview-${testInfo.project.name}-reader.png`, fullPage: true });
+});
