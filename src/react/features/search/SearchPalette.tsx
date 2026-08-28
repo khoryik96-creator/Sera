@@ -51,8 +51,8 @@ function scoreMatch(value: string, query: string): number {
   return 0;
 }
 
-function clip(value: string, length = 126): string {
-  const clean = value.replace(/\s+/g, ' ').trim();
+function clip(value: string | undefined, length = 126): string {
+  const clean = (value || '').replace(/\s+/g, ' ').trim();
   return clean.length > length ? `${clean.slice(0, length - 1).trimEnd()}…` : clean;
 }
 
@@ -89,7 +89,7 @@ export function SearchPalette({ open, query, onClose, onOpenSection, onOpenChara
 
     Object.entries(DB.characters).forEach(([key, item]) => {
       const label = cleanCharacterName(item.name);
-      const score = scoreMatch(`${label} ${item.subtitle} ${(item.tags || []).join(' ')} ${item.identity} ${item.reputation}`, needle);
+      const score = scoreMatch(`${label} ${item.subtitle} ${(item.tags || []).join(' ')} ${item.identity || ''} ${item.reputation || ''}`, needle);
       if (!score) return;
       const rank = rankLabel(item.name);
       found.push({ id: `character-${key}`, group: 'Characters', kind: 'Character', label, meta: item.subtitle, rank: rank || undefined, status: rank ? rankStatus(item.name) : undefined, score: score + 8, open: () => onOpenCharacter(key) });
@@ -99,7 +99,7 @@ export function SearchPalette({ open, query, onClose, onOpenSection, onOpenChara
       const first = arc.seasons[0]?.season || 1;
       const last = arc.seasons[arc.seasons.length - 1]?.season || first;
       const arcScore = scoreMatch(`${arc.title} ${arc.badge} ${arc.description} arc ${arcIndex + 1}`, needle);
-      if (arcScore) found.push({ id: `arc-${arcIndex}`, group: 'Story arcs & seasons', kind: `Arc ${String(arcIndex + 1).padStart(2, '0')}`, label: arc.title, meta: `Seasons ${first}–${last} · ${clip(arc.description, 95)}`, score: arcScore + 4, open: () => onOpenSection('chapters') });
+      if (arcScore) found.push({ id: `arc-${arcIndex}`, group: 'Story arcs & seasons', kind: `Arc ${String(arcIndex + 1).padStart(2, '0')}`, label: arc.title, meta: `Seasons ${first}–${last} · ${clip(arc.description, 95)}`, score: arcScore + 4, open: () => onOpenChapter(first, 1) });
       arc.seasons.forEach((season) => {
         const seasonScore = scoreMatch(`season ${season.season} s${season.season} ${season.title} ${season.badge} ${arc.title}`, needle);
         if (!seasonScore) return;
@@ -108,15 +108,17 @@ export function SearchPalette({ open, query, onClose, onOpenSection, onOpenChara
     });
 
     episodeIndex.forEach((episode) => {
-      const score = scoreMatch(`${episode.title} ${episode.searchText}`, needle);
+      const score = scoreMatch(`${episode.title} ${episode.searchText} season ${episode.season} s${episode.season} episode ${episode.episode} e${episode.episode}`, needle);
       if (!score) return;
       found.push({ id: episode.id, group: 'Episodes', kind: `S${episode.season} · E${episode.episode}`, label: episode.title, meta: clip(episode.excerpt), score, open: () => onOpenChapter(episode.season, episode.episode) });
     });
 
     [...DB.rhenSkills.map((item) => ({ ...item, owner: 'Rhen' })), ...DB.seraSkills.map((item) => ({ ...item, owner: 'Sera' }))].forEach((item) => {
-      const score = scoreMatch(`${item.owner} ${item.name} ${item.tier || ''} ${item.category} ${item.description} ${item.notes || ''}`, needle);
+      const searchable = [item.owner, item.name, item.tier, item.category, item.signature, item.rating, item.short, item.mechanics, item.visual, item.lore, item.reveal].filter(Boolean).join(' ');
+      const score = scoreMatch(searchable, needle);
       if (!score) return;
-      found.push({ id: `technique-${item.owner}-${item.name}`, group: 'Techniques', kind: `${item.owner} · ${item.tier || 'Technique'}`, label: item.name, meta: clip(item.description), score, open: () => onOpenSection('techniques') });
+      const meta = item.short || item.mechanics || item.lore || item.visual || `${item.tier || 'Technique'} · ${item.category}`;
+      found.push({ id: `technique-${item.owner}-${item.name}`, group: 'Techniques', kind: `${item.owner} · ${item.tier || 'Technique'}`, label: item.name, meta: clip(meta), score, open: () => onOpenSection('techniques') });
     });
 
     DB.ranks.forEach((item) => {
@@ -133,9 +135,9 @@ export function SearchPalette({ open, query, onClose, onOpenSection, onOpenChara
     });
 
     (DB.canonRules || []).forEach((item) => {
-      const score = scoreMatch(`${item.title} ${item.rule} ${item.notes || ''} ${(item.examples || []).join(' ')}`, needle);
+      const score = scoreMatch(`${item.title} ${item.text}`, needle);
       if (!score) return;
-      found.push({ id: `canon-${item.title}`, group: 'Canon', kind: 'Canon rule', label: item.title, meta: clip(item.rule), score, open: () => onOpenSection('canon') });
+      found.push({ id: `canon-${item.title}`, group: 'Canon', kind: 'Canon rule', label: item.title, meta: clip(item.text), score, open: () => onOpenSection('canon') });
     });
 
     return found.sort((a, b) => b.score - a.score || a.label.localeCompare(b.label));
@@ -159,7 +161,7 @@ export function SearchPalette({ open, query, onClose, onOpenSection, onOpenChara
 
   return (
     <div className="search-palette-layer" role="presentation" onMouseDown={(event) => { if (event.target === event.currentTarget) onClose(); }}>
-      <section id="searchPalette" className="search-palette" role="dialog" aria-modal="true" aria-label="Search The Quiet Regular">
+      <section id="searchPalette" className="search-palette" role="dialog" aria-label="Search The Quiet Regular">
         <header className="search-palette__header">
           <div><p className="eyebrow">Global command palette</p><h2>{needle ? `Results for “${needle}”` : 'Search the repository'}</h2><p>{needle ? `${totalShown} best matches shown across ${grouped.length} categor${grouped.length === 1 ? 'y' : 'ies'}.` : 'Characters, story arcs, all 633 episodes, techniques, rankings, legends, and canon share one index.'}</p></div>
           <button className="search-palette__close" onClick={onClose} type="button" aria-label="Close search">Esc</button>
