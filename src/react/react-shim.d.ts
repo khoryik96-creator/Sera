@@ -23,6 +23,7 @@ declare module 'https://esm.sh/react-dom@19.0.0/client' {
 declare namespace JSX {
   type Element = unknown;
   interface ElementChildrenAttribute { children: unknown }
+  interface IntrinsicAttributes { key?: string | number }
   interface IntrinsicElements {
     [elementName: string]: Record<string, unknown>;
   }
