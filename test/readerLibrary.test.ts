@@ -17,7 +17,7 @@ describe('reader library', () => {
     ]);
   });
 
-  it('creates and restores known reader-state fields including notes, passages, and exact positions', () => {
+  it('creates and restores known reader-state fields including organization, notes, passages, and exact positions', () => {
     const backup = createReaderBackup({
       bookmarks: [{ id: 'ep-s2-e1', season: 2, title: 'Saved' }],
       lastRead: { id: 'ep-s2-e2', season: 2, title: 'Continue' },
@@ -26,6 +26,10 @@ describe('reader library', () => {
       notes: [{ id: 'ep-s2-e2', season: 2, title: 'Continue', text: 'Remember the callback.', updatedAt: 2222 }],
       passages: [{ key: 'ep-s2-e2:3333', id: 'ep-s2-e2', season: 2, title: 'Continue', text: 'A line worth keeping.', createdAt: 3333 }],
       positions: [{ id: 'ep-s2-e2', season: 2, episode: 2, progress: 0.57, updatedAt: 4444 }],
+      organization: {
+        collections: [{ id: 'collection-abc', name: 'Rhen moments', createdAt: 5000, updatedAt: 5000 }],
+        items: [{ key: 'bookmark:ep-s2-e1', favorite: true, collectionIds: ['collection-abc'], tags: ['Rhen'] }],
+      },
       preferences,
     });
     const parsed = parseReaderBackup(JSON.stringify(backup));
@@ -36,10 +40,11 @@ describe('reader library', () => {
     expect(JSON.parse(localStorage.getItem('tqr:episodeNotes:v1') || '[]')[0].text).toBe('Remember the callback.');
     expect(JSON.parse(localStorage.getItem('tqr:savedPassages:v1') || '[]')[0].text).toBe('A line worth keeping.');
     expect(JSON.parse(localStorage.getItem('tqr:chapterPositions:v1') || '[]')[0].progress).toBe(0.57);
+    expect(JSON.parse(localStorage.getItem('tqr:readerOrganization:v1') || '{}').collections[0].name).toBe('Rhen moments');
     expect(JSON.parse(localStorage.getItem('tqr:react-reader-prefs-v2') || '{}')).toEqual(preferences);
   });
 
-  it('keeps old v1 backups valid by defaulting missing notes, passages, and positions to empty', () => {
+  it('keeps old v1 backups valid by defaulting newer optional fields to empty', () => {
     const parsed = parseReaderBackup(JSON.stringify({
       product: 'The Quiet Regular',
       version: 1,
@@ -52,6 +57,7 @@ describe('reader library', () => {
     expect(parsed.notes).toEqual([]);
     expect(parsed.passages).toEqual([]);
     expect(parsed.positions).toEqual([]);
+    expect(parsed.organization).toEqual({ collections: [], items: [] });
   });
 
   it('rejects malformed or phantom episode progress', () => {
@@ -129,5 +135,24 @@ describe('reader library', () => {
       positions: [{ id: 'ep-s1-e1', season: 2, episode: 1, progress: 0.4, updatedAt: 1 }],
       preferences,
     }))).toThrow(/chapter positions/i);
+  });
+
+  it('rejects malformed Reader Library organization data', () => {
+    expect(() => parseReaderBackup(JSON.stringify({
+      product: 'The Quiet Regular',
+      version: 1,
+      bookmarks: [],
+      lastRead: null,
+      readEpisodes: [],
+      history: [],
+      notes: [],
+      passages: [],
+      positions: [],
+      organization: {
+        collections: [],
+        items: [{ key: 'bookmark:ep-s1-e1', favorite: false, collectionIds: ['collection-missing'], tags: [] }],
+      },
+      preferences,
+    }))).toThrow(/organization/i);
   });
 });
