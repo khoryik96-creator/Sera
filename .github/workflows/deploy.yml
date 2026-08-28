@@ -36,6 +36,9 @@ jobs:
       - name: Build
         run: npm run build
 
+      - name: Single-file compatibility build
+        run: npm run build:single
+
       - name: Install browser test tooling
         run: |
           npm install --no-save --no-package-lock @playwright/test@1.55.0 @axe-core/playwright@4.10.2
