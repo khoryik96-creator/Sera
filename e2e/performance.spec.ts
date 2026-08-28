@@ -25,6 +25,7 @@ const inactiveReaderRoutes = [
   'ChaptersRoute',
   'RankingsRoute',
   'BookmarksRoute',
+  'InsightsRoute',
   'LegendsRoute',
   'FormerRoute',
   'TimelineRoute',
