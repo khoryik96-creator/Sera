@@ -1,4 +1,3 @@
-import React from 'https://esm.sh/react@19.0.0';
 import { EmptyState, PageHeader } from '../../components/Shared';
 import { useReaderState } from '../reader/ReaderContext';
 

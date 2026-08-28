@@ -1,4 +1,4 @@
-import React, { useState } from 'https://esm.sh/react@19.0.0';
+import { useState } from 'react';
 import { DB } from '../../../db';
 import { PageHeader } from '../../components/Shared';
 

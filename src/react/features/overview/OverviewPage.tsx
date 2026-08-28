@@ -1,4 +1,3 @@
-import React from 'https://esm.sh/react@19.0.0';
 import { DB } from '../../../db';
 import { EPISODE_ARCS } from '../../../episodeMeta';
 import { useReaderState } from '../reader/ReaderContext';

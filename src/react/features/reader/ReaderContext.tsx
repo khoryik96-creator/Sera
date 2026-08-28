@@ -1,4 +1,5 @@
-import React, { createContext, useContext, useEffect, useState } from 'https://esm.sh/react@19.0.0';
+import type { ReactNode } from 'react';
+import { createContext, useContext, useEffect, useState } from 'react';
 import { getBookmarks, getLastRead, setLastRead, toggleBookmark } from '../../../bookmarks';
 import type { Bookmark } from '../../../bookmarks';
 
@@ -39,7 +40,7 @@ function loadPreferences(): ReaderPreferences {
   }
 }
 
-export function ReaderProvider({ children }: { children?: unknown }) {
+export function ReaderProvider({ children }: { children?: ReactNode }) {
   const prefs = loadPreferences();
   const [bookmarks, setBookmarks] = useState<Bookmark[]>(() => getBookmarks());
   const [lastRead, setLastReadState] = useState<Bookmark | null>(() => getLastRead());

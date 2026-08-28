@@ -1,4 +1,3 @@
-import React from 'https://esm.sh/react@19.0.0';
 import type { PreviewRankStatus } from '../shared/rankState';
 
 export function PageHeader({ eyebrow, title, description }: { eyebrow: string; title: string; description?: string }) {

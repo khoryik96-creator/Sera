@@ -1,4 +1,4 @@
-import React, { useEffect, useMemo, useState } from 'https://esm.sh/react@19.0.0';
+import { useEffect, useMemo, useState } from 'react';
 import { EPISODE_ARCS } from '../../../episodeMeta';
 import { loadSeason } from '../../../seasonStore';
 import type { Episode } from '../../../types';

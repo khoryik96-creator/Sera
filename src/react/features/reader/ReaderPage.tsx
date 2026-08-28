@@ -1,4 +1,5 @@
-import React, { useEffect, useState } from 'https://esm.sh/react@19.0.0';
+import { useEffect, useState } from 'react';
+import type { CSSProperties } from 'react';
 import { loadSeason } from '../../../seasonStore';
 import { renderNovel } from '../../../novel';
 import type { Episode } from '../../../types';
@@ -76,7 +77,7 @@ export function ReaderPage({ season, episode, onBack, onOpenChapter }: ReaderPag
             <button className={relaxedSpacing ? 'is-active' : ''} onClick={toggleSpacing} type="button">Spacing</button>
           </div>
 
-          <article className="reader-surface" style={{ '--reader-scale': scale, '--reader-line-height': relaxedSpacing ? 2.05 : 1.82 }}>
+          <article className="reader-surface" style={{ '--reader-scale': scale, '--reader-line-height': relaxedSpacing ? 2.05 : 1.82 } as CSSProperties & { '--reader-scale': number; '--reader-line-height': number }}>
             <div className="reader-prose" dangerouslySetInnerHTML={{ __html: renderNovel(current.text, season) }} />
           </article>
 

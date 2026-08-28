@@ -1,4 +1,5 @@
-import React, { useEffect, useMemo, useState } from 'https://esm.sh/react@19.0.0';
+import type { ReactNode } from 'react';
+import { useEffect, useMemo, useState } from 'react';
 import { DB } from '../../db';
 import { navigationItems } from './navigation';
 import type { PreviewSection } from './navigation';
@@ -133,7 +134,7 @@ export function App() {
     else if (result.section) openSection(result.section);
   }
 
-  let page: unknown;
+  let page: ReactNode;
   if (route.chapter) {
     page = <ReaderPage season={route.chapter.season} episode={route.chapter.episode} onBack={() => openSection('chapters')} onOpenChapter={openChapter} />;
   } else {

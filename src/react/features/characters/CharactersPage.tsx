@@ -1,4 +1,4 @@
-import React, { useEffect, useMemo, useState } from 'https://esm.sh/react@19.0.0';
+import { useEffect, useMemo, useState } from 'react';
 import { DB } from '../../../db';
 import { characterExtraImages, characterImageMap } from '../../../images';
 import { cleanCharacterName, previewRank, previewRankStatus } from '../../shared/rankState';
