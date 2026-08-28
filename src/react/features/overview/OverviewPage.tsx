@@ -1,10 +1,10 @@
 import { DB } from '../../../db';
 import { EPISODE_ARCS } from '../../../episodeMeta';
 import { useReaderState } from '../reader/ReaderContext';
-import type { PreviewSection } from '../../app/navigation';
+import type { AppSection } from '../../app/navigation';
 
 interface OverviewPageProps {
-  onOpenSection(section: PreviewSection): void;
+  onOpenSection(section: AppSection): void;
   onOpenChapter(season: number, episode: number): void;
 }
 
@@ -22,9 +22,9 @@ export function OverviewPage({ onOpenSection, onOpenChapter }: OverviewPageProps
     <section>
       <div className="hero">
         <div>
-          <p className="eyebrow">The Quiet Regular · React preview</p>
-          <h2>Second Spring,<br />rebuilt for reading.</h2>
-          <p>A cleaner, Lucy-inspired reader shell built around Sera and Rhen's existing canon, portraits, rankings, and 64-season archive.</p>
+          <p className="eyebrow">The Quiet Regular · Lore repository</p>
+          <h2>Second Spring,<br />built for reading.</h2>
+          <p>A calm, mobile-first reader for Sera and Rhen's complete canon, portraits, rankings, legends, and 64-season story archive.</p>
           {lastRead ? <button className="hero-continue" onClick={() => onOpenChapter(lastRead.season, episodeNumber(lastRead.id))} type="button"><span>Continue reading</span><strong>{lastRead.title}</strong><span>→</span></button> : null}
         </div>
         <div className="hero__seal" aria-hidden="true"><span>❀</span></div>
@@ -40,9 +40,9 @@ export function OverviewPage({ onOpenSection, onOpenChapter }: OverviewPageProps
       <div className="section-heading"><div><p className="eyebrow">Start here</p><h3>Repository</h3></div></div>
       <div className="quick-grid">
         <button className="quick-card" onClick={() => onOpenSection('characters')} type="button"><span>01</span><div><h3>Characters</h3><p>Portrait galleries, rank states, relationships, backgrounds, and legends.</p></div><span>→</span></button>
-        <button className="quick-card" onClick={() => onOpenSection('chapters')} type="button"><span>02</span><div><h3>Episodes</h3><p>Lazy season loading with a dedicated reading surface and adjustable typography.</p></div><span>→</span></button>
+        <button className="quick-card" onClick={() => onOpenSection('chapters')} type="button"><span>02</span><div><h3>Episodes</h3><p>Fast season loading with a dedicated reading surface and adjustable typography.</p></div><span>→</span></button>
         <button className="quick-card" onClick={() => onOpenSection('rankings')} type="button"><span>03</span><div><h3>Rankings</h3><p>Current summit plus explicit former, retired, and deceased visual states.</p></div><span>→</span></button>
-        <button className="quick-card" onClick={() => onOpenSection('bookmarks')} type="button"><span>04</span><div><h3>Bookmarks</h3><p>Your existing saved episodes and Continue Reading state, reused from production.</p></div><span>→</span></button>
+        <button className="quick-card" onClick={() => onOpenSection('bookmarks')} type="button"><span>04</span><div><h3>Bookmarks</h3><p>Saved episodes and Continue Reading stay on this device and survive reloads.</p></div><span>→</span></button>
       </div>
     </section>
   );
