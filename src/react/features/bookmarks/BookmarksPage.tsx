@@ -3,13 +3,14 @@ import { completedSeasonCount, nextUnreadTarget, overallReadingProgress } from '
 import { EmptyState, PageHeader } from '../../components/Shared';
 import '../../styles/library.css';
 import '../../styles/notes.css';
+import '../../styles/passages.css';
 import { useReaderState } from '../reader/ReaderContext';
 
 interface BookmarksPageProps {
   onOpenChapter(season: number, episode: number): void;
 }
 
-type LibraryTab = 'saved' | 'history' | 'notes' | 'backup';
+type LibraryTab = 'saved' | 'history' | 'notes' | 'passages' | 'backup';
 
 function episodeNumber(id: string): number {
   const match = id.match(/-e(\d+)$/);
@@ -22,9 +23,10 @@ function fileStamp(): string {
 }
 
 export function BookmarksPage({ onOpenChapter }: BookmarksPageProps) {
-  const { bookmarks, toggleSaved, lastRead, readEpisodes, history, notes, deleteNote, exportBackup, restoreBackup, clearHistory } = useReaderState();
+  const { bookmarks, toggleSaved, lastRead, readEpisodes, history, notes, deleteNote, passages, deletePassage, exportBackup, restoreBackup, clearHistory } = useReaderState();
   const [tab, setTab] = useState<LibraryTab>('saved');
   const [noteQuery, setNoteQuery] = useState('');
+  const [passageQuery, setPassageQuery] = useState('');
   const [notice, setNotice] = useState('');
   const [error, setError] = useState('');
   const fileInputRef = useRef<HTMLInputElement>(null);
@@ -38,6 +40,12 @@ export function BookmarksPage({ onOpenChapter }: BookmarksPageProps) {
     if (!normalizedNoteQuery) return true;
     const episode = episodeNumber(note.id);
     return `${note.title} ${note.text} season ${note.season} episode ${episode} s${note.season} e${episode}`.toLowerCase().includes(normalizedNoteQuery);
+  });
+  const normalizedPassageQuery = passageQuery.trim().toLowerCase();
+  const filteredPassages = passages.filter((passage) => {
+    if (!normalizedPassageQuery) return true;
+    const episode = episodeNumber(passage.id);
+    return `${passage.title} ${passage.text} season ${passage.season} episode ${episode} s${passage.season} e${episode}`.toLowerCase().includes(normalizedPassageQuery);
   });
 
   function downloadBackup(): void {
@@ -70,7 +78,7 @@ export function BookmarksPage({ onOpenChapter }: BookmarksPageProps) {
 
   return (
     <section className="reader-library">
-      <PageHeader eyebrow="Your reader" title="Reader Library" description="Bookmarks, recent reading, private episode notes, progress, and a portable backup of your local reader state—all kept on your device unless you export it yourself." />
+      <PageHeader eyebrow="Your reader" title="Reader Library" description="Bookmarks, recent reading, private notes, saved passages, progress, and a portable backup of your local reader state—all kept on your device unless you export it yourself." />
 
       <div className="library-summary" aria-label="Reader library summary">
         <button className="library-summary__continue" disabled={!lastRead} onClick={() => lastRead && onOpenChapter(lastRead.season, lastEpisode)} type="button">
@@ -90,6 +98,7 @@ export function BookmarksPage({ onOpenChapter }: BookmarksPageProps) {
         <button aria-selected={tab === 'saved'} className={tab === 'saved' ? 'is-active' : ''} onClick={() => setTab('saved')} role="tab" type="button">Saved <span>{bookmarks.length}</span></button>
         <button aria-selected={tab === 'history'} className={tab === 'history' ? 'is-active' : ''} onClick={() => setTab('history')} role="tab" type="button">Recently Read <span>{history.length}</span></button>
         <button aria-selected={tab === 'notes'} className={tab === 'notes' ? 'is-active' : ''} onClick={() => setTab('notes')} role="tab" type="button">Notes <span>{notes.length}</span></button>
+        <button aria-selected={tab === 'passages'} className={tab === 'passages' ? 'is-active' : ''} onClick={() => setTab('passages')} role="tab" type="button">Passages <span>{passages.length}</span></button>
         <button aria-selected={tab === 'backup'} className={tab === 'backup' ? 'is-active' : ''} onClick={() => setTab('backup')} role="tab" type="button">Backup</button>
       </div>
 
@@ -145,13 +154,33 @@ export function BookmarksPage({ onOpenChapter }: BookmarksPageProps) {
         </div>
       ) : null}
 
+      {tab === 'passages' ? (
+        <div className="library-passages-panel" role="tabpanel">
+          <div className="library-panel-heading"><div><p className="eyebrow">Saved from the prose</p><h3>Passages</h3></div><span>{passages.length} saved passage{passages.length === 1 ? '' : 's'}</span></div>
+          {passages.length ? <div className="library-passage-tools"><input className="filter-input" aria-label="Search saved passages" onChange={(event) => setPassageQuery(event.target.value)} placeholder="Search quotes, episode titles, S12 E3…" value={passageQuery} /></div> : null}
+          {passages.length === 0 ? <EmptyState title="No saved passages yet" text="Select a line or paragraph while reading, then tap Save passage in the reading controls. Your saved text stays on this device unless you export a backup." /> : filteredPassages.length === 0 ? <EmptyState title="No matching passages" text="Try another phrase, episode title, season, or episode number." /> : (
+            <div className="library-passage-list">
+              {filteredPassages.map((passage) => {
+                const episode = episodeNumber(passage.id);
+                return (
+                  <article className="library-passage-card" key={passage.key}>
+                    <button className="library-passage-card__open" onClick={() => onOpenChapter(passage.season, episode)} type="button"><small>S{passage.season} · E{episode}</small><strong>{passage.title}</strong><blockquote>“{passage.text}”</blockquote></button>
+                    <div className="library-passage-card__meta"><time dateTime={new Date(passage.createdAt).toISOString()}>{new Date(passage.createdAt).toLocaleString()}</time><button onClick={() => deletePassage(passage.key)} type="button">Delete</button></div>
+                  </article>
+                );
+              })}
+            </div>
+          )}
+        </div>
+      ) : null}
+
       {tab === 'backup' ? (
         <div className="library-backup" role="tabpanel">
           <article className="library-backup__card">
             <p className="eyebrow">Portable reader state</p>
             <h3>Move your reading state between devices</h3>
-            <p>The backup contains only The Quiet Regular reader data: bookmarks, Continue Reading, opened-episode progress, recent history, private episode notes, and your font/spacing/width preferences. It does not include account data or anything else from your browser.</p>
-            <div className="library-backup__facts"><span>{bookmarks.length} bookmarks</span><span>{overall.read} opened episodes</span><span>{history.length} recent entries</span><span>{notes.length} notes</span></div>
+            <p>The backup contains only The Quiet Regular reader data: bookmarks, Continue Reading, opened-episode progress, recent history, private episode notes, saved passages, and your font/spacing/width preferences. It does not include account data or anything else from your browser.</p>
+            <div className="library-backup__facts"><span>{bookmarks.length} bookmarks</span><span>{overall.read} opened episodes</span><span>{history.length} recent entries</span><span>{notes.length} notes</span><span>{passages.length} passages</span></div>
             <div className="library-backup__actions">
               <button className="library-backup__primary" onClick={downloadBackup} type="button">Export backup</button>
               <button onClick={() => fileInputRef.current?.click()} type="button">Import backup</button>
