@@ -19,9 +19,9 @@ This file is the source of truth for product-development status on the Sera / Th
 
 Latest feature release at the time this roadmap was audited:
 
-- **PR #54 — Reader Library v4: collections, tags, and favorites**
-- feature merge commit: `dabf4fcd44517f85cfec26d631ba3237f67ce035`
-- Pages run: `33191067065`
+- **PR #56 — Phase 11: Reading Journey and history v2**
+- feature merge commit: `c2f0a088f3f563aa5e3b6e15f8121aafe8369e6c`
+- Pages run: `33194144096`
 - deployment result: **success**
 
 Documentation-only commits may exist after that SHA. The runtime baseline above is the feature state to preserve.
@@ -277,6 +277,30 @@ Delivered:
 
 **Do not rebuild Reader Library organization.**
 
+## Phase 11 — Reading Journey / History v2 — DONE
+
+**PR #56 — Phase 11: Reading Journey and history v2**
+
+Delivered:
+
+- separate device-local `tqr:readingJourney:v2` timeline while preserving `tqr:readingHistory:v1` for compatibility
+- bounded history of up to **500 visit events**, including rereads/revisits rather than overwriting earlier timestamps
+- short-window duplicate-mount suppression so React/browser remounts do not create fake rereads
+- automatic migration from existing Recent Reading history when no v2 Journey state exists
+- reading sessions reconstructed with a **30-minute inactivity gap**
+- recent-session resume cards that return directly to the last chapter in that session
+- Reader Library **Journey** tab with search, date filtering, season filtering, visit timeline, direct chapter return, unique/revisit counts, busiest season/arc, and session summaries
+- season-completion milestones recorded from this version onward when a season transitions from incomplete to complete
+- Reading Insights uses Journey visits when available so rereads count as real reading activity
+- Reading Insights adds session count, revisit count, busiest-season context, and completion-milestone summary
+- Journey data included in validated Reader Library backup/export/import
+- older v1 backups with no Journey field remain compatible by deriving Journey visits from legacy history
+- malformed, phantom, duplicate-completion, and oversized Journey imports are rejected; imported Journey state remains bounded to 500 visits / 64 completion milestones
+- dedicated unit coverage plus Pixel/mobile + desktop browser coverage for migration, repeat visits, sessions, filters, session resume, milestones, backup validation, and overflow containment
+- no backend/account/sync layer, analytics beacon, story/canon changes, ranking changes, or portrait changes
+
+**Do not rebuild Reading Journey / History v2.**
+
 ---
 
 # Closed / stale work that must NOT be revived
@@ -289,18 +313,18 @@ Delivered:
 
 # Current next step
 
-## No pre-authorized major phase after Reader Library v4
+## No pre-authorized major phase after Reading Journey / History v2
 
-The previously agreed roadmap and the subsequently approved Reader Library organization phase have been fully delivered.
+The previously agreed roadmap and subsequently approved Reader Library organization and Reading Journey phases have been fully delivered.
 
-A new chat should **not** automatically restart Characters v2, Search v2, the original performance pass, production cleanup, Reader Library history/backups, Reading Insights, Reader UX v4, the in-chapter episode switcher, or Reader Library v4 organization.
+A new chat should **not** automatically restart Characters v2, Search v2, the original performance pass, production cleanup, Reader Library history/backups, Reading Insights, Reader UX v4, the in-chapter episode switcher, Reader Library v4 organization, or Reading Journey / History v2.
 
 Before implementing anything new:
 
 1. read `docs/ROADMAP.md`
 2. read `docs/HANDOVER.md`
 3. inspect current `main`
-4. inspect the most recent merged PRs after #54, if any
+4. inspect the most recent merged PRs after #56, if any
 5. compare the live site with current code
 6. then ask / infer from the user's newest instruction what genuinely new feature or fix is wanted
 
@@ -309,7 +333,6 @@ Before implementing anything new:
 These are only options, not approved roadmap phases:
 
 - cross-device sync (would require a deliberate backend/account decision)
-- richer reading-history exploration beyond the current bounded local model
 - targeted accessibility/manual QA improvements discovered by real testing
 - measured performance regressions if future bundles grow beyond current budgets
 - new lore/content features requested by the user

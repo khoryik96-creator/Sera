@@ -33,14 +33,14 @@ Suggested first instruction in a new chat:
 
 Latest feature release audited when this handover was written:
 
-- **PR #54 — Reader Library v4: collections, tags, and favorites**
-- merge commit: `dabf4fcd44517f85cfec26d631ba3237f67ce035`
-- GitHub Pages workflow run: `33191067065`
+- **PR #56 — Phase 11: Reading Journey and history v2**
+- merge commit: `c2f0a088f3f563aa5e3b6e15f8121aafe8369e6c`
+- GitHub Pages workflow run: `33194144096`
 - workflow status: **completed / success**
 
-The production deployment independently re-ran quality, build, performance, single-file compatibility, Pixel/mobile + desktop browser regressions, artifact upload, and Pages deployment successfully.
+The production deployment independently re-ran quality, build, performance, single-file compatibility, Pixel/mobile + desktop browser regressions, artifact upload, and the actual Pages deployment successfully.
 
-Documentation-only continuity commits may follow that runtime feature release. Recheck `main` for anything merged after PR #54 before starting new work.
+Documentation-only continuity commits may follow that runtime feature release. Recheck `main` for anything merged after PR #56 before starting new work.
 
 ---
 
@@ -73,6 +73,7 @@ The repository also progressed beyond that original roadmap. These are already p
 - Reader UX v4 exact chapter position + Focus Mode
 - in-chapter current-season episode switcher
 - Reader Library v4 collections, tags, favorites, and unified organization
+- Reading Journey / History v2 with rereads, sessions, filters, milestones, and richer Insights activity
 
 See `docs/ROADMAP.md` for PR numbers and status.
 
@@ -102,6 +103,8 @@ The focused chapter reader supports:
 - private per-episode notes
 - save selected prose passages
 - bookmark state
+- Reading Journey visit recording, including rereads/revisits
+- season-completion milestone recording when a season transitions to complete
 
 The episode switcher remains usable in Focus Mode and is intentionally compact rather than a full-screen picker.
 
@@ -112,7 +115,7 @@ The historical `#bookmarks` route is the Reader Library.
 It includes:
 
 - Saved
-- Recently Read
+- Journey
 - Notes
 - Passages
 - Organize
@@ -133,7 +136,23 @@ Reader Library v4 organization is already implemented and device-local. It suppo
 
 Organization persists in validated local state under `tqr:readerOrganization:v1` and does **not** add accounts, backend sync, or analytics.
 
-Backups are validated and can include supported local reader state such as bookmarks, Continue Reading, opened-episode progress, recent history, notes, passages, reader preferences, exact chapter positions, and Reader Library organization. Older v1 backups without organization remain compatible and import with empty organization state. Malformed/dangling organization references are rejected by validation.
+Reading Journey / History v2 is also device-local. It uses a separate `tqr:readingJourney:v2` state while preserving `tqr:readingHistory:v1` for compatibility. It supports:
+
+- up to **500 visit events** rather than only one latest timestamp per episode
+- repeated visits/rereads
+- short-window duplicate-mount suppression
+- automatic migration from legacy Recent Reading history when no Journey v2 state exists
+- reading sessions reconstructed using a **30-minute inactivity gap**
+- recent-session resume cards
+- search by title / arc / season / episode notation
+- date filters
+- season filters
+- direct chapter return from timeline/session/milestone rows
+- revisit and unique-episode counts
+- busiest-season / busiest-arc summaries
+- season-completion milestones recorded from Journey v2 onward
+
+Backups are validated and can include supported local reader state such as bookmarks, Continue Reading, opened-episode progress, legacy recent history, Reading Journey visits and completion milestones, notes, passages, reader preferences, exact chapter positions, and Reader Library organization. Older v1 backups without Journey or organization remain compatible. Journey can be derived from legacy history during import, while malformed, phantom, duplicate-completion, dangling organization, or oversized Journey payloads are rejected.
 
 Deleting an underlying bookmark, note, or saved passage also cleans its organization metadata so invisible stale collection/tag/favorite records do not accumulate.
 
@@ -151,6 +170,13 @@ It includes:
 - all 13 arc progress states
 - in-progress seasons
 - Reader Library footprint
+- Reading Journey visit-based activity when Journey data exists
+- reconstructed reading-session count
+- reread/revisit count
+- busiest-season context
+- season-completion milestone count
+
+Because Journey preserves repeat visits, rereads count as real activity instead of being overwritten by the older Recent Reading list.
 
 ### Characters v2
 
@@ -211,8 +237,9 @@ src/db.ts                     normalized core loader
 src/seasonStore.ts            lazy season loading/cache
 src/characterRegistry.ts      canonical identity/alias/rank story rules
 src/readingProgress.ts        opened-episode progress calculations
-src/readingInsights.ts        device-local insights calculations
-src/readerLibrary.ts          history + backup model
+src/readingInsights.ts        device-local Insights + Journey session/summary calculations
+src/readerLibrary.ts          legacy history + backup model
+src/readerJourney.ts          Reading Journey v2 visit/milestone state
 src/readerOrganization.ts     collections / favorites / tags state
 src/readerNotes.ts            private episode notes
 src/readerPassages.ts         saved passage state
@@ -223,12 +250,14 @@ src/types.ts                  runtime data types
 src/images.ts                 portrait discovery
 ```
 
-Reader Library v4 UI is primarily in:
+Reader Library / Journey UI is primarily in:
 
 ```text
 src/react/features/bookmarks/BookmarksPage.tsx
+src/react/features/bookmarks/ReadingJourneyPanel.tsx
 src/react/features/reader/ReaderContext.tsx
 src/react/styles/library.css
+src/react/styles/reading-journey.css
 ```
 
 Build/data tooling:
@@ -286,6 +315,7 @@ The user reads heavily on mobile. Existing regression work intentionally protect
 - contained character browser
 - contained arc/season browsers
 - contained Reader Library organization controls
+- contained Reading Journey filters, sessions, milestones, and timeline
 - reader controls remain in normal document flow
 - mobile chrome can move away while reading
 - active navigation remains visible
@@ -353,7 +383,9 @@ Expected production verification includes:
 - legacy/compatibility reader checks
 - visual diagnostics
 
-Reader Library v4 specifically has unit/browser coverage for collection creation, assignment, favorites, tags, filtering, persistence/reload, collection rename/delete, cleanup, backup validation/compatibility, and mobile overflow containment.
+Reader Library v4 has unit/browser coverage for collection creation, assignment, favorites, tags, filtering, persistence/reload, collection rename/delete, cleanup, backup validation/compatibility, and mobile overflow containment.
+
+Reading Journey / History v2 has unit/browser coverage for repeat visits, duplicate-mount suppression, session reconstruction, Journey summaries, migration from legacy history, Journey filters, recent-session resume, season-completion milestones, backup validation/bounds, Reading Insights integration, and mobile/desktop overflow containment.
 
 Never claim a release is live until the `main` Pages deployment itself is successful.
 
@@ -371,9 +403,9 @@ Always branch from current `main` after checking its SHA.
 
 ## Current roadmap state
 
-There is **no pre-authorized major phase after Reader Library v4 / PR #54** in the canonical roadmap.
+There is **no pre-authorized major phase after Reading Journey / History v2 / PR #56** in the canonical roadmap.
 
-The next chat should not invent or repeat a large phase automatically. In particular, do not rebuild Reader Library organization, the in-chapter switcher, Reader UX v4, Reading Insights, Search v2, Characters v2, or the original architecture/performance phases.
+The next chat should not invent or repeat a large phase automatically. In particular, do not rebuild Reading Journey / History v2, Reader Library organization, the in-chapter switcher, Reader UX v4, Reading Insights, Search v2, Characters v2, or the original architecture/performance phases.
 
 Possible future ideas are listed in `docs/ROADMAP.md`, but they are deliberately marked as candidates rather than approved work. Cross-device sync would require a deliberate backend/account decision rather than being silently added to the current private local model.
 
@@ -385,7 +417,7 @@ Possible future ideas are listed in `docs/ROADMAP.md`, but they are deliberately
 2. Read `docs/ROADMAP.md`.
 3. Read `docs/HANDOVER.md`.
 4. Fetch current `main` SHA.
-5. List recent merged PRs newer than #54.
+5. List recent merged PRs newer than #56.
 6. Verify the latest Pages run for current `main`.
 7. Only then plan genuinely new work from the user's newest instruction.
 8. Create a fresh branch from current `main`.
