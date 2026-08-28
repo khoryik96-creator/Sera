@@ -19,9 +19,9 @@ This file is the source of truth for product-development status on the Sera / Th
 
 Latest feature release at the time this roadmap was audited:
 
-- **PR #52 — Reader UX v4: exact chapter resume + focus mode**
-- feature merge commit: `6a0ae25a74ff783dbba5c76a4dcdc212cbff53cd`
-- Pages run: `33188294840`
+- **PR #54 — Reader Library v4: collections, tags, and favorites**
+- feature merge commit: `dabf4fcd44517f85cfec26d631ba3237f67ce035`
+- Pages run: `33191067065`
 - deployment result: **success**
 
 Documentation-only commits may exist after that SHA. The runtime baseline above is the feature state to preserve.
@@ -245,6 +245,38 @@ Delivered:
 - Escape exits Focus Mode immediately
 - Pixel/mobile + desktop coverage for resume/focus behavior
 
+## In-chapter season episode switcher — DONE
+
+**PR #53 — Reader episode switcher inside focused chapters**
+
+Delivered:
+
+- compact in-flow switcher for the already-loaded current season
+- current episode and opened/read state
+- direct episode-to-episode jumps without returning to the archive
+- remains usable in Focus Mode
+- single-column mobile and two-column desktop layout
+- Pixel/mobile + desktop regression coverage
+
+## Phase 10 — Reader Library v4 organization — DONE
+
+**PR #54 — Reader Library v4: collections, tags, and favorites**
+
+Delivered:
+
+- custom collections across bookmarks, private notes, and saved passages
+- Favorites as a built-in Reader Library filter
+- normalized, bounded, de-duplicated free-form tags
+- unified **Organize** tab with search, filtering, rename/delete, direct chapter return, and per-item controls
+- device-local `tqr:readerOrganization:v1` state; no backend/account introduced
+- organization included in validated Reader Library export/import
+- backward compatibility with older v1 backups that have no organization field
+- cleanup of organization metadata when its underlying bookmark/note/passage is deleted
+- malformed and dangling collection references rejected during backup validation
+- Pixel/mobile + desktop browser coverage for create/assign/favorite/tag/filter/reload/rename/delete/overflow
+
+**Do not rebuild Reader Library organization.**
+
 ---
 
 # Closed / stale work that must NOT be revived
@@ -257,18 +289,18 @@ Delivered:
 
 # Current next step
 
-## No pre-authorized major phase after Reader UX v4
+## No pre-authorized major phase after Reader Library v4
 
-The previously agreed roadmap has been fully delivered and the repository has already progressed beyond it.
+The previously agreed roadmap and the subsequently approved Reader Library organization phase have been fully delivered.
 
-A new chat should **not** automatically start Characters v2, Search v2, the original performance pass, production cleanup, Reader Library, Reading Insights, or Reader UX v4 again.
+A new chat should **not** automatically restart Characters v2, Search v2, the original performance pass, production cleanup, Reader Library history/backups, Reading Insights, Reader UX v4, the in-chapter episode switcher, or Reader Library v4 organization.
 
 Before implementing anything new:
 
 1. read `docs/ROADMAP.md`
 2. read `docs/HANDOVER.md`
 3. inspect current `main`
-4. inspect the most recent merged PRs after #52, if any
+4. inspect the most recent merged PRs after #54, if any
 5. compare the live site with current code
 6. then ask / infer from the user's newest instruction what genuinely new feature or fix is wanted
 
@@ -276,7 +308,6 @@ Before implementing anything new:
 
 These are only options, not approved roadmap phases:
 
-- Reader Library organization such as tags/collections
 - cross-device sync (would require a deliberate backend/account decision)
 - richer reading-history exploration beyond the current bounded local model
 - targeted accessibility/manual QA improvements discovered by real testing
