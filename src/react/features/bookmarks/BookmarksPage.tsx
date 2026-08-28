@@ -81,7 +81,7 @@ export function BookmarksPage({ onOpenChapter }: BookmarksPageProps) {
         </button>
         <article><span>Story progress</span><strong>{overall.percent}%</strong><small>{overall.read} / {overall.total} episodes opened</small></article>
         <article><span>Completed seasons</span><strong>{completedSeasons}</strong><small>of 64 seasons</small></article>
-        <article><span>Saved / notes</span><strong>{bookmarks.length} / {notes.length}</strong><small>bookmarks · private notes</small></article>
+        <article><span>Saved / recent</span><strong>{bookmarks.length} / {history.length}</strong><small>bookmarks · recent episodes</small></article>
       </div>
 
       {nextUnread ? <button className="library-next-unread" onClick={() => onOpenChapter(nextUnread.season, nextUnread.episode)} type="button"><span>Next unread</span><strong>S{nextUnread.season} · E{nextUnread.episode}</strong><small>Continue beyond your current reading position.</small><b>Read →</b></button> : null}
