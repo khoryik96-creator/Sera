@@ -109,6 +109,26 @@ test('production React archive renders every canonical core record', async ({ pa
   await expect(page.locator('.season-card')).toHaveCount(64);
 });
 
+test('season Read action loads the chosen season and opens its first episode', async ({ page }, testInfo) => {
+  await openProduction(page, 'chapters');
+  const season12 = page.locator('.season-card').nth(11);
+  await season12.click();
+  await expect(season12).toHaveAttribute('aria-pressed', 'true');
+  await expect(page.locator('.season-selected-heading__meta')).toHaveText('Season 12');
+  await expect(page.locator('.season-start-button')).toBeEnabled({ timeout: 20_000 });
+
+  if (testInfo.project.name.includes('mobile')) {
+    await expect.poll(async () => page.locator('.season-reader-panel').evaluate((node) => {
+      const rect = node.getBoundingClientRect();
+      return rect.top < window.innerHeight && rect.bottom > 0;
+    })).toBe(true);
+  }
+
+  await page.locator('.season-start-button').click();
+  await expect(page).toHaveURL(/#chapter\/12\/1$/);
+  await expect(page.locator('.reader-prose')).toBeVisible({ timeout: 20_000 });
+});
+
 test('production React reader is mobile-safe with swipeable navigation and no page overflow', async ({ page }, testInfo) => {
   test.skip(!testInfo.project.name.includes('mobile'), 'mobile-only layout assertion');
   await openProduction(page, 'characters/sera');
