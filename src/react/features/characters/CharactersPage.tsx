@@ -1,7 +1,8 @@
 import React, { useEffect, useMemo, useState } from 'https://esm.sh/react@19.0.0';
 import { DB } from '../../../db';
 import { characterExtraImages, characterImageMap } from '../../../images';
-import { rankForStory, rankStateForStory } from '../../../characterRegistry';
+import { rankForStory } from '../../../characterRegistry';
+import { previewRankStatus } from '../../shared/rankState';
 import { PageHeader, RankBadge } from '../../components/Shared';
 
 interface CharactersPageProps {
@@ -26,7 +27,7 @@ export function CharactersPage({ selectedKey, onOpenCharacter }: CharactersPageP
   const visible = entries.filter(([, item]) => `${item.name} ${item.subtitle} ${(item.tags || []).join(' ')}`.toLowerCase().includes(filter.toLowerCase()));
   const portraits = [characterImageMap[activeKey], ...(characterExtraImages[activeKey] || [])].filter(Boolean);
   const currentRank = rankForStory(character.name);
-  const status = rankStateForStory(character.name);
+  const status = previewRankStatus(character.name);
 
   return (
     <section>
@@ -37,7 +38,7 @@ export function CharactersPage({ selectedKey, onOpenCharacter }: CharactersPageP
           <div className="character-browser__list">
             {visible.map(([key, item]) => {
               const rank = rankForStory(item.name);
-              const itemStatus = rankStateForStory(item.name);
+              const itemStatus = previewRankStatus(item.name);
               return (
                 <button className={`character-nav-card ${key === activeKey ? 'is-active' : ''}`} key={key} onClick={() => onOpenCharacter(key)} type="button">
                   <span className={`character-${key}`}>{item.name}</span>
