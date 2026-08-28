@@ -39,6 +39,7 @@
   background:#0b1017!important;
 }
 .portrait-gallery__controls{
+  position:relative!important;
   flex:0 0 72px;
   display:flex;
   align-items:center;
@@ -49,9 +50,11 @@
   background:#080c12;
   border-top:1px solid var(--line);
   scrollbar-width:none;
+  z-index:2;
 }
 .portrait-gallery__controls::-webkit-scrollbar{display:none}
 .portrait-gallery__thumb{
+  position:relative!important;
   width:50px!important;
   height:50px!important;
   flex:0 0 50px!important;
@@ -68,17 +71,23 @@
   box-shadow:0 0 0 2px rgba(217,154,221,.18);
 }
 .portrait-gallery__thumb img{
+  position:static!important;
+  inset:auto!important;
   display:block!important;
   width:100%!important;
   height:100%!important;
+  max-width:none!important;
   object-fit:cover!important;
+  object-position:center!important;
   filter:none!important;
   -webkit-filter:none!important;
   mix-blend-mode:normal!important;
   opacity:1!important;
+  transform:none!important;
   pointer-events:none!important;
 }
 .portrait-gallery__count{
+  position:static!important;
   min-width:38px;
   text-align:center;
   color:var(--muted);
