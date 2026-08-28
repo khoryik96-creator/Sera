@@ -12,7 +12,7 @@ test('Characters v2 exposes Sera rank history and lore sections', async ({ page 
   await expect(page.locator('.rank-journey')).toContainText('#7');
   await expect(page.locator('.rank-journey')).toContainText('#6');
   await expect(page.locator('.rank-journey')).toContainText('FORMER');
-  await expect(page.getByRole('heading', { name: 'Connected characters' })).toBeVisible();
+  await expect(page.getByRole('heading', { name: 'Connections', exact: true })).toBeVisible();
   await expect(page.getByRole('heading', { name: 'What the martial world remembers' })).toBeVisible();
   await expect(page.getByRole('heading', { name: 'Jump back into their chapters' })).toBeVisible();
 });
