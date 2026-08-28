@@ -14,7 +14,7 @@ single-file build.
 ## Architecture
 
 ```text
-index.html                  markup shell + legacy episode heading metadata
+index.html                  markup shell + app containers/canon text
 src/
   main.ts                   application bootstrap
   db.ts                     data loader + legacy-row normalization
@@ -30,7 +30,8 @@ src/
   seraTimeline.ts           Sera chronology
   arcFigures.ts             Other Characters / Villains
   novel.ts                  dialogue, skill and ranked-name annotation
-  episodeStructure.ts       typed arc/season metadata + generated archive shell
+  episodeMeta.ts            canonical typed arc/season metadata
+  episodeStructure.ts       generated archive shell
   episodes.ts               lazy season/episode rendering
   episodeNav.ts             season/episode jump navigation
   bookmarks.ts              local bookmark + resume-reading persistence
@@ -100,12 +101,12 @@ a numeric rank.
 
 The browser no longer renders all 64 seasons and 633 episodes on startup.
 
-At startup `episodeStructure.ts` captures the established arc/season headings,
-rebuilds them into a generated typed shell and discards the large working DOM.
-`episodes.ts` then renders prose only when a season is opened or directly
-requested by the jump/bookmark navigator. Global episode search intentionally
-renders filtered results across all seasons and returns to lazy mode when the
-query is cleared.
+`episodeMeta.ts` is the source of truth for the 13 arcs and 64 season headings.
+At startup `episodeStructure.ts` builds the archive shell from that typed
+metadata. `episodes.ts` then renders prose only when a season is opened or
+directly requested by the jump/bookmark navigator. Global episode search
+intentionally renders filtered results across all seasons and returns to lazy
+mode when the query is cleared.
 
 Bookmarks and resume-reading state stay in `localStorage` and survive reloads
 on the same browser/device.
