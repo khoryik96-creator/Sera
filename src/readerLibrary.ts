@@ -1,5 +1,7 @@
 import type { Bookmark } from './bookmarks';
 import { episodeCountForSeason } from './readingProgress';
+import { JOURNEY_KEY, emptyReadingJourney, persistReadingJourney, validReadingJourney } from './readerJourney';
+import type { ReadingJourneyState } from './readerJourney';
 import { NOTES_KEY, persistEpisodeNotes, validEpisodeNote } from './readerNotes';
 import type { EpisodeNote } from './readerNotes';
 import { emptyReaderOrganization, persistReaderOrganization, validReaderOrganization } from './readerOrganization';
@@ -37,6 +39,7 @@ export interface ReaderStateBackup {
   lastRead: Bookmark | null;
   readEpisodes: string[];
   history: ReadingHistoryEntry[];
+  journey: ReadingJourneyState;
   notes: EpisodeNote[];
   passages: SavedPassage[];
   positions: ChapterPosition[];
@@ -44,9 +47,10 @@ export interface ReaderStateBackup {
   preferences: ReaderPreferenceBackup;
 }
 
-type ReaderBackupInput = Omit<ReaderStateBackup, 'product' | 'version' | 'exportedAt' | 'positions' | 'organization'> & {
+type ReaderBackupInput = Omit<ReaderStateBackup, 'product' | 'version' | 'exportedAt' | 'positions' | 'organization' | 'journey'> & {
   positions?: ChapterPosition[];
   organization?: ReaderOrganizationState;
+  journey?: ReadingJourneyState;
 };
 
 function episodeParts(value: unknown): { season: number; episode: number } | null {
@@ -117,6 +121,8 @@ export function clearReadingHistory(): void {
 }
 
 export function createReaderBackup(input: ReaderBackupInput): ReaderStateBackup {
+  const history = input.history.filter(validHistory).slice(0, HISTORY_LIMIT);
+  const fallbackJourney: ReadingJourneyState = { visits: history, seasonCompletions: [] };
   return {
     product: 'The Quiet Regular',
     version: 1,
@@ -124,7 +130,8 @@ export function createReaderBackup(input: ReaderBackupInput): ReaderStateBackup 
     bookmarks: input.bookmarks.filter(validBookmark),
     lastRead: input.lastRead && validBookmark(input.lastRead) ? input.lastRead : null,
     readEpisodes: Array.from(new Set(input.readEpisodes.filter(validEpisodeId))),
-    history: input.history.filter(validHistory).slice(0, HISTORY_LIMIT),
+    history,
+    journey: input.journey && validReadingJourney(input.journey) ? input.journey : fallbackJourney,
     notes: input.notes.filter(validEpisodeNote).sort((a, b) => b.updatedAt - a.updatedAt),
     passages: input.passages.filter(validSavedPassage).sort((a, b) => b.createdAt - a.createdAt),
     positions: (input.positions || []).filter(validChapterPosition).sort((a, b) => b.updatedAt - a.updatedAt),
@@ -147,6 +154,8 @@ export function parseReaderBackup(raw: string): ReaderStateBackup {
   if (backup.lastRead !== null && backup.lastRead !== undefined && !validBookmark(backup.lastRead)) throw new Error('Backup Continue Reading position is invalid.');
   if (!Array.isArray(backup.readEpisodes) || !backup.readEpisodes.every(validEpisodeId)) throw new Error('Backup reading progress is invalid.');
   if (!Array.isArray(backup.history) || !backup.history.every(validHistory)) throw new Error('Backup reading history is invalid.');
+  const journey = backup.journey === undefined ? { visits: backup.history, seasonCompletions: [] } : backup.journey;
+  if (!validReadingJourney(journey)) throw new Error('Backup reading journey is invalid.');
   const notes = backup.notes === undefined ? [] : backup.notes;
   if (!Array.isArray(notes) || !notes.every(validEpisodeNote)) throw new Error('Backup episode notes are invalid.');
   const passages = backup.passages === undefined ? [] : backup.passages;
@@ -165,6 +174,7 @@ export function parseReaderBackup(raw: string): ReaderStateBackup {
     lastRead: backup.lastRead || null,
     readEpisodes: Array.from(new Set(backup.readEpisodes)),
     history: backup.history.sort((a, b) => b.openedAt - a.openedAt).slice(0, HISTORY_LIMIT),
+    journey,
     notes: notes.sort((a, b) => b.updatedAt - a.updatedAt),
     passages: passages.sort((a, b) => b.createdAt - a.createdAt),
     positions: positions.sort((a, b) => b.updatedAt - a.updatedAt),
@@ -187,6 +197,8 @@ export function persistReaderBackup(backup: ReaderStateBackup): void {
     else persistSavedPassages(backup.passages);
     persistChapterPositions(backup.positions);
     persistReaderOrganization(backup.organization);
+    if (!backup.journey.visits.length && !backup.journey.seasonCompletions.length) localStorage.removeItem(JOURNEY_KEY);
+    else persistReadingJourney(backup.journey);
   } catch {
     throw new Error('This browser blocked reader storage, so the backup could not be restored.');
   }
