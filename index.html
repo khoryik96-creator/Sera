@@ -2,11 +2,19 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<title>The Quiet Regular — Full Lore Repository v99</title>
-<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>❀</text></svg>" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+<meta name="theme-color" content="#0f1115" />
+<meta name="color-scheme" content="dark" />
+<title>The Quiet Regular — Lore Repository</title>
+<link rel="manifest" href="./manifest.webmanifest" />
+<link rel="icon" href="./icon.svg" type="image/svg+xml" />
 </head>
 <body>
+<a class="skip-link" href="#mainContent">Skip to content</a>
+<div id="offlineBanner" class="offline-banner" hidden>You’re offline — previously opened chapters remain available.</div>
+<div id="appStatus" class="app-status app-status--loading">
+  <div class="app-status__card" role="status" aria-live="polite"><span class="app-spinner" aria-hidden="true"></span><strong>Opening the lore archive…</strong></div>
+</div>
 <header class="repo-topbar">
   <div class="repo-brand">
     <div class="brand-mark">❀</div>
@@ -16,119 +24,96 @@
     </div>
   </div>
   <div class="repo-status">
-    <span class="version-chip">v99</span>
+    <span class="version-chip">Loading…</span>
     <span class="episode-chip">633 Episodes</span>
-    <span class="status-dot">●</span>
+    <button id="installApp" type="button" hidden>Install</button>
+    <span class="status-dot" aria-label="Repository online">●</span>
   </div>
 </header>
-<div class="wrap">
+<main id="mainContent" class="wrap" tabindex="-1">
   <div class="toolbar repo-nav">
-    <button class="tab active" data-tab="characters">◉ Characters</button>
-    <button class="tab" data-tab="others">♟ Others</button>
-    <button class="tab" data-tab="skills">✦ Rhen's Arts</button>
-    <button class="tab" data-tab="rankings">♜ Rankings</button>
-    <button class="tab" data-tab="legends">✧ Legends</button>
-    <button class="tab" data-tab="former">⌛ Former</button>
-    <button class="tab" data-tab="sera-timeline">❀ Sera Timeline</button>
-    <button class="tab" data-tab="episodes">▤ Episodes</button>
-    <button class="tab" data-tab="canon">☷ Canon</button>
-    <input id="search" class="search" placeholder="Search Rhen, Sera, Wei Zhen, legends, techniques..." />
+    <div class="tab-strip" role="tablist" aria-label="Lore sections">
+      <button id="tab-characters" class="tab active" role="tab" aria-selected="true" aria-controls="characters" data-tab="characters">◉ Characters</button>
+      <button id="tab-others" class="tab" role="tab" aria-selected="false" aria-controls="others" data-tab="others" tabindex="-1">♟ Others</button>
+      <button id="tab-skills" class="tab" role="tab" aria-selected="false" aria-controls="skills" data-tab="skills" tabindex="-1">✦ Rhen's Arts</button>
+      <button id="tab-rankings" class="tab" role="tab" aria-selected="false" aria-controls="rankings" data-tab="rankings" tabindex="-1">♜ Rankings</button>
+      <button id="tab-legends" class="tab" role="tab" aria-selected="false" aria-controls="legends" data-tab="legends" tabindex="-1">✧ Legends</button>
+      <button id="tab-former" class="tab" role="tab" aria-selected="false" aria-controls="former" data-tab="former" tabindex="-1">⌛ Former</button>
+      <button id="tab-sera-timeline" class="tab" role="tab" aria-selected="false" aria-controls="sera-timeline" data-tab="sera-timeline" tabindex="-1">❀ Sera Timeline</button>
+      <button id="tab-episodes" class="tab" role="tab" aria-selected="false" aria-controls="episodes" data-tab="episodes" tabindex="-1">▤ Episodes</button>
+      <button id="tab-canon" class="tab" role="tab" aria-selected="false" aria-controls="canon" data-tab="canon" tabindex="-1">☷ Canon</button>
+    </div>
+    <input id="search" class="search" aria-label="Search current section" placeholder="Search Rhen, Sera, legends, techniques..." />
   </div>
 
-  <section id="characters" class="panel character-dashboard">
+  <section id="characters" class="panel character-dashboard" role="tabpanel" aria-labelledby="tab-characters" aria-hidden="false">
     <div class="character-layout">
       <aside class="character-sidebar">
-        <div class="sidebar-head">
-          <span class="sidebar-kicker">CHARACTER INDEX</span>
-          <h3>Top Ten & Core</h3>
-        </div>
+        <div class="sidebar-head"><span class="sidebar-kicker">CHARACTER INDEX</span><h3>Top Ten & Core</h3></div>
         <div id="characterButtons" class="character-nav-list"></div>
         <div class="sidebar-foot">Select a character to open the full profile.</div>
       </aside>
-
       <div class="character-main">
         <div id="charDetail" class="character-profile-shell"></div>
-
         <div class="profile-quicklinks">
           <button type="button" data-scroll="topCharacterSkillsWrap">✦ Martial Arts</button>
           <button type="button" data-scroll="characterLegendsWrap">✧ Legends & Stories</button>
           <button type="button" data-scroll="seraSkillsWrap">❀ Sera Arts</button>
         </div>
-
         <div class="callout profile-standard"><strong>Archive standard:</strong> Current ranked characters use complete martial-system records; Rhen and Sera retain dedicated full technique sections, and historical status is preserved separately from present-day epilogue state.</div>
-
-        <div id="topCharacterSkillsWrap" class="hidden">
-          <h2 id="topSkillTitle" class="section-title">Martial Arts</h2>
-          <div class="card table-card"><table id="topSkillTable"></table></div>
-        </div>
-
-        <div id="seraSkillsWrap" class="hidden">
-          <h2 class="section-title">Sera — Pale Orchid Arts</h2>
-          <div class="card table-card"><table id="seraSkillTable"></table></div>
-          <h3 class="section-title">Full Technique Descriptions</h3>
-          <div id="seraSkillList" class="grid"></div>
-        </div>
-
-        <div id="characterLegendsWrap" class="profile-legends">
-          <h2 class="section-title">Legends & Stories</h2>
-          <div class="callout"><strong>Full narrative archive:</strong> defining feats, duels, political incidents, secret canon, origins, and tragedies.</div>
-          <div id="characterLegendList" class="legend-stack"></div>
-        </div>
+        <div id="topCharacterSkillsWrap" class="hidden"><h2 id="topSkillTitle" class="section-title">Martial Arts</h2><div class="card table-card"><table id="topSkillTable"></table></div></div>
+        <div id="seraSkillsWrap" class="hidden"><h2 class="section-title">Sera — Pale Orchid Arts</h2><div class="card table-card"><table id="seraSkillTable"></table></div><h3 class="section-title">Full Technique Descriptions</h3><div id="seraSkillList" class="grid"></div></div>
+        <div id="characterLegendsWrap" class="profile-legends"><h2 class="section-title">Legends & Stories</h2><div class="callout"><strong>Full narrative archive:</strong> defining feats, duels, political incidents, secret canon, origins, and tragedies.</div><div id="characterLegendList" class="legend-stack"></div></div>
       </div>
     </div>
   </section>
 
-  <section id="others" class="panel hidden">
+  <section id="others" class="panel hidden" role="tabpanel" aria-labelledby="tab-others" aria-hidden="true">
     <h2 class="section-title">Other Characters / Villains</h2>
     <div class="callout"><strong>Expanded supporting-cast archive:</strong> villains, former powers, neutral specialists, outside-world threats, Ancient Kings and other major arc figures are collected here with their identities, status, strengths and known martial systems.</div>
-    <div class="toolbar" style="position:static;background:none;padding:0;margin-top:14px">
-      <input id="otherSearch" class="search" placeholder="Search villains, Ancient Kings, Wei Zhen, Vaelor, techniques..." />
-    </div>
+    <div class="toolbar" style="position:static;background:none;padding:0;margin-top:14px"><input id="otherSearch" class="search" aria-label="Search other characters and villains" placeholder="Search villains, Ancient Kings, Wei Zhen, Vaelor, techniques..." /></div>
     <div id="arcFigureGrid" class="grid two"></div>
   </section>
 
-  <section id="skills" class="panel hidden">
+  <section id="skills" class="panel hidden" role="tabpanel" aria-labelledby="tab-skills" aria-hidden="true">
     <h2 class="section-title">Rhen — Winter / Frozen Petal Arts</h2>
     <div class="callout"><strong>Reveal pacing:</strong> this archive can record the wider system without revealing everything in-story. Early seasons still cap Rhen at a maximum of two newly introduced named techniques per season. The archive tracks later reveals through the completed story, including his Ultimate only at its canon finale activation.</div>
     <div class="card" style="margin-top:16px;overflow-x:auto"><table id="skillTable" style="width:100%;border-collapse:collapse;min-width:900px"></table></div>
     <h3 class="section-title">Full Technique Descriptions</h3><div id="skillList" class="grid"></div>
   </section>
 
-  <section id="rankings" class="panel hidden">
+  <section id="rankings" class="panel hidden" role="tabpanel" aria-labelledby="tab-rankings" aria-hidden="true">
     <h2 class="section-title">World Ranking Structure</h2>
     <div class="callout"><strong>Power rule:</strong> Rhen is not officially ranked. #1–#5 are the Five Dukes; #6–#10 are the Five Marquises. The Dukes remain world-shaping martial monsters, but the old #5-to-#6 tier cliff no longer describes the current board: #6 Ilyra Serath is stronger than several Dukes in direct combat, while Kael, Tae and Liang remain above her overall. Sera is retired former #6. She returned during the Ancient King war at genuine Duke level, and by the two-year Second Spring epilogue has quietly grown beyond the old Duke framework while remaining outside the ranking.</div>
     <div id="rankList" class="card" style="margin-top:16px"></div>
   </section>
 
-  <section id="legends" class="panel hidden">
+  <section id="legends" class="panel hidden" role="tabpanel" aria-labelledby="tab-legends" aria-hidden="true">
     <h2 class="section-title">All Legends Archive</h2>
-    <div class="toolbar" style="position:static;background:none;padding:0"><input id="legendSearch" class="search" placeholder="Search Rui, Seven Lanterns, Golden Lion, Burning Valley..." /></div>
+    <div class="toolbar" style="position:static;background:none;padding:0"><input id="legendSearch" class="search" aria-label="Search legends" placeholder="Search Rui, Seven Lanterns, Golden Lion, Burning Valley..." /></div>
     <div class="callout" style="margin-bottom:16px"><strong>Expanded legend archive:</strong> Major characters have substantial narrative legends rather than only one-line feats. Season 3's Sera legend arc is integrated without retroactively stealing her accomplishments.</div>
     <div id="legendList" class="grid two"></div>
   </section>
 
-  <section id="former" class="panel hidden">
+  <section id="former" class="panel hidden" role="tabpanel" aria-labelledby="tab-former" aria-hidden="true">
     <h2 class="section-title">Former Rank Holders & Legacy Figures</h2>
     <div class="callout">Core historical rank holders and legacy figures are kept here for succession clarity. Major deceased villains, Crowns, Ancient Kings and the Overlord are documented with their final status and skills in <strong>Other Characters / Villains</strong>.</div>
     <div id="formerList" class="grid two" style="margin-top:16px"></div>
   </section>
 
-  <section id="sera-timeline" class="panel hidden">
+  <section id="sera-timeline" class="panel hidden" role="tabpanel" aria-labelledby="tab-sera-timeline" aria-hidden="true">
     <h2 class="section-title">Sera — Full Chronological History</h2>
     <div class="callout"><strong>Full canon chronology, not a summary.</strong> Childhood, House training, Hwan Gyeom, rise as the Pale Orchid, #7, Three Dukes, Seven Lanterns, escape, Rhen's unseen interventions, #6, marriage, retirement, the Ancient King war, and the two-year Second Spring epilogue.</div>
     <div id="seraTimelineList" style="margin-top:16px"></div>
   </section>
 
-  <section id="episodes" class="panel hidden">
+  <section id="episodes" class="panel hidden" role="tabpanel" aria-labelledby="tab-episodes" aria-hidden="true">
     <h2 class="section-title">Full Episode Archive</h2>
     <div class="callout"><strong>Short-novel episode chapters, not summaries.</strong> Season 1 remains locked. Seasons 2–3 preserve the established arcs. Seasons 4–8 form the Nine Seals saga, with sequential Duke spotlights, new villains and neutral figures, one major Duke-vs-Duke clash, and only one true Rhen Supreme Art reveal through Season 8. Named dialogue uses explicit speaker tags; supporting speakers stay white. <strong style="color:#d8ad3d">SUPREME ART / TRANSCENDED SKILL / TRANSCENDED ART</strong> callouts are bold gold.</div>
-    <div class="card character-color-key">
-      <h3>Character Color Key</h3>
-      <p class="muted">Bright colors are intentionally chosen for the black background. The same color follows each recurring character's name and explicitly tagged dialogue.</p>
-      <div id="colorKey" class="character-color-grid"></div>
-    </div>
+    <div class="card character-color-key"><h3>Character Color Key</h3><p class="muted">Bright colors are intentionally chosen for the black background. The same color follows each recurring character's name and explicitly tagged dialogue.</p><div id="colorKey" class="character-color-grid"></div></div>
     <div class="callout"><strong>Dialogue speaker audit rule:</strong> colors come from explicit <code>[[speaker:...]]</code> tags in the novel source, never conversational guesswork. If speaker ownership is uncertain, the line stays white.</div>
-    <div id="episodeJumpBar" class="episode-navbar">
+    <div id="episodeSearchStatus" class="episode-search-status muted" aria-live="polite"></div>
+    <div id="episodeJumpBar" class="episode-navbar" aria-label="Episode navigation">
       <div class="nav-core">
         <button id="seasonPrev" class="nav-step" type="button" aria-label="Previous season">‹</button>
         <button id="seasonCur" class="nav-season" type="button" aria-expanded="false" aria-controls="seasonPicker">S<span id="seasonCurNum">1</span><i aria-hidden="true">▾</i></button>
@@ -142,277 +127,12 @@
       <div id="episodePad" class="nav-pop episode-pad" aria-label="Episodes in this season" hidden></div>
       <div id="bookmarksPanel" class="nav-pop bookmarks-panel" hidden></div>
     </div>
-    <details class="arc-accordion">
-      <summary class="arc-head"><div><h2>Arc I — The Quiet Regular</h2><span class="badge">Seasons 1–3</span><p>Tea shop beginnings, Sera and Rhen's early relationship, and the first hints of the hidden legend.</p></div><span class="arc-toggle">▾</span></summary>
-      <div class="arc-body">
-
-    <details class="season-accordion">
-      <summary class="episode-season-head">
-        <div><h2>Season 1</h2><span class="badge">10 Episodes · LOCKED</span></div>
-        <span class="season-toggle" aria-hidden="true">▾</span>
-      </summary>
-      <div id="episodeList" class="season-episode-list"></div>
-    </details>
-
-
-    <details class="season-accordion">
-      <summary class="episode-season-head">
-        <div><h2>Season 2 - The Manufactured Calamities</h2><span class="badge">10 Episodes · COMPLETE DRAFT</span></div>
-        <span class="season-toggle" aria-hidden="true">▾</span>
-      </summary>
-      <div id="episodeListSeason2" class="season-episode-list"></div>
-    </details>
-
-
-    <details class="season-accordion">
-      <summary class="episode-season-head">
-        <div><h2>Season 3 - The Man Beneath the Snow</h2><span class="badge">10 Episodes · COMPLETE DRAFT</span></div>
-        <span class="season-toggle" aria-hidden="true">▾</span>
-      </summary>
-      <div id="episodeListSeason3" class="season-episode-list"></div>
-    </details>
-      </div>
-    </details>
-    <details class="arc-accordion">
-      <summary class="arc-head"><div><h2>Arc II — The Nine Seals</h2><span class="badge">Seasons 4–8</span><p>Seal conflicts, Duke politics, old sovereign history, and Huo Wujin's first rise.</p></div><span class="arc-toggle">▾</span></summary>
-      <div class="arc-body">
-
-
-    <details class="season-accordion">
-      <summary class="episode-season-head">
-        <div><h2>Season 4 - The Sea That Remembers</h2><span class="badge">10 Episodes · NINE SEALS SAGA</span></div>
-        <span class="season-toggle" aria-hidden="true">▾</span>
-      </summary>
-      <div id="seasonCast4" class="season-cast-guide"></div>
-      <div id="episodeListSeason4" class="season-episode-list"></div>
-    </details>
-
-
-    <details class="season-accordion">
-      <summary class="episode-season-head">
-        <div><h2>Season 5 - The White Funeral</h2><span class="badge">10 Episodes · NINE SEALS SAGA</span></div>
-        <span class="season-toggle" aria-hidden="true">▾</span>
-      </summary>
-      <div id="seasonCast5" class="season-cast-guide"></div>
-      <div id="episodeListSeason5" class="season-episode-list"></div>
-    </details>
-
-
-    <details class="season-accordion">
-      <summary class="episode-season-head">
-        <div><h2>Season 6 - Ten Thousand False Lanterns</h2><span class="badge">10 Episodes · NINE SEALS SAGA</span></div>
-        <span class="season-toggle" aria-hidden="true">▾</span>
-      </summary>
-      <div id="seasonCast6" class="season-cast-guide"></div>
-      <div id="episodeListSeason6" class="season-episode-list"></div>
-    </details>
-
-
-    <details class="season-accordion">
-      <summary class="episode-season-head">
-        <div><h2>Season 7 - The Golden Lion's Last Thunder</h2><span class="badge">10 Episodes · DUKE CLASH</span></div>
-        <span class="season-toggle" aria-hidden="true">▾</span>
-      </summary>
-      <div id="seasonCast7" class="season-cast-guide"></div>
-      <div id="episodeListSeason7" class="season-episode-list"></div>
-    </details>
-
-
-    <details class="season-accordion">
-      <summary class="episode-season-head">
-        <div><h2>Season 8 - The Unmoving Heaven</h2><span class="badge">10 Episodes · SAGA CONTINUES</span></div>
-        <span class="season-toggle" aria-hidden="true">▾</span>
-      </summary>
-      <div id="seasonCast8" class="season-cast-guide"></div>
-      <div id="episodeListSeason8" class="season-episode-list"></div>
-    </details>
-      </div>
-    </details>
-    <details class="arc-accordion">
-      <summary class="arc-head"><div><h2>Arc III — The Old War Awakens</h2><span class="badge">Seasons 9–12</span><p>Old-war sovereigns, buried histories, the Pale Regent, and Rhen's past returning.</p></div><span class="arc-toggle">▾</span></summary>
-      <div class="arc-body">
-
-    <details class="season-accordion">
-      <summary class="episode-season-head"><div><h2>Season 9 - The Man Beneath Stone</h2><span class="badge">10 Episodes · OLD WAR AWAKENS</span></div><span class="season-toggle">▾</span></summary>
-      <div id="seasonCast9" class="season-cast-guide"></div><div id="episodeListSeason9" class="season-episode-list"></div>
-    </details>
-
-    <details class="season-accordion">
-      <summary class="episode-season-head"><div><h2>Season 10 - Red Snow, Pale Orchid</h2><span class="badge">10 Episodes · ROMANCE / MYSTERY</span></div><span class="season-toggle">▾</span></summary>
-      <div id="seasonCast10" class="season-cast-guide"></div><div id="episodeListSeason10" class="season-episode-list"></div>
-    </details>
-
-    <details class="season-accordion">
-      <summary class="episode-season-head"><div><h2>Season 11 - When Two Dukes Disagree</h2><span class="badge">10 Episodes · DUKE CLASH</span></div><span class="season-toggle">▾</span></summary>
-      <div id="seasonCast11" class="season-cast-guide"></div><div id="episodeListSeason11" class="season-episode-list"></div>
-    </details>
-
-    <details class="season-accordion">
-      <summary class="episode-season-head"><div><h2>Season 12 - The Pale Regent</h2><span class="badge">10 Episodes · SERA-LED ARC</span></div><span class="season-toggle">▾</span></summary>
-      <div id="seasonCast12" class="season-cast-guide"></div><div id="episodeListSeason12" class="season-episode-list"></div>
-    </details>
-      </div>
-    </details>
-    <details class="arc-accordion">
-      <summary class="arc-head"><div><h2>Arc IV — Moonless City & Marquis War</h2><span class="badge">Seasons 13–17</span><p>Mo Yanshu, Yan Luochen, Marquis warfare, political romance, and the Hollow Saint.</p></div><span class="arc-toggle">▾</span></summary>
-      <div class="arc-body">
-
-    <details class="season-accordion">
-      <summary class="episode-season-head"><div><h2>Season 13 - The City That Forgot the Moon</h2><span class="badge">10 Episodes · MOONLESS CITY / ROMANCE</span></div><span class="season-toggle">▾</span></summary>
-      <div id="seasonCast13" class="season-cast-guide"></div><div id="episodeListSeason13" class="season-episode-list"></div>
-    </details>
-
-    <details class="season-accordion">
-      <summary class="episode-season-head"><div><h2>Season 14 - The Marquis War</h2><span class="badge">10 Episodes · MARQUIS WAR</span></div><span class="season-toggle">▾</span></summary>
-      <div id="seasonCast14" class="season-cast-guide"></div><div id="episodeListSeason14" class="season-episode-list"></div>
-    </details>
-
-    <details class="season-accordion">
-      <summary class="episode-season-head"><div><h2>Season 15 - Dukes at War</h2><span class="badge">10 Episodes · DUKE ATTACK</span></div><span class="season-toggle">▾</span></summary>
-      <div id="seasonCast15" class="season-cast-guide"></div><div id="episodeListSeason15" class="season-episode-list"></div>
-    </details>
-
-    <details class="season-accordion">
-      <summary class="episode-season-head"><div><h2>Season 16 - The Pale Orchid's Wedding Rumor</h2><span class="badge">10 Episodes · ROMANCE / POLITICAL COMEDY</span></div><span class="season-toggle">▾</span></summary>
-      <div id="seasonCast16" class="season-cast-guide"></div><div id="episodeListSeason16" class="season-episode-list"></div>
-    </details>
-
-    <details class="season-accordion">
-      <summary class="episode-season-head"><div><h2>Season 17 - The Night Rhen Couldn't Protect Her</h2><span class="badge">10 Episodes · DARK ARC / ROMANCE</span></div><span class="season-toggle">▾</span></summary>
-      <div id="seasonCast17" class="season-cast-guide"></div><div id="episodeListSeason17" class="season-episode-list"></div>
-    </details>
-      </div>
-    </details>
-    <details class="arc-accordion">
-      <summary class="arc-head"><div><h2>Arc V — The Black Sun Saga</h2><span class="badge">Seasons 18–22</span><p>Jiang Taixuan, Duke attacks, Sera and Rhen's marriage, and Ninety-Seven Minutes of Winter.</p></div><span class="arc-toggle">▾</span></summary>
-      <div class="arc-body">
-
-    <details class="season-accordion">
-      <summary class="episode-season-head"><div><h2>Season 18 - The Black Sun Beyond the Gate</h2><span class="badge">10 Episodes · #4 DUKE / ENGAGEMENT</span></div><span class="season-toggle">▾</span></summary>
-      <div id="seasonCast18" class="season-cast-guide"></div><div id="episodeListSeason18" class="season-episode-list"></div>
-    </details>
-
-    <details class="season-accordion">
-      <summary class="episode-season-head"><div><h2>Season 19 - White Court Bleeds</h2><span class="badge">10 Episodes · #2 DUKE GRAVELY INJURED</span></div><span class="season-toggle">▾</span></summary>
-      <div id="seasonCast19" class="season-cast-guide"></div><div id="episodeListSeason19" class="season-episode-list"></div>
-    </details>
-
-    <details class="season-accordion">
-      <summary class="episode-season-head"><div><h2>Season 20 - The Unmoving Heaven Answers</h2><span class="badge">10 Episodes · #1 DUKE / BLACK SUN WAR</span></div><span class="season-toggle">▾</span></summary>
-      <div id="seasonCast20" class="season-cast-guide"></div><div id="episodeListSeason20" class="season-episode-list"></div>
-    </details>
-
-    <details class="season-accordion">
-      <summary class="episode-season-head"><div><h2>Season 21 - Tea Before War</h2><span class="badge">10 Episodes · WEDDING / DUKE FRONTS</span></div><span class="season-toggle">▾</span></summary>
-      <div id="seasonCast21" class="season-cast-guide"></div><div id="episodeListSeason21" class="season-episode-list"></div>
-    </details>
-
-    <details class="season-accordion">
-      <summary class="episode-season-head"><div><h2>Season 22 - Ninety-Seven Minutes of Winter</h2><span class="badge">10 Episodes · SERA WOUNDED / RHEN UNLEASHED</span></div><span class="season-toggle">▾</span></summary>
-      <div id="seasonCast22" class="season-cast-guide"></div><div id="episodeListSeason22" class="season-episode-list"></div>
-    </details>
-      </div>
-    </details>
-    <details class="arc-accordion">
-      <summary class="arc-head"><div><h2>Arc VI — The Ranking Succession</h2><span class="badge">Seasons 23–27</span><p>Han's death, Qin's semi-retirement, the rebuilt Top Ten, and the Nine Graves Society.</p></div><span class="arc-toggle">▾</span></summary>
-      <div class="arc-body">
-
-    <details class="season-accordion"><summary class="episode-season-head"><div><h2>Season 23 - The Empty Eighth Seat</h2><span class="badge">10 Episodes · NINE GRAVES / HAN TARGETED</span></div><span class="season-toggle">▾</span></summary><div id="seasonCast23" class="season-cast-guide"></div><div id="episodeListSeason23" class="season-episode-list"></div></details>
-
-    <details class="season-accordion"><summary class="episode-season-head"><div><h2>Season 24 - Ashes of Number Eight</h2><span class="badge">10 Episodes · HAN DIES / QIN RETIRES</span></div><span class="season-toggle">▾</span></summary><div id="seasonCast24" class="season-cast-guide"></div><div id="episodeListSeason24" class="season-episode-list"></div></details>
-
-    <details class="season-accordion"><summary class="episode-season-head"><div><h2>Season 25 - The Woman Who Should Be Dead</h2><span class="badge">10 Episodes · YUN SHIZHEN / NEW #10</span></div><span class="season-toggle">▾</span></summary><div id="seasonCast25" class="season-cast-guide"></div><div id="episodeListSeason25" class="season-episode-list"></div></details>
-
-    <details class="season-accordion"><summary class="episode-season-head"><div><h2>Season 26 - Nine Graves</h2><span class="badge">10 Episodes · NEW TOP TEN / SERA VS MU</span></div><span class="season-toggle">▾</span></summary><div id="seasonCast26" class="season-cast-guide"></div><div id="episodeListSeason26" class="season-episode-list"></div></details>
-
-    <details class="season-accordion"><summary class="episode-season-head"><div><h2>Season 27 - The Ten Pillars Lie</h2><span class="badge">10 Episodes · GRAVE SOVEREIGN / NEW GENERATION</span></div><span class="season-toggle">▾</span></summary><div id="seasonCast27" class="season-cast-guide"></div><div id="episodeListSeason27" class="season-episode-list"></div></details>
-      </div>
-    </details>
-    <details class="arc-accordion">
-      <summary class="arc-head"><div><h2>Arc VII — The Empty Throne</h2><span class="badge">Seasons 28–32</span><p>Huo Wujin's evolved return, Jiang's stolen cultivation, Kael's defeat, Autumn Without End, and Eternal Spring.</p></div><span class="arc-toggle">▾</span></summary>
-      <div class="arc-body">
-
-    <details class="season-accordion"><summary class="episode-season-head"><div><h2>Season 28 - The Emperor Without a Funeral</h2><span class="badge">10 Episodes · HUO RETURNS / JIANG FALLS</span></div><span class="season-toggle">▾</span></summary><div id="seasonCast28" class="season-cast-guide"></div><div id="episodeListSeason28" class="season-episode-list"></div></details>
-
-    <details class="season-accordion"><summary class="episode-season-head"><div><h2>Season 29 - The Marquises Against Heaven</h2><span class="badge">10 Episodes · #6–#10 MAX OUTPUT</span></div><span class="season-toggle">▾</span></summary><div id="seasonCast29" class="season-cast-guide"></div><div id="episodeListSeason29" class="season-episode-list"></div></details>
-
-    <details class="season-accordion"><summary class="episode-season-head"><div><h2>Season 30 - Two Number Ones</h2><span class="badge">10 Episodes · TAE / JIN / KAEL REMATCH</span></div><span class="season-toggle">▾</span></summary><div id="seasonCast30" class="season-cast-guide"></div><div id="episodeListSeason30" class="season-episode-list"></div></details>
-
-    <details class="season-accordion"><summary class="episode-season-head"><div><h2>Season 31 - World Number One Falls</h2><span class="badge">10 Episodes · KAEL DEFEAT / RHEN AUTUMN</span></div><span class="season-toggle">▾</span></summary><div id="seasonCast31" class="season-cast-guide"></div><div id="episodeListSeason31" class="season-episode-list"></div></details>
-
-    <details class="season-accordion"><summary class="episode-season-head"><div><h2>Season 32 - The Empty Throne Aftermath</h2><span class="badge">10 Episodes · ETERNAL SPRING / CO-#1</span></div><span class="season-toggle">▾</span></summary><div id="seasonCast32" class="season-cast-guide"></div><div id="episodeListSeason32" class="season-episode-list"></div></details>
-      </div>
-    </details>
-
-    <details class="arc-accordion">
-      <summary class="arc-head"><div><h2>Arc VIII Part I — The Six Crowns: Western Dark</h2><span class="badge">Seasons 33–37</span><p>Rhen remains in seclusion for all five seasons while the five elite Crowns emerge. Crown V leaves the lower Marquises critical, Crown IV decisively defeats Lei, Crown III repeatedly injures Sera, and Jin finally sends a world-level calamity alert at the end of Season 37.</p></div><span class="arc-toggle">▾</span></summary>
-      <div class="arc-body"><details class="season-accordion"><summary class="episode-season-head"><div><h2>Season 33 - The Last Quiet Morning</h2><span class="badge">10 Episodes · RHEN SECLUSION / CROWN V</span></div><span class="season-toggle">▾</span></summary><div id="seasonCast33" class="season-cast-guide"></div><div id="episodeListSeason33" class="season-episode-list"></div></details>
-<details class="season-accordion"><summary class="episode-season-head"><div><h2>Season 34 - The Red God</h2><span class="badge">10 Episodes · SERA VS CROWN III / JIN VS CROWN II</span></div><span class="season-toggle">▾</span></summary><div id="seasonCast34" class="season-cast-guide"></div><div id="episodeListSeason34" class="season-episode-list"></div></details>
-<details class="season-accordion"><summary class="episode-season-head"><div><h2>Season 35 - The Horizon and the Red God</h2><span class="badge">10 Episodes · TAE VS AUREL / SERA VS DRAVEN</span></div><span class="season-toggle">▾</span></summary><div id="seasonCast35" class="season-cast-guide"></div><div id="episodeListSeason35" class="season-episode-list"></div></details>
-<details class="season-accordion"><summary class="episode-season-head"><div><h2>Season 36 - Five Crowns, No Leader</h2><span class="badge">10 Episodes · #1 / #2 / #3 / #4 / #5 ALL ACTIVE</span></div><span class="season-toggle">▾</span></summary><div id="seasonCast36" class="season-cast-guide"></div><div id="episodeListSeason36" class="season-episode-list"></div></details>
-<details class="season-accordion"><summary class="episode-season-head"><div><h2>Season 37 - World-Level Calamity</h2><span class="badge">10 Episodes · FIFTH SECLUSION SEASON / JIN SENDS ALERT</span></div><span class="season-toggle">▾</span></summary><div id="seasonCast37" class="season-cast-guide"></div><div id="episodeListSeason37" class="season-episode-list"></div></details></div>
-    </details>
-    <details class="arc-accordion">
-      <summary class="arc-head"><div><h2>Arc VIII Part II — The Six Crowns: Crown Beyond Crowns</h2><span class="badge">Seasons 38–42</span><p>Rhen returns in Season 38 and kills Crown III, but Vaelor himself remains unseen until Seasons 41–42. His True Crown defeats all Five Dukes and then both Number Ones; Sera and the Marquises hold the line until Rhen returns to the battlefield and ends the calamity with Winter Has No Horizon.</p></div><span class="arc-toggle">▾</span></summary>
-      <div class="arc-body"><details class="season-accordion"><summary class="episode-season-head"><div><h2>Season 38 - Winter Returns</h2><span class="badge">10 Episodes · HEAVEN'S RETURN / DRAVEN DIES</span></div><span class="season-toggle">▾</span></summary><div id="seasonCast38" class="season-cast-guide"></div><div id="episodeListSeason38" class="season-episode-list"></div></details>
-<details class="season-accordion"><summary class="episode-season-head"><div><h2>Season 39 - Before the Crown</h2><span class="badge">10 Episodes · DUKES PREPARE / WINTER TRAINS</span></div><span class="season-toggle">▾</span></summary><div id="seasonCast39" class="season-cast-guide"></div><div id="episodeListSeason39" class="season-episode-list"></div></details>
-<details class="season-accordion"><summary class="episode-season-head"><div><h2>Season 40 - The Last Quiet Before Vaelor</h2><span class="badge">10 Episodes · FINAL MOBILIZATION / LEADER STILL UNSEEN</span></div><span class="season-toggle">▾</span></summary><div id="seasonCast40" class="season-cast-guide"></div><div id="episodeListSeason40" class="season-episode-list"></div></details>
-<details class="season-accordion"><summary class="episode-season-head"><div><h2>Season 41 - The Crown Beyond Crowns</h2><span class="badge">10 Episodes · FIVE DUKES FALL / TAE ARRIVES</span></div><span class="season-toggle">▾</span></summary><div id="seasonCast41" class="season-cast-guide"></div><div id="episodeListSeason41" class="season-episode-list"></div></details>
-<details class="season-accordion"><summary class="episode-season-head"><div><h2>Season 42 - Beyond the Summit</h2><span class="badge">10 Episodes · BOTH NUMBER ONES FALL / RHEN ENDS IT</span></div><span class="season-toggle">▾</span></summary><div id="seasonCast42" class="season-cast-guide"></div><div id="episodeListSeason42" class="season-episode-list"></div></details></div>
-    </details>
-
-
-    <details class="arc-accordion">
-      <summary class="arc-head"><div><h2>Arc VIII Coda — After the Darkest Winter</h2><span class="badge">Season 43</span><p>Recovery, romance, the first Crown Accord negotiations, and a warning that the Six Crowns were only the visible shield against far older powers in the west.</p></div><span class="arc-toggle">▾</span></summary>
-      <div class="arc-body">
-        <details class="season-accordion"><summary class="episode-season-head"><div><h2>Season 43 - After the Darkest Winter</h2><span class="badge">10 Episodes · AFTERMATH / ROMANCE / WESTERN TEASER</span></div><span class="season-toggle">▾</span></summary><div id="seasonCast43" class="season-cast-guide"></div><div id="episodeListSeason43" class="season-episode-list"></div></details>
-      </div>
-    </details>
-
-    <details class="arc-accordion">
-      <summary class="arc-head"><div><h2>Final Major Arc Part I — The Seven Thrones</h2><span class="badge">Seasons 44–53</span><p>Two years after Vaelor, Sera and Rhen's peaceful retirement ends when the Seven Ancient Kings awaken. The weakest King erases the old Crown court, Ilyra becomes #6, the East suffers catastrophic defeats, and Rhen returns only when Rhavenn's ninth life becomes unsolvable—then trains the world instead of fighting for it.</p></div><span class="arc-toggle">▾</span></summary>
-      <div class="arc-body">
-        <details class="season-accordion"><summary class="episode-season-head"><div><h2>Season 44 - Two Years Quiet</h2><span class="badge">10 Episodes · RETIREMENT / ORUN AWAKENS</span></div><span class="season-toggle">▾</span></summary><div id="seasonCast44" class="season-cast-guide"></div><div id="episodeListSeason44" class="season-episode-list"></div></details>
-        <details class="season-accordion"><summary class="episode-season-head"><div><h2>Season 45 - The Buried King</h2><span class="badge">10 Episodes · KING VII / KING VI</span></div><span class="season-toggle">▾</span></summary><div id="seasonCast45" class="season-cast-guide"></div><div id="episodeListSeason45" class="season-episode-list"></div></details>
-        <details class="season-accordion"><summary class="episode-season-head"><div><h2>Season 46 - Every Road Returns</h2><span class="badge">10 Episodes · KING VI / RHAVENN AWAKENS</span></div><span class="season-toggle">▾</span></summary><div id="seasonCast46" class="season-cast-guide"></div><div id="episodeListSeason46" class="season-episode-list"></div></details>
-        <details class="season-accordion"><summary class="episode-season-head"><div><h2>Season 47 - Nine Graves</h2><span class="badge">10 Episodes · KING V / EAST COLLAPSES</span></div><span class="season-toggle">▾</span></summary><div id="seasonCast47" class="season-cast-guide"></div><div id="episodeListSeason47" class="season-episode-list"></div></details>
-        <details class="season-accordion"><summary class="episode-season-head"><div><h2>Season 48 - The Tea Sellers Return</h2><span class="badge">10 Episodes · SERA DUKE-LEVEL / RHEN TRAINS</span></div><span class="season-toggle">▾</span></summary><div id="seasonCast48" class="season-cast-guide"></div><div id="episodeListSeason48" class="season-episode-list"></div></details>
-        <details class="season-accordion"><summary class="episode-season-head"><div><h2>Season 49 - Make Nine Disagree</h2><span class="badge">10 Episodes · RHAVENN REMATCH / ORUN FALLS</span></div><span class="season-toggle">▾</span></summary><div id="seasonCast49" class="season-cast-guide"></div><div id="episodeListSeason49" class="season-episode-list"></div></details>
-        <details class="season-accordion"><summary class="episode-season-head"><div><h2>Season 50 - The Road Home</h2><span class="badge">10 Episodes · KING VI FALLS / TOR ARRIVES</span></div><span class="season-toggle">▾</span></summary><div id="seasonCast50" class="season-cast-guide"></div><div id="episodeListSeason50" class="season-episode-list"></div></details>
-        <details class="season-accordion"><summary class="episode-season-head"><div><h2>Season 51 - Borrowed Tomorrow</h2><span class="badge">10 Episodes · KING IV / NAMELESS KING</span></div><span class="season-toggle">▾</span></summary><div id="seasonCast51" class="season-cast-guide"></div><div id="episodeListSeason51" class="season-episode-list"></div></details>
-        <details class="season-accordion"><summary class="episode-season-head"><div><h2>Season 52 - Nameless Heaven</h2><span class="badge">10 Episodes · KING III FALLS / KING II</span></div><span class="season-toggle">▾</span></summary><div id="seasonCast52" class="season-cast-guide"></div><div id="episodeListSeason52" class="season-episode-list"></div></details>
-        <details class="season-accordion"><summary class="episode-season-head"><div><h2>Season 53 - The Twelve Against Heaven</h2><span class="badge">10 Episodes · VARESH FALLS / AMON ARRIVES</span></div><span class="season-toggle">▾</span></summary><div id="seasonCast53" class="season-cast-guide"></div><div id="episodeListSeason53" class="season-episode-list"></div></details>
-      </div>
-    </details>
-
-    <details class="arc-accordion">
-      <summary class="arc-head"><div><h2>Final Major Arc Part II — The Sovereign Before Heaven</h2><span class="badge">Seasons 54–63</span><p>The Rhen-trained coalition barely defeats King II before Amon annihilates their advantage. Rhen finally intervenes, then faces the mythical white-haired Overlord Aethon Vael. Petals in Stasis and Petals Beneath a Frozen Moon are finally revealed before Rhen and Sera abandon the martial world.</p></div><span class="arc-toggle">▾</span></summary>
-      <div class="arc-body">
-        <details class="season-accordion"><summary class="episode-season-head"><div><h2>Season 54 - The Dying Sun</h2><span class="badge">10 Episodes · AMON / WINTER MOON SEVERANCE</span></div><span class="season-toggle">▾</span></summary><div id="seasonCast54" class="season-cast-guide"></div><div id="episodeListSeason54" class="season-episode-list"></div></details>
-        <details class="season-accordion"><summary class="episode-season-head"><div><h2>Season 55 - The Sovereign Before Heaven</h2><span class="badge">10 Episodes · AETHON ARRIVES</span></div><span class="season-toggle">▾</span></summary><div id="seasonCast55" class="season-cast-guide"></div><div id="episodeListSeason55" class="season-episode-list"></div></details>
-        <details class="season-accordion"><summary class="episode-season-head"><div><h2>Season 56 - Two Learners</h2><span class="badge">10 Episodes · AETHON VS PASSIVE / KING RESOURCES</span></div><span class="season-toggle">▾</span></summary><div id="seasonCast56" class="season-cast-guide"></div><div id="episodeListSeason56" class="season-episode-list"></div></details>
-        <details class="season-accordion"><summary class="episode-season-head"><div><h2>Season 57 - Seven Thrones Turn</h2><span class="badge">10 Episodes · KINGS ALLY WITH EAST</span></div><span class="season-toggle">▾</span></summary><div id="seasonCast57" class="season-cast-guide"></div><div id="episodeListSeason57" class="season-episode-list"></div></details>
-        <details class="season-accordion"><summary class="episode-season-head"><div><h2>Season 58 - Petals in Stasis</h2><span class="badge">10 Episodes · SUPREME COMBAT REVEAL / SEVEN CORPSES</span></div><span class="season-toggle">▾</span></summary><div id="seasonCast58" class="season-cast-guide"></div><div id="episodeListSeason58" class="season-episode-list"></div></details>
-        <details class="season-accordion"><summary class="episode-season-head"><div><h2>Season 59 - Beneath a Frozen Moon</h2><span class="badge">10 Episodes · ULTIMATE REVEAL / AETHON ENDS</span></div><span class="season-toggle">▾</span></summary><div id="seasonCast59" class="season-cast-guide"></div><div id="episodeListSeason59" class="season-episode-list"></div></details>
-        <details class="season-accordion"><summary class="episode-season-head"><div><h2>Season 60 - No Thrones</h2><span class="badge">10 Episodes · RECONSTRUCTION / ILYRA #6</span></div><span class="season-toggle">▾</span></summary><div id="seasonCast60" class="season-cast-guide"></div><div id="episodeListSeason60" class="season-episode-list"></div></details>
-        <details class="season-accordion"><summary class="episode-season-head"><div><h2>Season 61 - The Petals Monarch Problem</h2><span class="badge">10 Episodes · FAME / RELOCATION</span></div><span class="season-toggle">▾</span></summary><div id="seasonCast61" class="season-cast-guide"></div><div id="episodeListSeason61" class="season-episode-list"></div></details>
-        <details class="season-accordion"><summary class="episode-season-head"><div><h2>Season 62 - Retirement With Conditions</h2><span class="badge">10 Episodes · QUIET LIFE / CURRENT BOARD</span></div><span class="season-toggle">▾</span></summary><div id="seasonCast62" class="season-cast-guide"></div><div id="episodeListSeason62" class="season-episode-list"></div></details>
-        <details class="season-accordion"><summary class="episode-season-head"><div><h2>Season 63 - Leave the World Behind</h2><span class="badge">10 Episodes · FINAL MAJOR ARC CLOSURE</span></div><span class="season-toggle">▾</span></summary><div id="seasonCast63" class="season-cast-guide"></div><div id="episodeListSeason63" class="season-episode-list"></div></details>
-      </div>
-    </details>
-
-    <details class="arc-accordion">
-      <summary class="arc-head"><div><h2>Final Saga Coda — Second Spring</h2><span class="badge">Season 64</span><p>Two peaceful years after Second Spring opens, the epilogue revisits Rhen and Sera: Sera has grown beyond the old Duke framework, while Rhen has become even less measurable without becoming any less domestic.</p></div><span class="arc-toggle">▾</span></summary>
-      <div class="arc-body">
-        <details class="season-accordion"><summary class="episode-season-head"><div><h2>Season 64 - Epilogue: Two Years Later</h2><span class="badge">3 Episodes · SECOND SPRING / BEYOND DUKE / QUIET ENDING</span></div><span class="season-toggle">▾</span></summary><div id="seasonCast64" class="season-cast-guide"></div><div id="episodeListSeason64" class="season-episode-list"></div></details>
-      </div>
-    </details>
+    <div id="episodeArchiveGenerated"></div>
   </section>
-  <section id="canon" class="panel hidden">
-    <div class="grid two">
-      
-      <div class="card"><h3>New Character Introduction Rule</h3><p>Whenever a new recurring character first appears, the novel must immediately establish <strong>who they are, what role they play, roughly where they sit in the power hierarchy, and what makes their martial system distinctive</strong>. Seasons with several new names also include a cast guide at the top of the season archive. Returning Dukes are identified as returning characters rather than introduced as strangers.</p></div>
 
+  <section id="canon" class="panel hidden" role="tabpanel" aria-labelledby="tab-canon" aria-hidden="true">
+    <div class="grid two">
+      <div class="card"><h3>New Character Introduction Rule</h3><p>Whenever a new recurring character first appears, the novel must immediately establish <strong>who they are, what role they play, roughly where they sit in the power hierarchy, and what makes their martial system distinctive</strong>. Seasons with several new names also include a cast guide at the top of the season archive. Returning Dukes are identified as returning characters rather than introduced as strangers.</p></div>
       <div class="card"><h3>Seasons 18–22 — Black Sun Arc</h3><p>#4 Lei, #2 Liang and #1 Kael receive major active roles. Jiang Taixuan is an unranked sovereign strong enough to gravely injure #2 and force #1 into a serious clean fight, while Rhen remains incomparably beyond him.</p></div>
       <div class="card"><h3>Sera / Rhen Marriage Progression</h3><p>Sera becomes decisively romantic: she proposes herself in Season 18, wears a matching engagement ring, and marries Rhen in a small tea-shop ceremony in Season 21. Their banter and tenderness continue inside the action rather than replacing it.</p></div>
       <div class="card"><h3>Season 22 Power Rule</h3><p>After Sera breaks the army-wide Battle Loom and is gravely injured, Rhen uses <strong>Silent Winter</strong>, an already-revealed named technique, to dismantle the Black Sun loyal host and defeat Jiang in exactly 97 minutes. No new Supreme Art and no Ultimate are revealed.</p></div>
@@ -445,11 +165,10 @@
       <div class="card"><h3>Playful Romance Rule</h3><p>Later seasons must preserve the Season 1 chemistry: teasing, tea-shop banter, petty arguments, small jealousy beats, domestic habits, physical closeness that advances slowly, and affection shown through actions. Romance should remain playful even as the lore grows darker.</p></div>
       <div class="card"><h3>Old Sovereign Integrity Rule</h3><p>The awakened “others” are not secretly a lineup of Rhen equals. Some may be Duke-level, some Marquis-level, and some primarily political or strategic threats. Rhen remains singular and beyond ordinary comparison.</p></div>
       <div class="card"><h3>Supreme / Ultimate Reveal Rule After Season 12</h3><p>Through Season 12, Rhen has revealed only one true Supreme Art: <strong style="color:#d8ad3d">ONE PETAL BEFORE DAWN</strong>. No second Supreme Art is revealed in Seasons 9–12. <strong>Petals Beneath a Frozen Moon</strong> remains completely sealed and unrevealed.</p></div>
-<div class="card"><h3>Seasons 4–8 — Nine Seals Saga</h3><p>These five seasons are the next major saga, not the ending. Duke spotlights remain sequential: Season 4 Rui, Season 5 Liang, Season 6 Jin, Season 7 Lei, Season 8 Kael. Do not assemble all Five Dukes merely for spectacle.</p></div>
+      <div class="card"><h3>Seasons 4–8 — Nine Seals Saga</h3><p>These five seasons are the next major saga, not the ending. Duke spotlights remain sequential: Season 4 Rui, Season 5 Liang, Season 6 Jin, Season 7 Lei, Season 8 Kael. Do not assemble all Five Dukes merely for spectacle.</p></div>
       <div class="card"><h3>Duke vs Duke Rule</h3><p>Current Dukes may fight one another when the plot genuinely demands it. Such clashes are world-level events, must respect the established ranking gaps, and should produce major environmental or political consequences. Season 7's White Blood, Black Thunder is the first major present-day example: prepared #4 Lei can threaten #2 Liang, but Liang ultimately demonstrates the real ranking gap.</p></div>
       <div class="card"><h3>Antagonist Power Integrity Rule</h3><p>New villains do not casually exceed Dukes. Marquis-level antagonists threaten Dukes through hostages, infrastructure, politics, formations, logistics or simultaneous objectives. A genuinely Duke-level antagonist must be explicitly exceptional, as with Huo Wujin, and should still preserve the established standing of the current Dukes.</p></div>
       <div class="card"><h3>Rhen Reveal Cap Through Season 8</h3><p>Rhen remains beyond meaningful comparison. Seasons 4–7 reveal no true Supreme Art. Season 8 reveals exactly one: <strong style="color:#d8ad3d">SUPREME ART - ONE PETAL BEFORE DAWN</strong>. No other Rhen Supreme Art is revealed, and his sealed Ultimate remains completely unrevealed after Season 8.</p></div>
-
       <div class="card"><h3>Season 1 Lock</h3><p>Season 1 is locked as the established foundation and is not to be casually restructured by later-season work.</p></div>
       <div class="card"><h3>Skill Classification Audit</h3><p>Skill records separate <strong>Combat Category</strong> from <strong>Power Tier</strong>. Combat Category describes what the art does (movement, healing, assassination, defense, etc.). Power Tier follows the novel ladder: <strong>Named Technique &lt; Transcended Skill &lt; Supreme Art &lt; Ultimate Art</strong>. Novel Reveal records when the technique is actually named on-page; lore-only future arts remain marked unrevealed.</p></div>
       <div class="card"><h3>Novel Reveal Ladder</h3><p><strong>Do not reveal high-tier arts too early.</strong> The novel must establish ordinary named techniques first, then escalate into <strong>Transcended Skills</strong>. True <strong>Supreme Arts</strong> are reserved for later seasons after Transcended Skills already feel established. <strong>Ultimate Arts</strong> are very-late-story reveals. Seasons 1–3 must not fully reveal Rhen's or Sera's true Supreme/Ultimate Arts.</p></div>
@@ -475,7 +194,8 @@
       <div class="card"><h3>Light-Novel Character Color Standard</h3><p>Rhen, the current Top Ten and recurring Season 2/3 named figures have permanent bright colors optimized for the black background. Dialogue ownership is explicit, never guessed.</p></div>
     </div>
   </section>
-</div>
-<footer>Standalone local HTML · full lore browser · no updater or patcher required.</footer><script type="module" src="/src/main.ts"></script>
+</main>
+<footer>GitHub Pages + installable offline reader · full lore browser · single-file build still available.</footer>
+<script type="module" src="/src/main.ts"></script>
 </body>
 </html>
