@@ -18,7 +18,6 @@ interface ReaderPageProps {
   episode: number;
   onBack(): void;
   onOpenChapter(season: number, episode: number): void;
-  onOpenCharacter(key: string): void;
 }
 
 const FONT_STACKS: Record<ReaderFont, string> = {
@@ -39,7 +38,7 @@ type ReaderSurfaceStyle = CSSProperties & {
   '--reader-font-family': string;
 };
 
-export function ReaderPage({ season, episode, onBack, onOpenChapter, onOpenCharacter }: ReaderPageProps) {
+export function ReaderPage({ season, episode, onBack, onOpenChapter }: ReaderPageProps) {
   const {
     bookmarks,
     readEpisodes,
@@ -114,6 +113,11 @@ export function ReaderPage({ season, episode, onBack, onOpenChapter, onOpenChara
     setLoreKey((currentKey) => currentKey === key ? null : key);
   }
 
+  function openLoreProfile(): void {
+    if (!loreEntry || !loreProfile) return;
+    window.location.hash = `characters/${loreEntry.key}`;
+  }
+
   const surfaceStyle: ReaderSurfaceStyle = {
     '--reader-scale': scale,
     '--reader-line-height': LINE_HEIGHTS[spacing],
@@ -176,7 +180,7 @@ export function ReaderPage({ season, episode, onBack, onOpenChapter, onOpenChara
                 <p>{loreProfile?.subtitle || 'Referenced in this chapter. A full profile is not currently part of the main character archive.'}</p>
               </div>
               <div className="reader-lore-context__actions">
-                {loreProfile ? <button onClick={() => onOpenCharacter(loreEntry.key)} type="button">Open profile →</button> : null}
+                {loreProfile ? <button onClick={openLoreProfile} type="button">Open profile →</button> : null}
                 <button className="reader-lore-context__close" onClick={() => setLoreKey(null)} type="button">Close</button>
               </div>
             </aside>
