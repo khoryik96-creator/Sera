@@ -19,6 +19,7 @@ const requiredLazyRoutes = [
   'TechniquesRoute',
   'RankingsRoute',
   'BookmarksRoute',
+  'InsightsRoute',
   'LegendsRoute',
   'FormerRoute',
   'TimelineRoute',
