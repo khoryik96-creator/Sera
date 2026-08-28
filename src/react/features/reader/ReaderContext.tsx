@@ -7,6 +7,8 @@ import { clearReadingHistory, createReaderBackup, getReadingHistory, parseReader
 import type { ReadingHistoryEntry } from '../../../readerLibrary';
 import { deleteEpisodeNote, getEpisodeNotes, saveEpisodeNote } from '../../../readerNotes';
 import type { EpisodeNote } from '../../../readerNotes';
+import { deletePassage as deleteSavedPassage, getSavedPassages, savePassage as persistPassage } from '../../../readerPassages';
+import type { SavedPassage } from '../../../readerPassages';
 
 export type ReaderFont = 'serif' | 'book' | 'sans';
 export type ReaderSpacing = 'compact' | 'comfortable' | 'relaxed';
@@ -25,10 +27,13 @@ interface ReaderContextValue extends ReaderPreferences {
   readEpisodes: string[];
   history: ReadingHistoryEntry[];
   notes: EpisodeNote[];
+  passages: SavedPassage[];
   markRead(bookmark: Bookmark): void;
   toggleSaved(bookmark: Bookmark): void;
   saveNote(note: Omit<EpisodeNote, 'updatedAt'>): void;
   deleteNote(id: string): void;
+  savePassage(passage: Omit<SavedPassage, 'key' | 'createdAt'>): void;
+  deletePassage(key: string): void;
   changeScale(delta: number): void;
   cycleFont(): void;
   cycleSpacing(): void;
@@ -104,6 +109,7 @@ export function ReaderProvider({ children }: { children?: ReactNode }) {
   const [readEpisodes, setReadEpisodes] = useState<string[]>(() => getReadEpisodeIds());
   const [history, setHistory] = useState<ReadingHistoryEntry[]>(() => getReadingHistory());
   const [notes, setNotes] = useState<EpisodeNote[]>(() => getEpisodeNotes());
+  const [passages, setPassages] = useState<SavedPassage[]>(() => getSavedPassages());
   const [preferences, setPreferences] = useState<ReaderPreferences>(loadPreferences);
 
   useEffect(() => {
@@ -134,6 +140,14 @@ export function ReaderProvider({ children }: { children?: ReactNode }) {
     setNotes(deleteEpisodeNote(id));
   }
 
+  function savePassage(passage: Omit<SavedPassage, 'key' | 'createdAt'>): void {
+    setPassages(persistPassage(passage));
+  }
+
+  function deletePassage(key: string): void {
+    setPassages(deleteSavedPassage(key));
+  }
+
   function changeScale(delta: number): void {
     setPreferences((value) => ({ ...value, scale: clampScale(value.scale + delta) }));
   }
@@ -155,7 +169,7 @@ export function ReaderProvider({ children }: { children?: ReactNode }) {
   }
 
   function exportBackup(): string {
-    return JSON.stringify(createReaderBackup({ bookmarks, lastRead, readEpisodes, history, notes, preferences }), null, 2);
+    return JSON.stringify(createReaderBackup({ bookmarks, lastRead, readEpisodes, history, notes, passages, preferences }), null, 2);
   }
 
   function restoreBackup(raw: string): void {
@@ -166,6 +180,7 @@ export function ReaderProvider({ children }: { children?: ReactNode }) {
     setReadEpisodes(backup.readEpisodes);
     setHistory(backup.history);
     setNotes(backup.notes);
+    setPassages(backup.passages);
     setPreferences(backup.preferences);
   }
 
@@ -180,11 +195,14 @@ export function ReaderProvider({ children }: { children?: ReactNode }) {
     readEpisodes,
     history,
     notes,
+    passages,
     ...preferences,
     markRead,
     toggleSaved,
     saveNote,
     deleteNote,
+    savePassage,
+    deletePassage,
     changeScale,
     cycleFont,
     cycleSpacing,
