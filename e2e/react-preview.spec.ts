@@ -8,7 +8,8 @@ async function openPreview(page: import('@playwright/test').Page, hash = 'overvi
 test('React preview shell renders and routes between core features', async ({ page }) => {
   await openPreview(page);
   await expect(page.getByText('Second Spring,', { exact: false })).toBeVisible();
-  await page.getByRole('button', { name: 'Characters', exact: true }).first().click();
+  const visibleCharacterNav = page.locator('.primary-nav button:visible, .mobile-tabs button:visible').filter({ hasText: /Characters|Cast/ }).first();
+  await visibleCharacterNav.click();
   await expect(page).toHaveURL(/react-preview\.html#characters$/);
   await expect(page.getByRole('heading', { name: 'Characters' })).toBeVisible();
 });
