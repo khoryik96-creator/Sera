@@ -1,8 +1,8 @@
 import type { ReactNode } from 'react';
-import { useEffect, useMemo, useState } from 'react';
+import { useEffect, useMemo, useRef, useState } from 'react';
 import { DB } from '../../db';
 import { navigationItems } from './navigation';
-import type { PreviewSection } from './navigation';
+import type { AppSection } from './navigation';
 import { OverviewPage } from '../features/overview/OverviewPage';
 import { CharactersPage } from '../features/characters/CharactersPage';
 import { VillainsPage } from '../features/villains/VillainsPage';
@@ -19,7 +19,7 @@ import { useReaderState } from '../features/reader/ReaderContext';
 import { cleanCharacterName } from '../shared/rankState';
 
 interface RouteState {
-  section: PreviewSection;
+  section: AppSection;
   characterKey: string | null;
   chapter: { season: number; episode: number } | null;
 }
@@ -29,12 +29,12 @@ interface SearchResult {
   label: string;
   meta: string;
   kind: string;
-  section?: PreviewSection;
+  section?: AppSection;
   characterKey?: string;
 }
 
-const sectionIds = new Set<PreviewSection>(navigationItems.map((item) => item.id));
-const legacySectionAliases: Readonly<Record<string, PreviewSection>> = {
+const sectionIds = new Set<AppSection>(navigationItems.map((item) => item.id));
+const legacySectionAliases: Readonly<Record<string, AppSection>> = {
   others: 'villains',
   skills: 'techniques',
   episodes: 'chapters',
@@ -61,7 +61,7 @@ function readRoute(): RouteState {
   }
 
   const section = legacySectionAliases[raw] || raw;
-  if (sectionIds.has(section as PreviewSection)) return { section: section as PreviewSection, characterKey: null, chapter: null };
+  if (sectionIds.has(section as AppSection)) return { section: section as AppSection, characterKey: null, chapter: null };
   return { section: 'overview', characterKey: null, chapter: null };
 }
 
@@ -76,6 +76,8 @@ export function App() {
   const [searchQuery, setSearchQuery] = useState('');
   const [searchOpen, setSearchOpen] = useState(false);
   const { lastRead } = useReaderState();
+  const mobileTabsRef = useRef<HTMLElement>(null);
+  const activeSection: AppSection = route.chapter ? 'chapters' : route.section;
 
   useEffect(() => {
     function applyRoute(): void {
@@ -99,6 +101,12 @@ export function App() {
     };
   }, []);
 
+  useEffect(() => {
+    if (window.matchMedia('(min-width: 801px)').matches) return;
+    const activeTab = mobileTabsRef.current?.querySelector<HTMLButtonElement>('button.is-active');
+    activeTab?.scrollIntoView({ behavior: 'smooth', block: 'nearest', inline: 'center' });
+  }, [activeSection]);
+
   function navigate(hash: string): void {
     const next = `#${hash}`;
     if (window.location.hash === next) {
@@ -111,7 +119,7 @@ export function App() {
     window.location.hash = hash;
   }
 
-  function openSection(section: PreviewSection): void { navigate(section); }
+  function openSection(section: AppSection): void { navigate(section); }
   function openCharacter(key: string): void { navigate(`characters/${key}`); }
   function openChapter(season: number, episode: number): void { navigate(`chapter/${season}/${episode}`); }
 
@@ -166,8 +174,6 @@ export function App() {
     }
   }
 
-  const activeSection = route.chapter ? 'chapters' : route.section;
-
   return (
     <div className="app-shell">
       <aside className="sidebar">
@@ -189,7 +195,7 @@ export function App() {
           <span className="topbar__meta">64 seasons · 633 episodes</span>
         </header>
 
-        <nav className="mobile-tabs" aria-label="Mobile repository sections">
+        <nav className="mobile-tabs" aria-label="Mobile repository sections" ref={mobileTabsRef}>
           {navigationItems.map((item) => <button className={activeSection === item.id ? 'is-active' : ''} key={item.id} onClick={() => openSection(item.id)} type="button">{item.shortLabel}</button>)}
         </nav>
 
