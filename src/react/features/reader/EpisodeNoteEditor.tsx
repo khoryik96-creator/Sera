@@ -10,10 +10,12 @@ export function EpisodeNoteEditor({ episode }: { episode: Bookmark }) {
   const [notice, setNotice] = useState('');
 
   useEffect(() => {
-    const current = notes.find((note) => note.id === episode.id);
-    setDraft(current?.text || '');
+    setDraft(saved?.text || '');
+  }, [episode.id, saved?.text]);
+
+  useEffect(() => {
     setNotice('');
-  }, [episode.id, notes]);
+  }, [episode.id]);
 
   function save(): void {
     if (!draft.trim()) {
