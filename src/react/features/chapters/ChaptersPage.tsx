@@ -13,6 +13,7 @@ export function ChaptersPage({ onOpenChapter }: ChaptersPageProps) {
   const { lastRead } = useReaderState();
   const allSeasons = useMemo(() => EPISODE_ARCS.flatMap((arc) => arc.seasons.map((season) => ({ ...season, arc: arc.title }))), []);
   const [selectedSeason, setSelectedSeason] = useState(lastRead?.season || 1);
+  const [loadAttempt, setLoadAttempt] = useState(0);
   const [episodes, setEpisodes] = useState<Episode[]>([]);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState('');
@@ -32,15 +33,24 @@ export function ChaptersPage({ onOpenChapter }: ChaptersPageProps) {
       setLoading(false);
     });
     return () => { alive = false; };
-  }, [selectedSeason]);
+  }, [selectedSeason, loadAttempt]);
 
   const selected = allSeasons.find((item) => item.season === selectedSeason) || allSeasons[0];
 
-  function openSeason(season: number): void {
-    setSelectedSeason(season);
+  function bringReaderIntoView(): void {
     window.requestAnimationFrame(() => {
       readerPanelRef.current?.scrollIntoView({ behavior: 'smooth', block: 'start' });
     });
+  }
+
+  function openSeason(season: number): void {
+    setSelectedSeason(season);
+    bringReaderIntoView();
+  }
+
+  function retrySeason(): void {
+    setLoadAttempt((attempt) => attempt + 1);
+    bringReaderIntoView();
   }
 
   return (
@@ -80,7 +90,7 @@ export function ChaptersPage({ onOpenChapter }: ChaptersPageProps) {
         </div>
 
         {loading ? <div className="reader-loading" role="status">Loading Season {selectedSeason}…</div> : null}
-        {error ? <div className="reader-error"><strong>Season failed to load</strong><p>{error}</p><button onClick={() => openSeason(selectedSeason)} type="button">Retry</button></div> : null}
+        {error ? <div className="reader-error"><strong>Season failed to load</strong><p>{error}</p><button onClick={retrySeason} type="button">Retry</button></div> : null}
         {!loading && !error ? (
           <div className="chapter-list">
             {episodes.map((episode, index) => {
