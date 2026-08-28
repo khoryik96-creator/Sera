@@ -64,7 +64,7 @@ export const colorKeyMap: Record<string, string> = {
   meilin: 'meilin', song: 'song', shiyue: 'shiyue', nam: 'nam', chun: 'chun', haejin: 'haejin', gwon: 'gwon', daemun: 'daemun', baek: 'baek', gong: 'gong',
   jiang: 'jiang', duan: 'duan', mi: 'mi', qiu: 'qiu', zhao_renkai: 'zhao_renkai',
   ren: 'ren', qiao: 'qiao', miri: 'miri',
-  flowerseller: 'neutral', girl: 'neutral', novice: 'neutral', covenant: 'neutral', duchess: 'neutral', soldier: 'neutral', opponent: 'neutral', captain: 'neutral', lieutenant: 'neutral', attacker: 'neutral', messenger: 'neutral',
+  flowerseller: 'neutral', girl: 'neutral', novice: 'neutral', covenant: 'neutral', duchess: 'neutral', soldier: 'neutral', opponent: 'neutral', captain: 'neutral', lieutenant: 'neutral', attacker: 'neutral', messenger: 'neutral', grandmaster: 'neutral',
   sorin: 'sorin', valeria: 'valeria', draven: 'draven', ilyra: 'ilyra', aurel: 'aurel', vaelor: 'vaelor',
   orun: 'orun', iscaryn: 'iscaryn', rhavenn: 'rhavenn', tor: 'tor', caedros: 'caedros', varesh: 'varesh', amon: 'amon', aethon: 'aethon',
 };
