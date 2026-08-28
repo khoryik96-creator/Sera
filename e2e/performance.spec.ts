@@ -17,6 +17,21 @@ function watchModules(page: import('@playwright/test').Page): string[] {
   return paths;
 }
 
+const inactiveReaderRoutes = [
+  'OverviewRoute',
+  'CharactersRoute',
+  'VillainsRoute',
+  'TechniquesRoute',
+  'ChaptersRoute',
+  'RankingsRoute',
+  'BookmarksRoute',
+  'LegendsRoute',
+  'FormerRoute',
+  'TimelineRoute',
+  'CanonRoute',
+  'SearchRoute',
+];
+
 test('direct chapter entry loads only the active feature route', async ({ page }) => {
   const modules = watchModules(page);
 
@@ -24,7 +39,7 @@ test('direct chapter entry loads only the active feature route', async ({ page }
   await expect(page.locator('.reader-prose')).toBeVisible({ timeout: 20_000 });
 
   expect(moduleLoaded(modules, 'ReaderRoute')).toBe(true);
-  for (const inactive of ['CharactersRoute', 'RankingsPage', 'CanonPage', 'TimelinePage', 'SearchRoute']) {
+  for (const inactive of inactiveReaderRoutes) {
     expect(moduleLoaded(modules, inactive), `${inactive} should stay unloaded on direct reader entry`).toBe(false);
   }
 
