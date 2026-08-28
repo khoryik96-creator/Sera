@@ -13,16 +13,15 @@ persistent reading progress and preferences, bookmarks, PWA/offline support,
 and an optional self-contained single-file build.
 
 The pre-React reader remains at **`legacy.html`** as a tested rollback path.
-`react-preview.html` is retained only as a tested compatibility entry for links
-created during the migration; the normal root `index.html` is the production
-reader.
+`react-preview.html` is retained only as a tested compatibility alias for
+historical links; the normal root `index.html` is the production reader.
 
 ## Architecture
 
 ```text
 index.html                       production React shell
 legacy.html                      pre-React rollback reader
-react-preview.html               migration-link compatibility reader
+react-preview.html               historical-link compatibility alias
 src/
   react/
     main.tsx                     React bootstrap + PWA initialization
@@ -45,7 +44,7 @@ src/
       timeline/                  Sera chronology
       canon/                     canon rules
       search/                    Search v2 command palette
-    routes/                      lazy feature-route entry points
+    routes/                      lazy entry point for every production section
     shared/
       rankState.ts               canonical rank-state parsing/semantics
     styles/                      shell + feature-owned responsive styles
@@ -134,10 +133,10 @@ numeric rank. Episode prose uses matching semantics through the novel renderer.
 
 ## Performance model
 
-Normal web builds split feature routes so a direct chapter visit loads the app
-shell and Reader route instead of eagerly executing Characters, Rankings,
-Canon, Timeline, Search and other inactive screens. Feature CSS is split with
-the routes where practical.
+Normal web builds split every production section behind a stable route entry so
+a direct chapter visit loads the app shell and Reader route instead of eagerly
+executing Characters, Rankings, Canon, Timeline, Search and other inactive
+screens. Feature CSS is split with the routes where practical.
 
 `npm run budget:perf` enforces production ceilings after `npm run build`.
 Current guarded limits are:
@@ -145,7 +144,9 @@ Current guarded limits are:
 - initial JavaScript: **220 KiB**
 - initial CSS: **48 KiB**
 - core lore JSON: **210 KiB**
-- required lazy chunks for Reader, Chapters, Overview, Characters and Search
+- **13 required lazy route chunks** covering Reader, Chapters, Overview,
+  Characters, Villains, Techniques, Rankings, Bookmarks, Legends, Former,
+  Timeline, Canon and Search
 
 The generated episode search index is a lazy data asset and is not part of the
 initial JavaScript payload.
@@ -162,7 +163,7 @@ resources can be served from cache when offline. Service-worker updates do not
 replace the active reader silently: when a new build is waiting, a compact
 **Update Reader** prompt lets the reader choose when to activate it.
 
-`legacy.html` and the migration-link compatibility reader are deliberately kept
+`legacy.html` and the historical-link compatibility alias are deliberately kept
 inside the cached shell so emergency rollback and old links remain testable.
 
 ## Routing and old links
@@ -228,12 +229,12 @@ The browser/unit suite covers, among other things:
 - current, former, retired, deceased and unranked badge semantics
 - Characters v2 rank history, relationships and lazy episode appearances
 - Search v2 grouped results, keyboard navigation and lazy episode lookup
-- direct-reader route splitting and deferred inactive feature chunks
+- all 13 production lazy-route boundaries and deferred inactive feature chunks
 - dialogue speaker colour-key integrity
 - portrait discovery and reversible galleries
 - PWA manifest, waiting-worker update protocol and service-worker registration
 - critical automated accessibility violations
-- the preserved `legacy.html` and migration compatibility reader
+- the preserved `legacy.html` and historical compatibility alias
 
 ## CI and GitHub Pages
 

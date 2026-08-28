@@ -7,16 +7,16 @@ import { useReaderState } from '../features/reader/ReaderContext';
 
 const OverviewPage = lazy(() => import('../routes/OverviewRoute').then((module) => ({ default: module.OverviewPage })));
 const CharactersPage = lazy(() => import('../routes/CharactersRoute').then((module) => ({ default: module.CharactersPage })));
-const VillainsPage = lazy(() => import('../features/villains/VillainsPage').then((module) => ({ default: module.VillainsPage })));
-const TechniquesPage = lazy(() => import('../features/techniques/TechniquesPage').then((module) => ({ default: module.TechniquesPage })));
+const VillainsPage = lazy(() => import('../routes/VillainsRoute').then((module) => ({ default: module.VillainsPage })));
+const TechniquesPage = lazy(() => import('../routes/TechniquesRoute').then((module) => ({ default: module.TechniquesPage })));
 const ChaptersPage = lazy(() => import('../routes/ChaptersRoute').then((module) => ({ default: module.ChaptersPage })));
 const ReaderPage = lazy(() => import('../routes/ReaderRoute').then((module) => ({ default: module.ReaderPage })));
-const RankingsPage = lazy(() => import('../features/rankings/RankingsPage').then((module) => ({ default: module.RankingsPage })));
-const BookmarksPage = lazy(() => import('../features/bookmarks/BookmarksPage').then((module) => ({ default: module.BookmarksPage })));
-const LegendsPage = lazy(() => import('../features/legends/LegendsPage').then((module) => ({ default: module.LegendsPage })));
-const FormerPage = lazy(() => import('../features/former/FormerPage').then((module) => ({ default: module.FormerPage })));
-const TimelinePage = lazy(() => import('../features/timeline/TimelinePage').then((module) => ({ default: module.TimelinePage })));
-const CanonPage = lazy(() => import('../features/canon/CanonPage').then((module) => ({ default: module.CanonPage })));
+const RankingsPage = lazy(() => import('../routes/RankingsRoute').then((module) => ({ default: module.RankingsPage })));
+const BookmarksPage = lazy(() => import('../routes/BookmarksRoute').then((module) => ({ default: module.BookmarksPage })));
+const LegendsPage = lazy(() => import('../routes/LegendsRoute').then((module) => ({ default: module.LegendsPage })));
+const FormerPage = lazy(() => import('../routes/FormerRoute').then((module) => ({ default: module.FormerPage })));
+const TimelinePage = lazy(() => import('../routes/TimelineRoute').then((module) => ({ default: module.TimelinePage })));
+const CanonPage = lazy(() => import('../routes/CanonRoute').then((module) => ({ default: module.CanonPage })));
 const SearchPalette = lazy(() => import('../routes/SearchRoute').then((module) => ({ default: module.SearchPalette })));
 
 interface RouteState {
