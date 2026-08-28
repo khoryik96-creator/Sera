@@ -1,6 +1,6 @@
 import type { Bookmark } from './bookmarks';
 import { episodeCountForSeason } from './readingProgress';
-import { JOURNEY_KEY, emptyReadingJourney, persistReadingJourney, validReadingJourney } from './readerJourney';
+import { JOURNEY_KEY, persistReadingJourney, validReadingJourney } from './readerJourney';
 import type { ReadingJourneyState } from './readerJourney';
 import { NOTES_KEY, persistEpisodeNotes, validEpisodeNote } from './readerNotes';
 import type { EpisodeNote } from './readerNotes';
