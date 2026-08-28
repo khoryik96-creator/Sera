@@ -9,8 +9,9 @@ rankings, legends, chronology and all 64 seasons / 633 short-novel episodes.
 
 The primary reader is a **React 19 + TypeScript + Vite** application with
 mobile-first navigation, route-level code splitting, lazy season/search data,
-persistent reading progress and preferences, bookmarks, PWA/offline support,
-and an optional self-contained single-file build.
+persistent reading progress and preferences, Reader Library tools, contextual
+lore links, private Reading Insights, PWA/offline support, and an optional
+self-contained single-file build.
 
 The pre-React reader remains at **`legacy.html`** as a tested rollback path.
 `react-preview.html` is retained only as a tested compatibility alias for
@@ -36,8 +37,9 @@ src/
       villains/                  Other Characters / Villains archive
       techniques/                Rhen + Sera arts
       chapters/                  arc/season/episode browser
-      reader/                    focused reader + progress/preferences
-      bookmarks/                 saved chapters / resume reading
+      reader/                    focused reader + progress/preferences/context
+      bookmarks/                 Reader Library
+      insights/                  private Reading Insights dashboard
       rankings/                  current ranking board
       legends/                   legends archive
       former/                    former rank holders
@@ -47,22 +49,27 @@ src/
     routes/                      lazy entry point for every production section
     shared/
       rankState.ts               canonical rank-state parsing/semantics
+      characterInsights.ts       derived character links/appearances
     styles/                      shell + feature-owned responsive styles
   db.ts                          core lore loader / normalization
   data.json                      canonical lore database
   seasonStore.ts                 independently loaded season cache
-  readingProgress.ts             device-local reading progress model
+  readingProgress.ts             device-local story progress model
+  readingInsights.ts             device-local progress/activity calculations
+  readerLibrary.ts               history + portable reader backup model
+  readerNotes.ts                 private per-episode notes
+  readerPassages.ts              saved prose passages
   generated/                     generated core/season/search payloads
   images.ts                      automatic portrait discovery
-  bookmarks.ts                   shared local persistence
-  novel.ts                       dialogue/technique/rank prose renderer
+  bookmarks.ts                   bookmarks + Continue Reading persistence
+  novel.ts                       dialogue/technique/rank/context prose renderer
   pwa.ts                         offline/update/service-worker setup
   types.ts                       canonical runtime types
   assets/                        portrait assets
   main.ts + legacy renderers     retained only for legacy.html rollback
 scripts/
   prepare-data.mjs               core + 64 season + search-index generation
-  check-performance-budget.mjs   production bundle/data budget guard
+  check-performance-budget.mjs   production bundle/data/route budget guard
   validate-assets.mjs            portrait naming/dimension validation
 e2e/
   production-reader.spec.ts      production/mobile/PWA regressions
@@ -70,7 +77,8 @@ e2e/
   characters-v2.spec.ts          character profile regressions
   search-v2.spec.ts              command-palette/search regressions
   reader-progress.spec.ts        reading-progress regressions
-  reader.spec.ts                 legacy/reader compatibility regressions
+  reading-insights.spec.ts       private analytics regressions
+  reader.spec.ts                 reader/legacy compatibility regressions
 test/                            unit + canon/data integrity tests
 public/
   manifest.webmanifest           install metadata
@@ -84,8 +92,8 @@ loaded first and each season is an independently loadable payload through
 `seasonStore.ts`.
 
 The archive is organized as **13 story arcs / 64 seasons**. Opening an episode
-records device-local reading progress. The same progress model drives the Home
-dashboard, archive and focused reader, including:
+records device-local reading progress. The same progress model drives Home,
+Reading Insights, the archive and focused reader, including:
 
 - story, arc and season completion percentages
 - completed-season count
@@ -101,6 +109,57 @@ Sans fonts, Compact / Comfort / Relaxed line spacing, and Narrow / Standard /
 Wide reading columns. Mobile navigation chrome moves out of the way while
 reading and returns on upward scrolling.
 
+## Reader Library
+
+The historical `#bookmarks` route is preserved, but the screen is now the
+**Reader Library**. All reader state is device-local unless the reader explicitly
+exports a backup.
+
+Library tabs include:
+
+- **Saved** — bookmarked episodes
+- **Recently Read** — a deduplicated local history of the latest 50 opened episodes
+- **Notes** — searchable private notes attached to individual episodes
+- **Passages** — selected prose saved directly from the focused reader
+- **Backup** — portable JSON export/import for supported reader state
+
+The portable backup includes bookmarks, Continue Reading, opened-episode
+progress, recent history, notes, saved passages and reader typography settings.
+Import validates real season/episode IDs and remains backward compatible with
+older Reader Library backups that did not yet contain notes or passages.
+
+## Reading Insights
+
+`#insights` is a separate lazy route that derives private reader analytics from
+the Reader Library state already stored on the device. It does **not** add a
+tracking beacon, account, server database or analytics network request.
+
+The dashboard provides:
+
+- whole-story completion and completed-season count
+- Continue Reading and global Next Unread actions
+- current reading streak and active days
+- recent seven-day activity and a 14-day activity view
+- furthest opened episode
+- progress across all 13 story arcs
+- in-progress seasons with direct continuation links
+- Reader Library footprint for bookmarks, recent episodes, notes and passages
+
+Activity timestamps come from the existing bounded Recent Reading history, so
+Insights intentionally reflects the locally retained reader-history window
+rather than claiming to be an unlimited lifetime activity log.
+
+## Contextual lore inside chapters
+
+Known character names and dialogue speakers become interactive only inside the
+focused Reader route. Tapping a reference opens a compact in-flow lore tray,
+not a modal or fixed bottom sheet.
+
+The tray can show the character's canonical name, seasonal rank state and
+profile context, and can route directly to a Characters v2 profile when one is
+available. Browser history preserves the chapter route so returning to the
+story remains natural.
+
 ## Characters v2
 
 Character profiles derive additional navigation and history from existing canon
@@ -112,6 +171,7 @@ sources rather than maintaining a second lore database. Profiles expose:
 - season footprint from the canonical season-cast index
 - a user-triggered lazy appearance scan that turns relevant seasons into direct
   episode links without loading all 633 episode bodies on profile open
+- a compact long-profile navigator on mobile and desktop
 
 Portrait files themselves are not modified by character/profile refactors.
 
@@ -131,12 +191,17 @@ former holders use `FORMER`; retired rankers use `RET`; deceased rankers use a
 red dagger treatment; Rhen remains explicitly `UNRANKED` and never receives a
 numeric rank. Episode prose uses matching semantics through the novel renderer.
 
+Historical seasonal states are also enforced where needed: Qin Luo remains
+active #6 through Season 22 before becoming retired Former #6, while Han Myeong
+remains active #8 through Season 22 before becoming deceased Former #8.
+
 ## Performance model
 
 Normal web builds split every production section behind a stable route entry so
 a direct chapter visit loads the app shell and Reader route instead of eagerly
-executing Characters, Rankings, Canon, Timeline, Search and other inactive
-screens. Feature CSS is split with the routes where practical.
+executing Characters, Rankings, Canon, Timeline, Reader Library, Reading
+Insights, Search and other inactive screens. Feature CSS is split with routes
+where practical.
 
 `npm run budget:perf` enforces production ceilings after `npm run build`.
 Current guarded limits are:
@@ -144,9 +209,9 @@ Current guarded limits are:
 - initial JavaScript: **220 KiB**
 - initial CSS: **48 KiB**
 - core lore JSON: **210 KiB**
-- **13 required lazy route chunks** covering Reader, Chapters, Overview,
-  Characters, Villains, Techniques, Rankings, Bookmarks, Legends, Former,
-  Timeline, Canon and Search
+- **14 required lazy route chunks** covering Reader, Chapters, Overview,
+  Characters, Villains, Techniques, Rankings, Reader Library, Reading Insights,
+  Legends, Former, Timeline, Canon and Search
 
 The generated episode search index is a lazy data asset and is not part of the
 initial JavaScript payload.
@@ -170,13 +235,15 @@ inside the cached shell so emergency rollback and old links remain testable.
 
 Existing hash routes remain valid:
 
-| Legacy route | React destination |
+| Route | Destination |
 | --- | --- |
 | `#others` | Other Characters / Villains |
 | `#skills` | Arts & Techniques |
 | `#sera-timeline` | Sera Timeline |
 | `#episodes` | Episode browser |
 | `#episodes/<season>/<episode>` | Focused episode reader |
+| `#bookmarks` | Reader Library |
+| `#insights` | Reading Insights |
 
 Native chapter links also support `#chapter/<season>/<episode>` and character
 links remain `#characters/<key>`.
@@ -225,11 +292,14 @@ The browser/unit suite covers, among other things:
 - all 64 seasons / 633 episodes and the 13-arc archive
 - Continue Reading, reading progress, Next Unread and Back to Season
 - persistent typography/reading-width preferences
+- Reader Library history, notes, saved passages and backup validation
+- contextual chapter lore links and character-profile routing
+- Reading Insights progress, activity, continuation links and mobile containment
 - mobile navigation behavior and page-level overflow
 - current, former, retired, deceased and unranked badge semantics
 - Characters v2 rank history, relationships and lazy episode appearances
 - Search v2 grouped results, keyboard navigation and lazy episode lookup
-- all 13 production lazy-route boundaries and deferred inactive feature chunks
+- all 14 production lazy-route boundaries and deferred inactive feature chunks
 - dialogue speaker colour-key integrity
 - portrait discovery and reversible galleries
 - PWA manifest, waiting-worker update protocol and service-worker registration
