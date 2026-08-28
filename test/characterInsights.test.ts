@@ -16,8 +16,9 @@ describe('Characters v2 insights', () => {
       ['#6', 23, 43],
       ['Former #6', 44, 64],
     ]);
-    expect(steps.at(-1)?.status).toBe('former');
-    expect(steps.at(-1)?.current).toBe(true);
+    const last = steps[steps.length - 1];
+    expect(last?.status).toBe('former');
+    expect(last?.current).toBe(true);
   });
 
   it('keeps Rhen explicitly unranked across the story', () => {
