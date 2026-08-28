@@ -1,0 +1,189 @@
+name: Cut over React reader
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/cutover-react-reader.yml
+
+permissions:
+  contents: write
+
+jobs:
+  cutover:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Apply production cutover in workspace
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+
+          Path('index.html').write_text('''<!doctype html>
+          <html lang="en">
+          <head>
+            <meta charset="UTF-8" />
+            <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+            <meta name="theme-color" content="#0c0d0f" />
+            <meta name="color-scheme" content="dark" />
+            <title>The Quiet Regular — Lore Repository</title>
+            <link rel="manifest" href="./manifest.webmanifest" />
+            <link rel="icon" href="./icon.svg" type="image/svg+xml" />
+          </head>
+          <body>
+            <a class="skip-link" href="#mainContent">Skip to content</a>
+            <div id="offlineBanner" class="react-offline-banner" hidden>You’re offline — previously opened chapters remain available.</div>
+            <div id="react-root"></div>
+            <script type="module" src="/src/react/main.tsx"></script>
+          </body>
+          </html>
+          '''.replace('          ', ''))
+
+          app_path = Path('src/react/app/App.tsx')
+          app = app_path.read_text()
+          assert '<main className="content">' in app
+          assert '<strong>React preview</strong><p>Parallel to production</p>' in app
+          app = app.replace('<main className="content">', '<main id="mainContent" className="content" tabIndex={-1}>')
+          app = app.replace('<strong>React preview</strong><p>Parallel to production</p>', '<strong>Lore repository</strong><p>Production reader</p>')
+          app_path.write_text(app)
+
+          main_path = Path('src/react/main.tsx')
+          main = main_path.read_text()
+          main = main.replace("throw new Error('React preview root is missing');", "throw new Error('Reader root is missing');")
+          main = main.replace('React preview failed to load.', 'The lore reader failed to load.')
+          main = main.replace('<a href="./index.html">Return to the production reader</a>', '<a href="./legacy.html">Open the legacy reader</a>')
+          main_path.write_text(main)
+
+          Path('vite.config.ts').write_text('''import { defineConfig } from 'vite';
+
+          // Web build: React is the production shell. The pre-cutover reader remains as legacy.html for rollback.
+          export default defineConfig({
+            base: './',
+            define: {
+              __SINGLEFILE__: 'false',
+            },
+            build: {
+              outDir: 'dist',
+              rollupOptions: {
+                input: {
+                  main: 'index.html',
+                  legacy: 'legacy.html',
+                  reactPreview: 'react-preview.html',
+                },
+              },
+            },
+          });
+          '''.replace('          ', ''))
+
+          legacy_test_path = Path('e2e/reader.spec.ts')
+          legacy_test = legacy_test_path.read_text()
+          old_count = legacy_test.count("page.goto('/#")
+          assert old_count >= 6, old_count
+          legacy_test = legacy_test.replace("page.goto('/#", "page.goto('/legacy.html#")
+          legacy_test_path.write_text(legacy_test)
+
+          react_test_path = Path('e2e/react-preview.spec.ts')
+          react_test = react_test_path.read_text()
+          if "import AxeBuilder from '@axe-core/playwright';" not in react_test:
+              react_test = react_test.replace("import { test, expect } from '@playwright/test';", "import { test, expect } from '@playwright/test';\nimport AxeBuilder from '@axe-core/playwright';")
+          assert "page.goto(`/react-preview.html#${hash}`)" in react_test
+          react_test = react_test.replace("page.goto(`/react-preview.html#${hash}`)", "page.goto(`/#${hash}`)")
+          react_test = react_test.replace(r"/react-preview\.html#characters$/", r"/#characters$/")
+          react_test = react_test.replace("new RegExp(`react-preview\\\\.html#${hash}$`)", "new RegExp(`#${hash}$`)")
+          react_test = react_test.replace(r"/react-preview\.html#episodes\/1\/1$/", r"/#episodes\/1\/1$/")
+          react_test = react_test.replace("page.goto('/react-preview.html#characters/qin')", "page.goto('/#characters/qin')")
+          react_test = react_test.replace("page.goto('/react-preview.html#characters/sera')", "page.goto('/#characters/sera')")
+          marker = "test('capture React preview visual review surfaces'"
+          assert marker in react_test
+          extra = '''test('production React surface has no critical automated accessibility violations', async ({ page }) => {
+            await openPreview(page, 'characters/sera');
+            const result = await new AxeBuilder({ page }).analyze();
+            const critical = result.violations.filter((violation) => violation.impact === 'critical');
+            expect(critical, critical.map((violation) => `${violation.id}: ${violation.help}`).join('\\n')).toEqual([]);
+          });
+
+          test('React preview alias remains available after production cutover', async ({ page }) => {
+            await page.goto('/react-preview.html#characters/sera');
+            await expect(page.locator('.app-shell')).toBeVisible({ timeout: 20_000 });
+            await expect(page.locator('.character-name-line')).toContainText('Sera');
+          });
+
+          '''.replace('          ', '')
+          react_test = react_test.replace(marker, extra + marker)
+          react_test_path.write_text(react_test)
+
+          pwa_css_path = Path('src/react/styles/pwa.css')
+          pwa_css = pwa_css_path.read_text()
+          if '.skip-link{' not in pwa_css:
+              pwa_css += '''
+          .skip-link{
+            position:fixed;
+            left:12px;
+            top:-64px;
+            z-index:100;
+            border:1px solid #36534d;
+            border-radius:9px;
+            padding:9px 12px;
+            background:#111317;
+            color:#b6e8dc;
+            font-size:.75rem;
+            font-weight:700;
+            text-decoration:none;
+            transition:top .16s ease;
+          }
+          .skip-link:focus{top:12px}
+          '''.replace('          ', '')
+          pwa_css_path.write_text(pwa_css)
+
+          sw_path = Path('public/sw.js')
+          sw = sw_path.read_text()
+          sw = sw.replace("const SHELL = ['./', './index.html', './react-preview.html', './manifest.webmanifest', './icon.svg'];", "const SHELL = ['./', './index.html', './legacy.html', './react-preview.html', './manifest.webmanifest', './icon.svg'];")
+          old_fallback = """          const preview = url.pathname.endsWith('/react-preview.html') ? await caches.match('./react-preview.html') : null;\n          return preview || (await caches.match('./index.html')) || Response.error();"""
+          new_fallback = """          const preview = url.pathname.endsWith('/react-preview.html') ? await caches.match('./react-preview.html') : null;\n          const legacy = url.pathname.endsWith('/legacy.html') ? await caches.match('./legacy.html') : null;\n          return preview || legacy || (await caches.match('./index.html')) || Response.error();"""
+          assert old_fallback in sw
+          sw = sw.replace(old_fallback, new_fallback)
+          sw_path.write_text(sw)
+          PY
+
+      - name: Quality gate on cutover state
+        run: npm run quality
+
+      - name: Build production and legacy pages
+        run: |
+          npm run build
+          test -f dist/index.html
+          test -f dist/legacy.html
+          test -f dist/react-preview.html
+
+      - name: Verify direct-open single-file build
+        run: |
+          npm run build:single
+          test -f dist-single/index.html
+
+      - name: Install browser test tooling
+        run: |
+          npm install --no-save --no-package-lock @playwright/test@1.55.0 @axe-core/playwright@4.10.2
+          npx playwright install --with-deps chromium
+
+      - name: Validate React production and legacy rollback readers
+        run: npm run test:e2e
+
+      - name: Commit validated production cutover
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add index.html legacy.html vite.config.ts src/react src/react/styles/pwa.css public/sw.js e2e
+          git diff --cached --quiet && exit 0
+          git commit -m "refactor: make React the production reader"
+          git push
