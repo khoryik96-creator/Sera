@@ -4,131 +4,171 @@
 
 **➡️ [https://khoryik96-creator.github.io/Sera/](https://khoryik96-creator.github.io/Sera/)**
 
-Interactive single-page browser for the *Quiet Regular* lore (characters,
-skills, rankings, legends, 64 seasons of episodes). Originally a single 6 MB
-HTML file with everything inlined; now split into a small Vite + TypeScript
-project.
+Interactive browser for *The Quiet Regular* lore: characters, martial arts,
+rankings, legends, chronology and 64 seasons of short-novel episodes.
 
-## Layout
+The project began as a single multi-megabyte HTML file. It is now a Vite +
+TypeScript application with a normal web build and an optional self-contained
+single-file build.
 
-```
-index.html          # markup shell (loads src/main.ts as a module, no inline JS)
+## Architecture
+
+```text
+index.html                  markup shell + legacy episode heading metadata
 src/
-  main.ts           # entry: wires tab/search/quicklink events + initial render
-  tabs.ts           # activateTab + clearSearchInputs
-  db.ts             # DB loader (fetch or inline) + colour-key map
-  images.ts         # portrait imports -> characterImageMap / characterExtraImages
-  dom.ts            # getEl() helper + regex escaping
-  novel.ts          # dialogue / skill / ranked-name annotation
-  characters.ts     # character tab: profile, nav, legends, Sera gallery
-  skills.ts         # Rhen + Sera skill tables and cards
-  legends.ts        # legends tab
-  ranks.ts          # rankings tab (+ rankColorKey)
-  former.ts         # former rank-holders tab
-  seraTimeline.ts   # Sera chronology tab
-  episodes.ts       # 64-season episode archive + season cast
-  episodeNav.ts     # jump bar (season/episode), bookmarks, floating jump button
-  bookmarks.ts      # localStorage bookmarks + "resume reading" state
-  arcFigures.ts     # "Others" / villains tab
-  colorKey.ts       # character colour legend
-  types.ts          # interfaces for the data model
-  data.json         # the lore database (fetched at runtime, not bundled into JS)
-  styles.css        # all styles (was 5 inline <style> blocks)
-  vite-env.d.ts     # Vite client types + __SINGLEFILE__ declaration
-  assets/           # character portraits (imported; hashed for web, inlined for single-file)
-test/               # vitest unit, data-integrity, and DOM tests
+  main.ts                   application bootstrap
+  db.ts                     data loader + legacy-row normalization
+  data.json                 canon/lore database
+  types.ts                  persisted + normalized runtime types
+  images.ts                 automatic portrait discovery
+  portraitGallery.ts        generic reversible portrait gallery
+  characters.ts             character index/profile rendering
+  skills.ts                 Rhen + Sera martial-art archives
+  ranks.ts                  ranking renderer + rank-pill semantics
+  legends.ts                legends archive
+  former.ts                 historical rank holders
+  seraTimeline.ts           Sera chronology
+  arcFigures.ts             Other Characters / Villains
+  novel.ts                  dialogue, skill and ranked-name annotation
+  episodeStructure.ts       typed arc/season metadata + generated archive shell
+  episodes.ts               lazy season/episode rendering
+  episodeNav.ts             season/episode jump navigation
+  bookmarks.ts              local bookmark + resume-reading persistence
+  tabs.ts                   tab activation/search reset
+  colorKey.ts               dialogue colour legend
+  dom.ts                    DOM helpers
+  styles.css                shared/legacy visual foundation
+  styles/
+    portraits.css           isolated portrait/gallery rules
+    rank-badges.css         compact Lucy-inspired rank pills
+    episodes.css            episode archive performance rules
+  assets/                   portrait assets
+scripts/
+  validate-assets.mjs       portrait naming/dimension/aspect validation
+test/                       unit + regression + canon-integrity tests
 ```
 
-## Develop
+### Data model
+
+`src/data.json` still uses compact positional arrays for a few historical data
+sets so the large lore file does not need a risky one-shot migration.
+`normalizeDatabase()` converts those rows once during startup into named objects:
+
+- ranking rows → `{ rank, name, className, description }`
+- signature arts → `{ name, category, signature, rating, description }`
+- season cast → `{ name, role, description }`
+
+Render modules only consume the typed runtime objects.
+
+## Character portraits
+
+Portraits are discovered automatically from `src/assets/`:
+
+```text
+<key>.jpg            main portrait
+<key>-extra-1.jpg    first gallery portrait
+<key>-extra-2.jpg    second gallery portrait
+...
+```
+
+`<key>` must match a key in `DB.characters` (`wen` is Luo Wen, for example).
+Any character with extras automatically receives the same generic gallery —
+there is no Sera-specific gallery implementation anymore.
+
+The gallery keeps one main image in the stage and switches its `src` when a
+thumbnail is selected, so moving forward and backward through portraits cannot
+leave translucent layers behind.
+
+Before committing new portraits run:
+
+```bash
+npm run validate:assets
+```
+
+The validator checks character keys, duplicate main portraits, contiguous extra
+indices, readable dimensions, hard minimum resolution, aspect ratio and file
+size. Lower-than-preferred source resolution is reported as a warning.
+
+## Ranking badges
+
+Ranking labels use compact dark-gold pills inspired by the Lucy reader in the
+`Despicable-Heretic` project. Current ranks use gold; former/retired ranks use a
+muted slate treatment; Rhen uses an explicit unranked treatment and never gains
+a numeric rank.
+
+## Episode archive
+
+The browser no longer renders all 64 seasons and 633 episodes on startup.
+
+At startup `episodeStructure.ts` captures the established arc/season headings,
+rebuilds them into a generated typed shell and discards the large working DOM.
+`episodes.ts` then renders prose only when a season is opened or directly
+requested by the jump/bookmark navigator. Global episode search intentionally
+renders filtered results across all seasons and returns to lazy mode when the
+query is cleared.
+
+Bookmarks and resume-reading state stay in `localStorage` and survive reloads
+on the same browser/device.
+
+## Development
 
 ```bash
 npm install
-npm run dev        # start the dev server
-npm run build      # typecheck + production build to dist/
-npm run preview    # serve the built dist/
-npm run typecheck  # tsc --noEmit
-npm run lint       # eslint
-npm run test       # vitest (unit + data-integrity tests)
+npm run dev
+npm run typecheck
+npm run lint
+npm run test
+npm run validate:assets
+npm run quality
+npm run build
+npm run build:single
+npm run preview
 ```
 
-## Reading the episodes (mobile-friendly)
+`npm run quality` runs typecheck, lint, the Vitest suite and portrait validation.
 
-The **Episodes** tab has a jump bar at the top:
+## Automated regression guards
 
-- **Season / Episode dropdowns** jump straight to any of the 64 seasons and
-  open the enclosing arc automatically — no endless scrolling.
-- **☆ on each episode** bookmarks it; **★ Bookmarks** lists your saved episodes.
-- **▸ Resume reading** returns to the last episode you opened.
-- A floating **≡ Jump** button (mobile) brings the jump bar back within reach
-  while reading.
+Tests cover, among other things:
 
-Bookmarks and reading position are stored in the browser (`localStorage`), so
-they persist on the same device and degrade gracefully where storage is blocked.
+- all 64 seasons exist
+- Season 1 remains marked LOCKED in archive metadata
+- episode arc/season metadata captures seasons 1–64 exactly once
+- current/former rank identity is retained while Rhen stays unranked
+- Rhen's Ultimate remains the last archived Rhen technique
+- exact long-form episode prose is not duplicated across chapters
+- every explicit `[[speaker:key]]` tag maps to a known colour key
+- all portrait keys resolve to characters
+- Sera and Rhen gallery extras are discovered in numeric order
+- generic portrait galleries can switch forward and backward
+- ranking colour mappings remain collision-safe (`Ilyra Serath` is not Sera)
 
-Every line of tagged dialogue is now prefixed with the **speaker's name** in
-their colour, so characters are never confused even when two share a hue.
+## CI and GitHub Pages
 
-## Adding character portraits
+Pull requests run the Quality workflow:
 
-Portraits are auto-discovered from `src/assets/` by filename — no code change
-needed. Follow the convention:
+1. `npm ci`
+2. `npm run quality`
+3. normal web build
+4. self-contained single-file build
 
-```
-<key>.jpg            main portrait for a character   (e.g. kael.jpg)
-<key>-extra-<n>.jpg  gallery image, ordered by <n>   (e.g. sera-extra-1.jpg)
-```
+Pushes to `main` run the same quality gate before GitHub Pages is built and
+deployed. This prevents a data, TypeScript, portrait or regression-test failure
+from publishing a broken reader.
 
-- `<key>` must match the character key in the data (`DB.characters` — e.g.
-  `wen` for Luo Wen).
-- A character with one or more `-extra-` images automatically gets a
-  scrollable gallery (main image first, then the extras in numeric order).
-- JPEG/PNG/WebP are accepted; JPEG keeps the bundle small.
-
-Drop the files in and rebuild — that's it.
-
-## Two build outputs
+## Build outputs
 
 ```bash
-npm run build         # web build  -> dist/         (code-split; needs a server)
-npm run build:single  # single file -> dist-single/index.html
+npm run build         # web build -> dist/
+npm run build:single  # self-contained file -> dist-single/index.html
 ```
 
-- **`dist/`** is the normal web build: small JS, `data.json` and images as
-  separate cacheable assets. Serve it (e.g. `npm run preview`) or deploy the
-  folder.
-- **`dist-single/index.html`** is one self-contained file with the JS, CSS,
-  images, and lore data all inlined. **Double-click it to open** — no server,
-  no install. Handy for sharing or offline use.
-
-Both are produced from the same source; the data/image strategy is switched
-at build time by the `__SINGLEFILE__` flag (fetched assets vs. inlined).
+The normal web build keeps lore data and images as cacheable assets. The
+single-file build deliberately inlines JavaScript, CSS, lore and portraits so
+`dist-single/index.html` can be opened directly without a server.
 
 ### Windows one-click
 
-Double-click **`Run-App.bat`**. On the first run it installs dependencies
-(needs Node.js and internet once), builds the single file, and opens it in
-your browser. Later runs just rebuild and open.
-
-## Migration notes
-
-Originally one 6 MB HTML file; migrated to Vite + TypeScript and then tightened:
-
-- **Strict TypeScript** — `strict`, `noImplicitAny`, `noUnusedLocals`,
-  `noUnusedParameters` are all on. Function parameters, callbacks and DOM
-  lookups are typed; `getEl<T>()` in `src/dom.ts` throws on missing elements
-  rather than using scattered non-null assertions.
-- **Per-tab modules** — logic is split across focused modules (see Layout);
-  `main.ts` is a thin entry point.
-- **No inline JavaScript** — all interactions use delegated event listeners
-  (`data-char`, `data-idx`, `data-scroll`); nothing hangs off `window`.
-- **Code-split data** — `data.json` is imported with Vite's `?url` and
-  fetched at runtime by `loadDB()`, so it ships as a cacheable static asset
-  instead of being inlined into the JS bundle (JS bundle ~22 kB vs ~970 kB
-  before). Render code reads the live `DB` binding after the initial load.
-- **Automated tests** — Vitest covers the novel/rank logic, the
-  per-character legend filter (regression guard for the empty-label bug),
-  and data-integrity invariants (all 64 seasons present, every character
-  and portrait key valid, row widths).
-
-`npm run typecheck`, `npm run lint`, `npm run test` and `npm run build`
-all pass.
+Double-click `Run-App.bat`. The first run installs dependencies (Node.js and an
+internet connection are required once), builds the single-file version and
+opens it. Later runs rebuild and open it again.
