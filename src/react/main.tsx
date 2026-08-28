@@ -1,5 +1,6 @@
 import { createRoot } from 'react-dom/client';
 import { loadDB } from '../db';
+import { decodedRouteHash } from '../hashRoute';
 import { initPwa } from '../pwa';
 import { App } from './app/App';
 import { ReaderProvider } from './features/reader/ReaderContext';
@@ -12,7 +13,7 @@ import './styles/performance.css';
 import './styles/ux-audit.css';
 
 async function preloadInitialRoute(): Promise<void> {
-  const raw = decodeURIComponent(window.location.hash.replace(/^#\/?/, '')).trim();
+  const raw = decodedRouteHash();
   if (raw.startsWith('chapter/') || raw.startsWith('episodes/')) {
     await import('./routes/ReaderRoute');
     return;
