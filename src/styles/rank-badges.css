@@ -19,14 +19,31 @@
   color:var(--gold);
 }
 .rank-badge--former{
-  border:1px solid #4b5965;
-  background:#151b20;
-  color:#b4c0ca;
+  border:1px solid #50565e;
+  background:#17191d;
+  color:#aeb5bd;
+}
+.rank-badge--retired{
+  border:1px solid #4c5962;
+  background:rgba(126,145,158,.07);
+  color:#a9b6c0;
+}
+.rank-badge--deceased{
+  border:1px solid #63393d;
+  background:rgba(240,154,154,.06);
+  color:#efa0a0;
 }
 .rank-badge--unranked{
   border:1px solid #315d6c;
   background:#101a20;
   color:var(--char-rhen);
+}
+.rank-badge__state{
+  margin-left:4px;
+  font-size:.82em;
+  font-weight:900;
+  letter-spacing:.06em;
+  opacity:.86;
 }
 .ranked-name{white-space:nowrap}
 .ranked-name .rank-badge{

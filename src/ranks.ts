@@ -23,11 +23,24 @@ export function rankColorKey(name: string): string {
   return 'rhen';
 }
 
-export function rankBadgeTone(entry: RankEntry): 'current' | 'former' | 'unranked' {
-  if (entry.name.trim() === 'Rhen' || /unranked/i.test(`${entry.rank} ${entry.className}`)) return 'unranked';
-  if (/^(former\s+)?#\d+/i.test(entry.name) && /^former\s+/i.test(entry.name)) return 'former';
-  if (/former|retired|deceased/i.test(`${entry.rank} ${entry.className}`)) return 'former';
+export type RankBadgeTone = 'current' | 'former' | 'retired' | 'deceased' | 'unranked';
+
+export function rankBadgeTone(entry: RankEntry): RankBadgeTone {
+  const explicit = `${entry.rank} ${entry.name} ${entry.className}`;
+  if (entry.name.trim() === 'Rhen' || /unranked/i.test(explicit)) return 'unranked';
+  if (/deceased|dead|†/i.test(explicit)) return 'deceased';
+  if (/semi[- ]?retired|retired/i.test(explicit)) return 'retired';
+  if (/former/i.test(explicit)) return 'former';
   return 'current';
+}
+
+export function rankBadgeLabel(entry: RankEntry): string {
+  const tone = rankBadgeTone(entry);
+  const base = entry.rank.replace(/^Former\s+/i, '').trim() || 'UNR';
+  if (tone === 'deceased') return `${base} †`;
+  if (tone === 'retired') return `${base} · RET`;
+  if (tone === 'former') return `${base} · FORMER`;
+  return base;
 }
 
 export function renderRanks(q = ''): void {
@@ -37,6 +50,7 @@ export function renderRanks(q = ''): void {
     .map((entry) => {
       const key = rankColorKey(entry.name);
       const tone = rankBadgeTone(entry);
-      return `<div class="rank-row"><div><span class="rank-badge rank-badge--${tone}">${entry.rank}</span></div><div class="character-${key}"><strong>${entry.name}</strong><div class="rank-class">${entry.className}</div></div><div>${entry.description}</div></div>`;
+      const label = rankBadgeLabel(entry);
+      return `<div class="rank-row"><div><span class="rank-badge rank-badge--${tone}">${label}</span></div><div class="character-${key}"><strong>${entry.name}</strong><div class="rank-class">${entry.className}</div></div><div>${entry.description}</div></div>`;
     }).join('');
 }
