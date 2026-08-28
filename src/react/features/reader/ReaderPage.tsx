@@ -245,11 +245,15 @@ export function ReaderPage({ season, episode, onBack, onOpenChapter }: ReaderPag
 
   function saveSelectedPassage(): void {
     if (!bookmark || !selectedPassage) return;
-    savePassage({ ...bookmark, text: selectedPassage });
-    setSelectedPassage('');
-    setPassageNotice('✓ Passage saved');
-    window.getSelection()?.removeAllRanges();
-    window.setTimeout(() => setPassageNotice(''), 1800);
+    const persisted = savePassage({ ...bookmark, text: selectedPassage });
+    if (persisted) {
+      setSelectedPassage('');
+      setPassageNotice('✓ Passage saved');
+      window.getSelection()?.removeAllRanges();
+    } else {
+      setPassageNotice('Passage was not saved because browser storage is unavailable.');
+    }
+    window.setTimeout(() => setPassageNotice(''), 2600);
   }
 
   function handleProseClick(event: ReactMouseEvent<HTMLElement>): void {
@@ -259,7 +263,10 @@ export function ReaderPage({ season, episode, onBack, onOpenChapter }: ReaderPag
     const reference = target.closest<HTMLElement>('[data-character-key]');
     const key = reference?.dataset.characterKey;
     if (!key) return;
-    setLoreKey((currentKey) => currentKey === key ? null : key);
+    setLoreKey(key);
+    window.requestAnimationFrame(() => {
+      document.querySelector<HTMLElement>('.reader-lore-context')?.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+    });
   }
 
   function openLoreProfile(): void {
@@ -283,6 +290,7 @@ export function ReaderPage({ season, episode, onBack, onOpenChapter }: ReaderPag
 
       {loading ? <div className="reader-loading">Loading episode…</div> : null}
       {error ? <div className="reader-error"><strong>Episode failed to load</strong><p>{error}</p><button onClick={onBack} type="button">Back to season</button></div> : null}
+      {!loading && !error && !current ? <div className="reader-error"><strong>Episode not found</strong><p>Season {season} does not contain Episode {episode}.</p><button onClick={onBack} type="button">Back to season</button></div> : null}
 
       {!loading && !error && current ? (
         <>
