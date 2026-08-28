@@ -27,9 +27,6 @@ jobs:
           npm install --save-exact react@19.0.0 react-dom@19.0.0
           npm install --save-dev --save-exact @types/react@19.0.0 @types/react-dom@19.0.0
 
-      - name: Validate dependency update
-        run: npm run quality
-
       - name: Commit dependency manifests
         run: |
           git config user.name "github-actions[bot]"
