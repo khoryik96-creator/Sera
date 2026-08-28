@@ -1,0 +1,92 @@
+/* Generic portrait gallery. Kept isolated from the legacy shared stylesheet so
+   character-specific patches cannot bleed into other portraits. */
+.portrait-gallery{
+  position:relative!important;
+  display:flex!important;
+  flex-direction:column!important;
+  min-height:560px!important;
+  overflow:hidden!important;
+  background:#0b1017!important;
+}
+.portrait-gallery::before,.portrait-gallery::after,
+.portrait-gallery__stage::before,.portrait-gallery__stage::after{
+  content:none!important;
+  display:none!important;
+  background:none!important;
+  background-image:none!important;
+}
+.portrait-gallery__stage{
+  position:relative;
+  flex:1 1 auto;
+  min-height:480px;
+  overflow:hidden;
+  background:#0b1017;
+}
+.portrait-gallery__main{
+  position:absolute!important;
+  inset:0!important;
+  display:block!important;
+  width:100%!important;
+  height:100%!important;
+  max-width:none!important;
+  object-fit:contain!important;
+  object-position:center center!important;
+  filter:none!important;
+  -webkit-filter:none!important;
+  mix-blend-mode:normal!important;
+  opacity:1!important;
+  transform:none!important;
+  background:#0b1017!important;
+}
+.portrait-gallery__controls{
+  flex:0 0 72px;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  gap:8px;
+  padding:9px;
+  overflow-x:auto;
+  background:#080c12;
+  border-top:1px solid var(--line);
+  scrollbar-width:none;
+}
+.portrait-gallery__controls::-webkit-scrollbar{display:none}
+.portrait-gallery__thumb{
+  width:50px!important;
+  height:50px!important;
+  flex:0 0 50px!important;
+  padding:0!important;
+  overflow:hidden!important;
+  border-radius:9px!important;
+  border:1px solid #3e4857!important;
+  background:#0b1017!important;
+  opacity:.62;
+}
+.portrait-gallery__thumb.active{
+  opacity:1;
+  border-color:#d99add!important;
+  box-shadow:0 0 0 2px rgba(217,154,221,.18);
+}
+.portrait-gallery__thumb img{
+  display:block!important;
+  width:100%!important;
+  height:100%!important;
+  object-fit:cover!important;
+  filter:none!important;
+  -webkit-filter:none!important;
+  mix-blend-mode:normal!important;
+  opacity:1!important;
+  pointer-events:none!important;
+}
+.portrait-gallery__count{
+  min-width:38px;
+  text-align:center;
+  color:var(--muted);
+  font-size:10px;
+}
+.portrait-gallery--single .portrait-gallery__stage{min-height:560px}
+@media(max-width:620px){
+  .portrait-gallery{min-height:520px!important}
+  .portrait-gallery__stage,.portrait-gallery--single .portrait-gallery__stage{min-height:448px}
+  .portrait-gallery__thumb{width:46px!important;height:46px!important;flex-basis:46px!important}
+}
