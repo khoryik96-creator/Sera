@@ -1,3 +1,4 @@
+import { readFile } from 'node:fs/promises';
 import { test, expect } from '@playwright/test';
 import AxeBuilder from '@axe-core/playwright';
 
@@ -30,29 +31,21 @@ async function openProduction(page: import('@playwright/test').Page, hash = 'ove
   await expect(page.locator('.app-shell')).toBeVisible({ timeout: 20_000 });
 }
 
-async function coreCounts(page: import('@playwright/test').Page): Promise<CoreCounts> {
-  await openProduction(page);
-  return page.evaluate(async () => {
-    const resourceUrl = performance.getEntriesByType('resource')
-      .map((entry) => (entry as PerformanceResourceTiming).name)
-      .find((name) => /\/assets\/core-[^/]+\.json(?:\?|$)/.test(name));
-    if (!resourceUrl) throw new Error('Production core lore resource was not observed');
-    const response = await fetch(resourceUrl);
-    if (!response.ok) throw new Error(`Unable to reload core lore resource: ${response.status}`);
-    const core = await response.json() as CoreCountShape;
-    const mainFigureKeys = new Set(['mo_qingzhao', 'yun_shizhen', 'ilyra_serath']);
-    return {
-      characters: Object.keys(core.characters).length,
-      villains: core.arcFigures.filter((figure) => !mainFigureKeys.has(figure.key)).length,
-      rhenSkills: core.rhenSkills.length,
-      seraSkills: core.seraSkills.length,
-      ranks: core.ranks.length,
-      legends: core.legends.length,
-      former: core.former.length,
-      timeline: core.seraTimeline.length,
-      canon: (core.canonRules || []).length,
-    };
-  });
+async function sourceCoreCounts(): Promise<CoreCounts> {
+  const source = await readFile(new URL('../src/data.json', import.meta.url), 'utf8');
+  const core = JSON.parse(source) as CoreCountShape;
+  const mainFigureKeys = new Set(['mo_qingzhao', 'yun_shizhen', 'ilyra_serath']);
+  return {
+    characters: Object.keys(core.characters).length,
+    villains: core.arcFigures.filter((figure) => !mainFigureKeys.has(figure.key)).length,
+    rhenSkills: core.rhenSkills.length,
+    seraSkills: core.seraSkills.length,
+    ranks: core.ranks.length,
+    legends: core.legends.length,
+    former: core.former.length,
+    timeline: core.seraTimeline.length,
+    canon: (core.canonRules || []).length,
+  };
 }
 
 test('production React shell renders and routes between core features', async ({ page }) => {
@@ -84,7 +77,7 @@ test('legacy production hashes remain valid in the React reader', async ({ page 
 });
 
 test('production React archive renders every canonical core record', async ({ page }) => {
-  const expected = await coreCounts(page);
+  const expected = await sourceCoreCounts();
   const sections: Array<[string, string, number]> = [
     ['characters', '.character-nav-card', expected.characters],
     ['villains', '.lore-card', expected.villains],
@@ -102,11 +95,31 @@ test('production React archive renders every canonical core record', async ({ pa
 
   await openProduction(page, 'techniques');
   await expect(page.locator('.technique-card')).toHaveCount(expected.rhenSkills);
-  await page.getByRole('button', { name: 'Sera', exact: true }).click();
+  await page.getByRole('group', { name: 'Technique owner' }).getByRole('button', { name: 'Sera', exact: true }).click();
   await expect(page.locator('.technique-card')).toHaveCount(expected.seraSkills);
 
   await openProduction(page, 'chapters');
   await expect(page.locator('.season-card')).toHaveCount(64);
+});
+
+test('season Read action loads the chosen season and opens its first episode', async ({ page }, testInfo) => {
+  await openProduction(page, 'chapters');
+  const season12 = page.locator('.season-card').nth(11);
+  await season12.click();
+  await expect(season12).toHaveAttribute('aria-pressed', 'true');
+  await expect(page.locator('.season-selected-heading__meta')).toHaveText('Season 12');
+  await expect(page.locator('.season-start-button')).toBeEnabled({ timeout: 20_000 });
+
+  if (testInfo.project.name.includes('mobile')) {
+    await expect.poll(async () => page.locator('.season-reader-panel').evaluate((node) => {
+      const rect = node.getBoundingClientRect();
+      return rect.top < window.innerHeight && rect.bottom > 0;
+    })).toBe(true);
+  }
+
+  await page.locator('.season-start-button').click();
+  await expect(page).toHaveURL(/#chapter\/12\/1$/);
+  await expect(page.locator('.reader-prose')).toBeVisible({ timeout: 20_000 });
 });
 
 test('production React reader is mobile-safe with swipeable navigation and no page overflow', async ({ page }, testInfo) => {
