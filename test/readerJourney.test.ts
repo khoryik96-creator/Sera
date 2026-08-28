@@ -1,6 +1,6 @@
 // @vitest-environment jsdom
 import { beforeEach, describe, expect, it } from 'vitest';
-import { clearReadingJourney, getReadingJourney, JOURNEY_KEY, recordReadingJourney } from '../src/readerJourney';
+import { clearReadingJourney, getReadingJourney, JOURNEY_KEY, recordReadingJourney, validReadingJourney } from '../src/readerJourney';
 
 beforeEach(() => localStorage.clear());
 
@@ -34,6 +34,16 @@ describe('reading journey', () => {
     ]);
     expect(migrated.visits).toHaveLength(1);
     expect(JSON.parse(localStorage.getItem(JOURNEY_KEY) || '{}').visits[0].id).toBe('ep-s2-e2');
+  });
+
+  it('rejects imported journey payloads above the 500-visit bound', () => {
+    const visits = Array.from({ length: 501 }, (_, index) => ({
+      id: 'ep-s1-e1',
+      season: 1,
+      title: 'Opening',
+      openedAt: index + 1,
+    }));
+    expect(validReadingJourney({ visits, seasonCompletions: [] })).toBe(false);
   });
 
   it('clears the private journey state', () => {
