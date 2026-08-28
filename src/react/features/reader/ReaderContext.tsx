@@ -7,6 +7,17 @@ import { clearReadingHistory, createReaderBackup, getReadingHistory, parseReader
 import type { ReadingHistoryEntry } from '../../../readerLibrary';
 import { deleteEpisodeNote, getEpisodeNotes, saveEpisodeNote } from '../../../readerNotes';
 import type { EpisodeNote } from '../../../readerNotes';
+import {
+  createReaderCollection as addReaderCollection,
+  deleteReaderCollection as removeReaderCollection,
+  getReaderOrganization,
+  renameReaderCollection as editReaderCollection,
+  saveReaderOrganization,
+  setReaderItemTags as updateReaderItemTags,
+  toggleReaderCollectionItem as flipReaderCollectionItem,
+  toggleReaderFavorite as flipReaderFavorite,
+} from '../../../readerOrganization';
+import type { ReaderOrganizationState } from '../../../readerOrganization';
 import { deletePassage as deleteSavedPassage, getSavedPassages, savePassage as persistPassage } from '../../../readerPassages';
 import type { SavedPassage } from '../../../readerPassages';
 import { getChapterPositions } from '../../../readerPositions';
@@ -29,12 +40,19 @@ interface ReaderContextValue extends ReaderPreferences {
   history: ReadingHistoryEntry[];
   notes: EpisodeNote[];
   passages: SavedPassage[];
+  organization: ReaderOrganizationState;
   markRead(bookmark: Bookmark): void;
   toggleSaved(bookmark: Bookmark): void;
   saveNote(note: Omit<EpisodeNote, 'updatedAt'>): void;
   deleteNote(id: string): void;
   savePassage(passage: Omit<SavedPassage, 'key' | 'createdAt'>): void;
   deletePassage(key: string): void;
+  createCollection(name: string): void;
+  renameCollection(id: string, name: string): void;
+  deleteCollection(id: string): void;
+  toggleFavorite(key: string): void;
+  toggleCollectionItem(key: string, collectionId: string): void;
+  setItemTags(key: string, tags: string[]): void;
   changeScale(delta: number): void;
   cycleFont(): void;
   cycleSpacing(): void;
@@ -111,6 +129,7 @@ export function ReaderProvider({ children }: { children?: ReactNode }) {
   const [history, setHistory] = useState<ReadingHistoryEntry[]>(() => getReadingHistory());
   const [notes, setNotes] = useState<EpisodeNote[]>(() => getEpisodeNotes());
   const [passages, setPassages] = useState<SavedPassage[]>(() => getSavedPassages());
+  const [organization, setOrganization] = useState<ReaderOrganizationState>(() => getReaderOrganization());
   const [preferences, setPreferences] = useState<ReaderPreferences>(loadPreferences);
 
   useEffect(() => {
@@ -149,6 +168,34 @@ export function ReaderProvider({ children }: { children?: ReactNode }) {
     setPassages(deleteSavedPassage(key));
   }
 
+  function updateOrganization(update: (state: ReaderOrganizationState) => ReaderOrganizationState): void {
+    setOrganization((state) => saveReaderOrganization(update(state)));
+  }
+
+  function createCollection(name: string): void {
+    updateOrganization((state) => addReaderCollection(state, name));
+  }
+
+  function renameCollection(id: string, name: string): void {
+    updateOrganization((state) => editReaderCollection(state, id, name));
+  }
+
+  function deleteCollection(id: string): void {
+    updateOrganization((state) => removeReaderCollection(state, id));
+  }
+
+  function toggleFavorite(key: string): void {
+    updateOrganization((state) => flipReaderFavorite(state, key));
+  }
+
+  function toggleCollectionItem(key: string, collectionId: string): void {
+    updateOrganization((state) => flipReaderCollectionItem(state, key, collectionId));
+  }
+
+  function setItemTags(key: string, tags: string[]): void {
+    updateOrganization((state) => updateReaderItemTags(state, key, tags));
+  }
+
   function changeScale(delta: number): void {
     setPreferences((value) => ({ ...value, scale: clampScale(value.scale + delta) }));
   }
@@ -170,7 +217,7 @@ export function ReaderProvider({ children }: { children?: ReactNode }) {
   }
 
   function exportBackup(): string {
-    return JSON.stringify(createReaderBackup({ bookmarks, lastRead, readEpisodes, history, notes, passages, positions: getChapterPositions(), preferences }), null, 2);
+    return JSON.stringify(createReaderBackup({ bookmarks, lastRead, readEpisodes, history, notes, passages, positions: getChapterPositions(), organization, preferences }), null, 2);
   }
 
   function restoreBackup(raw: string): void {
@@ -182,6 +229,7 @@ export function ReaderProvider({ children }: { children?: ReactNode }) {
     setHistory(backup.history);
     setNotes(backup.notes);
     setPassages(backup.passages);
+    setOrganization(backup.organization);
     setPreferences(backup.preferences);
   }
 
@@ -197,6 +245,7 @@ export function ReaderProvider({ children }: { children?: ReactNode }) {
     history,
     notes,
     passages,
+    organization,
     ...preferences,
     markRead,
     toggleSaved,
@@ -204,6 +253,12 @@ export function ReaderProvider({ children }: { children?: ReactNode }) {
     deleteNote,
     savePassage,
     deletePassage,
+    createCollection,
+    renameCollection,
+    deleteCollection,
+    toggleFavorite,
+    toggleCollectionItem,
+    setItemTags,
     changeScale,
     cycleFont,
     cycleSpacing,
