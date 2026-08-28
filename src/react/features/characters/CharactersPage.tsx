@@ -34,7 +34,7 @@ export function CharactersPage({ selectedKey, onOpenCharacter }: CharactersPageP
       <PageHeader eyebrow="Character archive" title="Characters" description="The current cast, historical rank states, portrait galleries, relationships, and legends." />
       <div className="character-workspace">
         <aside className="character-browser">
-          <input className="filter-input" value={filter} onChange={(event: any) => setFilter(event.target.value)} placeholder="Filter characters…" aria-label="Filter characters" />
+          <input className="filter-input" value={filter} onChange={(event: { target: HTMLInputElement }) => setFilter(event.target.value)} placeholder="Filter characters…" aria-label="Filter characters" />
           <div className="character-browser__list">
             {visible.map(([key, item]) => {
               const rank = rankForStory(item.name);
