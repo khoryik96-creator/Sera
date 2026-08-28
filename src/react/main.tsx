@@ -10,13 +10,22 @@ import './styles/pwa.css';
 import './styles/visual-polish.css';
 import './styles/performance.css';
 
+async function preloadInitialRoute(): Promise<void> {
+  const raw = decodeURIComponent(window.location.hash.replace(/^#\/?/, '')).trim();
+  if (raw.startsWith('chapter/') || raw.startsWith('episodes/')) {
+    await import('./routes/ReaderRoute');
+    return;
+  }
+  if (raw === 'chapters' || raw === 'episodes') await import('./routes/ChaptersRoute');
+}
+
 async function boot(): Promise<void> {
   const root = document.getElementById('react-root');
   if (!root) throw new Error('Reader root is missing');
 
   root.innerHTML = '<div class="app-boot">Loading The Quiet Regular…</div>';
   try {
-    await loadDB();
+    await Promise.all([loadDB(), preloadInitialRoute()]);
     createRoot(root).render(<ReaderProvider><App /></ReaderProvider>);
     initPwa();
   } catch (error) {
