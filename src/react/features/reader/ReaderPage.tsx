@@ -1,10 +1,15 @@
 import { useEffect, useState } from 'react';
-import type { CSSProperties } from 'react';
+import type { CSSProperties, MouseEvent as ReactMouseEvent } from 'react';
+import { characterRegistry } from '../../../characterRegistry';
+import { DB } from '../../../db';
 import { EPISODE_ARCS } from '../../../episodeMeta';
 import { loadSeason } from '../../../seasonStore';
 import { renderNovel } from '../../../novel';
 import { nextUnreadTarget, progressForSeason } from '../../../readingProgress';
 import type { Episode } from '../../../types';
+import { RankBadge } from '../../components/Shared';
+import { cleanCharacterName, rankLabel, rankStatus } from '../../shared/rankState';
+import '../../styles/contextual-lore.css';
 import { useReaderState } from './ReaderContext';
 import type { ReaderFont, ReaderSpacing, ReaderWidth } from './ReaderContext';
 
@@ -13,6 +18,7 @@ interface ReaderPageProps {
   episode: number;
   onBack(): void;
   onOpenChapter(season: number, episode: number): void;
+  onOpenCharacter(key: string): void;
 }
 
 const FONT_STACKS: Record<ReaderFont, string> = {
@@ -33,7 +39,7 @@ type ReaderSurfaceStyle = CSSProperties & {
   '--reader-font-family': string;
 };
 
-export function ReaderPage({ season, episode, onBack, onOpenChapter }: ReaderPageProps) {
+export function ReaderPage({ season, episode, onBack, onOpenChapter, onOpenCharacter }: ReaderPageProps) {
   const {
     bookmarks,
     readEpisodes,
@@ -52,11 +58,13 @@ export function ReaderPage({ season, episode, onBack, onOpenChapter }: ReaderPag
   const [episodes, setEpisodes] = useState<Episode[]>([]);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState('');
+  const [loreKey, setLoreKey] = useState<string | null>(null);
 
   useEffect(() => {
     let alive = true;
     setLoading(true);
     setError('');
+    setLoreKey(null);
     loadSeason(season).then((rows) => {
       if (!alive) return;
       setEpisodes(rows);
@@ -80,6 +88,11 @@ export function ReaderPage({ season, episode, onBack, onOpenChapter }: ReaderPag
   const nextUnread = nextUnreadTarget(readEpisodes, { season, episode });
   const previousTitle = episode > 1 ? episodes[episode - 2]?.title : season > 1 ? `Final episode of Season ${season - 1}` : 'Beginning';
   const nextTitle = episode < episodes.length ? episodes[episode]?.title : season < 64 ? `Season ${season + 1} · Episode 1` : 'The End';
+  const loreEntry = loreKey ? characterRegistry.find((entry) => entry.key === loreKey) : undefined;
+  const loreProfile = loreKey ? DB.characters[loreKey] : undefined;
+  const loreName = loreProfile ? cleanCharacterName(loreProfile.name) : loreEntry?.displayName || '';
+  const loreRank = loreName ? rankLabel(loreName, season) : '';
+  const loreStatus = loreName ? rankStatus(loreName, season) : 'current';
 
   async function goPrevious(): Promise<void> {
     if (episode > 1) { onOpenChapter(season, episode - 1); return; }
@@ -91,6 +104,14 @@ export function ReaderPage({ season, episode, onBack, onOpenChapter }: ReaderPag
   function goNext(): void {
     if (episode < episodes.length) { onOpenChapter(season, episode + 1); return; }
     if (season < 64) onOpenChapter(season + 1, 1);
+  }
+
+  function handleProseClick(event: ReactMouseEvent<HTMLElement>): void {
+    const target = event.target as HTMLElement;
+    const reference = target.closest<HTMLElement>('[data-character-key]');
+    const key = reference?.dataset.characterKey;
+    if (!key) return;
+    setLoreKey((currentKey) => currentKey === key ? null : key);
   }
 
   const surfaceStyle: ReaderSurfaceStyle = {
@@ -147,8 +168,22 @@ export function ReaderPage({ season, episode, onBack, onOpenChapter }: ReaderPag
             <button className="reader-controls__reset" onClick={resetPreferences} type="button">Reset</button>
           </div>
 
-          <article className="reader-surface" style={surfaceStyle}>
-            <div className="reader-prose" dangerouslySetInnerHTML={{ __html: renderNovel(current.text, season) }} />
+          {loreEntry ? (
+            <aside className="reader-lore-context" aria-label={`Lore reference for ${loreName}`}>
+              <div className="reader-lore-context__copy">
+                <span>Character reference</span>
+                <div><strong className={`character-${loreEntry.colorKey}`}>{loreName}</strong>{loreRank ? <RankBadge rank={loreRank} status={loreStatus} /> : null}</div>
+                <p>{loreProfile?.subtitle || 'Referenced in this chapter. A full profile is not currently part of the main character archive.'}</p>
+              </div>
+              <div className="reader-lore-context__actions">
+                {loreProfile ? <button onClick={() => onOpenCharacter(loreEntry.key)} type="button">Open profile →</button> : null}
+                <button className="reader-lore-context__close" onClick={() => setLoreKey(null)} type="button">Close</button>
+              </div>
+            </aside>
+          ) : null}
+
+          <article className="reader-surface" onClick={handleProseClick} style={surfaceStyle}>
+            <div className="reader-prose" dangerouslySetInnerHTML={{ __html: renderNovel(current.text, season, { interactiveNames: true }) }} />
           </article>
 
           <nav className="reader-nav reader-nav--v3" aria-label="Episode navigation">
