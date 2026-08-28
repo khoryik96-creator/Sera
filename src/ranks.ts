@@ -24,8 +24,9 @@ export function rankColorKey(name: string): string {
 }
 
 export function rankBadgeTone(entry: RankEntry): 'current' | 'former' | 'unranked' {
-  if (entry.name.trim() === 'Rhen' || /unranked/i.test(entry.rank)) return 'unranked';
-  if (/former|retired/i.test(`${entry.rank} ${entry.className} ${entry.description}`)) return 'former';
+  if (entry.name.trim() === 'Rhen' || /unranked/i.test(`${entry.rank} ${entry.className}`)) return 'unranked';
+  if (/^(former\s+)?#\d+/i.test(entry.name) && /^former\s+/i.test(entry.name)) return 'former';
+  if (/former|retired|deceased/i.test(`${entry.rank} ${entry.className}`)) return 'former';
   return 'current';
 }
 
