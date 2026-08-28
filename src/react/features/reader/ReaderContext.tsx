@@ -3,6 +3,8 @@ import { createContext, useContext, useEffect, useState } from 'react';
 import { getBookmarks, getLastRead, setLastRead, toggleBookmark } from '../../../bookmarks';
 import type { Bookmark } from '../../../bookmarks';
 import { getReadEpisodeIds, markEpisodeRead } from '../../../readingProgress';
+import { clearReadingHistory, createReaderBackup, getReadingHistory, parseReaderBackup, persistReaderBackup, recordReadingHistory } from '../../../readerLibrary';
+import type { ReadingHistoryEntry } from '../../../readerLibrary';
 
 export type ReaderFont = 'serif' | 'book' | 'sans';
 export type ReaderSpacing = 'compact' | 'comfortable' | 'relaxed';
@@ -19,6 +21,7 @@ interface ReaderContextValue extends ReaderPreferences {
   bookmarks: Bookmark[];
   lastRead: Bookmark | null;
   readEpisodes: string[];
+  history: ReadingHistoryEntry[];
   markRead(bookmark: Bookmark): void;
   toggleSaved(bookmark: Bookmark): void;
   changeScale(delta: number): void;
@@ -26,6 +29,9 @@ interface ReaderContextValue extends ReaderPreferences {
   cycleSpacing(): void;
   cycleWidth(): void;
   resetPreferences(): void;
+  exportBackup(): string;
+  restoreBackup(raw: string): void;
+  clearHistory(): void;
 }
 
 const DEFAULT_PREFERENCES: ReaderPreferences = {
@@ -91,6 +97,7 @@ export function ReaderProvider({ children }: { children?: ReactNode }) {
   const [bookmarks, setBookmarks] = useState<Bookmark[]>(() => getBookmarks());
   const [lastRead, setLastReadState] = useState<Bookmark | null>(() => getLastRead());
   const [readEpisodes, setReadEpisodes] = useState<string[]>(() => getReadEpisodeIds());
+  const [history, setHistory] = useState<ReadingHistoryEntry[]>(() => getReadingHistory());
   const [preferences, setPreferences] = useState<ReaderPreferences>(loadPreferences);
 
   useEffect(() => {
@@ -105,6 +112,7 @@ export function ReaderProvider({ children }: { children?: ReactNode }) {
     setLastRead(bookmark);
     setLastReadState(bookmark);
     setReadEpisodes(markEpisodeRead(bookmark.id));
+    setHistory(recordReadingHistory(bookmark));
   }
 
   function toggleSaved(bookmark: Bookmark): void {
@@ -132,10 +140,30 @@ export function ReaderProvider({ children }: { children?: ReactNode }) {
     setPreferences({ ...DEFAULT_PREFERENCES });
   }
 
+  function exportBackup(): string {
+    return JSON.stringify(createReaderBackup({ bookmarks, lastRead, readEpisodes, history, preferences }), null, 2);
+  }
+
+  function restoreBackup(raw: string): void {
+    const backup = parseReaderBackup(raw);
+    persistReaderBackup(backup);
+    setBookmarks(backup.bookmarks);
+    setLastReadState(backup.lastRead);
+    setReadEpisodes(backup.readEpisodes);
+    setHistory(backup.history);
+    setPreferences(backup.preferences);
+  }
+
+  function clearHistory(): void {
+    clearReadingHistory();
+    setHistory([]);
+  }
+
   const value: ReaderContextValue = {
     bookmarks,
     lastRead,
     readEpisodes,
+    history,
     ...preferences,
     markRead,
     toggleSaved,
@@ -144,6 +172,9 @@ export function ReaderProvider({ children }: { children?: ReactNode }) {
     cycleSpacing,
     cycleWidth,
     resetPreferences,
+    exportBackup,
+    restoreBackup,
+    clearHistory,
   };
 
   return <ReaderContext.Provider value={value}>{children}</ReaderContext.Provider>;
