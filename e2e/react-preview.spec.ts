@@ -19,7 +19,7 @@ test('legacy production hashes remain valid in the React reader', async ({ page 
     ['others', /Other Characters & Villains/],
     ['skills', /Arts & Techniques/],
     ['sera-timeline', /Sera Timeline/],
-    ['episodes', /Episodes/],
+    ['episodes', /Read The Quiet Regular/],
   ] as const;
 
   for (const [hash, heading] of aliases) {
