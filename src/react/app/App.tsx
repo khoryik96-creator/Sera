@@ -215,7 +215,7 @@ export function App() {
       <div className="main-column">
         <header className="topbar">
           <button className="mobile-brand" onClick={() => openSection('overview')} type="button"><div className="brand__mark">QR</div><strong>The Quiet Regular</strong></button>
-          <label className="search-box" aria-expanded={searchOpen}>
+          <label className={`search-box ${searchOpen ? 'is-open' : ''}`}>
             <span aria-hidden="true">⌕</span>
             <input
               ref={searchInputRef}
