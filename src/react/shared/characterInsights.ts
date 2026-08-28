@@ -48,10 +48,12 @@ function registryEntry(key: string, displayName: string) {
 }
 
 function distinctiveSubtitle(key: string): string {
-  const subtitle = DB.characters[key]?.subtitle?.replace(/^The\s+/i, '').trim() || '';
-  if (!subtitle || /#\d|world\s+#?\d|rank/i.test(subtitle)) return '';
-  if (subtitle.split(/\s+/).length > 5) return '';
-  return subtitle;
+  const subtitle = DB.characters[key]?.subtitle || '';
+  const segment = subtitle
+    .split('·')
+    .map((part) => part.replace(/^The\s+/i, '').trim())
+    .find((part) => part.length >= 4 && part.split(/\s+/).length <= 5 && !/#\d|world\s+#?\d|rank|unranked|retired|age\s+\d|beyond\s+/i.test(part));
+  return segment || '';
 }
 
 export function characterAliases(key: string, displayName: string): string[] {
