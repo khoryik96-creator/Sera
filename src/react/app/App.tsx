@@ -4,16 +4,32 @@ import { navigationItems } from './navigation';
 import type { PreviewSection } from './navigation';
 import { OverviewPage } from '../features/overview/OverviewPage';
 import { CharactersPage } from '../features/characters/CharactersPage';
+import { VillainsPage } from '../features/villains/VillainsPage';
+import { TechniquesPage } from '../features/techniques/TechniquesPage';
 import { ChaptersPage } from '../features/chapters/ChaptersPage';
 import { ReaderPage } from '../features/reader/ReaderPage';
 import { RankingsPage } from '../features/rankings/RankingsPage';
 import { BookmarksPage } from '../features/bookmarks/BookmarksPage';
+import { LegendsPage } from '../features/legends/LegendsPage';
+import { FormerPage } from '../features/former/FormerPage';
+import { TimelinePage } from '../features/timeline/TimelinePage';
+import { CanonPage } from '../features/canon/CanonPage';
 import { useReaderState } from '../features/reader/ReaderContext';
+import { cleanCharacterName } from '../shared/rankState';
 
 interface RouteState {
   section: PreviewSection;
   characterKey: string | null;
   chapter: { season: number; episode: number } | null;
+}
+
+interface SearchResult {
+  id: string;
+  label: string;
+  meta: string;
+  kind: string;
+  section?: PreviewSection;
+  characterKey?: string;
 }
 
 const sectionIds = new Set<PreviewSection>(navigationItems.map((item) => item.id));
@@ -74,6 +90,8 @@ export function App() {
     const next = `#${hash}`;
     if (window.location.hash === next) {
       setRoute(readRoute());
+      setSearchOpen(false);
+      setSearchQuery('');
       window.scrollTo({ top: 0, behavior: 'smooth' });
       return;
     }
@@ -84,19 +102,36 @@ export function App() {
   function openCharacter(key: string): void { navigate(`characters/${key}`); }
   function openChapter(season: number, episode: number): void { navigate(`chapter/${season}/${episode}`); }
 
-  const results = useMemo(() => {
+  const results = useMemo<SearchResult[]>(() => {
     const q = searchQuery.trim().toLowerCase();
     if (!q) return [];
-    const characters = Object.entries(DB.characters)
+    const characters: SearchResult[] = Object.entries(DB.characters)
       .filter(([, item]) => `${item.name} ${item.subtitle} ${(item.tags || []).join(' ')}`.toLowerCase().includes(q))
-      .slice(0, 8)
-      .map(([key, item]) => ({ id: `character-${key}`, label: item.name, meta: item.subtitle, kind: 'Character', action: () => openCharacter(key) }));
-    const ranks = DB.ranks
-      .filter((item) => `${item.rank} ${item.name} ${item.className}`.toLowerCase().includes(q))
       .slice(0, 6)
-      .map((item) => ({ id: `rank-${item.rank}-${item.name}`, label: item.name, meta: `${item.rank} · ${item.className}`, kind: 'Ranking', action: () => openSection('rankings') }));
-    return [...characters, ...ranks].slice(0, 12);
+      .map(([key, item]) => ({ id: `character-${key}`, label: cleanCharacterName(item.name), meta: item.subtitle, kind: 'Character', characterKey: key }));
+    const ranks: SearchResult[] = DB.ranks
+      .filter((item) => `${item.rank} ${item.name} ${item.className}`.toLowerCase().includes(q))
+      .slice(0, 4)
+      .map((item) => ({ id: `rank-${item.rank}-${item.name}`, label: item.name, meta: `${item.rank} · ${item.className}`, kind: 'Ranking', section: 'rankings' }));
+    const arts: SearchResult[] = [...DB.rhenSkills, ...DB.seraSkills]
+      .filter((item) => JSON.stringify(item).toLowerCase().includes(q))
+      .slice(0, 4)
+      .map((item) => ({ id: `art-${item.name}`, label: item.name, meta: `${item.tier || 'Technique'} · ${item.category}`, kind: 'Technique', section: 'techniques' }));
+    const legends: SearchResult[] = DB.legends
+      .filter((item) => JSON.stringify(item).toLowerCase().includes(q))
+      .slice(0, 3)
+      .map((item) => ({ id: `legend-${item.title}`, label: item.title, meta: item.kind, kind: 'Legend', section: 'legends' }));
+    const canon: SearchResult[] = (DB.canonRules || [])
+      .filter((item) => JSON.stringify(item).toLowerCase().includes(q))
+      .slice(0, 3)
+      .map((item) => ({ id: `canon-${item.title}`, label: item.title, meta: 'Canon rule', kind: 'Canon', section: 'canon' }));
+    return [...characters, ...ranks, ...arts, ...legends, ...canon].slice(0, 14);
   }, [searchQuery]);
+
+  function openSearchResult(result: SearchResult): void {
+    if (result.characterKey) openCharacter(result.characterKey);
+    else if (result.section) openSection(result.section);
+  }
 
   let page: unknown;
   if (route.chapter) {
@@ -104,9 +139,15 @@ export function App() {
   } else {
     switch (route.section) {
       case 'characters': page = <CharactersPage selectedKey={route.characterKey} onOpenCharacter={openCharacter} />; break;
+      case 'villains': page = <VillainsPage />; break;
+      case 'techniques': page = <TechniquesPage />; break;
       case 'chapters': page = <ChaptersPage onOpenChapter={openChapter} />; break;
       case 'bookmarks': page = <BookmarksPage onOpenChapter={openChapter} />; break;
       case 'rankings': page = <RankingsPage />; break;
+      case 'legends': page = <LegendsPage />; break;
+      case 'former': page = <FormerPage />; break;
+      case 'timeline': page = <TimelinePage />; break;
+      case 'canon': page = <CanonPage />; break;
       case 'overview':
       default: page = <OverviewPage onOpenSection={openSection} onOpenChapter={openChapter} />; break;
     }
@@ -130,7 +171,7 @@ export function App() {
       <div className="main-column">
         <header className="topbar">
           <button className="mobile-brand" onClick={() => openSection('overview')} type="button"><div className="brand__mark">QR</div><strong>The Quiet Regular</strong></button>
-          <label className="search-box"><span aria-hidden="true">⌕</span><input value={searchQuery} onChange={(event: { target: HTMLInputElement }) => { setSearchQuery(event.target.value); setSearchOpen(true); }} onFocus={() => setSearchOpen(true)} placeholder="Search characters or ranks…" /><kbd>⌘K</kbd></label>
+          <label className="search-box"><span aria-hidden="true">⌕</span><input value={searchQuery} onChange={(event: { target: HTMLInputElement }) => { setSearchQuery(event.target.value); setSearchOpen(true); }} onFocus={() => setSearchOpen(true)} placeholder="Search the repository…" /><kbd>⌘K</kbd></label>
           {lastRead ? <button className="topbar__continue" onClick={() => openChapter(lastRead.season, episodeNumber(lastRead.id))} type="button">Continue S{lastRead.season} E{episodeNumber(lastRead.id)}</button> : null}
           <span className="topbar__meta">64 seasons · 633 episodes</span>
         </header>
@@ -143,8 +184,8 @@ export function App() {
           {searchOpen ? (
             <section>
               <div className="search-page-heading"><div><p className="eyebrow">Global index</p><h2>Search</h2></div><button className="text-button" onClick={() => { setSearchOpen(false); setSearchQuery(''); }} type="button">Close</button></div>
-              {!searchQuery.trim() ? <div className="empty-state"><div><strong>Search the repository</strong><p>Characters, aliases, titles, and current ranking records are indexed here.</p></div></div> : (
-                <div className="search-results">{results.length ? results.map((result) => <button className="search-result" key={result.id} onClick={result.action} type="button"><span><small>{result.kind}</small><strong>{result.label}</strong></span><p>{result.meta}</p><span>→</span></button>) : <div className="empty-state"><div><strong>No matches</strong><p>Try a character name, title, rank, or alias.</p></div></div>}</div>
+              {!searchQuery.trim() ? <div className="empty-state"><div><strong>Search the repository</strong><p>Characters, ranks, techniques, legends, and canon rules are indexed here.</p></div></div> : (
+                <div className="search-results">{results.length ? results.map((result) => <button className="search-result" key={result.id} onClick={() => openSearchResult(result)} type="button"><span><small>{result.kind}</small><strong>{result.label}</strong></span><p>{result.meta}</p><span>→</span></button>) : <div className="empty-state"><div><strong>No matches</strong><p>Try a character, title, technique, rank, legend, or canon phrase.</p></div></div>}</div>
               )}
             </section>
           ) : page}
