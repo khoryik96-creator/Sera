@@ -1,4 +1,4 @@
-export type AppSection = 'overview' | 'characters' | 'villains' | 'techniques' | 'chapters' | 'bookmarks' | 'rankings' | 'legends' | 'former' | 'timeline' | 'canon';
+export type AppSection = 'overview' | 'characters' | 'villains' | 'techniques' | 'chapters' | 'bookmarks' | 'insights' | 'rankings' | 'legends' | 'former' | 'timeline' | 'canon';
 
 export interface NavItem {
   id: AppSection;
@@ -12,7 +12,8 @@ export const navigationItems: NavItem[] = [
   { id: 'villains', label: 'Other Characters / Villains', shortLabel: 'Others' },
   { id: 'techniques', label: 'Arts & Techniques', shortLabel: 'Arts' },
   { id: 'chapters', label: 'Episodes', shortLabel: 'Read' },
-  { id: 'bookmarks', label: 'Bookmarks', shortLabel: 'Saved' },
+  { id: 'bookmarks', label: 'Reader Library', shortLabel: 'Library' },
+  { id: 'insights', label: 'Reading Insights', shortLabel: 'Stats' },
   { id: 'rankings', label: 'Rankings', shortLabel: 'Ranks' },
   { id: 'legends', label: 'Legends', shortLabel: 'Legends' },
   { id: 'former', label: 'Former Rank Holders', shortLabel: 'Former' },
