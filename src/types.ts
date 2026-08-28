@@ -1,6 +1,6 @@
 // Type definitions for The Quiet Regular lore repository data model.
-// The data lives in src/data.json; these interfaces document its shape and
-// give the render code compile-time checking over DB access.
+// The persisted lore still lives in src/data.json. Legacy positional rows are
+// normalized once in db.ts so render modules work with named, typed fields.
 
 export interface Character {
   name: string;
@@ -76,14 +76,33 @@ export interface Episode {
   text: string;
 }
 
-/** Signature-art row: [name, category, signature, rating, description]. */
-export type TopSkillRow = string[];
-/** Ranking row: [rank, name, class, description]. */
-export type RankRow = string[];
-/** Season cast row: [name, role, description]. */
-export type SeasonCastRow = string[];
+export interface TopSkillEntry {
+  name: string;
+  category: string;
+  signature: string;
+  rating: string;
+  description: string;
+}
 
-export interface Database {
+export interface RankEntry {
+  rank: string;
+  name: string;
+  className: string;
+  description: string;
+}
+
+export interface SeasonCastEntry {
+  name: string;
+  role: string;
+  description: string;
+}
+
+/** Persisted JSON compatibility rows. They are converted in normalizeDatabase(). */
+export type LegacyTopSkillRow = [string, string, string, string, string];
+export type LegacyRankRow = [string, string, string, string];
+export type LegacySeasonCastRow = [string, string, string];
+
+interface DatabaseCore {
   characters: Record<string, Character>;
   legends: Legend[];
   arcFigures: ArcFigure[];
@@ -91,9 +110,20 @@ export interface Database {
   seraTimeline: SeraTimelineEntry[];
   rhenSkills: Skill[];
   seraSkills: Skill[];
-  topSkills: Record<string, TopSkillRow[]>;
-  ranks: RankRow[];
-  seasonCast: Record<string, SeasonCastRow[]>;
   canonRules?: unknown[];
   [season: `season${number}`]: Episode[];
+}
+
+/** Runtime shape consumed by render code. */
+export interface Database extends DatabaseCore {
+  topSkills: Record<string, TopSkillEntry[]>;
+  ranks: RankEntry[];
+  seasonCast: Record<string, SeasonCastEntry[]>;
+}
+
+/** On-disk shape of data.json during the compatibility migration. */
+export interface RawDatabase extends DatabaseCore {
+  topSkills: Record<string, LegacyTopSkillRow[]>;
+  ranks: LegacyRankRow[];
+  seasonCast: Record<string, LegacySeasonCastRow[]>;
 }
