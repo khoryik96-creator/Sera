@@ -9,6 +9,7 @@ import '../../styles/library.css';
 import '../../styles/notes.css';
 import '../../styles/passages.css';
 import { useReaderState } from '../reader/ReaderContext';
+import { ReadingJourneyPanel } from './ReadingJourneyPanel';
 
 interface BookmarksPageProps {
   onOpenChapter(season: number, episode: number): void;
@@ -48,6 +49,7 @@ export function BookmarksPage({ onOpenChapter }: BookmarksPageProps) {
     lastRead,
     readEpisodes,
     history,
+    journey,
     notes,
     deleteNote,
     passages,
@@ -166,7 +168,7 @@ export function BookmarksPage({ onOpenChapter }: BookmarksPageProps) {
 
   return (
     <section className="reader-library">
-      <PageHeader eyebrow="Your reader" title="Reader Library" description="Bookmarks, recent reading, private notes, saved passages, collections, tags, favorites, exact chapter positions, progress, and a portable backup of your local reader state—all kept on your device unless you export it yourself." />
+      <PageHeader eyebrow="Your reader" title="Reader Library" description="Bookmarks, reading journey, private notes, saved passages, collections, tags, favorites, exact chapter positions, progress, and a portable backup of your local reader state—all kept on your device unless you export it yourself." />
 
       <div className="library-summary" aria-label="Reader library summary">
         <button className="library-summary__continue" disabled={!lastRead} onClick={() => lastRead && onOpenChapter(lastRead.season, lastEpisode)} type="button">
@@ -177,14 +179,14 @@ export function BookmarksPage({ onOpenChapter }: BookmarksPageProps) {
         </button>
         <article><span>Story progress</span><strong>{overall.percent}%</strong><small>{overall.read} / {overall.total} episodes opened</small></article>
         <article><span>Completed seasons</span><strong>{completedSeasons}</strong><small>of 64 seasons</small></article>
-        <article><span>Saved / recent</span><strong>{bookmarks.length} / {history.length}</strong><small>bookmarks · recent episodes</small></article>
+        <article><span>Saved / journey</span><strong>{bookmarks.length} / {journey.visits.length}</strong><small>bookmarks · visits tracked</small></article>
       </div>
 
       {nextUnread ? <button className="library-next-unread" onClick={() => onOpenChapter(nextUnread.season, nextUnread.episode)} type="button"><span>Next unread</span><strong>S{nextUnread.season} · E{nextUnread.episode}</strong><small>Continue beyond your current reading position.</small><b>Read →</b></button> : null}
 
       <div className="library-tabs" role="tablist" aria-label="Reader library sections">
         <button aria-selected={tab === 'saved'} className={tab === 'saved' ? 'is-active' : ''} onClick={() => setTab('saved')} role="tab" type="button">Saved <span>{bookmarks.length}</span></button>
-        <button aria-selected={tab === 'history'} className={tab === 'history' ? 'is-active' : ''} onClick={() => setTab('history')} role="tab" type="button">Recently Read <span>{history.length}</span></button>
+        <button aria-selected={tab === 'history'} className={tab === 'history' ? 'is-active' : ''} onClick={() => setTab('history')} role="tab" type="button">Journey <span>{journey.visits.length || history.length}</span></button>
         <button aria-selected={tab === 'notes'} className={tab === 'notes' ? 'is-active' : ''} onClick={() => setTab('notes')} role="tab" type="button">Notes <span>{notes.length}</span></button>
         <button aria-selected={tab === 'passages'} className={tab === 'passages' ? 'is-active' : ''} onClick={() => setTab('passages')} role="tab" type="button">Passages <span>{passages.length}</span></button>
         <button aria-selected={tab === 'organize'} className={tab === 'organize' ? 'is-active' : ''} onClick={() => setTab('organize')} role="tab" type="button">Organize <span>{organizedItems.length}</span></button>
@@ -209,19 +211,7 @@ export function BookmarksPage({ onOpenChapter }: BookmarksPageProps) {
         </div>
       ) : null}
 
-      {tab === 'history' ? (
-        <div className="library-history-panel" role="tabpanel">
-          <div className="library-panel-heading"><div><p className="eyebrow">Device history</p><h3>Recently opened episodes</h3></div>{history.length ? <button onClick={clearHistory} type="button">Clear history</button> : null}</div>
-          {history.length === 0 ? <EmptyState title="No recent reading yet" text="Episodes you open from this version onward will appear here, newest first." /> : (
-            <div className="library-history-list">
-              {history.map((entry) => {
-                const episode = episodeNumber(entry.id);
-                return <button key={`${entry.id}-${entry.openedAt}`} onClick={() => onOpenChapter(entry.season, episode)} type="button"><span><small>S{entry.season} · E{episode}</small><strong>{entry.title}</strong></span><time dateTime={new Date(entry.openedAt).toISOString()}>{new Date(entry.openedAt).toLocaleString()}</time><b>→</b></button>;
-              })}
-            </div>
-          )}
-        </div>
-      ) : null}
+      {tab === 'history' ? <ReadingJourneyPanel journey={journey} recent={history} onClear={clearHistory} onOpenChapter={onOpenChapter} /> : null}
 
       {tab === 'notes' ? (
         <div className="library-notes-panel" role="tabpanel">
@@ -331,8 +321,8 @@ export function BookmarksPage({ onOpenChapter }: BookmarksPageProps) {
           <article className="library-backup__card">
             <p className="eyebrow">Portable reader state</p>
             <h3>Move your reading state between devices</h3>
-            <p>The backup contains only The Quiet Regular reader data: bookmarks, Continue Reading, opened-episode progress, exact in-chapter positions, recent history, private episode notes, saved passages, Reader Library collections/tags/favorites, and your font/spacing/width preferences. It does not include account data or anything else from your browser.</p>
-            <div className="library-backup__facts"><span>{bookmarks.length} bookmarks</span><span>{overall.read} opened episodes</span><span>{positionCount} exact positions</span><span>{history.length} recent entries</span><span>{notes.length} notes</span><span>{passages.length} passages</span><span>{organization.collections.length} collections</span><span>{favoriteCount} favorites</span></div>
+            <p>The backup contains only The Quiet Regular reader data: bookmarks, Continue Reading, opened-episode progress, exact in-chapter positions, recent history, Reading Journey visits and season-completion milestones, private episode notes, saved passages, Reader Library collections/tags/favorites, and your font/spacing/width preferences. It does not include account data or anything else from your browser.</p>
+            <div className="library-backup__facts"><span>{bookmarks.length} bookmarks</span><span>{overall.read} opened episodes</span><span>{positionCount} exact positions</span><span>{journey.visits.length} journey visits</span><span>{journey.seasonCompletions.length} milestones</span><span>{notes.length} notes</span><span>{passages.length} passages</span><span>{organization.collections.length} collections</span><span>{favoriteCount} favorites</span></div>
             <div className="library-backup__actions">
               <button className="library-backup__primary" onClick={downloadBackup} type="button">Export backup</button>
               <button onClick={() => fileInputRef.current?.click()} type="button">Import backup</button>
