@@ -12,6 +12,7 @@ import './styles/overview.css';
 import './styles/visual-polish.css';
 import './styles/progress.css';
 import './styles/characters-v2.css';
+import './styles/search-v2.css';
 
 async function boot(): Promise<void> {
   const root = document.getElementById('react-root');
