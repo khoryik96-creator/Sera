@@ -20,6 +20,10 @@ function seasonRange(fromSeason: number, toSeason: number): string {
   return fromSeason === toSeason ? `Season ${fromSeason}` : `Seasons ${fromSeason}–${toSeason}`;
 }
 
+function jumpToProfileSection(id: string): void {
+  document.getElementById(id)?.scrollIntoView({ behavior: 'smooth', block: 'start' });
+}
+
 export function CharactersPage({ selectedKey, onOpenCharacter, onOpenChapter }: CharactersPageProps) {
   const entries = useMemo(() => Object.entries(DB.characters), []);
   const fallbackKey = entries[0]?.[0] || 'sera';
@@ -85,7 +89,7 @@ export function CharactersPage({ selectedKey, onOpenCharacter, onOpenChapter }: 
         </aside>
 
         <article className="character-profile character-profile--v2">
-          <div className="character-profile__hero">
+          <div className="character-profile__hero" id="characterProfileTop">
             <div className="portrait-card">
               {portraits.length ? <img src={portraits[Math.min(portraitIndex, portraits.length - 1)]} alt={`${displayName} portrait ${portraitIndex + 1}`} /> : <div className="portrait-placeholder">{displayName.slice(0, 1)}</div>}
               {portraits.length > 1 ? (
@@ -114,7 +118,16 @@ export function CharactersPage({ selectedKey, onOpenCharacter, onOpenChapter }: 
             </div>
           </div>
 
-          <section className="character-v2-section" aria-labelledby="rankJourneyHeading">
+          <nav className="character-section-nav" aria-label={`${displayName} profile sections`}>
+            <button onClick={() => jumpToProfileSection('characterProfileTop')} type="button">Profile</button>
+            <button onClick={() => jumpToProfileSection('characterRankSection')} type="button">Rank</button>
+            <button onClick={() => jumpToProfileSection('characterRelationshipsSection')} type="button">Relations</button>
+            <button onClick={() => jumpToProfileSection('characterLegendsSection')} type="button">Legends</button>
+            <button onClick={() => jumpToProfileSection('characterAppearancesSection')} type="button">Episodes</button>
+            <button onClick={() => jumpToProfileSection('characterDetailsSection')} type="button">Details</button>
+          </nav>
+
+          <section className="character-v2-section" id="characterRankSection" aria-labelledby="rankJourneyHeading">
             <div className="character-v2-heading"><div><p className="eyebrow">Rank history</p><h3 id="rankJourneyHeading">Journey through the ranking world</h3></div><span>Canonical seasonal states</span></div>
             {journey.length ? (
               <div className="rank-journey">
@@ -123,7 +136,7 @@ export function CharactersPage({ selectedKey, onOpenCharacter, onOpenChapter }: 
             ) : <div className="character-v2-empty">No numeric ranking history is recorded for this character.</div>}
           </section>
 
-          <section className="character-v2-section" aria-labelledby="relationshipsHeading">
+          <section className="character-v2-section" id="characterRelationshipsSection" aria-labelledby="relationshipsHeading">
             <div className="character-v2-heading"><div><p className="eyebrow">Relationships</p><h3 id="relationshipsHeading">Connections</h3></div><span>Derived from existing profile records</span></div>
             {relationships.length ? (
               <div className="relationship-grid">
@@ -132,7 +145,7 @@ export function CharactersPage({ selectedKey, onOpenCharacter, onOpenChapter }: 
             ) : <div className="character-v2-empty">No other main-profile relationship is explicitly linked in the current records.</div>}
           </section>
 
-          <section className="character-v2-section" aria-labelledby="legendsHeading">
+          <section className="character-v2-section" id="characterLegendsSection" aria-labelledby="legendsHeading">
             <div className="character-v2-heading"><div><p className="eyebrow">Major feats & legends</p><h3 id="legendsHeading">What the martial world remembers</h3></div><span>{legends.length ? `${legends.length} linked repository record${legends.length === 1 ? '' : 's'}` : 'Profile legend'}</span></div>
             <div className="character-legend-grid">
               <article className="character-legend-card character-legend-card--profile"><span>Profile legend</span><p>{text(character.legend)}</p></article>
@@ -140,7 +153,7 @@ export function CharactersPage({ selectedKey, onOpenCharacter, onOpenChapter }: 
             </div>
           </section>
 
-          <section className="character-v2-section" aria-labelledby="appearancesHeading">
+          <section className="character-v2-section" id="characterAppearancesSection" aria-labelledby="appearancesHeading">
             <div className="character-v2-heading"><div><p className="eyebrow">Story appearances</p><h3 id="appearancesHeading">Jump back into their chapters</h3></div><span>{appearanceSeasons.length ? `${appearanceSeasons.length} candidate seasons` : 'No cast-index seasons'}</span></div>
             {appearanceSeasons.length ? (
               <>
@@ -163,7 +176,7 @@ export function CharactersPage({ selectedKey, onOpenCharacter, onOpenChapter }: 
             ) : <div className="character-v2-empty">This profile does not yet have season-cast records that can be converted into episode links.</div>}
           </section>
 
-          <div className="profile-sections profile-sections--v2">
+          <div className="profile-sections profile-sections--v2" id="characterDetailsSection">
             <section><p className="eyebrow">Appearance</p><p>{text(character.appearance)}</p></section>
             <section><p className="eyebrow">Background</p><p>{text(character.background)}</p></section>
             <section><p className="eyebrow">Details</p><p>{text(character.details)}</p></section>
