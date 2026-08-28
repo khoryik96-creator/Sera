@@ -1,6 +1,7 @@
 import { useRef, useState } from 'react';
 import { completedSeasonCount, nextUnreadTarget, overallReadingProgress } from '../../../readingProgress';
 import { EmptyState, PageHeader } from '../../components/Shared';
+import '../../styles/library.css';
 import { useReaderState } from '../reader/ReaderContext';
 
 interface BookmarksPageProps {
