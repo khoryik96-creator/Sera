@@ -1,4 +1,4 @@
-import type { ReactNode } from 'react';
+import type { KeyboardEvent as ReactKeyboardEvent, ReactNode } from 'react';
 import { useEffect, useMemo, useRef, useState } from 'react';
 import { DB } from '../../db';
 import { navigationItems } from './navigation';
@@ -15,26 +15,13 @@ import { LegendsPage } from '../features/legends/LegendsPage';
 import { FormerPage } from '../features/former/FormerPage';
 import { TimelinePage } from '../features/timeline/TimelinePage';
 import { CanonPage } from '../features/canon/CanonPage';
+import { SearchPalette } from '../features/search/SearchPalette';
 import { useReaderState } from '../features/reader/ReaderContext';
-import { RankBadge } from '../components/Shared';
-import { cleanCharacterName, parseRankBadge, rankLabel, rankStatus, rankStatusForEntry } from '../shared/rankState';
-import type { RankStatus } from '../shared/rankState';
 
 interface RouteState {
   section: AppSection;
   characterKey: string | null;
   chapter: { season: number; episode: number } | null;
-}
-
-interface SearchResult {
-  id: string;
-  label: string;
-  meta: string;
-  kind: string;
-  rank?: string;
-  rankStatus?: RankStatus;
-  section?: AppSection;
-  characterKey?: string;
 }
 
 const sectionIds = new Set<AppSection>(navigationItems.map((item) => item.id));
@@ -74,6 +61,10 @@ function episodeNumber(id: string): number {
   return match ? Number(match[1]) : 1;
 }
 
+function firstSearchResult(): HTMLButtonElement | null {
+  return document.querySelector<HTMLButtonElement>('[data-search-result="true"]');
+}
+
 export function App() {
   const initial = useMemo(readRoute, []);
   const [route, setRoute] = useState<RouteState>(initial);
@@ -82,8 +73,14 @@ export function App() {
   const [mobileChromeHidden, setMobileChromeHidden] = useState(false);
   const { lastRead } = useReaderState();
   const mobileTabsRef = useRef<HTMLElement>(null);
+  const searchInputRef = useRef<HTMLInputElement>(null);
   const activeSection: AppSection = route.chapter ? 'chapters' : route.section;
   const reading = Boolean(route.chapter);
+
+  function closeSearch(): void {
+    setSearchOpen(false);
+    setSearchQuery('');
+  }
 
   useEffect(() => {
     function applyRoute(): void {
@@ -98,7 +95,7 @@ export function App() {
         event.preventDefault();
         setSearchOpen(true);
       }
-      if (event.key === 'Escape') setSearchOpen(false);
+      if (event.key === 'Escape') closeSearch();
     }
     window.addEventListener('hashchange', applyRoute);
     window.addEventListener('keydown', onKeyDown);
@@ -107,6 +104,11 @@ export function App() {
       window.removeEventListener('keydown', onKeyDown);
     };
   }, []);
+
+  useEffect(() => {
+    if (!searchOpen) return;
+    window.requestAnimationFrame(() => searchInputRef.current?.focus());
+  }, [searchOpen]);
 
   useEffect(() => {
     if (window.matchMedia('(min-width: 801px)').matches) return;
@@ -144,8 +146,7 @@ export function App() {
     const next = `#${hash}`;
     if (window.location.hash === next) {
       setRoute(readRoute());
-      setSearchOpen(false);
-      setSearchQuery('');
+      closeSearch();
       window.scrollTo({ top: 0, behavior: 'smooth' });
       return;
     }
@@ -156,41 +157,24 @@ export function App() {
   function openCharacter(key: string): void { navigate(`characters/${key}`); }
   function openChapter(season: number, episode: number): void { navigate(`chapter/${season}/${episode}`); }
 
-  const results = useMemo<SearchResult[]>(() => {
-    const q = searchQuery.trim().toLowerCase();
-    if (!q) return [];
-    const characters: SearchResult[] = Object.entries(DB.characters)
-      .filter(([, item]) => `${item.name} ${item.subtitle} ${(item.tags || []).join(' ')}`.toLowerCase().includes(q))
-      .slice(0, 6)
-      .map(([key, item]) => {
-        const rank = rankLabel(item.name);
-        return { id: `character-${key}`, label: cleanCharacterName(item.name), meta: item.subtitle, kind: 'Character', characterKey: key, rank: rank || undefined, rankStatus: rank ? rankStatus(item.name) : undefined };
-      });
-    const ranks: SearchResult[] = DB.ranks
-      .filter((item) => `${item.rank} ${item.name} ${item.className}`.toLowerCase().includes(q))
-      .slice(0, 4)
-      .map((item) => ({ id: `rank-${item.rank}-${item.name}`, label: item.name, meta: item.className, kind: 'Ranking', section: 'rankings', rank: item.rank, rankStatus: rankStatusForEntry(item.name, item.rank, item.className) }));
-    const arts: SearchResult[] = [...DB.rhenSkills, ...DB.seraSkills]
-      .filter((item) => JSON.stringify(item).toLowerCase().includes(q))
-      .slice(0, 4)
-      .map((item) => ({ id: `art-${item.name}`, label: item.name, meta: `${item.tier || 'Technique'} · ${item.category}`, kind: 'Technique', section: 'techniques' }));
-    const legends: SearchResult[] = DB.legends
-      .filter((item) => JSON.stringify(item).toLowerCase().includes(q))
-      .slice(0, 3)
-      .map((item) => {
-        const parsed = parseRankBadge(item.rank);
-        return { id: `legend-${item.title}`, label: item.title, meta: item.kind, kind: 'Legend', section: 'legends', rank: parsed?.rank, rankStatus: parsed?.status };
-      });
-    const canon: SearchResult[] = (DB.canonRules || [])
-      .filter((item) => JSON.stringify(item).toLowerCase().includes(q))
-      .slice(0, 3)
-      .map((item) => ({ id: `canon-${item.title}`, label: item.title, meta: 'Canon rule', kind: 'Canon', section: 'canon' }));
-    return [...characters, ...ranks, ...arts, ...legends, ...canon].slice(0, 14);
-  }, [searchQuery]);
-
-  function openSearchResult(result: SearchResult): void {
-    if (result.characterKey) openCharacter(result.characterKey);
-    else if (result.section) openSection(result.section);
+  function handleSearchInputKeyDown(event: ReactKeyboardEvent<HTMLInputElement>): void {
+    if (event.key === 'Escape') {
+      event.preventDefault();
+      closeSearch();
+      return;
+    }
+    if (event.key === 'ArrowDown') {
+      event.preventDefault();
+      firstSearchResult()?.focus();
+      return;
+    }
+    if (event.key === 'Enter') {
+      const first = firstSearchResult();
+      if (first) {
+        event.preventDefault();
+        first.click();
+      }
+    }
   }
 
   let page: ReactNode;
@@ -231,7 +215,20 @@ export function App() {
       <div className="main-column">
         <header className="topbar">
           <button className="mobile-brand" onClick={() => openSection('overview')} type="button"><div className="brand__mark">QR</div><strong>The Quiet Regular</strong></button>
-          <label className="search-box"><span aria-hidden="true">⌕</span><input value={searchQuery} onChange={(event: { target: HTMLInputElement }) => { setSearchQuery(event.target.value); setSearchOpen(true); }} onFocus={() => setSearchOpen(true)} placeholder="Search the repository…" /><kbd>⌘K</kbd></label>
+          <label className={`search-box ${searchOpen ? 'is-open' : ''}`}>
+            <span aria-hidden="true">⌕</span>
+            <input
+              ref={searchInputRef}
+              value={searchQuery}
+              onChange={(event: { target: HTMLInputElement }) => { setSearchQuery(event.target.value); setSearchOpen(true); }}
+              onFocus={() => setSearchOpen(true)}
+              onKeyDown={handleSearchInputKeyDown}
+              placeholder="Search characters, episodes, canon…"
+              aria-controls="searchPalette"
+              aria-haspopup="dialog"
+            />
+            <kbd>⌘K</kbd>
+          </label>
           {lastRead ? <button className="topbar__continue" onClick={() => openChapter(lastRead.season, episodeNumber(lastRead.id))} type="button">Continue S{lastRead.season} E{episodeNumber(lastRead.id)}</button> : null}
           <span className="topbar__meta">64 seasons · 633 episodes</span>
         </header>
@@ -240,17 +237,10 @@ export function App() {
           {navigationItems.map((item) => <button aria-current={activeSection === item.id ? 'page' : undefined} className={activeSection === item.id ? 'is-active' : ''} key={item.id} onClick={() => openSection(item.id)} type="button">{item.shortLabel}</button>)}
         </nav>
 
-        <main id="mainContent" className="content" tabIndex={-1}>
-          {searchOpen ? (
-            <section>
-              <div className="search-page-heading"><div><p className="eyebrow">Global index</p><h2>Search</h2></div><button className="text-button" onClick={() => { setSearchOpen(false); setSearchQuery(''); }} type="button">Close</button></div>
-              {!searchQuery.trim() ? <div className="empty-state"><div><strong>Search the repository</strong><p>Characters, ranks, techniques, legends, and canon rules are indexed here.</p></div></div> : (
-                <div className="search-results">{results.length ? results.map((result) => <button className="search-result" key={result.id} onClick={() => openSearchResult(result)} type="button"><span><small>{result.kind}</small><span className="search-result__title"><strong>{result.label}</strong>{result.rank ? <RankBadge rank={result.rank} status={result.rankStatus} /> : null}</span></span><p>{result.meta}</p><span>→</span></button>) : <div className="empty-state"><div><strong>No matches</strong><p>Try a character, title, technique, rank, legend, or canon phrase.</p></div></div>}</div>
-              )}
-            </section>
-          ) : page}
-        </main>
+        <main id="mainContent" className="content" tabIndex={-1}>{page}</main>
       </div>
+
+      <SearchPalette open={searchOpen} query={searchQuery} onClose={closeSearch} onOpenSection={openSection} onOpenCharacter={openCharacter} onOpenChapter={openChapter} />
     </div>
   );
 }
