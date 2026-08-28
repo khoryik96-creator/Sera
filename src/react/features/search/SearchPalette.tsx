@@ -1,3 +1,4 @@
+import type { KeyboardEvent as ReactKeyboardEvent } from 'react';
 import { useEffect, useMemo, useState } from 'react';
 import { DB } from '../../../db';
 import { EPISODE_ARCS } from '../../../episodeMeta';
@@ -132,7 +133,7 @@ export function SearchPalette({ open, query, onClose, onOpenSection, onOpenChara
     });
 
     (DB.canonRules || []).forEach((item) => {
-      const score = scoreMatch(`${item.title} ${item.rule} ${(item.notes || []).join(' ')} ${(item.examples || []).join(' ')}`, needle);
+      const score = scoreMatch(`${item.title} ${item.rule} ${item.notes || ''} ${(item.examples || []).join(' ')}`, needle);
       if (!score) return;
       found.push({ id: `canon-${item.title}`, group: 'Canon', kind: 'Canon rule', label: item.title, meta: clip(item.rule), score, open: () => onOpenSection('canon') });
     });
@@ -143,7 +144,7 @@ export function SearchPalette({ open, query, onClose, onOpenSection, onOpenChara
   const grouped = useMemo(() => GROUP_ORDER.map((group) => ({ group, items: results.filter((item) => item.group === group).slice(0, group === 'Episodes' ? 8 : 5) })).filter((entry) => entry.items.length), [results]);
   const totalShown = grouped.reduce((sum, entry) => sum + entry.items.length, 0);
 
-  function handleResultKeyDown(event: React.KeyboardEvent<HTMLButtonElement>): void {
+  function handleResultKeyDown(event: ReactKeyboardEvent<HTMLButtonElement>): void {
     if (!['ArrowDown', 'ArrowUp', 'Home', 'End', 'Escape'].includes(event.key)) return;
     if (event.key === 'Escape') { event.preventDefault(); onClose(); return; }
     const buttons = resultButtons();
@@ -183,7 +184,7 @@ export function SearchPalette({ open, query, onClose, onOpenSection, onOpenChara
                 <div className="search-group__heading"><h3 id={`search-group-${group.replace(/[^a-z]+/gi, '-').toLowerCase()}`}>{group}</h3><span>{items.length}</span></div>
                 <div className="search-group__results">
                   {items.map((result) => (
-                    <button data-search-result="true" key={result.id} onClick={() => { result.open(); onClose(); }} onKeyDown={handleResultKeyDown} type="button">
+                    <button className="search-result search-result-v2" data-search-result="true" key={result.id} onClick={() => { result.open(); onClose(); }} onKeyDown={handleResultKeyDown} type="button">
                       <span className="search-result-v2__kind">{result.kind}</span>
                       <span className="search-result-v2__main"><span className="search-result-v2__title"><strong>{result.label}</strong>{result.rank ? <RankBadge rank={result.rank} status={result.status} /> : null}</span><small>{result.meta}</small></span>
                       <b aria-hidden="true">→</b>
