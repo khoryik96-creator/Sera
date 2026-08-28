@@ -30,21 +30,29 @@ jobs:
           python - <<'PY'
           from pathlib import Path
           import json
+          import re
 
           root = Path('src/react')
           for path in root.rglob('*.tsx'):
               text = path.read_text()
               text = text.replace("'https://esm.sh/react@19.0.0'", "'react'")
               text = text.replace("'https://esm.sh/react-dom@19.0.0/client'", "'react-dom/client'")
+
+              # react-jsx does not require the default React runtime import.
+              text = re.sub(r"import React, \{([^}]+)\} from 'react';", r"import {\1} from 'react';", text)
+              text = text.replace("import React from 'react';\n", "")
+
               if path.as_posix().endswith('app/App.tsx'):
-                  text = text.replace('let page: unknown;', 'let page: React.ReactNode;')
+                  text = text.replace('let page: unknown;', 'let page: ReactNode;')
+                  if "import type { ReactNode } from 'react';" not in text:
+                      text = "import type { ReactNode } from 'react';\n" + text
               if path.as_posix().endswith('features/reader/ReaderContext.tsx'):
-                  text = text.replace('children?: unknown', 'children?: React.ReactNode')
+                  text = text.replace('children?: unknown', 'children?: ReactNode')
+                  if "import type { ReactNode } from 'react';" not in text:
+                      text = "import type { ReactNode } from 'react';\n" + text
               if path.as_posix().endswith('features/reader/ReaderPage.tsx'):
-                  text = text.replace(
-                      "import React, { useEffect, useState } from 'react';",
-                      "import React, { useEffect, useState } from 'react';\nimport type { CSSProperties } from 'react';",
-                  )
+                  if "import type { CSSProperties } from 'react';" not in text:
+                      text = text.replace("from 'react';\n", "from 'react';\nimport type { CSSProperties } from 'react';\n", 1)
                   text = text.replace(
                       "style={{ '--reader-scale': scale, '--reader-line-height': relaxedSpacing ? 2.05 : 1.82 }}",
                       "style={{ '--reader-scale': scale, '--reader-line-height': relaxedSpacing ? 2.05 : 1.82 } as CSSProperties & { '--reader-scale': number; '--reader-line-height': number }}",
