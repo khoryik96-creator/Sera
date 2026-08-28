@@ -1,11 +1,10 @@
 import { DB } from './db';
 import { getEl } from './dom';
+import type { RankEntry } from './types';
 
 /**
  * Colour-class key for a ranking row's name. Order matters: `Ilyra` must be
  * checked before `Sera` because "Ilyra Serath" contains the substring "Sera".
- * Current top-ten holders (Ilyra, Mo, Yun, Arin, Luo) each need an entry;
- * anything unmatched falls back to Rhen.
  */
 export function rankColorKey(name: string): string {
   if (name.includes('Kael')) return 'kael';
@@ -24,10 +23,19 @@ export function rankColorKey(name: string): string {
   return 'rhen';
 }
 
+export function rankBadgeTone(entry: RankEntry): 'current' | 'former' | 'unranked' {
+  if (entry.name.trim() === 'Rhen' || /unranked/i.test(entry.rank)) return 'unranked';
+  if (/former|retired/i.test(`${entry.rank} ${entry.className} ${entry.description}`)) return 'former';
+  return 'current';
+}
+
 export function renderRanks(q = ''): void {
   const lower = q.toLowerCase();
-  getEl('rankList').innerHTML = DB.ranks.filter((r) => r.join(' ').toLowerCase().includes(lower)).map((r) => {
-    const key = rankColorKey(r[1]);
-    return `<div class="rank-row"><div><span class="badge">${r[0]}</span></div><div class="character-${key}"><strong>${r[1]}</strong></div><div>${r[3]}</div></div>`;
-  }).join('');
+  getEl('rankList').innerHTML = DB.ranks
+    .filter((entry) => JSON.stringify(entry).toLowerCase().includes(lower))
+    .map((entry) => {
+      const key = rankColorKey(entry.name);
+      const tone = rankBadgeTone(entry);
+      return `<div class="rank-row"><div><span class="rank-badge rank-badge--${tone}">${entry.rank}</span></div><div class="character-${key}"><strong>${entry.name}</strong><div class="rank-class">${entry.className}</div></div><div>${entry.description}</div></div>`;
+    }).join('');
 }
