@@ -4,15 +4,10 @@ import { initPwa } from '../pwa';
 import { App } from './app/App';
 import { ReaderProvider } from './features/reader/ReaderContext';
 import './styles/global.css';
-import './styles/reader.css';
 import './styles/archive.css';
 import './styles/mobile.css';
 import './styles/pwa.css';
-import './styles/overview.css';
 import './styles/visual-polish.css';
-import './styles/progress.css';
-import './styles/characters-v2.css';
-import './styles/search-v2.css';
 import './styles/performance.css';
 
 async function boot(): Promise<void> {
