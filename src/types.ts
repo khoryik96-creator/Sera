@@ -70,6 +70,11 @@ export interface SeraTimelineEntry {
   text: string;
 }
 
+export interface CanonRule {
+  title: string;
+  text: string;
+}
+
 export interface Episode {
   ep: string;
   title: string;
@@ -110,7 +115,7 @@ interface CoreFields {
   seraTimeline: SeraTimelineEntry[];
   rhenSkills: Skill[];
   seraSkills: Skill[];
-  canonRules?: unknown[];
+  canonRules?: CanonRule[];
 }
 
 /** Runtime core shape consumed by non-episode render code. */
