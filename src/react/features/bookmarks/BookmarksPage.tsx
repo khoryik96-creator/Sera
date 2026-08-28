@@ -285,10 +285,10 @@ export function BookmarksPage({ onOpenChapter }: BookmarksPageProps) {
 
           {selectedCollection ? (
             <div className="library-collection-edit">
-              <label><span>Collection name</span><input aria-label="Rename selected collection" defaultValue={selectedCollection.name} key={selectedCollection.id} maxLength={48} onBlur={(event) => {
+              <label><span>Collection name</span><input aria-label="Rename selected collection" defaultValue={selectedCollection.name} key={`${selectedCollection.id}-${selectedCollection.name}`} maxLength={48} onBlur={(event) => {
                 const name = event.currentTarget.value.trim();
                 if (name && name !== selectedCollection.name) renameCollection(selectedCollection.id, name);
-                else event.currentTarget.value = selectedCollection.name;
+                event.currentTarget.value = selectedCollection.name;
               }} /></label>
               <button onClick={() => { deleteCollection(selectedCollection.id); setOrganizeFilter('all'); }} type="button">Delete collection</button>
             </div>
