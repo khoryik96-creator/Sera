@@ -8,13 +8,15 @@ export default tseslint.config(
   js.configs.recommended,
   ...tseslint.configs.recommended,
   {
-    files: ['**/*.ts'],
+    files: ['**/*.{ts,tsx}'],
     languageOptions: {
       globals: {
         window: 'readonly',
         document: 'readonly',
         console: 'readonly',
         localStorage: 'readonly',
+        location: 'readonly',
+        history: 'readonly',
         HTMLInputElement: 'readonly',
         HTMLDetailsElement: 'readonly',
       },
