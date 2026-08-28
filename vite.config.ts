@@ -12,7 +12,7 @@ export default defineConfig({
       input: {
         main: 'index.html',
         legacy: 'legacy.html',
-        reactPreview: 'react-preview.html',
+        compatibilityAlias: 'react-preview.html',
       },
     },
   },

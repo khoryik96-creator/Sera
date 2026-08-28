@@ -48,7 +48,20 @@ async function sourceCoreCounts(): Promise<CoreCounts> {
   };
 }
 
-test('production React shell renders and routes between core features', async ({ page }) => {
+async function openSeasonFromArchive(page: import('@playwright/test').Page, season: number) {
+  const target = String(season).padStart(2, '0');
+  const arcs = page.locator('.arc-card');
+  const arcCount = await arcs.count();
+  for (let index = 0; index < arcCount; index += 1) {
+    await arcs.nth(index).click();
+    await expect(arcs.nth(index)).toHaveAttribute('aria-pressed', 'true');
+    const number = page.locator('.season-card__number').filter({ hasText: new RegExp(`^${target}$`) });
+    if (await number.count()) return number.first().locator('..');
+  }
+  throw new Error(`Season ${season} was not exposed by any arc`);
+}
+
+test('production shell renders and routes between core features', async ({ page }) => {
   await openProduction(page);
   await expect(page.getByText('Second Spring,', { exact: false })).toBeVisible();
   const visibleCharacterNav = page.locator('.primary-nav button:visible, .mobile-tabs button:visible').filter({ hasText: /Characters|Cast/ }).first();
@@ -57,7 +70,7 @@ test('production React shell renders and routes between core features', async ({
   await expect(page.getByRole('heading', { name: 'Characters' })).toBeVisible();
 });
 
-test('legacy production hashes remain valid in the React reader', async ({ page }) => {
+test('legacy production hashes remain valid', async ({ page }) => {
   const aliases = [
     ['others', /Other Characters & Villains/],
     ['skills', /Arts & Techniques/],
@@ -76,7 +89,7 @@ test('legacy production hashes remain valid in the React reader', async ({ page 
   await expect(page).toHaveURL(/#episodes\/1\/1$/);
 });
 
-test('production React archive renders every canonical core record', async ({ page }) => {
+test('production archive renders every canonical core record', async ({ page }) => {
   const expected = await sourceCoreCounts();
   const sections: Array<[string, string, number]> = [
     ['characters', '.character-nav-card', expected.characters],
@@ -97,14 +110,40 @@ test('production React archive renders every canonical core record', async ({ pa
   await expect(page.locator('.technique-card')).toHaveCount(expected.rhenSkills);
   await page.getByRole('group', { name: 'Technique owner' }).getByRole('button', { name: 'Sera', exact: true }).click();
   await expect(page.locator('.technique-card')).toHaveCount(expected.seraSkills);
+});
 
+test('episode archive groups all 64 seasons into 13 arcs', async ({ page }) => {
   await openProduction(page, 'chapters');
-  await expect(page.locator('.season-card')).toHaveCount(64);
+  const arcs = page.locator('.arc-card');
+  await expect(arcs).toHaveCount(13);
+  const seasons = new Set<number>();
+  for (let index = 0; index < 13; index += 1) {
+    await arcs.nth(index).click();
+    await expect(arcs.nth(index)).toHaveAttribute('aria-pressed', 'true');
+    const values = await page.locator('.season-card__number').allTextContents();
+    values.forEach((value) => seasons.add(Number(value.trim())));
+  }
+  expect(seasons.size).toBe(64);
+  expect(Math.min(...seasons)).toBe(1);
+  expect(Math.max(...seasons)).toBe(64);
+});
+
+test('Continue Reading is prominent and opens the stored episode', async ({ page }) => {
+  await page.addInitScript(() => {
+    localStorage.setItem('tqr:lastRead', JSON.stringify({ id: 'ep-s12-e3', season: 12, title: 'Stored reading position' }));
+  });
+  await openProduction(page, 'chapters');
+  const resume = page.locator('.archive-resume');
+  await expect(resume).toContainText('Season 12 · Episode 3');
+  await expect(resume).toContainText('Stored reading position');
+  await resume.click();
+  await expect(page).toHaveURL(/#chapter\/12\/3$/);
+  await expect(page.locator('.reader-prose')).toBeVisible({ timeout: 20_000 });
 });
 
 test('season Read action loads the chosen season and opens its first episode', async ({ page }, testInfo) => {
   await openProduction(page, 'chapters');
-  const season12 = page.locator('.season-card').nth(11);
+  const season12 = await openSeasonFromArchive(page, 12);
   await season12.click();
   await expect(season12).toHaveAttribute('aria-pressed', 'true');
   await expect(page.locator('.season-selected-heading__meta')).toHaveText('Season 12');
@@ -122,7 +161,7 @@ test('season Read action loads the chosen season and opens its first episode', a
   await expect(page.locator('.reader-prose')).toBeVisible({ timeout: 20_000 });
 });
 
-test('production React reader is mobile-safe with swipeable navigation and no page overflow', async ({ page }, testInfo) => {
+test('production reader is mobile-safe with contained navigation and no page overflow', async ({ page }, testInfo) => {
   test.skip(!testInfo.project.name.includes('mobile'), 'mobile-only layout assertion');
   await openProduction(page, 'characters/sera');
   await expect(page.locator('.mobile-tabs')).toBeVisible();
@@ -132,7 +171,19 @@ test('production React reader is mobile-safe with swipeable navigation and no pa
   await expect(page.locator('.portrait-card > img')).toHaveCount(1);
 });
 
-test('all production React archive sections render without mobile overflow', async ({ page }, testInfo) => {
+test('active mobile section remains visible inside the tab strip', async ({ page }, testInfo) => {
+  test.skip(!testInfo.project.name.includes('mobile'), 'mobile-only navigation assertion');
+  await openProduction(page, 'canon');
+  await expect.poll(async () => page.locator('.mobile-tabs').evaluate((nav) => {
+    const active = nav.querySelector('button.is-active');
+    if (!active) return false;
+    const navRect = nav.getBoundingClientRect();
+    const activeRect = active.getBoundingClientRect();
+    return activeRect.left >= navRect.left - 2 && activeRect.right <= navRect.right + 2;
+  })).toBe(true);
+});
+
+test('all production archive sections render without mobile overflow', async ({ page }, testInfo) => {
   test.skip(!testInfo.project.name.includes('mobile'), 'mobile parity assertion');
   const sections = ['overview', 'characters', 'villains', 'techniques', 'chapters', 'bookmarks', 'rankings', 'legends', 'former', 'timeline', 'canon'];
   for (const section of sections) {
@@ -143,21 +194,42 @@ test('all production React archive sections render without mobile overflow', asy
   }
 });
 
-test('React reader text controls change scale and persist on the device', async ({ page }) => {
+test('reader typography and width controls persist on the device', async ({ page }) => {
   await openProduction(page, 'chapter/1/1');
   const prose = page.locator('.reader-prose');
   await expect(prose).toBeVisible({ timeout: 20_000 });
-  const before = await prose.evaluate((node) => Number.parseFloat(getComputedStyle(node).fontSize));
+  const before = await prose.evaluate((node) => {
+    const style = getComputedStyle(node);
+    return { fontSize: Number.parseFloat(style.fontSize), fontFamily: style.fontFamily, lineHeight: Number.parseFloat(style.lineHeight), maxWidth: style.maxWidth };
+  });
+
   await page.getByRole('button', { name: 'A+' }).click();
-  const after = await prose.evaluate((node) => Number.parseFloat(getComputedStyle(node).fontSize));
-  expect(after).toBeGreaterThan(before);
+  await page.getByRole('button', { name: /^Font ·/ }).click();
+  await page.getByRole('button', { name: /^Spacing ·/ }).click();
+  await page.getByRole('button', { name: /^Width ·/ }).click();
+
+  const changed = await prose.evaluate((node) => {
+    const style = getComputedStyle(node);
+    return { fontSize: Number.parseFloat(style.fontSize), fontFamily: style.fontFamily, lineHeight: Number.parseFloat(style.lineHeight), maxWidth: style.maxWidth };
+  });
+  expect(changed.fontSize).toBeGreaterThan(before.fontSize);
+  expect(changed.fontFamily).not.toBe(before.fontFamily);
+  expect(changed.lineHeight).toBeGreaterThan(before.lineHeight);
+  expect(changed.maxWidth).not.toBe(before.maxWidth);
+
   await page.reload();
   await expect(prose).toBeVisible({ timeout: 20_000 });
-  const persisted = await prose.evaluate((node) => Number.parseFloat(getComputedStyle(node).fontSize));
-  expect(persisted).toBeGreaterThan(before);
+  const persisted = await prose.evaluate((node) => {
+    const style = getComputedStyle(node);
+    return { fontSize: Number.parseFloat(style.fontSize), fontFamily: style.fontFamily, lineHeight: Number.parseFloat(style.lineHeight), maxWidth: style.maxWidth };
+  });
+  expect(persisted.fontSize).toBeCloseTo(changed.fontSize, 1);
+  expect(persisted.fontFamily).toBe(changed.fontFamily);
+  expect(persisted.lineHeight).toBeCloseTo(changed.lineHeight, 1);
+  expect(persisted.maxWidth).toBe(changed.maxWidth);
 });
 
-test('React reader controls and episode navigation stay in-flow on mobile', async ({ page }, testInfo) => {
+test('reader controls and episode navigation remain in-flow', async ({ page }, testInfo) => {
   test.skip(!testInfo.project.name.includes('mobile'), 'mobile reader layout assertion');
   await openProduction(page, 'chapter/1/1');
   await expect(page.locator('.reader-prose')).toBeVisible({ timeout: 20_000 });
@@ -169,18 +241,36 @@ test('React reader controls and episode navigation stay in-flow on mobile', asyn
   expect(positions.navigation).not.toBe('fixed');
 });
 
-test('production React reader keeps deceased, retired, and former rank states distinct', async ({ page }) => {
+test('mobile navigation chrome moves away while reading and returns on upward scroll', async ({ page }, testInfo) => {
+  test.skip(!testInfo.project.name.includes('mobile'), 'mobile reading chrome assertion');
+  await openProduction(page, 'chapter/1/1');
+  await expect(page.locator('.reader-prose')).toBeVisible({ timeout: 20_000 });
+  await page.evaluate(() => window.scrollTo(0, Math.min(1600, document.documentElement.scrollHeight - window.innerHeight)));
+  await expect.poll(() => page.locator('.app-shell').evaluate((node) => node.classList.contains('is-mobile-chrome-hidden'))).toBe(true);
+  await page.evaluate(() => window.scrollBy(0, -360));
+  await expect.poll(() => page.locator('.app-shell').evaluate((node) => node.classList.contains('is-mobile-chrome-hidden'))).toBe(false);
+});
+
+test('rank badges remain distinct and appear in global search', async ({ page }) => {
   await openProduction(page, 'characters/han');
   await expect(page.locator('.character-name-line .react-rank-badge--deceased')).toContainText('†');
   await page.goto('/#characters/qin');
   await expect(page.locator('.character-name-line .react-rank-badge--retired')).toContainText('RET');
   await page.goto('/#characters/sera');
   await expect(page.locator('.character-name-line .react-rank-badge--former')).toContainText('FORMER');
+  await page.goto('/#characters/rhen');
+  await expect(page.locator('.character-name-line .react-rank-badge--unranked')).toContainText('UNRANKED');
+
+  await openProduction(page);
+  const search = page.locator('.search-box input');
+  await search.fill('Kael');
+  await expect(page.locator('.search-result .react-rank-badge').first()).toBeVisible();
 });
 
-test('production React reader declares the PWA manifest and registers the service worker', async ({ page }) => {
+test('production reader declares PWA metadata, registers the worker, and supports controlled updates', async ({ page }) => {
   await openProduction(page);
   await expect(page.locator('link[rel="manifest"]')).toHaveAttribute('href', './manifest.webmanifest');
+  await expect(page.locator('#updateBanner')).toBeHidden();
   const registration = await page.evaluate(async () => {
     if (!('serviceWorker' in navigator)) return false;
     const ready = await Promise.race([
@@ -190,25 +280,31 @@ test('production React reader declares the PWA manifest and registers the servic
     return ready;
   });
   expect(registration).toBe(true);
+  const workerSource = await page.evaluate(async () => (await fetch('./sw.js')).text());
+  expect(workerSource).toContain('SKIP_WAITING');
+  expect(workerSource).not.toContain('cache.addAll(SHELL)).then(() => self.skipWaiting())');
 });
 
-test('production React surface has no critical automated accessibility violations', async ({ page }) => {
+test('production surface has no critical automated accessibility violations', async ({ page }) => {
   await openProduction(page, 'characters/sera');
   const result = await new AxeBuilder({ page }).analyze();
   const critical = result.violations.filter((violation) => violation.impact === 'critical');
   expect(critical, critical.map((violation) => `${violation.id}: ${violation.help}`).join('\n')).toEqual([]);
 });
 
-test('React preview alias remains available after production cutover', async ({ page }) => {
+test('compatibility alias remains available after production cutover', async ({ page }) => {
   await page.goto('/react-preview.html#characters/sera');
   await expect(page.locator('.app-shell')).toBeVisible({ timeout: 20_000 });
   await expect(page.locator('.character-name-line')).toContainText('Sera');
+  await expect(page).toHaveTitle(/Compatibility Reader/);
 });
 
-test('capture production React visual review surfaces', async ({ page }, testInfo) => {
+test('capture production visual review surfaces', async ({ page }, testInfo) => {
+  await openProduction(page, 'chapters');
+  await page.screenshot({ path: `test-results/production-${testInfo.project.name}-chapters.png`, fullPage: true });
   await openProduction(page, 'characters/sera');
-  await page.screenshot({ path: `test-results/react-production-${testInfo.project.name}-character.png`, fullPage: true });
+  await page.screenshot({ path: `test-results/production-${testInfo.project.name}-character.png`, fullPage: true });
   await openProduction(page, 'chapter/1/1');
   await expect(page.locator('.reader-prose')).toBeVisible({ timeout: 20_000 });
-  await page.screenshot({ path: `test-results/react-production-${testInfo.project.name}-reader.png`, fullPage: true });
+  await page.screenshot({ path: `test-results/production-${testInfo.project.name}-reader.png`, fullPage: true });
 });
