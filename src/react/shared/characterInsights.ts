@@ -47,9 +47,16 @@ function registryEntry(key: string, displayName: string) {
   return characterRegistry.find((entry) => entry.key === key || entry.displayName === clean || entry.aliases.includes(clean));
 }
 
+function distinctiveSubtitle(key: string): string {
+  const subtitle = DB.characters[key]?.subtitle?.replace(/^The\s+/i, '').trim() || '';
+  if (!subtitle || /#\d|world\s+#?\d|rank/i.test(subtitle)) return '';
+  if (subtitle.split(/\s+/).length > 5) return '';
+  return subtitle;
+}
+
 export function characterAliases(key: string, displayName: string): string[] {
   const entry = registryEntry(key, displayName);
-  return Array.from(new Set([cleanCharacterName(displayName), ...(entry?.aliases || [])].filter(Boolean)));
+  return Array.from(new Set([cleanCharacterName(displayName), ...(entry?.aliases || []), distinctiveSubtitle(key)].filter(Boolean)));
 }
 
 function containsAlias(value: string | undefined, aliases: string[]): boolean {
