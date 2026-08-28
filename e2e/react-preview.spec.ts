@@ -23,6 +23,17 @@ test('React preview is mobile-safe with swipeable navigation and no page overflo
   await expect(page.locator('.portrait-card > img')).toHaveCount(1);
 });
 
+test('all migrated React archive sections render without mobile overflow', async ({ page }, testInfo) => {
+  test.skip(!testInfo.project.name.includes('mobile'), 'mobile parity assertion');
+  const sections = ['overview', 'characters', 'villains', 'techniques', 'chapters', 'bookmarks', 'rankings', 'legends', 'former', 'timeline', 'canon'];
+  for (const section of sections) {
+    await openPreview(page, section);
+    await expect(page.locator('.content')).toBeVisible();
+    const dimensions = await page.evaluate(() => ({ width: document.documentElement.clientWidth, scroll: document.documentElement.scrollWidth }));
+    expect(dimensions.scroll, `${section} should not overflow horizontally`).toBeLessThanOrEqual(dimensions.width + 2);
+  }
+});
+
 test('React reader text controls change scale and persist on the device', async ({ page }) => {
   await openPreview(page, 'chapter/1/1');
   const prose = page.locator('.reader-prose');
@@ -35,6 +46,18 @@ test('React reader text controls change scale and persist on the device', async 
   await expect(prose).toBeVisible({ timeout: 20_000 });
   const persisted = await prose.evaluate((node) => Number.parseFloat(getComputedStyle(node).fontSize));
   expect(persisted).toBeGreaterThan(before);
+});
+
+test('React reader controls and episode navigation stay in-flow on mobile', async ({ page }, testInfo) => {
+  test.skip(!testInfo.project.name.includes('mobile'), 'mobile reader layout assertion');
+  await openPreview(page, 'chapter/1/1');
+  await expect(page.locator('.reader-prose')).toBeVisible({ timeout: 20_000 });
+  const positions = await page.evaluate(() => ({
+    controls: getComputedStyle(document.querySelector('.reader-controls') as HTMLElement).position,
+    navigation: getComputedStyle(document.querySelector('.reader-nav') as HTMLElement).position,
+  }));
+  expect(positions.controls).not.toBe('fixed');
+  expect(positions.navigation).not.toBe('fixed');
 });
 
 test('React preview keeps deceased, retired, and former rank states distinct', async ({ page }) => {
