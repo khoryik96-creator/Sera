@@ -14,14 +14,14 @@ function clampScale(value: number): number {
 function readPrefs(): ReaderPrefs {
   try {
     const raw = localStorage.getItem(STORAGE_KEY);
-    if (!raw) return DEFAULTS;
+    if (!raw) return { ...DEFAULTS };
     const parsed = JSON.parse(raw) as Partial<ReaderPrefs>;
     return {
       scale: clampScale(typeof parsed.scale === 'number' ? parsed.scale : DEFAULTS.scale),
       relaxedSpacing: Boolean(parsed.relaxedSpacing),
     };
   } catch {
-    return DEFAULTS;
+    return { ...DEFAULTS };
   }
 }
 
@@ -36,7 +36,7 @@ function writePrefs(prefs: ReaderPrefs): void {
 function applyPrefs(prefs: ReaderPrefs): void {
   const episodes = document.getElementById('episodes');
   if (!episodes) return;
-  episodes.style.setProperty('--reader-scale', String(prefs.scale));
+  episodes.style.setProperty('--reader-font-size', `${(1.02 * prefs.scale).toFixed(3)}rem`);
   episodes.style.setProperty('--reader-line-height', prefs.relaxedSpacing ? '2.05' : '1.82');
 
   const spacing = document.getElementById('readerSpacing');
