@@ -95,7 +95,7 @@ test('production React archive renders every canonical core record', async ({ pa
 
   await openProduction(page, 'techniques');
   await expect(page.locator('.technique-card')).toHaveCount(expected.rhenSkills);
-  await page.getByRole('button', { name: 'Sera', exact: true }).click();
+  await page.getByRole('group', { name: 'Technique owner' }).getByRole('button', { name: 'Sera', exact: true }).click();
   await expect(page.locator('.technique-card')).toHaveCount(expected.seraSkills);
 
   await openProduction(page, 'chapters');
