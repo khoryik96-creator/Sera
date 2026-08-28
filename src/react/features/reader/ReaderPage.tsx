@@ -6,11 +6,14 @@ import { EPISODE_ARCS } from '../../../episodeMeta';
 import { loadSeason } from '../../../seasonStore';
 import { renderNovel } from '../../../novel';
 import { nextUnreadTarget, progressForSeason } from '../../../readingProgress';
+import { getChapterPosition, saveChapterPosition } from '../../../readerPositions';
+import type { ChapterPosition } from '../../../readerPositions';
 import type { Episode } from '../../../types';
 import { RankBadge } from '../../components/Shared';
 import { cleanCharacterName, rankLabel, rankStatus } from '../../shared/rankState';
 import '../../styles/contextual-lore.css';
 import '../../styles/passages.css';
+import '../../styles/reader-v4.css';
 import { EpisodeNoteEditor } from './EpisodeNoteEditor';
 import { useReaderState } from './ReaderContext';
 import type { ReaderFont, ReaderSpacing, ReaderWidth } from './ReaderContext';
@@ -33,6 +36,7 @@ const SPACING_LABELS: Record<ReaderSpacing, string> = { compact: 'Compact', comf
 const WIDTHS: Record<ReaderWidth, string> = { narrow: '640px', standard: '760px', wide: '900px' };
 const WIDTH_LABELS: Record<ReaderWidth, string> = { narrow: 'Narrow', standard: 'Standard', wide: 'Wide' };
 const MAX_SELECTED_PASSAGE = 1600;
+const FOCUS_MODE_KEY = 'tqr:reader-focus-mode:v1';
 
 type ReaderSurfaceStyle = CSSProperties & {
   '--reader-scale': number;
@@ -40,6 +44,33 @@ type ReaderSurfaceStyle = CSSProperties & {
   '--reader-max-width': string;
   '--reader-font-family': string;
 };
+
+function clampProgress(value: number): number {
+  return Math.min(1, Math.max(0, value));
+}
+
+function loadFocusMode(): boolean {
+  try {
+    return localStorage.getItem(FOCUS_MODE_KEY) === '1';
+  } catch {
+    return false;
+  }
+}
+
+function progressInsideProse(root: HTMLElement): number {
+  const pageTop = window.scrollY + root.getBoundingClientRect().top;
+  const lead = Math.min(window.innerHeight * 0.28, 220);
+  const travel = Math.max(1, root.offsetHeight - Math.min(window.innerHeight * 0.42, 340));
+  return clampProgress((window.scrollY + lead - pageTop) / travel);
+}
+
+function scrollToProseProgress(root: HTMLElement, progress: number): void {
+  const pageTop = window.scrollY + root.getBoundingClientRect().top;
+  const lead = Math.min(window.innerHeight * 0.28, 220);
+  const travel = Math.max(1, root.offsetHeight - Math.min(window.innerHeight * 0.42, 340));
+  const top = Math.max(0, pageTop + clampProgress(progress) * travel - lead);
+  window.scrollTo({ top, behavior: 'smooth' });
+}
 
 export function ReaderPage({ season, episode, onBack, onOpenChapter }: ReaderPageProps) {
   const {
@@ -64,7 +95,13 @@ export function ReaderPage({ season, episode, onBack, onOpenChapter }: ReaderPag
   const [loreKey, setLoreKey] = useState<string | null>(null);
   const [selectedPassage, setSelectedPassage] = useState('');
   const [passageNotice, setPassageNotice] = useState('');
+  const [chapterScrollPercent, setChapterScrollPercent] = useState(0);
+  const [resumePosition, setResumePosition] = useState<ChapterPosition | null>(null);
+  const [resumeDismissed, setResumeDismissed] = useState(false);
+  const [focusMode, setFocusMode] = useState(loadFocusMode);
   const proseRef = useRef<HTMLDivElement>(null);
+
+  const chapterId = `ep-s${season}-e${episode}`;
 
   useEffect(() => {
     let alive = true;
@@ -73,22 +110,89 @@ export function ReaderPage({ season, episode, onBack, onOpenChapter }: ReaderPag
     setLoreKey(null);
     setSelectedPassage('');
     setPassageNotice('');
+    setChapterScrollPercent(0);
+    setResumeDismissed(false);
+    setResumePosition(getChapterPosition(chapterId));
     loadSeason(season).then((rows) => {
       if (!alive) return;
       setEpisodes(rows);
       setLoading(false);
       const current = rows[episode - 1];
-      if (current) markRead({ id: `ep-s${season}-e${episode}`, season, title: current.title });
+      if (current) markRead({ id: chapterId, season, title: current.title });
     }).catch((cause: unknown) => {
       if (!alive) return;
       setError(cause instanceof Error ? cause.message : 'Unable to load this episode.');
       setLoading(false);
     });
     return () => { alive = false; };
-  }, [season, episode]);
+  }, [season, episode, chapterId]);
+
+  useEffect(() => {
+    document.body.classList.toggle('reader-focus-mode', focusMode);
+    try {
+      localStorage.setItem(FOCUS_MODE_KEY, focusMode ? '1' : '0');
+    } catch {
+      // Focus mode remains usable for this session if storage is blocked.
+    }
+    return () => document.body.classList.remove('reader-focus-mode');
+  }, [focusMode]);
+
+  useEffect(() => {
+    if (!focusMode) return;
+    const onKeyDown = (event: KeyboardEvent): void => {
+      if (event.key === 'Escape') setFocusMode(false);
+    };
+    window.addEventListener('keydown', onKeyDown);
+    return () => window.removeEventListener('keydown', onKeyDown);
+  }, [focusMode]);
+
+  useEffect(() => {
+    if (loading || error || !episodes[episode - 1]) return;
+    let frame = 0;
+    let lastPersisted = getChapterPosition(chapterId)?.progress || 0;
+    let lastPersistedAt = 0;
+
+    const readProgress = (): number => {
+      const root = proseRef.current;
+      return root ? progressInsideProse(root) : 0;
+    };
+
+    const persist = (force = false): void => {
+      const progress = readProgress();
+      const now = Date.now();
+      if (progress < 0.02) return;
+      if (!force && now - lastPersistedAt < 700) return;
+      if (!force && Math.abs(progress - lastPersisted) < 0.015) return;
+      saveChapterPosition({ id: chapterId, season, episode, progress }, now);
+      lastPersisted = progress;
+      lastPersistedAt = now;
+    };
+
+    const update = (): void => {
+      frame = 0;
+      const progress = readProgress();
+      setChapterScrollPercent(Math.round(progress * 100));
+      persist(false);
+    };
+
+    const onScroll = (): void => {
+      if (!frame) frame = window.requestAnimationFrame(update);
+    };
+    const onPageHide = (): void => persist(true);
+
+    update();
+    window.addEventListener('scroll', onScroll, { passive: true });
+    window.addEventListener('pagehide', onPageHide);
+    return () => {
+      window.removeEventListener('scroll', onScroll);
+      window.removeEventListener('pagehide', onPageHide);
+      if (frame) window.cancelAnimationFrame(frame);
+      persist(true);
+    };
+  }, [chapterId, season, episode, loading, error, episodes]);
 
   const current = episodes[episode - 1];
-  const bookmark = current ? { id: `ep-s${season}-e${episode}`, season, title: current.title } : null;
+  const bookmark = current ? { id: chapterId, season, title: current.title } : null;
   const saved = bookmark ? bookmarks.some((item) => item.id === bookmark.id) : false;
   const arcIndex = EPISODE_ARCS.findIndex((arc) => arc.seasons.some((entry) => entry.season === season));
   const arc = EPISODE_ARCS[Math.max(0, arcIndex)];
@@ -101,6 +205,7 @@ export function ReaderPage({ season, episode, onBack, onOpenChapter }: ReaderPag
   const loreName = loreProfile ? cleanCharacterName(loreProfile.name) : loreEntry?.displayName || '';
   const loreRank = loreName ? rankLabel(loreName, season) : '';
   const loreStatus = loreName ? rankStatus(loreName, season) : 'current';
+  const showResumePosition = Boolean(resumePosition && resumePosition.progress >= 0.05 && resumePosition.progress <= 0.96 && !resumeDismissed);
 
   async function goPrevious(): Promise<void> {
     if (episode > 1) { onOpenChapter(season, episode - 1); return; }
@@ -112,6 +217,12 @@ export function ReaderPage({ season, episode, onBack, onOpenChapter }: ReaderPag
   function goNext(): void {
     if (episode < episodes.length) { onOpenChapter(season, episode + 1); return; }
     if (season < 64) onOpenChapter(season + 1, 1);
+  }
+
+  function resumeExactPosition(): void {
+    if (!resumePosition || !proseRef.current) return;
+    scrollToProseProgress(proseRef.current, resumePosition.progress);
+    setResumeDismissed(true);
   }
 
   function capturePassageSelection(): void {
@@ -163,10 +274,10 @@ export function ReaderPage({ season, episode, onBack, onOpenChapter }: ReaderPag
   };
 
   return (
-    <section className="reader-page">
+    <section className="reader-page reader-page--v4">
       <div className="reader-page__topline">
         <button className="text-button" onClick={onBack} type="button">← Back to Season {season}</button>
-        <span>{arc?.title || 'The Quiet Regular'}</span>
+        <span>{focusMode ? 'Focus reading' : arc?.title || 'The Quiet Regular'}</span>
       </div>
 
       {loading ? <div className="reader-loading">Loading episode…</div> : null}
@@ -174,7 +285,7 @@ export function ReaderPage({ season, episode, onBack, onOpenChapter }: ReaderPag
 
       {!loading && !error && current ? (
         <>
-          <header className="reader-header reader-header--v3">
+          <header className="reader-header reader-header--v3 reader-header--v4">
             <div className="reader-header__copy">
               <div className="reader-meta-chips">
                 <span>{arc ? `Arc ${Math.max(1, arcIndex + 1)}` : 'Story'}</span>
@@ -187,6 +298,7 @@ export function ReaderPage({ season, episode, onBack, onOpenChapter }: ReaderPag
             </div>
             <div className="reader-header__actions">
               <button className={`bookmark-toggle ${saved ? 'is-saved' : ''}`} onClick={() => bookmark && toggleSaved(bookmark)} type="button">{saved ? '★ Saved' : '☆ Bookmark'}</button>
+              {showResumePosition ? <button className="reader-position-resume" onClick={resumeExactPosition} type="button"><span>Resume position</span><strong>{Math.round((resumePosition?.progress || 0) * 100)}%</strong></button> : null}
               {nextUnread ? <button className="next-unread-button" onClick={() => onOpenChapter(nextUnread.season, nextUnread.episode)} type="button"><span>Next unread</span><strong>S{nextUnread.season} · E{nextUnread.episode}</strong></button> : <span className="reader-complete-chip">Story complete</span>}
             </div>
 
@@ -206,9 +318,15 @@ export function ReaderPage({ season, episode, onBack, onOpenChapter }: ReaderPag
             <button onClick={cycleFont} type="button">Font · {FONT_LABELS[font]}</button>
             <button onClick={cycleSpacing} type="button">Spacing · {SPACING_LABELS[spacing]}</button>
             <button onClick={cycleWidth} type="button">Width · {WIDTH_LABELS[width]}</button>
+            <button className={`reader-focus-toggle ${focusMode ? 'is-active' : ''}`} aria-pressed={focusMode} onClick={() => setFocusMode((value) => !value)} type="button">Focus · {focusMode ? 'On' : 'Off'}</button>
             <button className="reader-controls__reset" onClick={resetPreferences} type="button">Reset</button>
             {selectedPassage ? <button className="reader-passage-save" onClick={saveSelectedPassage} type="button">Save passage · {selectedPassage.length} chars</button> : null}
             {passageNotice ? <span className="reader-passage-notice" role="status">{passageNotice}</span> : null}
+          </div>
+
+          <div className="reader-chapter-position" aria-label="Chapter position">
+            <div><span>Chapter position</span><strong>{chapterScrollPercent}%</strong></div>
+            <div className="reader-chapter-position__track" role="progressbar" aria-valuemin={0} aria-valuemax={100} aria-valuenow={chapterScrollPercent} aria-label={`Chapter ${chapterScrollPercent}%`}><span style={{ width: `${chapterScrollPercent}%` }} /></div>
           </div>
 
           {bookmark ? <EpisodeNoteEditor episode={bookmark} /> : null}
