@@ -14,12 +14,17 @@
 .repo-status{display:flex;align-items:center;gap:8px;flex-wrap:wrap;justify-content:flex-end}
 #installApp{padding:7px 11px;min-height:36px;font-size:12px;border-color:rgba(216,173,61,.45);color:#f4d88a}
 
-button,.tab,.char-nav-item,.portrait-gallery__thumb,.nav-step,.nav-season,.nav-ep,.nav-icon{touch-action:manipulation}
+button,.tab,.char-nav-item,.portrait-gallery__thumb,.nav-step,.nav-season,.nav-ep,.nav-icon,.reader-pref-button{touch-action:manipulation}
 
-/* Readability */
-.full-legend-text{font-size:1.02rem;line-height:1.82;overflow-wrap:anywhere}
-.dialogue-card .dialogue-quote{line-height:1.72}
+/* Lucy-style reading preferences are local to the episode reader. */
+#episodes .full-legend-text{font-size:var(--reader-font-size,1.02rem);line-height:var(--reader-line-height,1.82);overflow-wrap:anywhere}
+.dialogue-card .dialogue-quote{line-height:inherit}
 .legend-card summary{min-height:44px}
+.reader-prefs{display:flex;align-items:center;gap:5px;margin-left:6px;padding-left:8px;border-left:1px solid rgba(255,255,255,.09);white-space:nowrap}
+.reader-prefs__label{color:var(--muted);font-size:10px;text-transform:uppercase;letter-spacing:.08em}
+.reader-prefs__scale{min-width:34px;text-align:center;color:var(--muted);font-size:10px;font-variant-numeric:tabular-nums}
+.reader-pref-button{min-height:32px!important;min-width:34px!important;border:1px solid rgba(255,255,255,.1)!important;border-radius:7px!important;padding:5px 8px!important;background:#171a1f!important;color:#9ca4ad!important;font-size:11px!important}
+.reader-pref-button.is-active{border-color:#36534d!important;color:var(--accent2)!important;background:rgba(111,201,183,.08)!important}
 
 /* Horizontal navigation is easier than wrapping into a tall wall on phones. */
 @media(max-width:760px){
@@ -66,6 +71,10 @@ button,.tab,.char-nav-item,.portrait-gallery__thumb,.nav-step,.nav-season,.nav-e
   .season-picker{grid-template-columns:repeat(8,minmax(0,1fr))!important}
   .episode-pad{grid-template-columns:repeat(5,minmax(0,1fr))!important}
   .season-chip,.epnum{min-width:0!important;min-height:40px!important;padding:7px 4px!important}
+  .reader-prefs{flex:0 0 auto;margin-left:2px;padding-left:6px}
+  .reader-prefs__label{display:none}
+  .reader-prefs__scale{min-width:32px}
+  .reader-pref-button{min-height:38px!important;min-width:38px!important}
 
   .arc-head,.episode-season-head{align-items:flex-start!important}
   .arc-head h2,.episode-season-head h2{font-size:17px!important;line-height:1.25}
@@ -73,7 +82,6 @@ button,.tab,.char-nav-item,.portrait-gallery__thumb,.nav-step,.nav-season,.nav-e
   .season-accordion .episode-season-head{padding:14px}
   .season-episode-list{padding:0 8px 10px}
   .season-episode-list .card{padding:15px 14px}
-  .full-legend-text{font-size:16.5px;line-height:1.82}
   .dialogue-card{margin:14px 0;padding:11px 13px}
 
   .card{border-radius:16px;padding:15px}
@@ -85,6 +93,7 @@ button,.tab,.char-nav-item,.portrait-gallery__thumb,.nav-step,.nav-season,.nav-e
   .repo-status{max-width:42%}
   #episodeJumpBar{top:92px!important}
   .season-picker{grid-template-columns:repeat(6,minmax(0,1fr))!important}
+  .reader-prefs__scale{display:none}
 }
 
 @media(prefers-reduced-motion:reduce){
