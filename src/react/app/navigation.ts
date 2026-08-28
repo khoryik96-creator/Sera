@@ -1,12 +1,12 @@
-export type PreviewSection = 'overview' | 'characters' | 'villains' | 'techniques' | 'chapters' | 'bookmarks' | 'rankings' | 'legends' | 'former' | 'timeline' | 'canon';
+export type AppSection = 'overview' | 'characters' | 'villains' | 'techniques' | 'chapters' | 'bookmarks' | 'rankings' | 'legends' | 'former' | 'timeline' | 'canon';
 
-export interface PreviewNavItem {
-  id: PreviewSection;
+export interface NavItem {
+  id: AppSection;
   label: string;
   shortLabel: string;
 }
 
-export const navigationItems: PreviewNavItem[] = [
+export const navigationItems: NavItem[] = [
   { id: 'overview', label: 'Overview', shortLabel: 'Home' },
   { id: 'characters', label: 'Characters', shortLabel: 'Cast' },
   { id: 'villains', label: 'Other Characters / Villains', shortLabel: 'Others' },
