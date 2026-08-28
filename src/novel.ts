@@ -1,17 +1,37 @@
 import { escRe } from './dom';
-import { colorKeyMap, novelNameMap, rankForStory, speakerName } from './characterRegistry';
+import { characterRegistry, colorKeyMap, novelNameMap, rankForStory, speakerName } from './characterRegistry';
 
 export { rankForStory } from './characterRegistry';
 
 type NovelRankTone = 'current' | 'former' | 'retired' | 'deceased' | 'unranked';
 
-function annotateDialogue(text: string): string {
+export interface RenderNovelOptions {
+  interactiveNames?: boolean;
+}
+
+function entryForAlias(name: string) {
+  return characterRegistry.find((entry) => entry.aliases.includes(name));
+}
+
+function entryForSpeaker(key: string) {
+  return characterRegistry.find((entry) => (entry.speakerKeys || [entry.key]).includes(key));
+}
+
+function characterMarkup(name: string, colorKey: string, characterKey: string | undefined, className: string, interactive: boolean): string {
+  if (!interactive || !characterKey) return `<span class="${className} character-${colorKey}">${name}</span>`;
+  return `<button type="button" class="${className} character-${colorKey} novel-lore-link" data-character-key="${characterKey}" aria-label="Open lore for ${name}">${name}</button>`;
+}
+
+function annotateDialogue(text: string, interactiveNames: boolean): string {
   return String(text || '').split('\n').map((line) => {
     const match = line.match(/^\[\[speaker:([a-z0-9_]+)\]\](.*)$/);
     if (!match) return line;
-    const key = colorKeyMap[match[1]] || match[1];
-    const name = speakerName(match[1]);
-    return `<span class="novel-dialogue dialogue-card character-${key}"><b class="novel-speaker dialogue-speaker">${name}</b><b class="dialogue-quote">${match[2]}</b></span>`;
+    const speakerKey = match[1];
+    const key = colorKeyMap[speakerKey] || speakerKey;
+    const name = speakerName(speakerKey);
+    const entry = entryForSpeaker(speakerKey);
+    const speaker = characterMarkup(name, key, entry?.key, 'novel-speaker dialogue-speaker', interactiveNames);
+    return `<span class="novel-dialogue dialogue-card character-${key}">${speaker}<b class="dialogue-quote">${match[2]}</b></span>`;
   }).join('\n');
 }
 
@@ -61,7 +81,7 @@ function rankBadgeMarkup(rank: string, name: string, season?: number): string {
   return `<span class="rank-badge rank-badge--${tone}">${label}</span>`;
 }
 
-function annotateNamesForSeason(text: string, season?: number): string {
+function annotateNamesForSeason(text: string, season: number | undefined, interactiveNames: boolean): string {
   let out = String(text || '');
   const held: string[] = [];
   out = out.replace(/<span[\s\S]*?<\/span>/g, (markup) => {
@@ -79,7 +99,9 @@ function annotateNamesForSeason(text: string, season?: number): string {
       const rank = effectiveRank(name, season);
       const badge = rankBadgeMarkup(rank, name, season);
       const token = `@@NAME${placeholders.length}@@`;
-      placeholders.push(`<span class="ranked-name"><span class="novel-character-name character-${key}">${name}</span>${badge}</span>`);
+      const entry = entryForAlias(name);
+      const label = characterMarkup(name, key, entry?.key, 'novel-character-name', interactiveNames);
+      placeholders.push(`<span class="ranked-name">${label}${badge}</span>`);
       return token;
     });
   });
@@ -90,7 +112,7 @@ function annotateNamesForSeason(text: string, season?: number): string {
 }
 
 /** Render an episode/legend body: dialogue cards, skill callouts, and ranked names. */
-export function renderNovel(text: string, season?: number): string {
-  const html = annotateNamesForSeason(annotateSkills(annotateDialogue(text)), season);
+export function renderNovel(text: string, season?: number, options: RenderNovelOptions = {}): string {
+  const html = annotateNamesForSeason(annotateSkills(annotateDialogue(text, Boolean(options.interactiveNames))), season, Boolean(options.interactiveNames));
   return html.replace(/\n*(<span class="novel-dialogue[\s\S]*?<\/span>)\n*/g, '$1');
 }

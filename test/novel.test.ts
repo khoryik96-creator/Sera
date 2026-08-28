@@ -53,6 +53,21 @@ describe('renderNovel', () => {
     expect(out).not.toContain('#1 - Kael');
   });
 
+  it('keeps ordinary render contexts non-interactive by default', () => {
+    const out = renderNovel('Sera spoke.\n[[speaker:rhen]]Tea?');
+    expect(out).not.toContain('novel-lore-link');
+    expect(out).not.toContain('data-character-key');
+  });
+
+  it('adds accessible character hooks only for the focused reader', () => {
+    const out = renderNovel('Sera spoke.\n[[speaker:rhen]]Tea?', 10, { interactiveNames: true });
+    expect(out).toContain('novel-lore-link');
+    expect(out).toContain('data-character-key="sera"');
+    expect(out).toContain('aria-label="Open lore for Sera"');
+    expect(out).toContain('data-character-key="rhen"');
+    expect(out).toContain('aria-label="Open lore for Rhen"');
+  });
+
   it('replaces legacy inline rank text instead of duplicating it', () => {
     const out = renderNovel('#1 - Kael arrived beside Former #6 - Sera.', 60);
     expect(out).not.toContain('#1 - Kael');
