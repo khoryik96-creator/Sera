@@ -5,6 +5,7 @@ import { characterAppearanceSeasons, characterLegends, rankJourney, relatedChara
 import type { AppearanceScan } from '../../shared/characterInsights';
 import { cleanCharacterName, rankLabel, rankStatus } from '../../shared/rankState';
 import { PageHeader, RankBadge } from '../../components/Shared';
+import '../../styles/characters-v2-hardening.css';
 
 interface CharactersPageProps {
   selectedKey: string | null;
@@ -53,6 +54,7 @@ export function CharactersPage({ selectedKey, onOpenCharacter, onOpenChapter }: 
   const relationships = useMemo(() => relatedCharacters(activeKey, displayName), [activeKey, displayName]);
   const legends = useMemo(() => characterLegends(activeKey, displayName), [activeKey, displayName]);
   const appearanceSeasons = useMemo(() => characterAppearanceSeasons(activeKey, displayName), [activeKey, displayName]);
+  const signatureSkills = DB.topSkills[activeKey] || [];
 
   async function loadAppearances(): Promise<void> {
     setAppearanceLoading(true);
@@ -68,7 +70,7 @@ export function CharactersPage({ selectedKey, onOpenCharacter, onOpenChapter }: 
 
   return (
     <section>
-      <PageHeader eyebrow="Character archive" title="Characters" description="Profiles, rank history, relationship links, major legends, and story appearances derived from the same canon data that drives the reader." />
+      <PageHeader eyebrow="Character archive" title="Characters" description="Profiles, signature martial arts, rank history, relationship links, major legends, and story appearances derived from the same canon data that drives the reader." />
       <div className="character-workspace character-workspace--v2">
         <aside className="character-browser">
           <input className="filter-input" value={filter} onChange={(event: { target: HTMLInputElement }) => setFilter(event.target.value)} placeholder="Filter characters…" aria-label="Filter characters" />
@@ -106,6 +108,7 @@ export function CharactersPage({ selectedKey, onOpenCharacter, onOpenChapter }: 
               <div className="tag-row">{(character.tags || []).map((tag) => <span key={tag}>{tag}</span>)}</div>
               <div className="character-v2-stats" aria-label={`${displayName} profile summary`}>
                 <div><span>Rank states</span><strong>{journey.length || 1}</strong><small>{currentRank || 'Unranked / outside system'}</small></div>
+                <div><span>Signature arts</span><strong>{signatureSkills.length}</strong><small>{signatureSkills.length ? 'archived techniques' : 'no ranked skill table'}</small></div>
                 <div><span>Story footprint</span><strong>{appearanceSeasons.length}</strong><small>season{appearanceSeasons.length === 1 ? '' : 's'} in cast data</small></div>
                 <div><span>Linked legends</span><strong>{legends.length}</strong><small>repository legend{legends.length === 1 ? '' : 's'}</small></div>
               </div>
@@ -121,6 +124,7 @@ export function CharactersPage({ selectedKey, onOpenCharacter, onOpenChapter }: 
           <nav className="character-section-nav" aria-label={`${displayName} profile sections`}>
             <button onClick={() => jumpToProfileSection('characterProfileTop')} type="button">Profile</button>
             <button onClick={() => jumpToProfileSection('characterRankSection')} type="button">Rank</button>
+            {signatureSkills.length ? <button onClick={() => jumpToProfileSection('characterSkillsSection')} type="button">Skills</button> : null}
             <button onClick={() => jumpToProfileSection('characterRelationshipsSection')} type="button">Relations</button>
             <button onClick={() => jumpToProfileSection('characterLegendsSection')} type="button">Legends</button>
             <button onClick={() => jumpToProfileSection('characterAppearancesSection')} type="button">Episodes</button>
@@ -135,6 +139,24 @@ export function CharactersPage({ selectedKey, onOpenCharacter, onOpenChapter }: 
               </div>
             ) : <div className="character-v2-empty">No numeric ranking history is recorded for this character.</div>}
           </section>
+
+          {signatureSkills.length ? (
+            <section className="character-v2-section" id="characterSkillsSection" aria-labelledby="characterSkillsHeading">
+              <div className="character-v2-heading"><div><p className="eyebrow">Signature martial arts</p><h3 id="characterSkillsHeading">Ranked techniques</h3></div><span>{signatureSkills.length} archived skill{signatureSkills.length === 1 ? '' : 's'}</span></div>
+              <div className="character-skill-grid">
+                {signatureSkills.map((skill, index) => (
+                  <article className="character-skill-card" key={`${skill.name}-${index}`}>
+                    <span className="character-skill-card__index">{index === signatureSkills.length - 1 ? 'Ω' : String(index + 1).padStart(2, '0')}</span>
+                    <div className="character-skill-card__copy">
+                      <div><h4>{skill.name}</h4><span className="character-skill-card__rating">{skill.rating}</span></div>
+                      <div className="character-skill-card__meta"><span>{skill.category}</span>{skill.signature ? <span className="character-skill-card__signature">{skill.signature}</span> : null}</div>
+                      <p>{skill.description}</p>
+                    </div>
+                  </article>
+                ))}
+              </div>
+            </section>
+          ) : null}
 
           <section className="character-v2-section" id="characterRelationshipsSection" aria-labelledby="relationshipsHeading">
             <div className="character-v2-heading"><div><p className="eyebrow">Relationships</p><h3 id="relationshipsHeading">Connections</h3></div><span>Derived from existing profile records</span></div>
