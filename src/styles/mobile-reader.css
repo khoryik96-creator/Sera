@@ -23,7 +23,6 @@ button,.tab,.char-nav-item,.portrait-gallery__thumb,.nav-step,.nav-season,.nav-e
 
 /* Horizontal navigation is easier than wrapping into a tall wall on phones. */
 @media(max-width:760px){
-  body{padding-bottom:calc(72px + env(safe-area-inset-bottom))}
   .wrap{padding-left:14px;padding-right:14px}
   header.repo-topbar{padding:14px 14px 8px;display:flex;align-items:center;justify-content:space-between;gap:10px}
   .repo-brand h1{font-size:21px;line-height:1.1}
@@ -54,17 +53,19 @@ button,.tab,.char-nav-item,.portrait-gallery__thumb,.nav-step,.nav-season,.nav-e
   .table-card{overflow-x:auto;-webkit-overflow-scrolling:touch}
   table{font-size:14px}
 
-  #episodeJumpBar{position:fixed!important;left:8px;right:8px;bottom:calc(8px + env(safe-area-inset-bottom));z-index:180;margin:0!important;border:1px solid rgba(255,255,255,.12);border-radius:16px;background:rgba(15,17,21,.96)!important;box-shadow:0 14px 40px rgba(0,0,0,.5);backdrop-filter:blur(16px)}
-  #episodeJumpBar .nav-core{min-height:52px;padding:6px;gap:4px}
-  #episodeJumpBar button{min-width:44px;min-height:44px;padding:7px 9px}
-  #episodeJumpBar .nav-season{min-width:58px}
-  #episodeJumpBar .nav-ep{min-width:72px}
-  #episodeJumpBar .nav-spacer{min-width:0}
+  /* Lucy-style reader navigation: sticky and in-flow, never a screen-covering fixed dock. */
+  #episodeJumpBar{position:sticky!important;left:auto!important;right:auto!important;bottom:auto!important;top:96px!important;z-index:92;margin:10px 0 14px!important;border:1px solid rgba(255,255,255,.12);border-radius:13px;background:rgba(15,17,21,.96)!important;box-shadow:0 10px 28px rgba(0,0,0,.34);backdrop-filter:blur(16px)}
+  #episodeJumpBar .nav-core{min-height:48px;padding:5px;gap:4px;overflow-x:auto;overscroll-behavior-inline:contain;scrollbar-width:none}
+  #episodeJumpBar .nav-core::-webkit-scrollbar{display:none}
+  #episodeJumpBar button{flex:0 0 auto;min-width:40px;min-height:40px;padding:6px 8px}
+  #episodeJumpBar .nav-season{min-width:54px}
+  #episodeJumpBar .nav-ep{min-width:68px}
+  #episodeJumpBar .nav-spacer{min-width:0;flex:1 1 8px}
   #episodeJumpBar .nav-icon-label{display:none}
-  #episodeJumpBar .nav-pop{position:absolute!important;left:0!important;right:0!important;bottom:calc(100% + 8px)!important;top:auto!important;max-height:min(58vh,460px);overflow:auto;-webkit-overflow-scrolling:touch;border-radius:16px;box-shadow:0 -16px 42px rgba(0,0,0,.45)}
+  #episodeJumpBar .nav-pop{position:absolute!important;left:0!important;right:0!important;top:calc(100% + 6px)!important;bottom:auto!important;max-height:min(38vh,320px);overflow:auto;-webkit-overflow-scrolling:touch;border-radius:13px;box-shadow:0 16px 38px rgba(0,0,0,.42)}
   .season-picker{grid-template-columns:repeat(8,minmax(0,1fr))!important}
   .episode-pad{grid-template-columns:repeat(5,minmax(0,1fr))!important}
-  .season-chip,.epnum{min-width:0!important;min-height:44px!important;padding:8px 4px!important}
+  .season-chip,.epnum{min-width:0!important;min-height:40px!important;padding:7px 4px!important}
 
   .arc-head,.episode-season-head{align-items:flex-start!important}
   .arc-head h2,.episode-season-head h2{font-size:17px!important;line-height:1.25}
@@ -82,6 +83,7 @@ button,.tab,.char-nav-item,.portrait-gallery__thumb,.nav-step,.nav-season,.nav-e
 @media(max-width:390px){
   .repo-status .episode-chip{display:none}
   .repo-status{max-width:42%}
+  #episodeJumpBar{top:92px!important}
   .season-picker{grid-template-columns:repeat(6,minmax(0,1fr))!important}
 }
 
