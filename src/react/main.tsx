@@ -9,6 +9,7 @@ import './styles/mobile.css';
 import './styles/pwa.css';
 import './styles/visual-polish.css';
 import './styles/performance.css';
+import './styles/ux-audit.css';
 
 async function preloadInitialRoute(): Promise<void> {
   const raw = decodeURIComponent(window.location.hash.replace(/^#\/?/, '')).trim();
