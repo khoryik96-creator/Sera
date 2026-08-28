@@ -17,13 +17,14 @@ describe('reader library', () => {
     ]);
   });
 
-  it('creates and restores only known reader-state fields including notes', () => {
+  it('creates and restores known reader-state fields including notes and passages', () => {
     const backup = createReaderBackup({
       bookmarks: [{ id: 'ep-s2-e1', season: 2, title: 'Saved' }],
       lastRead: { id: 'ep-s2-e2', season: 2, title: 'Continue' },
       readEpisodes: ['ep-s2-e1', 'ep-s2-e2'],
       history: [{ id: 'ep-s2-e2', season: 2, title: 'Continue', openedAt: 1234 }],
       notes: [{ id: 'ep-s2-e2', season: 2, title: 'Continue', text: 'Remember the callback.', updatedAt: 2222 }],
+      passages: [{ key: 'ep-s2-e2:3333', id: 'ep-s2-e2', season: 2, title: 'Continue', text: 'A line worth keeping.', createdAt: 3333 }],
       preferences,
     });
     const parsed = parseReaderBackup(JSON.stringify(backup));
@@ -32,10 +33,11 @@ describe('reader library', () => {
     expect(JSON.parse(localStorage.getItem('tqr:readEpisodes:v1') || '[]')).toEqual(['ep-s2-e1', 'ep-s2-e2']);
     expect(JSON.parse(localStorage.getItem('tqr:readingHistory:v1') || '[]')[0].id).toBe('ep-s2-e2');
     expect(JSON.parse(localStorage.getItem('tqr:episodeNotes:v1') || '[]')[0].text).toBe('Remember the callback.');
+    expect(JSON.parse(localStorage.getItem('tqr:savedPassages:v1') || '[]')[0].text).toBe('A line worth keeping.');
     expect(JSON.parse(localStorage.getItem('tqr:react-reader-prefs-v2') || '{}')).toEqual(preferences);
   });
 
-  it('keeps old v1 backups valid by defaulting missing notes to empty', () => {
+  it('keeps old v1 backups valid by defaulting missing notes and passages to empty', () => {
     const parsed = parseReaderBackup(JSON.stringify({
       product: 'The Quiet Regular',
       version: 1,
@@ -46,6 +48,7 @@ describe('reader library', () => {
       preferences,
     }));
     expect(parsed.notes).toEqual([]);
+    expect(parsed.passages).toEqual([]);
   });
 
   it('rejects malformed or phantom episode progress', () => {
@@ -59,6 +62,7 @@ describe('reader library', () => {
       readEpisodes: ['ep-s64-e99'],
       history: [],
       notes: [],
+      passages: [],
       preferences,
     }))).toThrow(/reading progress/i);
   });
@@ -72,6 +76,7 @@ describe('reader library', () => {
       readEpisodes: [],
       history: [],
       notes: [],
+      passages: [],
       preferences,
     }))).toThrow(/bookmarks/i);
   });
@@ -85,7 +90,22 @@ describe('reader library', () => {
       readEpisodes: [],
       history: [],
       notes: [{ id: 'ep-s1-e1', season: 2, title: 'Mismatch', text: 'Nope', updatedAt: 1 }],
+      passages: [],
       preferences,
     }))).toThrow(/episode notes/i);
+  });
+
+  it('rejects saved passages whose season metadata conflicts with the episode id', () => {
+    expect(() => parseReaderBackup(JSON.stringify({
+      product: 'The Quiet Regular',
+      version: 1,
+      bookmarks: [],
+      lastRead: null,
+      readEpisodes: [],
+      history: [],
+      notes: [],
+      passages: [{ key: 'bad', id: 'ep-s1-e1', season: 2, title: 'Mismatch', text: 'Nope', createdAt: 1 }],
+      preferences,
+    }))).toThrow(/saved passages/i);
   });
 });
