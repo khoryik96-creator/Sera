@@ -36,6 +36,9 @@ jobs:
       - name: Build
         run: npm run build
 
+      - name: Performance budget
+        run: npm run budget:perf
+
       - name: Single-file compatibility build
         run: npm run build:single
 
