@@ -16,6 +16,7 @@
     "validate:assets": "node scripts/validate-assets.mjs",
     "audit:prod": "npm audit --omit=dev --audit-level=high",
     "quality": "npm run prepare:data && tsc --noEmit && eslint . && vitest run && node scripts/validate-assets.mjs && npm run audit:prod",
+    "budget:perf": "node scripts/check-performance-budget.mjs",
     "test:e2e": "playwright test"
   },
   "devDependencies": {

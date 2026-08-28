@@ -51,10 +51,12 @@ async function sourceCoreCounts(): Promise<CoreCounts> {
 async function openSeasonFromArchive(page: import('@playwright/test').Page, season: number) {
   const target = String(season).padStart(2, '0');
   const arcs = page.locator('.arc-card');
+  await expect(arcs).toHaveCount(13, { timeout: 20_000 });
   const arcCount = await arcs.count();
   for (let index = 0; index < arcCount; index += 1) {
     await arcs.nth(index).click();
     await expect(arcs.nth(index)).toHaveAttribute('aria-pressed', 'true');
+    await expect(page.locator('.season-card').first()).toBeVisible({ timeout: 20_000 });
     const number = page.locator('.season-card__number').filter({ hasText: new RegExp(`^${target}$`) });
     if (await number.count()) return number.first().locator('..');
   }

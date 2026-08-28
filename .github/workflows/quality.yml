@@ -29,6 +29,9 @@ jobs:
       - name: Web build
         run: npm run build
 
+      - name: Performance budget
+        run: npm run budget:perf
+
       - name: Single-file build
         run: npm run build:single
 

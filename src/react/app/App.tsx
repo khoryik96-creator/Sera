@@ -1,22 +1,23 @@
 import type { KeyboardEvent as ReactKeyboardEvent, ReactNode } from 'react';
-import { useEffect, useMemo, useRef, useState } from 'react';
+import { lazy, Suspense, useEffect, useMemo, useRef, useState } from 'react';
 import { DB } from '../../db';
 import { navigationItems } from './navigation';
 import type { AppSection } from './navigation';
-import { OverviewPage } from '../features/overview/OverviewPage';
-import { CharactersPage } from '../features/characters/CharactersPage';
-import { VillainsPage } from '../features/villains/VillainsPage';
-import { TechniquesPage } from '../features/techniques/TechniquesPage';
-import { ChaptersPage } from '../features/chapters/ChaptersPage';
-import { ReaderPage } from '../features/reader/ReaderPage';
-import { RankingsPage } from '../features/rankings/RankingsPage';
-import { BookmarksPage } from '../features/bookmarks/BookmarksPage';
-import { LegendsPage } from '../features/legends/LegendsPage';
-import { FormerPage } from '../features/former/FormerPage';
-import { TimelinePage } from '../features/timeline/TimelinePage';
-import { CanonPage } from '../features/canon/CanonPage';
-import { SearchPalette } from '../features/search/SearchPalette';
 import { useReaderState } from '../features/reader/ReaderContext';
+
+const OverviewPage = lazy(() => import('../routes/OverviewRoute').then((module) => ({ default: module.OverviewPage })));
+const CharactersPage = lazy(() => import('../routes/CharactersRoute').then((module) => ({ default: module.CharactersPage })));
+const VillainsPage = lazy(() => import('../features/villains/VillainsPage').then((module) => ({ default: module.VillainsPage })));
+const TechniquesPage = lazy(() => import('../features/techniques/TechniquesPage').then((module) => ({ default: module.TechniquesPage })));
+const ChaptersPage = lazy(() => import('../routes/ChaptersRoute').then((module) => ({ default: module.ChaptersPage })));
+const ReaderPage = lazy(() => import('../routes/ReaderRoute').then((module) => ({ default: module.ReaderPage })));
+const RankingsPage = lazy(() => import('../features/rankings/RankingsPage').then((module) => ({ default: module.RankingsPage })));
+const BookmarksPage = lazy(() => import('../features/bookmarks/BookmarksPage').then((module) => ({ default: module.BookmarksPage })));
+const LegendsPage = lazy(() => import('../features/legends/LegendsPage').then((module) => ({ default: module.LegendsPage })));
+const FormerPage = lazy(() => import('../features/former/FormerPage').then((module) => ({ default: module.FormerPage })));
+const TimelinePage = lazy(() => import('../features/timeline/TimelinePage').then((module) => ({ default: module.TimelinePage })));
+const CanonPage = lazy(() => import('../features/canon/CanonPage').then((module) => ({ default: module.CanonPage })));
+const SearchPalette = lazy(() => import('../routes/SearchRoute').then((module) => ({ default: module.SearchPalette })));
 
 interface RouteState {
   section: AppSection;
@@ -63,6 +64,10 @@ function episodeNumber(id: string): number {
 
 function firstSearchResult(): HTMLButtonElement | null {
   return document.querySelector<HTMLButtonElement>('[data-search-result="true"]');
+}
+
+function RouteFallback(): ReactNode {
+  return <div className="route-loading" role="status"><span className="status-dot" /><span>Opening section…</span></div>;
 }
 
 export function App() {
@@ -237,10 +242,16 @@ export function App() {
           {navigationItems.map((item) => <button aria-current={activeSection === item.id ? 'page' : undefined} className={activeSection === item.id ? 'is-active' : ''} key={item.id} onClick={() => openSection(item.id)} type="button">{item.shortLabel}</button>)}
         </nav>
 
-        <main id="mainContent" className="content" tabIndex={-1}>{page}</main>
+        <main id="mainContent" className="content" tabIndex={-1}>
+          <Suspense fallback={<RouteFallback />}>{page}</Suspense>
+        </main>
       </div>
 
-      <SearchPalette open={searchOpen} query={searchQuery} onClose={closeSearch} onOpenSection={openSection} onOpenCharacter={openCharacter} onOpenChapter={openChapter} />
+      {searchOpen ? (
+        <Suspense fallback={null}>
+          <SearchPalette open query={searchQuery} onClose={closeSearch} onOpenSection={openSection} onOpenCharacter={openCharacter} onOpenChapter={openChapter} />
+        </Suspense>
+      ) : null}
     </div>
   );
 }
