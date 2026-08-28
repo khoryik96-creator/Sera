@@ -34,22 +34,34 @@ interface SearchResult {
 }
 
 const sectionIds = new Set<PreviewSection>(navigationItems.map((item) => item.id));
+const legacySectionAliases: Readonly<Record<string, PreviewSection>> = {
+  others: 'villains',
+  skills: 'techniques',
+  episodes: 'chapters',
+  'sera-timeline': 'timeline',
+};
+
+function readChapterRoute(raw: string): RouteState | null {
+  if (!raw.startsWith('chapter/') && !raw.startsWith('episodes/')) return null;
+  const [, seasonRaw, episodeRaw] = raw.split('/');
+  const season = Number(seasonRaw);
+  const episode = Number(episodeRaw);
+  if (!Number.isInteger(season) || !Number.isInteger(episode) || season < 1 || season > 64 || episode < 1) return null;
+  return { section: 'chapters', characterKey: null, chapter: { season, episode } };
+}
 
 function readRoute(): RouteState {
-  const raw = decodeURIComponent(window.location.hash.replace(/^#/, ''));
-  if (raw.startsWith('chapter/')) {
-    const [, seasonRaw, episodeRaw] = raw.split('/');
-    const season = Number(seasonRaw);
-    const episode = Number(episodeRaw);
-    if (Number.isInteger(season) && Number.isInteger(episode) && season >= 1 && season <= 64 && episode >= 1) {
-      return { section: 'chapters', characterKey: null, chapter: { season, episode } };
-    }
-  }
+  const raw = decodeURIComponent(window.location.hash.replace(/^#\/?/, '')).trim();
+  const chapterRoute = readChapterRoute(raw);
+  if (chapterRoute) return chapterRoute;
+
   if (raw.startsWith('characters/')) {
     const key = raw.slice('characters/'.length);
     return { section: 'characters', characterKey: DB.characters[key] ? key : null, chapter: null };
   }
-  if (sectionIds.has(raw as PreviewSection)) return { section: raw as PreviewSection, characterKey: null, chapter: null };
+
+  const section = legacySectionAliases[raw] || raw;
+  if (sectionIds.has(section as PreviewSection)) return { section: section as PreviewSection, characterKey: null, chapter: null };
   return { section: 'overview', characterKey: null, chapter: null };
 }
 
