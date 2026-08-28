@@ -1,4 +1,4 @@
-import { useEffect, useState } from 'react';
+import { useEffect, useRef, useState } from 'react';
 import type { CSSProperties, MouseEvent as ReactMouseEvent } from 'react';
 import { characterRegistry } from '../../../characterRegistry';
 import { DB } from '../../../db';
@@ -10,6 +10,7 @@ import type { Episode } from '../../../types';
 import { RankBadge } from '../../components/Shared';
 import { cleanCharacterName, rankLabel, rankStatus } from '../../shared/rankState';
 import '../../styles/contextual-lore.css';
+import '../../styles/passages.css';
 import { EpisodeNoteEditor } from './EpisodeNoteEditor';
 import { useReaderState } from './ReaderContext';
 import type { ReaderFont, ReaderSpacing, ReaderWidth } from './ReaderContext';
@@ -31,6 +32,7 @@ const LINE_HEIGHTS: Record<ReaderSpacing, number> = { compact: 1.66, comfortable
 const SPACING_LABELS: Record<ReaderSpacing, string> = { compact: 'Compact', comfortable: 'Comfort', relaxed: 'Relaxed' };
 const WIDTHS: Record<ReaderWidth, string> = { narrow: '640px', standard: '760px', wide: '900px' };
 const WIDTH_LABELS: Record<ReaderWidth, string> = { narrow: 'Narrow', standard: 'Standard', wide: 'Wide' };
+const MAX_SELECTED_PASSAGE = 1600;
 
 type ReaderSurfaceStyle = CSSProperties & {
   '--reader-scale': number;
@@ -45,6 +47,7 @@ export function ReaderPage({ season, episode, onBack, onOpenChapter }: ReaderPag
     readEpisodes,
     markRead,
     toggleSaved,
+    savePassage,
     scale,
     font,
     spacing,
@@ -59,12 +62,17 @@ export function ReaderPage({ season, episode, onBack, onOpenChapter }: ReaderPag
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState('');
   const [loreKey, setLoreKey] = useState<string | null>(null);
+  const [selectedPassage, setSelectedPassage] = useState('');
+  const [passageNotice, setPassageNotice] = useState('');
+  const proseRef = useRef<HTMLDivElement>(null);
 
   useEffect(() => {
     let alive = true;
     setLoading(true);
     setError('');
     setLoreKey(null);
+    setSelectedPassage('');
+    setPassageNotice('');
     loadSeason(season).then((rows) => {
       if (!alive) return;
       setEpisodes(rows);
@@ -106,7 +114,35 @@ export function ReaderPage({ season, episode, onBack, onOpenChapter }: ReaderPag
     if (season < 64) onOpenChapter(season + 1, 1);
   }
 
+  function capturePassageSelection(): void {
+    const root = proseRef.current;
+    const selection = window.getSelection();
+    if (!root || !selection || selection.isCollapsed || !selection.rangeCount) {
+      setSelectedPassage('');
+      return;
+    }
+    const range = selection.getRangeAt(0);
+    if (!root.contains(range.startContainer) || !root.contains(range.endContainer)) {
+      setSelectedPassage('');
+      return;
+    }
+    const selected = selection.toString().replace(/\s+/g, ' ').trim().slice(0, MAX_SELECTED_PASSAGE);
+    setSelectedPassage(selected.length >= 3 ? selected : '');
+    if (selected.length >= 3) setPassageNotice('');
+  }
+
+  function saveSelectedPassage(): void {
+    if (!bookmark || !selectedPassage) return;
+    savePassage({ ...bookmark, text: selectedPassage });
+    setSelectedPassage('');
+    setPassageNotice('✓ Passage saved');
+    window.getSelection()?.removeAllRanges();
+    window.setTimeout(() => setPassageNotice(''), 1800);
+  }
+
   function handleProseClick(event: ReactMouseEvent<HTMLElement>): void {
+    const selectionText = window.getSelection()?.toString().trim() || '';
+    if (selectedPassage || selectionText) return;
     const target = event.target as HTMLElement;
     const reference = target.closest<HTMLElement>('[data-character-key]');
     const key = reference?.dataset.characterKey;
@@ -171,6 +207,8 @@ export function ReaderPage({ season, episode, onBack, onOpenChapter }: ReaderPag
             <button onClick={cycleSpacing} type="button">Spacing · {SPACING_LABELS[spacing]}</button>
             <button onClick={cycleWidth} type="button">Width · {WIDTH_LABELS[width]}</button>
             <button className="reader-controls__reset" onClick={resetPreferences} type="button">Reset</button>
+            {selectedPassage ? <button className="reader-passage-save" onClick={saveSelectedPassage} type="button">Save passage · {selectedPassage.length} chars</button> : null}
+            {passageNotice ? <span className="reader-passage-notice" role="status">{passageNotice}</span> : null}
           </div>
 
           {bookmark ? <EpisodeNoteEditor episode={bookmark} /> : null}
@@ -189,8 +227,8 @@ export function ReaderPage({ season, episode, onBack, onOpenChapter }: ReaderPag
             </aside>
           ) : null}
 
-          <article className="reader-surface" onClick={handleProseClick} style={surfaceStyle}>
-            <div className="reader-prose" dangerouslySetInnerHTML={{ __html: renderNovel(current.text, season, { interactiveNames: true }) }} />
+          <article className="reader-surface" onClick={handleProseClick} onKeyUp={capturePassageSelection} onMouseUp={capturePassageSelection} onTouchEnd={() => window.setTimeout(capturePassageSelection, 0)} style={surfaceStyle}>
+            <div ref={proseRef} className="reader-prose" dangerouslySetInnerHTML={{ __html: renderNovel(current.text, season, { interactiveNames: true }) }} />
           </article>
 
           <nav className="reader-nav reader-nav--v3" aria-label="Episode navigation">
