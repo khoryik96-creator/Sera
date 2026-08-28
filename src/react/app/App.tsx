@@ -198,7 +198,7 @@ export function App() {
     page = <ReaderPage season={route.chapter.season} episode={route.chapter.episode} onBack={() => openSection('chapters')} onOpenChapter={openChapter} />;
   } else {
     switch (route.section) {
-      case 'characters': page = <CharactersPage selectedKey={route.characterKey} onOpenCharacter={openCharacter} />; break;
+      case 'characters': page = <CharactersPage selectedKey={route.characterKey} onOpenCharacter={openCharacter} onOpenChapter={openChapter} />; break;
       case 'villains': page = <VillainsPage />; break;
       case 'techniques': page = <TechniquesPage />; break;
       case 'chapters': page = <ChaptersPage onOpenChapter={openChapter} />; break;
