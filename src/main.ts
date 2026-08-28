@@ -2,73 +2,84 @@ import './styles.css';
 import './styles/portraits.css';
 import './styles/rank-badges.css';
 import './styles/episodes.css';
+import './styles/mobile-reader.css';
 import { getEl } from './dom';
 import { loadDB } from './db';
-import { renderCharacterButtons, renderCharacter, mountCharacterEvents } from './characters';
-import { renderSkills, renderSeraSkills } from './skills';
+import { renderCharacterButtons, mountCharacterEvents } from './characters';
+import { renderSkills } from './skills';
 import { renderRanks } from './ranks';
 import { renderLegends } from './legends';
 import { renderFormer } from './former';
 import { renderSeraTimeline } from './seraTimeline';
-import { renderEpisodes, mountEpisodeLazyRendering } from './episodes';
-import { prepareEpisodeArchive } from './episodeStructure';
+import { renderEpisodes } from './episodes';
 import { renderArcFigures } from './arcFigures';
-import { renderColorKey } from './colorKey';
-import { initEpisodeNav } from './episodeNav';
-import { activateTab } from './tabs';
+import { navigateToTab, navigateToCharacter, applyCurrentRoute, initRouter } from './router';
+import { showAppLoading, hideAppStatus, showAppError } from './appStatus';
+import { renderBuildInfo } from './version';
+import { initPwa } from './pwa';
 
-/** Attach static-element listeners (tabs, search boxes, quicklinks). */
+function visiblePanelId(): string | undefined {
+  return [...document.querySelectorAll('.panel')].find((panel) => !panel.classList.contains('hidden'))?.id;
+}
+
 function wireEvents(): void {
-  document.querySelectorAll<HTMLElement>('.tab').forEach((btn) => btn.addEventListener('click', () => {
-    if (btn.dataset.tab) activateTab(btn.dataset.tab);
+  document.querySelectorAll<HTMLElement>('.tab').forEach((button) => button.addEventListener('click', () => {
+    if (button.dataset.tab) void navigateToTab(button.dataset.tab);
   }));
 
-  getEl<HTMLInputElement>('search').addEventListener('input', (e) => {
-    const q = (e.target as HTMLInputElement).value;
-    const visible = [...document.querySelectorAll('.panel')].find((p) => !p.classList.contains('hidden'))?.id;
-    if (visible === 'characters') renderCharacterButtons(q);
-    else if (visible === 'others') renderArcFigures(q);
-    else if (visible === 'skills') renderSkills(q);
-    else if (visible === 'rankings') renderRanks(q);
-    else if (visible === 'legends') renderLegends(q);
-    else if (visible === 'former') renderFormer(q);
-    else if (visible === 'sera-timeline') renderSeraTimeline(q);
-    else if (visible === 'episodes') renderEpisodes(q);
+  const tabStrip = document.querySelector<HTMLElement>('.tab-strip');
+  tabStrip?.addEventListener('keydown', (event) => {
+    const current = (event.target as HTMLElement).closest<HTMLElement>('.tab');
+    if (!current) return;
+    const tabs = [...tabStrip.querySelectorAll<HTMLElement>('.tab')];
+    const index = tabs.indexOf(current);
+    let next = index;
+    if (event.key === 'ArrowRight') next = (index + 1) % tabs.length;
+    else if (event.key === 'ArrowLeft') next = (index - 1 + tabs.length) % tabs.length;
+    else if (event.key === 'Home') next = 0;
+    else if (event.key === 'End') next = tabs.length - 1;
+    else return;
+    event.preventDefault();
+    tabs[next].focus();
+    if (tabs[next].dataset.tab) void navigateToTab(tabs[next].dataset.tab!);
   });
 
-  getEl<HTMLInputElement>('legendSearch').addEventListener('input', (e) => renderLegends((e.target as HTMLInputElement).value));
-  getEl<HTMLInputElement>('otherSearch').addEventListener('input', (e) => renderArcFigures((e.target as HTMLInputElement).value));
+  getEl<HTMLInputElement>('search').addEventListener('input', (event) => {
+    const query = (event.target as HTMLInputElement).value;
+    const visible = visiblePanelId();
+    if (visible === 'characters') renderCharacterButtons(query);
+    else if (visible === 'others') renderArcFigures(query);
+    else if (visible === 'skills') renderSkills(query);
+    else if (visible === 'rankings') renderRanks(query);
+    else if (visible === 'legends') renderLegends(query);
+    else if (visible === 'former') renderFormer(query);
+    else if (visible === 'sera-timeline') renderSeraTimeline(query);
+    else if (visible === 'episodes') void renderEpisodes(query);
+  });
 
-  document.querySelectorAll<HTMLElement>('[data-scroll]').forEach((btn) => btn.addEventListener('click', () => {
-    const target = btn.dataset.scroll;
-    if (target) getEl(target).scrollIntoView({ behavior: 'smooth' });
+  getEl<HTMLInputElement>('legendSearch').addEventListener('input', (event) => renderLegends((event.target as HTMLInputElement).value));
+  getEl<HTMLInputElement>('otherSearch').addEventListener('input', (event) => renderArcFigures((event.target as HTMLInputElement).value));
+
+  document.querySelectorAll<HTMLElement>('[data-scroll]').forEach((button) => button.addEventListener('click', () => {
+    const target = button.dataset.scroll;
+    if (target) getEl(target).scrollIntoView({ behavior: window.matchMedia('(prefers-reduced-motion: reduce)').matches ? 'auto' : 'smooth' });
   }));
 }
 
 async function main(): Promise<void> {
+  showAppLoading();
+  renderBuildInfo();
+  initPwa();
   await loadDB();
 
-  // Capture the old season headings once, replace them with a generated shell,
-  // and only materialize episode prose when a season is opened/navigated to.
-  prepareEpisodeArchive();
-
   wireEvents();
-  mountCharacterEvents();
-  renderCharacterButtons();
-  renderCharacter('sera');
-  renderArcFigures();
-  renderSkills();
-  renderSeraSkills();
-  renderRanks();
-  renderLegends();
-  renderFormer();
-  renderSeraTimeline();
-  renderColorKey();
-  mountEpisodeLazyRendering();
-  initEpisodeNav();
+  mountCharacterEvents((key) => { void navigateToCharacter(key); });
+  initRouter();
+  await applyCurrentRoute();
+  hideAppStatus();
 }
 
-main().catch((err) => {
-  console.error(err);
-  getEl('charDetail').innerHTML = '<div class="card muted">Failed to load lore data. Please refresh.</div>';
+main().catch((error) => {
+  console.error(error);
+  showAppError(error instanceof Error ? error.message : 'The lore archive could not be loaded.');
 });

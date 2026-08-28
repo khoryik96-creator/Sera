@@ -1,7 +1,6 @@
 import { defineConfig } from 'vite';
 
-// Web build: code-split, data.json fetched as a separate asset, images hashed.
-// - `src/main.ts` is the entry (loaded as a module from index.html)
+// Web build: core lore loads up front; season payloads remain independent chunks.
 export default defineConfig({
   base: './',
   define: {

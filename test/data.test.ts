@@ -5,31 +5,32 @@ import { characterImageMap } from '../src/images';
 import { normalizeDatabase } from '../src/db';
 import type { RawDatabase } from '../src/types';
 
-const data = normalizeDatabase(rawData as unknown as RawDatabase);
+const raw = rawData as unknown as RawDatabase;
+const data = normalizeDatabase(raw);
 
 describe('data integrity', () => {
-  it('has all 64 seasons as non-empty arrays', () => {
-    for (let s = 1; s <= 64; s++) {
-      const arr = data[`season${s}` as `season${number}`];
-      expect(Array.isArray(arr), `season${s}`).toBe(true);
-      expect(arr.length, `season${s}`).toBeGreaterThan(0);
+  it('has all 64 canonical seasons as non-empty arrays', () => {
+    for (let season = 1; season <= 64; season++) {
+      const episodes = raw[`season${season}` as `season${number}`];
+      expect(Array.isArray(episodes), `season${season}`).toBe(true);
+      expect(episodes.length, `season${season}`).toBeGreaterThan(0);
     }
   });
 
   it('every character in charOrder exists in the database', () => {
-    for (const k of charOrder) expect(data.characters[k], k).toBeDefined();
+    for (const key of charOrder) expect(data.characters[key], key).toBeDefined();
   });
 
   it('every portrait key maps to a real character', () => {
-    for (const k of Object.keys(characterImageMap)) expect(data.characters[k], k).toBeDefined();
+    for (const key of Object.keys(characterImageMap)) expect(data.characters[key], key).toBeDefined();
   });
 
   it('normalizes ranking rows into named objects', () => {
-    for (const r of data.ranks) {
-      expect(r.rank).toBeTruthy();
-      expect(r.name).toBeTruthy();
-      expect(r.className).toBeTypeOf('string');
-      expect(r.description).toBeTypeOf('string');
+    for (const rank of data.ranks) {
+      expect(rank.rank).toBeTruthy();
+      expect(rank.name).toBeTruthy();
+      expect(rank.className).toBeTypeOf('string');
+      expect(rank.description).toBeTypeOf('string');
     }
   });
 

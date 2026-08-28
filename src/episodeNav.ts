@@ -1,8 +1,4 @@
-/**
- * Compact, pinned episode navigator for the Episodes tab. Episode prose is now
- * rendered lazily, so navigation ensures a season is materialized before it
- * queries or scrolls to one of its cards.
- */
+/** Compact episode navigator for desktop and a bottom thumb bar on mobile. */
 
 import { getBookmarks, toggleBookmark, setLastRead, getLastRead, isBookmarked } from './bookmarks';
 import { ensureSeasonRendered } from './episodes';
@@ -15,6 +11,7 @@ interface SeasonRef {
 
 let seasons: SeasonRef[] = [];
 let curSeason = 1;
+let initialized = false;
 
 function el<T extends HTMLElement = HTMLElement>(id: string): T | null {
   return document.getElementById(id) as T | null;
@@ -22,55 +19,61 @@ function el<T extends HTMLElement = HTMLElement>(id: string): T | null {
 
 function collectSeasons(): SeasonRef[] {
   const out: SeasonRef[] = [];
-  document.querySelectorAll<HTMLElement>('#episodes .season-accordion').forEach((acc) => {
-    const container = acc.querySelector<HTMLElement>('[id^="episodeList"]');
+  document.querySelectorAll<HTMLElement>('#episodes .season-accordion').forEach((accordion) => {
+    const container = accordion.querySelector<HTMLElement>('[id^="episodeList"]');
     if (!container) return;
-    const season = Number(acc.dataset.season || (container.id === 'episodeList' ? 1 : container.id.replace('episodeListSeason', '')));
-    if (!Number.isFinite(season)) return;
-    out.push({ season, containerId: container.id });
+    const season = Number(accordion.dataset.season || (container.id === 'episodeList' ? 1 : container.id.replace('episodeListSeason', '')));
+    if (Number.isFinite(season)) out.push({ season, containerId: container.id });
   });
   return out.sort((a, b) => a.season - b.season);
 }
 
 function revealAncestors(node: HTMLElement | null): void {
-  let n: HTMLElement | null = node;
-  while (n) {
-    if (n instanceof HTMLDetailsElement) n.open = true;
-    n = n.parentElement;
+  let current: HTMLElement | null = node;
+  while (current) {
+    if (current instanceof HTMLDetailsElement) current.open = true;
+    current = current.parentElement;
   }
 }
 
 function scrollToEl(node: HTMLElement): void {
-  node.scrollIntoView({ behavior: 'smooth', block: 'start' });
+  node.scrollIntoView({ behavior: window.matchMedia('(prefers-reduced-motion: reduce)').matches ? 'auto' : 'smooth', block: 'start' });
 }
 
-function seasonCards(season: number): HTMLDetailsElement[] {
-  ensureSeasonRendered(season);
-  const ref = seasons.find((s) => s.season === season);
+async function seasonCards(season: number): Promise<HTMLDetailsElement[]> {
+  await ensureSeasonRendered(season);
+  const ref = seasons.find((item) => item.season === season);
   const container = ref ? el(ref.containerId) : null;
   return container ? [...container.querySelectorAll<HTMLDetailsElement>('.legend-card')] : [];
 }
 
-function seasonFromEpisodeId(id: string): number | null {
-  const match = id.match(/^ep-s(\d+)-e\d+$/);
-  return match ? Number(match[1]) : null;
+function routeForEpisode(season: number, episode: number): void {
+  const url = `${location.pathname}${location.search}#episodes/${season}/${episode}`;
+  history.pushState(null, '', url);
 }
 
-function jumpToEpisode(id: string): void {
-  const requestedSeason = seasonFromEpisodeId(id);
-  if (requestedSeason) ensureSeasonRendered(requestedSeason);
+async function jumpToEpisodeId(id: string, updateRoute = true): Promise<void> {
+  const match = id.match(/^ep-s(\d+)-e(\d+)$/);
+  if (!match) return;
+  const season = Number(match[1]);
+  const episode = Number(match[2]);
+  await ensureSeasonRendered(season);
   const target = document.getElementById(id);
   if (!target) return;
   revealAncestors(target);
-  scrollToEl(target);
-  const det = target as HTMLDetailsElement;
-  const season = Number(det.dataset.season);
-  setLastRead({ id, season, title: det.dataset.epTitle || '' });
+  const details = target as HTMLDetailsElement;
+  details.open = true;
+  setLastRead({ id, season, title: details.dataset.epTitle || '' });
   updateResumeButton();
-  if (Number.isFinite(season) && season !== curSeason) setSeason(season);
+  if (season !== curSeason) await setSeason(season);
+  if (updateRoute) routeForEpisode(season, episode);
+  requestAnimationFrame(() => scrollToEl(target));
 }
 
-/* ---------- pop-panels (one open at a time) ---------- */
+export async function jumpToEpisodeByNumber(season: number, episode: number, updateRoute = true): Promise<void> {
+  if (!Number.isInteger(season) || !Number.isInteger(episode) || season < 1 || episode < 1) return;
+  await jumpToEpisodeId(`ep-s${season}-e${episode}`, updateRoute);
+}
 
 const POPS: Record<string, string> = {
   seasonPicker: 'seasonCur',
@@ -86,89 +89,87 @@ function closePops(): void {
   }
 }
 
-function openPop(id: string): void {
+async function openPop(id: string): Promise<void> {
   for (const popId of Object.keys(POPS)) {
     const open = popId === id;
     const pop = el(popId);
     if (pop) pop.hidden = !open;
     el(POPS[popId])?.setAttribute('aria-expanded', String(open));
   }
-  if (id === 'episodePad') renderEpisodePad();
+  if (id === 'episodePad') await renderEpisodePad();
   if (id === 'bookmarksPanel') renderBookmarksPanel();
 }
 
 function togglePop(id: string): void {
   const pop = el(id);
   if (pop && !pop.hidden) closePops();
-  else openPop(id);
+  else void openPop(id);
 }
-
-/* ---------- season stepper + episode pad ---------- */
 
 function buildSeasonPicker(): void {
   const picker = el('seasonPicker');
   if (!picker) return;
-  picker.innerHTML = seasons
-    .map((s) => `<button type="button" class="season-chip" data-season="${s.season}">${s.season}</button>`)
-    .join('');
+  picker.innerHTML = seasons.map((item) => `<button type="button" class="season-chip" data-season="${item.season}" aria-label="Season ${item.season}">${item.season}</button>`).join('');
 }
 
-function renderEpisodePad(): void {
+async function renderEpisodePad(): Promise<void> {
   const pad = el('episodePad');
   if (!pad) return;
-  const cards = seasonCards(curSeason);
+  pad.setAttribute('aria-busy', 'true');
+  const cards = await seasonCards(curSeason);
+  pad.setAttribute('aria-busy', 'false');
   pad.innerHTML = cards.map((card) => {
-    const m = card.id.match(/-e(\d+)$/);
-    const num = m ? m[1] : '';
+    const match = card.id.match(/-e(\d+)$/);
+    const num = match ? match[1] : '';
     const marked = isBookmarked(card.id) ? ' is-marked' : '';
     const title = (card.dataset.epTitle || `Episode ${num}`).replace(/"/g, '&quot;');
-    return `<button type="button" class="epnum${marked}" data-target="${card.id}" title="${title}">${num}</button>`;
+    return `<button type="button" class="epnum${marked}" data-target="${card.id}" title="${title}" aria-label="Episode ${num}: ${title}">${num}</button>`;
   }).join('');
 }
 
-function setSeason(n: number): void {
+async function setSeason(season: number): Promise<void> {
   if (!seasons.length) return;
   const min = seasons[0].season;
   const max = seasons[seasons.length - 1].season;
-  curSeason = Math.min(Math.max(n, min), max);
-  ensureSeasonRendered(curSeason);
+  curSeason = Math.min(Math.max(season, min), max);
+  const label = el('episodeToggleLabel');
+  if (label) label.textContent = 'Loading…';
+  const cards = await seasonCards(curSeason);
   const numEl = el('seasonCurNum');
   if (numEl) numEl.textContent = String(curSeason);
-  const label = el('episodeToggleLabel');
-  if (label) label.textContent = `${seasonCards(curSeason).length} eps`;
+  if (label) label.textContent = `${cards.length} eps`;
   const prev = el<HTMLButtonElement>('seasonPrev');
   const next = el<HTMLButtonElement>('seasonNext');
   if (prev) prev.disabled = curSeason <= min;
   if (next) next.disabled = curSeason >= max;
-  el('seasonPicker')?.querySelectorAll<HTMLElement>('.season-chip').forEach((c) => {
-    c.classList.toggle('active', Number(c.dataset.season) === curSeason);
+  el('seasonPicker')?.querySelectorAll<HTMLElement>('.season-chip').forEach((chip) => {
+    chip.classList.toggle('active', Number(chip.dataset.season) === curSeason);
+    chip.setAttribute('aria-current', Number(chip.dataset.season) === curSeason ? 'true' : 'false');
   });
-  if (!el('episodePad')?.hidden) renderEpisodePad();
+  if (!el('episodePad')?.hidden) await renderEpisodePad();
 }
 
-/* ---------- bookmarks ---------- */
-
-function handleBookmarkClick(btn: HTMLElement): void {
-  const id = btn.dataset.epId;
+function handleBookmarkClick(button: HTMLElement): void {
+  const id = button.dataset.epId;
   if (!id) return;
-  const bm: Bookmark = { id, season: Number(btn.dataset.season), title: btn.dataset.epTitle || '' };
-  const nowOn = toggleBookmark(bm);
-  btn.classList.toggle('is-marked', nowOn);
-  btn.setAttribute('aria-pressed', String(nowOn));
-  btn.textContent = nowOn ? '★' : '☆';
-  if (!el('episodePad')?.hidden) renderEpisodePad();
+  const bookmark: Bookmark = { id, season: Number(button.dataset.season), title: button.dataset.epTitle || '' };
+  const nowOn = toggleBookmark(bookmark);
+  button.classList.toggle('is-marked', nowOn);
+  button.setAttribute('aria-pressed', String(nowOn));
+  button.textContent = nowOn ? '★' : '☆';
+  if (!el('episodePad')?.hidden) void renderEpisodePad();
   if (!el('bookmarksPanel')?.hidden) renderBookmarksPanel();
 }
 
 function updateResumeButton(): void {
-  const btn = el('resumeReading');
-  if (!btn) return;
+  const button = el('resumeReading');
+  if (!button) return;
   const last = getLastRead();
   if (last && seasons.some((season) => season.season === last.season)) {
-    btn.hidden = false;
-    btn.title = `Resume: ${last.title}`;
+    button.hidden = false;
+    button.title = `Resume: ${last.title}`;
   } else {
-    btn.hidden = true;
+    button.hidden = true;
   }
 }
 
@@ -180,70 +181,85 @@ function renderBookmarksPanel(): void {
     panel.innerHTML = '<p class="muted" style="margin:0;padding:4px 2px">No bookmarks yet. Tap the ☆ on any episode to save it here.</p>';
     return;
   }
-  panel.innerHTML = list
-    .slice()
-    .sort((a, b) => a.season - b.season)
-    .map((b) => `<button class="bookmark-item" data-jump="${b.id}"><span class="badge">S${b.season}</span> ${b.title || b.id}</button>`)
-    .join('');
+  panel.innerHTML = list.slice().sort((a, b) => a.season - b.season).map((bookmark) => `<button class="bookmark-item" data-jump="${bookmark.id}"><span class="badge">S${bookmark.season}</span> ${bookmark.title || bookmark.id}</button>`).join('');
 }
 
-export function initEpisodeNav(): void {
+export async function initEpisodeNav(): Promise<void> {
+  if (initialized) return;
+  initialized = true;
   seasons = collectSeasons();
   buildSeasonPicker();
-  setSeason(1);
+  await setSeason(1);
 
-  el('seasonPrev')?.addEventListener('click', () => setSeason(curSeason - 1));
-  el('seasonNext')?.addEventListener('click', () => setSeason(curSeason + 1));
+  el('seasonPrev')?.addEventListener('click', () => { void setSeason(curSeason - 1); });
+  el('seasonNext')?.addEventListener('click', () => { void setSeason(curSeason + 1); });
   el('seasonCur')?.addEventListener('click', () => togglePop('seasonPicker'));
   el('episodeToggle')?.addEventListener('click', () => togglePop('episodePad'));
   el('bookmarksToggle')?.addEventListener('click', () => togglePop('bookmarksPanel'));
 
-  el('seasonPicker')?.addEventListener('click', (e) => {
-    const chip = (e.target as HTMLElement).closest<HTMLElement>('.season-chip');
+  el('seasonPicker')?.addEventListener('click', (event) => {
+    const chip = (event.target as HTMLElement).closest<HTMLElement>('.season-chip');
     if (!chip?.dataset.season) return;
-    setSeason(Number(chip.dataset.season));
-    openPop('episodePad');
+    void (async () => {
+      await setSeason(Number(chip.dataset.season));
+      await openPop('episodePad');
+    })();
   });
 
-  el('episodePad')?.addEventListener('click', (e) => {
-    const btn = (e.target as HTMLElement).closest<HTMLElement>('.epnum');
-    if (!btn?.dataset.target) return;
-    jumpToEpisode(btn.dataset.target);
+  el('episodePad')?.addEventListener('click', (event) => {
+    const button = (event.target as HTMLElement).closest<HTMLElement>('.epnum');
+    if (!button?.dataset.target) return;
+    void jumpToEpisodeId(button.dataset.target);
     closePops();
   });
 
   el('resumeReading')?.addEventListener('click', () => {
     const last = getLastRead();
-    if (last) jumpToEpisode(last.id);
+    if (last) void jumpToEpisodeId(last.id);
   });
 
-  el('bookmarksPanel')?.addEventListener('click', (e) => {
-    const item = (e.target as HTMLElement).closest<HTMLElement>('[data-jump]');
+  el('bookmarksPanel')?.addEventListener('click', (event) => {
+    const item = (event.target as HTMLElement).closest<HTMLElement>('[data-jump]');
     if (!item?.dataset.jump) return;
-    jumpToEpisode(item.dataset.jump);
+    void jumpToEpisodeId(item.dataset.jump);
     closePops();
   });
 
-  document.addEventListener('click', (e) => {
-    if (!(e.target as HTMLElement).closest('#episodeJumpBar')) closePops();
+  document.addEventListener('click', (event) => {
+    if (!(event.target as HTMLElement).closest('#episodeJumpBar')) closePops();
   });
 
-  el('episodes')?.addEventListener('click', (e) => {
-    const t = e.target as HTMLElement;
-    const bm = t.closest<HTMLElement>('.ep-bookmark');
-    if (bm) {
-      e.preventDefault();
-      e.stopPropagation();
-      handleBookmarkClick(bm);
+  el('episodeJumpBar')?.addEventListener('keydown', (event) => {
+    if (event.key === 'ArrowLeft') {
+      event.preventDefault();
+      void setSeason(curSeason - 1);
+    } else if (event.key === 'ArrowRight') {
+      event.preventDefault();
+      void setSeason(curSeason + 1);
+    } else if (event.key === 'Escape') {
+      closePops();
+    }
+  });
+
+  el('episodes')?.addEventListener('click', (event) => {
+    const target = event.target as HTMLElement;
+    const bookmark = target.closest<HTMLElement>('.ep-bookmark');
+    if (bookmark) {
+      event.preventDefault();
+      event.stopPropagation();
+      handleBookmarkClick(bookmark);
       return;
     }
-    const summary = t.closest('.legend-card > summary');
+    const summary = target.closest('.legend-card > summary');
     if (summary) {
-      const det = summary.parentElement as HTMLDetailsElement;
+      const details = summary.parentElement as HTMLDetailsElement;
       setTimeout(() => {
-        if (det.open && det.id) {
-          setLastRead({ id: det.id, season: Number(det.dataset.season), title: det.dataset.epTitle || '' });
+        if (details.open && details.id) {
+          const season = Number(details.dataset.season);
+          const episode = Number(details.dataset.episode);
+          setLastRead({ id: details.id, season, title: details.dataset.epTitle || '' });
           updateResumeButton();
+          if (Number.isFinite(season) && Number.isFinite(episode)) routeForEpisode(season, episode);
         }
       }, 0);
     }

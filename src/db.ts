@@ -1,19 +1,16 @@
-import type { Database, RawDatabase } from './types';
+import type { Database, RawCoreDatabase } from './types';
+import { colorKeyMap } from './characterRegistry';
 
-/**
- * The lore database. Populated by `loadDB()` before any rendering runs, so
- * render code reads a stable, normalized object shape rather than positional
- * JSON rows.
- */
+/** Stable normalized core lore. Episode prose is loaded separately per season. */
 export let DB: Database;
 
-function isRawDatabase(data: Database | RawDatabase): data is RawDatabase {
+function isRawDatabase(data: Database | RawCoreDatabase): data is RawCoreDatabase {
   const firstRank = data.ranks[0] as unknown;
   return Array.isArray(firstRank);
 }
 
-/** Convert the persisted compact JSON rows into named runtime objects. */
-export function normalizeDatabase(raw: RawDatabase): Database {
+/** Convert persisted compact rows into named runtime objects. */
+export function normalizeDatabase(raw: RawCoreDatabase): Database {
   const topSkills = Object.fromEntries(
     Object.entries(raw.topSkills).map(([key, rows]) => [
       key,
@@ -28,43 +25,50 @@ export function normalizeDatabase(raw: RawDatabase): Database {
     ]),
   );
 
-  return { ...raw, topSkills, ranks, seasonCast } as unknown as Database;
+  return { ...raw, topSkills, ranks, seasonCast } as Database;
 }
 
-/** Replace the active database. Raw JSON is normalized automatically for tests. */
-export function setDB(data: Database | RawDatabase): void {
+export function setDB(data: Database | RawCoreDatabase): void {
   DB = isRawDatabase(data) ? normalizeDatabase(data) : data;
 }
 
-/**
- * Install the lore database. Two strategies, chosen at build time so the unused
- * branch is dropped by dead-code elimination:
- *  - web build (`__SINGLEFILE__` false): fetch data.json as a separate cacheable
- *    asset, keeping it out of the JS bundle;
- *  - single-file build (`__SINGLEFILE__` true): import it so it is inlined into
- *    the one self-contained HTML (works over file://, no fetch).
- */
-export async function loadDB(): Promise<void> {
-  if (__SINGLEFILE__) {
-    const mod = await import('./data.json');
-    setDB(mod.default as unknown as RawDatabase);
-  } else {
-    const { default: dataUrl } = await import('./data.json?url');
-    const res = await fetch(dataUrl);
-    if (!res.ok) throw new Error(`Failed to load lore data: ${res.status} ${res.statusText}`);
-    setDB(await res.json() as RawDatabase);
+async function fetchJsonWithTimeout(url: string, timeoutMs = 12000): Promise<RawCoreDatabase> {
+  const controller = new AbortController();
+  const timer = window.setTimeout(() => controller.abort(), timeoutMs);
+  try {
+    const response = await fetch(url, { signal: controller.signal, cache: 'default' });
+    if (!response.ok) throw new Error(`Failed to load lore data: ${response.status} ${response.statusText}`);
+    return await response.json() as RawCoreDatabase;
+  } finally {
+    window.clearTimeout(timer);
   }
 }
 
-/** Maps a character/speaker key to its CSS colour class suffix. */
-export const colorKeyMap: Record<string, string> = {
-  rhen: 'rhen', sera: 'sera', kael: 'kael', liang: 'liang', jin: 'jin', lei: 'lei', rui: 'rui', qin: 'qin', han: 'han', arin: 'arin', wen: 'luo', luo: 'luo',
-  mo: 'mo', yun: 'yun', mu: 'mu', seo: 'seo', tae: 'tae', gu: 'gu', huo: 'huo',
-  wei: 'wei', ji: 'ji', cao: 'cao', ye: 'ye', zhao: 'zhao', lin: 'lin', yan: 'yan', meizhen: 'meizhen', yunke: 'yunke', gaoren: 'gaoren', shufen: 'shufen', baotien: 'baotien',
-  meilin: 'meilin', song: 'song', shiyue: 'shiyue', nam: 'nam', chun: 'chun', haejin: 'haejin', gwon: 'gwon', daemun: 'daemun', baek: 'baek', gong: 'gong',
-  jiang: 'jiang', duan: 'duan', mi: 'mi', qiu: 'qiu', zhao_renkai: 'zhao_renkai',
-  ren: 'ren', qiao: 'qiao', miri: 'miri',
-  flowerseller: 'neutral', girl: 'neutral', novice: 'neutral', covenant: 'neutral', duchess: 'neutral', soldier: 'neutral', opponent: 'neutral', captain: 'neutral', lieutenant: 'neutral', attacker: 'neutral', messenger: 'neutral', grandmaster: 'neutral',
-  sorin: 'sorin', valeria: 'valeria', draven: 'draven', ilyra: 'ilyra', aurel: 'aurel', vaelor: 'vaelor',
-  orun: 'orun', iscaryn: 'iscaryn', rhavenn: 'rhavenn', tor: 'tor', caedros: 'caedros', varesh: 'varesh', amon: 'amon', aethon: 'aethon',
-};
+/**
+ * Load only core lore at startup. The normal web build keeps all 64 season
+ * payloads out of this request; seasonStore.ts imports them on demand. The
+ * single-file build still inlines generated core + season modules.
+ */
+export async function loadDB(): Promise<void> {
+  if (__SINGLEFILE__) {
+    const mod = await import('./generated/core.json');
+    setDB(mod.default as unknown as RawCoreDatabase);
+    return;
+  }
+
+  const { default: dataUrl } = await import('./generated/core.json?url');
+  let lastError: unknown;
+  for (let attempt = 0; attempt < 2; attempt++) {
+    try {
+      setDB(await fetchJsonWithTimeout(dataUrl));
+      return;
+    } catch (error) {
+      lastError = error;
+      if (attempt === 0) await new Promise((resolve) => window.setTimeout(resolve, 350));
+    }
+  }
+  throw lastError instanceof Error ? lastError : new Error('Failed to load lore data');
+}
+
+/** Backwards-compatible export. The canonical map now lives in characterRegistry.ts. */
+export { colorKeyMap };
