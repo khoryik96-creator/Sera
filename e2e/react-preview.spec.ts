@@ -14,6 +14,25 @@ test('React preview shell renders and routes between core features', async ({ pa
   await expect(page.getByRole('heading', { name: 'Characters' })).toBeVisible();
 });
 
+test('legacy production hashes remain valid in the React reader', async ({ page }) => {
+  const aliases = [
+    ['others', /Other Characters & Villains/],
+    ['skills', /Arts & Techniques/],
+    ['sera-timeline', /Sera Timeline/],
+    ['episodes', /Episodes/],
+  ] as const;
+
+  for (const [hash, heading] of aliases) {
+    await openPreview(page, hash);
+    await expect(page.locator('.content h2').first()).toHaveText(heading);
+    await expect(page).toHaveURL(new RegExp(`react-preview\\.html#${hash}$`));
+  }
+
+  await openPreview(page, 'episodes/1/1');
+  await expect(page.locator('.reader-prose')).toBeVisible({ timeout: 20_000 });
+  await expect(page).toHaveURL(/react-preview\.html#episodes\/1\/1$/);
+});
+
 test('React preview is mobile-safe with swipeable navigation and no page overflow', async ({ page }, testInfo) => {
   test.skip(!testInfo.project.name.includes('mobile'), 'mobile-only layout assertion');
   await openPreview(page, 'characters/sera');
