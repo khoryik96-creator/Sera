@@ -16,7 +16,7 @@ describe('episode archive metadata', () => {
   it('preserves arc grouping instead of flattening the story', () => {
     expect(EPISODE_ARCS).toHaveLength(13);
     expect(EPISODE_ARCS[0].title).toMatch(/Quiet Regular/);
-    expect(EPISODE_ARCS.at(-1)?.title).toMatch(/Second Spring/);
+    expect(EPISODE_ARCS[EPISODE_ARCS.length - 1]?.title).toMatch(/Second Spring/);
   });
 
   it('adds cast-guide slots only from Season 4 onward', () => {
