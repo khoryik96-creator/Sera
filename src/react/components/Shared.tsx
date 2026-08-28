@@ -1,5 +1,5 @@
 import React from 'https://esm.sh/react@19.0.0';
-import type { RankStatus } from '../../characterRegistry';
+import type { PreviewRankStatus } from '../shared/rankState';
 
 export function PageHeader({ eyebrow, title, description }: { eyebrow: string; title: string; description?: string }) {
   return (
@@ -11,7 +11,7 @@ export function PageHeader({ eyebrow, title, description }: { eyebrow: string; t
   );
 }
 
-export function RankBadge({ rank, status = 'current' }: { rank: string; status?: RankStatus }) {
+export function RankBadge({ rank, status = 'current' }: { rank: string; status?: PreviewRankStatus }) {
   if (!rank) return null;
   let tone = 'current';
   let suffix = '';
