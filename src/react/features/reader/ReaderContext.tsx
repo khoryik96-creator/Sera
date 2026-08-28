@@ -39,7 +39,7 @@ function loadPreferences(): ReaderPreferences {
   }
 }
 
-export function ReaderProvider({ children }: { children: any }) {
+export function ReaderProvider({ children }: { children?: any }) {
   const prefs = loadPreferences();
   const [bookmarks, setBookmarks] = useState<Bookmark[]>(() => getBookmarks());
   const [lastRead, setLastReadState] = useState<Bookmark | null>(() => getLastRead());
