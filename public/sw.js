@@ -37,9 +37,9 @@ self.addEventListener('fetch', (event) => {
         .catch(async () => {
           const exact = await caches.match(request);
           if (exact) return exact;
-          const compatibility = url.pathname.endsWith('/react-preview.html') ? await caches.match('./react-preview.html') : null;
+          const compatibilityReader = url.pathname.endsWith('/react-preview.html') ? await caches.match('./react-preview.html') : null;
           const legacy = url.pathname.endsWith('/legacy.html') ? await caches.match('./legacy.html') : null;
-          return compatibility || legacy || (await caches.match('./index.html')) || Response.error();
+          return compatibilityReader || legacy || (await caches.match('./index.html')) || Response.error();
         }),
     );
     return;

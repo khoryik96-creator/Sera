@@ -1,6 +1,7 @@
 import { defineConfig } from 'vite';
 
-// Web build: React is the production shell. The pre-cutover reader remains as legacy.html for rollback.
+// React owns the production root. legacy.html is the tested pre-React rollback;
+// react-preview.html remains a tested compatibility entry for migration-era links.
 export default defineConfig({
   base: './',
   define: {
@@ -12,7 +13,7 @@ export default defineConfig({
       input: {
         main: 'index.html',
         legacy: 'legacy.html',
-        compatibilityAlias: 'react-preview.html',
+        compatibilityReader: 'react-preview.html',
       },
     },
   },
