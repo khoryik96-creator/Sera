@@ -24,11 +24,12 @@ async function seedLibrary(page: import('@playwright/test').Page) {
 test('Reader Library organizes bookmarks, notes, and passages with collections tags and favorites', async ({ page }) => {
   await seedLibrary(page);
   await openLibrary(page);
+  const collectionStrip = page.locator('.library-collection-strip');
   await expect(page.locator('.library-organize-card')).toHaveCount(3);
 
   await page.getByRole('textbox', { name: 'New collection name' }).fill('Best Rhen Moments');
   await page.getByRole('button', { name: 'Create collection' }).click();
-  await expect(page.getByRole('button', { name: /Best Rhen Moments/ })).toBeVisible();
+  await expect(collectionStrip.getByRole('button', { name: /Best Rhen Moments/ })).toBeVisible();
 
   const bookmarkCard = page.locator('.library-organize-card').filter({ hasText: 'Saved Rhen episode' });
   await bookmarkCard.getByRole('button', { name: 'Add to favorites' }).click();
@@ -54,10 +55,11 @@ test('Reader Library organizes bookmarks, notes, and passages with collections t
 
   await page.reload();
   await page.getByRole('tab', { name: /Organize/ }).click();
-  await page.getByRole('button', { name: /Favorites/ }).click();
+  const reloadedCollectionStrip = page.locator('.library-collection-strip');
+  await reloadedCollectionStrip.getByRole('button', { name: /Favorites/ }).click();
   await expect(page.locator('.library-organize-card')).toHaveCount(1);
   await expect(page.locator('.library-organize-card')).toContainText('Saved Rhen episode');
-  await page.getByRole('button', { name: /Best Rhen Moments/ }).click();
+  await reloadedCollectionStrip.getByRole('button', { name: /Best Rhen Moments/ }).click();
   await expect(page.locator('.library-organize-card')).toHaveCount(1);
   await page.getByRole('textbox', { name: 'Search organized library' }).fill('battle');
   await expect(page.locator('.library-organize-card')).toHaveCount(1);
@@ -66,23 +68,24 @@ test('Reader Library organizes bookmarks, notes, and passages with collections t
 test('collection rename delete and organizer layout stay contained on phone and desktop', async ({ page }, testInfo) => {
   await seedLibrary(page);
   await openLibrary(page);
+  const collectionStrip = page.locator('.library-collection-strip');
   await page.getByRole('textbox', { name: 'New collection name' }).fill('Romance');
   await page.getByRole('button', { name: 'Create collection' }).click();
-  await page.getByRole('button', { name: /Romance/ }).click();
+  await collectionStrip.getByRole('button', { name: /Romance/ }).click();
 
   const rename = page.getByRole('textbox', { name: 'Rename selected collection' });
   await rename.fill('Rhen & Sera');
   await rename.press('Tab');
-  await expect(page.getByRole('button', { name: /Rhen & Sera/ })).toBeVisible();
+  await expect(collectionStrip.getByRole('button', { name: /Rhen & Sera/ })).toBeVisible();
 
-  await page.getByRole('button', { name: 'All', exact: false }).click();
+  await collectionStrip.getByRole('button', { name: /All/ }).click();
   const firstCard = page.locator('.library-organize-card').first();
   await firstCard.locator('.library-item-organizer > summary').click();
   const dimensions = await page.evaluate(() => ({ width: document.documentElement.clientWidth, scroll: document.documentElement.scrollWidth }));
   expect(dimensions.scroll).toBeLessThanOrEqual(dimensions.width + 2);
   await page.screenshot({ path: testInfo.outputPath('reader-library-organize.png'), fullPage: true });
 
-  await page.getByRole('button', { name: /Rhen & Sera/ }).click();
+  await collectionStrip.getByRole('button', { name: /Rhen & Sera/ }).click();
   await page.getByRole('button', { name: 'Delete collection' }).click();
-  await expect(page.getByRole('button', { name: /Rhen & Sera/ })).toHaveCount(0);
+  await expect(collectionStrip.getByRole('button', { name: /Rhen & Sera/ })).toHaveCount(0);
 });
