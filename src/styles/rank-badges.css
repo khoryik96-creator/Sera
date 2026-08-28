@@ -15,7 +15,7 @@
 }
 .rank-badge--current{
   border:1px solid #5d512c;
-  background:#211d12;
+  background:rgba(228,201,119,.07);
   color:var(--gold);
 }
 .rank-badge--former{
@@ -28,9 +28,18 @@
   background:#101a20;
   color:var(--char-rhen);
 }
+.ranked-name{white-space:nowrap}
+.ranked-name .rank-badge{
+  margin-left:4px;
+  transform:translateY(-1px);
+  padding:1px 5px;
+  font-size:.56em;
+  letter-spacing:.02em;
+}
 .profile-name .rank-badge{margin-left:9px;transform:translateY(-2px)}
 .char-nav-rank .rank-badge{font-size:9px;padding:2px 7px}
 .rank-class{margin-top:4px;color:var(--muted);font-size:11px;line-height:1.35}
 @media(max-width:620px){
   .profile-name .rank-badge{margin-left:6px;font-size:9px}
+  .ranked-name .rank-badge{font-size:.58em;padding:1px 5px}
 }

@@ -26,6 +26,12 @@ function annotateSkills(text: string): string {
   return out;
 }
 
+function rankBadgeMarkup(rank: string): string {
+  if (!rank) return '';
+  const tone = rank.startsWith('Former ') ? 'former' : rank === 'UNR' ? 'unranked' : 'current';
+  return `<span class="rank-badge rank-badge--${tone}">${rank}</span>`;
+}
+
 function annotateNamesForSeason(text: string, season?: number): string {
   let out = String(text || '');
   const held: string[] = [];
@@ -37,14 +43,14 @@ function annotateNamesForSeason(text: string, season?: number): string {
 
   const placeholders: string[] = [];
   novelNameMap.forEach(([name, key]) => {
-    const re = new RegExp('\\b' + escRe(name) + '\\b', 'g');
-    out = out.replace(re, (_match, offset: number, source: string) => {
-      const before = source.slice(Math.max(0, offset - 28), offset);
-      const alreadyRanked = /(?:Former\s+)?#\d+\s*(?:—|-)?\s*$/.test(before);
+    // Consume any legacy inline numeric rank immediately before the name so the
+    // reader always shows one canonical Lucy-style badge instead of "#1 - Name".
+    const re = new RegExp('(?:(?:Former\\s+)?#\\d+\\s*(?:—|-)?\\s*)?\\b' + escRe(name) + '\\b', 'g');
+    out = out.replace(re, () => {
       const rank = rankForStory(name, season);
-      const display = rank && !alreadyRanked ? `${rank} - ${name}` : name;
+      const badge = rankBadgeMarkup(rank);
       const token = `@@NAME${placeholders.length}@@`;
-      placeholders.push(`<span class="novel-character-name character-${key}">${display}</span>`);
+      placeholders.push(`<span class="ranked-name"><span class="novel-character-name character-${key}">${name}</span>${badge}</span>`);
       return token;
     });
   });

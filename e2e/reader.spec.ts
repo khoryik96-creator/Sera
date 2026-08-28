@@ -15,11 +15,11 @@ test('Sera gallery remains single-layered and reversible', async ({ page }, test
   expect(await thumbs.count()).toBeGreaterThanOrEqual(4);
 
   const main = gallery.locator('.portrait-gallery__main');
-  const firstSrc = await main.getAttribute('src');
+  const firstSrc = await main.evaluate((img) => (img as HTMLImageElement).src);
   await thumbs.last().click();
-  await expect(main).not.toHaveAttribute('src', firstSrc || '');
+  await expect.poll(() => main.evaluate((img) => (img as HTMLImageElement).src)).not.toBe(firstSrc);
   await thumbs.first().click();
-  await expect(main).toHaveAttribute('src', firstSrc || '');
+  await expect.poll(() => main.evaluate((img) => (img as HTMLImageElement).src)).toBe(firstSrc);
 
   await page.screenshot({ path: testInfo.outputPath('sera-gallery.png'), fullPage: true });
 });
@@ -32,7 +32,7 @@ test('mobile reader has no page-level horizontal overflow', async ({ page }) => 
   await expect(page.locator('.repo-nav .tab-strip')).toBeVisible();
 });
 
-test('episode deep link loads only the requested season and keeps thumb nav reachable', async ({ page }, testInfo) => {
+test('episode deep link loads requested season without a screen-covering navigator', async ({ page }, testInfo) => {
   await page.goto('/#episodes/59/1');
   await waitForApp(page);
   const episode = page.locator('#ep-s59-e1');
@@ -43,19 +43,39 @@ test('episode deep link loads only the requested season and keeps thumb nav reac
   const nav = page.locator('#episodeJumpBar');
   await expect(nav).toBeVisible();
   if (testInfo.project.name.includes('mobile')) {
+    const style = await nav.evaluate((node) => getComputedStyle(node).position);
+    expect(style).not.toBe('fixed');
     const box = await nav.boundingBox();
-    const viewport = page.viewportSize();
-    expect(box && viewport && box.y + box.height <= viewport.height + 2).toBeTruthy();
+    expect(box?.height ?? 999).toBeLessThan(90);
   }
   await page.screenshot({ path: testInfo.outputPath('episode-59.png'), fullPage: false });
 });
 
-test('Lucy-style rank pills remain present on ranking and character views', async ({ page }) => {
-  await page.goto('/#rankings');
+test('Lucy-style rank pills replace inline rank-name prefixes in episode prose', async ({ page }) => {
+  await page.goto('/#episodes/1/1');
   await waitForApp(page);
-  await expect(page.locator('.rank-badge').first()).toBeVisible();
+  const prose = page.locator('#ep-s1-e1 .full-legend-text');
+  await expect(prose).toBeVisible();
+  await expect(prose.locator('.ranked-name .rank-badge').first()).toBeVisible();
+  await expect(prose).not.toContainText(/#\d+\s*-\s*(Kael|Liang|Jin|Lei|Rui|Sera|Arin|Luo|Yun)/);
+
   await page.goto('/#characters/rhen');
-  await expect(page.locator('.rank-badge--unranked')).toContainText('UNR');
+  await waitForApp(page);
+  await expect(page.locator('#charDetail .rank-badge--unranked').filter({ hasText: 'UNR' })).toHaveCount(1);
+});
+
+test('reader text size and spacing controls work without changing the app shell', async ({ page }) => {
+  await page.goto('/#episodes/1/1');
+  await waitForApp(page);
+  const prose = page.locator('#ep-s1-e1 .full-legend-text');
+  const before = await prose.evaluate((node) => getComputedStyle(node).fontSize);
+  await page.locator('#readerScaleUp').click();
+  const after = await prose.evaluate((node) => getComputedStyle(node).fontSize);
+  expect(Number.parseFloat(after)).toBeGreaterThan(Number.parseFloat(before));
+
+  const spacing = page.locator('#readerSpacing');
+  await spacing.click();
+  await expect(spacing).toHaveAttribute('aria-pressed', 'true');
 });
 
 test('core reader surface has no critical automated accessibility violations', async ({ page }) => {

@@ -46,9 +46,18 @@ describe('renderNovel', () => {
     expect(out).toContain('Frozen Bloom');
   });
 
-  it('annotates a known character name with its rank', () => {
+  it('annotates a known character name with a separate rank pill', () => {
     const out = renderNovel('Kael arrived at dawn.');
     expect(out).toContain('novel-character-name character-kael');
-    expect(out).toContain('#1 - Kael');
+    expect(out).toContain('rank-badge rank-badge--current">#1</span>');
+    expect(out).not.toContain('#1 - Kael');
+  });
+
+  it('replaces legacy inline rank text instead of duplicating it', () => {
+    const out = renderNovel('#1 - Kael arrived beside Former #6 - Sera.', 60);
+    expect(out).not.toContain('#1 - Kael');
+    expect(out).not.toContain('Former #6 - Sera');
+    expect(out).toContain('character-kael">Kael</span><span class="rank-badge rank-badge--current">#1</span>');
+    expect(out).toContain('character-sera">Sera</span><span class="rank-badge rank-badge--former">Former #6</span>');
   });
 });

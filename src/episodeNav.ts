@@ -1,7 +1,8 @@
-/** Compact episode navigator for desktop and a bottom thumb bar on mobile. */
+/** Compact episode navigator with an in-flow mobile toolbar. */
 
 import { getBookmarks, toggleBookmark, setLastRead, getLastRead, isBookmarked } from './bookmarks';
 import { ensureSeasonRendered } from './episodes';
+import { mountReaderPreferences } from './readerPreferences';
 import type { Bookmark } from './bookmarks';
 
 interface SeasonRef {
@@ -189,6 +190,7 @@ export async function initEpisodeNav(): Promise<void> {
   initialized = true;
   seasons = collectSeasons();
   buildSeasonPicker();
+  mountReaderPreferences();
   await setSeason(1);
 
   el('seasonPrev')?.addEventListener('click', () => { void setSeason(curSeason - 1); });
