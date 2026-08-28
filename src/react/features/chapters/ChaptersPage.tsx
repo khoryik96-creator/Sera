@@ -145,7 +145,7 @@ export function ChaptersPage({ onOpenChapter }: ChaptersPageProps) {
 
       <div className="season-reader-panel" ref={readerPanelRef}>
         <div className="season-selected-heading">
-          <div><p className="eyebrow">{selected?.arc}</p><h3>{selected?.title}</h3><p className="season-selected-heading__meta">Season {selectedSeason} · {selectedProgress.read}/{selectedProgress.total} opened · {selectedProgress.percent}%</p></div>
+          <div><p className="eyebrow">{selected?.arc}</p><h3>{selected?.title}</h3><p className="season-selected-heading__meta">Season {selectedSeason}</p><p className="season-selected-heading__progress">{selectedProgress.read}/{selectedProgress.total} opened · {selectedProgress.percent}%</p></div>
           <div className="season-selected-heading__actions">
             <span className="archive-count" aria-live="polite">{loading ? 'Loading…' : `${episodes.length} episodes`}</span>
             {selectedNextUnread ? <button className="season-next-unread-button" disabled={loading || Boolean(error)} onClick={() => onOpenChapter(selectedNextUnread.season, selectedNextUnread.episode)} type="button">Next unread E{selectedNextUnread.episode}</button> : null}
