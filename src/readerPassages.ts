@@ -1,4 +1,5 @@
 import { episodeCountForSeason } from './readingProgress';
+import { validReaderTimestamp } from './readerValidation';
 
 export const PASSAGES_KEY = 'tqr:savedPassages:v1';
 const EPISODE_ID = /^ep-s(\d+)-e(\d+)$/;
@@ -36,20 +37,29 @@ export function validSavedPassage(value: unknown): value is SavedPassage {
     && Number.isInteger(passage.season)
     && Number(passage.season) === parts.season
     && typeof passage.title === 'string'
+    && passage.title.length <= 500
     && typeof passage.text === 'string'
     && passage.text.trim().length >= 3
     && passage.text.length <= MAX_PASSAGE_LENGTH
-    && typeof passage.createdAt === 'number'
-    && Number.isFinite(passage.createdAt),
+    && validReaderTimestamp(passage.createdAt),
   );
 }
 
 export function getSavedPassages(): SavedPassage[] {
   try {
     const raw = localStorage.getItem(PASSAGES_KEY);
-    const parsed = raw ? JSON.parse(raw) : [];
+    const parsed: unknown = raw ? JSON.parse(raw) : [];
     if (!Array.isArray(parsed)) return [];
-    return parsed.filter(validSavedPassage).sort((a, b) => b.createdAt - a.createdAt).slice(0, MAX_PASSAGES);
+    const seen = new Set<string>();
+    return parsed
+      .filter(validSavedPassage)
+      .sort((a, b) => b.createdAt - a.createdAt)
+      .filter((passage) => {
+        if (seen.has(passage.key)) return false;
+        seen.add(passage.key);
+        return true;
+      })
+      .slice(0, MAX_PASSAGES);
   } catch {
     return [];
   }
@@ -60,7 +70,7 @@ export function savePassage(
   createdAt = Date.now(),
 ): SavedPassage[] {
   const text = passage.text.replace(/\s+/g, ' ').trim().slice(0, MAX_PASSAGE_LENGTH);
-  if (text.length < 3) return getSavedPassages();
+  if (text.length < 3 || !validReaderTimestamp(createdAt)) return getSavedPassages();
 
   const existing = getSavedPassages();
   if (existing.some((item) => item.id === passage.id && item.text === text)) return existing;
@@ -73,21 +83,22 @@ export function savePassage(
   const next = [candidate, ...existing].slice(0, MAX_PASSAGES);
   try {
     localStorage.setItem(PASSAGES_KEY, JSON.stringify(next));
+    return next;
   } catch {
-    // Saved passages are optional when storage is unavailable.
+    return existing;
   }
-  return next;
 }
 
 export function deletePassage(key: string): SavedPassage[] {
-  const next = getSavedPassages().filter((passage) => passage.key !== key);
+  const current = getSavedPassages();
+  const next = current.filter((passage) => passage.key !== key);
   try {
     if (next.length) localStorage.setItem(PASSAGES_KEY, JSON.stringify(next));
     else localStorage.removeItem(PASSAGES_KEY);
+    return next;
   } catch {
-    // Saved passages are optional when storage is unavailable.
+    return current;
   }
-  return next;
 }
 
 export function persistSavedPassages(passages: SavedPassage[]): void {
