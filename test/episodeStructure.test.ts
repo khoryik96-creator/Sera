@@ -1,16 +1,10 @@
 import { describe, it, expect } from 'vitest';
-import { readFileSync } from 'node:fs';
-import { JSDOM } from 'jsdom';
-import { extractEpisodeStructure } from '../src/episodeStructure';
+import { EPISODE_ARCS } from '../src/episodeMeta';
 
-const html = readFileSync(new URL('../index.html', import.meta.url), 'utf8');
-const dom = new JSDOM(html);
-const root = dom.window.document.getElementById('episodes') as HTMLElement;
-const structure = extractEpisodeStructure(root);
-const seasons = structure.flatMap((arc) => arc.seasons);
+const seasons = EPISODE_ARCS.flatMap((arc) => arc.seasons);
 
 describe('episode archive metadata', () => {
-  it('captures every season exactly once', () => {
+  it('declares every season exactly once', () => {
     expect(seasons.map((s) => s.season)).toEqual(Array.from({ length: 64 }, (_, i) => i + 1));
   });
 
@@ -20,8 +14,13 @@ describe('episode archive metadata', () => {
   });
 
   it('preserves arc grouping instead of flattening the story', () => {
-    expect(structure.length).toBeGreaterThan(8);
-    expect(structure[0].title).toMatch(/Quiet Regular/);
-    expect(structure.at(-1)?.title).toMatch(/Second Spring/);
+    expect(EPISODE_ARCS).toHaveLength(13);
+    expect(EPISODE_ARCS[0].title).toMatch(/Quiet Regular/);
+    expect(EPISODE_ARCS.at(-1)?.title).toMatch(/Second Spring/);
+  });
+
+  it('adds cast-guide slots only from Season 4 onward', () => {
+    expect(seasons.filter((s) => s.season <= 3).every((s) => !s.hasCast)).toBe(true);
+    expect(seasons.filter((s) => s.season >= 4).every((s) => s.hasCast)).toBe(true);
   });
 });
