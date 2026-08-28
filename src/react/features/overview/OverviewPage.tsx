@@ -20,7 +20,7 @@ export function OverviewPage({ onOpenSection, onOpenChapter, onOpenCharacter }: 
   const { bookmarks, lastRead } = useReaderState();
   const seasons = EPISODE_ARCS.reduce((sum, arc) => sum + arc.seasons.length, 0);
   const activeEpisode = lastRead ? episodeNumber(lastRead.id) : 1;
-  const activeArc = lastRead ? EPISODE_ARCS.find((arc) => arc.seasons.includes(lastRead.season)) : EPISODE_ARCS[0];
+  const activeArc = lastRead ? EPISODE_ARCS.find((arc) => arc.seasons.some((entry) => entry.season === lastRead.season)) : EPISODE_ARCS[0];
   const protagonists = ['sera', 'rhen'].map((key) => ({ key, profile: DB.characters[key] })).filter((item) => Boolean(item.profile));
   const topTen = DB.ranks.slice(0, 10);
 
