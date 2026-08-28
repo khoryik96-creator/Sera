@@ -1,6 +1,6 @@
 declare module 'https://esm.sh/react@19.0.0' {
   export type ReactNode = unknown;
-  export interface Context<T> { Provider: any }
+  export interface Context<T> { Provider: (props: { value: T; children?: unknown }) => unknown }
   export type SetStateAction<S> = S | ((previous: S) => S);
   export type Dispatch<A> = (value: A) => void;
   export function createContext<T>(defaultValue: T): Context<T>;
@@ -10,8 +10,8 @@ declare module 'https://esm.sh/react@19.0.0' {
   export function useMemo<T>(factory: () => T, deps: readonly unknown[]): T;
   export function useRef<T>(initial: T): { current: T };
   const React: {
-    createElement: (...args: any[]) => any;
-    Fragment: any;
+    createElement: (...args: unknown[]) => unknown;
+    Fragment: unknown;
   };
   export default React;
 }
@@ -21,7 +21,9 @@ declare module 'https://esm.sh/react-dom@19.0.0/client' {
 }
 
 declare namespace JSX {
+  type Element = unknown;
+  interface ElementChildrenAttribute { children: unknown }
   interface IntrinsicElements {
-    [elementName: string]: any;
+    [elementName: string]: Record<string, unknown>;
   }
 }
