@@ -1,5 +1,5 @@
 import { createRoot } from 'react-dom/client';
-import { loadDB } from '../db';
+import { loadReactDB } from '../db';
 import { initPwa } from '../pwa';
 import { App } from './app/App';
 import { ReaderProvider } from './features/reader/ReaderContext';
@@ -26,7 +26,7 @@ async function boot(): Promise<void> {
 
   root.innerHTML = '<div class="app-boot">Loading The Quiet Regular…</div>';
   try {
-    await Promise.all([loadDB(), preloadInitialRoute()]);
+    await Promise.all([loadReactDB(), preloadInitialRoute()]);
     createRoot(root).render(<ReaderProvider><App /></ReaderProvider>);
     initPwa();
   } catch (error) {
