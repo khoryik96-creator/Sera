@@ -56,6 +56,12 @@ function normalizeTags(values: string[]): string[] {
   return tags;
 }
 
+function validTags(value: unknown): value is string[] {
+  if (!Array.isArray(value) || !value.every((tag) => typeof tag === 'string' && tag.length > 0 && tag.length <= MAX_TAG_LENGTH)) return false;
+  const normalized = normalizeTags(value);
+  return normalized.length === value.length && normalized.every((tag, index) => tag === value[index]);
+}
+
 function validCollection(value: unknown): value is ReaderCollection {
   if (!value || typeof value !== 'object') return false;
   const collection = value as Partial<ReaderCollection>;
@@ -79,9 +85,7 @@ function validItem(value: unknown): value is ReaderItemOrganization {
     && typeof item.favorite === 'boolean'
     && Array.isArray(item.collectionIds)
     && item.collectionIds.every((id) => typeof id === 'string' && COLLECTION_ID.test(id))
-    && Array.isArray(item.tags)
-    && item.tags.every((tag) => typeof tag === 'string' && tag.length > 0 && tag.length <= MAX_TAG_LENGTH)
-    && normalizeTags(item.tags).length === item.tags.length;
+    && validTags(item.tags);
 }
 
 export function validReaderOrganization(value: unknown): value is ReaderOrganizationState {
@@ -217,6 +221,10 @@ export function toggleReaderCollectionItem(state: ReaderOrganizationState, key: 
 
 export function setReaderItemTags(state: ReaderOrganizationState, key: string, tags: string[]): ReaderOrganizationState {
   return updateItem(state, key, (item) => ({ ...item, tags: normalizeTags(tags) }));
+}
+
+export function removeReaderItemOrganization(state: ReaderOrganizationState, key: string): ReaderOrganizationState {
+  return normalizedState({ ...state, items: state.items.filter((item) => item.key !== key) });
 }
 
 export function readerItemOrganization(state: ReaderOrganizationState, key: string): ReaderItemOrganization {
