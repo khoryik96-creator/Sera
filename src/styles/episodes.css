@@ -1,9 +1,13 @@
-/* Episode archive-specific additions. The generated shell stays lightweight;
-   prose cards are inserted only for seasons the reader opens or navigates to. */
+/* Episode archive shell is lightweight; prose arrives only when requested. */
 #episodeArchiveGenerated{display:block}
 #episodeArchiveGenerated .arc-accordion{content-visibility:auto;contain-intrinsic-size:120px 900px}
 #episodeArchiveGenerated .season-accordion{content-visibility:auto;contain-intrinsic-size:96px 680px}
 .season-episode-list:empty{min-height:0}
+.episode-search-status{min-height:24px;margin:10px 2px 2px;font-size:13px}
+.season-loading{display:flex;align-items:center;justify-content:center;gap:10px;min-height:82px;color:var(--muted);font-size:14px}
+.season-loading .app-spinner{width:20px;height:20px;border-width:2px}
+.season-load-error{display:flex;align-items:center;justify-content:space-between;gap:12px;color:var(--danger)}
+.season-load-error button{min-height:40px}
 @media(max-width:720px){
   #episodeArchiveGenerated .arc-accordion,
   #episodeArchiveGenerated .season-accordion{contain-intrinsic-size:90px 760px}
