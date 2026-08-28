@@ -70,6 +70,20 @@ test('React preview keeps deceased, retired, and former rank states distinct', a
   await expect(page.locator('.character-name-line .react-rank-badge--former')).toContainText('FORMER');
 });
 
+test('React preview declares the PWA manifest and registers the service worker', async ({ page }) => {
+  await openPreview(page);
+  await expect(page.locator('link[rel="manifest"]')).toHaveAttribute('href', './manifest.webmanifest');
+  const registration = await page.evaluate(async () => {
+    if (!('serviceWorker' in navigator)) return false;
+    const ready = await Promise.race([
+      navigator.serviceWorker.ready.then(() => true),
+      new Promise<boolean>((resolve) => setTimeout(() => resolve(false), 10_000)),
+    ]);
+    return ready;
+  });
+  expect(registration).toBe(true);
+});
+
 test('capture React preview visual review surfaces', async ({ page }, testInfo) => {
   await openPreview(page, 'characters/sera');
   await page.screenshot({ path: `test-results/react-preview-${testInfo.project.name}-character.png`, fullPage: true });
