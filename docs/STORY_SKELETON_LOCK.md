@@ -15,7 +15,8 @@
    - [Rhen — five-year character/world position](#32-rhen--five-year-characterworld-position)
    - [Sera — five years later](#33-sera--five-years-later)
    - [Top Five — five years later](#34-top-five--five-years-later)
-   - [Other characters — five years later](#35-other-characters--five-years-later)
+   - [Co-#1 and Top 6–10 — five years later](#35-co-1-and-top-610--five-years-later)
+   - [Other characters — five years later](#36-other-characters--five-years-later)
 4. [Open planning slots](#4-open-planning-slots)
 5. [Revision log](#5-revision-log)
 
@@ -817,11 +818,275 @@ He remains below Sovereign because maintaining the complete cycle still strains 
 
 ---
 
-### 3.5 Other Characters — Five Years Later
+### 3.5 Co-#1 and Top 6–10 — Five Years Later
+
+#### Power Hierarchy
+
+| Position | Five-year cultivation level |
+|---|---|
+| Co-#1 Tae Muyeon | **High Sovereign** |
+| #6 Ilyra Serath | **Sovereign** |
+| #7 Mo Qingzhao | **High Duke** |
+| #8 Arin Vale | **High Duke** |
+| #9 Luo Wen | **Established Duke** |
+| #10 Yun Shizhen | **Established Duke** |
+
+Rules:
+
+- Tae remains the unranked co-#1 and is comparable to Kael depending on battlefield and matchup.
+- Ilyra is a true Sovereign whose peak offensive output is comparable to #2 Liang Yue.
+- Ilyra's complete overall comparison with Liang remains `TBD`; comparable offense does not automatically make their total combat ability equal.
+- Top 7–10 are all genuine Duke-level fighters.
+- None of Top 7–10 is stronger overall than any member of the Top Five.
+- Specialist matchups may still allow a lower-ranked Duke to threaten someone above their position.
+- No new named techniques are created for these characters; all five-year developments evolve their established arts.
+
+#### 3.5.1 Co-#1 Tae Muyeon — Iron Horizon Sovereign
+
+**Five-year cultivation level:** High Sovereign
+
+Tae incorporates metal and iron qi into **Boundless Horizon**. Kael controls earth as mountain and sand; Tae controls metal as fixed distance, hardened geometry and compressed impact.
+
+##### Boundless Horizon — Sovereign Core Evolution
+
+- Every completed step deposits an invisible iron-qi anchor.
+- These anchors define the engagement distances Tae has already claimed.
+- Opponents crossing one of those distances encounter dense metallic resistance.
+- Their final step becomes heavier and arrives later than intended.
+- Tae uses the anchors as stable points, allowing him to accelerate or change angle without losing balance.
+- His fists, elbows and knees become temporarily iron-dense at the instant of impact.
+- He remains unarmed; metal qi turns his body and movement geometry into the weapon.
+- The system remains movement, timing and physical pressure rather than teleportation or spatial magic.
+
+##### Heaven Is Always One Step Away — Evolved Supreme Art
+
+- The opponent's final measure closes against an invisible horizon of compressed iron qi.
+- The harder they force their approach, the denser that horizon becomes.
+- An attack may be physically correct but still finish one step short.
+- Every denied approach contributes momentum to Tae's next completed strike.
+- When Tae attacks, the stored distance collapses into iron-weighted impact.
+- A simple fist can land with the concentrated force of an enormous metal pillar.
+- Multiple opponents can be assigned different engagement distances; the maximum remains `TBD`.
+
+Kael dominates the battlefield's centre. Tae decides whether anyone can reach the correct distance at all.
+
+#### 3.5.2 #6 Ilyra Serath — Sovereign Mirror Queen
+
+**Five-year cultivation level:** Sovereign
+
+Ilyra's dual meridian systems evolve from alternating martial bodies into two simultaneous offensive engines. Her peak offensive output becomes comparable to Liang Yue's, although exact overall equality remains `TBD`.
+
+##### Mirror Meridian Exchange — Transcended Evolution
+
+- Ilyra can switch between complete circulation systems without a transitional pause.
+- Poison, meridian disruption or internal seals attached to one system lose access when she changes.
+- Stored force can remain inside the inactive system rather than dispersing.
+- She may prepare an attack in one meridian body, exchange systems and release it unexpectedly later.
+- Opponents must continually identify which martial body is active.
+
+##### Twin Palace Reflection — Transcended Evolution
+
+- Incoming force can be divided between both meridian systems.
+- One system absorbs and alters the attack.
+- The second combines the surviving force with Ilyra's own offensive qi.
+- Reflected attacks return with different angle, timing and circulation signature.
+- Ilyra can delay the return instead of countering immediately.
+- Several absorbed attacks may be combined into one Sovereign-level release.
+
+##### Crownless Mirror — Supreme Evolution
+
+- Both meridian systems continuously exchange offensive and defensive roles.
+- An opponent solving one system immediately faces the other.
+- An attack may begin through one circulation architecture and finish through the second.
+- Techniques designed to suppress one internal-energy rhythm cannot hold both systems simultaneously.
+- She remains entirely free of the old Crown ceremonial sequencing.
+
+##### Two Heavens, One Body — Evolved Supreme Overdrive
+
+- Ilyra operates both martial bodies simultaneously instead of alternating between them.
+- One body may defend while the other attacks through the same physical movement.
+- A single strike contains two different internal-energy impacts.
+- Blocking the first impact creates the opening used by the second.
+- Both systems can release their complete stored force simultaneously.
+- At maximum output, her direct offensive power is comparable to Liang Yue's.
+
+The strain remains severe. Ilyra cannot sustain both systems at maximum output indefinitely; exact duration and long-term consequences remain `TBD`.
+
+#### 3.5.3 #7 Mo Qingzhao — High Duke Paper Emperor
+
+**Five-year cultivation level:** High Duke
+
+Mo's improvement focuses on scale, changing instructions and increasingly autonomous formations.
+
+##### Thousand-Fold Scripture — Duke Evolution
+
+- Mo can control vastly more prepared pages simultaneously.
+- Each page may carry a different martial instruction.
+- Pages can switch between cutting, shielding, binding and formation roles during flight.
+- Destroyed pages become fragments that continue following simpler commands.
+- Mo no longer needs to personally direct every individual movement.
+
+##### Inkless Thread — Transcended Evolution
+
+- The threads become a battlefield-wide sensory and command network.
+- Tension changes reveal where enemies, weapons and attacks are moving.
+- Orders travel through intersecting threads into distant pages.
+- Severing one thread causes nearby pages to rebuild the connection.
+- Enemies entering the network unknowingly reveal their movement.
+
+##### Funeral of a Thousand Pages — Transcended Evolution
+
+- The formation changes shape while enemies are already trapped inside.
+- Cutting paths may become restraints without warning.
+- Defensive pages can fold around selected allies.
+- Escape routes are rewritten as targets approach them.
+- Mo can capture an army without making every page lethal.
+
+##### Ten Thousand Pages Bury the Sky — Evolved Transcended Art
+
+Every page continuously changes its qi instruction according to battlefield conditions. The complete scripture behaves like one evolving martial formation while individual pages remain capable of independent action.
+
+Preparation remains the central limitation. Destroying Mo's paper reserves before deployment substantially reduces his power.
+
+#### 3.5.4 #8 Arin Vale — High Duke Silver Sword Saint
+
+**Five-year cultivation level:** High Duke
+
+Arin approaches the summit of Duke cultivation through precision rather than Kael's overwhelming force.
+
+##### Silver Thread Cut — Transcended Evolution
+
+- Arin can identify structural seams while both combatants are moving.
+- Her sword pressure follows a seam as it changes.
+- Reinforcing one weak point may expose the next seam to her.
+- She can cut armour, weapons or defensive qi without cutting the person beneath them.
+
+##### Moon on Still Water — Transcended Evolution
+
+- Arin can hold several possible counter-lines simultaneously.
+- She commits only when the opponent's true attack separates from their feints.
+- The stronger the enemy's final commitment, the cleaner her counter becomes.
+- She can protect someone behind her without abandoning the counter position.
+
+##### Thousand Blade Mercy — Transcended Evolution
+
+- Arin can disable large formations without indiscriminate killing.
+- Each sword line selects weapons, tendons, armour joints or circulation points.
+- Allies and civilians may remain inside the affected area safely.
+- The technique becomes substantially more difficult when she attempts to spare every opponent.
+
+##### When the Silver Horizon Breaks — Evolved Supreme Art
+
+Arin creates one immense silver sword horizon across the battlefield. The art cuts only what she consciously selects:
+
+- enemy weapons
+- defensive formations
+- hostile techniques
+- specific terrain
+- selected opponents
+
+Its power decreases when Arin makes many separate selections, preserving her identity as a precision specialist rather than a mass-destruction fighter.
+
+#### 3.5.5 #9 Luo Wen — Duke of the Last Lantern
+
+**Five-year cultivation level:** Established Duke
+
+Luo's Duke breakthrough strengthens both halves of his identity: the physician who preserves life and the undertaker who understands exactly how it ends.
+
+##### Borrowed Breath — Transcended Survival Art
+
+- Luo can reduce pulse, breath, body heat and qi activity to near-death levels.
+- Poison and internal injuries spread far more slowly.
+- Hostile perception may mistake him for a corpse.
+- Damaged organs enter a controlled low-function state rather than immediately failing.
+- The art does not heal him; it buys time.
+
+##### Lantern Before Dawn — Transcended Medicine
+
+- Luo can stabilize several critically wounded people simultaneously.
+- He synchronizes their heartbeats and circulation through minute qi pulses.
+- A failing patient may borrow stability from the shared rhythm.
+- The art provides time for treatment but cannot replace Rhen-level healing.
+
+##### Nine Funeral Nails — Transcended Offense
+
+- The nine strikes can be distributed across several opponents or concentrated upon one Sovereign-level body.
+- Each strike removes one physical function.
+- Against one target, the complete sequence can dismantle movement, breathing, sight and circulation without killing them.
+
+##### The Body Remembers Death — Transcended Disruption
+
+- Luo can awaken compensation patterns from old injuries.
+- A healed knee may briefly move as though it were still damaged.
+- Previously poisoned meridians may reproduce their old defensive weakness.
+- He cannot recreate injuries a target never suffered.
+
+##### The Breath That Never Came — Evolved Supreme Art
+
+Luo targets the transition between one breath and the next. At Duke level, he can interrupt respiratory rhythm, qi circulation and conscious movement together.
+
+Sovereign-level opponents can resist, but must divide their attention between restoring breath and defending against Luo.
+
+#### 3.5.6 #10 Yun Shizhen — Duke of Pale Venom
+
+**Five-year cultivation level:** Established Duke
+
+Yun remains physically the weakest Top Ten member, but a prepared poison environment can threaten stronger Dukes.
+
+##### Ten Thousand Venoms Scripture — Transcended Passive
+
+- Her body automatically identifies conventional toxins.
+- Organs and meridians alter circulation to isolate them.
+- Surviving a new poison expands her resistance.
+- She can store separated toxins inside protected internal reservoirs.
+- Absolute immunity to every future poison is not assumed.
+
+##### Seven-Colored Meridian Rot — Transcended Evolution
+
+The seven toxin families separately target:
+
+- circulation
+- muscle control
+- perception
+- pain response
+- fatigue
+- breathing
+- blood function
+
+Yun can activate the families separately, disguising the complete poison as several unrelated symptoms.
+
+##### Garden Where Nothing Lives — Transcended Battlefield Art
+
+- Poison exists in powders, droplets, needles and qi-carried traces.
+- Different areas contain different toxin combinations.
+- Moving between zones creates new compounds inside the victim.
+- Yun can maintain safe routes for selected allies.
+- Wind and terrain remain meaningful limitations.
+
+##### Poison Returning to the Source — Transcended Counter
+
+- Yun refines a foreign toxin inside her protected circulation.
+- She returns an altered form adapted to the original poison user's resistance.
+- The returned poison is not automatically fatal.
+- Exceptionally complex or Supreme poisons may exceed her ability to refine safely.
+
+##### Ten Thousand Venoms Become One — Evolved Supreme Art
+
+- Every poison already present in the target begins interacting as one system.
+- Resistance to one toxin determines which toxin activates next.
+- Purging one compound may feed another.
+- The final poison is shaped by the target's own defensive choices.
+- Yun cannot fully predict its final form before observing those responses.
+
+This art can threaten people above Yun's rank but requires exposure and preparation. In a direct unprepared battle, she remains below every member of the Top Five.
+
+---
+
+### 3.6 Other Characters — Five Years Later
 
 **STATUS: PENDING USER DEVELOPMENT**
 
-No five-year upgrades, injuries, retirements, new ranks, relationships, deaths, disciples, successors or factions should be invented for Top 6–10, former Top Ten or other characters until the user adds them to the skeleton or asks for structured suggestions.
+No five-year upgrades, injuries, retirements, new ranks, relationships, deaths, disciples, successors or factions should be invented for former Top Ten or other characters until the user adds them to the skeleton or asks for structured suggestions.
 
 ---
 
@@ -829,7 +1094,7 @@ No five-year upgrades, injuries, retirements, new ranks, relationships, deaths, 
 
 These are intentionally blank until the user supplies more skeleton material:
 
-- Top 6–10 / former Top Ten developments
+- former Top Ten developments
 - former legendary fighters / retired figures
 - complete ranking structure five years later
 - exact Paragon-level definition
@@ -849,6 +1114,19 @@ Do **not** fill these automatically.
 ---
 
 ## 5. Revision Log
+
+### 2026-08-29 — Co-#1 and Top 6–10 Five-Year Development
+
+Added the user-approved five-year development for Tae Muyeon and the active Top 6–10:
+
+- established co-#1 Tae Muyeon as a **High Sovereign** and evolved his existing horizon arts through metal and iron qi
+- established #6 Ilyra Serath as a **Sovereign** whose peak offensive output is comparable to #2 Liang Yue
+- established #7 Mo Qingzhao and #8 Arin Vale as **High Dukes**
+- established #9 Luo Wen and #10 Yun Shizhen as **Dukes**
+- evolved only existing named techniques for all six characters
+- preserved the rule that Top 7–10 remain below every member of the Top Five overall
+
+No runtime story, canon, ranking or technique data was changed.
 
 ### 2026-08-29 — Sera and Top Five Five-Year Development
 
