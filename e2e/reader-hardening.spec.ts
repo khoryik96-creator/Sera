@@ -44,9 +44,12 @@ test('global search exposes an accessible input and labelled dialog', async ({ p
   await expect(search).toBeVisible({ timeout: 20_000 });
   await expect(search).toHaveAttribute('aria-haspopup', 'dialog');
   await expect(search).toHaveAttribute('aria-controls', 'searchPalette');
+  await expect(search).toHaveAttribute('aria-expanded', 'false');
   await search.fill('Sera');
   await expect(page.getByRole('dialog', { name: 'Search The Quiet Regular' })).toBeVisible();
+  await expect(search).toHaveAttribute('aria-expanded', 'true');
   await page.keyboard.press('Escape');
   await expect(page.getByRole('dialog', { name: 'Search The Quiet Regular' })).toHaveCount(0);
+  await expect(search).toHaveAttribute('aria-expanded', 'false');
   await expect(search).toBeFocused();
 });
