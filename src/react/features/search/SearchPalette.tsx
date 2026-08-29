@@ -1,5 +1,6 @@
 import type { KeyboardEvent as ReactKeyboardEvent } from 'react';
 import { useEffect, useMemo, useState } from 'react';
+import { restoredCanonReferences } from '../../../canonReference';
 import { DB } from '../../../db';
 import { EPISODE_ARCS } from '../../../episodeMeta';
 import { RankBadge } from '../../components/Shared';
@@ -135,7 +136,7 @@ export function SearchPalette({ open, query, onClose, onOpenSection, onOpenChara
       found.push({ id: `legend-${item.rank}-${item.title}`, group: 'Legends', kind: item.kind, label: item.title, meta: clip(item.text), rank: parsed?.rank, status: parsed?.status, score, open: () => onOpenSection('legends') });
     });
 
-    (DB.canonRules || []).forEach((item) => {
+    [...restoredCanonReferences, ...(DB.canonRules || [])].forEach((item) => {
       const score = scoreMatch(`${item.title} ${item.text}`, needle);
       if (!score) return;
       found.push({ id: `canon-${item.title}`, group: 'Canon', kind: 'Canon rule', label: item.title, meta: clip(item.text), score, open: () => onOpenSection('canon') });

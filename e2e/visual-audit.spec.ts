@@ -32,7 +32,9 @@ test('character quick navigator jumps through long profiles without overflow', a
   await expect(page.locator('.character-profile--v2')).toBeVisible({ timeout: 20_000 });
   const nav = page.locator('.character-section-nav');
   await expect(nav).toBeVisible();
-  await expect(nav.getByRole('button')).toHaveCount(6);
+  for (const label of ['Profile', 'Rank', 'Arts', 'Relations', 'Legends', 'Episodes', 'Details']) {
+    await expect(nav.getByRole('button', { name: label, exact: true })).toBeVisible();
+  }
 
   await nav.getByRole('button', { name: 'Legends' }).click();
   await expect.poll(async () => page.locator('#characterLegendsSection').evaluate((node) => Math.abs(node.getBoundingClientRect().top))).toBeLessThan(220);

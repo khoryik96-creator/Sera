@@ -22,7 +22,7 @@ test('command palette opens with grouped search guidance', async ({ page }) => {
 test('character search preserves rank state and Enter opens the best match', async ({ page }) => {
   const input = await openSearch(page);
   await input.fill('Sera');
-  const group = page.locator('.search-group').filter({ hasText: 'Characters' });
+  const group = page.getByRole('region', { name: 'Characters' });
   await expect(group).toBeVisible();
   await expect(group.locator('.search-result-v2').first()).toContainText('Sera');
   await expect(group.locator('.react-rank-badge--former').first()).toContainText('FORMER');
