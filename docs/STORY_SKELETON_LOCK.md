@@ -19,8 +19,9 @@
    - [Qin Luo — five years later](#36-qin-luo--five-years-later)
    - [Other characters — five years later](#37-other-characters--five-years-later)
 4. [The Quaint Teahouse — five-year development](#4-the-quaint-teahouse--five-year-development)
-5. [Open planning slots](#5-open-planning-slots)
-6. [Revision log](#6-revision-log)
+5. [Five Sovereign political order](#5-five-sovereign-political-order)
+6. [Open planning slots](#6-open-planning-slots)
+7. [Revision log](#7-revision-log)
 
 ## 1. Planning Workflow
 
@@ -31,7 +32,7 @@ The user is deliberately building the continuation as a **skeletal structure fir
 | Stage | Planning area | Status |
 |---:|---|---|
 | 1 | Character development skeleton | **ACTIVE** |
-| 2 | Five-year world-state skeleton | STARTED — QUAINT TEAHOUSE LOCKED |
+| 2 | Five-year world-state skeleton | ACTIVE — QUAINT TEAHOUSE AND FIVE SOVEREIGN ORDER LOCKED |
 | 3 | New arc / conflict skeleton | STARTED — CLIFFHANGER FOUNDATION ONLY |
 | 4 | Season/chapter outline | NOT STARTED |
 | 5 | Story composition / prose | **LOCKED** |
@@ -1265,6 +1266,8 @@ The five-year period is an active foundation arc rather than empty peace.
 - Sera is first-in-command and the actual leader.
 - Qin Luo becomes second-in-command.
 - Tae Muyeon later becomes third-in-command.
+- Lu Weiran becomes Chief Steward and operational network leader.
+- The 200-person hidden force is internally known as **The Quiet Hand**.
 - Rhen refuses command and remains the healing teacher, physician and medicinal farmer.
 - The guild avoids ranking disputes, territorial control, political conquest and unnecessary intervention.
 - Its existence remains unknown to the Top Ten through the end of Year Five.
@@ -1489,7 +1492,7 @@ Final senior hierarchy:
 1. **Sera — first-in-command**
 2. **Qin Luo — second-in-command**
 3. **Tae Muyeon — third-in-command**
-4. **Lu Weiran — operational network leadership; exact title `TBD`**
+4. **Lu Weiran — Chief Steward and operational network leader**
 5. senior healers and Orchid-trained field leaders
 6. **Rhen — healing teacher, medicinal farmer and no formal commander**
 
@@ -1522,9 +1525,9 @@ The Quaint Teahouse expands without becoming publicly known.
 - warehouses
 - emergency communication
 
-#### The Hidden Force of Two Hundred
+#### The Quiet Hand — Hidden Force of Two Hundred
 
-By Year Five, The Quaint Teahouse maintains a hidden specialist force of exactly **200 operatives**.
+By Year Five, The Quaint Teahouse maintains a hidden specialist force of exactly **200 operatives**, internally named **The Quiet Hand**.
 
 - It is the strongest army in the world despite being vastly smaller than any Five Sovereign army.
 - Most of its members have reached genuine **Marquis-class combat strength** under the older cultivation description.
@@ -1532,6 +1535,27 @@ By Year Five, The Quaint Teahouse maintains a hidden specialist force of exactly
 - They do not receive Frozen Petals Garden or passive cultivation from Rhen.
 - Their strength is earned through extreme training, integrated specialization and relentless small-unit coordination.
 - Their complete existence and strength remain unknown to the Five Sovereigns and Five Dukes.
+
+##### Command Structure
+
+1. **Sera — absolute commander and sole lethal-force authority**
+2. **Qin Luo — operational commander, security authority and second-in-command**
+3. **Tae Muyeon — training commander, formation-breaking authority and third-in-command**
+4. **Lu Weiran — Chief Steward, deployment planner and logistical authority**
+5. **Ten cell captains — each commands one permanent twenty-person operational cell; identities `TBD`**
+6. **Rhen — chief medical instructor with no command authority**
+
+Rhen may stop training or deployment for medical reasons, but he does not select targets, command missions or override Sera's decisions.
+
+##### Strength Distribution
+
+The 200 are not equal in direct combat:
+
+- **10 cell captains:** Peak Marquis-class, approaching but not confirmed at Duke level
+- **150 operatives:** genuine Marquis-class fighters
+- **40 technical specialists:** below Marquis in direct combat but exceptional in medicine, poison control, scouting, communications, engineering, intelligence or extraction
+
+This places 160 of the 200 at Marquis class or higher while preserving the significance of true Duke and Sovereign breakthroughs.
 
 ##### Tae Muyeon's Training
 
@@ -1575,22 +1599,46 @@ Lu ensures that every deployed unit possesses verified intelligence, concealed r
 
 Qin supplements their training through vibration awareness, counter-ambush exercises and detection of concealed movement.
 
-##### Specialist Functions
+##### Four Training Battalions
 
-The force maintains functional battalions and smaller squads specializing in:
+The Quiet Hand contains four fifty-person training battalions:
 
-- medicine and battlefield stabilization
-- medicinal cultivation, preparation and supply protection
-- Orchid-origin defence and patient evacuation
-- intelligence gathering and verification
-- scouting and route security
-- logistics, couriers and emergency resupply
-- civilian rescue and disaster response
-- base security and counter-infiltration
+1. **Veil Battalion — Sera's curriculum**
+   - infiltration, concealment, strategy, anatomical incapacitation, deception and assassination methodology
+2. **Iron Battalion — Tae's curriculum**
+   - direct combat, formation-breaking, endurance, pressure resistance and rear-guard action
+3. **Spring Battalion — Rhen's curriculum**
+   - battlefield medicine, meridian stabilization, poison treatment, evacuation and prolonged team sustain
+4. **Wayfinder Battalion — Lu and Qin's curriculum**
+   - intelligence, scouting, logistics, communications, route control, counter-ambush and counter-infiltration
 
-All 200 receive cross-training outside their primary specialties. Losing one specialist therefore does not leave a deployed unit without medical, scouting, infiltration or extraction capability.
+These battalions define primary training rather than battlefield separation. All 200 receive cross-training outside their primary specialties.
+
+##### Ten Operational Cells
+
+The Quiet Hand deploys through **ten permanent cells of twenty**.
+
+Each cell contains:
+
+- five Veil specialists
+- five Iron specialists
+- five Spring specialists
+- five Wayfinder specialists
+
+Every cell is therefore capable of infiltration, direct combat, treatment, intelligence gathering, independent supply and extraction without waiting for another unit.
 
 They are trained at different distributed locations, deploy only when their function is needed and do not reside permanently inside the hidden base.
+
+##### Recruitment and Graduation
+
+- Candidates are selected only from proven Quaint Teahouse apprentices, physicians, scouts, defenders and relief workers.
+- The Quiet Hand never advertises, conscripts recruits or accepts a martial artist merely because they are powerful.
+- Lu and Qin investigate loyalty, judgment and outside connections.
+- Rhen verifies medical knowledge, restraint and the ability to preserve life under pressure.
+- Tae conducts the final physical and formation-breaking trials.
+- Sera evaluates strategy, independent judgment and obedience to the lethal-force rule.
+- Failing selection does not expel someone from the wider guild; they may continue serving through clinics, farms, supply routes and ordinary field squads.
+- Graduation requires unanimous approval from Sera, Qin and Tae. Rhen may medically disqualify a candidate.
 
 ##### Twenty Against Two Thousand
 
@@ -1606,6 +1654,16 @@ A standard major deployment consists of **20 operatives**.
 
 The 200 are stronger than Kael's army as an organized force, but this does not mean an individual operative can defeat Kael or another Sovereign. If a Sovereign personally enters the battle, the unit prioritizes its objective, dispersal and extraction rather than attempting to overpower them.
 
+##### Deployment Authority
+
+- **One to five operatives:** Lu may deploy them under Sera's standing humanitarian, reconnaissance and supply-protection orders.
+- **Six to nineteen operatives:** Qin or Tae must approve; Sera must be informed.
+- **Twenty or more operatives:** Sera must authorize the deployment personally.
+- **Fifty or more operatives:** treated as a continental-level emergency and requires a full senior-command briefing.
+- **All 200 operatives:** only Sera can issue the order; it represents The Quaint Teahouse's maximum conventional mobilization.
+
+Deployment authority never includes automatic permission to kill.
+
 ##### Absolute Lethal-Force Rule
 
 The force possesses assassin-level methods but is not permitted to kill at its own discretion.
@@ -1615,14 +1673,28 @@ The force possesses assassin-level methods but is not permitted to kill at its o
 - Without that authorization, every operative must incapacitate, disarm, capture, misdirect or escape instead of killing.
 - Convenience, anger, revenge and operational secrecy never constitute automatic permission to kill.
 - Tae, Qin, Lu and field commanders cannot override this rule.
+- If an order cannot be authenticated or communications fail, the force defaults to nonlethal action.
 
 The force remains a hidden intervention and rescue army rather than a conquering or mercenary organization.
+
+##### Largest Pre-Cliffhanger Operation
+
+During Year Four, simultaneous flooding and a conflict between two regional sect coalitions trap tens of thousands of civilians along a collapsing medicine corridor.
+
+- Forty Quiet Hand operatives deploy in two cells.
+- One cell infiltrates both coalitions, disables their command structures and prevents either army from using the evacuation routes.
+- The second cell opens the medicine corridor, stabilizes the wounded and coordinates civilian withdrawal.
+- Lu redirects supplies through routes both coalitions considered impassable.
+- Sera does not authorize lethal force.
+- The operation ends without a single death caused by The Quiet Hand.
+- Neither coalition discovers who dismantled its command network.
+- The public attributes the evacuation to local physicians, scattered relief groups and the unexplained withdrawal of both armies.
 
 Qin and Tae support all branches and battalions rather than creating personal factions.
 
 - Qin's restored cultivation and passive refinement carry him into Sovereign level.
 - Tae continues developing his iron-infused horizon arts without Rhen's passive.
-- The strongest apprentices and recruits form the 200-person hidden force, most reaching Marquis-class strength without becoming replacement members of the public Top Ten.
+- The strongest apprentices and recruits form The Quiet Hand, most reaching Marquis-class strength without becoming replacement members of the public Top Ten.
 - The guild remains unknown to the official ranking system.
 
 ### 4.6 Year Five — Sovereigns Beneath the Crooked Sign
@@ -1633,7 +1705,7 @@ By Year Five:
 - Qin is a Sovereign comparable to Liang Yue.
 - Tae is a High Sovereign.
 - Lu Weiran operates a continental information and relief-supply network.
-- The 200-person hidden force is fully operational and is secretly the world's strongest army.
+- The Quiet Hand is fully operational and is secretly the world's strongest army.
 - The apprentices can respond to crises without requiring Sera or Rhen personally.
 - The hidden base holds an effectively endless emergency medicine reserve and can temporarily shelter civilians, wounded personnel and retreating squads through its underground system.
 - The base remains a strategic convening and fallback point rather than the guild's daily centre of operations.
@@ -1751,7 +1823,159 @@ Do not begin the rescue, identify the enemy or compose the next arc until the us
 
 ---
 
-## 5. Open Planning Slots
+## 5. Five Sovereign Political Order
+
+### 5.1 The Five-Power Balance
+
+The Five Sovereigns become the public military pillars of the continent during the five-year period.
+
+- Their influence grows because governments and ordinary sects cannot independently answer another Crown-, King- or Overlord-scale invasion.
+- Each Sovereign retains an autonomous army, affiliated sects and a distinct strategic sphere.
+- Governments continue administering territory, collecting taxes and enforcing civil law, but few rulers can ignore a Sovereign's military position.
+- The Sovereigns do not crown themselves, replace governments or divide the continent into personal kingdoms.
+- Open warfare between them becomes less likely because every Sovereign understands that a civil war would leave the continent exposed.
+- Political pressure instead appears through recruitment, access to mines and medicine, trade routes, protected sects, military appointments and proxy disputes.
+- Kael is publicly regarded as commander of the strongest direct army.
+- Jin possesses the greatest coalition and political influence because he can coordinate forces that do not formally belong to him.
+
+### 5.2 The Five Sovereign Compact
+
+Jin drafts the **Five Sovereign Compact** during Year Three. It is a mutual-defence and military-deconfliction agreement rather than a new government.
+
+Core terms:
+
+- an external invasion against one Sovereign's protected sphere may trigger support from all five armies
+- no Sovereign may move a major force through another's sphere without notice
+- ranked disputes and personal challenges may not be escalated through army mobilization
+- affiliated sects cannot use a Sovereign's name to annex civilian territory
+- relief medicine, evacuation corridors and disaster supplies must remain neutral
+- disputes between affiliated sects are reviewed through envoys before armies may intervene
+- no Sovereign may claim permanent command over another Sovereign's troops
+- Jin coordinates joint campaigns, but Kael serves as the primary field deterrent when overwhelming direct force is required
+
+The Compact is held together by necessity and mutual respect rather than complete trust.
+
+### 5.3 The Five Sovereign Armies
+
+The following figures represent approximate troops under direct command and exclude the much larger number of loosely protected sects, militias and local forces.
+
+| Sovereign | Approximate direct strength | Military identity and influence |
+|---|---:|---|
+| **#1 Kael Veyran** | **50,000**, including an elite core of **2,000** | The largest conventional army. Specializes in fortifications, heavy infantry, siege resistance, mines, inland roads, frontier defence and overwhelming field pressure. |
+| **#2 Liang Yue** | **20,000** | A smaller, highly disciplined army specializing in meridian suppression, capture of dangerous martial artists, medical inspection, internal security and breaking hostile cultivation networks without destroying entire cities. |
+| **#3 Jin Seoryu** | **12,000 direct; approximately 70,000 available through allies** | The smallest personal army but the widest coalition. Dominates intelligence exchange, strategic planning, communications, logistics and coordination between otherwise incompatible sect forces. |
+| **#4 Lei Zhen** | **18,000** | The fastest major army. Specializes in rapid deployment, thunderfire assault, pursuit, emergency reinforcement and breaking fortified positions before a longer campaign begins. |
+| **#5 Shen Rui** | **30,000** | Controls the strongest river, coastal and transport force. Protects ports, waterways, flood infrastructure, naval supply, winter routes and the movement of food and medicine. |
+
+The armies remain distinct reflections of their Sovereigns rather than five interchangeable masses of soldiers.
+
+### 5.4 The Five Dukes as the Second Defensive Line
+
+The active #6–10 fighters remain individually independent rather than becoming ordinary subordinate generals.
+
+- Collectively, the Five Dukes are recognized as the continent's mobile second defensive line.
+- They may cross Sovereign spheres more easily than a standing army because their movement does not automatically imply invasion.
+- They investigate threats requiring ranked strength but not yet justifying tens of thousands of soldiers.
+- Their different specialties make them suitable for compact reconnaissance and emergency response.
+- Jin may coordinate them for a Compact-sanctioned mission, but they retain individual judgment.
+
+This is why Jin takes all Five Dukes to investigate the new continent instead of mobilizing a Sovereign army.
+
+### 5.5 Sect, Clan and Government Realignment
+
+Smaller martial organizations increasingly choose one of three positions:
+
+1. **Protected affiliation** — receives military protection, training access and emergency resources while retaining internal leadership.
+2. **Military alignment** — contributes fighters, intelligence or supplies directly to one Sovereign army and accepts greater external oversight.
+3. **Declared neutrality** — remains outside the five blocs but receives no guaranteed military response beyond the Compact's civilian protections.
+
+Consequences:
+
+- talented disciples are increasingly recruited toward Sovereign-aligned institutions
+- medicine, mines, ports and cultivation grounds become political bargaining tools
+- old sect rivalries are suppressed when they threaten the Compact
+- some smaller clans gain unprecedented security
+- others fear that affiliation will eventually erase their independence
+- governments become dependent on Sovereign armies for catastrophic threats while resenting their growing political influence
+- no bloc is wholly benevolent or corrupt; behaviour varies among its subordinate officials and sects
+
+### 5.6 Why Local Corruption Survives
+
+The Five Sovereigns are military deterrents rather than omnipresent civil authorities.
+
+- Their armies focus on invasion, large sect wars, disaster response and threats capable of destabilizing entire regions.
+- Compact restrictions discourage them from entering ordinary local disputes without evidence, permission or a clear emergency.
+- Corrupt officials learn to keep abuse below the threshold that attracts Sovereign attention.
+- Some falsely claim protection from an affiliated sect or distant army officer.
+- The Year One governor exploits uncertainty between jurisdictions and hides confiscation, fabricated taxes and stolen medicine behind ordinary civil authority.
+- None of the Five Sovereigns knowingly protects him.
+
+The Quaint Teahouse develops because enormous public armies can defend a continent while still failing individual villages trapped between their responsibilities.
+
+### 5.7 Public Strength and the Hidden Contradiction
+
+The accepted public hierarchy is:
+
+1. Kael commands the strongest direct army.
+2. Jin can assemble the strongest coalition.
+3. The combined Five Sovereign armies are the continent's ultimate defence.
+
+The hidden truth is different:
+
+- The Quiet Hand is the strongest army by individual quality, coordination, infiltration, medical sustain and strategic efficiency.
+- Twenty Quiet Hand operatives can dismantle Kael's 2,000-person elite core if Kael himself is absent.
+- The full 200 could collapse the command structure of a vastly larger conventional army.
+- The Quiet Hand cannot occupy and administer territory like a fifty-thousand-person force and has no desire to do so.
+- Sera's power is therefore intervention, extraction and precise destruction rather than empire-building.
+- Revealing the force would make every government and Sovereign army view The Quaint Teahouse as a potential existential threat, regardless of its actual restraint.
+
+Secrecy protects both The Quaint Teahouse and the political balance it could accidentally destroy.
+
+### 5.8 Five-Year Political Progression
+
+#### Year One
+
+- The five ranked armies independently expand after previous continental disasters.
+- Lei and Rui have not yet completed their Sovereign breakthroughs.
+- Jurisdiction remains unclear, allowing the corrupt governor to operate beneath military attention.
+
+#### Year Two
+
+- Smaller sects increasingly seek formal protection beneath one of the five rising powers.
+- Competition for disciples, supply routes and cultivation resources intensifies.
+- The Quaint Teahouse begins solving humanitarian failures without revealing itself.
+
+#### Year Three
+
+- Lei and Rui complete their Sovereign breakthroughs.
+- Jin negotiates the Five Sovereign Compact before army competition can escalate into open conflict.
+- Public use of **Five Sovereigns** and **Five Dukes** becomes formalized.
+
+#### Year Four
+
+- The Compact produces the most stable public order in years.
+- Five Sovereign military influence reaches governments, ports, sect councils and strategic resources.
+- The Quiet Hand becomes operational beneath that stability and handles crises the public system does not see.
+
+#### Year Five
+
+- The continent appears exceptionally secure.
+- The Five Sovereign armies are larger, better coordinated and more influential than ever.
+- The Quiet Hand secretly surpasses every public army in concentrated effectiveness.
+- The entire system still assumes Kael represents the highest plausible military threat.
+- The Five Dukes' defeat on the new continent proves that assumption catastrophically wrong.
+
+### 5.9 Political Meaning of the Cliffhanger
+
+- The Five Sovereign armies remain intact, but their mobile second line has been defeated in one encounter.
+- Mobilizing a full army toward an unknown continent could expose the homeland, provoke an international incident or send thousands into an enemy Jin already assesses above Kael.
+- Jin's signal is therefore not simply a request for additional soldiers.
+- It is an admission that the public military order may be incapable of conducting the rescue.
+- The hidden force the world would fear may be the only force capable of entering unseen, recovering the Five Dukes and escaping without beginning a continental war.
+
+---
+
+## 6. Open Planning Slots
 
 These are intentionally blank until the user supplies more skeleton material:
 
@@ -1770,15 +1994,18 @@ These are intentionally blank until the user supplies more skeleton material:
 - the corrupt governor's name, territory, final sentence and surviving allies
 - apprentice count, names, individual roles and progression
 - exact medical reason Qin Luo remains blind
-- Lu Weiran's history, recruitment circumstances and command title
+- Lu Weiran's history and initial recruitment circumstances
+- names, personalities and backgrounds of the ten Quiet Hand cell captains
 - mountain, cave and hidden-base names and exact security arrangements
 - who outside the organization knows The Quaint Teahouse exists
 - the exact status of Qin Luo's local passive refinement after the five-year endpoint
 
 ### Remaining World-State Planning
 
-- wider political changes during the five years
-- sect and clan changes
+- exact territory names and headquarters associated with each Sovereign army
+- important generals, envoys and affiliated sect leaders beneath the Five Sovereigns
+- response of independent governments and foreign states to the Five Sovereign Compact
+- whether the Compact survives the new-continent revelation
 - Tae Muyeon's poisoner, motive, delivery method and possible connection to the new continent
 
 ### Remaining New-Continent and Rescue Planning
@@ -1801,7 +2028,22 @@ Do **not** fill these automatically.
 
 ---
 
-## 6. Revision Log
+## 7. Revision Log
+
+### 2026-08-29 — Five Sovereign Political Order and Quiet Hand Structure
+
+- Established the Five Sovereigns as the continent's five public military pillars without turning them into monarchs.
+- Added Jin's Year Three **Five Sovereign Compact** governing mutual defence, army movement, sect disputes and neutral relief corridors.
+- Defined the approximate size, specialization and political influence of all five Sovereign armies.
+- Established the Five Dukes as the mobile second defensive line and explained why Jin takes them rather than an army to the new continent.
+- Added the three-way protected, military-aligned and neutral realignment of smaller sects and clans.
+- Explained why local corruption survives beneath enormous Sovereign military influence.
+- Named the hidden force **The Quiet Hand** and organized it into four fifty-person training battalions and ten mixed twenty-person operational cells.
+- Defined its command structure, strength distribution, recruitment, graduation and deployment authority.
+- Named Lu Weiran **Chief Steward** while preserving Rhen's complete lack of command authority.
+- Added the Year Four flood-corridor operation as The Quiet Hand's largest pre-cliffhanger deployment, completed without authorized killing.
+- Preserved Sera's exclusive authority over all lethal action.
+- No runtime, architecture, UI, canon-data or implementation files were changed.
 
 ### 2026-08-29 — Lu Weiran and the Hidden Force of Two Hundred
 
