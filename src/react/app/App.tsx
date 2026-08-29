@@ -87,13 +87,28 @@ export function App() {
   const { lastRead } = useReaderState();
   const mobileTabsRef = useRef<HTMLElement>(null);
   const searchInputRef = useRef<HTMLInputElement>(null);
+  const suppressSearchOpenOnFocusRef = useRef(false);
   const activeSection: AppSection = route.chapter ? 'chapters' : route.section;
   const reading = Boolean(route.chapter);
 
   function closeSearch(restoreFocus = false): void {
     setSearchOpen(false);
     setSearchQuery('');
-    if (restoreFocus) window.requestAnimationFrame(() => searchInputRef.current?.focus());
+    if (!restoreFocus) return;
+    window.requestAnimationFrame(() => {
+      const input = searchInputRef.current;
+      if (!input || document.activeElement === input) return;
+      suppressSearchOpenOnFocusRef.current = true;
+      input.focus({ preventScroll: true });
+    });
+  }
+
+  function handleSearchFocus(): void {
+    if (suppressSearchOpenOnFocusRef.current) {
+      suppressSearchOpenOnFocusRef.current = false;
+      return;
+    }
+    setSearchOpen(true);
   }
 
   useEffect(() => {
@@ -236,13 +251,12 @@ export function App() {
               ref={searchInputRef}
               value={searchQuery}
               onChange={(event: { target: HTMLInputElement }) => { setSearchQuery(event.target.value); setSearchOpen(true); }}
-              onFocus={() => setSearchOpen(true)}
+              onFocus={handleSearchFocus}
               onKeyDown={handleSearchInputKeyDown}
               placeholder="Search characters, episodes, canon…"
               aria-label="Search The Quiet Regular"
               aria-controls="searchPalette"
               aria-haspopup="dialog"
-              aria-expanded={searchOpen}
             />
             <kbd>⌘K</kbd>
           </label>
