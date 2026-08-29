@@ -21,7 +21,7 @@ test('Reader Library Journey has no serious or critical automated accessibility 
 
 test('global search results have no serious or critical automated accessibility violations', async ({ page }) => {
   await page.goto('/#overview');
-  const search = page.getByRole('textbox', { name: 'Search The Quiet Regular' });
+  const search = page.getByRole('combobox', { name: 'Search The Quiet Regular' });
   await search.fill('Sera');
   await expect(page.getByRole('dialog', { name: 'Search The Quiet Regular' })).toBeVisible({ timeout: 20_000 });
   await expectNoHighImpactViolations(page);

@@ -256,8 +256,10 @@ export function App() {
               onKeyDown={handleSearchInputKeyDown}
               placeholder="Search characters, chapters, canon…"
               aria-label="Search The Quiet Regular"
+              role="combobox"
               aria-controls="searchPalette"
               aria-haspopup="dialog"
+              aria-expanded={searchOpen}
             />
             <kbd>⌘K</kbd>
           </label>
