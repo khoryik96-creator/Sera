@@ -19,7 +19,7 @@ interface SearchPaletteProps {
   onOpenChapter(season: number, episode: number): void;
 }
 
-type SearchGroup = 'Characters' | 'Story arcs & seasons' | 'Episodes' | 'Techniques' | 'Rankings' | 'Legends' | 'Canon';
+type SearchGroup = 'Characters' | 'Story arcs & seasons' | 'Chapters' | 'Techniques' | 'Rankings' | 'Legends' | 'Canon';
 
 interface SearchResult {
   id: string;
@@ -33,7 +33,7 @@ interface SearchResult {
   open(): void;
 }
 
-const GROUP_ORDER: SearchGroup[] = ['Characters', 'Story arcs & seasons', 'Episodes', 'Techniques', 'Rankings', 'Legends', 'Canon'];
+const GROUP_ORDER: SearchGroup[] = ['Characters', 'Story arcs & seasons', 'Chapters', 'Techniques', 'Rankings', 'Legends', 'Canon'];
 
 function normalized(value: string): string {
   return value.toLowerCase().replace(/[^a-z0-9#]+/g, ' ').replace(/\s+/g, ' ').trim();
@@ -79,7 +79,7 @@ export function SearchPalette({ open, query, onClose, onOpenSection, onOpenChara
       setEpisodeLoading(false);
     }).catch((cause: unknown) => {
       if (!alive) return;
-      setEpisodeError(cause instanceof Error ? cause.message : 'Episode search index failed to load.');
+      setEpisodeError(cause instanceof Error ? cause.message : 'Chapter search index failed to load.');
       setEpisodeLoading(false);
     });
     return () => { alive = false; };
@@ -110,9 +110,9 @@ export function SearchPalette({ open, query, onClose, onOpenSection, onOpenChara
     });
 
     episodeIndex.forEach((episode) => {
-      const score = scoreMatch(`${episode.title} ${episode.searchText} season ${episode.season} s${episode.season} episode ${episode.episode} e${episode.episode}`, needle);
+      const score = scoreMatch(`${episode.title} ${episode.searchText} season ${episode.season} s${episode.season} chapter ${episode.episode} ch${episode.episode} episode ${episode.episode} e${episode.episode}`, needle);
       if (!score) return;
-      found.push({ id: episode.id, group: 'Episodes', kind: `S${episode.season} · E${episode.episode}`, label: episode.title, meta: clip(episode.excerpt), score, open: () => onOpenChapter(episode.season, episode.episode) });
+      found.push({ id: episode.id, group: 'Chapters', kind: `S${episode.season} · Ch ${episode.episode}`, label: episode.title, meta: clip(episode.excerpt), score, open: () => onOpenChapter(episode.season, episode.episode) });
     });
 
     [...DB.rhenSkills.map((item) => ({ ...item, owner: 'Rhen' })), ...DB.seraSkills.map((item) => ({ ...item, owner: 'Sera' }))].forEach((item) => {
@@ -145,7 +145,7 @@ export function SearchPalette({ open, query, onClose, onOpenSection, onOpenChara
     return found.sort((a, b) => b.score - a.score || a.label.localeCompare(b.label));
   }, [episodeIndex, needle, onOpenChapter, onOpenCharacter, onOpenSection]);
 
-  const grouped = useMemo(() => GROUP_ORDER.map((group) => ({ group, items: results.filter((item) => item.group === group).slice(0, group === 'Episodes' ? 8 : 5) })).filter((entry) => entry.items.length), [results]);
+  const grouped = useMemo(() => GROUP_ORDER.map((group) => ({ group, items: results.filter((item) => item.group === group).slice(0, group === 'Chapters' ? 8 : 5) })).filter((entry) => entry.items.length), [results]);
   const totalShown = grouped.reduce((sum, entry) => sum + entry.items.length, 0);
 
   function handleResultKeyDown(event: ReactKeyboardEvent<HTMLButtonElement>): void {
@@ -165,21 +165,21 @@ export function SearchPalette({ open, query, onClose, onOpenSection, onOpenChara
     <div className="search-palette-layer" role="presentation" onMouseDown={(event) => { if (event.target === event.currentTarget) onClose(); }}>
       <section id="searchPalette" className="search-palette" role="dialog" aria-label="Search The Quiet Regular">
         <header className="search-palette__header">
-          <div><p className="eyebrow">Global command palette</p><h2>{needle ? `Results for “${needle}”` : 'Search the repository'}</h2><p>{needle ? `${totalShown} best matches shown across ${grouped.length} categor${grouped.length === 1 ? 'y' : 'ies'}.` : 'Characters, story arcs, all 633 episodes, techniques, rankings, legends, and canon share one index.'}</p></div>
+          <div><p className="eyebrow">Global command palette</p><h2>{needle ? `Results for “${needle}”` : 'Search the repository'}</h2><p>{needle ? `${totalShown} best matches shown across ${grouped.length} categor${grouped.length === 1 ? 'y' : 'ies'}.` : 'Characters, story arcs, all 633 chapters, techniques, rankings, legends, and canon share one index.'}</p></div>
           <button className="search-palette__close" onClick={onClose} type="button" aria-label="Close search">Esc</button>
         </header>
 
         {!needle ? (
           <div className="search-palette__empty">
             <div><span>Try</span><strong>Sera</strong><small>Character, rank history, and related lore</small></div>
-            <div><span>Try</span><strong>frozen petals</strong><small>Techniques, legends, and episode mentions</small></div>
+            <div><span>Try</span><strong>frozen petals</strong><small>Techniques, legends, and chapter mentions</small></div>
             <div><span>Try</span><strong>Season 23</strong><small>Jump directly into a story season</small></div>
             <div><span>Keyboard</span><strong>↑ ↓ · Enter</strong><small>Move through results without leaving the search</small></div>
           </div>
         ) : null}
 
-        {needle && episodeLoading ? <div className="search-index-status" role="status">Loading the 633-episode search index…</div> : null}
-        {needle && episodeError ? <div className="search-index-status search-index-status--error">Episode search is temporarily unavailable. Core lore search still works.</div> : null}
+        {needle && episodeLoading ? <div className="search-index-status" role="status">Loading the 633-chapter search index…</div> : null}
+        {needle && episodeError ? <div className="search-index-status search-index-status--error">Chapter search is temporarily unavailable. Core lore search still works.</div> : null}
 
         {needle && grouped.length ? (
           <div className="search-palette__groups">
@@ -200,8 +200,8 @@ export function SearchPalette({ open, query, onClose, onOpenSection, onOpenChara
           </div>
         ) : null}
 
-        {needle && !episodeLoading && !grouped.length ? <div className="search-palette__no-results"><strong>No matches</strong><p>Try a character name, title, technique, season number, episode phrase, legend, or canon rule.</p></div> : null}
-        <footer className="search-palette__footer"><span><kbd>↑</kbd><kbd>↓</kbd> navigate</span><span><kbd>Enter</kbd> open</span><span><kbd>Esc</kbd> close</span><span>Episode index loads only when searching</span></footer>
+        {needle && !episodeLoading && !grouped.length ? <div className="search-palette__no-results"><strong>No matches</strong><p>Try a character name, title, technique, season number, chapter phrase, legend, or canon rule.</p></div> : null}
+        <footer className="search-palette__footer"><span><kbd>↑</kbd><kbd>↓</kbd> navigate</span><span><kbd>Enter</kbd> open</span><span><kbd>Esc</kbd> close</span><span>Chapter index loads only when searching</span></footer>
       </section>
     </div>
   );
