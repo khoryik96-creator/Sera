@@ -96,7 +96,6 @@ export function ReaderPage({ season, episode, onBack, onOpenChapter }: ReaderPag
   const [loreKey, setLoreKey] = useState<string | null>(null);
   const [selectedPassage, setSelectedPassage] = useState('');
   const [passageNotice, setPassageNotice] = useState('');
-  const [chapterScrollPercent, setChapterScrollPercent] = useState(0);
   const [resumePosition, setResumePosition] = useState<ChapterPosition | null>(null);
   const [resumeDismissed, setResumeDismissed] = useState(false);
   const [focusMode, setFocusMode] = useState(loadFocusMode);
@@ -111,7 +110,6 @@ export function ReaderPage({ season, episode, onBack, onOpenChapter }: ReaderPag
     setLoreKey(null);
     setSelectedPassage('');
     setPassageNotice('');
-    setChapterScrollPercent(0);
     setResumeDismissed(false);
     setResumePosition(getChapterPosition(chapterId));
     loadSeason(season).then((rows) => {
@@ -127,6 +125,14 @@ export function ReaderPage({ season, episode, onBack, onOpenChapter }: ReaderPag
     });
     return () => { alive = false; };
   }, [season, episode, chapterId]);
+
+  useEffect(() => {
+    // A fresh chapter always starts at the top, so tapping Previous/Next drops the
+    // reader straight into the new chapter instead of keeping the old scroll
+    // offset. The resume-position banner still offers a jump back when a saved
+    // position exists.
+    window.scrollTo({ top: 0, behavior: 'auto' });
+  }, [season, episode]);
 
   useEffect(() => {
     document.body.classList.toggle('reader-focus-mode', focusMode);
@@ -179,7 +185,6 @@ export function ReaderPage({ season, episode, onBack, onOpenChapter }: ReaderPag
       frame = 0;
       if (pageHiding) return;
       latestProgress = readProgress();
-      setChapterScrollPercent(Math.round(latestProgress * 100));
       persistProgress(latestProgress, false);
     };
 
@@ -322,11 +327,6 @@ export function ReaderPage({ season, episode, onBack, onOpenChapter }: ReaderPag
               {showResumePosition ? <button className="reader-position-resume" onClick={resumeExactPosition} type="button"><span>Resume position</span><strong>{Math.round((resumePosition?.progress || 0) * 100)}%</strong></button> : null}
               {nextUnread ? <button className="next-unread-button" onClick={() => onOpenChapter(nextUnread.season, nextUnread.episode)} type="button"><span>Next unread</span><strong>S{nextUnread.season} · Ch {nextUnread.episode}</strong></button> : <span className="reader-complete-chip">Story complete</span>}
             </div>
-
-            <div className="reader-progress" aria-label={`Season ${season} progress`}>
-              <div className="reader-progress__copy"><span>Season progress</span><strong>{seasonProgress.read} / {seasonProgress.total} opened · {seasonProgress.percent}%</strong></div>
-              <div className="reader-progress__track" role="progressbar" aria-valuemin={0} aria-valuemax={100} aria-valuenow={seasonProgress.percent} aria-label={`Season ${season} ${seasonProgress.percent}% complete`}><span style={{ width: `${seasonProgress.percent}%` }} /></div>
-            </div>
           </header>
 
           <div className="reader-controls" aria-label="Reading preferences">
@@ -343,11 +343,6 @@ export function ReaderPage({ season, episode, onBack, onOpenChapter }: ReaderPag
             <button className="reader-controls__reset" onClick={resetPreferences} type="button">Reset</button>
             {selectedPassage ? <button className="reader-passage-save" onClick={saveSelectedPassage} type="button">Save passage · {selectedPassage.length} chars</button> : null}
             {passageNotice ? <span className="reader-passage-notice" role="status">{passageNotice}</span> : null}
-          </div>
-
-          <div className="reader-chapter-position" aria-label="Chapter position">
-            <div><span>Chapter position</span><strong>{chapterScrollPercent}%</strong></div>
-            <div className="reader-chapter-position__track" role="progressbar" aria-valuemin={0} aria-valuemax={100} aria-valuenow={chapterScrollPercent} aria-label={`Chapter ${chapterScrollPercent}%`}><span style={{ width: `${chapterScrollPercent}%` }} /></div>
           </div>
 
           <SeasonEpisodeSwitcher season={season} episode={episode} episodes={episodes} readEpisodes={readEpisodes} onOpenChapter={onOpenChapter} />
