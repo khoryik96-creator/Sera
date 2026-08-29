@@ -258,6 +258,7 @@ export function App() {
               aria-label="Search The Quiet Regular"
               aria-controls="searchPalette"
               aria-haspopup="dialog"
+              aria-expanded={searchOpen}
             />
             <kbd>⌘K</kbd>
           </label>
