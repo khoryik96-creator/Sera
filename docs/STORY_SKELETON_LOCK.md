@@ -14,7 +14,8 @@
    - [Rhen — five years later](#31-rhen--five-years-later)
    - [Rhen — five-year character/world position](#32-rhen--five-year-characterworld-position)
    - [Sera — five years later](#33-sera--five-years-later)
-   - [Other characters — five years later](#34-other-characters--five-years-later)
+   - [Top Five — five years later](#34-top-five--five-years-later)
+   - [Other characters — five years later](#35-other-characters--five-years-later)
 4. [Open planning slots](#4-open-planning-slots)
 5. [Revision log](#5-revision-log)
 
@@ -409,19 +410,418 @@ Still `TBD`:
 
 ### 3.3 Sera — Five Years Later
 
-**STATUS: PENDING USER DEVELOPMENT**
+**Cultivation level:** Peak Sovereign — approaching Paragon
 
-Do not infer, invent, scale, or write Sera's five-year upgrades yet.
+#### Five-Year Position
 
-The user will define Sera's development next.
+- Sera has crossed completely beyond the Duke boundary and entered the new **Sovereign** level.
+- She is already near the upper end of Sovereign and is approaching **Paragon**, but has not reached it.
+- She is considerably stronger than each of the Sovereign-level Top Three individually.
+- Whether Sera can defeat all three Sovereigns together remains `TBD`.
+- She remains aeons beneath Rhen, whose current strength still cannot be meaningfully measured.
+- Her Sovereign cultivation was developed through five years of training, martial refinement and the continuous strengthening effect of Rhen's passive.
+- The cultivation and technique mastery she gained are permanently hers; withdrawing Rhen's protection does not remove that growth.
+- Who knows Sera has reached Sovereign level remains `TBD`.
+
+#### Withdrawal of Rhen's Passive Protection
+
+- Sera asks Rhen to stop maintaining **Frozen Petals Garden** on her.
+- She does not reject Rhen's love, their bond or his willingness to protect her.
+- She wants the ability and responsibility to protect herself through her own martial system.
+- Rhen respects her decision and withdraws the distance-independent barrier from her.
+- Rhen retains the ability to protect Sera again, but does not reactivate it without her agreement or a later user-approved exception.
+
+#### 3.3.1 Veiled Moon
+
+**Five-year tier:** Transcended Passive Skill
+
+Veiled Moon no longer requires deliberate activation. Sera's presence is permanently synchronized with the surrounding environment.
+
+- Her breathing, footsteps, qi leakage and killing intent are suppressed automatically.
+- Hostile perception struggles to maintain a stable lock upon her.
+- An observer focusing on Sera perceives her fractionally behind or beside her true position.
+- Targeted techniques may strike the position the attacker believes she occupies rather than her actual body.
+- Her location becomes increasingly difficult to follow when several people are moving nearby.
+- Sera may choose which people can perceive her normally.
+- The passive remains active while she attacks; revealing killing intent no longer fully exposes her.
+
+Limits and identity:
+
+- Veiled Moon does not make Sera invisible or intangible.
+- It does not heal, strengthen, warn allies, reject harmful contact or create an indestructible barrier.
+- It cannot stop an indiscriminate attack covering an entire area.
+- It cannot protect her if an attack physically reaches her despite the targeting distortion.
+- Future Sovereign-level perception systems may be able to partially resist it; exact rules remain `TBD`.
+- Its protection comes from concealment and false positioning, keeping it completely distinct from Rhen's passive.
+
+#### 3.3.2 Orchid Shadow Steps
+
+**Five-year tier:** Transcended Skill
+
+- Sera can redirect herself repeatedly in mid-air through microscopic qi bursts.
+- She no longer needs a solid surface between directional changes.
+- Her movement contains no readable preparation or weight transfer.
+- She can reverse direction after an enemy has committed to intercepting her.
+- Each step creates several equally plausible continuation paths.
+- Even elite perception masters struggle to determine which path she actually selected.
+- The art remains qinggong rather than teleportation, invisibility or distance collapse.
+
+#### 3.3.3 Seven Petals, One Breath
+
+**Five-year tier:** Transcended Skill
+
+Within one complete circulation cycle, Sera can deliver seven attacks against seven different bodily or martial functions:
+
+1. balance
+2. grip
+3. breath
+4. vision
+5. meridian flow
+6. defensive circulation
+7. conscious movement
+
+Rules:
+
+- She may direct all seven strikes against one Sovereign-level enemy.
+- She may strike seven different opponents or divide the sequence between several targets.
+- Each strike changes the target's reaction and prepares the next opening.
+- Sera can alter the remaining sequence after any strike rather than committing to all seven in advance.
+- The technique can still kill, disable or capture depending on her chosen targets.
+
+#### 3.3.4 Fading Fragrance
+
+**Five-year tier:** Transcended Skill
+
+- The poison remains almost undetectable during initial exposure.
+- Separate compounds remain harmless until combined inside the target.
+- Sera can make specific layers respond to increased internal-energy circulation.
+- The more aggressively an enemy uses their cultivation, the faster the poison advances.
+- Attempts to forcefully purge one layer may activate another dormant compound.
+- Sera can preselect effects targeting breath, sensation, balance, qi precision or muscular control.
+- She can neutralize her own poison when capture becomes preferable to death.
+- It remains poison rather than magic, cultivation theft or automatic internal-energy control.
+- Rhen remains completely immune because Frozen Petals Garden automatically neutralizes all poison.
+
+#### 3.3.5 Orchid Behind the Mirror
+
+**Five-year tier:** Transcended Skill
+
+Sera can align every readable signal behind a deliberately false future:
+
+- gaze
+- muscular tension
+- foot position
+- breathing
+- qi circulation
+- killing intent
+- weapon trajectory
+
+An opponent who reads her correctly still reaches the wrong conclusion because every piece of authentic evidence supports the future Sera wants them to believe.
+
+- She may construct several false intentions consecutively.
+- Opponents can be led into countering attacks she never intended to perform.
+- This is not an illusion; Sera manipulates the physical and martial information used to predict her.
+
+#### 3.3.6 Pale Veil Funeral
+
+**Five-year tier:** Supreme Art
+
+Pale Veil Funeral advances from Transcended to Supreme. Sera no longer requires extensive advance preparation and can construct the funeral during an active battle.
+
+- Every movement creates a concealed threat.
+- Every enemy reaction becomes preparation for another enemy's defeat.
+- Silken Grave redirects movement into poisoned zones.
+- Orchid Behind the Mirror turns defensive formations against themselves.
+- Fading Fragrance activates at different moments across the battlefield.
+- Orchid Shadow Steps carries Sera between targets before their attention can stabilize.
+- Multiple enemies collapse in a deliberate sequence while struggling to identify which action began the art.
+
+Pale Veil Funeral is Sera's **multi-target Supreme Art**. It does not guarantee that every Sovereign-level opponent dies. Its maximum targets, preparation requirements and resistance rules remain `TBD`.
+
+#### 3.3.7 The Orchid Blooms Only Once
+
+**Five-year tier:** Evolved Supreme Art
+
+This remains Sera's highest and most personal technique. Its identity is unchanged: Sera engineers one perfect, decisive instant and owns that instant completely.
+
+- She can now construct the decisive situation during combat rather than requiring extensive preparation beforehand.
+- The art can account for Sovereign-level speed, perception and cultivation.
+- False openings, poison, terrain, meridian condition and attention converge into one final opportunity.
+- Once the orchid's final petal begins to fall, Sera needs only one movement.
+- It remains focused on one decisive target rather than becoming another multi-target art.
+
+**Story usage remains locked until the user explicitly approves its continuation reveal.**
+
+#### 3.3.8 Remaining Sera Techniques
+
+The following existing arts remain named techniques rather than receiving a new tier classification:
+
+- **Whispering Orchid Needles**
+- **Petal-Severing Touch**
+- **Silken Grave**
+
+They are nevertheless executed with Sovereign-level cultivation, precision and speed. Do not rename them or invent separate replacements merely to demonstrate Sera's increased power.
 
 ---
 
-### 3.4 Other Characters — Five Years Later
+### 3.4 Top Five — Five Years Later
+
+#### Power Hierarchy
+
+| Position | Five-year cultivation level |
+|---|---|
+| Sera | **Peak Sovereign — approaching Paragon** |
+| #1 Kael Veyran | **High Sovereign** |
+| #2 Liang Yue | **Mid Sovereign** |
+| #3 Jin Seoryu | **Early Sovereign** |
+| #4 Lei Zhen | **Sovereign Threshold** |
+| #5 Shen Rui | **Sovereign Threshold** |
+
+Rules:
+
+- All of the Top Three have entered the new **Sovereign** level.
+- Sera is considerably stronger than each Top Three member individually.
+- Sera is close to **Paragon**, but has not reached it.
+- Whether Sera can defeat all three Sovereigns together remains `TBD`.
+- Lei Zhen and Shen Rui are extremely close to Sovereign but have not crossed the boundary.
+- Existing ranking gaps and individual specializations continue to matter even when characters share a cultivation level.
+- Rhen remains immeasurably beyond this hierarchy.
+
+#### 3.4.1 #1 Kael Veyran — Mountain and Sand
+
+**Five-year cultivation level:** High Sovereign
+
+Kael masters sand as the next expression of his established earth cultivation. His breakthrough is understanding that earth possesses two absolute states: the mountain that cannot be moved and the desert that cannot be held.
+
+He can alternate between overwhelming solidity and countless flowing particles without replacing his heavy-weapon identity.
+
+##### Sovereign's March — Transcended Evolution
+
+- Every step spreads sand-like earth qi through the battlefield.
+- Solid terrain can disintegrate into deep martial sand.
+- Enemy footing becomes unstable while Kael moves without losing momentum.
+- The sand grows heavier around enemies attempting to retreat.
+- Every grain carries a fraction of Kael's crushing pressure.
+
+##### Stone-Sinew Heaven Body — Transcended Evolution
+
+- Kael's body alternates between mountain density and shifting layers of sand-like qi.
+- Concentrated attacks meet immovable physical reinforcement.
+- Penetrating force is dispersed through thousands of shifting qi layers.
+- Damage entering one point can be distributed across his entire reinforced body.
+- He remains physical and solid rather than becoming intangible.
+
+##### The Mountain Does Not Move — Evolved Supreme Defense
+
+- Kael can choose whether an attack meets the mountain or the desert.
+- The mountain receives and withstands overwhelming force.
+- The desert separates around penetrating attacks and consumes their momentum.
+- He can protect everything behind him while dispersing harmless force around his body.
+- Alternating between both states makes repeated attacks increasingly ineffective.
+
+##### Nine Heavens Collapse — Evolved Supreme Offense
+
+- Each Heavenfall strike deposits compressed sand qi into the terrain and enemy defences.
+- The opening strikes create overwhelming pressure.
+- Later strikes grind defensive qi into increasingly smaller fragments.
+- The ninth strike causes all deposited sand qi to compress simultaneously.
+- The target is crushed between Heavenfall above and an entire desert rising beneath them.
+
+Kael remains a heavy-weapon, earth and overwhelming-force master. Sand expands that identity rather than replacing it.
+
+#### 3.4.2 #2 Liang Yue — Sovereign White Blood
+
+**Five-year cultivation level:** Mid Sovereign
+
+Liang Yue's White Blood Arts evolve from invading circulation to constructing a competing circulation system inside an opponent.
+
+##### White Blood: Vein Whisper — Transcended Evolution
+
+- Physical contact is no longer required.
+- Liang can transmit fine White Blood fragments through her fan pressure.
+- Successfully blocking a fan arc may still allow fragments to enter defensive qi.
+- The fragments remain dormant until the enemy increases circulation.
+- Liang can sense which meridian routes the fragments have reached.
+
+##### Seven White Palaces — Transcended Evolution
+
+- The seven seals behave as one connected system.
+- Activating one palace changes the pressure inside the remaining six.
+- Destroying one seal forces its White Blood into another junction.
+- Liang may activate the palaces individually or simultaneously.
+- Each palace can disrupt a different bodily function.
+- Sovereign-level opponents can resist, but doing so occupies substantial cultivation.
+
+##### White Funeral of a Hundred Veins — Transcended Evolution
+
+- Liang can distribute White Blood fragments throughout an enemy formation.
+- Each marked person becomes connected to the same pale circulation network.
+- One fighter violently circulating qi increases pressure inside the others.
+- A formation that combines internal energy spreads Liang's White Blood faster.
+- Liang can collapse selected targets while leaving others alive.
+
+##### Bloodless Heaven — Evolved Internal Dominion
+
+- Enemy internal energy gradually acquires the properties of Liang's White Blood qi.
+- The harder opponents fight, the deeper the pale circulation spreads.
+- Their techniques remain usable but increasingly answer to Liang's timing.
+- Liang can delay, distort or interrupt major circulation surges.
+- She does not permanently steal cultivation.
+
+##### When the Last Pulse Turns White — Evolved Supreme Art
+
+Liang's secondary circulation network can now be established against Sovereign-level bodies.
+
+On one selected heartbeat, every White Blood fragment activates together and attempts to force the enemy's entire circulation to follow Liang's rhythm. Extremely powerful opponents may resist the final conversion, but their original circulation suffers catastrophic conflict while doing so.
+
+#### 3.4.3 #3 Jin Seoryu — Sovereign Strategist
+
+**Five-year cultivation level:** Early Sovereign
+
+Jin does not become Sovereign through greater destructive power. His cultivation expands the amount of information he can process and the scale of the battlefield he can control.
+
+##### Ten Thousand Reflections — Transcended Evolution
+
+- Jin can model thousands of combat branches simultaneously.
+- He reads individuals, formations, terrain and shifting objectives together.
+- Every movement removes some possibilities and strengthens others.
+- Unpredictable actions create new branches rather than breaking his strategy.
+- This remains extreme analysis rather than supernatural foresight.
+
+##### Three Steps Ahead — Transcended Evolution
+
+- Jin no longer predicts only an opponent's next movement.
+- He positions himself where several different decisions will eventually force the opponent to arrive.
+- The opponent may freely select a path, only to discover that every reasonable route reaches a position Jin prepared earlier.
+
+##### Borrowed Future — Transcended Evolution
+
+- After seeing a technique once, Jin begins constructing future situations in which using it becomes dangerous.
+- He does not copy the technique.
+- He studies the conditions that make the opponent prefer it.
+- Jin deliberately recreates those conditions later.
+- The opponent believes they discovered an opening when they have entered his prepared counter.
+
+##### Lanterns Across the Battlefield — Transcended Evolution
+
+- Jin can coordinate powerful martial artists without suppressing their individual styles.
+- Each fighter receives different instructions.
+- Separate battles contribute to one larger strategic result.
+- Retreats, losses and apparent mistakes may all advance the same plan.
+- Jin can direct a national battlefield as though it were one duel.
+
+##### Thousand Lantern Cage — Evolved Supreme Control
+
+The cage now covers strategic decisions rather than only close combat. Jin allows enemies to win minor objectives while progressively eliminating every route to meaningful victory.
+
+##### When Ten Thousand Lanterns Go Dark — Evolved Supreme Art
+
+Jin engineers a campaign in which every surviving decision leads to the same final defeat.
+
+Against someone stronger, he may deliberately lose exchanges, territory or allied positions, provided each loss moves the opponent closer to the one conclusion they cannot escape.
+
+#### 3.4.4 #4 Lei Zhen — Thunderfire Threshold
+
+**Five-year cultivation level:** Sovereign Threshold
+
+Lei has not reached Sovereign, but his thunder qi has evolved into a hybrid of lightning and fire.
+
+- His bolts are now **violet-crimson with a white-hot centre**.
+- The historical technique name **Blue Heaven Spear** remains unchanged even though its lightning is no longer blue.
+- Maintaining the hybrid state still places substantial strain on his meridians, preventing his final Sovereign breakthrough.
+
+##### Black Storm Pulse — Transcended Evolution
+
+- The initial current disrupts circulation.
+- The fire component ignites along the shocked meridians afterward.
+- An opponent surviving the lightning must then contain internal burning.
+
+##### Delayed Thunder — Transcended Evolution
+
+- Dormant thunder qi becomes dormant thunderfire.
+- Lightning activates first and locks the body.
+- White-hot fire follows through the same meridian routes.
+- Using more internal energy causes the fire to spread faster.
+
+##### Nine Conductive Gates — Transcended Evolution
+
+- Each targeted junction becomes both a lightning rod and a furnace.
+- Lightning travels between the nine gates.
+- Fire remains behind after the current passes.
+- Destroying one gate may release its stored heat into the surrounding meridians.
+
+##### When Thunder Entered the Mountain — Evolved Supreme Penetration
+
+Lei's thunderfire penetrates defensive circulation, then burns open routes for later bolts. A defence that resists the lightning may trap the fire inside itself.
+
+##### Black Heaven Descends — Evolved Supreme Art
+
+The battlefield becomes one enormous thunderfire circuit. Violet-crimson bolts travel through weapons, terrain and seeded qi while white fire remains burning along every completed route.
+
+#### 3.4.5 #5 Shen Rui — Water and Ice Threshold
+
+**Five-year cultivation level:** Sovereign Threshold
+
+Rui discovers that water does not only flow, redirect and accumulate. Water can become perfectly still, and that stillness is ice.
+
+His ice remains an evolution of water qi, distinct from Rhen's frozen-petal and winter principles.
+
+##### Returning Tide — Transcended Evolution
+
+Rui may return accumulated force in two forms:
+
+- a flowing counter that redirects the attack
+- a frozen counter that locks the attacking weapon or limb at the moment of return
+
+##### Deepwater Guard — Transcended Evolution
+
+- The outer defensive layers can freeze when struck.
+- Ice receives the initial impact.
+- Shattered ice becomes flowing water qi.
+- The water carries remaining force into deeper layers.
+- Those deeper layers can freeze again.
+- Repeatedly breaking the defence only forces it through a water-and-ice cycle.
+
+##### Rain Holds the City — Transcended Evolution
+
+- Rui can freeze sections of his defensive rain into enormous translucent barriers.
+- Flowing rain redirects widespread attacks.
+- Frozen sections stop concentrated impacts.
+- Broken ice returns to rain and rejoins the defence.
+- Rui can protect civilians without trapping them inside solid ice.
+
+##### Where All Rivers End — Transcended Evolution
+
+Accumulated force gathers into a rotating body of water around Canghai. At release, Rui may allow it to remain a crushing tide or freeze it into a concentrated glacial spearhead.
+
+##### The Sea Refuses the Shore — Evolved Battlefield Control
+
+- Rui creates alternating flowing and frozen routes.
+- Enemies are redirected by water.
+- Escape routes freeze shut.
+- Advancing enemies add pressure to the water.
+- Rui converts that pressure into additional ice.
+
+##### The Sea That Remembers Every River — Evolved Supreme Art
+
+The technique remembers force through every state of water:
+
+- flowing water stores momentum
+- ice stores pressure
+- shattered ice releases both
+- melted water begins accumulating again
+
+Rui can cycle the same stored force through water and ice repeatedly before releasing everything in one controlled return.
+
+He remains below Sovereign because maintaining the complete cycle still strains his meridians and requires intense concentration.
+
+---
+
+### 3.5 Other Characters — Five Years Later
 
 **STATUS: PENDING USER DEVELOPMENT**
 
-No five-year upgrades, injuries, retirements, new ranks, relationships, deaths, disciples, successors, or factions should be invented for other characters until the user adds them to the skeleton or asks for structured suggestions.
+No five-year upgrades, injuries, retirements, new ranks, relationships, deaths, disciples, successors or factions should be invented for Top 6–10, former Top Ten or other characters until the user adds them to the skeleton or asks for structured suggestions.
 
 ---
 
@@ -429,10 +829,11 @@ No five-year upgrades, injuries, retirements, new ranks, relationships, deaths, 
 
 These are intentionally blank until the user supplies more skeleton material:
 
-- Sera's five-year development
-- Top Ten / former Top Ten developments
+- Top 6–10 / former Top Ten developments
 - former legendary fighters / retired figures
-- current ranking structure five years later
+- complete ranking structure five years later
+- exact Paragon-level definition
+- combined Sera-versus-Top-Three comparison
 - tea-shop / domestic status of Rhen and Sera
 - world political state
 - sect/clan changes
@@ -448,6 +849,24 @@ Do **not** fill these automatically.
 ---
 
 ## 5. Revision Log
+
+### 2026-08-29 — Sera and Top Five Five-Year Development
+
+Added the user-approved five-year character development for Sera and the Top Five:
+
+- established Sera as a **Peak Sovereign approaching Paragon**, considerably stronger than each Top Three member individually but still aeons beneath Rhen
+- recorded Sera's request that Rhen withdraw Frozen Petals Garden from her so she can protect herself through her own martial system
+- evolved **Veiled Moon** into a Transcended Passive Skill
+- promoted selected existing Sera arts to Transcended and **Pale Veil Funeral** to Supreme while preserving the reveal lock on **The Orchid Blooms Only Once**
+- established Kael, Liang Yue and Jin Seoryu as Sovereigns
+- established Lei Zhen and Shen Rui at the Sovereign threshold
+- evolved Kael's earth system into mountain-and-sand mastery
+- evolved Liang Yue's White Blood circulation arts
+- evolved Jin Seoryu's strategy, prediction and battlefield-control arts
+- evolved Lei Zhen's lightning into violet-crimson thunderfire
+- evolved Shen Rui's water system to include ice-state control
+
+No new named arts were created for Sera or the Top Five. No runtime story, canon, ranking or technique data was changed.
 
 ### 2026-08-29 — New Transcended Offensive Techniques
 
