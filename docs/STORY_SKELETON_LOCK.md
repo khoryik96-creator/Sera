@@ -37,7 +37,7 @@ The user is deliberately building the continuation as a **skeletal structure fir
 | 1 | Character development skeleton | **ACTIVE** |
 | 2 | Five-year world-state skeleton | ACTIVE — QUAINT TEAHOUSE AND FIVE SOVEREIGN ORDER LOCKED |
 | 3 | New arc / conflict skeleton | STARTED — SOUTHERN ISGARD FOUNDATION LOCKED |
-| 4 | Season/chapter outline | NOT STARTED |
+| 4 | Season/chapter outline | **ACTIVE — TEN-SEASON / 100-CHAPTER DRAFT CREATED** |
 | 5 | Story composition / prose | **LOCKED** |
 
 ### Current Planning Boundary
@@ -51,7 +51,9 @@ The user is deliberately building the continuation as a **skeletal structure fir
 - When an ability detail is still undefined, mark it `TBD` rather than inventing mechanics.
 - New named techniques must not be invented unless the user asks for naming help or explicitly approves a proposed name.
 - The existing Murim/internal-energy setting remains in force. Descriptions such as "divine sense" describe an evolved perception effect, not western magic.
-- Season/chapter outlining and story composition remain locked until the user explicitly opens those stages.
+- Stage 4 season/chapter outlining is now open only for **Beneath the Crooked Sign**; Stage 5 story composition remains locked until the user explicitly opens it.
+- The user has now opened Stage 4 outlining for **Beneath the Crooked Sign**. The working ten-season, 100-chapter draft is maintained in `docs/BENEATH_THE_CROOKED_SIGN_OUTLINE.md`.
+- Stage 5 prose composition remains locked.
 
 ---
 
@@ -70,7 +72,7 @@ The user is deliberately building the continuation as a **skeletal structure fir
 - Wuyue is divided into five great domains, each occupied and governed by one of the Five Sovereigns.
 - Rhen's identity as the **Petal Monarch** has moved beyond ordinary legend and become something closer to a myth.
 - The martial world may remember the title, stories, and impossible feats, but the exact five-year world reaction is still `TBD`.
-- The five-year domestic/guild development and its ending cliffhanger are now locked skeleton material. Chapters, scenes and prose remain unstarted.
+- The five-year domestic/guild development and its ending cliffhanger are locked skeleton material. A proposed ten-season, 100-chapter Stage 4 outline now exists in `docs/BENEATH_THE_CROOKED_SIGN_OUTLINE.md`; scenes and prose remain unstarted and locked.
 
 ### Permanent Macro Arc Title
 
@@ -89,7 +91,7 @@ Do not refer to it in future planning as **The First Five Years Arc**, **The Fiv
 - New personnel must spend time living and working under the crooked sign before assuming senior authority.
 - The story must not jump directly from the Year One governor conflict to the completed Year Five organization.
 - Quiet domestic episodes, medicine, training, local patients and ordinary tea-house life are part of the arc's substance, not disposable filler.
-- Exact season count, episode allocation, chapter structure and scene order remain `TBD` until the user opens structural planning.
+- The proposed season count and chapter allocation are maintained in `docs/BENEATH_THE_CROOKED_SIGN_OUTLINE.md`. Scene order and prose remain locked until the user explicitly opens story composition.
 
 ---
 
@@ -127,9 +129,19 @@ The existing passive has evolved once again.
 
 ##### Ageless Immortality
 
-- Rhen's passive stops his biological aging.
+- **Frozen Petals Garden** refines the meridian foundation continuously until, after sufficient development, it reconstructs that foundation into a self-sustaining ageless state.
+- Rhen's reconstructed meridian foundation stops his biological aging.
 - He is therefore **ageless / immortal with respect to aging**.
 - This currently defines cessation of aging; whether "immortality" also means absolute inability to be killed is **not defined yet** and must not be assumed.
+
+##### Sera — Completed Meridian Reconstruction
+
+- Five years of uninterrupted distance-independent refinement have fully reconstructed Sera's meridian foundation to the same ageless threshold.
+- Sera's biological aging has therefore stopped as well.
+- The reconstruction is complete and belongs to Sera's body; it is not sustained by the continuing presence of Rhen's barrier.
+- When Sera later asks Rhen to withdraw Frozen Petals Garden, she loses its active distance-independent protection and further passive refinement, but **remains permanently ageless**.
+- This does not make Sera unkillable, invulnerable or equal to Rhen.
+- Sera's outcome is specifically locked to her completed five-year reconstruction through their unique bond. It must not be generalized into automatic eventual agelessness for Qin or any other passive recipient without later user approval.
 
 ##### Internal-Energy Evolution
 
@@ -317,10 +329,18 @@ Exact healing speed at the new maximum 10,000-person scale is not separately qua
 
 **Current tier:** Supreme
 
-Moonless Snowfield has become a major hostile-control technique.
+##### Evolved Lineage
+
+**Silent Winter → Moonless Snowfield**
+
+**Moonless Snowfield** is the five-year Supreme evolution of **Silent Winter**. Silent Winter remains the historical name of the predecessor technique rather than a separate eleventh current skill.
+
+The evolution preserves Silent Winter's sensory-suppression principle and expands it into a complete battlefield perception-and-control field. Rhen reads motion, qi, intent, terrain, breath and structural dependency as one connected field while enemies lose reliable sensory and spatial clarity.
 
 Confirmed effects:
 
+- absorbs Silent Winter's sensory dead zone and unreadable attack intervals
+- no longer requires a sword or other weapon to express the principle
 - freezes the blood of enemies
 - suppresses / locks enemy movement through that freezing effect
 - is intended to be overwhelmingly powerful at the five-year point
@@ -418,15 +438,30 @@ Still `TBD`:
 
 ---
 
-#### 3.1.10 Remaining Rhen Techniques — Global Five-Year Rule
+#### 3.1.10 Complete Ten-Skill Roster and Global Five-Year Rule
+
+Rhen has exactly **ten current five-year skills, including his Ultimate**:
+
+1. **Frozen Petals Garden** — Evolved Supreme Passive
+2. **Drifting Petals** — Supreme Movement Art
+3. **One Petal Severs the Winter Moon** — Supreme dependency-severing technique
+4. **Sanctuary of Petals** — Supreme healing and protection technique
+5. **Moonless Snowfield** — Supreme battlefield perception and control; evolved from Silent Winter
+6. **Winter Ends, Spring Blossoms** — Supreme restoration / natural-law technique
+7. **Petal Convergence** — Transcended offensive skill
+8. **Meridian Bloom** — Transcended circulation-disruption skill
+9. **Petals in Stasis** — Supreme causal-stasis art
+10. **Petals Beneath a Frozen Moon** — Ultimate
+
+Roster rules:
 
 - Every named **non-Ultimate** Rhen technique established before the five-year continuation is **Supreme level** five years later.
 - The newly established **Petal Convergence** and **Meridian Bloom** are explicit exceptions: both remain **Transcended Skills** at this stage.
 - Any technique that was already Supreme has improved again while remaining within the Supreme classification unless the user later creates a higher named tier.
 - Exact upgrades for unlisted techniques are deliberately left open.
-- **Petals in Stasis** remains distinct from the Ultimate.
-- **Silent Winter** remains part of Rhen's established technique history.
-- Do not rename or invent upgrades for either technique until the user defines them or asks for options.
+- **Petals in Stasis** remains distinct from the Ultimate; its causal-stasis identity is unchanged, while its exact additional five-year upgrades remain `TBD`.
+- **Silent Winter** remains part of Rhen's established technique history only as the predecessor of **Moonless Snowfield**. It is not counted as a separate current skill.
+- Do not invent additional upgrades for **Petals in Stasis** until the user defines them or asks for options.
 - Do not create additional Rhen named techniques merely to demonstrate his increased power.
 
 ---
@@ -457,6 +492,7 @@ Still `TBD`:
 - She remains aeons beneath Rhen, whose current strength still cannot be meaningfully measured.
 - Her Sovereign cultivation was developed through five years of training, martial refinement and the continuous strengthening effect of Rhen's passive.
 - The cultivation and technique mastery she gained are permanently hers; withdrawing Rhen's protection does not remove that growth.
+- Five uninterrupted years of passive refinement have also completed the reconstruction of her meridian foundation, permanently stopping her biological aging even after the barrier is withdrawn.
 - Her exact level is known only within the six-person Orchid core; The Quiet Hand knows she vastly exceeds Marquis class without receiving the precise classification.
 
 #### Withdrawal of Rhen's Passive Protection
@@ -465,6 +501,7 @@ Still `TBD`:
 - She does not reject Rhen's love, their bond or his willingness to protect her.
 - She wants the ability and responsibility to protect herself through her own martial system.
 - Rhen respects her decision and withdraws the distance-independent barrier from her.
+- Withdrawal ends the active protection and further passive refinement only; it does not reverse Sera's completed meridian reconstruction or restore biological aging.
 - Rhen retains the ability to protect Sera again, but does not reactivate it without her agreement or a later user-approved exception.
 
 #### 3.3.1 Veiled Moon
@@ -1873,18 +1910,19 @@ Rhen heals Tae but refuses to extend Frozen Petals Garden to him.
 
 #### Tae Joins The Quaint Teahouse
 
-Tae remains long enough to understand the organization and eventually joins as the Senior Sepal and third-in-command.
+Tae remains long enough to understand the organization and joins conditionally during Year Three. He spends a sustained probationary period recovering, treating the work seriously, helping clinics and training apprentices before receiving permanent authority. Sera formally appoints him **Senior Sepal and third-in-command in early Year Four**, before selection of the complete Quiet Hand.
 
 #### Huo Wujin Joins Under Custody
 
 Huo enters Sera and Rhen's supervised medical custody during the same general period as Tae's recovery. Kael and the tribunal believe the transfer exists solely to monitor Huo's returning Meridian Wheels.
 
 - Sera tests Huo's willingness to live without conquest before granting him internal membership.
-- Huo joins only after accepting the non-conquest doctrine, Sera's sole authority over lethal force and the continuing terms of his sentence.
+- Huo joins conditionally during Year Three only after accepting the non-conquest doctrine, Sera's sole authority over lethal force and the continuing terms of his sentence.
+- He completes an extended probation of treatment, farm work, supervised field support and apprentice instruction before Sera formally appoints him a Sepal and Offensive General in early Year Four.
 - His current cultivation, access to The Upper Room and role in The Quiet Hand remain concealed from Kael and the tribunal.
 - Tae and Huo become the guild's two Offensive Generals and jointly train The Quiet Hand.
 - Tae occupies the Senior Sepal seat and retains organizational seniority and third-in-command status; Huo occupies a second Sepal seat and receives equal battlefield authority only after Sera approves an offensive deployment.
-- Lu occupies the third Sepal seat as Chief Steward, completing the Three Sepals.
+- Lu performs the Chief Steward's work throughout Year Three and is formally appointed to the third Sepal seat alongside Tae and Huo in early Year Four, completing the Three Sepals before Quiet Hand selection.
 - Huo gradually comes to prefer tea, training and the quiet usefulness of the guild over the Empty Throne he once pursued.
 
 Final Orchid hierarchy:
@@ -2159,6 +2197,7 @@ By Year Five:
 - Sera asks Rhen to remove Frozen Petals Garden from her.
 - The request represents trust and self-determination rather than emotional separation.
 - Rhen withdraws it immediately after confirming she is certain.
+- Sera's reconstructed meridian foundation remains permanently hers, so she stays ageless after withdrawal; only the live barrier and continuing refinement end.
 - Qin remains inside the ordinary local refinement field while living under their roof unless the user later changes this.
 - Rhen still refuses to extend the passive to Tae, Huo, Lu Weiran or the apprentices.
 
@@ -2617,17 +2656,63 @@ These are intentionally blank until the user supplies more skeleton material:
 - The Quaint Teahouse's response plan and rescue participants
 - the permanent Isgard macro arc title
 
-### Still-Locked Structural Planning
+### Current Structural Status
 
-- season numbering
-- chapter structure
-- scenes and prose
+- season numbering and the 100-chapter structure are now **Stage 4 proposed material** in `docs/BENEATH_THE_CROOKED_SIGN_OUTLINE.md`
+- individual chapter beats remain proposed until the user approves them
+- scenes and prose remain **locked**
+- runtime implementation remains **locked**
 
-Do **not** fill these automatically.
+Do not begin scenes, prose or runtime implementation automatically.
 
 ---
 
 ## 8. Revision Log
+
+### 2026-08-29 — Permanent Ageless Meridian Reconstruction
+
+Locked the completed five-year effect of **Frozen Petals Garden**:
+
+- the passive's long-term refinement eventually reconstructs the meridian foundation into a self-sustaining ageless state
+- Rhen and Sera have both completed that reconstruction and no longer age biologically
+- Sera remains permanently ageless after withdrawing the active barrier because the reconstructed foundation is now her own
+- withdrawal ends only her live distance-independent protection and further passive refinement
+- the outcome does not imply invulnerability or automatic future agelessness for Qin or anyone else
+- Chapter 81 now includes Sera noticing their unchanged appearances and Rhen explaining the evolved passive
+
+No runtime story or current-era canon data was changed.
+
+### 2026-08-29 — Story-Outline Completeness Audit Corrections
+
+- Distributed all twelve original apprentices across the outline and preserved their ten captain / two civilian-director outcomes.
+- Expanded Governor Duan's full protection network, sentence and restitution outcome.
+- Spread Wuyue's political and military development across all five years and allocated selected upgrade reveals for every Five Sovereign and Five Duke.
+- Delayed Tae, Huo and Lu's permanent Sepal appointments until early Year Four after sustained Year Three work and probation.
+- Added The Upper Room's locked capacity, reserve, access, residence and concealment details to its construction and Year Five exercise chapters.
+- Added Quiet Hand graduation, strength distribution, deployment thresholds and secrecy boundaries.
+- Restored the complete five-year romance motifs and Rhen's Petal Monarch mythology to the chapter plan.
+- Strengthened Jin's solitary injured return and the political meaning of the cliffhanger without beginning the Isgard rescue.
+- Replaced the stale claim that structural planning was unstarted with the correct Stage 4 proposed status.
+- No story prose, runtime canon data, architecture, UI or implementation files were changed.
+
+### 2026-08-29 — Rhen Ten-Skill Roster and Silent Winter Lineage
+
+- Locked Rhen's exact five-year roster at **ten current skills including his Ultimate**.
+- Confirmed **Silent Winter → Moonless Snowfield** as one evolved lineage rather than two current skills.
+- Preserved Silent Winter as the historical predecessor name and expanded Moonless Snowfield with its established sensory-suppression heritage.
+- Kept **Petals in Stasis** distinct from the Ultimate while leaving its additional five-year upgrade mechanics `TBD`.
+- Updated the Stage 4 outline so Chapter 81 gives Sera a brief married-couple explanation of all ten skills without demonstrating or unlocking the Ultimate.
+- No story prose, runtime canon data, architecture, UI or implementation files were changed.
+
+### 2026-08-29 — Beneath the Crooked Sign Ten-Season Outline
+
+- Opened Stage 4 story outlining while preserving the lock on prose composition and runtime implementation.
+- Created `docs/BENEATH_THE_CROOKED_SIGN_OUTLINE.md` as a ten-season, 100-chapter structural draft.
+- Assigned two seasons to each story year so the five-year development is not compressed.
+- Kept the Duskvein confrontation and Isgard rescue outside the macro arc, ending instead on Jin's distress signal.
+- Distributed the medicinal farm, governor conflict, clinic network, Quaint Teahouse formation, Lu recruitment, Upper Room, Tae and Huo recruitment, Quiet Hand training, flood operation, Wuyue maturation and Sera's passive withdrawal across separate season movements.
+- Preserved the romance spine and recurring final cup throughout all ten seasons.
+- No story prose, runtime data, architecture, UI, character profiles, rankings or technique records were changed.
 
 ### 2026-08-29 — Wuyue Continent, Five Domains and Crownless Host
 
