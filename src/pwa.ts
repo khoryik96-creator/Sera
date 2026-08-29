@@ -6,14 +6,46 @@ interface BeforeInstallPromptEvent extends Event {
   userChoice: Promise<{ outcome: 'accepted' | 'dismissed'; platform: string }>;
 }
 
+type InstallAvailabilityListener = (available: boolean) => void;
+
 let installPrompt: BeforeInstallPromptEvent | null = null;
 let refreshForUpdate = false;
+const installAvailabilityListeners = new Set<InstallAvailabilityListener>();
+
+function isStandalone(): boolean {
+  return window.matchMedia('(display-mode: standalone)').matches;
+}
+
+export function canInstallReader(): boolean {
+  return Boolean(installPrompt) && !isStandalone();
+}
 
 function updateInstallButton(): void {
   const button = document.getElementById('installApp') as HTMLButtonElement | null;
   if (!button) return;
-  const standalone = window.matchMedia('(display-mode: standalone)').matches;
-  button.hidden = standalone || !installPrompt;
+  button.hidden = !canInstallReader();
+}
+
+function notifyInstallAvailability(): void {
+  const available = canInstallReader();
+  updateInstallButton();
+  installAvailabilityListeners.forEach((listener) => listener(available));
+}
+
+export function subscribeInstallAvailability(listener: InstallAvailabilityListener): () => void {
+  installAvailabilityListeners.add(listener);
+  listener(canInstallReader());
+  return () => installAvailabilityListeners.delete(listener);
+}
+
+export async function promptInstallReader(): Promise<'accepted' | 'dismissed' | null> {
+  const prompt = installPrompt;
+  if (!prompt || isStandalone()) return null;
+  await prompt.prompt();
+  const choice = await prompt.userChoice;
+  installPrompt = null;
+  notifyInstallAvailability();
+  return choice.outcome;
 }
 
 function ensureUpdateBanner(): { banner: HTMLElement; update: HTMLButtonElement; dismiss: HTMLButtonElement } {
@@ -92,21 +124,19 @@ export function initPwa(): void {
   window.addEventListener('beforeinstallprompt', (event) => {
     event.preventDefault();
     installPrompt = event as BeforeInstallPromptEvent;
-    updateInstallButton();
+    notifyInstallAvailability();
   });
 
-  document.getElementById('installApp')?.addEventListener('click', async () => {
-    if (!installPrompt) return;
-    await installPrompt.prompt();
-    await installPrompt.userChoice;
-    installPrompt = null;
-    updateInstallButton();
+  document.getElementById('installApp')?.addEventListener('click', () => {
+    void promptInstallReader();
   });
 
   window.addEventListener('appinstalled', () => {
     installPrompt = null;
-    updateInstallButton();
+    notifyInstallAvailability();
   });
+
+  notifyInstallAvailability();
 
   if (document.readyState === 'complete') void registerServiceWorker();
   else window.addEventListener('load', () => { void registerServiceWorker(); }, { once: true });
