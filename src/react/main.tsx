@@ -13,7 +13,6 @@ import './styles/visual-polish.css';
 import './styles/performance.css';
 import './styles/ux-audit.css';
 import './styles/accessibility-hardening.css';
-import './styles/migration-parity.css';
 import './styles/chapter-navigation-cleanup.css';
 
 async function preloadInitialRoute(): Promise<void> {

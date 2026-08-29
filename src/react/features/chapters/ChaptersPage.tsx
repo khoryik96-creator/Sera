@@ -1,5 +1,4 @@
 import { useEffect, useMemo, useState } from 'react';
-import { DB } from '../../../db';
 import { EPISODE_ARCS } from '../../../episodeMeta';
 import { nextUnreadInSeason, nextUnreadTarget, overallReadingProgress, progressForSeason } from '../../../readingProgress';
 import { loadSeason } from '../../../seasonStore';
@@ -49,7 +48,6 @@ export function ChaptersPage({ onOpenChapter }: ChaptersPageProps) {
 
   const selectedArcIndex = arcIndexForSeason(selectedSeason);
   const selected = allSeasons.find((item) => item.season === selectedSeason) || allSeasons[0];
-  const seasonCast = DB.seasonCast[String(selectedSeason)] || [];
   const lastReadEpisode = episodeNumber(lastRead?.id);
   const selectedHasResume = Boolean(lastRead && lastRead.season === selectedSeason);
   const overall = overallReadingProgress(readEpisodes);
@@ -141,24 +139,6 @@ export function ChaptersPage({ onOpenChapter }: ChaptersPageProps) {
         </div>
 
         <div className="season-progress-bar" role="progressbar" aria-valuemin={0} aria-valuemax={100} aria-valuenow={selectedProgress.percent} aria-label={`Season ${selectedSeason} ${selectedProgress.percent}% complete`}><span style={{ width: `${selectedProgress.percent}%` }} /></div>
-
-        {seasonCast.length ? (
-          <details className="season-cast-guide">
-            <summary>
-              <span><small>Season memory guide</small><strong>New / Important Characters This Season</strong></span>
-              <b>{seasonCast.length} {seasonCast.length === 1 ? 'face' : 'faces'} <span aria-hidden="true">▾</span></b>
-            </summary>
-            <div className="season-cast-guide__grid">
-              {seasonCast.map((item, index) => (
-                <article key={`${item.name}-${item.role}-${index}`}>
-                  <strong>{item.name}</strong>
-                  <span>{item.role}</span>
-                  <p>{item.description}</p>
-                </article>
-              ))}
-            </div>
-          </details>
-        ) : null}
 
         {loading ? <div className="reader-loading" role="status">Loading Season {selectedSeason}…</div> : null}
         {error ? <div className="reader-error"><strong>Season failed to load</strong><p>{error}</p><button onClick={retrySeason} type="button">Retry</button></div> : null}
