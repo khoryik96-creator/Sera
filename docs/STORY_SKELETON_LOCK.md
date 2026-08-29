@@ -17,7 +17,8 @@
    - [Five Sovereigns — five years later](#34-five-sovereigns--five-years-later)
    - [Co-#1 and the Five Dukes — five years later](#35-co-1-and-the-five-dukes--five-years-later)
    - [Qin Luo — five years later](#36-qin-luo--five-years-later)
-   - [Other characters — five years later](#37-other-characters--five-years-later)
+   - [Former, retired and deceased figures](#37-former-retired-and-deceased-figures)
+   - [Complete five-year power hierarchy](#38-complete-five-year-power-hierarchy)
 4. [The Quaint Teahouse — five-year development](#4-the-quaint-teahouse--five-year-development)
 5. [Five Sovereign political order](#5-five-sovereign-political-order)
 6. [Open planning slots](#6-open-planning-slots)
@@ -427,7 +428,8 @@ Still `TBD`:
 - Sera has crossed completely beyond the Duke boundary and entered the new **Sovereign** level.
 - She is already near the upper end of Sovereign and is approaching **Paragon**, but has not reached it.
 - She is considerably stronger than each of the Sovereign-level Top Three individually.
-- Whether Sera can defeat all three Sovereigns together remains `TBD`.
+- Sera can defeat Kael, Liang Yue and Jin Seoryu simultaneously at the Year Five endpoint.
+- Fighting all three together remains a serious battle because Kael's pressure, Liang's internal dominion and Jin's coordination cover one another's weaknesses.
 - She remains aeons beneath Rhen, whose current strength still cannot be meaningfully measured.
 - Her Sovereign cultivation was developed through five years of training, martial refinement and the continuous strengthening effect of Rhen's passive.
 - The cultivation and technique mastery she gained are permanently hers; withdrawing Rhen's protection does not remove that growth.
@@ -572,7 +574,7 @@ The following existing arts remain named techniques rather than receiving a new 
 
 They are nevertheless executed with Sovereign-level cultivation, precision and speed. Do not rename them or invent separate replacements merely to demonstrate Sera's increased power.
 
-#### Paragon Boundary — Working Definition
+#### Paragon Boundary — Locked Definition
 
 **Paragon is a qualitative martial breakthrough, not merely a larger reserve of Sovereign internal energy.**
 
@@ -586,17 +588,79 @@ A Sovereign has perfected a personal martial system and can express it at extrao
 
 At Paragon level, there is almost no separation between deciding, circulating and executing. Named techniques still exist, but they become natural expressions of one complete principle rather than isolated actions that must be activated in sequence.
 
+##### Formal Breakthrough Requirement
+
+A cultivator reaches Paragon only after completing both requirements:
+
+1. **Complete martial unification** — body, meridians, intent, perception and the central martial principle operate as one continuous system.
+2. **Stable personal domain** — the cultivator develops and sustains one signature **Supreme Domain Skill** that transforms the surrounding battlefield into terrain tailored to their martial system.
+
+Possessing enormous energy, defeating a Sovereign or briefly producing a wide-area technique does not qualify someone as Paragon without both requirements.
+
+##### Supreme Domain Principle
+
+Every true Paragon develops a domain unique to their identity, techniques and central martial principle.
+
+- The domain is a **Supreme-level skill**.
+- Enemies inside it are weakened through suppression tailored to the Paragon's martial system.
+- The Paragon gains superior positioning, perception, efficiency and technique compatibility because the battlefield now favours their system.
+- A domain does not grant unrelated abilities; it intensifies and unifies what the cultivator already represents.
+- Allies may be excluded from hostile suppression if the Paragon possesses sufficient control.
+- A domain is not western magic, an alternate dimension or reality rewriting. It is the highest continuous expression of internal energy, intent, perception and battlefield control.
+
+##### Paragon Combat Benchmark
+
+- One established Paragon can defeat **ten Sovereigns simultaneously** under normal conditions.
+- Ten Sovereigns may possess enough combined energy to threaten the domain, but they cannot naturally coordinate inside a battlefield that continuously weakens them and favours the Paragon.
+- Exceptional preparation, a perfect counter-principle or another domain may change the difficulty without erasing the tier gap.
+- A Paragon remains vastly below Rhen unless the user later defines otherwise.
+
+##### Domain Collision
+
+- When two Paragon domains overlap, neither automatically disappears.
+- The battlefield divides and shifts according to refinement, compatibility, sustained control and the strength of each underlying martial principle.
+- A more refined domain can compress, distort or eventually displace the weaker one.
+- Exact range, duration, energy cost and domain-collision limits remain `TBD` for individual users.
+
 This remains Murim cultivation rather than western magic:
 
 - a Paragon does not rewrite reality
-- a Paragon does not automatically possess a magical domain
-- their apparent authority over a battlefield comes from flawless internal-energy control, perception, timing and continuous application of their martial principle
-- a Paragon is not invincible; preparation, a perfect counter-principle or several exceptional Sovereigns may still threaten one
+- domain authority comes from flawless internal-energy control, perception, timing and continuous application of the user's martial principle
+- a Paragon is not invincible, even though ordinary Sovereigns cannot overcome the tier through numbers alone
 - the difference between individual Paragons may be enormous
 
 Sera is approaching this boundary because **Veiled Moon**, her movement, anatomical perception, needles and circulation disruption are beginning to function as one continuous Orchid system. She has not reached Paragon because she must still deliberately transition between those expressions and cannot yet sustain the entire system as one effortless state.
 
 Rhen is not automatically classified as Paragon. His present level remains immeasurable and should not be forced into the public cultivation hierarchy.
+
+#### Future Paragon Domain — Orchid Court
+
+- **Working name:** **Orchid Court**
+- **Future classification:** Supreme Domain Skill
+- **Current availability:** **LOCKED — Sera has not reached Paragon**
+
+When Sera eventually crosses the boundary, her unified Orchid system manifests as a battlefield filled with pale orchid petals shaped from her internal energy.
+
+Enemy suppression inside Orchid Court:
+
+- hostile circulation becomes progressively less efficient
+- technique activation becomes slower and easier for Sera to interrupt
+- movement disturbs the surrounding petals, exposing position, balance and intended direction
+- concealed weapons, killing intent and meridian surges become readable through changes in the petal field
+- repeated resistance reveals increasingly precise anatomical and circulation weaknesses
+
+Sera's advantages inside Orchid Court:
+
+- Veiled Moon extends across the domain, making her presence and killing intent exceptionally difficult to isolate
+- Orchid Shadow Steps follows routes already prepared by the petal field
+- Whispering Orchid Needles travel inside visually identical petal currents, concealing their true angles
+- Petal-Severing Touch and her circulation-disruption arts gain far greater precision
+- the domain continually supplies battlefield information, allowing Sera to strategize while fighting rather than pause to reassess
+- she may distinguish allies, civilians and selected enemies within the suppression
+
+Orchid Court does not automatically kill anyone. It gives Sera complete control over whether targets are observed, weakened, incapacitated or killed, preserving the restraint governing The Quiet Hand.
+
+Its permanent name, final radius, duration and exact resistance rules remain subject to the user's later approval when Sera actually reaches Paragon.
 
 ---
 
@@ -619,7 +683,7 @@ Rules:
 - **Five Sovereigns** replaces their former collective title, **Five Dukes**.
 - Sera is considerably stronger than each Top Three member individually.
 - Sera is close to **Paragon**, but has not reached it.
-- Whether Sera can defeat all three Sovereigns together remains `TBD`.
+- Sera can defeat Kael, Liang Yue and Jin Seoryu together, although their combined specializations force her to fight seriously.
 - Lei Zhen and Shen Rui crossed the Sovereign boundary during the five-year period but remain behind Jin Seoryu in overall rank and refinement.
 - Existing ranking gaps and individual specializations continue to matter even when characters share a cultivation level.
 - Rhen remains immeasurably beyond this hierarchy.
@@ -1267,11 +1331,51 @@ Unlike Rhen's dependency severance, Qin does not remove a relationship. He destr
 
 ---
 
-### 3.7 Other Characters — Five Years Later
+### 3.7 Former, Retired and Deceased Figures
 
-**STATUS: PENDING USER DEVELOPMENT**
+| Figure | Five-year hierarchy status |
+|---|---|
+| **Sera** | Retired former #6 publicly; secretly Peak Sovereign approaching Paragon. Fully developed above. |
+| **Qin Luo** | Semi-retired former #6 publicly; secretly restored to Sovereign and serving The Quaint Teahouse. Fully developed above. |
+| **Han Myeong** | Deceased former #8. Receives no five-year cultivation development. |
+| **Jian Ruo** | Deceased former #1. Remains a historical benchmark rather than an active five-year figure. |
+| **Xu Weng** | Deceased former #3. Remains part of Lei Zhen and Rui's history. |
+| **Mo Qian** | Deceased former #5. Receives no five-year development. |
+| **Yeon Hwa** | Deceased former #6. Remains part of Han Myeong's legacy. |
+| **Hwan Gyeom** | Deceased House of Quiet Petals elder. Receives no five-year development. |
+| **Huo Wujin** | Inactive and outside the ranking system after Rhen ended his evolved Nine-Wheel state. Exact survival, health and remaining cultivation are `TBD`. |
+| **Jiang Taixuan** | Defeated and outside the active ranking system after part of his cultivation architecture was assimilated by Huo. Exact survival and remaining cultivation are `TBD`. |
 
-No five-year upgrades, injuries, retirements, new ranks, relationships, deaths, disciples, successors or factions should be invented for remaining former Top Ten or other characters until the user adds them to the skeleton or asks for structured suggestions.
+Deceased figures do not receive retrospective upgrades merely to keep pace with the five-year hierarchy. Their historical feats remain unchanged.
+
+### 3.8 Complete Five-Year Power Hierarchy
+
+#### Actual Strength Known to the Skeleton
+
+| Tier | Figures | Locked meaning |
+|---|---|---|
+| **Beyond meaningful classification** | **Rhen** | Not automatically classified as Paragon; remains immeasurably above the public hierarchy. |
+| **Paragon** | **None at the Year Five endpoint** | Requires complete martial unification and a stable personal Supreme Domain. An established Paragon can defeat ten Sovereigns simultaneously. |
+| **Peak Sovereign approaching Paragon** | **Sera** | Can defeat Kael, Liang Yue and Jin Seoryu simultaneously but has not formed Orchid Court and cannot claim Paragon. |
+| **High Sovereign** | **Kael Veyran; Tae Muyeon** | Their exact duel remains matchup-dependent; both stand at the public Sovereign summit beneath Sera. |
+| **Mid Sovereign** | **Liang Yue; Qin Luo** | Overall equals whose advantage changes with preparation and terrain. |
+| **Established Sovereign** | **Ilyra Serath** | Her maximum offensive output can reach Liang's scale; complete overall equality remains unresolved. |
+| **Early Sovereign** | **Jin Seoryu** | Less destructive than those above but capable of threatening stronger opponents through strategy and preparation. |
+| **Newly Ascended Sovereign** | **Lei Zhen; Shen Rui** | Both crossed the boundary during the five years while remaining #4 and #5 in public order. |
+| **High Duke** | **Mo Qingzhao; Arin Vale** | Strongest active members of the Five Dukes beneath Ilyra. |
+| **Established Duke** | **Luo Wen; Yun Shizhen** | Genuine Duke-level specialists who remain below the Five Sovereigns overall. |
+| **Peak Marquis** | **Ten Quiet Hand cell captains** | Approaching Duke but not confirmed to have crossed the boundary. |
+| **Marquis class** | **150 Quiet Hand operatives** | The hidden concentration of individual strength making The Quiet Hand the world's strongest army. |
+
+#### Public Recognition
+
+- No living Paragon is publicly confirmed at the Year Five endpoint.
+- Kael remains official World #1 and the highest publicly recognized individual.
+- Tae remains unranked and informally acknowledged as co-#1 based on his previous public feats; his five-year improvement is unknown.
+- Sera and Qin remain outside the active ranking board as retired or semi-retired former #6 holders.
+- The public knows the Five Sovereigns and Five Dukes titles but does not know Sera, Qin or The Quiet Hand has surpassed the expected hierarchy.
+- Rhen is mythologized as the Petal Monarch but remains unranked because no official category can measure him.
+- Huo and Jiang are excluded from the active hierarchy unless the user later defines their survival and recovery.
 
 ---
 
@@ -2179,11 +2283,11 @@ These are intentionally blank until the user supplies more skeleton material:
 
 ### Remaining Character and Power Planning
 
-- remaining former Top Ten developments beyond Qin Luo
-- former legendary fighters and retired figures
-- exact formal breakthrough test, public recognition standard and matchup limits for the newly defined Paragon level
-- combined Sera-versus-Top-Three comparison
-- complete public ranking structure five years later, including how much of the new strength is officially recognized
+- exact survival, health and remaining cultivation of Huo Wujin and Jiang Taixuan
+- permanent approval or replacement of the working domain name **Orchid Court**
+- Orchid Court's final radius, duration, energy cost and resistance rules
+- exact Ilyra-versus-Liang overall comparison beyond offensive output
+- signature Supreme Domains for other characters only if they later reach Paragon
 
 ### Remaining Quaint Teahouse Planning
 
@@ -2221,6 +2325,19 @@ Do **not** fill these automatically.
 ---
 
 ## 7. Revision Log
+
+### 2026-08-29 — Paragon Domain and Complete Power Hierarchy
+
+- Locked that Year Five Sera can defeat Kael, Liang Yue and Jin Seoryu simultaneously, although their combined specializations force her to fight seriously.
+- Defined Paragon's two breakthrough requirements: complete martial unification and creation of a stable personal Supreme Domain Skill.
+- Locked that an established Paragon can defeat ten Sovereigns simultaneously under normal conditions.
+- Defined domains as signature battlefields that weaken enemies and amplify the user's existing martial system without becoming western magic or reality rewriting.
+- Added basic domain-collision rules.
+- Added Sera's future Orchid-petal Supreme Domain under the working name **Orchid Court**, while keeping it unavailable until she reaches Paragon.
+- Added the complete actual and publicly recognized five-year power hierarchy from Rhen through the Quiet Hand's Marquis-class operatives.
+- Classified the known retired, inactive and deceased former rank holders without granting unapproved retrospective upgrades.
+- Left Huo Wujin and Jiang Taixuan outside the active hierarchy pending exact survival and recovery decisions.
+- No runtime, architecture, UI, canon-data or implementation files were changed.
 
 ### 2026-08-29 — Personnel, Upper Room and Lanyun Governor Development
 
