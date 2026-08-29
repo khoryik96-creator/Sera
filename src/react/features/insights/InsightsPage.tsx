@@ -8,6 +8,7 @@ import '../../styles/insights.css';
 interface InsightsPageProps {
   onOpenChapter(season: number, episode: number): void;
   onOpenLibrary(): void;
+  onOpenJourney(): void;
 }
 
 function episodeNumber(id: string): number {
@@ -19,7 +20,7 @@ function dayLabel(timestamp: number): string {
   return new Intl.DateTimeFormat(undefined, { weekday: 'short' }).format(new Date(timestamp)).slice(0, 2);
 }
 
-export function InsightsPage({ onOpenChapter, onOpenLibrary }: InsightsPageProps) {
+export function InsightsPage({ onOpenChapter, onOpenLibrary, onOpenJourney }: InsightsPageProps) {
   const { readEpisodes, history, journey, bookmarks, notes, passages, lastRead } = useReaderState();
   const overall = overallReadingProgress(readEpisodes);
   const completedSeasons = completedSeasonCount(readEpisodes);
@@ -85,7 +86,7 @@ export function InsightsPage({ onOpenChapter, onOpenLibrary }: InsightsPageProps
       </div>
 
       <section className="insights-panel">
-        <div className="insights-heading"><div><p className="eyebrow">Reading Journey v2</p><h3>How you move through the story</h3></div><button onClick={onOpenLibrary} type="button">Open Journey →</button></div>
+        <div className="insights-heading"><div><p className="eyebrow">Reading Journey v2</p><h3>How you move through the story</h3></div><button onClick={onOpenJourney} type="button">Open Journey →</button></div>
         <div className="insights-library-grid">
           <div><strong>{journeySummary.sessionCount}</strong><span>reading sessions</span></div>
           <div><strong>{journeySummary.revisits}</strong><span>episode revisits</span></div>

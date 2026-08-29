@@ -1,3 +1,5 @@
+import { validReaderTimestamp } from './readerValidation';
+
 export const READER_ORGANIZATION_KEY = 'tqr:readerOrganization:v1';
 
 const MAX_COLLECTIONS = 24;
@@ -70,10 +72,8 @@ function validCollection(value: unknown): value is ReaderCollection {
     && typeof collection.name === 'string'
     && normalizeCollectionName(collection.name) === collection.name
     && collection.name.length > 0
-    && typeof collection.createdAt === 'number'
-    && Number.isFinite(collection.createdAt)
-    && typeof collection.updatedAt === 'number'
-    && Number.isFinite(collection.updatedAt);
+    && validReaderTimestamp(collection.createdAt)
+    && validReaderTimestamp(collection.updatedAt);
 }
 
 function validItem(value: unknown): value is ReaderItemOrganization {
@@ -143,10 +143,10 @@ export function saveReaderOrganization(state: ReaderOrganizationState): ReaderOr
   try {
     if (!next.collections.length && !next.items.length) localStorage.removeItem(READER_ORGANIZATION_KEY);
     else localStorage.setItem(READER_ORGANIZATION_KEY, JSON.stringify(next));
+    return next;
   } catch {
-    // Organization is optional when browser storage is unavailable.
+    return getReaderOrganization();
   }
-  return next;
 }
 
 export function persistReaderOrganization(state: ReaderOrganizationState): void {
@@ -171,7 +171,7 @@ function nextCollectionId(state: ReaderOrganizationState, now: number): string {
 
 export function createReaderCollection(state: ReaderOrganizationState, name: string, now = Date.now()): ReaderOrganizationState {
   const normalizedName = normalizeCollectionName(name);
-  if (!normalizedName || state.collections.length >= MAX_COLLECTIONS) return state;
+  if (!normalizedName || !validReaderTimestamp(now) || state.collections.length >= MAX_COLLECTIONS) return state;
   if (state.collections.some((collection) => collection.name.toLowerCase() === normalizedName.toLowerCase())) return state;
   return normalizedState({
     ...state,
@@ -181,7 +181,7 @@ export function createReaderCollection(state: ReaderOrganizationState, name: str
 
 export function renameReaderCollection(state: ReaderOrganizationState, id: string, name: string, now = Date.now()): ReaderOrganizationState {
   const normalizedName = normalizeCollectionName(name);
-  if (!normalizedName || !state.collections.some((collection) => collection.id === id)) return state;
+  if (!normalizedName || !validReaderTimestamp(now) || !state.collections.some((collection) => collection.id === id)) return state;
   if (state.collections.some((collection) => collection.id !== id && collection.name.toLowerCase() === normalizedName.toLowerCase())) return state;
   return normalizedState({
     ...state,

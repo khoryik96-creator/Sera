@@ -1,6 +1,8 @@
 import type { KeyboardEvent as ReactKeyboardEvent, ReactNode } from 'react';
 import { lazy, Suspense, useEffect, useMemo, useRef, useState } from 'react';
 import { DB } from '../../db';
+import { decodedRouteHash } from '../../hashRoute';
+import { episodeCountForSeason } from '../../readingProgress';
 import { navigationItems } from './navigation';
 import type { AppSection } from './navigation';
 import { useReaderState } from '../features/reader/ReaderContext';
@@ -24,6 +26,7 @@ interface RouteState {
   section: AppSection;
   characterKey: string | null;
   chapter: { season: number; episode: number } | null;
+  libraryTab?: 'history';
 }
 
 const sectionIds = new Set<AppSection>(navigationItems.map((item) => item.id));
@@ -39,19 +42,23 @@ function readChapterRoute(raw: string): RouteState | null {
   const [, seasonRaw, episodeRaw] = raw.split('/');
   const season = Number(seasonRaw);
   const episode = Number(episodeRaw);
-  if (!Number.isInteger(season) || !Number.isInteger(episode) || season < 1 || season > 64 || episode < 1) return null;
+  const episodeCount = episodeCountForSeason(season);
+  if (!Number.isInteger(season) || !Number.isInteger(episode) || season < 1 || season > 64 || episode < 1 || episode > episodeCount) return null;
   return { section: 'chapters', characterKey: null, chapter: { season, episode } };
 }
 
 function readRoute(): RouteState {
-  const raw = decodeURIComponent(window.location.hash.replace(/^#\/?/, '')).trim();
+  const raw = decodedRouteHash();
   const chapterRoute = readChapterRoute(raw);
   if (chapterRoute) return chapterRoute;
+  if (raw.startsWith('chapter/') || raw.startsWith('episodes/')) return { section: 'chapters', characterKey: null, chapter: null };
 
   if (raw.startsWith('characters/')) {
     const key = raw.slice('characters/'.length);
     return { section: 'characters', characterKey: DB.characters[key] ? key : null, chapter: null };
   }
+
+  if (raw === 'bookmarks/journey') return { section: 'bookmarks', characterKey: null, chapter: null, libraryTab: 'history' };
 
   const section = legacySectionAliases[raw] || raw;
   if (sectionIds.has(section as AppSection)) return { section: section as AppSection, characterKey: null, chapter: null };
@@ -80,12 +87,28 @@ export function App() {
   const { lastRead } = useReaderState();
   const mobileTabsRef = useRef<HTMLElement>(null);
   const searchInputRef = useRef<HTMLInputElement>(null);
+  const suppressSearchOpenOnFocusRef = useRef(false);
   const activeSection: AppSection = route.chapter ? 'chapters' : route.section;
   const reading = Boolean(route.chapter);
 
-  function closeSearch(): void {
+  function closeSearch(restoreFocus = false): void {
     setSearchOpen(false);
     setSearchQuery('');
+    if (!restoreFocus) return;
+    window.requestAnimationFrame(() => {
+      const input = searchInputRef.current;
+      if (!input || document.activeElement === input) return;
+      suppressSearchOpenOnFocusRef.current = true;
+      input.focus({ preventScroll: true });
+    });
+  }
+
+  function handleSearchFocus(): void {
+    if (suppressSearchOpenOnFocusRef.current) {
+      suppressSearchOpenOnFocusRef.current = false;
+      return;
+    }
+    setSearchOpen(true);
   }
 
   useEffect(() => {
@@ -101,7 +124,7 @@ export function App() {
         event.preventDefault();
         setSearchOpen(true);
       }
-      if (event.key === 'Escape') closeSearch();
+      if (event.key === 'Escape' && searchOpen) closeSearch(true);
     }
     window.addEventListener('hashchange', applyRoute);
     window.addEventListener('keydown', onKeyDown);
@@ -109,7 +132,7 @@ export function App() {
       window.removeEventListener('hashchange', applyRoute);
       window.removeEventListener('keydown', onKeyDown);
     };
-  }, []);
+  }, [searchOpen]);
 
   useEffect(() => {
     if (!searchOpen) return;
@@ -166,7 +189,7 @@ export function App() {
   function handleSearchInputKeyDown(event: ReactKeyboardEvent<HTMLInputElement>): void {
     if (event.key === 'Escape') {
       event.preventDefault();
-      closeSearch();
+      closeSearch(true);
       return;
     }
     if (event.key === 'ArrowDown') {
@@ -192,8 +215,8 @@ export function App() {
       case 'villains': page = <VillainsPage />; break;
       case 'techniques': page = <TechniquesPage />; break;
       case 'chapters': page = <ChaptersPage onOpenChapter={openChapter} />; break;
-      case 'bookmarks': page = <BookmarksPage onOpenChapter={openChapter} />; break;
-      case 'insights': page = <InsightsPage onOpenChapter={openChapter} onOpenLibrary={() => openSection('bookmarks')} />; break;
+      case 'bookmarks': page = <BookmarksPage initialTab={route.libraryTab || 'saved'} onOpenChapter={openChapter} />; break;
+      case 'insights': page = <InsightsPage onOpenChapter={openChapter} onOpenLibrary={() => openSection('bookmarks')} onOpenJourney={() => navigate('bookmarks/journey')} />; break;
       case 'rankings': page = <RankingsPage />; break;
       case 'legends': page = <LegendsPage />; break;
       case 'former': page = <FormerPage />; break;
@@ -228,9 +251,10 @@ export function App() {
               ref={searchInputRef}
               value={searchQuery}
               onChange={(event: { target: HTMLInputElement }) => { setSearchQuery(event.target.value); setSearchOpen(true); }}
-              onFocus={() => setSearchOpen(true)}
+              onFocus={handleSearchFocus}
               onKeyDown={handleSearchInputKeyDown}
               placeholder="Search characters, episodes, canon…"
+              aria-label="Search The Quiet Regular"
               aria-controls="searchPalette"
               aria-haspopup="dialog"
             />
@@ -251,7 +275,7 @@ export function App() {
 
       {searchOpen ? (
         <Suspense fallback={null}>
-          <SearchPalette open query={searchQuery} onClose={closeSearch} onOpenSection={openSection} onOpenCharacter={openCharacter} onOpenChapter={openChapter} />
+          <SearchPalette open query={searchQuery} onClose={() => closeSearch(true)} onOpenSection={openSection} onOpenCharacter={openCharacter} onOpenChapter={openChapter} />
         </Suspense>
       ) : null}
     </div>

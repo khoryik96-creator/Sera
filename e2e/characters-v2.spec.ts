@@ -17,6 +17,16 @@ test('Characters v2 exposes Sera rank history and lore sections', async ({ page 
   await expect(page.getByRole('heading', { name: 'Jump back into their chapters' })).toBeVisible();
 });
 
+test('ranked character profiles restore canonical signature martial arts', async ({ page }) => {
+  await page.goto('/#characters/kael');
+  await expect(page.locator('.character-profile--v2')).toBeVisible({ timeout: 20_000 });
+  await expect(page.getByRole('heading', { name: 'Ranked techniques' })).toBeVisible();
+  const skills = page.locator('.character-skill-card');
+  expect(await skills.count()).toBeGreaterThan(0);
+  await expect(skills.first().locator('h4')).not.toHaveText('');
+  await expect(skills.first().locator('.character-skill-card__rating')).not.toHaveText('');
+});
+
 test('relationship cards navigate between character profiles when links exist', async ({ page }) => {
   await openSera(page);
   const cards = page.locator('.relationship-grid button');
@@ -39,19 +49,14 @@ test('lazy appearance scan creates direct episode links without changing portrai
   await expect(page.locator('.appearance-results')).toBeVisible({ timeout: 40_000 });
   await expect(page.locator('.appearance-episode-grid button').first()).toBeVisible();
   expect(await page.locator('.portrait-card > img').first().getAttribute('src')).toBe(originalPortrait);
-
-  const firstEpisode = page.locator('.appearance-episode-grid button').first();
-  await firstEpisode.click();
+  await page.locator('.appearance-episode-grid button').first().click();
   await expect(page).toHaveURL(/#chapter\/\d+\/\d+$/);
   await expect(page.locator('.reader-prose')).toBeVisible({ timeout: 20_000 });
 });
 
 test('Characters v2 stays contained on production phone and desktop widths', async ({ page }, testInfo) => {
   await openSera(page);
-  const dimensions = await page.evaluate(() => ({
-    width: document.documentElement.clientWidth,
-    scroll: document.documentElement.scrollWidth,
-  }));
+  const dimensions = await page.evaluate(() => ({ width: document.documentElement.clientWidth, scroll: document.documentElement.scrollWidth }));
   expect(dimensions.scroll).toBeLessThanOrEqual(dimensions.width + 2);
   if (testInfo.project.name.includes('mobile')) {
     await expect(page.locator('.character-browser__list')).toHaveCSS('display', 'flex');

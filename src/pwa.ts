@@ -1,4 +1,4 @@
-import { APP_VERSION } from './version';
+import { APP_VERSION, BUILD_SHA } from './version';
 import { setOfflineBanner } from './appStatus';
 
 interface BeforeInstallPromptEvent extends Event {
@@ -53,7 +53,8 @@ function showUpdateBanner(registration: ServiceWorkerRegistration): void {
 async function registerServiceWorker(): Promise<void> {
   if (!('serviceWorker' in navigator) || !location.protocol.startsWith('http')) return;
   try {
-    const registration = await navigator.serviceWorker.register(`./sw.js?v=${encodeURIComponent(APP_VERSION)}`);
+    const workerVersion = BUILD_SHA && BUILD_SHA !== 'dev' ? `${APP_VERSION}-${BUILD_SHA}` : APP_VERSION;
+    const registration = await navigator.serviceWorker.register(`./sw.js?v=${encodeURIComponent(workerVersion)}`);
     const announceWaitingWorker = (): void => {
       if (registration.waiting && navigator.serviceWorker.controller) showUpdateBanner(registration);
     };

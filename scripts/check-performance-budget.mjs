@@ -8,23 +8,12 @@ const limits = {
   entryJs: 220 * 1024,
   entryCss: 48 * 1024,
   coreJson: 210 * 1024,
+  lazyRouteJs: 180 * 1024,
 };
 
 const requiredLazyRoutes = [
-  'ReaderRoute',
-  'ChaptersRoute',
-  'OverviewRoute',
-  'CharactersRoute',
-  'VillainsRoute',
-  'TechniquesRoute',
-  'RankingsRoute',
-  'BookmarksRoute',
-  'InsightsRoute',
-  'LegendsRoute',
-  'FormerRoute',
-  'TimelineRoute',
-  'CanonRoute',
-  'SearchRoute',
+  'ReaderRoute', 'ChaptersRoute', 'OverviewRoute', 'CharactersRoute', 'VillainsRoute', 'TechniquesRoute',
+  'RankingsRoute', 'BookmarksRoute', 'InsightsRoute', 'LegendsRoute', 'FormerRoute', 'TimelineRoute', 'CanonRoute', 'SearchRoute',
 ];
 
 async function sizeOf(pattern, label) {
@@ -35,10 +24,7 @@ async function sizeOf(pattern, label) {
   return { file, size };
 }
 
-function kb(bytes) {
-  return `${(bytes / 1024).toFixed(1)} KiB`;
-}
-
+function kb(bytes) { return `${(bytes / 1024).toFixed(1)} KiB`; }
 function assertLimit(asset, limit, label) {
   if (asset.size > limit) throw new Error(`${label} ${asset.file} is ${kb(asset.size)}; budget is ${kb(limit)}.`);
   console.log(`✓ ${label}: ${asset.file} · ${kb(asset.size)} / ${kb(limit)}`);
@@ -47,15 +33,13 @@ function assertLimit(asset, limit, label) {
 const entryJs = await sizeOf(/^main-[^.]+\.js$/, 'Initial JS');
 const entryCss = await sizeOf(/^main-[^.]+\.css$/, 'Initial CSS');
 const coreJson = await sizeOf(/^core-[^.]+\.json$/, 'Core lore JSON');
-
 assertLimit(entryJs, limits.entryJs, 'Initial JS');
 assertLimit(entryCss, limits.entryCss, 'Initial CSS');
 assertLimit(coreJson, limits.coreJson, 'Core lore JSON');
 
 for (const route of requiredLazyRoutes) {
-  const exists = files.some((file) => new RegExp(`^${route}-[^.]+\\.js$`).test(file));
-  if (!exists) throw new Error(`Expected lazy route chunk ${route}-*.js; route splitting may have regressed.`);
-  console.log(`✓ lazy chunk: ${route}`);
+  const asset = await sizeOf(new RegExp(`^${route}-[^.]+\\.js$`), `${route} lazy JS`);
+  assertLimit(asset, limits.lazyRouteJs, `${route} lazy JS`);
 }
 
-console.log(`✓ route boundaries: ${requiredLazyRoutes.length} production chunks guarded`);
+console.log(`✓ route boundaries + sizes: ${requiredLazyRoutes.length} production chunks guarded`);

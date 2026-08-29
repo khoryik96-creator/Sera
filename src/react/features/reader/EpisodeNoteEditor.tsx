@@ -19,19 +19,27 @@ export function EpisodeNoteEditor({ episode }: { episode: Bookmark }) {
 
   function save(): void {
     if (!draft.trim()) {
-      deleteNote(episode.id);
-      setDraft('');
-      setNotice('Empty note removed.');
+      const removed = deleteNote(episode.id);
+      if (removed) {
+        setDraft('');
+        setNotice('Empty note removed.');
+      } else {
+        setNotice('Note could not be removed because browser storage is unavailable.');
+      }
       return;
     }
-    saveNote({ id: episode.id, season: episode.season, title: episode.title, text: draft });
-    setNotice('Note saved on this device.');
+    const persisted = saveNote({ id: episode.id, season: episode.season, title: episode.title, text: draft });
+    setNotice(persisted ? 'Note saved on this device.' : 'Note was not saved because browser storage is unavailable.');
   }
 
   function remove(): void {
-    deleteNote(episode.id);
-    setDraft('');
-    setNotice('Note removed.');
+    const removed = deleteNote(episode.id);
+    if (removed) {
+      setDraft('');
+      setNotice('Note removed.');
+    } else {
+      setNotice('Note could not be removed because browser storage is unavailable.');
+    }
   }
 
   const dirty = draft.trim() !== (saved?.text || '').trim();

@@ -1,6 +1,8 @@
 import { createRoot } from 'react-dom/client';
 import { loadDB } from '../db';
+import { decodedRouteHash } from '../hashRoute';
 import { initPwa } from '../pwa';
+import { initAccessibilityHardening } from './accessibilityHardening';
 import { App } from './app/App';
 import { ReaderProvider } from './features/reader/ReaderContext';
 import './styles/global.css';
@@ -10,9 +12,10 @@ import './styles/pwa.css';
 import './styles/visual-polish.css';
 import './styles/performance.css';
 import './styles/ux-audit.css';
+import './styles/accessibility-hardening.css';
 
 async function preloadInitialRoute(): Promise<void> {
-  const raw = decodeURIComponent(window.location.hash.replace(/^#\/?/, '')).trim();
+  const raw = decodedRouteHash();
   if (raw.startsWith('chapter/') || raw.startsWith('episodes/')) {
     await import('./routes/ReaderRoute');
     return;
@@ -28,6 +31,7 @@ async function boot(): Promise<void> {
   try {
     await Promise.all([loadDB(), preloadInitialRoute()]);
     createRoot(root).render(<ReaderProvider><App /></ReaderProvider>);
+    initAccessibilityHardening();
     initPwa();
   } catch (error) {
     const message = error instanceof Error ? error.message : 'Unknown loading error';

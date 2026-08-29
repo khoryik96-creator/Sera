@@ -48,9 +48,9 @@ interface ReaderContextValue extends ReaderPreferences {
   organization: ReaderOrganizationState;
   markRead(bookmark: Bookmark): void;
   toggleSaved(bookmark: Bookmark): void;
-  saveNote(note: Omit<EpisodeNote, 'updatedAt'>): void;
-  deleteNote(id: string): void;
-  savePassage(passage: Omit<SavedPassage, 'key' | 'createdAt'>): void;
+  saveNote(note: Omit<EpisodeNote, 'updatedAt'>): boolean;
+  deleteNote(id: string): boolean;
+  savePassage(passage: Omit<SavedPassage, 'key' | 'createdAt'>): boolean;
   deletePassage(key: string): void;
   createCollection(name: string): void;
   renameCollection(id: string, name: string): void;
@@ -100,7 +100,7 @@ function loadPreferences(): ReaderPreferences {
     if (raw) {
       const parsed = JSON.parse(raw) as Partial<ReaderPreferences>;
       return {
-        scale: clampScale(typeof parsed.scale === 'number' ? parsed.scale : DEFAULT_PREFERENCES.scale),
+        scale: clampScale(typeof parsed.scale === 'number' && Number.isFinite(parsed.scale) ? parsed.scale : DEFAULT_PREFERENCES.scale),
         font: isFont(parsed.font) ? parsed.font : DEFAULT_PREFERENCES.font,
         spacing: isSpacing(parsed.spacing) ? parsed.spacing : DEFAULT_PREFERENCES.spacing,
         width: isWidth(parsed.width) ? parsed.width : DEFAULT_PREFERENCES.width,
@@ -112,7 +112,7 @@ function loadPreferences(): ReaderPreferences {
       const legacy = JSON.parse(legacyRaw) as { scale?: number; relaxedSpacing?: boolean };
       return {
         ...DEFAULT_PREFERENCES,
-        scale: clampScale(typeof legacy.scale === 'number' ? legacy.scale : DEFAULT_PREFERENCES.scale),
+        scale: clampScale(typeof legacy.scale === 'number' && Number.isFinite(legacy.scale) ? legacy.scale : DEFAULT_PREFERENCES.scale),
         spacing: legacy.relaxedSpacing ? 'relaxed' : 'comfortable',
       };
     }
@@ -142,7 +142,7 @@ export function ReaderProvider({ children }: { children?: ReactNode }) {
     try {
       localStorage.setItem(PREFS_KEY, JSON.stringify(preferences));
     } catch {
-      // Reader preferences are optional.
+      // Reader preferences remain usable for this session if persistence is blocked.
     }
   }, [preferences]);
 
@@ -154,8 +154,8 @@ export function ReaderProvider({ children }: { children?: ReactNode }) {
     const openedAt = Date.now();
     const beforeRead = getReadEpisodeIds();
     const wasComplete = progressForSeason(beforeRead, bookmark.season).complete;
-    setLastRead(bookmark);
-    setLastReadState(bookmark);
+    if (setLastRead(bookmark)) setLastReadState(bookmark);
+    else setLastReadState(getLastRead());
     const nextRead = markEpisodeRead(bookmark.id);
     const seasonCompleted = !wasComplete && progressForSeason(nextRead, bookmark.season).complete;
     setReadEpisodes(nextRead);
@@ -166,28 +166,39 @@ export function ReaderProvider({ children }: { children?: ReactNode }) {
   function toggleSaved(bookmark: Bookmark): void {
     const removing = bookmarks.some((item) => item.id === bookmark.id);
     toggleBookmark(bookmark);
-    setBookmarks(getBookmarks());
-    if (removing) updateOrganization((state) => dropReaderItemOrganization(state, readerLibraryItemKey('bookmark', bookmark.id)));
+    const actual = getBookmarks();
+    setBookmarks(actual);
+    if (removing && !actual.some((item) => item.id === bookmark.id)) updateOrganization((state) => dropReaderItemOrganization(state, readerLibraryItemKey('bookmark', bookmark.id)));
   }
 
-  function saveNote(note: Omit<EpisodeNote, 'updatedAt'>): void {
+  function saveNote(note: Omit<EpisodeNote, 'updatedAt'>): boolean {
     const next = saveEpisodeNote(note);
     setNotes(next);
-    if (!next.some((item) => item.id === note.id)) updateOrganization((state) => dropReaderItemOrganization(state, readerLibraryItemKey('note', note.id)));
+    const expected = note.text.trim().slice(0, 12000);
+    const saved = next.some((item) => item.id === note.id && item.text === expected);
+    if (!saved && !expected) updateOrganization((state) => dropReaderItemOrganization(state, readerLibraryItemKey('note', note.id)));
+    return saved;
   }
 
-  function deleteNote(id: string): void {
-    setNotes(deleteEpisodeNote(id));
-    updateOrganization((state) => dropReaderItemOrganization(state, readerLibraryItemKey('note', id)));
+  function deleteNote(id: string): boolean {
+    const next = deleteEpisodeNote(id);
+    setNotes(next);
+    const removed = !next.some((item) => item.id === id);
+    if (removed) updateOrganization((state) => dropReaderItemOrganization(state, readerLibraryItemKey('note', id)));
+    return removed;
   }
 
-  function savePassage(passage: Omit<SavedPassage, 'key' | 'createdAt'>): void {
-    setPassages(persistPassage(passage));
+  function savePassage(passage: Omit<SavedPassage, 'key' | 'createdAt'>): boolean {
+    const normalizedText = passage.text.replace(/\s+/g, ' ').trim().slice(0, 1600);
+    const next = persistPassage(passage);
+    setPassages(next);
+    return next.some((item) => item.id === passage.id && item.text === normalizedText);
   }
 
   function deletePassage(key: string): void {
-    setPassages(deleteSavedPassage(key));
-    updateOrganization((state) => dropReaderItemOrganization(state, readerLibraryItemKey('passage', key)));
+    const next = deleteSavedPassage(key);
+    setPassages(next);
+    if (!next.some((item) => item.key === key)) updateOrganization((state) => dropReaderItemOrganization(state, readerLibraryItemKey('passage', key)));
   }
 
   function createCollection(name: string): void {
@@ -255,8 +266,9 @@ export function ReaderProvider({ children }: { children?: ReactNode }) {
   function clearHistory(): void {
     clearReadingHistory();
     clearReadingJourney();
-    setHistory([]);
-    setJourney({ visits: [], seasonCompletions: [] });
+    const actualHistory = getReadingHistory();
+    setHistory(actualHistory);
+    setJourney(getReadingJourney(actualHistory));
   }
 
   const value: ReaderContextValue = {

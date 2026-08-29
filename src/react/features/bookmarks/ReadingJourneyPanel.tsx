@@ -50,7 +50,7 @@ export function ReadingJourneyPanel({ journey, recent, onOpenChapter, onClear }:
   });
 
   return (
-    <div className="reading-journey" role="tabpanel">
+    <div className="reading-journey">
       <div className="library-panel-heading">
         <div><p className="eyebrow">Private reading timeline</p><h3>Reading journey</h3></div>
         {visits.length ? <button onClick={onClear} type="button">Clear journey</button> : null}
@@ -68,47 +68,26 @@ export function ReadingJourneyPanel({ journey, recent, onOpenChapter, onClear }:
           <div className="journey-tools">
             <input aria-label="Search reading journey" className="filter-input" onChange={(event) => setQuery(event.target.value)} placeholder="Search title, arc, S12 E3…" value={query} />
             <select aria-label="Filter reading journey by date" onChange={(event) => setRange(event.target.value as RangeFilter)} value={range}>
-              <option value="all">All dates</option>
-              <option value="7">Last 7 days</option>
-              <option value="30">Last 30 days</option>
+              <option value="all">All dates</option><option value="7">Last 7 days</option><option value="30">Last 30 days</option>
             </select>
             <select aria-label="Filter reading journey by season" onChange={(event) => setSeasonFilter(event.target.value)} value={seasonFilter}>
-              <option value="all">All seasons</option>
-              {seasonOptions.map((season) => <option key={season} value={season}>Season {season}</option>)}
+              <option value="all">All seasons</option>{seasonOptions.map((season) => <option key={season} value={season}>Season {season}</option>)}
             </select>
           </div>
 
-          {sessions.length ? (
-            <section className="journey-section">
-              <div className="journey-section__heading"><div><p className="eyebrow">Resume a session</p><h4>Recent sessions</h4></div><span>{summary.busiestArc ? `Most visited · ${summary.busiestArc.title}` : ''}</span></div>
-              <div className="journey-session-grid">
-                {sessions.map((session) => {
-                  const episode = episodeNumber(session.last.id);
-                  return <button key={`${session.startedAt}-${session.endedAt}`} onClick={() => onOpenChapter(session.last.season, episode)} type="button"><small>{sessionRange(session.startedAt, session.endedAt)}</small><strong>{session.visits} visit{session.visits === 1 ? '' : 's'} · {session.uniqueEpisodes} unique</strong><span>S{session.first.season} → S{session.last.season} · resume S{session.last.season} E{episode}</span><b>Resume →</b></button>;
-                })}
-              </div>
-            </section>
-          ) : null}
+          {sessions.length ? <section className="journey-section">
+            <div className="journey-section__heading"><div><p className="eyebrow">Resume a session</p><h4>Recent sessions</h4></div><span>{summary.busiestArc ? `Most visited · ${summary.busiestArc.title}` : ''}</span></div>
+            <div className="journey-session-grid">{sessions.map((session) => { const episode = episodeNumber(session.last.id); return <button key={`${session.startedAt}-${session.endedAt}`} onClick={() => onOpenChapter(session.last.season, episode)} type="button"><small>{sessionRange(session.startedAt, session.endedAt)}</small><strong>{session.visits} visit{session.visits === 1 ? '' : 's'} · {session.uniqueEpisodes} unique</strong><span>S{session.first.season} → S{session.last.season} · resume S{session.last.season} E{episode}</span><b>Resume →</b></button>; })}</div>
+          </section> : null}
 
-          {journey.seasonCompletions.length ? (
-            <section className="journey-section">
-              <div className="journey-section__heading"><div><p className="eyebrow">Milestones</p><h4>Season completions</h4></div><span>Recorded from Reading Journey v2 onward</span></div>
-              <div className="journey-milestones">
-                {journey.seasonCompletions.map((milestone) => <button key={milestone.season} onClick={() => onOpenChapter(milestone.season, 1)} type="button"><span>✓</span><div><small>{shortDate(milestone.completedAt)}</small><strong>{seasonTitleForNumber(milestone.season)}</strong></div><b>S{milestone.season}</b></button>)}
-              </div>
-            </section>
-          ) : null}
+          {journey.seasonCompletions.length ? <section className="journey-section">
+            <div className="journey-section__heading"><div><p className="eyebrow">Milestones</p><h4>Season completions</h4></div><span>Recorded from Reading Journey v2 onward</span></div>
+            <div className="journey-milestones">{journey.seasonCompletions.map((milestone) => <button key={milestone.season} onClick={() => onOpenChapter(milestone.season, 1)} type="button"><span>✓</span><div><small>{shortDate(milestone.completedAt)}</small><strong>{seasonTitleForNumber(milestone.season)}</strong></div><b>S{milestone.season}</b></button>)}</div>
+          </section> : null}
 
           <section className="journey-section">
             <div className="journey-section__heading"><div><p className="eyebrow">Timeline</p><h4>Episode visits</h4></div><span>{visibleVisits.length} shown · up to 500 stored locally</span></div>
-            {visibleVisits.length === 0 ? <EmptyState title="No matching journey entries" text="Try another date range, season, title, arc, or episode search." /> : (
-              <div className="journey-timeline">
-                {visibleVisits.map((entry, index) => {
-                  const episode = episodeNumber(entry.id);
-                  return <button key={`${entry.id}-${entry.openedAt}-${index}`} onClick={() => onOpenChapter(entry.season, episode)} type="button"><span><small>{arcTitleForSeason(entry.season)} · S{entry.season} E{episode}</small><strong>{entry.title}</strong></span><time dateTime={new Date(entry.openedAt).toISOString()}>{new Date(entry.openedAt).toLocaleString()}</time><b>→</b></button>;
-                })}
-              </div>
-            )}
+            {visibleVisits.length === 0 ? <EmptyState title="No matching journey entries" text="Try another date range, season, title, arc, or episode search." /> : <div className="journey-timeline">{visibleVisits.map((entry, index) => { const episode = episodeNumber(entry.id); return <button key={`${entry.id}-${entry.openedAt}-${index}`} onClick={() => onOpenChapter(entry.season, episode)} type="button"><span><small>{arcTitleForSeason(entry.season)} · S{entry.season} E{episode}</small><strong>{entry.title}</strong></span><time dateTime={new Date(entry.openedAt).toISOString()}>{new Date(entry.openedAt).toLocaleString()}</time><b>→</b></button>; })}</div>}
           </section>
         </>
       )}

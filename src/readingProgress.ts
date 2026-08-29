@@ -26,6 +26,16 @@ export function episodeCountForSeason(season: number): number {
   return match ? Number(match[1]) : 0;
 }
 
+export function validEpisodeId(value: unknown): value is string {
+  if (typeof value !== 'string') return false;
+  const match = value.match(EPISODE_ID);
+  if (!match) return false;
+  const season = Number(match[1]);
+  const episode = Number(match[2]);
+  const total = episodeCountForSeason(season);
+  return Boolean(total && episode >= 1 && episode <= total);
+}
+
 export function allReadingTargets(): ReadingTarget[] {
   return EPISODE_ARCS.flatMap((arc) => arc.seasons.flatMap((season) => {
     const count = episodeCountForSeason(season.season);
@@ -40,25 +50,25 @@ export function allReadingTargets(): ReadingTarget[] {
 export function getReadEpisodeIds(): string[] {
   try {
     const raw = localStorage.getItem(READ_KEY);
-    const parsed = raw ? JSON.parse(raw) : [];
+    const parsed: unknown = raw ? JSON.parse(raw) : [];
     if (!Array.isArray(parsed)) return [];
-    return [...new Set(parsed.filter((value): value is string => typeof value === 'string' && EPISODE_ID.test(value)))];
+    return [...new Set(parsed.filter(validEpisodeId))];
   } catch {
     return [];
   }
 }
 
 export function markEpisodeRead(id: string): string[] {
-  if (!EPISODE_ID.test(id)) return getReadEpisodeIds();
+  if (!validEpisodeId(id)) return getReadEpisodeIds();
   const current = getReadEpisodeIds();
   if (current.includes(id)) return current;
   const next = [...current, id];
   try {
     localStorage.setItem(READ_KEY, JSON.stringify(next));
+    return next;
   } catch {
-    // Reading progress is optional when storage is unavailable.
+    return current;
   }
-  return next;
 }
 
 export function progressForSeason(readIds: readonly string[], season: number): ProgressSummary {
@@ -87,7 +97,7 @@ export function completedSeasonCount(readIds: readonly string[]): number {
 
 export function nextUnreadTarget(readIds: readonly string[], after?: { season: number; episode: number } | null): ReadingTarget | null {
   const targets = allReadingTargets();
-  const readSet = new Set(readIds);
+  const readSet = new Set(readIds.filter(validEpisodeId));
   if (!targets.length || readSet.size >= targets.length) return null;
 
   const afterIndex = after ? targets.findIndex((target) => target.season === after.season && target.episode === after.episode) : -1;
@@ -97,7 +107,7 @@ export function nextUnreadTarget(readIds: readonly string[], after?: { season: n
 
 export function nextUnreadInSeason(readIds: readonly string[], season: number, afterEpisode = 0): ReadingTarget | null {
   const total = episodeCountForSeason(season);
-  const readSet = new Set(readIds);
+  const readSet = new Set(readIds.filter(validEpisodeId));
   const episodes = Array.from({ length: total }, (_, index) => index + 1);
   const ordered = [...episodes.filter((episode) => episode > afterEpisode), ...episodes.filter((episode) => episode <= afterEpisode)];
   const next = ordered.find((episode) => !readSet.has(episodeId(season, episode)));

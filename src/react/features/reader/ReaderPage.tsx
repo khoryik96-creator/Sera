@@ -150,6 +150,7 @@ export function ReaderPage({ season, episode, onBack, onOpenChapter }: ReaderPag
   useEffect(() => {
     if (loading || error || !episodes[episode - 1]) return;
     let frame = 0;
+    let pageHiding = false;
     let lastPersisted = getChapterPosition(chapterId)?.progress || 0;
     let lastPersistedAt = 0;
 
@@ -158,12 +159,17 @@ export function ReaderPage({ season, episode, onBack, onOpenChapter }: ReaderPag
       return root ? progressInsideProse(root) : 0;
     };
 
-    const persist = (force = false): void => {
-      const progress = readProgress();
+    let latestProgress = readProgress();
+
+    const persistProgress = (progress: number, force = false): void => {
       const now = Date.now();
       if (progress < 0.02) return;
-      if (!force && now - lastPersistedAt < 700) return;
-      if (!force && Math.abs(progress - lastPersisted) < 0.015) return;
+      const delta = Math.abs(progress - lastPersisted);
+      // Meaningful jumps should persist immediately. Only tiny scroll churn is
+      // throttled; otherwise a fast jump followed by a clamped scroll can leave
+      // an older position stored even though the UI already shows the new one.
+      if (!force && delta < 0.005) return;
+      if (!force && delta < 0.015 && now - lastPersistedAt < 700) return;
       saveChapterPosition({ id: chapterId, season, episode, progress }, now);
       lastPersisted = progress;
       lastPersistedAt = now;
@@ -171,15 +177,19 @@ export function ReaderPage({ season, episode, onBack, onOpenChapter }: ReaderPag
 
     const update = (): void => {
       frame = 0;
-      const progress = readProgress();
-      setChapterScrollPercent(Math.round(progress * 100));
-      persist(false);
+      if (pageHiding) return;
+      latestProgress = readProgress();
+      setChapterScrollPercent(Math.round(latestProgress * 100));
+      persistProgress(latestProgress, false);
     };
 
     const onScroll = (): void => {
-      if (!frame) frame = window.requestAnimationFrame(update);
+      if (!frame && !pageHiding) frame = window.requestAnimationFrame(update);
     };
-    const onPageHide = (): void => persist(true);
+    const onPageHide = (): void => {
+      pageHiding = true;
+      persistProgress(latestProgress, true);
+    };
 
     update();
     window.addEventListener('scroll', onScroll, { passive: true });
@@ -188,7 +198,9 @@ export function ReaderPage({ season, episode, onBack, onOpenChapter }: ReaderPag
       window.removeEventListener('scroll', onScroll);
       window.removeEventListener('pagehide', onPageHide);
       if (frame) window.cancelAnimationFrame(frame);
-      persist(true);
+      // Never re-measure during teardown: browser reload/scroll restoration can
+      // temporarily move layout and overwrite a stable reading position.
+      persistProgress(latestProgress, true);
     };
   }, [chapterId, season, episode, loading, error, episodes]);
 
@@ -245,21 +257,28 @@ export function ReaderPage({ season, episode, onBack, onOpenChapter }: ReaderPag
 
   function saveSelectedPassage(): void {
     if (!bookmark || !selectedPassage) return;
-    savePassage({ ...bookmark, text: selectedPassage });
-    setSelectedPassage('');
-    setPassageNotice('✓ Passage saved');
-    window.getSelection()?.removeAllRanges();
-    window.setTimeout(() => setPassageNotice(''), 1800);
+    const persisted = savePassage({ ...bookmark, text: selectedPassage });
+    if (persisted) {
+      setSelectedPassage('');
+      setPassageNotice('✓ Passage saved');
+      window.getSelection()?.removeAllRanges();
+    } else {
+      setPassageNotice('Passage was not saved because browser storage is unavailable.');
+    }
+    window.setTimeout(() => setPassageNotice(''), 2600);
   }
 
   function handleProseClick(event: ReactMouseEvent<HTMLElement>): void {
-    const selectionText = window.getSelection()?.toString().trim() || '';
-    if (selectedPassage || selectionText) return;
     const target = event.target as HTMLElement;
     const reference = target.closest<HTMLElement>('[data-character-key]');
     const key = reference?.dataset.characterKey;
     if (!key) return;
-    setLoreKey((currentKey) => currentKey === key ? null : key);
+    // A real character-reference click always opens lore. Passage selection is
+    // handled by the mouse/touch selection hooks and must not swallow name taps.
+    setLoreKey(key);
+    window.requestAnimationFrame(() => {
+      document.querySelector<HTMLElement>('.reader-lore-context')?.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+    });
   }
 
   function openLoreProfile(): void {
@@ -283,6 +302,7 @@ export function ReaderPage({ season, episode, onBack, onOpenChapter }: ReaderPag
 
       {loading ? <div className="reader-loading">Loading episode…</div> : null}
       {error ? <div className="reader-error"><strong>Episode failed to load</strong><p>{error}</p><button onClick={onBack} type="button">Back to season</button></div> : null}
+      {!loading && !error && !current ? <div className="reader-error"><strong>Episode not found</strong><p>Season {season} does not contain Episode {episode}.</p><button onClick={onBack} type="button">Back to season</button></div> : null}
 
       {!loading && !error && current ? (
         <>

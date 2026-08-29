@@ -1,9 +1,9 @@
 import type { Bookmark } from './bookmarks';
-import { episodeCountForSeason } from './readingProgress';
+import { validBookmark } from './bookmarks';
+import { validReaderTimestamp } from './readerValidation';
 
 export const JOURNEY_KEY = 'tqr:readingJourney:v2';
 
-const EPISODE_ID = /^ep-s(\d+)-e(\d+)$/;
 const VISIT_LIMIT = 500;
 const COMPLETION_LIMIT = 64;
 
@@ -25,22 +25,8 @@ export function emptyReadingJourney(): ReadingJourneyState {
   return { visits: [], seasonCompletions: [] };
 }
 
-function validBookmark(value: unknown): value is Bookmark {
-  if (!value || typeof value !== 'object') return false;
-  const item = value as Partial<Bookmark>;
-  if (typeof item.id !== 'string' || typeof item.title !== 'string' || !Number.isInteger(item.season)) return false;
-  const match = item.id.match(EPISODE_ID);
-  if (!match) return false;
-  const season = Number(match[1]);
-  const episode = Number(match[2]);
-  const total = episodeCountForSeason(season);
-  return Boolean(total && season === item.season && episode >= 1 && episode <= total);
-}
-
 export function validReadingJourneyEntry(value: unknown): value is ReadingJourneyEntry {
-  return validBookmark(value)
-    && typeof (value as ReadingJourneyEntry).openedAt === 'number'
-    && Number.isFinite((value as ReadingJourneyEntry).openedAt);
+  return validBookmark(value) && validReaderTimestamp((value as ReadingJourneyEntry).openedAt);
 }
 
 export function validSeasonCompletionEntry(value: unknown): value is SeasonCompletionEntry {
@@ -49,8 +35,7 @@ export function validSeasonCompletionEntry(value: unknown): value is SeasonCompl
   return Number.isInteger(item.season)
     && Number(item.season) >= 1
     && Number(item.season) <= 64
-    && typeof item.completedAt === 'number'
-    && Number.isFinite(item.completedAt);
+    && validReaderTimestamp(item.completedAt);
 }
 
 export function validReadingJourney(value: unknown): value is ReadingJourneyState {
@@ -75,12 +60,15 @@ function normalizeReadingJourney(state: ReadingJourneyState): ReadingJourneyStat
   };
 }
 
+/** Strict persistence used by backup restore; storage failures must be visible. */
 export function persistReadingJourney(state: ReadingJourneyState): ReadingJourneyState {
   const normalized = normalizeReadingJourney(state);
+  if (!validReadingJourney(normalized)) throw new Error('Reading Journey data is invalid.');
   try {
-    localStorage.setItem(JOURNEY_KEY, JSON.stringify(normalized));
+    if (!normalized.visits.length && !normalized.seasonCompletions.length) localStorage.removeItem(JOURNEY_KEY);
+    else localStorage.setItem(JOURNEY_KEY, JSON.stringify(normalized));
   } catch {
-    // Journey tracking is optional if storage is unavailable.
+    throw new Error('This browser blocked Reading Journey storage.');
   }
   return normalized;
 }
@@ -90,7 +78,9 @@ export function getReadingJourney(legacyVisits: readonly ReadingJourneyEntry[] =
     const raw = localStorage.getItem(JOURNEY_KEY);
     if (!raw) {
       const migrated = normalizeReadingJourney({ visits: legacyVisits.filter(validReadingJourneyEntry), seasonCompletions: [] });
-      if (migrated.visits.length) persistReadingJourney(migrated);
+      if (migrated.visits.length) {
+        try { persistReadingJourney(migrated); } catch { /* Migration remains usable in memory. */ }
+      }
       return migrated;
     }
     const parsed = JSON.parse(raw) as unknown;
@@ -105,7 +95,7 @@ export function recordReadingJourney(
   seasonCompleted = false,
   openedAt = Date.now(),
 ): ReadingJourneyState {
-  if (!validBookmark(bookmark) || !Number.isFinite(openedAt)) return getReadingJourney();
+  if (!validBookmark(bookmark) || !validReaderTimestamp(openedAt)) return getReadingJourney();
   const current = getReadingJourney();
   const latest = current.visits[0];
   const duplicateMount = latest?.id === bookmark.id && Math.abs(openedAt - latest.openedAt) < 1_500;
@@ -114,7 +104,11 @@ export function recordReadingJourney(
   const seasonCompletions = seasonCompleted && !alreadyCompleted
     ? [{ season: bookmark.season, completedAt: openedAt }, ...current.seasonCompletions]
     : current.seasonCompletions;
-  return persistReadingJourney({ visits, seasonCompletions });
+  try {
+    return persistReadingJourney({ visits, seasonCompletions });
+  } catch {
+    return current;
+  }
 }
 
 export function clearReadingJourney(): void {

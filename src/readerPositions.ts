@@ -1,4 +1,5 @@
 import { episodeCountForSeason } from './readingProgress';
+import { validReaderTimestamp } from './readerValidation';
 
 export const CHAPTER_POSITIONS_KEY = 'tqr:chapterPositions:v1';
 const EPISODE_ID = /^ep-s(\d+)-e(\d+)$/;
@@ -32,16 +33,24 @@ export function validChapterPosition(value: unknown): value is ChapterPosition {
     && Number.isFinite(item.progress)
     && item.progress >= 0
     && item.progress <= 1
-    && typeof item.updatedAt === 'number'
-    && Number.isFinite(item.updatedAt);
+    && validReaderTimestamp(item.updatedAt);
 }
 
 export function getChapterPositions(): ChapterPosition[] {
   try {
     const raw = localStorage.getItem(CHAPTER_POSITIONS_KEY);
-    const parsed = raw ? JSON.parse(raw) : [];
+    const parsed: unknown = raw ? JSON.parse(raw) : [];
     if (!Array.isArray(parsed)) return [];
-    return parsed.filter(validChapterPosition).sort((a, b) => b.updatedAt - a.updatedAt).slice(0, POSITION_LIMIT);
+    const seen = new Set<string>();
+    return parsed
+      .filter(validChapterPosition)
+      .sort((a, b) => b.updatedAt - a.updatedAt)
+      .filter((item) => {
+        if (seen.has(item.id)) return false;
+        seen.add(item.id);
+        return true;
+      })
+      .slice(0, POSITION_LIMIT);
   } catch {
     return [];
   }
@@ -54,17 +63,23 @@ export function getChapterPosition(id: string): ChapterPosition | null {
 export function saveChapterPosition(input: Omit<ChapterPosition, 'updatedAt'>, updatedAt = Date.now()): ChapterPosition[] {
   const nextItem: ChapterPosition = { ...input, progress: Math.min(1, Math.max(0, input.progress)), updatedAt };
   if (!validChapterPosition(nextItem)) return getChapterPositions();
-  const next = [nextItem, ...getChapterPositions().filter((item) => item.id !== input.id)].slice(0, POSITION_LIMIT);
-  persistChapterPositions(next);
-  return next;
+  const current = getChapterPositions();
+  const next = [nextItem, ...current.filter((item) => item.id !== input.id)].slice(0, POSITION_LIMIT);
+  try {
+    persistChapterPositions(next);
+    return next;
+  } catch {
+    return current;
+  }
 }
 
+/** Strict persistence used by backup restore; callers that treat positions as optional should catch. */
 export function persistChapterPositions(positions: ChapterPosition[]): void {
   const safe = positions.filter(validChapterPosition).sort((a, b) => b.updatedAt - a.updatedAt).slice(0, POSITION_LIMIT);
   try {
     if (safe.length) localStorage.setItem(CHAPTER_POSITIONS_KEY, JSON.stringify(safe));
     else localStorage.removeItem(CHAPTER_POSITIONS_KEY);
   } catch {
-    // Exact resume position is optional if storage is unavailable.
+    throw new Error('This browser blocked exact-position storage.');
   }
 }
