@@ -1,6 +1,10 @@
 import { describe, expect, it } from 'vitest';
+import rawData from '../src/data.json';
 import { restoredCanonReferences } from '../src/canonReference';
-import { DB } from '../src/db';
+import { normalizeDatabase } from '../src/db';
+import type { RawDatabase } from '../src/types';
+
+const data = normalizeDatabase(rawData as unknown as RawDatabase);
 
 describe('restored React canon references', () => {
   it('restores the stable legacy world and reveal rules without duplicate titles', () => {
@@ -15,7 +19,7 @@ describe('restored React canon references', () => {
   });
 
   it('does not duplicate canon-rule titles already owned by data.json', () => {
-    const currentTitles = new Set((DB.canonRules || []).map((rule) => rule.title));
+    const currentTitles = new Set((data.canonRules || []).map((rule) => rule.title));
     expect(restoredCanonReferences.filter((rule) => currentTitles.has(rule.title))).toEqual([]);
   });
 
