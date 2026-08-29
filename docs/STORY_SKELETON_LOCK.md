@@ -319,10 +319,18 @@ Exact healing speed at the new maximum 10,000-person scale is not separately qua
 
 **Current tier:** Supreme
 
-Moonless Snowfield has become a major hostile-control technique.
+##### Evolved Lineage
+
+**Silent Winter → Moonless Snowfield**
+
+**Moonless Snowfield** is the five-year Supreme evolution of **Silent Winter**. Silent Winter remains the historical name of the predecessor technique rather than a separate eleventh current skill.
+
+The evolution preserves Silent Winter's sensory-suppression principle and expands it into a complete battlefield perception-and-control field. Rhen reads motion, qi, intent, terrain, breath and structural dependency as one connected field while enemies lose reliable sensory and spatial clarity.
 
 Confirmed effects:
 
+- absorbs Silent Winter's sensory dead zone and unreadable attack intervals
+- no longer requires a sword or other weapon to express the principle
 - freezes the blood of enemies
 - suppresses / locks enemy movement through that freezing effect
 - is intended to be overwhelmingly powerful at the five-year point
@@ -420,15 +428,30 @@ Still `TBD`:
 
 ---
 
-#### 3.1.10 Remaining Rhen Techniques — Global Five-Year Rule
+#### 3.1.10 Complete Ten-Skill Roster and Global Five-Year Rule
+
+Rhen has exactly **ten current five-year skills, including his Ultimate**:
+
+1. **Frozen Petals Garden** — Evolved Supreme Passive
+2. **Drifting Petals** — Supreme Movement Art
+3. **One Petal Severs the Winter Moon** — Supreme dependency-severing technique
+4. **Sanctuary of Petals** — Supreme healing and protection technique
+5. **Moonless Snowfield** — Supreme battlefield perception and control; evolved from Silent Winter
+6. **Winter Ends, Spring Blossoms** — Supreme restoration / natural-law technique
+7. **Petal Convergence** — Transcended offensive skill
+8. **Meridian Bloom** — Transcended circulation-disruption skill
+9. **Petals in Stasis** — Supreme causal-stasis art
+10. **Petals Beneath a Frozen Moon** — Ultimate
+
+Roster rules:
 
 - Every named **non-Ultimate** Rhen technique established before the five-year continuation is **Supreme level** five years later.
 - The newly established **Petal Convergence** and **Meridian Bloom** are explicit exceptions: both remain **Transcended Skills** at this stage.
 - Any technique that was already Supreme has improved again while remaining within the Supreme classification unless the user later creates a higher named tier.
 - Exact upgrades for unlisted techniques are deliberately left open.
-- **Petals in Stasis** remains distinct from the Ultimate.
-- **Silent Winter** remains part of Rhen's established technique history.
-- Do not rename or invent upgrades for either technique until the user defines them or asks for options.
+- **Petals in Stasis** remains distinct from the Ultimate; its causal-stasis identity is unchanged, while its exact additional five-year upgrades remain `TBD`.
+- **Silent Winter** remains part of Rhen's established technique history only as the predecessor of **Moonless Snowfield**. It is not counted as a separate current skill.
+- Do not invent additional upgrades for **Petals in Stasis** until the user defines them or asks for options.
 - Do not create additional Rhen named techniques merely to demonstrate his increased power.
 
 ---
@@ -2630,6 +2653,15 @@ Do **not** fill these automatically.
 ---
 
 ## 8. Revision Log
+
+### 2026-08-29 — Rhen Ten-Skill Roster and Silent Winter Lineage
+
+- Locked Rhen's exact five-year roster at **ten current skills including his Ultimate**.
+- Confirmed **Silent Winter → Moonless Snowfield** as one evolved lineage rather than two current skills.
+- Preserved Silent Winter as the historical predecessor name and expanded Moonless Snowfield with its established sensory-suppression heritage.
+- Kept **Petals in Stasis** distinct from the Ultimate while leaving its additional five-year upgrade mechanics `TBD`.
+- Updated the Stage 4 outline so Chapter 81 gives Sera a brief married-couple explanation of all ten skills without demonstrating or unlocking the Ultimate.
+- No story prose, runtime canon data, architecture, UI or implementation files were changed.
 
 ### 2026-08-29 — Beneath the Crooked Sign Ten-Season Outline
 
