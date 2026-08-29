@@ -448,7 +448,7 @@ Public credit falls upon scattered physicians and local relief groups. Sera and 
 
 ### Chapter 81 — What Her Husband Forgot to Mention
 
-The Five Domains appear more stable than at any earlier point, contrasting public confidence in the Sovereigns with the quiet crises still handled beneath the crooked sign. During an ordinary married-couple conversation, Sera realizes that Rhen has described everyone else's five-year improvement while saying almost nothing about his own. She insists that knowing what her husband can now do is a reasonable marital requirement. Rhen gives her a brief, understated account of every currently defined offensive evolution while continuing tea-house chores; Sera's increasingly incredulous questions provide the humour. He demonstrates none of them, the exchange does not become a profile recital, and his Ultimate is neither explained anew nor approached for use.
+The Five Domains appear more stable than at any earlier point, contrasting public confidence in the Sovereigns with the quiet crises still handled beneath the crooked sign. During an ordinary married-couple conversation, Sera realizes that Rhen has described everyone else's five-year improvement while saying almost nothing about his own. She insists that knowing what her husband can now do is a reasonable marital requirement. Rhen gives her a brief, understated account of his exact ten-skill current roster while continuing tea-house chores; Sera's increasingly incredulous questions provide the humour. He demonstrates none of them, the exchange does not become a profile recital, and his Ultimate is acknowledged without being approached for use.
 
 ### Chapter 82 — Five Domains, One Medicine Road
 
@@ -554,7 +554,7 @@ Rhen and Sera share their final cup beneath the crooked sign with no guild work 
 
 - Do not present five-year upgrades as one profile dump.
 - Show an evolved art only when a medical, training, strategic or combat problem requires it.
-- Rhen's healing growth may be revealed through Qin and Tae. Chapter 81 is the one character-driven exception to the normal no-list rule: Sera explicitly demands a short explanation of her husband's currently defined offensive developments, but Rhen's complete reserve remains understated.
+- Rhen's healing growth may be revealed through Qin and Tae. Chapter 81 is the one character-driven exception to the normal no-list rule: Sera explicitly demands a short explanation of her husband's exact ten-skill current roster, but Rhen's complete reserve remains understated.
 - Sera's progression must appear across training, field decisions and increasingly seamless transitions between existing Orchid arts.
 - Orchid Dominion may be discussed only as an unrealized threshold if the narrative requires it; it cannot manifest.
 - Huo and Tae's High Sovereign strength should be demonstrated primarily through controlled training and recovery consequences inside this arc.
@@ -563,22 +563,24 @@ Rhen and Sera share their final cup beneath the crooked sign with no guild work 
 
 ### Rhen's Chapter 81 Husband Briefing
 
-Rhen's explanation to Sera should be intimate, concise and mildly funny rather than ominous exposition. It covers only approved five-year mechanics:
+Rhen's explanation to Sera should be intimate, concise and mildly funny rather than ominous exposition. It covers his exact ten current skills using only approved mechanics:
 
-- **Frozen Petals Garden — hostile field:** if Rhen deliberately turns its hostile aspect on, enemies within two miles lose internal energy and move at half speed. He clarifies that the effect is optional because Sera immediately asks whether he has been slowing tea-house customers.
-- **One Petal Severs the Winter Moon — Supreme:** he reads the one relationship sustaining a technique, formation, circulation state or hostile effect, then severs that dependency instead of overpowering the whole structure.
-- **Moonless Snowfield — Supreme:** it freezes enemy blood and locks movement; its undefined radius, duration and resistance rules remain unclaimed.
-- **Winter Ends, Spring Blossoms — Supreme:** distorted, borrowed or unnaturally sustained martial states are forced to complete the natural course they should have followed. It does not rewrite reality or resurrect anyone.
-- **Petal Convergence — Transcended:** thousands of compressed frozen petals converge upon one selected point from every direction, or divide among selected enemies with less force per target.
-- **Meridian Bloom — Transcended:** marked enemies cause their own internal energy to split into conflicting currents; using more power worsens the backlash until their techniques fail and their legs can no longer support them.
-- **Petals in Stasis** and **Silent Winter:** Rhen confirms that both have improved, but the conversation supplies no invented mechanics because their exact five-year upgrades remain `TBD`.
-- **All other established non-Ultimate arts:** Rhen confirms they have reached their locked five-year tiers without narrating an exhaustive catalogue.
+1. **Frozen Petals Garden — Evolved Supreme Passive:** it makes Rhen ageless, continuously restores and refines his energy, neutralizes poison, detects concealed danger and protects chosen people. Its optional two-mile hostile field drains enemy energy and halves movement speed; Sera immediately asks whether he has ever slowed an irritating customer.
+2. **Drifting Petals — Supreme Movement Art:** it merges his former movement lineages, carries him vastly farther, allows indefinite invisibility and can conceal one passenger with him.
+3. **One Petal Severs the Winter Moon — Supreme:** he reads the one relationship sustaining a technique, formation, circulation state or hostile effect, then severs that dependency instead of overpowering the whole structure.
+4. **Sanctuary of Petals — Supreme:** an indestructible sanctuary extending up to twenty miles that can heal, restore, strengthen and protect as many as ten thousand people simultaneously.
+5. **Moonless Snowfield — Supreme:** the evolved form of **Silent Winter** expands its sensory dead zone into battlefield-wide perception and control, while freezing enemy blood and locking movement. Silent Winter is not an eleventh current skill.
+6. **Winter Ends, Spring Blossoms — Supreme:** distorted, borrowed or unnaturally sustained martial states are forced to complete the natural course they should have followed. It does not rewrite reality or resurrect anyone.
+7. **Petal Convergence — Transcended:** thousands of compressed frozen petals converge upon one selected point from every direction, or divide among selected enemies with less force per target.
+8. **Meridian Bloom — Transcended:** marked enemies cause their own internal energy to split into conflicting currents; using more power worsens the backlash until their techniques fail and their legs can no longer support them.
+9. **Petals in Stasis — Supreme:** one or many selected targets are held outside normal causal progression until Rhen releases them. Its exact additional five-year upgrades remain `TBD`.
+10. **Petals Beneath a Frozen Moon — Ultimate:** it peacefully resolves selected hostile possibilities across its approved maximum scale while restoring allies. Rhen acknowledges it only because Sera already knows it exists; no activation, demonstration or new reveal occurs.
 
 The conversation must preserve three limits:
 
 1. Rhen does not demonstrate an offensive art inside or near the tea house.
 2. Sera is impressed and somewhat exasperated, not frightened of her husband.
-3. **Petals Beneath a Frozen Moon** remains absolutely story-locked; the scene cannot become a disguised Ultimate reveal or near-use.
+3. **Petals Beneath a Frozen Moon** remains absolutely story-locked; acknowledging it as the tenth skill cannot become a disguised Ultimate reveal or near-use.
 
 ## 15. Remaining Gates Before Prose Composition
 
