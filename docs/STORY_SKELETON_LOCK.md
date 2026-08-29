@@ -16,9 +16,11 @@
    - [Sera — five years later](#33-sera--five-years-later)
    - [Top Five — five years later](#34-top-five--five-years-later)
    - [Co-#1 and Top 6–10 — five years later](#35-co-1-and-top-610--five-years-later)
-   - [Other characters — five years later](#36-other-characters--five-years-later)
-4. [Open planning slots](#4-open-planning-slots)
-5. [Revision log](#5-revision-log)
+   - [Qin Luo — five years later](#36-qin-luo--five-years-later)
+   - [Other characters — five years later](#37-other-characters--five-years-later)
+4. [The Quaint Teahouse — five-year development](#4-the-quaint-teahouse--five-year-development)
+5. [Open planning slots](#5-open-planning-slots)
+6. [Revision log](#6-revision-log)
 
 ## 1. Planning Workflow
 
@@ -29,21 +31,22 @@ The user is deliberately building the continuation as a **skeletal structure fir
 | Stage | Planning area | Status |
 |---:|---|---|
 | 1 | Character development skeleton | **ACTIVE** |
-| 2 | Five-year world-state skeleton | NOT STARTED |
-| 3 | New arc / conflict skeleton | NOT STARTED |
+| 2 | Five-year world-state skeleton | STARTED — QUAINT TEAHOUSE LOCKED |
+| 3 | New arc / conflict skeleton | STARTED — CLIFFHANGER FOUNDATION ONLY |
 | 4 | Season/chapter outline | NOT STARTED |
 | 5 | Story composition / prose | **LOCKED** |
 
-### Rules While Stage 1 Is Active
+### Current Planning Boundary
 
 - Do not begin composing chapters or scenes.
-- Do not invent the new antagonist, conflict, arc title, season number, or opening incident yet.
+- The user has explicitly opened limited Stage 2 planning for The Quaint Teahouse and limited Stage 3 planning for the new-continent cliffhanger.
+- Do not expand the new continent, its antagonist, its culture, its power system, its arc title, season number or opening incident beyond the approved cliffhanger facts.
 - Do not fill unspecified character upgrades automatically.
 - Add only facts the user provides, plus small structural clarifications that preserve the user's intent.
 - When an ability detail is still undefined, mark it `TBD` rather than inventing mechanics.
 - New named techniques must not be invented unless the user asks for naming help or explicitly approves a proposed name.
 - The existing Murim/internal-energy setting remains in force. Descriptions such as "divine sense" describe an evolved perception effect, not western magic.
-- Once enough character skeletons exist, ChatGPT may help expand them into arc structure **only when the user asks to move to that stage**.
+- Season/chapter outlining and story composition remain locked until the user explicitly opens those stages.
 
 ---
 
@@ -52,11 +55,13 @@ The user is deliberately building the continuation as a **skeletal structure fir
 ### Time Skip
 
 - The continuation takes place **five years after the current ending/epilogue period**.
-- **Rhen and Sera have not meddled in the martial world for more than five years.**
-- Their withdrawal is real; they have not been secretly resolving world conflicts during this period unless the user later adds a specific exception.
+- Rhen remains withdrawn from rankings, wars, sect disputes, public heroics and command of martial organizations throughout the five years.
+- Sera remains retired from public ranking and ordinary martial politics, but the user has explicitly approved a limited exception: she covertly leads **The Quaint Teahouse**, intervening when necessary to protect civilians, preserve medical access, move relief supplies or prevent concealed disasters.
+- The Quaint Teahouse does not rule territory, replace governments, seek public recognition or intervene merely to influence ranking disputes.
+- Rhen supports its healing work as a teacher, physician and medicinal farmer but holds no command position.
 - Rhen's identity as the **Petal Monarch** has moved beyond ordinary legend and become something closer to a myth.
 - The martial world may remember the title, stories, and impossible feats, but the exact five-year world reaction is still `TBD`.
-- Do not start the five-years-later plot yet. Character development comes first.
+- The five-year domestic/guild development and its ending cliffhanger are now locked skeleton material. Chapters, scenes and prose remain unstarted.
 
 ---
 
@@ -402,6 +407,7 @@ Still `TBD`:
 
 - Rhen has spent more than five years outside active martial-world affairs with Sera.
 - He has not been participating in rankings, wars, sect disputes, or public heroics during this withdrawal.
+- He teaches medicine, treats patients and tends the medicinal farm supporting The Quaint Teahouse, but holds no command position and does not direct its interventions.
 - **Petal Monarch** is now a mythic identity rather than an active public figure.
 - His actual five-year power growth is therefore mostly unknown to the outside world at the continuation's starting point.
 - The gap between what the world remembers and what Rhen has actually become should be preserved for later story planning.
@@ -1082,38 +1088,579 @@ This art can threaten people above Yun's rank but requires exposure and preparat
 
 ---
 
-### 3.6 Other Characters — Five Years Later
+### 3.6 Qin Luo — Five Years Later
 
-**STATUS: PENDING USER DEVELOPMENT**
+**Five-year cultivation level:** Sovereign — comparable overall to Liang Yue
 
-No five-year upgrades, injuries, retirements, new ranks, relationships, deaths, disciples, successors or factions should be invented for former Top Ten or other characters until the user adds them to the skeleton or asks for structured suggestions.
+Qin Luo remains the blind former World #6. Mo Qingzhao remains a separate character and the current #7 Paper Emperor.
+
+#### Five-Year Medical and Guild Position
+
+- Qin arrives at Rhen and Sera's tea house during Year One in critical condition.
+- Rhen's evolved healing art repairs Qin's destroyed highest vibration meridians, stabilizes his circulation and removes accumulated internal trauma.
+- Qin's sight is not restored. The exact medical reason remains `TBD` and must not be invented automatically.
+- Rhen permits Qin to remain inside the ordinary one-mile refinement field of Frozen Petals Garden as an exceptional long-term medical case.
+- Qin is the only person besides Sera to receive prolonged refinement from Rhen's passive during the five years.
+- Qin's protection/refinement is local rather than Sera's unique distance-independent extension.
+- Five years of restored cultivation and passive refinement carry Qin into Sovereign level.
+- He becomes comparable overall to Liang Yue; their exact matchup remains `TBD`.
+- Qin becomes second-in-command of The Quaint Teahouse beneath Sera.
+- He helps with medicinal cultivation, diagnosis, apprentice training, base security and vibration-based monitoring.
+
+#### 3.6.1 Listening Through Stone
+
+**Five-year tier:** Transcended Passive
+
+- Qin continuously reads vibration through floors, walls, weapons, rain and air pressure.
+- Movement becomes a three-dimensional map around him.
+- He can distinguish heartbeats, circulation rhythms and concealed breathing.
+- Hidden enemies remain detectable when they disturb the environment.
+- Completely motionless targets and techniques that erase vibration may partially resist him.
+- It does not restore sight; it gives Qin a different and extraordinarily detailed perception system.
+
+#### 3.6.2 Wuyin Hums
+
+**Five-year tier:** Transcended Evolution
+
+- Wuyin identifies the resonant structure of weapons, barriers and meridian systems through contact.
+- Qin can change its vibration during an exchange.
+- The blade may pass harmlessly across one object before becoming destructive against the next.
+- Repeated contact makes Qin increasingly accurate.
+
+#### 3.6.3 Silent Bell Step
+
+**Five-year tier:** Transcended Evolution
+
+- Qin suppresses the vibration created by his own movement.
+- He can leave false vibration patterns travelling in another direction.
+- Enemies following sound or terrain feedback pursue positions he never occupied.
+- His blindness no longer limits complex movement through unfamiliar terrain.
+
+#### 3.6.4 Broken Chime
+
+**Five-year tier:** Transcended Evolution
+
+- Qin can fracture weapons, armour and barriers through their governing resonance.
+- The external surface may remain intact until the internal structure collapses.
+- Sovereign-level materials require repeated contact or preparation.
+
+#### 3.6.5 Hollow Chime
+
+**Five-year tier:** Transcended Evolution
+
+- Qin can disrupt several circulation rhythms simultaneously.
+- Correcting one disturbed meridian exposes another.
+- He can target movement, breathing, grip or technique timing without permanently destroying cultivation.
+
+#### 3.6.6 Bell Beneath the Rain
+
+**Five-year tier:** Evolved Supreme Perception Field
+
+- Every raindrop becomes part of Qin's vibration map.
+- He can perceive an entire battlefield through rainfall.
+- Hidden movement produces thousands of overlapping reference points.
+- Attacks against allies become visible through changes in the rain.
+- Qin can transmit small disruptions back through the same water.
+- Its power is reduced in completely dry and vibration-isolated environments.
+
+#### 3.6.7 Echo Returns Empty
+
+**Five-year tier:** Transcended Counter
+
+- Qin records the rhythm of repeated attacks.
+- He inserts a counter-vibration between the opponent's cycles.
+- The stronger and more consistent the attacking rhythm, the more destructive his interruption becomes.
+- Unpredictable or deliberately broken rhythms remain harder to counter.
+
+#### 3.6.8 The World Between Two Heartbeats
+
+**Five-year tier:** Supreme Execution Evolution
+
+Qin attacks during the transition between one completed circulation beat and the next. At Sovereign level, he can target:
+
+- heart rhythm
+- defensive circulation
+- conscious movement
+- technique activation
+
+He may interrupt one function or align several interruptions into one exchange.
+
+#### 3.6.9 No Sound in the Hollow Temple
+
+**Five-year tier:** Evolved Supreme Suppression
+
+- Qin dominates local vibration so completely that enemy movement becomes both readable and disruptable.
+- Footwork loses stability.
+- Weapons vibrate against their wielders.
+- Spoken coordination becomes unreliable.
+- Circulation rhythms become audible to Qin.
+- Selected allies may be excluded from the suppression.
+
+#### 3.6.10 The Last Bell Has No Echo
+
+**Five-year tier:** Evolved Supreme Art
+
+Qin identifies the governing resonance allowing a target system to sustain coherent motion, then delivers one exact vibration that prevents the next cycle from forming correctly.
+
+Possible targets include:
+
+- a martial formation
+- a defensive barrier
+- a weapon system
+- a circulation architecture
+- one Sovereign-level opponent
+
+Unlike Rhen's dependency severance, Qin does not remove a relationship. He destroys the target's ability to maintain its own rhythm.
 
 ---
 
-## 4. Open Planning Slots
+### 3.7 Other Characters — Five Years Later
+
+**STATUS: PENDING USER DEVELOPMENT**
+
+No five-year upgrades, injuries, retirements, new ranks, relationships, deaths, disciples, successors or factions should be invented for remaining former Top Ten or other characters until the user adds them to the skeleton or asks for structured suggestions.
+
+---
+
+## 4. The Quaint Teahouse — Five-Year Development
+
+### 4.1 Core Identity
+
+The five-year period is an active foundation arc rather than empty peace.
+
+- **Second Spring Tea House** remains Rhen and Sera's public home and ordinary business.
+- **The Quaint Teahouse** becomes the official internal name of the covert guild growing beneath it.
+- The public tea house, medicinal farm, apprentices, relief network and hidden mountain base all develop from the same desire: help people without returning to public martial rule.
+- Sera is first-in-command and the actual leader.
+- Qin Luo becomes second-in-command.
+- Tae Muyeon later becomes third-in-command.
+- Rhen refuses command and remains the healing teacher, physician and medicinal farmer.
+- The guild avoids ranking disputes, territorial control, political conquest and unnecessary intervention.
+- Its existence remains unknown to the Top Ten through the end of Year Five.
+
+### 4.2 Year One — Medicine, Apprentices and the Governor
+
+#### Rhen's Medicinal Farm
+
+- Rhen begins cultivating medicinal plants behind the tea house.
+- The garden expands into a genuine medicinal farm as patients arrive from surrounding villages.
+- Rhen identifies ideal soil, water and internal-energy conditions without turning the plants into western magic.
+- He grows medicines that local physicians cannot obtain affordably.
+- He treats poor residents without demanding payment.
+- Sera continues operating the tea house and handles the financial consequences of Rhen repeatedly failing to charge patients.
+
+#### Rhen's Healing Apprentices
+
+Rhen accepts apprentices for the first time because personally treating every patient is not sustainable.
+
+He teaches:
+
+- pulse and circulation diagnosis
+- meridian stabilization
+- poison identification
+- emergency medicine
+- medicinal farming
+- treatment without wasting internal energy
+- the difference between healing someone and merely delaying death
+
+Rhen does not immediately teach his named healing arts. The apprentices begin with medical principles, discipline and ordinary competence.
+
+#### Sera's Orchid-Origin Training
+
+The corrupt governor's guards bully and injure the apprentices because they treat villagers without paying licensing bribes.
+
+Sera teaches them defensive martial foundations derived from her existing Orchid system:
+
+- Orchid Shadow Steps
+- Petal-Severing Touch
+- Seven Petals, One Breath
+- Veiled Moon principles
+- anatomical precision supporting Whispering Orchid Needles
+
+Rules:
+
+- Sera does not create a new named art or train a new assassination house.
+- The branch is designed for healers who must protect patients, escape surrounded positions and survive long enough to provide treatment.
+- Training emphasizes evasion, disarming, nonlethal acupoint strikes, evacuation and patient protection.
+
+#### The Corrupt Local Governor
+
+The Year One antagonist is a local governor who has been:
+
+- confiscating harvests
+- controlling medicine prices
+- fabricating taxes
+- imprisoning people unable to pay
+- seizing land through local guards
+- blocking independent physicians
+- redirecting disaster supplies to wealthy supporters
+
+Rhen documents the medical evidence of abuse. The apprentices gather testimony while treating villages. Sera traces accounts, supply routes and protected intermediaries. The Orchid-trained apprentices protect witnesses.
+
+- Rhen does not kill the governor.
+- Sera dismantles his power without needing to assassinate him.
+- The governor is exposed through his own records and abandoned by the officials he bribed.
+- His name, exact territory, final sentence and any surviving allies remain `TBD`.
+
+The apprentices learn that healing a community sometimes requires removing the cause of its wounds.
+
+#### Qin Luo Arrives
+
+- Qin arrives during Year One in critical condition.
+- Rhen repairs his vibration meridians and stabilizes his cultivation.
+- Qin remains blind.
+- Qin stays under Rhen and Sera's roof and within Frozen Petals Garden's ordinary local refinement field.
+- He helps diagnose patients, monitor medicinal plants, find underground water, train apprentices and protect the tea house.
+
+### 4.3 Year Two — The Shadow Guild Forms
+
+The clinic and farm grow beyond one location. Former patients and trained apprentices establish:
+
+- rural clinics
+- protected medicine caches
+- emergency courier routes
+- safe houses for persecuted physicians
+- disaster-treatment teams
+- concealed herb supply lines
+
+Sera organizes these efforts into a covert guild officially named **The Quaint Teahouse**.
+
+#### Initial Command Structure
+
+1. **Sera — first-in-command**
+2. **Qin Luo — second-in-command**
+3. **Third-in-command — vacant until Tae joins**
+4. specialist leaders and senior apprentices
+5. **Rhen — healing teacher with no command position**
+
+Rhen gives advice when Sera asks, but does not override her decisions or become the hidden true leader.
+
+#### Limited Intervention Doctrine
+
+The Quaint Teahouse intervenes only when:
+
+- medical supplies are deliberately withheld
+- civilians are intentionally targeted
+- a disaster is being concealed
+- local authorities are creating mass suffering
+- existing institutions cannot respond in time
+- intervention can prevent catastrophe without controlling the region afterward
+
+Sera pulls strings, redirects supplies, gathers intelligence and removes obstacles while still preferring to tend the tea house herself.
+
+### 4.4 Year Three — The Network Builder and Mountain Base
+
+#### Non-Martial Logistics Talent
+
+The guild recruits a male non-martial specialist whose name remains `TBD`.
+
+He possesses no meaningful martial ability. His exceptional talents are:
+
+- supply-chain design
+- courier systems
+- trade-route analysis
+- warehousing
+- procurement
+- scouting networks
+- information verification
+- discreet movement of medicine and personnel
+- predicting shortages before disasters occur
+
+He becomes indispensable because he can make Sera's intelligence and Rhen's medicine reach the correct place at the correct time.
+
+His name, history, recruitment circumstances and final command title remain `TBD`.
+
+#### Hidden Mountain Cave
+
+While mapping abandoned supply routes, the logistics specialist discovers a vast concealed cave near a mountain summit.
+
+The location provides:
+
+- one difficult natural approach
+- underground water
+- natural ventilation
+- several emergency exits
+- space for medicinal cultivation
+- concealed stone chambers
+- visibility across important travel routes
+
+The Quaint Teahouse constructs a hidden base containing:
+
+- a central infirmary
+- medicinal storage vaults
+- indoor herb terraces
+- a training courtyard
+- an intelligence archive
+- a courier station
+- an emergency civilian shelter
+- a poison-isolation chamber
+- a vibration room for Qin
+- a strategy room for Sera
+- an ordinary tea room insisted upon by Rhen
+
+The mountain, cave and base names remain `TBD`.
+
+#### Tae Muyeon Is Poisoned
+
+The network discovers co-#1 Tae Muyeon close to death from an unknown poison.
+
+Confirmed properties:
+
+- designed for Sovereign circulation
+- difficult to detect
+- worsens when Tae uses Boundless Horizon
+- suggests an attacker capable of studying the world's strongest fighters
+
+The poisoner, motive, delivery method and relationship to the later new-continent threat remain `TBD`.
+
+Rhen heals Tae but refuses to extend Frozen Petals Garden to him.
+
+#### Passive-Extension Limit
+
+- Sera received Rhen's passive through their unique bond.
+- Qin received prolonged local refinement as an exceptional medical case living under Rhen's roof.
+- Rhen will not create an expanding group of passively cultivated Sovereigns.
+- He believes too many artificially accelerated individuals could destabilize the world beyond what the current Top Ten can contain.
+- Tae, the logistics specialist and the apprentices do not receive the passive.
+
+#### Tae Joins The Quaint Teahouse
+
+Tae remains long enough to understand the organization and eventually joins as third-in-command.
+
+Final senior hierarchy:
+
+1. **Sera — first-in-command**
+2. **Qin Luo — second-in-command**
+3. **Tae Muyeon — third-in-command**
+4. **Logistics specialist — operational network leadership; exact title `TBD`**
+5. senior healers and Orchid-trained field leaders
+6. **Rhen — healing teacher, medicinal farmer and no formal commander**
+
+### 4.5 Year Four — The Hidden Guild Matures
+
+The Quaint Teahouse expands without becoming publicly known.
+
+#### Healing Branch — Rhen
+
+- physicians
+- medicinal farmers
+- poison specialists
+- emergency treatment teams
+- mobile clinics
+
+#### Orchid Branch — Sera
+
+- patient protection
+- covert evacuation
+- nonlethal martial intervention
+- intelligence recovery
+- anti-corruption operations
+
+#### Network Branch — Logistics Specialist
+
+- couriers
+- scouting
+- supply movement
+- safe routes
+- warehouses
+- emergency communication
+
+Qin and Tae support all three branches rather than creating personal factions.
+
+- Qin's restored cultivation and passive refinement carry him into Sovereign level.
+- Tae continues developing his iron-infused horizon arts without Rhen's passive.
+- The apprentices grow into competent healers and defensive martial artists rather than a replacement Top Ten.
+- The guild remains unknown to the official ranking system.
+
+### 4.6 Year Five — Sovereigns Beneath the Crooked Sign
+
+By Year Five:
+
+- Sera is a Peak Sovereign approaching Paragon.
+- Qin is a Sovereign comparable to Liang Yue.
+- Tae is a High Sovereign.
+- The logistics specialist operates a continental information and relief-supply network.
+- The apprentices can respond to crises without requiring Sera or Rhen personally.
+- The mountain base can shelter civilians and coordinate large relief operations without revealing its existence.
+- Rhen remains outside formal command.
+- The Top Ten still do not know The Quaint Teahouse exists.
+
+#### Sera Withdraws From Rhen's Passive
+
+- Sera asks Rhen to remove Frozen Petals Garden from her.
+- The request represents trust and self-determination rather than emotional separation.
+- Rhen withdraws it immediately after confirming she is certain.
+- Qin remains inside the ordinary local refinement field while living under their roof unless the user later changes this.
+- Rhen still refuses to extend the passive to Tae, the logistics specialist or the apprentices.
+
+### 4.7 Romance Spine — Locked Across All Five Years
+
+The more active guild storyline does not replace the approved domestic romance. Their relationship develops through accumulated habits, partnership, humour and increasingly natural affection.
+
+#### Permanent Recurring Elements
+
+- Rhen and Sera share the final cup after closing every night whenever physically possible.
+- The final cup is intended to be free from guild business; Sera repeatedly breaks that rule and Rhen replaces reports with tea.
+- The shelf-and-herb-placement conflict continues throughout the five years.
+- Rhen gives medicinal teas overly literal names; Sera renames them.
+- Customers assume Rhen works for Sera; Sera corrects them by identifying him as her husband.
+- Supplier journeys function as unofficial dates even when Sera insists they are work.
+- Ordinary affection includes hand-holding, leaning against each other, private kisses and falling asleep together after long days.
+- Martial pilgrims discuss the Petal Monarch while Rhen serves them without being recognized.
+- The tea house sign remains slightly crooked because Sera refuses to let Rhen straighten it.
+
+#### Year One Romance
+
+- Rhen and Sera build the farm, clinic and apprentice system together.
+- Rhen heals the governor's victims while Sera removes the source of the harm.
+- Each sees the other transform a former martial identity into something constructive.
+- The apprentices gradually treat them like parental figures, while Sera denies that she is running a sect.
+- They end the governor conflict with their ordinary final tea rather than a public celebration.
+
+#### Year Two Romance
+
+- Their nightly tea becomes the one period when neither is commander, teacher, healer or legend.
+- Rhen quietly leaves meals for Sera when she becomes absorbed in guild reports.
+- Sera becomes increasingly comfortable identifying Rhen publicly as her husband.
+- Their humour grows from having accidentally created a covert guild while Rhen continues calling the building a tea house.
+
+#### Year Three Romance
+
+- Rhen's ordinary tea room becomes the emotional centre of the mountain base despite Sera initially calling it unnecessary.
+- He creates a small private medicinal garden near the summit.
+- The plants are associated with moments from their relationship, although Rhen refuses to confirm that this was deliberate.
+- Sera sometimes invents minor supply errands to create private journeys with Rhen; he recognizes the excuse and accompanies her without exposing it.
+
+#### Year Four Romance
+
+- Their meaningful domestic conflict concerns burden and overprotection rather than jealousy or relationship instability.
+- Sera keeps accepting responsibility because she can help.
+- Rhen expands the healing infrastructure so she does not need to carry every crisis personally.
+- Rhen does not order her to stop or secretly take control of the guild.
+- Sera agrees to stop pretending she is unharmed or unexhausted when she is not.
+- Rhen agrees that worrying about her does not grant him authority over her decisions.
+- Their affection becomes increasingly casual and integrated into work and home life.
+
+#### Year Five Romance
+
+- Sera's passive-withdrawal request is the culmination of their development.
+- Rhen proves his trust by respecting the decision even though it frightens him.
+- After withdrawing the barrier, he initially compensates by physically hovering nearby.
+- Sera recognizes and teases him about replacing the invisible barrier with himself.
+- Rhen gradually learns to stop hovering.
+- Sera does not conceal injuries or danger merely to prove independence.
+- Accepting help remains her choice; offering protection does not become control.
+
+Immediately before Jin's signal, they share their usual final cup beneath the crooked sign with no reports on the table.
+
+### 4.8 End-of-Year-Five Cliffhanger — Jin's Signal
+
+#### New-Continent Expedition
+
+Jin Seoryu discovers evidence of an unknown continent and travels there with all five active #6–10 fighters:
+
+- #6 Ilyra Serath
+- #7 Mo Qingzhao
+- #8 Arin Vale
+- #9 Luo Wen
+- #10 Yun Shizhen
+
+Top #4 Lei Zhen and #5 Shen Rui do not join the expedition. The reason remains `TBD`.
+
+#### Expedition Disaster
+
+- The expedition encounters a force beyond Jin's calculations.
+- All five accompanying #6–10 fighters are thoroughly defeated.
+- They remain alive, critically injured, unable to escape and in immediate danger.
+- Jin alone escapes and is also badly injured.
+- Jin seeks the remaining Top Five but believes the unknown threat is substantially stronger than Kael.
+- The identity, number, abilities and motives of the new-continent enemy remain `TBD`.
+
+#### Private Distress Route
+
+Jin uses the private emergency route he has always maintained to reach Rhen and Sera.
+
+The confirmed information in the signal is limited to:
+
+- new continent confirmed
+- five ranked fighters defeated
+- all five critically endangered
+- enemy assessed beyond World #1
+- immediate extraction required
+
+The exact words, transmission method and reason Jin alone knows how to reach Rhen and Sera remain `TBD`.
+
+The signal reaches The Quaint Teahouse immediately after Rhen and Sera's final quiet cup. This is the locked cliffhanger ending of the five-year development arc.
+
+Do not begin the rescue, identify the enemy or compose the next arc until the user explicitly opens that planning stage.
+
+---
+
+## 5. Open Planning Slots
 
 These are intentionally blank until the user supplies more skeleton material:
 
-- former Top Ten developments
-- former legendary fighters / retired figures
-- complete ranking structure five years later
-- exact Paragon-level definition
+### Remaining Character and Power Planning
+
+- remaining former Top Ten developments beyond Qin Luo
+- former legendary fighters and retired figures
+- exact definition and boundaries of the Paragon level
 - combined Sera-versus-Top-Three comparison
-- tea-shop / domestic status of Rhen and Sera
-- world political state
-- sect/clan changes
-- new antagonists or foreign powers
-- first continuation incident
-- new macro arc
+- exact Qin Luo-versus-Liang Yue matchup
+- complete public ranking structure five years later, including how much of the new strength is officially recognized
+- who knows Sera, Qin Luo and Tae Muyeon's true five-year levels
+
+### Remaining Quaint Teahouse Planning
+
+- the corrupt governor's name, territory, final sentence and surviving allies
+- apprentice count, names, individual roles and progression
+- exact medical reason Qin Luo remains blind
+- the logistics specialist's name, history, recruitment circumstances and command title
+- mountain, cave and hidden-base names and exact security arrangements
+- who outside the organization knows The Quaint Teahouse exists
+- the exact status of Qin Luo's local passive refinement after the five-year endpoint
+
+### Remaining World-State Planning
+
+- wider political changes during the five years
+- sect and clan changes
+- Tae Muyeon's poisoner, motive, delivery method and possible connection to the new continent
+
+### Remaining New-Continent and Rescue Planning
+
+- the new continent's name, geography, cultures and power system
+- the enemy's identity, number, abilities and motives
+- the five trapped fighters' exact injuries, locations and captors
+- why Lei Zhen and Shen Rui did not join the expedition
+- Jin Seoryu's distress-signal method, exact wording and private history with the route to Rhen and Sera
+- The Quaint Teahouse's response plan and rescue participants
+- the new macro arc title
+
+### Still-Locked Structural Planning
+
 - season numbering
 - chapter structure
-- romance progression during the five-year gap
+- scenes and prose
 
 Do **not** fill these automatically.
 
 ---
 
-## 5. Revision Log
+## 6. Revision Log
+
+### 2026-08-29 — The Quaint Teahouse Five-Year Arc and Qin Luo Development
+
+- Corrected the healed blind former #6 to **Qin Luo**; Mo Qingzhao remains the current #7 Paper Emperor and is otherwise unchanged.
+- Locked Qin's Year One healing, prolonged local passive refinement, Sovereign advancement, guild position and existing-technique upgrades.
+- Added the five-year development of Rhen's medicinal farm, healing apprentices and Sera's Orchid-origin defensive instruction.
+- Added the corrupt local governor as the Year One antagonist.
+- Added the Year Two formation of the covert guild officially named **The Quaint Teahouse**.
+- Added the Year Three non-martial logistics specialist, hidden mountain base, Tae Muyeon's poisoning and Tae's entry as third-in-command.
+- Added the Year Four guild maturation and Year Five culmination in Sera's passive-withdrawal decision.
+- Preserved the previously approved domestic, humorous and gradual romance progression across all five years.
+- Locked Jin Seoryu's end-of-Year-Five distress signal as the cliffhanger: Jin alone escapes while all five current #6–10 fighters remain critically endangered on the new continent.
+- Kept the rescue, new-continent enemy, macro arc, chapters, scenes and prose unstarted.
+- No runtime, architecture, UI, canon-data or implementation files were changed.
 
 ### 2026-08-29 — Co-#1 and Top 6–10 Five-Year Development
 
