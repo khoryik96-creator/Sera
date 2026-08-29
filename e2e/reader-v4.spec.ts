@@ -39,16 +39,22 @@ test('scrolling a chapter persists a reusable exact position', async ({ page }) 
     return rows.find((row) => row.id === 'ep-s12-e3')?.progress || 0;
   })).toBeGreaterThan(0.05);
 
-  const stored = await page.evaluate(() => {
+  const storedBeforeReload = await page.evaluate(() => {
     const rows = JSON.parse(localStorage.getItem('tqr:chapterPositions:v1') || '[]') as Array<{ id: string; progress: number }>;
     return rows.find((row) => row.id === 'ep-s12-e3')?.progress || 0;
   });
-  expect(stored).toBeLessThan(0.96);
+  expect(storedBeforeReload).toBeLessThan(0.96);
 
   await page.reload();
   await expect(page.locator('.reader-prose')).toBeVisible({ timeout: 20_000 });
   await expect(page.locator('.reader-position-resume')).toBeVisible();
-  await expect(page.locator('.reader-position-resume strong')).toHaveText(`${Math.round(stored * 100)}%`);
+  const storedAfterReload = await page.evaluate(() => {
+    const rows = JSON.parse(localStorage.getItem('tqr:chapterPositions:v1') || '[]') as Array<{ id: string; progress: number }>;
+    return rows.find((row) => row.id === 'ep-s12-e3')?.progress || 0;
+  });
+  expect(storedAfterReload).toBeGreaterThan(0.05);
+  expect(Math.abs(storedAfterReload - storedBeforeReload)).toBeLessThan(0.03);
+  await expect(page.locator('.reader-position-resume strong')).toHaveText(`${Math.round(storedAfterReload * 100)}%`);
 });
 
 test('focus mode removes app chrome but keeps reading and resume controls usable', async ({ page }, testInfo) => {
