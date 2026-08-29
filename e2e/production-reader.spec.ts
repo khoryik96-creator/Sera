@@ -108,8 +108,11 @@ test('chapter archive exposes all 13 arcs and 64 seasons through direct selector
   await expect(seasonSelect).toBeVisible();
   await expect(arcSelect.locator('option')).toHaveCount(13);
   await expect(seasonSelect.locator('option')).toHaveCount(64);
-  await expect(seasonSelect.locator('option').first()).toHaveValue('1');
-  await expect(seasonSelect.locator('option').last()).toHaveValue('64');
+  // Assert each option's own value via its attribute. toHaveValue/inputValue on
+  // an <option> reads the parent <select>'s selected value (always "1" here),
+  // not the option itself, which made the last-option check fail spuriously.
+  await expect(seasonSelect.locator('option').first()).toHaveAttribute('value', '1');
+  await expect(seasonSelect.locator('option').last()).toHaveAttribute('value', '64');
 });
 
 test('Continue Reading is prominent and opens the stored chapter', async ({ page }) => {
