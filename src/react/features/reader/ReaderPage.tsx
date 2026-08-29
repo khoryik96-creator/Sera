@@ -15,7 +15,6 @@ import '../../styles/contextual-lore.css';
 import '../../styles/passages.css';
 import '../../styles/reader-v4.css';
 import { EpisodeNoteEditor } from './EpisodeNoteEditor';
-import { SeasonEpisodeSwitcher } from './SeasonEpisodeSwitcher';
 import { useReaderState } from './ReaderContext';
 import type { ReaderFont, ReaderSpacing, ReaderWidth } from './ReaderContext';
 
@@ -342,8 +341,6 @@ export function ReaderPage({ season, episode, onBack, onOpenChapter }: ReaderPag
             {selectedPassage ? <button className="reader-passage-save" onClick={saveSelectedPassage} type="button">Save passage · {selectedPassage.length} chars</button> : null}
             {passageNotice ? <span className="reader-passage-notice" role="status">{passageNotice}</span> : null}
           </div>
-
-          <SeasonEpisodeSwitcher season={season} episode={episode} episodes={episodes} readEpisodes={readEpisodes} onOpenChapter={onOpenChapter} />
 
           {bookmark ? <EpisodeNoteEditor episode={bookmark} /> : null}
 
