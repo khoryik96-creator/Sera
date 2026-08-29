@@ -1381,9 +1381,9 @@ Sera pulls strings, redirects supplies, gathers intelligence and removes obstacl
 
 ### 4.4 Year Three — The Network Builder and Mountain Base
 
-#### Non-Martial Logistics Talent
+#### Lu Weiran — Non-Martial Logistics Talent
 
-The guild recruits a male non-martial specialist whose name remains `TBD`.
+The guild recruits **Lu Weiran**, a male non-martial specialist with no meaningful combat reputation.
 
 He possesses no meaningful martial ability. His exceptional talents are:
 
@@ -1397,13 +1397,13 @@ He possesses no meaningful martial ability. His exceptional talents are:
 - discreet movement of medicine and personnel
 - predicting shortages before disasters occur
 
-He becomes indispensable because he can make Sera's intelligence and Rhen's medicine reach the correct place at the correct time.
+Lu becomes indispensable because he can make Sera's intelligence and Rhen's medicine reach the correct place at the correct time.
 
-His name, history, recruitment circumstances and final command title remain `TBD`.
+His history, recruitment circumstances and final command title remain `TBD`.
 
 #### Hidden Mountain Cave
 
-While mapping abandoned supply routes, the logistics specialist discovers a vast concealed cave near a mountain summit.
+While mapping abandoned supply routes, Lu Weiran discovers a vast concealed cave near a mountain summit.
 
 The location provides:
 
@@ -1442,7 +1442,7 @@ Only the core personnel maintain private quarters and may reside there:
 - Sera
 - Tae Muyeon, co-#1 and third-in-command
 - Qin Luo, the blind former #6 and second-in-command
-- the non-martial logistics specialist
+- Lu Weiran
 
 Rhen and Sera still regard Second Spring Tea House as their public home. Their quarters at the hidden base exist for emergencies, extended planning and periods when withdrawal is unsafe.
 
@@ -1478,7 +1478,7 @@ Rhen heals Tae but refuses to extend Frozen Petals Garden to him.
 - Qin received prolonged local refinement as an exceptional medical case living under Rhen's roof.
 - Rhen will not create an expanding group of passively cultivated Sovereigns.
 - He believes too many artificially accelerated individuals could destabilize the world beyond what the current Top Ten can contain.
-- Tae, the logistics specialist and the apprentices do not receive the passive.
+- Tae, Lu Weiran and the apprentices do not receive the passive.
 
 #### Tae Joins The Quaint Teahouse
 
@@ -1489,7 +1489,7 @@ Final senior hierarchy:
 1. **Sera — first-in-command**
 2. **Qin Luo — second-in-command**
 3. **Tae Muyeon — third-in-command**
-4. **Logistics specialist — operational network leadership; exact title `TBD`**
+4. **Lu Weiran — operational network leadership; exact title `TBD`**
 5. senior healers and Orchid-trained field leaders
 6. **Rhen — healing teacher, medicinal farmer and no formal commander**
 
@@ -1513,7 +1513,7 @@ The Quaint Teahouse expands without becoming publicly known.
 - intelligence recovery
 - anti-corruption operations
 
-#### Network Branch — Logistics Specialist
+#### Network Branch — Lu Weiran
 
 - couriers
 - scouting
@@ -1522,9 +1522,62 @@ The Quaint Teahouse expands without becoming publicly known.
 - warehouses
 - emergency communication
 
-#### Specialized Battalions and Field Squads
+#### The Hidden Force of Two Hundred
 
-The three branches train separate functional battalions and smaller squads specializing in:
+By Year Five, The Quaint Teahouse maintains a hidden specialist force of exactly **200 operatives**.
+
+- It is the strongest army in the world despite being vastly smaller than any Five Sovereign army.
+- Most of its members have reached genuine **Marquis-class combat strength** under the older cultivation description.
+- **Marquis-class** describes their individual power rather than membership in the former Five Marquises ranking group.
+- They do not receive Frozen Petals Garden or passive cultivation from Rhen.
+- Their strength is earned through extreme training, integrated specialization and relentless small-unit coordination.
+- Their complete existence and strength remain unknown to the Five Sovereigns and Five Dukes.
+
+##### Tae Muyeon's Training
+
+Tae is the primary reason ordinary recruits become Marquis-class operatives.
+
+- His training is exceptionally harsh and permits no dependence on a single technique, weapon or ideal battlefield.
+- He develops their endurance, close combat, formation-breaking, pressure resistance and ability to continue functioning while injured or exhausted.
+- Operatives learn to dismantle numerically superior formations from inside rather than meeting their full strength head-on.
+- Tae does not soften the standard because they are healers or covert personnel.
+
+##### Sera's Martial and Strategic Training
+
+Sera teaches far more than Orchid-origin martial arts.
+
+- concealment, infiltration and assassination methodology
+- anatomical targeting and silent incapacitation
+- battlefield analysis and mission planning
+- deception, misdirection and false retreat
+- identifying command structures and formation anchors
+- adapting when intelligence is incomplete or the original plan fails
+- independent decision-making without exposing the wider organization
+
+Every operative is expected to think like a strategist rather than wait for commands in the middle of a mission.
+
+##### Rhen's Medical Training
+
+Rhen trains the force in:
+
+- emergency healing
+- meridian stabilization
+- poison recognition and treatment
+- battlefield diagnosis
+- maintaining a wounded team during extended operations
+- disabling an enemy without causing irreversible damage
+
+He does not teach them his named Supreme arts. His contribution allows the force to recover from wounds that would permanently remove conventional elite soldiers from battle.
+
+##### Lu Weiran's Operational System
+
+Lu ensures that every deployed unit possesses verified intelligence, concealed routes, medical caches, replacement supplies, extraction plans and alternate objectives before entering the field.
+
+Qin supplements their training through vibration awareness, counter-ambush exercises and detection of concealed movement.
+
+##### Specialist Functions
+
+The force maintains functional battalions and smaller squads specializing in:
 
 - medicine and battlefield stabilization
 - medicinal cultivation, preparation and supply protection
@@ -1535,13 +1588,41 @@ The three branches train separate functional battalions and smaller squads speci
 - civilian rescue and disaster response
 - base security and counter-infiltration
 
-These are specialist service formations rather than a conquering army. They are trained in different distributed locations, deploy only when their function is needed and do not reside permanently inside the hidden base.
+All 200 receive cross-training outside their primary specialties. Losing one specialist therefore does not leave a deployed unit without medical, scouting, infiltration or extraction capability.
+
+They are trained at different distributed locations, deploy only when their function is needed and do not reside permanently inside the hidden base.
+
+##### Twenty Against Two Thousand
+
+A standard major deployment consists of **20 operatives**.
+
+- Twenty are sufficient to topple **2,000 of Kael's elite soldiers** with ease, provided Kael himself is not personally fighting among them.
+- They infiltrate rather than approach as a visible army.
+- Commanders, communications, physicians and formation anchors are neutralized before the larger force can organize.
+- Sera's strategic training breaks the 2,000 soldiers into isolated groups that never fight as one army.
+- Tae's training allows the operatives to destroy those groups rapidly.
+- Rhen's medical instruction keeps their own casualties extraordinarily low.
+- Lu's preparation ensures that the unit controls the engagement, retreat routes and supplies before the operation begins.
+
+The 200 are stronger than Kael's army as an organized force, but this does not mean an individual operative can defeat Kael or another Sovereign. If a Sovereign personally enters the battle, the unit prioritizes its objective, dispersal and extraction rather than attempting to overpower them.
+
+##### Absolute Lethal-Force Rule
+
+The force possesses assassin-level methods but is not permitted to kill at its own discretion.
+
+- **Only Sera may authorize lethal force.**
+- Authorization must be explicit and may apply to a named target or clearly defined mission condition.
+- Without that authorization, every operative must incapacitate, disarm, capture, misdirect or escape instead of killing.
+- Convenience, anger, revenge and operational secrecy never constitute automatic permission to kill.
+- Tae, Qin, Lu and field commanders cannot override this rule.
+
+The force remains a hidden intervention and rescue army rather than a conquering or mercenary organization.
 
 Qin and Tae support all branches and battalions rather than creating personal factions.
 
 - Qin's restored cultivation and passive refinement carry him into Sovereign level.
 - Tae continues developing his iron-infused horizon arts without Rhen's passive.
-- The apprentices grow into competent healers and defensive martial artists rather than a replacement Top Ten.
+- The strongest apprentices and recruits form the 200-person hidden force, most reaching Marquis-class strength without becoming replacement members of the public Top Ten.
 - The guild remains unknown to the official ranking system.
 
 ### 4.6 Year Five — Sovereigns Beneath the Crooked Sign
@@ -1551,7 +1632,8 @@ By Year Five:
 - Sera is a Peak Sovereign approaching Paragon.
 - Qin is a Sovereign comparable to Liang Yue.
 - Tae is a High Sovereign.
-- The logistics specialist operates a continental information and relief-supply network.
+- Lu Weiran operates a continental information and relief-supply network.
+- The 200-person hidden force is fully operational and is secretly the world's strongest army.
 - The apprentices can respond to crises without requiring Sera or Rhen personally.
 - The hidden base holds an effectively endless emergency medicine reserve and can temporarily shelter civilians, wounded personnel and retreating squads through its underground system.
 - The base remains a strategic convening and fallback point rather than the guild's daily centre of operations.
@@ -1564,7 +1646,7 @@ By Year Five:
 - The request represents trust and self-determination rather than emotional separation.
 - Rhen withdraws it immediately after confirming she is certain.
 - Qin remains inside the ordinary local refinement field while living under their roof unless the user later changes this.
-- Rhen still refuses to extend the passive to Tae, the logistics specialist or the apprentices.
+- Rhen still refuses to extend the passive to Tae, Lu Weiran or the apprentices.
 
 ### 4.7 Romance Spine — Locked Across All Five Years
 
@@ -1688,7 +1770,7 @@ These are intentionally blank until the user supplies more skeleton material:
 - the corrupt governor's name, territory, final sentence and surviving allies
 - apprentice count, names, individual roles and progression
 - exact medical reason Qin Luo remains blind
-- the logistics specialist's name, history, recruitment circumstances and command title
+- Lu Weiran's history, recruitment circumstances and command title
 - mountain, cave and hidden-base names and exact security arrangements
 - who outside the organization knows The Quaint Teahouse exists
 - the exact status of Qin Luo's local passive refinement after the five-year endpoint
@@ -1720,6 +1802,19 @@ Do **not** fill these automatically.
 ---
 
 ## 6. Revision Log
+
+### 2026-08-29 — Lu Weiran and the Hidden Force of Two Hundred
+
+- Named the non-martial logistics and network specialist **Lu Weiran**.
+- Established The Quaint Teahouse's exact hidden force at **200 operatives** and made it secretly the strongest army in the world.
+- Established that most of the 200 possess genuine Marquis-class combat strength earned without Rhen's passive.
+- Made Tae Muyeon's exceptionally harsh training the primary foundation of their individual combat power.
+- Expanded Sera's instruction beyond Orchid martial arts into assassination methodology, battlefield strategy, deception, command analysis and independent tactical judgment.
+- Added Rhen's battlefield medicine, meridian stabilization and nonlethal anatomical training without granting the operatives his named Supreme arts.
+- Added Qin's vibration-based counter-ambush training and Lu's intelligence, supply and extraction preparation.
+- Locked the benchmark that 20 operatives can easily topple 2,000 of Kael's elite soldiers when Kael himself is not personally fighting among them.
+- Locked Sera's absolute command over lethal force: operatives may kill only with her explicit authorization and otherwise must incapacitate, capture, misdirect or escape.
+- No runtime, architecture, UI, canon-data or implementation files were changed.
 
 ### 2026-08-29 — Five Sovereigns, Paragon Boundary and Hidden-Base Expansion
 
