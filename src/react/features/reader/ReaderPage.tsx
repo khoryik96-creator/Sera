@@ -5,7 +5,6 @@ import { DB } from '../../../db';
 import { EPISODE_ARCS } from '../../../episodeMeta';
 import { loadSeason } from '../../../seasonStore';
 import { renderNovel } from '../../../novel';
-import { progressForSeason } from '../../../readingProgress';
 import { getChapterPosition, saveChapterPosition } from '../../../readerPositions';
 import type { ChapterPosition } from '../../../readerPositions';
 import type { Episode } from '../../../types';
@@ -75,7 +74,6 @@ function scrollToProseProgress(root: HTMLElement, progress: number): void {
 export function ReaderPage({ season, episode, onBack, onOpenChapter }: ReaderPageProps) {
   const {
     bookmarks,
-    readEpisodes,
     markRead,
     toggleSaved,
     savePassage,
@@ -213,9 +211,6 @@ export function ReaderPage({ season, episode, onBack, onOpenChapter }: ReaderPag
   const saved = bookmark ? bookmarks.some((item) => item.id === bookmark.id) : false;
   const arcIndex = EPISODE_ARCS.findIndex((arc) => arc.seasons.some((entry) => entry.season === season));
   const arc = EPISODE_ARCS[Math.max(0, arcIndex)];
-  const seasonProgress = progressForSeason(readEpisodes, season);
-  const previousTitle = episode > 1 ? episodes[episode - 2]?.title : season > 1 ? `Final chapter of Season ${season - 1}` : 'Beginning';
-  const nextTitle = episode < episodes.length ? episodes[episode]?.title : season < 64 ? `Season ${season + 1} · Chapter 1` : 'The End';
   const loreEntry = loreKey ? characterRegistry.find((entry) => entry.key === loreKey) : undefined;
   const loreProfile = loreKey ? DB.characters[loreKey] : undefined;
   const loreName = loreProfile ? cleanCharacterName(loreProfile.name) : loreEntry?.displayName || '';
@@ -363,9 +358,9 @@ export function ReaderPage({ season, episode, onBack, onOpenChapter }: ReaderPag
           </article>
 
           <nav className="reader-nav reader-nav--v3" aria-label="Chapter navigation">
-            <button disabled={season === 1 && episode === 1} onClick={() => { void goPrevious(); }} type="button"><span>← Previous</span><strong>{episode > 1 ? `Ch ${episode - 1}` : season > 1 ? `S${season - 1} finale` : 'Start'}</strong><small>{previousTitle}</small></button>
-            <button className="reader-nav__archive" onClick={onBack} type="button"><span>Season {season}</span><strong>Chapters</strong><small>{seasonProgress.percent}% opened</small></button>
-            <button disabled={season === 64 && episode === episodes.length} onClick={goNext} type="button"><span>Next →</span><strong>{episode < episodes.length ? `Ch ${episode + 1}` : season < 64 ? `S${season + 1} · Ch 1` : 'End'}</strong><small>{nextTitle}</small></button>
+            <button disabled={season === 1 && episode === 1} onClick={() => { void goPrevious(); }} type="button"><span>← Previous</span><strong>{episode > 1 ? `Ch ${episode - 1}` : season > 1 ? `S${season - 1} finale` : 'Start'}</strong></button>
+            <button className="reader-nav__archive" onClick={onBack} type="button"><span>Season {season}</span><strong>Chapters</strong></button>
+            <button disabled={season === 64 && episode === episodes.length} onClick={goNext} type="button"><span>Next →</span><strong>{episode < episodes.length ? `Ch ${episode + 1}` : season < 64 ? `S${season + 1} · Ch 1` : 'End'}</strong></button>
           </nav>
         </>
       ) : null}
