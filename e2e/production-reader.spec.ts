@@ -49,21 +49,6 @@ async function sourceCoreCounts(): Promise<CoreCounts> {
   };
 }
 
-async function openSeasonFromArchive(page: import('@playwright/test').Page, season: number) {
-  const target = String(season).padStart(2, '0');
-  const arcs = page.locator('.arc-card');
-  await expect(arcs).toHaveCount(13, { timeout: 20_000 });
-  const arcCount = await arcs.count();
-  for (let index = 0; index < arcCount; index += 1) {
-    await arcs.nth(index).click();
-    await expect(arcs.nth(index)).toHaveAttribute('aria-pressed', 'true');
-    await expect(page.locator('.season-card').first()).toBeVisible({ timeout: 20_000 });
-    const number = page.locator('.season-card__number').filter({ hasText: new RegExp(`^${target}$`) });
-    if (await number.count()) return number.first().locator('..');
-  }
-  throw new Error(`Season ${season} was not exposed by any arc`);
-}
-
 test('production shell renders and routes between core features', async ({ page }) => {
   await openProduction(page);
   await expect(page.getByText('Second Spring,', { exact: false })).toBeVisible();
@@ -115,51 +100,42 @@ test('production archive renders every canonical core record', async ({ page }) 
   await expect(page.locator('.technique-card')).toHaveCount(expected.seraSkills);
 });
 
-test('episode archive groups all 64 seasons into 13 arcs', async ({ page }) => {
+test('chapter archive exposes all 13 arcs and 64 seasons through direct selectors', async ({ page }) => {
   await openProduction(page, 'chapters');
-  const arcs = page.locator('.arc-card');
-  await expect(arcs).toHaveCount(13);
-  const seasons = new Set<number>();
-  for (let index = 0; index < 13; index += 1) {
-    await arcs.nth(index).click();
-    await expect(arcs.nth(index)).toHaveAttribute('aria-pressed', 'true');
-    const values = await page.locator('.season-card__number').allTextContents();
-    values.forEach((value) => seasons.add(Number(value.trim())));
-  }
-  expect(seasons.size).toBe(64);
-  expect(Math.min(...seasons)).toBe(1);
-  expect(Math.max(...seasons)).toBe(64);
+  const arcSelect = page.getByRole('combobox', { name: 'Story arc' });
+  const seasonSelect = page.getByRole('combobox', { name: 'Season' });
+  await expect(arcSelect).toBeVisible({ timeout: 20_000 });
+  await expect(seasonSelect).toBeVisible();
+  await expect(arcSelect.locator('option')).toHaveCount(13);
+  await expect(seasonSelect.locator('option')).toHaveCount(64);
+  await expect(seasonSelect.locator('option').first()).toHaveValue('1');
+  await expect(seasonSelect.locator('option').last()).toHaveValue('64');
 });
 
-test('Continue Reading is prominent and opens the stored episode', async ({ page }) => {
+test('Continue Reading is prominent and opens the stored chapter', async ({ page }) => {
   await page.addInitScript(() => {
     localStorage.setItem('tqr:lastRead', JSON.stringify({ id: 'ep-s12-e3', season: 12, title: 'Stored reading position' }));
   });
   await openProduction(page, 'chapters');
-  const resume = page.locator('.archive-resume');
-  await expect(resume).toContainText('Season 12 · Episode 3');
+  const resume = page.locator('.chapter-quickbar__primary');
+  await expect(resume).toContainText('S12 · Ch 3');
   await expect(resume).toContainText('Stored reading position');
   await resume.click();
   await expect(page).toHaveURL(/#chapter\/12\/3$/);
   await expect(page.locator('.reader-prose')).toBeVisible({ timeout: 20_000 });
 });
 
-test('season Read action loads the chosen season and opens its first episode', async ({ page }, testInfo) => {
+test('season action loads the chosen season and opens its first chapter', async ({ page }) => {
   await openProduction(page, 'chapters');
-  const season12 = await openSeasonFromArchive(page, 12);
-  await season12.click();
-  await expect(season12).toHaveAttribute('aria-pressed', 'true');
-  await expect(page.locator('.season-selected-heading__meta')).toHaveText('Season 12');
-  await expect(page.locator('.season-start-button')).toBeEnabled({ timeout: 20_000 });
-
-  if (testInfo.project.name.includes('mobile')) {
-    await expect.poll(async () => page.locator('.season-reader-panel').evaluate((node) => {
-      const rect = node.getBoundingClientRect();
-      return rect.top < window.innerHeight && rect.bottom > 0;
-    })).toBe(true);
-  }
-
-  await page.locator('.season-start-button').click();
+  const seasonSelect = page.getByRole('combobox', { name: 'Season' });
+  await expect(seasonSelect).toBeVisible({ timeout: 20_000 });
+  await seasonSelect.selectOption('12');
+  await expect(seasonSelect).toHaveValue('12');
+  await expect(page.locator('.chapter-season-summary').getByRole('heading', { name: /Season 12/ })).toBeVisible();
+  const action = page.locator('.chapter-season-summary__actions .is-primary');
+  await expect(action).toBeEnabled({ timeout: 20_000 });
+  await expect(action).toContainText('Read Ch 1');
+  await action.click();
   await expect(page).toHaveURL(/#chapter\/12\/1$/);
   await expect(page.locator('.reader-prose')).toBeVisible({ timeout: 20_000 });
 });
@@ -232,7 +208,7 @@ test('reader typography and width controls persist on the device', async ({ page
   expect(persisted.maxWidth).toBe(changed.maxWidth);
 });
 
-test('reader controls and episode navigation remain in-flow', async ({ page }, testInfo) => {
+test('reader controls and chapter navigation remain in-flow', async ({ page }, testInfo) => {
   test.skip(!testInfo.project.name.includes('mobile'), 'mobile reader layout assertion');
   await openProduction(page, 'chapter/1/1');
   await expect(page.locator('.reader-prose')).toBeVisible({ timeout: 20_000 });

@@ -1,17 +1,26 @@
 import { useEffect, useMemo, useState } from 'react';
 import { DB } from '../../../db';
 import { characterExtraImages, characterImageMap } from '../../../images';
+import type { Skill, TopSkillEntry } from '../../../types';
 import { characterAppearanceSeasons, characterLegends, rankJourney, relatedCharacters, scanCharacterAppearances } from '../../shared/characterInsights';
 import type { AppearanceScan } from '../../shared/characterInsights';
 import { cleanCharacterName, rankLabel, rankStatus } from '../../shared/rankState';
 import { PageHeader, RankBadge } from '../../components/Shared';
-import { TechniqueCard } from '../techniques/TechniqueCard';
 import '../../styles/characters-v2-hardening.css';
 
 interface CharactersPageProps {
   selectedKey: string | null;
   onOpenCharacter(key: string): void;
   onOpenChapter(season: number, episode: number): void;
+}
+
+interface ProfileSkill {
+  name: string;
+  category: string;
+  signature?: string;
+  rating: string;
+  tier?: string;
+  description: string;
 }
 
 function text(value: string | undefined): string {
@@ -24,6 +33,37 @@ function seasonRange(fromSeason: number, toSeason: number): string {
 
 function jumpToProfileSection(id: string): void {
   document.getElementById(id)?.scrollIntoView({ behavior: 'smooth', block: 'start' });
+}
+
+function rankedSkill(skill: TopSkillEntry): ProfileSkill {
+  return {
+    name: skill.name,
+    category: skill.category,
+    signature: skill.signature,
+    rating: skill.rating,
+    description: skill.description,
+  };
+}
+
+function dedicatedSkill(skill: Skill): ProfileSkill {
+  return {
+    name: skill.name,
+    category: skill.category,
+    signature: skill.signature,
+    rating: skill.rating || skill.tier || 'Named',
+    tier: skill.tier,
+    description: skill.short || skill.mechanics || skill.lore || 'Full technique details are recorded in the Arts & Techniques archive.',
+  };
+}
+
+function mergeProfileSkills(ranked: TopSkillEntry[], dedicated: Skill[]): ProfileSkill[] {
+  const seen = new Set<string>();
+  return [...ranked.map(rankedSkill), ...dedicated.map(dedicatedSkill)].filter((skill) => {
+    const key = skill.name.trim().toLowerCase();
+    if (!key || seen.has(key)) return false;
+    seen.add(key);
+    return true;
+  });
 }
 
 export function CharactersPage({ selectedKey, onOpenCharacter, onOpenChapter }: CharactersPageProps) {
@@ -56,7 +96,8 @@ export function CharactersPage({ selectedKey, onOpenCharacter, onOpenChapter }: 
   const legends = useMemo(() => characterLegends(activeKey, displayName), [activeKey, displayName]);
   const appearanceSeasons = useMemo(() => characterAppearanceSeasons(activeKey, displayName), [activeKey, displayName]);
   const signatureSkills = DB.topSkills[activeKey] || [];
-  const profileArts = activeKey === 'sera' ? DB.seraSkills : [];
+  const dedicatedSkills = activeKey === 'sera' ? DB.seraSkills : [];
+  const profileSkills = mergeProfileSkills(signatureSkills, dedicatedSkills);
 
   async function loadAppearances(): Promise<void> {
     setAppearanceLoading(true);
@@ -64,7 +105,7 @@ export function CharactersPage({ selectedKey, onOpenCharacter, onOpenChapter }: 
     try {
       setAppearanceScan(await scanCharacterAppearances(activeKey, displayName));
     } catch (cause: unknown) {
-      setAppearanceError(cause instanceof Error ? cause.message : 'Unable to build episode links for this character.');
+      setAppearanceError(cause instanceof Error ? cause.message : 'Unable to build chapter links for this character.');
     } finally {
       setAppearanceLoading(false);
     }
@@ -110,7 +151,7 @@ export function CharactersPage({ selectedKey, onOpenCharacter, onOpenChapter }: 
               <div className="tag-row">{(character.tags || []).map((tag) => <span key={tag}>{tag}</span>)}</div>
               <div className="character-v2-stats" aria-label={`${displayName} profile summary`}>
                 <div><span>Rank states</span><strong>{journey.length || 1}</strong><small>{currentRank || 'Unranked / outside system'}</small></div>
-                <div><span>Signature arts</span><strong>{signatureSkills.length}</strong><small>{signatureSkills.length ? 'archived techniques' : 'no ranked skill table'}</small></div>
+                <div><span>Signature arts</span><strong>{profileSkills.length}</strong><small>{profileSkills.length ? 'archived techniques' : 'no profile skill table'}</small></div>
                 <div><span>Story footprint</span><strong>{appearanceSeasons.length}</strong><small>season{appearanceSeasons.length === 1 ? '' : 's'} in cast data</small></div>
                 <div><span>Linked legends</span><strong>{legends.length}</strong><small>repository legend{legends.length === 1 ? '' : 's'}</small></div>
               </div>
@@ -126,11 +167,10 @@ export function CharactersPage({ selectedKey, onOpenCharacter, onOpenChapter }: 
           <nav className="character-section-nav" aria-label={`${displayName} profile sections`}>
             <button onClick={() => jumpToProfileSection('characterProfileTop')} type="button">Profile</button>
             <button onClick={() => jumpToProfileSection('characterRankSection')} type="button">Rank</button>
-            {signatureSkills.length ? <button onClick={() => jumpToProfileSection('characterSkillsSection')} type="button">Skills</button> : null}
-            {profileArts.length ? <button onClick={() => jumpToProfileSection('characterLeadArtsSection')} type="button">Arts</button> : null}
+            {profileSkills.length ? <button onClick={() => jumpToProfileSection('characterSkillsSection')} type="button">Skills</button> : null}
             <button onClick={() => jumpToProfileSection('characterRelationshipsSection')} type="button">Relations</button>
             <button onClick={() => jumpToProfileSection('characterLegendsSection')} type="button">Legends</button>
-            <button onClick={() => jumpToProfileSection('characterAppearancesSection')} type="button">Episodes</button>
+            <button onClick={() => jumpToProfileSection('characterAppearancesSection')} type="button">Chapters</button>
             <button onClick={() => jumpToProfileSection('characterDetailsSection')} type="button">Details</button>
           </nav>
 
@@ -143,28 +183,21 @@ export function CharactersPage({ selectedKey, onOpenCharacter, onOpenChapter }: 
             ) : <div className="character-v2-empty">No numeric ranking history is recorded for this character.</div>}
           </section>
 
-          {signatureSkills.length ? (
+          {profileSkills.length ? (
             <section className="character-v2-section" id="characterSkillsSection" aria-labelledby="characterSkillsHeading">
-              <div className="character-v2-heading"><div><p className="eyebrow">Signature martial arts</p><h3 id="characterSkillsHeading">Ranked techniques</h3></div><span>{signatureSkills.length} archived skill{signatureSkills.length === 1 ? '' : 's'}</span></div>
+              <div className="character-v2-heading"><div><p className="eyebrow">{activeKey === 'sera' ? 'Pale Orchid martial arts' : 'Signature martial arts'}</p><h3 id="characterSkillsHeading">{activeKey === 'sera' ? 'Sera — signature techniques' : 'Ranked techniques'}</h3></div><span>{profileSkills.length} archived skill{profileSkills.length === 1 ? '' : 's'}</span></div>
               <div className="character-skill-grid">
-                {signatureSkills.map((skill, index) => (
+                {profileSkills.map((skill, index) => (
                   <article className="character-skill-card" key={`${skill.name}-${index}`}>
-                    <span className="character-skill-card__index">{index === signatureSkills.length - 1 ? 'Ω' : String(index + 1).padStart(2, '0')}</span>
+                    <span className="character-skill-card__index">{index === profileSkills.length - 1 ? 'Ω' : String(index + 1).padStart(2, '0')}</span>
                     <div className="character-skill-card__copy">
                       <div><h4>{skill.name}</h4><span className="character-skill-card__rating">{skill.rating}</span></div>
-                      <div className="character-skill-card__meta"><span>{skill.category}</span>{skill.signature ? <span className="character-skill-card__signature">{skill.signature}</span> : null}</div>
+                      <div className="character-skill-card__meta"><span>{skill.category}</span>{skill.tier ? <span>{skill.tier}</span> : null}{skill.signature ? <span className="character-skill-card__signature">{skill.signature}</span> : null}</div>
                       <p>{skill.description}</p>
                     </div>
                   </article>
                 ))}
               </div>
-            </section>
-          ) : null}
-
-          {profileArts.length ? (
-            <section className="character-v2-section" id="characterLeadArtsSection" aria-labelledby="characterLeadArtsHeading">
-              <div className="character-v2-heading"><div><p className="eyebrow">Pale Orchid arts</p><h3 id="characterLeadArtsHeading">Sera — signature martial system</h3></div><span>{profileArts.length} archived technique{profileArts.length === 1 ? '' : 's'}</span></div>
-              <div className="technique-stack">{profileArts.map((skill) => <TechniqueCard key={`sera-profile-${skill.name}`} skill={skill} />)}</div>
             </section>
           ) : null}
 
@@ -192,20 +225,20 @@ export function CharactersPage({ selectedKey, onOpenCharacter, onOpenChapter }: 
                 <div className="appearance-season-strip" aria-label={`${displayName} seasons`}>
                   {appearanceSeasons.map((season) => <button key={season} onClick={() => onOpenChapter(season, 1)} type="button">S{season}</button>)}
                 </div>
-                {!appearanceScan && !appearanceLoading ? <button className="appearance-scan-button" onClick={() => { void loadAppearances(); }} type="button"><span>Find exact episode links</span><small>Lazy-load only this character’s indexed seasons.</small><b>→</b></button> : null}
-                {appearanceLoading ? <div className="character-v2-empty" role="status">Finding {displayName} across indexed episodes…</div> : null}
-                {appearanceError ? <div className="character-v2-error"><strong>Episode links failed to load</strong><p>{appearanceError}</p><button onClick={() => { void loadAppearances(); }} type="button">Retry</button></div> : null}
+                {!appearanceScan && !appearanceLoading ? <button className="appearance-scan-button" onClick={() => { void loadAppearances(); }} type="button"><span>Find exact chapter links</span><small>Lazy-load only this character’s indexed seasons.</small><b>→</b></button> : null}
+                {appearanceLoading ? <div className="character-v2-empty" role="status">Finding {displayName} across indexed chapters…</div> : null}
+                {appearanceError ? <div className="character-v2-error"><strong>Chapter links failed to load</strong><p>{appearanceError}</p><button onClick={() => { void loadAppearances(); }} type="button">Retry</button></div> : null}
                 {appearanceScan ? (
                   <div className="appearance-results">
-                    <div className="appearance-results__summary"><span><strong>{appearanceScan.episodes.length}</strong> linked episodes</span><span>across {appearanceScan.seasons.length} indexed seasons</span></div>
+                    <div className="appearance-results__summary"><span><strong>{appearanceScan.episodes.length}</strong> linked chapters</span><span>across {appearanceScan.seasons.length} indexed seasons</span></div>
                     <div className="appearance-episode-grid">
-                      {appearanceScan.episodes.slice(0, appearanceLimit).map((item) => <button key={item.id} onClick={() => onOpenChapter(item.season, item.episode)} type="button"><span>S{item.season} · E{item.episode}</span><strong>{item.title}</strong><b>Read →</b></button>)}
+                      {appearanceScan.episodes.slice(0, appearanceLimit).map((item) => <button key={item.id} onClick={() => onOpenChapter(item.season, item.episode)} type="button"><span>S{item.season} · Ch {item.episode}</span><strong>{item.title}</strong><b>Read →</b></button>)}
                     </div>
                     {appearanceLimit < appearanceScan.episodes.length ? <button className="appearance-show-more" onClick={() => setAppearanceLimit((limit) => limit + 18)} type="button">Show more appearances ({appearanceScan.episodes.length - appearanceLimit} remaining)</button> : null}
                   </div>
                 ) : null}
               </>
-            ) : <div className="character-v2-empty">This profile does not yet have season-cast records that can be converted into episode links.</div>}
+            ) : <div className="character-v2-empty">This profile does not yet have season-cast records that can be converted into chapter links.</div>}
           </section>
 
           <div className="profile-sections profile-sections--v2" id="characterDetailsSection">

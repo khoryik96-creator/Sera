@@ -122,7 +122,7 @@ export function ReaderPage({ season, episode, onBack, onOpenChapter }: ReaderPag
       if (current) markRead({ id: chapterId, season, title: current.title });
     }).catch((cause: unknown) => {
       if (!alive) return;
-      setError(cause instanceof Error ? cause.message : 'Unable to load this episode.');
+      setError(cause instanceof Error ? cause.message : 'Unable to load this chapter.');
       setLoading(false);
     });
     return () => { alive = false; };
@@ -211,8 +211,8 @@ export function ReaderPage({ season, episode, onBack, onOpenChapter }: ReaderPag
   const arc = EPISODE_ARCS[Math.max(0, arcIndex)];
   const seasonProgress = progressForSeason(readEpisodes, season);
   const nextUnread = nextUnreadTarget(readEpisodes, { season, episode });
-  const previousTitle = episode > 1 ? episodes[episode - 2]?.title : season > 1 ? `Final episode of Season ${season - 1}` : 'Beginning';
-  const nextTitle = episode < episodes.length ? episodes[episode]?.title : season < 64 ? `Season ${season + 1} · Episode 1` : 'The End';
+  const previousTitle = episode > 1 ? episodes[episode - 2]?.title : season > 1 ? `Final chapter of Season ${season - 1}` : 'Beginning';
+  const nextTitle = episode < episodes.length ? episodes[episode]?.title : season < 64 ? `Season ${season + 1} · Chapter 1` : 'The End';
   const loreEntry = loreKey ? characterRegistry.find((entry) => entry.key === loreKey) : undefined;
   const loreProfile = loreKey ? DB.characters[loreKey] : undefined;
   const loreName = loreProfile ? cleanCharacterName(loreProfile.name) : loreEntry?.displayName || '';
@@ -300,9 +300,9 @@ export function ReaderPage({ season, episode, onBack, onOpenChapter }: ReaderPag
         <span>{focusMode ? 'Focus reading' : arc?.title || 'The Quiet Regular'}</span>
       </div>
 
-      {loading ? <div className="reader-loading">Loading episode…</div> : null}
-      {error ? <div className="reader-error"><strong>Episode failed to load</strong><p>{error}</p><button onClick={onBack} type="button">Back to season</button></div> : null}
-      {!loading && !error && !current ? <div className="reader-error"><strong>Episode not found</strong><p>Season {season} does not contain Episode {episode}.</p><button onClick={onBack} type="button">Back to season</button></div> : null}
+      {loading ? <div className="reader-loading">Loading chapter…</div> : null}
+      {error ? <div className="reader-error"><strong>Chapter failed to load</strong><p>{error}</p><button onClick={onBack} type="button">Back to season</button></div> : null}
+      {!loading && !error && !current ? <div className="reader-error"><strong>Chapter not found</strong><p>Season {season} does not contain Chapter {episode}.</p><button onClick={onBack} type="button">Back to season</button></div> : null}
 
       {!loading && !error && current ? (
         <>
@@ -311,7 +311,7 @@ export function ReaderPage({ season, episode, onBack, onOpenChapter }: ReaderPag
               <div className="reader-meta-chips">
                 <span>{arc ? `Arc ${Math.max(1, arcIndex + 1)}` : 'Story'}</span>
                 <span>Season {season}</span>
-                <span>Episode {episode} / {episodes.length}</span>
+                <span>Chapter {episode} / {episodes.length}</span>
                 <span className="is-read">✓ Read</span>
               </div>
               <h2>{current.title}</h2>
@@ -320,7 +320,7 @@ export function ReaderPage({ season, episode, onBack, onOpenChapter }: ReaderPag
             <div className="reader-header__actions">
               <button className={`bookmark-toggle ${saved ? 'is-saved' : ''}`} onClick={() => bookmark && toggleSaved(bookmark)} type="button">{saved ? '★ Saved' : '☆ Bookmark'}</button>
               {showResumePosition ? <button className="reader-position-resume" onClick={resumeExactPosition} type="button"><span>Resume position</span><strong>{Math.round((resumePosition?.progress || 0) * 100)}%</strong></button> : null}
-              {nextUnread ? <button className="next-unread-button" onClick={() => onOpenChapter(nextUnread.season, nextUnread.episode)} type="button"><span>Next unread</span><strong>S{nextUnread.season} · E{nextUnread.episode}</strong></button> : <span className="reader-complete-chip">Story complete</span>}
+              {nextUnread ? <button className="next-unread-button" onClick={() => onOpenChapter(nextUnread.season, nextUnread.episode)} type="button"><span>Next unread</span><strong>S{nextUnread.season} · Ch {nextUnread.episode}</strong></button> : <span className="reader-complete-chip">Story complete</span>}
             </div>
 
             <div className="reader-progress" aria-label={`Season ${season} progress`}>
@@ -372,10 +372,10 @@ export function ReaderPage({ season, episode, onBack, onOpenChapter }: ReaderPag
             <div ref={proseRef} className="reader-prose" dangerouslySetInnerHTML={{ __html: renderNovel(current.text, season, { interactiveNames: true }) }} />
           </article>
 
-          <nav className="reader-nav reader-nav--v3" aria-label="Episode navigation">
-            <button disabled={season === 1 && episode === 1} onClick={() => { void goPrevious(); }} type="button"><span>← Previous</span><strong>{previousTitle}</strong><small>{episode > 1 ? `Season ${season} · Episode ${episode - 1}` : season > 1 ? `Season ${season - 1}` : 'Start'}</small></button>
-            <button className="reader-nav__archive" onClick={onBack} type="button"><span>Season {season}</span><strong>Back to episodes</strong><small>{seasonProgress.percent}% opened</small></button>
-            <button disabled={season === 64 && episode === episodes.length} onClick={goNext} type="button"><span>Next →</span><strong>{nextTitle}</strong><small>{episode < episodes.length ? `Season ${season} · Episode ${episode + 1}` : season < 64 ? `Continue to Season ${season + 1}` : 'Complete'}</small></button>
+          <nav className="reader-nav reader-nav--v3" aria-label="Chapter navigation">
+            <button disabled={season === 1 && episode === 1} onClick={() => { void goPrevious(); }} type="button"><span>← Previous</span><strong>{episode > 1 ? `Ch ${episode - 1}` : season > 1 ? `S${season - 1} finale` : 'Start'}</strong><small>{previousTitle}</small></button>
+            <button className="reader-nav__archive" onClick={onBack} type="button"><span>Season {season}</span><strong>Chapters</strong><small>{seasonProgress.percent}% opened</small></button>
+            <button disabled={season === 64 && episode === episodes.length} onClick={goNext} type="button"><span>Next →</span><strong>{episode < episodes.length ? `Ch ${episode + 1}` : season < 64 ? `S${season + 1} · Ch 1` : 'End'}</strong><small>{nextTitle}</small></button>
           </nav>
         </>
       ) : null}
