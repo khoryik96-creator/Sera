@@ -446,9 +446,9 @@ Public credit falls upon scattered physicians and local relief groups. Sera and 
 **Time:** Early to middle Year Five  
 **Season purpose:** Show the mature public and hidden orders through consequences and relationships rather than a reference-data dump.
 
-### Chapter 81 — Wuyue at Peace
+### Chapter 81 — What Her Husband Forgot to Mention
 
-The Five Domains appear more stable than at any earlier point. The chapter contrasts public confidence in the Sovereigns with the quiet crises still being handled beneath the crooked sign.
+The Five Domains appear more stable than at any earlier point, contrasting public confidence in the Sovereigns with the quiet crises still handled beneath the crooked sign. During an ordinary married-couple conversation, Sera realizes that Rhen has described everyone else's five-year improvement while saying almost nothing about his own. She insists that knowing what her husband can now do is a reasonable marital requirement. Rhen gives her a brief, understated account of every currently defined offensive evolution while continuing tea-house chores; Sera's increasingly incredulous questions provide the humour. He demonstrates none of them, the exchange does not become a profile recital, and his Ultimate is neither explained anew nor approached for use.
 
 ### Chapter 82 — Five Domains, One Medicine Road
 
@@ -554,12 +554,31 @@ Rhen and Sera share their final cup beneath the crooked sign with no guild work 
 
 - Do not present five-year upgrades as one profile dump.
 - Show an evolved art only when a medical, training, strategic or combat problem requires it.
-- Rhen's healing growth may be revealed through Qin and Tae, but his complete reserve and full art list remain understated.
+- Rhen's healing growth may be revealed through Qin and Tae. Chapter 81 is the one character-driven exception to the normal no-list rule: Sera explicitly demands a short explanation of her husband's currently defined offensive developments, but Rhen's complete reserve remains understated.
 - Sera's progression must appear across training, field decisions and increasingly seamless transitions between existing Orchid arts.
 - Orchid Dominion may be discussed only as an unrealized threshold if the narrative requires it; it cannot manifest.
 - Huo and Tae's High Sovereign strength should be demonstrated primarily through controlled training and recovery consequences inside this arc.
 - The Crownless Host establishes Ilyra's public scale without resolving her complete matchup against Liang Yue.
 - Duskvein techniques, cohort leadership and Isgard cultivation equivalence remain reserved for the following arc.
+
+### Rhen's Chapter 81 Husband Briefing
+
+Rhen's explanation to Sera should be intimate, concise and mildly funny rather than ominous exposition. It covers only approved five-year mechanics:
+
+- **Frozen Petals Garden — hostile field:** if Rhen deliberately turns its hostile aspect on, enemies within two miles lose internal energy and move at half speed. He clarifies that the effect is optional because Sera immediately asks whether he has been slowing tea-house customers.
+- **One Petal Severs the Winter Moon — Supreme:** he reads the one relationship sustaining a technique, formation, circulation state or hostile effect, then severs that dependency instead of overpowering the whole structure.
+- **Moonless Snowfield — Supreme:** it freezes enemy blood and locks movement; its undefined radius, duration and resistance rules remain unclaimed.
+- **Winter Ends, Spring Blossoms — Supreme:** distorted, borrowed or unnaturally sustained martial states are forced to complete the natural course they should have followed. It does not rewrite reality or resurrect anyone.
+- **Petal Convergence — Transcended:** thousands of compressed frozen petals converge upon one selected point from every direction, or divide among selected enemies with less force per target.
+- **Meridian Bloom — Transcended:** marked enemies cause their own internal energy to split into conflicting currents; using more power worsens the backlash until their techniques fail and their legs can no longer support them.
+- **Petals in Stasis** and **Silent Winter:** Rhen confirms that both have improved, but the conversation supplies no invented mechanics because their exact five-year upgrades remain `TBD`.
+- **All other established non-Ultimate arts:** Rhen confirms they have reached their locked five-year tiers without narrating an exhaustive catalogue.
+
+The conversation must preserve three limits:
+
+1. Rhen does not demonstrate an offensive art inside or near the tea house.
+2. Sera is impressed and somewhat exasperated, not frightened of her husband.
+3. **Petals Beneath a Frozen Moon** remains absolutely story-locked; the scene cannot become a disguised Ultimate reveal or near-use.
 
 ## 15. Remaining Gates Before Prose Composition
 
