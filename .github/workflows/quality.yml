@@ -29,15 +29,18 @@ jobs:
       - name: Web build
         run: npm run build
 
+      - name: Performance budget
+        run: npm run budget:perf
+
       - name: Single-file build
         run: npm run build:single
 
       - name: Install browser test tooling
         run: |
           npm install --no-save --no-package-lock @playwright/test@1.55.0 @axe-core/playwright@4.10.2
-          npx playwright install --with-deps chromium
+          npx playwright install --with-deps chromium webkit
 
-      - name: Mobile + desktop browser regression tests
+      - name: Chromium regressions + WebKit smoke
         run: npm run test:e2e
 
       - name: Upload browser diagnostics

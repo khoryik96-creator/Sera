@@ -1,6 +1,7 @@
 import { defineConfig } from 'vite';
 
-// Web build: core lore loads up front; season payloads remain independent chunks.
+// React owns the production root. legacy.html is the tested pre-React rollback;
+// react-preview.html remains a tested compatibility alias for historical links.
 export default defineConfig({
   base: './',
   define: {
@@ -8,5 +9,12 @@ export default defineConfig({
   },
   build: {
     outDir: 'dist',
+    rollupOptions: {
+      input: {
+        main: 'index.html',
+        legacy: 'legacy.html',
+        compatibilityAlias: 'react-preview.html',
+      },
+    },
   },
 });

@@ -3,7 +3,11 @@
     "target": "ES2021",
     "module": "ESNext",
     "moduleResolution": "bundler",
-    "lib": ["ES2021", "DOM", "DOM.Iterable"],
+    "lib": [
+      "ES2021",
+      "DOM",
+      "DOM.Iterable"
+    ],
     "resolveJsonModule": true,
     "allowJs": false,
     "noEmit": true,
@@ -11,12 +15,24 @@
     "skipLibCheck": true,
     "forceConsistentCasingInFileNames": true,
     "esModuleInterop": true,
-
+    "jsx": "react-jsx",
     "strict": true,
     "noImplicitAny": true,
     "noUnusedLocals": true,
     "noUnusedParameters": true
   },
-  "include": ["src", "test", "vite.config.ts", "vite.singlefile.config.ts", "vitest.config.ts", "eslint.config.js"],
-  "exclude": ["e2e", "playwright.config.ts", "playwright-report", "test-results"]
+  "include": [
+    "src",
+    "test",
+    "vite.config.ts",
+    "vite.singlefile.config.ts",
+    "vitest.config.ts",
+    "eslint.config.js"
+  ],
+  "exclude": [
+    "e2e",
+    "playwright.config.ts",
+    "playwright-report",
+    "test-results"
+  ]
 }

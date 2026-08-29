@@ -46,9 +46,47 @@ describe('renderNovel', () => {
     expect(out).toContain('Frozen Bloom');
   });
 
-  it('annotates a known character name with its rank', () => {
+  it('annotates a known character name with a separate rank pill', () => {
     const out = renderNovel('Kael arrived at dawn.');
     expect(out).toContain('novel-character-name character-kael');
-    expect(out).toContain('#1 - Kael');
+    expect(out).toContain('rank-badge rank-badge--current">#1</span>');
+    expect(out).not.toContain('#1 - Kael');
+  });
+
+  it('keeps ordinary render contexts non-interactive by default', () => {
+    const out = renderNovel('Sera spoke.\n[[speaker:rhen]]Tea?');
+    expect(out).not.toContain('novel-lore-link');
+    expect(out).not.toContain('data-character-key');
+  });
+
+  it('adds accessible character hooks only for the focused reader', () => {
+    const out = renderNovel('Sera spoke.\n[[speaker:rhen]]Tea?', 10, { interactiveNames: true });
+    expect(out).toContain('novel-lore-link');
+    expect(out).toContain('data-character-key="sera"');
+    expect(out).toContain('aria-label="Open lore for Sera"');
+    expect(out).toContain('data-character-key="rhen"');
+    expect(out).toContain('aria-label="Open lore for Rhen"');
+  });
+
+  it('replaces legacy inline rank text instead of duplicating it', () => {
+    const out = renderNovel('#1 - Kael arrived beside Former #6 - Sera.', 60);
+    expect(out).not.toContain('#1 - Kael');
+    expect(out).not.toContain('Former #6 - Sera');
+    expect(out).toContain('character-kael">Kael</span><span class="rank-badge rank-badge--current">#1</span>');
+    expect(out).toContain('rank-badge rank-badge--former">#6 <span class="rank-badge__state">FORMER</span>');
+  });
+
+  it('uses Lucy-style deceased and retired indicators after succession', () => {
+    const out = renderNovel('Han Myeong stood in memory beside Qin Luo.', 30);
+    expect(out).toContain('character-han">Han Myeong</span><span class="rank-badge rank-badge--deceased">#8 †</span>');
+    expect(out).toContain('character-qin">Qin Luo</span><span class="rank-badge rank-badge--retired">#6 <span class="rank-badge__state">RET</span>');
+  });
+
+  it('keeps Han and Qin active before the succession arc', () => {
+    const out = renderNovel('Han Myeong and Qin Luo arrived.', 20);
+    expect(out).toContain('rank-badge rank-badge--current">#8</span>');
+    expect(out).toContain('rank-badge rank-badge--current">#6</span>');
+    expect(out).not.toContain('rank-badge--deceased');
+    expect(out).not.toContain('rank-badge--retired');
   });
 });

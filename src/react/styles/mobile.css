@@ -1,0 +1,152 @@
+/* Production mobile containment. Horizontal browsers must never widen the page. */
+@media (max-width: 800px) {
+  html,
+  body,
+  #react-root,
+  .app-shell,
+  .main-column,
+  .content {
+    max-width: 100%;
+    min-width: 0;
+  }
+
+  body,
+  #react-root,
+  .app-shell {
+    overflow-x: clip;
+  }
+
+  .character-workspace {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr);
+    min-width: 0;
+    max-width: 100%;
+  }
+
+  .character-browser {
+    position: static;
+    top: auto;
+    width: 100%;
+    min-width: 0;
+    max-width: 100%;
+    max-height: none;
+    overflow: hidden;
+  }
+
+  .character-browser__list {
+    display: flex;
+    gap: 8px;
+    width: 100%;
+    min-width: 0;
+    max-width: 100%;
+    overflow-x: auto;
+    overflow-y: hidden;
+    overscroll-behavior-inline: contain;
+    scroll-snap-type: inline proximity;
+    scrollbar-width: thin;
+    padding-bottom: 5px;
+  }
+
+  .character-nav-card {
+    flex: 0 0 min(72vw, 240px);
+    min-width: 0;
+    max-width: min(72vw, 240px);
+    scroll-snap-align: start;
+  }
+
+  .character-nav-card > span,
+  .character-nav-card small {
+    min-width: 0;
+    overflow-wrap: anywhere;
+  }
+
+  .character-profile,
+  .character-profile__hero,
+  .character-profile__intro,
+  .portrait-card,
+  .profile-facts,
+  .profile-sections {
+    min-width: 0;
+    max-width: 100%;
+  }
+
+  .character-profile__hero {
+    grid-template-columns: minmax(0, 1fr);
+  }
+
+  .portrait-card > img,
+  .portrait-placeholder {
+    height: min(118vw, 560px);
+  }
+
+  .profile-facts,
+  .profile-sections {
+    grid-template-columns: minmax(0, 1fr);
+  }
+
+  .portrait-thumbs,
+  .mobile-tabs,
+  .arc-browser,
+  .season-browser {
+    max-width: 100%;
+    overscroll-behavior-inline: contain;
+  }
+
+  .mobile-tabs {
+    scroll-padding-inline: 40%;
+  }
+
+  .mobile-tabs button {
+    scroll-margin-inline: 12px;
+  }
+
+  .app-shell.is-reading .topbar {
+    height: 58px;
+    padding-inline: 14px;
+    transition: transform .2s ease;
+  }
+
+  .app-shell.is-reading .topbar .search-box,
+  .app-shell.is-reading .topbar__continue,
+  .app-shell.is-reading .topbar__meta {
+    display: none;
+  }
+
+  .app-shell.is-reading .mobile-tabs {
+    position: sticky;
+    top: 58px;
+    z-index: 7;
+    transition: transform .2s ease;
+  }
+
+  .app-shell.is-reading.is-mobile-chrome-hidden .topbar {
+    transform: translateY(-100%);
+  }
+
+  .app-shell.is-reading.is-mobile-chrome-hidden .mobile-tabs {
+    transform: translateY(calc(-100% - 58px));
+  }
+
+  .app-shell.is-reading .reader-controls {
+    top: 112px;
+  }
+
+  .app-shell.is-reading.is-mobile-chrome-hidden .reader-controls {
+    top: 8px;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .app-shell.is-reading .topbar,
+  .app-shell.is-reading .mobile-tabs,
+  .reader-controls {
+    transition: none;
+  }
+}
+
+@media (max-width: 520px) {
+  .character-nav-card {
+    flex-basis: min(78vw, 224px);
+    max-width: min(78vw, 224px);
+  }
+}

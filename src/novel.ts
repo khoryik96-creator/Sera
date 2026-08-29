@@ -1,15 +1,37 @@
 import { escRe } from './dom';
-import { colorKeyMap, novelNameMap, rankForStory, speakerName } from './characterRegistry';
+import { characterRegistry, colorKeyMap, novelNameMap, rankForStory, speakerName } from './characterRegistry';
 
 export { rankForStory } from './characterRegistry';
 
-function annotateDialogue(text: string): string {
+type NovelRankTone = 'current' | 'former' | 'retired' | 'deceased' | 'unranked';
+
+export interface RenderNovelOptions {
+  interactiveNames?: boolean;
+}
+
+function entryForAlias(name: string) {
+  return characterRegistry.find((entry) => entry.aliases.includes(name));
+}
+
+function entryForSpeaker(key: string) {
+  return characterRegistry.find((entry) => (entry.speakerKeys || [entry.key]).includes(key));
+}
+
+function characterMarkup(name: string, colorKey: string, characterKey: string | undefined, className: string, interactive: boolean): string {
+  if (!interactive || !characterKey) return `<span class="${className} character-${colorKey}">${name}</span>`;
+  return `<button type="button" class="${className} character-${colorKey} novel-lore-link" data-character-key="${characterKey}" aria-label="Open lore for ${name}">${name}</button>`;
+}
+
+function annotateDialogue(text: string, interactiveNames: boolean): string {
   return String(text || '').split('\n').map((line) => {
     const match = line.match(/^\[\[speaker:([a-z0-9_]+)\]\](.*)$/);
     if (!match) return line;
-    const key = colorKeyMap[match[1]] || match[1];
-    const name = speakerName(match[1]);
-    return `<span class="novel-dialogue dialogue-card character-${key}"><b class="novel-speaker dialogue-speaker">${name}</b><b class="dialogue-quote">${match[2]}</b></span>`;
+    const speakerKey = match[1];
+    const key = colorKeyMap[speakerKey] || speakerKey;
+    const name = speakerName(speakerKey);
+    const entry = entryForSpeaker(speakerKey);
+    const speaker = characterMarkup(name, key, entry?.key, 'novel-speaker dialogue-speaker', interactiveNames);
+    return `<span class="novel-dialogue dialogue-card character-${key}">${speaker}<b class="dialogue-quote">${match[2]}</b></span>`;
   }).join('\n');
 }
 
@@ -26,7 +48,40 @@ function annotateSkills(text: string): string {
   return out;
 }
 
-function annotateNamesForSeason(text: string, season?: number): string {
+function effectiveRank(name: string, season?: number): string {
+  // Qin and Han are active #6/#8 before the Ranking Succession arc. Their
+  // registry stores present-day status, so preserve the historical badge in prose.
+  if (season && season <= 22) {
+    if (name === 'Qin Luo' || name === 'Qin') return '#6';
+    if (name === 'Han Myeong' || name === 'Han') return '#8';
+  }
+  return rankForStory(name, season);
+}
+
+function rankTone(name: string, rank: string, season?: number): NovelRankTone {
+  if (rank === 'UNR') return 'unranked';
+  const currentEra = !season || season >= 23;
+  if (currentEra && (name === 'Han Myeong' || name === 'Han')) return 'deceased';
+  if (currentEra && (name === 'Qin Luo' || name === 'Qin')) return 'retired';
+  if (rank.startsWith('Former ')) return 'former';
+  return 'current';
+}
+
+function rankBadgeMarkup(rank: string, name: string, season?: number): string {
+  if (!rank) return '';
+  const tone = rankTone(name, rank, season);
+  const base = rank.replace(/^Former\s+/i, '').trim();
+  const label = tone === 'deceased'
+    ? `${base} †`
+    : tone === 'retired'
+      ? `${base} <span class="rank-badge__state">RET</span>`
+      : tone === 'former'
+        ? `${base} <span class="rank-badge__state">FORMER</span>`
+        : base;
+  return `<span class="rank-badge rank-badge--${tone}">${label}</span>`;
+}
+
+function annotateNamesForSeason(text: string, season: number | undefined, interactiveNames: boolean): string {
   let out = String(text || '');
   const held: string[] = [];
   out = out.replace(/<span[\s\S]*?<\/span>/g, (markup) => {
@@ -37,14 +92,16 @@ function annotateNamesForSeason(text: string, season?: number): string {
 
   const placeholders: string[] = [];
   novelNameMap.forEach(([name, key]) => {
-    const re = new RegExp('\\b' + escRe(name) + '\\b', 'g');
-    out = out.replace(re, (_match, offset: number, source: string) => {
-      const before = source.slice(Math.max(0, offset - 28), offset);
-      const alreadyRanked = /(?:Former\s+)?#\d+\s*(?:—|-)?\s*$/.test(before);
-      const rank = rankForStory(name, season);
-      const display = rank && !alreadyRanked ? `${rank} - ${name}` : name;
+    // Consume any legacy inline numeric rank immediately before the name so the
+    // reader always shows one canonical Lucy-style badge instead of "#1 - Name".
+    const re = new RegExp('(?:(?:Former\\s+)?#\\d+\\s*(?:—|-)?\\s*)?\\b' + escRe(name) + '\\b', 'g');
+    out = out.replace(re, () => {
+      const rank = effectiveRank(name, season);
+      const badge = rankBadgeMarkup(rank, name, season);
       const token = `@@NAME${placeholders.length}@@`;
-      placeholders.push(`<span class="novel-character-name character-${key}">${display}</span>`);
+      const entry = entryForAlias(name);
+      const label = characterMarkup(name, key, entry?.key, 'novel-character-name', interactiveNames);
+      placeholders.push(`<span class="ranked-name">${label}${badge}</span>`);
       return token;
     });
   });
@@ -55,7 +112,7 @@ function annotateNamesForSeason(text: string, season?: number): string {
 }
 
 /** Render an episode/legend body: dialogue cards, skill callouts, and ranked names. */
-export function renderNovel(text: string, season?: number): string {
-  const html = annotateNamesForSeason(annotateSkills(annotateDialogue(text)), season);
+export function renderNovel(text: string, season?: number, options: RenderNovelOptions = {}): string {
+  const html = annotateNamesForSeason(annotateSkills(annotateDialogue(text, Boolean(options.interactiveNames))), season, Boolean(options.interactiveNames));
   return html.replace(/\n*(<span class="novel-dialogue[\s\S]*?<\/span>)\n*/g, '$1');
 }

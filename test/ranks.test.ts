@@ -1,7 +1,7 @@
 import { describe, it, expect } from 'vitest';
 import rawData from '../src/data.json';
 import { normalizeDatabase } from '../src/db';
-import { rankColorKey, rankBadgeTone } from '../src/ranks';
+import { rankColorKey, rankBadgeTone, rankBadgeLabel } from '../src/ranks';
 import type { RawDatabase } from '../src/types';
 
 const data = normalizeDatabase(rawData as unknown as RawDatabase);
@@ -37,14 +37,18 @@ describe('rankColorKey', () => {
     }
   });
 
-  it('uses an unranked pill only for Rhen and explicit former/retired statuses', () => {
-    for (const r of data.ranks) {
-      const tone = rankBadgeTone(r);
-      if (r.name === 'Rhen') expect(tone).toBe('unranked');
-      if (/^Former\s+#\d+/i.test(r.name) || /former|retired|deceased/i.test(`${r.rank} ${r.className}`)) {
-        expect(tone).toBe('former');
-      }
-    }
+  it('uses explicit unranked/former/retired/deceased tones', () => {
+    expect(rankBadgeTone({ rank: 'UNR', name: 'Rhen', className: 'Unranked', description: '' })).toBe('unranked');
+    expect(rankBadgeTone({ rank: 'Former #6', name: 'Sera', className: 'Former Marquis', description: '' })).toBe('former');
+    expect(rankBadgeTone({ rank: 'Former #6', name: 'Qin Luo', className: 'Semi-retired', description: '' })).toBe('retired');
+    expect(rankBadgeTone({ rank: 'Former #8', name: 'Han Myeong', className: 'Deceased', description: '' })).toBe('deceased');
+  });
+
+  it('formats state indicators like the Lucy reader', () => {
+    expect(rankBadgeLabel({ rank: '#2', name: 'Liang Yue', className: 'Duke', description: '' })).toBe('#2');
+    expect(rankBadgeLabel({ rank: 'Former #6', name: 'Sera', className: 'Former Marquis', description: '' })).toBe('#6 · FORMER');
+    expect(rankBadgeLabel({ rank: 'Former #6', name: 'Qin Luo', className: 'Retired', description: '' })).toBe('#6 · RET');
+    expect(rankBadgeLabel({ rank: 'Former #8', name: 'Han Myeong', className: 'Deceased', description: '' })).toBe('#8 †');
   });
 
   it('does not demote a current rank merely because its biography mentions a former rank', () => {
