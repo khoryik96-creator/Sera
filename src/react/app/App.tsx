@@ -6,6 +6,7 @@ import { episodeCountForSeason } from '../../readingProgress';
 import { navigationItems } from './navigation';
 import type { AppSection } from './navigation';
 import { useReaderState } from '../features/reader/ReaderContext';
+import { InstallReaderButton } from '../components/InstallReaderButton';
 
 const OverviewPage = lazy(() => import('../routes/OverviewRoute').then((module) => ({ default: module.OverviewPage })));
 const CharactersPage = lazy(() => import('../routes/CharactersRoute').then((module) => ({ default: module.CharactersPage })));
@@ -261,6 +262,7 @@ export function App() {
             <kbd>⌘K</kbd>
           </label>
           {lastRead ? <button className="topbar__continue" onClick={() => openChapter(lastRead.season, episodeNumber(lastRead.id))} type="button">Continue S{lastRead.season} E{episodeNumber(lastRead.id)}</button> : null}
+          <InstallReaderButton />
           <span className="topbar__meta">64 seasons · 633 episodes</span>
         </header>
 
