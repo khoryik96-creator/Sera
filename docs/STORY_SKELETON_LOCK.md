@@ -328,9 +328,65 @@ The technique is built around **restoration and natural law**, not arbitrary sup
 
 ---
 
-#### 3.1.8 Remaining Rhen Techniques — Global Five-Year Rule
+#### 3.1.8 Petal Convergence
 
-- Every existing named **non-Ultimate** Rhen technique is **Supreme level** five years later.
+**Current tier:** Transcended Skill
+
+##### Core Offensive Principle
+
+Rhen scatters thousands of frozen petals throughout the surrounding space. When he activates the technique, every petal converges upon one selected point simultaneously from every direction.
+
+- Each petal contains densely compressed internal energy.
+- Avoiding one trajectory moves the target into the paths of countless others.
+- Rhen can concentrate every petal upon one enemy.
+- He may divide the petals among multiple selected enemies, reducing the concentration placed upon each target.
+- He can control the force used when he intends to incapacitate rather than kill.
+- The technique destroys through concentrated physical and internal-energy impact; it does not sever martial dependencies or place targets in stasis.
+
+Still `TBD`:
+
+- maximum number of petals
+- maximum effective range
+- whether the petals can pursue a fleeing target
+- maximum number of separately selected enemies
+
+---
+
+#### 3.1.9 Meridian Bloom
+
+**Current tier:** Transcended Skill
+
+##### Core Offensive Principle
+
+Rhen sends pale frozen petals toward selected enemies. A petal that touches an enemy or their defensive aura dissolves and leaves a luminous petal pattern across the chest and dantian.
+
+The pattern does not seal, steal or remove cultivation. Instead, it causes the target's own internal-energy circulation to split into violently conflicting currents.
+
+- Every attempt to circulate more power intensifies the disruption.
+- Active techniques become unstable or collapse during activation.
+- Conflicting qi pressure spreads into the target's limbs.
+- The target's legs lose internal reinforcement, forcing them to their knees.
+- Stronger enemies may suffer more violently because they possess more energy for the pattern to disrupt.
+- Continuing to force circulation may rupture meridians or cause severe internal backlash.
+- Rhen can release the pattern before permanent damage occurs.
+- He can mark multiple selected enemies independently.
+- An enemy who completely stops circulating internal energy can reduce the immediate damage, but cannot continue fighting effectively while doing so.
+
+The technique is not poison, blood manipulation, dependency severance or cultivation theft. Its offensive identity is making an enemy's own internal-energy circulation rebel against itself.
+
+Still `TBD`:
+
+- maximum number of marked enemies
+- maximum range
+- duration
+- resistance rules for future top-tier opponents
+
+---
+
+#### 3.1.10 Remaining Rhen Techniques — Global Five-Year Rule
+
+- Every named **non-Ultimate** Rhen technique established before the five-year continuation is **Supreme level** five years later.
+- The newly established **Petal Convergence** and **Meridian Bloom** are explicit exceptions: both remain **Transcended Skills** at this stage.
 - Any technique that was already Supreme has improved again while remaining within the Supreme classification unless the user later creates a higher named tier.
 - Exact upgrades for unlisted techniques are deliberately left open.
 - **Petals in Stasis** remains distinct from the Ultimate.
@@ -392,6 +448,17 @@ Do **not** fill these automatically.
 ---
 
 ## 5. Revision Log
+
+### 2026-08-29 — New Transcended Offensive Techniques
+
+Added two user-approved five-year Rhen techniques:
+
+- **Petal Convergence** — an omnidirectional condensed-petal offensive barrage
+- **Meridian Bloom** — a petal-pattern technique that forces an enemy's internal-energy circulation into violent conflict
+
+Both techniques are explicitly classified as **Transcended Skills** and exempted from the general five-year Supreme-level rule. All still-undefined limits remain `TBD`.
+
+No runtime story, canon or technique data was changed.
 
 ### 2026-08-29 — Five-Year Technique Cleanup
 
