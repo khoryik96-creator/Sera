@@ -129,9 +129,19 @@ The existing passive has evolved once again.
 
 ##### Ageless Immortality
 
-- Rhen's passive stops his biological aging.
+- **Frozen Petals Garden** refines the meridian foundation continuously until, after sufficient development, it reconstructs that foundation into a self-sustaining ageless state.
+- Rhen's reconstructed meridian foundation stops his biological aging.
 - He is therefore **ageless / immortal with respect to aging**.
 - This currently defines cessation of aging; whether "immortality" also means absolute inability to be killed is **not defined yet** and must not be assumed.
+
+##### Sera — Completed Meridian Reconstruction
+
+- Five years of uninterrupted distance-independent refinement have fully reconstructed Sera's meridian foundation to the same ageless threshold.
+- Sera's biological aging has therefore stopped as well.
+- The reconstruction is complete and belongs to Sera's body; it is not sustained by the continuing presence of Rhen's barrier.
+- When Sera later asks Rhen to withdraw Frozen Petals Garden, she loses its active distance-independent protection and further passive refinement, but **remains permanently ageless**.
+- This does not make Sera unkillable, invulnerable or equal to Rhen.
+- Sera's outcome is specifically locked to her completed five-year reconstruction through their unique bond. It must not be generalized into automatic eventual agelessness for Qin or any other passive recipient without later user approval.
 
 ##### Internal-Energy Evolution
 
@@ -482,6 +492,7 @@ Roster rules:
 - She remains aeons beneath Rhen, whose current strength still cannot be meaningfully measured.
 - Her Sovereign cultivation was developed through five years of training, martial refinement and the continuous strengthening effect of Rhen's passive.
 - The cultivation and technique mastery she gained are permanently hers; withdrawing Rhen's protection does not remove that growth.
+- Five uninterrupted years of passive refinement have also completed the reconstruction of her meridian foundation, permanently stopping her biological aging even after the barrier is withdrawn.
 - Her exact level is known only within the six-person Orchid core; The Quiet Hand knows she vastly exceeds Marquis class without receiving the precise classification.
 
 #### Withdrawal of Rhen's Passive Protection
@@ -490,6 +501,7 @@ Roster rules:
 - She does not reject Rhen's love, their bond or his willingness to protect her.
 - She wants the ability and responsibility to protect herself through her own martial system.
 - Rhen respects her decision and withdraws the distance-independent barrier from her.
+- Withdrawal ends the active protection and further passive refinement only; it does not reverse Sera's completed meridian reconstruction or restore biological aging.
 - Rhen retains the ability to protect Sera again, but does not reactivate it without her agreement or a later user-approved exception.
 
 #### 3.3.1 Veiled Moon
@@ -2185,6 +2197,7 @@ By Year Five:
 - Sera asks Rhen to remove Frozen Petals Garden from her.
 - The request represents trust and self-determination rather than emotional separation.
 - Rhen withdraws it immediately after confirming she is certain.
+- Sera's reconstructed meridian foundation remains permanently hers, so she stays ageless after withdrawal; only the live barrier and continuing refinement end.
 - Qin remains inside the ordinary local refinement field while living under their roof unless the user later changes this.
 - Rhen still refuses to extend the passive to Tae, Huo, Lu Weiran or the apprentices.
 
@@ -2655,6 +2668,19 @@ Do not begin scenes, prose or runtime implementation automatically.
 ---
 
 ## 8. Revision Log
+
+### 2026-08-29 — Permanent Ageless Meridian Reconstruction
+
+Locked the completed five-year effect of **Frozen Petals Garden**:
+
+- the passive's long-term refinement eventually reconstructs the meridian foundation into a self-sustaining ageless state
+- Rhen and Sera have both completed that reconstruction and no longer age biologically
+- Sera remains permanently ageless after withdrawing the active barrier because the reconstructed foundation is now her own
+- withdrawal ends only her live distance-independent protection and further passive refinement
+- the outcome does not imply invulnerability or automatic future agelessness for Qin or anyone else
+- Chapter 81 now includes Sera noticing their unchanged appearances and Rhen explaining the evolved passive
+
+No runtime story or current-era canon data was changed.
 
 ### 2026-08-29 — Story-Outline Completeness Audit Corrections
 
