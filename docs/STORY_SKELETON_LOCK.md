@@ -62,9 +62,17 @@ Rhen has improved enormously during the five-year withdrawal.
 
 ---
 
-## 1. Evolved Passive — Invisible Petal Aura Barrier
+## 1. Evolved Passive — Frozen Petals Garden
 
 **Current tier:** Evolved Supreme Passive
+
+### Permanent five-year name
+
+The evolved passive's permanent five-years-later name is:
+
+# Frozen Petals Garden
+
+Earlier working language such as **Invisible Petal Aura Barrier** and the proposed title **The Garden Where No Petals Fall** may be used only when discussing the technique's development history. Future five-years-later planning should use **Frozen Petals Garden**.
 
 The existing passive has evolved once again.
 
@@ -162,7 +170,7 @@ It may exist in reference material and character planning, but its actual story 
 
 ---
 
-## 3. Merged Supreme Movement Art
+## 3. Merged Supreme Movement Art — Drifting Petals
 
 ### Lineage
 
@@ -171,7 +179,9 @@ It may exist in reference material and character planning, but its actual story 
 
 These two movement abilities have now merged into one evolved Supreme technique.
 
-**Final technique name:** `TBD — user has not named the merged art yet.`
+**Final technique name:** **Drifting Petals**
+
+The discarded working title **One Step Beyond the Endless Horizon** should not be used as the final technique name.
 
 ### Five-year mechanics
 
@@ -248,7 +258,31 @@ Do not add unapproved mechanics yet.
 
 ---
 
-## 6. Remaining Rhen Techniques — Global Five-Year Rule
+## 6. Autumn Without End — Five-Year Evolution
+
+**Current tier:** Supreme
+
+### Permanent five-year name
+
+The permanent evolved name is:
+
+# All Seasons Return to Their Natural Course
+
+The discarded working title **All Seasons Return to Stillness** should not be used.
+
+### Concept direction — restoration / natural law
+
+The five-year evolution is framed around **restoration and natural law**, not merely suppression or stillness.
+
+- It inherits Autumn Without End's principle of forcing unnaturally sustained martial processes to finish.
+- Its evolved identity is that distorted, borrowed, prolonged, interrupted or artificially maintained martial states are returned toward their **proper natural course**.
+- The technique should feel less like Rhen imposing arbitrary stillness and more like the world being made to obey the state it should naturally have reached.
+- This does **not** automatically mean it heals enemies, resurrects the dead, reverses history, or rewrites reality.
+- Exact five-year combat limits, radius, selection rules and interaction with future top-tier techniques remain `TBD` until the user defines them.
+
+---
+
+## 7. Remaining Rhen Techniques — Global Five-Year Rule
 
 - Every existing named **non-Ultimate** Rhen technique is **Supreme level** five years later.
 - Any technique that was already Supreme has improved again while remaining within the Supreme classification unless the user later creates a higher named tier.
@@ -312,6 +346,16 @@ Do **not** fill these automatically.
 ---
 
 # Revision Log
+
+## 2026-08-29 — Evolved technique naming lock
+
+Updated the five-years-later Rhen skeleton with the user's approved naming direction:
+
+- **The Garden Where No Petals Fall → Frozen Petals Garden**
+- **One Step Beyond the Endless Horizon → Drifting Petals**
+- **All Seasons Return to Stillness → All Seasons Return to Their Natural Course**, with the evolved concept explicitly framed around restoration / natural law rather than arbitrary stillness
+
+These are story-skeleton naming decisions only. Runtime canon, existing completed seasons and current-era technique records remain unchanged until the user explicitly begins story implementation.
 
 ## 2026-08-29 — Initial locked skeleton
 
