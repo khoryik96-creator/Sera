@@ -26,6 +26,27 @@ prod audit. Node 22 locally / Node 24 in CI. ESLint already uses flat config
 | 6 | TypeScript `^5` → `^7` | Underpins typecheck, `vite build` (`tsc --noEmit`), and typescript-eslint — do last so everything else is stable | full `quality` + `build` + `build:single` |
 | 7 | — | Final green + push; CI runs e2e; open PR; close #28 and #29 | CI `quality` + `test:e2e` + Pages deploy |
 
+## Phase 6 status: BLOCKED — TypeScript 7 held
+
+TypeScript 7.0.2 (the native compiler, npm `latest`) itself works here — `tsc
+--noEmit`, `vite build`, `vite build --config vite.singlefile.config.ts`, and the
+performance budget all pass on it.
+
+The blocker is **typescript-eslint**: its latest release (8.68.0) and canary both
+declare `typescript: ">=4.8.4 <6.1.0"` and hard-error at lint time with
+*"typescript-eslint does not support TS 7.0."* Adopting TS 7 today would mean
+dropping type-aware linting from the `quality` gate, which is not an acceptable
+trade.
+
+**Decision:** ship phases 1–5, keep TypeScript on the 5.x line, and revisit TS 7
+once typescript-eslint publishes a version whose peer range includes it. At that
+point this becomes a two-line change (bump `typescript`, bump `typescript-eslint`)
+validated by the same gate. Dependabot PR #28 stays closed; a fresh bump will
+reopen the TS 7 question when the ecosystem is ready.
+
+Phases 1–5 delivered: jsdom 30, typescript-eslint 8.68, Vite 8, Vitest 4,
+ESLint 10 + @eslint/js 10.0.1 (the latter folding in #29).
+
 ## Rules per phase
 
 - Bump exactly one tool (phase 5 is the ESLint pair; they version together).
