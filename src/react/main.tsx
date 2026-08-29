@@ -2,6 +2,7 @@ import { createRoot } from 'react-dom/client';
 import { loadDB } from '../db';
 import { decodedRouteHash } from '../hashRoute';
 import { initPwa } from '../pwa';
+import { initAccessibilityHardening } from './accessibilityHardening';
 import { App } from './app/App';
 import { ReaderProvider } from './features/reader/ReaderContext';
 import './styles/global.css';
@@ -29,6 +30,7 @@ async function boot(): Promise<void> {
   try {
     await Promise.all([loadDB(), preloadInitialRoute()]);
     createRoot(root).render(<ReaderProvider><App /></ReaderProvider>);
+    initAccessibilityHardening();
     initPwa();
   } catch (error) {
     const message = error instanceof Error ? error.message : 'Unknown loading error';
