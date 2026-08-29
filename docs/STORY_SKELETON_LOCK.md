@@ -202,7 +202,25 @@ Do not invent those limits yet.
 
 ---
 
-## 4. Sanctuary of Petals
+## 4. One Petal Severs the Winter Moon
+
+**Current tier:** Supreme
+
+### Consolidated dependency-severing lineage
+
+**One Petal Severs the Winter Moon** consolidates the entire dependency-severing lineage:
+
+- **One Petal**
+- **One Petal Before Dawn**
+- **Winter Moon Severance**
+
+These are fundamentally the same martial lineage: understanding one critical dependency and severing it rather than overpowering the whole structure.
+
+The five-years-later technique represents the consolidated form of that principle. Exact expanded mechanics, range, target limits, and interaction with future top-tier techniques remain `TBD` unless the user defines them later.
+
+---
+
+## 5. Sanctuary of Petals
 
 **Current tier:** Supreme
 
@@ -234,7 +252,7 @@ Exact healing speed at the new maximum 10,000-person scale is not separately qua
 
 ---
 
-## 5. Moonless Snowfield
+## 6. Moonless Snowfield
 
 **Current tier:** Supreme
 
@@ -258,9 +276,19 @@ Do not add unapproved mechanics yet.
 
 ---
 
-## 6. Autumn Without End — Five-Year Evolution
+## 7. Autumn Without End — Five-Year Evolution
 
 **Current tier:** Supreme
+
+### Merged lineage
+
+The five-year evolution combines three predecessor arts into one higher consolidated lineage:
+
+- **Winter Mirror**
+- **Empty Spring**
+- **Autumn Without End**
+
+The earlier working title for this merged evolution was **All Seasons Return to Stillness**.
 
 ### Permanent five-year name
 
@@ -268,12 +296,13 @@ The permanent evolved name is:
 
 # All Seasons Return to Their Natural Course
 
-The discarded working title **All Seasons Return to Stillness** should not be used.
+The discarded working title **All Seasons Return to Stillness** should not be used as the final technique name.
 
 ### Concept direction — restoration / natural law
 
 The five-year evolution is framed around **restoration and natural law**, not merely suppression or stillness.
 
+- It inherits the combined principles of **Winter Mirror**, **Empty Spring**, and **Autumn Without End**.
 - It inherits Autumn Without End's principle of forcing unnaturally sustained martial processes to finish.
 - Its evolved identity is that distorted, borrowed, prolonged, interrupted or artificially maintained martial states are returned toward their **proper natural course**.
 - The technique should feel less like Rhen imposing arbitrary stillness and more like the world being made to obey the state it should naturally have reached.
@@ -282,7 +311,7 @@ The five-year evolution is framed around **restoration and natural law**, not me
 
 ---
 
-## 7. Remaining Rhen Techniques — Global Five-Year Rule
+## 8. Remaining Rhen Techniques — Global Five-Year Rule
 
 - Every existing named **non-Ultimate** Rhen technique is **Supreme level** five years later.
 - Any technique that was already Supreme has improved again while remaining within the Supreme classification unless the user later creates a higher named tier.
@@ -346,6 +375,15 @@ Do **not** fill these automatically.
 ---
 
 # Revision Log
+
+## 2026-08-29 — Missing technique lineage restoration
+
+Added the user-specified five-year lineage clarifications:
+
+- **One Petal Severs the Winter Moon** is the consolidated form of **One Petal + One Petal Before Dawn + Winter Moon Severance**, all sharing the same dependency-severing principle.
+- **All Seasons Return to Their Natural Course** (earlier working title **All Seasons Return to Stillness**) is the merged evolution of **Winter Mirror + Empty Spring + Autumn Without End**.
+
+No runtime story/canon/technique data was changed.
 
 ## 2026-08-29 — Evolved technique naming lock
 
