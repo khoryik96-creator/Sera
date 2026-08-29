@@ -47,7 +47,6 @@ export function ChaptersPage({ onOpenChapter }: ChaptersPageProps) {
   }, [selectedSeason, loadAttempt]);
 
   const selectedArcIndex = arcIndexForSeason(selectedSeason);
-  const selectedArc = EPISODE_ARCS[selectedArcIndex] || EPISODE_ARCS[0];
   const selected = allSeasons.find((item) => item.season === selectedSeason) || allSeasons[0];
   const lastReadEpisode = episodeNumber(lastRead?.id);
   const selectedHasResume = Boolean(lastRead && lastRead.season === selectedSeason);
