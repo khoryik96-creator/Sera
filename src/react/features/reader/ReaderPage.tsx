@@ -269,12 +269,12 @@ export function ReaderPage({ season, episode, onBack, onOpenChapter }: ReaderPag
   }
 
   function handleProseClick(event: ReactMouseEvent<HTMLElement>): void {
-    const selectionText = window.getSelection()?.toString().trim() || '';
-    if (selectedPassage || selectionText) return;
     const target = event.target as HTMLElement;
     const reference = target.closest<HTMLElement>('[data-character-key]');
     const key = reference?.dataset.characterKey;
     if (!key) return;
+    // A real character-reference click always opens lore. Passage selection is
+    // handled by the mouse/touch selection hooks and must not swallow name taps.
     setLoreKey(key);
     window.requestAnimationFrame(() => {
       document.querySelector<HTMLElement>('.reader-lore-context')?.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
