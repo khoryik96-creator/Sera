@@ -431,7 +431,7 @@ Still `TBD`:
 - She remains aeons beneath Rhen, whose current strength still cannot be meaningfully measured.
 - Her Sovereign cultivation was developed through five years of training, martial refinement and the continuous strengthening effect of Rhen's passive.
 - The cultivation and technique mastery she gained are permanently hers; withdrawing Rhen's protection does not remove that growth.
-- Who knows Sera has reached Sovereign level remains `TBD`.
+- Her exact level is known only within the five-person senior core; The Quiet Hand knows she vastly exceeds Marquis class without receiving the precise classification.
 
 #### Withdrawal of Rhen's Passive Protection
 
@@ -1130,14 +1130,35 @@ Qin Luo remains the blind former World #6. Mo Qingzhao remains a separate charac
 
 - Qin arrives at Rhen and Sera's tea house during Year One in critical condition.
 - Rhen's evolved healing art repairs Qin's destroyed highest vibration meridians, stabilizes his circulation and removes accumulated internal trauma.
-- Qin's sight is not restored. The exact medical reason remains `TBD` and must not be invented automatically.
+- Qin was **born blind**. His blindness is congenital rather than the result of injury, poison or damaged cultivation.
+- Rhen can repair damaged tissue and meridians, but Qin never developed functional visual pathways for the technique to restore. Healing him does not manufacture a sense his body never possessed.
+- Qin neither expects nor desires Rhen to treat his blindness as a defect requiring correction.
 - Rhen permits Qin to remain inside the ordinary one-mile refinement field of Frozen Petals Garden as an exceptional long-term medical case.
 - Qin is the only person besides Sera to receive prolonged refinement from Rhen's passive during the five years.
 - Qin's protection/refinement is local rather than Sera's unique distance-independent extension.
 - Five years of restored cultivation and passive refinement carry Qin into Sovereign level.
-- He becomes comparable overall to Liang Yue; their exact matchup remains `TBD`.
+- He becomes comparable overall to Liang Yue.
 - Qin becomes second-in-command of The Quaint Teahouse beneath Sera.
 - He helps with medicinal cultivation, diagnosis, apprentice training, base security and vibration-based monitoring.
+
+#### Qin Luo Versus Liang Yue
+
+Their overall combat ability is comparable, but the environment and preparation determine the advantage.
+
+- Qin is favoured at close range, on vibration-rich terrain, inside rain or anywhere he can continuously read Liang's circulation rhythm.
+- His resonance disruption can interfere with the secondary White Blood circulation before it fully establishes control.
+- Liang is favoured in prolonged engagements, dry or vibration-isolated terrain and battles where she has already seeded White Blood fragments from several directions.
+- Qin's blindness provides no ordinary visual opening for Liang to exploit, but dormant fragments moving inside defensive qi can initially evade his environmental vibration map.
+- Liang has greater internal-circulation dominance; Qin has greater structural interruption and immediate counter precision.
+- On neutral terrain without preparation, the matchup is effectively even and neither possesses a reliable victory.
+
+#### Passive Status After Year Five
+
+- Qin retains the ordinary local protection and refinement of Frozen Petals Garden whenever he remains within Rhen's one-mile field.
+- He never receives Sera's former distance-independent extension.
+- His Sovereign cultivation and technique mastery remain permanently his when outside the field.
+- Leaving Rhen's range removes the ongoing protection and refinement but does not weaken the cultivation already earned.
+- Qin remains under Rhen and Sera's roof through the Year Five endpoint; therefore his local passive status is still active when the cliffhanger begins.
 
 #### 3.6.1 Listening Through Stone
 
@@ -1299,6 +1320,33 @@ He teaches:
 
 Rhen does not immediately teach his named healing arts. The apprentices begin with medical principles, discipline and ordinary competence.
 
+#### The Original Twelve Apprentices
+
+Rhen begins with exactly **twelve Year One apprentices**. Ten eventually become the founding cell captains of The Quiet Hand; two remain senior civilian specialists because leadership does not require becoming an assassin-level operative.
+
+| Apprentice | Five-year position | Character and specialty |
+|---|---|---|
+| **Han Mira** | Captain, Cell One | The first apprentice. Calm during mass casualties and exceptionally skilled at evacuation command. |
+| **Chen Wulian** | Captain, Cell Two | Blunt, relentless and the strongest formation-breaker among the original apprentices. |
+| **Seo Dabin** | Captain, Cell Three | A dry-humoured physician and poison analyst who challenges assumptions before accepting a diagnosis. |
+| **Lin Tao** | Captain, Cell Four | Quiet, patient and meticulous; excels at scouting, observation and detecting changes in familiar terrain. |
+| **Mei Rulan** | Captain, Cell Five | Socially playful but operationally disciplined; specializes in disguise, infiltration and reading human behaviour. |
+| **Gu Seongho** | Captain, Cell Six | Protective and physically resilient; specializes in rear-guard defence and extracting wounded teammates. |
+| **Bai Nari** | Captain, Cell Seven | Fast-thinking and impatient with ceremony; specializes in codes, signals and battlefield communication. |
+| **Ren Shuo** | Captain, Cell Eight | Skeptical, inventive and mechanically inclined; designs nonlethal traps, field shelters and emergency routes. |
+| **Yeo Hwan** | Captain, Cell Nine | Compassionate but unshakable under pressure; becomes the strongest field surgeon among the ten captains. |
+| **Tang Lumei** | Captain, Cell Ten | Reserved and exceptionally analytical; becomes the strongest pure strategist beneath Sera and Jin's public reputation. |
+| **Jiang Fen** | Director of Regional Clinics | Refuses covert combat leadership and builds the distributed civilian treatment network instead. |
+| **Oh Minseok** | Director of Medicinal Cultivation | Possesses limited martial talent but becomes responsible for farms, seed preservation and medicine quality across the network. |
+
+Rules:
+
+- The ten captains are Peak Marquis-class by Year Five but have not been confirmed as Dukes.
+- Their authority comes from judgment, restraint and team leadership rather than combat strength alone.
+- Jiang Fen and Oh Minseok are not considered failed operatives; their civilian branches are essential to the guild's survival.
+- None of the twelve receives Rhen's passive cultivation.
+- Rhen still regards all twelve primarily as healers, regardless of the titles Sera and Tae later give them.
+
 #### Sera's Orchid-Origin Training
 
 The corrupt governor's guards bully and injure the apprentices because they treat villagers without paying licensing bribes.
@@ -1317,9 +1365,20 @@ Rules:
 - The branch is designed for healers who must protect patients, escape surrounded positions and survive long enough to provide treatment.
 - Training emphasizes evasion, disarming, nonlethal acupoint strikes, evacuation and patient protection.
 
-#### The Corrupt Local Governor
+#### Governor Duan Jicheng of Lanyun Prefecture
 
-The Year One antagonist is a local governor who has been:
+The Year One antagonist is **Governor Duan Jicheng**, civil governor of **Lanyun Prefecture**, the rural prefecture surrounding Second Spring Tea House and its neighbouring villages.
+
+#### Background and Power
+
+- Duan comes from a wealthy administrative family and purchases political loyalty through harvest contracts, medicine licenses and debt.
+- He presents himself as an efficient governor who keeps martial sects away from civilian administration.
+- He is an experienced but unexceptional **High Master**, substantially below Marquis class.
+- His personal strength is sufficient to intimidate ordinary physicians and villagers but irrelevant against Sera.
+- He commands approximately 300 provincial guards and employs specialists from the minor **Red Willow Sect**.
+- The Red Willow Sect claims distant association with Kael's expanding military sphere, but Kael has never authorized or knowingly protected Duan.
+
+Duan has been:
 
 - confiscating harvests
 - controlling medicine prices
@@ -1331,10 +1390,36 @@ The Year One antagonist is a local governor who has been:
 
 Rhen documents the medical evidence of abuse. The apprentices gather testimony while treating villages. Sera traces accounts, supply routes and protected intermediaries. The Orchid-trained apprentices protect witnesses.
 
+#### Protection Network
+
+Duan's protection comes from ordinary corruption rather than a hidden world-level patron:
+
+- **Deputy Treasurer Peng Sui** alters tax and medicine ledgers.
+- **Elder Cao Wen** of the Red Willow Sect supplies enforcers and intimidates witnesses.
+- three merchant houses purchase confiscated harvests and medicine below market value
+- provincial clerks delay complaints until witnesses abandon them
+- Duan repeatedly invokes Kael's name despite possessing no direct authority from him
+
+This network demonstrates how Sovereign influence can be abused by distant subordinates and opportunists without the Sovereign's knowledge.
+
+#### Exposure and Sentence
+
 - Rhen does not kill the governor.
 - Sera dismantles his power without needing to assassinate him.
-- The governor is exposed through his own records and abandoned by the officials he bribed.
-- His name, exact territory, final sentence and any surviving allies remain `TBD`.
+- Duan is exposed through the original ledgers Peng altered, matching warehouse inventories, patient records, witness testimony and disaster supplies recovered from merchant estates.
+- Sera arranges for the evidence to reach several competing provincial authorities simultaneously, preventing any one official from quietly destroying it.
+- The Red Willow Sect abandons Duan once it becomes clear that Kael never sanctioned the relationship.
+- Duan is stripped of office, his family assets tied to the crimes are seized for restitution, and he receives life imprisonment.
+- Confiscated land is returned where ownership can be proven; remaining assets fund clinics, irrigation repair and replacement medicine.
+- Rhen refuses public credit, and Sera ensures the apprentices and witnesses are not identified as the source of the investigation.
+
+#### Surviving Allies and Long-Term Effect
+
+- Peng Sui escapes with a partial copy of the financial network and remains a possible future minor antagonist or informant.
+- Elder Cao Wen survives but loses his position; the Red Willow Sect fractures rather than becoming a recurring major enemy.
+- The three merchant houses are dissolved or placed under restitution orders.
+- Duan has **no direct connection** to Tae's poisoning or the new-continent enemy.
+- His case later influences the Compact's rule that affiliated sects may not use a Sovereign's name to annex land, control medicine or obstruct neutral relief.
 
 The apprentices learn that healing a community sometimes requires removing the cause of its wounds.
 
@@ -1342,7 +1427,7 @@ The apprentices learn that healing a community sometimes requires removing the c
 
 - Qin arrives during Year One in critical condition.
 - Rhen repairs his vibration meridians and stabilizes his cultivation.
-- Qin remains blind.
+- Qin remains blind because he was born blind, not because Rhen's treatment failed.
 - Qin stays under Rhen and Sera's roof and within Frozen Petals Garden's ordinary local refinement field.
 - He helps diagnose patients, monitor medicinal plants, find underground water, train apprentices and protect the tea house.
 
@@ -1388,6 +1473,35 @@ Sera pulls strings, redirects supplies, gathers intelligence and removes obstacl
 
 The guild recruits **Lu Weiran**, a male non-martial specialist with no meaningful combat reputation.
 
+#### Background
+
+- Lu grows up inside a merchant-caravan family and learns routes, inventories, seasonal shortages and border fees before formal scholarship.
+- He possesses almost no useful martial talent and survives dangerous roads by predicting where violence and scarcity will occur.
+- He later becomes a records and distribution planner for a major merchant consortium.
+- Lu discovers that senior merchants manufacture medicine shortages, then profit by redirecting relief shipments.
+- When he refuses to falsify the route ledgers, the consortium dismisses and blacklists him.
+- He keeps copies of no money or proprietary trade secrets, only maps showing where medicine repeatedly fails to arrive.
+
+#### Recruitment
+
+During early Year Three, Lu notices that several supposedly unrelated rural clinics are sharing medicine through an unusually efficient but incomplete network.
+
+- He does not discover The Quaint Teahouse directly.
+- He anonymously corrects three failing supply routes and prevents shortages at clinics connected to Rhen's apprentices.
+- Sera deliberately introduces a false shortage into the network to identify who is studying it.
+- Lu recognizes the false pattern, refuses to exploit it and sends back a better route plan.
+- Sera recruits him after confirming that he values successful delivery over ownership, recognition or profit.
+- Rhen offers him tea and employment before Sera finishes conducting the formal interview.
+- Lu accepts because the organization measures logistics by lives preserved rather than money accumulated.
+
+#### Character
+
+- Lu is quiet, dryly humorous and incapable of ignoring an inefficient storage shelf.
+- He carries route maps even during meals and unconsciously rearranges objects according to access frequency.
+- He is completely unafraid of Sera's reputation but deeply uncomfortable when forced to improvise without records.
+- His lack of martial strength remains genuine; the others protect him rather than revealing a surprise cultivation talent.
+- As **Chief Steward**, he controls deployment preparation, stores, couriers, intelligence routing and emergency extraction while remaining beneath Sera, Qin and Tae in command.
+
 He possesses no meaningful martial ability. His exceptional talents are:
 
 - supply-chain design
@@ -1402,11 +1516,17 @@ He possesses no meaningful martial ability. His exceptional talents are:
 
 Lu becomes indispensable because he can make Sera's intelligence and Rhen's medicine reach the correct place at the correct time.
 
-His history, recruitment circumstances and final command title remain `TBD`.
+#### Cloudrest Mountain and The Upper Room
 
-#### Hidden Mountain Cave
+While mapping abandoned supply routes, Lu Weiran discovers a vast concealed cave near the summit of **Cloudrest Mountain**.
 
-While mapping abandoned supply routes, Lu Weiran discovers a vast concealed cave near a mountain summit.
+Permanent names:
+
+- **Mountain:** Cloudrest Mountain
+- **Natural cave system:** Hollow Summit Cavern
+- **Hidden strategic base:** The Upper Room
+
+Lu initially proposes a formal military designation. Rhen calls it "the upper room" because it is above the tea house, and Sera keeps the name precisely because no enemy would expect it to describe a continental emergency base.
 
 The location provides:
 
@@ -1435,6 +1555,50 @@ The Quaint Teahouse constructs a hidden strategic base containing:
 
 The medicinal reserve is not western magic or literal material creation. It is functionally inexhaustible because Rhen's indoor cultivation, rotating medicine vaults, the medicinal farm and the guild's supply network replenish it faster than normal operations consume it. The reserve is designed to support prolonged disasters, mass treatment and a complete regional supply collapse.
 
+#### Capacity and Medical Reserves
+
+- The permanent residential population remains limited to the five core personnel.
+- Operational meetings can accommodate all 200 members of The Quiet Hand without converting the base into a barracks.
+- The underground shelters can sustain **3,000 people for approximately three months** under rationed conditions.
+- In a short emergency, the tunnels and shelters can hold **up to 10,000 people for ten days** while evacuation continues.
+- The medical vaults maintain at least **50,000 complete ordinary treatment courses**, plus separate trauma, poison and cultivation-injury reserves.
+- Seeds, dried herbs, concentrated extracts and indoor terraces allow essential medicines to be reproduced if outside supply routes collapse.
+- No single vault holds the entire reserve; losing one chamber cannot destroy the base's medical capacity.
+
+#### Access System
+
+The Upper Room has three controlled entry routes and seven emergency exits.
+
+1. **Freight route** — enters through an abandoned quarry network and carries bulk medicine, equipment and shelter supplies.
+2. **Water route** — follows an underground spring and is used for small teams, covert arrivals and medical evacuation.
+3. **Summit route** — a narrow natural approach used only by senior leadership and emergency messengers.
+
+Access rules:
+
+- Lu changes active waypoints, delivery timings and approach routes on an irregular schedule.
+- No supply convoy travels directly from Second Spring Tea House to Cloudrest Mountain.
+- The ten cell captains each know one complete approach and the operational areas required for their cell.
+- Wayfinder specialists learn route segments rather than the complete exterior network.
+- Other Quiet Hand operatives enter under a Wayfinder's guidance and do not receive a full exterior map.
+- Civilian evacuees enter through screened wagons, night movement or underground evacuation branches and are told only that they are being taken to an old mountain shelter.
+- Only Sera, Qin, Tae, Lu and Rhen know every entrance, exit and internal sector.
+
+#### Concealment and Defence
+
+The Upper Room is hidden through terrain, disciplined movement and layered martial engineering rather than magical invisibility.
+
+- false quarry collapses and dead-end tunnels conceal the freight approach
+- water noise masks movement near the spring entrance
+- Qin designs vibration lines that reveal digging, tunnelling or unauthorized movement
+- Tae reinforces internal gates and collapse points with iron-qi anchors
+- Sera designs nonlethal Orchid traps that disable intruders at narrow junctions
+- Lu maintains false manifests, rotating caches and unrelated surface routes
+- smoke, cooking air and forge heat are dispersed through distant natural vents
+- key archives, medicines and command rooms occupy separate sealed sectors
+- automated defences remain nonlethal unless Sera has explicitly authorized lethal defence against a confirmed attacking force
+
+If secrecy is irreversibly lost, the plan is evacuation through separate exits and destruction of sensitive records—not a glorious last stand.
+
 #### Restricted Residence and Strategic Purpose
 
 The hidden base is not the guild's everyday headquarters, public clinic, mass training ground or permanent barracks.
@@ -1458,7 +1622,14 @@ Other apprentices, battalions and field squads:
 
 The base exists primarily as a secure point where senior leadership can convene, medicine can be protected, endangered personnel can retreat and the organization can survive a major external attack.
 
-The mountain, cave and base names, exact access protocols and full defensive arrangements remain `TBD`.
+#### Discovery Risk at the Cliffhanger
+
+- At the end of Year Five, no Five Sovereign, Five Duke, government or foreign power knows The Upper Room's location.
+- Jin knows how to contact Rhen and Sera but does not know the base exists.
+- Tae's removed poison contains no surviving tracker or signal after Rhen's treatment.
+- The new-continent enemy cannot locate the base automatically.
+- The Upper Room could still be compromised if a core member is captured, a returning rescue force is followed or several compartmentalized route fragments are assembled.
+- Lu treats the rescue arc as the first event capable of exposing the base to an enemy powerful enough to exploit those risks.
 
 #### Tae Muyeon Is Poisoned
 
@@ -1542,7 +1713,7 @@ By Year Five, The Quaint Teahouse maintains a hidden specialist force of exactly
 2. **Qin Luo — operational commander, security authority and second-in-command**
 3. **Tae Muyeon — training commander, formation-breaking authority and third-in-command**
 4. **Lu Weiran — Chief Steward, deployment planner and logistical authority**
-5. **Ten cell captains — each commands one permanent twenty-person operational cell; identities `TBD`**
+5. **Ten founding cell captains — Han Mira through Tang Lumei, each commanding one permanent twenty-person operational cell**
 6. **Rhen — chief medical instructor with no command authority**
 
 Rhen may stop training or deployment for medical reasons, but he does not select targets, command missions or override Sera's decisions.
@@ -1711,6 +1882,33 @@ By Year Five:
 - The base remains a strategic convening and fallback point rather than the guild's daily centre of operations.
 - Rhen remains outside formal command.
 - The Top Ten still do not know The Quaint Teahouse exists.
+
+#### Knowledge Boundaries at the Year Five Endpoint
+
+##### Full Knowledge
+
+- **Rhen, Sera, Qin Luo, Tae Muyeon and Lu Weiran** know the complete organization, The Quiet Hand, The Upper Room and the senior power hierarchy.
+- Rhen can accurately assess Sera, Qin and Tae's cultivation, although he does not turn those assessments into public rankings.
+- Sera, Qin and Tae understand one another's approximate combat level through training and command work.
+- Lu maintains operational threat assessments but does not pretend to possess a cultivator's technical judgment.
+
+##### Partial Internal Knowledge
+
+- The ten cell captains know all 200 members, the command hierarchy and the existence of The Upper Room.
+- Each captain knows only the approach and internal sectors necessary for their cell.
+- They know Sera, Qin and Tae vastly exceed Marquis class but are not given exact cultivation labels.
+- They know Rhen is an impossible physician and their chief medical instructor; none has confirmation that he is the Petal Monarch.
+- Jiang Fen and Oh Minseok know the guild's senior leaders and relief network but not the complete Quiet Hand roster or base map.
+- Ordinary apprentices, physicians and couriers believe The Quiet Hand is a small emergency unit rather than a 200-person Marquis-class army.
+
+##### External Belief
+
+- The public continues to regard Sera as a retired tea-house owner and former Pale Orchid.
+- Qin is believed to have disappeared from martial affairs after his critical injuries; his Sovereign recovery is unknown.
+- Tae's reduced public activity creates rumours of travel, recovery or private training; nobody knows he joined Sera.
+- Lu has no martial reputation and remains invisible to the ranking world.
+- The Five Sovereigns do not know Sera is near Paragon, Qin has reached Sovereign or Tae is serving as The Quiet Hand's training commander.
+- Jin knows a private route to contact Rhen and Sera and suspects they possess unusual resources, but he does not know The Quaint Teahouse, The Quiet Hand or The Upper Room exists.
 
 #### Sera Withdraws From Rhen's Passive
 
@@ -1985,20 +2183,14 @@ These are intentionally blank until the user supplies more skeleton material:
 - former legendary fighters and retired figures
 - exact formal breakthrough test, public recognition standard and matchup limits for the newly defined Paragon level
 - combined Sera-versus-Top-Three comparison
-- exact Qin Luo-versus-Liang Yue matchup
 - complete public ranking structure five years later, including how much of the new strength is officially recognized
-- who knows Sera, Qin Luo and Tae Muyeon's true five-year levels
 
 ### Remaining Quaint Teahouse Planning
 
-- the corrupt governor's name, territory, final sentence and surviving allies
-- apprentice count, names, individual roles and progression
-- exact medical reason Qin Luo remains blind
-- Lu Weiran's history and initial recruitment circumstances
-- names, personalities and backgrounds of the ten Quiet Hand cell captains
-- mountain, cave and hidden-base names and exact security arrangements
-- who outside the organization knows The Quaint Teahouse exists
-- the exact status of Qin Luo's local passive refinement after the five-year endpoint
+- whether Peng Sui returns and what becomes of the fractured Red Willow Sect
+- later personal arcs, relationships and possible successors among the ten Quiet Hand cell captains
+- whether The Upper Room is exposed during or after the new-continent rescue
+- long-term command succession if Sera, Qin or Tae becomes unavailable
 
 ### Remaining World-State Planning
 
@@ -2029,6 +2221,21 @@ Do **not** fill these automatically.
 ---
 
 ## 7. Revision Log
+
+### 2026-08-29 — Personnel, Upper Room and Lanyun Governor Development
+
+- Established that Qin Luo was born blind; his congenital blindness is not an injury and cannot be restored by repairing damaged tissue or meridians.
+- Defined Qin's even environmental matchup with Liang Yue and locked his local passive status through the Year Five cliffhanger.
+- Added the twelve original healing apprentices, including the ten founding Quiet Hand cell captains and two senior civilian directors.
+- Completed Lu Weiran's merchant-caravan background, blacklisting, recruitment, personality and Chief Steward responsibilities.
+- Named the hidden location **Cloudrest Mountain**, **Hollow Summit Cavern** and **The Upper Room**.
+- Defined The Upper Room's population capacity, medical reserves, three controlled entrances, seven emergency exits, route compartmentalization and layered nonlethal defences.
+- Locked who knows the organization, senior cultivation levels, Quiet Hand roster and complete base location.
+- Established that the new-continent enemy cannot automatically locate The Upper Room at the cliffhanger.
+- Named Year One's antagonist **Governor Duan Jicheng of Lanyun Prefecture** and defined his background, High Master strength, guards and false use of Kael's influence.
+- Added Duan's protection network, evidence trail, life sentence, restitution and surviving allies.
+- Confirmed that Duan has no direct connection to Tae's poisoner or the new-continent enemy.
+- No runtime, architecture, UI, canon-data or implementation files were changed.
 
 ### 2026-08-29 — Five Sovereign Political Order and Quiet Hand Structure
 
