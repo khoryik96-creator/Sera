@@ -6,7 +6,7 @@ async function waitForApp(page: import('@playwright/test').Page) {
 }
 
 test('Sera gallery remains single-layered and reversible', async ({ page }, testInfo) => {
-  await page.goto('/#characters/sera');
+  await page.goto('/legacy.html#characters/sera');
   await waitForApp(page);
   const gallery = page.locator('[data-portrait-gallery]');
   await expect(gallery).toBeVisible();
@@ -25,7 +25,7 @@ test('Sera gallery remains single-layered and reversible', async ({ page }, test
 });
 
 test('mobile reader has no page-level horizontal overflow', async ({ page }) => {
-  await page.goto('/#characters/rhen');
+  await page.goto('/legacy.html#characters/rhen');
   await waitForApp(page);
   const dimensions = await page.evaluate(() => ({ width: document.documentElement.clientWidth, scroll: document.documentElement.scrollWidth }));
   expect(dimensions.scroll).toBeLessThanOrEqual(dimensions.width + 2);
@@ -33,7 +33,7 @@ test('mobile reader has no page-level horizontal overflow', async ({ page }) => 
 });
 
 test('episode deep link loads requested season without a screen-covering navigator', async ({ page }, testInfo) => {
-  await page.goto('/#episodes/59/1');
+  await page.goto('/legacy.html#episodes/59/1');
   await waitForApp(page);
   const episode = page.locator('#ep-s59-e1');
   await expect(episode).toBeVisible();
@@ -52,20 +52,20 @@ test('episode deep link loads requested season without a screen-covering navigat
 });
 
 test('Lucy-style rank pills replace inline rank-name prefixes in episode prose', async ({ page }) => {
-  await page.goto('/#episodes/1/1');
+  await page.goto('/legacy.html#episodes/1/1');
   await waitForApp(page);
   const prose = page.locator('#ep-s1-e1 .full-legend-text');
   await expect(prose).toBeVisible();
   await expect(prose.locator('.ranked-name .rank-badge').first()).toBeVisible();
   await expect(prose).not.toContainText(/#\d+\s*-\s*(Kael|Liang|Jin|Lei|Rui|Sera|Arin|Luo|Yun)/);
 
-  await page.goto('/#characters/rhen');
+  await page.goto('/legacy.html#characters/rhen');
   await waitForApp(page);
   await expect(page.locator('#charDetail .rank-badge--unranked').filter({ hasText: 'UNR' })).toHaveCount(1);
 });
 
 test('reader text size and spacing controls work without changing the app shell', async ({ page }) => {
-  await page.goto('/#episodes/1/1');
+  await page.goto('/legacy.html#episodes/1/1');
   await waitForApp(page);
   const prose = page.locator('#ep-s1-e1 .full-legend-text');
   const before = await prose.evaluate((node) => getComputedStyle(node).fontSize);
@@ -79,7 +79,7 @@ test('reader text size and spacing controls work without changing the app shell'
 });
 
 test('core reader surface has no critical automated accessibility violations', async ({ page }) => {
-  await page.goto('/#characters/sera');
+  await page.goto('/legacy.html#characters/sera');
   await waitForApp(page);
   const result = await new AxeBuilder({ page }).analyze();
   const critical = result.violations.filter((violation) => violation.impact === 'critical');
@@ -87,7 +87,7 @@ test('core reader surface has no critical automated accessibility violations', a
 });
 
 test('manifest and install metadata are exposed', async ({ page }) => {
-  await page.goto('/#characters/sera');
+  await page.goto('/legacy.html#characters/sera');
   await waitForApp(page);
   await expect(page.locator('link[rel="manifest"]')).toHaveAttribute('href', './manifest.webmanifest');
   await expect(page.locator('meta[name="theme-color"]')).toHaveAttribute('content', '#0f1115');

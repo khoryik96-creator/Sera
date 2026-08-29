@@ -1,0 +1,26 @@
+.novel-lore-link{display:inline;border:0;padding:0;background:transparent;color:inherit;font:inherit;line-height:inherit;text-align:inherit;cursor:pointer;text-decoration-line:underline;text-decoration-style:dotted;text-decoration-thickness:1px;text-underline-offset:3px;text-decoration-color:color-mix(in srgb,currentColor 42%,transparent)}
+.novel-lore-link:hover{filter:brightness(1.14);text-decoration-style:solid}
+.novel-lore-link:focus-visible{outline:1px solid currentColor;outline-offset:3px;border-radius:2px}
+
+/* Dialogue speaker labels should read like a normal attribution, not a second heading. */
+.reader-prose .dialogue-card{display:block;margin:.78em 0;padding:.72em .9em;border:1px solid rgba(255,255,255,.07);border-left:3px solid currentColor;border-radius:10px;background:color-mix(in srgb,currentColor 8%,transparent)}
+.reader-prose .dialogue-speaker{display:inline-block;font-size:.82em;line-height:1.25;letter-spacing:.01em;text-transform:none;font-weight:700;margin:0 0 .24em;padding:0}
+.reader-prose .dialogue-card .dialogue-quote{display:block;color:var(--text);font-size:1em;font-weight:400;line-height:inherit;letter-spacing:normal}
+.dialogue-speaker.novel-lore-link{width:auto;max-width:100%;letter-spacing:.01em;text-decoration:none}
+.dialogue-speaker.novel-lore-link:hover{text-decoration:underline;text-decoration-style:dotted;text-underline-offset:3px}
+
+/* The tray remains in-flow, but sticky placement makes a clicked name visibly respond even deep in a chapter. */
+.reader-lore-context{position:sticky;top:84px;z-index:7;display:grid;grid-template-columns:minmax(0,1fr) auto;align-items:center;gap:18px;margin:10px 0 12px;border:1px solid #334944;border-radius:13px;padding:13px 15px;background:linear-gradient(120deg,rgba(111,201,183,.095),rgba(15,18,21,.985));box-shadow:0 12px 34px rgba(0,0,0,.24)}
+.reader-lore-context__copy{min-width:0}
+.reader-lore-context__copy>span{display:block;color:#74807e;font-size:.57rem;font-weight:800;letter-spacing:.1em;text-transform:uppercase}
+.reader-lore-context__copy>div{display:flex;align-items:center;gap:8px;min-width:0;margin-top:4px}
+.reader-lore-context__copy strong{min-width:0;font-family:'Playfair Display',serif;font-size:1rem;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.reader-lore-context__copy p{margin:4px 0 0;color:#929ba2;font-size:.63rem;line-height:1.45}
+.reader-lore-context__actions{display:flex;align-items:center;gap:6px}
+.reader-lore-context__actions button{min-height:34px;border:1px solid #36544c;border-radius:8px;padding:7px 10px;background:rgba(111,201,183,.06);color:var(--accent);font-size:.61rem;font-weight:800;white-space:nowrap;cursor:pointer}
+.reader-lore-context__actions button:hover{border-color:#507268;background:rgba(111,201,183,.1)}
+.reader-lore-context__actions .reader-lore-context__close{border-color:#30373d;background:#14181c;color:#818a92}
+body.reader-focus-mode .reader-lore-context{top:10px}
+
+@media(max-width:800px){.reader-lore-context{top:68px;grid-template-columns:1fr;gap:9px;padding:12px 13px}.reader-lore-context__actions{justify-content:flex-start}.reader-lore-context__copy>div{flex-wrap:wrap}.novel-lore-link{touch-action:manipulation}.reader-prose .dialogue-card{margin:.64em 0;padding:.66em .78em}}
+@media(max-width:520px){.reader-lore-context{top:58px}.reader-lore-context__actions button{min-height:38px}.reader-lore-context__copy strong{font-size:.94rem}.reader-prose .dialogue-speaker{font-size:.84em}}
