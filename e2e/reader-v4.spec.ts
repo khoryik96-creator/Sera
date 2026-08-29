@@ -30,7 +30,6 @@ test('scrolling a chapter persists a reusable exact position', async ({ page }) 
     window.scrollTo(0, top + prose.offsetHeight * 0.46);
   });
 
-  await expect.poll(async () => Number.parseInt((await page.locator('.reader-chapter-position strong').textContent()) || '0', 10)).toBeGreaterThan(5);
   await page.waitForTimeout(850);
   await page.evaluate(() => window.scrollBy(0, 1));
 

@@ -5,7 +5,6 @@ import { DB } from '../../../db';
 import { EPISODE_ARCS } from '../../../episodeMeta';
 import { loadSeason } from '../../../seasonStore';
 import { renderNovel } from '../../../novel';
-import { nextUnreadTarget, progressForSeason } from '../../../readingProgress';
 import { getChapterPosition, saveChapterPosition } from '../../../readerPositions';
 import type { ChapterPosition } from '../../../readerPositions';
 import type { Episode } from '../../../types';
@@ -15,7 +14,6 @@ import '../../styles/contextual-lore.css';
 import '../../styles/passages.css';
 import '../../styles/reader-v4.css';
 import { EpisodeNoteEditor } from './EpisodeNoteEditor';
-import { SeasonEpisodeSwitcher } from './SeasonEpisodeSwitcher';
 import { useReaderState } from './ReaderContext';
 import type { ReaderFont, ReaderSpacing, ReaderWidth } from './ReaderContext';
 
@@ -76,7 +74,6 @@ function scrollToProseProgress(root: HTMLElement, progress: number): void {
 export function ReaderPage({ season, episode, onBack, onOpenChapter }: ReaderPageProps) {
   const {
     bookmarks,
-    readEpisodes,
     markRead,
     toggleSaved,
     savePassage,
@@ -96,7 +93,6 @@ export function ReaderPage({ season, episode, onBack, onOpenChapter }: ReaderPag
   const [loreKey, setLoreKey] = useState<string | null>(null);
   const [selectedPassage, setSelectedPassage] = useState('');
   const [passageNotice, setPassageNotice] = useState('');
-  const [chapterScrollPercent, setChapterScrollPercent] = useState(0);
   const [resumePosition, setResumePosition] = useState<ChapterPosition | null>(null);
   const [resumeDismissed, setResumeDismissed] = useState(false);
   const [focusMode, setFocusMode] = useState(loadFocusMode);
@@ -111,7 +107,6 @@ export function ReaderPage({ season, episode, onBack, onOpenChapter }: ReaderPag
     setLoreKey(null);
     setSelectedPassage('');
     setPassageNotice('');
-    setChapterScrollPercent(0);
     setResumeDismissed(false);
     setResumePosition(getChapterPosition(chapterId));
     loadSeason(season).then((rows) => {
@@ -127,6 +122,14 @@ export function ReaderPage({ season, episode, onBack, onOpenChapter }: ReaderPag
     });
     return () => { alive = false; };
   }, [season, episode, chapterId]);
+
+  useEffect(() => {
+    // A fresh chapter always starts at the top, so tapping Previous/Next drops the
+    // reader straight into the new chapter instead of keeping the old scroll
+    // offset. The resume-position banner still offers a jump back when a saved
+    // position exists.
+    window.scrollTo({ top: 0, behavior: 'auto' });
+  }, [season, episode]);
 
   useEffect(() => {
     document.body.classList.toggle('reader-focus-mode', focusMode);
@@ -179,7 +182,6 @@ export function ReaderPage({ season, episode, onBack, onOpenChapter }: ReaderPag
       frame = 0;
       if (pageHiding) return;
       latestProgress = readProgress();
-      setChapterScrollPercent(Math.round(latestProgress * 100));
       persistProgress(latestProgress, false);
     };
 
@@ -209,10 +211,6 @@ export function ReaderPage({ season, episode, onBack, onOpenChapter }: ReaderPag
   const saved = bookmark ? bookmarks.some((item) => item.id === bookmark.id) : false;
   const arcIndex = EPISODE_ARCS.findIndex((arc) => arc.seasons.some((entry) => entry.season === season));
   const arc = EPISODE_ARCS[Math.max(0, arcIndex)];
-  const seasonProgress = progressForSeason(readEpisodes, season);
-  const nextUnread = nextUnreadTarget(readEpisodes, { season, episode });
-  const previousTitle = episode > 1 ? episodes[episode - 2]?.title : season > 1 ? `Final chapter of Season ${season - 1}` : 'Beginning';
-  const nextTitle = episode < episodes.length ? episodes[episode]?.title : season < 64 ? `Season ${season + 1} · Chapter 1` : 'The End';
   const loreEntry = loreKey ? characterRegistry.find((entry) => entry.key === loreKey) : undefined;
   const loreProfile = loreKey ? DB.characters[loreKey] : undefined;
   const loreName = loreProfile ? cleanCharacterName(loreProfile.name) : loreEntry?.displayName || '';
@@ -320,12 +318,6 @@ export function ReaderPage({ season, episode, onBack, onOpenChapter }: ReaderPag
             <div className="reader-header__actions">
               <button className={`bookmark-toggle ${saved ? 'is-saved' : ''}`} onClick={() => bookmark && toggleSaved(bookmark)} type="button">{saved ? '★ Saved' : '☆ Bookmark'}</button>
               {showResumePosition ? <button className="reader-position-resume" onClick={resumeExactPosition} type="button"><span>Resume position</span><strong>{Math.round((resumePosition?.progress || 0) * 100)}%</strong></button> : null}
-              {nextUnread ? <button className="next-unread-button" onClick={() => onOpenChapter(nextUnread.season, nextUnread.episode)} type="button"><span>Next unread</span><strong>S{nextUnread.season} · Ch {nextUnread.episode}</strong></button> : <span className="reader-complete-chip">Story complete</span>}
-            </div>
-
-            <div className="reader-progress" aria-label={`Season ${season} progress`}>
-              <div className="reader-progress__copy"><span>Season progress</span><strong>{seasonProgress.read} / {seasonProgress.total} opened · {seasonProgress.percent}%</strong></div>
-              <div className="reader-progress__track" role="progressbar" aria-valuemin={0} aria-valuemax={100} aria-valuenow={seasonProgress.percent} aria-label={`Season ${season} ${seasonProgress.percent}% complete`}><span style={{ width: `${seasonProgress.percent}%` }} /></div>
             </div>
           </header>
 
@@ -344,13 +336,6 @@ export function ReaderPage({ season, episode, onBack, onOpenChapter }: ReaderPag
             {selectedPassage ? <button className="reader-passage-save" onClick={saveSelectedPassage} type="button">Save passage · {selectedPassage.length} chars</button> : null}
             {passageNotice ? <span className="reader-passage-notice" role="status">{passageNotice}</span> : null}
           </div>
-
-          <div className="reader-chapter-position" aria-label="Chapter position">
-            <div><span>Chapter position</span><strong>{chapterScrollPercent}%</strong></div>
-            <div className="reader-chapter-position__track" role="progressbar" aria-valuemin={0} aria-valuemax={100} aria-valuenow={chapterScrollPercent} aria-label={`Chapter ${chapterScrollPercent}%`}><span style={{ width: `${chapterScrollPercent}%` }} /></div>
-          </div>
-
-          <SeasonEpisodeSwitcher season={season} episode={episode} episodes={episodes} readEpisodes={readEpisodes} onOpenChapter={onOpenChapter} />
 
           {bookmark ? <EpisodeNoteEditor episode={bookmark} /> : null}
 
@@ -373,9 +358,9 @@ export function ReaderPage({ season, episode, onBack, onOpenChapter }: ReaderPag
           </article>
 
           <nav className="reader-nav reader-nav--v3" aria-label="Chapter navigation">
-            <button disabled={season === 1 && episode === 1} onClick={() => { void goPrevious(); }} type="button"><span>← Previous</span><strong>{episode > 1 ? `Ch ${episode - 1}` : season > 1 ? `S${season - 1} finale` : 'Start'}</strong><small>{previousTitle}</small></button>
-            <button className="reader-nav__archive" onClick={onBack} type="button"><span>Season {season}</span><strong>Chapters</strong><small>{seasonProgress.percent}% opened</small></button>
-            <button disabled={season === 64 && episode === episodes.length} onClick={goNext} type="button"><span>Next →</span><strong>{episode < episodes.length ? `Ch ${episode + 1}` : season < 64 ? `S${season + 1} · Ch 1` : 'End'}</strong><small>{nextTitle}</small></button>
+            <button disabled={season === 1 && episode === 1} onClick={() => { void goPrevious(); }} type="button"><span>← Previous</span><strong>{episode > 1 ? `Ch ${episode - 1}` : season > 1 ? `S${season - 1} finale` : 'Start'}</strong></button>
+            <button className="reader-nav__archive" onClick={onBack} type="button"><span>Season {season}</span><strong>Chapters</strong></button>
+            <button disabled={season === 64 && episode === episodes.length} onClick={goNext} type="button"><span>Next →</span><strong>{episode < episodes.length ? `Ch ${episode + 1}` : season < 64 ? `S${season + 1} · Ch 1` : 'End'}</strong></button>
           </nav>
         </>
       ) : null}

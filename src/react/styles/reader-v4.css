@@ -4,3 +4,8 @@ body.reader-focus-mode .sidebar,body.reader-focus-mode .topbar,body.reader-focus
 @media(max-width:800px){.reader-chapter-position{grid-template-columns:1fr;gap:6px}.reader-chapter-position>div:first-child{justify-content:space-between}.reader-position-resume{min-width:0}.reader-header__actions{flex-wrap:wrap}body.reader-focus-mode .content{padding:14px 14px 72px}body.reader-focus-mode .reader-header--v4{padding-inline:4px}body.reader-focus-mode .reader-controls{top:8px}body.reader-focus-mode .reader-surface{padding-inline:18px}}
 @media(max-width:520px){.reader-chapter-position{padding:7px 9px}.reader-position-resume{width:100%}}
 @media(prefers-reduced-motion:reduce){.reader-chapter-position__track>span{transition:none}}
+.reader-page--v4 .reader-header{padding:16px 18px;gap:14px}
+.reader-page--v4 .reader-header .reader-meta-chips{margin-bottom:8px}
+.reader-page--v4 .reader-header h2{margin:2px 0 5px;font-size:clamp(1.3rem,3.4vw,1.85rem);line-height:1.14}
+.reader-page--v4 .reader-header__copy>p{margin:0;font-size:.8rem;line-height:1.35;color:#7c848c}
+@media(max-width:800px){.reader-page--v4 .reader-header{padding:14px 15px;gap:12px}.reader-page--v4 .reader-header h2{font-size:clamp(1.25rem,5.2vw,1.6rem)}}
