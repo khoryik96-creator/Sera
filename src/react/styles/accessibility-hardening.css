@@ -1,0 +1,10 @@
+/* Accessibility contrast corrections discovered by the production Axe matrix.
+   Keep the muted hierarchy, but do not let small utility text fall below WCAG AA. */
+.library-summary > article > span,
+.overview-rank-list small,
+.overview-explore-grid small,
+.search-palette__footer,
+.reader-chapter-position > div:first-child > span,
+.reader-page .reader-nav small {
+  color: var(--muted) !important;
+}
