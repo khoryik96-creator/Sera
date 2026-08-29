@@ -5,6 +5,7 @@ import { characterAppearanceSeasons, characterLegends, rankJourney, relatedChara
 import type { AppearanceScan } from '../../shared/characterInsights';
 import { cleanCharacterName, rankLabel, rankStatus } from '../../shared/rankState';
 import { PageHeader, RankBadge } from '../../components/Shared';
+import { TechniqueCard } from '../techniques/TechniqueCard';
 
 interface CharactersPageProps {
   selectedKey: string | null;
@@ -53,6 +54,7 @@ export function CharactersPage({ selectedKey, onOpenCharacter, onOpenChapter }: 
   const relationships = useMemo(() => relatedCharacters(activeKey, displayName), [activeKey, displayName]);
   const legends = useMemo(() => characterLegends(activeKey, displayName), [activeKey, displayName]);
   const appearanceSeasons = useMemo(() => characterAppearanceSeasons(activeKey, displayName), [activeKey, displayName]);
+  const profileArts = activeKey === 'sera' ? DB.seraSkills : [];
 
   async function loadAppearances(): Promise<void> {
     setAppearanceLoading(true);
@@ -68,7 +70,7 @@ export function CharactersPage({ selectedKey, onOpenCharacter, onOpenChapter }: 
 
   return (
     <section>
-      <PageHeader eyebrow="Character archive" title="Characters" description="Profiles, rank history, relationship links, major legends, and story appearances derived from the same canon data that drives the reader." />
+      <PageHeader eyebrow="Character archive" title="Characters" description="Profiles, rank history, relationship links, major legends, martial arts, and story appearances derived from the same canon data that drives the reader." />
       <div className="character-workspace character-workspace--v2">
         <aside className="character-browser">
           <input className="filter-input" value={filter} onChange={(event: { target: HTMLInputElement }) => setFilter(event.target.value)} placeholder="Filter characters…" aria-label="Filter characters" />
@@ -121,6 +123,7 @@ export function CharactersPage({ selectedKey, onOpenCharacter, onOpenChapter }: 
           <nav className="character-section-nav" aria-label={`${displayName} profile sections`}>
             <button onClick={() => jumpToProfileSection('characterProfileTop')} type="button">Profile</button>
             <button onClick={() => jumpToProfileSection('characterRankSection')} type="button">Rank</button>
+            {profileArts.length ? <button onClick={() => jumpToProfileSection('characterLeadArtsSection')} type="button">Arts</button> : null}
             <button onClick={() => jumpToProfileSection('characterRelationshipsSection')} type="button">Relations</button>
             <button onClick={() => jumpToProfileSection('characterLegendsSection')} type="button">Legends</button>
             <button onClick={() => jumpToProfileSection('characterAppearancesSection')} type="button">Episodes</button>
@@ -135,6 +138,13 @@ export function CharactersPage({ selectedKey, onOpenCharacter, onOpenChapter }: 
               </div>
             ) : <div className="character-v2-empty">No numeric ranking history is recorded for this character.</div>}
           </section>
+
+          {profileArts.length ? (
+            <section className="character-v2-section" id="characterLeadArtsSection" aria-labelledby="characterLeadArtsHeading">
+              <div className="character-v2-heading"><div><p className="eyebrow">Pale Orchid arts</p><h3 id="characterLeadArtsHeading">Sera — signature martial system</h3></div><span>{profileArts.length} archived technique{profileArts.length === 1 ? '' : 's'}</span></div>
+              <div className="technique-stack">{profileArts.map((skill) => <TechniqueCard key={`sera-profile-${skill.name}`} skill={skill} />)}</div>
+            </section>
+          ) : null}
 
           <section className="character-v2-section" id="characterRelationshipsSection" aria-labelledby="relationshipsHeading">
             <div className="character-v2-heading"><div><p className="eyebrow">Relationships</p><h3 id="relationshipsHeading">Connections</h3></div><span>Derived from existing profile records</span></div>
