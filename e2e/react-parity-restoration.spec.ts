@@ -50,3 +50,27 @@ test('React exposes Install Reader when the browser provides an install prompt',
   await expect.poll(() => page.evaluate(() => Boolean((window as typeof window & { __readerInstallPrompted?: boolean }).__readerInstallPrompted))).toBe(true);
   await expect(install).toHaveCount(0);
 });
+
+test('React Chapters restores the selected season character memory guide', async ({ page }) => {
+  await page.goto('/#chapters');
+  await expect(page.getByRole('heading', { name: 'Read The Quiet Regular' })).toBeVisible({ timeout: 20_000 });
+  await page.locator('.arc-card').filter({ hasText: 'Arc II — The Nine Seals' }).click();
+  await page.locator('.season-card').filter({ hasText: 'Season 4 - The Sea That Remembers' }).click();
+
+  const guide = page.locator('.season-cast-guide');
+  await expect(guide.getByText('New / Important Characters This Season')).toBeVisible();
+  await guide.locator('summary').click();
+  await expect(guide.locator('.season-cast-guide__grid article')).toHaveCount(3);
+  await expect(guide.getByText('#5 Rui', { exact: true })).toBeVisible();
+});
+
+test('React reader restores the compact dialogue color legend', async ({ page }) => {
+  await page.goto('/#chapter/1/1');
+  await expect(page.locator('.reader-surface')).toBeVisible({ timeout: 20_000 });
+  const key = page.locator('.reader-dialogue-key');
+  await expect(key.getByText('Dialogue Colors', { exact: true })).toBeVisible();
+  await key.locator('summary').click();
+  await expect(key.locator('.reader-dialogue-key__items').getByText('Rhen', { exact: true })).toBeVisible();
+  await expect(key.locator('.reader-dialogue-key__items').getByText('Former #6 Sera', { exact: true })).toBeVisible();
+  expect(await key.locator('.reader-dialogue-key__items > span').count()).toBeGreaterThan(10);
+});
