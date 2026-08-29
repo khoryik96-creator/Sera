@@ -434,7 +434,7 @@ Still `TBD`:
 - She remains aeons beneath Rhen, whose current strength still cannot be meaningfully measured.
 - Her Sovereign cultivation was developed through five years of training, martial refinement and the continuous strengthening effect of Rhen's passive.
 - The cultivation and technique mastery she gained are permanently hers; withdrawing Rhen's protection does not remove that growth.
-- Her exact level is known only within the six-person senior core; The Quiet Hand knows she vastly exceeds Marquis class without receiving the precise classification.
+- Her exact level is known only within the six-person Orchid core; The Quiet Hand knows she vastly exceeds Marquis class without receiving the precise classification.
 
 #### Withdrawal of Rhen's Passive Protection
 
@@ -1229,7 +1229,7 @@ Qin Luo remains the blind former World #6. Mo Qingzhao remains a separate charac
 - Qin's protection/refinement is local rather than Sera's unique distance-independent extension.
 - Five years of restored cultivation and passive refinement carry Qin into Sovereign level.
 - He becomes comparable overall to Liang Yue.
-- Qin becomes second-in-command of The Quaint Teahouse beneath Sera.
+- Qin becomes the **Second Inner Petal** of The Quaint Teahouse, serving as second-in-command beneath Sera.
 - He helps with medicinal cultivation, diagnosis, apprentice training, base security and vibration-based monitoring.
 
 #### Qin Luo Versus Liang Yue
@@ -1362,7 +1362,7 @@ Unlike Rhen's dependency severance, Qin does not remove a relationship. He destr
 
 - **Public status:** Alive, inactive, reduced and under tribunal supervision
 - **Secret five-year cultivation:** High Sovereign — same cultivation tier as Tae Muyeon
-- **Quaint Teahouse position:** Offensive General and Quiet Hand instructor
+- **Quaint Teahouse position:** Sepal, Offensive General and Quiet Hand instructor
 
 #### Canon Survival and Recovery
 
@@ -1388,8 +1388,8 @@ Unlike Rhen's dependency severance, Qin does not remove a relationship. He destr
 
 Tae and Huo become The Quaint Teahouse's two Offensive Generals.
 
-- **Tae Muyeon:** remains third-in-command and holds senior organizational authority.
-- **Huo Wujin:** possesses equal battlefield authority during an approved offensive deployment but remains beneath Sera and Qin in command.
+- **Tae Muyeon:** holds the Senior Sepal seat, remains third-in-command and retains senior organizational authority.
+- **Huo Wujin:** holds a Sepal seat and possesses equal battlefield authority during an approved offensive deployment but remains beneath the Two Inner Petals in command.
 - Neither may authorize lethal force.
 - Their exact personal duel remains `TBD`; equal cultivation does not make their martial systems identical.
 - Tae controls distance, iron pressure, fundamentals and formation-breaking.
@@ -1425,7 +1425,7 @@ Tae and Huo become The Quaint Teahouse's two Offensive Generals.
 | **Mo Qian** | Deceased former #5. Receives no five-year development. |
 | **Yeon Hwa** | Deceased former #6. Remains part of Han Myeong's legacy. |
 | **Hwan Gyeom** | Deceased House of Quiet Petals elder. Receives no five-year development. |
-| **Huo Wujin** | Alive and publicly inactive under tribunal supervision; secretly restored to High Sovereign and serving as The Quaint Teahouse's second Offensive General. |
+| **Huo Wujin** | Alive and publicly inactive under tribunal supervision; secretly restored to High Sovereign and serving as a Sepal and The Quaint Teahouse's second Offensive General. |
 | **Jiang Taixuan** | Deceased. Gu Xian extracted part of his cultivation architecture before hiding his body beneath an abandoned northern shrine. |
 
 Deceased figures do not receive retrospective upgrades merely to keep pace with the five-year hierarchy. Their historical feats remain unchanged.
@@ -1471,13 +1471,17 @@ The five-year period is an active foundation arc rather than empty peace.
 - **Second Spring Tea House** remains Rhen and Sera's public home and ordinary business.
 - **The Quaint Teahouse** becomes the official internal name of the covert guild growing beneath it.
 - The public tea house, medicinal farm, apprentices, relief network and hidden mountain base all develop from the same desire: help people without returning to public martial rule.
-- Sera is first-in-command and the actual leader.
-- Qin Luo becomes second-in-command.
-- Tae Muyeon later becomes third-in-command and one of the guild's two Offensive Generals.
-- Huo Wujin joins under conditional tribunal custody as the second Offensive General, with equal cultivation and approved battlefield authority to Tae but no equivalent administrative seniority.
-- Lu Weiran becomes Chief Steward and operational network leader.
+- The senior hierarchy follows the structure of an orchid rather than a conventional military ranking board.
+- Sera and Qin Luo are the **Two Inner Petals**.
+- Sera is the **First Inner Petal**, absolute leader and sole authority over lethal force.
+- Qin is the **Second Inner Petal**, operational deputy and second-in-command.
+- Tae Muyeon, Huo Wujin and Lu Weiran are the **Three Sepals**, supporting and protecting the Inner Petals while governing distinct operational pillars.
+- Tae is the **Senior Sepal**, third-in-command and one of the guild's two Offensive Generals.
+- Huo is the second Offensive General, with equal cultivation and approved battlefield authority to Tae but no equivalent administrative seniority.
+- Lu is the Chief Steward and operational-network Sepal.
+- Rhen is the **Hidden Petal**, existing outside the command ladder as its healing teacher, physician and medicinal farmer.
 - The 200-person hidden force is internally known as **The Quiet Hand**.
-- Rhen refuses command and remains the healing teacher, physician and medicinal farmer.
+- The Hidden Petal title reflects Rhen's concealed presence and voluntary lack of command; it does not place him beneath the Inner Petals or Sepals in personal strength.
 - The guild avoids ranking disputes, territorial control, political conquest and unnecessary intervention.
 - Its existence remains unknown to the Top Ten through the end of Year Five.
 
@@ -1634,11 +1638,12 @@ Sera organizes these efforts into a covert guild officially named **The Quaint T
 
 #### Initial Command Structure
 
-1. **Sera — first-in-command**
-2. **Qin Luo — second-in-command**
-3. **Third-in-command — vacant until Tae joins**
+1. **First Inner Petal — Sera, leader and first-in-command**
+2. **Second Inner Petal — Qin Luo, operational deputy and second-in-command**
+3. **Three Sepal seats — vacant until Tae, Huo and Lu formally join**
 4. specialist leaders and senior apprentices
-5. **Rhen — healing teacher with no command position**
+
+**Outside the command order:** **Hidden Petal — Rhen**, healing teacher with no command position.
 
 Rhen gives advice when Sera asks, but does not override her decisions or become the hidden true leader.
 
@@ -1793,12 +1798,12 @@ The hidden base is not the guild's everyday headquarters, public clinic, mass tr
 
 Only the core personnel maintain private quarters and may reside there:
 
-- Rhen
-- Sera
-- Tae Muyeon, co-#1 and third-in-command
-- Huo Wujin, publicly inactive and secretly the second Offensive General
-- Qin Luo, the blind former #6 and second-in-command
-- Lu Weiran
+- Rhen, Hidden Petal
+- Sera, First Inner Petal and leader
+- Tae Muyeon, Senior Sepal, co-#1 and third-in-command
+- Huo Wujin, Sepal, publicly inactive and secretly the second Offensive General
+- Qin Luo, Second Inner Petal, the blind former #6 and second-in-command
+- Lu Weiran, Sepal and Chief Steward
 
 Rhen and Sera still regard Second Spring Tea House as their public home. Their quarters at the hidden base exist for emergencies, extended planning and periods when withdrawal is unsafe.
 
@@ -1845,7 +1850,7 @@ Rhen heals Tae but refuses to extend Frozen Petals Garden to him.
 
 #### Tae Joins The Quaint Teahouse
 
-Tae remains long enough to understand the organization and eventually joins as third-in-command.
+Tae remains long enough to understand the organization and eventually joins as the Senior Sepal and third-in-command.
 
 #### Huo Wujin Joins Under Custody
 
@@ -1855,18 +1860,22 @@ Huo enters Sera and Rhen's supervised medical custody during the same general pe
 - Huo joins only after accepting the non-conquest doctrine, Sera's sole authority over lethal force and the continuing terms of his sentence.
 - His current cultivation, access to The Upper Room and role in The Quiet Hand remain concealed from Kael and the tribunal.
 - Tae and Huo become the guild's two Offensive Generals and jointly train The Quiet Hand.
-- Tae retains organizational seniority and third-in-command status; Huo receives equal battlefield authority only after Sera approves an offensive deployment.
+- Tae occupies the Senior Sepal seat and retains organizational seniority and third-in-command status; Huo occupies a second Sepal seat and receives equal battlefield authority only after Sera approves an offensive deployment.
+- Lu occupies the third Sepal seat as Chief Steward, completing the Three Sepals.
 - Huo gradually comes to prefer tea, training and the quiet usefulness of the guild over the Empty Throne he once pursued.
 
-Final senior hierarchy:
+Final Orchid hierarchy:
 
-1. **Sera — first-in-command**
-2. **Qin Luo — second-in-command**
-3. **Tae Muyeon — third-in-command, senior Offensive General and training commander**
-4. **Huo Wujin — Offensive General with equal authority to Tae during an approved offensive deployment**
-5. **Lu Weiran — Chief Steward and operational network leader**
-6. senior healers and Orchid-trained field leaders
-7. **Rhen — healing teacher, medicinal farmer and no formal commander**
+1. **First Inner Petal — Sera:** absolute leader, first-in-command and sole lethal-force authority
+2. **Second Inner Petal — Qin Luo:** operational deputy, security authority and second-in-command
+3. **Senior Sepal — Tae Muyeon:** third-in-command, senior Offensive General and training commander
+4. **Sepal — Huo Wujin:** Offensive General with equal authority to Tae during an approved offensive deployment
+5. **Sepal — Lu Weiran:** Chief Steward and operational-network leader
+6. **Senior healers and Orchid-trained field leaders:** subordinate specialist leadership without a flower office
+
+**Outside the command order:** **Hidden Petal — Rhen**, healing teacher and medicinal farmer.
+
+The flower offices describe responsibility and access rather than cultivation strength. The Hidden Petal is therefore not the lowest rank, and the Three Sepals are not interchangeable: Tae retains senior command, Huo carries offensive authority and Lu governs logistics and information.
 
 ### 4.5 Year Four — The Hidden Guild Matures
 
@@ -1910,13 +1919,14 @@ By Year Five, The Quaint Teahouse maintains a hidden specialist force of exactly
 
 ##### Command Structure
 
-1. **Sera — absolute commander and sole lethal-force authority**
-2. **Qin Luo — operational commander, security authority and second-in-command**
-3. **Tae Muyeon — senior Offensive General, training commander, formation-breaking authority and third-in-command**
-4. **Huo Wujin — Offensive General and adaptive-combat instructor; equal battlefield authority to Tae during approved offensive deployments**
-5. **Lu Weiran — Chief Steward, deployment planner and logistical authority**
+1. **First Inner Petal — Sera:** absolute commander and sole lethal-force authority
+2. **Second Inner Petal — Qin Luo:** operational commander, security authority and second-in-command
+3. **Senior Sepal — Tae Muyeon:** senior Offensive General, training commander, formation-breaking authority and third-in-command
+4. **Sepal — Huo Wujin:** Offensive General and adaptive-combat instructor; equal battlefield authority to Tae during approved offensive deployments
+5. **Sepal — Lu Weiran:** Chief Steward, deployment planner and logistical authority
 6. **Ten founding cell captains — Han Mira through Tang Lumei, each commanding one permanent twenty-person operational cell**
-7. **Rhen — chief medical instructor with no command authority**
+
+**Outside the command order:** **Hidden Petal — Rhen**, chief medical instructor with no command authority.
 
 Rhen may stop training or deployment for medical reasons, but he does not select targets, command missions or override Sera's decisions.
 
@@ -2080,11 +2090,11 @@ Qin, Tae and Huo support all branches and battalions rather than creating person
 
 By Year Five:
 
-- Sera is a Peak Sovereign approaching Paragon.
-- Qin is a Sovereign comparable to Liang Yue.
-- Tae is a High Sovereign.
-- Huo is a High Sovereign in Tae's cultivation tier and serves beside him as the second Offensive General.
-- Lu Weiran operates a continental information and relief-supply network.
+- Sera is the First Inner Petal and a Peak Sovereign approaching Paragon.
+- Qin is the Second Inner Petal and a Sovereign comparable to Liang Yue.
+- Tae is the Senior Sepal and a High Sovereign.
+- Huo is a Sepal and a High Sovereign in Tae's cultivation tier, serving beside him as the second Offensive General.
+- Lu Weiran is the third Sepal and operates a continental information and relief-supply network.
 - The Quiet Hand is fully operational and is secretly the world's strongest army.
 - The apprentices can respond to crises without requiring Sera or Rhen personally.
 - The hidden base holds an effectively endless emergency medicine reserve and can temporarily shelter civilians, wounded personnel and retreating squads through its underground system.
@@ -2096,7 +2106,7 @@ By Year Five:
 
 ##### Full Knowledge
 
-- **Rhen, Sera, Qin Luo, Tae Muyeon, Huo Wujin and Lu Weiran** know the complete organization, The Quiet Hand, The Upper Room and the senior power hierarchy.
+- The complete six-person Orchid core—**Rhen, Sera, Qin Luo, Tae Muyeon, Huo Wujin and Lu Weiran**—knows the organization, The Quiet Hand, The Upper Room and the senior power hierarchy.
 - Rhen can accurately assess Sera, Qin, Tae and Huo's cultivation, although he does not turn those assessments into public rankings.
 - Sera, Qin, Tae and Huo understand one another's approximate combat level through training and command work.
 - Lu maintains operational threat assessments but does not pretend to possess a cultivator's technical judgment.
@@ -2430,6 +2440,16 @@ Do **not** fill these automatically.
 ---
 
 ## 7. Revision Log
+
+### 2026-08-29 — Orchid Command Hierarchy
+
+- Replaced the Quaint Teahouse's conventional senior ranking labels with an Orchid-based internal hierarchy.
+- Established Sera and Qin Luo as the **Two Inner Petals**, with Sera as First Inner Petal and absolute leader and Qin as Second Inner Petal and operational deputy.
+- Established Tae Muyeon, Huo Wujin and Lu Weiran as the **Three Sepals**.
+- Preserved Tae as Senior Sepal and third-in-command, Huo as the second Offensive General and Lu as Chief Steward.
+- Named Rhen the **Hidden Petal**, explicitly outside formal command rather than beneath the other flower offices.
+- Preserved Sera's exclusive lethal-force authority and all previously locked battlefield and administrative responsibilities.
+- No runtime, architecture, UI, canon-data or implementation files were changed.
 
 ### 2026-08-29 — Orchid Dominion and Huo Wujin Recruitment
 
