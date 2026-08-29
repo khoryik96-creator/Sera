@@ -47,6 +47,22 @@
 | 9 | Year Five | **Sovereigns Beneath Five Peaks** | Wuyue and the hidden guild reach their mature five-year positions. |
 | 10 | Year Five | **The Last Cup Before North** | Sera leaves Rhen's passive, the apprentices stand independently and Jin's signal ends the arc. |
 
+### 3.1 Core Evolution Spine
+
+The core members must not arrive at their Year Five strength only because the reference skeleton says they did. Their growth is a continuing story line running underneath the medicine, guild, political and romantic plots.
+
+| Core member | Early arc | Middle arc | Year Five payoff |
+|---|---|---|---|
+| **Rhen — Hidden Petal** | His healing evolution is demonstrated by restoring Qin's destroyed vibration meridians while respecting the limits of healing. His passive begins refining Qin locally as a long-term patient. | Treating Tae's Sovereign poison and supporting the Quiet Hand show greater diagnostic precision, medical scale and control. The flood operation foreshadows the mass-healing protection of **Sanctuary of Petals** without forcing Rhen to solve the conflict himself. | **Frozen Petals Garden** is confirmed as an Evolved Supreme Passive and his non-Ultimate arts have reached their locked five-year tiers. Only powers demanded by the story are shown; the Ultimate remains unusable and his complete combat reserve remains hidden. |
+| **Sera — First Inner Petal** | Her old Orchid arts return through protecting patients and training twelve healers, but she initially expresses them as separate techniques and instincts. | Command work, field missions and Quiet Hand instruction advance **Veiled Moon**, **Orchid Shadow Steps**, **Seven Petals, One Breath**, **Fading Fragrance** and **Orchid Behind the Mirror** into their Transcended forms. | She reaches **Peak Sovereign, approaching Paragon**. Her passive, movement, needles, perception and circulation disruption nearly function as one continuous system, but she cannot form **Orchid Dominion**. Her growth is proven again after she voluntarily leaves Rhen's protection. |
+| **Qin Luo — Second Inner Petal** | Rhen restores his damaged cultivation structures, not his congenital blindness. Qin rebuilds environmental awareness and begins recovering the vibration arts that once made him World #6. | His perception, false vibration movement, resonance disruption and counter-ambush work evolve through routes, rain, tunnels and Upper Room security. The passive refinement he receives remains local to Rhen's ordinary one-mile field. | He reaches **Sovereign**, comparable overall to Liang Yue. **Bell Beneath the Rain** and his evolved resonance arts demonstrate why he can secure the guild as Second Inner Petal; his blindness is never treated as something he had to overcome. |
+| **Tae Muyeon — Senior Sepal** | He enters poisoned and physically reduced, then refuses Rhen's passive and rebuilds through his own cultivation. | Training the Quiet Hand forces him to refine **Boundless Horizon** through iron-qi anchors, hardened geometry and compressed bodily impact rather than merely applying greater force. | He reaches **High Sovereign**. **Heaven Is Always One Step Away** has become his evolved Supreme Art, while his mature iron-horizon system establishes him as one of the guild's two Offensive Generals. |
+| **Huo Wujin — Sepal** | He enters under tribunal supervision with his Nine Meridian Wheels returning slowly and no promise of forgiveness or passive advancement. | Recovery, teaching and repeated choices replace conquest with responsibility. Different restored Wheels let him train recruits against changing rhythms and martial answers without passing on forbidden cultivation architecture. | All Nine Wheels stabilize through his own cultivation and he returns to **High Sovereign**, equal in cultivation tier to Tae. No unapproved new named art is invented; his evolution is expressed through restored multi-principle control, restraint and adaptive combat. |
+| **Lu Weiran — Sepal** | He begins as a blacklisted noncombatant whose route corrections save medicine before anyone knows his name. | He builds rotating warehouses, verification chains, emergency routes and The Upper Room's compartmentalized refuge system. Each operational failure visibly improves the next version. | He remains without martial cultivation, but commands a continental intelligence, medicine and logistics system capable of operating when senior leaders disappear. His development is mastery and authority, not a surprise combat awakening. |
+| **The twelve apprentices and Quiet Hand** | The original twelve begin as imperfect healers who cannot protect themselves or their patients. | Orchid defence, medical discipline and the four-battalion curriculum produce independent strategists rather than followers who depend on Sera. | Ten captains approach Duke level, 150 operatives reach genuine Marquis class and 40 technical specialists become exceptional in their fields. Their Year Five crisis without Sera or Rhen proves evolution through earned competence rather than borrowed power. |
+
+**Reveal rule:** progression is shown through a problem each evolved ability or system can now solve. The narrative must never stop for a complete technique-list recital. A final-tier name should appear only when the corresponding development has been earned on-page.
+
 ---
 
 ## 4. Season One — A Garden Behind the Teahouse
@@ -88,7 +104,7 @@ Rhen diagnoses the destruction of Qin's highest vibration meridians and the inte
 
 ### Chapter 9 — What Healing Cannot Manufacture
 
-Rhen repairs Qin's damaged cultivation structures but does not create a sense Qin never possessed. Qin wakes, confirms that he never asked to see and later identifies the underground water the medicinal farm needs through restored vibration awareness.
+Rhen's evolving healing repairs Qin's damaged cultivation structures but does not create a sense Qin never possessed. Qin wakes, confirms that he never asked to see and later identifies the underground water the medicinal farm needs through restored vibration awareness. Remaining under Rhen's roof also begins Qin's exceptional long-term recovery inside the ordinary local refinement field of Frozen Petals Garden.
 
 ### Chapter 10 — One More Bowl at Dinner
 
@@ -123,7 +139,7 @@ Patient records expose patterns connecting medicine shortages, confiscated harve
 
 ### Chapter 16 — The Villages Speak Quietly
 
-Witnesses agree to testify only if their families and patients can be protected. The apprentices use their new skills to move people and evidence while Qin detects pursuit through roads and rain.
+Witnesses agree to testify only if their families and patients can be protected. The apprentices use their new skills to move people and evidence while Qin's recovering **Listening Through Stone** turns roads and rain into his first reliable environmental map since his injury.
 
 ### Chapter 17 — Red Willow at the Door
 
@@ -162,7 +178,7 @@ The apprentices establish protected medicine caches after ordinary bandits targe
 
 ### Chapter 24 — Qin Hears the Network
 
-Qin maps the developing routes through vibration, courier timing and human movement. His growing authority emerges through competence before Sera gives it a formal title.
+Qin maps the developing routes through vibration, courier timing and human movement. Repeated fieldwork begins evolving **Wuyin Hums** and **Silent Bell Step** beyond their former limits, while his growing authority emerges through competence before Sera gives it a formal title.
 
 ### Chapter 25 — The Patient Who Had to Disappear
 
@@ -205,7 +221,7 @@ Sera creates compartmentalized courier practices and safe houses. The emphasis r
 
 ### Chapter 33 — The Woman Behind Every Route
 
-Sera coordinates several interventions from the tea house while serving customers. Her ability to switch between domestic normality and strategic command becomes central to her five-year identity.
+Sera coordinates several interventions from the tea house while serving customers. She uses the same discipline behind **Orchid Behind the Mirror** to make corrupt observers read an authentic but deliberately false operational future. Her ability to switch between domestic normality and strategic command becomes central to her five-year identity.
 
 ### Chapter 34 — Qin at the Second Seat
 
@@ -213,7 +229,7 @@ Qin stops an internal security failure without sight or public force. Sera forma
 
 ### Chapter 35 — Healers Who Can Leave Alive
 
-The Orchid-trained apprentices protect a relief route without killing their attackers. The outcome proves Sera's defensive curriculum can function beyond the tea-house courtyard.
+The Orchid-trained apprentices protect a relief route without killing their attackers. Sera's increasingly unreadable movement and adaptive **Seven Petals, One Breath** quietly establish that her own arts are evolving alongside the curriculum. The outcome proves her defensive teaching can function beyond the tea-house courtyard.
 
 ### Chapter 36 — Rhen's Only Command
 
@@ -307,11 +323,11 @@ The network finds Tae Muyeon near death from poison designed for Sovereign circu
 
 ### Chapter 55 — The Horizon on a Treatment Table
 
-Rhen removes Tae's poison through evolved healing while preserving evidence where possible. He refuses Frozen Petals Garden and explains why he will not manufacture an expanding class of passively accelerated Sovereigns.
+Rhen removes Tae's Sovereign-tailored poison through the developing healing and protection principles that will mature into **Sanctuary of Petals**, while preserving evidence where possible. He refuses Frozen Petals Garden and explains why he will not manufacture an expanding class of passively accelerated Sovereigns.
 
 ### Chapter 56 — The Guest Who Trains at Dawn
 
-Tae stays to recover and begins correcting the apprentices' physical weaknesses without being asked. Sera evaluates whether his presence is help, intrusion or the beginning of a command role.
+Tae stays to recover and begins correcting the apprentices' physical weaknesses without being asked. His own rehabilitation starts integrating metal and iron qi into **Boundless Horizon**, proving that Rhen healed him but did not grant him his future strength. Sera evaluates whether his presence is help, intrusion or the beginning of a command role.
 
 ### Chapter 57 — The Senior Sepal
 
@@ -319,7 +335,7 @@ Tae accepts the non-conquest doctrine and Sera's lethal-force authority. He beco
 
 ### Chapter 58 — The Prisoner with Nine Wheels
 
-Huo Wujin enters Rhen and Sera's supervised custody under tribunal conditions. His recovery, crimes and returning Meridian Wheels are treated openly within the senior core rather than erased by recruitment.
+Huo Wujin enters Rhen and Sera's supervised custody under tribunal conditions. His recovery, crimes and slowly returning Nine Meridian Wheels are treated openly within the senior core rather than erased by recruitment. He receives no Frozen Petals Garden refinement.
 
 ### Chapter 59 — Tea for a Man Who Wanted the World
 
@@ -346,23 +362,23 @@ The original apprentices confront the difference between becoming capable healer
 
 ### Chapter 63 — Tae's First Iron Trial
 
-Tae exposes dependence on ideal weapons, terrain and techniques. The harshness establishes why the force becomes exceptional, while Rhen's medical authority sets an absolute boundary against permanent damage.
+Tae exposes dependence on ideal weapons, terrain and techniques. Invisible iron-qi anchors from his evolving **Boundless Horizon** make correct distances arrive late and turn his unarmed impacts iron-dense. The harshness establishes both his progression and why the force becomes exceptional, while Rhen's medical authority sets an absolute boundary against permanent damage.
 
 ### Chapter 64 — Huo Changes the Answer
 
-Huo uses different Meridian Wheels to vary pressure and rhythm without teaching forbidden transplantation. Recruits learn that solving one opponent does not mean the battlefield will remain solved.
+Huo uses a growing number of stabilized Meridian Wheels to vary pressure and rhythm without teaching forbidden transplantation. Recruits learn that solving one opponent does not mean the battlefield will remain solved, while Huo proves that each stage of his returning strength has been rebuilt through his own cultivation.
 
 ### Chapter 65 — Beneath Sera's Veil
 
-Sera teaches infiltration, deception, anatomical restraint and independent strategy. She makes clear that assassin-level methods do not grant permission to kill.
+Sera teaches infiltration, deception, anatomical restraint and independent strategy through practical demonstrations of her evolving Orchid system. **Veiled Moon** begins behaving like a true passive; **Orchid Shadow Steps**, **Seven Petals, One Breath**, **Fading Fragrance** and **Orchid Behind the Mirror** are shown only as the exercises require them. She makes clear that assassin-level methods do not grant permission to kill.
 
 ### Chapter 66 — The Spring Battalion Fails a Patient
 
-A training casualty reveals that combat success is meaningless if the team cannot preserve life. Rhen rebuilds the exercise around diagnosis, stabilization and retreat under pressure.
+A training casualty reveals that combat success is meaningless if the team cannot preserve life. Rhen rebuilds the exercise around diagnosis, stabilization and retreat under pressure, revealing that his healing can now protect and treat a growing group simultaneously without teaching the recruits his named Supreme arts.
 
 ### Chapter 67 — Roads That Move Behind Them
 
-Lu and Qin test communications, counter-ambush and extraction through deliberately broken plans. Wayfinders learn route segments rather than the complete Upper Room network.
+Lu and Qin test communications, counter-ambush and extraction through deliberately broken plans. Qin's evolving **Silent Bell Step**, **Hollow Chime** and resonance counters create false pursuit trails and expose concealed circulation, while Wayfinders learn route segments rather than the complete Upper Room network.
 
 ### Chapter 68 — Four Battalions, One Cell
 
@@ -401,7 +417,7 @@ Veil and Wayfinder specialists enter both camps through ordinary logistical role
 
 ### Chapter 75 — The Second Cell Opens the Water Road
 
-Spring and Iron specialists stabilize the collapsing corridor and begin moving civilians. Rhen remains a medical resource rather than taking over the operation personally.
+Spring and Iron specialists stabilize the collapsing corridor and begin moving civilians. Rhen briefly shelters and treats casualties at a scale foreshadowing **Sanctuary of Petals**, but remains a medical resource rather than taking over the operation personally.
 
 ### Chapter 76 — Two Thousand Orders, No Command
 
@@ -413,7 +429,7 @@ Flood conditions destroy the assumptions behind Lu's original route. Cell captai
 
 ### Chapter 78 — Medicine Through the Impossible Pass
 
-Both cells reconnect the corridor, treat the wounded and complete mass evacuation. Qin's remote security coordination prevents an ambush without revealing the guild's centre.
+Both cells reconnect the corridor, treat the wounded and complete mass evacuation. Rain expands Qin's developing **Bell Beneath the Rain** across the operation, allowing his remote security coordination to prevent an ambush without revealing the guild's centre.
 
 ### Chapter 79 — Forty Shadows Leave No Graves
 
@@ -444,15 +460,15 @@ Ilyra and the Crownless Host protect the shared route where no regional army can
 
 ### Chapter 84 — The Upper Room at Capacity
 
-A full strategic and medical exercise tests the Upper Room's shelters, reserves and compartmentalized access without turning it into a permanent barracks. The base succeeds because Lu's system survives senior leaders deliberately removing themselves from the exercise.
+A full strategic and medical exercise tests the Upper Room's shelters, reserves and compartmentalized access without turning it into a permanent barracks. The base succeeds because Lu's continental supply, intelligence and fallback system survives senior leaders deliberately removing themselves from the exercise, completing his five-year evolution without giving him martial power.
 
 ### Chapter 85 — Two Generals and One Bad Pot of Tea
 
-Tae and Huo conduct a senior Quiet Hand trial before arguing over Huo's latest tea. Their friendship, equal cultivation tier and unequal organizational authority are shown through work and humour rather than an unnecessary duel.
+Tae and Huo conduct a senior Quiet Hand trial. Tae's mature iron-horizon system and evolved **Heaven Is Always One Step Away** establish his High Sovereign endpoint; Huo's nine stabilized Wheels demonstrate equal cultivation through adaptive multi-principle pressure rather than copying Tae's strengths. They finish by arguing over Huo's latest tea, showing friendship and unequal organizational authority without an unnecessary duel.
 
 ### Chapter 86 — The World Qin Hears
 
-Qin's restored Sovereign cultivation and environmental resonance allow him to secure the network across rain, tunnels and crowded streets. His competence confirms why he is the Second Inner Petal without turning his blindness into a weakness to overcome.
+Qin's restored Sovereign cultivation and evolved resonance arts allow him to secure the network across rain, tunnels and crowded streets. **Listening Through Stone**, **Bell Beneath the Rain** and one controlled Supreme-level suppression or interruption establish that he is now comparable overall to Liang Yue. His competence confirms why he is the Second Inner Petal without turning his blindness into a weakness to overcome or reciting his complete technique list.
 
 ### Chapter 87 — The Captains Decide Without Sera
 
@@ -464,7 +480,7 @@ The Quiet Hand completes a controlled strategic assessment proving that one cell
 
 ### Chapter 89 — The Orchid Almost Becomes One
 
-Sera demonstrates that her passive, movement, needles, perception and circulation disruption are approaching one unified system. She remains Peak Sovereign rather than forming Orchid Dominion.
+Sera demonstrates her Transcended **Veiled Moon**, **Orchid Shadow Steps**, **Seven Petals, One Breath**, **Fading Fragrance** and **Orchid Behind the Mirror** as interconnected parts of one battle rather than separate exhibitions. Her needles, perception and circulation disruption are approaching one unified system, and **Pale Veil Funeral** has reached Supreme level. She remains Peak Sovereign rather than forming Orchid Dominion, and **The Orchid Blooms Only Once** remains story-locked.
 
 ### Chapter 90 — Protection That Has Become a Question
 
