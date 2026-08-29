@@ -12,6 +12,7 @@ import './styles/pwa.css';
 import './styles/visual-polish.css';
 import './styles/performance.css';
 import './styles/ux-audit.css';
+import './styles/accessibility-hardening.css';
 
 async function preloadInitialRoute(): Promise<void> {
   const raw = decodedRouteHash();
