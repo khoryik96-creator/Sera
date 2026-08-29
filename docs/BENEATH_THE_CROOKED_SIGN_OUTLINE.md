@@ -76,23 +76,23 @@ Rhen and Sera settle into the rhythms of Second Spring Tea House. Their final cu
 
 ### Chapter 2 — Soil Behind the Kitchen
 
-Rhen turns the neglected garden behind the tea house into the beginning of a medicinal farm. Sera discovers that his idea of a “small patch” threatens her storage space and business accounts.
+Rhen turns the neglected garden behind the tea house into the beginning of a medicinal farm, identifying the soil, water and internal-energy conditions needed for medicines local physicians cannot afford. Sera discovers that his idea of a “small patch” threatens her storage space and business accounts.
 
 ### Chapter 3 — Payment in Turnips
 
-Rhen treats poor villagers without charging them and accepts impractical goods in return. Sera complains about the finances while quietly ensuring no patient is turned away.
+Rhen treats poor villagers without charging them and accepts impractical goods in return. He gives one medicinal tea a painfully literal name; Sera renames it before a customer can hear. She complains about the finances while quietly ensuring no patient is turned away.
 
 ### Chapter 4 — Twelve Empty Stools
 
-The growing patient line forces Rhen to admit that one physician cannot serve every village. Twelve prospective apprentices arrive for a trial built around observation, restraint and basic care rather than martial talent.
+The growing patient line forces Rhen to admit that one physician cannot serve every village. Twelve prospective apprentices arrive for a trial built around observation, restraint and basic care rather than martial talent: Han Mira, Chen Wulian, Seo Dabin, Lin Tao, Mei Rulan, Gu Seongho, Bai Nari, Ren Shuo, Yeo Hwan, Tang Lumei, Jiang Fen and Oh Minseok. The chapter introduces them through arrivals and first choices rather than twelve consecutive biographies.
 
 ### Chapter 5 — A Healer Is Not a Miracle
 
-Rhen teaches the difference between stabilizing a patient and displaying power. The twelve fail in different ways, allowing their personalities and future specialties to emerge without immediately assigning final roles.
+Rhen teaches pulse and circulation diagnosis, meridian stabilization, poison identification, emergency medicine and the difference between healing someone and merely delaying death. Han remains calm, Chen attacks the problem too directly, Seo challenges the diagnosis, Lin notices a changed detail, Mei reads the frightened family, Gu protects the treatment space, Bai improvises communication, Ren repairs equipment, Yeo commits to the patient, Tang anticipates the next failure, Jiang questions access and Oh studies the medicine itself. Their failures establish future specialties without assigning final offices.
 
 ### Chapter 6 — The First Night Shift
 
-A cluster of ordinary emergencies forces the apprentices to cooperate before they are ready. Sera organizes the room instinctively, then denies that she has accepted responsibility for any of them.
+A cluster of ordinary emergencies forces the apprentices to cooperate before they are ready. Han organizes evacuation, Yeo anchors field treatment, Bai keeps information moving and the others discover that no specialty works alone. Sera organizes the room instinctively, the twelve begin treating Rhen and Sera like parental figures, and Sera denies that she has accepted responsibility for any of them.
 
 ### Chapter 7 — A Bell at the Door
 
@@ -119,7 +119,7 @@ Qin remains under their roof as a long-term medical case. The season ends with t
 
 ### Chapter 11 — The Price of Permission
 
-Governor Duan Jicheng's officials demand licensing payments designed to make independent treatment impossible. Sera refuses without revealing who she once was, while Rhen records the medical consequences of withheld medicine.
+Governor Duan Jicheng, an unexceptional High Master governing Lanyun Prefecture through roughly three hundred provincial guards, demands licensing payments designed to make independent treatment impossible. His officials imply that distant association with Kael protects them. Sera refuses without revealing who she once was, publicly identifies Rhen as her husband when an official dismisses him as her employee, and Rhen records the medical consequences of withheld medicine.
 
 ### Chapter 12 — Bruises Beneath White Sleeves
 
@@ -127,35 +127,35 @@ Provincial guards and Red Willow enforcers injure apprentices protecting patient
 
 ### Chapter 13 — Lessons from the Pale Orchid
 
-Sera begins teaching Orchid-origin defensive foundations. Her training focuses on escape, disarming, patient protection and anatomical restraint rather than creating another assassination house.
+Sera begins teaching Orchid-origin defensive foundations drawn from Orchid Shadow Steps, Petal-Severing Touch, Seven Petals, One Breath, Veiled Moon principles and the anatomical precision behind Whispering Orchid Needles. Her training focuses on escape, disarming, patient protection and restraint rather than creating another assassination house.
 
 ### Chapter 14 — Seven Petals, Twelve Healers
 
-The apprentices struggle to adapt martial principles to treatment work. Rhen repeatedly interrupts Sera's harsher instincts with medical objections, creating humour without undermining her authority.
+The apprentices struggle to adapt martial principles to treatment work. Chen and Gu develop the strongest protective foundations; Lin, Mei and Bai adapt naturally to observation, misdirection and communication; Ren turns terrain into nonlethal advantage; Tang begins treating each exercise as a strategic problem. Rhen repeatedly interrupts Sera's harsher instincts with medical objections, creating humour without undermining her authority.
 
 ### Chapter 15 — Ledgers That Do Not Heal
 
-Patient records expose patterns connecting medicine shortages, confiscated harvests and fabricated taxes. Sera assigns the apprentices to gather truth through treatment rather than espionage for its own sake.
+Patient records expose patterns connecting medicine shortages, confiscated harvests and fabricated taxes. Sera traces Deputy Treasurer Peng Sui's altered ledgers, three merchant houses buying confiscated goods and provincial clerks burying complaints. She assigns the apprentices to gather truth through treatment rather than espionage for its own sake.
 
 ### Chapter 16 — The Villages Speak Quietly
 
-Witnesses agree to testify only if their families and patients can be protected. The apprentices use their new skills to move people and evidence while Qin's recovering **Listening Through Stone** turns roads and rain into his first reliable environmental map since his injury.
+Witnesses agree to testify only if their families and patients can be protected. Lin scouts altered terrain, Mei enters merchant circles, Bai divides communications, Ren prepares escape routes and Han coordinates the whole evacuation while Qin's recovering **Listening Through Stone** turns roads and rain into his first reliable environmental map since his injury.
 
 ### Chapter 17 — Red Willow at the Door
 
-Elder Cao Wen's enforcers attempt to destroy records and intimidate the tea house. Sera defeats the intervention cleanly and nonlethally, making clear that Duan's borrowed authority has reached its limit.
+Elder Cao Wen leads Red Willow enforcers in an attempt to destroy records and intimidate the tea house. Sera defeats the intervention cleanly and nonlethally, while the apprentices protect witnesses and patients. The confrontation exposes that Kael never authorized Red Willow's claim and that Duan's borrowed authority has reached its limit.
 
 ### Chapter 18 — Three Copies of the Truth
 
-Sera sends matching evidence to competing authorities so no single office can bury it. Rhen's clinical notes, warehouse inventories and altered ledgers turn individual suffering into an undeniable case.
+Sera sends matching evidence to competing authorities so no single office can bury it. Rhen's clinical notes, Peng's original and altered ledgers, warehouse inventories, witness testimony and disaster supplies recovered from merchant estates turn individual suffering into an undeniable case.
 
 ### Chapter 19 — The Governor Without a Province
 
-Duan's network collapses, the Red Willow Sect abandons him and restitution begins. Peng Sui escapes with partial records, while Sera refuses both assassination and public credit.
+Duan is stripped of office and sentenced to life imprisonment. Criminal family assets are seized, proven land is returned, remaining restitution funds clinics, irrigation and replacement medicine, the three merchant houses are dissolved or placed under restitution, and Cao Wen survives but loses his position as Red Willow fractures. Peng Sui escapes with partial records. Sera refuses assassination and public credit, and the story explicitly preserves that Duan has no connection to Tae's poison or Isgard.
 
 ### Chapter 20 — Tea After No Victory Feast
 
-The villages begin recovering, but Rhen and Sera reject celebration centred upon themselves. Their final cup closes Year One as the apprentices understand that healing may require removing the system causing the wound.
+The villages begin recovering, but Rhen and Sera reject celebration centred upon themselves. The case begins influencing later restrictions against using a Sovereign's name to seize land, control medicine or obstruct neutral relief. Their final cup closes Year One as the apprentices understand that healing may require removing the system causing the wound.
 
 ---
 
@@ -166,15 +166,15 @@ The villages begin recovering, but Rhen and Sera reject celebration centred upon
 
 ### Chapter 21 — The Second Spring
 
-The farm produces its first reliable large harvest. Oh Minseok begins assuming responsibility for cultivation while Rhen learns that teaching capable people also means allowing them to correct him.
+The farm produces its first reliable large harvest. Oh Minseok begins assuming responsibility for seed preservation, medicine quality and cultivation while Rhen learns that teaching capable people also means allowing them to correct him. Martial pilgrims discuss the increasingly mythical Petal Monarch over tea without recognizing the man carrying their herb baskets.
 
 ### Chapter 22 — A Clinic Beyond Walking Distance
 
-Jiang Fen leads the opening of the first rural clinic. The journey exposes how quickly one successful location creates expectations across an entire prefecture.
+Jiang Fen leads the opening of the first rural clinic and chooses civilian medicine over covert command without being treated as less courageous. The journey exposes how quickly one successful location creates expectations across an entire prefecture.
 
 ### Chapter 23 — Medicine Hidden from Thieves
 
-The apprentices establish protected medicine caches after ordinary bandits target relief shipments. Sera insists that a cache is useless if its secrecy prevents patients from finding help.
+The apprentices establish protected medicine caches after ordinary bandits target relief shipments. Seo Dabin builds poison checks, Gu Seongho designs wounded extractions and Ren Shuo improves field shelters and nonlethal traps. Sera insists that a cache is useless if its secrecy prevents patients from finding help.
 
 ### Chapter 24 — Qin Hears the Network
 
@@ -190,15 +190,15 @@ Sera and Qin debate when relief work justifies acting against authorities. Their
 
 ### Chapter 27 — No One Is Building a Sect
 
-More former patients and healers volunteer, prompting rumours that Sera is founding a martial house. She rejects the description while assigning training schedules, route rules and security responsibilities.
+More former patients and healers volunteer as the five ranked powers expand their armies and smaller sects seek protected affiliation. Competition over disciples, supply routes and cultivation resources reaches the clinic network. Sera rejects rumours that she is founding a martial house while assigning training schedules, route rules and security responsibilities.
 
 ### Chapter 28 — Reports During the Final Cup
 
-Sera repeatedly brings network reports into the one nightly period meant to contain no work. Rhen begins replacing each report with a cup until she notices what he is doing.
+Sera repeatedly brings network reports into the one nightly period meant to contain no work. Rhen leaves food beside reports she forgets to put down, then begins replacing each report with a cup until she notices what he is doing. Their final cup remains the one period when neither is commander, teacher, healer or legend.
 
 ### Chapter 29 — The Name Used Without Permission
 
-After Duan's fall, smaller officials continue exploiting distant Sovereign reputations. The network prevents a new medicine seizure, demonstrating that the corruption was systemic even if the Year One villain was not.
+After Duan's fall, smaller officials continue exploiting the reputations of five expanding military blocs whose jurisdictions are still unclear. The network prevents a new medicine seizure, demonstrating that the corruption was systemic even if the Year One villain was not, and establishing why Wuyue needs rules separating affiliation from authority.
 
 ### Chapter 30 — A Shadow Cast by Healing
 
@@ -213,7 +213,7 @@ The clinics, caches and couriers now form a recognizable network despite having 
 
 ### Chapter 31 — Three Villages, One Empty Cart
 
-A coordinated supply diversion threatens several clinics simultaneously. The crisis proves that informal goodwill cannot replace command, verification and accountable routes.
+A coordinated supply diversion crosses the emerging spheres of several Sovereign-aligned sects and threatens multiple clinics simultaneously. The crisis proves that informal goodwill and competing protection claims cannot replace command, verification and accountable routes.
 
 ### Chapter 32 — Couriers Without Uniforms
 
@@ -221,7 +221,7 @@ Sera creates compartmentalized courier practices and safe houses. The emphasis r
 
 ### Chapter 33 — The Woman Behind Every Route
 
-Sera coordinates several interventions from the tea house while serving customers. She uses the same discipline behind **Orchid Behind the Mirror** to make corrupt observers read an authentic but deliberately false operational future. Her ability to switch between domestic normality and strategic command becomes central to her five-year identity.
+Sera coordinates several interventions from the tea house while serving customers and grows comfortable identifying Rhen as her husband whenever customers assume he merely works for her. She uses the same discipline behind **Orchid Behind the Mirror** to make corrupt observers read an authentic but deliberately false operational future. Her ability to switch between domestic normality and strategic command becomes central to her five-year identity.
 
 ### Chapter 34 — Qin at the Second Seat
 
@@ -245,7 +245,7 @@ Sera and Qin formalize the first Orchid hierarchy while leaving three Sepal seat
 
 ### Chapter 39 — The First Coordinated Intervention
 
-The newly named guild completes its first multi-location mission under the Limited Intervention Doctrine. Success depends on physicians, couriers and witnesses rather than a spectacular martial victory.
+The newly named guild completes its first multi-location mission under the Limited Intervention Doctrine while rival sect affiliations threaten to turn relief access into a political claim. Success depends on physicians, couriers and witnesses rather than a spectacular martial victory, and the outcome quietly anticipates the Compact's later protection of neutral medicine corridors.
 
 ### Chapter 40 — Still a Tea House
 
@@ -288,7 +288,7 @@ Lu redesigns the clinic network through rotating warehouses, couriers and indepe
 
 ### Chapter 48 — The Abandoned Quarry Route
 
-While studying forgotten roads, Lu follows a route toward Cloudrest Mountain. The trip combines discovery with a supplier journey Rhen and Sera quietly treat as a private outing.
+While studying forgotten roads, Lu follows a route toward Cloudrest Mountain. The trip combines discovery with a supplier journey Sera deliberately invents as an excuse for private time with Rhen; he recognizes the excuse and accompanies her without exposing it.
 
 ### Chapter 49 — Hollow Summit Cavern
 
@@ -296,7 +296,7 @@ Lu discovers the concealed cave system and recognizes its strategic value. Sera 
 
 ### Chapter 50 — The Upper Room
 
-The core agrees to construct the base. Rhen's casual name defeats Lu's formal proposals, and Year Three reaches its midpoint with the guild preparing for responsibilities larger than any one clinic.
+The core agrees to construct the base. Rhen's casual name defeats Lu's formal proposals, and he begins a small private summit garden whose plants quietly correspond to moments in his marriage. Year Three reaches its midpoint with the guild preparing for responsibilities larger than any one clinic.
 
 ---
 
@@ -307,15 +307,15 @@ The core agrees to construct the base. Rhen's casual name defeats Lu's formal pr
 
 ### Chapter 51 — A Base That Must Not Become a Home
 
-Construction begins with the rule that The Upper Room is a strategic refuge rather than a barracks or replacement for Second Spring Tea House. Lu designs access compartmentalization before the first chamber is finished.
+Construction begins with the rule that The Upper Room is a strategic refuge rather than a barracks or replacement for Second Spring Tea House. It receives only six permanent residential suites, a central infirmary, distributed medicinal vaults holding at least fifty thousand ordinary treatment courses, indoor herb terraces, an archive, courier station, poison-isolation chamber, Qin's vibration room, Sera's strategy room and Rhen's ordinary tea room. Its supply is effectively endless through cultivation and rotation rather than material creation. Lu designs compartmentalization before the first chamber is finished.
 
 ### Chapter 52 — Seven Ways Out
 
-The core tests shelters, escape passages and the three controlled entrances. Qin's vibration lines and Sera's nonlethal traps establish defence through discipline rather than magical concealment.
+The core tests three controlled entrances—the freight, water and summit routes—alongside seven emergency exits. Shelters are designed to sustain three thousand people for roughly three months or ten thousand for ten days during active evacuation. No convoy travels directly from Second Spring and no vault holds the entire reserve. The future access rule is locked before recruitment: each captain will know only one full approach, while ordinary operatives receive route fragments. Qin's vibration lines, Sera's nonlethal traps and Lu's false manifests establish defence through terrain and discipline rather than magical concealment.
 
 ### Chapter 53 — Five Peaks, Five Governors
 
-News of the Wuyue Compact formalizes the Central, Northern, Eastern, Western and Southern Domains. The political reorganization provides stability while showing why local communities still need the unseen guild.
+Lei Zhen and Shen Rui complete their Sovereign breakthroughs as Jin negotiates the Wuyue Compact before expanding armies can collide. The Compact formalizes the Central, Northern, Eastern, Western and Southern Domains; protects neutral medicine, evacuation and disaster routes; prevents army movement across borders without consent; gives four Dukes regional associations; and grants Ilyra's Crownless Host an independent roaming mandate. The titles **Five Sovereigns** and **Five Dukes** become formal public usage. The reorganization provides stability while showing why local communities still need the unseen guild.
 
 ### Chapter 54 — Poison Meant for a Horizon
 
@@ -329,21 +329,21 @@ Rhen removes Tae's Sovereign-tailored poison through the developing healing and 
 
 Tae stays to recover and begins correcting the apprentices' physical weaknesses without being asked. His own rehabilitation starts integrating metal and iron qi into **Boundless Horizon**, proving that Rhen healed him but did not grant him his future strength. Sera evaluates whether his presence is help, intrusion or the beginning of a command role.
 
-### Chapter 57 — The Senior Sepal
+### Chapter 57 — The Horizon Under Review
 
-Tae accepts the non-conquest doctrine and Sera's lethal-force authority. He becomes the Senior Sepal and third-in-command without challenging Qin's position or Rhen's refusal of command.
+Tae accepts the non-conquest doctrine and Sera's lethal-force authority, then enters a sustained period of conditional membership, recovery, clinic work and apprentice training. He is considered for Senior Sepal and third-in-command but receives no permanent office yet, preserving Qin's position and Rhen's refusal of command.
 
 ### Chapter 58 — The Prisoner with Nine Wheels
 
-Huo Wujin enters Rhen and Sera's supervised custody under tribunal conditions. His recovery, crimes and slowly returning Nine Meridian Wheels are treated openly within the senior core rather than erased by recruitment. He receives no Frozen Petals Garden refinement.
+Huo Wujin enters Rhen and Sera's supervised medical custody under tribunal conditions approved by Kael. Kael and the tribunal believe the transfer exists only to monitor the returning Nine Meridian Wheels; neither is told about The Quaint Teahouse or The Upper Room. Huo's recovery and crimes are treated openly within the senior core rather than erased by recruitment, and he receives no Frozen Petals Garden refinement.
 
 ### Chapter 59 — Tea for a Man Who Wanted the World
 
-Huo's interest in conquest has begun giving way to the strange quiet of recovery and ordinary work. His first attempts at brewing tea are terrible enough that Sera briefly considers the tribunal sentence insufficient.
+Across an extended probation of treatment, farm work, supervised field support and apprentice instruction, Huo repeatedly chooses restraint when dominance would be easier. His interest in conquest begins giving way to the strange quiet of useful work. His first attempts at brewing tea are terrible enough that Sera briefly considers the tribunal sentence insufficient.
 
-### Chapter 60 — Three Sepals, Six Cups
+### Chapter 60 — Six Cups, Three Promises
 
-Huo accepts the guild's restrictions and becomes the second Offensive General while Lu completes the Three Sepals as Chief Steward. The Upper Room opens with six core members sharing tea instead of conducting a military inauguration; Rhen and Sera later return to their private final cup beneath the crooked sign.
+Huo accepts the guild's restrictions and joins conditionally during Year Three without erasing his sentence. Lu is recognized as Chief Steward, while Tae and Huo remain prospective Offensive Generals until their probation is complete. During his own probation, Tae retrofits internal gates and controlled collapse points with iron-qi anchors. The Upper Room opens with all six core members receiving full internal knowledge and sharing tea instead of conducting a military inauguration; everyone else remains compartmentalized. Rhen and Sera later return to their private final cup beneath the crooked sign.
 
 ---
 
@@ -352,13 +352,13 @@ Huo accepts the guild's restrictions and becomes the second Offensive General wh
 **Time:** Early to middle Year Four  
 **Season purpose:** Build the force through selection, failure and cross-training so its final strength feels earned rather than granted.
 
-### Chapter 61 — Two Hundred and No More
+### Chapter 61 — Three Sepals, Two Hundred Hands
 
-The guild establishes the maximum Quiet Hand strength at two hundred. Candidates come only from proven healers, scouts, defenders and relief workers rather than open recruitment.
+After Tae and Huo complete their sustained probation through recovery, ordinary work and restrained field service, Sera formally appoints Tae as Senior Sepal and senior Offensive General, Huo as Sepal and second Offensive General, and Lu as Sepal and Chief Steward. The guild then establishes the maximum Quiet Hand strength at two hundred. Candidates come only from proven healers, scouts, defenders and relief workers rather than open recruitment.
 
 ### Chapter 62 — Ten Captains Remember Twelve Stools
 
-The original apprentices confront the difference between becoming capable healers and leading covert cells. Jiang Fen and Oh Minseok choose civilian directorship without being framed as failures.
+The original apprentices confront the difference between becoming capable healers and leading covert cells. Han Mira through Tang Lumei accept responsibility for Cells One through Ten according to their established specialties. Jiang Fen becomes Director of Regional Clinics and Oh Minseok Director of Medicinal Cultivation without either being framed as a failed operative.
 
 ### Chapter 63 — Tae's First Iron Trial
 
@@ -386,11 +386,11 @@ Veil, Iron, Spring and Wayfinder specialists are mixed into twenty-person operat
 
 ### Chapter 69 — The Question Only Sera Can Answer
 
-Graduation candidates face an exercise where killing would be easier than restraint. Sera establishes the absolute lethal-force rule and rejects anyone who treats secrecy as permission to murder.
+Graduation candidates face an exercise where killing would be easier than restraint. Sera establishes the absolute lethal-force rule and rejects anyone who treats secrecy as permission to murder. The deployment ladder is locked separately from permission to kill: Lu may send one to five under standing humanitarian orders; Qin or Tae may approve six to nineteen while informing Sera; twenty or more require Sera; fifty require full senior briefing; and only Sera may mobilize all two hundred. None of those thresholds grants lethal authority.
 
 ### Chapter 70 — The Quiet Hand Closes
 
-The first full roster is finalized and dispersed across regional facilities rather than housed in The Upper Room. Afterward, Rhen observes that Sera has accidentally built the army she repeatedly insisted was not a sect; their final cup keeps the achievement grounded in home rather than conquest.
+Graduation requires unanimous approval from Sera, Qin and Tae, while Rhen retains an absolute medical veto; rejected candidates remain valued members of clinics, farms, supply routes and ordinary field squads. The first full roster is finalized as ten Peak Marquis-class captains approaching Duke level, one hundred fifty Marquis-class operatives and forty exceptional technical specialists. They disperse across regional facilities rather than live in The Upper Room. Afterward, Rhen observes that Sera has accidentally built the army she repeatedly insisted was not a sect; their final cup keeps the achievement grounded in home rather than conquest.
 
 ---
 
@@ -401,15 +401,15 @@ The first full roster is finalized and dispersed across regional facilities rath
 
 ### Chapter 71 — Rain on Two Armies
 
-Flooding and conflict between two sect coalitions trap civilians along a collapsing medicine corridor. Public forces argue over control while water and disease advance faster than negotiations.
+Flooding and conflict between two Sovereign-aligned sect coalitions trap civilians along a medicine corridor crossing domain responsibility. Public forces argue over jurisdiction and affiliation while water and disease advance faster than negotiations, exposing the gap between the Compact's promise and its local execution.
 
 ### Chapter 72 — A Corridor Claimed by Both Sides
 
-Each coalition attempts to control relief access, making ordinary medical movement impossible. Lu identifies routes believed impassable while Sera determines the crisis meets intervention doctrine.
+Each coalition attempts to control relief access in violation of the Compact's neutral-medicine rules, making ordinary movement impossible. Lu identifies routes believed impassable while Sera determines that delayed public arbitration cannot save the trapped civilians and the crisis meets intervention doctrine.
 
 ### Chapter 73 — Forty, Not Two Hundred
 
-Sera authorizes two Quiet Hand cells rather than overwhelming mobilization. She withholds lethal permission and requires both coalitions, civilians and wounded enemies to be treated under the same rules.
+Because forty exceeds the normal major-deployment threshold, Sera conducts the required senior briefing and personally authorizes two Quiet Hand cells rather than overwhelming mobilization. She withholds lethal permission and requires both coalitions, civilians and wounded enemies to be treated under the same rules.
 
 ### Chapter 74 — The First Cell Enters as Servants
 
@@ -421,7 +421,7 @@ Spring and Iron specialists stabilize the collapsing corridor and begin moving c
 
 ### Chapter 76 — Two Thousand Orders, No Command
 
-The infiltrating cell disables communications and isolates leadership nonlethally. Tae and Huo's training allows twenty operatives to dismantle forces that never realize they are fighting one coordinated unit.
+The infiltrating cell of twenty disables communications, physicians and formation anchors and isolates the equivalent of two thousand organized combatants nonlethally while the second cell concentrates on rescue. Tae and Huo's training makes the dismantling appear effortless because the larger force never succeeds in fighting as one unit.
 
 ### Chapter 77 — The River Chooses No Sect
 
@@ -437,7 +437,7 @@ The operation ends without a death caused by The Quiet Hand. Both coalitions los
 
 ### Chapter 80 — The Burden Brought Home
 
-Public credit falls upon scattered physicians and local relief groups. Sera and Rhen confront her habit of carrying every consequence alone, reaching their Year Four agreement about burden, honesty and protection.
+Public credit falls upon scattered physicians and local relief groups, while the Compact quietly corrects the jurisdictional failure without learning who made survival possible. Sera and Rhen confront her habit of carrying every consequence alone: she agrees not to conceal injury or exhaustion, and he agrees that worry does not grant him command over her choices. Their reconciliation is physically affectionate and ordinary rather than a manufactured rupture.
 
 ---
 
@@ -448,19 +448,19 @@ Public credit falls upon scattered physicians and local relief groups. Sera and 
 
 ### Chapter 81 — What Her Husband Forgot to Mention
 
-The Five Domains appear more stable than at any earlier point, contrasting public confidence in the Sovereigns with the quiet crises still handled beneath the crooked sign. During an ordinary married-couple conversation, Sera realizes that Rhen has described everyone else's five-year improvement while saying almost nothing about his own. She insists that knowing what her husband can now do is a reasonable marital requirement. Rhen gives her a brief, understated account of his exact ten-skill current roster while continuing tea-house chores; Sera's increasingly incredulous questions provide the humour. He demonstrates none of them, the exchange does not become a profile recital, and his Ultimate is acknowledged without being approached for use.
+The Five Domains appear more stable than at any earlier point, and pilgrims now discuss the Petal Monarch as something closer to myth while Rhen serves them unnoticed. During an ordinary married-couple conversation, Sera realizes that Rhen has described everyone else's five-year improvement while saying almost nothing about his own. She insists that knowing what her husband can now do is a reasonable marital requirement. Rhen gives her a brief, understated account of his exact ten-skill current roster while continuing tea-house chores; Sera's increasingly incredulous questions provide the humour. He demonstrates none of them, the exchange does not become a profile recital, and his Ultimate is acknowledged without being approached for use.
 
 ### Chapter 82 — Five Domains, One Medicine Road
 
-A Wuyue-wide medicine route passes through Stonecrown Highlands, White Vein Basin, Concord Vale, Stormreach March and Azure Riverlands. The domain structure and four Duke associations emerge through one connected logistical problem rather than five unrelated ranking cameos.
+A Wuyue-wide medicine route passes through the Central Domain's Stonecrown Highlands, Northern White Vein Basin, Eastern Concord Vale, Western Stormreach March and Southern Azure Riverlands as one connected emergency rather than five unrelated ranking cameos. Stonecrown reveals Kael's fifty-thousand-strong army and two-thousand-person elite core while his mountain-and-sand mastery and Arin's evolved precision solve separate parts of the crisis; White Vein shows Liang's disciplined twenty thousand and White Blood inspection system beside Yun's poison control; Concord Vale shows Jin coordinating twelve thousand direct troops and roughly seventy thousand allied fighters through his evolved battlefield strategy beside Mo's autonomous paper network; Stormreach shows Lei's eighteen thousand using violet-crimson thunderfire for rapid reinforcement without a permanently associated Duke; and Azure Riverlands shows Rui's thirty thousand using water-and-ice control to preserve ports and medicine transport beside Luo's evolved battlefield medicine. Each art appears only long enough to solve part of the shared route crisis.
 
 ### Chapter 83 — Eight Thousand Without a Border
 
-Ilyra and the Crownless Host protect the shared route where no regional army can intervene cleanly. Their independence, mobility and dual-role formations establish what Wuyue will lose when Ilyra is trapped in Isgard.
+Ilyra and the exactly eight-thousand-strong Crownless Host protect the shared route where no regional army can intervene cleanly. Her evolved dual meridians operate as simultaneous offensive and defensive engines, and the Host mirrors that identity through pressure-absorbing and returning-counteroffensive divisions. Their independence, mobility and refusal to answer permanently to any Sovereign establish what Wuyue will lose when Ilyra is trapped in Isgard; subordinate command remains unnamed until required later.
 
 ### Chapter 84 — The Upper Room at Capacity
 
-A full strategic and medical exercise tests the Upper Room's shelters, reserves and compartmentalized access without turning it into a permanent barracks. The base succeeds because Lu's continental supply, intelligence and fallback system survives senior leaders deliberately removing themselves from the exercise, completing his five-year evolution without giving him martial power.
+A full strategic and medical exercise tests the Upper Room's six-person residential limit, capacity for all two hundred operatives to convene, three-month support for three thousand evacuees, ten-day emergency capacity for ten thousand and at least fifty thousand ordinary treatment courses. One entry and one medicine vault are treated as lost; the seven-exit, distributed-reserve and compartmentalized-access systems still function. The base succeeds because Lu's continental supply, intelligence and fallback system survives senior leaders deliberately removing themselves from the exercise, completing his five-year evolution without giving him martial power.
 
 ### Chapter 85 — Two Generals and One Bad Pot of Tea
 
@@ -472,15 +472,15 @@ Qin's restored Sovereign cultivation and evolved resonance arts allow him to sec
 
 ### Chapter 87 — The Captains Decide Without Sera
 
-The ten cell captains face simultaneous operational problems while Sera refuses to supply the answer. Their different judgments demonstrate that the organization has produced leaders rather than obedient extensions of its founder.
+The ten cell captains face simultaneous operational problems while Sera refuses to supply the answer. Han prioritizes evacuation, Chen breaks a formation, Seo challenges a false diagnosis, Lin detects a changed route, Mei reads a human deception, Gu holds an extraction line, Bai rebuilds communications, Ren creates an emergency passage, Yeo preserves the critically wounded and Tang coordinates the separate answers into one strategy. Their different judgments demonstrate that the organization has produced leaders rather than obedient extensions of its founder.
 
 ### Chapter 88 — Twenty Against the Measure of an Army
 
-The Quiet Hand completes a controlled strategic assessment proving that one cell can dismantle a conventional two-thousand-person elite command structure when no Sovereign is present. The benchmark is established without launching an unauthorized attack upon Kael's actual troops.
+Using the completed flood operation, captured formation behaviour and a full red-team reconstruction of Kael's elite doctrine, the Quiet Hand confirms that one twenty-person cell can dismantle a conventional two-thousand-person elite command structure with ease when no Sovereign is present. The benchmark is established without attacking Kael's actual troops or exposing the guild.
 
 ### Chapter 89 — The Orchid Almost Becomes One
 
-Sera demonstrates her Transcended **Veiled Moon**, **Orchid Shadow Steps**, **Seven Petals, One Breath**, **Fading Fragrance** and **Orchid Behind the Mirror** as interconnected parts of one battle rather than separate exhibitions. Her needles, perception and circulation disruption are approaching one unified system, and **Pale Veil Funeral** has reached Supreme level. She remains Peak Sovereign rather than forming Orchid Dominion, and **The Orchid Blooms Only Once** remains story-locked.
+Sera demonstrates her Transcended **Veiled Moon**, **Orchid Shadow Steps**, **Seven Petals, One Breath**, **Fading Fragrance** and **Orchid Behind the Mirror** as interconnected parts of one controlled battle rather than separate exhibitions. Her needles, perception and circulation disruption are approaching one unified system, and **Pale Veil Funeral** has reached Supreme level. From the demonstration, Rhen privately confirms to the six-person core that she could defeat Kael, Liang Yue and Jin simultaneously, although their combined specializations would force her to fight seriously. She remains Peak Sovereign rather than forming Orchid Dominion, and **The Orchid Blooms Only Once** remains story-locked.
 
 ### Chapter 90 — Protection That Has Become a Question
 
@@ -499,39 +499,39 @@ Sera asks Rhen to withdraw Frozen Petals Garden from her. Their conversation cen
 
 ### Chapter 92 — The Garden Withdraws
 
-Rhen confirms that she understands the consequences and immediately respects the decision. Sera retains every cultivation gain she earned; only the continuing distance-independent protection ends.
+Rhen confirms that she understands the consequences and immediately respects the decision. Sera retains every cultivation gain she earned; only the continuing distance-independent protection ends. Qin remains inside Rhen's ordinary local one-mile refinement field while under their roof, and Tae, Huo, Lu and the wider guild still receive no passive extension.
 
 ### Chapter 93 — The Man Standing Too Close
 
-Rhen unconsciously replaces the invisible barrier by physically hovering near Sera. She recognizes the behaviour, teases him and refuses to turn the adjustment into a serious relationship rupture.
+Rhen unconsciously replaces the invisible barrier by physically hovering near Sera. She recognizes the behaviour, teases him and refuses to turn the adjustment into a serious relationship rupture. His concern is affectionate rather than a new claim to command.
 
 ### Chapter 94 — Help Chosen Freely
 
-A contained field problem allows Sera to protect herself through her own system while still accepting assistance when she chooses. Rhen begins learning that restraint is also an act of protection.
+A contained field problem allows Sera to protect herself through her own system while still accepting assistance when she chooses. She reports injury and danger honestly rather than concealing them to prove independence; Rhen helps only when invited and begins gradually replacing hovering with trust.
 
 ### Chapter 95 — The Day They Were Not Needed
 
-The apprentices, clinic directors and Quiet Hand cells resolve a significant crisis without Sera or Rhen taking command. The outcome proves the organization has become sustainable rather than merely powerful.
+The named captains, Jiang Fen, Oh Minseok and distributed Quiet Hand cells resolve a significant crisis without Sera or Rhen taking command. They preserve compartmentalized routes, never expose the Upper Room and allow outsiders to believe only scattered clinics cooperated. The outcome proves the organization has become sustainable rather than merely powerful.
 
 ### Chapter 96 — Evidence Beyond the Northern Routes
 
-Jin confirms the existence of an unknown northern continent. He requests a compact ranked expedition instead of risking one Wuyue domain's full regional army.
+Jin confirms evidence of an unknown northern continent and requests the Five Dukes as Wuyue's mobile second defensive line: taking a compact ranked expedition avoids stripping one domain of its army or making first contact look like an invasion. He retains his private emergency route to Rhen and Sera but does not use it before departure and still knows nothing about The Quaint Teahouse or The Upper Room. The exact evidence remains gated before prose.
 
 ### Chapter 97 — Five Dukes Depart
 
-Ilyra, Mo, Arin, Luo and Yun join Jin's expedition. Lei Zhen and Shen Rui remain in Wuyue for a reason that must be locked before prose composition; the outline does not invent it.
+Ilyra, Mo, Arin, Luo and Yun join Jin's expedition, bringing the evolved systems already established through the medicine-road crisis rather than receiving last-minute upgrade summaries. Lei Zhen and Shen Rui remain in Wuyue for a reason that must be locked before prose composition; the outline does not invent it.
 
-### Chapter 98 — The Empty Place in the Roads
+### Chapter 98 — The One Who Returned Alone
 
-The Crownless Host continues operating without Ilyra while Wuyue receives no immediate report from the expedition. The Quaint Teahouse notices irregular silence but has no reason yet to reveal itself.
+The Crownless Host continues under a temporary command chain that must be named before prose while Wuyue receives no ordinary report. Without depicting the Isgard battle, the chapter reveals its aftermath: Jin alone escapes, badly injured, while all five Dukes remain alive but critically endangered. He seeks the remaining Five Sovereigns first and concludes that sending a regional army would expose a domain, risk thousands against an enemy beyond Kael and potentially begin a continental war. He turns to the private distress route as the only remaining option; neither he nor the Crownless Host learns that The Upper Room exists.
 
 ### Chapter 99 — No Reports on the Table
 
-Rhen and Sera deliberately reclaim an ordinary day and close the tea house together. Their accumulated habits, humour and affection resolve the domestic arc before outside catastrophe enters.
+Unaware of the signal moving through Jin's private route, Rhen and Sera deliberately reclaim an ordinary day and close the tea house together. They argue over shelves and a medicinal tea name, serve pilgrims who fail to recognize Rhen, share food, hold hands and exchange private affection before placing every report away. Their accumulated habits, humour and marriage resolve the domestic arc before outside catastrophe enters.
 
 ### Chapter 100 — The Last Cup Before North
 
-Rhen and Sera share their final cup beneath the crooked sign with no guild work between them. Jin's distress signal arrives: a new continent is confirmed, five ranked fighters are critically endangered, the enemy is assessed beyond World #1 and immediate extraction is required. The chapter ends before the rescue begins.
+Rhen and Sera share their final cup beneath the crooked sign with no guild work between them. With Jin's solitary, badly injured return already established to the reader, his private signal carries only the approved facts: a new continent is confirmed; five ranked fighters are critically endangered; the enemy is assessed beyond World #1; and immediate extraction is required. The intact Five Sovereign armies cannot simply follow without endangering Wuyue and escalating first contact into war. The hidden force the world would fear may be the only force capable of entering unseen, but the chapter ends before Sera answers or the rescue begins.
 
 ---
 
@@ -543,12 +543,64 @@ Rhen and Sera share their final cup beneath the crooked sign with no guild work 
 |---|---:|---:|
 | Twelve apprentices | Season 1 | Captains/directors differentiated in Seasons 3 and 7 |
 | Qin Luo | Season 1 | Second Inner Petal in Season 4 |
-| Lu Weiran | Season 5 | Sepal and Chief Steward in Season 6 |
-| Tae Muyeon | Season 6 | Senior Sepal in Season 6 |
-| Huo Wujin | Season 6 | Sepal and Offensive General in Season 6 |
+| Lu Weiran | Season 5 | Conditional core role in Season 6; Sepal and Chief Steward in Season 7 |
+| Tae Muyeon | Season 6 | Conditional membership in Season 6; Senior Sepal in Season 7 |
+| Huo Wujin | Season 6 | Conditional membership in Season 6; Sepal and Offensive General in Season 7 |
 | The Quiet Hand | Foundations across Seasons 2–6 | Full formation in Season 7 |
 | Wuyue Five Domains | Political development across earlier seasons | Formal reveal in Season 6; mature tour in Season 9 |
 | Isgard | Evidence in Season 10 | Actual confrontation reserved for next macro arc |
+
+### Twelve-Apprentice Development Distribution
+
+| Apprentice | Early development | Five-year responsibility |
+|---|---|---|
+| **Han Mira** | Chapters 4–6 and 16 establish calm triage and evacuation command. | Captain, Cell One; revisited in Chapters 62, 70, 87 and 95. |
+| **Chen Wulian** | Chapters 4–5 and 14 establish blunt strength and formation-breaking instinct. | Captain, Cell Two; developed through Iron training and the flood operation. |
+| **Seo Dabin** | Chapters 4–5 and 23 establish diagnostic skepticism and poison analysis. | Captain, Cell Three; supports Spring and intelligence decisions. |
+| **Lin Tao** | Chapters 4–5 and 16 establish scouting and changed-terrain detection. | Captain, Cell Four; central to counter-ambush and route security. |
+| **Mei Rulan** | Chapters 4–5, 14 and 16 establish social reading, disguise and infiltration. | Captain, Cell Five; developed through Veil operations. |
+| **Gu Seongho** | Chapters 4–5, 14 and 23 establish rear-guard defence and wounded extraction. | Captain, Cell Six; developed through Iron and evacuation operations. |
+| **Bai Nari** | Chapters 4–6 and 16 establish codes, signals and fast communication. | Captain, Cell Seven; supports the guild's emergency communications. |
+| **Ren Shuo** | Chapters 4–5, 14, 16 and 23 establish traps, shelters and emergency engineering. | Captain, Cell Eight; supports Wayfinder and refuge systems. |
+| **Yeo Hwan** | Chapters 4–6 establish compassion under pressure and field surgery. | Captain, Cell Nine; becomes the strongest field surgeon among the captains. |
+| **Tang Lumei** | Chapters 4–5 and 14 establish analysis and independent strategy. | Captain, Cell Ten; becomes the strongest pure strategist beneath Sera and Jin's public reputation. |
+| **Jiang Fen** | Chapters 4–6 and 22 establish commitment to civilian access. | Director of Regional Clinics; remains essential without becoming a covert captain. |
+| **Oh Minseok** | Chapters 4–6 and 21 establish medicinal cultivation and quality control. | Director of Medicinal Cultivation; maintains farms, seeds and medicine standards. |
+
+### Ranked-Character Evolution Distribution
+
+| Character | Outline reveal | Constraint |
+|---|---|---|
+| **Kael Veyran** | Chapters 11, 17, 53 and 82 show the abuse of his name, later authority and army; **Sovereign's March** supplies the selected mountain-and-sand reveal. | No forced personal fight or unnecessary Supreme Art. |
+| **Liang Yue** | Chapter 82 uses **White Blood: Vein Whisper** for evolved White Blood inspection and internal control during the shared medical crisis. | Her exact overall comparison with Qin is not resolved. |
+| **Jin Seoryu** | Chapters 53, 82 and 96–100 use **Lanterns Across the Battlefield** to show the Compact, national-scale coordination and Isgard decision. | Strategy remains analysis rather than supernatural foresight. |
+| **Lei Zhen** | Chapter 53 establishes his Sovereign breakthrough; Chapter 82 uses a controlled **Black Storm Pulse** to establish violet-crimson thunderfire. | His reason for remaining in Wuyue is gated before Chapter 97. |
+| **Shen Rui** | Chapter 53 establishes his Sovereign breakthrough; Chapter 82 uses **Rain Holds the City** to show water-and-ice defence, transport and relief. | His reason for remaining in Wuyue is gated before Chapter 97. |
+| **Ilyra Serath** | Chapters 82–83 use **Crownless Mirror** and the controlled principle of **Two Heavens, One Body** before her departure. | Overall equality with Liang remains `TBD`; maximum overdrive duration remains unrevealed. |
+| **Mo Qingzhao** | Chapter 82 uses the evolved **Inkless Thread** as an autonomous sensory and command network in Jin's response. | Preparation remains his limitation. |
+| **Arin Vale** | Chapter 82 uses **Thousand Blade Mercy** beside Kael, demonstrating selective nonlethal precision without displacing Sera's prominence. | She remains High Duke and below every Five Sovereign overall. |
+| **Luo Wen** | Chapter 82 uses **Lantern Before Dawn** to stabilize multiple casualties beside Rui. | His medicine remains below Rhen's. |
+| **Yun Shizhen** | Chapter 82 uses **Ten Thousand Venoms Scripture** and a controlled **Poison Returning to the Source** during the medical inspection. | She remains the physically weakest Top Ten member. |
+
+### Knowledge-Boundary Checklist
+
+- Only **Rhen, Sera, Qin, Tae, Huo and Lu** know the complete organization, senior power hierarchy, Upper Room map and all access routes.
+- Kael and the tribunal know that Huo entered Rhen and Sera's medical custody; they do not know his recovered cultivation, Sepal office, Quiet Hand role or Upper Room access.
+- The ten captains know all two hundred members and only the approach and internal sectors required by their cells.
+- Ordinary operatives, physicians and couriers know compartmentalized routes and believe The Quiet Hand is smaller than it is.
+- The Five Sovereigns and Five Dukes do not know Sera is near Paragon, Qin is Sovereign or Tae and Huo are High Sovereigns inside the guild.
+- Jin knows a private route to Rhen and Sera and suspects unusual resources; he does not know The Quaint Teahouse or The Upper Room exists.
+- No supply convoy travels directly from Second Spring to Cloudrest Mountain, and no outsider learns the base location during this arc.
+
+### Five-Year Romance Distribution
+
+| Story year | Required recurring development |
+|---:|---|
+| **Year One** | Farm and clinic partnership, medicinal-tea naming arguments, customers hearing Sera call Rhen her husband, parental treatment by the apprentices and the final cup after Duan's fall. |
+| **Year Two** | Rhen leaves meals beside Sera's reports, reports are replaced with tea, public husband identification becomes natural and their accidental-guild humour continues. |
+| **Year Three** | Supplier journeys become unofficial dates, the private summit medicinal garden and Upper Room tea room deepen their shared domestic space. |
+| **Year Four** | Their burden-and-overprotection conflict ends in honest disclosure, respect for Sera's authority and ordinary affection rather than separation. |
+| **Year Five** | Petal Monarch pilgrims fail to recognize Rhen, the husband briefing occurs, Sera leaves the passive, Rhen learns to stop hovering and their report-free final cup precedes the signal. |
 
 ### Power and technique reveal rules
 
@@ -589,9 +641,9 @@ The 100-chapter structure can be approved before these details are solved, but p
 1. **Before Chapter 17:** decide whether Peng Sui appears directly during the Red Willow confrontation or only escapes through aftermath evidence.
 2. **Before Chapter 54:** define enough of Tae's poison delivery to plant fair clues without identifying the poisoner prematurely.
 3. **Before Chapter 82:** name the five Sovereign seats/capitals only if the story needs to visit them directly.
-4. **Before Chapter 87:** define at least Ilyra's senior Crownless Host commander and temporary chain of command.
-5. **Before Chapter 96:** define Jin's exact evidence for Isgard and why he takes the Five Dukes.
-6. **Before Chapter 97:** lock why Lei Zhen and Shen Rui remain in Wuyue.
+4. **Before Chapter 96:** define Jin's exact evidence for Isgard; his reason for taking the Five Dukes is already locked as their role as Wuyue's compact mobile second line.
+5. **Before Chapter 97:** lock why Lei Zhen and Shen Rui remain in Wuyue.
+6. **Before Chapter 98:** define at least Ilyra's senior Crownless Host commander and temporary chain of command after her departure.
 7. **Before Chapter 100:** lock Jin's signal method, exact wording and private route to Rhen and Sera.
 
 ## 16. Approval State
