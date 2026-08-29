@@ -72,7 +72,7 @@ The user is deliberately building the continuation as a **skeletal structure fir
 - Wuyue is divided into five great domains, each occupied and governed by one of the Five Sovereigns.
 - Rhen's identity as the **Petal Monarch** has moved beyond ordinary legend and become something closer to a myth.
 - The martial world may remember the title, stories, and impossible feats, but the exact five-year world reaction is still `TBD`.
-- The five-year domestic/guild development and its ending cliffhanger are now locked skeleton material. Chapters, scenes and prose remain unstarted.
+- The five-year domestic/guild development and its ending cliffhanger are locked skeleton material. A proposed ten-season, 100-chapter Stage 4 outline now exists in `docs/BENEATH_THE_CROOKED_SIGN_OUTLINE.md`; scenes and prose remain unstarted and locked.
 
 ### Permanent Macro Arc Title
 
@@ -91,7 +91,7 @@ Do not refer to it in future planning as **The First Five Years Arc**, **The Fiv
 - New personnel must spend time living and working under the crooked sign before assuming senior authority.
 - The story must not jump directly from the Year One governor conflict to the completed Year Five organization.
 - Quiet domestic episodes, medicine, training, local patients and ordinary tea-house life are part of the arc's substance, not disposable filler.
-- Exact season count, episode allocation, chapter structure and scene order remain `TBD` until the user opens structural planning.
+- The proposed season count and chapter allocation are maintained in `docs/BENEATH_THE_CROOKED_SIGN_OUTLINE.md`. Scene order and prose remain locked until the user explicitly opens story composition.
 
 ---
 
@@ -1898,18 +1898,19 @@ Rhen heals Tae but refuses to extend Frozen Petals Garden to him.
 
 #### Tae Joins The Quaint Teahouse
 
-Tae remains long enough to understand the organization and eventually joins as the Senior Sepal and third-in-command.
+Tae remains long enough to understand the organization and joins conditionally during Year Three. He spends a sustained probationary period recovering, treating the work seriously, helping clinics and training apprentices before receiving permanent authority. Sera formally appoints him **Senior Sepal and third-in-command in early Year Four**, before selection of the complete Quiet Hand.
 
 #### Huo Wujin Joins Under Custody
 
 Huo enters Sera and Rhen's supervised medical custody during the same general period as Tae's recovery. Kael and the tribunal believe the transfer exists solely to monitor Huo's returning Meridian Wheels.
 
 - Sera tests Huo's willingness to live without conquest before granting him internal membership.
-- Huo joins only after accepting the non-conquest doctrine, Sera's sole authority over lethal force and the continuing terms of his sentence.
+- Huo joins conditionally during Year Three only after accepting the non-conquest doctrine, Sera's sole authority over lethal force and the continuing terms of his sentence.
+- He completes an extended probation of treatment, farm work, supervised field support and apprentice instruction before Sera formally appoints him a Sepal and Offensive General in early Year Four.
 - His current cultivation, access to The Upper Room and role in The Quiet Hand remain concealed from Kael and the tribunal.
 - Tae and Huo become the guild's two Offensive Generals and jointly train The Quiet Hand.
 - Tae occupies the Senior Sepal seat and retains organizational seniority and third-in-command status; Huo occupies a second Sepal seat and receives equal battlefield authority only after Sera approves an offensive deployment.
-- Lu occupies the third Sepal seat as Chief Steward, completing the Three Sepals.
+- Lu performs the Chief Steward's work throughout Year Three and is formally appointed to the third Sepal seat alongside Tae and Huo in early Year Four, completing the Three Sepals before Quiet Hand selection.
 - Huo gradually comes to prefer tea, training and the quiet usefulness of the guild over the Empty Throne he once pursued.
 
 Final Orchid hierarchy:
@@ -2642,17 +2643,31 @@ These are intentionally blank until the user supplies more skeleton material:
 - The Quaint Teahouse's response plan and rescue participants
 - the permanent Isgard macro arc title
 
-### Still-Locked Structural Planning
+### Current Structural Status
 
-- season numbering
-- chapter structure
-- scenes and prose
+- season numbering and the 100-chapter structure are now **Stage 4 proposed material** in `docs/BENEATH_THE_CROOKED_SIGN_OUTLINE.md`
+- individual chapter beats remain proposed until the user approves them
+- scenes and prose remain **locked**
+- runtime implementation remains **locked**
 
-Do **not** fill these automatically.
+Do not begin scenes, prose or runtime implementation automatically.
 
 ---
 
 ## 8. Revision Log
+
+### 2026-08-29 — Story-Outline Completeness Audit Corrections
+
+- Distributed all twelve original apprentices across the outline and preserved their ten captain / two civilian-director outcomes.
+- Expanded Governor Duan's full protection network, sentence and restitution outcome.
+- Spread Wuyue's political and military development across all five years and allocated selected upgrade reveals for every Five Sovereign and Five Duke.
+- Delayed Tae, Huo and Lu's permanent Sepal appointments until early Year Four after sustained Year Three work and probation.
+- Added The Upper Room's locked capacity, reserve, access, residence and concealment details to its construction and Year Five exercise chapters.
+- Added Quiet Hand graduation, strength distribution, deployment thresholds and secrecy boundaries.
+- Restored the complete five-year romance motifs and Rhen's Petal Monarch mythology to the chapter plan.
+- Strengthened Jin's solitary injured return and the political meaning of the cliffhanger without beginning the Isgard rescue.
+- Replaced the stale claim that structural planning was unstarted with the correct Stage 4 proposed status.
+- No story prose, runtime canon data, architecture, UI or implementation files were changed.
 
 ### 2026-08-29 — Rhen Ten-Skill Roster and Silent Winter Lineage
 
