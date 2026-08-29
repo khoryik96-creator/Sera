@@ -6,19 +6,33 @@
 >
 > Do not modify `src/data.json`, season/chapter prose, canon entries, character profiles, techniques data, timelines, rankings, or UI content from this file merely because the file exists.
 
-## Working method
+## Contents
+
+1. [Planning workflow](#1-planning-workflow)
+2. [Locked continuation foundation](#2-locked-continuation-foundation)
+3. [Character development skeleton](#3-character-development-skeleton)
+   - [Rhen — five years later](#31-rhen--five-years-later)
+   - [Rhen — five-year character/world position](#32-rhen--five-year-characterworld-position)
+   - [Sera — five years later](#33-sera--five-years-later)
+   - [Other characters — five years later](#34-other-characters--five-years-later)
+4. [Open planning slots](#4-open-planning-slots)
+5. [Revision log](#5-revision-log)
+
+## 1. Planning Workflow
 
 The user is deliberately building the continuation as a **skeletal structure first**.
 
-Current stage:
+### Stage Tracker
 
-1. **Character development skeleton — ACTIVE**
-2. Five-year world-state skeleton — NOT STARTED
-3. New arc / conflict skeleton — NOT STARTED
-4. Season/chapter outline — NOT STARTED
-5. Story composition / prose — **LOCKED**
+| Stage | Planning area | Status |
+|---:|---|---|
+| 1 | Character development skeleton | **ACTIVE** |
+| 2 | Five-year world-state skeleton | NOT STARTED |
+| 3 | New arc / conflict skeleton | NOT STARTED |
+| 4 | Season/chapter outline | NOT STARTED |
+| 5 | Story composition / prose | **LOCKED** |
 
-Rules while Stage 1 is active:
+### Rules While Stage 1 Is Active
 
 - Do not begin composing chapters or scenes.
 - Do not invent the new antagonist, conflict, arc title, season number, or opening incident yet.
@@ -31,9 +45,9 @@ Rules while Stage 1 is active:
 
 ---
 
-# Continuation premise — locked foundation
+## 2. Locked Continuation Foundation
 
-## Time skip
+### Time Skip
 
 - The continuation takes place **five years after the current ending/epilogue period**.
 - **Rhen and Sera have not meddled in the martial world for more than five years.**
@@ -44,11 +58,11 @@ Rules while Stage 1 is active:
 
 ---
 
-# Character Development Skeleton
+## 3. Character Development Skeleton
 
-## RHEN — Five Years Later
+### 3.1 Rhen — Five Years Later
 
-### Overall state
+#### Overall State
 
 Rhen has improved enormously during the five-year withdrawal.
 
@@ -62,46 +76,46 @@ Rhen has improved enormously during the five-year withdrawal.
 
 ---
 
-## 1. Evolved Passive — Frozen Petals Garden
+#### 3.1.1 Evolved Passive — Frozen Petals Garden
 
 **Current tier:** Evolved Supreme Passive
 
-### Permanent five-year name
+##### Permanent Five-Year Name
 
 The evolved passive's permanent five-years-later name is:
 
-# Frozen Petals Garden
+**Frozen Petals Garden**
 
 Earlier working language such as **Invisible Petal Aura Barrier** and the proposed title **The Garden Where No Petals Fall** may be used only when discussing the technique's development history. Future five-years-later planning should use **Frozen Petals Garden**.
 
 The existing passive has evolved once again.
 
-### Ageless immortality
+##### Ageless Immortality
 
 - Rhen's passive stops his biological aging.
 - He is therefore **ageless / immortal with respect to aging**.
 - This currently defines cessation of aging; whether "immortality" also means absolute inability to be killed is **not defined yet** and must not be assumed.
 
-### Internal-energy evolution
+##### Internal-Energy Evolution
 
 - His internal energy is continuously refined into a much denser state.
 - The passive constantly regenerates his energy.
 - His reserve should be portrayed as **functionally inexhaustible**, like an unending reservoir.
 - Long-duration combat should no longer meaningfully exhaust him through ordinary energy expenditure.
 
-### Absolute poison neutralization
+##### Absolute Poison Neutralization
 
 - Any form of poison that reaches Rhen is neutralized instantly by the passive.
 - The effect is automatic and does not require conscious activation.
 
-### Sera — distance-independent protection
+##### Sera — Distance-Independent Protection
 
 - Because Rhen and Sera's bond has deepened over the five years, he can cast/maintain the protective barrier on **Sera regardless of distance**.
 - This protection is no longer limited by the old one-mile sharing range.
 - This long-distance extension is specifically tied to Sera through their heightened bond.
 - Whether anyone else can receive this unlimited-distance version is `TBD` and must not be assumed.
 
-### Divine Sense-like awareness
+##### Divine Sense-Like Awareness
 
 The passive now possesses an extremely advanced perception layer — effectively Rhen's version of **Divine Sense**, still expressed through the Murim/internal-energy system rather than western magic.
 
@@ -115,7 +129,7 @@ It can automatically detect or identify:
 
 Exact maximum detection distance beyond the explicitly defined two-mile hostile field is `TBD`.
 
-### Optional two-mile hostile field
+##### Optional Two-Mile Hostile Field
 
 If Rhen deliberately chooses to activate these hostile effects, the passive can affect enemies within **two miles**:
 
@@ -131,7 +145,7 @@ Rules:
 
 ---
 
-## 2. Ultimate — Petals Beneath a Frozen Moon
+#### 3.1.2 Ultimate — Petals Beneath a Frozen Moon
 
 **Classification:** Ultimate
 
@@ -139,7 +153,7 @@ The Ultimate remains overwhelmingly powerful and preserves its established core 
 
 > It resolves hostile possibilities into one peaceful, inevitable ending beneath a moon.
 
-### Five-year upgrades
+##### Five-Year Upgrades
 
 - Once the Ultimate is invoked, **it cannot be interrupted**.
 - Maximum effective radius can expand to **50 miles**.
@@ -154,7 +168,7 @@ The Ultimate remains overwhelmingly powerful and preserves its established core 
 
 The graceful, peaceful, beautiful character of the Ultimate must remain intact even though its scale is catastrophic for hostile forces.
 
-### ABSOLUTE STORY USAGE LOCK
+##### Absolute Story Usage Lock
 
 **Do not use this Ultimate in the continuation unless the user explicitly instructs that Rhen may use it.**
 
@@ -170,9 +184,9 @@ It may exist in reference material and character planning, but its actual story 
 
 ---
 
-## 3. Merged Supreme Movement Art — Drifting Petals
+#### 3.1.3 Merged Supreme Movement Art — Drifting Petals
 
-### Lineage
+##### Lineage
 
 - **Falling Petal Step**
 - **Ten Thousand Li Beneath One Step**
@@ -183,7 +197,7 @@ These two movement abilities have now merged into one evolved Supreme technique.
 
 The discarded working title **One Step Beyond the Endless Horizon** should not be used as the final technique name.
 
-### Five-year mechanics
+##### Five-Year Mechanics
 
 - Retains the core movement principles of both predecessor techniques.
 - Can travel substantially farther than before.
@@ -202,11 +216,11 @@ Do not invent those limits yet.
 
 ---
 
-## 4. One Petal Severs the Winter Moon
+#### 3.1.4 One Petal Severs the Winter Moon
 
 **Current tier:** Supreme
 
-### Consolidated dependency-severing lineage
+##### Consolidated Dependency-Severing Lineage
 
 **One Petal Severs the Winter Moon** consolidates the entire dependency-severing lineage:
 
@@ -216,7 +230,7 @@ Do not invent those limits yet.
 
 These are fundamentally the same martial lineage: understanding one critical dependency and severing it rather than overpowering the whole structure.
 
-### Five-year description
+##### Five-Year Description
 
 Rhen perceives a martial structure as a web of relationships rather than a mass of raw power. He identifies the single dependency that allows the larger technique, formation, circulation state, attack or hostile effect to continue functioning, then severs that relationship with extreme precision.
 
@@ -232,11 +246,11 @@ Exact expanded mechanics, range, target limits, and interaction with future top-
 
 ---
 
-## 5. Sanctuary of Petals
+#### 3.1.5 Sanctuary of Petals
 
 **Current tier:** Supreme
 
-### Permanent name evolution
+##### Permanent Name Evolution
 
 The healing/protection technique's name progression is now:
 
@@ -244,11 +258,11 @@ The healing/protection technique's name progression is now:
 
 The permanent five-years-later name is:
 
-# Sanctuary of Petals
+**Sanctuary of Petals**
 
 Future continuation material should use **Sanctuary of Petals** as the current technique name. Older names may appear only when discussing its historical evolution.
 
-### Five-year upgrades
+##### Five-Year Upgrades
 
 - The indestructible hemispheric sanctuary can expand to a radius of **up to 20 miles**.
 - It can heal **up to 10,000 people simultaneously**.
@@ -264,7 +278,7 @@ Exact healing speed at the new maximum 10,000-person scale is not separately qua
 
 ---
 
-## 6. Moonless Snowfield
+#### 3.1.6 Moonless Snowfield
 
 **Current tier:** Supreme
 
@@ -288,11 +302,11 @@ Do not add unapproved mechanics yet.
 
 ---
 
-## 7. Winter Ends, Spring Blossoms
+#### 3.1.7 Winter Ends, Spring Blossoms
 
 **Current tier:** Supreme
 
-### Merged lineage
+##### Merged Lineage
 
 **Winter Ends, Spring Blossoms** is the five-year evolved form created from three predecessor arts:
 
@@ -300,7 +314,7 @@ Do not add unapproved mechanics yet.
 - **Empty Spring**
 - **Autumn Without End**
 
-### Core principle — restoration / natural law
+##### Core Principle — Restoration / Natural Law
 
 The technique is built around **restoration and natural law**, not arbitrary suppression or forced stillness.
 
@@ -314,7 +328,7 @@ The technique is built around **restoration and natural law**, not arbitrary sup
 
 ---
 
-## 8. Remaining Rhen Techniques — Global Five-Year Rule
+#### 3.1.8 Remaining Rhen Techniques — Global Five-Year Rule
 
 - Every existing named **non-Ultimate** Rhen technique is **Supreme level** five years later.
 - Any technique that was already Supreme has improved again while remaining within the Supreme classification unless the user later creates a higher named tier.
@@ -326,7 +340,7 @@ The technique is built around **restoration and natural law**, not arbitrary sup
 
 ---
 
-# Rhen — Five-Year Character/World Position
+### 3.2 Rhen — Five-Year Character/World Position
 
 - Rhen has spent more than five years outside active martial-world affairs with Sera.
 - He has not been participating in rankings, wars, sect disputes, or public heroics during this withdrawal.
@@ -337,7 +351,7 @@ The technique is built around **restoration and natural law**, not arbitrary sup
 
 ---
 
-## SERA — Five Years Later
+### 3.3 Sera — Five Years Later
 
 **STATUS: PENDING USER DEVELOPMENT**
 
@@ -347,7 +361,7 @@ The user will define Sera's development next.
 
 ---
 
-## Other Characters — Five Years Later
+### 3.4 Other Characters — Five Years Later
 
 **STATUS: PENDING USER DEVELOPMENT**
 
@@ -355,7 +369,7 @@ No five-year upgrades, injuries, retirements, new ranks, relationships, deaths, 
 
 ---
 
-# Open Planning Slots
+## 4. Open Planning Slots
 
 These are intentionally blank until the user supplies more skeleton material:
 
@@ -377,9 +391,9 @@ Do **not** fill these automatically.
 
 ---
 
-# Revision Log
+## 5. Revision Log
 
-## 2026-08-29 — Five-year technique cleanup
+### 2026-08-29 — Five-Year Technique Cleanup
 
 Refined the user-approved five-year technique planning:
 
@@ -390,7 +404,7 @@ Refined the user-approved five-year technique planning:
 
 No runtime story/canon/technique data was changed.
 
-## 2026-08-29 — Missing technique lineage restoration
+### 2026-08-29 — Missing Technique Lineage Restoration
 
 Added the user-specified five-year lineage clarifications:
 
@@ -399,7 +413,7 @@ Added the user-specified five-year lineage clarifications:
 
 No runtime story/canon/technique data was changed.
 
-## 2026-08-29 — Evolved technique naming lock
+### 2026-08-29 — Evolved Technique Naming Lock
 
 Updated the five-years-later Rhen skeleton with the user's approved naming direction:
 
@@ -409,7 +423,7 @@ Updated the five-years-later Rhen skeleton with the user's approved naming direc
 
 These are story-skeleton naming decisions only. Runtime canon, existing completed seasons and current-era technique records remain unchanged until the user explicitly begins story implementation.
 
-## 2026-08-29 — Initial locked skeleton
+### 2026-08-29 — Initial Locked Skeleton
 
 Added:
 
