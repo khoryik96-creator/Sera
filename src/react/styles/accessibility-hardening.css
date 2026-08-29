@@ -5,7 +5,10 @@
 .overview-explore-grid small,
 .search-palette__footer,
 .reader-chapter-position > div:first-child > span,
-.reader-page .reader-nav small,
-.reader-controls__reset {
+.reader-page .reader-nav small {
   color: var(--muted) !important;
+}
+
+.reader-controls__reset {
+  color: #c2c7ce !important;
 }
