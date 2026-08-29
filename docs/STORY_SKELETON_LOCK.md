@@ -17,8 +17,9 @@
    - [Five Sovereigns — five years later](#34-five-sovereigns--five-years-later)
    - [Co-#1 and the Five Dukes — five years later](#35-co-1-and-the-five-dukes--five-years-later)
    - [Qin Luo — five years later](#36-qin-luo--five-years-later)
-   - [Former, retired and deceased figures](#37-former-retired-and-deceased-figures)
-   - [Complete five-year power hierarchy](#38-complete-five-year-power-hierarchy)
+   - [Huo Wujin — five years later](#37-huo-wujin--five-years-later)
+   - [Former, retired and deceased figures](#38-former-retired-and-deceased-figures)
+   - [Complete five-year power hierarchy](#39-complete-five-year-power-hierarchy)
 4. [The Quaint Teahouse — five-year development](#4-the-quaint-teahouse--five-year-development)
 5. [Five Sovereign political order](#5-five-sovereign-political-order)
 6. [Open planning slots](#6-open-planning-slots)
@@ -433,7 +434,7 @@ Still `TBD`:
 - She remains aeons beneath Rhen, whose current strength still cannot be meaningfully measured.
 - Her Sovereign cultivation was developed through five years of training, martial refinement and the continuous strengthening effect of Rhen's passive.
 - The cultivation and technique mastery she gained are permanently hers; withdrawing Rhen's protection does not remove that growth.
-- Her exact level is known only within the five-person senior core; The Quiet Hand knows she vastly exceeds Marquis class without receiving the precise classification.
+- Her exact level is known only within the six-person senior core; The Quiet Hand knows she vastly exceeds Marquis class without receiving the precise classification.
 
 #### Withdrawal of Rhen's Passive Protection
 
@@ -633,15 +634,15 @@ Sera is approaching this boundary because **Veiled Moon**, her movement, anatomi
 
 Rhen is not automatically classified as Paragon. His present level remains immeasurable and should not be forced into the public cultivation hierarchy.
 
-#### Future Paragon Domain — Orchid Court
+#### Future Paragon Domain — Orchid Dominion
 
-- **Working name:** **Orchid Court**
+- **Permanent name:** **Orchid Dominion**
 - **Future classification:** Supreme Domain Skill
 - **Current availability:** **LOCKED — Sera has not reached Paragon**
 
 When Sera eventually crosses the boundary, her unified Orchid system manifests as a battlefield filled with pale orchid petals shaped from her internal energy.
 
-Enemy suppression inside Orchid Court:
+Enemy suppression inside Orchid Dominion:
 
 - hostile circulation becomes progressively less efficient
 - technique activation becomes slower and easier for Sera to interrupt
@@ -649,7 +650,7 @@ Enemy suppression inside Orchid Court:
 - concealed weapons, killing intent and meridian surges become readable through changes in the petal field
 - repeated resistance reveals increasingly precise anatomical and circulation weaknesses
 
-Sera's advantages inside Orchid Court:
+Sera's advantages inside Orchid Dominion:
 
 - Veiled Moon extends across the domain, making her presence and killing intent exceptionally difficult to isolate
 - Orchid Shadow Steps follows routes already prepared by the petal field
@@ -658,9 +659,35 @@ Sera's advantages inside Orchid Court:
 - the domain continually supplies battlefield information, allowing Sera to strategize while fighting rather than pause to reassess
 - she may distinguish allies, civilians and selected enemies within the suppression
 
-Orchid Court does not automatically kill anyone. It gives Sera complete control over whether targets are observed, weakened, incapacitated or killed, preserving the restraint governing The Quiet Hand.
+Orchid Dominion does not automatically kill anyone. It gives Sera complete control over whether targets are observed, weakened, incapacitated or killed, preserving the restraint governing The Quiet Hand.
 
-Its permanent name, final radius, duration and exact resistance rules remain subject to the user's later approval when Sera actually reaches Paragon.
+##### Permanent Radius and Duration
+
+- **Optimal combat radius:** one mile
+- **Maximum expansion radius:** three miles
+- **Maximum duration at one mile:** two hours
+- **Maximum duration at three miles:** thirty minutes
+- **Expected duration against ten actively resisting Sovereigns at one mile:** approximately one hour
+- Sera may collapse the domain early to preserve energy.
+- She may shape the outer boundary around allies and civilian routes instead of affecting one indiscriminate circle.
+
+##### Energy Requirements
+
+- Initial activation consumes approximately **10%** of Sera's complete Paragon reserve.
+- Sustaining the optimal one-mile domain consumes approximately **0.5% per minute**.
+- Sustaining the full three-mile domain consumes approximately **2% per minute**.
+- Strong resistance from several Sovereigns increases the maintenance drain but does not cancel the domain automatically.
+- Supreme Arts used inside Orchid Dominion consume their normal additional energy.
+- If Sera maintains the domain to its natural limit, she retains roughly 30% of her reserve and can continue fighting without domain authority.
+- After natural exhaustion, she requires approximately twelve hours of uninterrupted circulation recovery before she can form Orchid Dominion again.
+
+##### Locked Suppression Scale
+
+- Sovereign enemies lose approximately **30% circulation efficiency** while fully subjected to the domain.
+- Enemies below Sovereign may lose up to **50% circulation efficiency**, depending on their resistance and martial system.
+- Sera gains approximately **30% greater circulation and technique efficiency** because every part of the battlefield supports her Orchid system.
+- Another Paragon does not suffer these fixed percentages automatically; their personal domain contests Orchid Dominion directly.
+- These percentages describe combat effectiveness and circulation efficiency rather than permanently removing cultivation.
 
 ---
 
@@ -1331,7 +1358,62 @@ Unlike Rhen's dependency severance, Qin does not remove a relationship. He destr
 
 ---
 
-### 3.7 Former, Retired and Deceased Figures
+### 3.7 Huo Wujin — Five Years Later
+
+- **Public status:** Alive, inactive, reduced and under tribunal supervision
+- **Secret five-year cultivation:** High Sovereign — same cultivation tier as Tae Muyeon
+- **Quaint Teahouse position:** Offensive General and Quiet Hand instructor
+
+#### Canon Survival and Recovery
+
+- Rhen's Autumn Without End ended the active processes of Huo's Nine Meridian Wheels but did not destroy them.
+- Huo survived, awakened under guard and entered tribunal custody.
+- His Wheels slowly returned rather than leaving him permanently crippled.
+- Jiang Taixuan remained dead; Huo carried only cultivation architecture extracted and rewritten through Gu Xian's forbidden work.
+- During Years One and Two, Huo remains publicly inactive under strict medical and tribunal supervision.
+- He receives no Frozen Petals Garden refinement and must recover through his own cultivation.
+- By Year Three, his Nine Wheels have stabilized at **High Sovereign**, equal in cultivation tier to Tae but without a Paragon Domain.
+
+#### Conditional Recruitment
+
+- Sera and Rhen accept supervised medical custody of Huo as part of his tribunal sentence.
+- Kael supports the transfer because Rhen is the only physician capable of safely monitoring all Nine Wheels.
+- Kael knows Huo is recovering under Rhen and Sera's custody but does not know The Quaint Teahouse, The Quiet Hand or The Upper Room exists.
+- Sera makes clear that joining the organization does not erase Huo's crimes or tribunal obligations.
+- Huo must obey the guild's non-conquest doctrine and Sera's absolute lethal-force rule.
+- He joins during Year Three, within the same general period as Tae Muyeon's recovery and recruitment.
+- Huo does not receive administrative command over the guild and cannot mobilize The Quiet Hand independently.
+
+#### Two Offensive Generals
+
+Tae and Huo become The Quaint Teahouse's two Offensive Generals.
+
+- **Tae Muyeon:** remains third-in-command and holds senior organizational authority.
+- **Huo Wujin:** possesses equal battlefield authority during an approved offensive deployment but remains beneath Sera and Qin in command.
+- Neither may authorize lethal force.
+- Their exact personal duel remains `TBD`; equal cultivation does not make their martial systems identical.
+- Tae controls distance, iron pressure, fundamentals and formation-breaking.
+- Huo controls adaptive rhythm, multi-principle circulation and the ability to change answers during prolonged combat.
+
+#### Training The Quiet Hand
+
+- Tae builds physical endurance, discipline, direct combat and the ability to break a superior formation.
+- Huo trains operatives to survive opponents who change rhythms, techniques and circulation principles during battle.
+- Huo uses different Meridian Wheels to imitate several kinds of pressure without teaching forbidden transplantation.
+- Joint sessions force each cell to solve Tae's fixed battlefield pressure while adapting to Huo's constantly changing martial answers.
+- Both generals are exceptionally harsh, but Rhen may stop any session before training becomes permanently damaging.
+- Huo accepts that the objective is to preserve capable people, not prove dominance by breaking them.
+
+#### Huo and Tea
+
+- Huo gradually loses all interest in ruling, dominating the martial world or reclaiming an Empty Throne.
+- He becomes genuinely fond of tea and treats preparation with the same concentration once reserved for the Nine Wheels.
+- He remains unable to brew a cup Sera considers properly balanced.
+- After training, he increasingly prefers sitting silently in The Upper Room's tea room to discussing rankings or conquest.
+- Tae mocks the habit while drinking the tea anyway.
+- Huo's peace is not presented as instant absolution; it is the life he repeatedly chooses while continuing to serve his sentence.
+
+### 3.8 Former, Retired and Deceased Figures
 
 | Figure | Five-year hierarchy status |
 |---|---|
@@ -1343,12 +1425,12 @@ Unlike Rhen's dependency severance, Qin does not remove a relationship. He destr
 | **Mo Qian** | Deceased former #5. Receives no five-year development. |
 | **Yeon Hwa** | Deceased former #6. Remains part of Han Myeong's legacy. |
 | **Hwan Gyeom** | Deceased House of Quiet Petals elder. Receives no five-year development. |
-| **Huo Wujin** | Inactive and outside the ranking system after Rhen ended his evolved Nine-Wheel state. Exact survival, health and remaining cultivation are `TBD`. |
-| **Jiang Taixuan** | Defeated and outside the active ranking system after part of his cultivation architecture was assimilated by Huo. Exact survival and remaining cultivation are `TBD`. |
+| **Huo Wujin** | Alive and publicly inactive under tribunal supervision; secretly restored to High Sovereign and serving as The Quaint Teahouse's second Offensive General. |
+| **Jiang Taixuan** | Deceased. Gu Xian extracted part of his cultivation architecture before hiding his body beneath an abandoned northern shrine. |
 
 Deceased figures do not receive retrospective upgrades merely to keep pace with the five-year hierarchy. Their historical feats remain unchanged.
 
-### 3.8 Complete Five-Year Power Hierarchy
+### 3.9 Complete Five-Year Power Hierarchy
 
 #### Actual Strength Known to the Skeleton
 
@@ -1356,8 +1438,8 @@ Deceased figures do not receive retrospective upgrades merely to keep pace with 
 |---|---|---|
 | **Beyond meaningful classification** | **Rhen** | Not automatically classified as Paragon; remains immeasurably above the public hierarchy. |
 | **Paragon** | **None at the Year Five endpoint** | Requires complete martial unification and a stable personal Supreme Domain. An established Paragon can defeat ten Sovereigns simultaneously. |
-| **Peak Sovereign approaching Paragon** | **Sera** | Can defeat Kael, Liang Yue and Jin Seoryu simultaneously but has not formed Orchid Court and cannot claim Paragon. |
-| **High Sovereign** | **Kael Veyran; Tae Muyeon** | Their exact duel remains matchup-dependent; both stand at the public Sovereign summit beneath Sera. |
+| **Peak Sovereign approaching Paragon** | **Sera** | Can defeat Kael, Liang Yue and Jin Seoryu simultaneously but has not formed Orchid Dominion and cannot claim Paragon. |
+| **High Sovereign** | **Kael Veyran; Tae Muyeon; Huo Wujin** | Tae and Huo share the same cultivation tier; Kael remains the strongest publicly recognized member of this tier. Exact matchups remain specialization-dependent. |
 | **Mid Sovereign** | **Liang Yue; Qin Luo** | Overall equals whose advantage changes with preparation and terrain. |
 | **Established Sovereign** | **Ilyra Serath** | Her maximum offensive output can reach Liang's scale; complete overall equality remains unresolved. |
 | **Early Sovereign** | **Jin Seoryu** | Less destructive than those above but capable of threatening stronger opponents through strategy and preparation. |
@@ -1375,7 +1457,8 @@ Deceased figures do not receive retrospective upgrades merely to keep pace with 
 - Sera and Qin remain outside the active ranking board as retired or semi-retired former #6 holders.
 - The public knows the Five Sovereigns and Five Dukes titles but does not know Sera, Qin or The Quiet Hand has surpassed the expected hierarchy.
 - Rhen is mythologized as the Petal Monarch but remains unranked because no official category can measure him.
-- Huo and Jiang are excluded from the active hierarchy unless the user later defines their survival and recovery.
+- Huo remains excluded from the public active hierarchy because his tribunal status is inactive; his restored High Sovereign cultivation and Quaint Teahouse role are secret.
+- Jiang Taixuan is deceased and holds no place in the five-year active hierarchy.
 
 ---
 
@@ -1390,7 +1473,8 @@ The five-year period is an active foundation arc rather than empty peace.
 - The public tea house, medicinal farm, apprentices, relief network and hidden mountain base all develop from the same desire: help people without returning to public martial rule.
 - Sera is first-in-command and the actual leader.
 - Qin Luo becomes second-in-command.
-- Tae Muyeon later becomes third-in-command.
+- Tae Muyeon later becomes third-in-command and one of the guild's two Offensive Generals.
+- Huo Wujin joins under conditional tribunal custody as the second Offensive General, with equal cultivation and approved battlefield authority to Tae but no equivalent administrative seniority.
 - Lu Weiran becomes Chief Steward and operational network leader.
 - The 200-person hidden force is internally known as **The Quiet Hand**.
 - Rhen refuses command and remains the healing teacher, physician and medicinal farmer.
@@ -1661,7 +1745,7 @@ The medicinal reserve is not western magic or literal material creation. It is f
 
 #### Capacity and Medical Reserves
 
-- The permanent residential population remains limited to the five core personnel.
+- The permanent residential population remains limited to the six core personnel.
 - Operational meetings can accommodate all 200 members of The Quiet Hand without converting the base into a barracks.
 - The underground shelters can sustain **3,000 people for approximately three months** under rationed conditions.
 - In a short emergency, the tunnels and shelters can hold **up to 10,000 people for ten days** while evacuation continues.
@@ -1685,7 +1769,7 @@ Access rules:
 - Wayfinder specialists learn route segments rather than the complete exterior network.
 - Other Quiet Hand operatives enter under a Wayfinder's guidance and do not receive a full exterior map.
 - Civilian evacuees enter through screened wagons, night movement or underground evacuation branches and are told only that they are being taken to an old mountain shelter.
-- Only Sera, Qin, Tae, Lu and Rhen know every entrance, exit and internal sector.
+- Only Sera, Qin, Tae, Huo, Lu and Rhen know every entrance, exit and internal sector.
 
 #### Concealment and Defence
 
@@ -1712,6 +1796,7 @@ Only the core personnel maintain private quarters and may reside there:
 - Rhen
 - Sera
 - Tae Muyeon, co-#1 and third-in-command
+- Huo Wujin, publicly inactive and secretly the second Offensive General
 - Qin Luo, the blind former #6 and second-in-command
 - Lu Weiran
 
@@ -1756,20 +1841,32 @@ Rhen heals Tae but refuses to extend Frozen Petals Garden to him.
 - Qin received prolonged local refinement as an exceptional medical case living under Rhen's roof.
 - Rhen will not create an expanding group of passively cultivated Sovereigns.
 - He believes too many artificially accelerated individuals could destabilize the world beyond what the current Top Ten can contain.
-- Tae, Lu Weiran and the apprentices do not receive the passive.
+- Tae, Huo, Lu Weiran and the apprentices do not receive the passive.
 
 #### Tae Joins The Quaint Teahouse
 
 Tae remains long enough to understand the organization and eventually joins as third-in-command.
 
+#### Huo Wujin Joins Under Custody
+
+Huo enters Sera and Rhen's supervised medical custody during the same general period as Tae's recovery. Kael and the tribunal believe the transfer exists solely to monitor Huo's returning Meridian Wheels.
+
+- Sera tests Huo's willingness to live without conquest before granting him internal membership.
+- Huo joins only after accepting the non-conquest doctrine, Sera's sole authority over lethal force and the continuing terms of his sentence.
+- His current cultivation, access to The Upper Room and role in The Quiet Hand remain concealed from Kael and the tribunal.
+- Tae and Huo become the guild's two Offensive Generals and jointly train The Quiet Hand.
+- Tae retains organizational seniority and third-in-command status; Huo receives equal battlefield authority only after Sera approves an offensive deployment.
+- Huo gradually comes to prefer tea, training and the quiet usefulness of the guild over the Empty Throne he once pursued.
+
 Final senior hierarchy:
 
 1. **Sera — first-in-command**
 2. **Qin Luo — second-in-command**
-3. **Tae Muyeon — third-in-command**
-4. **Lu Weiran — Chief Steward and operational network leader**
-5. senior healers and Orchid-trained field leaders
-6. **Rhen — healing teacher, medicinal farmer and no formal commander**
+3. **Tae Muyeon — third-in-command, senior Offensive General and training commander**
+4. **Huo Wujin — Offensive General with equal authority to Tae during an approved offensive deployment**
+5. **Lu Weiran — Chief Steward and operational network leader**
+6. senior healers and Orchid-trained field leaders
+7. **Rhen — healing teacher, medicinal farmer and no formal commander**
 
 ### 4.5 Year Four — The Hidden Guild Matures
 
@@ -1815,10 +1912,11 @@ By Year Five, The Quaint Teahouse maintains a hidden specialist force of exactly
 
 1. **Sera — absolute commander and sole lethal-force authority**
 2. **Qin Luo — operational commander, security authority and second-in-command**
-3. **Tae Muyeon — training commander, formation-breaking authority and third-in-command**
-4. **Lu Weiran — Chief Steward, deployment planner and logistical authority**
-5. **Ten founding cell captains — Han Mira through Tang Lumei, each commanding one permanent twenty-person operational cell**
-6. **Rhen — chief medical instructor with no command authority**
+3. **Tae Muyeon — senior Offensive General, training commander, formation-breaking authority and third-in-command**
+4. **Huo Wujin — Offensive General and adaptive-combat instructor; equal battlefield authority to Tae during approved offensive deployments**
+5. **Lu Weiran — Chief Steward, deployment planner and logistical authority**
+6. **Ten founding cell captains — Han Mira through Tang Lumei, each commanding one permanent twenty-person operational cell**
+7. **Rhen — chief medical instructor with no command authority**
 
 Rhen may stop training or deployment for medical reasons, but he does not select targets, command missions or override Sera's decisions.
 
@@ -1832,14 +1930,18 @@ The 200 are not equal in direct combat:
 
 This places 160 of the 200 at Marquis class or higher while preserving the significance of true Duke and Sovereign breakthroughs.
 
-##### Tae Muyeon's Training
+##### Tae Muyeon and Huo Wujin's Training
 
-Tae is the primary reason ordinary recruits become Marquis-class operatives.
+Tae and Huo are the primary offensive instructors responsible for turning ordinary recruits into Marquis-class operatives.
 
 - His training is exceptionally harsh and permits no dependence on a single technique, weapon or ideal battlefield.
 - He develops their endurance, close combat, formation-breaking, pressure resistance and ability to continue functioning while injured or exhausted.
 - Operatives learn to dismantle numerically superior formations from inside rather than meeting their full strength head-on.
 - Tae does not soften the standard because they are healers or covert personnel.
+- Huo teaches recruits to identify changing circulation rhythms and adapt when an opponent abandons the expected martial answer.
+- He cycles different Meridian Wheels to reproduce multiple kinds of Sovereign pressure without transferring or teaching forbidden cultivation architecture.
+- Joint trials force recruits to break Tae's fixed iron pressure while Huo continually changes the battlefield's rhythm and tactical problem.
+- Rhen may halt either general's session before the harshness causes permanent damage.
 
 ##### Sera's Martial and Strategic Training
 
@@ -1880,8 +1982,8 @@ The Quiet Hand contains four fifty-person training battalions:
 
 1. **Veil Battalion — Sera's curriculum**
    - infiltration, concealment, strategy, anatomical incapacitation, deception and assassination methodology
-2. **Iron Battalion — Tae's curriculum**
-   - direct combat, formation-breaking, endurance, pressure resistance and rear-guard action
+2. **Iron Battalion — Tae and Huo's curriculum**
+   - direct combat, formation-breaking, endurance, pressure resistance, adaptive rhythm and rear-guard action
 3. **Spring Battalion — Rhen's curriculum**
    - battlefield medicine, meridian stabilization, poison treatment, evacuation and prolonged team sustain
 4. **Wayfinder Battalion — Lu and Qin's curriculum**
@@ -1910,8 +2012,9 @@ They are trained at different distributed locations, deploy only when their func
 - The Quiet Hand never advertises, conscripts recruits or accepts a martial artist merely because they are powerful.
 - Lu and Qin investigate loyalty, judgment and outside connections.
 - Rhen verifies medical knowledge, restraint and the ability to preserve life under pressure.
-- Tae conducts the final physical and formation-breaking trials.
+- Tae and Huo jointly conduct the final physical, adaptive-combat and formation-breaking trials.
 - Sera evaluates strategy, independent judgment and obedience to the lethal-force rule.
+- Huo submits a formal assessment, but Tae retains administrative responsibility for the training command.
 - Failing selection does not expel someone from the wider guild; they may continue serving through clinics, farms, supply routes and ordinary field squads.
 - Graduation requires unanimous approval from Sera, Qin and Tae. Rhen may medically disqualify a candidate.
 
@@ -1923,7 +2026,7 @@ A standard major deployment consists of **20 operatives**.
 - They infiltrate rather than approach as a visible army.
 - Commanders, communications, physicians and formation anchors are neutralized before the larger force can organize.
 - Sera's strategic training breaks the 2,000 soldiers into isolated groups that never fight as one army.
-- Tae's training allows the operatives to destroy those groups rapidly.
+- Tae and Huo's training allows the operatives to destroy those groups rapidly and adapt when the isolated forces change formation or technique.
 - Rhen's medical instruction keeps their own casualties extraordinarily low.
 - Lu's preparation ensures that the unit controls the engagement, retreat routes and supplies before the operation begins.
 
@@ -1947,7 +2050,7 @@ The force possesses assassin-level methods but is not permitted to kill at its o
 - Authorization must be explicit and may apply to a named target or clearly defined mission condition.
 - Without that authorization, every operative must incapacitate, disarm, capture, misdirect or escape instead of killing.
 - Convenience, anger, revenge and operational secrecy never constitute automatic permission to kill.
-- Tae, Qin, Lu and field commanders cannot override this rule.
+- Tae, Huo, Qin, Lu and field commanders cannot override this rule.
 - If an order cannot be authenticated or communications fail, the force defaults to nonlethal action.
 
 The force remains a hidden intervention and rescue army rather than a conquering or mercenary organization.
@@ -1965,10 +2068,11 @@ During Year Four, simultaneous flooding and a conflict between two regional sect
 - Neither coalition discovers who dismantled its command network.
 - The public attributes the evacuation to local physicians, scattered relief groups and the unexplained withdrawal of both armies.
 
-Qin and Tae support all branches and battalions rather than creating personal factions.
+Qin, Tae and Huo support all branches and battalions rather than creating personal factions.
 
 - Qin's restored cultivation and passive refinement carry him into Sovereign level.
 - Tae continues developing his iron-infused horizon arts without Rhen's passive.
+- Huo restores his Nine Meridian Wheels to High Sovereign through his own cultivation, without Rhen's passive.
 - The strongest apprentices and recruits form The Quiet Hand, most reaching Marquis-class strength without becoming replacement members of the public Top Ten.
 - The guild remains unknown to the official ranking system.
 
@@ -1979,6 +2083,7 @@ By Year Five:
 - Sera is a Peak Sovereign approaching Paragon.
 - Qin is a Sovereign comparable to Liang Yue.
 - Tae is a High Sovereign.
+- Huo is a High Sovereign in Tae's cultivation tier and serves beside him as the second Offensive General.
 - Lu Weiran operates a continental information and relief-supply network.
 - The Quiet Hand is fully operational and is secretly the world's strongest army.
 - The apprentices can respond to crises without requiring Sera or Rhen personally.
@@ -1991,16 +2096,16 @@ By Year Five:
 
 ##### Full Knowledge
 
-- **Rhen, Sera, Qin Luo, Tae Muyeon and Lu Weiran** know the complete organization, The Quiet Hand, The Upper Room and the senior power hierarchy.
-- Rhen can accurately assess Sera, Qin and Tae's cultivation, although he does not turn those assessments into public rankings.
-- Sera, Qin and Tae understand one another's approximate combat level through training and command work.
+- **Rhen, Sera, Qin Luo, Tae Muyeon, Huo Wujin and Lu Weiran** know the complete organization, The Quiet Hand, The Upper Room and the senior power hierarchy.
+- Rhen can accurately assess Sera, Qin, Tae and Huo's cultivation, although he does not turn those assessments into public rankings.
+- Sera, Qin, Tae and Huo understand one another's approximate combat level through training and command work.
 - Lu maintains operational threat assessments but does not pretend to possess a cultivator's technical judgment.
 
 ##### Partial Internal Knowledge
 
 - The ten cell captains know all 200 members, the command hierarchy and the existence of The Upper Room.
 - Each captain knows only the approach and internal sectors necessary for their cell.
-- They know Sera, Qin and Tae vastly exceed Marquis class but are not given exact cultivation labels.
+- They know Sera, Qin, Tae and Huo vastly exceed Marquis class but are not given exact cultivation labels.
 - They know Rhen is an impossible physician and their chief medical instructor; none has confirmation that he is the Petal Monarch.
 - Jiang Fen and Oh Minseok know the guild's senior leaders and relief network but not the complete Quiet Hand roster or base map.
 - Ordinary apprentices, physicians and couriers believe The Quiet Hand is a small emergency unit rather than a 200-person Marquis-class army.
@@ -2010,8 +2115,10 @@ By Year Five:
 - The public continues to regard Sera as a retired tea-house owner and former Pale Orchid.
 - Qin is believed to have disappeared from martial affairs after his critical injuries; his Sovereign recovery is unknown.
 - Tae's reduced public activity creates rumours of travel, recovery or private training; nobody knows he joined Sera.
+- Huo is publicly alive but inactive, reduced and under tribunal supervision; only Kael and the tribunal know his medical custody was transferred to Rhen and Sera.
 - Lu has no martial reputation and remains invisible to the ranking world.
-- The Five Sovereigns do not know Sera is near Paragon, Qin has reached Sovereign or Tae is serving as The Quiet Hand's training commander.
+- Kael does not know Huo has returned to High Sovereign, entered The Upper Room or become an Offensive General.
+- The Five Sovereigns do not know Sera is near Paragon, Qin has reached Sovereign or Tae and Huo are training The Quiet Hand.
 - Jin knows a private route to contact Rhen and Sera and suspects they possess unusual resources, but he does not know The Quaint Teahouse, The Quiet Hand or The Upper Room exists.
 
 #### Sera Withdraws From Rhen's Passive
@@ -2020,7 +2127,7 @@ By Year Five:
 - The request represents trust and self-determination rather than emotional separation.
 - Rhen withdraws it immediately after confirming she is certain.
 - Qin remains inside the ordinary local refinement field while living under their roof unless the user later changes this.
-- Rhen still refuses to extend the passive to Tae, Lu Weiran or the apprentices.
+- Rhen still refuses to extend the passive to Tae, Huo, Lu Weiran or the apprentices.
 
 ### 4.7 Romance Spine — Locked Across All Five Years
 
@@ -2283,9 +2390,7 @@ These are intentionally blank until the user supplies more skeleton material:
 
 ### Remaining Character and Power Planning
 
-- exact survival, health and remaining cultivation of Huo Wujin and Jiang Taixuan
-- permanent approval or replacement of the working domain name **Orchid Court**
-- Orchid Court's final radius, duration, energy cost and resistance rules
+- exact Tae-versus-Huo matchup if they ever fight seriously
 - exact Ilyra-versus-Liang overall comparison beyond offensive output
 - signature Supreme Domains for other characters only if they later reach Paragon
 
@@ -2294,7 +2399,7 @@ These are intentionally blank until the user supplies more skeleton material:
 - whether Peng Sui returns and what becomes of the fractured Red Willow Sect
 - later personal arcs, relationships and possible successors among the ten Quiet Hand cell captains
 - whether The Upper Room is exposed during or after the new-continent rescue
-- long-term command succession if Sera, Qin or Tae becomes unavailable
+- long-term command succession if Sera, Qin, Tae or Huo becomes unavailable
 
 ### Remaining World-State Planning
 
@@ -2325,6 +2430,19 @@ Do **not** fill these automatically.
 ---
 
 ## 7. Revision Log
+
+### 2026-08-29 — Orchid Dominion and Huo Wujin Recruitment
+
+- Permanently named Sera's future Supreme Domain **Orchid Dominion** while keeping it unavailable until she reaches Paragon.
+- Locked its one-mile optimal radius, three-mile maximum radius, duration, reserve costs, recovery period and suppression scale.
+- Confirmed Huo Wujin survived, remained publicly inactive under tribunal supervision and restored his Nine Meridian Wheels to High Sovereign through his own cultivation.
+- Corrected Jiang Taixuan's status to deceased based on the established canon record.
+- Recruited Huo during Year Three under Sera and Rhen's supervised medical custody, within the same general period as Tae's recruitment.
+- Established Tae and Huo as equal-cultivation Offensive Generals while preserving Tae's third-in-command status and organizational seniority.
+- Added Huo to The Upper Room's six-person core, complete-access group and senior power-knowledge circle.
+- Integrated Huo into Quiet Hand adaptive-combat training without granting him independent mobilization or lethal-force authority.
+- Locked that Huo has abandoned conquest, genuinely loves tea and prefers training The Quiet Hand beside Tae while continuing to serve his sentence.
+- No runtime, architecture, UI, canon-data or implementation files were changed.
 
 ### 2026-08-29 — Paragon Domain and Complete Power Hierarchy
 
