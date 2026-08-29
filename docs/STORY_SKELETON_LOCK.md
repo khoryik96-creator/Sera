@@ -37,7 +37,7 @@ The user is deliberately building the continuation as a **skeletal structure fir
 | 1 | Character development skeleton | **ACTIVE** |
 | 2 | Five-year world-state skeleton | ACTIVE — QUAINT TEAHOUSE AND FIVE SOVEREIGN ORDER LOCKED |
 | 3 | New arc / conflict skeleton | STARTED — SOUTHERN ISGARD FOUNDATION LOCKED |
-| 4 | Season/chapter outline | NOT STARTED |
+| 4 | Season/chapter outline | **ACTIVE — TEN-SEASON / 100-CHAPTER DRAFT CREATED** |
 | 5 | Story composition / prose | **LOCKED** |
 
 ### Current Planning Boundary
@@ -51,7 +51,9 @@ The user is deliberately building the continuation as a **skeletal structure fir
 - When an ability detail is still undefined, mark it `TBD` rather than inventing mechanics.
 - New named techniques must not be invented unless the user asks for naming help or explicitly approves a proposed name.
 - The existing Murim/internal-energy setting remains in force. Descriptions such as "divine sense" describe an evolved perception effect, not western magic.
-- Season/chapter outlining and story composition remain locked until the user explicitly opens those stages.
+- Stage 4 season/chapter outlining is now open only for **Beneath the Crooked Sign**; Stage 5 story composition remains locked until the user explicitly opens it.
+- The user has now opened Stage 4 outlining for **Beneath the Crooked Sign**. The working ten-season, 100-chapter draft is maintained in `docs/BENEATH_THE_CROOKED_SIGN_OUTLINE.md`.
+- Stage 5 prose composition remains locked.
 
 ---
 
@@ -2628,6 +2630,16 @@ Do **not** fill these automatically.
 ---
 
 ## 8. Revision Log
+
+### 2026-08-29 — Beneath the Crooked Sign Ten-Season Outline
+
+- Opened Stage 4 story outlining while preserving the lock on prose composition and runtime implementation.
+- Created `docs/BENEATH_THE_CROOKED_SIGN_OUTLINE.md` as a ten-season, 100-chapter structural draft.
+- Assigned two seasons to each story year so the five-year development is not compressed.
+- Kept the Duskvein confrontation and Isgard rescue outside the macro arc, ending instead on Jin's distress signal.
+- Distributed the medicinal farm, governor conflict, clinic network, Quaint Teahouse formation, Lu recruitment, Upper Room, Tae and Huo recruitment, Quiet Hand training, flood operation, Wuyue maturation and Sera's passive withdrawal across separate season movements.
+- Preserved the romance spine and recurring final cup throughout all ten seasons.
+- No story prose, runtime data, architecture, UI, character profiles, rankings or technique records were changed.
 
 ### 2026-08-29 — Wuyue Continent, Five Domains and Crownless Host
 
