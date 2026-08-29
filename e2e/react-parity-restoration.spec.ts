@@ -24,7 +24,7 @@ test('Sera character profile restores her dedicated Pale Orchid technique archiv
   const arts = page.locator('#characterLeadArtsSection');
   await expect(arts.getByRole('heading', { name: 'Sera — signature martial system' })).toBeVisible();
   expect(await arts.locator('.technique-card').count()).toBeGreaterThan(0);
-  await expect(page.getByRole('group', { name: 'Sera profile sections' }).getByRole('button', { name: 'Arts', exact: true })).toBeVisible();
+  await expect(page.getByRole('navigation', { name: 'Sera profile sections' }).getByRole('button', { name: 'Arts', exact: true })).toBeVisible();
 });
 
 test('React exposes Install Reader when the browser provides an install prompt', async ({ page }) => {
