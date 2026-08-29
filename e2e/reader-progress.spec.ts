@@ -10,7 +10,6 @@ test('opening a chapter records progress and exposes reader v3 metadata', async 
   await expect(page.locator('.reader-prose')).toBeVisible({ timeout: 20_000 });
   await expect(page.locator('.reader-meta-chips')).toContainText('Season 1');
   await expect(page.locator('.reader-meta-chips')).toContainText('Chapter 1 / 10');
-  await expect(page.locator('.next-unread-button')).toContainText('S1 · Ch 2');
 
   const read = await page.evaluate(() => JSON.parse(localStorage.getItem('tqr:readEpisodes:v1') || '[]')) as string[];
   expect(read).toContain('ep-s1-e1');
@@ -21,7 +20,6 @@ test('next chapter advances persistent season progress', async ({ page }) => {
   await expect(page.locator('.reader-prose')).toBeVisible({ timeout: 20_000 });
   await page.locator('.reader-nav--v3 > button').last().click();
   await expect(page).toHaveURL(/#chapter\/1\/2$/);
-  await expect(page.locator('.next-unread-button')).toContainText('S1 · Ch 3');
   const read = await page.evaluate(() => JSON.parse(localStorage.getItem('tqr:readEpisodes:v1') || '[]')) as string[];
   expect(read).toContain('ep-s1-e2');
 });

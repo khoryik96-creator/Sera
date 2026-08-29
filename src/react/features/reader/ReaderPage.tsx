@@ -5,7 +5,7 @@ import { DB } from '../../../db';
 import { EPISODE_ARCS } from '../../../episodeMeta';
 import { loadSeason } from '../../../seasonStore';
 import { renderNovel } from '../../../novel';
-import { nextUnreadTarget, progressForSeason } from '../../../readingProgress';
+import { progressForSeason } from '../../../readingProgress';
 import { getChapterPosition, saveChapterPosition } from '../../../readerPositions';
 import type { ChapterPosition } from '../../../readerPositions';
 import type { Episode } from '../../../types';
@@ -215,7 +215,6 @@ export function ReaderPage({ season, episode, onBack, onOpenChapter }: ReaderPag
   const arcIndex = EPISODE_ARCS.findIndex((arc) => arc.seasons.some((entry) => entry.season === season));
   const arc = EPISODE_ARCS[Math.max(0, arcIndex)];
   const seasonProgress = progressForSeason(readEpisodes, season);
-  const nextUnread = nextUnreadTarget(readEpisodes, { season, episode });
   const previousTitle = episode > 1 ? episodes[episode - 2]?.title : season > 1 ? `Final chapter of Season ${season - 1}` : 'Beginning';
   const nextTitle = episode < episodes.length ? episodes[episode]?.title : season < 64 ? `Season ${season + 1} · Chapter 1` : 'The End';
   const loreEntry = loreKey ? characterRegistry.find((entry) => entry.key === loreKey) : undefined;
@@ -325,7 +324,6 @@ export function ReaderPage({ season, episode, onBack, onOpenChapter }: ReaderPag
             <div className="reader-header__actions">
               <button className={`bookmark-toggle ${saved ? 'is-saved' : ''}`} onClick={() => bookmark && toggleSaved(bookmark)} type="button">{saved ? '★ Saved' : '☆ Bookmark'}</button>
               {showResumePosition ? <button className="reader-position-resume" onClick={resumeExactPosition} type="button"><span>Resume position</span><strong>{Math.round((resumePosition?.progress || 0) * 100)}%</strong></button> : null}
-              {nextUnread ? <button className="next-unread-button" onClick={() => onOpenChapter(nextUnread.season, nextUnread.episode)} type="button"><span>Next unread</span><strong>S{nextUnread.season} · Ch {nextUnread.episode}</strong></button> : <span className="reader-complete-chip">Story complete</span>}
             </div>
           </header>
 

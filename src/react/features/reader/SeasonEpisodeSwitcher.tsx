@@ -11,14 +11,12 @@ interface SeasonEpisodeSwitcherProps {
 
 export function SeasonEpisodeSwitcher({ season, episode, episodes, readEpisodes, onOpenChapter }: SeasonEpisodeSwitcherProps) {
   const opened = new Set(readEpisodes);
-  const openedCount = episodes.reduce((count, _item, index) => opened.has(`ep-s${season}-e${index + 1}`) ? count + 1 : count, 0);
 
   return (
     <details className="reader-season-switcher">
       <summary>
         <span className="reader-season-switcher__label">Season {season} chapters</span>
         <strong>Chapter {episode} of {episodes.length}</strong>
-        <small>{openedCount} / {episodes.length} opened</small>
         <b aria-hidden="true">⌄</b>
       </summary>
       <nav className="reader-season-switcher__episodes" aria-label={`Season ${season} chapter switcher`}>

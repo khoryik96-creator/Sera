@@ -12,7 +12,6 @@ test('reader season switcher exposes the loaded season without leaving the chapt
   await expect(switcher).not.toHaveAttribute('open', '');
   await expect(switcher.locator('summary')).toContainText('Season 12 chapters');
   await expect(switcher.locator('summary')).toContainText('Chapter 3 of 10');
-  await expect(switcher.locator('summary')).toContainText('1 / 10 opened');
 
   await switcher.locator('summary').click();
   await expect(switcher).toHaveAttribute('open', '');
