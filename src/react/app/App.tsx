@@ -6,6 +6,7 @@ import { episodeCountForSeason } from '../../readingProgress';
 import { navigationItems } from './navigation';
 import type { AppSection } from './navigation';
 import { useReaderState } from '../features/reader/ReaderContext';
+import { InstallReaderButton } from '../components/InstallReaderButton';
 
 const OverviewPage = lazy(() => import('../routes/OverviewRoute').then((module) => ({ default: module.OverviewPage })));
 const CharactersPage = lazy(() => import('../routes/CharactersRoute').then((module) => ({ default: module.CharactersPage })));
@@ -253,15 +254,18 @@ export function App() {
               onChange={(event: { target: HTMLInputElement }) => { setSearchQuery(event.target.value); setSearchOpen(true); }}
               onFocus={handleSearchFocus}
               onKeyDown={handleSearchInputKeyDown}
-              placeholder="Search characters, episodes, canon…"
+              placeholder="Search characters, chapters, canon…"
               aria-label="Search The Quiet Regular"
+              role="combobox"
               aria-controls="searchPalette"
               aria-haspopup="dialog"
+              aria-expanded={searchOpen}
             />
             <kbd>⌘K</kbd>
           </label>
-          {lastRead ? <button className="topbar__continue" onClick={() => openChapter(lastRead.season, episodeNumber(lastRead.id))} type="button">Continue S{lastRead.season} E{episodeNumber(lastRead.id)}</button> : null}
-          <span className="topbar__meta">64 seasons · 633 episodes</span>
+          {lastRead ? <button className="topbar__continue" onClick={() => openChapter(lastRead.season, episodeNumber(lastRead.id))} type="button">Continue S{lastRead.season} Ch {episodeNumber(lastRead.id)}</button> : null}
+          <InstallReaderButton />
+          <span className="topbar__meta">64 seasons · 633 chapters</span>
         </header>
 
         <nav className="mobile-tabs" aria-label="Mobile repository sections" ref={mobileTabsRef}>

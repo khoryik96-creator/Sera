@@ -32,11 +32,13 @@ test('character quick navigator jumps through long profiles without overflow', a
   await expect(page.locator('.character-profile--v2')).toBeVisible({ timeout: 20_000 });
   const nav = page.locator('.character-section-nav');
   await expect(nav).toBeVisible();
-  await expect(nav.getByRole('button')).toHaveCount(6);
+  for (const label of ['Profile', 'Rank', 'Skills', 'Relations', 'Legends', 'Chapters', 'Details']) {
+    await expect(nav.getByRole('button', { name: label, exact: true })).toBeVisible();
+  }
 
   await nav.getByRole('button', { name: 'Legends' }).click();
   await expect.poll(async () => page.locator('#characterLegendsSection').evaluate((node) => Math.abs(node.getBoundingClientRect().top))).toBeLessThan(220);
-  await nav.getByRole('button', { name: 'Episodes' }).click();
+  await nav.getByRole('button', { name: 'Chapters' }).click();
   await expect.poll(async () => page.locator('#characterAppearancesSection').evaluate((node) => Math.abs(node.getBoundingClientRect().top))).toBeLessThan(220);
 
   const dimensions = await page.evaluate(() => ({ width: document.documentElement.clientWidth, scroll: document.documentElement.scrollWidth }));
@@ -46,7 +48,9 @@ test('character quick navigator jumps through long profiles without overflow', a
 
 test('visual diagnostics capture resolved archive and character surfaces', async ({ page }, testInfo) => {
   await open(page, 'chapters');
-  await expect(page.locator('.arc-browser')).toBeVisible({ timeout: 20_000 });
+  await expect(page.locator('.chapter-browser-panel')).toBeVisible({ timeout: 20_000 });
+  await expect(page.getByRole('combobox', { name: 'Story arc' })).toBeVisible();
+  await expect(page.getByRole('combobox', { name: 'Season' })).toBeVisible();
   await expect(page.locator('.route-loading')).toBeHidden();
   await page.screenshot({ path: testInfo.outputPath('resolved-chapters.png'), fullPage: false });
 

@@ -40,12 +40,12 @@ test('relationship cards navigate between character profiles when links exist', 
   await expect(page).toHaveURL(/#characters\/.+$/);
 });
 
-test('lazy appearance scan creates direct episode links without changing portraits', async ({ page }) => {
+test('lazy appearance scan creates direct chapter links without changing portraits', async ({ page }) => {
   test.setTimeout(60_000);
   await openSera(page);
   const originalPortrait = await page.locator('.portrait-card > img').first().getAttribute('src');
   await expect(page.locator('.appearance-season-strip button')).not.toHaveCount(0);
-  await page.getByRole('button', { name: /Find exact episode links/ }).click();
+  await page.getByRole('button', { name: /Find exact chapter links/ }).click();
   await expect(page.locator('.appearance-results')).toBeVisible({ timeout: 40_000 });
   await expect(page.locator('.appearance-episode-grid button').first()).toBeVisible();
   expect(await page.locator('.portrait-card > img').first().getAttribute('src')).toBe(originalPortrait);

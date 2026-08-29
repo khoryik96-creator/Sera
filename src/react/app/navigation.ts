@@ -11,7 +11,7 @@ export const navigationItems: NavItem[] = [
   { id: 'characters', label: 'Characters', shortLabel: 'Cast' },
   { id: 'villains', label: 'Other Characters / Villains', shortLabel: 'Others' },
   { id: 'techniques', label: 'Arts & Techniques', shortLabel: 'Arts' },
-  { id: 'chapters', label: 'Episodes', shortLabel: 'Read' },
+  { id: 'chapters', label: 'Chapters', shortLabel: 'Read' },
   { id: 'bookmarks', label: 'Reader Library', shortLabel: 'Library' },
   { id: 'insights', label: 'Reading Insights', shortLabel: 'Stats' },
   { id: 'rankings', label: 'Rankings', shortLabel: 'Ranks' },
