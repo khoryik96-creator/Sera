@@ -14,8 +14,8 @@
    - [Rhen — five years later](#31-rhen--five-years-later)
    - [Rhen — five-year character/world position](#32-rhen--five-year-characterworld-position)
    - [Sera — five years later](#33-sera--five-years-later)
-   - [Top Five — five years later](#34-top-five--five-years-later)
-   - [Co-#1 and Top 6–10 — five years later](#35-co-1-and-top-610--five-years-later)
+   - [Five Sovereigns — five years later](#34-five-sovereigns--five-years-later)
+   - [Co-#1 and the Five Dukes — five years later](#35-co-1-and-the-five-dukes--five-years-later)
    - [Qin Luo — five years later](#36-qin-luo--five-years-later)
    - [Other characters — five years later](#37-other-characters--five-years-later)
 4. [The Quaint Teahouse — five-year development](#4-the-quaint-teahouse--five-year-development)
@@ -59,6 +59,8 @@ The user is deliberately building the continuation as a **skeletal structure fir
 - Sera remains retired from public ranking and ordinary martial politics, but the user has explicitly approved a limited exception: she covertly leads **The Quaint Teahouse**, intervening when necessary to protect civilians, preserve medical access, move relief supplies or prevent concealed disasters.
 - The Quaint Teahouse does not rule territory, replace governments, seek public recognition or intervene merely to influence ranking disputes.
 - Rhen supports its healing work as a teacher, physician and medicinal farmer but holds no command position.
+- The former **Five Dukes** title has risen with its holders: ranks #1–5 are now publicly known as the **Five Sovereigns**.
+- The former **Five Marquises** title has likewise advanced: ranks #6–10 are now publicly known as the **Five Dukes**.
 - Rhen's identity as the **Petal Monarch** has moved beyond ordinary legend and become something closer to a myth.
 - The martial world may remember the title, stories, and impossible feats, but the exact five-year world reaction is still `TBD`.
 - The five-year domestic/guild development and its ending cliffhanger are now locked skeleton material. Chapters, scenes and prose remain unstarted.
@@ -569,9 +571,35 @@ The following existing arts remain named techniques rather than receiving a new 
 
 They are nevertheless executed with Sovereign-level cultivation, precision and speed. Do not rename them or invent separate replacements merely to demonstrate Sera's increased power.
 
+#### Paragon Boundary — Working Definition
+
+**Paragon is a qualitative martial breakthrough, not merely a larger reserve of Sovereign internal energy.**
+
+A Sovereign has perfected a personal martial system and can express it at extraordinary scale. A Paragon passes the next boundary by unifying:
+
+- body
+- meridians and circulation
+- intent
+- perception
+- the central principle underlying every technique in their martial system
+
+At Paragon level, there is almost no separation between deciding, circulating and executing. Named techniques still exist, but they become natural expressions of one complete principle rather than isolated actions that must be activated in sequence.
+
+This remains Murim cultivation rather than western magic:
+
+- a Paragon does not rewrite reality
+- a Paragon does not automatically possess a magical domain
+- their apparent authority over a battlefield comes from flawless internal-energy control, perception, timing and continuous application of their martial principle
+- a Paragon is not invincible; preparation, a perfect counter-principle or several exceptional Sovereigns may still threaten one
+- the difference between individual Paragons may be enormous
+
+Sera is approaching this boundary because **Veiled Moon**, her movement, anatomical perception, needles and circulation disruption are beginning to function as one continuous Orchid system. She has not reached Paragon because she must still deliberately transition between those expressions and cannot yet sustain the entire system as one effortless state.
+
+Rhen is not automatically classified as Paragon. His present level remains immeasurable and should not be forced into the public cultivation hierarchy.
+
 ---
 
-### 3.4 Top Five — Five Years Later
+### 3.4 Five Sovereigns — Five Years Later
 
 #### Power Hierarchy
 
@@ -581,16 +609,17 @@ They are nevertheless executed with Sovereign-level cultivation, precision and s
 | #1 Kael Veyran | **High Sovereign** |
 | #2 Liang Yue | **Mid Sovereign** |
 | #3 Jin Seoryu | **Early Sovereign** |
-| #4 Lei Zhen | **Sovereign Threshold** |
-| #5 Shen Rui | **Sovereign Threshold** |
+| #4 Lei Zhen | **Newly Ascended Sovereign** |
+| #5 Shen Rui | **Newly Ascended Sovereign** |
 
 Rules:
 
-- All of the Top Three have entered the new **Sovereign** level.
+- All five ranked fighters have entered the **Sovereign** level and are now collectively known as the **Five Sovereigns**.
+- **Five Sovereigns** replaces their former collective title, **Five Dukes**.
 - Sera is considerably stronger than each Top Three member individually.
 - Sera is close to **Paragon**, but has not reached it.
 - Whether Sera can defeat all three Sovereigns together remains `TBD`.
-- Lei Zhen and Shen Rui are extremely close to Sovereign but have not crossed the boundary.
+- Lei Zhen and Shen Rui crossed the Sovereign boundary during the five-year period but remain behind Jin Seoryu in overall rank and refinement.
 - Existing ranking gaps and individual specializations continue to matter even when characters share a cultivation level.
 - Rhen remains immeasurably beyond this hierarchy.
 
@@ -727,15 +756,15 @@ Jin engineers a campaign in which every surviving decision leads to the same fin
 
 Against someone stronger, he may deliberately lose exchanges, territory or allied positions, provided each loss moves the opponent closer to the one conclusion they cannot escape.
 
-#### 3.4.4 #4 Lei Zhen — Thunderfire Threshold
+#### 3.4.4 #4 Lei Zhen — Thunderfire Sovereign
 
-**Five-year cultivation level:** Sovereign Threshold
+**Five-year cultivation level:** Newly Ascended Sovereign
 
-Lei has not reached Sovereign, but his thunder qi has evolved into a hybrid of lightning and fire.
+Lei reaches Sovereign by stabilizing his thunder qi as a true hybrid of lightning and fire.
 
 - His bolts are now **violet-crimson with a white-hot centre**.
 - The historical technique name **Blue Heaven Spear** remains unchanged even though its lightning is no longer blue.
-- Maintaining the hybrid state still places substantial strain on his meridians, preventing his final Sovereign breakthrough.
+- Maximum-output thunderfire still strains his meridians, keeping him below the more refined Sovereigns above him.
 
 ##### Black Storm Pulse — Transcended Evolution
 
@@ -765,11 +794,11 @@ Lei's thunderfire penetrates defensive circulation, then burns open routes for l
 
 The battlefield becomes one enormous thunderfire circuit. Violet-crimson bolts travel through weapons, terrain and seeded qi while white fire remains burning along every completed route.
 
-#### 3.4.5 #5 Shen Rui — Water and Ice Threshold
+#### 3.4.5 #5 Shen Rui — Water and Ice Sovereign
 
-**Five-year cultivation level:** Sovereign Threshold
+**Five-year cultivation level:** Newly Ascended Sovereign
 
-Rui discovers that water does not only flow, redirect and accumulate. Water can become perfectly still, and that stillness is ice.
+Rui reaches Sovereign after understanding that water does not only flow, redirect and accumulate. Water can become perfectly still, and that stillness is ice.
 
 His ice remains an evolution of water qi, distinct from Rhen's frozen-petal and winter principles.
 
@@ -820,11 +849,11 @@ The technique remembers force through every state of water:
 
 Rui can cycle the same stored force through water and ice repeatedly before releasing everything in one controlled return.
 
-He remains below Sovereign because maintaining the complete cycle still strains his meridians and requires intense concentration.
+Crossing the Sovereign boundary allows Rui to complete the water-and-ice cycle without destabilizing it. Sustaining the entire cycle at maximum scale still demands intense concentration, keeping him below Lei Zhen and the more refined Sovereigns above them.
 
 ---
 
-### 3.5 Co-#1 and Top 6–10 — Five Years Later
+### 3.5 Co-#1 and the Five Dukes — Five Years Later
 
 #### Power Hierarchy
 
@@ -839,11 +868,13 @@ He remains below Sovereign because maintaining the complete cycle still strains 
 
 Rules:
 
+- The active #6–10 seats are collectively known as the **Five Dukes**, replacing their former title, the **Five Marquises**.
+- **Five Dukes** is a public ranking-group title rather than a strict cultivation ceiling; Ilyra remains personally Sovereign-level.
 - Tae remains the unranked co-#1 and is comparable to Kael depending on battlefield and matchup.
 - Ilyra is a true Sovereign whose peak offensive output is comparable to #2 Liang Yue.
 - Ilyra's complete overall comparison with Liang remains `TBD`; comparable offense does not automatically make their total combat ability equal.
 - Top 7–10 are all genuine Duke-level fighters.
-- None of Top 7–10 is stronger overall than any member of the Top Five.
+- None of Top 7–10 is stronger overall than any member of the Five Sovereigns.
 - Specialist matchups may still allow a lower-ranked Duke to threaten someone above their position.
 - No new named techniques are created for these characters; all five-year developments evolve their established arts.
 
@@ -1084,7 +1115,7 @@ Yun can activate the families separately, disguising the complete poison as seve
 - The final poison is shaped by the target's own defensive choices.
 - Yun cannot fully predict its final form before observing those responses.
 
-This art can threaten people above Yun's rank but requires exposure and preparation. In a direct unprepared battle, she remains below every member of the Top Five.
+This art can threaten people above Yun's rank but requires exposure and preparation. In a direct unprepared battle, she remains below every member of the Five Sovereigns.
 
 ---
 
@@ -1384,21 +1415,47 @@ The location provides:
 - concealed stone chambers
 - visibility across important travel routes
 
-The Quaint Teahouse constructs a hidden base containing:
+The Quaint Teahouse constructs a hidden strategic base containing:
 
 - a central infirmary
-- medicinal storage vaults
+- medicinal storage vaults with an **effectively endless emergency supply of medicine**
 - indoor herb terraces
-- a training courtyard
 - an intelligence archive
 - a courier station
-- an emergency civilian shelter
+- multiple underground emergency shelters
+- a concealed underground passage system linking shelters, treatment areas, storage galleries and separate escape routes
+- several hidden exits designed so the loss of one route cannot trap everyone inside
 - a poison-isolation chamber
 - a vibration room for Qin
 - a strategy room for Sera
 - an ordinary tea room insisted upon by Rhen
 
-The mountain, cave and base names remain `TBD`.
+The medicinal reserve is not western magic or literal material creation. It is functionally inexhaustible because Rhen's indoor cultivation, rotating medicine vaults, the medicinal farm and the guild's supply network replenish it faster than normal operations consume it. The reserve is designed to support prolonged disasters, mass treatment and a complete regional supply collapse.
+
+#### Restricted Residence and Strategic Purpose
+
+The hidden base is not the guild's everyday headquarters, public clinic, mass training ground or permanent barracks.
+
+Only the core personnel maintain private quarters and may reside there:
+
+- Rhen
+- Sera
+- Tae Muyeon, co-#1 and third-in-command
+- Qin Luo, the blind former #6 and second-in-command
+- the non-martial logistics specialist
+
+Rhen and Sera still regard Second Spring Tea House as their public home. Their quarters at the hidden base exist for emergencies, extended planning and periods when withdrawal is unsafe.
+
+Other apprentices, battalions and field squads:
+
+- live and train at distributed clinics, farms, safe houses and concealed regional facilities
+- enter the hidden base only for necessary briefings, emergencies, treatment, evacuation or organized retreat
+- do not maintain permanent quarters there
+- receive compartmentalized access so the base remains concealed even as the wider guild grows
+
+The base exists primarily as a secure point where senior leadership can convene, medicine can be protected, endangered personnel can retreat and the organization can survive a major external attack.
+
+The mountain, cave and base names, exact access protocols and full defensive arrangements remain `TBD`.
 
 #### Tae Muyeon Is Poisoned
 
@@ -1465,7 +1522,22 @@ The Quaint Teahouse expands without becoming publicly known.
 - warehouses
 - emergency communication
 
-Qin and Tae support all three branches rather than creating personal factions.
+#### Specialized Battalions and Field Squads
+
+The three branches train separate functional battalions and smaller squads specializing in:
+
+- medicine and battlefield stabilization
+- medicinal cultivation, preparation and supply protection
+- Orchid-origin defence and patient evacuation
+- intelligence gathering and verification
+- scouting and route security
+- logistics, couriers and emergency resupply
+- civilian rescue and disaster response
+- base security and counter-infiltration
+
+These are specialist service formations rather than a conquering army. They are trained in different distributed locations, deploy only when their function is needed and do not reside permanently inside the hidden base.
+
+Qin and Tae support all branches and battalions rather than creating personal factions.
 
 - Qin's restored cultivation and passive refinement carry him into Sovereign level.
 - Tae continues developing his iron-infused horizon arts without Rhen's passive.
@@ -1481,7 +1553,8 @@ By Year Five:
 - Tae is a High Sovereign.
 - The logistics specialist operates a continental information and relief-supply network.
 - The apprentices can respond to crises without requiring Sera or Rhen personally.
-- The mountain base can shelter civilians and coordinate large relief operations without revealing its existence.
+- The hidden base holds an effectively endless emergency medicine reserve and can temporarily shelter civilians, wounded personnel and retreating squads through its underground system.
+- The base remains a strategic convening and fallback point rather than the guild's daily centre of operations.
 - Rhen remains outside formal command.
 - The Top Ten still do not know The Quaint Teahouse exists.
 
@@ -1557,7 +1630,7 @@ Immediately before Jin's signal, they share their usual final cup beneath the cr
 
 #### New-Continent Expedition
 
-Jin Seoryu discovers evidence of an unknown continent and travels there with all five active #6–10 fighters:
+Jin Seoryu discovers evidence of an unknown continent and travels there with all five active members of the **Five Dukes** (#6–10):
 
 - #6 Ilyra Serath
 - #7 Mo Qingzhao
@@ -1565,15 +1638,15 @@ Jin Seoryu discovers evidence of an unknown continent and travels there with all
 - #9 Luo Wen
 - #10 Yun Shizhen
 
-Top #4 Lei Zhen and #5 Shen Rui do not join the expedition. The reason remains `TBD`.
+#4 Lei Zhen and #5 Shen Rui of the Five Sovereigns do not join the expedition. The reason remains `TBD`.
 
 #### Expedition Disaster
 
 - The expedition encounters a force beyond Jin's calculations.
-- All five accompanying #6–10 fighters are thoroughly defeated.
+- All five accompanying members of the Five Dukes are thoroughly defeated.
 - They remain alive, critically injured, unable to escape and in immediate danger.
 - Jin alone escapes and is also badly injured.
-- Jin seeks the remaining Top Five but believes the unknown threat is substantially stronger than Kael.
+- Jin seeks the remaining Five Sovereigns but believes the unknown threat is substantially stronger than Kael.
 - The identity, number, abilities and motives of the new-continent enemy remain `TBD`.
 
 #### Private Distress Route
@@ -1604,7 +1677,7 @@ These are intentionally blank until the user supplies more skeleton material:
 
 - remaining former Top Ten developments beyond Qin Luo
 - former legendary fighters and retired figures
-- exact definition and boundaries of the Paragon level
+- exact formal breakthrough test, public recognition standard and matchup limits for the newly defined Paragon level
 - combined Sera-versus-Top-Three comparison
 - exact Qin Luo-versus-Liang Yue matchup
 - complete public ranking structure five years later, including how much of the new strength is officially recognized
@@ -1647,6 +1720,19 @@ Do **not** fill these automatically.
 ---
 
 ## 6. Revision Log
+
+### 2026-08-29 — Five Sovereigns, Paragon Boundary and Hidden-Base Expansion
+
+- Advanced Lei Zhen and Shen Rui into newly ascended Sovereign cultivation while preserving their #4 and #5 positions.
+- Renamed the former #1–5 **Five Dukes** collective to the **Five Sovereigns**.
+- Renamed the former #6–10 **Five Marquises** collective to the **Five Dukes**; clarified that the group title does not lower Ilyra's personal Sovereign cultivation.
+- Defined Paragon as the qualitative unification of body, circulation, intent, perception and one complete martial principle rather than merely a larger energy reserve.
+- Clarified why Sera is approaching Paragon and what still prevents her breakthrough.
+- Expanded the hidden base with an effectively endless medicine reserve, layered underground shelters, linked escape systems and multiple concealed exits.
+- Restricted permanent hidden-base residence to Rhen, Sera, Tae Muyeon, Qin Luo and the logistics specialist.
+- Established that apprentices, battalions and squads train at distributed facilities and use the hidden base only for strategic meetings, emergencies, treatment, evacuation and retreat.
+- Added specialized medicine, cultivation, Orchid defence, intelligence, scouting, logistics, rescue and counter-infiltration formations without turning The Quaint Teahouse into a conquering army.
+- No runtime, architecture, UI, canon-data or implementation files were changed.
 
 ### 2026-08-29 — The Quaint Teahouse Five-Year Arc and Qin Luo Development
 
