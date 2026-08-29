@@ -22,8 +22,9 @@
    - [Complete five-year power hierarchy](#39-complete-five-year-power-hierarchy)
 4. [The Quaint Teahouse — five-year development](#4-the-quaint-teahouse--five-year-development)
 5. [Five Sovereign political order](#5-five-sovereign-political-order)
-6. [Open planning slots](#6-open-planning-slots)
-7. [Revision log](#7-revision-log)
+6. [Next-arc foundation — The Great Northern Plain: Isgard](#6-next-arc-foundation--the-great-northern-plain-isgard)
+7. [Open planning slots](#7-open-planning-slots)
+8. [Revision log](#8-revision-log)
 
 ## 1. Planning Workflow
 
@@ -35,15 +36,16 @@ The user is deliberately building the continuation as a **skeletal structure fir
 |---:|---|---|
 | 1 | Character development skeleton | **ACTIVE** |
 | 2 | Five-year world-state skeleton | ACTIVE — QUAINT TEAHOUSE AND FIVE SOVEREIGN ORDER LOCKED |
-| 3 | New arc / conflict skeleton | STARTED — CLIFFHANGER FOUNDATION ONLY |
+| 3 | New arc / conflict skeleton | STARTED — SOUTHERN ISGARD FOUNDATION LOCKED |
 | 4 | Season/chapter outline | NOT STARTED |
 | 5 | Story composition / prose | **LOCKED** |
 
 ### Current Planning Boundary
 
 - Do not begin composing chapters or scenes.
-- The user has explicitly opened limited Stage 2 planning for The Quaint Teahouse and limited Stage 3 planning for the new-continent cliffhanger.
-- Do not expand the new continent, its antagonist, its culture, its power system, its arc title, season number or opening incident beyond the approved cliffhanger facts.
+- The user has explicitly opened limited Stage 2 planning for The Quaint Teahouse and limited Stage 3 planning for the new-continent cliffhanger and Southern Isgard foundation.
+- Do not expand Isgard beyond the approved Southern Warplain, clan-ranking culture and named southern clans.
+- The rest of Isgard, the Duskvein cohort's exact personnel and the Isgard arc's detailed structure remain unstarted.
 - Do not fill unspecified character upgrades automatically.
 - Add only facts the user provides, plus small structural clarifications that preserve the user's intent.
 - When an ability detail is still undefined, mark it `TBD` rather than inventing mechanics.
@@ -67,6 +69,25 @@ The user is deliberately building the continuation as a **skeletal structure fir
 - Rhen's identity as the **Petal Monarch** has moved beyond ordinary legend and become something closer to a myth.
 - The martial world may remember the title, stories, and impossible feats, but the exact five-year world reaction is still `TBD`.
 - The five-year domestic/guild development and its ending cliffhanger are now locked skeleton material. Chapters, scenes and prose remain unstarted.
+
+### Permanent Macro Arc Title
+
+The five-year tea-house and guild-development macro arc is permanently titled **Beneath the Crooked Sign**.
+
+Do not refer to it in future planning as **The First Five Years Arc**, **The Five-Year Arc** or another purely chronological placeholder except when explaining its timeline.
+
+### Pacing Lock — Do Not Rush This Arc
+
+**Beneath the Crooked Sign must be developed as a complete macro arc, not compressed into a montage, summary season or short transition.**
+
+- Each year must feel lived in and must earn its transition into the next year.
+- The medicinal farm, Governor Duan Jicheng conflict, Qin Luo's recovery, the apprentices' development, formation of The Quaint Teahouse, Lu Weiran's recruitment, construction of The Upper Room, Tae and Huo's recruitment, Quiet Hand maturation and Five Sovereign political growth all require meaningful narrative space.
+- Rhen and Sera's humorous domestic romance must continue throughout the arc rather than appear only between major incidents.
+- The apprentices and wider guild must develop gradually enough that their eventual strength and loyalty feel earned.
+- New personnel must spend time living and working under the crooked sign before assuming senior authority.
+- The story must not jump directly from the Year One governor conflict to the completed Year Five organization.
+- Quiet domestic episodes, medicine, training, local patients and ordinary tea-house life are part of the arc's substance, not disposable filler.
+- Exact season count, episode allocation, chapter structure and scene order remain `TBD` until the user opens structural planning.
 
 ---
 
@@ -2394,7 +2415,133 @@ Secrecy protects both The Quaint Teahouse and the political balance it could acc
 
 ---
 
-## 6. Open Planning Slots
+## 6. Next-Arc Foundation — The Great Northern Plain: Isgard
+
+### 6.1 Continental Identity
+
+- The newly discovered northern continent is permanently named **The Great Northern Plain — Isgard**.
+- Isgard is a vast continent divided into several major regions.
+- Only its southern region is revealed during the current planning stage.
+- The remaining Isgard regions, their names, cultures and relative power remain `TBD`.
+- Isgard remains grounded in internal-energy cultivation and martial principles rather than western magic.
+- Isgard does not maintain a public ranking of individual martial artists. It ranks entire clans.
+
+### 6.2 First Revealed Region — The Southern Warplain
+
+The first revealed Isgard region is **The Southern Warplain**, commonly called **Southern Isgard**.
+
+It contains:
+
+- enormous cold grasslands
+- black-pine forests
+- fortified clan settlements
+- mineral-rich hills
+- poisonous marsh valleys near its southern coast
+- military ports used for expeditions against other continents
+
+Southern Isgard is the continent's principal gateway to foreign lands. Its clans possess a brutal warring culture and regard foreign invasion as a legitimate path to resources, prestige, territory and higher clan rank.
+
+- Clan warfare, foreign raids and military achievement define social standing.
+- Strong clans regularly invade or test other continents rather than remaining isolated.
+- Success abroad can raise an entire clan's position.
+- Failure damages its prestige and invites challenges from lower clans.
+- Even Southern Isgard, presented as only one region of the continent, already exceeds the military expectations of Jin's homeland.
+
+### 6.3 The Banner Ledger
+
+Southern Isgard's official clan ranking is called **The Banner Ledger**.
+
+| Classification | Ledger positions | Locked meaning |
+|---|---:|---|
+| **First Banner** | Rank 1 | The dominant southern clan; capable of independently and easily decimating a nation. |
+| **Great Banners** | Ranks 2–4 | Clans capable of destroying national armies or conquering major regions. |
+| **War Banners** | Ranks 5–12 | Major clans possessing enough elite strength to overwhelm conventional sect coalitions. |
+| **Iron Banners** | Ranks 13–30 | Powerful regional clans capable of destroying ordinary martial alliances. |
+| **Hearth Clans** | Unranked | Smaller clans, tributaries, specialist families and subordinate settlements. |
+
+The Banner Ledger is revised at the annual **Winter Reckoning**.
+
+Clan position considers:
+
+- military victories
+- captured or defended territory
+- successful foreign campaigns
+- collective quality and depth of active warriors
+- subordinate clans and settlements
+- resources and tribute
+- ability to survive challenges from lower-ranked clans
+
+An extraordinary individual adds to their clan's standing but receives no official personal number. Exact equivalence between Isgard's strongest individuals and the Sovereign or Paragon levels remains `TBD`.
+
+### 6.4 Revealed Southern Clans
+
+#### Rank 1 — Veyrhald Clan
+
+**Banner epithet:** The Unbroken Banner
+
+- Holds the First Banner of Southern Isgard.
+- Specializes in metal-infused bodies, overwhelming martial pressure and fortress-like military formations.
+- Its complete force can easily decimate a nation.
+- It controls the southern military ports and can approve or obstruct major foreign invasions.
+- Its strongest individual and complete senior hierarchy remain unrevealed.
+
+#### Rank 2 — Dravaryn Clan
+
+**Banner epithet:** The Crimson Vanguard
+
+- Specializes in physical reinforcement, mounted warfare and formation-shattering charges.
+- Fields Southern Isgard's most feared heavy assault force.
+- Values decisive forward momentum and treats an unnecessary retreat as clan humiliation.
+
+#### Rank 3 — Skeldran Clan
+
+**Banner epithet:** The Thousandfold Hunt
+
+- Specializes in pursuit, coordinated hunting formations and rotational combat.
+- Its warriors surround stronger targets, continually exchange attackers and deny their enemies time to recover.
+- It is frequently responsible for tracking escaped enemies and identifying routes into foreign continents.
+
+#### Rank 4 — Eirholt Clan
+
+**Banner epithet:** The Winter Physicians
+
+- Specializes in defensive circulation, battlefield medicine and survival under extreme conditions.
+- Its treatment is designed to return warriors to battle quickly rather than reproduce Rhen's complete restoration.
+- It maintains pragmatic neutrality while providing physicians to several rival clans.
+
+#### Rank 7 — Duskvein Clan
+
+**Banner epithet:** The Patient Death
+
+- Duskvein is a middle-ranked War Banner rather than one of Southern Isgard's ruling clans.
+- It specializes in poisons that react to internal-energy circulation.
+- The more power a poisoned victim circulates, the faster the toxin spreads and disrupts their system.
+- Its methods include battlefield mist, contaminated needles, poisoned terrain and delayed circulation toxins.
+- Clan members build poison resistance from childhood.
+- Duskvein fights as a battlefield-poison clan rather than relying only upon individual assassination.
+- Its poisons remain physical and internal-energy based rather than magical.
+
+All unlisted Southern Isgard clan names, ranks and specializations remain `TBD`.
+
+### 6.5 Duskvein and the Cliffhanger
+
+- Jin and the Five Dukes encounter a **Duskvein hunting cohort**, not the complete Duskvein Clan.
+- The group initially underestimates Duskvein because it holds only the seventh position in Southern Isgard.
+- Duskvein's circulation-reactive poison punishes the Five Dukes for drawing upon their strongest techniques.
+- Its formation isolates the five fighters before they can combine their specializations effectively.
+- The cohort thoroughly defeats all five Dukes and leaves them in critical danger.
+- Jin recognizes the poison-and-formation pattern early enough to escape through strategy rather than superior strength.
+- The Five Dukes are kept alive because prestigious foreign captives can improve Duskvein's position at the next Winter Reckoning.
+- Duskvein intends to identify their continent and assess whether a successful invasion could raise it into the Great Banners.
+- Jin's exact escape method, the cohort's leader and composition, the captives' exact conditions and Duskvein's immediate next action remain `TBD`.
+
+The intended scale revelation is:
+
+> The force that defeated all Five Dukes was only one hunting cohort belonging to Southern Isgard's seventh-ranked clan.
+
+---
+
+## 7. Open Planning Slots
 
 These are intentionally blank until the user supplies more skeleton material:
 
@@ -2421,13 +2568,14 @@ These are intentionally blank until the user supplies more skeleton material:
 
 ### Remaining New-Continent and Rescue Planning
 
-- the new continent's name, geography, cultures and power system
-- the enemy's identity, number, abilities and motives
+- names, geography, cultures and clan systems of Isgard's unrevealed regions
+- exact identities, cultivation and internal hierarchy of Duskvein's hunting cohort
+- exact relationship between Isgard cultivation and the existing Sovereign and Paragon thresholds
 - the five trapped fighters' exact injuries, locations and captors
 - why Lei Zhen and Shen Rui did not join the expedition
 - Jin Seoryu's distress-signal method, exact wording and private history with the route to Rhen and Sera
 - The Quaint Teahouse's response plan and rescue participants
-- the new macro arc title
+- the permanent Isgard macro arc title
 
 ### Still-Locked Structural Planning
 
@@ -2439,7 +2587,21 @@ Do **not** fill these automatically.
 
 ---
 
-## 7. Revision Log
+## 8. Revision Log
+
+### 2026-08-29 — Beneath the Crooked Sign and Southern Isgard Foundation
+
+- Permanently titled the five-year tea-house and guild-development macro arc **Beneath the Crooked Sign**.
+- Locked that the arc must receive full narrative development and cannot be compressed into a montage or rushed transition.
+- Permanently named the northern continent **The Great Northern Plain — Isgard**.
+- Limited the initial reveal to **The Southern Warplain** while leaving the rest of Isgard unopened.
+- Established Isgard's brutal clan-warfare and foreign-invasion culture.
+- Replaced individual public rankings with the clan-based **Banner Ledger** and annual **Winter Reckoning**.
+- Locked the First Banner, Great Banner, War Banner, Iron Banner and unranked Hearth Clan classifications.
+- Named the Veyrhald, Dravaryn, Skeldran, Eirholt and Duskvein clans and defined their approved southern positions and specializations.
+- Established that one hunting cohort from the seventh-ranked Duskvein Clan defeated the Five Dukes through circulation-reactive poison and formation warfare.
+- Preserved all season numbering, chapter structure, scenes, prose and unrevealed Isgard regions as open planning.
+- No runtime, architecture, UI, canon-data or implementation files were changed.
 
 ### 2026-08-29 — Orchid Command Hierarchy
 
