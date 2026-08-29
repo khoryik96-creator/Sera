@@ -13,11 +13,12 @@ export default defineConfig({
     screenshot: 'only-on-failure',
   },
   projects: [
-    { name: 'mobile-chromium', use: { ...devices['Pixel 7'] } },
-    { name: 'desktop-chromium', use: { ...devices['Desktop Chrome'], viewport: { width: 1440, height: 1000 } } },
+    { name: 'mobile-chromium', testIgnore: /webkit-smoke\.spec\.ts/, use: { ...devices['Pixel 7'] } },
+    { name: 'desktop-chromium', testIgnore: /webkit-smoke\.spec\.ts/, use: { ...devices['Desktop Chrome'], viewport: { width: 1440, height: 1000 } } },
+    { name: 'webkit-smoke', testMatch: /webkit-smoke\.spec\.ts/, use: { ...devices['iPhone 15'] } },
   ],
   webServer: {
-    command: 'npm run dev -- --host 127.0.0.1 --port 4173',
+    command: 'npm run build && npm run preview -- --host 127.0.0.1 --port 4173',
     url: 'http://127.0.0.1:4173',
     reuseExistingServer: !process.env.CI,
     timeout: 120_000,

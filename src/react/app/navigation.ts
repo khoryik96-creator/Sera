@@ -1,15 +1,22 @@
-export type PreviewSection = 'overview' | 'characters' | 'chapters' | 'bookmarks' | 'rankings';
+export type AppSection = 'overview' | 'characters' | 'villains' | 'techniques' | 'chapters' | 'bookmarks' | 'insights' | 'rankings' | 'legends' | 'former' | 'timeline' | 'canon';
 
-export interface PreviewNavItem {
-  id: PreviewSection;
+export interface NavItem {
+  id: AppSection;
   label: string;
   shortLabel: string;
 }
 
-export const navigationItems: PreviewNavItem[] = [
+export const navigationItems: NavItem[] = [
   { id: 'overview', label: 'Overview', shortLabel: 'Home' },
   { id: 'characters', label: 'Characters', shortLabel: 'Cast' },
-  { id: 'chapters', label: 'Episodes', shortLabel: 'Read' },
-  { id: 'bookmarks', label: 'Bookmarks', shortLabel: 'Saved' },
+  { id: 'villains', label: 'Other Characters / Villains', shortLabel: 'Others' },
+  { id: 'techniques', label: 'Arts & Techniques', shortLabel: 'Arts' },
+  { id: 'chapters', label: 'Chapters', shortLabel: 'Read' },
+  { id: 'bookmarks', label: 'Reader Library', shortLabel: 'Library' },
+  { id: 'insights', label: 'Reading Insights', shortLabel: 'Stats' },
   { id: 'rankings', label: 'Rankings', shortLabel: 'Ranks' },
+  { id: 'legends', label: 'Legends', shortLabel: 'Legends' },
+  { id: 'former', label: 'Former Rank Holders', shortLabel: 'Former' },
+  { id: 'timeline', label: 'Sera Timeline', shortLabel: 'Sera' },
+  { id: 'canon', label: 'Canon', shortLabel: 'Canon' },
 ];

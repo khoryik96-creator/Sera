@@ -1,0 +1,3 @@
+.topbar__install{flex:0 0 auto;display:inline-flex;align-items:center;gap:6px;border:1px solid #4a4430;border-radius:999px;padding:8px 12px;background:rgba(228,201,119,.07);color:var(--gold);font-size:.7rem;font-weight:700;cursor:pointer}.topbar__install:hover{border-color:#766b43;background:rgba(228,201,119,.12)}.topbar__install>span{font-size:.9rem;line-height:1}.topbar__install>strong{font:inherit;white-space:nowrap}
+
+@media(max-width:800px){.topbar__install{width:38px;height:38px;justify-content:center;padding:0;border-radius:10px}.topbar__install>strong{display:none}.app-shell.is-reading .topbar__install{display:none}}
