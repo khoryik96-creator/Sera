@@ -51,9 +51,10 @@ test('overview remains contained and readable at every production viewport', asy
   await page.screenshot({ path: testInfo.outputPath('overview-dashboard.png'), fullPage: true });
 });
 
-test('overview story-arc action opens the archive', async ({ page }) => {
+test('overview story-arc action opens the chapter archive', async ({ page }) => {
   await openOverview(page);
   await page.getByRole('button', { name: /Browse story arcs/ }).click();
   await expect(page).toHaveURL(/#chapters$/);
-  await expect(page.locator('.arc-browser')).toBeVisible();
+  await expect(page.locator('.chapter-browser-panel')).toBeVisible();
+  await expect(page.getByRole('combobox', { name: 'Story arc' })).toBeVisible();
 });

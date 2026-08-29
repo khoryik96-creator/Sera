@@ -16,7 +16,7 @@ test('command palette opens with grouped search guidance', async ({ page }) => {
   await expect(palette).toContainText('Global command palette');
   await expect(palette).toContainText('Sera');
   await expect(palette).toContainText('Season 23');
-  await expect(palette).toContainText('633 episodes');
+  await expect(palette).toContainText('633 chapters');
 });
 
 test('character search preserves rank state and Enter opens the best match', async ({ page }) => {
@@ -41,14 +41,20 @@ test('season search jumps directly to the selected season', async ({ page }) => 
   await expect(page.locator('.reader-prose')).toBeVisible({ timeout: 20_000 });
 });
 
-test('lazy episode index supports direct S/E lookup without loading all chapter bodies at startup', async ({ page }) => {
+test('lazy chapter index supports direct season/chapter lookup without loading all chapter bodies at startup', async ({ page }) => {
   const input = await openSearch(page);
-  await input.fill('s12 e3');
-  const episodeResult = page.locator('[data-search-result="true"]').filter({ hasText: 'S12 · E3' }).first();
-  await expect(episodeResult).toBeVisible({ timeout: 20_000 });
-  await episodeResult.click();
+  await input.fill('s12 ch3');
+  const chapterResult = page.locator('[data-search-result="true"]').filter({ hasText: 'S12 · Ch 3' }).first();
+  await expect(chapterResult).toBeVisible({ timeout: 20_000 });
+  await chapterResult.click();
   await expect(page).toHaveURL(/#chapter\/12\/3$/);
   await expect(page.locator('.reader-prose')).toBeVisible({ timeout: 20_000 });
+});
+
+test('legacy S/E lookup remains supported after the chapter terminology change', async ({ page }) => {
+  const input = await openSearch(page);
+  await input.fill('s12 e3');
+  await expect(page.locator('[data-search-result="true"]').filter({ hasText: 'S12 · Ch 3' }).first()).toBeVisible({ timeout: 20_000 });
 });
 
 test('keyboard navigation enters results and Escape closes the palette', async ({ page }) => {
