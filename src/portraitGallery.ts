@@ -55,7 +55,7 @@ export function handlePortraitGalleryKeydown(event: KeyboardEvent): boolean {
   const index = thumbs.indexOf(thumb);
   if (index < 0) return false;
 
-  let next = index;
+  let next: number;
   if (event.key === 'ArrowRight') next = (index + 1) % thumbs.length;
   else if (event.key === 'ArrowLeft') next = (index - 1 + thumbs.length) % thumbs.length;
   else if (event.key === 'Home') next = 0;
