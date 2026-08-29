@@ -21,9 +21,10 @@
    - [Former, retired and deceased figures](#38-former-retired-and-deceased-figures)
    - [Complete five-year power hierarchy](#39-complete-five-year-power-hierarchy)
 4. [The Quaint Teahouse — five-year development](#4-the-quaint-teahouse--five-year-development)
-5. [Five Sovereign political order](#5-five-sovereign-political-order)
-6. [Open planning slots](#6-open-planning-slots)
-7. [Revision log](#7-revision-log)
+5. [Wuyue Five-Domain political order](#5-wuyue-five-domain-political-order)
+6. [Next-arc foundation — The Great Northern Plain: Isgard](#6-next-arc-foundation--the-great-northern-plain-isgard)
+7. [Open planning slots](#7-open-planning-slots)
+8. [Revision log](#8-revision-log)
 
 ## 1. Planning Workflow
 
@@ -35,15 +36,16 @@ The user is deliberately building the continuation as a **skeletal structure fir
 |---:|---|---|
 | 1 | Character development skeleton | **ACTIVE** |
 | 2 | Five-year world-state skeleton | ACTIVE — QUAINT TEAHOUSE AND FIVE SOVEREIGN ORDER LOCKED |
-| 3 | New arc / conflict skeleton | STARTED — CLIFFHANGER FOUNDATION ONLY |
+| 3 | New arc / conflict skeleton | STARTED — SOUTHERN ISGARD FOUNDATION LOCKED |
 | 4 | Season/chapter outline | NOT STARTED |
 | 5 | Story composition / prose | **LOCKED** |
 
 ### Current Planning Boundary
 
 - Do not begin composing chapters or scenes.
-- The user has explicitly opened limited Stage 2 planning for The Quaint Teahouse and limited Stage 3 planning for the new-continent cliffhanger.
-- Do not expand the new continent, its antagonist, its culture, its power system, its arc title, season number or opening incident beyond the approved cliffhanger facts.
+- The user has explicitly opened limited Stage 2 planning for The Quaint Teahouse and limited Stage 3 planning for the new-continent cliffhanger and Southern Isgard foundation.
+- Do not expand Isgard beyond the approved Southern Warplain, clan-ranking culture and named southern clans.
+- The rest of Isgard, the Duskvein cohort's exact personnel and the Isgard arc's detailed structure remain unstarted.
 - Do not fill unspecified character upgrades automatically.
 - Add only facts the user provides, plus small structural clarifications that preserve the user's intent.
 - When an ability detail is still undefined, mark it `TBD` rather than inventing mechanics.
@@ -64,9 +66,30 @@ The user is deliberately building the continuation as a **skeletal structure fir
 - Rhen supports its healing work as a teacher, physician and medicinal farmer but holds no command position.
 - The former **Five Dukes** title has risen with its holders: ranks #1–5 are now publicly known as the **Five Sovereigns**.
 - The former **Five Marquises** title has likewise advanced: ranks #6–10 are now publicly known as the **Five Dukes**.
+- The main characters' homeland is permanently named **Wuyue Continent**.
+- Wuyue is divided into five great domains, each occupied and governed by one of the Five Sovereigns.
 - Rhen's identity as the **Petal Monarch** has moved beyond ordinary legend and become something closer to a myth.
 - The martial world may remember the title, stories, and impossible feats, but the exact five-year world reaction is still `TBD`.
 - The five-year domestic/guild development and its ending cliffhanger are now locked skeleton material. Chapters, scenes and prose remain unstarted.
+
+### Permanent Macro Arc Title
+
+The five-year tea-house and guild-development macro arc is permanently titled **Beneath the Crooked Sign**.
+
+Do not refer to it in future planning as **The First Five Years Arc**, **The Five-Year Arc** or another purely chronological placeholder except when explaining its timeline.
+
+### Pacing Lock — Do Not Rush This Arc
+
+**Beneath the Crooked Sign must be developed as a complete macro arc, not compressed into a montage, summary season or short transition.**
+
+- Each year must feel lived in and must earn its transition into the next year.
+- The medicinal farm, Governor Duan Jicheng conflict, Qin Luo's recovery, the apprentices' development, formation of The Quaint Teahouse, Lu Weiran's recruitment, construction of The Upper Room, Tae and Huo's recruitment, Quiet Hand maturation and Five Sovereign political growth all require meaningful narrative space.
+- Rhen and Sera's humorous domestic romance must continue throughout the arc rather than appear only between major incidents.
+- The apprentices and wider guild must develop gradually enough that their eventual strength and loyalty feel earned.
+- New personnel must spend time living and working under the crooked sign before assuming senior authority.
+- The story must not jump directly from the Year One governor conflict to the completed Year Five organization.
+- Quiet domestic episodes, medicine, training, local patients and ordinary tea-house life are part of the arc's substance, not disposable filler.
+- Exact season count, episode allocation, chapter structure and scene order remain `TBD` until the user opens structural planning.
 
 ---
 
@@ -2215,12 +2238,12 @@ Jin Seoryu discovers evidence of an unknown continent and travels there with all
 
 #### Expedition Disaster
 
-- The expedition encounters a force beyond Jin's calculations.
+- The expedition reaches Southern Isgard and encounters a hunting cohort of the seventh-ranked Duskvein Clan.
 - All five accompanying members of the Five Dukes are thoroughly defeated.
 - They remain alive, critically injured, unable to escape and in immediate danger.
 - Jin alone escapes and is also badly injured.
-- Jin seeks the remaining Five Sovereigns but believes the unknown threat is substantially stronger than Kael.
-- The identity, number, abilities and motives of the new-continent enemy remain `TBD`.
+- Jin seeks the remaining Five Sovereigns but believes the Duskvein cohort represents a threat substantially beyond what Wuyue expects even from Kael.
+- The cohort's exact leader, personnel, cultivation and immediate orders remain `TBD`.
 
 #### Private Distress Route
 
@@ -2238,39 +2261,54 @@ The exact words, transmission method and reason Jin alone knows how to reach Rhe
 
 The signal reaches The Quaint Teahouse immediately after Rhen and Sera's final quiet cup. This is the locked cliffhanger ending of the five-year development arc.
 
-Do not begin the rescue, identify the enemy or compose the next arc until the user explicitly opens that planning stage.
+Do not begin the rescue, compose scenes or structure the Isgard arc until the user explicitly opens those planning stages.
 
 ---
 
-## 5. Five Sovereign Political Order
+## 5. Wuyue Five-Domain Political Order
 
-### 5.1 The Five-Power Balance
+### 5.1 Wuyue Continent and the Five Domains
 
-The Five Sovereigns become the public military pillars of the continent during the five-year period.
+The main characters and the public Top Ten originate from **Wuyue Continent**.
 
-- Their influence grows because governments and ordinary sects cannot independently answer another Crown-, King- or Overlord-scale invasion.
-- Each Sovereign retains an autonomous army, affiliated sects and a distinct strategic sphere.
-- Governments continue administering territory, collecting taxes and enforcing civil law, but few rulers can ignore a Sovereign's military position.
-- The Sovereigns do not crown themselves, replace governments or divide the continent into personal kingdoms.
-- Open warfare between them becomes less likely because every Sovereign understands that a civil war would leave the continent exposed.
-- Political pressure instead appears through recruitment, access to mines and medicine, trade routes, protected sects, military appointments and proxy disputes.
-- Kael is publicly regarded as commander of the strongest direct army.
-- Jin possesses the greatest coalition and political influence because he can coordinate forces that do not formally belong to him.
+Wuyue means **Five Great Peaks**. The five peaks represent its five supreme regional authorities rather than requiring every domain to be mountainous.
 
-### 5.2 The Five Sovereign Compact
+| Domain position | Permanent region | Sovereign governor | Permanently associated Duke |
+|---:|---|---|---|
+| **Central Domain** | **Stonecrown Highlands** | **#1 Kael Veyran** | **Arin Vale** |
+| **Northern Domain** | **White Vein Basin** | **#2 Liang Yue** | **Yun Shizhen** |
+| **Eastern Domain** | **Concord Vale** | **#3 Jin Seoryu** | **Mo Qingzhao** |
+| **Western Domain** | **Stormreach March** | **#4 Lei Zhen** | **No permanent Duke** |
+| **Southern Domain** | **Azure Riverlands** | **#5 Shen Rui** | **Luo Wen** |
 
-Jin drafts the **Five Sovereign Compact** during Year Three. It is a mutual-defence and military-deconfliction agreement rather than a new government.
+Governance rules:
+
+- Each Sovereign occupies a permanent regional seat and governs one domain.
+- The Sovereign holds final authority over the domain's martial security, armies, borders, sect warfare, catastrophic threats and external defence.
+- Civil governments continue collecting taxes, maintaining towns, hearing ordinary disputes and enforcing non-martial law beneath that authority.
+- A Sovereign may remove a civil official who uses government power to create mass suffering, conceal a martial threat or compromise regional defence.
+- Sovereigns are regional governors and protectors rather than hereditary monarchs.
+- No Sovereign may annex another Wuyue domain or command its regional army.
+- Kael commands the strongest direct army; Jin retains the greatest coalition and continental coordination influence.
+- Arin's association with the Central Domain reflects her place beside her mentor Kael. It does not make her stronger than Ilyra.
+- Lei has no permanent Duke because Stormreach's own army already functions as Wuyue's fastest mobile reinforcement force.
+
+### 5.2 The Wuyue Compact
+
+Jin drafts the **Wuyue Compact** during Year Three. It establishes the Five Domains, confirms each Sovereign's governing authority and binds them into one continental defence order without creating an emperor.
 
 Core terms:
 
-- an external invasion against one Sovereign's protected sphere may trigger support from all five armies
-- no Sovereign may move a major force through another's sphere without notice
+- an external invasion against one Wuyue domain may trigger support from all five regional armies
+- no Sovereign may move a major force through another domain without notice and consent, except during an authenticated continental emergency
 - ranked disputes and personal challenges may not be escalated through army mobilization
-- affiliated sects cannot use a Sovereign's name to annex civilian territory
+- affiliated sects cannot use a Sovereign's name to seize civilian territory outside lawful regional process
 - relief medicine, evacuation corridors and disaster supplies must remain neutral
-- disputes between affiliated sects are reviewed through envoys before armies may intervene
+- disputes crossing domain borders are reviewed through envoys before regional armies may intervene
 - no Sovereign may claim permanent command over another Sovereign's troops
-- Jin coordinates joint campaigns, but Kael serves as the primary field deterrent when overwhelming direct force is required
+- Jin coordinates joint campaigns, while Kael serves as the primary field deterrent when overwhelming direct force is required
+- Ilyra and the Crownless Host may cross all five domains under the Compact's roaming-defence mandate
+- no regional Sovereign may requisition, divide or permanently command the Crownless Host
 
 The Compact is held together by necessity and mutual respect rather than complete trust.
 
@@ -2278,27 +2316,43 @@ The Compact is held together by necessity and mutual respect rather than complet
 
 The following figures represent approximate troops under direct command and exclude the much larger number of loosely protected sects, militias and local forces.
 
-| Sovereign | Approximate direct strength | Military identity and influence |
-|---|---:|---|
-| **#1 Kael Veyran** | **50,000**, including an elite core of **2,000** | The largest conventional army. Specializes in fortifications, heavy infantry, siege resistance, mines, inland roads, frontier defence and overwhelming field pressure. |
-| **#2 Liang Yue** | **20,000** | A smaller, highly disciplined army specializing in meridian suppression, capture of dangerous martial artists, medical inspection, internal security and breaking hostile cultivation networks without destroying entire cities. |
-| **#3 Jin Seoryu** | **12,000 direct; approximately 70,000 available through allies** | The smallest personal army but the widest coalition. Dominates intelligence exchange, strategic planning, communications, logistics and coordination between otherwise incompatible sect forces. |
-| **#4 Lei Zhen** | **18,000** | The fastest major army. Specializes in rapid deployment, thunderfire assault, pursuit, emergency reinforcement and breaking fortified positions before a longer campaign begins. |
-| **#5 Shen Rui** | **30,000** | Controls the strongest river, coastal and transport force. Protects ports, waterways, flood infrastructure, naval supply, winter routes and the movement of food and medicine. |
+| Sovereign | Domain | Approximate direct strength | Military identity and influence |
+|---|---|---:|---|
+| **#1 Kael Veyran** | **Stonecrown Highlands** | **50,000**, including an elite core of **2,000** | The largest conventional army. Specializes in fortifications, heavy infantry, siege resistance, mines, inland roads, frontier defence and overwhelming field pressure. |
+| **#2 Liang Yue** | **White Vein Basin** | **20,000** | A smaller, highly disciplined army specializing in meridian suppression, capture of dangerous martial artists, medical inspection, internal security and breaking hostile cultivation networks without destroying entire cities. |
+| **#3 Jin Seoryu** | **Concord Vale** | **12,000 direct; approximately 70,000 available through allies** | The smallest personal army but the widest coalition. Dominates intelligence exchange, strategic planning, communications, logistics and coordination between otherwise incompatible sect forces. |
+| **#4 Lei Zhen** | **Stormreach March** | **18,000** | The fastest major army. Specializes in rapid deployment, thunderfire assault, pursuit, emergency reinforcement and breaking fortified positions before a longer campaign begins. |
+| **#5 Shen Rui** | **Azure Riverlands** | **30,000** | Controls the strongest river, coastal and transport force. Protects ports, waterways, flood infrastructure, naval supply, winter routes and the movement of food and medicine. |
 
 The armies remain distinct reflections of their Sovereigns rather than five interchangeable masses of soldiers.
 
-### 5.4 The Five Dukes as the Second Defensive Line
+### 5.4 The Five Dukes and the Crownless Host
 
-The active #6–10 fighters remain individually independent rather than becoming ordinary subordinate generals.
+Four of the Five Dukes receive permanent regional associations without becoming ordinary subordinate generals.
 
-- Collectively, the Five Dukes are recognized as the continent's mobile second defensive line.
-- They may cross Sovereign spheres more easily than a standing army because their movement does not automatically imply invasion.
-- They investigate threats requiring ranked strength but not yet justifying tens of thousands of soldiers.
-- Their different specialties make them suitable for compact reconnaissance and emergency response.
-- Jin may coordinate them for a Compact-sanctioned mission, but they retain individual judgment.
+- **Arin Vale** serves beside Kael in the Central Domain because of their mentor-and-student bond.
+- **Yun Shizhen** serves in Liang's Northern Domain, supporting poison control, medical inspection and containment of dangerous cultivation systems.
+- **Mo Qingzhao** serves in Jin's Eastern Domain, where his prepared formations and battlefield network support strategy, intelligence and coalition operations.
+- **Luo Wen** serves in Shen Rui's Southern Domain, combining emergency medicine and precise incapacitation with the river-and-port relief system.
+- Regional association grants responsibility and legal access rather than ownership by the Sovereign.
+- The associated Duke may investigate across their domain and represent its Sovereign when deploying an army would be excessive.
+- The Duke may cross domain borders for Compact-sanctioned investigations without their movement automatically implying invasion.
 
-This is why Jin takes all Five Dukes to investigate the new continent instead of mobilizing a Sovereign army.
+#### Ilyra Serath — Independent Roaming Authority
+
+Ilyra is assigned to no Wuyue domain and serves beneath no regional Sovereign.
+
+- She remains the strongest member of the Five Dukes and is personally Sovereign-level.
+- She commands an independent roaming army of exactly **8,000 elite soldiers** named **The Crownless Host**.
+- The Crownless Host protects all five domains and has no permanent territorial government.
+- It answers to Ilyra rather than Kael, Liang, Jin, Lei or Shen Rui.
+- Jin may request or coordinate its aid under the Wuyue Compact but cannot unilaterally command it.
+- All five domains contribute agreed supplies, medicine and route access; none may divide, absorb or permanently station the Host.
+- Its formations reflect Ilyra's martial identity: one division absorbs, redirects and stores pressure while another delivers the returning counteroffensive.
+- Its mobility makes it Wuyue's first response to threats crossing several domains or involving politically disputed territory.
+- Exact subordinate commanders, headquarters-on-the-move and internal battalion structure remain `TBD`.
+
+Collectively, the Five Dukes still form Wuyue's mobile second defensive line. This is why Jin takes all five to investigate Isgard instead of mobilizing a regional army.
 
 ### 5.5 Sect, Clan and Government Realignment
 
@@ -2315,18 +2369,18 @@ Consequences:
 - old sect rivalries are suppressed when they threaten the Compact
 - some smaller clans gain unprecedented security
 - others fear that affiliation will eventually erase their independence
-- governments become dependent on Sovereign armies for catastrophic threats while resenting their growing political influence
+- civil governments depend upon Sovereign armies for catastrophic threats while sometimes resenting the governors' final martial authority
 - no bloc is wholly benevolent or corrupt; behaviour varies among its subordinate officials and sects
 
 ### 5.6 Why Local Corruption Survives
 
-The Five Sovereigns are military deterrents rather than omnipresent civil authorities.
+The Five Sovereigns govern their domains but are not omnipresent civil administrators.
 
 - Their armies focus on invasion, large sect wars, disaster response and threats capable of destabilizing entire regions.
-- Compact restrictions discourage them from entering ordinary local disputes without evidence, permission or a clear emergency.
+- The division between martial authority and ordinary civil administration discourages them from entering local disputes without evidence or a clear security issue.
 - Corrupt officials learn to keep abuse below the threshold that attracts Sovereign attention.
 - Some falsely claim protection from an affiliated sect or distant army officer.
-- The Year One governor exploits uncertainty between jurisdictions and hides confiscation, fabricated taxes and stolen medicine behind ordinary civil authority.
+- The Year One governor exploits the distance from his Sovereign seat and hides confiscation, fabricated taxes and stolen medicine behind ordinary civil authority and false reports.
 - None of the Five Sovereigns knowingly protects him.
 
 The Quaint Teahouse develops because enormous public armies can defend a continent while still failing individual villages trapped between their responsibilities.
@@ -2335,15 +2389,17 @@ The Quaint Teahouse develops because enormous public armies can defend a contine
 
 The accepted public hierarchy is:
 
-1. Kael commands the strongest direct army.
+1. Kael commands the strongest regional army.
 2. Jin can assemble the strongest coalition.
-3. The combined Five Sovereign armies are the continent's ultimate defence.
+3. Ilyra commands the strongest independent roaming army beneath the regional powers.
+4. The combined Five Sovereign armies are Wuyue's ultimate public defence.
 
 The hidden truth is different:
 
 - The Quiet Hand is the strongest army by individual quality, coordination, infiltration, medical sustain and strategic efficiency.
 - Twenty Quiet Hand operatives can dismantle Kael's 2,000-person elite core if Kael himself is absent.
 - The full 200 could collapse the command structure of a vastly larger conventional army.
+- The Crownless Host's 8,000 elites remain vastly larger and better suited to open continental deployment, but they do not match The Quiet Hand's concentrated individual quality and covert efficiency.
 - The Quiet Hand cannot occupy and administer territory like a fifty-thousand-person force and has no desire to do so.
 - Sera's power is therefore intervention, extraction and precise destruction rather than empire-building.
 - Revealing the force would make every government and Sovereign army view The Quaint Teahouse as a potential existential threat, regardless of its actual restraint.
@@ -2356,7 +2412,7 @@ Secrecy protects both The Quaint Teahouse and the political balance it could acc
 
 - The five ranked armies independently expand after previous continental disasters.
 - Lei and Rui have not yet completed their Sovereign breakthroughs.
-- Jurisdiction remains unclear, allowing the corrupt governor to operate beneath military attention.
+- Wuyue's permanent Five-Domain arrangement has not yet been formalized, allowing the corrupt governor to exploit unclear jurisdiction.
 
 #### Year Two
 
@@ -2367,19 +2423,22 @@ Secrecy protects both The Quaint Teahouse and the political balance it could acc
 #### Year Three
 
 - Lei and Rui complete their Sovereign breakthroughs.
-- Jin negotiates the Five Sovereign Compact before army competition can escalate into open conflict.
+- Jin negotiates the Wuyue Compact before army competition can escalate into open conflict.
+- The Five Domains and their permanent Sovereign governors are formally recognized.
+- Four Dukes receive regional associations while Ilyra's Crownless Host receives a continent-wide roaming mandate.
 - Public use of **Five Sovereigns** and **Five Dukes** becomes formalized.
 
 #### Year Four
 
 - The Compact produces the most stable public order in years.
-- Five Sovereign military influence reaches governments, ports, sect councils and strategic resources.
+- The Five Sovereigns occupy their permanent regional seats and integrate armies, ports, sect councils and strategic resources into domain governance.
 - The Quiet Hand becomes operational beneath that stability and handles crises the public system does not see.
 
 #### Year Five
 
-- The continent appears exceptionally secure.
+- Wuyue appears exceptionally secure.
 - The Five Sovereign armies are larger, better coordinated and more influential than ever.
+- The Crownless Host patrols across all five domains with 8,000 elite soldiers.
 - The Quiet Hand secretly surpasses every public army in concentrated effectiveness.
 - The entire system still assumes Kael represents the highest plausible military threat.
 - The Five Dukes' defeat on the new continent proves that assumption catastrophically wrong.
@@ -2387,14 +2446,141 @@ Secrecy protects both The Quaint Teahouse and the political balance it could acc
 ### 5.9 Political Meaning of the Cliffhanger
 
 - The Five Sovereign armies remain intact, but their mobile second line has been defeated in one encounter.
-- Mobilizing a full army toward an unknown continent could expose the homeland, provoke an international incident or send thousands into an enemy Jin already assesses above Kael.
+- The Crownless Host remains in Wuyue without Ilyra, creating an independent 8,000-soldier army whose commander is captive in Isgard.
+- Mobilizing a full regional army toward Isgard could expose its Wuyue domain, provoke a foreign war or send thousands into an enemy Jin already assesses above Kael.
 - Jin's signal is therefore not simply a request for additional soldiers.
 - It is an admission that the public military order may be incapable of conducting the rescue.
 - The hidden force the world would fear may be the only force capable of entering unseen, recovering the Five Dukes and escaping without beginning a continental war.
 
 ---
 
-## 6. Open Planning Slots
+## 6. Next-Arc Foundation — The Great Northern Plain: Isgard
+
+### 6.1 Continental Identity
+
+- The newly discovered northern continent is permanently named **The Great Northern Plain — Isgard**.
+- Isgard is a vast continent divided into several major regions.
+- Only its southern region is revealed during the current planning stage.
+- The remaining Isgard regions, their names, cultures and relative power remain `TBD`.
+- Isgard remains grounded in internal-energy cultivation and martial principles rather than western magic.
+- Isgard does not maintain a public ranking of individual martial artists. It ranks entire clans.
+
+### 6.2 First Revealed Region — The Southern Warplain
+
+The first revealed Isgard region is **The Southern Warplain**, commonly called **Southern Isgard**.
+
+It contains:
+
+- enormous cold grasslands
+- black-pine forests
+- fortified clan settlements
+- mineral-rich hills
+- poisonous marsh valleys near its southern coast
+- military ports used for expeditions against other continents
+
+Southern Isgard is the continent's principal gateway to foreign lands. Its clans possess a brutal warring culture and regard foreign invasion as a legitimate path to resources, prestige, territory and higher clan rank.
+
+- Clan warfare, foreign raids and military achievement define social standing.
+- Strong clans regularly invade or test other continents rather than remaining isolated.
+- Success abroad can raise an entire clan's position.
+- Failure damages its prestige and invites challenges from lower clans.
+- Even Southern Isgard, presented as only one region of the continent, already exceeds Wuyue's military expectations.
+
+### 6.3 The Banner Ledger
+
+Southern Isgard's official clan ranking is called **The Banner Ledger**.
+
+| Classification | Ledger positions | Locked meaning |
+|---|---:|---|
+| **First Banner** | Rank 1 | The dominant southern clan; capable of independently and easily decimating a nation. |
+| **Great Banners** | Ranks 2–4 | Clans capable of destroying national armies or conquering major regions. |
+| **War Banners** | Ranks 5–12 | Major clans possessing enough elite strength to overwhelm conventional sect coalitions. |
+| **Iron Banners** | Ranks 13–30 | Powerful regional clans capable of destroying ordinary martial alliances. |
+| **Hearth Clans** | Unranked | Smaller clans, tributaries, specialist families and subordinate settlements. |
+
+The Banner Ledger is revised at the annual **Winter Reckoning**.
+
+Clan position considers:
+
+- military victories
+- captured or defended territory
+- successful foreign campaigns
+- collective quality and depth of active warriors
+- subordinate clans and settlements
+- resources and tribute
+- ability to survive challenges from lower-ranked clans
+
+An extraordinary individual adds to their clan's standing but receives no official personal number. Exact equivalence between Isgard's strongest individuals and the Sovereign or Paragon levels remains `TBD`.
+
+### 6.4 Revealed Southern Clans
+
+#### Rank 1 — Veyrhald Clan
+
+**Banner epithet:** The Unbroken Banner
+
+- Holds the First Banner of Southern Isgard.
+- Specializes in metal-infused bodies, overwhelming martial pressure and fortress-like military formations.
+- Its complete force can easily decimate a nation.
+- It controls the southern military ports and can approve or obstruct major foreign invasions.
+- Its strongest individual and complete senior hierarchy remain unrevealed.
+
+#### Rank 2 — Dravaryn Clan
+
+**Banner epithet:** The Crimson Vanguard
+
+- Specializes in physical reinforcement, mounted warfare and formation-shattering charges.
+- Fields Southern Isgard's most feared heavy assault force.
+- Values decisive forward momentum and treats an unnecessary retreat as clan humiliation.
+
+#### Rank 3 — Skeldran Clan
+
+**Banner epithet:** The Thousandfold Hunt
+
+- Specializes in pursuit, coordinated hunting formations and rotational combat.
+- Its warriors surround stronger targets, continually exchange attackers and deny their enemies time to recover.
+- It is frequently responsible for tracking escaped enemies and identifying routes into foreign continents.
+
+#### Rank 4 — Eirholt Clan
+
+**Banner epithet:** The Winter Physicians
+
+- Specializes in defensive circulation, battlefield medicine and survival under extreme conditions.
+- Its treatment is designed to return warriors to battle quickly rather than reproduce Rhen's complete restoration.
+- It maintains pragmatic neutrality while providing physicians to several rival clans.
+
+#### Rank 7 — Duskvein Clan
+
+**Banner epithet:** The Patient Death
+
+- Duskvein is a middle-ranked War Banner rather than one of Southern Isgard's ruling clans.
+- It specializes in poisons that react to internal-energy circulation.
+- The more power a poisoned victim circulates, the faster the toxin spreads and disrupts their system.
+- Its methods include battlefield mist, contaminated needles, poisoned terrain and delayed circulation toxins.
+- Clan members build poison resistance from childhood.
+- Duskvein fights as a battlefield-poison clan rather than relying only upon individual assassination.
+- Its poisons remain physical and internal-energy based rather than magical.
+
+All unlisted Southern Isgard clan names, ranks and specializations remain `TBD`.
+
+### 6.5 Duskvein and the Cliffhanger
+
+- Jin and the Five Dukes encounter a **Duskvein hunting cohort**, not the complete Duskvein Clan.
+- The group initially underestimates Duskvein because it holds only the seventh position in Southern Isgard.
+- Duskvein's circulation-reactive poison punishes the Five Dukes for drawing upon their strongest techniques.
+- Its formation isolates the five fighters before they can combine their specializations effectively.
+- The cohort thoroughly defeats all five Dukes and leaves them in critical danger.
+- Jin recognizes the poison-and-formation pattern early enough to escape through strategy rather than superior strength.
+- The Five Dukes are kept alive because prestigious foreign captives can improve Duskvein's position at the next Winter Reckoning.
+- Duskvein intends to identify their continent and assess whether a successful invasion could raise it into the Great Banners.
+- Jin's exact escape method, the cohort's leader and composition, the captives' exact conditions and Duskvein's immediate next action remain `TBD`.
+
+The intended scale revelation is:
+
+> The force that defeated all Five Dukes was only one hunting cohort belonging to Southern Isgard's seventh-ranked clan.
+
+---
+
+## 7. Open Planning Slots
 
 These are intentionally blank until the user supplies more skeleton material:
 
@@ -2413,21 +2599,23 @@ These are intentionally blank until the user supplies more skeleton material:
 
 ### Remaining World-State Planning
 
-- exact territory names and headquarters associated with each Sovereign army
+- exact capitals, Sovereign seats and army headquarters inside the five named Wuyue regions
+- internal battalion structure and subordinate commanders of Ilyra's 8,000-person Crownless Host
 - important generals, envoys and affiliated sect leaders beneath the Five Sovereigns
-- response of independent governments and foreign states to the Five Sovereign Compact
-- whether the Compact survives the new-continent revelation
+- response of civil governments and foreign states to the Wuyue Compact
+- whether the Wuyue Compact and Five-Domain structure survive the Isgard revelation
 - Tae Muyeon's poisoner, motive, delivery method and possible connection to the new continent
 
 ### Remaining New-Continent and Rescue Planning
 
-- the new continent's name, geography, cultures and power system
-- the enemy's identity, number, abilities and motives
+- names, geography, cultures and clan systems of Isgard's unrevealed regions
+- exact identities, cultivation and internal hierarchy of Duskvein's hunting cohort
+- exact relationship between Isgard cultivation and the existing Sovereign and Paragon thresholds
 - the five trapped fighters' exact injuries, locations and captors
 - why Lei Zhen and Shen Rui did not join the expedition
 - Jin Seoryu's distress-signal method, exact wording and private history with the route to Rhen and Sera
 - The Quaint Teahouse's response plan and rescue participants
-- the new macro arc title
+- the permanent Isgard macro arc title
 
 ### Still-Locked Structural Planning
 
@@ -2439,7 +2627,34 @@ Do **not** fill these automatically.
 
 ---
 
-## 7. Revision Log
+## 8. Revision Log
+
+### 2026-08-29 — Wuyue Continent, Five Domains and Crownless Host
+
+- Permanently named the main characters' homeland **Wuyue Continent**, meaning Five Great Peaks.
+- Divided Wuyue into the Central, Northern, Eastern, Western and Southern Domains.
+- Preserved the geographic names **Stonecrown Highlands**, **White Vein Basin**, **Concord Vale**, **Stormreach March** and **Azure Riverlands** inside those domains.
+- Established Kael, Liang Yue, Jin Seoryu, Lei Zhen and Shen Rui as the respective Sovereign governors of the five domains.
+- Assigned Arin Vale to the Central Domain, Yun Shizhen to the Northern Domain, Mo Qingzhao to the Eastern Domain and Luo Wen to the Southern Domain.
+- Left the Western Domain without a permanent Duke because Lei Zhen's army already serves as Wuyue's fastest mobile regional force.
+- Kept Ilyra independent of every regional Sovereign and gave her an exact **8,000-person** roaming army named **The Crownless Host**.
+- Reframed the Wuyue Compact as the governing and mutual-defence covenant of the Five Domains without creating an emperor.
+- Preserved civil administration beneath each Sovereign's final authority over martial security, armies, borders and external defence.
+- No runtime, architecture, UI, canon-data or implementation files were changed.
+
+### 2026-08-29 — Beneath the Crooked Sign and Southern Isgard Foundation
+
+- Permanently titled the five-year tea-house and guild-development macro arc **Beneath the Crooked Sign**.
+- Locked that the arc must receive full narrative development and cannot be compressed into a montage or rushed transition.
+- Permanently named the northern continent **The Great Northern Plain — Isgard**.
+- Limited the initial reveal to **The Southern Warplain** while leaving the rest of Isgard unopened.
+- Established Isgard's brutal clan-warfare and foreign-invasion culture.
+- Replaced individual public rankings with the clan-based **Banner Ledger** and annual **Winter Reckoning**.
+- Locked the First Banner, Great Banner, War Banner, Iron Banner and unranked Hearth Clan classifications.
+- Named the Veyrhald, Dravaryn, Skeldran, Eirholt and Duskvein clans and defined their approved southern positions and specializations.
+- Established that one hunting cohort from the seventh-ranked Duskvein Clan defeated the Five Dukes through circulation-reactive poison and formation warfare.
+- Preserved all season numbering, chapter structure, scenes, prose and unrevealed Isgard regions as open planning.
+- No runtime, architecture, UI, canon-data or implementation files were changed.
 
 ### 2026-08-29 — Orchid Command Hierarchy
 
