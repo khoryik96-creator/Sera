@@ -448,7 +448,7 @@ Public credit falls upon scattered physicians and local relief groups, while the
 
 ### Chapter 81 — What Her Husband Forgot to Mention
 
-The Five Domains appear more stable than at any earlier point, and pilgrims now discuss the Petal Monarch as something closer to myth while Rhen serves them unnoticed. During an ordinary married-couple conversation, Sera realizes that Rhen has described everyone else's five-year improvement while saying almost nothing about his own. She insists that knowing what her husband can now do is a reasonable marital requirement. Rhen gives her a brief, understated account of his exact ten-skill current roster while continuing tea-house chores; Sera's increasingly incredulous questions provide the humour. He demonstrates none of them, the exchange does not become a profile recital, and his Ultimate is acknowledged without being approached for use.
+The Five Domains appear more stable than at any earlier point, and pilgrims now discuss the Petal Monarch as something closer to myth while Rhen serves them unnoticed. During an ordinary married-couple conversation, Sera notices that five years have changed neither her husband's face nor her own. Rhen explains that Frozen Petals Garden's continuous refinement eventually reconstructs the meridian foundation into a self-sustaining state that no longer ages; Sera's five uninterrupted years beneath their bond-linked protection have now completed the same permanent transformation. This realization leads Sera to point out that Rhen has described everyone else's five-year improvement while saying almost nothing about his own. She insists that knowing what her husband can now do is a reasonable marital requirement. Rhen gives her a brief, understated account of his exact ten-skill current roster while continuing tea-house chores; Sera's increasingly incredulous questions provide the humour. He demonstrates none of them, the exchange does not become a profile recital, and his Ultimate is acknowledged without being approached for use.
 
 ### Chapter 82 — Five Domains, One Medicine Road
 
@@ -484,7 +484,7 @@ Sera demonstrates her Transcended **Veiled Moon**, **Orchid Shadow Steps**, **Se
 
 ### Chapter 90 — Protection That Has Become a Question
 
-Sera recognizes that Rhen's passive has protected and accelerated her for five years, but continuing it no longer matches the person she wants to become. She prepares to ask for withdrawal without framing independence as rejection.
+Sera recognizes that Rhen's passive has protected and accelerated her for five years, but her reconstructed meridian foundation—and the agelessness it now produces—has become permanently her own. Continuing the active barrier no longer matches the person she wants to become. She prepares to ask for withdrawal without framing independence as rejection.
 
 ---
 
@@ -499,7 +499,7 @@ Sera asks Rhen to withdraw Frozen Petals Garden from her. Their conversation cen
 
 ### Chapter 92 — The Garden Withdraws
 
-Rhen confirms that she understands the consequences and immediately respects the decision. Sera retains every cultivation gain she earned; only the continuing distance-independent protection ends. Qin remains inside Rhen's ordinary local one-mile refinement field while under their roof, and Tae, Huo, Lu and the wider guild still receive no passive extension.
+Rhen confirms that she understands the consequences and immediately respects the decision. Sera retains every cultivation gain she earned and remains permanently ageless because her reconstructed meridian foundation is already complete; only the continuing distance-independent protection and further passive refinement end. Qin remains inside Rhen's ordinary local one-mile refinement field while under their roof, but no ageless outcome is implied for him, and Tae, Huo, Lu and the wider guild still receive no passive extension.
 
 ### Chapter 93 — The Man Standing Too Close
 
@@ -617,7 +617,7 @@ Rhen and Sera share their final cup beneath the crooked sign with no guild work 
 
 Rhen's explanation to Sera should be intimate, concise and mildly funny rather than ominous exposition. It covers his exact ten current skills using only approved mechanics:
 
-1. **Frozen Petals Garden — Evolved Supreme Passive:** it makes Rhen ageless, continuously restores and refines his energy, neutralizes poison, detects concealed danger and protects chosen people. Its optional two-mile hostile field drains enemy energy and halves movement speed; Sera immediately asks whether he has ever slowed an irritating customer.
+1. **Frozen Petals Garden — Evolved Supreme Passive:** its continuous refinement reconstructed Rhen's meridian foundation into an ageless state and, after five uninterrupted years through their unique bond, has completed the same permanent reconstruction in Sera. It continuously restores and refines Rhen's energy, neutralizes poison, detects concealed danger and maintains Sera's distance-independent protection. Its optional two-mile hostile field drains enemy energy and halves movement speed; Sera immediately asks whether he has ever slowed an irritating customer.
 2. **Drifting Petals — Supreme Movement Art:** it merges his former movement lineages, carries him vastly farther, allows indefinite invisibility and can conceal one passenger with him.
 3. **One Petal Severs the Winter Moon — Supreme:** he reads the one relationship sustaining a technique, formation, circulation state or hostile effect, then severs that dependency instead of overpowering the whole structure.
 4. **Sanctuary of Petals — Supreme:** an indestructible sanctuary extending up to twenty miles that can heal, restore, strengthen and protect as many as ten thousand people simultaneously.
