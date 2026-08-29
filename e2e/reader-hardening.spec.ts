@@ -40,7 +40,7 @@ test('Reader Library tabs support standard arrow, Home, and End keyboard navigat
 
 test('global search exposes an accessible input and labelled dialog', async ({ page }) => {
   await page.goto('/#overview');
-  const search = page.getByRole('textbox', { name: 'Search The Quiet Regular' });
+  const search = page.getByRole('combobox', { name: 'Search The Quiet Regular' });
   await expect(search).toBeVisible({ timeout: 20_000 });
   await expect(search).toHaveAttribute('aria-haspopup', 'dialog');
   await expect(search).toHaveAttribute('aria-controls', 'searchPalette');
