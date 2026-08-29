@@ -1,6 +1,7 @@
 import { readFile } from 'node:fs/promises';
 import { test, expect } from '@playwright/test';
 import AxeBuilder from '@axe-core/playwright';
+import { restoredCanonReferences } from '../src/canonReference';
 
 interface CoreCounts {
   characters: number;
@@ -44,7 +45,7 @@ async function sourceCoreCounts(): Promise<CoreCounts> {
     legends: core.legends.length,
     former: core.former.length,
     timeline: core.seraTimeline.length,
-    canon: (core.canonRules || []).length,
+    canon: (core.canonRules || []).length + restoredCanonReferences.length,
   };
 }
 
