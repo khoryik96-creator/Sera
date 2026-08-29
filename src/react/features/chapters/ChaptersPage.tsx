@@ -1,6 +1,6 @@
-import { useEffect, useMemo, useRef, useState } from 'react';
+import { useEffect, useMemo, useState } from 'react';
 import { EPISODE_ARCS } from '../../../episodeMeta';
-import { completedSeasonCount, nextUnreadInSeason, nextUnreadTarget, overallReadingProgress, progressForArc, progressForSeason } from '../../../readingProgress';
+import { nextUnreadInSeason, nextUnreadTarget, overallReadingProgress, progressForSeason } from '../../../readingProgress';
 import { loadSeason } from '../../../seasonStore';
 import type { Episode } from '../../../types';
 import { PageHeader } from '../../components/Shared';
@@ -24,13 +24,11 @@ export function ChaptersPage({ onOpenChapter }: ChaptersPageProps) {
   const { lastRead, readEpisodes } = useReaderState();
   const initialSeason = lastRead?.season || 1;
   const allSeasons = useMemo(() => EPISODE_ARCS.flatMap((arc) => arc.seasons.map((season) => ({ ...season, arc: arc.title }))), []);
-  const [selectedArcIndex, setSelectedArcIndex] = useState(() => arcIndexForSeason(initialSeason));
   const [selectedSeason, setSelectedSeason] = useState(initialSeason);
   const [loadAttempt, setLoadAttempt] = useState(0);
   const [episodes, setEpisodes] = useState<Episode[]>([]);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState('');
-  const readerPanelRef = useRef<HTMLDivElement>(null);
 
   useEffect(() => {
     let alive = true;
@@ -48,109 +46,96 @@ export function ChaptersPage({ onOpenChapter }: ChaptersPageProps) {
     return () => { alive = false; };
   }, [selectedSeason, loadAttempt]);
 
+  const selectedArcIndex = arcIndexForSeason(selectedSeason);
   const selectedArc = EPISODE_ARCS[selectedArcIndex] || EPISODE_ARCS[0];
   const selected = allSeasons.find((item) => item.season === selectedSeason) || allSeasons[0];
   const lastReadEpisode = episodeNumber(lastRead?.id);
   const selectedHasResume = Boolean(lastRead && lastRead.season === selectedSeason);
   const overall = overallReadingProgress(readEpisodes);
-  const completedSeasons = completedSeasonCount(readEpisodes);
   const nextUnread = nextUnreadTarget(readEpisodes, lastRead ? { season: lastRead.season, episode: lastReadEpisode } : null);
   const selectedProgress = progressForSeason(readEpisodes, selectedSeason);
   const selectedNextUnread = nextUnreadInSeason(readEpisodes, selectedSeason, selectedHasResume ? lastReadEpisode : 0);
+  const preferredChapter = selectedHasResume ? lastReadEpisode : selectedNextUnread?.episode || 1;
 
-  function bringReaderIntoView(): void {
-    window.requestAnimationFrame(() => {
-      readerPanelRef.current?.scrollIntoView({ behavior: 'smooth', block: 'start' });
-    });
-  }
-
-  function selectArc(index: number): void {
+  function openArc(index: number): void {
     const arc = EPISODE_ARCS[index];
     if (!arc) return;
-    setSelectedArcIndex(index);
     const preferred = lastRead && arc.seasons.some((item) => item.season === lastRead.season)
       ? lastRead.season
       : arc.seasons[0]?.season || 1;
     setSelectedSeason(preferred);
   }
 
-  function openSeason(season: number): void {
-    setSelectedArcIndex(arcIndexForSeason(season));
-    setSelectedSeason(season);
-    bringReaderIntoView();
-  }
-
   function retrySeason(): void {
     setLoadAttempt((attempt) => attempt + 1);
-    bringReaderIntoView();
   }
 
   return (
     <section>
-      <PageHeader eyebrow="Episode archive" title="Read The Quiet Regular" description="Browse by story arc, see exactly how far you have read, and jump straight to the next unopened episode without losing your place." />
+      <PageHeader eyebrow="Chapter archive" title="Read The Quiet Regular" description="Jump directly by arc, season, or chapter. The archive keeps all three available without forcing you through stacked navigation layers." />
 
-      <button className="archive-resume" onClick={() => onOpenChapter(lastRead?.season || 1, lastRead ? lastReadEpisode : 1)} type="button">
-        <span className="archive-resume__mark">{lastRead ? 'CONTINUE' : 'START'}</span>
-        <span className="archive-resume__copy">
-          <small>{lastRead ? `Season ${lastRead.season} · Episode ${lastReadEpisode}` : 'Season 1 · Episode 1'}</small>
-          <strong>{lastRead?.title || 'Begin The Quiet Regular'}</strong>
-          <span>{lastRead ? 'Resume your latest opened episode.' : 'Start the story from the locked first season.'}</span>
-        </span>
-        <span className="archive-resume__action">Read <span aria-hidden="true">→</span></span>
-      </button>
-
-      <div className="archive-progress-grid" aria-label="Reading progress">
-        <article><span>Story progress</span><strong>{overall.percent}%</strong><small>{overall.read} / {overall.total} episodes opened</small><div className="mini-progress"><span style={{ width: `${overall.percent}%` }} /></div></article>
-        <article><span>Completed seasons</span><strong>{completedSeasons}</strong><small>of 64 seasons fully opened</small><div className="mini-progress"><span style={{ width: `${Math.round((completedSeasons / 64) * 100)}%` }} /></div></article>
-        {nextUnread ? <button className="archive-next-unread" onClick={() => onOpenChapter(nextUnread.season, nextUnread.episode)} type="button"><span>Next unread</span><strong>S{nextUnread.season} · E{nextUnread.episode}</strong><small>Continue beyond your current reading position.</small><b>→</b></button> : <article className="archive-complete"><span>Next unread</span><strong>Complete</strong><small>You have opened all 633 episodes.</small></article>}
+      <div className="chapter-quickbar" aria-label="Reading shortcuts">
+        <button className="chapter-quickbar__primary" onClick={() => onOpenChapter(lastRead?.season || 1, lastRead ? lastReadEpisode : 1)} type="button">
+          <span>{lastRead ? 'CONTINUE' : 'START'}</span>
+          <strong>{lastRead ? `S${lastRead.season} · Ch ${lastReadEpisode}` : 'S1 · Ch 1'}</strong>
+          <small>{lastRead?.title || 'Begin The Quiet Regular'}</small>
+          <b aria-hidden="true">→</b>
+        </button>
+        {nextUnread ? (
+          <button className="chapter-quickbar__secondary" onClick={() => onOpenChapter(nextUnread.season, nextUnread.episode)} type="button">
+            <span>Next unread</span>
+            <strong>S{nextUnread.season} · Ch {nextUnread.episode}</strong>
+            <small>{overall.percent}% of the story opened</small>
+          </button>
+        ) : (
+          <div className="chapter-quickbar__secondary chapter-quickbar__complete"><span>Story</span><strong>Complete</strong><small>All {overall.total} chapters opened</small></div>
+        )}
       </div>
 
-      <div className="archive-section-heading"><div><p className="eyebrow">Story arcs</p><h3>Jump by arc</h3></div><span>13 arcs · 64 seasons</span></div>
-      <nav className="arc-browser" aria-label="Story arcs">
-        {EPISODE_ARCS.map((arc, index) => {
-          const first = arc.seasons[0]?.season || 1;
-          const last = arc.seasons[arc.seasons.length - 1]?.season || first;
-          const progress = progressForArc(readEpisodes, index);
-          return (
-            <button aria-pressed={index === selectedArcIndex} className={`arc-card ${index === selectedArcIndex ? 'is-current' : ''} ${progress.complete ? 'is-complete' : ''}`} key={`${index}-${arc.title}`} onClick={() => selectArc(index)} type="button">
-              <span>{String(index + 1).padStart(2, '0')}</span>
-              <strong>{arc.title}</strong>
-              <small>S{first}–S{last} · {progress.percent}%</small>
-              <i className="mini-progress" aria-hidden="true"><i style={{ width: `${progress.percent}%` }} /></i>
-            </button>
-          );
-        })}
-      </nav>
+      <section className="chapter-browser-panel" aria-labelledby="chapterBrowserHeading">
+        <div className="chapter-browser-panel__heading">
+          <div><p className="eyebrow">Browse</p><h3 id="chapterBrowserHeading">Find a chapter</h3></div>
+          <span>{overall.read} / {overall.total} chapters opened · {overall.percent}%</span>
+        </div>
 
-      <div className="archive-section-heading archive-section-heading--seasons"><div><p className="eyebrow">Selected arc</p><h3>{selectedArc?.title}</h3></div><span>{selectedArc?.seasons.length || 0} seasons</span></div>
-      <div className="season-browser" aria-label={`Seasons in ${selectedArc?.title || 'selected arc'}`}>
-        {(selectedArc?.seasons || []).map((item) => {
-          const isLastRead = lastRead?.season === item.season;
-          const progress = progressForSeason(readEpisodes, item.season);
-          return (
-            <button
-              aria-pressed={item.season === selectedSeason}
-              className={`season-card ${item.season === selectedSeason ? 'is-current' : ''} ${isLastRead ? 'is-last-read' : ''} ${progress.complete ? 'is-complete' : ''}`}
-              key={item.season}
-              onClick={() => openSeason(item.season)}
-              type="button"
-            >
-              <span className="season-card__number">{String(item.season).padStart(2, '0')}</span>
-              <span><strong>{item.title}</strong><small>{isLastRead ? `Continue from Episode ${lastReadEpisode}` : `${progress.read}/${progress.total} read · ${progress.percent}%`}</small><i className="mini-progress" aria-hidden="true"><i style={{ width: `${progress.percent}%` }} /></i></span>
-              <span className="season-card__action">{progress.complete ? '✓ Done' : isLastRead ? 'Resume' : 'Read'} <span aria-hidden="true">→</span></span>
-            </button>
-          );
-        })}
-      </div>
+        <div className="chapter-picker-grid">
+          <label>
+            <span>Story arc</span>
+            <select aria-label="Story arc" onChange={(event) => openArc(Number(event.target.value))} value={selectedArcIndex}>
+              {EPISODE_ARCS.map((arc, index) => {
+                const first = arc.seasons[0]?.season || 1;
+                const last = arc.seasons[arc.seasons.length - 1]?.season || first;
+                return <option key={`${index}-${arc.title}`} value={index}>{arc.title} · S{first}–S{last}</option>;
+              })}
+            </select>
+          </label>
 
-      <div className="season-reader-panel" ref={readerPanelRef}>
-        <div className="season-selected-heading">
-          <div><p className="eyebrow">{selected?.arc}</p><h3>{selected?.title}</h3><p className="season-selected-heading__meta">Season {selectedSeason}</p><p className="season-selected-heading__progress">{selectedProgress.read}/{selectedProgress.total} opened · {selectedProgress.percent}%</p></div>
-          <div className="season-selected-heading__actions">
-            <span className="archive-count" aria-live="polite">{loading ? 'Loading…' : `${episodes.length} episodes`}</span>
-            {selectedNextUnread ? <button className="season-next-unread-button" disabled={loading || Boolean(error)} onClick={() => onOpenChapter(selectedNextUnread.season, selectedNextUnread.episode)} type="button">Next unread E{selectedNextUnread.episode}</button> : null}
-            {selectedHasResume ? <button className="season-continue-button" disabled={loading || Boolean(error)} onClick={() => onOpenChapter(selectedSeason, lastReadEpisode)} type="button">Continue E{lastReadEpisode}</button> : null}
-            <button className="season-start-button" disabled={loading || Boolean(error) || episodes.length === 0} onClick={() => onOpenChapter(selectedSeason, 1)} type="button">Start Season <span aria-hidden="true">→</span></button>
+          <label>
+            <span>Season</span>
+            <select aria-label="Season" onChange={(event) => setSelectedSeason(Number(event.target.value))} value={selectedSeason}>
+              {allSeasons.map((item) => <option key={item.season} value={item.season}>S{item.season} · {item.title}</option>)}
+            </select>
+          </label>
+
+          <label>
+            <span>Jump to chapter</span>
+            <select aria-label="Jump to chapter" disabled={loading || Boolean(error) || episodes.length === 0} onChange={(event) => { const value = Number(event.target.value); if (value) onOpenChapter(selectedSeason, value); }} value="">
+              <option value="">Choose chapter…</option>
+              {episodes.map((item, index) => <option key={`${selectedSeason}-${index + 1}`} value={index + 1}>Ch {index + 1} · {item.title}</option>)}
+            </select>
+          </label>
+        </div>
+
+        <div className="chapter-season-summary">
+          <div>
+            <p className="eyebrow">{selected?.arc}</p>
+            <h3>Season {selectedSeason} · {selected?.title}</h3>
+            <span>{selectedProgress.read}/{selectedProgress.total} opened · {selectedProgress.percent}%</span>
+          </div>
+          <div className="chapter-season-summary__actions">
+            <button disabled={selectedSeason <= 1} onClick={() => setSelectedSeason((season) => Math.max(1, season - 1))} type="button">← S{Math.max(1, selectedSeason - 1)}</button>
+            <button className="is-primary" disabled={loading || Boolean(error) || episodes.length === 0} onClick={() => onOpenChapter(selectedSeason, preferredChapter)} type="button">{selectedHasResume ? `Continue Ch ${preferredChapter}` : selectedNextUnread ? `Read Ch ${preferredChapter}` : 'Start season'}</button>
+            <button disabled={selectedSeason >= 64} onClick={() => setSelectedSeason((season) => Math.min(64, season + 1))} type="button">S{Math.min(64, selectedSeason + 1)} →</button>
           </div>
         </div>
 
@@ -159,24 +144,25 @@ export function ChaptersPage({ onOpenChapter }: ChaptersPageProps) {
         {loading ? <div className="reader-loading" role="status">Loading Season {selectedSeason}…</div> : null}
         {error ? <div className="reader-error"><strong>Season failed to load</strong><p>{error}</p><button onClick={retrySeason} type="button">Retry</button></div> : null}
         {!loading && !error ? (
-          <div className="chapter-list">
-            {episodes.map((episode, index) => {
+          <div className="chapter-list chapter-list--compact">
+            {episodes.map((chapter, index) => {
               const number = index + 1;
               const id = `ep-s${selectedSeason}-e${number}`;
               const isLastRead = lastRead?.id === id;
               const isRead = readEpisodes.includes(id);
               return (
-                <article className={`chapter-row ${isLastRead ? 'is-last-read' : ''} ${isRead ? 'is-read' : ''}`} key={id}>
+                <article className={`chapter-row chapter-row--compact ${isLastRead ? 'is-last-read' : ''} ${isRead ? 'is-read' : ''}`} key={id}>
                   <button className="chapter-row__open" onClick={() => onOpenChapter(selectedSeason, number)} type="button">
-                    <span className="chapter-row__number"><small>S{selectedSeason}</small><strong>{number}</strong></span>
-                    <span className="chapter-row__body"><span className="season-kicker">Episode {number}{isLastRead ? ' · Continue here' : isRead ? ' · ✓ Read' : ' · Unread'}</span><h3>{episode.title}</h3><p>{episode.text.replace(/\[\[speaker:[^\]]+\]\]/g, '').replace(/\s+/g, ' ').slice(0, 190)}…</p></span>
+                    <span className="chapter-row__number"><small>CH</small><strong>{number}</strong></span>
+                    <span className="chapter-row__body"><span className="season-kicker">Season {selectedSeason}</span><h3>{chapter.title}</h3></span>
+                    <span className={`chapter-row__status ${isLastRead ? 'is-current' : isRead ? 'is-read' : ''}`}>{isLastRead ? 'Continue' : isRead ? '✓ Read' : 'Unread'}</span>
                   </button>
                 </article>
               );
             })}
           </div>
         ) : null}
-      </div>
+      </section>
     </section>
   );
 }
