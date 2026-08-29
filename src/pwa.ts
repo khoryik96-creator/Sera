@@ -35,7 +35,9 @@ function notifyInstallAvailability(): void {
 export function subscribeInstallAvailability(listener: InstallAvailabilityListener): () => void {
   installAvailabilityListeners.add(listener);
   listener(canInstallReader());
-  return () => installAvailabilityListeners.delete(listener);
+  return () => {
+    installAvailabilityListeners.delete(listener);
+  };
 }
 
 export async function promptInstallReader(): Promise<'accepted' | 'dismissed' | null> {
