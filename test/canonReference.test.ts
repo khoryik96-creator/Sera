@@ -1,5 +1,6 @@
 import { describe, expect, it } from 'vitest';
 import { restoredCanonReferences } from '../src/canonReference';
+import { DB } from '../src/db';
 
 describe('restored React canon references', () => {
   it('restores the stable legacy world and reveal rules without duplicate titles', () => {
@@ -11,6 +12,11 @@ describe('restored React canon references', () => {
     expect(titles).toContain('Rhen Recognition Rule');
     expect(titles).toContain('Sera + Rhen Center Rule');
     expect(titles).toContain('Duke / Marquis Structure');
+  });
+
+  it('does not duplicate canon-rule titles already owned by data.json', () => {
+    const currentTitles = new Set((DB.canonRules || []).map((rule) => rule.title));
+    expect(restoredCanonReferences.filter((rule) => currentTitles.has(rule.title))).toEqual([]);
   });
 
   it('keeps the Murim setting and technique ladder explicit', () => {
