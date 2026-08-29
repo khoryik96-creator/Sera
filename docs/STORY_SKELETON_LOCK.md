@@ -216,7 +216,19 @@ Do not invent those limits yet.
 
 These are fundamentally the same martial lineage: understanding one critical dependency and severing it rather than overpowering the whole structure.
 
-The five-years-later technique represents the consolidated form of that principle. Exact expanded mechanics, range, target limits, and interaction with future top-tier techniques remain `TBD` unless the user defines them later.
+### Five-year description
+
+Rhen perceives a martial structure as a web of relationships rather than a mass of raw power. He identifies the single dependency that allows the larger technique, formation, circulation state, attack or hostile effect to continue functioning, then severs that relationship with extreme precision.
+
+The evolved form combines the predecessor lineage's defining strengths:
+
+- **One Petal** — finding the one dependency that matters most.
+- **One Petal Before Dawn** — reading layered, large-scale martial architecture as one solvable structure.
+- **Winter Moon Severance** — severing the harmful connection itself without requiring brute force or a physical blade.
+
+Its five-years-later identity is therefore not simply a stronger cut. It is the perfected principle of making an overwhelming martial structure fail because the relationship sustaining it no longer exists.
+
+Exact expanded mechanics, range, target limits, and interaction with future top-tier techniques remain `TBD` until the user defines them later.
 
 ---
 
@@ -276,36 +288,27 @@ Do not add unapproved mechanics yet.
 
 ---
 
-## 7. Autumn Without End — Five-Year Evolution
+## 7. Winter Ends, Spring Blossoms
 
 **Current tier:** Supreme
 
 ### Merged lineage
 
-The five-year evolution combines three predecessor arts into one higher consolidated lineage:
+**Winter Ends, Spring Blossoms** is the five-year evolved form created from three predecessor arts:
 
 - **Winter Mirror**
 - **Empty Spring**
 - **Autumn Without End**
 
-The earlier working title for this merged evolution was **All Seasons Return to Stillness**.
+### Core principle — restoration / natural law
 
-### Permanent five-year name
-
-The permanent evolved name is:
-
-# All Seasons Return to Their Natural Course
-
-The discarded working title **All Seasons Return to Stillness** should not be used as the final technique name.
-
-### Concept direction — restoration / natural law
-
-The five-year evolution is framed around **restoration and natural law**, not merely suppression or stillness.
+The technique is built around **restoration and natural law**, not arbitrary suppression or forced stillness.
 
 - It inherits the combined principles of **Winter Mirror**, **Empty Spring**, and **Autumn Without End**.
-- It inherits Autumn Without End's principle of forcing unnaturally sustained martial processes to finish.
-- Its evolved identity is that distorted, borrowed, prolonged, interrupted or artificially maintained martial states are returned toward their **proper natural course**.
-- The technique should feel less like Rhen imposing arbitrary stillness and more like the world being made to obey the state it should naturally have reached.
+- It retains Autumn Without End's principle of forcing unnaturally sustained martial processes to finish.
+- Distorted, borrowed, prolonged, interrupted or artificially maintained martial states are pushed back toward the **natural course they should properly follow**.
+- The technique should feel as though Rhen is no longer merely suppressing an enemy technique; instead, the martial state itself is being made to obey its correct progression and conclusion.
+- The name reflects that principle: winter is allowed to end, and what should naturally follow is permitted to blossom.
 - This does **not** automatically mean it heals enemies, resurrects the dead, reverses history, or rewrites reality.
 - Exact five-year combat limits, radius, selection rules and interaction with future top-tier techniques remain `TBD` until the user defines them.
 
@@ -375,6 +378,17 @@ Do **not** fill these automatically.
 ---
 
 # Revision Log
+
+## 2026-08-29 — Five-year technique cleanup
+
+Refined the user-approved five-year technique planning:
+
+- renamed the merged **Winter Mirror + Empty Spring + Autumn Without End** evolution to **Winter Ends, Spring Blossoms**
+- removed the earlier final-name/working-title clutter from that section
+- added a full descriptive identity for **One Petal Severs the Winter Moon** so its five-year entry matches the surrounding technique sections
+- preserved all still-undefined range, target-limit and top-tier interaction details as `TBD`
+
+No runtime story/canon/technique data was changed.
 
 ## 2026-08-29 — Missing technique lineage restoration
 
