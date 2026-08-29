@@ -134,7 +134,7 @@ test('season action loads the chosen season and opens its first chapter', async 
   await expect(seasonSelect).toBeVisible({ timeout: 20_000 });
   await seasonSelect.selectOption('12');
   await expect(seasonSelect).toHaveValue('12');
-  await expect(page.locator('.chapter-season-summary').getByRole('heading', { name: /Season 12/ })).toBeVisible();
+  await expect(page.locator('.chapter-list')).toBeVisible({ timeout: 20_000 });
   const action = page.locator('.chapter-season-summary__actions .is-primary');
   await expect(action).toBeEnabled({ timeout: 20_000 });
   await expect(action).toContainText('Read Ch 1');

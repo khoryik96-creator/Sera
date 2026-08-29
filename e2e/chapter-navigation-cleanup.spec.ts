@@ -5,19 +5,16 @@ test('chapter archive uses direct selectors instead of arc and season card carou
   await expect(page.getByRole('heading', { name: 'Read The Quiet Regular' })).toBeVisible({ timeout: 20_000 });
   await expect(page.getByRole('combobox', { name: 'Story arc' })).toBeVisible();
   await expect(page.getByRole('combobox', { name: 'Season' })).toBeVisible();
-  await expect(page.getByRole('combobox', { name: 'Jump to chapter' })).toBeVisible();
   await expect(page.locator('.arc-browser')).toHaveCount(0);
   await expect(page.locator('.season-browser')).toHaveCount(0);
 });
 
-test('season and chapter selectors jump directly without extra navigation layers', async ({ page }) => {
+test('season selector and chapter list jump directly without extra navigation layers', async ({ page }) => {
   await page.goto('/#chapters');
   await expect(page.getByRole('combobox', { name: 'Season' })).toBeVisible({ timeout: 20_000 });
   await page.getByRole('combobox', { name: 'Season' }).selectOption('43');
-  await expect(page.getByRole('heading', { name: /Season 43/ })).toBeVisible();
-  const chapterSelect = page.getByRole('combobox', { name: 'Jump to chapter' });
-  await expect(chapterSelect).toBeEnabled();
-  await chapterSelect.selectOption('1');
+  await expect(page.getByRole('combobox', { name: 'Season' })).toHaveValue('43');
+  await page.locator('.chapter-row__open').first().click();
   await expect(page).toHaveURL(/#chapter\/43\/1$/);
   await expect(page.locator('.reader-prose')).toBeVisible({ timeout: 20_000 });
 });

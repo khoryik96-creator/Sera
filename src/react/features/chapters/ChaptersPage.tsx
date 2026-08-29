@@ -47,7 +47,6 @@ export function ChaptersPage({ onOpenChapter }: ChaptersPageProps) {
   }, [selectedSeason, loadAttempt]);
 
   const selectedArcIndex = arcIndexForSeason(selectedSeason);
-  const selected = allSeasons.find((item) => item.season === selectedSeason) || allSeasons[0];
   const lastReadEpisode = episodeNumber(lastRead?.id);
   const selectedHasResume = Boolean(lastRead && lastRead.season === selectedSeason);
   const overall = overallReadingProgress(readEpisodes);
@@ -71,7 +70,7 @@ export function ChaptersPage({ onOpenChapter }: ChaptersPageProps) {
 
   return (
     <section>
-      <PageHeader eyebrow="Chapter archive" title="Read The Quiet Regular" description="Jump directly by arc, season, or chapter. The archive keeps all three available without forcing you through stacked navigation layers." />
+      <PageHeader eyebrow="Chapter archive" title="Read The Quiet Regular" description="Pick an arc and season, then open a chapter." />
 
       <div className="chapter-quickbar" aria-label="Reading shortcuts">
         <button className="chapter-quickbar__primary" onClick={() => onOpenChapter(lastRead?.season || 1, lastRead ? lastReadEpisode : 1)} type="button">
@@ -94,7 +93,6 @@ export function ChaptersPage({ onOpenChapter }: ChaptersPageProps) {
       <section className="chapter-browser-panel" aria-labelledby="chapterBrowserHeading">
         <div className="chapter-browser-panel__heading">
           <div><p className="eyebrow">Browse</p><h3 id="chapterBrowserHeading">Find a chapter</h3></div>
-          <span>{overall.read} / {overall.total} chapters opened · {overall.percent}%</span>
         </div>
 
         <div className="chapter-picker-grid">
@@ -112,25 +110,12 @@ export function ChaptersPage({ onOpenChapter }: ChaptersPageProps) {
           <label>
             <span>Season</span>
             <select aria-label="Season" onChange={(event) => setSelectedSeason(Number(event.target.value))} value={selectedSeason}>
-              {allSeasons.map((item) => <option key={item.season} value={item.season}>S{item.season} · {item.title}</option>)}
-            </select>
-          </label>
-
-          <label>
-            <span>Jump to chapter</span>
-            <select aria-label="Jump to chapter" disabled={loading || Boolean(error) || episodes.length === 0} onChange={(event) => { const value = Number(event.target.value); if (value) onOpenChapter(selectedSeason, value); }} value="">
-              <option value="">Choose chapter…</option>
-              {episodes.map((item, index) => <option key={`${selectedSeason}-${index + 1}`} value={index + 1}>Ch {index + 1} · {item.title}</option>)}
+              {allSeasons.map((item) => <option key={item.season} value={item.season}>{item.title}</option>)}
             </select>
           </label>
         </div>
 
-        <div className="chapter-season-summary">
-          <div>
-            <p className="eyebrow">{selected?.arc}</p>
-            <h3>Season {selectedSeason} · {selected?.title}</h3>
-            <span>{selectedProgress.read}/{selectedProgress.total} opened · {selectedProgress.percent}%</span>
-          </div>
+        <div className="chapter-season-summary chapter-season-summary--compact">
           <div className="chapter-season-summary__actions">
             <button disabled={selectedSeason <= 1} onClick={() => setSelectedSeason((season) => Math.max(1, season - 1))} type="button">← S{Math.max(1, selectedSeason - 1)}</button>
             <button className="is-primary" disabled={loading || Boolean(error) || episodes.length === 0} onClick={() => onOpenChapter(selectedSeason, preferredChapter)} type="button">{selectedHasResume ? `Continue Ch ${preferredChapter}` : selectedNextUnread ? `Read Ch ${preferredChapter}` : 'Start season'}</button>
@@ -153,7 +138,7 @@ export function ChaptersPage({ onOpenChapter }: ChaptersPageProps) {
                 <article className={`chapter-row chapter-row--compact ${isLastRead ? 'is-last-read' : ''} ${isRead ? 'is-read' : ''}`} key={id}>
                   <button className="chapter-row__open" onClick={() => onOpenChapter(selectedSeason, number)} type="button">
                     <span className="chapter-row__number"><small>CH</small><strong>{number}</strong></span>
-                    <span className="chapter-row__body"><span className="season-kicker">Season {selectedSeason}</span><h3>{chapter.title}</h3></span>
+                    <span className="chapter-row__body"><h3>{chapter.title}</h3></span>
                     <span className={`chapter-row__status ${isLastRead ? 'is-current' : isRead ? 'is-read' : ''}`}>{isLastRead ? 'Continue' : isRead ? '✓ Read' : 'Unread'}</span>
                   </button>
                 </article>
