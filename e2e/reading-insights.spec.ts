@@ -41,7 +41,7 @@ test('Reading Insights summarizes existing local reader state and journey', asyn
   await expect(page.locator('.insights-library-panel .insights-library-grid')).toContainText('4');
   await expect(page.getByRole('heading', { name: 'How you move through the story' })).toBeVisible();
   await expect(page.getByText('episode revisits')).toBeVisible();
-  await expect(page.locator('.insights-arc-card')).toHaveCount(13);
+  await expect(page.locator('.insights-arc-card')).toHaveCount(14);
   await expect(page.locator('.insights-secondary')).toContainText('S2 E1');
 });
 
