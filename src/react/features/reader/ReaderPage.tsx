@@ -44,6 +44,10 @@ type ReaderSurfaceStyle = CSSProperties & {
   '--reader-font-family': string;
 };
 
+function chapterId(season: number, episode: number): string {
+  return `ep-s${season}-e${episode}`;
+}
+
 function clampProgress(value: number): number {
   return Math.min(1, Math.max(0, value));
 }
@@ -96,9 +100,27 @@ export function ReaderPage({ season, episode, onBack, onOpenChapter }: ReaderPag
   const [resumePosition, setResumePosition] = useState<ChapterPosition | null>(null);
   const [resumeDismissed, setResumeDismissed] = useState(false);
   const [focusMode, setFocusMode] = useState(loadFocusMode);
-  const proseRef = useRef<HTMLDivElement>(null);
+  // Chapters in the same season append below as the reader scrolls, so the whole
+  // season reads as one continuous flow. visibleCount is how many are mounted
+  // from the entry chapter; activeEpisode is whichever is currently under the
+  // reading line (drives the header, bookmarking, notes and read-marking).
+  const [visibleCount, setVisibleCount] = useState(1);
+  const [activeEpisode, setActiveEpisode] = useState(episode);
 
-  const chapterId = `ep-s${season}-e${episode}`;
+  const surfaceRef = useRef<HTMLElement>(null);
+  const proseRefs = useRef(new Map<number, HTMLDivElement>());
+  const renderedNumbersRef = useRef<number[]>([]);
+  const hasMoreRef = useRef(false);
+
+  const startIndex = episode - 1;
+  const renderedEpisodes = episodes
+    .slice(startIndex, startIndex + visibleCount)
+    .map((ep, index) => ({ ep, number: startIndex + index + 1 }));
+  renderedNumbersRef.current = renderedEpisodes.map((item) => item.number);
+  const hasMoreInSeason = episodes.length > 0 && startIndex + visibleCount < episodes.length;
+  hasMoreRef.current = hasMoreInSeason;
+
+  const entryChapterId = chapterId(season, episode);
 
   useEffect(() => {
     let alive = true;
@@ -108,26 +130,29 @@ export function ReaderPage({ season, episode, onBack, onOpenChapter }: ReaderPag
     setSelectedPassage('');
     setPassageNotice('');
     setResumeDismissed(false);
-    setResumePosition(getChapterPosition(chapterId));
+    setResumePosition(getChapterPosition(entryChapterId));
     loadSeason(season).then((rows) => {
       if (!alive) return;
       setEpisodes(rows);
       setLoading(false);
       const current = rows[episode - 1];
-      if (current) markRead({ id: chapterId, season, title: current.title });
+      if (current) markRead({ id: entryChapterId, season, title: current.title });
     }).catch((cause: unknown) => {
       if (!alive) return;
       setError(cause instanceof Error ? cause.message : 'Unable to load this chapter.');
       setLoading(false);
     });
     return () => { alive = false; };
-  }, [season, episode, chapterId]);
+  }, [season, episode, entryChapterId]);
 
   useEffect(() => {
-    // A fresh chapter always starts at the top, so tapping Previous/Next drops the
-    // reader straight into the new chapter instead of keeping the old scroll
-    // offset. The resume-position banner still offers a jump back when a saved
-    // position exists.
+    // A fresh entry chapter always starts at the top and rebuilds the continuous
+    // stack from that chapter, so tapping Previous/Next (or a link) drops the
+    // reader straight into the new chapter. The resume-position banner still
+    // offers a jump back into the entry chapter when a saved position exists.
+    proseRefs.current.clear();
+    setVisibleCount(1);
+    setActiveEpisode(episode);
     window.scrollTo({ top: 0, behavior: 'auto' });
   }, [season, episode]);
 
@@ -150,47 +175,78 @@ export function ReaderPage({ season, episode, onBack, onOpenChapter }: ReaderPag
     return () => window.removeEventListener('keydown', onKeyDown);
   }, [focusMode]);
 
+  // Track the chapter under the reading line and persist reading position for it.
+  // Kept as one scroll listener that reads the live rendered-chapter list from a
+  // ref, so appending chapters never re-subscribes or loses throttle state.
   useEffect(() => {
-    if (loading || error || !episodes[episode - 1]) return;
+    if (loading || error || episodes.length === 0) return;
     let frame = 0;
     let pageHiding = false;
-    let lastPersisted = getChapterPosition(chapterId)?.progress || 0;
-    let lastPersistedAt = 0;
+    // Append only after the reader has settled at the top of the entry chapter
+    // (armed) and then genuinely scrolled down (maxScrollY). Arming resets the
+    // downward baseline, so the leftover scroll position from the previous
+    // chapter can never eagerly append the next one on navigation.
+    let armed = window.scrollY < 60;
+    let maxScrollY = 0;
+    let activeNum = activeEpisode;
+    const persisted = new Map<number, { progress: number; at: number }>();
 
-    const readProgress = (): number => {
-      const root = proseRef.current;
-      return root ? progressInsideProse(root) : 0;
+    const readingLineY = (): number => window.scrollY + Math.min(window.innerHeight * 0.3, 240);
+
+    const pickActive = (): number => {
+      const numbers = renderedNumbersRef.current;
+      const line = readingLineY();
+      let best = numbers[0] ?? episode;
+      for (const num of numbers) {
+        const el = proseRefs.current.get(num);
+        if (!el) continue;
+        const top = window.scrollY + el.getBoundingClientRect().top - 120;
+        if (top <= line) best = num; else break;
+      }
+      return best;
     };
 
-    let latestProgress = readProgress();
-
-    const persistProgress = (progress: number, force = false): void => {
-      const now = Date.now();
+    const persist = (num: number, force = false): void => {
+      const el = proseRefs.current.get(num);
+      if (!el) return;
+      const progress = progressInsideProse(el);
       if (progress < 0.02) return;
-      const delta = Math.abs(progress - lastPersisted);
-      // Meaningful jumps should persist immediately. Only tiny scroll churn is
-      // throttled; otherwise a fast jump followed by a clamped scroll can leave
-      // an older position stored even though the UI already shows the new one.
-      if (!force && delta < 0.005) return;
-      if (!force && delta < 0.015 && now - lastPersistedAt < 700) return;
-      saveChapterPosition({ id: chapterId, season, episode, progress }, now);
-      lastPersisted = progress;
-      lastPersistedAt = now;
+      const previous = persisted.get(num);
+      const now = Date.now();
+      if (!force && previous && Math.abs(progress - previous.progress) < 0.005) return;
+      if (!force && previous && Math.abs(progress - previous.progress) < 0.015 && now - previous.at < 700) return;
+      saveChapterPosition({ id: chapterId(season, num), season, episode: num, progress }, now);
+      persisted.set(num, { progress, at: now });
     };
 
     const update = (): void => {
       frame = 0;
       if (pageHiding) return;
-      latestProgress = readProgress();
-      persistProgress(latestProgress, false);
+      const num = pickActive();
+      if (num !== activeNum) {
+        activeNum = num;
+        setActiveEpisode(num);
+        const ep = episodes[num - 1];
+        if (ep) markRead({ id: chapterId(season, num), season, title: ep.title });
+      }
+      persist(activeNum, false);
+      if (armed && maxScrollY > 100 && hasMoreRef.current) {
+        const doc = document.documentElement;
+        if (window.scrollY + window.innerHeight >= doc.scrollHeight - 600) {
+          setVisibleCount((count) => Math.min(count + 1, episodes.length - startIndex));
+        }
+      }
     };
 
     const onScroll = (): void => {
+      const y = window.scrollY;
+      if (y < 60) { armed = true; maxScrollY = y; }
+      else if (y > maxScrollY) maxScrollY = y;
       if (!frame && !pageHiding) frame = window.requestAnimationFrame(update);
     };
     const onPageHide = (): void => {
       pageHiding = true;
-      persistProgress(latestProgress, true);
+      persist(activeNum, true);
     };
 
     update();
@@ -200,14 +256,14 @@ export function ReaderPage({ season, episode, onBack, onOpenChapter }: ReaderPag
       window.removeEventListener('scroll', onScroll);
       window.removeEventListener('pagehide', onPageHide);
       if (frame) window.cancelAnimationFrame(frame);
-      // Never re-measure during teardown: browser reload/scroll restoration can
-      // temporarily move layout and overwrite a stable reading position.
-      persistProgress(latestProgress, true);
+      persist(activeNum, true);
     };
-  }, [chapterId, season, episode, loading, error, episodes]);
+    // Intentionally excludes activeEpisode/markRead: the listener reads the live
+    // chapter list from a ref and re-subscribing on every scroll would thrash.
+  }, [loading, error, episodes, season, episode]);
 
-  const current = episodes[episode - 1];
-  const bookmark = current ? { id: chapterId, season, title: current.title } : null;
+  const current = episodes[activeEpisode - 1] || episodes[episode - 1];
+  const bookmark = current ? { id: chapterId(season, activeEpisode), season, title: current.title } : null;
   const saved = bookmark ? bookmarks.some((item) => item.id === bookmark.id) : false;
   const arcIndex = EPISODE_ARCS.findIndex((arc) => arc.seasons.some((entry) => entry.season === season));
   const arc = EPISODE_ARCS[Math.max(0, arcIndex)];
@@ -218,26 +274,32 @@ export function ReaderPage({ season, episode, onBack, onOpenChapter }: ReaderPag
   const loreStatus = loreName ? rankStatus(loreName, season) : 'current';
   const showResumePosition = Boolean(resumePosition && resumePosition.progress >= 0.05 && resumePosition.progress <= 0.96 && !resumeDismissed);
 
+  function registerProse(num: number, el: HTMLDivElement | null): void {
+    if (el) proseRefs.current.set(num, el);
+    else proseRefs.current.delete(num);
+  }
+
   async function goPrevious(): Promise<void> {
-    if (episode > 1) { onOpenChapter(season, episode - 1); return; }
+    if (activeEpisode > 1) { onOpenChapter(season, activeEpisode - 1); return; }
     if (season <= 1) return;
     const previous = await loadSeason(season - 1);
     onOpenChapter(season - 1, previous.length);
   }
 
   function goNext(): void {
-    if (episode < episodes.length) { onOpenChapter(season, episode + 1); return; }
+    if (activeEpisode < episodes.length) { onOpenChapter(season, activeEpisode + 1); return; }
     if (season < 74) onOpenChapter(season + 1, 1);
   }
 
   function resumeExactPosition(): void {
-    if (!resumePosition || !proseRef.current) return;
-    scrollToProseProgress(proseRef.current, resumePosition.progress);
+    const root = proseRefs.current.get(episode);
+    if (!resumePosition || !root) return;
+    scrollToProseProgress(root, resumePosition.progress);
     setResumeDismissed(true);
   }
 
   function capturePassageSelection(): void {
-    const root = proseRef.current;
+    const root = surfaceRef.current;
     const selection = window.getSelection();
     if (!root || !selection || selection.isCollapsed || !selection.rangeCount) {
       setSelectedPassage('');
@@ -309,7 +371,7 @@ export function ReaderPage({ season, episode, onBack, onOpenChapter }: ReaderPag
               <div className="reader-meta-chips">
                 <span>{arc ? `Arc ${Math.max(1, arcIndex + 1)}` : 'Story'}</span>
                 <span>Season {season}</span>
-                <span>Chapter {episode} / {episodes.length}</span>
+                <span>Chapter {activeEpisode} / {episodes.length}</span>
                 <span className="is-read">✓ Read</span>
               </div>
               <h2>{current.title}</h2>
@@ -353,14 +415,24 @@ export function ReaderPage({ season, episode, onBack, onOpenChapter }: ReaderPag
             </aside>
           ) : null}
 
-          <article className="reader-surface" onClick={handleProseClick} onKeyUp={capturePassageSelection} onMouseUp={capturePassageSelection} onTouchEnd={() => window.setTimeout(capturePassageSelection, 0)} style={surfaceStyle}>
-            <div ref={proseRef} className="reader-prose" dangerouslySetInnerHTML={{ __html: renderNovel(current.text, season, { interactiveNames: true }) }} />
+          <article ref={surfaceRef} className="reader-surface" onClick={handleProseClick} onKeyUp={capturePassageSelection} onMouseUp={capturePassageSelection} onTouchEnd={() => window.setTimeout(capturePassageSelection, 0)} style={surfaceStyle}>
+            {renderedEpisodes.map(({ ep, number }, index) => (
+              <div className="reader-chapter" data-episode={number} key={number}>
+                {index > 0 ? (
+                  <div className="reader-chapter__divider">
+                    <span>Chapter {number} / {episodes.length}</span>
+                    <h3>{ep.title}</h3>
+                  </div>
+                ) : null}
+                <div ref={(el) => registerProse(number, el)} className="reader-prose" dangerouslySetInnerHTML={{ __html: renderNovel(ep.text, season, { interactiveNames: true }) }} />
+              </div>
+            ))}
           </article>
 
           <nav className="reader-nav reader-nav--v3" aria-label="Chapter navigation">
-            <button disabled={season === 1 && episode === 1} onClick={() => { void goPrevious(); }} type="button"><span>← Previous</span><strong>{episode > 1 ? `Ch ${episode - 1}` : season > 1 ? `S${season - 1} finale` : 'Start'}</strong></button>
+            <button disabled={season === 1 && activeEpisode === 1} onClick={() => { void goPrevious(); }} type="button"><span>← Previous</span><strong>{activeEpisode > 1 ? `Ch ${activeEpisode - 1}` : season > 1 ? `S${season - 1} finale` : 'Start'}</strong></button>
             <button className="reader-nav__archive" onClick={onBack} type="button"><span>Season {season}</span><strong>Chapters</strong></button>
-            <button disabled={season === 74 && episode === episodes.length} onClick={goNext} type="button"><span>Next →</span><strong>{episode < episodes.length ? `Ch ${episode + 1}` : season < 74 ? `S${season + 1} · Ch 1` : 'End'}</strong></button>
+            <button disabled={season === 74 && activeEpisode === episodes.length} onClick={goNext} type="button"><span>Next →</span><strong>{activeEpisode < episodes.length ? `Ch ${activeEpisode + 1}` : season < 74 ? `S${season + 1} · Ch 1` : 'End'}</strong></button>
           </nav>
         </>
       ) : null}

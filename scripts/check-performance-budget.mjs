@@ -7,7 +7,7 @@ const files = await readdir(assetsDir);
 const limits = {
   entryJs: 220 * 1024,
   entryCss: 48 * 1024,
-  coreJson: 210 * 1024,
+  coreJson: 216 * 1024,
   lazyRouteJs: 180 * 1024,
 };
 

@@ -1,6 +1,6 @@
 import { defineConfig } from 'vite';
 
-// React owns the production root. legacy.html is the tested pre-React rollback;
+// React owns the production root.
 // react-preview.html remains a tested compatibility alias for historical links.
 export default defineConfig({
   base: './',
@@ -12,7 +12,6 @@ export default defineConfig({
     rollupOptions: {
       input: {
         main: 'index.html',
-        legacy: 'legacy.html',
         compatibilityAlias: 'react-preview.html',
       },
     },

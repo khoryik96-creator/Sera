@@ -26,6 +26,50 @@ if (JSON.stringify(found) !== JSON.stringify(expected)) {
   throw new Error(`Expected seasons 1-74, found: ${found.join(', ')}`);
 }
 
+/**
+ * Fail the build early on malformed core lore. This is intentionally
+ * lightweight and dependency-free: it guards the shapes that render code and
+ * tests assume, so a bad hand/GPT edit to src/data.json is caught here rather
+ * than at runtime.
+ */
+function validateCore(core) {
+  const errors = [];
+  const isStr = (v) => typeof v === 'string';
+  const need = (cond, msg) => { if (!cond) errors.push(msg); };
+
+  need(core.characters && typeof core.characters === 'object', 'characters map is missing');
+  for (const [key, c] of Object.entries(core.characters || {})) {
+    need(c && isStr(c.name) && c.name.trim(), `character "${key}" is missing a name`);
+    need(c && isStr(c.subtitle), `character "${key}" is missing a subtitle`);
+  }
+
+  const rowFields = {
+    topSkills: ['name', 'category', 'signature', 'rating', 'description'],
+    ranks: ['rank', 'name', 'className', 'description'],
+    seasonCast: ['name', 'role', 'description'],
+  };
+  const checkRows = (rows, label, fields) => {
+    need(Array.isArray(rows), `${label} should be an array`);
+    (Array.isArray(rows) ? rows : []).forEach((row, index) => {
+      need(row && typeof row === 'object' && !Array.isArray(row), `${label}[${index}] must be an object (not a positional array)`);
+      for (const field of fields) need(row && isStr(row[field]), `${label}[${index}] is missing string field "${field}"`);
+    });
+  };
+  for (const [key, rows] of Object.entries(core.topSkills || {})) checkRows(rows, `topSkills.${key}`, rowFields.topSkills);
+  checkRows(core.ranks, 'ranks', rowFields.ranks);
+  for (const [season, rows] of Object.entries(core.seasonCast || {})) checkRows(rows, `seasonCast.${season}`, rowFields.seasonCast);
+
+  for (const listName of ['rhenSkills', 'seraSkills']) {
+    need(Array.isArray(core[listName]), `${listName} should be an array`);
+    (core[listName] || []).forEach((skill, index) => {
+      need(skill && isStr(skill.name) && skill.name.trim(), `${listName}[${index}] is missing a name`);
+      need(skill && isStr(skill.category), `${listName}[${index}] is missing a category`);
+    });
+  }
+
+  if (errors.length) throw new Error(`src/data.json failed validation:\n - ${errors.join('\n - ')}`);
+}
+
 function plainEpisodeText(value) {
   return String(value || '')
     .replace(/\[\[speaker:[^\]]+\]\]/g, ' ')
@@ -33,6 +77,8 @@ function plainEpisodeText(value) {
     .replace(/\s+/g, ' ')
     .trim();
 }
+
+validateCore(core);
 
 await rm(outDir, { recursive: true, force: true });
 await mkdir(outDir, { recursive: true });

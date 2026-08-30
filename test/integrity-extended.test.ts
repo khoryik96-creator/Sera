@@ -1,11 +1,14 @@
 import { describe, it, expect } from 'vitest';
 import rawData from '../src/data.json';
 import { normalizeDatabase, colorKeyMap } from '../src/db';
-import { charOrder } from '../src/characters';
 import type { RawDatabase } from '../src/types';
 
 const raw = rawData as unknown as RawDatabase;
 const data = normalizeDatabase(raw);
+
+// The original numeric/former-ranked core cast. Newer unranked additions
+// (e.g. Tae, Huo) are intentionally outside this rank-identity check.
+const coreRankedKeys = ['rhen', 'kael', 'liang', 'jin', 'lei', 'rui', 'ilyra', 'sera', 'mo', 'arin', 'wen', 'yun', 'qin', 'han'];
 
 function allEpisodes() {
   return Array.from({ length: 74 }, (_, index) => index + 1).flatMap((season) =>
@@ -15,7 +18,7 @@ function allEpisodes() {
 
 describe('extended canon integrity', () => {
   it('keeps numeric/former rank identity on every core ranked character except Rhen', () => {
-    for (const key of charOrder) {
+    for (const key of coreRankedKeys) {
       const character = data.characters[key];
       if (key === 'rhen') {
         expect(character.name).not.toMatch(/#\d+/);

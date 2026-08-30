@@ -1,5 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Playfair+Display:wght@600;700&display=swap');
 
+/* Continuous in-season reading appends chapters below the fold; scroll
+   anchoring would otherwise shift the reader's position when content grows. */
+html{overflow-anchor:none}
+
 :root{
   font-family:Inter,system-ui,sans-serif;color:#f2efe9;background:#0c0d0f;
   --bg:#0c0d0f;--panel:#111317;--panel2:#171a1f;--border:#252a31;--muted:#969ba4;--text:#f2efe9;

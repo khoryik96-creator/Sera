@@ -24,14 +24,30 @@ test('next chapter advances persistent season progress', async ({ page }) => {
   expect(read).toContain('ep-s1-e2');
 });
 
-test('advancing to the next chapter starts at the top of the new chapter', async ({ page }) => {
+test('reading flows continuously through the season and navigation resets to the top', async ({ page }) => {
   await open(page, 'chapter/1/1');
   await expect(page.locator('.reader-prose')).toBeVisible({ timeout: 20_000 });
-  await page.evaluate(() => window.scrollTo(0, document.documentElement.scrollHeight));
-  await expect.poll(() => page.evaluate(() => window.scrollY)).toBeGreaterThan(200);
+  // A single chapter mounts on load — later chapters append only while reading.
+  await expect(page.locator('.reader-prose')).toHaveCount(1);
+  await expect(page).toHaveURL(/#chapter\/1\/1$/);
+
+  // Scrolling to the bottom appends the next chapter of the same season in place.
+  await expect.poll(async () => {
+    await page.evaluate(() => window.scrollTo(0, document.documentElement.scrollHeight));
+    return page.locator('.reader-prose').count();
+  }, { timeout: 20_000 }).toBeGreaterThan(1);
+
+  // Continuing to read marks later chapters read while the URL stays on the entry chapter.
+  await expect.poll(async () => {
+    await page.evaluate(() => window.scrollTo(0, document.documentElement.scrollHeight));
+    return page.evaluate(() => JSON.parse(localStorage.getItem('tqr:readEpisodes:v1') || '[]') as string[]);
+  }, { timeout: 20_000 }).toContain('ep-s1-e2');
+  await expect(page).toHaveURL(/#chapter\/1\/1$/);
+
+  // Explicit navigation still jumps to a fresh chapter at the top.
   await page.locator('.reader-nav--v3 > button').last().click();
-  await expect(page).toHaveURL(/#chapter\/1\/2$/);
-  await expect(page.locator('.reader-prose')).toBeVisible({ timeout: 20_000 });
+  await expect(page).toHaveURL(/#chapter\/\d+\/\d+$/);
+  await expect(page.locator('.reader-prose').first()).toBeVisible({ timeout: 20_000 });
   await expect.poll(() => page.evaluate(() => window.scrollY)).toBeLessThan(20);
 });
 
