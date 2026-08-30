@@ -7,7 +7,10 @@ const files = await readdir(assetsDir);
 const limits = {
   entryJs: 220 * 1024,
   entryCss: 48 * 1024,
-  coreJson: 210 * 1024,
+  // Core lore JSON grows as canon characters/skills are added; it is a single
+  // lazily-loaded payload that gzips to a fraction of this. Ceiling tracks
+  // real content growth (raised 210→216 for the Huo Wujin skills section).
+  coreJson: 216 * 1024,
   lazyRouteJs: 180 * 1024,
 };
 
