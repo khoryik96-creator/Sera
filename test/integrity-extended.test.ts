@@ -11,7 +11,7 @@ const data = normalizeDatabase(raw);
 const coreRankedKeys = ['rhen', 'kael', 'liang', 'jin', 'lei', 'rui', 'ilyra', 'sera', 'mo', 'arin', 'wen', 'yun', 'qin', 'han'];
 
 function allEpisodes() {
-  return Array.from({ length: 64 }, (_, index) => index + 1).flatMap((season) =>
+  return Array.from({ length: 74 }, (_, index) => index + 1).flatMap((season) =>
     raw[`season${season}` as `season${number}`].map((episode, index) => ({ season, index, episode })),
   );
 }
@@ -60,10 +60,11 @@ describe('extended canon integrity', () => {
     expect([...unknown]).toEqual([]);
   });
 
-  it('contains every season from 1 through 64 and the epilogue remains season 64', () => {
-    for (let season = 1; season <= 64; season++) {
+  it('contains every season from 1 through 74 while preserving the Season 64 epilogue', () => {
+    for (let season = 1; season <= 74; season++) {
       expect(raw[`season${season}` as `season${number}`].length, `season${season}`).toBeGreaterThan(0);
     }
     expect(raw.season64[0]?.title.toLowerCase()).toMatch(/second spring|two years|epilogue/);
+    expect(raw.season65[0]?.title.toLowerCase()).toMatch(/sign is still crooked/);
   });
 });

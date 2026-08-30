@@ -22,7 +22,7 @@ export function episodeId(season: number, episode: number): string {
 
 export function episodeCountForSeason(season: number): number {
   const meta = EPISODE_ARCS.flatMap((arc) => arc.seasons).find((entry) => entry.season === season);
-  const match = meta?.badge.match(/^(\d+)\s+Episodes/i);
+  const match = meta?.badge.match(/^(\d+)\s+(?:Episodes|Chapters)/i);
   return match ? Number(match[1]) : 0;
 }
 

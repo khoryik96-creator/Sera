@@ -119,7 +119,7 @@ export function ChaptersPage({ onOpenChapter }: ChaptersPageProps) {
           <div className="chapter-season-summary__actions">
             <button disabled={selectedSeason <= 1} onClick={() => setSelectedSeason((season) => Math.max(1, season - 1))} type="button">← S{Math.max(1, selectedSeason - 1)}</button>
             <button className="is-primary" disabled={loading || Boolean(error) || episodes.length === 0} onClick={() => onOpenChapter(selectedSeason, preferredChapter)} type="button">{selectedHasResume ? `Continue Ch ${preferredChapter}` : selectedNextUnread ? `Read Ch ${preferredChapter}` : 'Start season'}</button>
-            <button disabled={selectedSeason >= 64} onClick={() => setSelectedSeason((season) => Math.min(64, season + 1))} type="button">S{Math.min(64, selectedSeason + 1)} →</button>
+            <button disabled={selectedSeason >= 74} onClick={() => setSelectedSeason((season) => Math.min(74, season + 1))} type="button">S{Math.min(74, selectedSeason + 1)} →</button>
           </div>
         </div>
 

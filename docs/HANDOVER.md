@@ -24,7 +24,7 @@ Suggested first instruction in a new chat:
 - Live reader: `https://khoryik96-creator.github.io/Sera/`
 - Default branch: `main`
 - App: React 19 + TypeScript + Vite
-- Story size: 64 seasons / 633 episodes / 13 story arcs
+- Story size: 74 seasons / 733 chapters / 14 story arcs
 - Primary runtime entry: `index.html`
 - Historical-link compatibility alias: `react-preview.html`
 - The pre-React `legacy.html` reader has been retired (removed in PR #86); React is the sole reader.
@@ -167,7 +167,7 @@ It includes:
 - current/furthest reading position
 - reading streak / active days
 - recent activity views
-- all 13 arc progress states
+- all 14 arc progress states
 - in-progress seasons
 - Reader Library footprint
 - Reading Journey visit-based activity when Journey data exists
@@ -299,7 +299,7 @@ scripts/check-performance-budget.mjs
 scripts/validate-assets.mjs
 ```
 
-`prepare-data.mjs` generates core lore, 64 independently loadable season payloads and lazy search assets.
+`prepare-data.mjs` generates core lore, 74 independently loadable season payloads and lazy search assets.
 
 ---
 

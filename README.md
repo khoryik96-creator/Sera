@@ -5,7 +5,7 @@
 **➡️ [https://khoryik96-creator.github.io/Sera/](https://khoryik96-creator.github.io/Sera/)**
 
 Interactive browser for *The Quiet Regular* lore: characters, martial arts,
-rankings, legends, chronology and all 64 seasons / 633 short-novel episodes.
+rankings, legends, chronology and all 74 seasons / 733 story chapters.
 
 The primary reader is a **React 19 + TypeScript + Vite** application with
 mobile-first navigation, route-level code splitting, lazy season/search data,
@@ -68,7 +68,7 @@ src/
   assets/                        portrait assets
   main.ts + legacy renderers     retained only for legacy.html rollback
 scripts/
-  prepare-data.mjs               core + 64 season + search-index generation
+  prepare-data.mjs               core + 74 season + search-index generation
   check-performance-budget.mjs   production bundle/data/route budget guard
   validate-assets.mjs            portrait naming/dimension validation
 e2e/
@@ -87,11 +87,11 @@ public/
 
 ## Episode archive and Reader UX v3
 
-The production reader does not render all 633 episodes on startup. Core lore is
+The production reader does not render all 733 chapters on startup. Core lore is
 loaded first and each season is an independently loadable payload through
 `seasonStore.ts`.
 
-The archive is organized as **13 story arcs / 64 seasons**. Opening an episode
+The archive is organized as **14 story arcs / 74 seasons**. Opening a chapter
 records device-local reading progress. The same progress model drives Home,
 Reading Insights, the archive and focused reader, including:
 
@@ -141,7 +141,7 @@ The dashboard provides:
 - current reading streak and active days
 - recent seven-day activity and a 14-day activity view
 - furthest opened episode
-- progress across all 13 story arcs
+- progress across all 14 story arcs
 - in-progress seasons with direct continuation links
 - Reader Library footprint for bookmarks, recent episodes, notes and passages
 
@@ -170,7 +170,7 @@ sources rather than maintaining a second lore database. Profiles expose:
 - related legends and the profile's existing legend text
 - season footprint from the canonical season-cast index
 - a user-triggered lazy appearance scan that turns relevant seasons into direct
-  episode links without loading all 633 episode bodies on profile open
+  episode links without loading all 733 chapter bodies on profile open
 - a compact long-profile navigator on mobile and desktop
 
 Portrait files themselves are not modified by character/profile refactors.
@@ -289,7 +289,7 @@ validation and the production dependency audit.
 
 The browser/unit suite covers, among other things:
 
-- all 64 seasons / 633 episodes and the 13-arc archive
+- all 74 seasons / 733 chapters and the 14-arc archive
 - Continue Reading, reading progress, Next Unread and Back to Season
 - persistent typography/reading-width preferences
 - Reader Library history, notes, saved passages and backup validation
