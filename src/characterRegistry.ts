@@ -64,7 +64,6 @@ export const characterRegistry: CharacterRegistryEntry[] = [
   { key: 'zhao_renkai', displayName: 'Zhao Renkai', colorKey: 'zhao_renkai', aliases: ['Zhao Renkai'], speakerKeys: ['zhao_renkai'] },
   { key: 'mu', displayName: 'Mu Gyeong', colorKey: 'mu', aliases: ['Mu Gyeong'], speakerKeys: ['mu'] },
   { key: 'seo', displayName: 'Seo Mujin', colorKey: 'seo', aliases: ['Seo Mujin'], speakerKeys: ['seo'] },
-  { key: 'tae', displayName: 'Tae Muyeon', colorKey: 'tae', aliases: ['Tae Muyeon'], speakerKeys: ['tae'] },
   { key: 'gu', displayName: 'Gu Xian', colorKey: 'gu', aliases: ['Gu Xian'], speakerKeys: ['gu'] },
   { key: 'ren', displayName: 'Ren Qiao', colorKey: 'ren', aliases: ['Ren Qiao'], speakerKeys: ['ren'] },
   { key: 'qiao', displayName: 'Qiao Ren', colorKey: 'qiao', aliases: ['Qiao Ren'], speakerKeys: ['qiao'] },
