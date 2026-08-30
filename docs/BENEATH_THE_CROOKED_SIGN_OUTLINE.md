@@ -4,7 +4,7 @@
 >
 > This outline derives from `docs/STORY_SKELETON_LOCK.md`. If the two documents ever conflict, the locked skeleton remains authoritative until the user explicitly approves a revision.
 >
-> The user opened story composition on 2026-08-30. All ten outline seasons are represented by first-draft reader Seasons 65–74. Chapters 1–2 retain their completed 4,500-word expansions. Chapters 3–30 have received restrained, scene-complete prose passes, while Chapters 31–100 remain first-draft foundations. The locked skeleton remains authoritative during expansion and revision.
+> The user opened story composition on 2026-08-30. All ten outline seasons are represented by first-draft reader Seasons 65–74. Chapters 1–2 retain their completed 4,500-word expansions. Chapters 3–40 have received restrained, scene-complete prose passes, while Chapters 41–100 remain first-draft foundations. The locked skeleton remains authoritative during expansion and revision.
 
 ## 1. Format Decision
 
