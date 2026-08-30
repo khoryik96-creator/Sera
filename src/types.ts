@@ -102,11 +102,6 @@ export interface SeasonCastEntry {
   description: string;
 }
 
-/** Persisted JSON compatibility rows. They are converted in normalizeDatabase(). */
-export type LegacyTopSkillRow = [string, string, string, string, string];
-export type LegacyRankRow = [string, string, string, string];
-export type LegacySeasonCastRow = [string, string, string];
-
 interface CoreFields {
   characters: Record<string, Character>;
   legends: Legend[];
@@ -115,22 +110,21 @@ interface CoreFields {
   seraTimeline: SeraTimelineEntry[];
   rhenSkills: Skill[];
   seraSkills: Skill[];
+  topSkills: Record<string, TopSkillEntry[]>;
+  ranks: RankEntry[];
+  seasonCast: Record<string, SeasonCastEntry[]>;
   canonRules?: CanonRule[];
 }
 
 /** Runtime core shape consumed by non-episode render code. */
-export interface Database extends CoreFields {
-  topSkills: Record<string, TopSkillEntry[]>;
-  ranks: RankEntry[];
-  seasonCast: Record<string, SeasonCastEntry[]>;
-}
+export type Database = CoreFields;
 
-/** Generated core.json shape before positional compatibility rows are normalized. */
-export interface RawCoreDatabase extends CoreFields {
-  topSkills: Record<string, LegacyTopSkillRow[]>;
-  ranks: LegacyRankRow[];
-  seasonCast: Record<string, LegacySeasonCastRow[]>;
-}
+/**
+ * Generated core.json shape. Rows are stored as named objects in src/data.json,
+ * so this is structurally identical to {@link Database}; the alias is kept for
+ * call sites that describe data loaded from disk before it is adopted as DB.
+ */
+export type RawCoreDatabase = Database;
 
 /** Canonical authoring shape of src/data.json. */
 export interface RawDatabase extends RawCoreDatabase {

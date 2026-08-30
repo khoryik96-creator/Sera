@@ -4,32 +4,17 @@ import { colorKeyMap } from './characterRegistry';
 /** Stable normalized core lore. Episode prose is loaded separately per season. */
 export let DB: Database;
 
-function isRawDatabase(data: Database | RawCoreDatabase): data is RawCoreDatabase {
-  const firstRank = data.ranks[0] as unknown;
-  return Array.isArray(firstRank);
-}
-
-/** Convert persisted compact rows into named runtime objects. */
+/**
+ * Adopt loaded core lore as the runtime Database. Rows are stored as named
+ * objects in src/data.json, so this is an identity bridge; it remains the
+ * single entry point the app and tests call when taking on freshly loaded data.
+ */
 export function normalizeDatabase(raw: RawCoreDatabase): Database {
-  const topSkills = Object.fromEntries(
-    Object.entries(raw.topSkills).map(([key, rows]) => [
-      key,
-      rows.map(([name, category, signature, rating, description]) => ({ name, category, signature, rating, description })),
-    ]),
-  );
-  const ranks = raw.ranks.map(([rank, name, className, description]) => ({ rank, name, className, description }));
-  const seasonCast = Object.fromEntries(
-    Object.entries(raw.seasonCast).map(([season, rows]) => [
-      season,
-      rows.map(([name, role, description]) => ({ name, role, description })),
-    ]),
-  );
-
-  return { ...raw, topSkills, ranks, seasonCast } as Database;
+  return raw;
 }
 
-export function setDB(data: Database | RawCoreDatabase): void {
-  DB = isRawDatabase(data) ? normalizeDatabase(data) : data;
+export function setDB(data: RawCoreDatabase): void {
+  DB = normalizeDatabase(data);
 }
 
 async function fetchJsonWithTimeout(url: string, timeoutMs = 12000): Promise<RawCoreDatabase> {
