@@ -81,6 +81,14 @@ function rankBadgeMarkup(rank: string, name: string, season?: number): string {
   return `<span class="rank-badge rank-badge--${tone}">${label}</span>`;
 }
 
+// Some short aliases are reused by a later, unrelated character, so auto-tagging
+// them past a cut-off would mislabel that character. The deceased Former #8 Han
+// Myeong owns the bare alias "Han" through the epilogue (season 64); the Beneath
+// the Crooked Sign seasons (65+) introduce the living apprentice Han Mira, whose
+// surname must not inherit Han Myeong's badge. Keyed by alias, value is the last
+// season in which the alias still resolves to its registry character.
+const aliasLastSeason: Record<string, number> = { Han: 64 };
+
 function annotateNamesForSeason(text: string, season: number | undefined, interactiveNames: boolean): string {
   let out = String(text || '');
   const held: string[] = [];
@@ -92,6 +100,11 @@ function annotateNamesForSeason(text: string, season: number | undefined, intera
 
   const placeholders: string[] = [];
   novelNameMap.forEach(([name, key]) => {
+    // Skip an alias that has been retired for this season (a later character
+    // reuses the bare name), so the newer character is not stamped with the
+    // original holder's badge.
+    const lastSeason = aliasLastSeason[name];
+    if (lastSeason !== undefined && season !== undefined && season > lastSeason) return;
     // Consume any legacy inline numeric rank immediately before the name so the
     // reader always shows one canonical Lucy-style badge instead of "#1 - Name".
     const re = new RegExp('(?:(?:Former\\s+)?#\\d+\\s*(?:—|-)?\\s*)?\\b' + escRe(name) + '\\b', 'g');
