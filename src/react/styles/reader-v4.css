@@ -10,10 +10,8 @@ body.reader-focus-mode .sidebar,body.reader-focus-mode .topbar,body.reader-focus
 .reader-page--v4 .reader-header__copy>p{margin:0;font-size:.8rem;line-height:1.35;color:#7c848c}
 @media(max-width:800px){.reader-page--v4 .reader-header{padding:14px 15px;gap:12px}.reader-page--v4 .reader-header h2{font-size:clamp(1.25rem,5.2vw,1.6rem)}}
 
-/* Continuous in-season scrolling: chapter dividers and the append sentinel. */
+/* Continuous in-season scrolling: chapter dividers between appended chapters. */
 .reader-chapter + .reader-chapter{margin-top:8px}
 .reader-chapter__divider{margin:38px 0 22px;padding-top:26px;border-top:1px solid var(--border, #2a3038);text-align:center}
 .reader-chapter__divider span{display:block;font-size:.72rem;letter-spacing:.14em;text-transform:uppercase;color:var(--gold);font-weight:800}
 .reader-chapter__divider h3{margin:.35em 0 0;font-family:'Playfair Display',serif;font-size:clamp(1.4rem,3vw,2rem);line-height:1.2}
-.reader-chapter-sentinel{min-height:80px;display:grid;place-items:center;color:var(--muted, #8a9199);font-size:.8rem;opacity:.7}
-body.reader-focus-mode .reader-chapter-sentinel{color:transparent}

@@ -109,8 +109,8 @@ export function ReaderPage({ season, episode, onBack, onOpenChapter }: ReaderPag
 
   const surfaceRef = useRef<HTMLElement>(null);
   const proseRefs = useRef(new Map<number, HTMLDivElement>());
-  const sentinelRef = useRef<HTMLDivElement>(null);
   const renderedNumbersRef = useRef<number[]>([]);
+  const hasMoreRef = useRef(false);
 
   const startIndex = episode - 1;
   const renderedEpisodes = episodes
@@ -118,6 +118,7 @@ export function ReaderPage({ season, episode, onBack, onOpenChapter }: ReaderPag
     .map((ep, index) => ({ ep, number: startIndex + index + 1 }));
   renderedNumbersRef.current = renderedEpisodes.map((item) => item.number);
   const hasMoreInSeason = episodes.length > 0 && startIndex + visibleCount < episodes.length;
+  hasMoreRef.current = hasMoreInSeason;
 
   const entryChapterId = chapterId(season, episode);
 
@@ -174,21 +175,6 @@ export function ReaderPage({ season, episode, onBack, onOpenChapter }: ReaderPag
     return () => window.removeEventListener('keydown', onKeyDown);
   }, [focusMode]);
 
-  // Append the next chapter of the season as the sentinel below the last one
-  // enters view, until the season is fully mounted.
-  useEffect(() => {
-    if (loading || error || !hasMoreInSeason) return;
-    const node = sentinelRef.current;
-    if (!node) return;
-    const observer = new IntersectionObserver((entries) => {
-      if (entries.some((entry) => entry.isIntersecting)) {
-        setVisibleCount((count) => Math.min(count + 1, episodes.length - startIndex));
-      }
-    }, { rootMargin: '800px 0px' });
-    observer.observe(node);
-    return () => observer.disconnect();
-  }, [loading, error, hasMoreInSeason, episodes.length, startIndex, visibleCount]);
-
   // Track the chapter under the reading line and persist reading position for it.
   // Kept as one scroll listener that reads the live rendered-chapter list from a
   // ref, so appending chapters never re-subscribes or loses throttle state.
@@ -196,6 +182,12 @@ export function ReaderPage({ season, episode, onBack, onOpenChapter }: ReaderPag
     if (loading || error || episodes.length === 0) return;
     let frame = 0;
     let pageHiding = false;
+    // Append only after the reader has settled at the top of the entry chapter
+    // (armed) and then genuinely scrolled down (maxScrollY). Arming resets the
+    // downward baseline, so the leftover scroll position from the previous
+    // chapter can never eagerly append the next one on navigation.
+    let armed = window.scrollY < 60;
+    let maxScrollY = 0;
     let activeNum = activeEpisode;
     const persisted = new Map<number, { progress: number; at: number }>();
 
@@ -238,9 +230,18 @@ export function ReaderPage({ season, episode, onBack, onOpenChapter }: ReaderPag
         if (ep) markRead({ id: chapterId(season, num), season, title: ep.title });
       }
       persist(activeNum, false);
+      if (armed && maxScrollY > 100 && hasMoreRef.current) {
+        const doc = document.documentElement;
+        if (window.scrollY + window.innerHeight >= doc.scrollHeight - 600) {
+          setVisibleCount((count) => Math.min(count + 1, episodes.length - startIndex));
+        }
+      }
     };
 
     const onScroll = (): void => {
+      const y = window.scrollY;
+      if (y < 60) { armed = true; maxScrollY = y; }
+      else if (y > maxScrollY) maxScrollY = y;
       if (!frame && !pageHiding) frame = window.requestAnimationFrame(update);
     };
     const onPageHide = (): void => {
@@ -418,7 +419,7 @@ export function ReaderPage({ season, episode, onBack, onOpenChapter }: ReaderPag
             {renderedEpisodes.map(({ ep, number }, index) => (
               <div className="reader-chapter" data-episode={number} key={number}>
                 {index > 0 ? (
-                  <div className="reader-chapter__divider" role="separator" aria-label={`Chapter ${number}: ${ep.title}`}>
+                  <div className="reader-chapter__divider">
                     <span>Chapter {number} / {episodes.length}</span>
                     <h3>{ep.title}</h3>
                   </div>
@@ -426,7 +427,6 @@ export function ReaderPage({ season, episode, onBack, onOpenChapter }: ReaderPag
                 <div ref={(el) => registerProse(number, el)} className="reader-prose" dangerouslySetInnerHTML={{ __html: renderNovel(ep.text, season, { interactiveNames: true }) }} />
               </div>
             ))}
-            {hasMoreInSeason ? <div ref={sentinelRef} className="reader-chapter-sentinel" aria-hidden="true">Loading the next chapter…</div> : null}
           </article>
 
           <nav className="reader-nav reader-nav--v3" aria-label="Chapter navigation">
