@@ -1,13 +1,28 @@
 import { useState } from 'react';
 import { DB } from '../../../db';
+import type { Skill } from '../../../types';
 import { PageHeader } from '../../components/Shared';
 import { TechniqueCard } from './TechniqueCard';
+
+/** Tier ladder used to order techniques from lowest to highest. */
+function tierRank(skill: Skill): number {
+  const tier = (skill.tier || '').toLowerCase();
+  if (tier.includes('ultimate')) return 3;
+  if (tier.includes('supreme')) return 2;
+  if (tier.includes('transcended')) return 1;
+  return 0;
+}
 
 export function TechniquesPage() {
   const [owner, setOwner] = useState<'rhen' | 'sera'>('rhen');
   const [filter, setFilter] = useState('');
   const source = owner === 'rhen' ? DB.rhenSkills : DB.seraSkills;
-  const visible = source.filter((skill) => JSON.stringify(skill).toLowerCase().includes(filter.toLowerCase()));
+  const visible = source
+    .filter((skill) => JSON.stringify(skill).toLowerCase().includes(filter.toLowerCase()))
+    // Lowest tiers first (Named → Transcended → Supreme → Ultimate); stable within a tier.
+    .map((skill, index) => ({ skill, index }))
+    .sort((a, b) => tierRank(a.skill) - tierRank(b.skill) || a.index - b.index)
+    .map((entry) => entry.skill);
 
   return (
     <section>
