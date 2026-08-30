@@ -26,8 +26,8 @@ Suggested first instruction in a new chat:
 - App: React 19 + TypeScript + Vite
 - Story size: 64 seasons / 633 episodes / 13 story arcs
 - Primary runtime entry: `index.html`
-- Tested rollback: `legacy.html`
 - Historical-link compatibility alias: `react-preview.html`
+- The pre-React `legacy.html` reader has been retired (removed in PR #86); React is the sole reader.
 
 ## Latest audited feature baseline
 
@@ -232,10 +232,11 @@ src/react/
 Important shared/runtime files:
 
 ```text
-src/data.json                 canonical lore authoring data
-src/db.ts                     normalized core loader
+src/data.json                 canonical lore authoring data (pretty-printed; object rows; build-validated)
+src/db.ts                     core loader / identity bridge (rows stored in runtime shape)
+src/characterRegistry.ts      canonical identity/alias/rank + colour keys (single source of truth)
+src/react/shared/skillTier.ts power-tier label derivation (Characters + search)
 src/seasonStore.ts            lazy season loading/cache
-src/characterRegistry.ts      canonical identity/alias/rank story rules
 src/readingProgress.ts        opened-episode progress calculations
 src/readingInsights.ts        device-local Insights + Journey session/summary calculations
 src/readerLibrary.ts          legacy history + backup model
@@ -249,6 +250,36 @@ src/pwa.ts                    service-worker/update integration
 src/types.ts                  runtime data types
 src/images.ts                 portrait discovery
 ```
+
+### Data model & authoring
+
+- `src/data.json` is the single source of truth for all core lore. It is
+  **pretty-printed** (line-scoped diffs) and edited by hand and by the ChatGPT
+  story workflow. `topSkills`, `ranks` and `seasonCast` rows are **named
+  objects**, not positional arrays.
+- `npm run prepare:data` (`scripts/prepare-data.mjs`) splits it into
+  `src/generated/` (core + 64 season payloads + search index) and **validates
+  it at build time** — a missing character name/subtitle, a malformed skill/rank/
+  cast row, or a row left as a positional array fails the build with a precise
+  message.
+- `test/character-consistency.test.ts` enforces the character render contract:
+  every profiled character needs a `.character-<key>` colour class and a
+  registry entry; the colour-key legend and portraits must map to real
+  characters. Adding a character without its wiring fails CI.
+
+### How to add a character (technical checklist)
+
+1. Add the profile object to `characters` in `src/data.json` (name + subtitle
+   are required; other prose fields are optional and render as "Not recorded.").
+2. Add a `characterRegistry.ts` entry (`key`, `displayName`, `colorKey`,
+   `aliases`, `speakerKeys`) if the character speaks or needs alias colouring.
+3. Add a `--char-<colorKey>` variable and a `.character-<key>` class in
+   `src/react/styles/global.css` (the consistency test enforces both).
+4. Drop `src/assets/<key>.jpg` for the portrait — `images.ts` auto-discovers it
+   (gallery images: `<key>-extra-<n>.jpg`). No portrait ⇒ initial-letter
+   placeholder.
+5. Signature-art rosters (`topSkills`) are authored by the ChatGPT story
+   workflow, not here — see the story-ownership boundary in `CLAUDE.md`.
 
 Reader Library / Journey UI is primarily in:
 
