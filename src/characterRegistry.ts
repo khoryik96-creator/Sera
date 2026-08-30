@@ -21,6 +21,7 @@ export const characterRegistry: CharacterRegistryEntry[] = [
   { key: 'lei', displayName: 'Lei Zhen', colorKey: 'lei', aliases: ['Lei Zhen', 'Lei'], speakerKeys: ['lei'], currentRank: '#4' },
   { key: 'rui', displayName: 'Shen Rui', colorKey: 'rui', aliases: ['Shen Rui', 'Rui'], speakerKeys: ['rui'], currentRank: '#5' },
   { key: 'ilyra', displayName: 'Ilyra Serath', colorKey: 'ilyra', aliases: ['Ilyra Serath', 'Ilyra'], speakerKeys: ['ilyra'], currentRank: '#6' },
+  { key: 'tae', displayName: 'Tae Muyeon', colorKey: 'tae', aliases: ['Tae Muyeon', 'Tae'], speakerKeys: ['tae'] },
   { key: 'mo', displayName: 'Mo Qingzhao', colorKey: 'mo', aliases: ['Mo Qingzhao', 'Mo'], speakerKeys: ['mo'], currentRank: '#7' },
   { key: 'arin', displayName: 'Arin Vale', colorKey: 'arin', aliases: ['Arin Vale', 'Arin'], speakerKeys: ['arin'], currentRank: '#8' },
   { key: 'luo', displayName: 'Luo Wen', colorKey: 'luo', aliases: ['Luo Wen', 'Luo'], speakerKeys: ['luo', 'wen'], currentRank: '#9' },
@@ -128,7 +129,7 @@ export function rankForStory(name: string, season?: number): string {
 }
 
 export const colorKeyItems: [string, string][] = [
-  ['rhen', 'Rhen'],
+  ['rhen', 'Rhen'], ['tae', 'Co-#1 Tae'],
   ['kael', '#1 Kael'], ['liang', '#2 Liang'], ['jin', '#3 Jin'], ['lei', '#4 Lei'], ['rui', '#5 Rui'],
   ['ilyra', '#6 Ilyra'], ['mo', '#7 Mo'], ['arin', '#8 Arin'], ['luo', '#9 Luo Wen'], ['yun', '#10 Yun'],
   ['sera', 'Former #6 Sera'], ['qin', 'Former #6 Qin'], ['han', 'Former #8 Han'],
