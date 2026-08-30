@@ -211,8 +211,8 @@ export function CharactersPage({ selectedKey, onOpenCharacter, onOpenChapter }: 
                   <article className="character-skill-card" key={`${skill.name}-${index}`}>
                     <span className="character-skill-card__index">{index === profileSkills.length - 1 ? 'Ω' : String(index + 1).padStart(2, '0')}</span>
                     <div className="character-skill-card__copy">
-                      <div><h4>{skill.name}</h4><span className="character-skill-card__rating">{skill.rating}</span></div>
-                      <div className="character-skill-card__meta"><span>{skill.category}</span>{skill.tier ? <span>{skill.tier}</span> : null}{skill.signature ? <span className="character-skill-card__signature">{skill.signature}</span> : null}</div>
+                      <div><h4>{skill.name}</h4><span className="character-skill-card__rank"><span className="character-skill-card__rating">{skill.rating}</span>{skill.tier ? <span className="character-skill-card__tier">{skill.tier}</span> : null}</span></div>
+                      <div className="character-skill-card__meta"><span>{skill.category}</span>{skill.signature ? <span className="character-skill-card__signature">{skill.signature}</span> : null}</div>
                       <p>{skill.description}</p>
                     </div>
                   </article>
