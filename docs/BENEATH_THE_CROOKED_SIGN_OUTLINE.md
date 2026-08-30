@@ -1,20 +1,22 @@
 # Beneath the Crooked Sign — Ten-Season Story Outline
 
-> **STATUS: STAGE 5 STORY COMPOSITION ACTIVE — COMPLETE FIRST DRAFT / LONG-FORM EXPANSION ACTIVE**
+> **STATUS: STAGE 5 STORY COMPOSITION ACTIVE — COMPLETE FIRST DRAFT / SELECTIVE PROSE EXPANSION ACTIVE**
 >
 > This outline derives from `docs/STORY_SKELETON_LOCK.md`. If the two documents ever conflict, the locked skeleton remains authoritative until the user explicitly approves a revision.
 >
-> The user opened story composition on 2026-08-30. All ten outline seasons are represented by first-draft reader Seasons 65–74. Chapters 1–2 have completed their first long-form expansion to the approved 4,500-word minimum; Chapters 3–100 remain first-draft foundations. The locked skeleton remains authoritative during expansion and revision.
+> The user opened story composition on 2026-08-30. All ten outline seasons are represented by first-draft reader Seasons 65–74. Chapters 1–2 retain their completed 4,500-word expansions. Chapters 3–10 have received a restrained prose pass, while Chapters 11–100 remain first-draft foundations. The locked skeleton remains authoritative during expansion and revision.
 
 ## 1. Format Decision
 
-**Ten seasons with ten long chapters each is sufficient.**
+**Ten seasons with ten chapters each is sufficient.**
 
 - Total: **10 seasons / 100 chapters**
 - Timeline: **two seasons per year across five years**
-- Normal chapter target: approximately **4,500–7,000 words**
-- Major confrontations and finales: approximately **7,000–10,000 words when needed**
-- A chapter should contain a complete dramatic movement, normally several connected scenes, rather than functioning as one short episode.
+- There is **no minimum word quota**. A chapter ends when its dramatic movement is complete.
+- Most chapters should naturally fall around **900–2,400 words**. A substantial emotional or action chapter may approach **2,800 words** when the material genuinely requires it.
+- Chapters 1–2 remain intentionally longer first-pass exceptions; their length is not the target for the remaining draft.
+- Expansion must add necessary dialogue, emotion, action clarity, consequence or transition. It must not add repeated thoughts, decorative filler or extra scenes solely to reach a number.
+- A chapter should contain one complete dramatic movement. It may contain several connected scenes, but it does not need multiple scenes when one focused scene carries the chapter.
 - Time does not advance evenly. Weeks or months may pass only after the characters have earned the relevant emotional and organizational change.
 - Every season must contain tea-house life, medicine, relationship development and consequences alongside its central conflict.
 

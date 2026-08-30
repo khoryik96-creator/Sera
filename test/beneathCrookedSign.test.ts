@@ -46,9 +46,12 @@ describe('Beneath the Crooked Sign complete first draft', () => {
     expect(raw.season74[9]?.text).toContain('He did not answer for her');
   });
 
-  it('keeps expanded chapters at long-form length without repeating long paragraphs', () => {
+  it('preserves the two existing long chapters without requiring later chapters to match them', () => {
     expect(raw.season65[0]?.text.trim().split(/\s+/)).toHaveLength(4500);
     expect(raw.season65[1]?.text.trim().split(/\s+/).length).toBeGreaterThanOrEqual(4500);
+
+    const selectivelyExpanded = raw.season65.slice(2);
+    expect(selectivelyExpanded.every((chapter) => chapter.text.trim().split(/\s+/).length < 2800)).toBe(true);
 
     const seen = new Map<string, string>();
     const duplicates: string[] = [];

@@ -2672,7 +2672,7 @@ These are intentionally blank until the user supplies more skeleton material:
 
 - season numbering and the 100-chapter structure are implemented as first-draft reader Seasons 65–74
 - individual chapter beats remain open to editorial revision without changing locked canon
-- long-chapter expansion remains pending
+- selective prose expansion remains pending for Chapters 11–100; Chapters 3–10 have received a restrained, scene-complete pass with no minimum word quota
 - the Isgard rescue, Duskvein confrontation and following macro arc remain locked
 
 Do not begin scenes, prose or runtime implementation automatically.
@@ -2680,6 +2680,13 @@ Do not begin scenes, prose or runtime implementation automatically.
 ---
 
 ## 8. Revision Log
+
+### 2026-08-30 — Scene-Complete Chapter Length Recalibrated
+
+- Kept the existing 4,500-word Chapter 1 and 4,514-word Chapter 2 unchanged as first-pass exceptions.
+- Expanded Chapters 3–10 only where their scenes needed more patient detail, apprentice decisions, coordinated emergency work, Qin Luo's treatment or household transition.
+- Established **no minimum word quota**. Most remaining chapters may land around 900–2,400 words, with approximately 2,800 reserved for material that genuinely requires it.
+- Prohibited filler, repeated reflection and unnecessary scenes added only to reach a word count.
 
 ### 2026-08-30 — Long-Form Expansion Begun Without Duplication
 
