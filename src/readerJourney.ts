@@ -34,7 +34,7 @@ export function validSeasonCompletionEntry(value: unknown): value is SeasonCompl
   const item = value as Partial<SeasonCompletionEntry>;
   return Number.isInteger(item.season)
     && Number(item.season) >= 1
-    && Number(item.season) <= 64
+    && Number(item.season) <= 74
     && validReaderTimestamp(item.completedAt);
 }
 

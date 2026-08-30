@@ -288,7 +288,7 @@ export function ReaderPage({ season, episode, onBack, onOpenChapter }: ReaderPag
 
   function goNext(): void {
     if (activeEpisode < episodes.length) { onOpenChapter(season, activeEpisode + 1); return; }
-    if (season < 64) onOpenChapter(season + 1, 1);
+    if (season < 74) onOpenChapter(season + 1, 1);
   }
 
   function resumeExactPosition(): void {
@@ -432,7 +432,7 @@ export function ReaderPage({ season, episode, onBack, onOpenChapter }: ReaderPag
           <nav className="reader-nav reader-nav--v3" aria-label="Chapter navigation">
             <button disabled={season === 1 && activeEpisode === 1} onClick={() => { void goPrevious(); }} type="button"><span>← Previous</span><strong>{activeEpisode > 1 ? `Ch ${activeEpisode - 1}` : season > 1 ? `S${season - 1} finale` : 'Start'}</strong></button>
             <button className="reader-nav__archive" onClick={onBack} type="button"><span>Season {season}</span><strong>Chapters</strong></button>
-            <button disabled={season === 64 && activeEpisode === episodes.length} onClick={goNext} type="button"><span>Next →</span><strong>{activeEpisode < episodes.length ? `Ch ${activeEpisode + 1}` : season < 64 ? `S${season + 1} · Ch 1` : 'End'}</strong></button>
+            <button disabled={season === 74 && activeEpisode === episodes.length} onClick={goNext} type="button"><span>Next →</span><strong>{activeEpisode < episodes.length ? `Ch ${activeEpisode + 1}` : season < 74 ? `S${season + 1} · Ch 1` : 'End'}</strong></button>
           </nav>
         </>
       ) : null}

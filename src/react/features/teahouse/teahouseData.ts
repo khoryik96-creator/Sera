@@ -2,9 +2,9 @@
 //
 // This is continuation / post-epilogue material sourced from the locked story
 // skeleton (docs/STORY_SKELETON_LOCK.md, sections 3 and 4). It is future state
-// relative to the seasons 1-64 story the reader still contains, so it is kept in
-// its own tab behind a spoiler notice rather than overwriting current canon on
-// the Characters / Arts pages. Only facts the skeleton states are included;
+// relative to the original seasons 1-64 story. Seasons 65-74 now dramatize the
+// first half of that development, while Seasons 70-74 remain planned. Only
+// facts the skeleton states are included;
 // undefined ability details are marked "TBD", story-locked techniques are marked
 // as such, and no new techniques or mechanics are invented here.
 
@@ -49,7 +49,7 @@ export const teahouseIdentity = {
 };
 
 export const spoilerNotice =
-  'Continuation spoilers. This tab covers the five-years-later "Beneath the Crooked Sign" state — future to the seasons 1–64 story on the Read tab. Skeleton planning only; scenes and prose are not written yet.';
+  'Continuation spoilers. This tab covers the five-years-later "Beneath the Crooked Sign" state. Seasons 65–74 now contain the complete first-draft prose for the five-year arc.';
 
 // The senior hierarchy — the "Orchid": Two Inner Petals, Three Sepals, Hidden Petal.
 export const orchidHierarchy: TeahouseMember[] = [

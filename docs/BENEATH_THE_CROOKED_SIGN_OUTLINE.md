@@ -1,20 +1,22 @@
 # Beneath the Crooked Sign — Ten-Season Story Outline
 
-> **STATUS: STAGE 4 STORY OUTLINE — NO PROSE COMPOSITION**
+> **STATUS: STAGE 5 STORY COMPOSITION ACTIVE — COMPLETE FIRST DRAFT / SELECTIVE PROSE EXPANSION ACTIVE**
 >
 > This outline derives from `docs/STORY_SKELETON_LOCK.md`. If the two documents ever conflict, the locked skeleton remains authoritative until the user explicitly approves a revision.
 >
-> Do not implement these chapters into runtime story data, character profiles, rankings, technique lists or reader-facing canon until the user opens story composition and approves the relevant reveal.
+> The user opened story composition on 2026-08-30. All ten outline seasons are represented by first-draft reader Seasons 65–74. Chapters 1–2 retain their completed 4,500-word expansions. Chapters 3–40 have received restrained, scene-complete prose passes, while Chapters 41–100 remain first-draft foundations. The locked skeleton remains authoritative during expansion and revision.
 
 ## 1. Format Decision
 
-**Ten seasons with ten long chapters each is sufficient.**
+**Ten seasons with ten chapters each is sufficient.**
 
 - Total: **10 seasons / 100 chapters**
 - Timeline: **two seasons per year across five years**
-- Normal chapter target: approximately **4,500–7,000 words**
-- Major confrontations and finales: approximately **7,000–10,000 words when needed**
-- A chapter should contain a complete dramatic movement, normally several connected scenes, rather than functioning as one short episode.
+- There is **no minimum word quota**. A chapter ends when its dramatic movement is complete.
+- Most chapters should naturally fall around **900–2,400 words**. A substantial emotional or action chapter may approach **2,800 words** when the material genuinely requires it.
+- Chapters 1–2 remain intentionally longer first-pass exceptions; their length is not the target for the remaining draft.
+- Expansion must add necessary dialogue, emotion, action clarity, consequence or transition. It must not add repeated thoughts, decorative filler or extra scenes solely to reach a number.
+- A chapter should contain one complete dramatic movement. It may contain several connected scenes, but it does not need multiple scenes when one focused scene carries the chapter.
 - Time does not advance evenly. Weeks or months may pass only after the characters have earned the relevant emotional and organizational change.
 - Every season must contain tea-house life, medicine, relationship development and consequences alongside its central conflict.
 
@@ -634,24 +636,24 @@ The conversation must preserve three limits:
 2. Sera is impressed and somewhat exasperated, not frightened of her husband.
 3. **Petals Beneath a Frozen Moon** remains absolutely story-locked; acknowledging it as the tenth skill cannot become a disguised Ultimate reveal or near-use.
 
-## 15. Remaining Gates Before Prose Composition
+## 15. Prose Gates — Resolution State
 
-The 100-chapter structure can be approved before these details are solved, but prose should not pass the relevant chapter until each gate is locked:
+All seven gates were resolved before the relevant first-draft chapter was integrated:
 
-1. **Before Chapter 17:** decide whether Peng Sui appears directly during the Red Willow confrontation or only escapes through aftermath evidence.
-2. **Before Chapter 54:** define enough of Tae's poison delivery to plant fair clues without identifying the poisoner prematurely.
-3. **Before Chapter 82:** name the five Sovereign seats/capitals only if the story needs to visit them directly.
-4. **Before Chapter 96:** define Jin's exact evidence for Isgard; his reason for taking the Five Dukes is already locked as their role as Wuyue's compact mobile second line.
-5. **Before Chapter 97:** lock why Lei Zhen and Shen Rui remain in Wuyue.
-6. **Before Chapter 98:** define at least Ilyra's senior Crownless Host commander and temporary chain of command after her departure.
-7. **Before Chapter 100:** lock Jin's signal method, exact wording and private route to Rhen and Sera.
+1. **Chapter 17:** Peng Sui escapes through aftermath evidence with partial records.
+2. **Chapter 54:** Tae receives a circulation-reactive poison through a forged challenge ritual, genuine transit seal and falsified courier route; the poisoner remains unknown.
+3. **Chapter 82:** the story uses the permanent regional names without inventing unnecessary capitals.
+4. **Chapter 96:** Jin finds a crewless northern warship carrying foreign materials, invasion surveys and a route cylinder proving a northern landmass.
+5. **Chapter 97:** Lei Zhen and Shen Rui remain as the Compact's western and southern rapid-response anchors so the expedition does not destabilize Wuyue.
+6. **Chapter 98:** **Han Seoryeong**, the Peak Marquis-class Senior Captain and First Mirror, assumes temporary Crownless Host command through its Shield Wing, Returning Wing and eight cohort captains.
+7. **Chapter 100:** Jin uses the one-use **Black-Wick Lantern** route established when Rhen and Sera retired; a matching porcelain tally authenticates a sealed message forwarded through an ordinary herb wholesaler.
 
 ## 16. Approval State
 
-- Ten-season format: **PROPOSED**
-- Ten chapters per season: **PROPOSED**
+- Ten-season format: **IMPLEMENTED IN FIRST DRAFT**
+- Ten chapters per season: **IMPLEMENTED IN FIRST DRAFT**
 - Longer chapter range: **PROPOSED**
-- Season-level titles and movements: **PROPOSED**
-- Individual chapter titles and beats: **PROPOSED**
-- Story prose: **NOT STARTED / LOCKED**
-- Runtime implementation: **NOT STARTED / LOCKED**
+- Season-level titles and movements: **IMPLEMENTED IN FIRST DRAFT**
+- Individual chapter titles and beats: **IMPLEMENTED IN FIRST DRAFT**
+- Story prose: **100-CHAPTER FIRST DRAFT COMPLETE; CHAPTERS 1–2 LONG-FORM EXPANDED; CHAPTERS 3–100 PENDING**
+- Runtime implementation: **READER SEASONS 65–74 INTEGRATED**

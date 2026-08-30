@@ -88,6 +88,12 @@ export const neutralSpeakerNames: Record<string, string> = {
   novice: 'Novice', girl: 'Girl', flowerseller: 'Flower Seller', covenant: 'Covenant Envoy',
   duchess: 'Duchess', soldier: 'Soldier', opponent: 'Opponent', captain: 'Captain',
   lieutenant: 'Lieutenant', attacker: 'Attacker', messenger: 'Messenger', grandmaster: 'Grandmaster',
+  mira: 'Han Mira', chen: 'Chen Wulian', dabin: 'Seo Dabin', lintao: 'Lin Tao',
+  rulan: 'Mei Rulan', mei: 'Mei Rulan', seongho: 'Gu Seongho', nari: 'Bai Nari', bai: 'Bai Nari', renshuo: 'Ren Shuo',
+  hwan: 'Yeo Hwan', lumei: 'Tang Lumei', jiangfen: 'Jiang Fen', minseok: 'Oh Minseok',
+  official: 'Provincial Official', guard: 'Provincial Guard', enforcer: 'Red Willow Enforcer', sectleader: 'Sect Leader',
+  witness: 'Witness', caowen: 'Cao Wen', physician: 'Physician Su', customer: 'Customer',
+  luweiran: 'Lu Weiran', seoryeong: 'Han Seoryeong',
 };
 
 export const colorKeyMap: Record<string, string> = Object.fromEntries([

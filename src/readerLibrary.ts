@@ -20,9 +20,9 @@ export const READ_EPISODES_KEY = 'tqr:readEpisodes:v1';
 export const READER_PREFS_KEY = 'tqr:react-reader-prefs-v2';
 
 const HISTORY_LIMIT = 50;
-const BOOKMARK_LIMIT = 633;
-const READ_EPISODE_LIMIT = 633;
-const NOTE_LIMIT = 633;
+const BOOKMARK_LIMIT = 733;
+const READ_EPISODE_LIMIT = 733;
+const NOTE_LIMIT = 733;
 const PASSAGE_LIMIT = 500;
 const POSITION_LIMIT = 160;
 

@@ -30,7 +30,7 @@ async function fetchJsonWithTimeout(url: string, timeoutMs = 12000): Promise<Raw
 }
 
 /**
- * Load only core lore at startup. The normal web build keeps all 64 season
+ * Load only core lore at startup. The normal web build keeps all 74 season
  * payloads out of this request; seasonStore.ts imports them on demand. The
  * single-file build still inlines generated core + season modules.
  */

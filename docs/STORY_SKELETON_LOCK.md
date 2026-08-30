@@ -38,11 +38,11 @@ The user is deliberately building the continuation as a **skeletal structure fir
 | 2 | Five-year world-state skeleton | ACTIVE — QUAINT TEAHOUSE AND FIVE SOVEREIGN ORDER LOCKED |
 | 3 | New arc / conflict skeleton | STARTED — SOUTHERN ISGARD FOUNDATION LOCKED |
 | 4 | Season/chapter outline | **ACTIVE — TEN-SEASON / 100-CHAPTER DRAFT CREATED** |
-| 5 | Story composition / prose | **LOCKED** |
+| 5 | Story composition / prose | **ACTIVE — COMPLETE FIRST DRAFT; LONG-FORM EXPANSION ACTIVE FROM CHAPTER 1** |
 
 ### Current Planning Boundary
 
-- Do not begin composing chapters or scenes.
+- Story composition is open for **Beneath the Crooked Sign**. Reader Seasons 65–74 contain the complete 100-chapter first draft. Chapters 1–2 now meet the approved 4,500-word long-chapter minimum; Chapters 3–100 remain pending expansion and editorial revision.
 - The user has explicitly opened limited Stage 2 planning for The Quaint Teahouse and limited Stage 3 planning for the new-continent cliffhanger and Southern Isgard foundation.
 - Do not expand Isgard beyond the approved Southern Warplain, clan-ranking culture and named southern clans.
 - The rest of Isgard, the Duskvein cohort's exact personnel and the Isgard arc's detailed structure remain unstarted.
@@ -51,9 +51,9 @@ The user is deliberately building the continuation as a **skeletal structure fir
 - When an ability detail is still undefined, mark it `TBD` rather than inventing mechanics.
 - New named techniques must not be invented unless the user asks for naming help or explicitly approves a proposed name.
 - The existing Murim/internal-energy setting remains in force. Descriptions such as "divine sense" describe an evolved perception effect, not western magic.
-- Stage 4 season/chapter outlining is now open only for **Beneath the Crooked Sign**; Stage 5 story composition remains locked until the user explicitly opens it.
+- Stage 4 season/chapter outlining remains open only for **Beneath the Crooked Sign**; the user explicitly opened Stage 5 story composition for all ten seasons on 2026-08-30.
 - The user has now opened Stage 4 outlining for **Beneath the Crooked Sign**. The working ten-season, 100-chapter draft is maintained in `docs/BENEATH_THE_CROOKED_SIGN_OUTLINE.md`.
-- Stage 5 prose composition remains locked.
+- Stage 5 prose composition is active only within the approved **Beneath the Crooked Sign** outline and skeleton boundaries.
 
 ---
 
@@ -72,7 +72,7 @@ The user is deliberately building the continuation as a **skeletal structure fir
 - Wuyue is divided into five great domains, each occupied and governed by one of the Five Sovereigns.
 - Rhen's identity as the **Petal Monarch** has moved beyond ordinary legend and become something closer to a myth.
 - The martial world may remember the title, stories, and impossible feats, but the exact five-year world reaction is still `TBD`.
-- The five-year domestic/guild development and its ending cliffhanger are locked skeleton material. A proposed ten-season, 100-chapter Stage 4 outline now exists in `docs/BENEATH_THE_CROOKED_SIGN_OUTLINE.md`; scenes and prose remain unstarted and locked.
+- The five-year domestic/guild development and its ending cliffhanger are locked skeleton material. Its ten-season, 100-chapter first draft now exists as reader Seasons 65–74 and remains subject to long-chapter expansion and editorial revision.
 
 ### Permanent Macro Arc Title
 
@@ -91,7 +91,7 @@ Do not refer to it in future planning as **The First Five Years Arc**, **The Fiv
 - New personnel must spend time living and working under the crooked sign before assuming senior authority.
 - The story must not jump directly from the Year One governor conflict to the completed Year Five organization.
 - Quiet domestic episodes, medicine, training, local patients and ordinary tea-house life are part of the arc's substance, not disposable filler.
-- The proposed season count and chapter allocation are maintained in `docs/BENEATH_THE_CROOKED_SIGN_OUTLINE.md`. Scene order and prose remain locked until the user explicitly opens story composition.
+- The season count and chapter allocation are maintained in `docs/BENEATH_THE_CROOKED_SIGN_OUTLINE.md`; the complete first draft is integrated and may now be expanded without changing locked canon.
 
 ---
 
@@ -2273,7 +2273,7 @@ Jin Seoryu discovers evidence of an unknown continent and travels there with all
 - #9 Luo Wen
 - #10 Yun Shizhen
 
-#4 Lei Zhen and #5 Shen Rui of the Five Sovereigns do not join the expedition. The reason remains `TBD`.
+#4 Lei Zhen and #5 Shen Rui of the Five Sovereigns do not join the expedition because the Wuyue Compact requires them to preserve the western and southern rapid-response anchors while Jin and all five Dukes leave. Moving them as well would destabilize regional-army deterrence, expose neutral routes and leave Wuyue unable to answer a second crisis.
 
 #### Expedition Disaster
 
@@ -2296,7 +2296,21 @@ The confirmed information in the signal is limited to:
 - enemy assessed beyond World #1
 - immediate extraction required
 
-The exact words, transmission method and reason Jin alone knows how to reach Rhen and Sera remain `TBD`.
+Jin uses the one-use **Black-Wick Lantern** route established when Rhen and Sera retired. He attaches the matching half of a broken porcelain tally to an unlit black-wicked paper lantern and sends one sealed message through a retired herb wholesaler who knows only an ordinary Second Spring delivery route. Jin alone holds the matching tally and the route reveals neither The Quaint Teahouse nor The Upper Room.
+
+The exact first-draft signal is limited to:
+
+> NEW NORTHERN CONTINENT CONFIRMED.
+>
+> ILYRA SERATH. MO QINGZHAO. ARIN VALE. LUO WEN. YUN SHIZHEN.
+>
+> ALL FIVE ALIVE. ALL FIVE CRITICALLY ENDANGERED.
+>
+> ENEMY FORCE ASSESSED BEYOND WORLD NUMBER ONE.
+>
+> IMMEDIATE EXTRACTION REQUIRED.
+>
+> REGIONAL ARMIES CANNOT MOVE WITHOUT EXPOSING WUYUE AND BEGINNING A CONTINENTAL WAR.
 
 The signal reaches The Quaint Teahouse immediately after Rhen and Sera's final quiet cup. This is the locked cliffhanger ending of the five-year development arc.
 
@@ -2639,7 +2653,7 @@ These are intentionally blank until the user supplies more skeleton material:
 ### Remaining World-State Planning
 
 - exact capitals, Sovereign seats and army headquarters inside the five named Wuyue regions
-- internal battalion structure and subordinate commanders of Ilyra's 8,000-person Crownless Host
+- names and personal arcs for the Crownless Host's Shield Wing, Returning Wing and eight cohort captains beneath Senior Captain Han Seoryeong
 - important generals, envoys and affiliated sect leaders beneath the Five Sovereigns
 - response of civil governments and foreign states to the Wuyue Compact
 - whether the Wuyue Compact and Five-Domain structure survive the Isgard revelation
@@ -2651,23 +2665,74 @@ These are intentionally blank until the user supplies more skeleton material:
 - exact identities, cultivation and internal hierarchy of Duskvein's hunting cohort
 - exact relationship between Isgard cultivation and the existing Sovereign and Paragon thresholds
 - the five trapped fighters' exact injuries, locations and captors
-- why Lei Zhen and Shen Rui did not join the expedition
-- Jin Seoryu's distress-signal method, exact wording and private history with the route to Rhen and Sera
 - The Quaint Teahouse's response plan and rescue participants
 - the permanent Isgard macro arc title
 
 ### Current Structural Status
 
-- season numbering and the 100-chapter structure are now **Stage 4 proposed material** in `docs/BENEATH_THE_CROOKED_SIGN_OUTLINE.md`
-- individual chapter beats remain proposed until the user approves them
-- scenes and prose remain **locked**
-- runtime implementation remains **locked**
+- season numbering and the 100-chapter structure are implemented as first-draft reader Seasons 65–74
+- individual chapter beats remain open to editorial revision without changing locked canon
+- selective prose expansion remains pending for Chapters 31–100; Chapters 3–30 have received restrained, scene-complete passes with no minimum word quota
+- the Isgard rescue, Duskvein confrontation and following macro arc remain locked
 
 Do not begin scenes, prose or runtime implementation automatically.
 
 ---
 
 ## 8. Revision Log
+
+### 2026-08-30 — Season Three Selective Prose Pass
+
+- Expanded Chapters 21–30 through concrete harvest allocation, rural-clinic opening problems, cache security, Qin Luo's route perception, Physician Su's evacuation and the intervention-doctrine debate.
+- Showed the clinic network becoming independent through distributed judgment rather than making Sera issue every order or Rhen solve every emergency.
+- Preserved the final-cup romance and the denial that anyone is building a sect without padding this transitional season; chapters range from 403 to 608 words.
+
+### 2026-08-30 — Season Two Selective Prose Pass
+
+- Expanded Chapters 11–20 only where the governor arc needed clearer patient consequences, apprentice protection training, evidence handling, witness safety, community testimony or political follow-through.
+- Preserved Sera's nonlethal leadership, Rhen's medical role, Qin Luo's recovering vibration awareness and the governor's status as a local corrupt actor rather than part of an invented larger conspiracy.
+- Kept each chapter focused on one dramatic movement; the resulting chapters range from 667 to 867 words rather than being padded toward a minimum.
+
+### 2026-08-30 — Scene-Complete Chapter Length Recalibrated
+
+- Kept the existing 4,500-word Chapter 1 and 4,514-word Chapter 2 unchanged as first-pass exceptions.
+- Expanded Chapters 3–10 only where their scenes needed more patient detail, apprentice decisions, coordinated emergency work, Qin Luo's treatment or household transition.
+- Established **no minimum word quota**. Most remaining chapters may land around 900–2,400 words, with approximately 2,800 reserved for material that genuinely requires it.
+- Prohibited filler, repeated reflection and unnecessary scenes added only to reach a word count.
+
+### 2026-08-30 — Long-Form Expansion Begun Without Duplication
+
+- Expanded Chapter 1, **The Sign Is Still Crooked**, to 4,500 words.
+- Expanded Chapter 2, **Soil Behind the Kitchen**, to 4,514 words.
+- Preserved the original chapter outcomes while adding tea-house opening work, local patients, Lanyun community texture, medicinal supply economics, farm failures and additional domestic romance.
+- Kept Rhen's power understated and unnamed, preserved the crooked-sign and shelf motifs, and avoided advancing any later reveal.
+- Audited all 100 continuation chapters for exact repeated long paragraphs and repeated sixteen-word sequences; no cross-chapter duplication was found.
+- Added regression coverage for the long-chapter minimum and repeated-paragraph prevention.
+
+### 2026-08-30 — Complete Ten-Season First Draft Integrated
+
+The user explicitly opened composition for the remaining five seasons of **Beneath the Crooked Sign**.
+
+- Added outline Chapters 51–100 as reader Seasons 70–74, completing the ten-season first draft.
+- Constructed The Upper Room, recruited Tae Muyeon and Huo Wujin through sustained probation and formalized all Three Sepals.
+- Formed the two-hundred-person Quiet Hand and demonstrated its nonlethal strength through the forty-person flood operation.
+- Completed the Wuyue Five-Domain development, Crownless Host command continuity and all senior five-year power demonstrations without turning the season into a profile dump.
+- Explained Rhen and Sera's permanent ageless meridian reconstruction and included Sera's intimate ten-skill husband briefing without activating the Ultimate.
+- Brought Sera near Paragon without forming Orchid Dominion, then completed her voluntary withdrawal from Frozen Petals Garden while preserving her cultivation and agelessness.
+- Locked Jin's northern evidence, the Compact reason Lei Zhen and Shen Rui remain in Wuyue, Han Seoryeong's acting command and the Black-Wick Lantern signal route.
+- Ended on Jin's distress signal before Sera answers, leaving the rescue, Duskvein confrontation and Isgard arc unstarted.
+- Marked all fifty new chapters as first drafts pending long-chapter expansion and editorial revision.
+
+### 2026-08-30 — Stage 5 Opened: First Five Seasons Drafted
+
+The user explicitly opened story composition for the first five seasons of **Beneath the Crooked Sign**.
+
+- Added outline Chapters 1–50 as reader Seasons 65–69.
+- Preserved Season 64 as a deliberate two-year glimpse; the continuation arc explicitly returns to Year One to dramatize how that future was earned.
+- Covered the medicinal farm, twelve apprentices, Qin Luo's healing, Governor Duan's fall, the clinic network, formation of The Quaint Teahouse, Lu Weiran's recruitment and discovery of The Upper Room.
+- Kept Rhen outside command, Sera as leader, Qin's congenital blindness unchanged, and the Ultimate, Orchid Dominion and Isgard confrontation unrevealed.
+- Marked these seasons as **first drafts** pending later expansion and editorial revision toward the approved long-chapter targets.
+- Seasons 6–10 remain outline-only.
 
 ### 2026-08-29 — Permanent Ageless Meridian Reconstruction
 

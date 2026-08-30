@@ -179,7 +179,7 @@ export function BookmarksPage({ initialTab = 'saved', onOpenChapter }: Bookmarks
       <div className="library-summary" aria-label="Reader library summary">
         <button className="library-summary__continue" disabled={!lastRead} onClick={() => lastRead && onOpenChapter(lastRead.season, lastEpisode)} type="button"><span>{lastRead ? 'Continue reading' : 'Ready to begin'}</span><strong>{lastRead ? `S${lastRead.season} · E${lastEpisode}` : 'Season 1 · Episode 1'}</strong><small>{lastRead?.title || 'Open the story archive to begin.'}</small><b>→</b></button>
         <article><span>Story progress</span><strong>{overall.percent}%</strong><small>{overall.read} / {overall.total} episodes opened</small></article>
-        <article><span>Completed seasons</span><strong>{completedSeasons}</strong><small>of 64 seasons</small></article>
+        <article><span>Completed seasons</span><strong>{completedSeasons}</strong><small>of 74 seasons</small></article>
         <article><span>Saved / journey</span><strong>{bookmarks.length} / {journey.visits.length}</strong><small>bookmarks · visits tracked</small></article>
       </div>
 
