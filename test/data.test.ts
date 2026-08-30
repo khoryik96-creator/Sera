@@ -1,6 +1,5 @@
 import { describe, it, expect } from 'vitest';
 import rawData from '../src/data.json';
-import { charOrder } from '../src/characters';
 import { characterImageMap } from '../src/images';
 import { normalizeDatabase } from '../src/db';
 import type { RawDatabase } from '../src/types';
@@ -17,8 +16,8 @@ describe('data integrity', () => {
     }
   });
 
-  it('every character in charOrder exists in the database', () => {
-    for (const key of charOrder) expect(data.characters[key], key).toBeDefined();
+  it('every character record has a name', () => {
+    for (const [key, character] of Object.entries(data.characters)) expect(character.name, key).toBeTruthy();
   });
 
   it('every portrait key maps to a real character', () => {
