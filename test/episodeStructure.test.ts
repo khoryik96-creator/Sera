@@ -5,13 +5,13 @@ const seasons = EPISODE_ARCS.flatMap((arc) => arc.seasons);
 
 describe('episode archive metadata', () => {
   it('declares every season exactly once', () => {
-    expect(seasons.map((s) => s.season)).toEqual(Array.from({ length: 69 }, (_, i) => i + 1));
+    expect(seasons.map((s) => s.season)).toEqual(Array.from({ length: 74 }, (_, i) => i + 1));
   });
 
   it('preserves the Season 1 lock, Season 64 epilogue and continuation heading', () => {
     expect(seasons.find((s) => s.season === 1)?.badge).toMatch(/LOCKED/);
     expect(seasons.find((s) => s.season === 64)?.title).toMatch(/Epilogue: Two Years Later/);
-    expect(seasons.find((s) => s.season === 69)?.title).toMatch(/Man Who Corrected the Roads/);
+    expect(seasons.find((s) => s.season === 74)?.title).toMatch(/Last Cup Before North/);
   });
 
   it('preserves arc grouping instead of flattening the story', () => {

@@ -14,7 +14,7 @@ describe('Characters v2 insights', () => {
     expect(steps.map((step) => [step.rank, step.fromSeason, step.toSeason])).toEqual([
       ['#7', 1, 22],
       ['#6', 23, 43],
-      ['Former #6', 44, 69],
+      ['Former #6', 44, 74],
     ]);
     const last = steps[steps.length - 1];
     expect(last?.status).toBe('former');
@@ -23,7 +23,7 @@ describe('Characters v2 insights', () => {
 
   it('keeps Rhen explicitly unranked across the story', () => {
     expect(rankJourney('Rhen')).toEqual([
-      expect.objectContaining({ rank: 'Unranked', status: 'unranked', fromSeason: 1, toSeason: 69, current: true }),
+      expect.objectContaining({ rank: 'Unranked', status: 'unranked', fromSeason: 1, toSeason: 74, current: true }),
     ]);
   });
 
@@ -36,7 +36,7 @@ describe('Characters v2 insights', () => {
   it('derives story footprint from the existing season cast index', () => {
     const seasons = characterAppearanceSeasons('sera', 'Sera');
     expect(seasons.length).toBeGreaterThan(0);
-    expect(seasons.every((season) => season >= 1 && season <= 69)).toBe(true);
+    expect(seasons.every((season) => season >= 1 && season <= 74)).toBe(true);
   });
 
   it('derives relationship links only from existing character records', () => {

@@ -94,7 +94,7 @@ export const neutralSpeakerNames: Record<string, string> = {
   hwan: 'Yeo Hwan', lumei: 'Tang Lumei', jiangfen: 'Jiang Fen', minseok: 'Oh Minseok',
   official: 'Provincial Official', guard: 'Provincial Guard', enforcer: 'Red Willow Enforcer',
   witness: 'Witness', caowen: 'Cao Wen', physician: 'Physician Su', customer: 'Customer',
-  luweiran: 'Lu Weiran',
+  luweiran: 'Lu Weiran', seoryeong: 'Han Seoryeong',
 };
 
 export const colorKeyMap: Record<string, string> = Object.fromEntries([

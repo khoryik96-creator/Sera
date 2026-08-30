@@ -31,7 +31,7 @@ export function OverviewPage({ onOpenSection, onOpenChapter, onOpenCharacter }: 
     <section className="overview-dashboard">
       <div className="overview-hero">
         <div className="overview-hero__main">
-          <div className="overview-hero__meta"><span>THE QUIET REGULAR</span><span>{seasons} seasons</span><span>683 chapters</span></div>
+          <div className="overview-hero__meta"><span>THE QUIET REGULAR</span><span>{seasons} seasons</span><span>733 chapters</span></div>
           <p className="eyebrow">Second Spring, complete lore repository</p>
           <h2>A quieter way to return<br />to Sera and Rhen.</h2>
           <p className="overview-hero__lede">Read the full story, move through the martial-world archive, and keep characters, rankings, legends, techniques, and canon within reach without leaving the reader.</p>
@@ -114,7 +114,7 @@ export function OverviewPage({ onOpenSection, onOpenChapter, onOpenCharacter }: 
             <button onClick={() => onOpenSection('legends')} type="button"><span>World memory</span><strong>Legends</strong><small>Feats that shaped reputations.</small><b>→</b></button>
             <button onClick={() => onOpenSection('canon')} type="button"><span>Source of truth</span><strong>Canon</strong><small>Rules that keep the world consistent.</small><b>→</b></button>
             <button onClick={() => onOpenSection('bookmarks')} type="button"><span>Your reader</span><strong>Bookmarks</strong><small>{bookmarks.length ? `${bookmarks.length} saved episode${bookmarks.length === 1 ? '' : 's'}.` : 'Save episodes for later.'}</small><b>→</b></button>
-            <button onClick={() => onOpenSection('chapters')} type="button"><span>Complete story</span><strong>14 Story Arcs</strong><small>{storyProgress.percent ? `${storyProgress.percent}% opened across ${completedSeasons} completed season${completedSeasons === 1 ? '' : 's'}.` : 'Jump directly into all 69 seasons.'}</small><b>→</b></button>
+            <button onClick={() => onOpenSection('chapters')} type="button"><span>Complete story</span><strong>14 Story Arcs</strong><small>{storyProgress.percent ? `${storyProgress.percent}% opened across ${completedSeasons} completed season${completedSeasons === 1 ? '' : 's'}.` : 'Jump directly into all 74 seasons.'}</small><b>→</b></button>
           </div>
         </section>
       </div>

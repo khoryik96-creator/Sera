@@ -162,14 +162,19 @@ export const EPISODE_ARCS: EpisodeArcMeta[] = [
   },
   {
     title: 'Continuation Chronicle — Beneath the Crooked Sign',
-    badge: 'Seasons 65–69 · First half drafted',
-    description: 'After Season 64 glimpsed two peaceful years ahead, this continuation returns deliberately to Year One and dramatizes how Second Spring, The Quaint Teahouse and The Upper Room were built. These first five seasons cover Chapters 1–50 of the ten-season macro arc.',
+    badge: 'Seasons 65–74 · Complete first draft',
+    description: 'After Season 64 glimpsed two peaceful years ahead, this continuation returns deliberately to Year One and dramatizes how Second Spring, The Quaint Teahouse, The Upper Room and the Quiet Hand were built before Jin’s northern distress signal.',
     seasons: [
       season(65, 'A Garden Behind the Teahouse', '10 CHAPTERS · FIRST DRAFT'),
       season(66, "The Governor's Medicine", '10 CHAPTERS · FIRST DRAFT'),
       season(67, 'Roads Between Clinics', '10 CHAPTERS · FIRST DRAFT'),
       season(68, 'The Quaint Teahouse', '10 CHAPTERS · FIRST DRAFT'),
       season(69, 'The Man Who Corrected the Roads', '10 CHAPTERS · FIRST DRAFT'),
+      season(70, 'Three Sepals Beneath One Roof', '10 CHAPTERS · FIRST DRAFT'),
+      season(71, 'The Quiet Hand', '10 CHAPTERS · FIRST DRAFT'),
+      season(72, 'Forty Hands Against the Flood', '10 CHAPTERS · FIRST DRAFT'),
+      season(73, 'Sovereigns Beneath Five Peaks', '10 CHAPTERS · FIRST DRAFT'),
+      season(74, 'The Last Cup Before North', '10 CHAPTERS · FIRST DRAFT'),
     ],
   },
 ];

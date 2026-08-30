@@ -24,7 +24,7 @@ Suggested first instruction in a new chat:
 - Live reader: `https://khoryik96-creator.github.io/Sera/`
 - Default branch: `main`
 - App: React 19 + TypeScript + Vite
-- Story size: 69 seasons / 683 chapters / 14 story arcs
+- Story size: 74 seasons / 733 chapters / 14 story arcs
 - Primary runtime entry: `index.html`
 - Tested rollback: `legacy.html`
 - Historical-link compatibility alias: `react-preview.html`
@@ -268,7 +268,7 @@ scripts/check-performance-budget.mjs
 scripts/validate-assets.mjs
 ```
 
-`prepare-data.mjs` generates core lore, 69 independently loadable season payloads and lazy search assets.
+`prepare-data.mjs` generates core lore, 74 independently loadable season payloads and lazy search assets.
 
 ---
 

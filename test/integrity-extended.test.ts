@@ -8,7 +8,7 @@ const raw = rawData as unknown as RawDatabase;
 const data = normalizeDatabase(raw);
 
 function allEpisodes() {
-  return Array.from({ length: 69 }, (_, index) => index + 1).flatMap((season) =>
+  return Array.from({ length: 74 }, (_, index) => index + 1).flatMap((season) =>
     raw[`season${season}` as `season${number}`].map((episode, index) => ({ season, index, episode })),
   );
 }
@@ -57,8 +57,8 @@ describe('extended canon integrity', () => {
     expect([...unknown]).toEqual([]);
   });
 
-  it('contains every season from 1 through 69 while preserving the Season 64 epilogue', () => {
-    for (let season = 1; season <= 69; season++) {
+  it('contains every season from 1 through 74 while preserving the Season 64 epilogue', () => {
+    for (let season = 1; season <= 74; season++) {
       expect(raw[`season${season}` as `season${number}`].length, `season${season}`).toBeGreaterThan(0);
     }
     expect(raw.season64[0]?.title.toLowerCase()).toMatch(/second spring|two years|epilogue/);

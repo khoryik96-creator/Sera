@@ -20,10 +20,10 @@ for (const [key, value] of Object.entries(source)) {
 }
 
 seasons.sort((a, b) => a.season - b.season);
-const expected = Array.from({ length: 69 }, (_, index) => index + 1);
+const expected = Array.from({ length: 74 }, (_, index) => index + 1);
 const found = seasons.map((item) => item.season);
 if (JSON.stringify(found) !== JSON.stringify(expected)) {
-  throw new Error(`Expected seasons 1-69, found: ${found.join(', ')}`);
+  throw new Error(`Expected seasons 1-74, found: ${found.join(', ')}`);
 }
 
 function plainEpisodeText(value) {

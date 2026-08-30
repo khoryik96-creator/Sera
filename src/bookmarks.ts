@@ -9,7 +9,7 @@ import { episodeCountForSeason } from './readingProgress';
 const BM_KEY = 'tqr:bookmarks';
 const LAST_KEY = 'tqr:lastRead';
 const EPISODE_ID = /^ep-s(\d+)-e(\d+)$/;
-const BOOKMARK_LIMIT = 683;
+const BOOKMARK_LIMIT = 733;
 const MAX_TITLE_LENGTH = 500;
 
 export interface Bookmark {
