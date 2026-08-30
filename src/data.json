@@ -1324,10 +1324,10 @@
       },
       {
         "name": "Assimilated Heaven-Burial Hand",
-        "category": "Stolen / Rewritten Principle",
-        "signature": "A rival’s art, remade in the Wheels",
+        "category": "Restricted Legacy Principle",
+        "signature": "A borrowed art he has outgrown",
         "rating": "★★★★★",
-        "description": "Jiang Taixuan’s contact-force principle, taken through Gu Xian’s transplant art and rewritten through Huo’s Wheels."
+        "description": "Jiang Taixuan’s contact-force principle, once taken through Gu Xian’s transplant art and rewritten through Huo’s Wheels — now a restricted legacy crutch rather than one of his defining techniques."
       },
       {
         "name": "Wheel Nine: Self-Authored Heaven",
@@ -1341,7 +1341,21 @@
         "category": "Evolved Cultivation System",
         "signature": "Not nine techniques — nine operating systems",
         "rating": "TRANSCENDED",
-        "description": "His evolved state: each Wheel carries an independent principle, synchronized into one coordinated cultivation body."
+        "description": "His Kael/Rhen-arc form: each Wheel carries an independent principle, synchronized into one coordinated cultivation body."
+      },
+      {
+        "name": "Kingdom Without Ground: No Earth Bears My Debt",
+        "category": "Supreme Defence / Counter",
+        "signature": "The world no longer breaks in his place",
+        "rating": "SUPREME",
+        "description": "Huo severs his connection to external terrain and instead distributes incoming force across all Nine Wheels — an internal false ground that contains a blow before dissipating it harmlessly skyward or returning it through one chosen counter. Requires all nine Wheels stable, and excess stored force can strain his repaired meridians."
+      },
+      {
+        "name": "Nine Heavens Return to the Empty Throne",
+        "category": "Supreme Cultivation System",
+        "signature": "Nine answers. One sovereign will.",
+        "rating": "SUPREME",
+        "description": "The completed evolution of Nine Heavens Beneath the Empty Throne: each Wheel keeps an independent principle, but all nine now exchange roles mid-attack — defence becomes counterforce, stored pressure becomes movement, damaged circuits reroute through the rest. Rebuilt entirely through Huo’s own cultivation, no longer leaning on Jiang Taixuan’s stolen architecture. He remains a High Sovereign — able to challenge Kael or Tae, still far beneath Rhen."
       }
     ]
   },
