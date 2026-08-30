@@ -20,7 +20,7 @@ export function TechniqueCard({ skill }: { skill: Skill }) {
   const tier = tierClass(skill);
   return (
     <details className={`technique-card technique-card--${tier}`}>
-      <summary><span className="technique-card__mark">{tierMark(skill)}</span><div><h3>{skill.name}</h3><div className="tag-row"><span>{skill.category}</span>{skill.tier ? <span>{skill.tier}</span> : null}{skill.reveal ? <span>{skill.reveal}</span> : null}</div></div><strong>{skill.rating || '—'}</strong></summary>
+      <summary><span className="technique-card__mark">{tierMark(skill)}</span><div><h3>{skill.name}</h3><div className="tag-row"><span>{skill.category}</span>{skill.reveal ? <span>{skill.reveal}</span> : null}</div></div><span className="technique-card__rank"><span className="technique-card__stars">{skill.rating || '—'}</span>{skill.tier ? <span className="technique-card__tier">{skill.tier}</span> : null}</span></summary>
       <div className="technique-card__body">
         <p className="signature">{skill.signature || '—'}</p>
         {skill.short ? <p>{skill.short}</p> : null}

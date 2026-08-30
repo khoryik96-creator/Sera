@@ -7,6 +7,7 @@ import { RankBadge } from '../../components/Shared';
 import type { AppSection } from '../../app/navigation';
 import { cleanCharacterName, parseRankBadge, rankLabel, rankStatus, rankStatusForEntry } from '../../shared/rankState';
 import type { RankStatus } from '../../shared/rankState';
+import { powerTier } from '../../shared/skillTier';
 import { loadEpisodeSearchIndex } from './searchIndex';
 import type { EpisodeSearchRecord } from './searchIndex';
 
@@ -115,12 +116,28 @@ export function SearchPalette({ open, query, onClose, onOpenSection, onOpenChara
       found.push({ id: episode.id, group: 'Chapters', kind: `S${episode.season} · Ch ${episode.episode}`, label: episode.title, meta: clip(episode.excerpt), score, open: () => onOpenChapter(episode.season, episode.episode) });
     });
 
+    // Rhen and Sera have full dedicated technique pages; their arts open there.
     [...DB.rhenSkills.map((item) => ({ ...item, owner: 'Rhen' })), ...DB.seraSkills.map((item) => ({ ...item, owner: 'Sera' }))].forEach((item) => {
       const searchable = [item.owner, item.name, item.tier, item.category, item.signature, item.rating, item.short, item.mechanics, item.visual, item.lore, item.reveal].filter(Boolean).join(' ');
       const score = scoreMatch(searchable, needle);
       if (!score) return;
       const meta = item.short || item.mechanics || item.lore || item.visual || `${item.tier || 'Technique'} · ${item.category}`;
       found.push({ id: `technique-${item.owner}-${item.name}`, group: 'Techniques', kind: `${item.owner} · ${item.tier || 'Technique'}`, label: item.name, meta: clip(meta), score, open: () => onOpenSection('techniques') });
+    });
+
+    // Every other character's signature arts — searchable too, opening the
+    // owner's profile where their skill cards render.
+    Object.entries(DB.topSkills).forEach(([key, skills]) => {
+      if (key === 'rhen' || key === 'sera') return;
+      const owner = cleanCharacterName(DB.characters[key]?.name || key);
+      skills.forEach((item) => {
+        const tier = powerTier(item.category, item.rating);
+        const searchable = [owner, item.name, tier, item.category, item.signature, item.rating, item.description].filter(Boolean).join(' ');
+        const score = scoreMatch(searchable, needle);
+        if (!score) return;
+        const meta = item.description || item.signature || `${tier || 'Technique'} · ${item.category}`;
+        found.push({ id: `technique-${key}-${item.name}`, group: 'Techniques', kind: `${owner} · ${tier || 'Technique'}`, label: item.name, meta: clip(meta), score, open: () => onOpenCharacter(key) });
+      });
     });
 
     DB.ranks.forEach((item) => {
