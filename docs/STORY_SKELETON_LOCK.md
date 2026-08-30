@@ -2672,7 +2672,7 @@ These are intentionally blank until the user supplies more skeleton material:
 
 - season numbering and the 100-chapter structure are implemented as first-draft reader Seasons 65–74
 - individual chapter beats remain open to editorial revision without changing locked canon
-- selective prose expansion remains pending for Chapters 21–100; Chapters 3–20 have received restrained, scene-complete passes with no minimum word quota
+- selective prose expansion remains pending for Chapters 31–100; Chapters 3–30 have received restrained, scene-complete passes with no minimum word quota
 - the Isgard rescue, Duskvein confrontation and following macro arc remain locked
 
 Do not begin scenes, prose or runtime implementation automatically.
@@ -2680,6 +2680,12 @@ Do not begin scenes, prose or runtime implementation automatically.
 ---
 
 ## 8. Revision Log
+
+### 2026-08-30 — Season Three Selective Prose Pass
+
+- Expanded Chapters 21–30 through concrete harvest allocation, rural-clinic opening problems, cache security, Qin Luo's route perception, Physician Su's evacuation and the intervention-doctrine debate.
+- Showed the clinic network becoming independent through distributed judgment rather than making Sera issue every order or Rhen solve every emergency.
+- Preserved the final-cup romance and the denial that anyone is building a sect without padding this transitional season; chapters range from 403 to 608 words.
 
 ### 2026-08-30 — Season Two Selective Prose Pass
 
