@@ -1,10 +1,10 @@
 # Beneath the Crooked Sign — Ten-Season Story Outline
 
-> **STATUS: STAGE 4 STORY OUTLINE — NO PROSE COMPOSITION**
+> **STATUS: STAGE 5 STORY COMPOSITION ACTIVE — SEASONS 1–5 FIRST DRAFTED**
 >
 > This outline derives from `docs/STORY_SKELETON_LOCK.md`. If the two documents ever conflict, the locked skeleton remains authoritative until the user explicitly approves a revision.
 >
-> Do not implement these chapters into runtime story data, character profiles, rankings, technique lists or reader-facing canon until the user opens story composition and approves the relevant reveal.
+> The user opened story composition on 2026-08-30. Outline Seasons 1–5 are represented by first-draft reader Seasons 65–69. Seasons 6–10 remain outline-only. The locked skeleton remains authoritative during revision.
 
 ## 1. Format Decision
 

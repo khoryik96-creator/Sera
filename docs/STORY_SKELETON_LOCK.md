@@ -38,11 +38,11 @@ The user is deliberately building the continuation as a **skeletal structure fir
 | 2 | Five-year world-state skeleton | ACTIVE — QUAINT TEAHOUSE AND FIVE SOVEREIGN ORDER LOCKED |
 | 3 | New arc / conflict skeleton | STARTED — SOUTHERN ISGARD FOUNDATION LOCKED |
 | 4 | Season/chapter outline | **ACTIVE — TEN-SEASON / 100-CHAPTER DRAFT CREATED** |
-| 5 | Story composition / prose | **LOCKED** |
+| 5 | Story composition / prose | **ACTIVE — SEASONS 1–5 FIRST DRAFTED AS READER SEASONS 65–69** |
 
 ### Current Planning Boundary
 
-- Do not begin composing chapters or scenes.
+- Story composition is now open for **Beneath the Crooked Sign**. Reader Seasons 65–69 contain the first-draft prose for outline Seasons 1–5; Seasons 6–10 remain uncomposed.
 - The user has explicitly opened limited Stage 2 planning for The Quaint Teahouse and limited Stage 3 planning for the new-continent cliffhanger and Southern Isgard foundation.
 - Do not expand Isgard beyond the approved Southern Warplain, clan-ranking culture and named southern clans.
 - The rest of Isgard, the Duskvein cohort's exact personnel and the Isgard arc's detailed structure remain unstarted.
@@ -51,9 +51,9 @@ The user is deliberately building the continuation as a **skeletal structure fir
 - When an ability detail is still undefined, mark it `TBD` rather than inventing mechanics.
 - New named techniques must not be invented unless the user asks for naming help or explicitly approves a proposed name.
 - The existing Murim/internal-energy setting remains in force. Descriptions such as "divine sense" describe an evolved perception effect, not western magic.
-- Stage 4 season/chapter outlining is now open only for **Beneath the Crooked Sign**; Stage 5 story composition remains locked until the user explicitly opens it.
+- Stage 4 season/chapter outlining remains open only for **Beneath the Crooked Sign**; the user explicitly opened Stage 5 story composition for its first five seasons on 2026-08-30.
 - The user has now opened Stage 4 outlining for **Beneath the Crooked Sign**. The working ten-season, 100-chapter draft is maintained in `docs/BENEATH_THE_CROOKED_SIGN_OUTLINE.md`.
-- Stage 5 prose composition remains locked.
+- Stage 5 prose composition is active only within the approved **Beneath the Crooked Sign** outline and skeleton boundaries.
 
 ---
 
@@ -2668,6 +2668,17 @@ Do not begin scenes, prose or runtime implementation automatically.
 ---
 
 ## 8. Revision Log
+
+### 2026-08-30 — Stage 5 Opened: First Five Seasons Drafted
+
+The user explicitly opened story composition for the first five seasons of **Beneath the Crooked Sign**.
+
+- Added outline Chapters 1–50 as reader Seasons 65–69.
+- Preserved Season 64 as a deliberate two-year glimpse; the continuation arc explicitly returns to Year One to dramatize how that future was earned.
+- Covered the medicinal farm, twelve apprentices, Qin Luo's healing, Governor Duan's fall, the clinic network, formation of The Quaint Teahouse, Lu Weiran's recruitment and discovery of The Upper Room.
+- Kept Rhen outside command, Sera as leader, Qin's congenital blindness unchanged, and the Ultimate, Orchid Dominion and Isgard confrontation unrevealed.
+- Marked these seasons as **first drafts** pending later expansion and editorial revision toward the approved long-chapter targets.
+- Seasons 6–10 remain outline-only.
 
 ### 2026-08-29 — Permanent Ageless Meridian Reconstruction
 

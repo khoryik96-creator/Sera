@@ -203,7 +203,7 @@ export function inProgressSeasonInsights(readIds: readonly string[]): SeasonRead
 
 export function furthestOpenedTarget(readIds: readonly string[]): ReadingTarget | null {
   let furthest: ReadingTarget | null = null;
-  for (let season = 1; season <= 64; season += 1) {
+  for (let season = 1; season <= 69; season += 1) {
     const count = episodeCountForSeason(season);
     for (let episode = 1; episode <= count; episode += 1) {
       const id = episodeId(season, episode);

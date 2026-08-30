@@ -4,7 +4,7 @@ import { validReaderTimestamp } from './readerValidation';
 export const NOTES_KEY = 'tqr:episodeNotes:v1';
 const EPISODE_ID = /^ep-s(\d+)-e(\d+)$/;
 const MAX_NOTE_LENGTH = 12000;
-const MAX_NOTES = 633;
+const MAX_NOTES = 683;
 
 export interface EpisodeNote {
   id: string;

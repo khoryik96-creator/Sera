@@ -35,7 +35,7 @@ async function seedReaderState(page: import('@playwright/test').Page) {
 
 test('Reading Insights summarizes existing local reader state and journey', async ({ page }) => {
   await seedReaderState(page); await openInsights(page);
-  await expect(page.locator('.insights-hero')).toContainText('10 of 633 episodes');
+  await expect(page.locator('.insights-hero')).toContainText('10 of 683 episodes');
   await expect(page.locator('.insights-stat-grid')).toContainText('Current streak');
   await expect(page.locator('.insights-stat-grid')).toContainText('3');
   await expect(page.locator('.insights-library-panel .insights-library-grid')).toContainText('4');

@@ -45,7 +45,7 @@ function readChapterRoute(raw: string): RouteState | null {
   const season = Number(seasonRaw);
   const episode = Number(episodeRaw);
   const episodeCount = episodeCountForSeason(season);
-  if (!Number.isInteger(season) || !Number.isInteger(episode) || season < 1 || season > 64 || episode < 1 || episode > episodeCount) return null;
+  if (!Number.isInteger(season) || !Number.isInteger(episode) || season < 1 || season > 69 || episode < 1 || episode > episodeCount) return null;
   return { section: 'chapters', characterKey: null, chapter: { season, episode } };
 }
 
@@ -267,7 +267,7 @@ export function App() {
           </label>
           {lastRead ? <button className="topbar__continue" onClick={() => openChapter(lastRead.season, episodeNumber(lastRead.id))} type="button">Continue S{lastRead.season} Ch {episodeNumber(lastRead.id)}</button> : null}
           <InstallReaderButton />
-          <span className="topbar__meta">64 seasons · 633 chapters</span>
+          <span className="topbar__meta">69 seasons · 683 chapters</span>
         </header>
 
         <nav className="mobile-tabs" aria-label="Mobile repository sections" ref={mobileTabsRef}>

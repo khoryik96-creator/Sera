@@ -98,7 +98,7 @@ export function characterLegends(key: string, displayName: string): Legend[] {
 export function rankJourney(displayName: string): RankJourneyStep[] {
   const clean = cleanCharacterName(displayName);
   const timeline: Array<{ season: number; rank: string }> = [];
-  for (let season = 1; season <= 64; season += 1) timeline.push({ season, rank: rankLabel(clean, season) });
+  for (let season = 1; season <= 69; season += 1) timeline.push({ season, rank: rankLabel(clean, season) });
 
   const steps: RankJourneyStep[] = [];
   let start = 1;
@@ -135,7 +135,7 @@ export function characterAppearanceSeasons(key: string, displayName: string): nu
         || Array.from(speakerKeys).some((speaker) => normalize(row.name) === normalize(speaker));
     }))
     .map(([season]) => Number(season))
-    .filter((season) => Number.isInteger(season) && season >= 1 && season <= 64)
+    .filter((season) => Number.isInteger(season) && season >= 1 && season <= 69)
     .sort((a, b) => a - b);
 }
 

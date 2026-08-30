@@ -36,7 +36,7 @@ describe('Characters v2 insights', () => {
   it('derives story footprint from the existing season cast index', () => {
     const seasons = characterAppearanceSeasons('sera', 'Sera');
     expect(seasons.length).toBeGreaterThan(0);
-    expect(seasons.every((season) => season >= 1 && season <= 64)).toBe(true);
+    expect(seasons.every((season) => season >= 1 && season <= 69)).toBe(true);
   });
 
   it('derives relationship links only from existing character records', () => {
