@@ -5,6 +5,7 @@ import type { Skill, TopSkillEntry } from '../../../types';
 import { characterAppearanceSeasons, characterLegends, rankJourney, relatedCharacters, scanCharacterAppearances } from '../../shared/characterInsights';
 import type { AppearanceScan } from '../../shared/characterInsights';
 import { cleanCharacterName, rankLabel, rankStatus } from '../../shared/rankState';
+import { powerTier, powerTierFromRating } from '../../shared/skillTier';
 import { PageHeader, RankBadge } from '../../components/Shared';
 import '../../styles/characters-v2-hardening.css';
 
@@ -33,39 +34,6 @@ function seasonRange(fromSeason: number, toSeason: number): string {
 
 function jumpToProfileSection(id: string): void {
   document.getElementById(id)?.scrollIntoView({ behavior: 'smooth', block: 'start' });
-}
-
-/**
- * Derives a power-tier label from a skill's rating so every character's cards
- * carry the same rank indicator Sera's hand-authored techniques already show.
- * Purely presentational — it reads the rating already stored in the data and
- * invents no new canon. The vocabulary matches Sera's own tiers
- * (★★★★☆ → "Named Technique", ★★★★★ → "Transcended Skill").
- */
-function powerTierFromRating(rating: string | undefined): string | undefined {
-  const value = (rating || '').trim();
-  if (!value) return undefined;
-  const upper = value.toUpperCase();
-  if (upper.includes('SUPREME')) return 'Supreme Art';
-  if (upper.includes('TRANSCENDED')) return 'Transcended Art';
-  if (value.includes('★★★★★+')) return 'Evolved Supreme Art';
-  if (value.includes('★★★★★')) return 'Transcended Skill';
-  if (value.includes('★★★★')) return 'Named Technique';
-  return undefined;
-}
-
-/**
- * Power-tier label for a ranked skill. A tier word already carried in the
- * skill's own category (e.g. "Supreme Offense", "Transcended Art") is
- * authoritative so the badge never contradicts the category shown beside it;
- * otherwise the label is derived from the star rating. Purely presentational.
- */
-function powerTier(category: string | undefined, rating: string | undefined): string | undefined {
-  const cat = (category || '').toLowerCase();
-  if (cat.includes('ultimate')) return 'Ultimate Art';
-  if (cat.includes('supreme')) return 'Supreme Art';
-  if (cat.includes('transcended')) return 'Transcended Art';
-  return powerTierFromRating(rating);
 }
 
 function rankedSkill(skill: TopSkillEntry): ProfileSkill {
