@@ -96,7 +96,7 @@ export function CharactersPage({ selectedKey, onOpenCharacter, onOpenChapter }: 
   const legends = useMemo(() => characterLegends(activeKey, displayName), [activeKey, displayName]);
   const appearanceSeasons = useMemo(() => characterAppearanceSeasons(activeKey, displayName), [activeKey, displayName]);
   const signatureSkills = DB.topSkills[activeKey] || [];
-  const dedicatedSkills = activeKey === 'sera' ? DB.seraSkills : [];
+  const dedicatedSkills = activeKey === 'sera' ? DB.seraSkills : activeKey === 'rhen' ? DB.rhenSkills : [];
   const profileSkills = mergeProfileSkills(signatureSkills, dedicatedSkills);
 
   async function loadAppearances(): Promise<void> {
@@ -185,7 +185,7 @@ export function CharactersPage({ selectedKey, onOpenCharacter, onOpenChapter }: 
 
           {profileSkills.length ? (
             <section className="character-v2-section" id="characterSkillsSection" aria-labelledby="characterSkillsHeading">
-              <div className="character-v2-heading"><div><p className="eyebrow">{activeKey === 'sera' ? 'Pale Orchid martial arts' : 'Signature martial arts'}</p><h3 id="characterSkillsHeading">{activeKey === 'sera' ? 'Sera — signature techniques' : 'Ranked techniques'}</h3></div><span>{profileSkills.length} archived skill{profileSkills.length === 1 ? '' : 's'}</span></div>
+              <div className="character-v2-heading"><div><p className="eyebrow">{activeKey === 'sera' ? 'Pale Orchid martial arts' : activeKey === 'rhen' ? 'Frozen Petals arts' : 'Signature martial arts'}</p><h3 id="characterSkillsHeading">{activeKey === 'sera' ? 'Sera — signature techniques' : activeKey === 'rhen' ? 'Rhen — signature techniques' : 'Ranked techniques'}</h3></div><span>{profileSkills.length} archived skill{profileSkills.length === 1 ? '' : 's'}</span></div>
               <div className="character-skill-grid">
                 {profileSkills.map((skill, index) => (
                   <article className="character-skill-card" key={`${skill.name}-${index}`}>
