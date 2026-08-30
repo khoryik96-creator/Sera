@@ -54,13 +54,27 @@ function powerTierFromRating(rating: string | undefined): string | undefined {
   return undefined;
 }
 
+/**
+ * Power-tier label for a ranked skill. A tier word already carried in the
+ * skill's own category (e.g. "Supreme Offense", "Transcended Art") is
+ * authoritative so the badge never contradicts the category shown beside it;
+ * otherwise the label is derived from the star rating. Purely presentational.
+ */
+function powerTier(category: string | undefined, rating: string | undefined): string | undefined {
+  const cat = (category || '').toLowerCase();
+  if (cat.includes('ultimate')) return 'Ultimate Art';
+  if (cat.includes('supreme')) return 'Supreme Art';
+  if (cat.includes('transcended')) return 'Transcended Art';
+  return powerTierFromRating(rating);
+}
+
 function rankedSkill(skill: TopSkillEntry): ProfileSkill {
   return {
     name: skill.name,
     category: skill.category,
     signature: skill.signature,
     rating: skill.rating,
-    tier: powerTierFromRating(skill.rating),
+    tier: powerTier(skill.category, skill.rating),
     description: skill.description,
   };
 }

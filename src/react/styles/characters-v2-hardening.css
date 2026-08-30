@@ -10,4 +10,4 @@
 .character-skill-card p{margin:9px 0 0;color:#a6adb4;font-size:.72rem;line-height:1.58}
 .character-skill-card__signature{color:var(--gold)!important}
 @media(max-width:860px){.character-skill-grid{grid-template-columns:1fr}}
-@media(max-width:520px){.character-skill-card{grid-template-columns:1fr}.character-skill-card__index{width:30px;height:30px}.character-skill-card__copy>div{display:grid;gap:5px}}
+@media(max-width:520px){.character-skill-card{grid-template-columns:1fr}.character-skill-card__index{width:30px;height:30px}.character-skill-card__copy>div{display:grid;gap:5px}.character-skill-card__rank{align-items:flex-start;text-align:left}}
