@@ -38,11 +38,11 @@ The user is deliberately building the continuation as a **skeletal structure fir
 | 2 | Five-year world-state skeleton | ACTIVE — QUAINT TEAHOUSE AND FIVE SOVEREIGN ORDER LOCKED |
 | 3 | New arc / conflict skeleton | STARTED — SOUTHERN ISGARD FOUNDATION LOCKED |
 | 4 | Season/chapter outline | **ACTIVE — TEN-SEASON / 100-CHAPTER DRAFT CREATED** |
-| 5 | Story composition / prose | **ACTIVE — COMPLETE 100-CHAPTER FIRST DRAFT IN READER SEASONS 65–74** |
+| 5 | Story composition / prose | **ACTIVE — COMPLETE FIRST DRAFT; LONG-FORM EXPANSION ACTIVE FROM CHAPTER 1** |
 
 ### Current Planning Boundary
 
-- Story composition is open for **Beneath the Crooked Sign**. Reader Seasons 65–74 contain the complete 100-chapter first draft; long-chapter expansion and editorial revision remain pending.
+- Story composition is open for **Beneath the Crooked Sign**. Reader Seasons 65–74 contain the complete 100-chapter first draft. Chapters 1–2 now meet the approved 4,500-word long-chapter minimum; Chapters 3–100 remain pending expansion and editorial revision.
 - The user has explicitly opened limited Stage 2 planning for The Quaint Teahouse and limited Stage 3 planning for the new-continent cliffhanger and Southern Isgard foundation.
 - Do not expand Isgard beyond the approved Southern Warplain, clan-ranking culture and named southern clans.
 - The rest of Isgard, the Duskvein cohort's exact personnel and the Isgard arc's detailed structure remain unstarted.
@@ -2680,6 +2680,15 @@ Do not begin scenes, prose or runtime implementation automatically.
 ---
 
 ## 8. Revision Log
+
+### 2026-08-30 — Long-Form Expansion Begun Without Duplication
+
+- Expanded Chapter 1, **The Sign Is Still Crooked**, to 4,500 words.
+- Expanded Chapter 2, **Soil Behind the Kitchen**, to 4,514 words.
+- Preserved the original chapter outcomes while adding tea-house opening work, local patients, Lanyun community texture, medicinal supply economics, farm failures and additional domestic romance.
+- Kept Rhen's power understated and unnamed, preserved the crooked-sign and shelf motifs, and avoided advancing any later reveal.
+- Audited all 100 continuation chapters for exact repeated long paragraphs and repeated sixteen-word sequences; no cross-chapter duplication was found.
+- Added regression coverage for the long-chapter minimum and repeated-paragraph prevention.
 
 ### 2026-08-30 — Complete Ten-Season First Draft Integrated
 

@@ -1,10 +1,10 @@
 # Beneath the Crooked Sign — Ten-Season Story Outline
 
-> **STATUS: STAGE 5 STORY COMPOSITION ACTIVE — COMPLETE FIRST DRAFT**
+> **STATUS: STAGE 5 STORY COMPOSITION ACTIVE — COMPLETE FIRST DRAFT / LONG-FORM EXPANSION ACTIVE**
 >
 > This outline derives from `docs/STORY_SKELETON_LOCK.md`. If the two documents ever conflict, the locked skeleton remains authoritative until the user explicitly approves a revision.
 >
-> The user opened story composition on 2026-08-30. All ten outline seasons are represented by first-draft reader Seasons 65–74. The locked skeleton remains authoritative during expansion and revision.
+> The user opened story composition on 2026-08-30. All ten outline seasons are represented by first-draft reader Seasons 65–74. Chapters 1–2 have completed their first long-form expansion to the approved 4,500-word minimum; Chapters 3–100 remain first-draft foundations. The locked skeleton remains authoritative during expansion and revision.
 
 ## 1. Format Decision
 
@@ -653,5 +653,5 @@ All seven gates were resolved before the relevant first-draft chapter was integr
 - Longer chapter range: **PROPOSED**
 - Season-level titles and movements: **IMPLEMENTED IN FIRST DRAFT**
 - Individual chapter titles and beats: **IMPLEMENTED IN FIRST DRAFT**
-- Story prose: **100-CHAPTER FIRST DRAFT COMPLETE; LONG-CHAPTER EXPANSION PENDING**
+- Story prose: **100-CHAPTER FIRST DRAFT COMPLETE; CHAPTERS 1–2 LONG-FORM EXPANDED; CHAPTERS 3–100 PENDING**
 - Runtime implementation: **READER SEASONS 65–74 INTEGRATED**

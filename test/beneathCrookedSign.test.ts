@@ -45,4 +45,21 @@ describe('Beneath the Crooked Sign complete first draft', () => {
     expect(raw.season74[1]?.text).toContain('remained ageless');
     expect(raw.season74[9]?.text).toContain('He did not answer for her');
   });
+
+  it('keeps expanded chapters at long-form length without repeating long paragraphs', () => {
+    expect(raw.season65[0]?.text.trim().split(/\s+/)).toHaveLength(4500);
+    expect(raw.season65[1]?.text.trim().split(/\s+/).length).toBeGreaterThanOrEqual(4500);
+
+    const seen = new Map<string, string>();
+    const duplicates: string[] = [];
+    chapters.forEach((chapter, chapterIndex) => {
+      chapter.text.split(/\n\n+/).map((paragraph) => paragraph.replace(/\s+/g, ' ').trim()).filter((paragraph) => paragraph.length >= 120).forEach((paragraph) => {
+        const key = paragraph.toLowerCase();
+        const location = `Chapter ${chapterIndex + 1}`;
+        if (seen.has(key)) duplicates.push(`${seen.get(key)} / ${location}: ${paragraph.slice(0, 80)}`);
+        else seen.set(key, location);
+      });
+    });
+    expect(duplicates).toEqual([]);
+  });
 });
