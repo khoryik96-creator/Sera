@@ -89,4 +89,24 @@ describe('renderNovel', () => {
     expect(out).not.toContain('rank-badge--deceased');
     expect(out).not.toContain('rank-badge--retired');
   });
+
+  it('tags the bare alias "Han" as Han Myeong through the epilogue', () => {
+    const out = renderNovel('Han carried the furnace gauntlets.', 8);
+    expect(out).toContain('character-han">Han</span>');
+    expect(out).toContain('rank-badge');
+  });
+
+  it('does not tag the bare "Han" as Han Myeong in Beneath the Crooked Sign seasons', () => {
+    // Season 65+ introduce the living apprentice Han Mira; her surname must not
+    // inherit the deceased Former #8 Han Myeong's badge.
+    const out = renderNovel('Han Mira arrived first. Han reached the bandages.', 65);
+    expect(out).not.toContain('rank-badge');
+    expect(out).not.toContain('character-han">Han</span>');
+    expect(out).toContain('Han Mira arrived first.');
+  });
+
+  it('still tags the full name Han Myeong even after the epilogue', () => {
+    const out = renderNovel('They remembered Han Myeong.', 65);
+    expect(out).toContain('character-han">Han Myeong</span>');
+  });
 });
