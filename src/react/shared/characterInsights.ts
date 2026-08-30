@@ -108,7 +108,7 @@ export function rankJourney(displayName: string): RankJourneyStep[] {
     if (nextRank === activeRank) continue;
     const end = index;
     if (activeRank) {
-      const current = end === 64;
+      const current = end === 69;
       steps.push({
         rank: activeRank,
         status: current ? rankStatus(clean) : activeRank.toLowerCase().includes('unranked') ? 'unranked' : 'former',

@@ -14,7 +14,7 @@ describe('Characters v2 insights', () => {
     expect(steps.map((step) => [step.rank, step.fromSeason, step.toSeason])).toEqual([
       ['#7', 1, 22],
       ['#6', 23, 43],
-      ['Former #6', 44, 64],
+      ['Former #6', 44, 69],
     ]);
     const last = steps[steps.length - 1];
     expect(last?.status).toBe('former');
@@ -23,7 +23,7 @@ describe('Characters v2 insights', () => {
 
   it('keeps Rhen explicitly unranked across the story', () => {
     expect(rankJourney('Rhen')).toEqual([
-      expect.objectContaining({ rank: 'Unranked', status: 'unranked', fromSeason: 1, toSeason: 64, current: true }),
+      expect.objectContaining({ rank: 'Unranked', status: 'unranked', fromSeason: 1, toSeason: 69, current: true }),
     ]);
   });
 
