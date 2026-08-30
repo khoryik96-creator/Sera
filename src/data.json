@@ -1306,6 +1306,43 @@
         "rating": "SUPREME",
         "description": "An opponent’s approach closes against an invisible horizon of compressed iron qi that grows denser the harder they force it, so an attack can be physically correct and still finish one step short. Every denied approach feeds momentum into Tae’s next strike; when he attacks, the stored distance collapses into iron-weighted impact and a simple fist can land with the concentrated force of an enormous metal pillar. Multiple opponents can be assigned different engagement distances; the maximum remains TBD."
       }
+    ],
+    "huo": [
+      {
+        "name": "Nine Meridian Wheels",
+        "category": "Cultivation Core",
+        "signature": "Nine circuits that eat force",
+        "rating": "★★★★★",
+        "description": "Nine internal circuits — the Heaven-Eating principle — each digesting one category of incoming force and redirecting its energy."
+      },
+      {
+        "name": "Kingdom Without Ground",
+        "category": "Terrain Transfer / Defense",
+        "signature": "Strike his chest, a cliff breaks",
+        "rating": "★★★★★",
+        "description": "Every impact on his body is transferred into connected terrain, so blows shatter the landscape instead of him."
+      },
+      {
+        "name": "Assimilated Heaven-Burial Hand",
+        "category": "Stolen / Rewritten Principle",
+        "signature": "A rival’s art, remade in the Wheels",
+        "rating": "★★★★★",
+        "description": "Jiang Taixuan’s contact-force principle, taken through Gu Xian’s transplant art and rewritten through Huo’s Wheels."
+      },
+      {
+        "name": "Wheel Nine: Self-Authored Heaven",
+        "category": "Anti-Pattern Principle",
+        "signature": "No inherited route can bind him",
+        "rating": "★★★★★",
+        "description": "The ninth Wheel rejects archived circulation templates, so old binding systems cannot force his Wheels into known routes."
+      },
+      {
+        "name": "Nine Heavens Beneath the Empty Throne",
+        "category": "Evolved Cultivation System",
+        "signature": "Not nine techniques — nine operating systems",
+        "rating": "TRANSCENDED",
+        "description": "His evolved state: each Wheel carries an independent principle, synchronized into one coordinated cultivation body."
+      }
     ]
   },
   "legends": [
