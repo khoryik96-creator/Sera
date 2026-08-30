@@ -50,8 +50,8 @@ describe('Beneath the Crooked Sign complete first draft', () => {
     expect(raw.season65[0]?.text.trim().split(/\s+/)).toHaveLength(4500);
     expect(raw.season65[1]?.text.trim().split(/\s+/).length).toBeGreaterThanOrEqual(4500);
 
-    const selectivelyExpanded = raw.season65.slice(2);
-    expect(selectivelyExpanded.every((chapter) => chapter.text.trim().split(/\s+/).length < 2800)).toBe(true);
+    const selectivelyExpanded = chapters.slice(2);
+    expect(selectivelyExpanded.every((chapter) => chapter.text.trim().split(/\s+/).length <= 2800)).toBe(true);
 
     const seen = new Map<string, string>();
     const duplicates: string[] = [];

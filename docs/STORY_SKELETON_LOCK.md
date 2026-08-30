@@ -2672,7 +2672,7 @@ These are intentionally blank until the user supplies more skeleton material:
 
 - season numbering and the 100-chapter structure are implemented as first-draft reader Seasons 65–74
 - individual chapter beats remain open to editorial revision without changing locked canon
-- selective prose expansion remains pending for Chapters 11–100; Chapters 3–10 have received a restrained, scene-complete pass with no minimum word quota
+- selective prose expansion remains pending for Chapters 21–100; Chapters 3–20 have received restrained, scene-complete passes with no minimum word quota
 - the Isgard rescue, Duskvein confrontation and following macro arc remain locked
 
 Do not begin scenes, prose or runtime implementation automatically.
@@ -2680,6 +2680,12 @@ Do not begin scenes, prose or runtime implementation automatically.
 ---
 
 ## 8. Revision Log
+
+### 2026-08-30 — Season Two Selective Prose Pass
+
+- Expanded Chapters 11–20 only where the governor arc needed clearer patient consequences, apprentice protection training, evidence handling, witness safety, community testimony or political follow-through.
+- Preserved Sera's nonlethal leadership, Rhen's medical role, Qin Luo's recovering vibration awareness and the governor's status as a local corrupt actor rather than part of an invented larger conspiracy.
+- Kept each chapter focused on one dramatic movement; the resulting chapters range from 667 to 867 words rather than being padded toward a minimum.
 
 ### 2026-08-30 — Scene-Complete Chapter Length Recalibrated
 
