@@ -35,12 +35,32 @@ function jumpToProfileSection(id: string): void {
   document.getElementById(id)?.scrollIntoView({ behavior: 'smooth', block: 'start' });
 }
 
+/**
+ * Derives a power-tier label from a skill's rating so every character's cards
+ * carry the same rank indicator Sera's hand-authored techniques already show.
+ * Purely presentational — it reads the rating already stored in the data and
+ * invents no new canon. The vocabulary matches Sera's own tiers
+ * (★★★★☆ → "Named Technique", ★★★★★ → "Transcended Skill").
+ */
+function powerTierFromRating(rating: string | undefined): string | undefined {
+  const value = (rating || '').trim();
+  if (!value) return undefined;
+  const upper = value.toUpperCase();
+  if (upper.includes('SUPREME')) return 'Supreme Art';
+  if (upper.includes('TRANSCENDED')) return 'Transcended Art';
+  if (value.includes('★★★★★+')) return 'Evolved Supreme Art';
+  if (value.includes('★★★★★')) return 'Transcended Skill';
+  if (value.includes('★★★★')) return 'Named Technique';
+  return undefined;
+}
+
 function rankedSkill(skill: TopSkillEntry): ProfileSkill {
   return {
     name: skill.name,
     category: skill.category,
     signature: skill.signature,
     rating: skill.rating,
+    tier: powerTierFromRating(skill.rating),
     description: skill.description,
   };
 }
@@ -51,7 +71,7 @@ function dedicatedSkill(skill: Skill): ProfileSkill {
     category: skill.category,
     signature: skill.signature,
     rating: skill.rating || skill.tier || 'Named',
-    tier: skill.tier,
+    tier: skill.tier || powerTierFromRating(skill.rating),
     description: skill.short || skill.mechanics || skill.lore || 'Full technique details are recorded in the Arts & Techniques archive.',
   };
 }
