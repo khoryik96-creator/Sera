@@ -1,4 +1,4 @@
-import { EPISODE_ARCS } from './episodeMeta';
+import { EPISODE_ARCS, TOTAL_SEASONS} from './episodeMeta';
 import { episodeCountForSeason, episodeId, progressForArc, progressForSeason } from './readingProgress';
 import type { ProgressSummary, ReadingTarget } from './readingProgress';
 import type { ReadingJourneyEntry } from './readerJourney';
@@ -203,7 +203,7 @@ export function inProgressSeasonInsights(readIds: readonly string[]): SeasonRead
 
 export function furthestOpenedTarget(readIds: readonly string[]): ReadingTarget | null {
   let furthest: ReadingTarget | null = null;
-  for (let season = 1; season <= 74; season += 1) {
+  for (let season = 1; season <= TOTAL_SEASONS; season += 1) {
     const count = episodeCountForSeason(season);
     for (let episode = 1; episode <= count; episode += 1) {
       const id = episodeId(season, episode);

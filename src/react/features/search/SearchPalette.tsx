@@ -2,7 +2,7 @@ import type { KeyboardEvent as ReactKeyboardEvent } from 'react';
 import { useEffect, useMemo, useState } from 'react';
 import { restoredCanonReferences } from '../../../canonReference';
 import { DB } from '../../../db';
-import { EPISODE_ARCS } from '../../../episodeMeta';
+import { EPISODE_ARCS, TOTAL_CHAPTERS} from '../../../episodeMeta';
 import { RankBadge } from '../../components/Shared';
 import type { AppSection } from '../../app/navigation';
 import { cleanCharacterName, parseRankBadge, rankLabel, rankStatus, rankStatusForEntry } from '../../shared/rankState';
@@ -182,7 +182,7 @@ export function SearchPalette({ open, query, onClose, onOpenSection, onOpenChara
     <div className="search-palette-layer" role="presentation" onMouseDown={(event) => { if (event.target === event.currentTarget) onClose(); }}>
       <section id="searchPalette" className="search-palette" role="dialog" aria-label="Search The Quiet Regular">
         <header className="search-palette__header">
-          <div><p className="eyebrow">Global command palette</p><h2>{needle ? `Results for “${needle}”` : 'Search the repository'}</h2><p>{needle ? `${totalShown} best matches shown across ${grouped.length} categor${grouped.length === 1 ? 'y' : 'ies'}.` : 'Characters, story arcs, all 733 chapters, techniques, rankings, legends, and canon share one index.'}</p></div>
+          <div><p className="eyebrow">Global command palette</p><h2>{needle ? `Results for “${needle}”` : 'Search the repository'}</h2><p>{needle ? `${totalShown} best matches shown across ${grouped.length} categor${grouped.length === 1 ? 'y' : 'ies'}.` : `Characters, story arcs, all ${TOTAL_CHAPTERS} chapters, techniques, rankings, legends, and canon share one index.`}</p></div>
           <button className="search-palette__close" onClick={onClose} type="button" aria-label="Close search">Esc</button>
         </header>
 
@@ -195,7 +195,7 @@ export function SearchPalette({ open, query, onClose, onOpenSection, onOpenChara
           </div>
         ) : null}
 
-        {needle && episodeLoading ? <div className="search-index-status" role="status">Loading the 733-chapter search index…</div> : null}
+        {needle && episodeLoading ? <div className="search-index-status" role="status">Loading the {TOTAL_CHAPTERS}-chapter search index…</div> : null}
         {needle && episodeError ? <div className="search-index-status search-index-status--error">Chapter search is temporarily unavailable. Core lore search still works.</div> : null}
 
         {needle && grouped.length ? (

@@ -1,4 +1,5 @@
 import type { Bookmark } from './bookmarks';
+import { TOTAL_CHAPTERS } from './episodeMeta';
 import { validBookmark } from './bookmarks';
 import { validEpisodeId } from './readingProgress';
 import { JOURNEY_KEY, persistReadingJourney, validReadingJourney } from './readerJourney';
@@ -20,9 +21,9 @@ export const READ_EPISODES_KEY = 'tqr:readEpisodes:v1';
 export const READER_PREFS_KEY = 'tqr:react-reader-prefs-v2';
 
 const HISTORY_LIMIT = 50;
-const BOOKMARK_LIMIT = 733;
-const READ_EPISODE_LIMIT = 733;
-const NOTE_LIMIT = 733;
+const BOOKMARK_LIMIT = TOTAL_CHAPTERS;
+const READ_EPISODE_LIMIT = TOTAL_CHAPTERS;
+const NOTE_LIMIT = TOTAL_CHAPTERS;
 const PASSAGE_LIMIT = 500;
 const POSITION_LIMIT = 160;
 

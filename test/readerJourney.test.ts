@@ -1,6 +1,7 @@
 // @vitest-environment jsdom
 import { beforeEach, describe, expect, it } from 'vitest';
 import { clearReadingJourney, getReadingJourney, JOURNEY_KEY, recordReadingJourney, validReadingJourney } from '../src/readerJourney';
+import { TOTAL_SEASONS } from '../src/episodeMeta';
 
 beforeEach(() => localStorage.clear());
 
@@ -49,7 +50,7 @@ describe('reading journey', () => {
   it('accepts a journey that has completed every season of the story', () => {
     // Guards against the completion cap drifting behind the season count: a
     // reader who finishes all seasons must keep their whole journey.
-    const seasonCompletions = Array.from({ length: 74 }, (_, index) => ({
+    const seasonCompletions = Array.from({ length: TOTAL_SEASONS }, (_, index) => ({
       season: index + 1,
       completedAt: index + 1,
     }));

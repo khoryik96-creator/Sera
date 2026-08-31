@@ -1,5 +1,5 @@
 import { escRe } from './dom';
-import { characterRegistry, colorKeyMap, novelNameMap, rankForStory, speakerName } from './characterRegistry';
+import { characterRegistry, colorKeyMap, novelNameMap, rankForStory, seasonScopedAliases, speakerName } from './characterRegistry';
 import { DB } from './db';
 import { powerTier } from './react/shared/skillTier';
 
@@ -155,7 +155,10 @@ function rankBadgeMarkup(rank: string, name: string, season?: number): string {
 // owned: "Han" (Former #8 Han Myeong → the apprentice Han Mira) and "Wei"
 // (Former #5 Wei Zhen → the physician Wei An). Both original holders appear only
 // through the epilogue, so from season 65 the bare surname renders as plain text.
-const aliasLastSeason: Record<string, number> = { Han: 64, Wei: 64 };
+// "Tor" is likewise retired after season 74: the Isgard seasons (75+) reuse the
+// bare given name for Tor Veyrhald, handled season-aware via seasonScopedAliases
+// below so it never inherits Tor Veydan's rank IV badge.
+const aliasLastSeason: Record<string, number> = { Han: 64, Wei: 64, Tor: 74 };
 
 // A bare single-word alias immediately followed by another capitalised name-word
 // is almost always a *different* character whose surname or given name happens to
@@ -211,6 +214,28 @@ function annotateNamesForSeason(text: string, season: number | undefined, intera
       return token;
     });
   });
+
+  // Second pass: bare aliases that a later character reuses (e.g. "Tor" →
+  // Tor Veyrhald from season 75). The original holder was retired above via
+  // aliasLastSeason, so from the handover season the bare name resolves to the
+  // newcomer instead — coloured, but with no rank badge, since the Isgard cast
+  // sits outside the numeric world ranking.
+  if (season !== undefined) {
+    seasonScopedAliases.forEach(({ alias, fromSeason, key }) => {
+      if (season < fromSeason) return;
+      const entry = characterRegistry.find((item) => item.key === key);
+      if (!entry) return;
+      const re = new RegExp('\\b' + escRe(alias) + '\\b', 'g');
+      out = out.replace(re, (match: string, offset: number, full: string) => {
+        // Leave it untagged when it heads a different character's compound name.
+        if (startsForeignCompound(alias, full.slice(offset + match.length))) return match;
+        const token = `@@NAME${placeholders.length}@@`;
+        const label = characterMarkup(match, entry.colorKey, entry.key, 'novel-character-name', interactiveNames);
+        placeholders.push(`<span class="ranked-name">${label}</span>`);
+        return token;
+      });
+    });
+  }
 
   placeholders.forEach((value, index) => { out = out.replaceAll(`@@NAME${index}@@`, value); });
   held.forEach((value, index) => { out = out.replaceAll(`@@SPAN${index}@@`, value); });

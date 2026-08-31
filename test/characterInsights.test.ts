@@ -2,6 +2,7 @@ import { beforeAll, describe, expect, it } from 'vitest';
 import rawData from '../src/data.json';
 import { normalizeDatabase, setDB } from '../src/db';
 import { characterAliases, characterAppearanceSeasons, rankJourney, relatedCharacters } from '../src/react/shared/characterInsights';
+import { TOTAL_SEASONS } from '../src/episodeMeta';
 import type { RawDatabase } from '../src/types';
 
 beforeAll(() => {
@@ -14,7 +15,7 @@ describe('Characters v2 insights', () => {
     expect(steps.map((step) => [step.rank, step.fromSeason, step.toSeason])).toEqual([
       ['#7', 1, 22],
       ['#6', 23, 43],
-      ['Former #6', 44, 74],
+      ['Former #6', 44, TOTAL_SEASONS],
     ]);
     const last = steps[steps.length - 1];
     expect(last?.status).toBe('former');
@@ -23,7 +24,7 @@ describe('Characters v2 insights', () => {
 
   it('keeps Rhen explicitly unranked across the story', () => {
     expect(rankJourney('Rhen')).toEqual([
-      expect.objectContaining({ rank: 'Unranked', status: 'unranked', fromSeason: 1, toSeason: 74, current: true }),
+      expect.objectContaining({ rank: 'Unranked', status: 'unranked', fromSeason: 1, toSeason: TOTAL_SEASONS, current: true }),
     ]);
   });
 
@@ -36,7 +37,7 @@ describe('Characters v2 insights', () => {
   it('derives story footprint from the existing season cast index', () => {
     const seasons = characterAppearanceSeasons('sera', 'Sera');
     expect(seasons.length).toBeGreaterThan(0);
-    expect(seasons.every((season) => season >= 1 && season <= 74)).toBe(true);
+    expect(seasons.every((season) => season >= 1 && season <= TOTAL_SEASONS)).toBe(true);
   });
 
   it('derives relationship links only from existing character records', () => {

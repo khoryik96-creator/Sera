@@ -1,6 +1,7 @@
 import { describe, it, expect } from 'vitest';
 import rawData from '../src/data.json';
 import { normalizeDatabase, colorKeyMap } from '../src/db';
+import { TOTAL_SEASONS } from '../src/episodeMeta';
 import type { RawDatabase } from '../src/types';
 
 const raw = rawData as unknown as RawDatabase;
@@ -11,7 +12,7 @@ const data = normalizeDatabase(raw);
 const coreRankedKeys = ['rhen', 'kael', 'liang', 'jin', 'lei', 'rui', 'ilyra', 'sera', 'mo', 'arin', 'wen', 'yun', 'qin', 'han'];
 
 function allEpisodes() {
-  return Array.from({ length: 74 }, (_, index) => index + 1).flatMap((season) =>
+  return Array.from({ length: TOTAL_SEASONS }, (_, index) => index + 1).flatMap((season) =>
     raw[`season${season}` as `season${number}`].map((episode, index) => ({ season, index, episode })),
   );
 }
@@ -60,8 +61,8 @@ describe('extended canon integrity', () => {
     expect([...unknown]).toEqual([]);
   });
 
-  it('contains every season from 1 through 74 while preserving the Season 64 epilogue', () => {
-    for (let season = 1; season <= 74; season++) {
+  it('contains every season through the archive length while preserving the Season 64 epilogue', () => {
+    for (let season = 1; season <= TOTAL_SEASONS; season++) {
       expect(raw[`season${season}` as `season${number}`].length, `season${season}`).toBeGreaterThan(0);
     }
     expect(raw.season64[0]?.title.toLowerCase()).toMatch(/second spring|two years|epilogue/);

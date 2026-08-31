@@ -1,4 +1,5 @@
 import { episodeCountForSeason } from './readingProgress';
+import { TOTAL_CHAPTERS } from './episodeMeta';
 
 /**
  * Bookmarks + "continue reading" state, persisted in localStorage so it
@@ -9,7 +10,7 @@ import { episodeCountForSeason } from './readingProgress';
 const BM_KEY = 'tqr:bookmarks';
 const LAST_KEY = 'tqr:lastRead';
 const EPISODE_ID = /^ep-s(\d+)-e(\d+)$/;
-const BOOKMARK_LIMIT = 733;
+const BOOKMARK_LIMIT = TOTAL_CHAPTERS;
 const MAX_TITLE_LENGTH = 500;
 
 export interface Bookmark {
