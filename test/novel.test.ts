@@ -109,4 +109,19 @@ describe('renderNovel', () => {
     const out = renderNovel('They remembered Han Myeong.', 65);
     expect(out).toContain('character-han">Han Myeong</span>');
   });
+
+  it('tags the bare alias "Wei" as Wei Zhen through the epilogue', () => {
+    const out = renderNovel('Wei listened, then smiled.', 12);
+    expect(out).toContain('character-wei">Wei</span>');
+    expect(out).toContain('rank-badge');
+  });
+
+  it('does not tag the bare "Wei" as Wei Zhen in Beneath the Crooked Sign seasons', () => {
+    // Season 65+ introduce the physician Wei An; his surname must not inherit
+    // the Former #5 Wei Zhen's badge.
+    const out = renderNovel('A physician named Wei An was arrested.', 65);
+    expect(out).not.toContain('rank-badge');
+    expect(out).not.toContain('character-wei">Wei</span>');
+    expect(out).toContain('Wei An');
+  });
 });
