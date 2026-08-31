@@ -1,5 +1,7 @@
 import { escRe } from './dom';
 import { characterRegistry, colorKeyMap, novelNameMap, rankForStory, speakerName } from './characterRegistry';
+import { DB } from './db';
+import { powerTier } from './react/shared/skillTier';
 
 export { rankForStory } from './characterRegistry';
 
@@ -33,6 +35,68 @@ function annotateDialogue(text: string, interactiveNames: boolean): string {
     const speaker = characterMarkup(name, key, entry?.key, 'novel-speaker dialogue-speaker', interactiveNames);
     return `<span class="novel-dialogue dialogue-card character-${key}">${speaker}<b class="dialogue-quote">${match[2]}</b></span>`;
   }).join('\n');
+}
+
+type ArtTone = 'ultimate' | 'supreme' | 'transcended' | 'named';
+interface ArtInfo { name: string; tone: ArtTone; label: string }
+
+function artTone(label: string): ArtTone {
+  const value = label.toLowerCase();
+  if (value.includes('ultimate')) return 'ultimate';
+  if (value.includes('supreme')) return 'supreme';
+  if (value.includes('transcended')) return 'transcended';
+  return 'named';
+}
+
+// Named arts are auto-styled in prose from the same skill data the profiles use,
+// so a chapter never has to carry explicit skill markup. Built lazily and cached
+// against the current DB, longest name first so overlapping names resolve to the
+// most specific art.
+let artCache: { source: unknown; arts: ArtInfo[] } | null = null;
+function knownArts(): ArtInfo[] {
+  if (artCache && artCache.source === DB) return artCache.arts;
+  const arts: ArtInfo[] = [];
+  const add = (name: string | undefined, label: string | undefined): void => {
+    const clean = (name || '').trim();
+    if (!clean || !label) return;
+    arts.push({ name: clean, tone: artTone(label), label });
+  };
+  for (const rows of Object.values(DB?.topSkills || {})) {
+    for (const skill of rows) add(skill.name, powerTier(skill.category, skill.rating));
+  }
+  for (const skill of [...(DB?.rhenSkills || []), ...(DB?.seraSkills || [])]) {
+    add(skill.name, skill.tier || powerTier(skill.category, skill.rating));
+  }
+  const seen = new Set<string>();
+  const unique = arts.filter((art) => (seen.has(art.name) ? false : (seen.add(art.name), true)));
+  unique.sort((a, b) => b.name.length - a.name.length);
+  artCache = { source: DB, arts: unique };
+  return unique;
+}
+
+/**
+ * Style named arts inline (rank symbol + tier-toned colour) wherever they appear
+ * in prose. Case-sensitive, whole-name matches only, so the capitalised art
+ * "Veiled Moon" is styled while the descriptive "veiled moon" is left alone.
+ */
+function annotateArtNames(text: string): string {
+  const arts = knownArts();
+  if (!arts.length) return String(text || '');
+  let out = String(text || '');
+  const held: string[] = [];
+  out = out.replace(/<[\s\S]*?>/g, (markup) => { const token = `@@TAG${held.length}@@`; held.push(markup); return token; });
+  const placeholders: string[] = [];
+  for (const art of arts) {
+    const re = new RegExp('\\b' + escRe(art.name) + '\\b', 'g');
+    out = out.replace(re, (match) => {
+      const token = `@@ART${placeholders.length}@@`;
+      placeholders.push(`<span class="novel-art novel-art--${art.tone}" title="${art.label}">${match}</span>`);
+      return token;
+    });
+  }
+  placeholders.forEach((value, index) => { out = out.replaceAll(`@@ART${index}@@`, value); });
+  held.forEach((value, index) => { out = out.replaceAll(`@@TAG${index}@@`, value); });
+  return out;
 }
 
 function annotateSkills(text: string): string {
@@ -152,6 +216,6 @@ function annotateNamesForSeason(text: string, season: number | undefined, intera
 
 /** Render an episode/legend body: dialogue cards, skill callouts, and ranked names. */
 export function renderNovel(text: string, season?: number, options: RenderNovelOptions = {}): string {
-  const html = annotateNamesForSeason(annotateSkills(annotateDialogue(text, Boolean(options.interactiveNames))), season, Boolean(options.interactiveNames));
+  const html = annotateNamesForSeason(annotateSkills(annotateDialogue(annotateArtNames(text), Boolean(options.interactiveNames))), season, Boolean(options.interactiveNames));
   return html.replace(/\n*(<span class="novel-dialogue[\s\S]*?<\/span>)\n*/g, '$1');
 }
