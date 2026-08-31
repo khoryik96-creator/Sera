@@ -46,6 +46,16 @@ describe('reading journey', () => {
     expect(validReadingJourney({ visits, seasonCompletions: [] })).toBe(false);
   });
 
+  it('accepts a journey that has completed every season of the story', () => {
+    // Guards against the completion cap drifting behind the season count: a
+    // reader who finishes all seasons must keep their whole journey.
+    const seasonCompletions = Array.from({ length: 74 }, (_, index) => ({
+      season: index + 1,
+      completedAt: index + 1,
+    }));
+    expect(validReadingJourney({ visits: [], seasonCompletions })).toBe(true);
+  });
+
   it('clears the private journey state', () => {
     recordReadingJourney({ id: 'ep-s1-e1', season: 1, title: 'Opening' }, false, 2000);
     clearReadingJourney();
