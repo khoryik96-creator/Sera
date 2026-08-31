@@ -90,6 +90,28 @@ function rankBadgeMarkup(rank: string, name: string, season?: number): string {
 // through the epilogue, so from season 65 the bare surname renders as plain text.
 const aliasLastSeason: Record<string, number> = { Han: 64, Wei: 64 };
 
+// A bare single-word alias immediately followed by another capitalised name-word
+// is almost always a *different* character whose surname or given name happens to
+// match the alias (e.g. "Wei Shuang" the Hollow Saint vs Former #5 Wei Zhen, or
+// the apprentice "Han Mira" vs Han Myeong). Any such compound that is a genuine
+// registry character is consumed earlier by its own longer alias, so whatever
+// reaches this stage is an unregistered new character and must not inherit the
+// alias-holder's badge. The exception is a following honorific/relationship word,
+// where the alias really is the registry character being addressed by title.
+export const nameHonorifics = new Set([
+  'Teacher', 'Master', 'Mother', 'Father', 'Sister', 'Brother', 'Elder', 'Sovereign',
+  'Lord', 'Lady', 'Aunt', 'Uncle', 'Sir', 'Madam', 'Miss', 'Doctor', 'Physician',
+  'General', 'Captain', 'Commander', 'Governor', 'Grandmother', 'Grandfather', 'Senior', 'Junior',
+]);
+
+/** True when a single-word alias at this position is the head of a different
+ *  character's compound name (followed by a capitalised non-honorific word). */
+function startsForeignCompound(alias: string, rest: string): boolean {
+  if (/\s/.test(alias)) return false;
+  const next = /^\s+([A-Z][a-z]+)/.exec(rest);
+  return next !== null && !nameHonorifics.has(next[1]);
+}
+
 function annotateNamesForSeason(text: string, season: number | undefined, interactiveNames: boolean): string {
   let out = String(text || '');
   const held: string[] = [];
@@ -109,7 +131,10 @@ function annotateNamesForSeason(text: string, season: number | undefined, intera
     // Consume any legacy inline numeric rank immediately before the name so the
     // reader always shows one canonical Lucy-style badge instead of "#1 - Name".
     const re = new RegExp('(?:(?:Former\\s+)?#\\d+\\s*(?:—|-)?\\s*)?\\b' + escRe(name) + '\\b', 'g');
-    out = out.replace(re, () => {
+    out = out.replace(re, (match: string, offset: number, full: string) => {
+      // Leave the alias untagged when it heads a different character's compound
+      // name, so e.g. "Wei Shuang" never inherits Wei Zhen's badge.
+      if (startsForeignCompound(name, full.slice(offset + match.length))) return match;
       const rank = effectiveRank(name, season);
       const badge = rankBadgeMarkup(rank, name, season);
       const token = `@@NAME${placeholders.length}@@`;
