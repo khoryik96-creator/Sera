@@ -2,14 +2,15 @@ import { describe, it, expect } from 'vitest';
 import rawData from '../src/data.json';
 import { characterImageMap } from '../src/images';
 import { normalizeDatabase } from '../src/db';
+import { TOTAL_SEASONS } from '../src/episodeMeta';
 import type { RawDatabase } from '../src/types';
 
 const raw = rawData as unknown as RawDatabase;
 const data = normalizeDatabase(raw);
 
 describe('data integrity', () => {
-  it('has all 74 canonical seasons as non-empty arrays', () => {
-    for (let season = 1; season <= 74; season++) {
+  it('has every canonical season as a non-empty array', () => {
+    for (let season = 1; season <= TOTAL_SEASONS; season++) {
       const episodes = raw[`season${season}` as `season${number}`];
       expect(Array.isArray(episodes), `season${season}`).toBe(true);
       expect(episodes.length, `season${season}`).toBeGreaterThan(0);

@@ -1,5 +1,5 @@
 import { useEffect, useMemo, useState } from 'react';
-import { EPISODE_ARCS } from '../../../episodeMeta';
+import { EPISODE_ARCS, TOTAL_SEASONS} from '../../../episodeMeta';
 import { nextUnreadInSeason, nextUnreadTarget, overallReadingProgress, progressForSeason } from '../../../readingProgress';
 import { loadSeason } from '../../../seasonStore';
 import type { Episode } from '../../../types';
@@ -119,7 +119,7 @@ export function ChaptersPage({ onOpenChapter }: ChaptersPageProps) {
           <div className="chapter-season-summary__actions">
             <button disabled={selectedSeason <= 1} onClick={() => setSelectedSeason((season) => Math.max(1, season - 1))} type="button">← S{Math.max(1, selectedSeason - 1)}</button>
             <button className="is-primary" disabled={loading || Boolean(error) || episodes.length === 0} onClick={() => onOpenChapter(selectedSeason, preferredChapter)} type="button">{selectedHasResume ? `Continue Ch ${preferredChapter}` : selectedNextUnread ? `Read Ch ${preferredChapter}` : 'Start season'}</button>
-            <button disabled={selectedSeason >= 74} onClick={() => setSelectedSeason((season) => Math.min(74, season + 1))} type="button">S{Math.min(74, selectedSeason + 1)} →</button>
+            <button disabled={selectedSeason >= TOTAL_SEASONS} onClick={() => setSelectedSeason((season) => Math.min(TOTAL_SEASONS, season + 1))} type="button">S{Math.min(TOTAL_SEASONS, selectedSeason + 1)} →</button>
           </div>
         </div>
 

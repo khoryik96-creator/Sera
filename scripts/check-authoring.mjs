@@ -30,11 +30,16 @@ if (neutralBlock) for (const k of neutralBlock[1].matchAll(/(\w+):/g)) { speaker
 const artNames = new Set();
 for (const rows of Object.values(data.topSkills || {})) for (const r of rows) artNames.add(r.name);
 for (const r of [...(data.rhenSkills || []), ...(data.seraSkills || [])]) artNames.add(r.name);
-const norm = (s) => s.toLowerCase().replace(/[‘’']/g, "'").replace(/[–—]/g, '-').replace(/\s+/g, ' ').trim();
 const escRe = (s) => s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
 // The reader matches an art name case-sensitively, tolerating only straight vs
 // curly apostrophes (see annotateArtNames in src/novel.ts). Mirror that here.
 const rendererRe = (name) => new RegExp('\\b' + escRe(name).replace(/[’']/g, "['’]") + '\\b');
+// Case/dash/apostrophe-insensitive matcher for the same name, used to spot
+// spellings that differ from the stylable form.
+const looseRe = (name) => new RegExp(
+  '\\b' + escRe(name).replace(/[’']/g, "['’]").replace(/[–—-]/g, '[–—-]').replace(/\s+/g, '\\s+') + '\\b',
+  'gi',
+);
 // A following honorific/relationship word means the bare name really is the
 // registry character being addressed by title — the reader highlights it fine.
 const honorifics = new Set(['Teacher', 'Master', 'Mother', 'Father', 'Sister', 'Brother', 'Elder', 'Sovereign', 'Lord', 'Lady', 'Aunt', 'Uncle', 'Sir', 'Madam', 'Miss', 'Doctor', 'Physician', 'General', 'Captain', 'Commander', 'Governor', 'Grandmother', 'Grandfather', 'Senior', 'Junior']);
@@ -45,7 +50,6 @@ const corpus = seasonKeys.flatMap((k) => data[k].map((ep) => String(ep.text || '
 // the inline art path, so an art appearing only there is not a near-miss.
 const calloutRe = /(SUPREME PASSIVE ART|SUPREME ART|TRANSCENDED SKILL|TRANSCENDED ART|ULTIMATE ART)\s*[—-]\s*[^\n]+/gi;
 const artCorpus = corpus.replace(calloutRe, ' ');
-const normCorpus = norm(artCorpus);
 
 const unknownSpeakers = new Map();
 const collisionCompounds = new Map();
@@ -65,9 +69,19 @@ for (const key of seasonKeys) {
   }
 }
 
-// Arts that are mentioned in the prose (normalised) but would NOT style in the
-// reader — the "skill not highlighted" bug, e.g. a wrong-case or dash variant.
-const artNearMisses = [...artNames].filter((name) => normCorpus.includes(norm(name)) && !rendererRe(name).test(artCorpus));
+// Arts written in the prose as a proper-noun title but in a form the reader
+// won't style — the "skill not highlighted" bug, e.g. a wrong-case ("Veiled
+// moon") or wrong-dash variant. We deliberately ignore two spellings that are
+// NOT typos of the art name: an all-lowercase occurrence is ordinary prose that
+// merely reuses the words ("Tor's borrowed future ran thin"), and an all-caps
+// occurrence is deliberate emphatic/bold styling ("**THE BREATH THAT NEVER
+// CAME**"), which the reader already renders as emphasis. Only a mixed-case
+// spelling that isn't the exact stylable form is a real near-miss.
+const artNearMisses = [...artNames].filter((name) => {
+  if (rendererRe(name).test(artCorpus)) return false;
+  const matches = artCorpus.match(looseRe(name)) || [];
+  return matches.some((m) => m !== m.toLowerCase() && m !== m.toUpperCase());
+});
 
 // --- Report ----------------------------------------------------------------
 let hardIssues = 0;

@@ -1,4 +1,5 @@
 import type { CSSProperties } from 'react';
+import { TOTAL_SEASONS, TOTAL_ARCS } from '../../../episodeMeta';
 import { completedSeasonCount, nextUnreadTarget, overallReadingProgress } from '../../../readingProgress';
 import { arcReadingInsights, furthestOpenedTarget, inProgressSeasonInsights, readingActivity, readingJourneySummary } from '../../../readingInsights';
 import { PageHeader } from '../../components/Shared';
@@ -50,7 +51,7 @@ export function InsightsPage({ onOpenChapter, onOpenLibrary, onOpenJourney }: In
         </div>
         <div className="insights-overall" aria-label="Overall story progress">
           <div className="insights-overall__ring" style={{ '--insights-progress': `${overall.percent * 3.6}deg` } as CSSProperties}><span><strong>{overall.percent}%</strong><small>complete</small></span></div>
-          <p>{completedSeasons} of 74 seasons complete</p>
+          <p>{completedSeasons} of {TOTAL_SEASONS} seasons complete</p>
         </div>
       </div>
 
@@ -97,7 +98,7 @@ export function InsightsPage({ onOpenChapter, onOpenLibrary, onOpenJourney }: In
       </section>
 
       <section className="insights-section">
-        <div className="insights-heading"><div><p className="eyebrow">Story map</p><h3>Progress by arc</h3></div><span>14 arcs · 74 seasons</span></div>
+        <div className="insights-heading"><div><p className="eyebrow">Story map</p><h3>Progress by arc</h3></div><span>{TOTAL_ARCS} arcs · {TOTAL_SEASONS} seasons</span></div>
         <div className="insights-arc-grid">
           {arcs.map((arc) => {
             const target = arc.nextUnread || { season: arc.firstSeason, episode: 1 };

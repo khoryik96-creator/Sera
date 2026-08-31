@@ -20,10 +20,12 @@ for (const [key, value] of Object.entries(source)) {
 }
 
 seasons.sort((a, b) => a.season - b.season);
-const expected = Array.from({ length: 74 }, (_, index) => index + 1);
+// The story grows over time, so validate that seasons are a contiguous run
+// starting at 1 rather than pinning a fixed maximum.
 const found = seasons.map((item) => item.season);
-if (JSON.stringify(found) !== JSON.stringify(expected)) {
-  throw new Error(`Expected seasons 1-74, found: ${found.join(', ')}`);
+const expected = Array.from({ length: found.length }, (_, index) => index + 1);
+if (found.length === 0 || JSON.stringify(found) !== JSON.stringify(expected)) {
+  throw new Error(`Expected a contiguous season range 1-${found.length}, found: ${found.join(', ')}`);
 }
 
 /**

@@ -177,4 +177,30 @@ export const EPISODE_ARCS: EpisodeArcMeta[] = [
       season(74, 'The Last Cup Before North', '10 CHAPTERS · FIRST DRAFT'),
     ],
   },
+  {
+    title: 'Continuation Chronicle — Where the Black Wick Leads',
+    badge: 'Seasons 75–84 · Complete first draft',
+    description: 'Jin’s northern distress signal pulls the Quaint Teahouse toward Isgard, where the Duskvein banners and the black-wick current force the five-year cast into open war.',
+    seasons: [
+      season(75, 'The Cup After the Signal', '10 CHAPTERS · FIRST DRAFT'),
+      season(76, 'No Banner on the Water', '10 CHAPTERS · FIRST DRAFT'),
+      season(77, 'Seventh on the Banner Ledger', '10 CHAPTERS · FIRST DRAFT'),
+      season(78, 'The Cage That Punishes Rescue', '10 CHAPTERS · FIRST DRAFT'),
+      season(79, 'The White Huntmaster', '10 CHAPTERS · FIRST DRAFT'),
+      season(80, 'Banners Gather at Bannerfall', '10 CHAPTERS · FIRST DRAFT'),
+      season(81, 'Duskvein Closes the Basin', '10 CHAPTERS · FIRST DRAFT'),
+      season(82, 'The First Executioner', '10 CHAPTERS · FIRST DRAFT'),
+      season(83, "The First Banner's Iron Witness", '10 CHAPTERS · FIRST DRAFT'),
+      season(84, 'The Black Current Turns South', '10 CHAPTERS · FIRST DRAFT'),
+    ],
+  },
 ];
+
+/** Highest season and total chapter count, derived from the archive above so
+ *  callers never hard-code the story length. */
+export const TOTAL_SEASONS: number = Math.max(...EPISODE_ARCS.flatMap((arc) => arc.seasons.map((s) => s.season)));
+export const TOTAL_CHAPTERS: number = EPISODE_ARCS.flatMap((arc) => arc.seasons).reduce((sum, s) => {
+  const match = s.badge.match(/^(\d+)\s+(?:Episodes|Chapters)/i);
+  return sum + (match ? Number(match[1]) : 0);
+}, 0);
+export const TOTAL_ARCS: number = EPISODE_ARCS.length;

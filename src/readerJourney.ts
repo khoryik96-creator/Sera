@@ -1,15 +1,16 @@
 import type { Bookmark } from './bookmarks';
+import { TOTAL_SEASONS } from './episodeMeta';
 import { validBookmark } from './bookmarks';
 import { validReaderTimestamp } from './readerValidation';
 
 export const JOURNEY_KEY = 'tqr:readingJourney:v2';
 
 const VISIT_LIMIT = 500;
-// One entry per season, so this tracks the total season count. It must stay in
-// step with the story length (currently 74) — otherwise a reader who completes
-// more than this many seasons has their whole Reading Journey rejected as
-// invalid and later completions dropped on restore.
-const COMPLETION_LIMIT = 74;
+// One entry per season, so this tracks the total season count. Derived from the
+// archive (TOTAL_SEASONS) so it never falls behind the story length — otherwise a
+// reader who completes more seasons than the cap has their whole Reading Journey
+// rejected as invalid and later completions dropped on restore.
+const COMPLETION_LIMIT = TOTAL_SEASONS;
 
 export interface ReadingJourneyEntry extends Bookmark {
   openedAt: number;
@@ -38,7 +39,7 @@ export function validSeasonCompletionEntry(value: unknown): value is SeasonCompl
   const item = value as Partial<SeasonCompletionEntry>;
   return Number.isInteger(item.season)
     && Number(item.season) >= 1
-    && Number(item.season) <= 74
+    && Number(item.season) <= TOTAL_SEASONS
     && validReaderTimestamp(item.completedAt);
 }
 

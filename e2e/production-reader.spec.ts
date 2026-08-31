@@ -100,19 +100,19 @@ test('production archive renders every canonical core record', async ({ page }) 
   await expect(page.locator('.technique-card')).toHaveCount(expected.seraSkills);
 });
 
-test('chapter archive exposes all 14 arcs and 74 seasons through direct selectors', async ({ page }) => {
+test('chapter archive exposes all 15 arcs and 84 seasons through direct selectors', async ({ page }) => {
   await openProduction(page, 'chapters');
   const arcSelect = page.getByRole('combobox', { name: 'Story arc' });
   const seasonSelect = page.getByRole('combobox', { name: 'Season' });
   await expect(arcSelect).toBeVisible({ timeout: 20_000 });
   await expect(seasonSelect).toBeVisible();
-  await expect(arcSelect.locator('option')).toHaveCount(14);
-  await expect(seasonSelect.locator('option')).toHaveCount(74);
+  await expect(arcSelect.locator('option')).toHaveCount(15);
+  await expect(seasonSelect.locator('option')).toHaveCount(84);
   // Assert each option's own value via its attribute. toHaveValue/inputValue on
   // an <option> reads the parent <select>'s selected value (always "1" here),
   // not the option itself, which made the last-option check fail spuriously.
   await expect(seasonSelect.locator('option').first()).toHaveAttribute('value', '1');
-  await expect(seasonSelect.locator('option').last()).toHaveAttribute('value', '74');
+  await expect(seasonSelect.locator('option').last()).toHaveAttribute('value', '84');
 });
 
 test('Continue Reading is prominent and opens the stored chapter', async ({ page }) => {

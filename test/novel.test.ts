@@ -147,4 +147,32 @@ describe('renderNovel', () => {
     const out = renderNovel('Tae and Huo trained the recruits.', 70);
     expect(out).toContain('character-huo">Huo</span>');
   });
+
+  it('tags the bare alias "Tor" as rank-IV Tor Veydan through the pre-Isgard seasons', () => {
+    const out = renderNovel('Tor advanced without a word.', 60);
+    expect(out).toContain('character-tor">Tor</span>');
+    expect(out).toContain('rank-badge rank-badge--current">IV</span>');
+  });
+
+  it('hands the bare alias "Tor" to Tor Veyrhald, with no rank badge, from the Isgard seasons', () => {
+    // Seasons 75+ reuse the bare given name "Tor" for the Isgard commander Tor
+    // Veyrhald; he sits outside the numeric world ranking, so he must not inherit
+    // Tor Veydan's rank IV badge or colour.
+    const out = renderNovel('Tor watched the basin fill.', 78);
+    expect(out).toContain('character-tor_veyrhald">Tor</span>');
+    expect(out).not.toContain('character-tor">Tor</span>');
+    expect(out).not.toContain('rank-badge');
+  });
+
+  it('still tags the full name Tor Veydan even in the Isgard seasons', () => {
+    const out = renderNovel('The archive remembered Tor Veydan.', 80);
+    expect(out).toContain('character-tor">Tor Veydan</span>');
+    expect(out).toContain('rank-badge');
+  });
+
+  it('colours dialogue for a new Isgard speaker', () => {
+    const out = renderNovel('[[speaker:mareth]]The banners answer to no water.', 80);
+    expect(out).toContain('character-mareth');
+    expect(out).toContain('Mareth Duskvein');
+  });
 });

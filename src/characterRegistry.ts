@@ -82,6 +82,33 @@ export const characterRegistry: CharacterRegistryEntry[] = [
   { key: 'varesh', displayName: 'Varesh Nhal', colorKey: 'varesh', aliases: ['Varesh Nhal', 'Varesh'], speakerKeys: ['varesh'], currentRank: 'II' },
   { key: 'amon', displayName: 'Amon Serath', colorKey: 'amon', aliases: ['Amon Serath', 'Amon'], speakerKeys: ['amon'], currentRank: 'I' },
   { key: 'aethon', displayName: 'Aethon Vael', colorKey: 'aethon', aliases: ['Aethon Vael', 'Aethon'], speakerKeys: ['aethon'], currentRank: 'OL' },
+
+  // Isgard / Duskvein cast (Seasons 75–84, "Where the Black Wick Leads"). These
+  // are a separate northern faction outside the numeric world ranking, so they
+  // carry no rank badge — only a distinct dialogue/name colour. "Duskvein" is a
+  // shared surname, so it is never a bare alias; each uses their given name.
+  { key: 'mareth', displayName: 'Mareth Duskvein', colorKey: 'mareth', aliases: ['Mareth Duskvein', 'Mareth'], speakerKeys: ['mareth'] },
+  { key: 'garran', displayName: 'Garran Duskvein', colorKey: 'garran', aliases: ['Garran Duskvein', 'Garran'], speakerKeys: ['garran'] },
+  { key: 'neris', displayName: 'Neris Duskvein', colorKey: 'neris', aliases: ['Neris Duskvein', 'Neris'], speakerKeys: ['neris'] },
+  { key: 'sivra', displayName: 'Sivra Duskvein', colorKey: 'sivra', aliases: ['Sivra Duskvein', 'Sivra'], speakerKeys: ['sivra'] },
+  { key: 'oren', displayName: 'Oren Duskvein', colorKey: 'oren', aliases: ['Oren Duskvein', 'Oren'], speakerKeys: ['oren'] },
+  { key: 'varok', displayName: 'Varok Skeldran', colorKey: 'varok', aliases: ['Varok Skeldran', 'Varok'], speakerKeys: ['varok'] },
+  { key: 'raska', displayName: 'Raska Dravaryn', colorKey: 'raska', aliases: ['Raska Dravaryn', 'Raska'], speakerKeys: ['raska'] },
+  { key: 'eira', displayName: 'Eira Eirholt', colorKey: 'eira', aliases: ['Eira Eirholt', 'Eira'], speakerKeys: ['eira'] },
+  // Bare "Tor" was Tor Veydan (rank IV) in earlier arcs; from the Isgard seasons
+  // the prose reuses bare "Tor" for Tor Veyrhald. Only the full name is aliased
+  // here; the bare-name handoff is done season-aware via seasonScopedAliases.
+  { key: 'tor_veyrhald', displayName: 'Tor Veyrhald', colorKey: 'tor_veyrhald', aliases: ['Tor Veyrhald'], speakerKeys: ['tor_veyrhald'] },
+];
+
+/**
+ * A bare alias that resolves to a *different* registry character from a given
+ * season onward, because a later character reuses an earlier one's short name.
+ * Pair with an aliasLastSeason cutoff on the original holder so the bare name
+ * hands over cleanly instead of the newcomer inheriting the original's badge.
+ */
+export const seasonScopedAliases: { alias: string; fromSeason: number; key: string }[] = [
+  { alias: 'Tor', fromSeason: 75, key: 'tor_veyrhald' },
 ];
 
 export const neutralSpeakerNames: Record<string, string> = {
@@ -139,4 +166,5 @@ export const colorKeyItems: [string, string][] = [
   ['ilyra', '#6 Ilyra'], ['mo', '#7 Mo'], ['arin', '#8 Arin'], ['luo', '#9 Luo Wen'], ['yun', '#10 Yun'],
   ['sera', 'Former #6 Sera'], ['qin', 'Former #6 Qin'], ['han', 'Former #8 Han'],
   ['wei', 'Wei Zhen'], ['ji', 'Ji Wuye'], ['cao', 'Cao Tian'], ['ye', 'Ye Mo'], ['zhao', 'Zhao Keshan'], ['lin', 'Lin Yao'], ['yan', 'Yan Shou'], ['meizhen', 'Mei Zhen'], ['yunke', 'Yun Ke'], ['meilin', 'Jian Meilin'], ['shiyue', 'Yun Shiyue'], ['huo', 'Huo Wujin'], ['nam', 'Nam Gyeol'], ['haejin', 'Seo Haejin'], ['daemun', 'Dae Mun'], ['gong', 'Gong Seok'],
+  ['mareth', 'Mareth Duskvein'], ['garran', 'Garran Duskvein'], ['neris', 'Neris Duskvein'], ['sivra', 'Sivra Duskvein'], ['oren', 'Oren Duskvein'], ['varok', 'Varok Skeldran'], ['raska', 'Raska Dravaryn'], ['eira', 'Eira Eirholt'], ['tor_veyrhald', 'Tor Veyrhald'],
 ];
