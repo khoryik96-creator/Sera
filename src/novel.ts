@@ -82,12 +82,13 @@ function rankBadgeMarkup(rank: string, name: string, season?: number): string {
 }
 
 // Some short aliases are reused by a later, unrelated character, so auto-tagging
-// them past a cut-off would mislabel that character. The deceased Former #8 Han
-// Myeong owns the bare alias "Han" through the epilogue (season 64); the Beneath
-// the Crooked Sign seasons (65+) introduce the living apprentice Han Mira, whose
-// surname must not inherit Han Myeong's badge. Keyed by alias, value is the last
-// season in which the alias still resolves to its registry character.
-const aliasLastSeason: Record<string, number> = { Han: 64 };
+// them past a cut-off would mislabel that character. Keyed by alias, value is the
+// last season in which the alias still resolves to its registry character. The
+// Beneath the Crooked Sign seasons (65+) reuse two surnames the earlier cast
+// owned: "Han" (Former #8 Han Myeong → the apprentice Han Mira) and "Wei"
+// (Former #5 Wei Zhen → the physician Wei An). Both original holders appear only
+// through the epilogue, so from season 65 the bare surname renders as plain text.
+const aliasLastSeason: Record<string, number> = { Han: 64, Wei: 64 };
 
 function annotateNamesForSeason(text: string, season: number | undefined, interactiveNames: boolean): string {
   let out = String(text || '');
