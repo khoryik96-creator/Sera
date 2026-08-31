@@ -87,7 +87,10 @@ function annotateArtNames(text: string): string {
   out = out.replace(/<[\s\S]*?>/g, (markup) => { const token = `@@TAG${held.length}@@`; held.push(markup); return token; });
   const placeholders: string[] = [];
   for (const art of arts) {
-    const re = new RegExp('\\b' + escRe(art.name) + '\\b', 'g');
+    // Prose uses typographic apostrophes while the skill data uses straight ones
+    // (and vice-versa), so match either — otherwise "Sovereign's March" is missed.
+    const pattern = escRe(art.name).replace(/[’']/g, "[\\u2019']");
+    const re = new RegExp('\\b' + pattern + '\\b', 'g');
     out = out.replace(re, (match) => {
       const token = `@@ART${placeholders.length}@@`;
       placeholders.push(`<span class="novel-art novel-art--${art.tone}" title="${art.label}">${match}</span>`);

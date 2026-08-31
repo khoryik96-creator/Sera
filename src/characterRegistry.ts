@@ -49,7 +49,7 @@ export const characterRegistry: CharacterRegistryEntry[] = [
   { key: 'meilin', displayName: 'Jian Meilin', colorKey: 'meilin', aliases: ['Jian Meilin'], speakerKeys: ['meilin'] },
   { key: 'song', displayName: 'Song Qiren', colorKey: 'song', aliases: ['Song Qiren'], speakerKeys: ['song'] },
   { key: 'shiyue', displayName: 'Yun Shiyue', colorKey: 'shiyue', aliases: ['Yun Shiyue'], speakerKeys: ['shiyue'] },
-  { key: 'huo', displayName: 'Huo Wujin', colorKey: 'huo', aliases: ['Huo Wujin'], speakerKeys: ['huo'] },
+  { key: 'huo', displayName: 'Huo Wujin', colorKey: 'huo', aliases: ['Huo Wujin', 'Huo'], speakerKeys: ['huo'] },
   { key: 'nam', displayName: 'Nam Gyeol', colorKey: 'nam', aliases: ['Nam Gyeol'], speakerKeys: ['nam'] },
   { key: 'chun', displayName: 'Chun Baek', colorKey: 'chun', aliases: ['Chun Baek'], speakerKeys: ['chun'] },
   { key: 'haejin', displayName: 'Seo Haejin', colorKey: 'haejin', aliases: ['Seo Haejin'], speakerKeys: ['haejin'] },
