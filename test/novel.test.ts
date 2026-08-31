@@ -46,6 +46,12 @@ describe('renderNovel', () => {
     expect(out).toContain('Frozen Bloom');
   });
 
+  it('renders **bold** markdown as real bold without leaving asterisks', () => {
+    const out = renderNovel('His evolved **Boundless Horizon** held the line.');
+    expect(out).toContain('<strong>');
+    expect(out).not.toContain('**');
+  });
+
   it('annotates a known character name with a separate rank pill', () => {
     const out = renderNovel('Kael arrived at dawn.');
     expect(out).toContain('novel-character-name character-kael');

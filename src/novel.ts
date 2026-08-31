@@ -214,8 +214,14 @@ function annotateNamesForSeason(text: string, season: number | undefined, intera
   return out;
 }
 
+/** Convert Markdown-style **bold** emphasis into real bold, so the authoring
+ *  marker never shows as literal asterisks in the reader. */
+function annotateBold(text: string): string {
+  return String(text || '').replace(/\*\*(?=\S)([^*\n]+?)\*\*/g, '<strong>$1</strong>');
+}
+
 /** Render an episode/legend body: dialogue cards, skill callouts, and ranked names. */
 export function renderNovel(text: string, season?: number, options: RenderNovelOptions = {}): string {
-  const html = annotateNamesForSeason(annotateSkills(annotateDialogue(annotateArtNames(text), Boolean(options.interactiveNames))), season, Boolean(options.interactiveNames));
+  const html = annotateNamesForSeason(annotateSkills(annotateDialogue(annotateArtNames(annotateBold(text)), Boolean(options.interactiveNames))), season, Boolean(options.interactiveNames));
   return html.replace(/\n*(<span class="novel-dialogue[\s\S]*?<\/span>)\n*/g, '$1');
 }
