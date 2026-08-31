@@ -1,5 +1,10 @@
-import { describe, it, expect } from 'vitest';
+import { describe, it, expect, beforeAll } from 'vitest';
+import data from '../src/data.json';
+import { setDB } from '../src/db';
 import { renderNovel, rankForStory } from '../src/novel';
+import type { RawDatabase } from '../src/types';
+
+beforeAll(() => setDB(data as unknown as RawDatabase));
 
 describe('rankForStory', () => {
   it('returns the static rank when no season is given', () => {
@@ -129,5 +134,17 @@ describe('renderNovel', () => {
     expect(out).not.toContain('rank-badge');
     expect(out).not.toContain('character-wei">Wei</span>');
     expect(out).toContain('Wei An');
+  });
+
+  it('styles an art whose name has an apostrophe, matching typographic quotes', () => {
+    // The skill data stores a straight apostrophe; the prose uses a curly one.
+    const out = renderNovel('Kael anchored the road with Sovereign’s March.', 70);
+    expect(out).toContain('novel-art');
+    expect(out).toContain('Sovereign’s March');
+  });
+
+  it('colours the bare alias "Huo" as Huo Wujin', () => {
+    const out = renderNovel('Tae and Huo trained the recruits.', 70);
+    expect(out).toContain('character-huo">Huo</span>');
   });
 });
