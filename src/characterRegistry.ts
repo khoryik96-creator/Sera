@@ -99,6 +99,16 @@ export const characterRegistry: CharacterRegistryEntry[] = [
   // the prose reuses bare "Tor" for Tor Veyrhald. Only the full name is aliased
   // here; the bare-name handoff is done season-aware via seasonScopedAliases.
   { key: 'tor_veyrhald', displayName: 'Tor Veyrhald', colorKey: 'tor_veyrhald', aliases: ['Tor Veyrhald'], speakerKeys: ['tor_veyrhald'] },
+
+  // Southern Isgard Paragons ("When Wuyue Marches North", Seasons 87–93). Paragon
+  // is a tier above the numeric world ranking, so they carry no rank badge — only
+  // a distinct dialogue/name colour. Each shares a surname with an earlier Isgard
+  // figure (Tor Veyrhald, Raska Dravaryn) but is aliased only by a unique given
+  // name, so no bare-alias handoff is needed. NOTE: their names and genders remain
+  // approval gates in docs/WHEN_WUYUE_MARCHES_NORTH_OUTLINE.md §8; activated per
+  // the user's explicit approval to wire them now, ahead of the Season 87–93 prose.
+  { key: 'aldric', displayName: 'Aldric Veyrhald', colorKey: 'aldric', aliases: ['Aldric Veyrhald', 'Aldric'], speakerKeys: ['aldric'] },
+  { key: 'maedra', displayName: 'Maedra Dravaryn', colorKey: 'maedra', aliases: ['Maedra Dravaryn', 'Maedra'], speakerKeys: ['maedra'] },
 ];
 
 /**
@@ -167,4 +177,5 @@ export const colorKeyItems: [string, string][] = [
   ['sera', 'Former #6 Sera'], ['qin', 'Former #6 Qin'], ['han', 'Former #8 Han'],
   ['wei', 'Wei Zhen'], ['ji', 'Ji Wuye'], ['cao', 'Cao Tian'], ['ye', 'Ye Mo'], ['zhao', 'Zhao Keshan'], ['lin', 'Lin Yao'], ['yan', 'Yan Shou'], ['meizhen', 'Mei Zhen'], ['yunke', 'Yun Ke'], ['meilin', 'Jian Meilin'], ['shiyue', 'Yun Shiyue'], ['huo', 'Huo Wujin'], ['nam', 'Nam Gyeol'], ['haejin', 'Seo Haejin'], ['daemun', 'Dae Mun'], ['gong', 'Gong Seok'],
   ['mareth', 'Mareth Duskvein'], ['garran', 'Garran Duskvein'], ['neris', 'Neris Duskvein'], ['sivra', 'Sivra Duskvein'], ['oren', 'Oren Duskvein'], ['varok', 'Varok Skeldran'], ['raska', 'Raska Dravaryn'], ['eira', 'Eira Eirholt'], ['tor_veyrhald', 'Tor Veyrhald'],
+  ['aldric', 'Aldric Veyrhald'], ['maedra', 'Maedra Dravaryn'],
 ];
