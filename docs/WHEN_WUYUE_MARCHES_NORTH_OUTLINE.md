@@ -340,6 +340,18 @@ This preserves the earlier statement that Tor is not among Veyrhald's strongest 
 - Eldran believes occupied ground must immediately become usable military infrastructure. He is less theatrical than Raska and more dangerous during a prolonged campaign.
 - Solveig considers the undiscovered Quiet Hand a strategic wound in Isgard's senses. She hunts its methods relentlessly while refusing to fabricate a trail merely to satisfy the coalition.
 
+#### Proposed Signature Supreme Arts
+
+These names are approval-level additions and will require skill wiring before prose uses them.
+
+| Owner | Proposed Supreme Art | Combat principle |
+|---|---|---|
+| **Sigrun Veyrhald** | **The First Wall Outlives the Siege** | Every properly received impact becomes additional structural weight in her next defence; the art grows harder to move while she continues protecting the same boundary. |
+| **Halvek Veyrhald** | **Every Road Kneels Before the Gate** | Prepared road seals let Halvek close, redirect or compress movement routes across a military field without forming a true Domain. |
+| **Solveig Skeldran** | **No Footprint Survives the Last Snow** | Once Solveig has read one genuine movement trace, pursuit pressure propagates through later false trails until it reaches the body that made the original mark. |
+| **Raska Dravaryn** | **Crimson Cavalry Crosses the Setting Sun** | Raska and a chosen cavalry formation preserve the force of each completed charge in the next, creating escalating assault momentum without reaching Paragon-domain continuity. |
+| **Eldran Dravaryn** | **Cinder Standard Over the Fallen Mile** | Ground held beneath Eldran's standard retains heat, pressure and marching rhythm, turning every captured mile into reinforcement for his armoured circulation. |
+
 #### Additional Sovereign Tier — Eighteen
 
 - Veyrhald fields four additional Early-to-Established Sovereign fortress and formation commanders.
@@ -455,6 +467,22 @@ The pairs are operational anchors, not permanent duos. They still rotate across 
 - The pair leaders learn that requesting Rhen for their own wounded means another front may remain outside his twenty-mile sanctuary.
 - Sera and Rhen therefore remain connected to all ten ranked leaders without becoming a sixth battlefield pair that solves their responsibilities.
 
+### 10.3 The Five Sovereigns' Isgard Fight Spine
+
+Rui's destruction is the most brutal personal defeat, but the other four Sovereigns each receive a multi-stage rivalry with an opponent above their cultivation or exceptionally dangerous to their specialty.
+
+| Wuyue Sovereign | Isgard opponent | First encounter | Costliest encounter | Final result |
+|---|---|---|---|---|
+| **Kael Veyran** | **Peak Sovereign Sigrun Veyrhald** | Kael's **Nine Heavens Collapse** breaks layers of the First Banner formation, but **The First Wall Outlives the Siege** grows heavier with every strike he commits to the same boundary. | Under Aldric's domain pressure, Sigrun defeats Kael after he uses **The Mountain Does Not Move** to keep the retreat alive. His torso and weapon arm are broken, but the army behind him escapes. | Kael and Arin later destroy Sigrun's prepared wall structure together. Sigrun remains personally standing; Kael wins the road, not a dishonest cultivation-tier reversal. |
+| **Liang Yue** | **Peak Sovereign Halvek Veyrhald** | Liang discovers that Halvek's military roads function like an external circulation network and secretly seeds **White Blood: Vein Whisper** into its seals. | Halvek closes every physical route around Liang and overwhelms her Mid Sovereign body. She accepts a spear through her side to place White Blood directly into the gate rhythm while Yun keeps the wound from becoming fatal. | **When the Last Pulse Turns White** and Yun's nonlethal venom force Halvek to sever his own road network. He remains stronger personally, but loses the coalition movement system he was protecting. |
+| **Jin Seoryu** | **High Sovereign Solveig Skeldran** | Solveig destroys a lantern chain and reaches Jin's command position, proving that prediction cannot command information it never receives. | Jin loses their direct fight within moments and is run through before Mo's Paper-Seal Guard extracts him. During the attack, Jin observes the one pursuit decision Solveig never delegates. | Jin uses **Borrowed Future** and **Thousand Lantern Cage** to let Solveig find him again inside a campaign where every path she opens closes upon her own Hunt. He defeats her strategic objective without pretending his Early Sovereign body can overpower hers. |
+| **Lei Zhen** | **High Sovereign Raska Dravaryn** | Lei's speed checks Raska's first cavalry charge, but her accumulated formation momentum breaks his thunderfire circuit and leaves Luo stabilizing scorched meridians. | At Rimewall, Raska attacks the moving medical road while Lei is already exhausting himself through rescues. Lei cannot defeat her and still reach Rui, so Luo and ordinary soldiers hold the corridor after he leaves. | On the Red Miles, **Black Heaven Descends** divides Raska's stored charge across multiple conductive routes. Lei and Luo stop the cavalry objective and force her to dismount; Raska remains a stronger individual and later withdraws for Isgard's interests rather than becoming their friend. |
+| **Shen Rui** | **High Sovereign Eldran plus five Sovereigns** | Eldran spends the first year studying the frozen and flowing routes holding Rui's fleet together. | Six Sovereigns isolate and utterly defeat Rui; repeated kicks leave him critical until Lei extracts him and Rhen uses **Sanctuary of Petals**. | Rui returns months later, dismantles the Cinder Standard's road with Ilyra and refuses to reproduce Eldran's cruelty after Eldran is captured. |
+
+This structure gives each Wuyue Sovereign a different kind of outcome: Kael loses personally but saves an army; Liang loses the physical field but poisons its governing system; Jin loses the duel but wins the pursuit campaign; Lei turns a failed duel into a successful rescue and later stops an army; Rui is broken, healed and chooses discipline over revenge.
+
+Rhen eventually restores the surviving leaders who reach him, with **Sanctuary of Petals** reserved as the dramatic answer to Rui's critical collapse and the mass casualties around him. Healing their bodies does not return lost fortresses, dead soldiers, broken supply months or the authority their deputies had to assume while they were absent.
+
 ---
 
 ## 11. Ten-Season Macro Structure
@@ -463,10 +491,10 @@ The pairs are operational anchors, not permanent duos. They still rotate across 
 |---:|---:|---|---|
 | **85** | 201–210 | **Forty Percent** | Reveal Black March, Sera's fear and the complete Wuyue mobilization. |
 | **86** | 211–220 | **The Black Current Carries an Army** | Cross 129,000 troops, establish command limits and enter Isgard under attack. |
-| **87** | 221–230 | **Three Gates, Twelve Banners** | First full army clashes and the political shape of Isgard's coalition. |
-| **88** | 231–240 | **When Paragons Enter the Field** | Aldric and Maedra reveal the true tier gap and force Wuyue into costly retreat. |
+| **87** | 221–230 | **Three Gates, Twelve Banners** | First full army clashes establish Kael–Sigrun, Liang–Halvek and the other long-war rivalries. |
+| **88** | 231–240 | **When Paragons Enter the Field** | Aldric and Maedra reveal the true tier gap while Sigrun defeats Kael, Raska breaks Lei and Solveig nearly kills Jin. |
 | **89** | 241–250 | **Three Peaks Stayed Home** | The Peak Rotation pays off when a concealed second invasion strikes Wuyue; Tae, Huo, Qin, 160 improved Quiet Hands and the reserve armies answer. |
-| **90** | 251–260 | **Five Pairs at Rimewall** | The Sovereign–Duke partnerships hold the retreat; Arin's sect is shattered, Rui is destroyed by six Sovereigns, Lei extracts him and Rhen heals what the war has not already killed. |
+| **90** | 251–260 | **Five Pairs at Rimewall** | The paired rematches break Isgard's road and pursuit systems, but Arin's sect is shattered and Rui is destroyed by six Sovereigns before Lei and Rhen save him. |
 | **91** | 261–270 | **Orchid Dominion** | Sera completes martial unification and reaches Paragon during a rescue she must command and fight simultaneously. |
 | **92** | 271–280 | **Five Sovereigns Against the Crimson Road** | Wuyue survives Maedra's domain by breaking her invasion objective rather than defeating her cultivation tier. |
 | **93** | 281–290 | **The Unbroken Standard** | Sera and Aldric contest true domains while the largest battle decides whether either continent can still withdraw. |
@@ -599,7 +627,7 @@ The first Wuyue formations reach Three-Gate Plain while Isgard's coalition occup
 
 ### Chapter 221 — Three Gates Open at Once
 
-Sigrun Veyrhald directs attacks against Rui's supply road, Mo's imperial centre and Lei's mobile wing simultaneously. Jin refuses to reinforce the loudest battle until he identifies which gate protects the coalition's real objective.
+Sigrun Veyrhald directs attacks against Rui's supply road, Mo's imperial centre and Lei's mobile wing simultaneously. Kael meets her at the central gate: **Nine Heavens Collapse** breaks successive shield layers, but **The First Wall Outlives the Siege** converts every committed impact into a heavier boundary. Jin refuses to reinforce the loudest battle until he identifies which gate protects the coalition's real objective.
 
 ### Chapter 222 — Stormreach Breaks the False Gate
 
@@ -627,11 +655,11 @@ Rui shapes an escape road through the collapsing imperial flank while Ilyra's Sh
 
 ### Chapter 228 — Kael Holds the Centre Alone
 
-Kael stops Sigrun's Veyrhald heavy formation without Stonecrown troops. Isgard learns the army left at home was not the source of the Mountain's personal scale. In Wuyue, Tae studies the same kind of positional burden while standing alone against Huo and Qin.
+Kael stops Sigrun's Veyrhald heavy formation without Stonecrown troops, but cannot move the Peak Sovereign from the boundary she has accepted. Isgard learns the army left at home was not the source of the Mountain's personal scale, while Kael learns the first wall grows stronger when he treats it as something to batter indefinitely. In Wuyue, Tae studies the same kind of positional burden while standing alone against Huo and Qin.
 
 ### Chapter 229 — Liang Finds Two Circulations in One War
 
-Liang detects an Isgard command rhythm beneath ordinary signals. She begins building a competing White Blood pattern through captured relay officers without yet knowing it belongs to a Paragon domain.
+Liang detects two Isgard command rhythms beneath ordinary signals: the first belongs to Halvek's sealed military roads, while the deeper inheritance leads toward a Paragon domain. Halvek closes three routes around her without appearing personally; Liang answers by placing dormant **White Blood: Vein Whisper** fragments inside the seals he believes remain external to his body.
 
 ### Chapter 230 — The First Gate Was the Road Behind Them
 
@@ -659,11 +687,11 @@ Sera's unified techniques almost answer automatically, but no stable domain form
 
 ### Chapter 235 — Kael Carries a Retreat Instead of a Victory
 
-Kael holds the physical centre while Rui moves wounded formations backward. His achievement is keeping tens of thousands alive beneath a Paragon, not pretending he can win the duel.
+Kael holds the physical centre while Rui and Ilyra move wounded formations backward. Aldric's domain makes every advance heavier, and Sigrun attacks the boundary Kael refuses to surrender. She defeats him after **The Mountain Does Not Move** receives enough pressure to break his torso and weapon arm. His achievement is keeping tens of thousands alive until the retreat reaches Rhen's treatment line—not pretending survival beneath a Peak Sovereign and a Paragon field was a duel victory.
 
 ### Chapter 236 — The Crimson Road Enters from the East
 
-Maedra Dravaryn reveals a second true domain across the Red Miles. Accumulated movement turns one cavalry advance into a pressure wave that breaks three imperial defensive layers.
+Maedra Dravaryn reveals a second true domain across the Red Miles. Raska enters beneath it with **Crimson Cavalry Crosses the Setting Sun**. Lei checks the first charge through thunderfire, but the High Sovereign's preserved formation momentum breaks his circuit and burns the recoil through his own meridians. Luo pulls him into treatment as the cavalry pressure wave breaks three imperial defensive layers.
 
 ### Chapter 237 — Arin's Inner Disciples Refuse the Gap
 
@@ -671,7 +699,7 @@ The five hundred inner disciples hold a severed retreat seam long enough for fie
 
 ### Chapter 238 — Mo Burns the Perfect Map
 
-Mo destroys his own prepared campaign scripture when Paragon pressure makes its routes lethal. He chooses living soldiers over preserving the plan that proved his genius.
+Solveig uses **No Footprint Survives the Last Snow** to make every false lantern route lead back toward Jin's original movement trace. She reaches the command shelter while Paragon pressure makes Mo's perfect campaign scripture lethal. Jin loses the direct confrontation within moments and is run through before Mo's Paper-Seal Guard extracts him. Mo burns the map, chooses living soldiers over preserving the plan that proved his genius and carries Jin to Rhen with the single pursuit choice Jin managed to observe.
 
 ### Chapter 239 — Rhen Counts Who Cannot Be Reached
 
@@ -735,15 +763,15 @@ Sera divides the Rimewall breakout among the five Sovereign–Duke partnerships.
 
 ### Chapter 252 — Jin Cannot Spend Mo's Citizens
 
-Jin proposes sacrificing the imperial centre's rear brigades to keep the sole exit open. Mo refuses the hidden cost, addresses all fifty-two thousand citizens honestly and offers a rotating withdrawal that is slower but does not designate one class of soldiers as expendable. Jin accepts the correction and rebuilds the campaign around it.
+Jin proposes sacrificing the imperial centre's rear brigades to keep the sole exit open. Mo refuses the hidden cost, addresses all fifty-two thousand citizens honestly and offers a rotating withdrawal. Solveig finds Jin again, but **Borrowed Future** has rebuilt her preferred pursuit inside **Thousand Lantern Cage**: every route she opens closes upon her own Hunt. Jin accepts Mo's correction and defeats Solveig's campaign objective without trying to meet her High Sovereign body in another direct exchange.
 
 ### Chapter 253 — Liang Opens the Vein; Yun Decides What Enters
 
-Liang creates a temporary route through the circulation residue connecting Maedra's ordinary soldiers. Yun could release a lethal chain poison through it. She instead chooses a numbing compound that collapses reinforcement timing without spreading into camp followers, forcing Liang to defend an ethical limit that costs them tactical speed.
+Halvek uses **Every Road Kneels Before the Gate** to close every physical route around Liang and Yun. His Peak Sovereign pressure overwhelms Liang's body, and she accepts a spear through her side to connect her White Blood directly to his gate rhythm. Yun refuses a lethal chain poison and supplies a numbing compound instead. **When the Last Pulse Turns White** forces Halvek to sever his own road network to keep the pale circulation from reaching him, costing the coalition its movement system while leaving the stronger man personally undefeated.
 
 ### Chapter 254 — Kael Leaves the Perfect Wall
 
-Arin's complete sect cuts the Norrvek siege chains holding Rimewall's eastern exit. Solvane cavalry closes behind the three thousand swordswomen, and Kael must choose between preserving the fortress centre or answering his student's broken signal. He abandons the perfect defensive position and goes to Arin, making the later loss of Rimewall partly the price of refusing to purchase a wall with her entire sect.
+Arin's complete sect cuts the Norrvek siege chains holding Rimewall's eastern exit. Sigrun fixes Kael against the fortress centre while Solvane cavalry closes behind the three thousand swordswomen. Kael stops trying to defeat the Peak Sovereign in place, yields the perfect defensive position and goes to Arin. Sigrun wins the wall; Kael chooses the people it was supposed to protect.
 
 ### Chapter 255 — Six Hundred Eleven Swords Still Stand
 
@@ -751,7 +779,7 @@ Kael reaches a Silver Horizon formation reduced almost to extinction as an army.
 
 ### Chapter 256 — Lei Runs Where Luo Can Still Reach
 
-Lei and Luo turn the white medical road into a moving corridor. Luo stabilizes thunderfire damage accumulating inside Lei's meridians, while Lei repeatedly carries trapped groups into treatment range. Their partnership establishes the extraction method that will matter when Rui falls beyond Rhen's twenty-mile sanctuary.
+Lei and Luo turn the white medical road into a moving corridor while Raska attacks it with her restored cavalry rhythm. Luo stabilizes thunderfire damage accumulating inside Lei's meridians, and ordinary soldiers inherit the corridor when Lei realizes he cannot both contain a stronger High Sovereign and reach Rui. Their partnership establishes the extraction chain that lets Lei leave the duel without abandoning the wounded.
 
 ### Chapter 257 — The Sea and the Crown Are Separated
 
@@ -759,7 +787,7 @@ Rui and Ilyra hold the rear supply front together until Eldran Dravaryn engineer
 
 ### Chapter 258 — Six Sovereigns Close the Water
 
-High Sovereign Eldran leads Brynja Kharvorn, Oskar Solvane, Kellan Haldren and two Dravaryn Sovereign captains against Rui. They have studied every frozen supply road he maintained during the first year. Rui could flee early; instead he keeps the sea corridor open until the final hospital ships turn south. Six Sovereign systems then close upon an exhausted Fifth Sovereign with no army formation left around him.
+High Sovereign Eldran establishes **Cinder Standard Over the Fallen Mile** and leads Brynja Kharvorn, Oskar Solvane, Kellan Haldren and two Dravaryn Sovereign captains against Rui. They have studied every frozen supply road he maintained during the first year. Rui could flee early; instead he keeps the sea corridor open until the final hospital ships turn south. Six Sovereign systems then close upon an exhausted Fifth Sovereign with no army formation left around him.
 
 ### Chapter 259 — Every Time Rui Rises
 
@@ -835,7 +863,7 @@ Liang uses the pattern studied since Three-Gate Plain to introduce a competing r
 
 ### Chapter 275 — Lei Divides the Road
 
-Lei's thunderfire creates several simultaneous routes Maedra must either include or abandon. Stormreach loses soldiers holding those branches long enough for the plan to matter.
+Raska commits her accumulated charge across the Red Miles. **Black Heaven Descends** turns weapons, terrain and seeded qi into several simultaneous conductive routes, dividing the cavalry momentum Maedra intended to inherit. Luo times the only interval Lei's damaged meridians can survive. They stop the army objective and force Raska to dismount, but do not pretend the newly ascended Sovereign has become physically stronger than her.
 
 ### Chapter 276 — Rui Moves the Ground as Water
 
@@ -887,7 +915,7 @@ The Unbroken Field and Orchid Dominion overlap. Aldric compresses direct advance
 
 ### Chapter 287 — The Battle Beneath the Domains
 
-Kael, Liang, Jin, Lei, Rui, Ilyra and the Five Dukes fight the coalition without entering the Paragon duel as convenient extra power. Their objective is preventing either army from turning civilians into leverage.
+Kael and Arin break Sigrun's prepared wall structure without dropping the Peak Sovereign herself. Liang and Yun keep Halvek's road network severed. Jin and Mo close Solveig's remaining Hunt routes. Lei and Luo hold Raska's dismounted cavalry away from the medical road. Rui and Ilyra dismantle **Cinder Standard Over the Fallen Mile**, and Eldran is captured after Rui refuses the opportunity to kick a defeated enemy. None enters the Paragon duel as convenient extra power; every front prevents an army from turning civilians into leverage.
 
 ### Chapter 288 — Sera Gives Aldric an Exit
 
@@ -1047,6 +1075,12 @@ The following require explicit acceptance or revision before Chapter 201 is writ
 23. **Silver Horizon destruction:** only 611 of Arin's 3,000 remain combat-capable; 1,486 survive outside formation and 903 are dead or missing.
 24. **Wuyue war cost:** 68,400 combat-capable, 34,600 living but inactive and 26,000 dead or missing at demobilization.
 25. **Northern Quiet Hand cost:** 24 operational, 12 withdrawn and 4 dead or missing from the forty deployed.
+26. **Sigrun's Supreme:** **The First Wall Outlives the Siege**.
+27. **Halvek's Supreme:** **Every Road Kneels Before the Gate**.
+28. **Solveig's Supreme:** **No Footprint Survives the Last Snow**.
+29. **Raska's Supreme:** **Crimson Cavalry Crosses the Setting Sun**.
+30. **Eldran's Supreme:** **Cinder Standard Over the Fallen Mile**.
+31. **Top-four outcomes:** Kael loses physically to Sigrun but later breaks her wall with Arin; Liang is physically overwhelmed by Halvek but severs his road network with Yun; Jin is run through by Solveig but later cages her Hunt with Mo; Lei loses his opening fight with Raska but later stops her cavalry objective with Luo.
 
 ---
 
@@ -1065,6 +1099,7 @@ If the approval gates stand, the arc ends with:
 - Arin having led a complete three-thousand-member female sword sect into war and preserved Silver Horizon as a living institution after it loses the ability to field that army again;
 - Kael's Stonecrown elites and Liang's White Vein elites demonstrated as terrifying institutions rather than background numbers;
 - the Five Sovereigns and Five Dukes having operated as five mutually necessary command partnerships rather than two separated rank groups;
+- Kael, Liang, Jin and Lei each having suffered an honest personal defeat against Isgard's stronger commanders before winning a road, formation or campaign objective through their Duke partnerships;
 - Rui having survived an utter six-against-one defeat because Lei chose extraction over revenge and Rhen used Sanctuary of Petals, while the destroyed fleet formations and dead soldiers remain lost;
 - Silver Horizon having ceased to exist as a three-thousand-person field army while surviving as Arin's living sect through its 611 standing and 1,486 wounded or retired members;
 - four of Sera's forty northern Quiet Hands having died or disappeared and twelve more having left field duty, proving the hidden force is exceptional rather than consequence-proof;
