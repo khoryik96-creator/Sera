@@ -29,7 +29,7 @@ The following are treated as fixed foundations rather than optional suggestions:
 15. Arin Vale has rebuilt and taken leadership of a three-thousand-strong all-female sword sect during the five-year interval. Every member deploys, including the inner disciples.
 16. Isgard possesses genuine Paragon-level experts.
 17. The war must feel like a continent-scale martial campaign: armies, cavalry, fleets, fortresses, supply roads, medical corridors, sieges, command failures, morale and political fracture all matter.
-18. Rhen remains primarily a healer. His presence cannot turn the war into a delayed one-move victory.
+18. Rhen remains primarily a healer and never takes campaign command. His sole offensive intervention occurs only after Sera completes her own two-against-one Paragon stand, loses honestly and faces a fatal continuation; he then defeats both hostile Paragons with two Transcended skills rather than a Domain, Supreme or Ultimate.
 19. While the northern campaign is underway, Tae, Huo and Qin train in rotating two-against-one contests: every pairing takes a turn confronting the third alone.
 20. Tae, Huo and Qin all reach Peak Sovereign before the home-front battle ends. Their breakthroughs are earned through the rotation, five years of prior foundation and the pressure of defending Wuyue rather than through borrowed power.
 21. The 160 Quiet Hands retained in Wuyue undergo the same defensive-war refinement and emerge substantially stronger in individual martial prowess and coordinated combat.
@@ -253,6 +253,14 @@ The passive makes the two-year rotation survivable. It does not make the outcome
 
 All three finish at Peak Sovereign without becoming interchangeable. Tae remains superior in fixed-distance control, Huo in adaptive offensive response and Qin in continental perception and multi-force command.
 
+Their exact breakthroughs remain inside a sealed Quaint Teahouse cipher until the Isgard coalition disarms:
+
+- Lu, Sera, Rhen, Tae, Huo, Qin and the eight home cell captains know all three exact realms.
+- Public home commanders witness impossible defensive results but receive no authority to announce cultivation ranks during an active concealed invasion.
+- Qin's military reports to Jin, Kael and Liang certify which coasts, armies and reserves can still function without disclosing why three individual signatures have become Peak Sovereign.
+- The restriction is operational security, not theatrical secrecy. Isgard is intercepting Wuyue traffic, and revealing the home guardians' new limits would help prepare a second invasion.
+- The northern Top Ten therefore learn the truth together only after the final battle.
+
 ### 5.5 The 160 Quiet Hands Improve
 
 The retained force consists of eight complete operational cells. Before the campaign, it contains eight Peak Marquis cell captains, approximately 120 Marquis-class combat operatives and thirty-two technical specialists below Marquis in direct combat.
@@ -282,6 +290,8 @@ Sera is genuinely afraid of leaving Wuyue open.
 - Sera sends Tae, Huo and Qin home because together they provide distance control, adaptive overwhelming force and continental perception—the three functions an unseen second invasion would have to defeat.
 - She limits her own Quiet Hand deployment to forty and leaves the remaining 160 under Qin.
 - Her fear becomes sound command rather than a weakness cured by reassurance.
+
+The public Top Ten also do not know Sera's complete private scale before the campaign. They know she is Peak Sovereign approaching Paragon and later witness her form a Domain, but none attended the Quaint Teahouse demonstration proving she could already defeat Kael, Liang and Jin together. Her rescue use of **Orchid Dominion** in Season 91 reveals her realm, not what the newest Paragon can survive when two complete Domains attack her at once.
 
 ---
 
@@ -454,6 +464,30 @@ The names and genders below remain approval gates. Their short Domain titles and
 - Her breakthrough completes when strategy, mercy, assassination, movement, anatomy and battlefield perception stop functioning as separate roles.
 - All future Paragon Supreme Domain names must be short and contain **Dominion**. **Petals in Stasis** retains its permanent name as Rhen's explicit exception. This rule does not rename Wuyue's political Domains.
 
+### 8.4 Rhen's Two Transcended Interventions
+
+Rhen does not reveal a Domain and is not reclassified as Paragon. His intervention demonstrates that the public hierarchy still cannot measure him.
+
+#### Heaven Breaks Before the Fist
+
+- **Tier:** Transcended Skill.
+- **Category:** Body / Penetrating Impact.
+- Rhen aligns body, breath and internal energy into one ordinary-looking physical punch.
+- Every defensive layer he physically reaches must receive the complete impact in sequence; armor, aura, weapon guard and reinforced flesh cannot make the force dissipate between layers.
+- The art does not ignore distance, teleport through protection or strike without contact. Its horror is that each layer is honestly penetrated along the same fist-line.
+- Against Aldric, Rhen enters **Unbroken Dominion**, crosses the continuing spear pressure and punches through Aldric's guard and lower torso. The opening is fist-wide and completely real. Rhen deliberately misses the heart, spine and dantian, then freezes the bleeding at its edges so the defeat is not an execution.
+
+#### Snow Falls Uphill
+
+- **Tier:** Transcended Skill.
+- **Category:** Counter / Hostile Connection Reversal.
+- A single frozen petal placed against an active hostile energy connection carries Rhen's winter qi backward through the route toward the cultivator sustaining it.
+- It does not steal control, reflect the original attack or sever a dependency. The enemy's own connection provides a physical internal-energy path along which Rhen's cold advances against its intended direction.
+- The user may cut the connection before the frost reaches its source, sacrificing every effect sustained through that branch. Maintaining the connection allows the winter qi to reach and arrest the originating circulation.
+- Against Maedra, Rhen touches one crimson road still anchored inside Sera. Snow travels uphill through every road Maedra keeps connected, freezes them from the source outward and arrests the Domain circulation around her heart without killing her.
+
+Both arts remain below Rhen's Supreme roster. Defeating two exhausted but active Paragons with Transcended skills is the point: he does not need his highest cultivation to stand beyond their ranking system.
+
 ---
 
 ## 9. War Geography
@@ -475,7 +509,7 @@ Civilian Hearth roads, Eirholt hospitals and winter settlements continue between
 | Character | War function |
 |---|---|
 | **Sera** | Supreme field strategist, sole Quiet Hand lethal authority, later true Paragon. Her fear for Wuyue shapes the reserve plan. |
-| **Rhen** | Husband, physician and medical veto. Uses Sanctuary of Petals for bounded groups and critical collapse points, not an effortless whole-army reset. |
+| **Rhen** | Husband, physician and medical veto. Uses Sanctuary of Petals for bounded groups and critical collapse points, then makes one final offensive intervention only after Sera loses to both Paragons. |
 | **Kael** | Personal field deterrent without his army. Survives a prepared Sigrun ambush long enough for Arin to extract the trapped formations, but never defeats the Peak Sovereign. |
 | **Liang Yue** | Anti-cultivation strategist. Loses personally to Halvek, then directs her arriving 2,000 elites inside Jin's operation against Norrvek's institutional circulation. |
 | **Jin Seoryu** | Compact campaign coordinator and the only Five Sovereign not personally defeated. Dismantles Isgard's weakest coalition dependencies sequentially, demonstrating why a physically inferior strategist remains feared as number three. |
@@ -541,7 +575,7 @@ Rhen eventually restores the surviving leaders who reach him, with **Sanctuary o
 | **90** | 251–260 | **Five Pairs at Rimewall** | Jin begins dismantling the coalition's weakest functions while Arin's sect is shattered and Rui is destroyed by six Sovereigns before Lei and Rhen save him. |
 | **91** | 261–270 | **Orchid Dominion** | Sera completes martial unification and reaches Paragon during a rescue she must command and fight simultaneously. |
 | **92** | 271–280 | **Sixty Percent** | Liang's 2,000 elites arrive; Jin and Liang topple Norrvek while the other Top Ten survive the stronger fronts he has progressively isolated. |
-| **93** | 281–290 | **The Unbroken Standard** | Sera and Aldric contest true domains while the largest battle decides whether either continent can still withdraw. |
+| **93** | 281–290 | **The Unbroken Standard** | Sera holds Aldric and Maedra in a three-Domain battle, loses after forcing both to fight seriously, and Rhen defeats them with two Transcended skills. |
 | **94** | 291–300 | **No Banner Owns a Continent** | End the invasion mechanism, account for the dead, preserve limited Isgard relationships and return without annexation. |
 
 ### 11.1 Two-Year Campaign Clock
@@ -788,11 +822,11 @@ Eight Early Duke-class cell captains, thirty-two Peak Marquis operatives and the
 
 ### Chapter 248 — Sera Receives Three Words
 
-At Rimewall, Sera receives Qin's message: **WUYUE STILL STANDS. THREE PEAKS REMAIN.** Her fear does not disappear, but the reserve decision is vindicated without turning Tae, Huo and Qin into late reinforcements for Isgard. Rhen feels Frozen Petals Garden settle around three self-sustaining Peak foundations and returns his attention to the wounded in front of him.
+At Rimewall, Sera receives Qin's message through a Quaint Teahouse cipher only she and Rhen can open: **WUYUE STILL STANDS. THREE PEAKS REMAIN.** Her fear does not disappear, but the reserve decision is vindicated without turning Tae, Huo and Qin into late reinforcements for Isgard. Rhen feels Frozen Petals Garden settle around three self-sustaining Peak foundations and returns his attention to the wounded in front of him. Jin receives only the operational certification that Wuyue can hold.
 
 ### Chapter 249 — Kael Trusts the Army He Left
 
-Kael chooses not to return home. Liang makes the same decision, both recognizing that rushing back would tell their deputies five years of institution-building meant nothing. Qin certifies that Stonecrown, three new Peaks, 160 Quiet Hands and White Vein's remaining 18,000 can hold Wuyue. Liang sends Jin her martial authorization for the Adjudicators and Wardens before he asks for it.
+Kael chooses not to return home. Liang makes the same decision, both recognizing that rushing back would tell their deputies five years of institution-building meant nothing. Qin certifies that Stonecrown, the three home commanders, 160 Quiet Hands and White Vein's remaining 18,000 can hold Wuyue without disclosing the commanders' new cultivation. Liang sends Jin her martial authorization for the Adjudicators and Wardens before he asks for it.
 
 ### Chapter 250 — Activate Another Twenty Percent
 
@@ -946,41 +980,41 @@ Tor presents the full Winter Reckoning evidence to both armies. The documents do
 
 Eira publicly withholds medical legitimacy from the coalition's planned mass assault. Several Hearth forces leave rather than lose treatment protection.
 
-### Chapter 284 — Raska Chooses Isgard Over Maedra
+### Chapter 284 — Maedra Stands Beside the First Banner
 
-Raska refuses an order sacrificing Dravaryn's remaining cavalry solely to improve Maedra's political claim. The fracture remains an Isgard decision, not Sera converting an enemy into a friend.
+Raska refuses Maedra's order to sacrifice the remaining Dravaryn cavalry solely for political victory, but does not join Wuyue. Maedra leaves the army to its lawful commanders and walks alone to Aldric's side. Tor's evidence has broken the coalition's moral certainty without ending its military authority; Aldric still believes Wuyue must submit to judgment, while Maedra believes defeating its new Paragon can restore the invasion. Sera orders Rhen to remain with the casualty road unless her condition crosses his medical veto.
 
-### Chapter 285 — Aldric and Sera Choose Their Burdens
+### Chapter 285 — Three Domains Rise
 
-Aldric lays three immense attacks across the coalition's perimeter and leaves them unended: a thrust through the central road, a descending force above the artillery ridge and a sweep attached to every shield on the southern approach. Sera allows each renewed offensive commitment inside her reach to create its Counter-Bloom while leaving civilian movement, healing and withdrawal untouched. Their control is shown not by indiscriminate pressure, but by which burdens they choose to sustain.
+**Unbroken Dominion**, **Crimson Road Dominion** and **Orchid Dominion** expand at the same time. They do not combine or cancel. Aldric's unended thrust compresses Sera from the west while Maedra hunts first blood from the east. Sera contracts her younger Domain around the trapped Wuyue formations, preserving a complete core instead of wasting reserve contesting empty ground. The first triple-Domain collision in either continent's recorded history makes ordinary Sovereigns retreat from the overlap.
 
-### Chapter 286 — Two Domains Meet
+### Chapter 286 — The Newest Paragon Makes Two Bleed
 
-**Unbroken Dominion** and **Orchid Dominion** expand at the same time. Neither cancels the other. Aldric's thrust enters the overlap and creates a Counter-Bloom at the defence he opened to sustain it; Sera sends **Petal-Severing Touch** through the bloom, but his Domain keeps the contacted force alive along her counter. He compresses her eastern petals; she concentrates her Domain around the trapped army and wins the southern ground back. Their self-enhancements remain intact while every hostile effect must fight for authority in the contested territory, making the overlap impossible for ordinary fighters to enter.
+Sera uses every part of her completed Orchid system. Aldric's army-scale sweep creates a Counter-Bloom at the guard he sacrifices; **Petal-Severing Touch** enters through it and destroys one unended strike locally. **Orchid Behind the Mirror** makes Maedra claim a false opening, while **Whispering Orchid Needles** emerge from the real bloom and pierce her lung. Maedra deliberately accepts a second wound to cut Sera's shoulder and establish the first crimson road. Sera sends **Fading Fragrance** through the enormous Counter-Bloom created by that commitment, poisoning Maedra's road from inside. Within her first true Paragon duel, Sera forces two established Domains to contract and makes both opponents fight seriously.
 
-### Chapter 287 — The Battle Beneath the Domains
+### Chapter 287 — The Battle Beneath Three Domains
 
-Sigrun still defeats Kael wherever their bodies meet, but Haldren and Norrvek no longer exist beneath her wall as reserve and structure; Arin moves survivors through the resulting gaps. Halvek remains stronger than Liang, but must personally hold roads his missing institutions once maintained. Solveig finds no stable command trail because Jin and Mo have distributed valid authority among living deputies. Raska remains mounted and stronger than Lei, yet cannot pursue through the recovery roads Ysmark abandoned. Rui and Ilyra contain Eldran's standard without accepting a revenge contest. None enters the Paragon duel as convenient extra power. Their fronts hold because Jin spent a year making Isgard's strongest commanders fight without the coalition that once multiplied them.
+Sigrun still defeats Kael wherever their bodies meet, but Haldren and Norrvek no longer exist beneath her wall as reserve and structure; Arin moves survivors through the resulting gaps. Halvek remains stronger than Liang, but must personally hold roads his missing institutions once maintained. Solveig finds no stable command trail because Jin and Mo distributed valid authority among living deputies. Raska remains mounted and stronger than Lei, yet refuses Maedra's sacrificial order and cannot pursue through the recovery roads Ysmark abandoned. Rui and Ilyra contain Eldran's standard without accepting a revenge contest. None enters Sera's fight as convenient extra Paragon power. Their fronts survive because she is holding both Domains above them and Jin spent a year removing the coalition that once multiplied every Isgard victory.
 
-### Chapter 288 — Sera Gives Aldric an Exit
+### Chapter 288 — Orchid Dominion Falls
 
-Sera identifies the contradiction his martial and political principle cannot survive: continuing attacks through the soldiers and civilians now withdrawing under the Ledger he claims to protect. **Orchid Dominion** answers every renewed strike with a Counter-Bloom but never attacks anyone using the open road away from battle. She gives Aldric an exit instead of pretending her younger Domain can destroy every unended force through raw refinement.
+Maedra changes the crimson road in Sera's shoulder toward her heart as Aldric attaches a continuing thrust to the defence protecting the army behind her. Sera cannot answer both by retreating. She uses **Seven Petals, One Breath** across seven simultaneous Counter-Blooms, drives Maedra to one knee and forces Aldric to end two older attacks, but the third keeps pressing while Maedra opens a second internal road. Sera spends her remaining authority moving the army out of the overlap. **Orchid Dominion** is then forcibly collapsed between the two older Domains. The backlash tears through her new Paragon circulation and drops her conscious but unable to stand. She loses honestly after making two Paragons need each other to defeat her. Aldric's unfinished thrust remains attached to her broken guard, crossing Rhen's medical veto.
 
-### Chapter 289 — The Unbroken Standard Bends
+### Chapter 289 — Heaven Breaks Before the Fist
 
-Aldric willingly ends the thrust, cut and sweep before contracting **Unbroken Dominion**. He yields first, not because Sera erased his cultivation, but because every continuing attack would now pass through the people whose law he claimed to defend. Voluntary contraction concedes the contested ground without suffering the backlash of a forced Domain collapse.
+Rhen leaves the casualty road and walks into both hostile Domains without forming one of his own. Aldric turns the continuing thrust upon him. Rhen crosses its pressure, closes one bare hand and reveals the Transcended **Heaven Breaks Before the Fist**. The punch passes through the spear guard, layered Paragon aura, reinforced body and lower torso without losing force between them. A fist-wide hole opens through Aldric. Rhen deliberately misses his heart, spine and dantian and freezes the wound's edges before the blood can fall. **Unbroken Dominion** collapses with its creator still alive on his knees. When Aldric asks what Domain struck him, Rhen answers, “None.”
 
-### Chapter 290 — The Largest Battle Ends Unevenly
+### Chapter 290 — Snow Falls Uphill
 
-Some fronts cease immediately. Others require hours to receive the order. The war ends through thousands of separate weapons lowering, not one magical silence across the continent.
+Maedra keeps **Crimson Road Dominion** active and drives every surviving wound-road toward Sera before Rhen can reach her. Rhen places one frozen petal against the road in Sera's shoulder and reveals the Transcended **Snow Falls Uphill**. Winter qi travels backward through every connection Maedra refuses to release. She cuts hundreds of roads, surrendering their attacks, but holds the one aimed at Sera's heart for a fraction too long. The frost reaches its source, arrests the circulation around Maedra's heart and drops the second Paragon beside the first. Rhen catches Sera before she reaches the ground. She tells him he took his time; he answers that she told him not to interfere. Across the fractured coalition, weapons lower at different speeds until the largest battle in either continent's history ends without one magical command forcing the silence.
 
 ---
 
 ## 21. Season 94 — No Banner Owns a Continent
 
-### Chapter 291 — Count the Living Before the Dead
+### Chapter 291 — What the Top Ten Did Not Know
 
-Luo, Yun, Eira, Rhen and the Quiet Hands build one joint casualty map. Treatment begins before either side agrees how history will name the war.
+Kael, Liang, Jin, Lei, Rui, Ilyra, Mo, Arin, Luo and Yun converge upon the casualty court after witnessing Sera hold two experienced Paragons and Rhen defeat both with Transcended skills. None knew Sera had already grown beyond every public Top Ten fighter before forming her Domain; seeing the newest Paragon force Aldric and Maedra to cooperate leaves even Kael and Liang in stunned awe, while Rhen's intervention produces the colder realization that the hierarchy still has no place for him. Lu's sealed after-action ledger then opens: Tae, Huo and Qin have all reached Peak Sovereign, all eight home cell captains now possess Early Duke-class capability and the full 160 retained Quiet Hands advanced under the two-year rotation. Jin's hand stops above his map. Lei says nothing. Kael is proud and visibly unsettled; Liang immediately understands how much military power now stands beneath one crooked sign without seeking a throne. Awe, fear and disbelief coexist because the revelation is not a boast—it is an audited account of what defended Wuyue while they were away. Luo, Yun, Eira, Rhen and the Quiet Hands make them set the shock aside and begin one joint casualty map before either continent decides what to call the war.
 
 ### Chapter 292 — The Silver Horizon Returns Every Sword
 
@@ -994,13 +1028,13 @@ Mo reports every imperial loss and decision without hiding behind Jin's command.
 
 Ilyra rejects permanent occupation duty and any Isgard offer of a ranked banner. The Host crossed to prevent invasion, not acquire territory.
 
-### Chapter 295 — Maedra Keeps Her Domain and Loses the War
+### Chapter 295 — Maedra Wakes Without Command
 
-Maedra remains a living Paragon. Dravaryn strips her of coalition command because her political strategy failed, preserving a dangerous future figure without forcing an artificial redemption.
+Rhen restores the circulation arrested by **Snow Falls Uphill** only after Dravaryn formally surrenders its offensive mandate. Maedra wakes as a living Paragon who remembers exactly how little of Rhen's power defeated her. Dravaryn strips her of coalition command because her political strategy failed, preserving a dangerous future figure without forcing an artificial redemption.
 
 ### Chapter 296 — Aldric Rewrites the Gate Seal
 
-Veyrhald restricts future foreign-war authorization and creates an evidentiary threshold that no single ranked Guild can manufacture. Tor's Winter Reckoning record becomes part of the reform.
+After Aldric accepts surrender, Rhen closes the fist-wide wound without erasing the memory or political consequence of defeat. Veyrhald restricts future foreign-war authorization and creates an evidentiary threshold that no single ranked Guild can manufacture. Tor's Winter Reckoning record becomes part of the reform.
 
 ### Chapter 297 — Wuyue Plants No Flag
 
@@ -1010,9 +1044,9 @@ Jin orders every black campaign strip removed before departure. Wuyue claims no 
 
 The deployed Quiet Hands preserve medical contacts, witness routes and emergency signals without leaving a base or occupation network. Sera refuses to turn humanitarian access into hidden ownership.
 
-### Chapter 299 — Sera Comes Home a Paragon
+### Chapter 299 — Sera Comes Home Beyond Her Old Rank
 
-Sera returns to Wuyue without a new public rank. Tae, Huo and Qin receive the army at home; Rhen saves their private reaction for the reopened tea house rather than a public ceremony.
+Sera returns to Wuyue without accepting a new public number. Tae, Huo and Qin receive the army without suppressing their Peak Sovereign cultivation for the first time, allowing the returning Top Ten to feel the truth already recorded in Lu's ledger. The reunion confirms that none of the three breakthroughs made them interchangeable and that none intends to claim Wuyue through the Quaint Teahouse. Their restraint does not erase the unease: the strongest hidden concentration of martial power on the continent serves tea beneath a crooked sign and refuses formal rule. Rhen saves the core's private reunion for the reopened tea house rather than allowing the army to turn it into a public ceremony.
 
 ### Chapter 300 — The Crooked Sign After War
 
@@ -1032,7 +1066,7 @@ Rhen and Sera drink beneath the sign after the armies disperse to their own auth
 | 90 | Sera sends Lei rather than herself when Rui falls because only Lei can reach him without collapsing the other fronts. Rhen heals Rui inside Sanctuary while both confront everything the technique cannot restore. |
 | 91 | Rhen does not trigger, name or explain her ascension. Sera completes it through her own martial and strategic truth. |
 | 92 | Sera returns exhausted from domain use and allows Rhen to care for her without treating care as control. |
-| 93 | Their duties separate during the final battle and reunite only after both objectives are complete. |
+| 93 | Sera orders Rhen to remain with the wounded and completes her own two-on-one Paragon stand. He intervenes only when her forced Domain collapse crosses his medical veto, defeats both Paragons and catches her before she falls. |
 | 94 | They return after two years to one ordinary cup as a married couple whose life survives power rather than being replaced by it. Together they review whether Rhen's emergency passive extensions should end. |
 
 ---
@@ -1041,9 +1075,9 @@ Rhen and Sera drink beneath the sign after the armies disperse to their own auth
 
 - Sera begins Peak Sovereign approaching Paragon and reaches true Paragon only in Season 91.
 - Orchid Dominion follows every Counter-Bloom, skill-enhancement, enemy-restraint, radius, duration, reserve and recovery rule now locked.
-- Sera does not immediately become the world's undisputed strongest Paragon.
-- Aldric remains more experienced in domain collision; Sera wins strategic control by exploiting the openings created by his continuing attacks, not by receiving unlimited reserve.
-- Maedra remains a true Paragon and is not beaten by a pile of Sovereigns.
+- Sera does not immediately become the world's undisputed strongest Paragon. As an entry-level Paragon, she loses honestly to Aldric and Maedra together after injuring both, destroying multiple Domain effects and extracting the army from their overlap.
+- Aldric remains more experienced in Domain collision and Maedra grows more dangerous after first blood. Their coordinated pressure, not either one casually overpowering Sera alone, forces **Orchid Dominion** to collapse.
+- Aldric and Maedra remain true Paragons and are not beaten by a pile of Sovereigns. Rhen alone defeats them after Sera falls.
 - Kael remains High Sovereign. He performs army-saving feats without being inflated to Paragon by narration.
 - Liang remains Mid Sovereign and threatens larger powers through preparation and internal-circulation specialization.
 - Jin remains Early Sovereign. His undefeated campaign does not imply that he can survive a fair duel with Solveig; it proves that number three was never ranked solely by what his body could defeat inside one ring.
@@ -1055,7 +1089,9 @@ Rhen and Sera drink beneath the sign after the armies disperse to their own auth
 - Two years of emergency passive extension do not make Tae, Huo or Qin ageless, immortal or equivalent to Sera's unique completed five-year reconstruction.
 - Lu remains non-combatant and receives no cultivation breakthrough or passive refinement.
 - The 160 home Quiet Hands improve according to the exact distribution in Section 5.5; none reaches Sovereign and none inherits a senior commander's named art.
-- Rhen uses no new offensive art and does not settle either Paragon confrontation.
+- The northern public Top Ten do not know Sera's full pre-ascension superiority or the exact breakthroughs of Tae, Huo and Qin until the final battle has ended. Their shock must occur through witnessed combat and Lu's sealed ledger, not advance narration.
+- Rhen settles the two-Paragon confrontation with exactly two new Transcended skills: **Heaven Breaks Before the Fist** and **Snow Falls Uphill**.
+- Rhen forms no Domain and uses no Supreme or Ultimate against Aldric or Maedra. Their defeat through his lower-tier arts demonstrates why he remains beyond the ranking system.
 - **Petals Beneath a Frozen Moon** and Rhen's Ultimate are neither used nor staged as fake-outs.
 
 ---
@@ -1107,8 +1143,8 @@ The following require explicit acceptance or revision before Chapter 201 is writ
 8. **Paragon One:** Aldric Veyrhald and **Unbroken Dominion**.
 9. **Paragon Two:** Maedra Dravaryn and **Crimson Road Dominion**.
 10. **Sera reaches Paragon in Season 91** and fully unlocks Orchid Dominion.
-11. **Maedra survives undefeated personally but loses her invasion objective and command.**
-12. **Aldric ends his domain first after Sera breaks the coalition's political mandate; neither is killed.**
+11. **Maedra survives but is personally defeated by Rhen's Transcended Snow Falls Uphill after helping force Orchid Dominion to collapse.**
+12. **Aldric survives a fist-wide wound through his lower torso and is personally defeated by Rhen's Transcended Heaven Breaks Before the Fist.**
 13. **No automatic Chapter 300 cliffhanger.** The next hook remains undecided until the user chooses it.
 14. **War duration:** approximately twenty-four months.
 15. **Expanded Isgard command:** two Paragons, two Peak Sovereigns, five High Sovereigns and eighteen additional Sovereign-tier officers.
@@ -1126,10 +1162,12 @@ The following require explicit acceptance or revision before Chapter 201 is writ
 27. **Halvek's Supreme:** **Every Road Kneels Before the Gate**.
 28. **Solveig's Supreme:** **No Footprint Survives the Last Snow**.
 29. **Raska's Supreme:** **Crimson Cavalry Crosses the Setting Sun**.
-30. **Eldran's Supreme:** **Cinder Standard Over the Fallen Mile**.
-31. **Five Sovereign outcomes:** Kael loses Sigrun's four-person ambush and never defeats her; Liang loses physically to Halvek and never defeats him; Lei loses to Raska and never defeats her; Rui is destroyed by six Sovereigns; Jin alone remains personally undefeated because he refuses Solveig's duel and commands the whole campaign instead.
-32. **Additional Black March activation:** after Wuyue defeats the hidden invasion, Jin activates Liang's reserved twenty percent and deploys 400 White-Blood Adjudicators plus 1,600 Pale Vein Wardens while Stonecrown and 18,000 White Vein personnel remain home.
-33. **Jin and Liang topple Norrvek:** the 2,000 elites disable Chainforge's eight-thousand-person command circulation; most members survive, but Norrvek ceases functioning as a War Banner.
+30. **Rhen's two new Transcended skills:** **Heaven Breaks Before the Fist** and **Snow Falls Uphill**; neither is secretly Supreme.
+31. **Final concealed-power reveal:** the Top Ten learn only after the battle that Sera had grown beyond them before ascension and that Tae, Huo and Qin all reached Peak Sovereign while 160 home Quiet Hands advanced.
+32. **Eldran's Supreme:** **Cinder Standard Over the Fallen Mile**.
+33. **Five Sovereign outcomes:** Kael loses Sigrun's four-person ambush and never defeats her; Liang loses physically to Halvek and never defeats him; Lei loses to Raska and never defeats her; Rui is destroyed by six Sovereigns; Jin alone remains personally undefeated because he refuses Solveig's duel and commands the whole campaign instead.
+34. **Additional Black March activation:** after Wuyue defeats the hidden invasion, Jin activates Liang's reserved twenty percent and deploys 400 White-Blood Adjudicators plus 1,600 Pale Vein Wardens while Stonecrown and 18,000 White Vein personnel remain home.
+35. **Jin and Liang topple Norrvek:** the 2,000 elites disable Chainforge's eight-thousand-person command circulation; most members survive, but Norrvek ceases functioning as a War Banner.
 
 ---
 
@@ -1155,7 +1193,10 @@ If the approval gates stand, the arc ends with:
 - four of Sera's forty northern Quiet Hands having died or disappeared and twelve more having left field duty, proving the hidden force is exceptional rather than consequence-proof;
 - Isgard confirmed to possess two true Paragons, two Peak Sovereigns, five High Sovereigns and eighteen additional Sovereign-tier coalition officers, with greater unrevealed regional depth left unconfirmed;
 - Sera having fulfilled the complete Paragon requirements and formed Orchid Dominion under its locked limitations;
-- Rhen having remained healer and husband rather than becoming the war's offensive solution;
+- Rhen having remained healer and husband through the two-year campaign, then made one bounded offensive intervention only after Sera's honest two-Paragon defeat crossed his medical veto;
+- Sera having forced two experienced Paragons to cooperate, wounded both and saved the army before her entry-level Domain collapsed, preserving her agency even though Rhen ends the immediate threat;
+- Rhen having defeated Aldric and Maedra with **Heaven Breaks Before the Fist** and **Snow Falls Uphill** without forming a Domain or using any Supreme or Ultimate;
+- the public Top Ten having learned Sera's true comparative scale and the three home Peak Sovereign breakthroughs only through the final witnessed battle and Lu's sealed after-action ledger;
 - Eirholt remaining a narrow medical ally, Tor remaining a procedural bridge and Raska remaining an Isgard nationalist rather than a convert;
 - Aldric and Maedra alive, dangerous and politically changed by defeat without becoming friendly;
 - the Duskvein conflict transformed into a new evidentiary rule rather than forgotten as an excuse for spectacle;
