@@ -438,9 +438,61 @@ Still `TBD`:
 
 ---
 
-#### 3.1.10 Complete Ten-Skill Roster and Global Five-Year Rule
+#### 3.1.10 Heaven Breaks Before the Fist
 
-Rhen has exactly **ten current five-year skills, including his Ultimate**:
+**Current tier:** Transcended Skill
+
+**Development point:** Formed during the two-year Isgard campaign and first revealed after Sera's Domain collapses at the Twelve-Banner Gate. It did not exist during Sera's earlier ten-skill briefing.
+
+##### Core Penetrating Principle
+
+Rhen aligns body, breath and internal energy into one ordinary-looking physical punch. Every defensive layer he physically reaches receives the complete strike in sequence.
+
+- Armor, aura, weapon guard, reinforced flesh and internal circulation cannot make the impact dissipate between layers.
+- The technique does not ignore distance, teleport through protection or strike without contact.
+- Rhen must physically cross the battlefield and land the punch.
+- Its Transcended identity is perfect sequential penetration along one honest fist-line, not unrestricted destruction across an area.
+- Rhen can select the line precisely enough to miss the heart, spine and dantian while inflicting a catastrophic but survivable wound.
+- Against Aldric Veyrhald, it punches through **Unbroken Dominion**, Aldric's spear guard, Paragon aura and lower torso, leaving a fist-wide opening and causing his Domain to collapse.
+
+Still `TBD`:
+
+- the maximum number and strength of defensive layers it can penetrate outside Rhen's overwhelming personal cultivation
+- whether a sufficiently powerful disconnected barrier can spend itself to divert the fist-line rather than stopping it
+- the physical recovery cost if Rhen uses the art repeatedly
+
+---
+
+#### 3.1.11 Snow Falls Uphill
+
+**Current tier:** Transcended Skill
+
+**Development point:** Formed during the two-year Isgard campaign and first revealed against Maedra Dravaryn at the Twelve-Banner Gate. It did not exist during Sera's earlier ten-skill briefing.
+
+##### Core Hostile-Connection Principle
+
+Rhen places one frozen petal against an active hostile internal-energy connection. His winter qi advances backward through the physical circulation route toward the cultivator sustaining it.
+
+- It does not steal control of the enemy technique.
+- It does not reflect the original attack.
+- It does not sever a dependency like **One Petal Severs the Winter Moon**.
+- The hostile connection itself provides the route along which Rhen's cold travels against its intended direction.
+- The originating cultivator may cut the connection before the frost reaches them, but doing so abandons every technique or effect maintained through that branch.
+- If the connection remains active, the winter qi reaches the source and temporarily arrests the circulation sustaining it.
+- Against Maedra Dravaryn, Rhen touches one crimson road anchored inside Sera. The frost travels backward through every road Maedra refuses to release, reaches the circulation around her heart and collapses **Crimson Road Dominion** without killing her.
+
+Still `TBD`:
+
+- maximum propagation distance
+- maximum number of connected branches
+- how quickly a Paragon other than Maedra can sever an unfamiliar connection
+- duration of the resulting circulation arrest
+
+---
+
+#### 3.1.12 Complete Post-Isgard Twelve-Skill Roster and Global Rule
+
+After the two-year Isgard campaign, Rhen has exactly **twelve current skills, including his Ultimate**. His five-year briefing contained the first ten; the final two developed during the campaign.
 
 1. **Frozen Petals Garden** — Evolved Supreme Passive
 2. **Drifting Petals** — Supreme Movement Art
@@ -450,19 +502,21 @@ Rhen has exactly **ten current five-year skills, including his Ultimate**:
 6. **Winter Ends, Spring Blossoms** — Supreme restoration / natural-law technique
 7. **Petal Convergence** — Transcended offensive skill
 8. **Meridian Bloom** — Transcended circulation-disruption skill
-9. **Petals in Stasis** — Supreme causal-stasis art
-10. **Petals Beneath a Frozen Moon** — Ultimate
+9. **Heaven Breaks Before the Fist** — Transcended body / penetrating-impact skill
+10. **Snow Falls Uphill** — Transcended hostile-connection counter
+11. **Petals in Stasis** — Supreme causal-stasis art
+12. **Petals Beneath a Frozen Moon** — Ultimate
 
 Roster rules:
 
 - Every named **non-Ultimate** Rhen technique established before the five-year continuation is **Supreme level** five years later.
-- The newly established **Petal Convergence** and **Meridian Bloom** are explicit exceptions: both remain **Transcended Skills** at this stage.
+- **Petal Convergence** and **Meridian Bloom** are the two Transcended exceptions in his five-year roster. **Heaven Breaks Before the Fist** and **Snow Falls Uphill** join them as Transcended skills developed during the later Isgard campaign.
 - Any technique that was already Supreme has improved again while remaining within the Supreme classification unless the user later creates a higher named tier.
 - Exact upgrades for unlisted techniques are deliberately left open.
 - **Petals in Stasis** remains distinct from the Ultimate; its causal-stasis identity is unchanged, while its exact additional five-year upgrades remain `TBD`.
 - **Silent Winter** remains part of Rhen's established technique history only as the predecessor of **Moonless Snowfield**. It is not counted as a separate current skill.
 - Do not invent additional upgrades for **Petals in Stasis** until the user defines them or asks for options.
-- Do not create additional Rhen named techniques merely to demonstrate his increased power.
+- Do not create additional Rhen named techniques merely to demonstrate his increased power. The two new Transcended skills above are direct user-approved exceptions for the two-Paragon finale.
 
 ---
 
@@ -686,6 +740,7 @@ Every true Paragon develops a domain unique to their identity, techniques and ce
 - A Paragon may concentrate authority into a smaller area to resist compression, surrender ground to preserve reserve or force a local collision around one decisive technique.
 - A complete forced collapse causes circulation backlash and prevents immediate reformation. Voluntarily contracting a Domain before collapse reduces the backlash but concedes the abandoned territory.
 - Effects already established before the collision remain real unless the opposing Domain specifically destroys their sustaining authority. Domain collision is a contest of applied martial laws, not a universal reset.
+- When three Domains overlap, they do not merge into two allied principles against one. Every hostile interaction remains a local contest between the laws involved, although two Paragons may coordinate attacks and compress the third Domain from different sides. A newer Paragon caught between two complete hostile Domains may retain self-enhancement while rapidly losing usable territory and reserve.
 
 This remains Murim cultivation rather than western magic:
 
@@ -2696,6 +2751,15 @@ Do not begin scenes, prose or runtime implementation automatically.
 ---
 
 ## 8. Revision Log
+
+### 2026-09-01 — Three-Domain Finale and Concealed Power Reveal
+
+- Replaced Sera's final one-on-one Domain settlement with an honest two-against-one battle against Aldric and Maedra.
+- Locked Sera's entry-level Paragon defeat only after she wounds both opponents, destroys multiple Domain effects and extracts Wuyue's trapped formations.
+- Added Rhen's sole offensive intervention in the two-year campaign after Sera's forced Domain collapse crosses his medical veto.
+- Added the post–five-year Transcended skills **Heaven Breaks Before the Fist** and **Snow Falls Uphill**, expanding Rhen's post-Isgard roster from ten to twelve without using a Domain, Supreme or Ultimate.
+- Kept Aldric and Maedra alive but decisively defeated, with treatment occurring only after their offensive mandates surrender.
+- Locked the northern Top Ten out of Sera's complete comparative scale and Tae, Huo and Qin's exact Peak Sovereign breakthroughs until the final witnessed battle and Lu's sealed after-action ledger.
 
 ### 2026-09-01 — Supreme Domain Naming and Mechanics Redesigned
 
