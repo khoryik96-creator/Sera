@@ -27,6 +27,13 @@ The following are treated as fixed foundations rather than optional suggestions:
 13. Isgard possesses genuine Paragon-level experts.
 14. The war must feel like a continent-scale martial campaign: armies, cavalry, fleets, fortresses, supply roads, medical corridors, sieges, command failures, morale and political fracture all matter.
 15. Rhen remains primarily a healer. His presence cannot turn the war into a delayed one-move victory.
+16. While the northern campaign is underway, Tae, Huo and Qin train in rotating two-against-one contests: every pairing takes a turn confronting the third alone.
+17. Tae, Huo and Qin all reach Peak Sovereign before the home-front battle ends. Their breakthroughs are earned through the rotation, five years of prior foundation and the pressure of defending Wuyue rather than through borrowed power.
+18. The 160 Quiet Hands retained in Wuyue undergo the same defensive-war refinement and emerge substantially stronger in individual martial prowess and coordinated combat.
+19. Before leaving, Rhen extends **Frozen Petals Garden** across distance to Tae, Huo and Qin for the duration of the emergency because every public Top Ten fighter will be committed to Isgard and he refuses to leave the Quaint Teahouse's home command fragile.
+20. The extension protects and continuously refines the three recipients, but it does not manufacture their breakthroughs. Two years of brutal training, prior cultivation and real defensive command remain necessary.
+21. Lu Weiran remains completely non-combatant, receives no passive cultivation and continues protecting Wuyue through intelligence, logistics, evacuation and command continuity.
+22. The complete campaign lasts approximately **two years**, from Jin's activation order to Wuyue's return. It includes campaigning seasons, winter quarters, sieges, stalled fronts, recovery, negotiation and renewed offensives rather than twenty-four months of uninterrupted battle.
 
 ---
 
@@ -187,6 +194,60 @@ Liang's elites are terrifying because an opposing army may remain physically ali
 - **160 Quiet Hands** protect evacuation, medicine, intelligence and counter-infiltration rather than forming a public army line.
 - Kael's and Liang's deputies retain command of their own troops. Qin coordinates; he does not absorb their authority.
 
+### 5.4 The Three-Person Peak Rotation
+
+Fear for Wuyue does not make Tae, Huo and Qin abandon their posts or chase the northern campaign. It makes them train with an intensity none of them could safely sustain alone.
+
+Before Rhen crosses north, he makes one decision that reverses his earlier refusal to cultivate an expanding circle of Sovereigns. With Kael, Liang, Jin, Lei, Rui, Ilyra and Sera all committed to Isgard, the Quaint Teahouse will hold Wuyue with three martial commanders. Rhen extends **Frozen Petals Garden** to Tae, Huo and Qin across distance for the duration of the continental emergency.
+
+- Qin's existing local refinement becomes distance-independent while Rhen is abroad.
+- Tae and Huo receive the passive for the first time.
+- The Garden warns against concealed lethal danger, protects their lives and continues refining their existing meridian foundations.
+- It does not teach a technique, choose a martial principle, replace combat experience or push a recipient across a realm by itself.
+- Two years are not enough to imply Sera's five-year ageless reconstruction, and no ageless outcome is granted to any of the three.
+- The extension ends or is formally reconsidered when the continental emergency ends; it is not permission to cultivate an unlimited protected class.
+- The 160 Quiet Hands do not receive Frozen Petals Garden. Their gains remain entirely trained and earned.
+- Lu refuses no protection out of pride; she simply remains outside martial cultivation. Rhen protects the non-combatant steward through the base, evacuation system and people around her rather than rewriting her role.
+
+They establish three repeating contests in remote, evacuated defence fields:
+
+1. **Tae and Qin against Huo** — fixed distance and vibration intelligence try to contain nine continuously changing Meridian Wheels.
+2. **Huo and Qin against Tae** — adaptive circulation and complete-field perception try to reach a man who controls whether distance can be crossed.
+3. **Tae and Huo against Qin** — two High Sovereign catastrophes force Qin to perceive, prioritize and answer incompatible attacks across one connected field.
+
+Rules preserve the purpose of the training:
+
+- the fighter standing alone must defend a marked civilian objective rather than merely survive;
+- the pair must create a genuine invasion problem rather than take turns duelling;
+- no named Supreme may be released at full lethal output;
+- Rhen is in Isgard and the passive is not **Sanctuary of Petals**, so the three cannot train with the expectation that wounds, exhaustion and damaged circulation will simply disappear;
+- Frozen Petals Garden prevents fatal training failures but does not remove pain, tactical defeat, recovery time or the consequences of reckless circulation;
+- Quiet Hand medical teams hold absolute stop authority through Qin's delegated safety seal;
+- every contest ends with a review led by the 160 operatives who observed the mistakes from outside the field.
+
+The passive makes the two-year rotation survivable. It does not make the outcome automatic. The breakthrough order is deliberate:
+
+- **Huo reaches Peak Sovereign first, late in the campaign's first year.** He stops treating the nine Meridian Wheels as answers selected one after another and makes adaptation itself the stable centre of his cultivation.
+- **Tae reaches Peak Sovereign second, at the beginning of the second year.** He unifies attack, defence and protection as one authority over meaningful distance rather than separate applications of denial.
+- **Qin reaches Peak Sovereign during the concealed home invasion in the second year.** The rotation and Frozen Petals Garden give him time and refinement, but commanding Stonecrown, White Vein and 160 hidden operatives across one living vibration map completes the breakthrough. His leap from Mid Sovereign is exceptional, painful and rooted in five years of accumulated perception—not an effortless double promotion.
+
+All three finish at Peak Sovereign without becoming interchangeable. Tae remains superior in fixed-distance control, Huo in adaptive offensive response and Qin in continental perception and multi-force command.
+
+### 5.5 The 160 Quiet Hands Improve
+
+The retained force consists of eight complete operational cells. Before the campaign, it contains eight Peak Marquis cell captains, approximately 120 Marquis-class combat operatives and thirty-two technical specialists below Marquis in direct combat.
+
+The Peak Rotation changes them through observation, controlled participation and responsibility for surviving the pressure generated by all three commanders:
+
+- all eight home cell captains cross the threshold into **Early Duke-class** combat capability;
+- thirty-two of the 120 combat operatives reach **Peak Marquis-class**;
+- the remaining eighty-eight combat operatives deepen their Marquis-class strength, pressure resistance and formation-breaking ability;
+- the thirty-two technical specialists gain Marquis-class battlefield survival and self-defence without becoming frontline duelists;
+- all eight cells learn to operate while three different Sovereign systems distort distance, rhythm and perception simultaneously;
+- no operative receives Tae's, Huo's or Qin's personal cultivation architecture, named arts or an artificial realm transfer.
+
+The result is not 160 new Sovereigns. It is a hidden army that can continue its mission inside a Sovereign battlefield instead of becoming helpless the moment one appears.
+
 ---
 
 ## 6. Why Sera Sends the Three Home
@@ -229,7 +290,66 @@ It forms because:
 | **Regional auxiliaries** | **24,000** | Port soldiers, road guards, engineers and levies from regions outside the named southern power map. |
 | **Total visible coalition** | **280,000** | More than twice Wuyue's expedition, with superior knowledge of Isgard terrain. |
 
-### 7.2 Isgard Is Not One Villain
+### 7.2 The Six War Banner Guilds
+
+These six organizations supply the forty-eight-thousand-person War Banner block. Their names and internal ranks are proposed additions.
+
+| Ledger position | Guild | Strength | Sovereign commander | Military identity |
+|---|---|---:|---|---|
+| **#5** | **Kharvorn — Iron Fjord** | **10,000** | Brynja Kharvorn, Established Sovereign | Amphibious heavy infantry, landing denial and iron-hulled shore engines. |
+| **#6** | **Solvane — Winterglass Lances** | **9,000** | Oskar Solvane, Established Sovereign | Long-spear cavalry and ice-bright formation lines built to punish retreat. |
+| **#8** | **Vardrenn — Black Pine Wardens** | **8,000** | Astrid Vardrenn, Mid Sovereign | Forest scouts, longbows, hidden roads and defensive ambush corridors. |
+| **#9** | **Norrvek — Chainforge Assembly** | **8,000** | Jorek Norrvek, Established Sovereign | Siege chains, mobile walls, bridge capture and anti-fortification engineering. |
+| **#10** | **Ysmark — Pale Wolf Banner** | **7,000** | Freya Ysmark, Mid Sovereign | Pack pursuit, broken-ground skirmishing and the recovery of isolated units. |
+| **#11** | **Haldren — Ash-Horn Spears** | **6,000** | Kellan Haldren, Established Sovereign | Dense spear blocks, reserve reinforcement and disciplined attritional defence. |
+|  | **Combined** | **48,000** | Six Sovereign commanders | Each guild retains its own banner and reason for joining. |
+
+Duskvein's former seventh position remains vacant during the war. No guild receives a convenient promotion while the legitimacy of the Ledger itself is being contested.
+
+Their reasons for marching are not identical:
+
+- Kharvorn considers Rui's ability to transport a continental army an existential threat to every Isgard port.
+- Solvane wants a Great Banner seal and treats victory over Wuyue as the achievement that could displace Eirholt.
+- Vardrenn genuinely believes foreign armies must be stopped but will not hunt civilians or violate a declared medical road.
+- Norrvek profits from siege contracts and intends to claim Duskvein's vacant seventh position after the war.
+- Ysmark lost pursuit companies during the Duskvein crisis and directs grief at Wuyue before learning how those companies were deceived.
+- Haldren marches because its oldest oath binds its spears to a lawful Veyrhald Gate Seal; Kellan's conflict begins when legality and survival stop pointing in the same direction.
+
+### 7.3 Sovereign Command Depth
+
+Isgard's coalition contains **twenty-seven Sovereign-tier or stronger martial leaders**. Only the nine High Sovereign-or-above figures are recurring top-level characters; the remaining eighteen provide credible command depth without turning every battlefield officer into a separate subplot.
+
+#### High Sovereign and Above — Nine
+
+| Character | Guild | Cultivation | Command role |
+|---|---|---|---|
+| **Aldric Veyrhald — The Unbroken Standard** | Veyrhald | Established Paragon | First Banner leader, legal authority and final defensive centre. |
+| **Maedra Dravaryn — The Crimson Road** | Dravaryn | Stable Paragon | Coalition war architect and commander of the primary offensive. |
+| **Sigrun Veyrhald — The First Wall** | Veyrhald | Peak Sovereign | Commands the seventy-two-thousand-person First Banner Army whenever Aldric enters a personal domain contest. |
+| **Halvek Veyrhald — Keeper of the Gate Roads** | Veyrhald | Peak Sovereign | Controls ports, military roads, fortress seals and the coalition's ability to move as one body. |
+| **Tor Veyrhald — Iron Witness** | Veyrhald | High Sovereign | Carries Ledger authority, protects lawful surrender and opposes Wuyue without denying Duskvein's guilt. |
+| **Raska Dravaryn — The Crimson Marshal** | Dravaryn | High Sovereign | Commands the celebrated cavalry front and treats expansion as national duty. |
+| **Eldran Dravaryn — The Cinder Standard** | Dravaryn | High Sovereign | Commands armoured infantry and turns captured ground into a road the Crimson Host can keep using. |
+| **Varok Skeldran — The White Huntmaster** | Skeldran | High Sovereign | Controls long-range pursuit bodies but refuses to renew Duskvein's forged evidence. |
+| **Solveig Skeldran — The Last Trail** | Skeldran | High Sovereign | Senior Huntmistress responsible for counter-infiltration, winter encirclement and finding the Quiet Hands who refuse to be found. |
+
+This preserves the earlier statement that Tor is not among Veyrhald's strongest three: Aldric, Sigrun and Halvek stand above him within the First Banner.
+
+- Sigrun is a defensive patriot rather than a conqueror. She will spend soldiers to hold Isgard ground but opposes Maedra turning Hearth settlements into bait.
+- Halvek measures war through roads, ports and winter stores. His reports gradually prove that the coalition cannot sustain Maedra's political ambitions indefinitely.
+- Eldran believes occupied ground must immediately become usable military infrastructure. He is less theatrical than Raska and more dangerous during a prolonged campaign.
+- Solveig considers the undiscovered Quiet Hand a strategic wound in Isgard's senses. She hunts its methods relentlessly while refusing to fabricate a trail merely to satisfy the coalition.
+
+#### Additional Sovereign Tier — Eighteen
+
+- Veyrhald fields four additional Early-to-Established Sovereign fortress and formation commanders.
+- Dravaryn fields five additional Early-to-Established Sovereign cavalry, infantry and supply-road commanders.
+- Skeldran fields three additional Early-to-Established Sovereign Huntmasters.
+- The six War Banner guild leaders listed above supply six more Mid or Established Sovereigns.
+- Eira Eirholt is not counted because Eirholt remains medically neutral rather than joining the coalition.
+- Duskvein's defeated or dead leaders are not counted.
+
+### 7.4 Isgard Is Not One Villain
 
 - Tor Veyrhald still believes Duskvein's dismantling was legally justified but cannot accept Wuyue's pre-emptive invasion.
 - Eirholt refuses to turn medicine into a military seal and protects wounded from both continents.
@@ -310,9 +430,9 @@ Civilian Hearth roads, Eirholt hospitals and winter settlements continue between
 | **Arin Vale** | Leads all three thousand swordswomen. Her sect becomes a living answer to the school she lost rather than another army attached to Kael. |
 | **Luo Wen** | Multi-army battlefield medicine, evacuation priorities and incapacitation of officers who threaten hospitals. |
 | **Yun Shizhen** | Poison defence, domain-residue analysis and protection from Isgard's circulation warfare. She does not solve every toxin by absorbing it. |
-| **Tae Muyeon** | Holds Wuyue's approaches and proves remaining home is a frontline responsibility. |
-| **Huo Wujin** | Defensive execution force in Wuyue under approved authority. Does not rejoin the Isgard campaign. |
-| **Qin Luo** | Home commander coordinating Kael's and Liang's armies without claiming them. Detects the hidden second invasion route. |
+| **Tae Muyeon** | Holds Wuyue's approaches, helps create the two-against-one Peak Rotation and reaches Peak Sovereign without abandoning home defence. |
+| **Huo Wujin** | Defensive execution force and Peak Rotation instructor in Wuyue. Reaches Peak Sovereign first and does not rejoin the Isgard campaign. |
+| **Qin Luo** | Home commander coordinating Kael's and Liang's armies without claiming them. Reaches Peak Sovereign while detecting and answering the hidden second invasion. |
 
 ---
 
@@ -324,12 +444,31 @@ Civilian Hearth roads, Eirholt hospitals and winter settlements continue between
 | **86** | 211–220 | **The Black Current Carries an Army** | Cross 129,000 troops, establish command limits and enter Isgard under attack. |
 | **87** | 221–230 | **Three Gates, Twelve Banners** | First full army clashes and the political shape of Isgard's coalition. |
 | **88** | 231–240 | **When Paragons Enter the Field** | Aldric and Maedra reveal the true tier gap and force Wuyue into costly retreat. |
-| **89** | 241–250 | **Sixty Percent Stayed Home** | A concealed second invasion strikes Wuyue; Tae, Huo, Qin and the reserve armies answer. |
+| **89** | 241–250 | **Three Peaks Stayed Home** | The Peak Rotation pays off when a concealed second invasion strikes Wuyue; Tae, Huo, Qin, 160 improved Quiet Hands and the reserve armies answer. |
 | **90** | 251–260 | **The Regent and the Silver Horizon** | Mo's imperial army and Arin's entire sect carry the central war while the Dukes reunite as commanders. |
 | **91** | 261–270 | **Orchid Dominion** | Sera completes martial unification and reaches Paragon during a rescue she must command and fight simultaneously. |
 | **92** | 271–280 | **Five Sovereigns Against the Crimson Road** | Wuyue survives Maedra's domain by breaking her invasion objective rather than defeating her cultivation tier. |
 | **93** | 281–290 | **The Unbroken Standard** | Sera and Aldric contest true domains while the largest battle decides whether either continent can still withdraw. |
 | **94** | 291–300 | **No Banner Owns a Continent** | End the invasion mechanism, account for the dead, preserve limited Isgard relationships and return without annexation. |
+
+### 11.1 Two-Year Campaign Clock
+
+The war lasts approximately twenty-four months. Chapter prose must mark the passage of time through weather, replacement uniforms, repaired fortifications, changing supply prices, healed and unhealed injuries, letters from home and soldiers becoming veterans—not through detached “months passed” summaries alone.
+
+| Campaign time | Seasons | War phase |
+|---|---:|---|
+| **Months 1–2** | 85 | Black March mobilization, Rhen's passive extension and the first Peak Rotation field. |
+| **Months 3–5** | 86 | Fleet crossing, contested landing and the creation of permanent northern supply roads. |
+| **Months 6–9** | 87 | Three-Gate campaign, first sieges and Huo's late-first-year Peak Sovereign breakthrough. |
+| **Months 10–12** | 88 | Both Isgard Paragons enter, Wuyue loses ground and Tae begins the final stage of his breakthrough. |
+| **Months 13–14** | 89 | Tae reaches Peak, the hidden invasion strikes Wuyue, Qin reaches Peak and the improved 160 Quiet Hands reveal their new battlefield standard. |
+| **Months 15–17** | 90 | Wuyue stabilizes both continents and begins its deliberate counter-campaign. |
+| **Months 18–20** | 91 | Long attrition makes Sera's strategic and martial systems inseparable; Orchid Dominion forms without an emotional shortcut. |
+| **Months 21–22** | 92 | Wuyue breaks Maedra's invasion objective across the Red Miles. |
+| **Month 23** | 93 | The Twelve-Banner Gate campaign and Sera's domain contest with Aldric. |
+| **Month 24** | 94 | Settlement, demobilization, burial, return and reconsideration of Rhen's emergency passive extensions. |
+
+The armies do not fight at maximum intensity every day. Long intervals contain reconnaissance, raids, engineering, winter camps, failed diplomacy, prisoner exchange, medical recovery and battles over food or road access. This keeps the campaign enormous without making two years feel like one stretched duel.
 
 ---
 
@@ -349,15 +488,15 @@ Jin reveals that the percentage measures defensive weight. Kael's fifty thousand
 
 ### Chapter 204 — Tae Takes the Western Distance
 
-Sera orders Tae back to Wuyue's western approach. He accepts without treating home defence as exclusion from the “real” war.
+Sera orders Tae back to Wuyue's western approach. He accepts without treating home defence as exclusion from the “real” war. Rhen tells Tae that every public Top Ten fighter is crossing north and offers the protection he once refused to extend.
 
 ### Chapter 205 — Huo Receives Defensive Authority
 
-Sera grants Huo lethal authority only against a confirmed invading force inside marked Wuyue fields. He is forbidden to pursue retreating enemies across the Black Current or turn defence into reclamation of his former throne.
+Sera grants Huo lethal authority only against a confirmed invading force inside marked Wuyue fields. He is forbidden to pursue retreating enemies across the Black Current or turn defence into reclamation of his former throne. Huo accepts Frozen Petals Garden as responsibility rather than proof that judgment no longer applies to him.
 
 ### Chapter 206 — Qin Commands Armies That Are Not His
 
-Qin establishes liaison command with Stonecrown and White Vein deputies. The structure lets him coordinate routes and intelligence while every army retains its lawful officers.
+Qin establishes liaison command with Stonecrown and White Vein deputies. The structure lets him coordinate routes and intelligence while every army retains its lawful officers. Rhen changes Qin's existing local passive refinement into the same emergency distance-independent extension given to Tae and Huo.
 
 ### Chapter 207 — The Regent Opens the Imperial Seal
 
@@ -373,7 +512,7 @@ Ilyra asks rather than assumes that the Host will cross. Han Seoryeong and the c
 
 ### Chapter 210 — The Black March Moves
 
-Lei's columns, Rui's fleet, Jin's eighteen thousand, Mo's imperial army, Arin's sect and the Crownless Host converge without merging banners. Sera and Rhen join with forty Quiet Hands as the first black campaign strips enter the wind.
+Lei's columns, Rui's fleet, Jin's eighteen thousand, Mo's imperial army, Arin's sect and the Crownless Host converge without merging banners. Sera and Rhen join with forty Quiet Hands as the first black campaign strips enter the wind. At home, frozen petals settle briefly around Tae, Huo and Qin while Lu opens the two-year emergency ledger without touching a weapon.
 
 ---
 
@@ -399,9 +538,9 @@ Rui divides thirty thousand troops among warships, transports, supply barges and
 
 Isgard fire vessels strike the rear supply line rather than the commanders. Lei crosses decks through thunderfire while Arin's disciples cut burning rigging without trapping crews beneath it.
 
-### Chapter 216 — Forty Hands Cannot Be Everywhere
+### Chapter 216 — Forty Cross, One Hundred Sixty Remain
 
-Sera restricts the Quiet Hands to intelligence, medical rescue and anti-sabotage. She refuses requests to use them as elite shock troops merely because conventional units have begun taking losses.
+Sera restricts the forty northern Quiet Hands to intelligence, medical rescue and anti-sabotage. She refuses requests to use them as elite shock troops merely because conventional units have begun taking losses. In Wuyue, the other 160 prepare the first remote defence field as Tae and Qin take their opening turn against Huo.
 
 ### Chapter 217 — Rhen's Sanctuary Has a Boundary
 
@@ -425,7 +564,7 @@ The first Wuyue formations reach Three-Gate Plain while Isgard's coalition occup
 
 ### Chapter 221 — Three Gates Open at Once
 
-Isgard attacks Rui's supply road, Mo's imperial centre and Lei's mobile wing simultaneously. Jin refuses to reinforce the loudest battle until he identifies which gate protects the coalition's real objective.
+Sigrun Veyrhald directs attacks against Rui's supply road, Mo's imperial centre and Lei's mobile wing simultaneously. Jin refuses to reinforce the loudest battle until he identifies which gate protects the coalition's real objective.
 
 ### Chapter 222 — Stormreach Breaks the False Gate
 
@@ -433,7 +572,7 @@ Lei's eighteen thousand destroy a fortified decoy faster than Isgard expects. Th
 
 ### Chapter 223 — The Imperial Army Holds Its First Foreign Line
 
-Mo's fifty-two thousand receive a Dravaryn cavalry charge. Paper-command layers let damaged units change shape without every soldier hearing Mo personally.
+Mo's fifty-two thousand receive Raska's cavalry and Eldran Dravaryn's armoured infantry as one combined front. Paper-command layers let damaged units change shape without every soldier hearing Mo personally.
 
 ### Chapter 224 — Arin Cuts Only the Siege
 
@@ -441,7 +580,7 @@ The Silver Horizon Sect enters between imperial infantry and Isgard engines. Thr
 
 ### Chapter 225 — Skeldran Hunts the Hospital
 
-A Skeldran wing follows Yun's antidote routes toward Eirholt's corridor. Varok discovers the target and must decide whether coalition obedience requires repeating Duskvein's corruption of medicine.
+Solveig Skeldran follows Yun's antidote routes toward Eirholt's corridor while Varok discovers the target and must decide whether coalition obedience requires repeating Duskvein's corruption of medicine. Their disagreement divides the Thousandfold Hunt without making either one obedient to Wuyue.
 
 ### Chapter 226 — Luo Wen Buries No Patient Early
 
@@ -453,7 +592,7 @@ The Shield Wing absorbs pressure from a collapsing imperial flank. The Returning
 
 ### Chapter 228 — Kael Holds the Centre Alone
 
-Kael stops a Veyrhald heavy formation without Stonecrown troops. Isgard learns the army left at home was not the source of the Mountain's personal scale.
+Kael stops Sigrun's Veyrhald heavy formation without Stonecrown troops. Isgard learns the army left at home was not the source of the Mountain's personal scale. In Wuyue, Tae studies the same kind of positional burden while standing alone against Huo and Qin.
 
 ### Chapter 229 — Liang Finds Two Circulations in One War
 
@@ -461,7 +600,7 @@ Liang detects an Isgard command rhythm beneath ordinary signals. She begins buil
 
 ### Chapter 230 — The First Gate Was the Road Behind Them
 
-Jin discovers the three attacks existed to close Wuyue's route back to the sea. Rui freezes a new supply corridor before the coalition can turn landing into entrapment.
+Jin discovers the three attacks existed to close Wuyue's route back to the sea. Rui freezes a new supply corridor before the coalition can turn landing into entrapment. Late in the campaign's first year, Huo completes his solo rotation against Tae and Qin and becomes the first of Wuyue's three home guardians to reach Peak Sovereign.
 
 ---
 
@@ -505,43 +644,43 @@ Rhen and the forty Quiet Hands triage across a battlefield too large for any sin
 
 ### Chapter 240 — Wuyue Retreats to Rimewall
 
-Jin orders the first continental retreat. Wuyue loses ground, engines and thousands of fighting bodies but preserves the majority of its army behind Rimewall Pass.
+Jin orders the first continental retreat. Wuyue loses ground, engines and thousands of fighting bodies but preserves the majority of its army behind Rimewall Pass. At home, Tae begins holding Huo's Peak pressure and Qin's vibration map inside one meaningful distance, but the breakthrough remains unfinished.
 
 ---
 
-## 16. Season 89 — Sixty Percent Stayed Home
+## 16. Season 89 — Three Peaks Stayed Home
 
-### Chapter 241 — Qin Hears Ships Beneath the Storm
+### Chapter 241 — The Third Rotation Hears Ships
 
-Back in Wuyue, Qin detects an invasion fleet masking oar rhythms beneath weather and merchant traffic. The northern war was also meant to draw Kael and Liang personally away.
+Huo and Qin press Tae through the third rotation at the opening of the campaign's second year. Tae stops dividing protection from attack, takes complete authority over the marked objective's meaningful distance and reaches Peak Sovereign. Inside the same collision, Qin detects an invasion fleet masking oar rhythms beneath weather and merchant traffic. The northern war was also meant to draw Kael and Liang personally away.
 
 ### Chapter 242 — Stonecrown Closes Without Kael
 
-The Stonecrown deputies activate fixed defences without waiting for their Sovereign. The Mountain Nails and Stonecrown Bastion prove the army has command depth rather than functioning as Kael's personal extension.
+The Stonecrown deputies activate fixed defences without waiting for their Sovereign. The Mountain Nails and Stonecrown Bastion prove the army has command depth rather than functioning as Kael's personal extension. Tae does not seize their command simply because his new Peak pressure could dominate the room.
 
 ### Chapter 243 — White Vein Welcomes the Infiltrators Alive
 
-Liang's Adjudicators and Wardens identify disguised Isgard cultivators within refugee routes. They dismantle the network through synchronized meridian capture before one signal reaches the fleet.
+Liang's Adjudicators and Wardens identify disguised Isgard cultivators within refugee routes. They dismantle the network through synchronized meridian capture before one signal reaches the fleet. Quiet Hand cells operate inside their suppression field with the pressure resistance built during a year of observing the Peak Rotation.
 
-### Chapter 244 — Tae Holds Two Coasts Apart
+### Chapter 244 — A Peak Sovereign Holds Two Coasts Apart
 
-Tae uses fixed-distance control across the landing approaches. Enemy transports can see Wuyue's shore and cannot complete the final interval required to unload.
+Tae reveals his completed Peak Sovereign control across the landing approaches. Enemy transports can see Wuyue's shore and cannot complete the final interval required to unload, while Frozen Petals Garden protects Tae's life without supplying the positional decisions holding two coasts.
 
-### Chapter 245 — Huo Opens No Road North
+### Chapter 245 — The Second Peak Opens No Road North
 
-Huo receives confirmation of a hostile army inside Sera's marked defensive field. He destroys its main battle formation under approved authority, then stops at the retreat line instead of following survivors toward Isgard.
+Huo receives confirmation of a hostile army inside Sera's marked defensive field. At Peak Sovereign, he destroys its main battle formation under approved authority, then stops at the retreat line instead of following survivors toward Isgard.
 
-### Chapter 246 — Qin Commands the Silence Afterward
+### Chapter 246 — Qin Hears One Wuyue
 
-Qin denies public victory celebrations while enemy scouts remain. Quiet Hands trace who supplied the hidden fleet and protect civilians from retaliatory sabotage.
+Qin must coordinate Stonecrown, White Vein, Tae, Huo and eight Quiet Hand cells while fighting the remaining command force himself. The separate rhythms become one living defensive map; his five-year foundation, two years of passive refinement and every two-against-one defeat finally unify, carrying him into Peak Sovereign. He denies public victory celebrations while enemy scouts remain.
 
 ### Chapter 247 — One Hundred Sixty Hands Remain Unseen
 
-The home Quiet Hands evacuate, treat and dismantle infiltration without gathering into one target. Kael's and Liang's armies believe their own coordination saved the continent, which is true but incomplete.
+Eight Early Duke-class cell captains, thirty-two Peak Marquis operatives and the strengthened remainder evacuate, treat and dismantle infiltration without gathering into one target. Kael's and Liang's armies believe their own coordination saved the continent, which is true but incomplete. The Quiet Hands do not reveal that they trained beneath three future Peaks.
 
 ### Chapter 248 — Sera Receives Three Words
 
-At Rimewall, Sera receives Qin's message: **WUYUE STILL STANDS.** Her fear does not disappear, but the reserve decision is vindicated without turning Tae, Huo and Qin into late reinforcements for Isgard.
+At Rimewall, Sera receives Qin's message: **WUYUE STILL STANDS. THREE PEAKS REMAIN.** Her fear does not disappear, but the reserve decision is vindicated without turning Tae, Huo and Qin into late reinforcements for Isgard. Rhen feels Frozen Petals Garden settle around three self-sustaining Peak foundations and returns his attention to the wounded in front of him.
 
 ### Chapter 249 — Kael Trusts the Army He Left
 
@@ -777,7 +916,7 @@ Rhen and Sera drink beneath the sign after the armies disperse to their own auth
 
 | Season | Relationship movement |
 |---:|---|
-| 85 | Sera admits fear of leaving Wuyue; Rhen helps her plan without dismissing it or taking command. |
+| 85 | Sera admits fear of leaving Wuyue; Rhen helps her plan without dismissing it, then extends Frozen Petals Garden to the three home guardians without taking command from her. |
 | 86 | They cross as commander and physician while preserving small married rituals inside the fleet. |
 | 87 | Rhen obeys her battlefield limits even when casualties make restraint painful. |
 | 88 | He cannot reach everyone, and Sera shares the grief without blaming his limits. |
@@ -786,7 +925,7 @@ Rhen and Sera drink beneath the sign after the armies disperse to their own auth
 | 91 | Rhen does not trigger, name or explain her ascension. Sera completes it through her own martial and strategic truth. |
 | 92 | Sera returns exhausted from domain use and allows Rhen to care for her without treating care as control. |
 | 93 | Their duties separate during the final battle and reunite only after both objectives are complete. |
-| 94 | They return to one ordinary cup as a married couple whose life survives power rather than being replaced by it. |
+| 94 | They return after two years to one ordinary cup as a married couple whose life survives power rather than being replaced by it. Together they review whether Rhen's emergency passive extensions should end. |
 
 ---
 
@@ -802,7 +941,11 @@ Rhen and Sera drink beneath the sign after the armies disperse to their own auth
 - Ilyra's peak offence remains comparable to Liang's while her overall exact comparison remains unresolved.
 - Arin and Mo remain High Dukes. Their armies increase their strategic importance without changing their cultivation tiers.
 - Luo and Yun remain Duke-level specialists whose contributions are indispensable without sudden realm promotions.
-- Tae and Huo remain High Sovereigns in Wuyue. Qin remains Mid Sovereign comparable to Liang.
+- Huo reaches Peak Sovereign late in the first campaign year, Tae reaches Peak Sovereign at the beginning of the second and Qin reaches Peak Sovereign during the concealed invasion.
+- Frozen Petals Garden keeps the three alive and refines what they already possess; the Peak Rotation and actual defence of Wuyue complete their martial unification. The passive is assistance, not an automatic realm grant.
+- Two years of emergency passive extension do not make Tae, Huo or Qin ageless, immortal or equivalent to Sera's unique completed five-year reconstruction.
+- Lu remains non-combatant and receives no cultivation breakthrough or passive refinement.
+- The 160 home Quiet Hands improve according to the exact distribution in Section 5.5; none reaches Sovereign and none inherits a senior commander's named art.
 - Rhen uses no new offensive art and does not settle either Paragon confrontation.
 - **Petals Beneath a Frozen Moon** and Rhen's Ultimate are neither used nor staged as fake-outs.
 
@@ -839,6 +982,13 @@ The following require explicit acceptance or revision before Chapter 201 is writ
 11. **Maedra survives undefeated personally but loses her invasion objective and command.**
 12. **Aldric ends his domain first after Sera breaks the coalition's political mandate; neither is killed.**
 13. **No automatic Chapter 300 cliffhanger.** The next hook remains undecided until the user chooses it.
+14. **War duration:** approximately twenty-four months.
+15. **Expanded Isgard command:** two Paragons, two Peak Sovereigns, five High Sovereigns and eighteen additional Sovereign-tier officers.
+16. **Veyrhald seniors:** Sigrun Veyrhald and Halvek Veyrhald.
+17. **Additional High Sovereigns:** Eldran Dravaryn and Solveig Skeldran.
+18. **Six War Banner guilds:** Kharvorn, Solvane, Vardrenn, Norrvek, Ysmark and Haldren, including their proposed titles and commanders.
+19. **Rhen extends Frozen Petals Garden** to Tae, Huo and Qin across distance for the two-year emergency; no ageless outcome follows automatically.
+20. **Home progression:** Tae, Huo and Qin reach Peak Sovereign, while the 160 retained Quiet Hands improve according to Section 5.5 and Lu remains non-combatant.
 
 ---
 
@@ -848,16 +998,19 @@ If the approval gates stand, the arc ends with:
 
 - Wuyue's forty-percent Black March returned from Isgard without annexing land;
 - Kael's and Liang's armies having protected Wuyue as the strategic sixty percent;
-- Tae, Huo and Qin having defeated the concealed home invasion without leaving their assigned continent;
+- Tae, Huo and Qin having reached Peak Sovereign and defeated the concealed home invasion without leaving their assigned continent;
+- Rhen's two-year emergency extension of Frozen Petals Garden having protected and refined the three home guardians without manufacturing their martial understanding or making them ageless;
+- Lu having kept the Quaint Teahouse, evacuation system and intelligence network functioning for two years without becoming a combatant;
+- eight home Quiet Hand captains having reached Early Duke class, thirty-two operatives having reached Peak Marquis and all 160 retained Hands having become substantially harder to disable on a Sovereign battlefield;
 - every Five Sovereign and every Five Duke having participated materially;
 - Mo established as a responsible regent commanding a real imperial army;
 - Arin established as leader of a complete three-thousand-member female sword sect;
 - Kael's Stonecrown elites and Liang's White Vein elites demonstrated as terrifying institutions rather than background numbers;
-- Isgard confirmed to possess at least two true Paragons and rumours of greater unrevealed regional depth left unconfirmed;
+- Isgard confirmed to possess two true Paragons, two Peak Sovereigns, five High Sovereigns and eighteen additional Sovereign-tier coalition officers, with greater unrevealed regional depth left unconfirmed;
 - Sera having fulfilled the complete Paragon requirements and formed Orchid Dominion under its locked limitations;
 - Rhen having remained healer and husband rather than becoming the war's offensive solution;
 - Eirholt remaining a narrow medical ally, Tor remaining a procedural bridge and Raska remaining an Isgard nationalist rather than a convert;
 - Aldric and Maedra alive, dangerous and politically changed by defeat without becoming friendly;
 - the Duskvein conflict transformed into a new evidentiary rule rather than forgotten as an excuse for spectacle;
-- Wuyue's Compact surviving its first true continental war without becoming an empire;
+- Wuyue's Compact surviving a two-year continental war without becoming an empire;
 - chapter prose governed by present-scene knowledge with no retrospective recruitment, construction or future-outcome spoilers.
