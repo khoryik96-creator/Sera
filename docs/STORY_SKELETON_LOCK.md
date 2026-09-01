@@ -668,6 +668,7 @@ Every true Paragon develops a domain unique to their identity, techniques and ce
 - A domain does not grant unrelated abilities; it intensifies and unifies what the cultivator already represents.
 - Allies may be excluded from hostile suppression if the Paragon possesses sufficient control.
 - A domain is not western magic, an alternate dimension or reality rewriting. It is the highest continuous expression of internal energy, intent, perception and battlefield control.
+- Every future Paragon Supreme Domain Skill must use a short name containing **Dominion**. **Petals in Stasis** keeps its permanent name as Rhen's explicit exception. This convention applies to martial Domain skills, not Wuyue's political Domains.
 
 ##### Paragon Combat Benchmark
 
@@ -679,9 +680,12 @@ Every true Paragon develops a domain unique to their identity, techniques and ce
 ##### Domain Collision
 
 - When two Paragon domains overlap, neither automatically disappears.
-- The battlefield divides and shifts according to refinement, compatibility, sustained control and the strength of each underlying martial principle.
-- A more refined domain can compress, distort or eventually displace the weaker one.
-- Exact range, duration, energy cost and domain-collision limits remain `TBD` for individual users.
+- Each Paragon retains the self-enhancement of their own Domain. Hostile effects must defeat the opposing principle before taking authority inside contested territory.
+- The battlefield divides into uncontested zones and a shifting overlap governed by refinement, compatibility, sustained control, reserve and the strength of each underlying martial principle.
+- A stronger or more refined Domain may compress another Domain and reduce its usable territory, but cannot erase its intact core merely by expanding over it.
+- A Paragon may concentrate authority into a smaller area to resist compression, surrender ground to preserve reserve or force a local collision around one decisive technique.
+- A complete forced collapse causes circulation backlash and prevents immediate reformation. Voluntarily contracting a Domain before collapse reduces the backlash but concedes the abandoned territory.
+- Effects already established before the collision remain real unless the opposing Domain specifically destroys their sustaining authority. Domain collision is a contest of applied martial laws, not a universal reset.
 
 This remains Murim cultivation rather than western magic:
 
@@ -702,24 +706,34 @@ Rhen is not automatically classified as Paragon. His present level remains immea
 
 When Sera eventually crosses the boundary, her unified Orchid system manifests as a battlefield filled with pale orchid petals shaped from her internal energy.
 
-Enemy suppression inside Orchid Dominion:
+##### Core Law — Counter-Bloom
 
-- hostile circulation becomes progressively less efficient
-- technique activation becomes slower and easier for Sera to interrupt
-- movement disturbs the surrounding petals, exposing position, balance and intended direction
-- concealed weapons, killing intent and meridian surges become readable through changes in the petal field
-- repeated resistance reveals increasingly precise anatomical and circulation weaknesses
+- Every hostile offensive commitment necessarily exposes something the attacker is no longer defending: a joint, meridian gate, breath transition, formation link or interval in awareness.
+- At that exposed point, a pale orchid blooms. The bloom is not foresight and does not cancel the attack; it gives Sera a point of immediate access created by the enemy's own commitment.
+- The stronger and more complete the attack, the more complete its Counter-Bloom. A restrained probe creates only a narrow opening, while an Ultimate-level commitment may expose a catastrophic but fiercely protected counterpoint.
+- Sera chooses what emerges from a completed bloom: a needle, disabling strike, poison release, circulation-severing touch, false attack or concentrated Domain force.
+- The counter begins at the opening rather than travelling from Sera's body. Distance inside the Domain therefore does not protect an attacker whose own technique has produced a bloom.
+- Sera's attacks produce no readable Counter-Bloom because **Veiled Moon** is unified into the Domain and conceals the transitions that would expose her in return.
 
-Sera's advantages inside Orchid Dominion:
+##### Skill Unification Inside the Domain
 
-- Veiled Moon extends across the domain, making her presence and killing intent exceptionally difficult to isolate
-- Orchid Shadow Steps follows routes already prepared by the petal field
-- Whispering Orchid Needles travel inside visually identical petal currents, concealing their true angles
-- Petal-Severing Touch and her circulation-disruption arts gain far greater precision
-- the domain continually supplies battlefield information, allowing Sera to strategize while fighting rather than pause to reassess
-- she may distinguish allies, civilians and selected enemies within the suppression
+- **Orchid Shadow Steps** uses completed blooms as movement anchors, allowing Sera to cross the battlefield through openings her enemies created.
+- **Seven Petals, One Breath** turns a technique exposing several defensive functions into several simultaneous Counter-Blooms rather than one general weakness.
+- **Fading Fragrance** may be released directly inside an exposed aura or circulation opening instead of crossing exterior protection first.
+- **Orchid Behind the Mirror** creates false blooms among genuine ones, forcing an enemy to defend openings that do not exist while hiding the counter Sera actually selected.
+- **Whispering Orchid Needles** emerge point-blank from a bloom and attack the anatomy or meridian gate revealed by the enemy's commitment.
+- **Petal-Severing Touch** extends through a bloom to cut the exposed connection sustaining a technique, weapon bond or formation link.
+- **Pale Veil Funeral** allows Counter-Blooms created by one wave of attacks to prepare the collapse of the next, turning an enemy formation's own offensive sequence into Sera's execution pattern.
 
-Orchid Dominion does not automatically kill anyone. It gives Sera complete control over whether targets are observed, weakened, incapacitated or killed, preserving the restraint governing The Quiet Hand.
+##### Sera's Advantages Inside Orchid Dominion
+
+- Sera does not receive automatic counters against movement, defence, retreat or healing that contains no hostile offensive commitment.
+- An enemy may reduce the quality of a Counter-Bloom by reserving circulation around every likely opening, but that reserve weakens attack output, lengthens activation, limits simultaneous techniques and disrupts formation timing.
+- Sera decides which blooms to exploit and what each counter becomes. She may kill, incapacitate, poison, disarm, break a formation link or leave the opening untouched to preserve energy.
+- Allies and civilians do not trigger Counter-Blooms unless they direct hostile offence at Sera or someone she has included under the Domain's protection.
+- The Domain continuously presents enemy commitments as an offensive battlefield map, allowing Sera to command, assassinate, rescue and incapacitate without separating those roles.
+
+Orchid Dominion does not automatically weaken cultivation by a fixed percentage. Its terror is the forced choice: attack at full power and give Sera a stronger weapon inside the opening, or defend every possible opening and enter battle already diminished by restraint.
 
 ##### Permanent Radius and Duration
 
@@ -737,17 +751,19 @@ Orchid Dominion does not automatically kill anyone. It gives Sera complete contr
 - Sustaining the optimal one-mile domain consumes approximately **0.5% per minute**.
 - Sustaining the full three-mile domain consumes approximately **2% per minute**.
 - Strong resistance from several Sovereigns increases the maintenance drain but does not cancel the domain automatically.
+- Each Counter-Bloom Sera converts into a technique consumes additional reserve according to the target's cultivation, the strength of the committed attack and the complexity of the counter she chooses.
 - Supreme Arts used inside Orchid Dominion consume their normal additional energy.
 - If Sera maintains the domain to its natural limit, she retains roughly 30% of her reserve and can continue fighting without domain authority.
 - After natural exhaustion, she requires approximately twelve hours of uninterrupted circulation recovery before she can form Orchid Dominion again.
 
-##### Locked Suppression Scale
+##### Locked Control Scale
 
-- Sovereign enemies lose approximately **30% circulation efficiency** while fully subjected to the domain.
-- Enemies below Sovereign may lose up to **50% circulation efficiency**, depending on their resistance and martial system.
-- Sera gains approximately **30% greater circulation and technique efficiency** because every part of the battlefield supports her Orchid system.
-- Another Paragon does not suffer these fixed percentages automatically; their personal domain contests Orchid Dominion directly.
-- These percentages describe combat effectiveness and circulation efficiency rather than permanently removing cultivation.
+- Against fighters below Sovereign, coordinated offence may create formation-wide blooms across shared command and circulation links. Unless the formation stops attacking or breaks coordination, Sera can turn those linked openings against the entire structure.
+- Against a Sovereign, defensive circulation can constrict the bloom and resist the technique emerging through it, but doing so reduces the power and flexibility of the original attack. Sera must still choose a counter capable of overcoming that resistance.
+- Another Paragon's stable Domain can shelter offensive openings inside contested territory. Counter-Blooms still form where **Orchid Dominion** retains authority, while the opposing principle may constrict, redirect or destroy them in the overlap.
+- An attack committed entirely outside **Orchid Dominion** does not create a bloom at its original opening. Sera can perceive and answer the incoming force after it enters, but cannot retroactively place a Counter-Bloom inside a commitment made beyond her authority.
+- Against **Crimson Road Dominion**, a wound-road already established before overlap remains until Sera destroys Maedra's authority over it. If no road exists, Maedra's attempt to draw first blood creates its own Counter-Bloom, giving Sera the early advantage without making her immune to being wounded.
+- Against **Unbroken Dominion**, each new Aldric attack can create a Counter-Bloom at the defence he sacrifices to commit it. Once his strike has attached and continues, the original bloom does not repeat endlessly; Sera must use her Domain to sever the continuing principle or survive its pressure.
 
 ---
 
@@ -2680,6 +2696,15 @@ Do not begin scenes, prose or runtime implementation automatically.
 ---
 
 ## 8. Revision Log
+
+### 2026-09-01 — Supreme Domain Naming and Mechanics Redesigned
+
+- Preserved Sera's permanent Domain name **Orchid Dominion**.
+- Required every future Paragon Supreme Domain name to remain short and contain **Dominion**, with Rhen's **Petals in Stasis** retained as the explicit exception.
+- Replaced Orchid Dominion's passive percentage-suppression identity with **Counter-Bloom**: every hostile offensive commitment exposes a defensive point from which Sera may launch an immediate chosen counter, while her complete Orchid system gains Domain-specific enhancements.
+- Named Aldric's Domain **Unbroken Dominion** and locked **The Strike That Does Not End**: an honestly committed attack continues through contact until Aldric ends it or another Domain destroys its principle.
+- Named Maedra's Domain **Crimson Road Dominion** and locked **Road of First Blood**: every wound she earns or claims becomes an internal route through which later techniques can bypass exterior protection.
+- Locked simultaneous Domain collision: neither Domain automatically cancels; self-enhancements remain, hostile effects contest the overlap, territory may compress or shift, and only complete forced collapse causes full backlash.
 
 ### 2026-08-30 — Season Three Selective Prose Pass
 
