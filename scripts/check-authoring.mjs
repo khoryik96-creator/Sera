@@ -30,6 +30,11 @@ if (neutralBlock) for (const k of neutralBlock[1].matchAll(/(\w+):/g)) { speaker
 const artNames = new Set();
 for (const rows of Object.values(data.topSkills || {})) for (const r of rows) artNames.add(r.name);
 for (const r of [...(data.rhenSkills || []), ...(data.seraSkills || [])]) artNames.add(r.name);
+for (const figure of data.arcFigures || []) {
+  for (const skill of figure.skills || []) {
+    if (/(supreme|transcended|ultimate)/i.test(skill[1] || '')) artNames.add(skill[0]);
+  }
+}
 const escRe = (s) => s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
 // The reader matches an art name case-sensitively, tolerating only straight vs
 // curly apostrophes (see annotateArtNames in src/novel.ts). Mirror that here.

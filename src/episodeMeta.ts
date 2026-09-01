@@ -194,6 +194,23 @@ export const EPISODE_ARCS: EpisodeArcMeta[] = [
       season(84, 'The Black Current Turns South', '10 CHAPTERS · FIRST DRAFT'),
     ],
   },
+  {
+    title: 'Continuation Chronicle — When Wuyue Marches North',
+    badge: 'Seasons 85–94 · Complete first draft',
+    description: 'The Black March carries Wuyue into a two-year continental war, where hidden home defenders rise, true Paragons reveal their Domains, Sera crosses the threshold through complete martial unification, and Rhen demonstrates why the ranking system still cannot contain him.',
+    seasons: [
+      season(85, 'Forty Percent', '10 CHAPTERS · FIRST DRAFT'),
+      season(86, 'The Black Current Carries an Army', '10 CHAPTERS · FIRST DRAFT'),
+      season(87, 'Three Gates, Twelve Banners', '10 CHAPTERS · FIRST DRAFT'),
+      season(88, 'When Paragons Enter the Field', '10 CHAPTERS · FIRST DRAFT'),
+      season(89, 'Three Peaks Stayed Home', '10 CHAPTERS · FIRST DRAFT'),
+      season(90, 'Five Pairs at Rimewall', '10 CHAPTERS · FIRST DRAFT'),
+      season(91, 'Orchid Dominion', '10 CHAPTERS · FIRST DRAFT'),
+      season(92, 'Sixty Percent', '10 CHAPTERS · FIRST DRAFT'),
+      season(93, 'The Unbroken Standard', '10 CHAPTERS · FIRST DRAFT'),
+      season(94, 'No Banner Owns a Continent', '10 CHAPTERS · FIRST DRAFT'),
+    ],
+  },
 ];
 
 /** Highest season and total chapter count, derived from the archive above so

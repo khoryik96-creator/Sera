@@ -12,13 +12,13 @@ describe('episode archive metadata', () => {
     expect(seasons.find((s) => s.season === 1)?.badge).toMatch(/LOCKED/);
     expect(seasons.find((s) => s.season === 64)?.title).toMatch(/Epilogue: Two Years Later/);
     expect(seasons.find((s) => s.season === 74)?.title).toMatch(/Last Cup Before North/);
-    expect(seasons.find((s) => s.season === TOTAL_SEASONS)?.title).toMatch(/The Black Current Turns South/);
+    expect(seasons.find((s) => s.season === TOTAL_SEASONS)?.title).toMatch(/No Banner Owns a Continent/);
   });
 
   it('preserves arc grouping instead of flattening the story', () => {
     expect(EPISODE_ARCS).toHaveLength(TOTAL_ARCS);
     expect(EPISODE_ARCS[0].title).toMatch(/Quiet Regular/);
-    expect(EPISODE_ARCS[EPISODE_ARCS.length - 1]?.title).toMatch(/Where the Black Wick Leads/);
+    expect(EPISODE_ARCS[EPISODE_ARCS.length - 1]?.title).toMatch(/When Wuyue Marches North/);
   });
 
   it('adds cast-guide slots only from Season 4 onward', () => {
