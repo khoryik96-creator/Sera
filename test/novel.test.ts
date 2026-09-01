@@ -175,4 +175,21 @@ describe('renderNovel', () => {
     expect(out).toContain('character-mareth');
     expect(out).toContain('Mareth Duskvein');
   });
+
+  it('colours dialogue for the Southern Isgard Paragons without a rank badge', () => {
+    const aldric = renderNovel('[[speaker:aldric]]The Ledger does not forgive an unanswered Guild.', 90);
+    expect(aldric).toContain('character-aldric');
+    expect(aldric).toContain('Aldric Veyrhald');
+    const maedra = renderNovel('[[speaker:maedra]]Every wound is a road.', 90);
+    expect(maedra).toContain('character-maedra');
+    expect(maedra).toContain('Maedra Dravaryn');
+  });
+
+  it('highlights the bare Paragon given names as their own characters, not by surname', () => {
+    const out = renderNovel('Aldric held the line while Maedra opened the Red Miles.', 90);
+    expect(out).toContain('character-aldric">Aldric</span>');
+    expect(out).toContain('character-maedra">Maedra</span>');
+    // Paragon sits above the numeric world ranking, so no rank pill.
+    expect(out).not.toContain('rank-badge');
+  });
 });

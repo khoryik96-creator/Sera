@@ -3285,6 +3285,32 @@
       "firstEpisode": 2,
       "firstEpisodeTitle": "The Twenty-Five-Year-Old Myth",
       "firstArc": "Final Major Arc Part II — The Sovereign Before Heaven"
+    },
+    {
+      "key": "aldric",
+      "name": "Aldric Veyrhald",
+      "subtitle": "The Unbroken Standard · Established Paragon · Leader of Veyrhald",
+      "details": "The public leader of Veyrhald and the strongest revealed authority in Southern Isgard, holding the First Banner's legal authority through the Gate Seal. He is not eager for massacre; his danger comes from believing stable Ledger law requires Wuyue's submission after they destroyed a ranked Guild and left Isgard without answering for it.",
+      "skills": [
+        [
+          "Unbroken Dominion",
+          "Supreme Domain Skill · Domain / Sustained Offense",
+          "Once Aldric honestly commits an attack and achieves contact, its martial force continues until he ends it or an opposing Domain destroys its governing principle."
+        ]
+      ]
+    },
+    {
+      "key": "maedra",
+      "name": "Maedra Dravaryn",
+      "subtitle": "The Crimson Road · Stable Paragon · Senior Dravaryn war authority",
+      "details": "The senior Dravaryn war authority, ranked above Raska Dravaryn, and the coalition's war architect commanding its primary offensive. A newly established but stable Paragon, she pursues a war meant to make Dravaryn the military center of Isgard and reduce Veyrhald's legal primacy to ceremony.",
+      "skills": [
+        [
+          "Crimson Road Dominion",
+          "Supreme Domain Skill · Domain / Internal Assault",
+          "Every wound Maedra earns or formally claims becomes an internal road through which later techniques can bypass exterior protection."
+        ]
+      ]
     }
   ],
   "season1": [
