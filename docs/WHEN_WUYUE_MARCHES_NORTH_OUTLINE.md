@@ -423,16 +423,37 @@ Civilian Hearth roads, Eirholt hospitals and winter settlements continue between
 | **Kael** | Personal field deterrent and fortress breaker without his army. Holds Rimewall against forces that expected his strength to require Stonecrown troops. |
 | **Liang Yue** | Anti-cultivation strategist. Builds temporary competing circulation systems through enemy command routes and studies domain boundaries. |
 | **Jin Seoryu** | Compact campaign coordinator. Must command allies without turning coordination into ownership. |
-| **Lei Zhen** | Rapid assault and fortress breach. His eighteen thousand prevent larger Isgard wings from choosing every engagement. |
-| **Shen Rui** | Fleet, supply, retreat roads and water battlefield control. The war fails if his thirty thousand cannot keep the expedition fed and movable. |
-| **Ilyra Serath** | Sovereign spearhead and independent army commander. Protects Jin's coalition without surrendering the Crownless Host's autonomy. |
+| **Lei Zhen** | Rapid assault, fortress breach and emergency extraction. He chooses to rescue Rui rather than avenge him when six Sovereigns create that choice. |
+| **Shen Rui** | Fleet, supply, retreat roads and water battlefield control. He is utterly defeated protecting hospital ships, healed by Rhen and later rebuilds command without seeking a revenge duel. |
+| **Ilyra Serath** | Sovereign spearhead and independent army commander. Protects Jin's coalition without surrendering the Crownless Host's autonomy and must continue commanding after being deliberately separated from Rui. |
 | **Mo Qingzhao** | Regent commanding 52,000. Learns the moral difference between moving paper formations and spending citizens. |
-| **Arin Vale** | Leads all three thousand swordswomen. Her sect becomes a living answer to the school she lost rather than another army attached to Kael. |
+| **Arin Vale** | Leads all three thousand swordswomen into war and only 611 remain formation-capable at demobilization. Her sect survives as an institution rather than another army attached to Kael. |
 | **Luo Wen** | Multi-army battlefield medicine, evacuation priorities and incapacitation of officers who threaten hospitals. |
 | **Yun Shizhen** | Poison defence, domain-residue analysis and protection from Isgard's circulation warfare. She does not solve every toxin by absorbing it. |
 | **Tae Muyeon** | Holds Wuyue's approaches, helps create the two-against-one Peak Rotation and reaches Peak Sovereign without abandoning home defence. |
 | **Huo Wujin** | Defensive execution force and Peak Rotation instructor in Wuyue. Reaches Peak Sovereign first and does not rejoin the Isgard campaign. |
 | **Qin Luo** | Home commander coordinating Kael's and Liang's armies without claiming them. Reaches Peak Sovereign while detecting and answering the hidden second invasion. |
+
+### 10.1 The Five Sovereign–Five Duke War Pairs
+
+Sera does not keep the public Top Ten separated into “important Sovereigns” and supporting Dukes. During the two-year campaign she assigns five durable command partnerships based on complementary responsibilities. The partnerships evolve through disagreement, failure and mutual rescue rather than becoming effortless combination attacks.
+
+| Five Sovereign | Five Duke partner | Shared front | Relationship and payoff |
+|---|---|---|---|
+| **Kael Veyran** | **Arin Vale** | Fortress centre and Silver Horizon breach line | Mentor and student must become fellow commanders. Kael eventually abandons an ideal fortress position to save the surviving sect rather than asking Arin to sacrifice her school for his battlefield reputation. |
+| **Liang Yue** | **Yun Shizhen** | Circulation warfare, poison defence and domain-residue analysis | Liang provides precise routes into hostile circulation; Yun decides what may ethically travel through them. Each prevents the other's specialty from becoming indiscriminate. |
+| **Jin Seoryu** | **Mo Qingzhao** | Coalition command and imperial centre | Jin coordinates incompatible armies while Mo represents fifty-two thousand citizens who are not Jin's possessions. Their plans improve because Mo can refuse a strategically elegant sacrifice. |
+| **Lei Zhen** | **Luo Wen** | Rapid reinforcement and moving casualty roads | Luo keeps Lei's thunderfire circulation from destroying its own user during repeated rescue runs; Lei makes Luo's medical corridors mobile enough to survive a changing front. |
+| **Shen Rui** | **Ilyra Serath** | Fleet, supply rear guard and stored counterpressure | Rui supplies movement and escape; Ilyra absorbs and returns the pressure pursuing them. Their trust is tested when Isgard separates Ilyra and destroys Rui before she can return. |
+
+The pairs are operational anchors, not permanent duos. They still rotate across armies when the battlefield requires it. Every Duke makes at least one decision that their Sovereign partner could not have made for them.
+
+### 10.2 Sera and Rhen Across All Five Pairs
+
+- Sera selects the pairings, establishes shared objectives and decides which front may retreat. She does not micromanage every duel once communication breaks.
+- Rhen establishes moving treatment thresholds with Luo, teaches every pair how far **Sanctuary of Petals** can reach and refuses the fiction that one healer can be physically present on five fronts.
+- The pair leaders learn that requesting Rhen for their own wounded means another front may remain outside his twenty-mile sanctuary.
+- Sera and Rhen therefore remain connected to all ten ranked leaders without becoming a sixth battlefield pair that solves their responsibilities.
 
 ---
 
@@ -445,7 +466,7 @@ Civilian Hearth roads, Eirholt hospitals and winter settlements continue between
 | **87** | 221–230 | **Three Gates, Twelve Banners** | First full army clashes and the political shape of Isgard's coalition. |
 | **88** | 231–240 | **When Paragons Enter the Field** | Aldric and Maedra reveal the true tier gap and force Wuyue into costly retreat. |
 | **89** | 241–250 | **Three Peaks Stayed Home** | The Peak Rotation pays off when a concealed second invasion strikes Wuyue; Tae, Huo, Qin, 160 improved Quiet Hands and the reserve armies answer. |
-| **90** | 251–260 | **The Regent and the Silver Horizon** | Mo's imperial army and Arin's entire sect carry the central war while the Dukes reunite as commanders. |
+| **90** | 251–260 | **Five Pairs at Rimewall** | The Sovereign–Duke partnerships hold the retreat; Arin's sect is shattered, Rui is destroyed by six Sovereigns, Lei extracts him and Rhen heals what the war has not already killed. |
 | **91** | 261–270 | **Orchid Dominion** | Sera completes martial unification and reaches Paragon during a rescue she must command and fight simultaneously. |
 | **92** | 271–280 | **Five Sovereigns Against the Crimson Road** | Wuyue survives Maedra's domain by breaking her invasion objective rather than defeating her cultivation tier. |
 | **93** | 281–290 | **The Unbroken Standard** | Sera and Aldric contest true domains while the largest battle decides whether either continent can still withdraw. |
@@ -462,13 +483,27 @@ The war lasts approximately twenty-four months. Chapter prose must mark the pass
 | **Months 6–9** | 87 | Three-Gate campaign, first sieges and Huo's late-first-year Peak Sovereign breakthrough. |
 | **Months 10–12** | 88 | Both Isgard Paragons enter, Wuyue loses ground and Tae begins the final stage of his breakthrough. |
 | **Months 13–14** | 89 | Tae reaches Peak, the hidden invasion strikes Wuyue, Qin reaches Peak and the improved 160 Quiet Hands reveal their new battlefield standard. |
-| **Months 15–17** | 90 | Wuyue stabilizes both continents and begins its deliberate counter-campaign. |
-| **Months 18–20** | 91 | Long attrition makes Sera's strategic and martial systems inseparable; Orchid Dominion forms without an emotional shortcut. |
+| **Months 15–17** | 90 | The five war pairs hold Rimewall; Silver Horizon is shattered, Rui is destroyed and rescued, and Wuyue completes its costliest retreat. |
+| **Months 18–20** | 91 | Wuyue reorganizes after catastrophic losses; long attrition makes Sera's strategic and martial systems inseparable, and Orchid Dominion forms without an emotional shortcut. |
 | **Months 21–22** | 92 | Wuyue breaks Maedra's invasion objective across the Red Miles. |
 | **Month 23** | 93 | The Twelve-Banner Gate campaign and Sera's domain contest with Aldric. |
 | **Month 24** | 94 | Settlement, demobilization, burial, return and reconsideration of Rhen's emergency passive extensions. |
 
 The armies do not fight at maximum intensity every day. Long intervals contain reconnaissance, raids, engineering, winter camps, failed diplomacy, prisoner exchange, medical recovery and battles over food or road access. This keeps the campaign enormous without making two years feel like one stretched duel.
+
+### 11.2 Long-War Plot Threads
+
+These movements should recur between the major battles so the campaign develops history rather than feeling like ten consecutive set pieces.
+
+- **The Night of Borrowed Black Strips:** Isgard scouts recover black campaign cloth from Wuyue's dead and use it to redirect an imperial column. Mo and Jin replace visual trust with a changing paper-and-lantern authentication system, while Sera confronts the cost of an enemy learning from her coalition.
+- **The Winter of Empty Bowls:** Rui's supply losses force half rations across three armies. Rhen can repair starvation damage but cannot create grain, so ordinary quartermasters and Hearth negotiations become as important as Sovereigns.
+- **The Six-Hour Burial Road:** Eirholt forces both armies to stop fighting long enough to retrieve bodies from frozen ground. Soldiers see the people they had reduced to banners, while commanders use the same pause to reposition dishonestly.
+- **The Prisoners Who Know the Other Camp:** Mo and Tor negotiate exchanges by name and unit rather than equal body counts. Returned prisoners bring uncomfortable evidence that neither continent is one moral category.
+- **The Swordless Silver Horizon:** Arin's wounded survivors refuse to disappear from the story. Those unable to fight become route keepers, scribes, armour repairers and casualty escorts, preserving the sect even after it ceases to function as a three-thousand-person army.
+- **The Fleet Without Its Fifth:** Rui is physically restored by Rhen but does not instantly reclaim command from officers who survived while believing him dead. He must hear their decisions, face the soldiers who saw him kicked down and rebuild trust without demanding a revenge duel.
+- **Four Empty Places in Two Cells:** The four northern Quiet Hand deaths or disappearances occur in separate operations rather than one sacrificial montage. Every loss changes the balance of a twenty-person cell, forces a specialist to inherit an unfamiliar duty and reaches Sera as a name she personally selected—not an anonymous elite casualty.
+- **Letters Through Lu's Hands:** Lu maintains the only complete home-and-front ledger. Her messages include grain counts, births, repaired roofs and apprentice arguments alongside casualty numbers, reminding the northern command what “protect Wuyue” actually means without turning Lu into a combatant.
+- **The Empty Seventh Banner:** Kharvorn, Solvane and Norrvek compete for Duskvein's vacant rank even while fighting together. Their political sabotage eventually damages coalition timing more effectively than any secret Wuyue betrayal could.
 
 ---
 
@@ -572,23 +607,23 @@ Lei's eighteen thousand destroy a fortified decoy faster than Isgard expects. Th
 
 ### Chapter 223 — The Imperial Army Holds Its First Foreign Line
 
-Mo's fifty-two thousand receive Raska's cavalry and Eldran Dravaryn's armoured infantry as one combined front. Paper-command layers let damaged units change shape without every soldier hearing Mo personally.
+Mo's fifty-two thousand receive Raska's cavalry and Eldran Dravaryn's armoured infantry as one combined front. Jin identifies the attack's strategic purpose, but Mo's paper-command layers let damaged imperial units change shape without every soldier hearing either man personally. Their partnership begins with Jin learning that coordination is not ownership.
 
 ### Chapter 224 — Arin Cuts Only the Siege
 
-The Silver Horizon Sect enters between imperial infantry and Isgard engines. Three thousand blades sever axles, command ropes and formation seams while deliberately leaving trapped crews routes to surrender.
+The Silver Horizon Sect enters between imperial infantry and Isgard engines while Kael holds the pressure that would crush its formation. Three thousand blades sever axles, command ropes and formation seams while deliberately leaving trapped crews routes to surrender. Kael follows Arin's chosen seams instead of treating his former student as an extension of his strength.
 
 ### Chapter 225 — Skeldran Hunts the Hospital
 
-Solveig Skeldran follows Yun's antidote routes toward Eirholt's corridor while Varok discovers the target and must decide whether coalition obedience requires repeating Duskvein's corruption of medicine. Their disagreement divides the Thousandfold Hunt without making either one obedient to Wuyue.
+Solveig Skeldran follows Yun's antidote routes toward Eirholt's corridor while Varok discovers the target and must decide whether coalition obedience requires repeating Duskvein's corruption of medicine. Liang opens false circulation trails and Yun decides which harmless signatures they carry, diverting the Hunt without poisoning patients. Skeldran's disagreement divides the Thousandfold Hunt without making either side obedient to Wuyue.
 
 ### Chapter 226 — Luo Wen Buries No Patient Early
 
-Luo creates layered casualty stations across three armies and refuses rank-based treatment priority. His decision saves ordinary soldiers while angering commanders who expect cultivation to purchase earlier care.
+Luo creates layered casualty stations across three armies and refuses rank-based treatment priority. Lei moves the outer stations faster than Isgard can close upon them, accepting meridian strain whenever he carries groups through thunderfire. Their decisions save ordinary soldiers while angering commanders who expect cultivation to purchase earlier care.
 
 ### Chapter 227 — Ilyra Returns What the Host Receives
 
-The Shield Wing absorbs pressure from a collapsing imperial flank. The Returning Wing releases it through a counteroffensive that opens retreat rather than chasing bodies.
+Rui shapes an escape road through the collapsing imperial flank while Ilyra's Shield Wing absorbs the pressure chasing it. The Returning Wing releases what it receives through a counteroffensive that opens retreat rather than chasing bodies, establishing the partnership Isgard will later have to separate.
 
 ### Chapter 228 — Kael Holds the Centre Alone
 
@@ -692,47 +727,47 @@ Freed from the threat of immediate home collapse, Jin changes the Isgard campaig
 
 ---
 
-## 17. Season 90 — The Regent and the Silver Horizon
+## 17. Season 90 — Five Pairs at Rimewall
 
-### Chapter 251 — Rimewall Has Four Doors and One Exit
+### Chapter 251 — Five Pairs, One Exit
 
-Jin divides the breakout into imperial centre, sword-sect cut, Crownless counterstroke and Rui's moving supply road. Failure of any one strand traps all 129,000.
+Sera divides the Rimewall breakout among the five Sovereign–Duke partnerships. No pair can reach another quickly, and Rhen's maximum sanctuary cannot cover all five fronts. The structure makes mutual trust—not proximity to Sera—the campaign's remaining command system.
 
-### Chapter 252 — Mo Addresses Fifty-Two Thousand Citizens
+### Chapter 252 — Jin Cannot Spend Mo's Citizens
 
-Mo does not call the imperial army pieces on a formation. He tells them the retreat cost, the breakout risk and why the royal seal still authorizes the campaign.
+Jin proposes sacrificing the imperial centre's rear brigades to keep the sole exit open. Mo refuses the hidden cost, addresses all fifty-two thousand citizens honestly and offers a rotating withdrawal that is slower but does not designate one class of soldiers as expendable. Jin accepts the correction and rebuilds the campaign around it.
 
-### Chapter 253 — The Paper-Seal Guard Carries a Broken Command
+### Chapter 253 — Liang Opens the Vein; Yun Decides What Enters
 
-Paragon pressure destroys ordinary messages. The Royal Guard physically carries fragments of Mo's command until separate brigades reconstruct the whole order.
+Liang creates a temporary route through the circulation residue connecting Maedra's ordinary soldiers. Yun could release a lethal chain poison through it. She instead chooses a numbing compound that collapses reinforcement timing without spreading into camp followers, forcing Liang to defend an ethical limit that costs them tactical speed.
 
-### Chapter 254 — Arin Opens the Silver Horizon
+### Chapter 254 — Kael Leaves the Perfect Wall
 
-All three thousand swordswomen form one selective battlefield line. The field disciples protect the shape while inner disciples and matrons cut only the fortress mechanisms blocking escape.
+Arin's complete sect cuts the Norrvek siege chains holding Rimewall's eastern exit. Solvane cavalry closes behind the three thousand swordswomen, and Kael must choose between preserving the fortress centre or answering his student's broken signal. He abandons the perfect defensive position and goes to Arin, making the later loss of Rimewall partly the price of refusing to purchase a wall with her entire sect.
 
-### Chapter 255 — The Sect She Lost Does Not Repeat
+### Chapter 255 — Six Hundred Eleven Swords Still Stand
 
-An Isgard strike targets Arin's outer disciples, expecting senior members to preserve themselves. The inner school turns back together, proving the rebuilt sect will not purchase prestige with abandoned students.
+Kael reaches a Silver Horizon formation reduced almost to extinction as an army. Of three thousand swordswomen, only **611 remain capable of standing in formation**; **903 are dead or missing**, and **1,486 are alive but wounded, unconscious or meridian-damaged**. Senior matrons and inner disciples have died beside field disciples rather than abandoning them. Kael and Arin open one road for the survivors, but victory cannot restore the nine hundred and three empty sword belts.
 
-### Chapter 256 — Yun Poisons a Domain's Footprint
+### Chapter 256 — Lei Runs Where Luo Can Still Reach
 
-Yun cannot poison Maedra herself. She contaminates the circulation residue left where the Crimson Road includes allied formations, forcing Dravaryn to spend attention cleansing its own reinforcement channels.
+Lei and Luo turn the white medical road into a moving corridor. Luo stabilizes thunderfire damage accumulating inside Lei's meridians, while Lei repeatedly carries trapped groups into treatment range. Their partnership establishes the extraction method that will matter when Rui falls beyond Rhen's twenty-mile sanctuary.
 
-### Chapter 257 — Luo Holds the Door That Medicine Needs
+### Chapter 257 — The Sea and the Crown Are Separated
 
-Luo and Eira defend the white road from both armies' desperate requisitions. Their alliance becomes public and politically costly to Eirholt.
+Rui and Ilyra hold the rear supply front together until Eldran Dravaryn engineers two simultaneous disasters. A false collapse among Crownless cohorts pulls Ilyra toward thousands who will die without her Shield Wing, while Rui discovers twelve thousand river soldiers and hospital ships trapped behind closing shore engines. Both understand the separation is deliberate. Neither can abandon the people in front of them.
 
-### Chapter 258 — Ilyra Breaks the Returning Pressure
+### Chapter 258 — Six Sovereigns Close the Water
 
-The Crownless Host takes the momentum Maedra intended to inherit and redirects only the portion carried through ordinary soldiers. It cannot defeat the Paragon but prevents the cavalry army from becoming one continuous weapon.
+High Sovereign Eldran leads Brynja Kharvorn, Oskar Solvane, Kellan Haldren and two Dravaryn Sovereign captains against Rui. They have studied every frozen supply road he maintained during the first year. Rui could flee early; instead he keeps the sea corridor open until the final hospital ships turn south. Six Sovereign systems then close upon an exhausted Fifth Sovereign with no army formation left around him.
 
-### Chapter 259 — The Regent and the Sword Saint Meet at the Exit
+### Chapter 259 — Every Time Rui Rises
 
-Mo's imperial centre and Arin's sect complete the breakout from opposite directions. Neither exists as an accessory to Jin or Kael; their independent commands are why the plan survives broken communication.
+Rui is defeated utterly. His barriers are broken, his circulation is struck from six directions and his body is driven into the ruined shore. Each time he forces himself upright, another Sovereign kicks him back down; Eldran continues the beating because the watching fleet must see its commander broken before the water formations will dissolve. Lei arrives through a thunderfire breach, refuses the bait of pursuing Eldran and physically pulls Rui from the killing ring. Luo keeps Rui's final circulation thread intact while Lei carries him eleven miles into Rhen's range.
 
-### Chapter 260 — Rimewall Falls Behind Wuyue
+### Chapter 260 — Sanctuary Restores a Body, Not an Army
 
-Wuyue abandons the fortress after evacuating its wounded and destroying no civilian settlement. The Black March reaches the Red Miles with enough strength to choose the next battle.
+Rhen opens **Sanctuary of Petals** across the retreat corridor. Rui enters in critical condition with collapsed meridians, shattered bones and almost no stable circulation; the Supreme art restores him in front of the soldiers who watched him fall and reinforces the life he spent protecting them. It also heals thousands Lei and Luo brought within range. It cannot revive Rui's dead, rebuild the destroyed ships or reopen the lost sea road. Rui's first question is how many hospital vessels escaped. Wuyue abandons Rimewall carrying a healed Sovereign, a shattered sword sect and tens of thousands fewer fighting bodies.
 
 ---
 
@@ -804,15 +839,15 @@ Lei's thunderfire creates several simultaneous routes Maedra must either include
 
 ### Chapter 276 — Rui Moves the Ground as Water
 
-Rui floods and freezes the Red Miles beneath his own retreat corridor, denying cavalry the flat continuity its momentum requires without pretending water suppresses the domain itself.
+In his first complete field command after Eldran's six-person assault, Rui floods and freezes the Red Miles beneath his own retreat corridor. He denies cavalry the flat continuity its momentum requires without chasing any of the people who kicked him down or pretending water suppresses Maedra's domain itself.
 
 ### Chapter 277 — Ilyra Runs Two Engines Against One March
 
 Ilyra alternates Shield and Returning functions through her dual meridians at Sovereign output. She survives contact only because each engine carries a different purpose and Jin limits the interval.
 
-### Chapter 278 — Arin and Mo Cut the Army Free
+### Chapter 278 — Silver Horizon Cuts Without an Army
 
-Arin severs command seams while Mo replaces Dravaryn orders with visible blank gaps rather than false commands. Ordinary Isgard units stop inheriting Maedra's timing.
+Arin's 611 standing swordswomen sever command seams while wounded Silver Horizon members carry signals, repair scabbards and mark safe ground behind them. Mo replaces Dravaryn orders with visible blank gaps rather than false commands. The sect no longer possesses three thousand blades, but it remains a complete institution whose surviving parts still choose the battle together.
 
 ### Chapter 279 — The Paragon Chooses Her Ninety Thousand
 
@@ -876,7 +911,7 @@ Luo, Yun, Eira, Rhen and the Quiet Hands build one joint casualty map. Treatment
 
 ### Chapter 292 — The Silver Horizon Returns Every Sword
 
-Arin accounts for all three thousand sect members: living, wounded, missing and dead. The sect's survival does not make its losses ceremonial.
+Arin completes the final account of all three thousand: 611 still fit for formation, 1,486 living but wounded or withdrawn from combat and 903 dead or missing. Rhen can continue healing survivors; he cannot fill an empty sword belt or command anyone to remain a soldier. The sect's survival does not make its losses ceremonial.
 
 ### Chapter 293 — Mo Writes to the Child on the Throne
 
@@ -921,7 +956,7 @@ Rhen and Sera drink beneath the sign after the armies disperse to their own auth
 | 87 | Rhen obeys her battlefield limits even when casualties make restraint painful. |
 | 88 | He cannot reach everyone, and Sera shares the grief without blaming his limits. |
 | 89 | Qin's message lets them breathe without converting fear into a sentimental cure. |
-| 90 | Rhen treats the leaders Sera must keep sending back into danger; neither pretends command is emotionally clean. |
+| 90 | Sera sends Lei rather than herself when Rui falls because only Lei can reach him without collapsing the other fronts. Rhen heals Rui inside Sanctuary while both confront everything the technique cannot restore. |
 | 91 | Rhen does not trigger, name or explain her ascension. Sera completes it through her own martial and strategic truth. |
 | 92 | Sera returns exhausted from domain use and allows Rhen to care for her without treating care as control. |
 | 93 | Their duties separate during the final battle and reunite only after both objectives are complete. |
@@ -954,6 +989,24 @@ Rhen and Sera drink beneath the sign after the armies disperse to their own auth
 ## 24. War-Cost Discipline
 
 The conflict cannot feel enormous if every named unit returns untouched.
+
+### 24.1 Proposed Wuyue Demobilization Ledger
+
+These figures measure military condition when the Black March demobilizes, not whether every wounded person will remain injured forever. Rhen can continue healing survivors after the war; he cannot resurrect the dead, rebuild destroyed units, replace two lost years or force a healed veteran to keep serving.
+
+| Wuyue force | Deployed | Combat-capable at demobilization | Alive but wounded, recovered from captivity, exhausted or retired | Dead or missing |
+|---|---:|---:|---:|---:|
+| Lei's Stormreach March | 18,000 | 8,900 | 5,100 | 4,000 |
+| Rui's Fleet and River Army | 30,000 | 14,200 | 8,300 | 7,500 |
+| Jin's Concord Selection | 18,000 | 10,800 | 4,200 | 3,000 |
+| Mo's Imperial Army and Royal Guard | 52,000 | 29,500 | 14,500 | 8,000 |
+| Arin's Silver Horizon Sword Sect | 3,000 | 611 | 1,486 | 903 |
+| Ilyra's Crownless Host | 8,000 | 4,389 | 1,014 | 2,597 |
+| **Total** | **129,000** | **68,400** | **34,600** | **26,000** |
+
+The forty Quiet Hands deployed with Sera are excluded from the public 129,000. The proposed hidden ledger records **24 still operational, 12 alive but withdrawn from field duty and 4 dead or missing**. Neither deployed cell captain dies without separate approval. Losing four of the strongest hidden operatives in the world demonstrates how far they repeatedly operated beyond Rhen's reach without casually erasing the organization's complete command structure.
+
+Isgard's 280,000-person visible coalition should pay a comparable cost: approximately **50,000–60,000 dead or missing**, **70,000–90,000 removed from active formation**, and only **130,000–160,000** still combat-capable when the banners lower. Exact Isgard guild losses remain adjustable because political survival matters more than symmetric arithmetic.
 
 - Soldiers die on both sides. The prose should acknowledge absence, burial, disabled cultivation and long recovery without indulging gore.
 - No named Top Ten, Sovereign, Quiet Hand captain or major Isgard leader dies unless separately approved.
@@ -989,6 +1042,11 @@ The following require explicit acceptance or revision before Chapter 201 is writ
 18. **Six War Banner guilds:** Kharvorn, Solvane, Vardrenn, Norrvek, Ysmark and Haldren, including their proposed titles and commanders.
 19. **Rhen extends Frozen Petals Garden** to Tae, Huo and Qin across distance for the two-year emergency; no ageless outcome follows automatically.
 20. **Home progression:** Tae, Huo and Qin reach Peak Sovereign, while the 160 retained Quiet Hands improve according to Section 5.5 and Lu remains non-combatant.
+21. **Five war partnerships:** Kael–Arin, Liang–Yun, Jin–Mo, Lei–Luo and Rui–Ilyra.
+22. **Rui's defeat:** Eldran and five Sovereigns destroy him after he protects the hospital ships; repeated kicks leave him critical, Lei extracts him and Rhen uses Sanctuary of Petals to restore him.
+23. **Silver Horizon destruction:** only 611 of Arin's 3,000 remain combat-capable; 1,486 survive outside formation and 903 are dead or missing.
+24. **Wuyue war cost:** 68,400 combat-capable, 34,600 living but inactive and 26,000 dead or missing at demobilization.
+25. **Northern Quiet Hand cost:** 24 operational, 12 withdrawn and 4 dead or missing from the forty deployed.
 
 ---
 
@@ -1004,8 +1062,12 @@ If the approval gates stand, the arc ends with:
 - eight home Quiet Hand captains having reached Early Duke class, thirty-two operatives having reached Peak Marquis and all 160 retained Hands having become substantially harder to disable on a Sovereign battlefield;
 - every Five Sovereign and every Five Duke having participated materially;
 - Mo established as a responsible regent commanding a real imperial army;
-- Arin established as leader of a complete three-thousand-member female sword sect;
+- Arin having led a complete three-thousand-member female sword sect into war and preserved Silver Horizon as a living institution after it loses the ability to field that army again;
 - Kael's Stonecrown elites and Liang's White Vein elites demonstrated as terrifying institutions rather than background numbers;
+- the Five Sovereigns and Five Dukes having operated as five mutually necessary command partnerships rather than two separated rank groups;
+- Rui having survived an utter six-against-one defeat because Lei chose extraction over revenge and Rhen used Sanctuary of Petals, while the destroyed fleet formations and dead soldiers remain lost;
+- Silver Horizon having ceased to exist as a three-thousand-person field army while surviving as Arin's living sect through its 611 standing and 1,486 wounded or retired members;
+- four of Sera's forty northern Quiet Hands having died or disappeared and twelve more having left field duty, proving the hidden force is exceptional rather than consequence-proof;
 - Isgard confirmed to possess two true Paragons, two Peak Sovereigns, five High Sovereigns and eighteen additional Sovereign-tier coalition officers, with greater unrevealed regional depth left unconfirmed;
 - Sera having fulfilled the complete Paragon requirements and formed Orchid Dominion under its locked limitations;
 - Rhen having remained healer and husband rather than becoming the war's offensive solution;
