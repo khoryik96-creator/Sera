@@ -409,18 +409,22 @@ This is why Jin remains undefeated. Solveig can kill him in a direct encounter, 
 
 ## 8. Proposed Paragon Experts
 
-The names, genders and final domain titles below are approval gates. Their cultivation functions are required; the presentation can change.
+The names and genders below remain approval gates. Their short Domain titles and redesigned cultivation laws are locked by the user.
 
 ### 8.1 Aldric Veyrhald — The Unbroken Standard
 
 - **Cultivation:** Established Paragon.
 - **Position:** Public leader of Veyrhald and the strongest revealed authority in Southern Isgard.
 - **Motive:** Duskvein was guilty, but allowing Wuyue to destroy a ranked Guild and leave without answering to Isgard threatens every future Ledger judgment.
-- **Central principle:** Pressure is accepted, distributed and returned without surrendering position.
-- **Proposed Supreme Domain:** **The Unbroken Field Bears Every Banner**.
-- Inside the domain, Aldric's circulation never absorbs pressure through only one route; impact, intent and positional force distribute across his unified martial body.
-- Enemy formations feel every advance become heavier while his own movement remains structurally complete.
-- The domain does not depend upon soldiers or a banner formation. It remains a true personal Paragon domain.
+- **Central principle:** Once Aldric commits a true attack, its martial force does not end merely because the movement has ended.
+- **Supreme Domain:** **Unbroken Dominion**.
+- A thrust stopped by a shield continues pressing through that shield. A cut caught on a weapon keeps travelling through the point of contact. A blow driven into the ground continues through the ground until Aldric ends it or an opposing Domain destroys its governing principle.
+- Contact attaches the continuing force to what received it. Simply stepping away after blocking does not free the defender; the intercepted attack remains inside the defence and keeps consuming circulation.
+- Aldric may carry one completed attack through successive bodies, barriers and formations without losing power at every impact. An army cannot exhaust his spear by feeding it lesser targets.
+- He may begin his next movement without rebuilding the force of the previous one. Several unended attacks can therefore occupy different angles of the battlefield and make every successful defence another obligation the enemy must sustain.
+- The Domain does not make missed attacks pursue targets and does not invent force Aldric never generated. An attack must be honestly committed, and only contact allows its force to remain attached.
+- Every continuing attack divides Aldric's attention and reserve. He must willingly end old attacks to recover their burden, change their purpose or prevent his own battlefield from becoming too crowded to control.
+- Another complete Domain can sever an unended attack locally where the two principles overlap. Destroying one continuing strike does not erase **Unbroken Dominion**, while collapsing the Domain ends every remaining strike and returns their accumulated recoil to Aldric.
 - He is not eager for massacre. His danger comes from believing stable law requires Wuyue's submission.
 
 ### 8.2 Maedra Dravaryn — The Crimson Road
@@ -428,12 +432,17 @@ The names, genders and final domain titles below are approval gates. Their culti
 - **Cultivation:** Newly established but stable Paragon.
 - **Position:** Senior war authority above Raska Dravaryn.
 - **Motive:** A successful war can make Dravaryn the military center of Isgard and convert Veyrhald's legal primacy into ceremonial authority.
-- **Central principle:** Every committed movement creates momentum the next movement inherits.
-- **Proposed Supreme Domain:** **Crimson March Beyond the Last Road**.
-- Inside the domain, her steps, strikes and directional changes preserve accumulated martial momentum instead of resetting between actions.
-- Allied soldiers she deliberately includes receive cleaner formation timing, but this divides her attention and increases domain cost.
-- She is a true Paragon, not an army formation pretending to be one.
-- Wuyue's Sovereigns do not defeat her through numbers. They make her choose between pursuing them and sustaining the ninety-thousand-person army her political ambition requires.
+- **Central principle:** The first wound proves that Maedra's martial force has crossed a target's protection; from then onward, that breach remains a road.
+- **Supreme Domain:** **Crimson Road Dominion**.
+- Maedra must earn the first wound normally. Until blood is drawn, armor, barriers, distance and skill protect the opponent exactly as they should.
+- Each wound becomes a crimson road from Maedra's circulation into the injured body. Later techniques may enter through that road instead of crossing the target's exterior defence again.
+- Different wounds create roads to different joints, organs and meridian regions. Maedra may change a technique's internal destination after beginning it, connect several roads into one assault or strike through multiple established roads at once.
+- Closing the flesh does not erase a road while the Domain remains active. A healer must defend the wound internally or destroy Maedra's authority over it, forcing the injured fighter to divide circulation between combat and constant internal guard.
+- Designated allies may create weaker preliminary roads with wounds Maedra recognizes. Only roads she personally opens or formally claims carry her complete force; ordinary bloodshed does not grant the entire army unrestricted access to every wounded body.
+- The law is not blood magic. Blood is evidence that martial force crossed protection, and the road is the residual internal-energy connection left by that successful crossing.
+- Maedra remains a true Paragon before any road exists, but the Domain becomes increasingly lethal as a battle continues. Against an unwounded opponent she must still win an opening; against a heavily wounded army she can dismantle defence from within.
+- Crimson roads disappear when the Domain contracts or when an opposing Domain destroys her authority over them. They cannot be stored between activations or carried beyond the Domain's effective reach.
+- Wuyue's Sovereigns do not defeat her through numbers. Jin's strategy denies her clean first wounds, rotates wounded formations away and forces her to choose which roads deserve Paragon-level attention.
 
 ### 8.3 Paragon Discipline
 
@@ -443,6 +452,7 @@ The names, genders and final domain titles below are approval gates. Their culti
 - Sera's eventual breakthrough creates a true stable domain and satisfies both locked requirements: complete martial unification and **Orchid Dominion**.
 - Sera does not ascend solely because she is angry, frightened or losing.
 - Her breakthrough completes when strategy, mercy, assassination, movement, anatomy and battlefield perception stop functioning as separate roles.
+- All future Paragon Supreme Domain names must be short and contain **Dominion**. **Petals in Stasis** retains its permanent name as Rhen's explicit exception. This rule does not rename Wuyue's political Domains.
 
 ---
 
@@ -710,11 +720,11 @@ Aldric Veyrhald walks onto Three-Gate Plain after both sides have committed. Tor
 
 ### Chapter 232 — Ten Sovereigns Would Still Lose
 
-Aldric releases only the edge of his domain. Kael, Liang, Jin, Lei, Rui, Ilyra and Sera feel their separate systems become heavier, confirming the Paragon benchmark through lived pressure rather than narration.
+Aldric releases only the edge of **Unbroken Dominion** and attacks Kael, Liang, Jin, Lei, Rui, Ilyra and Sera in one sequence. Every blow is intercepted, yet none ends. Force continues through Kael's guard, Rui's ice, Ilyra's wings and Liang's redirected circulation after Aldric has already moved on. Within moments, seven of Wuyue's strongest are spending power to hold attacks they successfully blocked while Aldric remains free to begin more. Sera understands why ten Sovereigns would still lose: ordinary defence only gives his force somewhere to continue.
 
-### Chapter 233 — The Unbroken Field Bears Every Banner
+### Chapter 233 — Unbroken Dominion
 
-Aldric fully forms his proposed Supreme Domain. Wuyue's central army cannot advance, and ordinary formations begin failing simply from trying to preserve movement inside it.
+Aldric fully forms **Unbroken Dominion**. One spear thrust crosses the complete central battle line without weakening after shields, armor, siege barriers and bodies. Soldiers who survive the contact discover the pressure still travelling through what they used to block it; releasing their formation would let the unfinished strike complete. Aldric adds a descending cut and an army-scale sweep before ending the thrust. Three attacks occupy the entire centre and stop an advance of tens of thousands without becoming walls or magical restraints.
 
 ### Chapter 234 — Sera Cannot Call It Orchid Dominion
 
@@ -722,11 +732,11 @@ Sera's unified techniques almost answer automatically, but no stable domain form
 
 ### Chapter 235 — Kael Carries a Retreat Instead of a Victory
 
-The civilian breach is false, but the wounded formations pushed toward it are real. Sigrun closes **The First Wall Outlives the Siege** behind Kael while three Veyrhald Sovereigns maintain prepared seals and Aldric's domain edge makes every escape step heavier. Kael understands the ambush only after the army is committed. He uses **The Mountain Does Not Move** to keep all four attackers fixed upon him while Arin reverses the trapped columns. Sigrun breaks his torso and weapon arm and leaves him unable to stand. Kael defeats no one; Arin's extraction reaches Rhen because he accepts being the body the ambush was built to destroy.
+The civilian breach is false, but the wounded formations pushed toward it are real. Sigrun closes **The First Wall Outlives the Siege** behind Kael while three Veyrhald Sovereigns activate prepared seals across every escape route. Kael understands the ambush only after the army is committed. He uses **The Mountain Does Not Move** to keep all four attackers fixed upon him while Arin reverses the trapped columns. Sigrun breaks his torso and weapon arm and leaves him unable to stand. Kael defeats no one; Arin's extraction reaches Rhen because he accepts being the body the ambush was built to destroy.
 
 ### Chapter 236 — The Crimson Road Enters from the East
 
-Maedra Dravaryn reveals a second true domain across the Red Miles. Raska enters beneath it with **Crimson Cavalry Crosses the Setting Sun**. Lei checks the first charge through thunderfire, but the High Sovereign's preserved formation momentum breaks his circuit and burns the recoil through his own meridians. Luo pulls him into treatment as the cavalry pressure wave breaks three imperial defensive layers.
+Maedra Dravaryn reveals **Crimson Road Dominion** across the Red Miles, but it grants her nothing until blood is earned. Lei stops Raska's first charge through thunderfire; the lance still cuts one narrow line beneath his ribs. Maedra recognizes the wound, claims the preliminary road and sends her next spear technique through that breach instead of across Lei's exterior guard. The force opens inside his circulation, breaks his circuit and burns the recoil through his meridians. Luo pulls him into treatment while Maedra personally draws first blood on three imperial officers and turns three defended layers into three internal approaches.
 
 ### Chapter 237 — Arin's Inner Disciples Refuse the Gap
 
@@ -852,9 +862,9 @@ Sera recognizes that her old division between killing work and command work is t
 
 Rhen protects a casualty station and refuses to enter her battlefield. His trust matters because he neither rescues her nor narrates what she is becoming.
 
-### Chapter 265 — Every Orchid Marks a Choice
+### Chapter 265 — Every Attack Leaves Something Open
 
-Pale qi petals begin appearing only where Sera's existing techniques have already touched movement, anatomy or intent. The manifestation grows from her martial system rather than decorative spectacle.
+Pale qi petals begin gathering at the points hostile fighters surrender when they attack: the knee emptied by a committed step, the meridian gate left thin by a heavy release, the formation link neglected to feed an artillery strike. Sera realizes the field is neither predicting nor cancelling their techniques. Each attack is creating the place from which her answer can begin.
 
 ### Chapter 266 — Complete Martial Unification
 
@@ -862,17 +872,17 @@ Body, meridians, intent, perception and the Orchid principle stop transitioning 
 
 ### Chapter 267 — Supreme Domain: Orchid Dominion
 
-Sera forms the stable one-mile domain exactly as locked. Enemy circulation slows, movement reveals intention and allies receive protected paths through the petal field.
+Sera forms the stable one-mile **Orchid Dominion**. An artillery formation fires at full power and complete orchids open inside the defensive circulation it abandoned. **Whispering Orchid Needles** emerge point-blank from those blooms and disable the gunners without crossing their barrier. A Sovereign attacks more cautiously; his smaller bloom gives Sera only enough access for **Orchid Behind the Mirror** to make him guard the wrong opening. Her own attacks reveal nothing because **Veiled Moon** has become part of the Domain itself.
 
 ### Chapter 268 — A New Paragon Does Not Win for Free
 
-The initial activation consumes its fixed reserve. Aldric's refinement compresses the young domain, and Sera learns that reaching Paragon begins a new contest rather than ending one.
+The initial activation consumes its fixed reserve, and every counter Sera sends through a bloom costs more. Lesser formations that continue attacking expose linked openings across their whole structure. Sovereigns constrict their blooms by reserving circulation around every vulnerability, reducing the speed and force of their own techniques. Aldric's refinement can protect openings wherever **Unbroken Dominion** holds contested territory; Sera has gained an answer to his attacks, not the right to erase an older Paragon for free.
 
 ### Chapter 269 — The Army Crosses Through Her Garden
 
-Sera uses Orchid Dominion to move wounded formations, expose siege seams and prevent pursuit. Astrid Vardrenn refuses Maedra's order to fire through the same Hearth road Sera protected, removing the Black Pine ambush network from the coalition without making Vardrenn a Wuyue ally. Sera prioritizes the army over proving she can defeat Aldric immediately.
+Sera uses **Orchid Dominion** against the coordinated attacks closing upon the wounded. Each formation-wide release exposes linked Counter-Blooms; needles disable command joints, **Fading Fragrance** enters an artillery aura from within and **Petal-Severing Touch** breaks the connection feeding a siege engine. **Orchid Shadow Steps** carries her between completed blooms faster than the army can redirect. Astrid Vardrenn refuses Maedra's order to fire through the same Hearth road Sera protects, removing the Black Pine ambush network without becoming a Wuyue ally. Sera prioritizes extraction over proving she can defeat Aldric immediately.
 
-### Chapter 270 — Isgard Sees the Pale Dominion
+### Chapter 270 — Isgard Sees Orchid Dominion
 
 Wuyue clears the Paragon trap. Aldric remains standing, Sera remains capable of fighting, and both continents understand a third true domain has entered the war. Far behind the reorganized line, two thousand pale-uniformed specialists disembark without drums and ask Liang which command system Jin has selected.
 
@@ -882,7 +892,7 @@ Wuyue clears the Paragon trap. Aldric remains standing, Sera remains capable of 
 
 ### Chapter 271 — Maedra Chooses the Army, Not Sera
 
-Maedra refuses an immediate Paragon duel and turns her domain toward Rui's supply line. Destroying the expedition's ability to eat and retreat would win more than defeating one fighter.
+Maedra refuses an immediate Paragon duel and extends **Crimson Road Dominion** toward Rui's supply line. Dravaryn skirmishers accept losses to open shallow wounds across nine escort formations; Maedra claims the best of them, then sends nine internal strikes past armor and shield walls at once. Every injured officer must divide circulation between command and guarding the road inside the body. Destroying the expedition's ability to eat and retreat would win more than defeating one fighter.
 
 ### Chapter 272 — Twenty Percent Does Not March Like an Army
 
@@ -898,15 +908,15 @@ Liang cannot defeat Halvek, so Jin never places her opposite him. She applies wh
 
 ### Chapter 275 — Lei Divides the Road
 
-Raska commits her accumulated charge across the Red Miles. **Black Heaven Descends** turns weapons, terrain and seeded qi into several simultaneous conductive routes, but Lei cannot overpower the High Sovereign or force her from the saddle. Luo times the only interval his damaged meridians can survive. Because Ysmark no longer recovers isolated cavalry and Norrvek cannot close the escape road, Lei needs only to divide the charge long enough for the medical column to leave.
+Raska reopens the wound beneath Lei's ribs and two lesser cuts left during the retreat. Maedra claims all three and changes the destination of her next technique after Lei commits his guard, sending force toward his heart, spine and damaged thunder meridian at once. **Black Heaven Descends** turns seeded qi and conductive weapon fragments inside his torn guard into internal thunderfire routes. Lei cannot erase Maedra's Domain, but he floods one road and seals the other two behind sacrificial circulation loops. Maedra can force any one of them open, not all three before the medical column leaves. Luo times the only interval Lei's damaged meridians can survive. Because Ysmark no longer recovers isolated cavalry and Norrvek cannot close the escape road, that incomplete access is enough.
 
 ### Chapter 276 — Rui Moves the Ground as Water
 
-In his first complete field command after Eldran's six-person assault, Rui floods and freezes the Red Miles beneath his own retreat corridor. He denies cavalry the flat continuity its momentum requires without chasing any of the people who kicked him down or pretending water suppresses Maedra's domain itself.
+In his first complete field command after Eldran's six-person assault, Rui alternates flood, ice and broken current beneath his retreat corridor so Dravaryn cannot earn clean contact on the unwounded. Anyone bleeding is rotated behind layered water barriers before Maedra can claim the injury; anyone already carrying a crimson road receives an ice sheath around the threatened meridian to delay the next internal strike. Rui cannot suppress **Crimson Road Dominion**, but he denies it easy first blood across thousands. He protects the retreat without chasing anyone who kicked him down.
 
 ### Chapter 277 — Ilyra Runs Two Engines Against One March
 
-Ilyra alternates Shield and Returning functions through her dual meridians at Sovereign output. She survives contact only because each engine carries a different purpose and Jin limits the interval. Mo replaces Dravaryn orders with visible blank gaps rather than false commands, while wounded Silver Horizon members carry signals and keep the pale suppression corridors identifiable.
+Ilyra alternates Shield and Returning functions through her dual meridians at Sovereign output. A claimed wound near her left shoulder forces the Shield engine to guard inward while the Returning engine carries the field; when Maedra switches the road toward her heart, Ilyra reverses their functions without dropping either formation. She survives only because each engine can carry a different purpose and Jin limits the interval. Mo replaces Dravaryn orders with visible blank gaps rather than false commands, while wounded Silver Horizon members carry signals and keep the pale suppression corridors identifiable.
 
 ### Chapter 278 — Chainforge Falls in One Night
 
@@ -914,7 +924,7 @@ Arin's standing swordswomen sever the physical chains after Liang's elites stop 
 
 ### Chapter 279 — The Paragon Chooses Her Ninety Thousand
 
-Maedra abandons pursuit to keep her ninety thousand from collapsing without Chainforge roads, Haldren reserves, Ysmark recovery or Vardrenn ambush corridors. Wuyue does not defeat her in combat; Jin has dismantled the support required for her invasion objective.
+Maedra still possesses crimson roads inside hundreds of retreating Wuyue officers and can continue killing through wounds their armor cannot protect. Doing so would carry her Domain away from ninety thousand Isgard soldiers after Chainforge, Haldren, Ysmark and Vardrenn cease supporting them. She releases every offensive road, contracts the Domain and uses her ordinary Paragon strength to hold open her army's withdrawal. Wuyue does not defeat her in combat; Jin makes victory through those roads cost the political army she needs to win.
 
 ### Chapter 280 — The World Remembers Number Three
 
@@ -940,13 +950,13 @@ Eira publicly withholds medical legitimacy from the coalition's planned mass ass
 
 Raska refuses an order sacrificing Dravaryn's remaining cavalry solely to improve Maedra's political claim. The fracture remains an Isgard decision, not Sera converting an enemy into a friend.
 
-### Chapter 285 — Aldric and Sera Draw Their Boundaries
+### Chapter 285 — Aldric and Sera Choose Their Burdens
 
-Both Paragons shape domains around their own armies and civilian roads. Their control is shown through who is excluded from suppression as much as through pressure.
+Aldric lays three immense attacks across the coalition's perimeter and leaves them unended: a thrust through the central road, a descending force above the artillery ridge and a sweep attached to every shield on the southern approach. Sera allows each renewed offensive commitment inside her reach to create its Counter-Bloom while leaving civilian movement, healing and withdrawal untouched. Their control is shown not by indiscriminate pressure, but by which burdens they choose to sustain.
 
 ### Chapter 286 — Two Domains Meet
 
-The Unbroken Field and Orchid Dominion overlap. Aldric compresses direct advance; Sera exposes every transition required to maintain that compression.
+**Unbroken Dominion** and **Orchid Dominion** expand at the same time. Neither cancels the other. Aldric's thrust enters the overlap and creates a Counter-Bloom at the defence he opened to sustain it; Sera sends **Petal-Severing Touch** through the bloom, but his Domain keeps the contacted force alive along her counter. He compresses her eastern petals; she concentrates her Domain around the trapped army and wins the southern ground back. Their self-enhancements remain intact while every hostile effect must fight for authority in the contested territory, making the overlap impossible for ordinary fighters to enter.
 
 ### Chapter 287 — The Battle Beneath the Domains
 
@@ -954,11 +964,11 @@ Sigrun still defeats Kael wherever their bodies meet, but Haldren and Norrvek no
 
 ### Chapter 288 — Sera Gives Aldric an Exit
 
-Sera identifies the one choice his political principle cannot accept: preserving the Ledger by destroying the people and Hearths it claims to organize. She opens a withdrawal path rather than forcing a death contest.
+Sera identifies the contradiction his martial and political principle cannot survive: continuing attacks through the soldiers and civilians now withdrawing under the Ledger he claims to protect. **Orchid Dominion** answers every renewed strike with a Counter-Bloom but never attacks anyone using the open road away from battle. She gives Aldric an exit instead of pretending her younger Domain can destroy every unended force through raw refinement.
 
 ### Chapter 289 — The Unbroken Standard Bends
 
-Aldric contracts his domain first, not because his cultivation is erased but because the coalition mandate has fractured and continued war would defend only his refusal to stop.
+Aldric willingly ends the thrust, cut and sweep before contracting **Unbroken Dominion**. He yields first, not because Sera erased his cultivation, but because every continuing attack would now pass through the people whose law he claimed to defend. Voluntary contraction concedes the contested ground without suffering the backlash of a forced Domain collapse.
 
 ### Chapter 290 — The Largest Battle Ends Unevenly
 
@@ -1030,9 +1040,9 @@ Rhen and Sera drink beneath the sign after the armies disperse to their own auth
 ## 23. Power Discipline
 
 - Sera begins Peak Sovereign approaching Paragon and reaches true Paragon only in Season 91.
-- Orchid Dominion follows every radius, duration, suppression and recovery rule already locked.
+- Orchid Dominion follows every Counter-Bloom, skill-enhancement, enemy-restraint, radius, duration, reserve and recovery rule now locked.
 - Sera does not immediately become the world's undisputed strongest Paragon.
-- Aldric remains more experienced in domain collision; Sera wins strategic control by understanding choices and boundaries, not by receiving unlimited reserve.
+- Aldric remains more experienced in domain collision; Sera wins strategic control by exploiting the openings created by his continuing attacks, not by receiving unlimited reserve.
 - Maedra remains a true Paragon and is not beaten by a pile of Sovereigns.
 - Kael remains High Sovereign. He performs army-saving feats without being inflated to Paragon by narration.
 - Liang remains Mid Sovereign and threatens larger powers through preparation and internal-circulation specialization.
@@ -1094,8 +1104,8 @@ The following require explicit acceptance or revision before Chapter 201 is writ
 5. **Kael elite names:** Mountain Nails and Stonecrown Bastion.
 6. **Liang elite names:** White-Blood Adjudicators and Pale Vein Wardens.
 7. **Visible Isgard coalition:** approximately 280,000.
-8. **Paragon One:** Aldric Veyrhald and **The Unbroken Field Bears Every Banner**.
-9. **Paragon Two:** Maedra Dravaryn and **Crimson March Beyond the Last Road**.
+8. **Paragon One:** Aldric Veyrhald and **Unbroken Dominion**.
+9. **Paragon Two:** Maedra Dravaryn and **Crimson Road Dominion**.
 10. **Sera reaches Paragon in Season 91** and fully unlocks Orchid Dominion.
 11. **Maedra survives undefeated personally but loses her invasion objective and command.**
 12. **Aldric ends his domain first after Sera breaks the coalition's political mandate; neither is killed.**
