@@ -464,29 +464,29 @@ The names and genders below remain approval gates. Their short Domain titles and
 - Her breakthrough completes when strategy, mercy, assassination, movement, anatomy and battlefield perception stop functioning as separate roles.
 - All future Paragon Supreme Domain names must be short and contain **Dominion**. **Petals in Stasis** retains its permanent name as Rhen's explicit exception. This rule does not rename Wuyue's political Domains.
 
-### 8.4 Rhen's Two Transcended Interventions
+### 8.4 Rhen's Two Existing Transcended Interventions
 
 Rhen does not reveal a Domain and is not reclassified as Paragon. His intervention demonstrates that the public hierarchy still cannot measure him.
 
-#### Heaven Breaks Before the Fist
+The fist-wide wound Rhen gives Aldric is an unnamed raw punch, not a skill. Its force comes from Rhen himself; it must never be added to the technique roster or styled as an art.
+
+#### Petal Convergence
 
 - **Tier:** Transcended Skill.
-- **Category:** Body / Penetrating Impact.
-- Rhen aligns body, breath and internal energy into one ordinary-looking physical punch.
-- Every defensive layer he physically reaches must receive the complete impact in sequence; armor, aura, weapon guard and reinforced flesh cannot make the force dissipate between layers.
-- The art does not ignore distance, teleport through protection or strike without contact. Its horror is that each layer is honestly penetrated along the same fist-line.
-- Against Aldric, Rhen enters **Unbroken Dominion**, crosses the continuing spear pressure and punches through Aldric's guard and lower torso. The opening is fist-wide and completely real. Rhen deliberately misses the heart, spine and dantian, then freezes the bleeding at its edges so the defeat is not an execution.
+- **Category:** Offense / Convergent Impact.
+- Rhen scatters thousands of frozen petals and converges every petal upon one selected point from every direction.
+- He can focus the convergence upon one enemy or divide it among several, and can moderate the force to incapacitate rather than execute.
+- After the unnamed punch leaves Aldric wounded but active, Rhen converges the petals upon Aldric's remaining guard and center. The simultaneous impacts overwhelm his surviving Paragon defence and collapse **Unbroken Dominion** while leaving him alive.
 
-#### Snow Falls Uphill
+#### Meridian Bloom
 
 - **Tier:** Transcended Skill.
-- **Category:** Counter / Hostile Connection Reversal.
-- A single frozen petal placed against an active hostile energy connection carries Rhen's winter qi backward through the route toward the cultivator sustaining it.
-- It does not steal control, reflect the original attack or sever a dependency. The enemy's own connection provides a physical internal-energy path along which Rhen's cold advances against its intended direction.
-- The user may cut the connection before the frost reaches its source, sacrificing every effect sustained through that branch. Maintaining the connection allows the winter qi to reach and arrest the originating circulation.
-- Against Maedra, Rhen touches one crimson road still anchored inside Sera. Snow travels uphill through every road Maedra keeps connected, freezes them from the source outward and arrests the Domain circulation around her heart without killing her.
+- **Category:** Offense / Circulation Disruption.
+- A petal touching an enemy or their aura leaves a luminous pattern across the chest and dantian, splitting internal circulation into conflicting currents.
+- Every attempt to force greater power through the marked circulation worsens the conflict: reinforced limbs lose support, balance fails and the victim is driven to their knees.
+- Against Maedra, one petal touches her aura. Her attempt to sustain **Crimson Road Dominion** feeds the pattern until her legs fail and the Domain collapses. Rhen releases the art before permanent meridian damage.
 
-Both arts remain below Rhen's Supreme roster. Defeating two exhausted but active Paragons with Transcended skills is the point: he does not need his highest cultivation to stand beyond their ranking system.
+Both arts already belong to Rhen's established ten-skill roster. Defeating two exhausted but active Paragons with existing Transcended skills is the point: he does not need his Supreme or Ultimate arts to stand beyond their ranking system.
 
 ---
 
@@ -1000,13 +1000,13 @@ Sigrun still defeats Kael wherever their bodies meet, but Haldren and Norrvek no
 
 Maedra changes the crimson road in Sera's shoulder toward her heart as Aldric attaches a continuing thrust to the defence protecting the army behind her. Sera cannot answer both by retreating. She uses **Seven Petals, One Breath** across seven simultaneous Counter-Blooms, drives Maedra to one knee and forces Aldric to end two older attacks, but the third keeps pressing while Maedra opens a second internal road. Sera spends her remaining authority moving the army out of the overlap. **Orchid Dominion** is then forcibly collapsed between the two older Domains. The backlash tears through her new Paragon circulation and drops her conscious but unable to stand. She loses honestly after making two Paragons need each other to defeat her. Aldric's unfinished thrust remains attached to her broken guard, crossing Rhen's medical veto.
 
-### Chapter 289 — Heaven Breaks Before the Fist
+### Chapter 289 — One Fist Through a Paragon
 
-Rhen leaves the casualty road and walks into both hostile Domains without forming one of his own. Aldric turns the continuing thrust upon him. Rhen crosses its pressure, closes one bare hand and reveals the Transcended **Heaven Breaks Before the Fist**. The punch passes through the spear guard, layered Paragon aura, reinforced body and lower torso without losing force between them. A fist-wide hole opens through Aldric. Rhen deliberately misses his heart, spine and dantian and freezes the wound's edges before the blood can fall. **Unbroken Dominion** collapses with its creator still alive on his knees. When Aldric asks what Domain struck him, Rhen answers, “None.”
+Rhen leaves the casualty road and walks into both hostile Domains without forming one of his own. Aldric turns the continuing thrust upon him. Rhen crosses its pressure and throws one raw, unnamed punch through the spear guard, layered Paragon aura and lower torso. A fist-wide hole opens through Aldric, but Rhen deliberately misses his heart, spine and dantian and freezes the wound's edges before the blood can fall. Aldric remains active and tries to restore his continuing attack. Rhen then scatters thousands of petals and reveals the existing Transcended **Petal Convergence**. Every petal converges upon Aldric's remaining guard and center from a different direction. Rhen moderates the force just short of execution; the simultaneous impacts overwhelm Aldric's surviving Paragon defence and collapse **Unbroken Dominion** with its creator alive on his knees. When Aldric asks what Domain struck him, Rhen answers, “None.”
 
-### Chapter 290 — Snow Falls Uphill
+### Chapter 290 — Meridian Bloom
 
-Maedra keeps **Crimson Road Dominion** active and drives every surviving wound-road toward Sera before Rhen can reach her. Rhen places one frozen petal against the road in Sera's shoulder and reveals the Transcended **Snow Falls Uphill**. Winter qi travels backward through every connection Maedra refuses to release. She cuts hundreds of roads, surrendering their attacks, but holds the one aimed at Sera's heart for a fraction too long. The frost reaches its source, arrests the circulation around Maedra's heart and drops the second Paragon beside the first. Rhen catches Sera before she reaches the ground. She tells him he took his time; he answers that she told him not to interfere. Across the fractured coalition, weapons lower at different speeds until the largest battle in either continent's history ends without one magical command forcing the silence.
+Maedra keeps **Crimson Road Dominion** active and drives every surviving wound-road toward Sera before Rhen can reach her. One frozen petal touches Maedra's aura and reveals the existing Transcended **Meridian Bloom**. A luminous pattern unfolds across her chest and dantian, splitting her internal circulation into conflicting currents. Maedra forces more Paragon power through the roads; the conflict worsens, reinforcement leaves her legs and she drops to one knee. She tries once more to reach Sera, loses the other leg and watches **Crimson Road Dominion** collapse around her. Rhen releases the pattern before it causes permanent meridian damage, then catches Sera before she reaches the ground. She tells him he took his time; he answers that she told him not to interfere. Across the fractured coalition, weapons lower at different speeds until the largest battle in either continent's history ends without one magical command forcing the silence.
 
 ---
 
@@ -1030,7 +1030,7 @@ Ilyra rejects permanent occupation duty and any Isgard offer of a ranked banner.
 
 ### Chapter 295 — Maedra Wakes Without Command
 
-Rhen restores the circulation arrested by **Snow Falls Uphill** only after Dravaryn formally surrenders its offensive mandate. Maedra wakes as a living Paragon who remembers exactly how little of Rhen's power defeated her. Dravaryn strips her of coalition command because her political strategy failed, preserving a dangerous future figure without forcing an artificial redemption.
+Rhen releases **Meridian Bloom** and restores the damage Maedra inflicted upon herself only after Dravaryn formally surrenders its offensive mandate. Maedra wakes as a living Paragon who remembers exactly how little of Rhen's power defeated her. Dravaryn strips her of coalition command because her political strategy failed, preserving a dangerous future figure without forcing an artificial redemption.
 
 ### Chapter 296 — Aldric Rewrites the Gate Seal
 
@@ -1090,7 +1090,7 @@ Rhen and Sera drink beneath the sign after the armies disperse to their own auth
 - Lu remains non-combatant and receives no cultivation breakthrough or passive refinement.
 - The 160 home Quiet Hands improve according to the exact distribution in Section 5.5; none reaches Sovereign and none inherits a senior commander's named art.
 - The northern public Top Ten do not know Sera's full pre-ascension superiority or the exact breakthroughs of Tae, Huo and Qin until the final battle has ended. Their shock must occur through witnessed combat and Lu's sealed ledger, not advance narration.
-- Rhen settles the two-Paragon confrontation with exactly two new Transcended skills: **Heaven Breaks Before the Fist** and **Snow Falls Uphill**.
+- Rhen settles the two-Paragon confrontation with exactly his two existing Transcended skills: **Petal Convergence** and **Meridian Bloom**.
 - Rhen forms no Domain and uses no Supreme or Ultimate against Aldric or Maedra. Their defeat through his lower-tier arts demonstrates why he remains beyond the ranking system.
 - **Petals Beneath a Frozen Moon** and Rhen's Ultimate are neither used nor staged as fake-outs.
 
@@ -1143,8 +1143,8 @@ The following require explicit acceptance or revision before Chapter 201 is writ
 8. **Paragon One:** Aldric Veyrhald and **Unbroken Dominion**.
 9. **Paragon Two:** Maedra Dravaryn and **Crimson Road Dominion**.
 10. **Sera reaches Paragon in Season 91** and fully unlocks Orchid Dominion.
-11. **Maedra survives but is personally defeated by Rhen's Transcended Snow Falls Uphill after helping force Orchid Dominion to collapse.**
-12. **Aldric survives a fist-wide wound through his lower torso and is personally defeated by Rhen's Transcended Heaven Breaks Before the Fist.**
+11. **Maedra survives but is personally defeated by Rhen's existing Transcended Meridian Bloom after helping force Orchid Dominion to collapse.**
+12. **Aldric survives Rhen's unnamed fist-wide punch through his lower torso and is personally defeated by the existing Transcended Petal Convergence.**
 13. **No automatic Chapter 300 cliffhanger.** The next hook remains undecided until the user chooses it.
 14. **War duration:** approximately twenty-four months.
 15. **Expanded Isgard command:** two Paragons, two Peak Sovereigns, five High Sovereigns and eighteen additional Sovereign-tier officers.
@@ -1162,7 +1162,7 @@ The following require explicit acceptance or revision before Chapter 201 is writ
 27. **Halvek's Supreme:** **Every Road Kneels Before the Gate**.
 28. **Solveig's Supreme:** **No Footprint Survives the Last Snow**.
 29. **Raska's Supreme:** **Crimson Cavalry Crosses the Setting Sun**.
-30. **Rhen's two new Transcended skills:** **Heaven Breaks Before the Fist** and **Snow Falls Uphill**; neither is secretly Supreme.
+30. **Rhen's two existing Transcended skills:** **Petal Convergence** and **Meridian Bloom**; no new art is created for the finale.
 31. **Final concealed-power reveal:** the Top Ten learn only after the battle that Sera had grown beyond them before ascension and that Tae, Huo and Qin all reached Peak Sovereign while 160 home Quiet Hands advanced.
 32. **Eldran's Supreme:** **Cinder Standard Over the Fallen Mile**.
 33. **Five Sovereign outcomes:** Kael loses Sigrun's four-person ambush and never defeats her; Liang loses physically to Halvek and never defeats him; Lei loses to Raska and never defeats her; Rui is destroyed by six Sovereigns; Jin alone remains personally undefeated because he refuses Solveig's duel and commands the whole campaign instead.
@@ -1195,7 +1195,7 @@ If the approval gates stand, the arc ends with:
 - Sera having fulfilled the complete Paragon requirements and formed Orchid Dominion under its locked limitations;
 - Rhen having remained healer and husband through the two-year campaign, then made one bounded offensive intervention only after Sera's honest two-Paragon defeat crossed his medical veto;
 - Sera having forced two experienced Paragons to cooperate, wounded both and saved the army before her entry-level Domain collapsed, preserving her agency even though Rhen ends the immediate threat;
-- Rhen having defeated Aldric and Maedra with **Heaven Breaks Before the Fist** and **Snow Falls Uphill** without forming a Domain or using any Supreme or Ultimate;
+- Rhen having wounded Aldric with an unnamed raw punch, then defeated Aldric and Maedra with **Petal Convergence** and **Meridian Bloom** without forming a Domain or using any Supreme or Ultimate;
 - the public Top Ten having learned Sera's true comparative scale and the three home Peak Sovereign breakthroughs only through the final witnessed battle and Lu's sealed after-action ledger;
 - Eirholt remaining a narrow medical ally, Tor remaining a procedural bridge and Raska remaining an Isgard nationalist rather than a convert;
 - Aldric and Maedra alive, dangerous and politically changed by defeat without becoming friendly;
