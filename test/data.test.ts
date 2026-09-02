@@ -57,6 +57,8 @@ describe('data integrity', () => {
     const escalation = [chapter(84, 196), chapter(84, 197), chapter(84, 198), chapter(84, 200)].join('\n');
     expect(escalation).toContain('Tor’s road remained open');
     expect(escalation).toContain('Wuyue’s counteroffer remained on the table');
+    expect(escalation).toContain('Maedra refused Eirholt as neutral arbiter');
+    expect(escalation).not.toContain('Maedra refused any Hearth court');
     expect(escalation).toContain('They did not agree why they were coming.');
 
     const survivalCipher = chapter(89, 248);
