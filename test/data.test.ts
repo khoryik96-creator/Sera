@@ -45,4 +45,27 @@ describe('data integrity', () => {
       }
     }
   });
+
+  it('preserves the Isgard escalation chain and the shared home-power reveal', () => {
+    const chapter = (season: number, ep: number) => {
+      const episodes = raw[`season${season}` as `season${number}`];
+      const match = episodes.find((episode) => episode.ep === `Chapter ${ep}`);
+      expect(match, `season${season} chapter ${ep}`).toBeDefined();
+      return match!.text;
+    };
+
+    const escalation = [chapter(84, 196), chapter(84, 197), chapter(84, 198), chapter(84, 200)].join('\n');
+    expect(escalation).toContain('Tor’s road remained open');
+    expect(escalation).toContain('Wuyue’s counteroffer remained on the table');
+    expect(escalation).toContain('They did not agree why they were coming.');
+
+    const survivalCipher = chapter(89, 248);
+    expect(survivalCipher).toContain('**WUYUE STILL STANDS.**');
+    expect(survivalCipher).not.toContain('THREE PEAKS REMAIN');
+    expect(survivalCipher).not.toContain('self-sustaining Peak foundations');
+
+    const reveal = chapter(94, 291);
+    expect(reveal).toContain('[[speaker:kael]]“You did not know?”');
+    expect(reveal).toContain('[[speaker:rhen]]“Protection is not surveillance.”');
+  });
 });
