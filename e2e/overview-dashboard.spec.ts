@@ -10,7 +10,7 @@ test('overview dashboard exposes protagonists, Top Ten, and archive actions', as
   await expect(page.locator('.protagonist-card')).toHaveCount(2);
   await expect(page.locator('.overview-rank-list > button')).toHaveCount(10);
   await expect(page.getByText('Two legends. One quiet tea shop.')).toBeVisible();
-  await expect(page.getByText('15 Story Arcs')).toBeVisible();
+  await expect(page.getByText('16 Story Arcs')).toBeVisible();
 
   await page.locator('.protagonist-card--sera').click();
   await expect(page).toHaveURL(/#characters\/sera$/);

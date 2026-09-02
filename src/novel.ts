@@ -67,6 +67,11 @@ function knownArts(): ArtInfo[] {
   for (const skill of [...(DB?.rhenSkills || []), ...(DB?.seraSkills || [])]) {
     add(skill.name, skill.tier || powerTier(skill.category, skill.rating));
   }
+  for (const figure of DB?.arcFigures || []) {
+    for (const skill of figure.skills || []) {
+      if (/(supreme|transcended|ultimate)/i.test(skill[1] || '')) add(skill[0], skill[1]);
+    }
+  }
   const seen = new Set<string>();
   const unique = arts.filter((art) => (seen.has(art.name) ? false : (seen.add(art.name), true)));
   unique.sort((a, b) => b.name.length - a.name.length);

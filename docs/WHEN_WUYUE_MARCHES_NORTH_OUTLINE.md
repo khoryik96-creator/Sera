@@ -1,6 +1,6 @@
-# When Wuyue Marches North — Proposed Ten-Season War Skeleton
+# When Wuyue Marches North — Ten-Season War Skeleton
 
-> **Status:** Proposal only. This document plans the macro arc after *Where the Black Wick Leads*. It does not alter `docs/STORY_SKELETON_LOCK.md`, which remains authoritative wherever the two conflict.
+> **Status:** Implemented as first-draft reader prose in Seasons 85–94 / Chapters 201–300. This remains the planning and handoff source for the arc; `docs/STORY_SKELETON_LOCK.md` remains authoritative wherever the two conflict.
 >
 > **Reader range:** Seasons 85–94 · Chapters 201–300.
 >

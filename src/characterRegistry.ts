@@ -100,15 +100,21 @@ export const characterRegistry: CharacterRegistryEntry[] = [
   // here; the bare-name handoff is done season-aware via seasonScopedAliases.
   { key: 'tor_veyrhald', displayName: 'Tor Veyrhald', colorKey: 'tor_veyrhald', aliases: ['Tor Veyrhald'], speakerKeys: ['tor_veyrhald'] },
 
-  // Southern Isgard Paragons ("When Wuyue Marches North", Seasons 87–93). Paragon
-  // is a tier above the numeric world ranking, so they carry no rank badge — only
-  // a distinct dialogue/name colour. Each shares a surname with an earlier Isgard
-  // figure (Tor Veyrhald, Raska Dravaryn) but is aliased only by a unique given
-  // name, so no bare-alias handoff is needed. NOTE: their names and genders remain
-  // approval gates in docs/WHEN_WUYUE_MARCHES_NORTH_OUTLINE.md §8; activated per
-  // the user's explicit approval to wire them now, ahead of the Season 87–93 prose.
+  // Southern Isgard command ("When Wuyue Marches North", Seasons 85–94). These
+  // figures sit outside Wuyue's numeric world ranking, so they carry no rank badge
+  // and receive only distinct dialogue/name colours.
   { key: 'aldric', displayName: 'Aldric Veyrhald', colorKey: 'aldric', aliases: ['Aldric Veyrhald', 'Aldric'], speakerKeys: ['aldric'] },
   { key: 'maedra', displayName: 'Maedra Dravaryn', colorKey: 'maedra', aliases: ['Maedra Dravaryn', 'Maedra'], speakerKeys: ['maedra'] },
+  { key: 'sigrun', displayName: 'Sigrun Veyrhald', colorKey: 'sigrun', aliases: ['Sigrun Veyrhald', 'Sigrun'], speakerKeys: ['sigrun'] },
+  { key: 'halvek', displayName: 'Halvek Veyrhald', colorKey: 'halvek', aliases: ['Halvek Veyrhald', 'Halvek'], speakerKeys: ['halvek'] },
+  { key: 'solveig', displayName: 'Solveig Skeldran', colorKey: 'solveig', aliases: ['Solveig Skeldran', 'Solveig'], speakerKeys: ['solveig'] },
+  { key: 'eldran', displayName: 'Eldran Dravaryn', colorKey: 'eldran', aliases: ['Eldran Dravaryn', 'Eldran'], speakerKeys: ['eldran'] },
+  { key: 'brynja', displayName: 'Brynja Kharvorn', colorKey: 'brynja', aliases: ['Brynja Kharvorn', 'Brynja'], speakerKeys: ['brynja'] },
+  { key: 'oskar', displayName: 'Oskar Solvane', colorKey: 'oskar', aliases: ['Oskar Solvane', 'Oskar'], speakerKeys: ['oskar'] },
+  { key: 'astrid', displayName: 'Astrid Vardrenn', colorKey: 'astrid', aliases: ['Astrid Vardrenn', 'Astrid'], speakerKeys: ['astrid'] },
+  { key: 'jorek', displayName: 'Jorek Norrvek', colorKey: 'jorek', aliases: ['Jorek Norrvek', 'Jorek'], speakerKeys: ['jorek'] },
+  { key: 'freya', displayName: 'Freya Ysmark', colorKey: 'freya', aliases: ['Freya Ysmark', 'Freya'], speakerKeys: ['freya'] },
+  { key: 'kellan', displayName: 'Kellan Haldren', colorKey: 'kellan', aliases: ['Kellan Haldren', 'Kellan'], speakerKeys: ['kellan'] },
 ];
 
 /**
@@ -178,4 +184,6 @@ export const colorKeyItems: [string, string][] = [
   ['wei', 'Wei Zhen'], ['ji', 'Ji Wuye'], ['cao', 'Cao Tian'], ['ye', 'Ye Mo'], ['zhao', 'Zhao Keshan'], ['lin', 'Lin Yao'], ['yan', 'Yan Shou'], ['meizhen', 'Mei Zhen'], ['yunke', 'Yun Ke'], ['meilin', 'Jian Meilin'], ['shiyue', 'Yun Shiyue'], ['huo', 'Huo Wujin'], ['nam', 'Nam Gyeol'], ['haejin', 'Seo Haejin'], ['daemun', 'Dae Mun'], ['gong', 'Gong Seok'],
   ['mareth', 'Mareth Duskvein'], ['garran', 'Garran Duskvein'], ['neris', 'Neris Duskvein'], ['sivra', 'Sivra Duskvein'], ['oren', 'Oren Duskvein'], ['varok', 'Varok Skeldran'], ['raska', 'Raska Dravaryn'], ['eira', 'Eira Eirholt'], ['tor_veyrhald', 'Tor Veyrhald'],
   ['aldric', 'Aldric Veyrhald'], ['maedra', 'Maedra Dravaryn'],
+  ['sigrun', 'Sigrun Veyrhald'], ['halvek', 'Halvek Veyrhald'], ['solveig', 'Solveig Skeldran'], ['eldran', 'Eldran Dravaryn'],
+  ['brynja', 'Brynja Kharvorn'], ['oskar', 'Oskar Solvane'], ['astrid', 'Astrid Vardrenn'], ['jorek', 'Jorek Norrvek'], ['freya', 'Freya Ysmark'], ['kellan', 'Kellan Haldren'],
 ];

@@ -24,10 +24,12 @@ Suggested first instruction in a new chat:
 - Live reader: `https://khoryik96-creator.github.io/Sera/`
 - Default branch: `main`
 - App: React 19 + TypeScript + Vite
-- Story size: 74 seasons / 733 chapters / 14 story arcs
+- Story size: 94 seasons / 933 chapters / 16 story arcs
 - Primary runtime entry: `index.html`
 - Historical-link compatibility alias: `react-preview.html`
 - The pre-React `legacy.html` reader has been retired (removed in PR #86); React is the sole reader.
+
+The latest story continuation is **When Wuyue Marches North**, covering Seasons 85–94 / Chapters 201–300. Its complete first draft, cast metadata, Paragon profiles and named-art rendering are maintained together; do not reconstruct this arc from its outline unless the reader data is actually absent.
 
 ## Latest audited feature baseline
 
