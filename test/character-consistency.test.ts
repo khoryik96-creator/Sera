@@ -67,4 +67,18 @@ describe('character registry / data / stylesheet consistency', () => {
   it('maps every top-skill roster to a real character', () => {
     for (const key of Object.keys(data.topSkills)) expect(data.characters[key], key).toBeDefined();
   });
+
+  it('keeps arc-figure first-appearance titles aligned with the canonical chapter', () => {
+    for (const figure of data.arcFigures) {
+      if (figure.firstSeason === undefined) continue;
+
+      expect(figure.firstEpisode, `${figure.name} is missing a first episode`).toBeTypeOf('number');
+      expect(figure.firstEpisodeTitle, `${figure.name} is missing a first-episode title`).toBeTypeOf('string');
+
+      const season = data[`season${figure.firstSeason}`];
+      const episode = season?.[(figure.firstEpisode as number) - 1];
+      expect(episode, `${figure.name} points outside Season ${figure.firstSeason}`).toBeDefined();
+      expect(figure.firstEpisodeTitle, `${figure.name} has a fabricated first-episode title`).toBe(episode?.title);
+    }
+  });
 });
