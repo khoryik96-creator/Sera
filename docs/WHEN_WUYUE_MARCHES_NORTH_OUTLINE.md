@@ -253,13 +253,14 @@ The passive makes the two-year rotation survivable. It does not make the outcome
 
 All three finish at Peak Sovereign without becoming interchangeable. Tae remains superior in fixed-distance control, Huo in adaptive offensive response and Qin in continental perception and multi-force command.
 
-Their exact breakthroughs remain inside a sealed Quaint Teahouse cipher until the Isgard coalition disarms:
+Their exact breakthroughs remain inside Lu's sealed home ledger until the Isgard coalition disarms:
 
-- Lu, Sera, Rhen, Tae, Huo, Qin and the eight home cell captains know all three exact realms.
+- Lu, Tae, Huo, Qin and the eight home cell captains know all three exact realms.
 - Public home commanders witness impossible defensive results but receive no authority to announce cultivation ranks during an active concealed invasion.
 - Qin's military reports to Jin, Kael and Liang certify which coasts, armies and reserves can still function without disclosing why three individual signatures have become Peak Sovereign.
+- Sera and Rhen receive confirmation that Wuyue stands and all three men remain alive, but no exact cultivation grades. Frozen Petals Garden reports mortal danger and survival across distance, not thoughts, techniques or realm progression; protection is not surveillance.
 - The restriction is operational security, not theatrical secrecy. Isgard is intercepting Wuyue traffic, and revealing the home guardians' new limits would help prepare a second invasion.
-- The northern Top Ten therefore learn the truth together only after the final battle.
+- Sera, Rhen and the northern Top Ten therefore learn the truth together only after the final battle.
 
 ### 5.5 The 160 Quiet Hands Improve
 
@@ -298,6 +299,10 @@ The public Top Ten also do not know Sera's complete private scale before the cam
 ## 7. Isgard's War Coalition
 
 The coalition does not form because every Isgard faction believes Duskvein was innocent.
+
+Tor's Bannerfall judgment and monitored road remain lawful within his southern authority. The escalation begins when Aldric's First Banner demands a wider Gate hearing, foreign custody for Huo and disclosure of the hidden eighty. Wuyue counters with complete Duskvein evidence, surviving prisoners, neutral Eirholt judgment and restitution for proven wrongs while refusing foreign custody, its hidden roster and military access. Maedra then turns the precedent into a claim for coalition inspection rights, and Solveig demands names and custody for the Quiet Hands who defeated Skeldran hunters. Their rejection of the neutral process produces mobilization; it does not retroactively reverse Tor's ruling or the local Dravaryn and Skeldran decisions at Bannerfall.
+
+The repeated clan names represent distinct authorities rather than sudden changes of mind: Tor's road warrant is not Aldric's Gate Seal, the Dravaryn survivors who accepted Duskvein's judgment are not Maedra's coalition command, and Varok's southern Skeldran record does not bind Solveig's senior Hunt authority.
 
 It forms because:
 
@@ -622,7 +627,7 @@ Jin's message reaches every Compact command at the same hour. Black strips cover
 
 ### Chapter 202 — Sera Is Afraid to Leave
 
-Sera receives evidence of multiple Isgard musters and admits privately to Rhen that the visible invasion may be bait. Rhen does not promise Wuyue is safe; he helps her distinguish fear from the decision fear is asking her to make.
+Sera sorts the musters by the exact authorities behind them: Aldric rather than Tor, Maedra rather than the Bannerfall survivors and Solveig above Varok's southern detachment. No local ruling reversed; larger authorities joined different grievances to one invasion. She admits privately to Rhen that the visible invasion may be bait. Rhen does not promise Wuyue is safe; he helps her distinguish fear from the decision fear is asking her to make.
 
 ### Chapter 203 — Sixty Percent Must Remain
 
@@ -822,7 +827,7 @@ Eight Early Duke-class cell captains, thirty-two Peak Marquis operatives and the
 
 ### Chapter 248 — Sera Receives Three Words
 
-At Rimewall, Sera receives Qin's message through a Quaint Teahouse cipher only she and Rhen can open: **WUYUE STILL STANDS. THREE PEAKS REMAIN.** Her fear does not disappear, but the reserve decision is vindicated without turning Tae, Huo and Qin into late reinforcements for Isgard. Rhen feels Frozen Petals Garden settle around three self-sustaining Peak foundations and returns his attention to the wounded in front of him. Jin receives only the operational certification that Wuyue can hold.
+At Rimewall, Sera receives Qin's message through a Quaint Teahouse cipher only she and Rhen can open: **WUYUE STILL STANDS.** Her fear does not disappear, but the reserve decision is vindicated without turning Tae, Huo and Qin into late reinforcements for Isgard. Rhen can confirm that all three remain alive because Frozen Petals Garden warns of mortal collapse and hostile breach; it does not reveal thoughts, techniques or exact cultivation. Jin receives only the operational certification that Wuyue can hold. Exact grades remain in Lu's sealed home ledger.
 
 ### Chapter 249 — Kael Trusts the Army He Left
 
@@ -1014,7 +1019,7 @@ Maedra keeps **Crimson Road Dominion** active and drives every surviving wound-r
 
 ### Chapter 291 — What the Top Ten Did Not Know
 
-Kael, Liang, Jin, Lei, Rui, Ilyra, Mo, Arin, Luo and Yun converge upon the casualty court after witnessing Sera hold two experienced Paragons and Rhen defeat both with Transcended skills. None knew Sera had already grown beyond every public Top Ten fighter before forming her Domain; seeing the newest Paragon force Aldric and Maedra to cooperate leaves even Kael and Liang in stunned awe, while Rhen's intervention produces the colder realization that the hierarchy still has no place for him. Lu's sealed after-action ledger then opens: Tae, Huo and Qin have all reached Peak Sovereign, all eight home cell captains now possess Early Duke-class capability and the full 160 retained Quiet Hands advanced under the two-year rotation. Jin's hand stops above his map. Lei says nothing. Kael is proud and visibly unsettled; Liang immediately understands how much military power now stands beneath one crooked sign without seeking a throne. Awe, fear and disbelief coexist because the revelation is not a boast—it is an audited account of what defended Wuyue while they were away. Luo, Yun, Eira, Rhen and the Quiet Hands make them set the shock aside and begin one joint casualty map before either continent decides what to call the war.
+Kael, Liang, Jin, Lei, Rui, Ilyra, Mo, Arin, Luo and Yun converge upon the casualty court after witnessing Sera hold two experienced Paragons and Rhen defeat both with Transcended skills. None knew Sera had already grown beyond every public Top Ten fighter before forming her Domain; seeing the newest Paragon force Aldric and Maedra to cooperate leaves even Kael and Liang in stunned awe, while Rhen's intervention produces the colder realization that the hierarchy still has no place for him. Lu's sealed after-action ledger then opens: Tae, Huo and Qin have all reached Peak Sovereign, all eight home cell captains now possess Early Duke-class capability and the full 160 retained Quiet Hands advanced under the two-year rotation. Sera and Rhen are genuinely surprised with everyone else; she expected growth, not three summit breakthroughs, and he states that protection is not surveillance. Their reaction deepens the shock because the three had trained, argued and taken tea beneath their roof for five years before transforming during the separation. Awe, fear and disbelief coexist because the revelation is not a boast—it is an audited account of what defended Wuyue while they were away. Luo, Yun, Eira, Rhen and the Quiet Hands make them set the shock aside and begin one joint casualty map before either continent decides what to call the war.
 
 ### Chapter 292 — The Silver Horizon Returns Every Sword
 
@@ -1046,7 +1051,7 @@ The deployed Quiet Hands preserve medical contacts, witness routes and emergency
 
 ### Chapter 299 — Sera Comes Home Beyond Her Old Rank
 
-Sera returns to Wuyue without accepting a new public number. Tae, Huo and Qin receive the army without suppressing their Peak Sovereign cultivation for the first time, allowing the returning Top Ten to feel the truth already recorded in Lu's ledger. The reunion confirms that none of the three breakthroughs made them interchangeable and that none intends to claim Wuyue through the Quaint Teahouse. Their restraint does not erase the unease: the strongest hidden concentration of martial power on the continent serves tea beneath a crooked sign and refuses formal rule. Rhen saves the core's private reunion for the reopened tea house rather than allowing the army to turn it into a public ceremony.
+Sera returns to Wuyue without accepting a new public number. Tae, Huo and Qin receive the army without suppressing their Peak Sovereign cultivation for the first time, allowing the returners to feel the truth already recorded in Lu's ledger. Even after reading the grades, Sera and Rhen find the physical presence startling: three men who lived, trained and took tea beneath their roof can now each hold a continental defence function alone. The reunion confirms that none of the three breakthroughs made them interchangeable and that none intends to claim Wuyue through the Quaint Teahouse. Their restraint does not erase the unease: the strongest hidden concentration of martial power on the continent serves tea beneath a crooked sign and refuses formal rule. Rhen saves the core's private reunion for the reopened tea house rather than allowing the army to turn it into a public ceremony.
 
 ### Chapter 300 — The Crooked Sign After War
 
@@ -1089,7 +1094,7 @@ Rhen and Sera drink beneath the sign after the armies disperse to their own auth
 - Two years of emergency passive extension do not make Tae, Huo or Qin ageless, immortal or equivalent to Sera's unique completed five-year reconstruction.
 - Lu remains non-combatant and receives no cultivation breakthrough or passive refinement.
 - The 160 home Quiet Hands improve according to the exact distribution in Section 5.5; none reaches Sovereign and none inherits a senior commander's named art.
-- The northern public Top Ten do not know Sera's full pre-ascension superiority or the exact breakthroughs of Tae, Huo and Qin until the final battle has ended. Their shock must occur through witnessed combat and Lu's sealed ledger, not advance narration.
+- The northbound delegation, including Sera, Rhen and the public Top Ten, does not know the exact breakthroughs of Tae, Huo and Qin until the final battle has ended. Their shared shock must occur through Lu's sealed ledger and the physical homecoming, not advance narration. The public Top Ten also learn Sera's full pre-ascension superiority only through witnessed combat and the casualty-court disclosure.
 - Rhen settles the two-Paragon confrontation with exactly his two existing Transcended skills: **Petal Convergence** and **Meridian Bloom**.
 - Rhen forms no Domain and uses no Supreme or Ultimate against Aldric or Maedra. Their defeat through his lower-tier arts demonstrates why he remains beyond the ranking system.
 - **Petals Beneath a Frozen Moon** and Rhen's Ultimate are neither used nor staged as fake-outs.
@@ -1163,7 +1168,7 @@ The following require explicit acceptance or revision before Chapter 201 is writ
 28. **Solveig's Supreme:** **No Footprint Survives the Last Snow**.
 29. **Raska's Supreme:** **Crimson Cavalry Crosses the Setting Sun**.
 30. **Rhen's two existing Transcended skills:** **Petal Convergence** and **Meridian Bloom**; no new art is created for the finale.
-31. **Final concealed-power reveal:** the Top Ten learn only after the battle that Sera had grown beyond them before ascension and that Tae, Huo and Qin all reached Peak Sovereign while 160 home Quiet Hands advanced.
+31. **Final concealed-power reveal:** Sera, Rhen and the Top Ten learn only after the battle that Tae, Huo and Qin all reached Peak Sovereign while 160 home Quiet Hands advanced; the Top Ten also learn that Sera had grown beyond them before ascension.
 32. **Eldran's Supreme:** **Cinder Standard Over the Fallen Mile**.
 33. **Five Sovereign outcomes:** Kael loses Sigrun's four-person ambush and never defeats her; Liang loses physically to Halvek and never defeats him; Lei loses to Raska and never defeats her; Rui is destroyed by six Sovereigns; Jin alone remains personally undefeated because he refuses Solveig's duel and commands the whole campaign instead.
 34. **Additional Black March activation:** after Wuyue defeats the hidden invasion, Jin activates Liang's reserved twenty percent and deploys 400 White-Blood Adjudicators plus 1,600 Pale Vein Wardens while Stonecrown and 18,000 White Vein personnel remain home.
@@ -1196,7 +1201,7 @@ If the approval gates stand, the arc ends with:
 - Rhen having remained healer and husband through the two-year campaign, then made one bounded offensive intervention only after Sera's honest two-Paragon defeat crossed his medical veto;
 - Sera having forced two experienced Paragons to cooperate, wounded both and saved the army before her entry-level Domain collapsed, preserving her agency even though Rhen ends the immediate threat;
 - Rhen having wounded Aldric with an unnamed raw punch, then defeated Aldric and Maedra with **Petal Convergence** and **Meridian Bloom** without forming a Domain or using any Supreme or Ultimate;
-- the public Top Ten having learned Sera's true comparative scale and the three home Peak Sovereign breakthroughs only through the final witnessed battle and Lu's sealed after-action ledger;
+- Sera, Rhen and the public Top Ten having learned the three home Peak Sovereign breakthroughs only through Lu's sealed after-action ledger after the final battle, while the Top Ten learn Sera's true comparative scale through the witnessed battle and casualty-court disclosure;
 - Eirholt remaining a narrow medical ally, Tor remaining a procedural bridge and Raska remaining an Isgard nationalist rather than a convert;
 - Aldric and Maedra alive, dangerous and politically changed by defeat without becoming friendly;
 - the Duskvein conflict transformed into a new evidentiary rule rather than forgotten as an excuse for spectacle;
