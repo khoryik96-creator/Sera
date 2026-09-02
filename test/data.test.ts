@@ -21,6 +21,21 @@ describe('data integrity', () => {
     for (const [key, character] of Object.entries(data.characters)) expect(character.name, key).toBeTruthy();
   });
 
+  it('gives every dashboard character a cultivation tier, affiliation and internal standing', () => {
+    for (const [key, character] of Object.entries(data.characters)) {
+      expect(character.cultivation, `${key} cultivation`).toBeTruthy();
+      expect(character.affiliation, `${key} affiliation`).toBeTruthy();
+      expect(character.affiliationRole, `${key} affiliationRole`).toBeTruthy();
+    }
+  });
+
+  it('gives every arc figure an affiliation and internal standing', () => {
+    for (const figure of data.arcFigures) {
+      expect(figure.affiliation, `${figure.key} affiliation`).toBeTruthy();
+      expect(figure.affiliationRole, `${figure.key} affiliationRole`).toBeTruthy();
+    }
+  });
+
   it('every portrait key maps to a real character', () => {
     for (const key of Object.keys(characterImageMap)) expect(data.characters[key], key).toBeDefined();
   });
