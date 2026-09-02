@@ -69,5 +69,12 @@ describe('data integrity', () => {
     const reveal = chapter(94, 291);
     expect(reveal).toContain('[[speaker:kael]]“You did not know?”');
     expect(reveal).toContain('[[speaker:rhen]]“Protection is not surveillance.”');
+    expect(reveal).toContain('Second Inner Petal');
+    expect(reveal).toContain('Second Offensive General under conditional custody');
+
+    const ruiRescue = [chapter(78, 139), chapter(79, 141), chapter(79, 143)].join('\n');
+    expect(ruiRescue).toContain('help had been dispatched');
+    expect(ruiRescue).toContain('Why is he coming?');
+    expect(ruiRescue).toContain('That realization frightened Rui almost as much as the nine Wheels.');
   });
 });
