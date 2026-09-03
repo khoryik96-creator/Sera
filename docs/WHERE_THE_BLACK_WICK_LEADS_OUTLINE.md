@@ -15,7 +15,7 @@
 - Primary setting: **Southern Warplain, Southern Isgard**
 - Each season contains ten chapters, but chapters have **no fixed word quota**. Expansion should follow dramatic need rather than padding.
 - Each chapter should complete one dramatic movement and preserve room for medicine, character choice, consequence and the marriage at the center of the story.
-- This arc answers Jin's Black-Wick Lantern signal, rescues the Five Dukes and opens Isgard without explaining the entire northern continent. It ends when Isgard's wider mobilization turns the rescue into the beginning of continental war and Jin issues the unexplained order to activate forty percent of Wuyue's Black March.
+- This arc answers Jin's Black-Wick Lantern signal route, rescues the Five Dukes and opens Isgard without explaining the entire northern continent. The Black-Wick Lantern is a one-use authenticated signal device and route, never a guild or faction; Duskvein Guild remains the first northern enemy guild. It ends when Isgard's wider mobilization turns the rescue into the beginning of continental war and Jin issues the unexplained order to activate forty percent of Wuyue's Black March.
 
 ## 2. Story Promise
 
@@ -607,7 +607,7 @@ Eira and Tor agree that Sera stands decisively above the High Sovereigns they wi
 
 ### Chapter 184 — Veyrhald Demands the Hidden Army's Name
 
-Tor asks who placed eighty specialists inside twelve armies without detection and moved forty of them across the continent behind Huo. Sera accepts responsibility but gives neither The Quiet Hand's name nor its structure, turning the demand into proof that disclosure would create the threat Veyrhald claims to fear.
+Tor asks who placed eighty specialists inside twelve armies without detection and moved forty of them across the continent as an attached reinforcement column travelling behind Huo. Sera makes the command boundary explicit: the Quiet Hands remain under her organizational authority, while Huo may direct their battlefield employment only after her deployment order. She gives neither The Quiet Hand's name nor its structure, turning the demand into proof that disclosure would create the threat Veyrhald claims to fear.
 
 ### Chapter 185 — Eighty Hands Answer With Silence
 
