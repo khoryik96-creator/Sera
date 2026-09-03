@@ -12,23 +12,72 @@
 
 ---
 
+## 0. Locked Final-Arc Opening — Two Years After the War
+
+The final arc begins **two full years after** Chapter 300 and the end of the Wuyue–Isgard war. Any older beat later in this planning document that still reads like an immediate homecoming is subordinate to this time-skip rule and must be rewritten before prose.
+
+The intervening two years are a rebuilding era. Wuyue restores roads, hospitals, armies, sects, fleets, veteran systems and command infrastructure while Isgard remains demonstrably deep enough that the northern threat cannot be treated as solved by one campaign.
+
+Because of how overwhelmingly strong Isgard proved to be, Rhen insists that **Frozen Petals Garden** remain upon **Sera, Qin Luo, Tae Muyeon, Huo Wujin and Lu Weiran** throughout the two-year recovery period. Lu remains a non-combatant; the Garden protects his life and health without manufacturing a martial cultivation path.
+
+### 0.1 Locked Opening Cultivation
+
+| Character / group | Final-arc opening cultivation / status |
+|---|---|
+| **Rhen** | Beyond ranking / immeasurable; his existing roster has evolved again through far denser qi. |
+| **Sera** | **Peak Paragon** · retains **Orchid Dominion** · gains a true Ultimate once its option is selected. |
+| **Tae Muyeon** | **High Paragon** · new Domain name/mechanics pending user selection. |
+| **Huo Wujin** | **High Paragon** · new Domain name/mechanics pending user selection. |
+| **Qin Luo** | **High Paragon** · new Domain name/mechanics pending user selection. |
+| **Kael Veyran** | **Newly ascended Paragon** · new Domain name/mechanics pending user selection. |
+| **Liang Yue** | **Peak Sovereign**. |
+| **Jin Seoryu** | **Peak Sovereign**. |
+| **Lei Zhen** | **Peak Sovereign**. |
+| **Shen Rui** | **Peak Sovereign**. |
+| **Ilyra Serath** | **High Sovereign**. |
+| **Mo Qingzhao** | **Newly ascended Sovereign**. |
+| **Arin Vale** | **Newly ascended Sovereign**. |
+| **Luo Wen** | **Newly ascended Sovereign**. |
+| **Yun Shizhen** | **Newly ascended Sovereign**. |
+| **Lu Weiran** | Non-combatant; protected by the Garden but not promoted into cultivation. |
+
+### 0.2 Public Wuyue Titles Do Not Change With Cultivation
+
+**Five Sovereigns** and **Five Dukes** remain Wuyue's established public / administrative group names rather than cultivation ceilings.
+
+- Kael remains one of the **Five Sovereigns** even after reaching Paragon.
+- Liang, Jin, Lei and Rui remain the other **Five Sovereigns** at Peak Sovereign cultivation.
+- Ilyra, Mo, Arin, Luo and Yun remain the **Five Dukes** even though all five now cultivate at Sovereign level.
+- Ilyra is the exception within the Five Dukes at **High Sovereign**; the other four are newly ascended Sovereigns.
+
+### 0.3 Locked Rhen Evolution
+
+Rhen gains no mandatory new named technique. His existing arts become far more dangerous because **Frozen Petals Garden** has purified and condensed his qi again.
+
+- **Energy condensation:** roughly **1% of Rhen's current output now carries the effective qi density that previously required 100%**. His current full state therefore represents about **100× the effective qi density / usable power** of his prior full state. Offensive skills have a correspondingly higher lethal ceiling, though Rhen normally moderates output rather than narrating a flat damage multiplier.
+- **Sanctuary of Petals:** maximum radius rises to **30 miles** and maximum simultaneous population rises to **100,000**. One catastrophic patient can have lethal poison, destroyed tissue and broken bones repaired in seconds. Roughly **1–100 patients** can be fully restored within minutes. Intermediate loads scale with severity. At the full 100,000-person maximum, complete restoration may require about **2–3 days**. It still cannot resurrect the dead.
+- **Petals in Stasis:** maximum radius rises to **10 miles**. Any martial Domain detected inside the active Stasis field is **neutralized immediately** rather than winning or losing a conventional Domain clash. The rule is any Domain, so Rhen cannot casually blanket Sera's active Orchid Dominion with the anti-Domain form of Stasis.
+- **Petals Beneath a Frozen Moon:** retains its existing approved 50-mile reach unless later revised. Within that reach it now has **no population cap on allied restoration**: selected allies are healed **instantly regardless of number**, while selected hostile possibilities are also resolved **instantly** into Rhen's chosen peaceful ending.
+
+Detailed selectable Domain and Sera-Ultimate candidates live in `docs/FINAL_ARC_POWER_OPTIONS.md` until the user chooses them.
+
 ## 1. Inherited Continuity That Is Already Locked
 
-The next arc begins only after the completed end state of **When Wuyue Marches North**. The following are inherited facts, not new proposals:
+The final arc opens two years after the completed end state of **When Wuyue Marches North**. The facts below describe the inherited war-end state; Section 0 contains the later final-arc opening values. The following are inherited facts, not new proposals:
 
 1. The two-year Wuyue–Isgard war is over. Wuyue demobilizes without annexing Isgard territory.
 2. Wuyue's Black March reached sixty percent strategic activation and then returned to its constituent authorities rather than becoming one permanent imperial army.
-3. Sera is now a true **entry-level Paragon** and possesses the stable Supreme Domain **Orchid Dominion**.
+3. At the end of the war, Sera was a true **entry-level Paragon** with the stable Supreme Domain **Orchid Dominion**; two years later she opens the final arc at **Peak Paragon**.
 4. Sera is not automatically the strongest Paragon in the world. Her first true Paragon battle ended in an honest two-against-one defeat after she forced Aldric and Maedra to cooperate, wounded both and extracted Wuyue's army from their overlapping Domains.
 5. Rhen remains beyond the public ranking system. He defeated Aldric and Maedra only after Sera's condition crossed his medical veto.
 6. Rhen's war-finale offensive tools remain his already-established Transcended **Petal Convergence** and **Meridian Bloom**. No new finale technique was created.
 7. Rhen remains primarily healer, husband and hidden protector rather than campaign commander.
-8. Tae Muyeon, Huo Wujin and Qin Luo are each **Peak Sovereign**.
+8. Tae Muyeon, Huo Wujin and Qin Luo ended the war at **Peak Sovereign**; after two further years beneath Frozen Petals Garden they open the final arc as **High Paragons**.
 9. Qin Luo remains Sera's **Second Inner Petal** and operational deputy.
 10. Tae Muyeon remains **Senior Sepal / Offensive General**.
 11. Huo Wujin remains **Sepal / Second Offensive General** under Sera's authority and existing conditional-custody framework.
 12. Lu Weiran remains a **non-combatant Sepal / Chief Steward and logistics-intelligence authority**. He did not gain martial cultivation from Rhen's wartime passive extension.
-13. The Top Ten now know Tae, Huo and Qin hold formal positions beneath Sera and reached Peak Sovereign while the northern armies were away. Future arcs must not reset this reveal or make the Top Ten surprised by the same information twice.
+13. The Top Ten know Tae, Huo and Qin hold formal positions beneath Sera and reached Peak Sovereign while the northern armies were away. Their later rise to High Paragon occurs during the two-year rebuilding interval and must be treated as new growth, not a repeated secret-identity reveal.
 14. Rui previously encountered Huo acting under Sera's authority before the full post-war disclosure, but did not then understand Huo's complete restored strength or permanent place under the crooked sign.
 15. The 160 Quiet Hands retained in Wuyue improved during the home defence. Eight cell captains reached Early Duke class, thirty-two operatives reached Peak Marquis and the remaining force became substantially harder to disable in Sovereign-scale combat.
 16. The forty Quiet Hands who travelled north paid real cost: the hidden force is exceptional, not consequence-proof.
@@ -44,7 +93,7 @@ The next arc begins only after the completed end state of **When Wuyue Marches N
 26. Sera returned to Wuyue without accepting a new public numerical rank.
 27. Rhen and Sera ended Chapter 300 beneath the reopened crooked sign rather than on a forced cliffhanger.
 28. The previous outline explicitly leaves the next disturbance undecided. No Chapter 300 event may be retroactively invented merely to force this arc to begin.
-29. Rhen's two-year emergency extension of **Frozen Petals Garden** to Tae, Huo and Qin must be reviewed after the war. Whether it ends immediately, tapers or remains in some limited emergency form is an approval gate for this arc; no automatic permanent extension is assumed.
+29. After reviewing the Isgard threat, Rhen insists on continuing / renewing **Frozen Petals Garden** over Sera, Qin, Tae, Huo and Lu for the full two-year rebuilding interval. This is now locked rather than an approval gate.
 30. The five-year reconstruction that stopped Sera's aging remains unique to her completed body. Tae, Huo and Qin do not become ageless merely because they received a two-year wartime extension.
 
 ---
@@ -64,7 +113,7 @@ This arc should inherit the prose rules that kept the war arc from becoming an o
 
 - The Top Ten remember Sera's Paragon battle.
 - The Top Ten remember Rhen defeating two Paragons without a Domain.
-- The Top Ten remember Tae, Huo and Qin are Peak Sovereigns under Sera.
+- The Top Ten remember Tae, Huo and Qin ended the war as Peak Sovereigns under Sera; by the final-arc opening the three have advanced to High Paragon during the two-year rebuilding interval.
 - Isgard seniors remember the Black March and the final three-Domain battle.
 - Nobody sensible treats the Quaint Teahouse as an ordinary tea shop once the post-war disclosures circulate among leadership.
 - Secrecy can still protect exact numbers, locations, identities and methods. It cannot erase what named leaders personally witnessed.
@@ -97,14 +146,14 @@ Target the same useful chapter density as current production: roughly 2.0k–2.8
 
 ---
 
-## 3. Post-War World Baseline
+## 3. Two Years After War — World Baseline
 
 ### 3.1 Wuyue
 
-Wuyue returns victorious in the narrow sense that the invasion threat was neutralized, but the continent is not healthy.
+Two years after returning from Isgard, Wuyue has rebuilt substantially but has not erased the human or institutional cost of the war.
 
 - Tens of thousands are dead, missing, disabled or unwilling to continue military life.
-- Each Sovereign must rebuild institutions that spent two years abroad.
+- The Five Sovereigns have spent two years rebuilding institutions that spent two years abroad.
 - Jin's Compact survived its greatest test, but emergency authentication systems are now known to far more people than before the war.
 - Kael's Stonecrown remained home and proved institutional independence from Kael himself.
 - Liang's White Vein proved that two thousand specialists can dismantle an army's circulation without needing mass slaughter.
@@ -118,9 +167,9 @@ The crooked sign is no longer merely a hidden centre known to a handful of insid
 
 Leadership now knows that beneath Sera's roof exist:
 
-- one new Paragon;
+- one **Peak Paragon**, Sera;
 - Rhen, who remains outside the ranking system;
-- three Peak Sovereigns with formal offices;
+- three **High Paragons** with formal offices: Tae, Huo and Qin;
 - a hidden elite network that defended Wuyue during the war;
 - Lu's intelligence and logistics system;
 - a command structure that repeatedly refuses formal rule.
@@ -143,9 +192,9 @@ Isgard is fractured rather than conquered.
 
 The public ranking remains administratively useful, but its meaning is strained.
 
-- Sera is a Paragon and refuses a new number.
+- Sera is a **Peak Paragon** and still refuses a new public number.
 - Rhen remains beyond numerical placement.
-- Tae, Huo and Qin are stronger than many publicly ranked leaders but do not automatically claim Top Ten seats.
+- Tae, Huo and Qin are **High Paragons** but do not automatically claim Top Ten seats; the ranking groups remain public offices as well as measures of cultivation.
 - The existing Top Ten still represent regional command, public legitimacy, armies and institutions in addition to personal cultivation.
 
 Do not solve this tension by casually replacing half the Top Ten list in one chapter.
@@ -157,19 +206,19 @@ Do not solve this tension by casually replacing half the Top Ten list in one cha
 | Character / group | Opening state | Discipline for this arc |
 |---|---|---|
 | **Rhen** | Beyond public ranking | No new skill required. Keep intervention rare and bounded. |
-| **Sera** | Entry Paragon · Orchid Dominion | Must continue learning Domain judgement; no instant veteran-Paragon mastery. |
+| **Sera** | **Peak Paragon · Orchid Dominion** | Mature Paragon refinement plus a true Ultimate after user selection; no new realm required. |
 | **Aldric Veyrhald** | Established Paragon | Alive, dangerous, politically changed but not friendly by default. |
 | **Maedra Dravaryn** | Established Paragon | Alive, dangerous, stripped of prior coalition command but not redeemed. |
-| **Tae Muyeon** | Peak Sovereign | Public revelation creates political consequence; no automatic Paragon jump. |
-| **Huo Wujin** | Peak Sovereign | Remains under Sera's authority and conditional framework; no repeated “surprise return” beat. |
-| **Qin Luo** | Peak Sovereign | Operational deputy; blindness remains part of how he perceives and fights. |
-| **Kael Veyran** | High Sovereign | Still a major battlefield power despite Sigrun's defeat. |
-| **Liang Yue** | Mid Sovereign specialist | Threat comes from internal-circulation mastery and White Vein systems, not inflated raw realm. |
-| **Jin Seoryu** | Early Sovereign strategist | Strategic authority remains his defining strength. |
-| **Ilyra Serath** | Sovereign | Crownless Host remains independent. |
-| **Mo Qingzhao** | High Duke | Regent and institutional commander, not a disposable subordinate. |
-| **Arin Vale** | High Duke | Carries destroyed-army consequences; sect survival matters more than sudden cultivation inflation. |
-| **Luo Wen / Yun Shizhen** | Duke-level specialists | Continue to matter through medicine, logistics, poison and battlefield systems. |
+| **Tae Muyeon** | **High Paragon** | New Domain pending selection; iron-horizon identity remains distinct. |
+| **Huo Wujin** | **High Paragon** | New Domain pending selection; Nine Meridian Wheels remain his foundation. |
+| **Qin Luo** | **High Paragon** | New Domain pending selection; blindness remains part of how he perceives and fights. |
+| **Kael Veyran** | **Newly ascended Paragon** | First public Five Sovereign to reach Paragon; new Domain pending selection. |
+| **Liang Yue** | **Peak Sovereign specialist** | Threat still comes from internal-circulation mastery and White Vein systems, not only raw realm. |
+| **Jin Seoryu** | **Peak Sovereign strategist** | Strategic authority remains his defining strength despite major bodily growth. |
+| **Ilyra Serath** | **High Sovereign** | Crownless Host remains independent; she remains one of the Five Dukes by title. |
+| **Mo Qingzhao** | **Newly ascended Sovereign** | Still a Five Duke by title; regent and institutional commander. |
+| **Arin Vale** | **Newly ascended Sovereign** | Still a Five Duke by title; Silver Horizon's losses remain real. |
+| **Luo Wen / Yun Shizhen** | **Newly ascended Sovereigns** | Both remain Five Dukes by title and continue to matter through their established specializations. |
 | **Home Quiet Hands** | Eight Early Duke captains, thirty-two Peak Marquis, strengthened remainder | No mass Sovereign promotion. |
 
 ---
@@ -210,9 +259,9 @@ Default rule: **no new Rhen technique in this arc** unless separately approved.
 
 Their war breakthroughs now need consequences rather than another secret reveal.
 
-- Tae's issue: a Peak Sovereign who could command armies but deliberately accepts Sera's hierarchy.
+- Tae's issue: a High Paragon who could dominate ordinary armies but deliberately accepts Sera's hierarchy.
 - Huo's issue: the world knows a feared former threat is now one of Sera's formal offensive commanders.
-- Qin's issue: the blind former #6 is now Peak Sovereign, operational deputy and the person most capable of hearing hidden movement across Wuyue.
+- Qin's issue: the blind former #6 is now High Paragon, operational deputy and still defined by resonance rather than omniscience.
 
 The three should disagree sometimes. Peak Sovereign does not make them interchangeable personalities.
 
@@ -351,9 +400,9 @@ This remains the working route if the conspiracy premise is accepted. New events
 
 ## 8. Season 95 — The Order Jin Never Gave
 
-### Chapter 301 — Tea Before Reports
+### Chapter 301 — Two Years Beneath the Crooked Sign
 
-The Quaint Teahouse reopens without a victory ceremony. Sera refuses to let the first day home become a council session. Veterans and neighbours arrive for tea, establishing that the continent's greatest concentration of hidden force still has ordinary customers.
+Two years after the war, the Quaint Teahouse is fully alive again rather than newly reopened. Rebuilt roads, veteran clinics and changed customers show time has passed. The ordinary tea room now quietly contains a Peak Paragon, three High Paragons and the man still beyond ranking, yet Rhen remains annoyed by a mundane repair Sera has ignored for months.
 
 ### Chapter 302 — No Number Fits Sera
 
@@ -363,9 +412,9 @@ Regional messengers ask what public rank should now describe Sera. She declines 
 
 Arin begins rebuilding Silver Horizon around the 611 members still capable of formation while wounded survivors decide individually whether to remain disciples. No healing scene erases the fact that the old field army is gone.
 
-### Chapter 304 — Three Peaks at One Table
+### Chapter 304 — Three Paragons at One Table
 
-Sera, Rhen, Tae, Huo, Qin and Lu hold the first private post-war command review. The wartime extension of Frozen Petals Garden becomes an explicit unresolved question rather than silently continuing forever.
+Sera, Rhen, Tae, Huo, Qin and Lu review what two years beneath Frozen Petals Garden changed. Sera is now Peak Paragon; Tae, Huo and Qin are High Paragons; Lu remains stubbornly non-combatant. The scene establishes the chosen new Domains once approved and makes clear that Rhen's protection accelerated their foundations without making any two of them fight alike.
 
 ### Chapter 305 — The Black Strip Returns on a Dead Courier
 
@@ -991,7 +1040,7 @@ Jin states the problem plainly: the Mandate has built its battlefield inside the
 
 ---
 
-## 23. Season 108 — Five Sovereigns, Three Peaks, One House
+## 23. Season 108 — Five Sovereigns, Three Paragons, One House
 
 ### Chapter 431 — Kael Takes the Mountains
 
@@ -1015,7 +1064,7 @@ Rui stabilizes river, food and medical routes. He refuses to convert logistics i
 
 ### Chapter 436 — Tae Takes the Distance
 
-Tae's Peak Sovereign control prevents hostile forces from completing the final interval into protected civic centres. He holds territory without claiming ownership of it.
+Tae's High-Paragon Domain control prevents hostile forces from completing the final interval into protected civic centres. He holds territory without claiming ownership of it.
 
 ### Chapter 437 — Huo Takes the Strike Sera Authorizes
 
@@ -1197,9 +1246,9 @@ The Architect does not attempt to command Rhen and instead designs around him, b
 
 Kael, Liang, Jin, Lei and Rui each disable one convenience their institutions rely upon rather than let the Mandate own it. The cost is immediate disorder they must personally help manage.
 
-### Chapter 478 — Three Peaks Refuse Promotion
+### Chapter 478 — Three Paragons Refuse Promotion
 
-Tae, Huo and Qin are offered permanent continental military offices within the Mandate. All three refuse for different reasons, preserving their distinct personalities instead of one shared speech.
+Tae, Huo and Qin are offered permanent continental military offices precisely because all three are now High Paragons within Sera's household. All three refuse for different reasons, preserving their distinct personalities instead of one shared speech.
 
 ### Chapter 479 — Lu Finds the Root That Is Not a Place
 
@@ -1462,19 +1511,19 @@ If the working route is approved, Chapter 500 should leave the world with:
 ## 37. Part I Legacy Power Discipline
 
 1. No realm above Paragon is introduced by default.
-2. Sera begins the arc as an entry Paragon and improves through efficiency, reserve control, Counter-Bloom precision and judgement.
+2. Sera begins the arc as a **Peak Paragon** after the two-year rebuilding interval and improves through efficiency, reserve control, Counter-Bloom precision, Ultimate mastery and judgement.
 3. Sera does not need a second Domain.
 4. Orchid Dominion should not receive random new functions simply because the next opponent is inconvenient.
 5. A proposed combat-apex opponent may be Peak Sovereign with a dangerous specialised system or one veteran Paragon. Choose before prose.
 6. Rhen requires no new art.
 7. Rhen should not solve the central evidence problem with supernatural perception.
-8. Tae, Huo and Qin remain Peak Sovereigns unless a later breakthrough is separately earned and approved.
-9. The trio should not all reach Paragon together.
+8. Tae, Huo and Qin begin as **High Paragons**. No automatic further realm is required during the final arc.
+9. The trio have already reached High Paragon during the locked two-year interval; future growth must differentiate their Domains and judgement rather than giving them one synchronized realm jump.
 10. The Top Ten remain strategically relevant even where individuals are weaker than Sera or the hidden Peaks.
 11. Kael's, Liang's, Jin's and the other public leaders' armies and institutions remain part of why the ranking system matters.
 12. Quiet Hands remain an elite covert network, not a replacement for every army, police body, courier system and government office on the continent.
 13. Lu remains non-combatant.
-14. Rhen's Ultimate remains unavailable unless explicitly approved.
+14. Rhen's Ultimate remains story-locked from casual use even though its two-year evolution is now defined; actual final-arc activation still requires explicit user approval.
 
 ---
 
