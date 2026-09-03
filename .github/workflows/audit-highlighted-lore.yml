@@ -23,6 +23,8 @@ jobs:
           cache: npm
       - name: Apply lore backfill
         run: node scripts/apply-highlighted-lore-fix.mjs
+      - name: Repair legacy Draven arc record
+        run: node scripts/fix-draven-lore.mjs
       - name: Audit all highlighted names
         run: node scripts/audit-highlighted-lore.mjs
       - name: Install dependencies
@@ -40,6 +42,7 @@ jobs:
           rm -f .github/workflows/audit-highlighted-lore.yml
           rm -f docs/HIGHLIGHTED_LORE_AUDIT.md
           rm -f scripts/apply-highlighted-lore-fix.mjs
+          rm -f scripts/fix-draven-lore.mjs
       - name: Commit validated fix
         run: |
           git config user.name "khoryik96-creator"
