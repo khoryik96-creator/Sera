@@ -1,0 +1,28 @@
+name: Apply final arc two-year baseline
+
+on:
+  push:
+    branches:
+      - story/next-arc-outline
+
+permissions:
+  contents: write
+
+jobs:
+  apply:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: story/next-arc-outline
+          fetch-depth: 0
+      - run: python scripts/patch_final_arc_two_year.py
+      - run: git diff --check
+      - name: Commit and clean helpers
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          rm -f scripts/patch_final_arc_two_year.py .github/workflows/apply-final-arc-two-year.yml
+          git add docs/FINAL_ARC_OUTLINE.md scripts/patch_final_arc_two_year.py .github/workflows/apply-final-arc-two-year.yml
+          git commit -m "Lock two-year final arc power baseline"
+          git push origin HEAD:story/next-arc-outline
