@@ -1,0 +1,31 @@
+name: Apply Tae Iron Chain Dominion
+
+on:
+  push:
+    branches:
+      - story/next-arc-outline
+
+permissions:
+  contents: write
+
+jobs:
+  apply:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: story/next-arc-outline
+          fetch-depth: 0
+      - name: Apply Tae Domain lock
+        run: python scripts/patch_tae_iron_chain.py
+      - name: Validate
+        run: git diff --check
+      - name: Commit and remove helpers
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/FINAL_ARC_OUTLINE.md docs/FINAL_ARC_POWER_OPTIONS.md
+          git rm -f scripts/patch_tae_iron_chain.py .github/workflows/apply-tae-iron-chain.yml
+          git commit -m "Lock Tae Iron Chain Dominion"
+          git push origin story/next-arc-outline
