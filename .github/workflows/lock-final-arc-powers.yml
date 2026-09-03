@@ -1,0 +1,41 @@
+name: Lock final arc power choices
+
+on:
+  push:
+    branches:
+      - story/next-arc-outline
+
+permissions:
+  contents: write
+
+jobs:
+  apply:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: story/next-arc-outline
+          fetch-depth: 0
+
+      - name: Apply locked power selections
+        run: python scripts/lock_final_arc_power_choices.py
+
+      - name: Validate outline
+        run: |
+          test "$(grep -c '^### Chapter ' docs/FINAL_ARC_OUTLINE.md)" -eq 200
+          grep -q 'Ten Thousand Blooms' docs/FINAL_ARC_OUTLINE.md
+          grep -q 'Horizon Cage Dominion' docs/FINAL_ARC_OUTLINE.md
+          grep -q 'Endless Dominion' docs/FINAL_ARC_OUTLINE.md
+          grep -q 'Echo Dominion' docs/FINAL_ARC_OUTLINE.md
+          grep -q 'Worldweight Dominion' docs/FINAL_ARC_OUTLINE.md
+          git diff --check
+
+      - name: Commit outline and remove temporary helpers
+        run: |
+          rm -f scripts/lock_final_arc_power_choices.py .github/workflows/lock-final-arc-powers.yml
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add docs/FINAL_ARC_OUTLINE.md scripts/lock_final_arc_power_choices.py .github/workflows/lock-final-arc-powers.yml
+          git commit -m 'Lock final arc Domains and Sera Ultimate'
+          git push origin HEAD:story/next-arc-outline
