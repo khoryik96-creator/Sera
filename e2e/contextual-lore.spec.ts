@@ -44,6 +44,18 @@ test('arc-only highlighted characters get the same quick facts card', async ({ p
   await expect(tray.locator('.reader-lore-context__fact').nth(3)).not.toContainText('No formal role recorded');
 });
 
+test('season-cast-only highlighted characters appear in the other-characters archive', async ({ page }) => {
+  await page.goto('/#villains');
+  await expect(page.getByRole('heading', { name: 'Other Characters & Villains' })).toBeVisible({ timeout: 20_000 });
+  await page.locator('.toolbar-row .filter-input').fill('Varok Skeldran');
+  const card = page.locator('.lore-card').filter({ hasText: 'Varok Skeldran' }).first();
+  await expect(card).toBeVisible();
+  await card.locator('summary').click();
+  await expect(card).toContainText('High Sovereign');
+  await expect(card).toContainText('Skeldran — Thousandfold Hunt, Isgard');
+  await expect(card).toContainText('White Huntmaster');
+});
+
 test('contextual lore card is fully opaque', async ({ page }) => {
   await openReader(page);
   await page.getByRole('button', { name: 'Open lore for Sera' }).first().click();
