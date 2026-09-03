@@ -32,9 +32,9 @@ function recurringCastFigures(): ArchiveFigure[] {
       const registry = registryByName.get(name);
       if (!registry || seen.has(name) || mainNames.has(name) || formerNames.has(name)) continue;
 
-      const strength = loreStrengthFrom([row.role, row.description]);
-      const role = cleanLoreRole(row.role);
-      const affiliation = inferLoreAffiliation(name);
+      const strength = row.strength?.trim() || loreStrengthFrom([row.role, row.description]);
+      const role = row.affiliationRole?.trim() || cleanLoreRole(row.role);
+      const affiliation = row.affiliation?.trim() || inferLoreAffiliation(name);
       seen.add(name);
       figures.push({
         key: registry.key,
@@ -61,7 +61,7 @@ export function VillainsPage() {
       .map((figure) => ({
         ...figure,
         affiliation: figure.affiliation || inferLoreAffiliation(cleanCharacterName(figure.name)) || undefined,
-        strength: loreStrengthFrom([figure.subtitle, figure.affiliationRole, figure.details]) || undefined,
+        strength: figure.strength?.trim() || loreStrengthFrom([figure.subtitle, figure.affiliationRole, figure.details]) || undefined,
         source: 'arc' as const,
       }));
     return [...arcFigures, ...recurringCastFigures()];

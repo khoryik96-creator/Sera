@@ -272,23 +272,33 @@ export function ReaderPage({ season, episode, onBack, onOpenChapter }: ReaderPag
   const loreProfile = loreKey ? DB.characters[loreKey] : undefined;
   const loreArcFigure = loreKey ? DB.arcFigures.find((figure) => figure.key === loreKey || cleanCharacterName(figure.name) === loreEntry?.displayName) : undefined;
   const loreFormer = loreEntry ? DB.former.find((entry) => cleanCharacterName(entry.name) === loreEntry.displayName) : undefined;
-  const loreSeasonCast = loreEntry ? Object.values(DB.seasonCast).flat().find((entry) => cleanCharacterName(entry.name) === loreEntry.displayName) : undefined;
+  const loreSeasonCasts = loreEntry ? Object.entries(DB.seasonCast)
+    .flatMap(([castSeason, entries]) => entries.map((entry) => ({ ...entry, season: Number(castSeason) })))
+    .filter((entry) => cleanCharacterName(entry.name) === loreEntry.displayName)
+    .sort((a, b) => a.season - b.season) : [];
+  const lorePastSeasonCasts = loreSeasonCasts.filter((entry) => entry.season <= season);
+  const loreSeasonCast = lorePastSeasonCasts[lorePastSeasonCasts.length - 1] || loreSeasonCasts[0];
   const loreName = loreProfile ? cleanCharacterName(loreProfile.name) : loreArcFigure ? cleanCharacterName(loreArcFigure.name) : loreEntry?.displayName || '';
   const loreRank = loreName ? rankLabel(loreName, season) : '';
   const loreStatus = loreName ? rankStatus(loreName, season) : 'current';
   const loreStrength = loreProfile?.cultivation?.trim()
-    || loreStrengthFrom([loreArcFigure?.subtitle, loreArcFigure?.affiliationRole, loreSeasonCast?.role, loreArcFigure?.details, loreSeasonCast?.description, loreFormer?.summary])
-    || 'Not recorded';
+    || loreArcFigure?.strength?.trim()
+    || loreSeasonCast?.strength?.trim()
+    || loreFormer?.strength?.trim()
+    || loreStrengthFrom([loreArcFigure?.subtitle, loreArcFigure?.affiliationRole, ...loreSeasonCasts.flatMap((entry) => [entry.role, entry.description]), loreArcFigure?.details, loreFormer?.summary])
+    || 'Not formally rated';
   const loreAffiliation = loreProfile?.affiliation?.trim()
     || loreArcFigure?.affiliation?.trim()
+    || loreSeasonCast?.affiliation?.trim()
     || inferLoreAffiliation(loreName)
-    || (loreFormer ? 'Historical ranking archive' : 'Not recorded');
+    || (loreFormer ? 'Historical ranking archive' : 'Independent / no formal affiliation');
   const loreRole = loreProfile?.affiliationRole?.trim()
     || loreArcFigure?.affiliationRole?.trim()
+    || loreSeasonCast?.affiliationRole?.trim()
     || cleanLoreRole(loreSeasonCast?.role)
     || loreFormer?.title?.trim()
-    || 'No formal role recorded';
-  const loreSummary = loreProfile?.subtitle || loreArcFigure?.subtitle || loreSeasonCast?.description || loreFormer?.summary || 'Referenced in this chapter. No expanded archive entry is currently recorded.';
+    || 'Referenced figure';
+  const loreSummary = loreProfile?.subtitle || loreArcFigure?.subtitle || loreSeasonCast?.description || loreFormer?.summary || 'Referenced in this chapter.';
   const showResumePosition = Boolean(resumePosition && resumePosition.progress >= 0.05 && resumePosition.progress <= 0.96 && !resumeDismissed);
 
   function registerProse(num: number, el: HTMLDivElement | null): void {
