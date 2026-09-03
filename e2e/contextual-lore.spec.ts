@@ -13,7 +13,13 @@ test('chapter character references surface a visible compact lore tray', async (
   const tray = page.locator('.reader-lore-context');
   await expect(tray).toBeVisible();
   await expect(tray).toContainText('Sera');
+  await expect(tray.getByText('Ranking', { exact: true })).toBeVisible();
+  await expect(tray.getByText('Strength', { exact: true })).toBeVisible();
+  await expect(tray.getByText('Affiliation', { exact: true })).toBeVisible();
+  await expect(tray.getByText('Role', { exact: true })).toBeVisible();
   await expect(tray.locator('.react-rank-badge, .rank-badge')).toBeVisible();
+  await expect(tray.locator('.reader-lore-context__fact').nth(1)).not.toContainText('Not recorded');
+  await expect(tray.locator('.reader-lore-context__fact').nth(2)).not.toContainText('Not recorded');
   await expect(tray.getByRole('button', { name: /Open profile/ })).toBeVisible();
   await expect.poll(async () => tray.evaluate((node) => {
     const rect = node.getBoundingClientRect();

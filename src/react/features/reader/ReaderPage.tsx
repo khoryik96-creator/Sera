@@ -272,6 +272,9 @@ export function ReaderPage({ season, episode, onBack, onOpenChapter }: ReaderPag
   const loreName = loreProfile ? cleanCharacterName(loreProfile.name) : loreEntry?.displayName || '';
   const loreRank = loreName ? rankLabel(loreName, season) : '';
   const loreStatus = loreName ? rankStatus(loreName, season) : 'current';
+  const loreStrength = loreProfile?.cultivation?.trim() || 'Not recorded';
+  const loreAffiliation = loreProfile?.affiliation?.trim() || 'Not recorded';
+  const loreRole = loreProfile?.affiliationRole?.trim() || 'No formal role recorded';
   const showResumePosition = Boolean(resumePosition && resumePosition.progress >= 0.05 && resumePosition.progress <= 0.96 && !resumeDismissed);
 
   function registerProse(num: number, el: HTMLDivElement | null): void {
@@ -405,7 +408,15 @@ export function ReaderPage({ season, episode, onBack, onOpenChapter }: ReaderPag
             <aside className="reader-lore-context" aria-label={`Lore reference for ${loreName}`}>
               <div className="reader-lore-context__copy">
                 <span>Character reference</span>
-                <div><strong className={`character-${loreEntry.colorKey}`}>{loreName}</strong>{loreRank ? <RankBadge rank={loreRank} status={loreStatus} /> : null}</div>
+                <div className="reader-lore-context__name"><strong className={`character-${loreEntry.colorKey}`}>{loreName}</strong></div>
+                {loreProfile ? (
+                  <div className="reader-lore-context__facts" aria-label={`Quick facts for ${loreName}`}>
+                    <div className="reader-lore-context__fact"><span>Ranking</span><div>{loreRank ? <RankBadge rank={loreRank} status={loreStatus} /> : <strong>Not ranked</strong>}</div></div>
+                    <div className="reader-lore-context__fact"><span>Strength</span><strong>{loreStrength}</strong></div>
+                    <div className="reader-lore-context__fact"><span>Affiliation</span><strong>{loreAffiliation}</strong></div>
+                    <div className="reader-lore-context__fact"><span>Role</span><strong>{loreRole}</strong></div>
+                  </div>
+                ) : null}
                 <p>{loreProfile?.subtitle || 'Referenced in this chapter. A full profile is not currently part of the main character archive.'}</p>
               </div>
               <div className="reader-lore-context__actions">
