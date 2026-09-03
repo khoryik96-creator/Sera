@@ -4,7 +4,7 @@ import { characterRegistry } from '../../../characterRegistry';
 import { DB } from '../../../db';
 import { EPISODE_ARCS, TOTAL_SEASONS } from '../../../episodeMeta';
 import { loadSeason } from '../../../seasonStore';
-import { renderNovel } from '../../../novel';
+import { renderNovel, artLore } from '../../../novel';
 import { getChapterPosition, saveChapterPosition } from '../../../readerPositions';
 import type { ChapterPosition } from '../../../readerPositions';
 import type { Episode } from '../../../types';
@@ -96,6 +96,7 @@ export function ReaderPage({ season, episode, onBack, onOpenChapter }: ReaderPag
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState('');
   const [loreKey, setLoreKey] = useState<string | null>(null);
+  const [loreArt, setLoreArt] = useState<string | null>(null);
   const [selectedPassage, setSelectedPassage] = useState('');
   const [passageNotice, setPassageNotice] = useState('');
   const [resumePosition, setResumePosition] = useState<ChapterPosition | null>(null);
@@ -128,6 +129,7 @@ export function ReaderPage({ season, episode, onBack, onOpenChapter }: ReaderPag
     setLoading(true);
     setError('');
     setLoreKey(null);
+    setLoreArt(null);
     setSelectedPassage('');
     setPassageNotice('');
     setResumeDismissed(false);
@@ -299,6 +301,7 @@ export function ReaderPage({ season, episode, onBack, onOpenChapter }: ReaderPag
     || loreFormer?.title?.trim()
     || 'Referenced figure';
   const loreSummary = loreProfile?.subtitle || loreArcFigure?.subtitle || loreSeasonCast?.description || loreFormer?.summary || 'Referenced in this chapter.';
+  const art = loreArt ? artLore(loreArt) : undefined;
   const showResumePosition = Boolean(resumePosition && resumePosition.progress >= 0.05 && resumePosition.progress <= 0.96 && !resumeDismissed);
 
   function registerProse(num: number, el: HTMLDivElement | null): void {
@@ -357,12 +360,24 @@ export function ReaderPage({ season, episode, onBack, onOpenChapter }: ReaderPag
 
   function handleProseClick(event: ReactMouseEvent<HTMLElement>): void {
     const target = event.target as HTMLElement;
+    // A gold named-art click opens the skill mini-card.
+    const artRef = target.closest<HTMLElement>('[data-art-name]');
+    const artName = artRef?.dataset.artName;
+    if (artName) {
+      setLoreArt(artName);
+      setLoreKey(null);
+      window.requestAnimationFrame(() => {
+        document.querySelector<HTMLElement>('.reader-lore-context')?.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+      });
+      return;
+    }
     const reference = target.closest<HTMLElement>('[data-character-key]');
     const key = reference?.dataset.characterKey;
     if (!key) return;
     // A real character-reference click always opens lore. Passage selection is
     // handled by the mouse/touch selection hooks and must not swallow name taps.
     setLoreKey(key);
+    setLoreArt(null);
     window.requestAnimationFrame(() => {
       document.querySelector<HTMLElement>('.reader-lore-context')?.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
     });
@@ -448,6 +463,24 @@ export function ReaderPage({ season, episode, onBack, onOpenChapter }: ReaderPag
               <div className="reader-lore-context__actions">
                 {loreProfile || loreArcFigure || loreSeasonCast || loreFormer ? <button onClick={openLoreProfile} type="button">{loreProfile ? 'Open profile →' : loreFormer ? 'Open former archive →' : 'Open archive →'}</button> : null}
                 <button className="reader-lore-context__close" onClick={() => setLoreKey(null)} type="button">Close</button>
+              </div>
+            </aside>
+          ) : null}
+
+          {loreArt && art ? (
+            <aside className="reader-lore-context reader-lore-context--art" aria-label={`Art reference for ${loreArt}`}>
+              <div className="reader-lore-context__copy">
+                <span>Named art</span>
+                <div className="reader-lore-context__name"><strong className={`novel-art novel-art--${art.tone}`}>{loreArt}</strong></div>
+                <div className="reader-lore-context__facts" aria-label={`Quick facts for ${loreArt}`}>
+                  <div className="reader-lore-context__fact"><span>Tier</span><strong>{art.label}</strong></div>
+                  {art.category ? <div className="reader-lore-context__fact"><span>Type</span><strong>{art.category}</strong></div> : null}
+                </div>
+                <p>{art.blurb || 'A named martial art referenced in this chapter.'}</p>
+              </div>
+              <div className="reader-lore-context__actions">
+                <button onClick={() => { window.location.hash = 'techniques'; }} type="button">Open Arts archive →</button>
+                <button className="reader-lore-context__close" onClick={() => setLoreArt(null)} type="button">Close</button>
               </div>
             </aside>
           ) : null}
