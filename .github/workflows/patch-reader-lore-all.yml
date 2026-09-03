@@ -24,6 +24,7 @@ jobs:
       - name: Validate targeted changes
         run: |
           npm ci
+          npm run prepare:data
           npx tsc --noEmit
           npx vitest run test/data.test.ts test/ranks.test.ts test/novel.test.ts
           git diff --check
