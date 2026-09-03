@@ -27,6 +27,31 @@ test('chapter character references surface a visible compact lore tray', async (
   })).toBe(true);
 });
 
+test('arc-only highlighted characters get the same quick facts card', async ({ page }) => {
+  await page.goto('/#chapter/87/1');
+  await expect(page.locator('.reader-prose')).toBeVisible({ timeout: 20_000 });
+  const sigrun = page.getByRole('button', { name: 'Open lore for Sigrun Veyrhald' }).first();
+  await expect(sigrun).toBeVisible();
+  await sigrun.click();
+  const tray = page.locator('.reader-lore-context');
+  await expect(tray).toBeVisible();
+  await expect(tray.getByText('Ranking', { exact: true })).toBeVisible();
+  await expect(tray.getByText('Strength', { exact: true })).toBeVisible();
+  await expect(tray.getByText('Affiliation', { exact: true })).toBeVisible();
+  await expect(tray.getByText('Role', { exact: true })).toBeVisible();
+  await expect(tray.locator('.reader-lore-context__fact').nth(1)).toContainText('Peak Sovereign');
+  await expect(tray.locator('.reader-lore-context__fact').nth(2)).not.toContainText('Not recorded');
+  await expect(tray.locator('.reader-lore-context__fact').nth(3)).not.toContainText('No formal role recorded');
+});
+
+test('contextual lore card is fully opaque', async ({ page }) => {
+  await openReader(page);
+  await page.getByRole('button', { name: 'Open lore for Sera' }).first().click();
+  const background = await page.locator('.reader-lore-context').evaluate((node) => getComputedStyle(node).backgroundColor);
+  expect(background).toMatch(/^rgb\(/);
+  expect(background).not.toContain('rgba');
+});
+
 test('clicking a name deep in the episode produces visible feedback', async ({ page }) => {
   await openReader(page);
   const names = page.locator('.reader-prose [data-character-key]');
