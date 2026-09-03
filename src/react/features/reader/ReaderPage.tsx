@@ -269,12 +269,18 @@ export function ReaderPage({ season, episode, onBack, onOpenChapter }: ReaderPag
   const arc = EPISODE_ARCS[Math.max(0, arcIndex)];
   const loreEntry = loreKey ? characterRegistry.find((entry) => entry.key === loreKey) : undefined;
   const loreProfile = loreKey ? DB.characters[loreKey] : undefined;
-  const loreName = loreProfile ? cleanCharacterName(loreProfile.name) : loreEntry?.displayName || '';
+  const loreArcFigure = loreKey ? DB.arcFigures.find((figure) => figure.key === loreKey || cleanCharacterName(figure.name) === loreEntry?.displayName) : undefined;
+  const loreFormer = loreEntry ? DB.former.find((entry) => cleanCharacterName(entry.name) === loreEntry.displayName) : undefined;
+  const loreSeasonCast = loreEntry ? Object.values(DB.seasonCast).flat().find((entry) => cleanCharacterName(entry.name) === loreEntry.displayName) : undefined;
+  const loreName = loreProfile ? cleanCharacterName(loreProfile.name) : loreArcFigure ? cleanCharacterName(loreArcFigure.name) : loreEntry?.displayName || '';
   const loreRank = loreName ? rankLabel(loreName, season) : '';
   const loreStatus = loreName ? rankStatus(loreName, season) : 'current';
-  const loreStrength = loreProfile?.cultivation?.trim() || 'Not recorded';
-  const loreAffiliation = loreProfile?.affiliation?.trim() || 'Not recorded';
-  const loreRole = loreProfile?.affiliationRole?.trim() || 'No formal role recorded';
+  const loreStrengthSource = [loreArcFigure?.subtitle, loreArcFigure?.details, loreSeasonCast?.description, loreFormer?.summary].filter(Boolean).join(' ');
+  const loreStrengthMatch = loreStrengthSource.match(/\b(?:(?:Entry|Stable|Low|Mid|High|Peak)\s+(?:Paragon|Sovereign|Duke|Marquis|Grandmaster|Master)|Paragon|Sovereign|Duke|Marquis|Grandmaster|High Master|Master|Overlord|Ancient King|Calamity)\b/i);
+  const loreStrength = loreProfile?.cultivation?.trim() || loreStrengthMatch?.[0] || 'Not recorded';
+  const loreAffiliation = loreProfile?.affiliation?.trim() || loreArcFigure?.affiliation?.trim() || (loreFormer ? 'Historical ranking archive' : 'Not recorded');
+  const loreRole = loreProfile?.affiliationRole?.trim() || loreArcFigure?.affiliationRole?.trim() || loreSeasonCast?.role?.trim() || loreFormer?.title?.trim() || 'No formal role recorded';
+  const loreSummary = loreProfile?.subtitle || loreArcFigure?.subtitle || loreSeasonCast?.description || loreFormer?.summary || 'Referenced in this chapter. No expanded archive entry is currently recorded.';
   const showResumePosition = Boolean(resumePosition && resumePosition.progress >= 0.05 && resumePosition.progress <= 0.96 && !resumeDismissed);
 
   function registerProse(num: number, el: HTMLDivElement | null): void {
@@ -409,15 +415,13 @@ export function ReaderPage({ season, episode, onBack, onOpenChapter }: ReaderPag
               <div className="reader-lore-context__copy">
                 <span>Character reference</span>
                 <div className="reader-lore-context__name"><strong className={`character-${loreEntry.colorKey}`}>{loreName}</strong></div>
-                {loreProfile ? (
-                  <div className="reader-lore-context__facts" aria-label={`Quick facts for ${loreName}`}>
-                    <div className="reader-lore-context__fact"><span>Ranking</span><div>{loreRank ? <RankBadge rank={loreRank} status={loreStatus} /> : <strong>Not ranked</strong>}</div></div>
-                    <div className="reader-lore-context__fact"><span>Strength</span><strong>{loreStrength}</strong></div>
-                    <div className="reader-lore-context__fact"><span>Affiliation</span><strong>{loreAffiliation}</strong></div>
-                    <div className="reader-lore-context__fact"><span>Role</span><strong>{loreRole}</strong></div>
-                  </div>
-                ) : null}
-                <p>{loreProfile?.subtitle || 'Referenced in this chapter. A full profile is not currently part of the main character archive.'}</p>
+                <div className="reader-lore-context__facts" aria-label={`Quick facts for ${loreName}`}>
+                  <div className="reader-lore-context__fact"><span>Ranking</span><div>{loreRank ? <RankBadge rank={loreRank} status={loreStatus} /> : <strong>Not ranked</strong>}</div></div>
+                  <div className="reader-lore-context__fact"><span>Strength</span><strong>{loreStrength}</strong></div>
+                  <div className="reader-lore-context__fact"><span>Affiliation</span><strong>{loreAffiliation}</strong></div>
+                  <div className="reader-lore-context__fact"><span>Role</span><strong>{loreRole}</strong></div>
+                </div>
+                <p>{loreSummary}</p>
               </div>
               <div className="reader-lore-context__actions">
                 {loreProfile ? <button onClick={openLoreProfile} type="button">Open profile →</button> : null}
