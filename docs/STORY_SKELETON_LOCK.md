@@ -2313,7 +2313,7 @@ The confirmed information in the signal is limited to:
 - enemy assessed beyond World #1
 - immediate extraction required
 
-Jin uses the one-use **Black-Wick Lantern** route established when Rhen and Sera retired. He attaches the matching half of a broken porcelain tally to an unlit black-wicked paper lantern and sends one sealed message through a retired herb wholesaler who knows only an ordinary Second Spring delivery route. Jin alone holds the matching tally and the route reveals neither The Quaint Teahouse nor The Upper Room.
+Jin uses the one-use **Black-Wick Lantern signal route** established when Rhen and Sera retired. He attaches the matching half of a broken porcelain tally to an unlit black-wicked paper lantern and sends one sealed message through a retired herb wholesaler who knows only an ordinary Second Spring delivery route. Jin alone holds the matching tally and the route reveals neither The Quaint Teahouse nor The Upper Room.
 
 The exact first-draft signal is limited to:
 

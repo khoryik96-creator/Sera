@@ -646,7 +646,7 @@ All seven gates were resolved before the relevant first-draft chapter was integr
 4. **Chapter 96:** Jin finds a crewless northern warship carrying foreign materials, invasion surveys and a route cylinder proving a northern landmass.
 5. **Chapter 97:** Lei Zhen and Shen Rui remain as the Compact's western and southern rapid-response anchors so the expedition does not destabilize Wuyue.
 6. **Chapter 98:** **Han Seoryeong**, the Peak Marquis-class Senior Captain and First Mirror, assumes temporary Crownless Host command through its Shield Wing, Returning Wing and eight cohort captains.
-7. **Chapter 100:** Jin uses the one-use **Black-Wick Lantern** route established when Rhen and Sera retired; a matching porcelain tally authenticates a sealed message forwarded through an ordinary herb wholesaler.
+7. **Chapter 100:** Jin uses the one-use **Black-Wick Lantern signal route** established when Rhen and Sera retired; a matching porcelain tally authenticates a sealed message forwarded through an ordinary herb wholesaler.
 
 ## 16. Approval State
 
