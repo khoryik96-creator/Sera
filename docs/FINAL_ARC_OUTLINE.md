@@ -25,11 +25,11 @@ Because of how overwhelmingly strong Isgard proved to be, Rhen insists that **Fr
 | Character / group | Final-arc opening cultivation / status |
 |---|---|
 | **Rhen** | Beyond ranking / immeasurable; his existing roster has evolved again through far denser qi. |
-| **Sera** | **Peak Paragon** · retains **Orchid Dominion** · gains a true Ultimate once its option is selected. |
-| **Tae Muyeon** | **High Paragon** · new Domain name/mechanics pending user selection. |
-| **Huo Wujin** | **High Paragon** · new Domain name/mechanics pending user selection. |
-| **Qin Luo** | **High Paragon** · new Domain name/mechanics pending user selection. |
-| **Kael Veyran** | **Newly ascended Paragon** · new Domain name/mechanics pending user selection. |
+| **Sera** | **Peak Paragon** · retains **Orchid Dominion** · possesses **Ultimate — Ten Thousand Blooms**. |
+| **Tae Muyeon** | **High Paragon** · **Horizon Cage Dominion**. |
+| **Huo Wujin** | **High Paragon** · **Endless Dominion**. |
+| **Qin Luo** | **High Paragon** · **Echo Dominion**. |
+| **Kael Veyran** | **Newly ascended Paragon** · **Worldweight Dominion**. |
 | **Liang Yue** | **Peak Sovereign**. |
 | **Jin Seoryu** | **Peak Sovereign**. |
 | **Lei Zhen** | **Peak Sovereign**. |
@@ -59,7 +59,18 @@ Rhen gains no mandatory new named technique. His existing arts become far more d
 - **Petals in Stasis:** maximum radius rises to **10 miles**. Any martial Domain detected inside the active Stasis field is **neutralized immediately** rather than winning or losing a conventional Domain clash. The rule is any Domain, so Rhen cannot casually blanket Sera's active Orchid Dominion with the anti-Domain form of Stasis.
 - **Petals Beneath a Frozen Moon:** retains its existing approved 50-mile reach unless later revised. Within that reach it now has **no population cap on allied restoration**: selected allies are healed **instantly regardless of number**, while selected hostile possibilities are also resolved **instantly** into Rhen's chosen peaceful ending.
 
-Detailed selectable Domain and Sera-Ultimate candidates live in `docs/FINAL_ARC_POWER_OPTIONS.md` until the user chooses them.
+### 0.4 Locked Final-Arc Domains and Sera Ultimate
+
+The final-arc power selections are no longer approval gates:
+
+- **Sera — Ultimate: Ten Thousand Blooms.** While **Orchid Dominion** is active, all valid Counter-Blooms already earned may bloom simultaneously. During the Ultimate interval, new hostile offensive commitments generate their Counter-Blooms immediately and Sera may choose a different established Orchid response from each opening. The Ultimate consumes a major portion of Sera's reserve but **does not collapse Orchid Dominion**; the Domain remains active afterward.
+- **Tae Muyeon — Horizon Cage Dominion.** Hostile committed movement and attack trajectories forge an iron-qi prison from the enemy's own routes. Enemies may break out, but every escape consumes power and causes the cage to rebuild **denser and smaller**. Repeated breakouts wear down body and qi until the contracting iron pressure begins bruising, disrupting and eventually damaging meridians. The meridian damage is a consequence of physical compression, not circulation magic.
+- **Huo Wujin — Endless Dominion.** The Nine Meridian Wheels continuously rotate battlefield rhythm so hostile intent and execution separate: left may resolve right, retreat may become advance, an attack may collapse into defence, or a defence may resolve as an unintended offensive motion. This is **not mind control**; the target's intent remains theirs while physical/cultivation response routes are forced out of alignment. If an enemy successfully corrects one Wheel-induced mismatch, repeating that correction becomes progressively worse as another Wheel overlaps the next exchange.
+- **Qin Luo — Echo Dominion.** Overlapping resonance renders hostile perception functionally blind and destroys stable directional awareness. Every hostile committed action also generates an **equivalent-force echo wave** redirected at its source: arrows, sword swings and internal-force releases create resonance counterparts of comparable committed force. Qin copies **force/resonance, not the technique, weapon property or special effect**.
+- **Kael Veyran — Worldweight Dominion.** Force committed through connected earth and sand creates corresponding physical burden. The harder an enemy strikes, charges or anchors, the more pressure Kael can redistribute into stance, weapon, armour or terrain. It is mountain-and-sand qi pressure, **not supernatural gravity**.
+
+The compact mechanics reference is `docs/FINAL_ARC_POWER_OPTIONS.md`, whose former option tables are now replaced by the locked selections.
+
 
 ## 1. Inherited Continuity That Is Already Locked
 
@@ -206,13 +217,13 @@ Do not solve this tension by casually replacing half the Top Ten list in one cha
 | Character / group | Opening state | Discipline for this arc |
 |---|---|---|
 | **Rhen** | Beyond public ranking | No new skill required. Keep intervention rare and bounded. |
-| **Sera** | **Peak Paragon · Orchid Dominion** | Mature Paragon refinement plus a true Ultimate after user selection; no new realm required. |
+| **Sera** | **Peak Paragon · Orchid Dominion · Ultimate: Ten Thousand Blooms** | Mature Paragon refinement and Ultimate mastery; no new realm required. |
 | **Aldric Veyrhald** | Established Paragon | Alive, dangerous, politically changed but not friendly by default. |
 | **Maedra Dravaryn** | Established Paragon | Alive, dangerous, stripped of prior coalition command but not redeemed. |
-| **Tae Muyeon** | **High Paragon** | New Domain pending selection; iron-horizon identity remains distinct. |
-| **Huo Wujin** | **High Paragon** | New Domain pending selection; Nine Meridian Wheels remain his foundation. |
-| **Qin Luo** | **High Paragon** | New Domain pending selection; blindness remains part of how he perceives and fights. |
-| **Kael Veyran** | **Newly ascended Paragon** | First public Five Sovereign to reach Paragon; new Domain pending selection. |
+| **Tae Muyeon** | **High Paragon · Horizon Cage Dominion** | Iron-horizon geometry turns hostile movement into a shrinking self-built prison that exhausts escape attempts and eventually damages meridians through compression. |
+| **Huo Wujin** | **High Paragon · Endless Dominion** | Nine Meridian Wheels first disrupt intent-to-execution alignment, then make repeated solutions progressively fail through overlapping Wheel responses. |
+| **Qin Luo** | **High Paragon · Echo Dominion** | Hostile perception is resonance-blinded while the committed force of hostile actions returns as equivalent echo-wave attacks. Qin remains blind and navigates by his established vibration perception. |
+| **Kael Veyran** | **Newly ascended Paragon · Worldweight Dominion** | First public Five Sovereign to reach Paragon; connected terrain stores and redistributes the physical burden created by hostile commitment. |
 | **Liang Yue** | **Peak Sovereign specialist** | Threat still comes from internal-circulation mastery and White Vein systems, not only raw realm. |
 | **Jin Seoryu** | **Peak Sovereign strategist** | Strategic authority remains his defining strength despite major bodily growth. |
 | **Ilyra Serath** | **High Sovereign** | Crownless Host remains independent; she remains one of the Five Dukes by title. |
@@ -263,7 +274,7 @@ Their war breakthroughs now need consequences rather than another secret reveal.
 - Huo's issue: the world knows a feared former threat is now one of Sera's formal offensive commanders.
 - Qin's issue: the blind former #6 is now High Paragon, operational deputy and still defined by resonance rather than omniscience.
 
-The three should disagree sometimes. Peak Sovereign does not make them interchangeable personalities.
+The three should disagree sometimes. High Paragon does not make them interchangeable personalities.
 
 ### 5.4 Lu Weiran
 
@@ -414,7 +425,7 @@ Arin begins rebuilding Silver Horizon around the 611 members still capable of fo
 
 ### Chapter 304 — Three Paragons at One Table
 
-Sera, Rhen, Tae, Huo, Qin and Lu review what two years beneath Frozen Petals Garden changed. Sera is now Peak Paragon; Tae, Huo and Qin are High Paragons; Lu remains stubbornly non-combatant. The scene establishes the chosen new Domains once approved and makes clear that Rhen's protection accelerated their foundations without making any two of them fight alike.
+Sera, Rhen, Tae, Huo, Qin and Lu review what two years beneath Frozen Petals Garden changed. Sera is now Peak Paragon; Tae, Huo and Qin are High Paragons; Lu remains stubbornly non-combatant. The scene establishes **Horizon Cage Dominion**, **Endless Dominion** and **Echo Dominion**, and makes clear that Rhen's protection accelerated their foundations without making any two of them fight alike.
 
 ### Chapter 305 — The Black Strip Returns on a Dead Courier
 
@@ -1426,7 +1437,7 @@ The final chapter returns completely to the teahouse. No army arrives. No hidden
 
 ## 34. Final-Arc Approval Gates Before Finished Prose
 
-The following should be decided before the relevant material becomes finished reader canon:
+The following should be decided before the relevant material becomes finished reader canon. **The two-year cultivation baseline, Sera's Ten Thousand Blooms, Tae's Horizon Cage Dominion, Huo's Endless Dominion, Qin's Echo Dominion and Kael's Worldweight Dominion are already locked and are not approval gates.**
 
 1. **Structure — LOCKED:** Final arc = two parts, 10 seasons each, 10 chapters per season, 200 chapters total.
 2. **Range — LOCKED by current numbering plan:** Part I S95–104 / Ch301–400; Part II S105–114 / Ch401–500.
@@ -1446,10 +1457,10 @@ The following should be decided before the relevant material becomes finished re
 16. **Aldric's final role.**
 17. **Maedra's final role.**
 18. **Sera public rank decision:** default is no number through the finale.
-19. **Frozen Petals Garden after the war and its final status by Chapter 499.**
+19. **Frozen Petals Garden final status by Chapter 499.** The two-year post-war extension over Sera, Qin, Tae, Huo and Lu is locked; only what happens after that interval and by the series ending remains to decide.
 20. **Tae/Huo/Qin final public visibility.**
-21. **Whether any of Tae/Huo/Qin approaches Paragon. Default: none crosses.**
-22. **Sera's final combat:** preferred route is a mature Orchid Dominion victory without a new realm.
+21. **Tae/Huo/Qin growth after High Paragon.** Their High-Paragon opening state and selected Domains are locked; default is no further realm jump unless explicitly approved.
+22. **Sera's final combat:** Peak-Paragon **Orchid Dominion + Ten Thousand Blooms** are locked tools; the exact final opponent, tactical use and outcome remain to decide without requiring a new realm.
 23. **Rhen's final combat involvement:** preferred route is minimal/bounded, not the decisive political solution.
 24. **Rhen Ultimate:** default no use; explicit approval required.
 25. **Named major deaths:** default none required.
@@ -1469,13 +1480,13 @@ If the working route is approved, Chapter 500 should leave the world with:
 - the Wuyue–Isgard war permanently concluded rather than restarted for spectacle;
 - the Part I forged-order conspiracy exposed and its deeper final-authority objective revealed;
 - the Last Mandate dismantled without replacing it with Sera, Rhen, Jin or Aldric as one permanent supreme authority;
-- Sera a mature Paragon who never needed a second Domain or a new realm to finish her story;
+- Sera a **Peak Paragon** who finishes with **Orchid Dominion** and **Ten Thousand Blooms**, without needing a second Domain or a realm above Paragon;
 - Sera still without a public numerical rank by choice;
 - Rhen still beyond ranking, primarily healer and husband, without requiring a new technique;
-- Tae, Huo and Qin still distinct Peak Sovereigns whose final importance comes from what they protect and how they use authority, not mandatory Paragon promotions;
+- Tae, Huo and Qin still distinct **High Paragons** whose **Horizon Cage Dominion**, **Endless Dominion** and **Echo Dominion** express different martial identities and whose final importance comes from how they use that power and authority;
 - Lu still noncombatant and central to the final victory;
 - the Top Ten still meaningful through the institutions and people they lead;
-- Kael, Liang, Jin, Lei and Rui having final contributions that grow from their established strengths rather than sudden upgrades;
+- Kael, Liang, Jin, Lei and Rui having final contributions that grow from their locked final-arc opening strengths — including Kael's **Worldweight Dominion** — rather than surprise mid-finale promotions;
 - Arin rebuilding around the 611 standing swords and surviving wounded rather than restoring the old 3,000 through convenience;
 - Mo leaving stronger civil verification behind him;
 - Aldric and Maedra remaining recognizably themselves rather than converted followers;
@@ -1519,7 +1530,7 @@ If the working route is approved, Chapter 500 should leave the world with:
 7. Rhen should not solve the central evidence problem with supernatural perception.
 8. Tae, Huo and Qin begin as **High Paragons**. No automatic further realm is required during the final arc.
 9. The trio have already reached High Paragon during the locked two-year interval; future growth must differentiate their Domains and judgement rather than giving them one synchronized realm jump.
-10. The Top Ten remain strategically relevant even where individuals are weaker than Sera or the hidden Peaks.
+10. The Top Ten remain strategically relevant even where individuals are weaker than Sera or the Quaint Teahouse's hidden High Paragons.
 11. Kael's, Liang's, Jin's and the other public leaders' armies and institutions remain part of why the ranking system matters.
 12. Quiet Hands remain an elite covert network, not a replacement for every army, police body, courier system and government office on the continent.
 13. Lu remains non-combatant.
@@ -1595,10 +1606,10 @@ The following should be chosen, rejected or revised before writing Season 95 as 
 11. **Aldric's role:** recurring procedural opponent/temporary aligned interest, background only or absent.
 12. **Maedra's role:** recurring nationalist rival/temporary aligned interest, background only or absent.
 13. **Sera's public-rank decision:** continue refusing a number by default, or create a separate Paragon classification.
-14. **Frozen Petals Garden after the war:** end the trio's emergency extension, reduce it to a narrow emergency alert or keep some other approved form.
+14. **Frozen Petals Garden after the locked two-year rebuilding interval:** decide only whether the protection continues, changes or ends later; the full two-year extension itself is already canon-locked.
 15. **Tae/Huo/Qin visibility:** how public each chooses to become after the leaked names.
 16. **Whether a Quiet Hand full roster is ever exposed.** Default recommendation: no.
-17. **Sera's combat progression:** refinement of Orchid Dominion only by default; no second Domain.
+17. **Sera's combat progression:** **Ten Thousand Blooms** is locked as her Ultimate and Orchid Dominion remains active after its use; no second Domain is required.
 18. **Rhen skills:** no new Rhen technique by default.
 19. **Any named death:** none required by the working skeleton.
 20. **Chapter 399 future hook:** new continent, deeper Isgard, surviving conspiracy, former legend, domestic interval or no hook.
@@ -1623,7 +1634,7 @@ The conspiracy version should end with:
 - Aldric and Maedra, if used, remaining independent Isgard figures rather than converted allies;
 - Eirholt remaining medically neutral;
 - fraudulent casualty and command systems being dismantled through shared evidence rather than one side imposing truth upon the other;
-- Frozen Petals Garden's wartime extension receiving an explicit post-emergency decision;
+- Frozen Petals Garden having remained over the approved core for the locked two-year rebuilding interval, with only its later continuation or withdrawal left for an explicit decision;
 - no new realm above Paragon being required;
 - Chapter 400 resolving Part I while revealing the approved Part II endgame rather than pretending the series has already ended.
 
