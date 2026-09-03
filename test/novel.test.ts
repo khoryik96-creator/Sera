@@ -1,7 +1,7 @@
 import { describe, it, expect, beforeAll } from 'vitest';
 import data from '../src/data.json';
 import { setDB } from '../src/db';
-import { renderNovel, rankForStory } from '../src/novel';
+import { renderNovel, rankForStory, artLore } from '../src/novel';
 import type { RawDatabase } from '../src/types';
 
 beforeAll(() => setDB(data as unknown as RawDatabase));
@@ -141,6 +141,26 @@ describe('renderNovel', () => {
     const out = renderNovel('Kael anchored the road with Sovereign’s March.', 70);
     expect(out).toContain('novel-art');
     expect(out).toContain('Sovereign’s March');
+  });
+
+  it('renders a named art as a clickable button only when interactiveNames is on', () => {
+    const text = 'Kael anchored the road with Sovereign’s March.';
+    const plain = renderNovel(text, 70);
+    expect(plain).toContain('<span class="novel-art');
+    expect(plain).not.toContain('data-art-name');
+
+    const interactive = renderNovel(text, 70, { interactiveNames: true });
+    expect(interactive).toContain('novel-art-link');
+    expect(interactive).toContain("data-art-name=\"Sovereign's March\"");
+    expect(interactive).toContain('Sovereign’s March');
+  });
+
+  it('exposes a tier, type and short blurb for a named art through artLore', () => {
+    const info = artLore("Sovereign's March");
+    expect(info).toBeDefined();
+    expect(info?.label.length).toBeGreaterThan(0);
+    expect(info?.blurb.length).toBeGreaterThan(0);
+    expect(artLore('not a real art')).toBeUndefined();
   });
 
   it('colours the bare alias "Huo" as Huo Wujin', () => {

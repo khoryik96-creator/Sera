@@ -38,7 +38,21 @@ function annotateDialogue(text: string, interactiveNames: boolean): string {
 }
 
 type ArtTone = 'ultimate' | 'supreme' | 'transcended' | 'named';
-interface ArtInfo { name: string; tone: ArtTone; label: string }
+export interface ArtInfo { name: string; tone: ArtTone; label: string; category: string; blurb: string }
+
+/** Escape a string for safe use inside a double-quoted HTML attribute. */
+function escAttr(value: string): string {
+  return value.replace(/&/g, '&amp;').replace(/"/g, '&quot;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+}
+
+/** Trim a skill description down to a one-or-two-sentence blurb (~220 chars). */
+function clipBlurb(text: string): string {
+  const value = text.trim().replace(/\s+/g, ' ');
+  if (value.length <= 220) return value;
+  const cut = value.slice(0, 220);
+  const stop = Math.max(cut.lastIndexOf('. '), cut.lastIndexOf('! '), cut.lastIndexOf('? '));
+  return stop > 80 ? cut.slice(0, stop + 1) : `${cut.trimEnd()}…`;
+}
 
 function artTone(label: string): ArtTone {
   const value = label.toLowerCase();
@@ -56,20 +70,20 @@ let artCache: { source: unknown; arts: ArtInfo[] } | null = null;
 function knownArts(): ArtInfo[] {
   if (artCache && artCache.source === DB) return artCache.arts;
   const arts: ArtInfo[] = [];
-  const add = (name: string | undefined, label: string | undefined): void => {
+  const add = (name: string | undefined, label: string | undefined, category?: string, blurb?: string): void => {
     const clean = (name || '').trim();
     if (!clean || !label) return;
-    arts.push({ name: clean, tone: artTone(label), label });
+    arts.push({ name: clean, tone: artTone(label), label, category: (category || '').trim(), blurb: clipBlurb(blurb || '') });
   };
   for (const rows of Object.values(DB?.topSkills || {})) {
-    for (const skill of rows) add(skill.name, powerTier(skill.category, skill.rating));
+    for (const skill of rows) add(skill.name, powerTier(skill.category, skill.rating), skill.category, skill.description || skill.signature);
   }
   for (const skill of [...(DB?.rhenSkills || []), ...(DB?.seraSkills || [])]) {
-    add(skill.name, skill.tier || powerTier(skill.category, skill.rating));
+    add(skill.name, skill.tier || powerTier(skill.category, skill.rating), skill.category, skill.short || skill.signature || skill.mechanics);
   }
   for (const figure of DB?.arcFigures || []) {
     for (const skill of figure.skills || []) {
-      if (/(supreme|transcended|ultimate)/i.test(skill[1] || '')) add(skill[0], skill[1]);
+      if (/(supreme|transcended|ultimate)/i.test(skill[1] || '')) add(skill[0], skill[1], skill[1], skill[2]);
     }
   }
   const seen = new Set<string>();
@@ -79,12 +93,18 @@ function knownArts(): ArtInfo[] {
   return unique;
 }
 
+/** Look up the tier, type and short description for a named art by its exact
+ *  name — used by the reader to render the mini-card for a clicked gold skill. */
+export function artLore(name: string): ArtInfo | undefined {
+  return knownArts().find((art) => art.name === name);
+}
+
 /**
  * Style named arts inline (rank symbol + tier-toned colour) wherever they appear
  * in prose. Case-sensitive, whole-name matches only, so the capitalised art
  * "Veiled Moon" is styled while the descriptive "veiled moon" is left alone.
  */
-function annotateArtNames(text: string): string {
+function annotateArtNames(text: string, interactive: boolean): string {
   const arts = knownArts();
   if (!arts.length) return String(text || '');
   let out = String(text || '');
@@ -98,7 +118,11 @@ function annotateArtNames(text: string): string {
     const re = new RegExp('\\b' + pattern + '\\b', 'g');
     out = out.replace(re, (match) => {
       const token = `@@ART${placeholders.length}@@`;
-      placeholders.push(`<span class="novel-art novel-art--${art.tone}" title="${art.label}">${match}</span>`);
+      // In the focused reader the art is a real button that opens its mini-card;
+      // elsewhere it stays a non-interactive styled span.
+      placeholders.push(interactive
+        ? `<button type="button" class="novel-art novel-art--${art.tone} novel-art-link" data-art-name="${escAttr(art.name)}" title="${escAttr(art.label)}" aria-label="What is ${escAttr(art.name)}?">${match}</button>`
+        : `<span class="novel-art novel-art--${art.tone}" title="${escAttr(art.label)}">${match}</span>`);
       return token;
     });
   }
@@ -190,11 +214,16 @@ function startsForeignCompound(alias: string, rest: string): boolean {
 function annotateNamesForSeason(text: string, season: number | undefined, interactiveNames: boolean): string {
   let out = String(text || '');
   const held: string[] = [];
-  out = out.replace(/<span[\s\S]*?<\/span>/g, (markup) => {
+  const hold = (markup: string): string => {
     const token = `@@SPAN${held.length}@@`;
     held.push(markup);
     return token;
-  });
+  };
+  // Protect existing markup from the name pass. Spans first (a dialogue span
+  // wraps its speaker button, so holding spans keeps that button inside it),
+  // then any standalone art buttons that remain in ordinary prose.
+  out = out.replace(/<span[\s\S]*?<\/span>/g, hold);
+  out = out.replace(/<button[\s\S]*?<\/button>/g, hold);
 
   const placeholders: string[] = [];
   novelNameMap.forEach(([name, key]) => {
@@ -255,6 +284,7 @@ function annotateBold(text: string): string {
 
 /** Render an episode/legend body: dialogue cards, skill callouts, and ranked names. */
 export function renderNovel(text: string, season?: number, options: RenderNovelOptions = {}): string {
-  const html = annotateNamesForSeason(annotateSkills(annotateDialogue(annotateArtNames(annotateBold(text)), Boolean(options.interactiveNames))), season, Boolean(options.interactiveNames));
+  const interactive = Boolean(options.interactiveNames);
+  const html = annotateNamesForSeason(annotateSkills(annotateDialogue(annotateArtNames(annotateBold(text), interactive), interactive)), season, interactive);
   return html.replace(/\n*(<span class="novel-dialogue[\s\S]*?<\/span>)\n*/g, '$1');
 }
