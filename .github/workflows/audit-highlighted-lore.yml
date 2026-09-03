@@ -25,6 +25,8 @@ jobs:
         run: node scripts/apply-highlighted-lore-fix.mjs
       - name: Repair legacy Draven arc record
         run: node scripts/fix-draven-lore.mjs
+      - name: Normalize first-appearance indices
+        run: node scripts/fix-lore-first-appearance.mjs
       - name: Audit all highlighted names
         run: node scripts/audit-highlighted-lore.mjs
       - name: Install dependencies
@@ -43,6 +45,7 @@ jobs:
           rm -f docs/HIGHLIGHTED_LORE_AUDIT.md
           rm -f scripts/apply-highlighted-lore-fix.mjs
           rm -f scripts/fix-draven-lore.mjs
+          rm -f scripts/fix-lore-first-appearance.mjs
       - name: Commit validated fix
         run: |
           git config user.name "khoryik96-creator"
