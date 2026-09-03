@@ -1,6 +1,6 @@
 # Final Arc — Shinrin Foundation
 
-> **Status:** Working companion to `docs/FINAL_ARC_OUTLINE.md`. The user-locked world-state, two-year peace, Wuyue–Isgard defensive pact, Quaint Teahouse expansion, Isgard epidemic/recovery state, Yun Shizhen disappearance, Shinrin military scale and invasion motive below are locked for planning. Tae's additional skills, the Shinrin ruling-guild name, the life-burning poison name, Sigrun's Domain, and the new light/darkness unranked character remain approval-gated until selected.
+> **Status:** Working companion to `docs/FINAL_ARC_OUTLINE.md`. The user-locked world-state, two-year peace, Wuyue–Isgard defensive pact, Quaint Teahouse expansion, Isgard epidemic/recovery state, Yun Shizhen disappearance, Shinrin military scale and invasion motive below are locked for planning. Tae's additional skills, the Shinrin ruling-guild name, Sigrun's Domain, and the new light/darkness unranked character remain approval-gated until selected. **Axtaya** is now locked as the name of Shinrin's life-burning amplifier poison, and Yun Shizhen's final fate is locked below.
 >
 > This foundation **supersedes the earlier forged-order / evidence-war central-premise route** wherever the two conflict. The existing 200-chapter structure remains locked, but the detailed Part I / Part II chapter beats in `FINAL_ARC_OUTLINE.md` must be rewritten around Shinrin before finished Season 95 prose begins.
 
@@ -174,15 +174,28 @@ This manpower/resource weakness becomes one of the key reasons Isgard accepts th
 
 ---
 
-## 7. Yun Shizhen Goes Missing
+## 7. Yun Shizhen Goes Missing — And Returns to Isgard Dying
 
 During the peaceful interval, **Yun Shizhen / No.10 / The Pale Venom disappears for months**.
 
-Her disappearance is not immediately treated as a kidnapping because Yun is exactly the kind of poison specialist who may travel without announcing every destination.
+Her disappearance is not immediately treated as a kidnapping because Yun is exactly the kind of poison specialist who may travel without announcing every destination. She has independently traced reports of **Axtaya** to the smaller continent of **Shinrin**.
 
-Eventually Isgard sends word to Wuyue seeking help because Yun's trail had crossed northern medical / poison-recovery networks and then vanished.
+In Shinrin, Yun discovers enough about Axtaya and the ruling guild's military preparation to become a liability. One of Shinrin's Paragons attacks her. During that attack, **Yun is sexually assaulted**. The event must be handled non-graphically and without erotic framing; the story focus is Yun's survival, injuries, rage, evidence and determination to get the warning out.
 
-The investigation reveals that Yun had independently traced reports of a specific poison to a smaller continent called **Shinrin**.
+Despite the assault and severe injuries, Yun escapes Shinrin and eventually reaches **Isgard** alive.
+
+She is already beyond recovery by the time Isgard receives her. Before dying, Yun manages to pass on enough information to establish that:
+
+- Axtaya originates from / is being developed or distributed through Shinrin;
+- Shinrin possesses a continental military machine far larger than Isgard expected;
+- at least one Shinrin Paragon is directly implicated in the attack on her;
+- Shinrin is preparing for action against weakened Isgard.
+
+**Yun dies in Isgard.** Her death is final. Rhen is not present in time to save her, and once she is dead his healing cannot resurrect her.
+
+Isgard then sends an urgent formal warning to **Wuyue**, activating the political and defensive relationship built during the previous two peaceful years.
+
+This replaces the earlier route where Wuyue would search for and recover Yun alive. Yun's successful escape and warning become the catalyst that exposes Shinrin.
 
 ---
 
@@ -199,12 +212,11 @@ Core rules:
 - the exact relationship between dose and remaining lifespan remains `TBD`;
 - Rhen can treat poison damage, but whether he can restore **lifespan already consumed** by the poison must not be assumed without later approval.
 
-### Working name options — NOT LOCKED
+### Permanent name — LOCKED
 
-1. **Borrowed Years Venom** — recommended; the user literally borrows power from years they would otherwise have lived.
-2. **Threefold Ash** — emphasizes the three-times output and the life burned away afterward.
-3. **Burning Years Poison** — direct and readable.
-4. **Red Meridian Draft** — more clinical / covert-distribution tone.
+The poison is permanently named **Axtaya**.
+
+Future final-arc planning and prose should use **Axtaya** rather than earlier working names.
 
 ---
 
@@ -278,7 +290,7 @@ Recommended dramatic function:
 - uncover the three-times-power poison and its lifespan cost;
 - discover Shinrin's 200,000+ Peak-Marquis-floor military machine;
 - discover evidence of secret invasion preparation;
-- locate / rescue / reunite with Yun according to later approved details;
+- receive Yun's final warning through Isgard after she escapes Shinrin and dies there;
 - introduce the new light/darkness unranked figure;
 - end Part I with Wuyue and Isgard understanding that Shinrin is preparing a continental conquest.
 
@@ -347,105 +359,107 @@ These three additions are **not yet locked** until the user approves or replaces
 
 ---
 
-## 12. New Unranked Light/Darkness Martial Artist — Design Options
+## 12. New Unranked Light/Darkness Martial Artist — Revised Design Options
 
 ### 12.1 Power Ceiling
 
-The new figure is **unranked** but strong enough that, if forced into Wuyue's public ranking system, they could comfortably occupy approximately the **#7–#10 range**.
+The new figure is **unranked** but strong enough that, if forced into Wuyue's public ranking system, he could comfortably occupy approximately the **#7–#10 range**.
 
-Recommended cultivation: **High Sovereign**.
+Recommended cultivation remains **High Sovereign**.
 
-That keeps the character extremely dangerous without creating another surprise Paragon in a final arc already containing many Paragons.
+He is exceptionally dangerous because his martial path is rare and difficult to read, not because he secretly possesses a Paragon Domain.
 
-### 12.2 Recommended Narrative Role
+### 12.2 Narrative Role
 
-**Recommended:** a Shinrin dissident / former covert scout who abandoned the ruling guild before its invasion plan became public.
+Recommended role remains a **Shinrin dissident / former covert operative** who left the ruling guild before the invasion became public.
 
-Why this role works:
+He is not automatically heroic and does not instantly become Sera's subordinate. His knowledge of Shinrin, Axtaya routes and ruling-guild habits makes him strategically valuable.
 
-- gives Sera and Yun a local contact without making Shinrin culturally monolithic;
-- explains why someone this strong is not in Shinrin's official ten-Paragon leadership;
-- gives the character reason to know routes, military habits and poison-distribution networks;
-- lets the character distrust both Shinrin's rulers and foreign armies rather than instantly joining Sera.
+### 12.3 Oriental Name / Title Options — NOT LOCKED
 
-Alternative roles:
+The prior **Ren Tsukishiro / Dusk Walker** proposal is discarded.
 
-- independent Shinrin hermit who never served the ruling guild;
-- Isgard-border wanderer who has travelled Shinrin for years;
-- Wuyue-born exile who vanished before the Five-Year arc.
+Name options:
 
-### 12.3 Name / Title Options
+1. **Kanzaki Reito**
+2. **Amagiri Seiran**
+3. **Kurobane Akito**
+4. **Tsukimori Renji**
+5. **Shigure Ren**
+6. **Mizuhara Kaito**
 
-1. **Ren Tsukishiro — The Dusk Walker** — recommended.
-2. **Jin Yeongha — The Half-Light**.
-3. **Seo Gyeom — The Last Lantern**.
-4. **Rei Kuroha — The Grey Dawn**.
+Title options:
 
-### 12.4 Martial Foundation — Light and Darkness Without Western Magic
+1. **The Black Sun**
+2. **Heaven-Eclipsing Saint**
+3. **Lord of the Eclipse**
+4. **The Lightless Sun**
+5. **Black Radiance**
+6. **The Eclipse Hand**
 
-The character does **not** shoot magical light beams or summon supernatural darkness.
+The final name and title should be selected separately.
 
-Their system is built around two opposite internal-energy states:
+### 12.4 Martial Foundation — Literal Light Qi and Darkness Qi
 
-- **Bright / Yang state:** qi is pushed outward in an extremely clear, intense, high-contrast form. It overloads visual/qi reading, reveals hidden movement and makes the user's committed line brutally obvious and fast.
-- **Dark / Yin state:** qi is compressed inward until external leakage becomes extremely faint. The fighter becomes difficult to read because breath, pressure, killing intent and circulation cues almost disappear.
+This system is **not Yin/Yang terminology** and is not western spellcasting.
 
-The danger is the transition between the two. Opponents continuously calibrate themselves to one state and are punished when the fighter switches to the other mid-exchange.
+The cultivator has developed two unusual elemental internal-energy qualities:
 
-This is **contrast control**, not literal creation of daylight/night.
+- **Light Qi** — highly radiant, fast-propagating qi that can flare, refract, blind, sharpen visual contrast and produce extremely fast straight-line martial force.
+- **Darkness Qi** — dense light-devouring qi that absorbs/scatters visible radiance, suppresses readable movement cues, creates genuine darkness and makes attacks difficult to track through ordinary sight.
+
+Both remain internal-energy expressions used through body movement, palms, footwork, pressure and weaponless martial technique. They are elemental qi phenomena in the same broad wuxia sense that other cultivators may possess poison, thunder, sand, metal or blood-specialized qi.
+
+The fighter can **project and shape Light Qi and Darkness Qi as real martial elements** around his body and attacks.
 
 ### 12.5 Proposed Skill Set — NOT LOCKED
 
-#### **Dusk Cycle** — Transcended Passive
+#### **Radiant Step** — Transcended Movement
 
-- Bright and Dark qi circulate as one continuous cycle.
-- Remaining in one state too long makes the next transition more powerful but also more readable.
-- Skilled opponents can adapt to either state individually; the difficulty is surviving the transition timing.
+- Light Qi erupts around the feet and movement line, producing explosive straight-line acceleration.
+- The flare leaves brief optical afterimages because genuine radiance remains along the path for an instant.
+- The afterimages are residual light, not illusions and cannot attack.
 
-#### **Daybreak** — Transcended
+#### **Black Veil** — Transcended Control
 
-A sudden Bright-state release floods the immediate exchange with overwhelming qi contrast.
+- Darkness Qi spreads through the immediate battlefield and devours/scatters ambient light.
+- The area becomes genuinely dark rather than mentally obscured.
+- Ordinary vision collapses sharply, while experienced cultivators may still use hearing, vibration, qi sense or other nonvisual methods.
 
-- hidden weapons, concealed movement and subtle circulation become easier to read for a brief instant;
-- an opponent already focusing on the fighter may be visually / qi-sense overloaded;
-- the release itself is not a damaging light beam; it is an explosive declaration of outward qi.
+#### **Piercing Dawn** — Transcended Offense
 
-#### **Nightfall** — Transcended
+- Condenses Light Qi along a palm, fist or fingertip into an extremely narrow line of radiant internal force.
+- The technique prioritizes speed and penetration rather than explosive area damage.
 
-The fighter collapses external qi leakage almost completely for a short interval.
+#### **Night Severance** — Transcended Offense / Suppression
 
-- pressure, breath and intent cues become extremely difficult to read;
-- the body remains physically present and can still be struck;
-- unlike Sera's **Veiled Moon**, it does not create a false position or let hostile perception lock onto the wrong body — it simply removes most readable cues.
+- A limb or palm is coated in concentrated Darkness Qi.
+- On impact, the darkness absorbs and scatters a portion of the opponent's outwardly released qi at the contact point, weakening the defence for that instant.
+- It does not permanently steal energy and does not erase techniques wholesale.
 
-#### **Twilight Step** — Transcended Movement
+#### **Eclipse Crossing** — Supreme
 
-The fighter changes Bright/Dark state during one qinggong sequence.
+- The fighter releases a violent Light-Qi flare and immediately folds a Darkness-Qi attack through the contrast it creates.
+- The Light phase is genuine blinding / high-speed offensive pressure.
+- The Darkness phase suppresses visible tracking around the real finishing strike.
+- Neither half is fake: the opponent must survive two real elemental phases whose perception requirements oppose each other.
 
-- the Bright phase encourages the opponent to commit to one visible acceleration line;
-- the Dark transition removes the readable acceleration cue at the instant of redirection;
-- the result feels as though the step changed timing halfway through, but it remains physical movement rather than teleportation.
+### 12.6 Distinction From Existing Characters
 
-#### **Eclipse Palm** — Supreme
+- **Sera** manipulates commitment, false futures, concealment and Counter-Blooms; this fighter manipulates literal light and darkness qi.
+- **Qin** attacks orientation through vibration and echo waves; this fighter attacks visual information through radiance and genuine darkness.
+- **Rhen** can overwhelm perception through Moonless Snowfield, but this character's system is narrower and elemental rather than total battlefield perception control.
 
-A two-phase unarmed strike.
-
-- The Bright phase forces the defender to brace against an obvious outward pressure line.
-- At contact, the fighter switches to Dark-state circulation, causing the visible outward pressure to vanish while the real body continues through a second close-range internal impact.
-- The defender is punished for correctly responding to the first half of the technique.
-- This does not copy Sera's false-future information art because the first pressure is genuinely real; the attack changes state after the opponent commits.
-
-### 12.6 Character Tone
+### 12.7 Character Tone
 
 Recommended personality:
 
-- quiet rather than mysterious-for-show;
-- dry humour;
-- deeply suspicious of large organizations;
-- refuses public rank because rank creates obligations and visibility;
-- dislikes Shinrin's ruling guild but does not automatically love Wuyue or Isgard;
-- respects Sera once he realizes she repeatedly refuses power she could easily claim;
-- is unnerved by Rhen because his Bright/Dark reading finds no useful calibration point at all.
+- calm and unsentimental;
+- dry humour rather than theatrical brooding;
+- suspicious of Shinrin's central authority;
+- refuses formal ranking and avoids command positions;
+- can cooperate with Sera without immediately serving her;
+- understands very quickly that Rhen is outside any sensible comparison.
 
 ---
 
@@ -455,12 +469,12 @@ The following should be decided before the old conspiracy beat sheet is replaced
 
 1. Approve / revise Tae's three new arts: **Ironheart**, **Horizon Break**, **Anchor Step**.
 2. Choose the Shinrin ruling guild name.
-3. Choose the life-burning poison name.
-4. Choose the new unranked character's name/title.
-5. Approve / revise the light/darkness skill set.
+3. **Axtaya — LOCKED.** No further poison-name selection required.
+4. Choose the new unranked light/darkness character's final name and title from the revised oriental options or provide a new one.
+5. Approve / revise the revised **literal Light Qi / Darkness Qi** skill set.
 6. Decide whether the new unranked figure is a Shinrin dissident, hermit, border wanderer or other role.
 7. Name / design **Sigrun's Paragon Domain**.
-8. Decide exactly how Yun survives / what condition she is in when found.
+8. **Yun fate — LOCKED:** assaulted by a Shinrin Paragon, escapes to Isgard, delivers warning, dies; portrayal must remain non-graphic and consequence-focused.
 9. Decide whether any Shinrin Paragon defects, is politically divided from the leader, or all ten remain loyal.
 10. Decide how much of Shinrin's 200,000+ elite force actually crosses into Isgard before the pact fully mobilizes.
 
