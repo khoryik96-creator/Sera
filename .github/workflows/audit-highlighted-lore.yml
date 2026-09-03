@@ -1,0 +1,17 @@
+name: Audit highlighted lore completeness
+
+on:
+  push:
+    branches:
+      - audit/highlighted-lore-gaps
+    paths:
+      - 'scripts/audit-highlighted-lore.mjs'
+      - '.github/workflows/audit-highlighted-lore.yml'
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Audit highlighted lore
+        run: node scripts/audit-highlighted-lore.mjs
