@@ -1894,7 +1894,8 @@
       "era": "Before Liang Yue's reign",
       "summary": "A legitimate apex of his era and not a disposable predecessor. Jian Ruo defeated Jin Seoryu in direct combat and repeatedly defeated the young Lei Zhen. Liang Yue later killed him in the razor-close White Funeral at Jade Lake.",
       "connections": "Former informal mentor to Lei Zhen. Head and symbolic shield of the Golden Lion Clan. His refusal to protect Lei's family became one of the most consequential betrayals in modern martial history.",
-      "death": "Killed by Liang Yue after a day-long near-even duel. Secretly, Lei Zhen had engineered months of crises that left Jian slightly below his historic peak, though Liang did not know and still nearly died winning."
+      "death": "Killed by Liang Yue after a day-long near-even duel. Secretly, Lei Zhen had engineered months of crises that left Jian slightly below his historic peak, though Liang did not know and still nearly died winning.",
+      "strength": "Duke-class · historical Top Five apex"
     },
     {
       "name": "Xu Weng",
@@ -1914,7 +1915,8 @@
       "era": "Immediately before Shen Rui",
       "summary": "An evil water-qi ruler who controlled river territories through extortion, engineered floods, and coercion. He represented the corrupted opposite of Rui's protective water philosophy.",
       "connections": "Joined Xu Weng in cornering Rui while Rui protected civilians.",
-      "death": "Rhen intervened in The Night the Fifth Drowned, ended Mo Qian's reign, and left the #5 position vacant. Rui later earned the rank himself after his breakthrough."
+      "death": "Rhen intervened in The Night the Fifth Drowned, ended Mo Qian's reign, and left the #5 position vacant. Rui later earned the rank himself after his breakthrough.",
+      "strength": "Duke-class · historical Top Five"
     },
     {
       "name": "Yeon Hwa",
@@ -1924,7 +1926,8 @@
       "era": "Before Qin Luo's tenure at #6",
       "summary": "An elegant heat-aspected martial prodigy, former World #6, humanitarian, and Han Myeong's lover. Her Crimson Heron Furnace Arts were the refined predecessor to Han's later Ashen Furnace Arts.",
       "connections": "Loved Han Myeong and fought beside him during relief missions and sect conflicts. She was one of the few people capable of calming Han without diminishing him.",
-      "death": "When Han was mortally wounded in the Burning Valley, Yeon Hwa used the forbidden Crimson Furnace Succession to rebuild his shattered meridians with her own cultivated pathways. She died so he could live and continue evacuating the trapped civilians."
+      "death": "When Han was mortally wounded in the Burning Valley, Yeon Hwa used the forbidden Crimson Furnace Succession to rebuild his shattered meridians with her own cultivated pathways. She died so he could live and continue evacuating the trapped civilians.",
+      "strength": "Marquis-class · historical #6"
     },
     {
       "name": "Hwan Gyeom",
@@ -2140,7 +2143,8 @@
       "firstEpisodeTitle": "Two Heartbeats",
       "firstArc": "Arc I — The Quiet Regular",
       "affiliation": "The Three Calamities (Wei Zhen’s disciples)",
-      "affiliationRole": "The Second Pulse — strongest of the three"
+      "affiliationRole": "The Second Pulse — strongest of the three",
+      "strength": "Calamity-class"
     },
     {
       "key": "cao",
@@ -2159,7 +2163,8 @@
       "firstEpisodeTitle": "Seven Debts",
       "firstArc": "Arc I — The Quiet Regular",
       "affiliation": "The Three Calamities (Wei Zhen’s disciples)",
-      "affiliationRole": "The Collector"
+      "affiliationRole": "The Collector",
+      "strength": "Calamity-class"
     },
     {
       "key": "ye",
@@ -2178,7 +2183,8 @@
       "firstEpisodeTitle": "The Empty Scripture",
       "firstArc": "Arc I — The Quiet Regular",
       "affiliation": "The Three Calamities (Wei Zhen’s disciples)",
-      "affiliationRole": "The Empty Scripture"
+      "affiliationRole": "The Empty Scripture",
+      "strength": "Calamity-class"
     },
     {
       "key": "zhao",
@@ -2236,7 +2242,8 @@
       "firstEpisodeTitle": "The Glass Cartographer",
       "firstArc": "Arc II — The Nine Seals",
       "affiliation": "Independent — neutral ally",
-      "affiliationRole": "The Glass Cartographer — qi-geography specialist"
+      "affiliationRole": "The Glass Cartographer — qi-geography specialist",
+      "strength": "Specialist — not formally rated for direct combat"
     },
     {
       "key": "yan",
@@ -2265,7 +2272,8 @@
       "firstEpisodeTitle": "The Patient Who Wasn't Injured",
       "firstArc": "Arc II — The Nine Seals",
       "affiliation": "The Nine Seals",
-      "affiliationRole": "The Red Ledger Physician — biological-Seal custodian"
+      "affiliationRole": "The Red Ledger Physician — biological-Seal custodian",
+      "strength": "Not formally rated — biological-Seal specialist"
     },
     {
       "key": "meizhen",
@@ -2294,7 +2302,8 @@
       "firstEpisodeTitle": "The Red Thread Coroner",
       "firstArc": "Arc II — The Nine Seals",
       "affiliation": "Independent — neutral forensic physician",
-      "affiliationRole": "The Red Thread Coroner"
+      "affiliationRole": "The Red Thread Coroner",
+      "strength": "Not formally rated — forensic physician"
     },
     {
       "key": "yunke",
@@ -2323,7 +2332,8 @@
       "firstEpisodeTitle": "The Second Seal",
       "firstArc": "Arc II — The Nine Seals",
       "affiliation": "The Nine Seals — Third Seal campaign",
-      "affiliationRole": "Strategist — architect of the Third Seal"
+      "affiliationRole": "Strategist — architect of the Third Seal",
+      "strength": "Strategist — not formally rated for direct combat"
     },
     {
       "key": "gaoren",
@@ -2352,7 +2362,8 @@
       "firstEpisodeTitle": "The Red Standard",
       "firstArc": "Arc II — The Nine Seals",
       "affiliation": "The Nine Seals — Third Seal campaign",
-      "affiliationRole": "The Red Standard — formation commander"
+      "affiliationRole": "The Red Standard — formation commander",
+      "strength": "Formation commander — exact cultivation not formally rated"
     },
     {
       "key": "shufen",
@@ -2381,7 +2392,8 @@
       "firstEpisodeTitle": "Army Without Footsteps",
       "firstArc": "Arc II — The Nine Seals",
       "affiliation": "The Nine Seals — Third Seal campaign",
-      "affiliationRole": "The Quiet Banner — assassin commander"
+      "affiliationRole": "The Quiet Banner — assassin commander",
+      "strength": "Assassin commander — exact cultivation not formally rated"
     },
     {
       "key": "baotien",
@@ -2410,7 +2422,8 @@
       "firstEpisodeTitle": "The Iron Quartermaster",
       "firstArc": "Arc II — The Nine Seals",
       "affiliation": "The Nine Seals — Third Seal campaign",
-      "affiliationRole": "The Iron Quartermaster — logistics commander"
+      "affiliationRole": "The Iron Quartermaster — logistics commander",
+      "strength": "Logistics specialist — not formally rated for direct combat"
     },
     {
       "key": "meilin",
@@ -2497,7 +2510,8 @@
       "firstEpisodeTitle": "Black Verdict",
       "firstArc": "Arc II — The Nine Seals",
       "affiliation": "Concord custodians — neutral",
-      "affiliationRole": "Keeper of the First Snow"
+      "affiliationRole": "Keeper of the First Snow",
+      "strength": "Custodian — exact cultivation not formally rated"
     },
     {
       "key": "huo",
@@ -2584,7 +2598,8 @@
       "firstEpisodeTitle": "The Tomb Warden",
       "firstArc": "Arc III — The Old War Awakens",
       "affiliation": "Independent — Season 9 antagonist",
-      "affiliationRole": "The Tomb Warden — sealer of sleepers"
+      "affiliationRole": "The Tomb Warden — sealer of sleepers",
+      "strength": "Sealing specialist — exact cultivation not formally rated"
     },
     {
       "key": "haejin",
@@ -2642,7 +2657,8 @@
       "firstEpisodeTitle": "The Lantern Eater",
       "firstArc": "Arc III — The Old War Awakens",
       "affiliation": "The Awakening Campaign",
-      "affiliationRole": "The Lantern Eater — assassin"
+      "affiliationRole": "The Lantern Eater — assassin",
+      "strength": "Assassin — exact cultivation not formally rated"
     },
     {
       "key": "daemun",
@@ -2671,7 +2687,8 @@
       "firstEpisodeTitle": "Pale Orchid, Red Snow",
       "firstArc": "Arc III — The Old War Awakens",
       "affiliation": "The Awakening Campaign",
-      "affiliationRole": "The Masked Archivist — campaign organizer"
+      "affiliationRole": "The Masked Archivist — campaign organizer",
+      "strength": "Campaign organizer — exact cultivation not formally rated"
     },
     {
       "key": "baek",
@@ -2700,7 +2717,8 @@
       "firstEpisodeTitle": "The Bell of Empty Crowns",
       "firstArc": "Arc III — The Old War Awakens",
       "affiliation": "Independent — Season 11 antagonist",
-      "affiliationRole": "The Bell of Empty Crowns — sect leader"
+      "affiliationRole": "The Bell of Empty Crowns — sect leader",
+      "strength": "Sect leader — exact cultivation not formally rated"
     },
     {
       "key": "gong",
@@ -2729,7 +2747,8 @@
       "firstEpisodeTitle": "The Man Who Never Fought",
       "firstArc": "Arc III — The Old War Awakens",
       "affiliation": "Independent — old-era strategist",
-      "affiliationRole": "The Pale Regent"
+      "affiliationRole": "The Pale Regent",
+      "strength": "Strategist — exact cultivation not formally rated"
     },
     {
       "key": "mo",
@@ -2903,7 +2922,8 @@
       "firstEpisodeTitle": "The Red Loom",
       "firstArc": "Arc V — The Black Sun Saga",
       "affiliation": "The Black Sun",
-      "affiliationRole": "The Red Loom Strategist"
+      "affiliationRole": "The Red Loom Strategist",
+      "strength": "Strategist — exact cultivation not formally rated"
     },
     {
       "key": "qiu",
@@ -2951,7 +2971,8 @@
       "firstEpisodeTitle": "Black Sun General",
       "firstArc": "Arc V — The Black Sun Saga",
       "affiliation": "The Black Sun",
-      "affiliationRole": "The Ash-Marked General — field commander"
+      "affiliationRole": "The Ash-Marked General — field commander",
+      "strength": "Field commander — exact cultivation not formally rated"
     },
     {
       "key": "mo_qingzhao",
@@ -3182,7 +3203,8 @@
       "firstEpisodeTitle": "The Red God",
       "firstArc": "Arc VIII Part I — The Six Crowns: Western Dark",
       "affiliation": "The Six Crowns",
-      "affiliationRole": "Crown III — The Red God"
+      "affiliationRole": "Crown III — The Red God",
+      "strength": "Crown III combatant — exact cultivation not formally rated"
     },
     {
       "key": "ilyra_serath",
@@ -3572,6 +3594,162 @@
       ],
       "affiliation": "Dravaryn Crimson Host — Isgard",
       "affiliationRole": "Coalition war architect — senior war authority above Raska"
+    },
+    {
+      "key": "ren",
+      "name": "Ren Qiao",
+      "strength": "Non-combatant physician",
+      "subtitle": "Yuecheng physician and innkeeper",
+      "affiliation": "Yuecheng — independent",
+      "affiliationRole": "City physician and innkeeper",
+      "details": "A Yuecheng physician whose hands are permanently stained with herbal ink. She runs the inn where Sera and Rhen first stay in the moonless city and explains that its people have gone years without a moon or restful sleep.",
+      "firstSeason": 13,
+      "firstEpisode": 1,
+      "firstEpisodeTitle": "The City Without a Moon",
+      "firstArc": "The City Without a Moon"
+    },
+    {
+      "key": "miri",
+      "name": "Jae Miri",
+      "strength": "Mid Marquis",
+      "subtitle": "Unranked mid-Marquis weapon specialist",
+      "affiliation": "Independent",
+      "affiliationRole": "Weapon specialist / Arin’s Season 23 test opponent",
+      "details": "An unranked mid-Marquis specialist whose segmented staff changes between short staff, spear and linked blades through internal tension. She tests Arin Vale in the temple courtyard and forces Arin to adapt to changing weapon geometry before surrendering cleanly.",
+      "firstSeason": 23,
+      "firstEpisode": 6,
+      "firstEpisodeTitle": "Arin’s Lesson",
+      "firstArc": "Rank Transition"
+    },
+    {
+      "key": "mareth",
+      "name": "Mareth Duskvein",
+      "strength": "Peak Sovereign, approaching Paragon",
+      "subtitle": "Keeper of the Last Pulse · Head of Duskvein",
+      "affiliation": "Duskvein Guild — Isgard",
+      "affiliationRole": "Guild head / Keeper of the Last Pulse",
+      "details": "Duskvein’s austere leader and the primary antagonist of the Bannerfall crisis. His basin lattice reaches Peak Sovereign pressure approaching Paragon by borrowing force from prepared poison anchors and dependent bodies; it resembles a Dominion from outside but is not one.",
+      "firstSeason": 80,
+      "firstEpisode": 2,
+      "firstEpisodeTitle": "Duskvein Brings Five Living Trophies",
+      "firstArc": "Where the Black Wick Leads"
+    },
+    {
+      "key": "garran",
+      "name": "Garran Duskvein",
+      "strength": "High Sovereign",
+      "subtitle": "The Iron Leech · Duskvein First Executioner",
+      "affiliation": "Duskvein Guild — Isgard",
+      "affiliationRole": "First Executioner",
+      "details": "Duskvein’s High Sovereign execution chief. Garran uses iron-ring circulation systems linked to the prison lattice and is responsible for breaking prestigious captives for public display, concentrating his cruelty on Ilyra when her dual meridians resist the poison network.",
+      "firstSeason": 77,
+      "firstEpisode": 4,
+      "firstEpisodeTitle": "Ilyra Holds Two Poisons",
+      "firstArc": "Where the Black Wick Leads"
+    },
+    {
+      "key": "eira",
+      "name": "Eira Eirholt",
+      "strength": "Established Sovereign",
+      "subtitle": "Winter Physician · defensive Sovereign and mass stabilizer",
+      "affiliation": "Eirholt — Winter Physicians, Isgard",
+      "affiliationRole": "Senior physician / Winter Physician",
+      "details": "A senior Eirholt physician assessed by Quiet Hands at Established Sovereign. Her cultivation is built around defense, survival and mass stabilization rather than dueling. She turns Eirholt against Duskvein’s Rank Four claim after proving its treatment records and medical neutrality were falsified.",
+      "firstSeason": 80,
+      "firstEpisode": 4,
+      "firstEpisodeTitle": "Eirholt’s Physician Counts the Lies",
+      "firstArc": "Where the Black Wick Leads"
+    },
+    {
+      "key": "tor_veyrhald",
+      "name": "Tor Veyrhald",
+      "strength": "High Sovereign",
+      "subtitle": "Iron Witness · Veyrhald envoy and Ledger authority",
+      "affiliation": "Veyrhald — Unbroken Banner, Isgard",
+      "affiliationRole": "Iron Witness / senior envoy",
+      "details": "An older High Sovereign spear practitioner sent by first-ranked Veyrhald. Tor is explicitly not among Veyrhald’s strongest three; he carries Gate Seal and Ledger authority, protects lawful surrender and insists that evidence survive scrutiny before continental force is committed.",
+      "firstSeason": 80,
+      "firstEpisode": 3,
+      "firstEpisodeTitle": "The First Banner Does Not Applaud",
+      "firstArc": "Where the Black Wick Leads"
+    },
+    {
+      "key": "brynja",
+      "name": "Brynja Kharvorn",
+      "strength": "Established Sovereign",
+      "subtitle": "Kharvorn Sovereign commander · Iron Fjord",
+      "affiliation": "Kharvorn — Iron Fjord, Isgard",
+      "affiliationRole": "Sovereign commander / shore-engine commander",
+      "details": "Commander of Kharvorn’s Iron Fjord forces, specializing in amphibious heavy infantry, landing denial and iron-hulled shore engines. During the Rimewall encirclement she controls the shore engines and anchors used to trap Shen Rui’s retreat routes.",
+      "firstSeason": 90,
+      "firstEpisode": 8,
+      "firstEpisodeTitle": "Six Sovereigns Close the Water",
+      "firstArc": "When Wuyue Marches North"
+    },
+    {
+      "key": "oskar",
+      "name": "Oskar Solvane",
+      "strength": "Established Sovereign",
+      "subtitle": "Solvane Sovereign commander · Winterglass Lances",
+      "affiliation": "Solvane — Winterglass Lances, Isgard",
+      "affiliationRole": "Sovereign commander",
+      "details": "Commander of Solvane’s Winterglass Lances, a nine-thousand-strong long-spear cavalry force built to punish retreat. At Rimewall he seals Shen Rui’s northern withdrawal routes and repeatedly attacks the exact supply roads Rui had maintained for the hospital fleet.",
+      "firstSeason": 90,
+      "firstEpisode": 8,
+      "firstEpisodeTitle": "Six Sovereigns Close the Water",
+      "firstArc": "When Wuyue Marches North"
+    },
+    {
+      "key": "astrid",
+      "name": "Astrid Vardrenn",
+      "strength": "Mid Sovereign",
+      "subtitle": "Vardrenn Sovereign commander · Black Pine Wardens",
+      "affiliation": "Vardrenn — Black Pine Wardens, Isgard",
+      "affiliationRole": "Sovereign commander",
+      "details": "Commander of Vardrenn’s Black Pine Wardens, an eight-thousand-strong force specializing in forest scouts, longbows, hidden roads and defensive ambush corridors. She holds fire when Sera exposes both armies and moves civilians through the contested corridor in plain sight.",
+      "firstSeason": 91,
+      "firstEpisode": 2,
+      "firstEpisodeTitle": "Veiled Moon Cannot Hide an Army",
+      "firstArc": "When Wuyue Marches North"
+    },
+    {
+      "key": "jorek",
+      "name": "Jorek Norrvek",
+      "strength": "Established Sovereign",
+      "subtitle": "Norrvek Sovereign commander · Chainforge Assembly",
+      "affiliation": "Norrvek — Chainforge Assembly, Isgard",
+      "affiliationRole": "Sovereign commander",
+      "details": "Commander of Norrvek’s eight-thousand-strong Chainforge Assembly. His institution links siege chains, mobile walls, bridge capture and anti-fortification engineering into one command rhythm, making Norrvek structurally vital even when stronger Sovereigns exist elsewhere in the coalition.",
+      "firstSeason": 92,
+      "firstEpisode": 2,
+      "firstEpisodeTitle": "Twenty Percent Does Not March Like an Army",
+      "firstArc": "When Wuyue Marches North"
+    },
+    {
+      "key": "freya",
+      "name": "Freya Ysmark",
+      "strength": "Mid Sovereign",
+      "subtitle": "Ysmark Sovereign commander · Pale Wolf Banner",
+      "affiliation": "Ysmark — Pale Wolf Banner, Isgard",
+      "affiliationRole": "Sovereign commander",
+      "details": "Commander of Ysmark’s seven-thousand-strong Pale Wolf Banner, specializing in pack pursuit, broken-ground skirmishing and recovery of isolated units. She suspends Pale Wolf recovery operations and demands an internal hearing after released prisoners prove that Duskvein falsified the deaths and routes of Ysmark companies.",
+      "firstSeason": 90,
+      "firstEpisode": 2,
+      "firstEpisodeTitle": "Jin Cannot Spend Mo’s Citizens",
+      "firstArc": "When Wuyue Marches North"
+    },
+    {
+      "key": "kellan",
+      "name": "Kellan Haldren",
+      "strength": "Established Sovereign",
+      "subtitle": "Haldren Sovereign commander · Ash-Horn Spears",
+      "affiliation": "Haldren — Ash-Horn Spears, Isgard",
+      "affiliationRole": "Sovereign commander",
+      "details": "Commander of Haldren’s six-thousand Ash-Horn Spears, known for dense spear blocks, reserve reinforcement and disciplined attritional defense. Bound by an old oath to Veyrhald’s lawful continental defense, Kellan refuses Maedra’s unsigned Hearth order and withdraws rather than turn civilians into a military roadblock.",
+      "firstSeason": 90,
+      "firstEpisode": 1,
+      "firstEpisodeTitle": "Five Pairs, One Exit",
+      "firstArc": "When Wuyue Marches North"
     }
   ],
   "season1": [
@@ -4260,7 +4438,9 @@
       {
         "name": "Luo Wen",
         "role": "#10",
-        "description": "Joins the coordinated Marquis counter-operation."
+        "description": "Joins the coordinated Marquis counter-operation.",
+        "affiliation": "Wuyue — Global Top Ten",
+        "affiliationRole": "Global Top Ten swordsman"
       },
       {
         "name": "Yan Luochen",
@@ -4550,7 +4730,9 @@
       {
         "name": "Luo Wen",
         "role": "#9 · Laughing Undertaker",
-        "description": "Moves up in the reshuffle."
+        "description": "Moves up in the reshuffle.",
+        "affiliation": "Wuyue — Global Top Ten",
+        "affiliationRole": "Global Top Ten swordsman"
       }
     ],
     "25": [
@@ -4604,7 +4786,9 @@
       {
         "name": "Luo Wen",
         "role": "#9",
-        "description": "Medicine and disabling strikes."
+        "description": "Medicine and disabling strikes.",
+        "affiliation": "Wuyue — Global Top Ten",
+        "affiliationRole": "Global Top Ten swordsman"
       },
       {
         "name": "Yun Shizhen",
@@ -4646,7 +4830,9 @@
       {
         "name": "Luo Wen",
         "role": "#9",
-        "description": "Medical and physical support."
+        "description": "Medical and physical support.",
+        "affiliation": "Wuyue — Global Top Ten",
+        "affiliationRole": "Global Top Ten swordsman"
       },
       {
         "name": "Yun Shizhen",
@@ -4700,7 +4886,9 @@
       {
         "name": "Luo Wen",
         "role": "#9",
-        "description": "Uses Funeral Meridian: Eighty-One Silent Nails."
+        "description": "Uses Funeral Meridian: Eighty-One Silent Nails.",
+        "affiliation": "Wuyue — Global Top Ten",
+        "affiliationRole": "Global Top Ten swordsman"
       },
       {
         "name": "Yun Shizhen",

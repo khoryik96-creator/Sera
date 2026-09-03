@@ -50,6 +50,8 @@ export interface ArcFigure {
   name: string;
   subtitle: string;
   details: string;
+  /** Explicit combat/cultivation assessment; may state that a specialist is not formally rated. */
+  strength?: string;
   /** Primary faction / order / coalition the figure belongs to. */
   affiliation?: string;
   /** Internal standing within that affiliation (rank, seat or command role). */
@@ -65,6 +67,8 @@ export interface ArcFigure {
 export interface Former {
   name: string;
   rank: string;
+  /** Historical combat/cultivation assessment in the scale used by that era. */
+  strength?: string;
   status: string;
   title: string;
   era: string;
@@ -110,6 +114,9 @@ export interface SeasonCastEntry {
   name: string;
   role: string;
   description: string;
+  strength?: string;
+  affiliation?: string;
+  affiliationRole?: string;
 }
 
 interface CoreFields {
