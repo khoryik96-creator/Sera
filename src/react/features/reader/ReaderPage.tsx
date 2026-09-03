@@ -9,6 +9,7 @@ import { getChapterPosition, saveChapterPosition } from '../../../readerPosition
 import type { ChapterPosition } from '../../../readerPositions';
 import type { Episode } from '../../../types';
 import { RankBadge } from '../../components/Shared';
+import { cleanLoreRole, inferLoreAffiliation, loreStrengthFrom } from '../../shared/loreMetadata';
 import { cleanCharacterName, rankLabel, rankStatus } from '../../shared/rankState';
 import '../../styles/contextual-lore.css';
 import '../../styles/passages.css';
@@ -275,11 +276,18 @@ export function ReaderPage({ season, episode, onBack, onOpenChapter }: ReaderPag
   const loreName = loreProfile ? cleanCharacterName(loreProfile.name) : loreArcFigure ? cleanCharacterName(loreArcFigure.name) : loreEntry?.displayName || '';
   const loreRank = loreName ? rankLabel(loreName, season) : '';
   const loreStatus = loreName ? rankStatus(loreName, season) : 'current';
-  const loreStrengthSource = [loreArcFigure?.subtitle, loreArcFigure?.details, loreSeasonCast?.description, loreFormer?.summary].filter(Boolean).join(' ');
-  const loreStrengthMatch = loreStrengthSource.match(/\b(?:(?:Entry|Stable|Low|Mid|High|Peak)\s+(?:Paragon|Sovereign|Duke|Marquis|Grandmaster|Master)|Paragon|Sovereign|Duke|Marquis|Grandmaster|High Master|Master|Overlord|Ancient King|Calamity)\b/i);
-  const loreStrength = loreProfile?.cultivation?.trim() || loreStrengthMatch?.[0] || 'Not recorded';
-  const loreAffiliation = loreProfile?.affiliation?.trim() || loreArcFigure?.affiliation?.trim() || (loreFormer ? 'Historical ranking archive' : 'Not recorded');
-  const loreRole = loreProfile?.affiliationRole?.trim() || loreArcFigure?.affiliationRole?.trim() || loreSeasonCast?.role?.trim() || loreFormer?.title?.trim() || 'No formal role recorded';
+  const loreStrength = loreProfile?.cultivation?.trim()
+    || loreStrengthFrom([loreArcFigure?.subtitle, loreArcFigure?.affiliationRole, loreSeasonCast?.role, loreArcFigure?.details, loreSeasonCast?.description, loreFormer?.summary])
+    || 'Not recorded';
+  const loreAffiliation = loreProfile?.affiliation?.trim()
+    || loreArcFigure?.affiliation?.trim()
+    || inferLoreAffiliation(loreName)
+    || (loreFormer ? 'Historical ranking archive' : 'Not recorded');
+  const loreRole = loreProfile?.affiliationRole?.trim()
+    || loreArcFigure?.affiliationRole?.trim()
+    || cleanLoreRole(loreSeasonCast?.role)
+    || loreFormer?.title?.trim()
+    || 'No formal role recorded';
   const loreSummary = loreProfile?.subtitle || loreArcFigure?.subtitle || loreSeasonCast?.description || loreFormer?.summary || 'Referenced in this chapter. No expanded archive entry is currently recorded.';
   const showResumePosition = Boolean(resumePosition && resumePosition.progress >= 0.05 && resumePosition.progress <= 0.96 && !resumeDismissed);
 
@@ -351,8 +359,12 @@ export function ReaderPage({ season, episode, onBack, onOpenChapter }: ReaderPag
   }
 
   function openLoreProfile(): void {
-    if (!loreEntry || !loreProfile) return;
-    window.location.hash = `characters/${loreEntry.key}`;
+    if (!loreEntry) return;
+    if (loreProfile) {
+      window.location.hash = `characters/${loreEntry.key}`;
+      return;
+    }
+    window.location.hash = loreFormer ? 'former' : 'villains';
   }
 
   const surfaceStyle: ReaderSurfaceStyle = {
@@ -424,7 +436,7 @@ export function ReaderPage({ season, episode, onBack, onOpenChapter }: ReaderPag
                 <p>{loreSummary}</p>
               </div>
               <div className="reader-lore-context__actions">
-                {loreProfile ? <button onClick={openLoreProfile} type="button">Open profile →</button> : null}
+                {loreProfile || loreArcFigure || loreSeasonCast || loreFormer ? <button onClick={openLoreProfile} type="button">{loreProfile ? 'Open profile →' : loreFormer ? 'Open former archive →' : 'Open archive →'}</button> : null}
                 <button className="reader-lore-context__close" onClick={() => setLoreKey(null)} type="button">Close</button>
               </div>
             </aside>
