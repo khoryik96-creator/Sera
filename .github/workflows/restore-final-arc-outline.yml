@@ -1,0 +1,35 @@
+name: Restore final arc outline
+
+on:
+  push:
+    paths:
+      - '.github/workflows/restore-final-arc-outline.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  restore:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout branch
+        uses: actions/checkout@v7
+        with:
+          ref: story/next-arc-outline
+          fetch-depth: 0
+
+      - name: Restore validated outline from pre-placeholder commit
+        run: |
+          git show 4ce8c760ef7f2e8a44ea599b4454207a093b1e4d:docs/FINAL_ARC_OUTLINE.md > docs/FINAL_ARC_OUTLINE.md
+          test "$(grep -c '^### Chapter ' docs/FINAL_ARC_OUTLINE.md)" -eq 200
+          grep -q '### Chapter 500 — The Quiet Regular' docs/FINAL_ARC_OUTLINE.md
+          git diff --check
+
+      - name: Commit restoration and remove helper
+        run: |
+          rm .github/workflows/restore-final-arc-outline.yml
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/FINAL_ARC_OUTLINE.md .github/workflows/restore-final-arc-outline.yml
+          git commit -m "Restore validated two-part final arc outline"
+          git push origin HEAD:story/next-arc-outline
