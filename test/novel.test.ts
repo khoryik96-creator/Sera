@@ -51,6 +51,33 @@ describe('renderNovel', () => {
     expect(out).toContain('Frozen Bloom');
   });
 
+  it('gold-styles a tier callout even when the line is wrapped in **bold**', () => {
+    const out = renderNovel('**SUPREME ART — Petals in Stasis.**');
+    expect(out).toContain('novel-skill-supreme');
+    expect(out).toContain('Petals in Stasis.');
+    // The bold markers must be consumed, not left as a plain white bold line.
+    expect(out).not.toContain('**');
+    expect(out).not.toContain('<strong>SUPREME ART');
+  });
+
+  it('gold-styles SUPREME DOMAIN callouts (bolded or not)', () => {
+    const plain = renderNovel('SUPREME DOMAIN — Orchid Dominion');
+    expect(plain).toContain('novel-skill-supreme');
+    expect(plain).toContain('Orchid Dominion');
+    const bold = renderNovel('**SUPREME DOMAIN — Orchid Dominion**');
+    expect(bold).toContain('novel-skill-supreme');
+    expect(bold).not.toContain('**');
+  });
+
+  it('gold-styles a callout hand-authored as a literal <strong> in the data', () => {
+    // A couple of season bodies hardcode the bold tag with an inline sigil; the
+    // renderer must still resolve these to the gold skill callout, not white bold.
+    const out = renderNovel('<strong>✦ SUPREME ART — One Petal Before Dawn</strong>');
+    // The gold callout must wrap the whole tier line; nothing left as bare bold.
+    expect(out).toContain('<span class="novel-skill-supreme"><strong>✦ SUPREME ART — One Petal Before Dawn</strong></span>');
+    expect(out.replace(/<span class="novel-skill[\s\S]*?<\/span>/g, '')).not.toContain('SUPREME ART');
+  });
+
   it('renders **bold** markdown as real bold without leaving asterisks', () => {
     const out = renderNovel('His evolved **Boundless Horizon** held the line.');
     expect(out).toContain('<strong>');
