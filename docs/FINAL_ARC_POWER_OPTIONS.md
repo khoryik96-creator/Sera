@@ -25,7 +25,7 @@ Those two years are a rebuilding era rather than an empty time skip:
 |---|---|---|
 | **Rhen** | Beyond ranking / immeasurable | Existing roster evolves through dramatically denser qi. |
 | **Sera** | **Peak Paragon** | **Orchid Dominion** + **Ultimate — Ten Thousand Blooms**. |
-| **Tae Muyeon** | **High Paragon** | **Horizon Cage Dominion**. |
+| **Tae Muyeon** | **High Paragon** | **Iron Chain Dominion**. |
 | **Huo Wujin** | **High Paragon** | **Endless Dominion**. |
 | **Qin Luo** | **High Paragon** | **Echo Dominion**. |
 | **Kael Veyran** | **Newly ascended Paragon** | **Worldweight Dominion**. |
@@ -91,21 +91,26 @@ Rhen's Ultimate retains its existing approved reach unless later revised.
 
 All four Domains remain grounded in the existing rule: a Domain intensifies and unifies the cultivator's established martial identity. It is not western magic, mind control, teleportation, or unrelated reality rewriting.
 
-### 3.1 Tae Muyeon — **Horizon Cage Dominion**
+### 3.1 Tae Muyeon — **Iron Chain Dominion**
 
-**Core identity:** Tae's iron-horizon geometry turns an enemy's own committed movement into the material of an iron-qi prison.
+**Core identity:** every meaningful hostile action inside Tae's Domain forges additional iron-qi chains onto the person who performed it.
 
-- Every committed hostile movement, attack trajectory, evasive route or forceful repositioning lays another compressed iron line around that enemy.
-- Those lines join into a three-dimensional **Horizon Cage** built from the opponent's own routes through Tae's field.
-- The enemy is not simply frozen in place. They may attempt to break the prison with physical force or internal energy.
-- Breaking out is intentionally expensive: each rupture consumes qi, damages endurance and forces the opponent to overcome iron pressure created from their own prior commitments.
-- **Every successful breakout causes the prison to rebuild denser and smaller.** The next cage gives the enemy less room to generate clean movement and requires more power to shatter.
-- The Domain therefore wears opponents down through repeated escape attempts rather than winning through one absolute wall.
-- As the cage contracts, compressed iron pressure begins transferring through the opponent's limbs, stance and internal circulation. Prolonged resistance eventually causes **meridian bruising, disruption and damage**.
-- This meridian damage is a physical consequence of repeated compression and forced breakouts, not a Liang-style circulation technique and not Qin-style resonance manipulation.
-- Tae can maintain several cages, but stronger opponents and larger numbers increase his qi burden substantially.
+- Movement creates chains.
+- Attacking creates chains.
+- Dodging, rushing, forceful repositioning or other committed combat actions create chains.
+- Heavy internal-energy releases create thicker and heavier chains than small movements because more force has been committed.
+- The chains bind to the opponent's body and martial circulation as compressed iron qi; they are not summoned metal and they are not magical restraints.
+- One or two actions are manageable. The danger is accumulation.
+- The longer an enemy fights, the more chains are forged around them.
+- Every additional chain increases physical weight, drag and resistance, making later movement and technique execution more exhausting.
+- Strong opponents may break individual chains with force or qi, but breaking them also costs energy and does not erase the Domain's rule: the next action simply forges more chains.
+- Repeated attempts to escape therefore become a contest of endurance that Tae is specifically built to win.
+- As the total chain burden rises, the enemy's stance slows, limbs become harder to accelerate, breathing and circulation become more expensive, and techniques require progressively more qi to complete.
+- At extreme accumulation, the compressed iron burden can press through the body strongly enough to bruise or disrupt meridians, but meridian damage is a late-stage consequence of sustained iron pressure rather than the Domain's primary function.
+- Standing still or acting with extreme restraint slows the rate of accumulation, but gives Tae control of the pace and initiative.
+- Tae can maintain chains on multiple enemies, though the total number and strength of targets raises his own qi burden.
 
-**Combat identity:** the more desperately an enemy tries to escape Tae, the more exhausted, confined and internally damaged they become.
+**Combat identity:** every action the enemy takes makes the next action heavier. Fighting harder does not free them; it gradually chains them into exhaustion.
 
 ---
 
@@ -235,7 +240,7 @@ Rules:
 ## 5. Final Locked Selection Sheet
 
 - **Sera — Ultimate:** **Ten Thousand Blooms**
-- **Tae Muyeon — Domain:** **Horizon Cage Dominion**
+- **Tae Muyeon — Domain:** **Iron Chain Dominion**
 - **Huo Wujin — Domain:** **Endless Dominion**
 - **Qin Luo — Domain:** **Echo Dominion**
 - **Kael Veyran — Domain:** **Worldweight Dominion**

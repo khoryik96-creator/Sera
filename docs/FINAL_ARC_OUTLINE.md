@@ -26,7 +26,7 @@ Because of how overwhelmingly strong Isgard proved to be, Rhen insists that **Fr
 |---|---|
 | **Rhen** | Beyond ranking / immeasurable; his existing roster has evolved again through far denser qi. |
 | **Sera** | **Peak Paragon** · retains **Orchid Dominion** · possesses **Ultimate — Ten Thousand Blooms**. |
-| **Tae Muyeon** | **High Paragon** · **Horizon Cage Dominion**. |
+| **Tae Muyeon** | **High Paragon** · **Iron Chain Dominion**. |
 | **Huo Wujin** | **High Paragon** · **Endless Dominion**. |
 | **Qin Luo** | **High Paragon** · **Echo Dominion**. |
 | **Kael Veyran** | **Newly ascended Paragon** · **Worldweight Dominion**. |
@@ -64,7 +64,7 @@ Rhen gains no mandatory new named technique. His existing arts become far more d
 The final-arc power selections are no longer approval gates:
 
 - **Sera — Ultimate: Ten Thousand Blooms.** While **Orchid Dominion** is active, all valid Counter-Blooms already earned may bloom simultaneously. During the Ultimate interval, new hostile offensive commitments generate their Counter-Blooms immediately and Sera may choose a different established Orchid response from each opening. The Ultimate consumes a major portion of Sera's reserve but **does not collapse Orchid Dominion**; the Domain remains active afterward.
-- **Tae Muyeon — Horizon Cage Dominion.** Hostile committed movement and attack trajectories forge an iron-qi prison from the enemy's own routes. Enemies may break out, but every escape consumes power and causes the cage to rebuild **denser and smaller**. Repeated breakouts wear down body and qi until the contracting iron pressure begins bruising, disrupting and eventually damaging meridians. The meridian damage is a consequence of physical compression, not circulation magic.
+- **Tae Muyeon — Iron Chain Dominion.** Hostile committed movement and attack trajectories forge an iron-qi prison from the enemy's own routes. Enemies may break out, but every escape consumes power and causes the cage to rebuild **denser and smaller**. Repeated breakouts wear down body and qi until the contracting iron pressure begins bruising, disrupting and eventually damaging meridians. The meridian damage is a consequence of physical compression, not circulation magic.
 - **Huo Wujin — Endless Dominion.** The Nine Meridian Wheels continuously rotate battlefield rhythm so hostile intent and execution separate: left may resolve right, retreat may become advance, an attack may collapse into defence, or a defence may resolve as an unintended offensive motion. This is **not mind control**; the target's intent remains theirs while physical/cultivation response routes are forced out of alignment. If an enemy successfully corrects one Wheel-induced mismatch, repeating that correction becomes progressively worse as another Wheel overlaps the next exchange.
 - **Qin Luo — Echo Dominion.** Overlapping resonance renders hostile perception functionally blind and destroys stable directional awareness. Every hostile committed action also generates an **equivalent-force echo wave** redirected at its source: arrows, sword swings and internal-force releases create resonance counterparts of comparable committed force. Qin copies **force/resonance, not the technique, weapon property or special effect**.
 - **Kael Veyran — Worldweight Dominion.** Force committed through connected earth and sand creates corresponding physical burden. The harder an enemy strikes, charges or anchors, the more pressure Kael can redistribute into stance, weapon, armour or terrain. It is mountain-and-sand qi pressure, **not supernatural gravity**.
@@ -220,7 +220,7 @@ Do not solve this tension by casually replacing half the Top Ten list in one cha
 | **Sera** | **Peak Paragon · Orchid Dominion · Ultimate: Ten Thousand Blooms** | Mature Paragon refinement and Ultimate mastery; no new realm required. |
 | **Aldric Veyrhald** | Established Paragon | Alive, dangerous, politically changed but not friendly by default. |
 | **Maedra Dravaryn** | Established Paragon | Alive, dangerous, stripped of prior coalition command but not redeemed. |
-| **Tae Muyeon** | **High Paragon · Horizon Cage Dominion** | Iron-horizon geometry turns hostile movement into a shrinking self-built prison that exhausts escape attempts and eventually damages meridians through compression. |
+| **Tae Muyeon** | **High Paragon · Iron Chain Dominion** | Iron-horizon geometry turns hostile movement into a shrinking self-built prison that exhausts escape attempts and eventually damages meridians through compression. |
 | **Huo Wujin** | **High Paragon · Endless Dominion** | Nine Meridian Wheels first disrupt intent-to-execution alignment, then make repeated solutions progressively fail through overlapping Wheel responses. |
 | **Qin Luo** | **High Paragon · Echo Dominion** | Hostile perception is resonance-blinded while the committed force of hostile actions returns as equivalent echo-wave attacks. Qin remains blind and navigates by his established vibration perception. |
 | **Kael Veyran** | **Newly ascended Paragon · Worldweight Dominion** | First public Five Sovereign to reach Paragon; connected terrain stores and redistributes the physical burden created by hostile commitment. |
@@ -425,7 +425,7 @@ Arin begins rebuilding Silver Horizon around the 611 members still capable of fo
 
 ### Chapter 304 — Three Paragons at One Table
 
-Sera, Rhen, Tae, Huo, Qin and Lu review what two years beneath Frozen Petals Garden changed. Sera is now Peak Paragon; Tae, Huo and Qin are High Paragons; Lu remains stubbornly non-combatant. The scene establishes **Horizon Cage Dominion**, **Endless Dominion** and **Echo Dominion**, and makes clear that Rhen's protection accelerated their foundations without making any two of them fight alike.
+Sera, Rhen, Tae, Huo, Qin and Lu review what two years beneath Frozen Petals Garden changed. Sera is now Peak Paragon; Tae, Huo and Qin are High Paragons; Lu remains stubbornly non-combatant. The scene establishes **Iron Chain Dominion**, **Endless Dominion** and **Echo Dominion**, and makes clear that Rhen's protection accelerated their foundations without making any two of them fight alike.
 
 ### Chapter 305 — The Black Strip Returns on a Dead Courier
 
@@ -1437,7 +1437,7 @@ The final chapter returns completely to the teahouse. No army arrives. No hidden
 
 ## 34. Final-Arc Approval Gates Before Finished Prose
 
-The following should be decided before the relevant material becomes finished reader canon. **The two-year cultivation baseline, Sera's Ten Thousand Blooms, Tae's Horizon Cage Dominion, Huo's Endless Dominion, Qin's Echo Dominion and Kael's Worldweight Dominion are already locked and are not approval gates.**
+The following should be decided before the relevant material becomes finished reader canon. **The two-year cultivation baseline, Sera's Ten Thousand Blooms, Tae's Iron Chain Dominion, Huo's Endless Dominion, Qin's Echo Dominion and Kael's Worldweight Dominion are already locked and are not approval gates.**
 
 1. **Structure — LOCKED:** Final arc = two parts, 10 seasons each, 10 chapters per season, 200 chapters total.
 2. **Range — LOCKED by current numbering plan:** Part I S95–104 / Ch301–400; Part II S105–114 / Ch401–500.
@@ -1483,7 +1483,7 @@ If the working route is approved, Chapter 500 should leave the world with:
 - Sera a **Peak Paragon** who finishes with **Orchid Dominion** and **Ten Thousand Blooms**, without needing a second Domain or a realm above Paragon;
 - Sera still without a public numerical rank by choice;
 - Rhen still beyond ranking, primarily healer and husband, without requiring a new technique;
-- Tae, Huo and Qin still distinct **High Paragons** whose **Horizon Cage Dominion**, **Endless Dominion** and **Echo Dominion** express different martial identities and whose final importance comes from how they use that power and authority;
+- Tae, Huo and Qin still distinct **High Paragons** whose **Iron Chain Dominion**, **Endless Dominion** and **Echo Dominion** express different martial identities and whose final importance comes from how they use that power and authority;
 - Lu still noncombatant and central to the final victory;
 - the Top Ten still meaningful through the institutions and people they lead;
 - Kael, Liang, Jin, Lei and Rui having final contributions that grow from their locked final-arc opening strengths — including Kael's **Worldweight Dominion** — rather than surprise mid-finale promotions;
