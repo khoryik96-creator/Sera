@@ -18,7 +18,10 @@
       "motif": "Frozen sakura petals, winter, moonlight, extreme qi refinement, and an ageless garden where no petals fall.",
       "relationship": "Rhen supports Sera’s covert leadership of The Quaint Teahouse as its healer rather than its commander. Their bond deepened enough that Frozen Petals Garden protects Sera regardless of distance — until she asks him to withdraw it so she can protect herself through her own martial system. He respects her decision and keeps the ability to protect her again, unused without her agreement.",
       "background": "His history spans vanished armies, impossible duels, medical miracles and disasters mistaken for natural events; after the Aethon war that secrecy collapsed and he became a living legend. Across the five-year withdrawal Frozen Petals Garden refined and then reconstructed his meridian foundation into a self-sustaining ageless state, so he no longer ages, while his energy became limitless and his arts reached Supreme. He wants nothing more than a quiet life with Sera, tending the farm beneath the crooked sign.",
-      "legend": "An army vanished as a fighting force in a single night. Frozen petals were found afterward. Nobody agrees whether the man responsible defeated the Top Three or was driven away by them."
+      "legend": "An army vanished as a fighting force in a single night. Frozen petals were found afterward. Nobody agrees whether the man responsible defeated the Top Three or was driven away by them.",
+      "cultivation": "Unranked — beyond measurable classification",
+      "affiliation": "The Quaint Teahouse (Wuyue)",
+      "affiliationRole": "Hidden Petal — healer and physician; holds no command"
     },
     "kael": {
       "name": "#1 - Kael Veyran",
@@ -36,7 +39,10 @@
       "motif": "Shattered earth, black steel, overwhelming weight, the unmoving mountain.",
       "relationship": "Master and father-figure to Arin Vale. He once fought Liang Yue, Jin Seoryu, and Lei Zhen simultaneously at Red Pass to protect her.",
       "background": "He rejected inherited martial dominance and dissolved his own clan rather than rule through fear.",
-      "legend": "The Day One Mountain Faced Three Heavens: none of #2, #3, or #4 passed him while Arin was behind him."
+      "legend": "The Day One Mountain Faced Three Heavens: none of #2, #3, or #4 passed him while Arin was behind him.",
+      "cultivation": "High Sovereign",
+      "affiliation": "Stonecrown Army — Wuyue Compact",
+      "affiliationRole": "Army commander · World #1 — First of the Five Sovereigns"
     },
     "liang": {
       "name": "#2 - Liang Yue",
@@ -55,7 +61,10 @@
       "motif": "Porcelain-white qi, pale fan arcs, bloodless collapse.",
       "relationship": "She later defeats Qin Luo in only thirty-seven exchanges after seeing through his resonance art.",
       "background": "She built peace through control after surviving sect warfare as a child.",
-      "legend": "The White Funeral at Jade Lake: she killed Jian Ruo by the narrowest margin and became World #1."
+      "legend": "The White Funeral at Jade Lake: she killed Jian Ruo by the narrowest margin and became World #1.",
+      "cultivation": "Mid Sovereign",
+      "affiliation": "White Vein — Wuyue Compact",
+      "affiliationRole": "Reserve commander · World #2 — Second of the Five Sovereigns"
     },
     "jin": {
       "name": "#3 - Jin Seoryu",
@@ -73,7 +82,10 @@
       "motif": "Lanterns, branching futures, battlefield geometry.",
       "relationship": "He lost directly to Jian Ruo, then later dismantled the Golden Lion Clan as a dominant power.",
       "background": "His family was destroyed by betrayal, driving his obsession with understanding every variable.",
-      "legend": "The Fall of the Golden Lion: Jian Ruo defeated Jin once; Jin destroyed everything behind Jian Ruo."
+      "legend": "The Fall of the Golden Lion: Jian Ruo defeated Jin once; Jin destroyed everything behind Jian Ruo.",
+      "cultivation": "Early Sovereign",
+      "affiliation": "Thousand Lantern Pavilion — Wuyue Compact",
+      "affiliationRole": "Black March campaign coordinator · World #3 — Third of the Five Sovereigns"
     },
     "lei": {
       "name": "#4 - Lei Zhen",
@@ -92,7 +104,10 @@
       "motif": "Blue-white discharge, delayed thunder, black storm pressure.",
       "relationship": "Jian Ruo once mentored him, then refused to save Lei's family. Lei later engineered months of crises that left Jian Ruo subtly below his historic peak before Liang Yue's fatal duel.",
       "background": "He survived the destruction of his family and turned revenge into a years-long strategic campaign.",
-      "legend": "When Thunder Entered the Mountain: Lei killed the supposedly unkillable Iron Buddha by placing thunder inside his defensive meridians."
+      "legend": "When Thunder Entered the Mountain: Lei killed the supposedly unkillable Iron Buddha by placing thunder inside his defensive meridians.",
+      "cultivation": "Newly Ascended Sovereign",
+      "affiliation": "Stormreach March — Wuyue Compact",
+      "affiliationRole": "March commander · World #4 — Fourth of the Five Sovereigns"
     },
     "rui": {
       "name": "#5 - Shen Rui",
@@ -111,7 +126,10 @@
       "motif": "Deep water, rivers, rain, pressure, stillness, the sea.",
       "relationship": "Before becoming #5, Rui was nearly killed by then-#5 Mo Qian and former #3 Xu Weng while protecting civilians. Rhen saved him and gave him the conceptual breakthrough that later helped Rui become a true Duke. Rui considers himself permanently indebted to Rhen.",
       "background": "His father's flood-saving philosophy became the basis of his martial path. Rhen later taught him that water does not only redirect force—it accumulates it.",
-      "legend": "The Night the Fifth Drowned: Rhen saved Rui, ended Mo Qian's reign, neutralized Xu Weng, and gave Rui the insight that later evolved into Where All Rivers End."
+      "legend": "The Night the Fifth Drowned: Rhen saved Rui, ended Mo Qian's reign, neutralized Xu Weng, and gave Rui the insight that later evolved into Where All Rivers End.",
+      "cultivation": "Newly Ascended Sovereign",
+      "affiliation": "Azure Riverlands Fleet — Wuyue Compact",
+      "affiliationRole": "Fleet and River Army commander · World #5 — Fifth of the Five Sovereigns"
     },
     "qin": {
       "name": "Former #6 - Qin Luo",
@@ -130,7 +148,10 @@
       "motif": "Silence, bells, invisible vibration, humming steel, heartbeats.",
       "relationship": "Arin Vale is his great love and great wound. Qin secretly helped destroy Arin's original sect as a teenager, later rebelled against his own clan, and fell in love with her years afterward.",
       "background": "Qin obeyed his father's order to break Arin's sect's defensive formation, enabling the massacre, though he secretly created the escape that allowed Arin to survive. He later destroyed the Hollow Bell Sect and permanently damaged his hearing.",
-      "legend": "His combat legacy is defined by defeating Sera, nearly upsetting Rui once, then becoming the clearest proof of the enormous Duke–Marquis gulf in his later losses."
+      "legend": "His combat legacy is defined by defeating Sera, nearly upsetting Rui once, then becoming the clearest proof of the enormous Duke–Marquis gulf in his later losses.",
+      "cultivation": "Sovereign (secretly restored) — comparable to Liang Yue",
+      "affiliation": "The Quaint Teahouse (Wuyue)",
+      "affiliationRole": "Second Inner Petal — operational deputy · Former World #6"
     },
     "sera": {
       "name": "Former #6 - Sera",
@@ -151,7 +172,10 @@
       "relationship": "She asks Rhen to stop maintaining Frozen Petals Garden on her — not rejecting his love or protection, but wanting to defend herself through her own system. Withdrawal ends the active barrier and further refinement only; her cultivation, technique mastery and completed agelessness are permanently hers.",
       "background": "Sera escaped the House of Quiet Petals, built the Pale Orchid legend, reached World #7 extraordinarily young, advanced to World #6 after Qin Luo’s semi-retirement, survived the Vaelor calamity, and then retired to build a peaceful life with Rhen. Five years of training and passive refinement carried her past the Duke summit into the Sovereign level and completed her meridian reconstruction, permanently stopping her aging. She now runs the tea house in the open and the covert guild beneath it.",
       "legend": "The Night of Seven Lanterns: seven warlords died inside a fortified estate guarded by more than six hundred armed men while everyone except the intended targets survived.",
-      "details": "Former World #6 and central co-lead. Five years after Second Spring she is Peak Sovereign approaching Paragon and the First Inner Petal of The Quaint Teahouse — its leader and sole authority over lethal force — while remaining publicly retired. Her unified Orchid system has begun functioning as one continuous whole; she has not reached Paragon only because she must still deliberately transition between its expressions."
+      "details": "Former World #6 and central co-lead. Five years after Second Spring she is Peak Sovereign approaching Paragon and the First Inner Petal of The Quaint Teahouse — its leader and sole authority over lethal force — while remaining publicly retired. Her unified Orchid system has begun functioning as one continuous whole; she has not reached Paragon only because she must still deliberately transition between its expressions.",
+      "cultivation": "Peak Sovereign, approaching Paragon",
+      "affiliation": "The Quaint Teahouse (Wuyue)",
+      "affiliationRole": "First Inner Petal — absolute leader, sole lethal authority · Former World #6"
     },
     "han": {
       "name": "Former #8 - Han Myeong",
@@ -170,7 +194,10 @@
       "motif": "Heat haze, ash, furnace qi, a brief crimson-heron shape at extreme output, and the broken spearhead of Yeon Hwa.",
       "relationship": "Yeon Hwa, the former World #6 Crimson Heron, was Han's lover. When Han was mortally wounded in the Burning Valley, she used Crimson Furnace Succession to rebuild his meridians with her own cultivation and died so he could live.",
       "background": "Han grew up amid sect violence and learned to distrust heroic rhetoric. Yeon Hwa taught him that strength is measured by what remains alive after the battle. Her final words transformed his rage into responsibility.",
-      "legend": "The Seventy Thousand Who Walked Out: after Yeon Hwa sacrificed herself, Han spent roughly thirty-six more hours inside the burning valley evacuating tens of thousands, emerging last with her broken spear."
+      "legend": "The Seventy Thousand Who Walked Out: after Yeon Hwa sacrificed herself, Han spent roughly thirty-six more hours inside the burning valley evacuating tens of thousands, emerging last with her broken spear.",
+      "cultivation": "Marquis-class (deceased)",
+      "affiliation": "Wuyue Top Ten (historical)",
+      "affiliationRole": "Former World #8 — one of the former Five Marquises"
     },
     "arin": {
       "name": "#8 - Arin Vale",
@@ -188,7 +215,10 @@
       "motif": "Silver sword lines, still water, moonlit steel.",
       "relationship": "Kael is her master and father-figure. Qin Luo is the man she loved and struggled to forgive after learning he helped destroy her original sect.",
       "background": "Her theft of the Heaven's Ledger triggered the Red Pass confrontation.",
-      "legend": "The Ninth Who Stole Heaven: Arin survived pursuit by forces tied to #2, #3, and #4 and still refused to surrender the evidence."
+      "legend": "The Ninth Who Stole Heaven: Arin survived pursuit by forces tied to #2, #3, and #4 and still refused to surrender the evidence.",
+      "cultivation": "High Duke",
+      "affiliation": "Silver Horizon Sword Sect — Wuyue Compact",
+      "affiliationRole": "Sect leader · World #8 — Third of the Five Dukes"
     },
     "wen": {
       "name": "#9 - Luo Wen",
@@ -207,7 +237,10 @@
       "motif": "Lanterns, breath, pulse, funeral cloth, quiet footsteps, grave earth.",
       "relationship": "He shares an unusual mutual respect with Sera because both possess extreme anatomical precision for opposite purposes. Han eventually respects him after seeing how carefully Wen names and prepares unknown dead. Qin finds Wen's ability to deliberately alter or nearly stop his own pulse deeply disturbing.",
       "background": "As a child Luo survived a massacre by hiding among corpses and instinctively slowing his breathing and pulse. An old battlefield physician later taught him that understanding exactly how a body dies is also how one learns to keep it alive.",
-      "legend": "The Valley of Four Thousand Graves: Luo fought both sides of a four-thousand-person battle, disabling and treating combatants until the valley looked like a massacre. By sunset the bodies began waking. Not one combatant died from the fighting."
+      "legend": "The Valley of Four Thousand Graves: Luo fought both sides of a four-thousand-person battle, disabling and treating combatants until the valley looked like a massacre. By sunset the bodies began waking. Not one combatant died from the fighting.",
+      "cultivation": "Established Duke",
+      "affiliation": "Wuyue Compact",
+      "affiliationRole": "Battlefield physician · World #9 — Fourth of the Five Dukes"
     },
     "mo": {
       "name": "#7 - Mo Qingzhao",
@@ -222,7 +255,10 @@
       "appearance": "Scholar-like, composed, usually carrying a book or stacks of prepared martial paper.",
       "personality": "Observant, dryly funny, shamelessly curious and always taking notes.",
       "reputation": "A new-generation Marquis whose battlefield preparation makes apparently harmless scraps of paper dangerous. Five years later (Beneath the Crooked Sign): Mo Qingzhao is now a High Duke — with Arin Vale, the strongest active member of the Five Dukes beneath Ilyra.",
-      "motif": "Folded paper, inkless threads and pages moving like a storm."
+      "motif": "Folded paper, inkless threads and pages moving like a storm.",
+      "cultivation": "High Duke",
+      "affiliation": "Concord Imperial Court — Wuyue",
+      "affiliationRole": "Regent commanding the Imperial Army · World #7 — Second of the Five Dukes"
     },
     "yun": {
       "name": "#10 - Yun Shizhen",
@@ -237,7 +273,10 @@
       "appearance": "Pale, slight and sickly-looking, usually carrying medicine pouches and needle cases.",
       "personality": "Soft-spoken, polite, curious and alarmingly casual about poison.",
       "reputation": "The weakest-looking member of the Top Ten and one of the worst people in the world to approach carelessly. Five years later (Beneath the Crooked Sign): Yun Shizhen is now an Established Duke among the Five Dukes — a genuine Duke-level specialist who remains below the Five Sovereigns overall.",
-      "motif": "Pale flowers, fine needles and invisible contamination."
+      "motif": "Pale flowers, fine needles and invisible contamination.",
+      "cultivation": "Established Duke",
+      "affiliation": "Wuyue Compact",
+      "affiliationRole": "Poison-defence sovereign · World #10 — Fifth of the Five Dukes"
     },
     "ilyra": {
       "name": "#6 - Ilyra Serath",
@@ -257,7 +296,10 @@
       "motif": "Mirrors, paired circulation, dual meridian systems, reflected force and divided martial bodies.",
       "relationship": "Sera's successor at World #6 and eventual ally. Their relationship evolves from wary respect into an understated transfer of responsibility, culminating in Sera telling Ilyra to take care of the ranked fighters.",
       "background": "Raised within the western Crown order and feared as Crown II, Ilyra ultimately rejects that identity. The decision saves her from Orun's assassination of the surviving Crown court and gives her a second life in the eastern ranking.",
-      "legend": "During the Varesh battle, Ilyra deliberately alternates between two complete meridian systems to corrupt King II's Impact Dominion chain, turning a lifelong burden into the exact disruption the coalition needs."
+      "legend": "During the Varesh battle, Ilyra deliberately alternates between two complete meridian systems to corrupt King II's Impact Dominion chain, turning a lifelong burden into the exact disruption the coalition needs.",
+      "cultivation": "Established Sovereign",
+      "affiliation": "Crownless Host — independent, Wuyue-aligned",
+      "affiliationRole": "Host commander · World #6, leads the Five Dukes · former Crown II"
     },
     "tae": {
       "name": "Tae Muyeon",
@@ -277,7 +319,10 @@
       "motif": "Iron horizon, fixed distance, the step that arrives one measure short.",
       "relationship": "Senior Sepal, third-in-command and one of the two Offensive Generals of The Quaint Teahouse, serving beneath Sera and Qin Luo and beside the second Offensive General, Huo Wujin, with whom he jointly trains The Quiet Hand. He was healed by Rhen after a near-fatal poisoning, though Rhen refuses to extend the Frozen Petals Garden passive to him.",
       "background": "The network found co-#1 Tae close to death from an unknown poison that worsened whenever he used Boundless Horizon. Rhen removed it and healed him but declined to extend his passive field. Tae stayed long enough to understand the organization, joined conditionally during Year Three, and after a sustained probation of recovery, clinic work and training apprentices, Sera formally appointed him Senior Sepal and third-in-command in early Year Four.",
-      "legend": "Kael dominates the battlefield’s centre; Tae decides whether anyone can reach the correct distance at all."
+      "legend": "Kael dominates the battlefield’s centre; Tae decides whether anyone can reach the correct distance at all.",
+      "cultivation": "High Sovereign",
+      "affiliation": "The Quaint Teahouse (Wuyue)",
+      "affiliationRole": "Senior Sepal — third-in-command, Offensive General · public Co-#1 (unranked)"
     },
     "huo": {
       "name": "Huo Wujin",
@@ -298,7 +343,10 @@
       "relationship": "Sepal and the second Offensive General of The Quaint Teahouse, serving beneath Sera and Qin Luo and beside Tae Muyeon, with whom he jointly trains The Quiet Hand. Once Sera approves an offensive deployment he carries battlefield authority equal to Tae’s, but no equivalent administrative seniority, and he does not receive Rhen’s Frozen Petals Garden passive.",
       "background": "The Empty Throne who, during the Heaven Seal crisis, forced World #1 Kael Veyran into a serious fight before Kael adapted to Heaven-Eating Meridian Wheel and Kingdom Without Ground and defeated him cleanly. Through Gu Xian’s forbidden transplant art he had assimilated Jiang Taixuan’s circulation principles into his Nine Meridian Wheels, defeating Jiang in a seventy-eight-minute duel. He did not die: he survived, woke under guard, and — having committed real crimes — joined The Quaint Teahouse conditionally, under custody, during Year Three, the same period as Tae’s recovery and recruitment. Healed within the guild, he carries High Sovereign cultivation but is not extended Rhen’s passive.",
       "details": "Cultivation art: the Nine Meridian Wheels. Recorded techniques include Heaven-Eating Meridian Wheel and Kingdom Without Ground.",
-      "legend": "Kael Veyran on the Empty Throne: “The ranking system was never measuring him.”"
+      "legend": "Kael Veyran on the Empty Throne: “The ranking system was never measuring him.”",
+      "cultivation": "High Sovereign",
+      "affiliation": "The Quaint Teahouse (Wuyue)",
+      "affiliationRole": "Sepal — second Offensive General · The Empty Throne (unranked)"
     }
   },
   "rhenSkills": [
@@ -2071,7 +2119,9 @@
       "firstSeason": 2,
       "firstEpisode": 5,
       "firstEpisodeTitle": "The Man Who Built Monsters",
-      "firstArc": "Arc I — The Quiet Regular"
+      "firstArc": "Arc I — The Quiet Regular",
+      "affiliation": "Independent — rogue cultivation architect",
+      "affiliationRole": "The Hollow Duke · creator of the Three Calamities · Former World #5"
     },
     {
       "key": "ji",
@@ -2088,7 +2138,9 @@
       "firstSeason": 2,
       "firstEpisode": 2,
       "firstEpisodeTitle": "Two Heartbeats",
-      "firstArc": "Arc I — The Quiet Regular"
+      "firstArc": "Arc I — The Quiet Regular",
+      "affiliation": "The Three Calamities (Wei Zhen’s disciples)",
+      "affiliationRole": "The Second Pulse — strongest of the three"
     },
     {
       "key": "cao",
@@ -2105,7 +2157,9 @@
       "firstSeason": 2,
       "firstEpisode": 3,
       "firstEpisodeTitle": "Seven Debts",
-      "firstArc": "Arc I — The Quiet Regular"
+      "firstArc": "Arc I — The Quiet Regular",
+      "affiliation": "The Three Calamities (Wei Zhen’s disciples)",
+      "affiliationRole": "The Collector"
     },
     {
       "key": "ye",
@@ -2122,7 +2176,9 @@
       "firstSeason": 2,
       "firstEpisode": 4,
       "firstEpisodeTitle": "The Empty Scripture",
-      "firstArc": "Arc I — The Quiet Regular"
+      "firstArc": "Arc I — The Quiet Regular",
+      "affiliation": "The Three Calamities (Wei Zhen’s disciples)",
+      "affiliationRole": "The Empty Scripture"
     },
     {
       "key": "zhao",
@@ -2149,7 +2205,9 @@
       "firstSeason": 4,
       "firstEpisode": 4,
       "firstEpisodeTitle": "Lord of Nine Locks",
-      "firstArc": "Arc II — The Nine Seals"
+      "firstArc": "Arc II — The Nine Seals",
+      "affiliation": "The Nine Seals",
+      "affiliationRole": "Lord of Nine Locks — custodian of the First Seal"
     },
     {
       "key": "lin",
@@ -2176,7 +2234,9 @@
       "firstSeason": 4,
       "firstEpisode": 2,
       "firstEpisodeTitle": "The Glass Cartographer",
-      "firstArc": "Arc II — The Nine Seals"
+      "firstArc": "Arc II — The Nine Seals",
+      "affiliation": "Independent — neutral ally",
+      "affiliationRole": "The Glass Cartographer — qi-geography specialist"
     },
     {
       "key": "yan",
@@ -2203,7 +2263,9 @@
       "firstSeason": 5,
       "firstEpisode": 1,
       "firstEpisodeTitle": "The Patient Who Wasn't Injured",
-      "firstArc": "Arc II — The Nine Seals"
+      "firstArc": "Arc II — The Nine Seals",
+      "affiliation": "The Nine Seals",
+      "affiliationRole": "The Red Ledger Physician — biological-Seal custodian"
     },
     {
       "key": "meizhen",
@@ -2230,7 +2292,9 @@
       "firstSeason": 5,
       "firstEpisode": 2,
       "firstEpisodeTitle": "The Red Thread Coroner",
-      "firstArc": "Arc II — The Nine Seals"
+      "firstArc": "Arc II — The Nine Seals",
+      "affiliation": "Independent — neutral forensic physician",
+      "affiliationRole": "The Red Thread Coroner"
     },
     {
       "key": "yunke",
@@ -2257,7 +2321,9 @@
       "firstSeason": 5,
       "firstEpisode": 10,
       "firstEpisodeTitle": "The Second Seal",
-      "firstArc": "Arc II — The Nine Seals"
+      "firstArc": "Arc II — The Nine Seals",
+      "affiliation": "The Nine Seals — Third Seal campaign",
+      "affiliationRole": "Strategist — architect of the Third Seal"
     },
     {
       "key": "gaoren",
@@ -2284,7 +2350,9 @@
       "firstSeason": 6,
       "firstEpisode": 2,
       "firstEpisodeTitle": "The Red Standard",
-      "firstArc": "Arc II — The Nine Seals"
+      "firstArc": "Arc II — The Nine Seals",
+      "affiliation": "The Nine Seals — Third Seal campaign",
+      "affiliationRole": "The Red Standard — formation commander"
     },
     {
       "key": "shufen",
@@ -2311,7 +2379,9 @@
       "firstSeason": 6,
       "firstEpisode": 3,
       "firstEpisodeTitle": "Army Without Footsteps",
-      "firstArc": "Arc II — The Nine Seals"
+      "firstArc": "Arc II — The Nine Seals",
+      "affiliation": "The Nine Seals — Third Seal campaign",
+      "affiliationRole": "The Quiet Banner — assassin commander"
     },
     {
       "key": "baotien",
@@ -2338,7 +2408,9 @@
       "firstSeason": 6,
       "firstEpisode": 4,
       "firstEpisodeTitle": "The Iron Quartermaster",
-      "firstArc": "Arc II — The Nine Seals"
+      "firstArc": "Arc II — The Nine Seals",
+      "affiliation": "The Nine Seals — Third Seal campaign",
+      "affiliationRole": "The Iron Quartermaster — logistics commander"
     },
     {
       "key": "meilin",
@@ -2365,7 +2437,9 @@
       "firstSeason": 7,
       "firstEpisode": 1,
       "firstEpisodeTitle": "The Golden Lioness",
-      "firstArc": "Arc II — The Nine Seals"
+      "firstArc": "Arc II — The Nine Seals",
+      "affiliation": "House of Jian Ruo",
+      "affiliationRole": "The Golden Lioness — Jian Ruo’s granddaughter"
     },
     {
       "key": "song",
@@ -2392,7 +2466,9 @@
       "firstSeason": 7,
       "firstEpisode": 2,
       "firstEpisodeTitle": "The Ash Judge",
-      "firstArc": "Arc II — The Nine Seals"
+      "firstArc": "Arc II — The Nine Seals",
+      "affiliation": "Independent — Season 7 antagonist",
+      "affiliationRole": "The Ash Judge — ranking historian"
     },
     {
       "key": "shiyue",
@@ -2419,7 +2495,9 @@
       "firstSeason": 7,
       "firstEpisode": 8,
       "firstEpisodeTitle": "Black Verdict",
-      "firstArc": "Arc II — The Nine Seals"
+      "firstArc": "Arc II — The Nine Seals",
+      "affiliation": "Concord custodians — neutral",
+      "affiliationRole": "Keeper of the First Snow"
     },
     {
       "key": "huo",
@@ -2446,7 +2524,9 @@
       "firstSeason": 8,
       "firstEpisode": 1,
       "firstEpisodeTitle": "The Bell Beneath the Mountain",
-      "firstArc": "Arc II — The Nine Seals"
+      "firstArc": "Arc II — The Nine Seals",
+      "affiliation": "Old-era sovereigns (pre-modern)",
+      "affiliationRole": "The Empty Throne — pre-modern #1-equivalent sovereign"
     },
     {
       "key": "nam",
@@ -2473,7 +2553,9 @@
       "firstSeason": 9,
       "firstEpisode": 1,
       "firstEpisodeTitle": "Is the Snow Still Falling?",
-      "firstArc": "Arc III — The Old War Awakens"
+      "firstArc": "Arc III — The Old War Awakens",
+      "affiliation": "Old-war sovereigns (awakened)",
+      "affiliationRole": "The Stone Sleeper — Duke-level old-war sovereign"
     },
     {
       "key": "chun",
@@ -2500,7 +2582,9 @@
       "firstSeason": 9,
       "firstEpisode": 3,
       "firstEpisodeTitle": "The Tomb Warden",
-      "firstArc": "Arc III — The Old War Awakens"
+      "firstArc": "Arc III — The Old War Awakens",
+      "affiliation": "Independent — Season 9 antagonist",
+      "affiliationRole": "The Tomb Warden — sealer of sleepers"
     },
     {
       "key": "haejin",
@@ -2527,7 +2611,9 @@
       "firstSeason": 9,
       "firstEpisode": 8,
       "firstEpisodeTitle": "The Woman in Red Snow",
-      "firstArc": "Arc III — The Old War Awakens"
+      "firstArc": "Arc III — The Old War Awakens",
+      "affiliation": "Independent — old-war assassin (neutral)",
+      "affiliationRole": "The Red Snow Widow"
     },
     {
       "key": "gwon",
@@ -2554,7 +2640,9 @@
       "firstSeason": 10,
       "firstEpisode": 3,
       "firstEpisodeTitle": "The Lantern Eater",
-      "firstArc": "Arc III — The Old War Awakens"
+      "firstArc": "Arc III — The Old War Awakens",
+      "affiliation": "The Awakening Campaign",
+      "affiliationRole": "The Lantern Eater — assassin"
     },
     {
       "key": "daemun",
@@ -2581,7 +2669,9 @@
       "firstSeason": 10,
       "firstEpisode": 6,
       "firstEpisodeTitle": "Pale Orchid, Red Snow",
-      "firstArc": "Arc III — The Old War Awakens"
+      "firstArc": "Arc III — The Old War Awakens",
+      "affiliation": "The Awakening Campaign",
+      "affiliationRole": "The Masked Archivist — campaign organizer"
     },
     {
       "key": "baek",
@@ -2608,7 +2698,9 @@
       "firstSeason": 11,
       "firstEpisode": 2,
       "firstEpisodeTitle": "The Bell of Empty Crowns",
-      "firstArc": "Arc III — The Old War Awakens"
+      "firstArc": "Arc III — The Old War Awakens",
+      "affiliation": "Independent — Season 11 antagonist",
+      "affiliationRole": "The Bell of Empty Crowns — sect leader"
     },
     {
       "key": "gong",
@@ -2635,7 +2727,9 @@
       "firstSeason": 12,
       "firstEpisode": 1,
       "firstEpisodeTitle": "The Man Who Never Fought",
-      "firstArc": "Arc III — The Old War Awakens"
+      "firstArc": "Arc III — The Old War Awakens",
+      "affiliation": "Independent — old-era strategist",
+      "affiliationRole": "The Pale Regent"
     },
     {
       "key": "mo",
@@ -2662,7 +2756,9 @@
       "firstSeason": 13,
       "firstEpisode": 2,
       "firstEpisodeTitle": "A Date Nobody Named",
-      "firstArc": "Arc IV — Moonless City & Marquis War"
+      "firstArc": "Arc IV — Moonless City & Marquis War",
+      "affiliation": "Independent — Season 13 antagonist",
+      "affiliationRole": "The Moonless Scholar"
     },
     {
       "key": "yanluochen",
@@ -2689,7 +2785,9 @@
       "firstSeason": 14,
       "firstEpisode": 1,
       "firstEpisodeTitle": "The First Marquis Bleeds",
-      "firstArc": "Arc IV — Moonless City & Marquis War"
+      "firstArc": "Arc IV — Moonless City & Marquis War",
+      "affiliation": "Independent — Season 14 antagonist",
+      "affiliationRole": "The Black Banner — Duke-level commander"
     },
     {
       "key": "qiao",
@@ -2716,7 +2814,9 @@
       "firstSeason": 16,
       "firstEpisode": 6,
       "firstEpisodeTitle": "The Golden Fox",
-      "firstArc": "Arc IV — Moonless City & Marquis War"
+      "firstArc": "Arc IV — Moonless City & Marquis War",
+      "affiliation": "Independent — Season 16 antagonist",
+      "affiliationRole": "The Golden Fox — information broker"
     },
     {
       "key": "jiang",
@@ -2743,7 +2843,9 @@
       "firstSeason": 18,
       "firstEpisode": 1,
       "firstEpisodeTitle": "The Crescent Beneath Falling Snow",
-      "firstArc": "Arc V — The Black Sun Saga"
+      "firstArc": "Arc V — The Black Sun Saga",
+      "affiliation": "Independent — unranked sovereign",
+      "affiliationRole": "The Uncrowned Emperor"
     },
     {
       "key": "duan",
@@ -2770,7 +2872,9 @@
       "firstSeason": 18,
       "firstEpisode": 2,
       "firstEpisodeTitle": "The Duke of the Black Storm",
-      "firstArc": "Arc V — The Black Sun Saga"
+      "firstArc": "Arc V — The Black Sun Saga",
+      "affiliation": "The Black Sun",
+      "affiliationRole": "The Iron Rain General"
     },
     {
       "key": "mi",
@@ -2797,7 +2901,9 @@
       "firstSeason": 18,
       "firstEpisode": 4,
       "firstEpisodeTitle": "The Red Loom",
-      "firstArc": "Arc V — The Black Sun Saga"
+      "firstArc": "Arc V — The Black Sun Saga",
+      "affiliation": "The Black Sun",
+      "affiliationRole": "The Red Loom Strategist"
     },
     {
       "key": "qiu",
@@ -2819,7 +2925,9 @@
       "firstSeason": 18,
       "firstEpisode": 8,
       "firstEpisodeTitle": "The Black Sun Host",
-      "firstArc": "Arc V — The Black Sun Saga"
+      "firstArc": "Arc V — The Black Sun Saga",
+      "affiliation": "The Black Sun",
+      "affiliationRole": "The Hollow Ox — bridge-holder"
     },
     {
       "key": "zhao_renkai",
@@ -2841,7 +2949,9 @@
       "firstSeason": 20,
       "firstEpisode": 7,
       "firstEpisodeTitle": "Black Sun General",
-      "firstArc": "Arc V — The Black Sun Saga"
+      "firstArc": "Arc V — The Black Sun Saga",
+      "affiliation": "The Black Sun",
+      "affiliationRole": "The Ash-Marked General — field commander"
     },
     {
       "key": "mo_qingzhao",
@@ -2868,7 +2978,9 @@
       "firstSeason": 24,
       "firstEpisode": 5,
       "firstEpisodeTitle": "Mo Qingzhao",
-      "firstArc": "Arc VI — The Ranking Succession"
+      "firstArc": "Arc VI — The Ranking Succession",
+      "affiliation": "Wuyue Top Ten — Five Dukes",
+      "affiliationRole": "The Paper Emperor · World #7"
     },
     {
       "key": "yun_shizhen",
@@ -2900,7 +3012,9 @@
       "firstSeason": 24,
       "firstEpisode": 9,
       "firstEpisodeTitle": "The Vacancy at Ten",
-      "firstArc": "Arc VI — The Ranking Succession"
+      "firstArc": "Arc VI — The Ranking Succession",
+      "affiliation": "Wuyue Top Ten — Five Dukes",
+      "affiliationRole": "The Pale Venom · World #10"
     },
     {
       "key": "mu_gyeong",
@@ -2922,7 +3036,9 @@
       "firstSeason": 23,
       "firstEpisode": 9,
       "firstEpisodeTitle": "Six Was the Real Target",
-      "firstArc": "Arc VI — The Ranking Succession"
+      "firstArc": "Arc VI — The Ranking Succession",
+      "affiliation": "The Nine Graves",
+      "affiliationRole": "The Heaven-Eater — enforcer"
     },
     {
       "key": "seo_mujin",
@@ -2944,7 +3060,9 @@
       "firstSeason": 26,
       "firstEpisode": 4,
       "firstEpisodeTitle": "The Grave Sovereign",
-      "firstArc": "Arc VI — The Ranking Succession"
+      "firstArc": "Arc VI — The Ranking Succession",
+      "affiliation": "The Nine Graves",
+      "affiliationRole": "The Grave Sovereign — leader"
     },
     {
       "key": "gu_xian",
@@ -2966,7 +3084,9 @@
       "firstSeason": 28,
       "firstEpisode": 2,
       "firstEpisodeTitle": "Gu Xian, the Scripture Thief",
-      "firstArc": "Arc VII — The Empty Throne"
+      "firstArc": "Arc VII — The Empty Throne",
+      "affiliation": "Independent — forbidden cultivator",
+      "affiliationRole": "The Scripture Thief"
     },
     {
       "key": "tae_muyeon",
@@ -2988,7 +3108,9 @@
       "firstSeason": 29,
       "firstEpisode": 10,
       "firstEpisodeTitle": "Another Number One",
-      "firstArc": "Arc VII — The Empty Throne"
+      "firstArc": "Arc VII — The Empty Throne",
+      "affiliation": "Independent — unranked co-#1",
+      "affiliationRole": "The Horizon King"
     },
     {
       "key": "sorin_vael",
@@ -3010,7 +3132,9 @@
       "firstSeason": 33,
       "firstEpisode": 3,
       "firstEpisodeTitle": "Crown Five",
-      "firstArc": "Arc VIII Part I — The Six Crowns: Western Dark"
+      "firstArc": "Arc VIII Part I — The Six Crowns: Western Dark",
+      "affiliation": "The Six Crowns",
+      "affiliationRole": "Crown V — The Weightless Tyrant (lowest Crown)"
     },
     {
       "key": "valeria_nox",
@@ -3032,7 +3156,9 @@
       "firstSeason": 33,
       "firstEpisode": 8,
       "firstEpisodeTitle": "The Saint of the Last Step",
-      "firstArc": "Arc VIII Part I — The Six Crowns: Western Dark"
+      "firstArc": "Arc VIII Part I — The Six Crowns: Western Dark",
+      "affiliation": "The Six Crowns",
+      "affiliationRole": "Crown IV — Saint of the Last Step"
     },
     {
       "key": "draven_sol",
@@ -3054,7 +3180,9 @@
       "firstSeason": 34,
       "firstEpisode": 1,
       "firstEpisodeTitle": "The Red God",
-      "firstArc": "Arc VIII Part I — The Six Crowns: Western Dark"
+      "firstArc": "Arc VIII Part I — The Six Crowns: Western Dark",
+      "affiliation": "The Six Crowns",
+      "affiliationRole": "Crown III — The Red God"
     },
     {
       "key": "ilyra_serath",
@@ -3076,7 +3204,9 @@
       "firstSeason": 34,
       "firstEpisode": 5,
       "firstEpisodeTitle": "Crown Two",
-      "firstArc": "Arc VIII Part I — The Six Crowns: Western Dark"
+      "firstArc": "Arc VIII Part I — The Six Crowns: Western Dark",
+      "affiliation": "The Six Crowns (defected)",
+      "affiliationRole": "Former Crown II — now World #6, The Mirror Queen"
     },
     {
       "key": "aurel_veyr",
@@ -3093,7 +3223,9 @@
       "firstSeason": 34,
       "firstEpisode": 7,
       "firstEpisodeTitle": "Jin Escapes the Mirror Queen",
-      "firstArc": "Arc VIII Part I — The Six Crowns: Western Dark"
+      "firstArc": "Arc VIII Part I — The Six Crowns: Western Dark",
+      "affiliation": "The Six Crowns",
+      "affiliationRole": "Crown I — The First Catastrophe (strongest subordinate)"
     },
     {
       "key": "vaelor_veyr",
@@ -3120,7 +3252,9 @@
       "firstSeason": 39,
       "firstEpisode": 10,
       "firstEpisodeTitle": "The Crown Beyond Crowns Is Moving",
-      "firstArc": "Arc VIII Part II — The Six Crowns: Crown Beyond Crowns"
+      "firstArc": "Arc VIII Part II — The Six Crowns: Crown Beyond Crowns",
+      "affiliation": "The Six Crowns",
+      "affiliationRole": "Leader — The Crown Beyond Crowns"
     },
     {
       "key": "orun_vhal",
@@ -3157,7 +3291,9 @@
       "firstSeason": 44,
       "firstEpisode": 5,
       "firstEpisodeTitle": "The Buried Sovereign Wakes",
-      "firstArc": "Final Major Arc Part I — The Seven Thrones"
+      "firstArc": "Final Major Arc Part I — The Seven Thrones",
+      "affiliation": "The Seven Ancient Kings",
+      "affiliationRole": "Ancient King VII — The Buried Sovereign (weakest King)"
     },
     {
       "key": "iscaryn_voss",
@@ -3174,7 +3310,9 @@
       "firstSeason": 45,
       "firstEpisode": 7,
       "firstEpisodeTitle": "King VI Walks an Old Road",
-      "firstArc": "Final Major Arc Part I — The Seven Thrones"
+      "firstArc": "Final Major Arc Part I — The Seven Thrones",
+      "affiliation": "The Seven Ancient Kings",
+      "affiliationRole": "Ancient King VI — The Thousand-Road King"
     },
     {
       "key": "rhavenn_korr",
@@ -3191,7 +3329,9 @@
       "firstSeason": 46,
       "firstEpisode": 9,
       "firstEpisodeTitle": "The Third Bell",
-      "firstArc": "Final Major Arc Part I — The Seven Thrones"
+      "firstArc": "Final Major Arc Part I — The Seven Thrones",
+      "affiliation": "The Seven Ancient Kings",
+      "affiliationRole": "Ancient King V — The Nine-Lived King"
     },
     {
       "key": "tor_veydan",
@@ -3208,7 +3348,9 @@
       "firstSeason": 50,
       "firstEpisode": 10,
       "firstEpisodeTitle": "The Last-Breath King",
-      "firstArc": "Final Major Arc Part I — The Seven Thrones"
+      "firstArc": "Final Major Arc Part I — The Seven Thrones",
+      "affiliation": "The Seven Ancient Kings",
+      "affiliationRole": "Ancient King IV — The Last-Breath King"
     },
     {
       "key": "caedros_marr",
@@ -3225,7 +3367,9 @@
       "firstSeason": 51,
       "firstEpisode": 6,
       "firstEpisodeTitle": "The Nameless King",
-      "firstArc": "Final Major Arc Part I — The Seven Thrones"
+      "firstArc": "Final Major Arc Part I — The Seven Thrones",
+      "affiliation": "The Seven Ancient Kings",
+      "affiliationRole": "Ancient King III — The Nameless King"
     },
     {
       "key": "varesh_nhal",
@@ -3242,7 +3386,9 @@
       "firstSeason": 52,
       "firstEpisode": 6,
       "firstEpisodeTitle": "King II Arrives Without an Art",
-      "firstArc": "Final Major Arc Part I — The Seven Thrones"
+      "firstArc": "Final Major Arc Part I — The Seven Thrones",
+      "affiliation": "The Seven Ancient Kings",
+      "affiliationRole": "Ancient King II — The Heaven-Crushing King"
     },
     {
       "key": "amon_serath",
@@ -3264,7 +3410,9 @@
       "firstSeason": 53,
       "firstEpisode": 10,
       "firstEpisodeTitle": "The Dying Sun",
-      "firstArc": "Final Major Arc Part I — The Seven Thrones"
+      "firstArc": "Final Major Arc Part I — The Seven Thrones",
+      "affiliation": "The Seven Ancient Kings",
+      "affiliationRole": "Ancient King I — The King of the Dying Sun (strongest King)"
     },
     {
       "key": "aethon_vael",
@@ -3296,7 +3444,9 @@
       "firstSeason": 55,
       "firstEpisode": 2,
       "firstEpisodeTitle": "The Twenty-Five-Year-Old Myth",
-      "firstArc": "Final Major Arc Part II — The Sovereign Before Heaven"
+      "firstArc": "Final Major Arc Part II — The Sovereign Before Heaven",
+      "affiliation": "Ancient Overlord",
+      "affiliationRole": "The Sovereign Before Heaven — above the Seven Kings"
     },
     {
       "key": "aldric",
@@ -3309,7 +3459,9 @@
           "Supreme Domain Skill · Domain / Sustained Offense",
           "Once Aldric honestly commits an attack and achieves contact, its martial force continues until he ends it or an opposing Domain destroys its governing principle."
         ]
-      ]
+      ],
+      "affiliation": "Veyrhald First Banner — Isgard",
+      "affiliationRole": "First Banner leader — Southern Isgard’s strongest revealed authority"
     },
     {
       "key": "sigrun",
@@ -3326,7 +3478,9 @@
       "firstSeason": 87,
       "firstEpisode": 1,
       "firstEpisodeTitle": "Three Gates Open at Once",
-      "firstArc": "Continuation Chronicle — When Wuyue Marches North"
+      "firstArc": "Continuation Chronicle — When Wuyue Marches North",
+      "affiliation": "Veyrhald First Banner — Isgard",
+      "affiliationRole": "The First Wall — field commander of the 72,000-strong First Banner Army"
     },
     {
       "key": "halvek",
@@ -3343,7 +3497,9 @@
       "firstSeason": 87,
       "firstEpisode": 9,
       "firstEpisodeTitle": "Liang Finds Two Circulations in One War",
-      "firstArc": "Continuation Chronicle — When Wuyue Marches North"
+      "firstArc": "Continuation Chronicle — When Wuyue Marches North",
+      "affiliation": "Veyrhald First Banner — Isgard",
+      "affiliationRole": "Keeper of the Gate Roads — military-road and fortress-seal architect"
     },
     {
       "key": "solveig",
@@ -3360,7 +3516,9 @@
       "firstSeason": 87,
       "firstEpisode": 5,
       "firstEpisodeTitle": "Skeldran Hunts the Hospital",
-      "firstArc": "Continuation Chronicle — When Wuyue Marches North"
+      "firstArc": "Continuation Chronicle — When Wuyue Marches North",
+      "affiliation": "Skeldran Thousandfold Hunt — Isgard",
+      "affiliationRole": "The Last Trail — senior Huntmistress (counter-infiltration)"
     },
     {
       "key": "raska",
@@ -3377,7 +3535,9 @@
       "firstSeason": 80,
       "firstEpisode": 7,
       "firstEpisodeTitle": "The Ledger Can Be Poisoned",
-      "firstArc": "Continuation Chronicle — Where the Black Wick Leads"
+      "firstArc": "Continuation Chronicle — Where the Black Wick Leads",
+      "affiliation": "Dravaryn Crimson Host — Isgard",
+      "affiliationRole": "The Crimson Marshal — cavalry-front commander"
     },
     {
       "key": "eldran",
@@ -3394,7 +3554,9 @@
       "firstSeason": 87,
       "firstEpisode": 3,
       "firstEpisodeTitle": "The Imperial Army Holds Its First Foreign Line",
-      "firstArc": "Continuation Chronicle — When Wuyue Marches North"
+      "firstArc": "Continuation Chronicle — When Wuyue Marches North",
+      "affiliation": "Dravaryn Crimson Host — Isgard",
+      "affiliationRole": "The Cinder Standard — armoured-infantry commander"
     },
     {
       "key": "maedra",
@@ -3407,7 +3569,9 @@
           "Supreme Domain Skill · Domain / Internal Assault",
           "Every wound Maedra earns or formally claims becomes an internal road through which later techniques can bypass exterior protection."
         ]
-      ]
+      ],
+      "affiliation": "Dravaryn Crimson Host — Isgard",
+      "affiliationRole": "Coalition war architect — senior war authority above Raska"
     }
   ],
   "season1": [

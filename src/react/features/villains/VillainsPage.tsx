@@ -17,12 +17,13 @@ export function VillainsPage() {
         {visible.map((figure) => (
           <details className="lore-card" key={figure.key}>
             <summary>
-              <div className="tag-row">{figure.firstSeason ? <><span>S{figure.firstSeason}E{figure.firstEpisode}</span><span>{figure.firstArc}</span></> : null}</div>
+              <div className="tag-row">{figure.firstSeason ? <><span>S{figure.firstSeason}E{figure.firstEpisode}</span><span>{figure.firstArc}</span></> : null}{figure.affiliation ? <span>{figure.affiliation}</span> : null}</div>
               <h3>{figure.name}</h3>
               <p>{figure.subtitle}</p>
               <small>Expand profile and martial systems ↓</small>
             </summary>
             <div className="lore-card__body">
+              {figure.affiliation || figure.affiliationRole ? <section><p className="eyebrow">Affiliation &amp; standing</p><dl className="profile-facts profile-facts--inline">{figure.affiliation ? <div><dt>Affiliation</dt><dd>{figure.affiliation}</dd></div> : null}{figure.affiliationRole ? <div><dt>Standing</dt><dd>{figure.affiliationRole}</dd></div> : null}</dl></section> : null}
               {figure.firstSeason ? <section><p className="eyebrow">First appearance</p><p><strong>{figure.firstArc}</strong> · Season {figure.firstSeason}, Episode {figure.firstEpisode} — {figure.firstEpisodeTitle}</p></section> : null}
               <section><p className="eyebrow">Profile / threat record</p><p>{figure.details}</p></section>
               {figure.skills?.length ? <section><p className="eyebrow">Skills / martial systems</p><div className="technique-list">{figure.skills.map((skill, index) => <article key={`${figure.key}-${index}`}><span>{String(index + 1).padStart(2, '0')}</span><div><strong>{skill[0]}</strong><small>{skill[1]}</small><p>{skill[2]}</p></div></article>)}</div></section> : null}

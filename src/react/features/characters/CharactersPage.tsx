@@ -158,6 +158,9 @@ export function CharactersPage({ selectedKey, onOpenCharacter, onOpenChapter }: 
                 <div><span>Linked legends</span><strong>{legends.length}</strong><small>repository legend{legends.length === 1 ? '' : 's'}</small></div>
               </div>
               <dl className="profile-facts">
+                {character.cultivation ? <div><dt>Cultivation</dt><dd>{character.cultivation}</dd></div> : null}
+                {character.affiliation ? <div><dt>Affiliation</dt><dd>{character.affiliation}</dd></div> : null}
+                {character.affiliationRole ? <div><dt>Standing</dt><dd>{character.affiliationRole}</dd></div> : null}
                 <div><dt>Identity</dt><dd>{text(character.identity)}</dd></div>
                 <div><dt>Personality</dt><dd>{text(character.personality)}</dd></div>
                 <div><dt>Motif</dt><dd>{text(character.motif)}</dd></div>

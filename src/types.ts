@@ -6,6 +6,12 @@ export interface Character {
   name: string;
   subtitle: string;
   tags?: string[];
+  /** Cultivation tier (e.g. "High Sovereign", "Peak Sovereign, approaching Paragon"). */
+  cultivation?: string;
+  /** Primary faction / army / organization the character belongs to. */
+  affiliation?: string;
+  /** Internal standing within that affiliation (rank, seat or command role). */
+  affiliationRole?: string;
   identity?: string;
   appearance?: string;
   personality?: string;
@@ -44,6 +50,10 @@ export interface ArcFigure {
   name: string;
   subtitle: string;
   details: string;
+  /** Primary faction / order / coalition the figure belongs to. */
+  affiliation?: string;
+  /** Internal standing within that affiliation (rank, seat or command role). */
+  affiliationRole?: string;
   /** Each skill row: [name, category, description]. */
   skills?: string[][];
   firstSeason?: number;
