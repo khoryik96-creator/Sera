@@ -109,6 +109,10 @@ function annotateArtNames(text: string, interactive: boolean): string {
   if (!arts.length) return String(text || '');
   let out = String(text || '');
   const held: string[] = [];
+  // Hold whole skill/technique callouts opaque first, so their tier label already
+  // carries the name — the inline art pass must not re-style the name inside a
+  // callout (that would double the rank sigil and nest a button in the header).
+  out = out.replace(/<span class="novel-skill[\s\S]*?<\/span>/g, (markup) => { const token = `@@TAG${held.length}@@`; held.push(markup); return token; });
   out = out.replace(/<[\s\S]*?>/g, (markup) => { const token = `@@TAG${held.length}@@`; held.push(markup); return token; });
   const placeholders: string[] = [];
   for (const art of arts) {
@@ -131,16 +135,22 @@ function annotateArtNames(text: string, interactive: boolean): string {
   return out;
 }
 
+// Tier callouts (a tier keyword, an em-dash, then the art name on its own line)
+// are gold-styled here. Authors sometimes wrap the whole line in **bold**, so the
+// optional \*{0,2} on each side consumes those markers — otherwise annotateBold
+// would turn the line into a plain white bold line that this pass never matched.
+// Runs on raw text before annotateBold so the markers are still present to strip.
+const SKILL_TIERS = 'SUPREME PASSIVE ART|SUPREME ART|SUPREME DOMAIN|TRANSCENDED SKILL|TRANSCENDED ART|TRANSCENDED DOMAIN|ULTIMATE ART|ULTIMATE DOMAIN';
 function annotateSkills(text: string): string {
   let out = String(text || '');
-  out = out.replace(/(^|\n)(✦\s*)?(SUPREME PASSIVE ART|SUPREME ART|TRANSCENDED SKILL|TRANSCENDED ART|ULTIMATE ART)\s*[—-]\s*([^\n<]+)/gi, (_m, prefix, _star, tier, name) =>
+  out = out.replace(new RegExp('(^|\\n)(?:<strong>)?\\*{0,2}(✦\\s*)?(' + SKILL_TIERS + ')\\s*[—-]\\s*([^\\n*<]+?)\\s*\\*{0,2}(?:</strong>)?(?=\\n|$)', 'gi'), (_m, prefix, _star, tier, name) =>
     `${prefix}<span class="novel-skill-supreme"><strong>✦ ${tier.toUpperCase()} — ${name.trim()}</strong></span>`);
   const known = ['The Orchid Blooms Only Once'];
   known.forEach((name) => {
-    const re = new RegExp('(^|\\n)(?:✦\\s*)?' + escRe(name) + '(?=\\n|$|\\.)', 'gi');
+    const re = new RegExp('(^|\\n)\\*{0,2}(?:✦\\s*)?' + escRe(name) + '\\*{0,2}(?=\\n|$|\\.)', 'gi');
     out = out.replace(re, (_m, prefix) => `${prefix}<span class="novel-skill-supreme"><strong>✦ SUPREME ART — ${name}</strong></span>`);
   });
-  out = out.replace(/(^|\n)✦ TECHNIQUE\s*[—-]\s*([^\n<]+)/gi, (_m, prefix, name) => `${prefix}<span class="novel-skill-callout"><strong>✦ TECHNIQUE — ${name.trim()}</strong></span>`);
+  out = out.replace(/(^|\n)\*{0,2}✦ TECHNIQUE\s*[—-]\s*([^\n*<]+?)\s*\*{0,2}(?=\n|$)/gi, (_m, prefix, name) => `${prefix}<span class="novel-skill-callout"><strong>✦ TECHNIQUE — ${name.trim()}</strong></span>`);
   return out;
 }
 
@@ -285,6 +295,8 @@ function annotateBold(text: string): string {
 /** Render an episode/legend body: dialogue cards, skill callouts, and ranked names. */
 export function renderNovel(text: string, season?: number, options: RenderNovelOptions = {}): string {
   const interactive = Boolean(options.interactiveNames);
-  const html = annotateNamesForSeason(annotateSkills(annotateDialogue(annotateArtNames(annotateBold(text), interactive), interactive)), season, interactive);
+  // Skill callouts are resolved on the raw text first, so bolded callouts are
+  // gold-styled here rather than being pre-empted into white bold by annotateBold.
+  const html = annotateNamesForSeason(annotateDialogue(annotateArtNames(annotateBold(annotateSkills(text)), interactive), interactive), season, interactive);
   return html.replace(/\n*(<span class="novel-dialogue[\s\S]*?<\/span>)\n*/g, '$1');
 }
