@@ -95,22 +95,21 @@ All four Domains remain grounded in the existing rule: a Domain intensifies and 
 
 **Core identity:** every meaningful hostile action inside Tae's Domain forges additional iron-qi chains onto the person who performed it.
 
-- Movement creates chains.
-- Attacking creates chains.
-- Dodging, rushing, forceful repositioning or other committed combat actions create chains.
-- Heavy internal-energy releases create thicker and heavier chains than small movements because more force has been committed.
-- The chains bind to the opponent's body and martial circulation as compressed iron qi; they are not summoned metal and they are not magical restraints.
-- One or two actions are manageable. The danger is accumulation.
-- The longer an enemy fights, the more chains are forged around them.
-- Every additional chain increases physical weight, drag and resistance, making later movement and technique execution more exhausting.
-- Strong opponents may break individual chains with force or qi, but breaking them also costs energy and does not erase the Domain's rule: the next action simply forges more chains.
-- Repeated attempts to escape therefore become a contest of endurance that Tae is specifically built to win.
-- As the total chain burden rises, the enemy's stance slows, limbs become harder to accelerate, breathing and circulation become more expensive, and techniques require progressively more qi to complete.
-- At extreme accumulation, the compressed iron burden can press through the body strongly enough to bruise or disrupt meridians, but meridian damage is a late-stage consequence of sustained iron pressure rather than the Domain's primary function.
-- Standing still or acting with extreme restraint slows the rate of accumulation, but gives Tae control of the pace and initiative.
-- Tae can maintain chains on multiple enemies, though the total number and strength of targets raises his own qi burden.
+- **Moving creates chains.**
+- **Attacking creates chains.**
+- Dodging, rushing, blocking with committed force, forceful repositioning, activating a technique, or releasing internal energy can all create more chains.
+- The amount and thickness of chain created scales with how much force and qi the action commits. A small step creates little burden; a full-power Supreme or Domain-level attack creates far more.
+- The chains bind to the opponent's body as compressed iron qi; they are not summoned metal, mind control, gravity, or magical restraints.
+- One or two actions are manageable. The danger is **accumulation**.
+- Every later action adds more chains, so the opponent becomes progressively heavier, slower and more restricted the longer they remain active inside the Domain.
+- More chains mean more drag on limbs, more weight through the stance, and increasingly expensive breathing and circulation. Techniques that were easy at the beginning of the fight become exhausting later.
+- Strong opponents may break individual chains with physical force or internal energy, but breaking chains costs stamina and qi. The Domain does not regard a breakout as immunity: the next meaningful action simply creates fresh chains.
+- An enemy who responds by struggling harder therefore accelerates their own exhaustion.
+- An enemy who dramatically reduces movement and attack frequency slows accumulation, but in exchange gives Tae the initiative and lets him dictate distance and tempo.
+- At extreme accumulation, the iron pressure can begin bruising and disrupting meridians because the body is carrying enormous compressed burden. Meridian damage remains a late-stage consequence rather than the Domain's main gimmick.
+- Tae can maintain chain burdens on multiple enemies at once, but stronger opponents and larger numbers increase his own qi consumption.
 
-**Combat identity:** every action the enemy takes makes the next action heavier. Fighting harder does not free them; it gradually chains them into exhaustion.
+**Combat identity:** every action makes the next action heavier. The longer an enemy fights Tae, the more they chain themselves into fatigue, immobility and eventual collapse.
 
 ---
 
@@ -244,5 +243,3 @@ Rules:
 - **Huo Wujin — Domain:** **Endless Dominion**
 - **Qin Luo — Domain:** **Echo Dominion**
 - **Kael Veyran — Domain:** **Worldweight Dominion**
-
-These five choices are no longer approval gates. Their mechanics above are the baseline to use when the final-arc chapter outline and eventual prose are revised.
