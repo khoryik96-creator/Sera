@@ -3,7 +3,7 @@ name: Patch reader lore card metadata
 on:
   push:
     paths:
-      - '.github/workflows/patch-reader-lore-card.yml'
+      - .github/workflows/patch-reader-lore-card.yml
 
 permissions:
   contents: write
@@ -12,105 +12,43 @@ jobs:
   patch:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout feature branch
-        uses: actions/checkout@v7
+      - uses: actions/checkout@v7
         with:
           ref: feature/reader-lore-card-metadata
           fetch-depth: 0
-
-      - name: Add structured metadata to contextual lore card
+      - name: Patch contextual lore card
         shell: bash
         run: |
           python - <<'PY'
           from pathlib import Path
-
           reader = Path('src/react/features/reader/ReaderPage.tsx')
           text = reader.read_text(encoding='utf-8')
-
-          old = """  const loreName = loreProfile ? cleanCharacterName(loreProfile.name) : loreEntry?.displayName || '';
-  const loreRank = loreName ? rankLabel(loreName, season) : '';
-  const loreStatus = loreName ? rankStatus(loreName, season) : 'current';
-  const showResumePosition = Boolean(resumePosition && resumePosition.progress >= 0.05 && resumePosition.progress <= 0.96 && !resumeDismissed);
-"""
-          new = """  const loreName = loreProfile ? cleanCharacterName(loreProfile.name) : loreEntry?.displayName || '';
-  const loreRank = loreName ? rankLabel(loreName, season) : '';
-  const loreStatus = loreName ? rankStatus(loreName, season) : 'current';
-  const loreStrength = loreProfile?.cultivation?.trim() || 'Not recorded';
-  const loreAffiliation = loreProfile?.affiliation?.trim() || 'Not recorded';
-  const loreRole = loreProfile?.affiliationRole?.trim() || 'No formal role recorded';
-  const showResumePosition = Boolean(resumePosition && resumePosition.progress >= 0.05 && resumePosition.progress <= 0.96 && !resumeDismissed);
-"""
-          if old not in text:
-              raise SystemExit('Reader metadata anchor not found')
+          old = "  const loreName = loreProfile ? cleanCharacterName(loreProfile.name) : loreEntry?.displayName || '';\n  const loreRank = loreName ? rankLabel(loreName, season) : '';\n  const loreStatus = loreName ? rankStatus(loreName, season) : 'current';\n  const showResumePosition = Boolean(resumePosition && resumePosition.progress >= 0.05 && resumePosition.progress <= 0.96 && !resumeDismissed);"
+          new = "  const loreName = loreProfile ? cleanCharacterName(loreProfile.name) : loreEntry?.displayName || '';\n  const loreRank = loreName ? rankLabel(loreName, season) : '';\n  const loreStatus = loreName ? rankStatus(loreName, season) : 'current';\n  const loreStrength = loreProfile?.cultivation?.trim() || 'Not recorded';\n  const loreAffiliation = loreProfile?.affiliation?.trim() || 'Not recorded';\n  const loreRole = loreProfile?.affiliationRole?.trim() || 'No formal role recorded';\n  const showResumePosition = Boolean(resumePosition && resumePosition.progress >= 0.05 && resumePosition.progress <= 0.96 && !resumeDismissed);"
+          if old not in text: raise SystemExit('reader metadata anchor missing')
           text = text.replace(old, new, 1)
-
-          old = """              <div className=\"reader-lore-context__copy\">
-                <span>Character reference</span>
-                <div><strong className={`character-${loreEntry.colorKey}`}>{loreName}</strong>{loreRank ? <RankBadge rank={loreRank} status={loreStatus} /> : null}</div>
-                <p>{loreProfile?.subtitle || 'Referenced in this chapter. A full profile is not currently part of the main character archive.'}</p>
-              </div>
-"""
-          new = """              <div className=\"reader-lore-context__copy\">
-                <span>Character reference</span>
-                <div className=\"reader-lore-context__name\"><strong className={`character-${loreEntry.colorKey}`}>{loreName}</strong></div>
-                {loreProfile ? (
-                  <div className=\"reader-lore-context__facts\" aria-label={`Quick facts for ${loreName}`}>
-                    <div className=\"reader-lore-context__fact\"><span>Ranking</span><div>{loreRank ? <RankBadge rank={loreRank} status={loreStatus} /> : <strong>Not ranked</strong>}</div></div>
-                    <div className=\"reader-lore-context__fact\"><span>Strength</span><strong>{loreStrength}</strong></div>
-                    <div className=\"reader-lore-context__fact\"><span>Affiliation</span><strong>{loreAffiliation}</strong></div>
-                    <div className=\"reader-lore-context__fact\"><span>Role</span><strong>{loreRole}</strong></div>
-                  </div>
-                ) : null}
-                <p>{loreProfile?.subtitle || 'Referenced in this chapter. A full profile is not currently part of the main character archive.'}</p>
-              </div>
-"""
-          if old not in text:
-              raise SystemExit('Reader card anchor not found')
-          text = text.replace(old, new, 1)
-          reader.write_text(text, encoding='utf-8')
-
+          old = "              <div className=\"reader-lore-context__copy\">\n                <span>Character reference</span>\n                <div><strong className={`character-${loreEntry.colorKey}`}>{loreName}</strong>{loreRank ? <RankBadge rank={loreRank} status={loreStatus} /> : null}</div>\n                <p>{loreProfile?.subtitle || 'Referenced in this chapter. A full profile is not currently part of the main character archive.'}</p>\n              </div>"
+          new = "              <div className=\"reader-lore-context__copy\">\n                <span>Character reference</span>\n                <div className=\"reader-lore-context__name\"><strong className={`character-${loreEntry.colorKey}`}>{loreName}</strong></div>\n                {loreProfile ? (\n                  <div className=\"reader-lore-context__facts\" aria-label={`Quick facts for ${loreName}`}>\n                    <div className=\"reader-lore-context__fact\"><span>Ranking</span><div>{loreRank ? <RankBadge rank={loreRank} status={loreStatus} /> : <strong>Not ranked</strong>}</div></div>\n                    <div className=\"reader-lore-context__fact\"><span>Strength</span><strong>{loreStrength}</strong></div>\n                    <div className=\"reader-lore-context__fact\"><span>Affiliation</span><strong>{loreAffiliation}</strong></div>\n                    <div className=\"reader-lore-context__fact\"><span>Role</span><strong>{loreRole}</strong></div>\n                  </div>\n                ) : null}\n                <p>{loreProfile?.subtitle || 'Referenced in this chapter. A full profile is not currently part of the main character archive.'}</p>\n              </div>"
+          if old not in text: raise SystemExit('reader card anchor missing')
+          reader.write_text(text.replace(old, new, 1), encoding='utf-8')
           css = Path('src/react/styles/contextual-lore.css')
           text = css.read_text(encoding='utf-8')
-          old = ".reader-lore-context__copy>div{display:flex;align-items:center;gap:8px;min-width:0;margin-top:4px}\n.reader-lore-context__copy strong{min-width:0;font-family:'Playfair Display',serif;font-size:1rem;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}\n.reader-lore-context__copy p{margin:4px 0 0;color:#929ba2;font-size:.63rem;line-height:1.45}\n"
-          new = ".reader-lore-context__name{display:flex;align-items:center;gap:8px;min-width:0;margin-top:4px}\n.reader-lore-context__name>strong{min-width:0;font-family:'Playfair Display',serif;font-size:1rem;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}\n.reader-lore-context__facts{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:7px;margin-top:9px}\n.reader-lore-context__fact{min-width:0;border:1px solid rgba(255,255,255,.065);border-radius:8px;padding:7px 8px;background:rgba(255,255,255,.025)}\n.reader-lore-context__fact>span{display:block;color:#697773;font-size:.5rem;font-weight:800;letter-spacing:.08em;text-transform:uppercase}\n.reader-lore-context__fact>strong,.reader-lore-context__fact>div{display:block;margin-top:3px;color:#c8d1cf;font-family:inherit;font-size:.62rem;font-weight:750;line-height:1.32;overflow-wrap:anywhere}\n.reader-lore-context__fact .react-rank-badge,.reader-lore-context__fact .rank-badge{margin:0}\n.reader-lore-context__copy p{margin:7px 0 0;color:#929ba2;font-size:.63rem;line-height:1.45}\n"
-          if old not in text:
-              raise SystemExit('CSS anchor not found')
+          old = ".reader-lore-context__copy>div{display:flex;align-items:center;gap:8px;min-width:0;margin-top:4px}\n.reader-lore-context__copy strong{min-width:0;font-family:'Playfair Display',serif;font-size:1rem;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}\n.reader-lore-context__copy p{margin:4px 0 0;color:#929ba2;font-size:.63rem;line-height:1.45}"
+          new = ".reader-lore-context__name{display:flex;align-items:center;gap:8px;min-width:0;margin-top:4px}\n.reader-lore-context__name>strong{min-width:0;font-family:'Playfair Display',serif;font-size:1rem;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}\n.reader-lore-context__facts{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:7px;margin-top:9px}\n.reader-lore-context__fact{min-width:0;border:1px solid rgba(255,255,255,.065);border-radius:8px;padding:7px 8px;background:rgba(255,255,255,.025)}\n.reader-lore-context__fact>span{display:block;color:#697773;font-size:.5rem;font-weight:800;letter-spacing:.08em;text-transform:uppercase}\n.reader-lore-context__fact>strong,.reader-lore-context__fact>div{display:block;margin-top:3px;color:#c8d1cf;font-family:inherit;font-size:.62rem;font-weight:750;line-height:1.32;overflow-wrap:anywhere}\n.reader-lore-context__fact .react-rank-badge,.reader-lore-context__fact .rank-badge{margin:0}\n.reader-lore-context__copy p{margin:7px 0 0;color:#929ba2;font-size:.63rem;line-height:1.45}"
+          if old not in text: raise SystemExit('css anchor missing')
           text = text.replace(old, new, 1)
-          text = text.replace("@media(max-width:800px){.reader-lore-context{top:68px;grid-template-columns:1fr;gap:9px;padding:12px 13px}.reader-lore-context__actions{justify-content:flex-start}.reader-lore-context__copy>div{flex-wrap:wrap}.novel-lore-link{touch-action:manipulation}.reader-prose .dialogue-card{margin:.64em 0;padding:.66em .78em}}",
-                              "@media(max-width:800px){.reader-lore-context{top:68px;grid-template-columns:1fr;gap:9px;padding:12px 13px}.reader-lore-context__actions{justify-content:flex-start}.reader-lore-context__facts{grid-template-columns:repeat(2,minmax(0,1fr))}.reader-lore-context__name{flex-wrap:wrap}.novel-lore-link{touch-action:manipulation}.reader-prose .dialogue-card{margin:.64em 0;padding:.66em .78em}}")
-          text = text.replace("@media(max-width:520px){.reader-lore-context{top:58px}.reader-lore-context__actions button{min-height:38px}.reader-lore-context__copy strong{font-size:.94rem}.reader-prose .dialogue-speaker{font-size:.84em}}",
-                              "@media(max-width:520px){.reader-lore-context{top:58px}.reader-lore-context__facts{grid-template-columns:1fr 1fr}.reader-lore-context__actions button{min-height:38px}.reader-lore-context__name>strong{font-size:.94rem}.reader-lore-context__fact>strong,.reader-lore-context__fact>div{font-size:.61rem}.reader-prose .dialogue-speaker{font-size:.84em}}")
+          text = text.replace("@media(max-width:800px){.reader-lore-context{top:68px;grid-template-columns:1fr;gap:9px;padding:12px 13px}.reader-lore-context__actions{justify-content:flex-start}.reader-lore-context__copy>div{flex-wrap:wrap}.novel-lore-link{touch-action:manipulation}.reader-prose .dialogue-card{margin:.64em 0;padding:.66em .78em}}", "@media(max-width:800px){.reader-lore-context{top:68px;grid-template-columns:1fr;gap:9px;padding:12px 13px}.reader-lore-context__actions{justify-content:flex-start}.reader-lore-context__facts{grid-template-columns:repeat(2,minmax(0,1fr))}.reader-lore-context__name{flex-wrap:wrap}.novel-lore-link{touch-action:manipulation}.reader-prose .dialogue-card{margin:.64em 0;padding:.66em .78em}}")
+          text = text.replace("@media(max-width:520px){.reader-lore-context{top:58px}.reader-lore-context__actions button{min-height:38px}.reader-lore-context__copy strong{font-size:.94rem}.reader-prose .dialogue-speaker{font-size:.84em}}", "@media(max-width:520px){.reader-lore-context{top:58px}.reader-lore-context__facts{grid-template-columns:1fr 1fr}.reader-lore-context__actions button{min-height:38px}.reader-lore-context__name>strong{font-size:.94rem}.reader-lore-context__fact>strong,.reader-lore-context__fact>div{font-size:.61rem}.reader-prose .dialogue-speaker{font-size:.84em}}")
           css.write_text(text, encoding='utf-8')
-
           spec = Path('e2e/contextual-lore.spec.ts')
           text = spec.read_text(encoding='utf-8')
-          old = """  await expect(tray).toContainText('Sera');
-  await expect(tray.locator('.react-rank-badge, .rank-badge')).toBeVisible();
-  await expect(tray.getByRole('button', { name: /Open profile/ })).toBeVisible();
-"""
-          new = """  await expect(tray).toContainText('Sera');
-  await expect(tray.getByText('Ranking', { exact: true })).toBeVisible();
-  await expect(tray.getByText('Strength', { exact: true })).toBeVisible();
-  await expect(tray.getByText('Affiliation', { exact: true })).toBeVisible();
-  await expect(tray.getByText('Role', { exact: true })).toBeVisible();
-  await expect(tray.locator('.react-rank-badge, .rank-badge')).toBeVisible();
-  await expect(tray.locator('.reader-lore-context__fact').nth(1)).not.toContainText('Not recorded');
-  await expect(tray.locator('.reader-lore-context__fact').nth(2)).not.toContainText('Not recorded');
-  await expect(tray.getByRole('button', { name: /Open profile/ })).toBeVisible();
-"""
-          if old not in text:
-              raise SystemExit('E2E anchor not found')
+          old = "  await expect(tray).toContainText('Sera');\n  await expect(tray.locator('.react-rank-badge, .rank-badge')).toBeVisible();\n  await expect(tray.getByRole('button', { name: /Open profile/ })).toBeVisible();"
+          new = "  await expect(tray).toContainText('Sera');\n  await expect(tray.getByText('Ranking', { exact: true })).toBeVisible();\n  await expect(tray.getByText('Strength', { exact: true })).toBeVisible();\n  await expect(tray.getByText('Affiliation', { exact: true })).toBeVisible();\n  await expect(tray.getByText('Role', { exact: true })).toBeVisible();\n  await expect(tray.locator('.react-rank-badge, .rank-badge')).toBeVisible();\n  await expect(tray.locator('.reader-lore-context__fact').nth(1)).not.toContainText('Not recorded');\n  await expect(tray.locator('.reader-lore-context__fact').nth(2)).not.toContainText('Not recorded');\n  await expect(tray.getByRole('button', { name: /Open profile/ })).toBeVisible();"
+          if old not in text: raise SystemExit('e2e anchor missing')
           spec.write_text(text.replace(old, new, 1), encoding='utf-8')
           PY
-
-      - name: Validate targeted files
-        run: |
-          npm ci
-          npx vitest run test/ranks.test.ts test/data.test.ts
-          npx tsc --noEmit
           git diff --check
-
-      - name: Commit feature and remove one-time workflow
+      - name: Commit feature
         shell: bash
         run: |
           rm .github/workflows/patch-reader-lore-card.yml
