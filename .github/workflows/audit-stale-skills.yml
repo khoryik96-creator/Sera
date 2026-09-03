@@ -1,0 +1,74 @@
+name: Audit stale skills
+
+on:
+  push:
+    branches:
+      - fix/cross-arc-continuity-four
+
+permissions:
+  contents: write
+
+jobs:
+  audit:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout branch
+        uses: actions/checkout@v7
+        with:
+          ref: fix/cross-arc-continuity-four
+          fetch-depth: 0
+
+      - name: Audit Seasons 85-94 for stale evolved skill names
+        shell: bash
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+
+          data = json.loads(Path('src/data.json').read_text(encoding='utf-8'))
+          candidates = {
+              'Spring After Snow': 'Sanctuary of Petals',
+              "Heaven's Return": 'Sanctuary of Petals',
+              'Heaven’s Return': 'Sanctuary of Petals',
+              'Silent Winter': 'Moonless Snowfield',
+              'Falling Petal Step': 'Drifting Petals',
+              'Ten Thousand Li Beneath One Step': 'Drifting Petals',
+              'One Petal Before Dawn': 'One Petal Severs the Winter Moon',
+              'Winter Moon Severance': 'One Petal Severs the Winter Moon',
+              'Winter Mirror': 'Winter Ends, Spring Blossoms',
+              'Empty Spring': 'Winter Ends, Spring Blossoms',
+              'Autumn Without End': 'Winter Ends, Spring Blossoms',
+              'Winter Has No Horizon': 'REVIEW: not in current ten-skill registry',
+              'Eternal Spring': 'REVIEW: not in current ten-skill registry',
+          }
+
+          found = 0
+          for season_no in range(85, 95):
+              key = f'season{season_no}'
+              chapters = data.get(key, [])
+              for chapter in chapters:
+                  blob = '\n'.join(str(chapter.get(k, '')) for k in ('ep', 'title', 'text'))
+                  for old, current in candidates.items():
+                      count = blob.count(old)
+                      if count:
+                          found += count
+                          text = chapter.get('text', '')
+                          idx = text.find(old)
+                          start = max(0, idx - 140)
+                          end = min(len(text), idx + len(old) + 180)
+                          snippet = text[start:end].replace('\n', ' ')
+                          print(f'STALE_CANDIDATE|S{season_no}|{chapter.get("ep")}|{chapter.get("title")}|{old}|{current}|count={count}|{snippet}')
+          print(f'TOTAL_STALE_CANDIDATE_OCCURRENCES={found}')
+          PY
+
+      - name: Remove one-time audit workflow
+        if: always()
+        shell: bash
+        run: |
+          rm .github/workflows/audit-stale-skills.yml
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add .github/workflows/audit-stale-skills.yml
+          git commit -m "chore: remove stale-skill audit workflow"
+          git push origin HEAD:fix/cross-arc-continuity-four
