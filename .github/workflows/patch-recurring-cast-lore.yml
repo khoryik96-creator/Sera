@@ -1,0 +1,41 @@
+name: Patch recurring cast lore archive
+
+on:
+  push:
+    paths:
+      - '.github/workflows/patch-recurring-cast-lore.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  patch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout feature branch
+        uses: actions/checkout@v7
+        with:
+          ref: fix/recurring-cast-lore-archive
+          fetch-depth: 0
+
+      - name: Patch reader and regression coverage
+        run: node scripts/patch-recurring-cast-lore.mjs
+
+      - name: Validate
+        run: |
+          npm ci
+          npm run typecheck
+          npm run lint
+          npx vitest run test/loreMetadata.test.ts test/data.test.ts test/ranks.test.ts test/novel.test.ts
+          npm run build
+          git diff --check
+
+      - name: Commit patch and remove one-time helpers
+        run: |
+          rm scripts/patch-recurring-cast-lore.mjs
+          rm .github/workflows/patch-recurring-cast-lore.yml
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add src/react/features/reader/ReaderPage.tsx e2e/contextual-lore.spec.ts e2e/production-reader.spec.ts scripts/patch-recurring-cast-lore.mjs .github/workflows/patch-recurring-cast-lore.yml
+          git commit -m "Fix recurring cast lore metadata and archive links"
+          git push origin HEAD:fix/recurring-cast-lore-archive
