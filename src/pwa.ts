@@ -10,6 +10,12 @@ type InstallAvailabilityListener = (available: boolean) => void;
 
 let installPrompt: BeforeInstallPromptEvent | null = null;
 let refreshForUpdate = false;
+let reloadingForUpdate = false;
+// A new build detected within this window of the page loading is treated as an
+// update the reader just triggered by opening or refreshing, so it is applied
+// automatically. Updates that land later (mid-read) fall back to the banner so
+// an active reader is never yanked out of their chapter by a surprise reload.
+const AUTO_APPLY_WINDOW_MS = 20_000;
 const installAvailabilityListeners = new Set<InstallAvailabilityListener>();
 
 function isStandalone(): boolean {
@@ -88,22 +94,36 @@ async function registerServiceWorker(): Promise<void> {
   if (!('serviceWorker' in navigator) || !location.protocol.startsWith('http')) return;
   try {
     const workerVersion = BUILD_SHA && BUILD_SHA !== 'dev' ? `${APP_VERSION}-${BUILD_SHA}` : APP_VERSION;
+    const registeredAt = Date.now();
     const registration = await navigator.serviceWorker.register(`./sw.js?v=${encodeURIComponent(workerVersion)}`);
-    const announceWaitingWorker = (): void => {
-      if (registration.waiting && navigator.serviceWorker.controller) showUpdateBanner(registration);
+
+    const applyWaitingWorker = (): void => {
+      const waiting = registration.waiting;
+      if (!waiting) return;
+      refreshForUpdate = true;
+      waiting.postMessage({ type: 'SKIP_WAITING' });
     };
-    announceWaitingWorker();
+    const handleWaitingWorker = (): void => {
+      // Only a genuine update replaces an already-controlling worker; the first
+      // ever install (no controller) must not trigger a reload.
+      if (!registration.waiting || !navigator.serviceWorker.controller || refreshForUpdate) return;
+      if (Date.now() - registeredAt < AUTO_APPLY_WINDOW_MS) applyWaitingWorker();
+      else showUpdateBanner(registration);
+    };
+    handleWaitingWorker();
 
     registration.addEventListener('updatefound', () => {
       const worker = registration.installing;
       if (!worker) return;
       worker.addEventListener('statechange', () => {
-        if (worker.state === 'installed' && navigator.serviceWorker.controller) announceWaitingWorker();
+        if (worker.state === 'installed' && navigator.serviceWorker.controller) handleWaitingWorker();
       });
     });
 
     navigator.serviceWorker.addEventListener('controllerchange', () => {
-      if (refreshForUpdate) location.reload();
+      if (!refreshForUpdate || reloadingForUpdate) return;
+      reloadingForUpdate = true;
+      location.reload();
     });
 
     const checkForUpdate = (): void => {
