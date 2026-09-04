@@ -481,7 +481,7 @@ Core identity: **the more force an enemy imposes on Kael's world, the more weigh
 - Permanent title: **Black Radiance**.
 - Personal oriental name: **pending**.
 - Cultivation: **Established Paragon**.
-- Public status: unranked.
+- Public status: **unranked in Shinrin by deliberate choice**. Black Radiance dislikes attention, avoids public rankings, ceremonies and formal officer status, and prefers covert work. Only a small number of senior Shinrin insiders understand that his true cultivation is Established Paragon; he is therefore **not counted among Shinrin's official ten Paragon officers** despite being strong enough to stand among them.
 - He does **not** take the vacant Wuyue Top Ten seat.
 - The public seat remains vacant.
 - Later joins the Quaint Teahouse as **Sixth Petal**.
