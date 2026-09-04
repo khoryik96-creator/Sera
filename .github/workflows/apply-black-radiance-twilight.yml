@@ -1,0 +1,31 @@
+name: Apply Black Radiance Twilight
+on:
+  push:
+    branches:
+      - story/next-arc-outline
+    paths:
+      - .github/workflows/apply-black-radiance-twilight.yml
+permissions:
+  contents: write
+jobs:
+  apply:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: story/next-arc-outline
+          fetch-depth: 0
+      - run: python scripts/apply_black_radiance_twilight.py
+      - run: |
+          grep -q 'Twilight Dominion' docs/FINAL_ARC_SHINRIN_FOUNDATION.md
+          grep -q "third month of Rhen's seclusion" docs/FINAL_ARC_SHINRIN_FOUNDATION.md
+          grep -q 'hide inside connected shadows' docs/FINAL_ARC_SHINRIN_FOUNDATION.md
+          grep -q 'blindingly fast' docs/FINAL_ARC_SHINRIN_FOUNDATION.md
+          git diff --check
+      - run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add docs/FINAL_ARC_SHINRIN_FOUNDATION.md
+          git rm scripts/apply_black_radiance_twilight.py .github/workflows/apply-black-radiance-twilight.yml
+          git commit -m 'Lock Twilight Dominion and Sixth Petal recruitment timing'
+          git push origin HEAD:story/next-arc-outline
