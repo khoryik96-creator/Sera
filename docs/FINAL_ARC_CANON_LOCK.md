@@ -753,7 +753,7 @@ The following are deliberately unresolved and should **not** be treated as canon
 5. **Identity of Yun's Established-Paragon attacker.**
 6. **Shinrin internal factions / loyalty split.**
 7. **Romance / personal relationship threads among Shinrin Paragons.**
-8. **Specific historic ties between selected Shinrin Paragons and existing Wuyue Top Ten members.**
+8. **Officer #9 former-Isgard-leader details:** exact old title, disappearance, reason for entering Shinrin, relationship to current Isgard leadership, and eventual fate.
 9. **Exact portion of Shinrin's 200,000+ force that invades Isgard at each stage.**
 10. **Exact distribution of cultivation inside the expanded 1,000-person Quaint Teahouse.**
 11. **Luo Wen's new poison-attack technique names.**
@@ -796,7 +796,17 @@ At minimum, the ten should include:
 - one Established Paragon who is strategically loyal rather than sadistic;
 - one sympathetic Stable Paragon;
 - one Paragon with a meaningful personal tie to Black Radiance;
-- one or two officers with pre-existing history involving Wuyue Top Ten members **other than Sera and Rhen**.
+- **Officer #9 is reserved as a former leader of Isgard**, now a Stable Paragon within Shinrin. Isgard may know the man from history, but neither Isgard nor Wuyue knew Shinrin existed through him.
+- **No Shinrin Paragon has a pre-existing personal history with Jin Seoryu or any other Wuyue Top Ten member before this arc.** Shinrin must remain genuinely unknown to Wuyue.
+
+
+### Locked discovery rule before Step 2
+
+- **Wuyue has no prior knowledge of Shinrin as a martial power or political entity.**
+- Do not create old Jin / Kael / Liang / Lei / Rui / other Wuyue-Top-Ten relationships with Shinrin officers.
+- Any historical reveal should come through **Isgard**, especially Officer #9.
+- **Officer #9 — LOCKED CONCEPT:** one of Shinrin's Stable Paragons is a **former leader of Isgard** from an earlier generation. He disappeared / was believed dead or permanently lost before the present era and later became part of Shinrin. The exact circumstances remain pending.
+- His eventual reveal should shock Isgard because they recognize the man, while Wuyue learns both his identity and Shinrin's history for the first time.
 
 ## Step 2 — Build Shinrin's internal history and corruption arc
 
@@ -815,7 +825,7 @@ This prevents Shinrin from feeling like “another evil continent.”
 
 ## Step 3 — Build the emotional web
 
-Create 3–4 non-war relationships that make the enemy side human:
+Create 3–4 non-war relationships that make the Shinrin side human. These relationships should be internal to Shinrin / Black Radiance or tied to Isgard history, **not retroactive Wuyue friendships**, because Wuyue did not know Shinrin existed:
 
 - old friendship;
 - sibling / mentor bond;
