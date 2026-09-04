@@ -1,0 +1,114 @@
+name: Apply Black Radiance Twilight Dominion
+on:
+  push:
+    branches: [story/next-arc-outline]
+    paths: ['.github/workflows/apply-black-radiance-twilight.yml']
+permissions:
+  contents: write
+jobs:
+  apply:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: story/next-arc-outline
+          fetch-depth: 0
+      - name: Patch Shinrin foundation
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          p = Path('docs/FINAL_ARC_SHINRIN_FOUNDATION.md')
+          s = p.read_text()
+
+          s = s.replace(
+            "He is not part of Wuyue's public Top Ten. The vacant public seat remains vacant. After defecting from Shinrin and proving himself through the war, he is recruited into **The Quaint Teahouse as the Sixth Petal**. Rhen remains the **Hidden Petal**.\n\nHis Established-Paragon status means he does possess a true Domain; its exact name/mechanics remain approval-gated until selected.",
+            "He is not part of Wuyue's public Top Ten. The vacant public seat remains vacant. During Rhen's six-month seclusion, after defecting from Shinrin and proving himself through repeated operations beside Wuyue and Isgard, he is recruited into **The Quaint Teahouse as the Sixth Petal**. Rhen remains the **Hidden Petal**.\n\nThe recommended induction point is roughly **the third month of Rhen's seclusion**: late enough that Sera, Tae, Huo, Qin, Kael and the Isgard side have had time to test his loyalty, but early enough that Black Radiance becomes part of the alliance while the Shinrin war is still escalating. Sera makes the recruitment decision while Rhen is unavailable.\n\nHis Established-Paragon Domain is permanently named **Twilight Dominion**."
+          )
+
+          old = """### 12.6 Distinction From Existing Characters
+
+- **Sera** manipulates commitment, false futures, concealment and Counter-Blooms; this fighter manipulates literal light and darkness qi.
+- **Qin** attacks orientation through vibration and echo waves; this fighter attacks visual information through radiance and genuine darkness.
+- **Rhen** can overwhelm perception through Moonless Snowfield, but this character's system is narrower and elemental rather than total battlefield perception control.
+
+### 12.7 Character Tone
+"""
+          new = """### 12.6 **Twilight Dominion** — Paragon Domain — LOCKED
+
+Black Radiance's Domain turns the battlefield into a constantly shifting coexistence of literal **Light Qi** and **Darkness Qi**. It is not illusion magic, spatial movement or mental control. The Domain changes the physical amount of radiance, shadow, visual contrast and elemental qi available around every movement.
+
+#### Shadow / Darkness State
+
+- Wherever genuine shadow or Darkness Qi gathers inside the Domain, Black Radiance can suppress reflected light around his body until his outline and movement become extraordinarily difficult to see.
+- He can **hide inside connected shadows** by moving physically through them while Darkness Qi erases the visual cues that would normally reveal him. He does not teleport, become intangible or enter another dimension.
+- Enemies caught inside the deep shadow cast or expanded by his Darkness Qi become **blinded by real darkness**: ambient and reflected light are swallowed/scattered until ordinary sight becomes useless.
+- Nonvisual senses such as Qin-style resonance, touch, hearing or sufficiently refined qi perception can still function, so the darkness is powerful but not absolute omniscient concealment.
+
+#### Light / Radiance State
+
+- In illuminated regions of the Domain, Black Radiance floods his meridians and movement lines with Light Qi and becomes **blindingly fast**.
+- Radiant Step and other movement techniques accelerate far beyond their ordinary state because the Domain continuously supplies the radiance his Light Qi propagates through.
+- Enemies exposed directly to his concentrated Light Qi become **dazed / visually overwhelmed by genuine blinding radiance**. This is a physical sensory effect rather than mind control.
+- Strong opponents can fight through the dazzle, close their eyes, defend by qi sense or use nonvisual perception, but doing so sacrifices normal visual tracking against an Established Paragon moving at Light-Qi speed.
+
+#### Twilight Transition
+
+- Light and Darkness Qi continuously consume, replace and border one another across the Domain, creating moving **twilight boundaries**.
+- Crossing from darkness into light lets Black Radiance convert concealed movement directly into explosive Light-Qi acceleration.
+- Crossing from light into darkness lets him preserve physical momentum while abruptly removing the visible path of the attack.
+- His techniques may therefore change elemental state during one continuous physical action: speed can become concealment, concealment can become speed, and the transition itself is what makes his martial art hardest to read.
+- Where concentrated Light Qi and Darkness Qi collide, the opposing elemental pressures can burst outward as destructive twilight force, but this remains a secondary battlefield effect rather than the Domain's only purpose.
+
+#### Core Combat Identity
+
+Inside **Twilight Dominion** the opponent faces a constant choice with no comfortable answer:
+
+- remain in light and Black Radiance becomes terrifyingly fast while the radiance dazzles normal sight;
+- retreat into shadow and he becomes much harder to locate while the darkness blinds ordinary vision;
+- attempt to move between both and Black Radiance can weaponize the transition faster than most opponents can adapt.
+
+The Domain should feel like the perfected battlefield expression of his existing **Radiant Step**, **Black Veil**, **Piercing Dawn**, **Night Severance** and **Eclipse Crossing**, not a separate magical power set.
+
+### 12.7 Distinction From Existing Characters
+
+- **Sera** manipulates commitment, false futures, concealment and Counter-Blooms; Black Radiance manipulates literal light, darkness and the transition between them.
+- **Qin** attacks orientation through vibration and echo waves; Black Radiance attacks ordinary vision through genuine darkness and overwhelming radiance.
+- **Huo** disrupts the link between intended and executed martial action; Twilight Dominion does not alter an enemy's decisions or bodily commands.
+- **Rhen** can overwhelm perception through Moonless Snowfield, but Black Radiance's system is narrower, elemental and dependent on actual Light Qi / Darkness Qi conditions.
+
+### 12.8 Character Tone
+"""
+          assert old in s, 'distinction block not found'
+          s = s.replace(old, new)
+
+          s = s.replace(
+            "- eventually chooses the Quaint Teahouse voluntarily after fighting beside Wuyue and Isgard rather than being absorbed on first contact;\n- becomes the **Sixth Petal** after the war, while the public Top Ten seat remains empty;",
+            "- eventually chooses the Quaint Teahouse voluntarily after fighting beside Wuyue and Isgard rather than being absorbed on first contact;\n- is recruited by **Sera around the third month of Rhen's seclusion** and becomes the **Sixth Petal** while the public Top Ten seat remains empty;\n- Rhen remains the **Hidden Petal** throughout and does not need to approve or vacate his role for the Sixth Petal to exist;"
+          )
+
+          s = s.replace(
+            "6. **Black Radiance role — LOCKED:** Shinrin dissident / former covert operative; **Established Paragon**; later recruited as the **Sixth Petal** of the Quaint Teahouse; does **not** take the vacant public Top Ten seat.",
+            "6. **Black Radiance role — LOCKED:** Shinrin dissident / former covert operative; **Established Paragon**; recruited by Sera as the **Sixth Petal** around month three of Rhen's seclusion; Rhen remains Hidden Petal; Black Radiance does **not** take the vacant public Top Ten seat.\n7. **Black Radiance Domain — LOCKED:** **Twilight Dominion**, with shadow concealment / real-darkness blindness, Light-Qi acceleration / blinding dazzle, and transition-based combat between the two elemental states."
+          )
+          s = s.replace("7. Name / design **Sigrun's Paragon Domain**.", "8. Name / design **Sigrun's Paragon Domain**.")
+          s = s.replace("8. **Yun fate — LOCKED:**", "9. **Yun fate — LOCKED:**")
+          s = s.replace("9. Decide whether any Shinrin Paragon defects", "10. Decide whether any Shinrin Paragon defects")
+          s = s.replace("10. Decide how much of Shinrin's 200,000+ elite force", "11. Decide how much of Shinrin's 200,000+ elite force")
+
+          p.write_text(s)
+          PY
+      - name: Validate
+        run: |
+          grep -q 'Twilight Dominion' docs/FINAL_ARC_SHINRIN_FOUNDATION.md
+          grep -q "third month of Rhen's seclusion" docs/FINAL_ARC_SHINRIN_FOUNDATION.md
+          grep -q 'hide inside connected shadows' docs/FINAL_ARC_SHINRIN_FOUNDATION.md
+          grep -q 'blindingly fast' docs/FINAL_ARC_SHINRIN_FOUNDATION.md
+          git diff --check
+      - name: Commit and self-delete
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add docs/FINAL_ARC_SHINRIN_FOUNDATION.md
+          git rm .github/workflows/apply-black-radiance-twilight.yml
+          git commit -m 'Lock Black Radiance Twilight Dominion and recruitment timing'
+          git push origin HEAD:story/next-arc-outline
