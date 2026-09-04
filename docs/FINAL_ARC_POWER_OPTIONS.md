@@ -52,16 +52,60 @@ The political / administrative group names **Five Sovereigns** and **Five Dukes*
 
 ## 2. Locked Rhen — Two-Year Evolution
 
-Rhen gains no mandatory new named technique. His existing arts evolve through dramatically denser, purer qi and greater scale.
+Rhen gains no mandatory new named technique. His existing arts evolve because, late in the peaceful rebuilding interval, he deliberately enters another seclusion to solve a problem created by **Frozen Petals Garden** itself: his reserve is regenerating and accumulating power faster than his body should continue carrying it in its old diffuse state.
 
-### 2.1 Frozen Petals Garden — Energy Condensation
+### 2.1 Six-Month-Plus Seclusion — Condensing One Hundred Into One
 
-- Roughly **1% of Rhen's current output now carries the effective qi density that previously required 100%**.
-- His current full state therefore represents about **100× the effective qi density / usable power** of his prior full state.
-- This is not a requirement to narrate every attack as a literal damage multiplier; different arts express the density differently.
-- Every offensive art nevertheless has a vastly higher lethal ceiling.
+By this stage **Frozen Petals Garden** replenishes Rhen's internal energy at an absurd rate. After extreme expenditure, his reserve can return to effectively full strength in roughly **one day** under ordinary conditions.
 
-### 2.2 Sanctuary of Petals
+That recovery speed means his body is repeatedly being refilled with an enormous quantity of raw qi. Rather than allow the reservoir to keep expanding outward, Rhen chooses to compress it.
+
+He enters seclusion for **a little over six months**.
+
+The task is not to gain another realm. It is to force his existing full reserve into a far denser state and make his meridians, body and passive stable enough to carry it safely.
+
+During the process:
+
+- Rhen repeatedly compresses a full reservoir instead of merely spending it;
+- **100% of his former full-state energy is condensed into the equivalent of 1% of his new usable reserve**;
+- Frozen Petals Garden keeps replenishing the energy involved in each refinement cycle, so the compression has to be repeated and stabilized again and again;
+- his meridians and physical vessel gradually adapt to carrying ultra-dense qi rather than a larger diffuse reservoir;
+- the final stabilization takes months because the entire reserve must become equally dense and safe, not because Rhen lacks energy.
+
+When the seclusion is complete:
+
+- **new 1% ≈ old 100%** in effective qi density / usable force;
+- **new 100% ≈ old 10,000%**, so his full current state is roughly **100× his previous full-state effective power**;
+- this is the intended meaning of the user's **100% × 100** description;
+- Frozen Petals Garden still replenishes the new ultra-dense reserve extraordinarily quickly, allowing Rhen to recover to full energy in roughly a day after extreme expenditure;
+- the condensation does not create a named realm above Paragon. It makes normal ranking language even less useful for Rhen.
+
+This seclusion is the direct cause of the later scale increases to his existing techniques and passive. **One percent of present Rhen can reproduce what once required essentially everything he had.** Full output has a vastly higher ceiling.
+
+The density should not be narrated as a mandatory literal 100× damage multiplier every time he moves. Each art converts the denser qi differently: destructive force, speed, control, healing scale, stasis authority, penetration, endurance or range.
+
+### 2.2 Seclusion Timing — Rhen Leaves One Day Before the Crisis Begins
+
+Rhen **enters seclusion one day before Yun Shizhen's death is discovered / confirmed in Isgard and the emergency warning is sent to Wuyue**.
+
+- He has no knowledge of Yun's fate when he begins seclusion.
+- His decision to cultivate is unrelated to Shinrin; he is solving his own increasingly dangerous energy-density problem.
+- The timing deliberately removes Wuyue and Isgard's strongest emergency factor at the exact moment the Shinrin crisis becomes visible.
+- Rhen remains in seclusion for **more than six months** while Sera, Tae, Huo, Qin, Kael, Wuyue and Isgard investigate, mobilize, fight and survive without being able to call him in.
+- The arc must not use Rhen as an available battlefield solution during this period.
+- His eventual return happens only after the condensation is truly complete and should occur when the allied side has reached a genuinely desperate point.
+
+### 2.3 Frozen Petals Garden — Violet Frozen-Petal Aura
+
+After the condensation succeeds, the visible expression of Rhen's qi changes.
+
+- His familiar frozen petals remain the defining motif, but the frost-white petals now carry a **pale violet / purplish radiance** through their edges and centres.
+- When Rhen is not deliberately suppressing himself, a faint **purple-tinted frozen-petal aura** drifts around him as tiny amounts of ultra-dense qi escape harmlessly into the air.
+- Higher output makes the violet tone deeper and the surrounding petals more numerous.
+- The colour change is **not a new element, corruption, transformation or separate martial art**. It is the visual symptom of qi compressed far beyond its earlier density.
+- Rhen can still suppress the aura completely when he wants to look like an ordinary healer or tea-shop worker.
+
+### 2.4 Sanctuary of Petals
 
 - **Maximum radius:** 30 miles.
 - **Maximum simultaneous population:** 100,000.
@@ -71,13 +115,13 @@ Rhen gains no mandatory new named technique. His existing arts evolve through dr
 - At the full 100,000-person maximum, complete restoration may require approximately **2–3 days**.
 - It still does not resurrect the dead.
 
-### 2.3 Petals in Stasis
+### 2.5 Petals in Stasis
 
 - **Maximum radius:** 10 miles.
 - Any martial Domain detected inside the active Stasis field is **neutralized immediately** rather than entering a conventional Domain clash.
 - The anti-Domain rule applies to friendly and hostile Domains alike unless Rhen deliberately excludes an area; Sera's Orchid Dominion therefore cannot casually coexist inside the same anti-Domain Stasis space.
 
-### 2.4 Petals Beneath a Frozen Moon
+### 2.6 Petals Beneath a Frozen Moon
 
 Rhen's Ultimate retains its existing approved reach unless later revised.
 

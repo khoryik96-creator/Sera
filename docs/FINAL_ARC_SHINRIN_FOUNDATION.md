@@ -1,6 +1,6 @@
 # Final Arc — Shinrin Foundation
 
-> **Status:** Working companion to `docs/FINAL_ARC_OUTLINE.md`. The user-locked world-state, two-year peace, Wuyue–Isgard defensive pact, Quaint Teahouse expansion, Isgard epidemic/recovery state, Yun Shizhen disappearance, Shinrin military scale and invasion motive below are locked for planning. Tae's additional skills, the Shinrin ruling-guild name, Sigrun's Domain, and the new light/darkness unranked character remain approval-gated until selected. **Axtaya** is now locked as the name of Shinrin's life-burning amplifier poison, and Yun Shizhen's final fate is locked below.
+> **Status:** Working companion to `docs/FINAL_ARC_OUTLINE.md`. The user-locked world-state, two-year peace, Wuyue–Isgard defensive pact, Quaint Teahouse expansion, Isgard epidemic/recovery state, Yun Shizhen disappearance, Shinrin military scale and invasion motive below are locked for planning. Tae's additional skills, the Shinrin ruling-guild name, Sigrun's Domain, and the light/darkness master's **personal name** remain approval-gated. **Axtaya**, Yun Shizhen's final fate, the title **Black Radiance**, the Shinrin-dissident role, and the literal Light Qi / Darkness Qi skill direction are locked below.
 >
 > This foundation **supersedes the earlier forged-order / evidence-war central-premise route** wherever the two conflict. The existing 200-chapter structure remains locked, but the detailed Part I / Part II chapter beats in `FINAL_ARC_OUTLINE.md` must be rewritten around Shinrin before finished Season 95 prose begins.
 
@@ -180,7 +180,7 @@ During the peaceful interval, **Yun Shizhen / No.10 / The Pale Venom disappears 
 
 Her disappearance is not immediately treated as a kidnapping because Yun is exactly the kind of poison specialist who may travel without announcing every destination. She has independently traced reports of **Axtaya** to the smaller continent of **Shinrin**.
 
-In Shinrin, Yun discovers enough about Axtaya and the ruling guild's military preparation to become a liability. One of Shinrin's Paragons attacks her. During that attack, **Yun is sexually assaulted**. The event must be handled non-graphically and without erotic framing; the story focus is Yun's survival, injuries, rage, evidence and determination to get the warning out.
+In Shinrin, Yun discovers enough about Axtaya and the ruling guild's military preparation to become a liability. One of Shinrin's **four Established Paragons** attacks her. The attacker is **not** the Peak-Paragon guild leader; the exact officer number and identity remain to be named. During that attack, **Yun is sexually assaulted**. The event must be handled non-graphically and without erotic framing; the story focus is Yun's survival, injuries, rage, evidence and determination to get the warning out.
 
 Despite the assault and severe injuries, Yun escapes Shinrin and eventually reaches **Isgard** alive.
 
@@ -195,7 +195,41 @@ She is already beyond recovery by the time Isgard receives her. Before dying, Yu
 
 Isgard then sends an urgent formal warning to **Wuyue**, activating the political and defensive relationship built during the previous two peaceful years.
 
-This replaces the earlier route where Wuyue would search for and recover Yun alive. Yun's successful escape and warning become the catalyst that exposes Shinrin.
+### 7.1 Rhen Enters Seclusion One Day Before Yun's Death Is Discovered
+
+Rhen is **not available** when the Shinrin crisis breaks.
+
+Exactly **one day before** Yun's death is discovered / confirmed in Isgard and the emergency warning is sent to Wuyue, Rhen voluntarily enters another long seclusion.
+
+His reason has nothing to do with Yun or Shinrin. Frozen Petals Garden is restoring his energy so quickly that his old energy-density state is becoming unsuitable for his body. He therefore shuts himself away to compress what used to be his entire 100% reserve into the equivalent of 1% of a new, far denser reserve.
+
+Consequences for the arc:
+
+- Rhen does not know Yun has died when he enters seclusion.
+- Wuyue learns about Yun, Axtaya and Shinrin **after Rhen has already made himself unavailable**.
+- Sera and the others cannot simply summon him when the threat becomes frightening.
+- Rhen remains in seclusion for **a little over six months** while Shinrin's pressure escalates.
+- Sera, Tae, Huo, Qin, Kael, the expanded Quaint Teahouse, Wuyue's rebuilt institutions and Isgard's surviving forces have to carry the crisis themselves during that period.
+- This gives their new Paragon / Sovereign growth real narrative weight instead of making Rhen the first answer to every problem.
+
+### 7.2 Rhen's Return — The Badass Reappearance
+
+Rhen emerges only when the condensation is genuinely finished.
+
+By then:
+
+- **1% of his new reserve is approximately equivalent to his former 100%**;
+- his existing techniques and Frozen Petals Garden have evolved around the ultra-dense qi;
+- the familiar frozen-petal aura has changed into frost-white petals carrying a **pale-violet / purple radiance**;
+- his full current reserve represents roughly **100× his previous full-state effective power**.
+
+His return should be timed for a point when the Wuyue–Isgard side is under genuine strategic or battlefield pressure and the reader has had months of story in which Rhen could not save them.
+
+The intended feeling is simple: **when they need him most, Rhen finally walks back out of seclusion.**
+
+He should not announce a new realm or give a long power explanation in the moment. The visual—Rhen appearing calmly while unfamiliar violet frozen petals drift around him—should tell the cast that something has changed before his first upgraded technique proves how much.
+
+This replaces the earlier route where Wuyue would search for and recover Yun alive. Yun's successful escape and warning become the catalyst that exposes Shinrin, while Rhen's absence forces everyone else to stand on their own before his later return.
 
 ---
 
@@ -291,7 +325,7 @@ Recommended dramatic function:
 - discover Shinrin's 200,000+ Peak-Marquis-floor military machine;
 - discover evidence of secret invasion preparation;
 - receive Yun's final warning through Isgard after she escapes Shinrin and dies there;
-- introduce the new light/darkness unranked figure;
+- introduce **Black Radiance**, the unranked Shinrin light/darkness master;
 - end Part I with Wuyue and Isgard understanding that Shinrin is preparing a continental conquest.
 
 ### Part II — Seasons 105–114 / Chapters 401–500
@@ -371,15 +405,17 @@ He is exceptionally dangerous because his martial path is rare and difficult to 
 
 ### 12.2 Narrative Role
 
-Recommended role remains a **Shinrin dissident / former covert operative** who left the ruling guild before the invasion became public.
+**Locked role:** a **Shinrin dissident / former covert operative** who left the ruling guild before the invasion became public.
 
 He is not automatically heroic and does not instantly become Sera's subordinate. His knowledge of Shinrin, Axtaya routes and ruling-guild habits makes him strategically valuable.
 
-### 12.3 Oriental Name / Title Options — NOT LOCKED
+### 12.3 Personal Name Pending / Title Locked
 
 The prior **Ren Tsukishiro / Dusk Walker** proposal is discarded.
 
-Name options:
+**Permanent title: Black Radiance.**
+
+His personal name remains approval-gated. Current oriental-name options remain:
 
 1. **Kanzaki Reito**
 2. **Amagiri Seiran**
@@ -388,16 +424,7 @@ Name options:
 5. **Shigure Ren**
 6. **Mizuhara Kaito**
 
-Title options:
-
-1. **The Black Sun**
-2. **Heaven-Eclipsing Saint**
-3. **Lord of the Eclipse**
-4. **The Lightless Sun**
-5. **Black Radiance**
-6. **The Eclipse Hand**
-
-The final name and title should be selected separately.
+Future planning should refer to him as **Black Radiance** until the personal name is selected.
 
 ### 12.4 Martial Foundation — Literal Light Qi and Darkness Qi
 
@@ -412,7 +439,7 @@ Both remain internal-energy expressions used through body movement, palms, footw
 
 The fighter can **project and shape Light Qi and Darkness Qi as real martial elements** around his body and attacks.
 
-### 12.5 Proposed Skill Set — NOT LOCKED
+### 12.5 Locked Light / Darkness Skill Set
 
 #### **Radiant Step** — Transcended Movement
 
@@ -470,9 +497,9 @@ The following should be decided before the old conspiracy beat sheet is replaced
 1. Approve / revise Tae's three new arts: **Ironheart**, **Horizon Break**, **Anchor Step**.
 2. Choose the Shinrin ruling guild name.
 3. **Axtaya — LOCKED.** No further poison-name selection required.
-4. Choose the new unranked light/darkness character's final name and title from the revised oriental options or provide a new one.
-5. Approve / revise the revised **literal Light Qi / Darkness Qi** skill set.
-6. Decide whether the new unranked figure is a Shinrin dissident, hermit, border wanderer or other role.
+4. Choose **Black Radiance's personal name** from the oriental options or provide a new one; the title itself is locked.
+5. **Light Qi / Darkness Qi skill direction — LOCKED.**
+6. **Black Radiance role — LOCKED:** Shinrin dissident / former covert operative.
 7. Name / design **Sigrun's Paragon Domain**.
 8. **Yun fate — LOCKED:** assaulted by a Shinrin Paragon, escapes to Isgard, delivers warning, dies; portrayal must remain non-graphic and consequence-focused.
 9. Decide whether any Shinrin Paragon defects, is politically divided from the leader, or all ten remain loyal.
