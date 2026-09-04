@@ -1,0 +1,40 @@
+name: Apply Black Radiance Paragon role
+on:
+  push:
+    branches: [story/next-arc-outline]
+    paths: ['.github/workflows/apply-black-radiance-paragon.yml']
+permissions:
+  contents: write
+jobs:
+  apply:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: story/next-arc-outline
+          fetch-depth: 0
+      - name: Patch foundation
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          p = Path('docs/FINAL_ARC_SHINRIN_FOUNDATION.md')
+          s = p.read_text()
+          s = s.replace('Recommended cultivation remains **High Sovereign**.\n\nHe is exceptionally dangerous because his martial path is rare and difficult to read, not because he secretly possesses a Paragon Domain.', '**Locked cultivation: Established Paragon.**\n\nHe is not part of Wuyue\'s public Top Ten. The vacant public seat remains vacant. After defecting from Shinrin and proving himself through the war, he is recruited into **The Quaint Teahouse as the Sixth Petal**. Rhen remains the **Hidden Petal**.\n\nHis Established-Paragon status means he does possess a true Domain; its exact name/mechanics remain approval-gated until selected.')
+          s = s.replace('- can cooperate with Sera without immediately serving her;\n- understands very quickly that Rhen is outside any sensible comparison.', '- can cooperate with Sera without immediately serving her;\n- eventually chooses the Quaint Teahouse voluntarily after fighting beside Wuyue and Isgard rather than being absorbed on first contact;\n- becomes the **Sixth Petal** after the war, while the public Top Ten seat remains empty;\n- understands very quickly that Rhen is outside any sensible comparison.')
+          s = s.replace('6. **Black Radiance role — LOCKED:** Shinrin dissident / former covert operative.', '6. **Black Radiance role — LOCKED:** Shinrin dissident / former covert operative; **Established Paragon**; later recruited as the **Sixth Petal** of the Quaint Teahouse; does **not** take the vacant public Top Ten seat.')
+          p.write_text(s)
+          PY
+      - name: Validate
+        run: |
+          grep -q 'Locked cultivation: Established Paragon' docs/FINAL_ARC_SHINRIN_FOUNDATION.md
+          grep -q 'Sixth Petal' docs/FINAL_ARC_SHINRIN_FOUNDATION.md
+          grep -q 'vacant public seat remains vacant' docs/FINAL_ARC_SHINRIN_FOUNDATION.md
+          git diff --check
+      - name: Commit and self-delete
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add docs/FINAL_ARC_SHINRIN_FOUNDATION.md
+          git rm .github/workflows/apply-black-radiance-paragon.yml
+          git commit -m 'Lock Black Radiance as Established Paragon Sixth Petal'
+          git push origin HEAD:story/next-arc-outline
