@@ -1,6 +1,6 @@
 # Final Arc — Shinrin Paragon Roster
 
-> **Status:** Names and previously approved identity facts are LOCKED. Martial styles, signature skills and Domains below are **PROPOSED / approval-gated** until explicitly accepted.
+> **Status:** Names and previously approved identity facts are LOCKED. Martial styles, signature skills and Domains below remain **PROPOSED / approval-gated** until explicitly accepted.
 >
 > This file supplements `FINAL_ARC_CANON_LOCK.md`. Where a proposed martial detail conflicts with later approved canon, the later approval wins.
 
@@ -33,42 +33,90 @@
 
 ---
 
-# 2. Proposed Martial Roster
+# 2. Proposed Martial Roster — Revised
 
 ## #1 Rai Kurokawa — Peak Paragon
 
-### Style — Continuous-Current Internal Boxing
+### Style — Longbow / Threaded Bow-Qi Archery
 
-Rai fights almost entirely barehanded. His martial philosophy is that no movement, impact or breath should ever end independently; every action is fed into the next. He is calm, economical and nearly impossible to make waste force.
+Rai should not resemble Tae, Kael or Huo in silhouette or fighting rhythm. He is a **dedicated long-range archer** who prefers to decide a battle before an opponent reaches him.
+
+He uses a powerful black longbow and specially balanced heavy arrows. His internal art produces extremely fine strands of bow qi that remain connected to arrows he has personally fired for a short interval. He is not telekinetically controlling objects; the qi strands act like temporary extensions of bowstring tension.
+
+At ordinary levels, an archer wins by predicting where a target will be. Rai wins because a shot can still be adjusted **after the target believes the original trajectory has been solved**.
 
 ### Signature skills
 
-**River Without End — Transcended Passive**
-- Rai keeps several internal circulation routes open at once.
-- Physical momentum from a block, sidestep, shoulder turn or absorbed impact is carried through the body instead of being allowed to die.
-- He does not steal enemy qi; he preserves and reroutes physical momentum and his own internal force.
+#### **Silent String — Transcended Passive / Control**
 
-**One Current Palm — Transcended Offense**
-- A palm strike that collects the momentum of Rai's immediately preceding movements into one short-range impact.
-- The longer a clean exchange continues, the more efficiently he can feed earlier motion into the next strike.
+Rai wraps bow, hands and shoulders in tightly controlled qi at the moment of release.
 
-**Heaven Returns to Sea — Supreme**
-- Rai collapses every active internal current into one unified circulation for a single overwhelming attack, defence or redirection.
-- Afterwards he must rebuild the multi-current rhythm rather than spam it repeatedly.
+What it does:
 
-### Domain — **Confluence Dominion**
+- absorbs most recoil into his stance and circulation;
+- suppresses the normal explosive crack of the bowstring;
+- lets him fire accurately while stepping, turning or dropping from height;
+- allows much faster follow-up shots because the bow settles almost instantly after release.
 
-Inside the Domain, every movement Rai himself successfully completes can be joined into one continuous martial current.
+What it looks like:
 
-- a parry can feed a step;
-- a step can feed a shoulder turn;
-- a shoulder turn can feed a palm;
-- physical momentum he successfully receives can be redirected through his own body into the next movement;
-- almost no usable motion is wasted while he maintains the flow.
+The bow barely seems to move. Often the target hears the arrow striking before hearing anything from Rai's position.
 
-The Domain does **not** steal cultivation, copy techniques or automatically redirect attacks. Rai must physically receive, evade, guide or complete each exchange correctly first.
+It does not make him invisible and does not erase the physical arrow.
 
-**Combat identity:** the longer Rai is allowed to maintain a clean continuous exchange, the more perfectly the whole fight becomes one movement belonging to him.
+#### **Black Comet — Transcended Offense**
+
+Rai condenses qi tightly along the entire arrow rather than creating a huge projectile blast.
+
+Effect:
+
+- extreme penetration;
+- very little wasted outward explosion;
+- can punch through layered armour, barriers or dense defensive qi if the shot is properly placed;
+- loses some effectiveness if forced to fire before he finishes compression.
+
+What it looks like:
+
+A dark, almost ordinary-looking arrow crosses the battlefield with very little spectacle, followed a heartbeat later by the sound of whatever it penetrated breaking behind it.
+
+#### **Nine Stars Descend — Supreme**
+
+Rai fires nine arrows at deliberately different elevations, speeds and timings.
+
+They initially appear unrelated.
+
+Using his bow-qi control, he causes the nine shots to enter the target area within the same tiny window from different angles.
+
+The opponent is therefore not blocking nine arrows one after another; they are dealing with **nine physical killing lines arriving almost together**.
+
+It requires enormous concentration and is difficult to repeat immediately.
+
+### Domain — **Heavenstring Dominion**
+
+Inside the Domain, every arrow Rai personally fires can remain connected to him by an ultra-fine strand of bow qi until it hits, leaves the Domain or the strand breaks.
+
+For each connected arrow, Rai can make **one meaningful correction** while it is still in flight.
+
+Possible corrections include:
+
+- slightly changing angle after an opponent dodges;
+- accelerating an arrow late;
+- delaying one arrow so several attacks arrive together;
+- tightening several trajectories toward the same defensive opening;
+- pulling a near-miss into a grazing or penetrating strike.
+
+Important limits:
+
+- arrows do **not** teleport;
+- they still obey physical momentum and cannot turn at impossible right angles;
+- Rai cannot attach strings to enemy weapons, bodies or unrelated objects;
+- sufficiently powerful qi interference can sever a bow-qi strand;
+- forcing Rai into cramped close combat makes maintaining many strings much harder;
+- each additional connected arrow costs concentration and reserve.
+
+At Peak Paragon level, however, he can sustain a frightening number of simultaneous shots.
+
+**Combat identity:** Rai makes ordinary archery rules unreliable. Dodging the first trajectory is not enough, because the arrow may still have one decision left.
 
 ---
 
@@ -76,33 +124,74 @@ The Domain does **not** steal cultivation, copy techniques or automatically redi
 
 ### Style — Seizing Hand / Close-Range Capture Art
 
-Jin is a brutal close-range specialist using grappling, palms, elbows and short hooked blades. His martial art was originally designed for capturing high-level fugitives alive, but he turned it into a cruel control system.
+Jin fights with grappling, elbows, palms, finger strikes and paired short hooked blades.
+
+His martial system began as a legitimate Shinrin capture art designed to arrest dangerous cultivators without immediately killing them. Jin transformed it into a method of progressively taking control of an opponent's body section by section.
+
+He wants contact. A clean duel against Jin becomes increasingly dangerous every time he earns even a small touch.
 
 ### Signature skills
 
-**Five Lock Hand — Transcended Control**
-- Precise fingers, palms and elbows strike major circulation junctions.
-- A clean hit creates temporary localized numbness, weakness or delayed qi flow.
+#### **Five Lock Hand — Transcended Control**
 
-**Wolf Hook — Transcended Offense**
-- Short hooked blades catch sleeves, weapons, armour gaps or limbs and drag the opponent into Jin's close-combat range.
-- It is physical hooking reinforced by qi, not telekinetic pulling.
+Jin strikes five major circulation junctions using fingers, palm heel, elbow or wrist.
 
-**Closed Meridian Cage — Supreme**
-- A rapid sequence targeting several previously contacted circulation points.
-- If enough contacts land, Jin can temporarily make a limb or section of the body extremely difficult to circulate qi through.
+A precise hit does not simply hurt. It disrupts the local relationship between muscle response and qi circulation.
+
+Effects may include:
+
+- numb fingers;
+- a weakening grip;
+- delayed leg response;
+- reduced qi flow through one shoulder or elbow;
+- short bursts of painful circulation when the victim tries to force power through the damaged point.
+
+The effect is temporary unless Jin causes real physical injury.
+
+#### **Wolf Hook — Transcended Offense / Capture**
+
+Jin's hooked blades are designed to catch rather than slash cleanly through.
+
+He can hook:
+
+- a weapon guard;
+- armour seam;
+- sleeve;
+- belt;
+- shield rim;
+- exposed limb.
+
+He then combines body rotation and qi-reinforced pulling force to drag the target off structure and into elbow/grappling range.
+
+There is no telekinetic pull; the hook must physically catch something.
+
+#### **Closed Meridian Cage — Supreme**
+
+Jin rapidly strikes several circulation points that he has already identified or contacted during the fight.
+
+If enough land in the correct sequence, a whole limb or body section can become temporarily unable to circulate high-output qi cleanly.
+
+The victim may still move physically, but attempting a major technique through that region becomes slow, painful or unstable.
 
 ### Domain — **Hundred Locks Dominion**
 
-Every clean physical contact Jin earns inside the Domain leaves a short-lived **lock** on that exact contacted region.
+Every clean physical contact Jin earns inside the Domain leaves a short-lived **lock** in that exact contacted region.
 
-- one lock causes mild circulation drag;
-- repeated locks on the same limb or nearby meridians compound;
-- enough locks can make a limb sluggish, numb or temporarily unusable for high-level techniques;
-- strong cultivators can purge locks by stopping and devoting circulation to the affected area, but this gives Jin pressure and time;
-- locks expire and do not permanently cripple victims by default.
+One lock causes mild drag.
 
-**Combat identity:** the more Jin is allowed to touch you, the less of your own body remains available to fight with.
+Repeated locks compound.
+
+For example:
+
+- one clean touch to the sword arm slightly slows circulation;
+- several more contacts make the wrist and elbow heavy;
+- enough accumulated locks can make a high-level sword art unreliable or temporarily unusable through that arm.
+
+Strong cultivators can purge locks by deliberately stopping and forcing circulation through the affected region, but doing so costs time and attention while Jin keeps attacking.
+
+Locks expire. The Domain does not automatically cripple people permanently.
+
+**Combat identity:** every touch lets Jin remove another piece of the opponent's fighting capacity.
 
 ---
 
@@ -110,34 +199,58 @@ Every clean physical contact Jin earns inside the Domain leaves a short-lived **
 
 ### Style — Precision Spear / Battlefield Measurement
 
-Ren uses a long spear and treats combat as geometry rather than prophecy. He is Shinrin's cleanest tactical fighter: reach, angle, pace and formation spacing matter more to him than spectacle.
+Ren uses a long spear and fights like a living measuring instrument.
+
+He is not prophetic. He does not read minds or foresee choices.
+
+Instead, once an opponent genuinely moves, Ren understands the physical reality of that movement with absurd precision: reach, speed, angle, recovery time and where the body must finish.
 
 ### Signature skills
 
-**Three-Length Spear — Transcended Offense**
-- Ren can shorten, normalise or extend the effective reach of one thrust by changing grip, body alignment and compressed spear qi at the last instant.
-- The spear itself does not magically change length.
+#### **Three-Length Spear — Transcended Offense**
 
-**Half-Step Outside — Transcended Movement**
-- Ren positions himself just outside the measured end of an opponent's committed attack and counters before their stance fully recovers.
+Ren changes the effective reach of one thrust at the final instant using grip shift, torso extension and compressed spear qi.
 
-**Nine Lines Collapse — Supreme**
-- Nine deliberately chosen spear lines are fired in sequence to remove viable angles one after another until the opponent is forced toward a final narrow lane.
+The spear does not physically grow.
+
+The opponent may read the first grip and believe the tip will stop short, only for Ren to slide into the long grip and extend compressed qi along the thrust line.
+
+He can also shorten unexpectedly, causing a defender to overreact to reach that never arrives.
+
+#### **Half-Step Outside — Transcended Movement / Counter**
+
+Ren deliberately positions himself just beyond the actual end point of a committed attack.
+
+The enemy misses by inches rather than meters.
+
+Because Ren never over-retreated, he is already inside perfect spear-counter distance while the enemy is still recovering.
+
+#### **Nine Lines Collapse — Supreme**
+
+Ren attacks nine carefully selected angles in sequence.
+
+Each thrust is chosen to remove one viable escape or counter line.
+
+By the final thrust, the opponent is not being overwhelmed by speed alone; they have been physically shepherded into a much smaller set of surviving positions.
 
 ### Domain — **True Measure Dominion**
 
-The Domain gives Ren near-perfect real-time measurement of **actual** physical combat data inside its range:
+Inside the Domain, Ren receives near-perfect real-time awareness of measurable physical combat data after movement begins:
 
 - distance;
 - angle;
-- speed;
 - weapon reach;
-- visible body rotation;
-- acceleration once movement has begun.
+- acceleration;
+- body rotation;
+- foot placement;
+- recovery distance;
+- actual speed.
 
-It does **not** read thoughts, predict choices or see the future. A feint can still fool him before commitment, but once a body or weapon genuinely moves, Ren measures it with terrifying precision.
+A feint can still deceive him before genuine commitment.
 
-**Combat identity:** Ren does not know what you will choose; once you choose, he knows exactly how far, how fast and where it can reach.
+Once the body, weapon or technique truly moves, however, he reads its physical limits almost instantly.
+
+**Combat identity:** Ren does not know what you will choose. The problem is that the moment you choose, he knows exactly what that choice can physically reach.
 
 ---
 
@@ -145,64 +258,124 @@ It does **not** read thoughts, predict choices or see the future. A feint can st
 
 ### Style — Twin Short Swords / Wind-Qi Qinggong
 
-Mei is an elegant high-mobility fighter using twin short swords and compressed wind qi. She wins through angle changes and pressure wakes rather than raw force.
+Mei uses twin short swords and compressed Wind Qi.
+
+She does not try to overpower stronger opponents. She turns tiny directional errors into major openings by attacking from angles that keep changing faster than the defender can reset.
+
+Her style is graceful at first glance and vicious in practice.
 
 ### Signature skills
 
-**Falling Sky Step — Transcended Movement**
-- Wind qi releases around each footfall to produce violent lateral and diagonal acceleration.
-- Especially strong for changing direction without losing much speed.
+#### **Falling Sky Step — Transcended Movement**
 
-**Twin Gale Crescent — Transcended Offense**
-- Two sword cuts release intersecting compressed wind edges that arrive from slightly different angles.
+Wind Qi bursts around Mei's feet and lower legs during directional changes.
 
-**Silent Crosswind — Supreme**
-- Mei hides one major directional shift inside the pressure wake of her previous movement, making her next attack seem to arrive from the wrong continuation line.
-- It is airflow manipulation and footwork, not illusion.
+Unlike ordinary qinggong, which often sacrifices speed when changing direction sharply, Falling Sky Step lets her redirect sideways, diagonally or downward while preserving much of her momentum.
+
+This makes her extremely difficult to trap against a wall or predictable retreat line.
+
+#### **Twin Gale Crescent — Transcended Offense**
+
+Mei releases two compressed wind-edged sword cuts from slightly separated angles.
+
+The first forces a guard.
+
+The second arrives close enough that the same guard position is usually imperfect against it.
+
+The wind edges remain extensions of real sword force rather than giant ranged blades.
+
+#### **Silent Crosswind — Supreme**
+
+Mei uses the pressure wake from one violent movement to hide the airflow signature of her next directional change.
+
+An opponent reading her previous motion expects the continuation to go one way.
+
+Mei changes direction inside that disturbed air and attacks from another.
+
+It is not an illusion. The opponent's reading is wrong because the physical airflow is intentionally misleading.
 
 ### Domain — **Crosswind Dominion**
 
-All significant movement inside the Domain generates real pressure wakes in the surrounding air.
+Every meaningful movement inside the Domain produces real pressure changes in the air.
 
-Mei can use her own wind qi to bend, strengthen or oppose those wakes.
+Mei can manipulate those pressure differences with her Wind Qi.
 
-- her own movement can be accelerated by aligning with a wake;
-- an opponent charging through a hostile crosswind can have footing or weapon trajectory pushed slightly off line;
-- projectiles and broad qi releases can be curved or destabilized if they are light enough;
-- massive or highly concentrated attacks cannot simply be blown away.
+She can:
 
-**Combat identity:** every movement creates wind, and Mei turns the battlefield's accumulated motion into angles only she fully understands.
+- accelerate herself by moving with a favorable crosswind;
+- slightly spoil an enemy's weapon angle;
+- push a charging foot placement off by inches;
+- curve light projectiles;
+- destabilize broad, diffuse qi releases.
+
+She cannot casually blow away a massive concentrated attack or move an opponent like a puppet.
+
+The effect becomes especially dangerous in crowded fights because every moving body contributes new disturbed air for Mei to exploit.
+
+**Combat identity:** everyone creates wind when they move; Mei is the only person treating all of that movement as usable battlefield material.
 
 ---
 
 ## #5 Kai Moriyama — Established Paragon
 
-### Style — Heavy Saber / Furnace Qi
+### Style — Heavy Saber / Tempered Flame Qi
 
-Kai is an old-school frontline warrior. He uses a broad heavy saber and internal heat cultivated through repeated physical clashes. His style becomes more dangerous the longer he remains engaged, but he must manage his own temperature and circulation.
+Kai is an old frontline monster carrying a broad heavy saber.
+
+His cultivation uses internal heat generated by powerful circulation and physical clashes. The hotter his system becomes, the more explosively his muscles respond and the denser the heat around his saber edge becomes.
+
+The danger is that he is also cooking himself from the inside if he refuses to stop.
 
 ### Signature skills
 
-**Furnace Heart — Transcended Passive**
-- Physical clashes and powerful circulation gradually heat Kai's core and weapon.
-- Higher heat improves muscle response and saber impact, but excess heat stresses his body.
+#### **Redsteel Heart — Transcended Passive**
 
-**Red Mountain Cleave — Transcended Offense**
-- A heavy saber cut that releases tightly compressed heat and force only at the point of impact rather than as a large fire wave.
+Every major clash raises Kai's internal temperature and circulatory pressure.
 
-**Last Ember Guard — Supreme Defence / Counter**
-- Kai absorbs a dangerous clash through reinforced stance and vents stored furnace qi through the defending saber into an immediate short-range counterburst.
+As heat builds:
 
-### Domain — **Ashen Furnace Dominion**
+- muscle response becomes faster;
+- the saber becomes hotter at contact;
+- impact force increases;
+- minor cold/numbness effects become easier for him to burn through.
 
-Every major clash involving Kai produces additional internal and environmental heat inside the Domain.
+If pushed too far, however, his own organs and meridians begin taking heat stress.
 
-- Kai can feed that heat back into his body and saber;
-- close-range opponents gradually face hotter air, hotter weapon contact and more punishing body pressure;
-- Kai's striking power and durability rise as the furnace builds;
-- if he pushes too far, his own meridians and organs begin to overheat, so the Domain has a genuine self-limit.
+#### **Crimson Cleave — Transcended Offense**
 
-**Combat identity:** survive Kai early, because every real clash makes the next one hotter and heavier — including for Kai himself.
+Kai compresses heat and saber force into the physical impact point rather than launching a giant flame wave.
+
+The cut strikes first.
+
+A heartbeat later, stored heat violently expands through the damaged guard or armour section, making a blocked hit far more punishing than it initially looked.
+
+#### **Last Ember Guard — Supreme Defence / Counter**
+
+Kai receives one major attack through reinforced stance and saber structure.
+
+Instead of letting the clash's heat disperse, he catches it inside his own circulating flame qi and immediately vents the stored pressure back through a short countercut.
+
+It is strongest when used against a genuinely heavy incoming attack.
+
+### Domain — **Crimson Crucible Dominion**
+
+Every major clash involving Kai inside the Domain adds heat to the battlefield and to Kai's internal cultivation cycle.
+
+The Domain behaves like a martial crucible:
+
+- weapon clashes become progressively hotter;
+- close-range air becomes painful to breathe for weaker fighters;
+- Kai's saber retains more heat between strikes;
+- his muscles and circulation become more explosive as the crucible builds;
+- armour, weapon grips and defensive qi become increasingly uncomfortable under repeated heated contact.
+
+But the crucible is not free power.
+
+Kai is inside it too.
+
+If he keeps forcing output beyond what his body can vent, his meridians, blood and organs begin overheating. He can win by pushing the crucible higher than the enemy can endure, but he can also destroy himself doing it.
+
+**Combat identity:** the fight becomes progressively hotter until one side cannot physically remain in the exchange anymore.
 
 ---
 
@@ -210,64 +383,122 @@ Every major clash involving Kai produces additional internal and environmental h
 
 ### Style — Medical Needles / Meridian Medicine
 
-Aya is a physician-cultivator who can heal or disable using the same understanding of circulation. Her connection to Axtaya should remain morally complicated rather than making her a simple poison villain.
+Aya is a true physician-cultivator.
+
+The same anatomical knowledge lets her heal allies or disable enemies depending on where, when and why a needle is placed.
+
+She should feel clinically precise rather than sinister.
 
 ### Signature skills
 
-**Seven Pulse Needles — Transcended Control**
-- Seven fine needles are placed or thrown toward major pulse junctions.
-- Depending on placement they can calm spasms, slow bleeding, reduce pain or disrupt a technique's circulation.
+#### **Seven Pulse Needles — Transcended Control**
 
-**White Thread Sutra — Transcended Healing**
-- Fine qi threads stabilize damaged meridians and keep a patient alive long enough for deeper treatment.
-- Far below Rhen's healing ceiling, but highly advanced conventional martial medicine.
+Aya uses seven fine needles aimed at major pulse and circulation junctions.
 
-**Borrowed Beat — Supreme**
-- Aya temporarily synchronizes a patient's unstable circulation to her own controlled rhythm through needles/contact, keeping a failing body functioning for a short emergency window.
-- It does not restore lost lifespan or resurrect the dead.
+Depending on placement, they can:
+
+- slow bleeding;
+- calm spasms;
+- reduce pain;
+- stabilize erratic qi;
+- temporarily disrupt a technique's circulation;
+- weaken one muscle group without killing the patient/opponent.
+
+#### **White Thread Sutra — Transcended Healing**
+
+Aya extends extremely fine qi through implanted needles and uses it like temporary internal suturing.
+
+The qi threads stabilize torn meridians and damaged vessels long enough for the patient's own body and medicine to begin recovering.
+
+It does not instantly heal catastrophic injuries the way Rhen can.
+
+#### **Borrowed Beat — Supreme Healing / Emergency Support**
+
+Aya physically connects to a failing patient through needle points and synchronizes their unstable circulation to her own controlled pulse for a short period.
+
+It can keep someone alive through shock, poison or meridian failure while proper treatment is prepared.
+
+It does not restore consumed lifespan and cannot restart a truly dead person.
 
 ### Domain — **Hundred Pulse Dominion**
 
-Aya perceives the real circulation pulse of every living body inside the Domain with extraordinary clarity.
+Inside the Domain, Aya can perceive the real circulation rhythm of every living body with extraordinary clarity.
 
-- she can identify blocked, accelerated, poisoned or unstable meridian rhythms;
-- she can time needles and palm pulses with near-perfect precision;
-- healing allies becomes faster and more exact;
-- offensive acupuncture becomes much more dangerous because she knows when a circulation junction is maximally vulnerable.
+She can distinguish:
 
-The Domain does **not** remotely control bodies. Aya must still physically deliver a needle, touch or qi pulse to alter someone.
+- poison-distorted circulation;
+- blocked meridians;
+- internal bleeding;
+- unstable heartbeat;
+- qi overload;
+- exhausted muscle groups;
+- the exact instant a circulation junction opens during technique use.
 
-**Combat identity:** inside her Domain, every heartbeat and circulation cycle becomes readable medical information.
+This makes her healing frighteningly accurate and her offensive acupuncture much more dangerous.
+
+She still must physically place a needle, touch a target or deliver a qi pulse. The Domain does not remotely control bodies.
+
+**Combat identity:** Aya sees the battlefield as living anatomy in motion.
 
 ---
 
 ## #7 Ryo Narukami — Stable Paragon
 
-### Style — Straight Sword / Thunder-Qi Qinggong
+### Style — Straight Sword / Thunder-Qi Burst Combat
 
-Ryo is the youngest-feeling member of the official ten: fast, aggressive and raised under Shinrin's modern ideology. His thunder qi is built around conduction through body, weapon and ground rather than giant lightning spells.
+Ryo is fast, aggressive and built around short explosive accelerations rather than sustained top speed.
+
+His Thunder Qi travels through his own nerves, muscles, sword and grounded contact points.
+
+He fights like a series of sudden detonations separated by tiny moments of reset.
 
 ### Signature skills
 
-**Flashstep — Transcended Movement**
-- A thunder-qi burst forces explosive neuromuscular acceleration over a short distance.
+#### **Flashstep — Transcended Movement**
 
-**Sky Crack — Transcended Offense**
-- Sword contact releases a compressed electrical shock through the immediate clash point, disrupting muscle timing and grip for an instant.
+Ryo sends a controlled burst of Thunder Qi through leg muscles and nerves.
 
-**Seven Thunder Paths — Supreme Movement / Offense**
-- Ryo creates a rapid sequence of grounded charge points through seven steps, then uses the prepared route for a final violent acceleration and sword strike.
+The body accelerates violently over a short distance.
 
-### Domain — **Thunderstep Dominion**
+It is not teleportation and the movement still has a readable physical line, but the first burst is difficult to react to without Paragon-level speed.
 
-Every grounded step Ryo deliberately plants can leave a temporary charged qi point in a conductive physical surface.
+#### **Sky Crack — Transcended Offense**
 
-- moving between prepared points becomes faster and more explosive;
-- sword contact near those routes can discharge stored thunder qi;
-- enemies standing directly on charged paths risk brief muscular disruption when Ryo releases them;
-- the points fade and require physical grounding; Ryo cannot freely teleport between them.
+When Ryo's sword makes physical contact with weapon, armour or body, he can discharge tightly compressed Thunder Qi through the clash point.
 
-**Combat identity:** Ryo turns the ground he has already crossed into a network of explosive acceleration and nerve-shocking contact.
+The shock is designed to disrupt:
+
+- grip;
+- muscle timing;
+- immediate stance recovery;
+- fine control of the contacted limb.
+
+It is brief neuromuscular disruption rather than giant lightning damage.
+
+#### **Sevenfold Thunder — Supreme Movement / Offense**
+
+Ryo stores seven successive bursts of Thunder Qi through rapid grounded contacts and sword clashes.
+
+He can release those stored bursts in one continuous sequence of accelerations, creating an attack that changes pace multiple times before the final sword strike.
+
+Each burst is physical movement. There is no jumping between pre-marked locations.
+
+### Domain — **Stormstep Dominion**
+
+Inside the Domain, every strong grounded step, landing or weapon clash Ryo completes can generate a temporary **thunder charge** inside his own circulation.
+
+He can hold a limited number of charges and spend them to:
+
+- accelerate suddenly;
+- sharpen one directional change;
+- add a contact shock to a sword clash;
+- recover his stance faster after a violent movement.
+
+He cannot create an infinite charge network across the ground and cannot teleport between locations.
+
+The more aggressively he moves, the faster he reloads—but the more stress he places on his own nerves and muscles.
+
+**Combat identity:** Ryo turns his own movement and clashes into ammunition for the next burst.
 
 ---
 
@@ -275,62 +506,113 @@ Every grounded step Ryo deliberately plants can leave a temporary charged qi poi
 
 ### Style — Heavy Halberd / Siege-Breaking Martial Art
 
-Jun is Shinrin's most openly expansionist battlefield officer. His martial art was built to break fortifications, shield walls and reinforced defensive formations rather than hunt agile duelists.
+Jun is built to destroy things that believe they can remain stationary and defend.
+
+He is strongest against fortifications, shield formations, armour specialists and opponents who repeatedly trust the same guard structure.
 
 ### Signature skills
 
-**Gatebreaker Halberd — Transcended Offense**
-- A downward or lateral halberd strike condenses force into a very small impact zone to crack reinforced guards.
+#### **Gatebreaker Halberd — Transcended Offense**
 
-**Second Wall — Transcended Follow-Up**
-- Jun deliberately strikes the same defended line again before the structure or guard can fully recover its qi reinforcement.
+Jun compresses the full force of a heavy halberd swing into a very small impact zone.
 
-**Third Wall Falls — Supreme**
-- Three escalating impacts attack the same structural or defensive weakness in rapid succession, each one shaped around the fracture created by the previous hit.
+Rather than spreading damage across a wall, shield or barrier, the force drives deeply into one structural point.
+
+#### **Second Wall — Transcended Follow-Up**
+
+After a defended impact, Jun immediately adjusts the next strike to the fracture, bent guard or disrupted qi pattern created by the first.
+
+It is not automatically stronger; it is better targeted because the first collision revealed the weakness.
+
+#### **Third Wall Falls — Supreme**
+
+Jun delivers three escalating impacts into the same defensive structure in rapid succession.
+
+Each strike is physically shaped around the damage caused by the previous one.
+
+Against static defence, the third blow can be catastrophic.
 
 ### Domain — **Breach Dominion**
 
-Whenever Jun cleanly strikes a defended physical point, structure, armour section, barrier or weapon guard inside the Domain, a trace of his halberd qi remains in the resulting stress fracture.
+Whenever Jun cleanly strikes a defended physical point inside the Domain, a residue of his halberd qi settles into the stress fracture created by the collision.
 
-- later strikes against that same defended line penetrate more efficiently;
-- static fortifications and repeated blocks become increasingly dangerous to rely on;
-- highly mobile fighters who refuse to defend from the same position reduce his advantage;
-- the Domain does not automatically weaken untouched targets.
+That fracture becomes easier for Jun to exploit again.
 
-**Combat identity:** Jun does not need to break the wall on the first hit. He only needs the wall to remain the same wall.
+Examples:
+
+- repeatedly blocking with the same section of shield becomes dangerous;
+- one damaged barrier node becomes progressively easier to break;
+- the same armour plate becomes increasingly vulnerable;
+- a weapon repeatedly used to receive his halberd begins accumulating stress at the clash point.
+
+Highly mobile opponents who keep changing guard positions and refuse repeated contact reduce his advantage.
+
+The Domain does not weaken untouched targets.
+
+**Combat identity:** Jun punishes anything that insists on being the same defence twice.
 
 ---
 
 ## #9 Eirik Voss — Stable Paragon
 
-### Style — Isgard Longsword and Shield / Formation Leadership
+### Style — Isgard Longsword and Shield / Formation Command
 
-Eirik's style should visibly look **Isgardian**, not Shinrin-born. He fights with a long northern sword and round shield, using disciplined marching footwork from the era when he ruled Isgard.
+Eirik's fighting style must instantly look **Isgardian** rather than Shinrin-born.
+
+He uses a long northern sword and round shield. His real strength is not flashy individual technique but the ability to turn several fighters into one disciplined defensive body.
+
+This is the surviving martial art of the ruler he used to be.
 
 ### Signature skills
 
-**North Road Step — Transcended Movement**
-- Eirik plants extremely stable advancing steps that preserve balance under charge, impact and bad terrain.
+#### **Winter Brace — Transcended Defence**
 
-**King's Guard — Transcended Defence**
-- Shield, shoulder and sword form a moving defensive frame designed to protect both Eirik and someone immediately beside him.
+Eirik sinks into a compact shield stance and distributes incoming force through shield rim, shoulder, hips and rear leg.
 
-**Last Standard — Supreme**
-- Eirik locks his stance and creates a short moving rally corridor behind his shield line; allies physically following his advance can preserve formation under heavy pressure.
-- It is martial coordination and shared defensive qi pressure, not supernatural morale control.
+Rather than meeting force only with the arm, his entire frame absorbs the collision.
 
-### Domain — **King's Road Dominion**
+He can use the same stance while protecting someone immediately beside or behind him.
 
-Every deliberate step Eirik takes while maintaining proper stance leaves a temporary **road mark** of compressed stabilizing qi in the ground.
+#### **King's Guard — Transcended Defence / Escort**
 
-- Eirik and allies who physically follow those road marks gain better footing, formation stability and reduced loss of momentum under impact;
-- enemies charging across the marked line meet opposing grounded pressure and are harder to knock cleanly through Eirik's formation;
-- the road does not compel anyone to follow it and does not buff people who are nowhere near the physical route;
-- if Eirik is forced airborne or denied stable ground, the Domain loses much of its value.
+Eirik moves shield and sword in a paired defensive frame around one nearby ally.
 
-**Combat identity:** Eirik does not dominate a battlefield by standing alone; he creates a road others can actually survive marching behind.
+He can catch one attack on the shield while the sword intercepts the follow-up line, creating a moving pocket of protection during retreat or advance.
 
-This should make his eventual confrontation with Isgard emotionally uncomfortable: his Domain still looks like the art of a ruler who once protected them.
+It is particularly strong during civilian extraction or formation withdrawal.
+
+#### **Last Standard — Supreme Formation Art**
+
+Eirik releases a short, forceful pulse of shield qi and a visible battle signal that allied fighters can consciously synchronize with.
+
+Those who match his breathing, stance timing and guard rhythm for the next exchange can receive attacks in coordinated sequence rather than as isolated individuals.
+
+It is not mind control or supernatural morale. The allies must understand and deliberately follow the formation timing.
+
+### Domain — **Crownwall Dominion**
+
+Eirik's Domain turns **coordinated defence** into a Paragon-level martial system.
+
+Any willing ally inside the Domain who consciously matches Eirik's stance rhythm can link their defensive qi pulse to the formation for short intervals.
+
+When the formation receives a major impact:
+
+- the first defender does not need to absorb everything alone;
+- part of the force can be passed through coordinated stance changes into the next defender;
+- shield lines recover faster because everyone knows exactly when to brace, yield and re-anchor;
+- gaps become harder to exploit because nearby allies can rotate into them without breaking rhythm.
+
+Limits:
+
+- allies must consciously cooperate;
+- poor timing breaks the link;
+- scattered fighters gain little benefit;
+- it does not make weak soldiers equal to Paragons;
+- overwhelming force can still break the formation.
+
+When Eirik fights alone, Crownwall Dominion is still useful for his own stance transitions, but it becomes far more dangerous when protecting a disciplined group.
+
+**Combat identity:** Eirik's Domain reminds Isgard why people once followed him—he makes a group survive impacts that would crush them separately.
 
 ---
 
@@ -338,45 +620,68 @@ This should make his eventual confrontation with Isgard emotionally uncomfortabl
 
 ### Style — Flowing Jian / Defensive Water-Qi Swordsmanship
 
-Nao is a defensive swordswoman whose water-like qi disperses force rather than meeting everything head-on. She is well suited to being one of the more sympathetic Shinrin officers because her martial identity is fundamentally protective.
+Nao uses a jian and soft Water Qi to disperse force instead of confronting it head-on.
+
+Her martial art is protective by nature, fitting one of the more sympathetic Shinrin officers.
 
 ### Signature skills
 
-**Quiet Lake Guard — Transcended Defence**
-- Circular sword motion spreads one heavy impact across several smaller body rotations and qi channels.
+#### **Quiet Lake Guard — Transcended Defence**
 
-**Rain-Cut Sword — Transcended Offense**
-- A series of light, precise cuts delivered while redirecting around a stronger opponent's guard rather than contesting it directly.
+Nao receives a heavy attack through circular sword motion and layered body rotation.
 
-**Mercy Current — Supreme Defence / Rescue**
-- Nao wraps water-like qi around herself and one nearby person, splitting incoming force across multiple flowing vectors to create an escape opening.
+Instead of letting one point take the entire impact, she spreads the force through several smaller turns of wrist, elbow, shoulder, waist and footwork.
+
+#### **Rain-Cut Sword — Transcended Offense**
+
+Nao delivers a sequence of light, precise cuts while flowing around the defender's stronger guard.
+
+She does not try to overpower the weapon blocking her. She redirects around it and attacks exposed edges, wrists and openings.
+
+#### **Mercy Current — Supreme Defence / Rescue**
+
+Nao wraps Water Qi around herself and one nearby person.
+
+A major incoming force is split across several flowing vectors, giving the protected person a chance to move away from the centre of impact.
+
+It is primarily a rescue technique rather than a killing art.
 
 ### Domain — **Stillwater Dominion**
 
-Nao fills the immediate battlefield around her with layered circulating water-like qi currents.
+The Domain fills the nearby battlefield with layered circulating Water Qi.
 
-- incoming physical force that enters those currents can be divided across several directions rather than taken head-on;
-- she can use the redirected flow to shift herself or an ally away from the centre of impact;
-- concentrated attacks vastly stronger than her can still punch through;
-- she cannot reflect attacks back at equal strength like Qin's Echo Dominion;
-- she cannot nullify techniques wholesale.
+When incoming physical force enters those currents, Nao can divide part of the impact across several directions rather than receiving it as one concentrated blow.
 
-**Combat identity:** Nao survives by making one overwhelming force become many smaller forces that no longer arrive together.
+She can use that redirected motion to:
+
+- shift herself out of the impact centre;
+- pull an ally sideways;
+- reduce the force reaching a protected civilian;
+- turn a direct collision into several smaller, survivable movements.
+
+Limits:
+
+- vastly stronger concentrated attacks can punch through;
+- she cannot reflect equal force back like Qin;
+- she cannot nullify techniques;
+- the Domain is best at defence, rescue and survival rather than overwhelming offense.
+
+**Combat identity:** Nao survives by making one devastating force arrive as many smaller forces that no longer strike together.
 
 ---
 
 # 3. Distinction Check Against Existing Cast
 
-- **Rai / Confluence** — conservation and continuity of his own movement/momentum.
-- **Jin / Hundred Locks** — earned physical contact progressively removes usable body regions.
-- **Ren / True Measure** — perfect measurement after movement begins, not foresight.
-- **Mei / Crosswind** — airflow, pressure wakes and directional control.
-- **Kai / Ashen Furnace** — clash-generated heat and escalating close-range pressure.
+- **Rai / Heavenstring** — long-range archery with one controlled mid-flight correction per connected arrow.
+- **Jin / Hundred Locks** — earned physical contact progressively restricts usable body regions.
+- **Ren / True Measure** — perfect measurement after genuine movement begins, not foresight.
+- **Mei / Crosswind** — Wind Qi uses real battlefield airflow and pressure changes.
+- **Kai / Crimson Crucible** — clash-generated heat escalates both his power and his self-damage risk.
 - **Aya / Hundred Pulse** — circulation diagnosis and precision medical intervention.
-- **Ryo / Thunderstep** — grounded charge routes, acceleration and neuromuscular shock.
+- **Ryo / Stormstep** — his own grounded movement/clashes generate limited Thunder-Qi charges for later bursts.
 - **Jun / Breach** — repeated strikes exploit physical stress fractures in fixed defences.
-- **Eirik / King's Road** — stable marching routes and formation protection.
-- **Nao / Stillwater** — disperses incoming force across multiple flowing vectors.
+- **Eirik / Crownwall** — willing allies synchronize defensive qi timing to distribute and survive formation impacts.
+- **Nao / Stillwater** — disperses incoming force across several flowing vectors.
 - **Sera / Orchid Dominion** — hostile commitment produces Counter-Blooms.
 - **Tae / Iron Chain Dominion** — meaningful hostile action creates accumulating iron-chain burden.
 - **Huo / Endless Dominion** — intent and execution become increasingly mismatched.
@@ -390,15 +695,15 @@ Nao fills the immediate battlefield around her with layered circulating water-li
 
 Before these martial details become canon, confirm or revise:
 
-1. Rai — Continuous-Current style / **Confluence Dominion**.
+1. Rai — longbow / bow-qi filament art / **Heavenstring Dominion**.
 2. Jin — Seizing Hand / **Hundred Locks Dominion**.
 3. Ren — Precision Spear / **True Measure Dominion**.
 4. Mei — Wind-Qi twin swords / **Crosswind Dominion**.
-5. Kai — Furnace-Qi heavy saber / **Ashen Furnace Dominion**.
+5. Kai — Tempered Flame-Qi heavy saber / **Crimson Crucible Dominion**.
 6. Aya — Medical needles / **Hundred Pulse Dominion**.
-7. Ryo — Thunder-Qi sword / **Thunderstep Dominion**.
+7. Ryo — Thunder-Qi burst sword / **Stormstep Dominion**.
 8. Jun — Siege halberd / **Breach Dominion**.
-9. Eirik — Isgard sword-and-shield / **King's Road Dominion**.
+9. Eirik — Isgard sword-and-shield formation command / **Crownwall Dominion**.
 10. Nao — Water-Qi defensive sword / **Stillwater Dominion**.
 
 After the martial roster is locked, the next build should define **personality, loyalties, relationships, corruption history and eventual fate** for all ten before the 200-chapter beat sheet is rewritten.
