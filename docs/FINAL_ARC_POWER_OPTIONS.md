@@ -1,0 +1,289 @@
+# Final Arc — Two-Year Power Baseline and Locked Selections
+
+> **Status:** The two-year time skip, cultivation outcomes, Rhen upgrades, the four new Paragon Domains and Sera's Ultimate below are user-approved and locked for the final arc.
+>
+> This file remains a compact power reference beside `docs/FINAL_ARC_OUTLINE.md`. These selections supersede all earlier option tables or `pending selection` wording.
+
+---
+
+## 1. Locked Final-Arc Opening — Two Years After the War
+
+The final arc begins **two full years after the Wuyue–Isgard war**, not immediately after Chapter 300.
+
+Those two years are a rebuilding era rather than an empty time skip:
+
+- Wuyue rebuilds armies, roads, hospitals, sects, ships, command systems and veteran support after the Black March losses.
+- Isgard remains overwhelmingly dangerous even after the war.
+- Because of that demonstrated scale, Rhen insists that **Frozen Petals Garden** remain upon **Sera, Qin Luo, Tae Muyeon, Huo Wujin and Lu Weiran** throughout the rebuilding interval.
+- Lu remains a non-combatant. The Garden protects his life and health but does not manufacture a martial path.
+- Sera's established ageless state remains uniquely hers unless later changed explicitly.
+- The Garden accelerates and purifies existing foundations; it does not make Tae, Huo, Qin or Sera martial copies of Rhen or of one another.
+
+### 1.1 Opening Cultivation Baseline
+
+| Character / group | Final-arc opening cultivation | Locked power state |
+|---|---|---|
+| **Rhen** | Beyond ranking / immeasurable | Existing roster evolves through dramatically denser qi. |
+| **Sera** | **Peak Paragon** | **Orchid Dominion** + **Ultimate — Ten Thousand Blooms**. |
+| **Tae Muyeon** | **High Paragon** | **Iron Chain Dominion**. |
+| **Huo Wujin** | **High Paragon** | **Endless Dominion**. |
+| **Qin Luo** | **High Paragon** | **Echo Dominion**. |
+| **Kael Veyran** | **Newly ascended Paragon** | **Worldweight Dominion**. |
+| **Liang Yue** | **Peak Sovereign** | White Vein specialization remains defining. |
+| **Jin Seoryu** | **Peak Sovereign** | Strategic genius remains defining. |
+| **Lei Zhen** | **Peak Sovereign** | Existing specialization retained. |
+| **Shen Rui** | **Peak Sovereign** | Existing specialization retained. |
+| **Ilyra Serath** | **High Sovereign** | Remains a Five Duke by Wuyue title. |
+| **Mo Qingzhao** | **Newly ascended Sovereign** | Remains a Five Duke by Wuyue title. |
+| **Arin Vale** | **Newly ascended Sovereign** | Remains a Five Duke by Wuyue title. |
+| **Luo Wen** | **Newly ascended Sovereign** | Remains a Five Duke by Wuyue title. |
+| **Yun Shizhen** | **Newly ascended Sovereign** | Remains a Five Duke by Wuyue title. |
+| **Lu Weiran** | Non-combatant | Garden protection does not become cultivation. |
+
+### 1.2 Wuyue Title Convention Remains Stable
+
+The political / administrative group names **Five Sovereigns** and **Five Dukes** remain unchanged even when individual cultivation advances beyond the title.
+
+- Kael remains one of the **Five Sovereigns** even though he is now a Paragon.
+- Liang, Jin, Lei and Rui remain the other **Five Sovereigns** at Peak Sovereign cultivation.
+- Ilyra, Mo, Arin, Luo and Yun remain the **Five Dukes** even though all five possess Sovereign-level cultivation.
+
+---
+
+## 2. Locked Rhen — Two-Year Evolution
+
+Rhen gains no mandatory new named technique. His existing arts evolve because, late in the peaceful rebuilding interval, he deliberately enters another seclusion to solve a problem created by **Frozen Petals Garden** itself: his reserve is regenerating and accumulating power faster than his body should continue carrying it in its old diffuse state.
+
+### 2.1 Six-Month-Plus Seclusion — Condensing One Hundred Into One
+
+By this stage **Frozen Petals Garden** replenishes Rhen's internal energy at an absurd rate. After extreme expenditure, his reserve can return to effectively full strength in roughly **one day** under ordinary conditions.
+
+That recovery speed means his body is repeatedly being refilled with an enormous quantity of raw qi. Rather than allow the reservoir to keep expanding outward, Rhen chooses to compress it.
+
+He enters seclusion for **a little over six months**.
+
+The task is not to gain another realm. It is to force his existing full reserve into a far denser state and make his meridians, body and passive stable enough to carry it safely.
+
+During the process:
+
+- Rhen repeatedly compresses a full reservoir instead of merely spending it;
+- **100% of his former full-state energy is condensed into the equivalent of 1% of his new usable reserve**;
+- Frozen Petals Garden keeps replenishing the energy involved in each refinement cycle, so the compression has to be repeated and stabilized again and again;
+- his meridians and physical vessel gradually adapt to carrying ultra-dense qi rather than a larger diffuse reservoir;
+- the final stabilization takes months because the entire reserve must become equally dense and safe, not because Rhen lacks energy.
+
+When the seclusion is complete:
+
+- **new 1% ≈ old 100%** in effective qi density / usable force;
+- **new 100% ≈ old 10,000%**, so his full current state is roughly **100× his previous full-state effective power**;
+- this is the intended meaning of the user's **100% × 100** description;
+- Frozen Petals Garden still replenishes the new ultra-dense reserve extraordinarily quickly, allowing Rhen to recover to full energy in roughly a day after extreme expenditure;
+- the condensation does not create a named realm above Paragon. It makes normal ranking language even less useful for Rhen.
+
+This seclusion is the direct cause of the later scale increases to his existing techniques and passive. **One percent of present Rhen can reproduce what once required essentially everything he had.** Full output has a vastly higher ceiling.
+
+The density should not be narrated as a mandatory literal 100× damage multiplier every time he moves. Each art converts the denser qi differently: destructive force, speed, control, healing scale, stasis authority, penetration, endurance or range.
+
+### 2.2 Seclusion Timing — Rhen Leaves One Day Before the Crisis Begins
+
+Rhen **enters seclusion one day before Yun Shizhen's death is discovered / confirmed in Isgard and the emergency warning is sent to Wuyue**.
+
+- He has no knowledge of Yun's fate when he begins seclusion.
+- His decision to cultivate is unrelated to Shinrin; he is solving his own increasingly dangerous energy-density problem.
+- The timing deliberately removes Wuyue and Isgard's strongest emergency factor at the exact moment the Shinrin crisis becomes visible.
+- Rhen remains in seclusion for **more than six months** while Sera, Tae, Huo, Qin, Kael, Wuyue and Isgard investigate, mobilize, fight and survive without being able to call him in.
+- The arc must not use Rhen as an available battlefield solution during this period.
+- His eventual return happens only after the condensation is truly complete and should occur when the allied side has reached a genuinely desperate point.
+
+### 2.3 Frozen Petals Garden — Violet Frozen-Petal Aura
+
+After the condensation succeeds, the visible expression of Rhen's qi changes.
+
+- His familiar frozen petals remain the defining motif, but the frost-white petals now carry a **pale violet / purplish radiance** through their edges and centres.
+- When Rhen is not deliberately suppressing himself, a faint **purple-tinted frozen-petal aura** drifts around him as tiny amounts of ultra-dense qi escape harmlessly into the air.
+- Higher output makes the violet tone deeper and the surrounding petals more numerous.
+- The colour change is **not a new element, corruption, transformation or separate martial art**. It is the visual symptom of qi compressed far beyond its earlier density.
+- Rhen can still suppress the aura completely when he wants to look like an ordinary healer or tea-shop worker.
+
+### 2.4 Sanctuary of Petals
+
+- **Maximum radius:** 30 miles.
+- **Maximum simultaneous population:** 100,000.
+- One catastrophic patient can have lethal poison, destroyed tissue and broken bones repaired in **seconds**.
+- Roughly **1–100 severely injured people** can be fully restored within **minutes**.
+- Intermediate loads scale with severity and population.
+- At the full 100,000-person maximum, complete restoration may require approximately **2–3 days**.
+- It still does not resurrect the dead.
+
+### 2.5 Petals in Stasis
+
+- **Maximum radius:** 10 miles.
+- Any martial Domain detected inside the active Stasis field is **neutralized immediately** rather than entering a conventional Domain clash.
+- The anti-Domain rule applies to friendly and hostile Domains alike unless Rhen deliberately excludes an area; Sera's Orchid Dominion therefore cannot casually coexist inside the same anti-Domain Stasis space.
+
+### 2.6 Petals Beneath a Frozen Moon
+
+Rhen's Ultimate retains its existing approved reach unless later revised.
+
+- Within its reach, selected allies are healed **instantly regardless of number**.
+- Selected hostile possibilities are resolved **instantly** into the peaceful ending Rhen chooses.
+- Once invoked, it remains effectively impossible to interrupt.
+
+---
+
+## 3. Locked New Paragon Domains
+
+All four Domains remain grounded in the existing rule: a Domain intensifies and unifies the cultivator's established martial identity. It is not western magic, mind control, teleportation, or unrelated reality rewriting.
+
+### 3.1 Tae Muyeon — **Iron Chain Dominion**
+
+**Core identity:** every meaningful hostile action inside Tae's Domain forges additional iron-qi chains onto the person who performed it.
+
+- **Moving creates chains.**
+- **Attacking creates chains.**
+- Dodging, rushing, blocking with committed force, forceful repositioning, activating a technique, or releasing internal energy can all create more chains.
+- The amount and thickness of chain created scales with how much force and qi the action commits. A small step creates little burden; a full-power Supreme or Domain-level attack creates far more.
+- The chains bind to the opponent's body as compressed iron qi; they are not summoned metal, mind control, gravity, or magical restraints.
+- One or two actions are manageable. The danger is **accumulation**.
+- Every later action adds more chains, so the opponent becomes progressively heavier, slower and more restricted the longer they remain active inside the Domain.
+- More chains mean more drag on limbs, more weight through the stance, and increasingly expensive breathing and circulation. Techniques that were easy at the beginning of the fight become exhausting later.
+- Strong opponents may break individual chains with physical force or internal energy, but breaking chains costs stamina and qi. The Domain does not regard a breakout as immunity: the next meaningful action simply creates fresh chains.
+- An enemy who responds by struggling harder therefore accelerates their own exhaustion.
+- An enemy who dramatically reduces movement and attack frequency slows accumulation, but in exchange gives Tae the initiative and lets him dictate distance and tempo.
+- At extreme accumulation, the iron pressure can begin bruising and disrupting meridians because the body is carrying enormous compressed burden. Meridian damage remains a late-stage consequence rather than the Domain's main gimmick.
+- Tae can maintain chain burdens on multiple enemies at once, but stronger opponents and larger numbers increase his own qi consumption.
+
+**Combat identity:** every action makes the next action heavier. The longer an enemy fights Tae, the more they chain themselves into fatigue, immobility and eventual collapse.
+
+---
+
+### 3.2 Qin Luo — **Echo Dominion**
+
+**Core identity:** every hostile action produces a resonance-equivalent echo wave that Qin can redirect back toward its source while the Domain destroys stable enemy orientation.
+
+#### Blindness / disorientation effect
+
+- Inside Echo Dominion, hostile perception is flooded by overlapping resonance returns from terrain, air pressure, weapons, footsteps and qi releases.
+- Enemies become **functionally blind inside the Domain**: ordinary sight, qi perception and directional awareness cannot maintain a stable battlefield picture because every meaningful action produces multiple overlapping resonance returns.
+- Qin remains blind exactly as he has always been; the Domain does not give him sight. His established vibration perception lets him navigate the resonance field that disorients others.
+
+#### Echo-wave retaliation
+
+Every hostile committed action creates an **echo-wave counterpart carrying comparable committed force**.
+
+Examples:
+
+- An enemy fires an arrow: the arrow itself remains real, while an echo wave carrying equivalent committed force is generated and redirected toward the attacker.
+- An enemy swings a sword: the physical cut remains theirs, while a corresponding resonance-force wave is created from the committed strength of that swing and returned at them.
+- An enemy releases internal force: Echo Dominion converts the measurable force/resonance of that release into an equivalent echo-wave strike aimed back toward the source.
+- A formation launches a combined attack: its combined committed force can create a correspondingly large echo response, divided or focused according to Qin's control.
+
+Rules:
+
+- Qin **does not copy the enemy technique**, element, weapon property or special effect.
+- He reproduces only the **committed force / resonance equivalent** as an echo-wave attack.
+- The echo does not automatically become stronger than the original action unless Qin adds his own power.
+- Defensive movement or non-hostile motion does not automatically create a lethal reflected attack unless it carries hostile committed force.
+- An enemy fighting Qin therefore has to survive Qin's own attacks while also surviving the force of their own aggression returned as resonance.
+
+**Combat identity:** attacking harder gives Qin a stronger echo to send back.
+
+---
+
+### 3.3 Huo Wujin — **Endless Dominion**
+
+**Core identity:** the Nine Meridian Wheels rotate the battlefield's martial rhythm so continuously that an enemy's intended action is first forced through the wrong physical or cultivation response before Huo's adaptive Wheels begin answering it.
+
+#### First layer — action confusion
+
+- The Domain does **not** control thoughts and does not rewrite a person's intent.
+- The opponent decides correctly what they want to do, but the Nine Wheels continuously rotate the relationship between intent, balance, movement timing and circulation response.
+- As a result, **intention and execution separate**.
+
+Examples:
+
+- An enemy intends to move left and physically resolves to the right.
+- A retreating step may drive the body forward instead.
+- An attempted attack may collapse into an involuntary guard or mistimed release.
+- An attempted defence may produce an unintended offensive motion, opening the defender instead of protecting them.
+- A technique circulated for one limb may discharge through the wrong route or at the wrong timing.
+
+The effect is not random slapstick. Huo's Nine Meridian Wheels are continuously changing the governing martial rhythm faster than hostile bodies and cultivation systems can recalibrate.
+
+#### Second layer — endless adaptation
+
+- If an opponent successfully identifies and corrects one Wheel-induced mismatch, the Domain records that solved response.
+- Repeating the same correction becomes progressively less reliable because another Wheel principle overlaps the next exchange.
+- Solving one rhythm therefore never permanently solves Huo's battlefield.
+- Huo can layer multiple Wheels against a specialist who keeps trying to force the same answer.
+- Versatile Paragons can resist longer by changing their own timing and circulation deliberately, but doing so costs concentration and reserve.
+
+**Combat identity:** every hostile action must first survive the confusion between intent and execution, then survive Huo's endlessly changing answer to the solution they used last time.
+
+---
+
+### 3.4 Kael Veyran — **Worldweight Dominion**
+
+**Core identity:** committed physical force creates corresponding burden within Kael's connected earth-and-sand pressure field.
+
+- The harder an enemy strikes, charges, anchors or drives power through connected terrain, the more pressure accumulates through their contact with the ground.
+- Kael can redistribute that accumulated burden into the enemy's stance, weapon, armour or surrounding terrain.
+- A maximum-force attack can therefore leave its user carrying an enormous physical burden immediately afterward.
+- Repeated heavy attacks progressively make recovery, footing and movement harder.
+- Kael may also move accumulated burden through connected earth and sand to reinforce another point of the battlefield.
+- Light, evasive or airborne opponents give him less burden to exploit until they reconnect with his terrain network.
+- This is **not supernatural gravity**. It is mountain-and-sand qi transmitting, storing and redistributing pressure through physically connected terrain.
+
+**Combat identity:** the more force an enemy tries to impose upon Kael's world, the more of that weight the world makes them carry.
+
+---
+
+## 4. Sera — Locked Ultimate
+
+### **ULTIMATE — Ten Thousand Blooms**
+
+Sera retains **The Orchid Blooms Only Once** as her Evolved Supreme Art. That Supreme remains the art of engineering and owning **one perfect decisive instant** against a target.
+
+**Ten Thousand Blooms** is the Peak-Paragon evolution of the same Orchid philosophy at battlefield scale.
+
+#### Core activation
+
+While **Orchid Dominion** is active:
+
+- every valid Counter-Bloom Sera has already earned across the battlefield may **bloom simultaneously**;
+- during the Ultimate interval, every new hostile offensive commitment generates its corresponding Counter-Bloom **immediately**;
+- Sera may choose a different response from every bloom independently.
+
+Possible responses remain rooted in her established Orchid system:
+
+- Whispering Orchid Needles;
+- Petal-Severing Touch;
+- Fading Fragrance delivery;
+- disabling strikes;
+- meridian-severing precision;
+- false attacks and misdirection;
+- concentrated Orchid Dominion force;
+- lethal Orchid strikes where Sera authorizes lethal force;
+- or deliberately leaving a bloom unused.
+
+Rules:
+
+- The Ultimate still requires **real hostile commitments**. It does not invent vulnerabilities where none exist.
+- Stronger and more complete hostile actions create more complete Counter-Blooms according to Orchid Dominion's existing rules.
+- One enemy may generate many simultaneous blooms, or an army may generate thousands across the field.
+- Sera can process and release all chosen blooms at once instead of handling each opening sequentially.
+- **Ten Thousand Blooms does not collapse Orchid Dominion.**
+- When the Ultimate interval ends, Orchid Dominion remains active and Sera may continue fighting normally.
+- The cost is a very large expenditure of Sera's reserve, but it is not a forced Domain shutdown and does not require a new realm above Peak Paragon.
+
+**Combat identity:** The Orchid Blooms Only Once owns one perfect opening; **Ten Thousand Blooms owns every opening Sera truly earned at the same time**.
+
+---
+
+## 5. Final Locked Selection Sheet
+
+- **Sera — Ultimate:** **Ten Thousand Blooms**
+- **Tae Muyeon — Domain:** **Iron Chain Dominion**
+- **Huo Wujin — Domain:** **Endless Dominion**
+- **Qin Luo — Domain:** **Echo Dominion**
+- **Kael Veyran — Domain:** **Worldweight Dominion**
