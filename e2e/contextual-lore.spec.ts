@@ -39,14 +39,16 @@ test('arc-only highlighted characters get the same quick facts card', async ({ p
   await expect(tray.getByText('Strength', { exact: true })).toBeVisible();
   await expect(tray.getByText('Affiliation', { exact: true })).toBeVisible();
   await expect(tray.getByText('Role', { exact: true })).toBeVisible();
-  await expect(tray.locator('.reader-lore-context__fact').nth(1)).toContainText('Peak Sovereign');
+  await expect(tray.locator('.reader-lore-context__fact').nth(1)).toContainText('Paragon');
   await expect(tray.locator('.reader-lore-context__fact').nth(2)).not.toContainText('Not recorded');
   await expect(tray.locator('.reader-lore-context__fact').nth(3)).not.toContainText('No formal role recorded');
 });
 
-test('season-cast-only highlighted characters appear in the other-characters archive', async ({ page }) => {
-  await page.goto('/#villains');
-  await expect(page.getByRole('heading', { name: 'Other Characters & Villains' })).toBeVisible({ timeout: 20_000 });
+test('season-cast-only highlighted characters appear in the Isgard archive', async ({ page }) => {
+  // Isgard-affiliated figures (incl. season-cast like Varok Skeldran) now live in
+  // the dedicated Isgard tab rather than the Other Characters / Villains grid.
+  await page.goto('/#isgard');
+  await expect(page.getByRole('heading', { name: 'Isgard', exact: true })).toBeVisible({ timeout: 20_000 });
   await page.locator('.toolbar-row .filter-input').fill('Varok Skeldran');
   const card = page.locator('.lore-card').filter({ hasText: 'Varok Skeldran' }).first();
   await expect(card).toBeVisible();
