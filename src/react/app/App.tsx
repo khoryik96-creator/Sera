@@ -11,6 +11,7 @@ import { InstallReaderButton } from '../components/InstallReaderButton';
 const OverviewPage = lazy(() => import('../routes/OverviewRoute').then((module) => ({ default: module.OverviewPage })));
 const CharactersPage = lazy(() => import('../routes/CharactersRoute').then((module) => ({ default: module.CharactersPage })));
 const VillainsPage = lazy(() => import('../routes/VillainsRoute').then((module) => ({ default: module.VillainsPage })));
+const IsgardPage = lazy(() => import('../routes/IsgardRoute').then((module) => ({ default: module.IsgardPage })));
 const TechniquesPage = lazy(() => import('../routes/TechniquesRoute').then((module) => ({ default: module.TechniquesPage })));
 const TeahousePage = lazy(() => import('../routes/TeahouseRoute').then((module) => ({ default: module.TeahousePage })));
 const ChaptersPage = lazy(() => import('../routes/ChaptersRoute').then((module) => ({ default: module.ChaptersPage })));
@@ -217,6 +218,7 @@ export function App() {
     switch (route.section) {
       case 'characters': page = <CharactersPage selectedKey={route.characterKey} onOpenCharacter={openCharacter} onOpenChapter={openChapter} />; break;
       case 'villains': page = <VillainsPage />; break;
+      case 'isgard': page = <IsgardPage />; break;
       case 'techniques': page = <TechniquesPage />; break;
       case 'teahouse': page = <TeahousePage />; break;
       case 'chapters': page = <ChaptersPage onOpenChapter={openChapter} />; break;

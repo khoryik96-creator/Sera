@@ -6,6 +6,7 @@ import { restoredCanonReferences } from '../src/canonReference';
 interface CoreCounts {
   characters: number;
   villains: number;
+  isgard: number;
   rhenSkills: number;
   seraSkills: number;
   ranks: number;
@@ -17,7 +18,7 @@ interface CoreCounts {
 
 interface CoreCountShape {
   characters: Record<string, unknown>;
-  arcFigures: Array<{ key: string }>;
+  arcFigures: Array<{ key: string; affiliation?: string }>;
   rhenSkills: unknown[];
   seraSkills: unknown[];
   ranks: unknown[];
@@ -36,9 +37,13 @@ async function sourceCoreCounts(): Promise<CoreCounts> {
   const source = await readFile(new URL('../src/data.json', import.meta.url), 'utf8');
   const core = JSON.parse(source) as CoreCountShape;
   const mainFigureKeys = new Set(['mo_qingzhao', 'yun_shizhen', 'ilyra_serath']);
+  const isIsgard = (affiliation?: string) => /\bisgard\b/i.test(affiliation || '');
+  const archiveFigures = core.arcFigures.filter((figure) => !mainFigureKeys.has(figure.key));
   return {
     characters: Object.keys(core.characters).length,
-    villains: core.arcFigures.filter((figure) => !mainFigureKeys.has(figure.key)).length,
+    // Isgard figures now live in their own tab, so they are excluded from villains.
+    villains: archiveFigures.filter((figure) => !isIsgard(figure.affiliation)).length,
+    isgard: archiveFigures.filter((figure) => isIsgard(figure.affiliation)).length,
     rhenSkills: core.rhenSkills.length,
     seraSkills: core.seraSkills.length,
     ranks: core.ranks.length,
@@ -82,6 +87,7 @@ test('production archive renders every canonical core record', async ({ page }) 
   const sections: Array<[string, string, number]> = [
     ['characters', '.character-nav-card', expected.characters],
     ['villains', '.lore-card', expected.villains],
+    ['isgard', '.lore-card', expected.isgard],
     ['rankings', '.ranking-card', expected.ranks],
     ['legends', '.lore-card', expected.legends],
     ['former', '.former-card', expected.former],
@@ -91,12 +97,12 @@ test('production archive renders every canonical core record', async ({ page }) 
 
   for (const [hash, selector, count] of sections) {
     await openProduction(page, hash);
-    if (hash === 'villains') {
-      // The villains route is a lazy chunk and renders more than the raw
-      // arcFigures count (recurring highlighted cast is included). Poll the
-      // count so the assertion waits for the chunk to mount instead of
+    if (hash === 'villains' || hash === 'isgard') {
+      // Both are lazy chunks and render at least the raw arcFigures count for
+      // their group (villains also folds in recurring highlighted cast). Poll
+      // the count so the assertion waits for the chunk to mount instead of
       // snapshotting count() at 0 before it has loaded.
-      await expect.poll(() => page.locator(selector).count(), { message: `${hash} should render all canonical records plus recurring highlighted cast` }).toBeGreaterThanOrEqual(count);
+      await expect.poll(() => page.locator(selector).count(), { message: `${hash} should render all canonical records for its group` }).toBeGreaterThanOrEqual(count);
     } else {
       await expect(page.locator(selector), `${hash} should render all canonical records`).toHaveCount(count);
     }
@@ -175,7 +181,7 @@ test('active mobile section remains visible inside the tab strip', async ({ page
 
 test('all production archive sections render without mobile overflow', async ({ page }, testInfo) => {
   test.skip(!testInfo.project.name.includes('mobile'), 'mobile parity assertion');
-  const sections = ['overview', 'characters', 'villains', 'techniques', 'chapters', 'bookmarks', 'rankings', 'legends', 'former', 'timeline', 'canon'];
+  const sections = ['overview', 'characters', 'villains', 'isgard', 'techniques', 'chapters', 'bookmarks', 'rankings', 'legends', 'former', 'timeline', 'canon'];
   for (const section of sections) {
     await openProduction(page, section);
     await expect(page.locator('.content')).toBeVisible();

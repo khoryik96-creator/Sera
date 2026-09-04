@@ -16,7 +16,7 @@ const limits = {
 };
 
 const requiredLazyRoutes = [
-  'ReaderRoute', 'ChaptersRoute', 'OverviewRoute', 'CharactersRoute', 'VillainsRoute', 'TechniquesRoute', 'TeahouseRoute',
+  'ReaderRoute', 'ChaptersRoute', 'OverviewRoute', 'CharactersRoute', 'VillainsRoute', 'IsgardRoute', 'TechniquesRoute', 'TeahouseRoute',
   'RankingsRoute', 'BookmarksRoute', 'InsightsRoute', 'LegendsRoute', 'FormerRoute', 'TimelineRoute', 'CanonRoute', 'SearchRoute',
 ];
 

@@ -8,14 +8,23 @@ describe('The Quaint Teahouse five-year reference', () => {
     expect(teahouseIdentity.arc).toBe('Beneath the Crooked Sign');
   });
 
-  it('holds the six senior Orchid members with complete cards', () => {
+  it('holds the senior Orchid members with complete cards', () => {
     const keys = orchidHierarchy.map((member) => member.key);
-    expect(keys).toEqual(['sera', 'qin', 'tae', 'huo', 'lu', 'rhen']);
+    expect(keys).toEqual(['sera', 'qin', 'tae', 'huo', 'lu', 'black_radiance', 'rhen']);
     for (const member of orchidHierarchy) {
       expect(member.name, member.key).toBeTruthy();
       expect(member.role, member.key).toBeTruthy();
       expect(member.background.length, member.key).toBeGreaterThan(40);
     }
+  });
+
+  it('adds Yurushi Amagiri / Black Radiance as the final-arc Sixth Petal', () => {
+    const br = orchidHierarchy.find((member) => member.key === 'black_radiance');
+    expect(br?.name).toBe('Yurushi Amagiri');
+    expect(br?.seat).toBe('Sixth Petal');
+    expect(br?.cultivation.toLowerCase()).toContain('established paragon');
+    // Twilight Dominion is locked canon for him (he is a Paragon), not future-locked.
+    expect(br?.arts?.some((art) => art.name === 'Twilight Dominion')).toBe(true);
   });
 
   it('keeps Rhen the unranked, immeasurable Hidden Petal who holds no command', () => {
