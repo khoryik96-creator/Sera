@@ -51,7 +51,8 @@ export const teahouseIdentity = {
 export const spoilerNotice =
   'Continuation spoilers. This tab covers the five-years-later "Beneath the Crooked Sign" state. Seasons 65–84 now contain the complete first-draft prose for the five-year arc and the northern continuation.';
 
-// The senior hierarchy — the "Orchid": Two Inner Petals, Three Sepals, Hidden Petal.
+// The senior hierarchy — the "Orchid": Two Inner Petals, Three Sepals, Hidden
+// Petal, plus the later final-arc Sixth Petal (Black Radiance).
 export const orchidHierarchy: TeahouseMember[] = [
   {
     key: 'sera',
@@ -114,6 +115,24 @@ export const orchidHierarchy: TeahouseMember[] = [
     cultivation: 'Non-martial — no meaningful combat reputation',
     background:
       'A non-martial logistics talent recruited for judgment rather than strength. As Chief Steward he controls deployment preparation, stores, couriers, intelligence routing and emergency extraction, remaining beneath Sera, Qin and Tae in command. While mapping abandoned supply routes he discovered a vast concealed cave near the summit of Cloudrest Mountain that becomes the guild’s hidden base. Formally appointed to the third Sepal seat in early Year Four, completing the Three Sepals.',
+  },
+  {
+    key: 'black_radiance',
+    name: 'Yurushi Amagiri',
+    role: 'Sixth Petal — covert humanitarian operative; recruited during Rhen’s seclusion',
+    seat: 'Sixth Petal',
+    cultivation: 'Established Paragon',
+    background:
+      'Titled Black Radiance, Yurushi Amagiri is a Shinrin Established Paragon who stayed deliberately unranked — he dislikes attention, public rankings, ceremonies and formal officer status and prefers covert work, so only a small senior circle knew his true cultivation and he was never counted among Shinrin’s official ten. He quietly resisted Shinrin’s abuses for years and helped the injured Yun escape. Following his humanitarian trail while expecting a Shinrin operative, Sera eventually found him and — realizing he had effectively been doing the Quaint Teahouse’s work alone without knowing the guild existed — revealed it and offered him the Sixth Petal. He does not take the vacant Wuyue Top Ten seat, and Rhen remains Hidden Petal. (Final-arc addition; portrait to be added.)',
+    skillsHeading: 'Light and Darkness Qi system',
+    arts: [
+      { name: 'Radiant Step', tier: 'Transcended (Movement)', summary: 'Explosive Light-Qi acceleration that leaves genuine residual-light afterimages.' },
+      { name: 'Black Veil', tier: 'Transcended (Control)', summary: 'Darkness Qi swallows and scatters ambient light to create genuine darkness.' },
+      { name: 'Piercing Dawn', tier: 'Transcended (Offense)', summary: 'Highly concentrated Light Qi delivered through palm, fist or fingertip for speed and penetration.' },
+      { name: 'Night Severance', tier: 'Transcended (Offense / Suppression)', summary: 'Darkness Qi at the contact point absorbs and scatters part of the target’s outward defensive qi for the instant of impact.' },
+      { name: 'Eclipse Crossing', tier: 'Supreme', summary: 'A genuine Light-Qi phase followed by a genuine Darkness-Qi phase — neither phase is a feint.' },
+      { name: 'Twilight Dominion', tier: 'Supreme Domain (Paragon)', summary: 'His Paragon Domain. In shadow he moves through connected darkness and blinds enemies with genuine darkness (hearing, resonance, touch and refined qi perception still function); in light he becomes blindingly fast, massively amplifies Radiant Step and can daze opponents with actual blinding light; twilight transitions convert concealment into explosive acceleration and back, so one continuous action can change elemental state. Literal Light Qi and Darkness Qi — not Yin/Yang framing, spellcasting, spatial magic or mind control.' },
+    ],
   },
   {
     key: 'rhen',

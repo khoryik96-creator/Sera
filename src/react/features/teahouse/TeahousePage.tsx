@@ -1,4 +1,5 @@
 import { PageHeader } from '../../components/Shared';
+import { characterImageMap } from '../../../images';
 import { orchidHierarchy, originalApprentices, spoilerNotice, teahouseIdentity } from './teahouseData';
 import type { ArtStatus, TeahouseArt } from './teahouseData';
 import '../../styles/teahouse.css';
@@ -52,6 +53,11 @@ export function TeahousePage() {
         {orchidHierarchy.map((member, index) => (
           <details className="teahouse-member" key={member.key} open={index < 2}>
             <summary>
+              <div className="teahouse-member__portrait">
+                {characterImageMap[member.key]
+                  ? <img alt={`${member.name} portrait`} src={characterImageMap[member.key]} />
+                  : <span aria-label={`${member.name} portrait to be added`} className="teahouse-member__portrait-placeholder">{member.name.slice(0, 1)}</span>}
+              </div>
               <div className="teahouse-member__seat">{member.seat}</div>
               <div className="teahouse-member__id">
                 <strong>{member.name}</strong>
