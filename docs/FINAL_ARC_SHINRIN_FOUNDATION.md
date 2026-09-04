@@ -399,9 +399,11 @@ These three additions are **not yet locked** until the user approves or replaces
 
 The new figure is **unranked** but strong enough that, if forced into Wuyue's public ranking system, he could comfortably occupy approximately the **#7–#10 range**.
 
-Recommended cultivation remains **High Sovereign**.
+**Locked cultivation: Established Paragon.**
 
-He is exceptionally dangerous because his martial path is rare and difficult to read, not because he secretly possesses a Paragon Domain.
+He is not part of Wuyue's public Top Ten. The vacant public seat remains vacant. After defecting from Shinrin and proving himself through the war, he is recruited into **The Quaint Teahouse as the Sixth Petal**. Rhen remains the **Hidden Petal**.
+
+His Established-Paragon status means he does possess a true Domain; its exact name/mechanics remain approval-gated until selected.
 
 ### 12.2 Narrative Role
 
@@ -486,6 +488,8 @@ Recommended personality:
 - suspicious of Shinrin's central authority;
 - refuses formal ranking and avoids command positions;
 - can cooperate with Sera without immediately serving her;
+- eventually chooses the Quaint Teahouse voluntarily after fighting beside Wuyue and Isgard rather than being absorbed on first contact;
+- becomes the **Sixth Petal** after the war, while the public Top Ten seat remains empty;
 - understands very quickly that Rhen is outside any sensible comparison.
 
 ---
@@ -499,7 +503,7 @@ The following should be decided before the old conspiracy beat sheet is replaced
 3. **Axtaya — LOCKED.** No further poison-name selection required.
 4. Choose **Black Radiance's personal name** from the oriental options or provide a new one; the title itself is locked.
 5. **Light Qi / Darkness Qi skill direction — LOCKED.**
-6. **Black Radiance role — LOCKED:** Shinrin dissident / former covert operative.
+6. **Black Radiance role — LOCKED:** Shinrin dissident / former covert operative; **Established Paragon**; later recruited as the **Sixth Petal** of the Quaint Teahouse; does **not** take the vacant public Top Ten seat.
 7. Name / design **Sigrun's Paragon Domain**.
 8. **Yun fate — LOCKED:** assaulted by a Shinrin Paragon, escapes to Isgard, delivers warning, dies; portrayal must remain non-graphic and consequence-focused.
 9. Decide whether any Shinrin Paragon defects, is politically divided from the leader, or all ten remain loyal.
