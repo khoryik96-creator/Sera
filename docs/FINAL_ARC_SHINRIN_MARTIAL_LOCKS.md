@@ -1,196 +1,323 @@
-# Final Arc — Shinrin Martial Approval Ledger
+# Final Arc — Shinrin Martial Canon Lock
 
-> **Status:** This file records the latest explicit martial approvals for the Shinrin cast. Where an older proposal in `FINAL_ARC_SHINRIN_ROSTER.md` conflicts with a LOCKED entry here, **this file wins**.
+> **Status: AUTHORITATIVE LOCKED CANON for Shinrin martial styles, signature skills and Domains.**
 >
-> Names are already locked. Sections marked **PROPOSED** remain approval-gated.
+> This file records the latest explicit approvals. Where an older proposal in `FINAL_ARC_SHINRIN_ROSTER.md`, `FINAL_ARC_CANON_LOCK.md`, `FINAL_ARC_SHINRIN_FOUNDATION.md`, or another planning file conflicts with this file on a Shinrin character's martial style, skill or Domain, **this file wins**.
 
 ---
 
-# 1. LOCKED — #2 Jin Takamori
+## Domain rule for this roster
 
+Paragon Domains are not just personal buffs. Each Domain changes the battle in its owner's favour **and makes normal fighting worse for hostile targets**.
+
+They remain martial-qi systems rather than western magic. They do not create alternate dimensions, rewrite reality or automatically erase cultivation levels.
+
+---
+
+# 1. Tsubasa Kurokawa — LOCKED
+
+**Position:** Shinrin #1 / ruling-guild leader  
+**Tier:** Peak Paragon  
+**Style:** Chained Crescent
+
+Tsubasa no longer uses a bow. He carries a large black crescent blade attached to a long reinforced chain. He can fight close by gripping near the blade, control mid-range with shortened chain, or release much of the chain for wide sweeping attacks. Terrain, pillars, trees and enemy equipment can become physical anchor points.
+
+## Signature skills
+
+### Black Orbit — Transcended Offense / Control
+Tsubasa rotates the crescent through changing chain lengths and attack planes. He can abruptly shorten or release chain, reverse the orbit through an anchor point, or change the plane of rotation without stopping the weapon's momentum.
+
+### Heaven Snare — Transcended Control / Movement
+The chain physically catches terrain, structures, weapons, armour or limbs. Tsubasa can use the connection either to redirect the crescent or pull his own body into a new angle. There is no teleportation or telekinetic grab; the chain must genuinely catch or wrap something.
+
+### Eclipse Descent — Supreme
+Tsubasa establishes several physical anchor points, releases most of the chain, then drives the crescent through them in one continuous high-speed sequence. The weapon repeatedly changes direction while retaining Paragon-level momentum, creating one attack that seems to keep returning from new angles.
+
+## Tethered Heaven Dominion — LOCKED
+
+Tethered Heaven Dominion establishes two linked rules.
+
+### 1. Detached hostile qi weakens with distance
+Hostile qi that leaves continuous physical connection with its owner begins losing cohesion the farther it travels.
+
+This weakens things such as:
+
+- ranged sword qi;
+- projected qi blades;
+- external pressure waves;
+- detached qi constructs;
+- remote barriers;
+- long weapon-aura projections extending beyond the actual weapon.
+
+The effect is progressive rather than instant. A close-range release may remain dangerous, while a long-travelled projection can lose a large part of its force before reaching Tsubasa.
+
+Tsubasa's crescent has a built-in answer: his qi remains physically connected through **body → hand → chain → crescent**, so the blade can carry near-full output far beyond ordinary weapon range.
+
+### 2. Closing on Tsubasa creates a retreat trap
+The closer a hostile target gets to Tsubasa, the more strongly the Domain establishes a qi tether between that target's circulation and Tsubasa's presence.
+
+The result is not gravity and does not literally increase body mass.
+
+Instead:
+
+- movement begins to feel progressively heavier at close range;
+- trying to **increase distance from Tsubasa** meets the strongest resistance;
+- retreating steps require more muscular effort and more qi;
+- explosive backward qinggong becomes increasingly inefficient;
+- lateral movement also gains some drag at very close range;
+- moving toward Tsubasa is less restricted than trying to escape him.
+
+A powerful Paragon can still force a retreat, but doing so requires enough output to stretch and break through the Domain's tether pressure. Repeated forced retreats can exhaust the body and strain circulation.
+
+This creates the trap: staying far away lets Tsubasa dominate with a full-strength chained weapon while detached ranged qi decays; getting close enough to attack him makes withdrawing increasingly difficult.
+
+**Identity:** the farther your power travels from you, the weaker it becomes; the closer you travel to Tsubasa, the harder it becomes to leave.
+
+---
+
+# 2. Jin Takamori — LOCKED
+
+**Position:** Shinrin #2  
 **Tier:** Established Paragon  
-**Style:** Seizing Hand / close-range capture art with paired hooked blades.
+**Style:** Seizing Hand / close-range capture art with paired hooked blades
 
-## Signature skills — LOCKED
+## Signature skills
 
 ### Five Lock Hand — Transcended Control
-Precise fingers, palms, elbows and wrist strikes target major circulation junctions. A clean hit can temporarily numb fingers, weaken grip, delay leg response or make qi circulation through a struck region painful and unreliable.
+Precise fingers, palms, elbows and wrist strikes target major circulation junctions. Clean contact can numb fingers, weaken grip, delay leg response or make qi circulation through the struck region painful and unreliable.
 
 ### Wolf Hook — Transcended Offense / Capture
-Jin physically hooks a weapon guard, armour seam, sleeve, belt, shield rim or limb, then combines body rotation with qi-reinforced pulling force to drag the target into grappling and elbow range. The hook must actually catch something; there is no telekinetic pull.
+Jin physically hooks a weapon guard, armour seam, sleeve, belt, shield rim or limb, then combines body rotation with qi-reinforced pulling force to drag the target into grappling range.
 
 ### Closed Meridian Cage — Supreme
 Jin rapidly strikes several circulation points in sequence. If enough contacts land correctly, one limb or body section can temporarily become extremely difficult to circulate high-output qi through.
 
 ## Hundred Locks Dominion — LOCKED
-Every clean physical contact Jin earns inside the Domain leaves a short-lived lock in that exact contacted region.
+Every clean physical contact Jin earns inside the Domain leaves a short-lived lock in that exact region.
 
 - one lock creates mild circulation drag;
 - repeated locks compound;
-- enough accumulated locks can make a limb sluggish, numb or temporarily unreliable for high-level techniques;
-- strong cultivators may purge the locks by stopping and forcing circulation through the affected region, but doing so costs time and focus;
+- enough locks can make a limb sluggish, numb or unreliable for high-level techniques;
+- strong cultivators can purge locks by stopping and forcing circulation through the affected region, but this costs time, qi and attention;
 - locks expire and are not automatically permanent injuries.
 
-**Identity:** every touch lets Jin remove another piece of the opponent's fighting capacity.
+**Identity:** every touch removes another piece of the opponent's usable fighting capacity.
 
 ---
 
-# 2. LOCKED — #5 Kai Moriyama
+# 3. Haru Ishikawa — LOCKED
 
+**Position:** Shinrin #3  
 **Tier:** Established Paragon  
-**Style:** Heavy saber / Tempered Flame Qi.
+**Style:** Precision spear
 
-## Signature skills — LOCKED
+## Signature skills
+
+### Three-Length Spear — Transcended Offense
+Haru changes the effective reach of one thrust at the last instant through grip shift, torso extension and compressed spear qi. The spear does not magically grow.
+
+### Half-Step Outside — Transcended Movement / Counter
+Haru positions himself just outside the actual end of a committed attack, allowing it to miss by inches while keeping himself inside immediate spear-counter range.
+
+### Nine Lines Collapse — Supreme
+Nine deliberately chosen spear lines remove escape and counter angles one after another until the opponent is forced into a much narrower set of viable positions.
+
+## Carved Spear Dominion — LOCKED
+Every genuine spear thrust Haru completes leaves a temporary residue of compressed spear qi along the exact physical line travelled by that thrust.
+
+For a short period Haru can trigger that stored line once, causing it to discharge as a second spear-qi thrust along the original path.
+
+- a thrust that missed can become dangerous again later;
+- a blocked thrust can re-fire after the defender has moved their guard;
+- Haru can build several stored lines before triggering them in sequence;
+- each stored thrust discharges only once;
+- a stored line cannot rotate or chase a target;
+- sufficiently strong qi disruption can destroy a stored line;
+- Haru stores only his own completed spear attacks, never enemy techniques.
+
+**Identity:** the opponent must remember not only where Haru's spear is now, but everywhere it has already been.
+
+---
+
+# 4. Hana Arakawa — LOCKED
+
+**Position:** Shinrin #4  
+**Tier:** Established Paragon  
+**Style:** Twin short swords / Wind-Qi qinggong
+
+## Signature skills
+
+### Falling Sky Step — Transcended Movement
+Wind Qi bursts around Hana's legs during direction changes, letting her redirect sideways, diagonally or downward while preserving far more speed than ordinary qinggong.
+
+### Twin Gale Crescent — Transcended Offense
+Two compressed wind-edged sword cuts arrive from slightly separated angles. The first forces a guard and the second punishes the same guard position.
+
+### Silent Crosswind — Supreme
+Hana hides one major directional change inside the disturbed pressure wake of her previous movement. The misleading airflow makes the next physical attack appear to continue along the wrong line. It is not an illusion.
+
+## Hollow Sky Dominion — LOCKED
+Hana creates moving regions of drastically reduced air pressure throughout the Domain.
+
+Inside low-pressure pockets, hostile targets suffer:
+
+- increasingly difficult breathing;
+- painful pressure in lungs and ears;
+- muffled sound;
+- reduced comfort maintaining prolonged exertion;
+- unstable footing when crossing sharp pressure boundaries;
+- erratic movement of dust, cloth and light projectiles.
+
+Hana can collapse a low-pressure pocket, allowing surrounding air to rush back in as a short violent pressure equalization. This can spoil a weapon line, pull a body slightly off balance or rupture weak diffuse qi constructs.
+
+She cannot simply vacuum a Paragon to death. Powerful cultivators can use qi-assisted breathing and circulation to resist for a time, but doing so consumes reserve.
+
+Hana is specifically trained to regulate her own breathing and Wind Qi within these pressure changes.
+
+**Identity:** Hana weaponizes not only wind, but the places where wind and pressure have been taken away.
+
+---
+
+# 5. Kai Moriyama — LOCKED
+
+**Position:** Shinrin #5  
+**Tier:** Established Paragon  
+**Style:** Heavy saber / Tempered Flame Qi
+
+## Signature skills
 
 ### Redsteel Heart — Transcended Passive
-Major clashes raise Kai's internal temperature and circulatory pressure. As heat builds, his muscles respond faster, his saber becomes hotter at contact and his physical output becomes increasingly explosive.
+Major clashes raise Kai's internal temperature and circulatory pressure. As heat builds, muscle response becomes faster, his saber becomes hotter at contact and his physical output becomes increasingly explosive.
 
 ### Crimson Cleave — Transcended Offense
-Kai compresses flame qi and saber force into the physical impact point. The blade lands first; a heartbeat later, stored heat expands violently through the damaged guard, armour or struck tissue.
+Kai compresses flame qi and saber force into the impact point. The blade lands first; stored heat then expands violently through the damaged guard, armour or struck tissue.
 
 ### Last Ember Guard — Supreme Defence / Counter
-Kai receives one major attack through reinforced stance and saber structure, catches part of the clash-generated heat inside his own circulation, then immediately vents it through a short countercut.
+Kai receives a major attack through reinforced stance and saber structure, catches part of the clash-generated heat in his circulation, then immediately vents it through a short countercut.
 
-## Crimson Crucible Dominion — LOCKED / REVISED
-The Domain raises the surrounding temperature to extreme levels while feeding Kai's Tempered Flame Qi.
+## Crimson Crucible Dominion — LOCKED
+The Domain drives the surrounding temperature to extreme levels while feeding Kai's Tempered Flame Qi.
 
-### Effect on enemies
-The heat is not merely uncomfortable.
+### Hostile weakening
+Enemies begin losing water rapidly through heat and exertion.
 
-- enemies begin sweating heavily and losing water rapidly;
-- prolonged exposure causes dehydration, dry mouth, muscle weakness, headache and rapidly increasing fatigue;
-- continued exertion accelerates the dehydration;
-- circulation becomes harder to maintain as the body loses fluid and overheats;
-- sufficiently prolonged exposure can cause dizziness, confusion, collapse or unconsciousness even if Kai never lands a direct blow.
+Prolonged exposure causes:
 
-Powerful cultivators can endure far longer than ordinary people, but they are still inhabiting physical bodies and must spend qi to regulate temperature and maintain function.
+- heavy sweating and dehydration;
+- dry mouth and impaired breathing comfort;
+- muscle weakness;
+- headaches and dizziness;
+- rapidly accelerating fatigue;
+- harder circulation control as the body overheats;
+- confusion, collapse or unconsciousness after severe exposure.
 
-### Effect on Kai
-Kai's body and meridians are specifically conditioned for the Crucible.
+The harder an enemy fights, the faster the dehydration and exhaustion build.
 
-As the Domain grows hotter:
+Powerful cultivators can spend qi to regulate body temperature and endure longer, but this itself burns reserve.
 
-- his muscle response becomes more explosive;
-- his acceleration from a planted stance increases;
-- his saber strikes become hotter and more violent;
-- his flame circulation becomes easier rather than harder up to his trained operating ceiling.
+### Kai's advantage
+Kai's body is conditioned for the Crucible. Rising heat makes his stance launches, muscle response, saber impacts and flame circulation increasingly explosive up to his trained ceiling.
 
-At truly reckless duration/output even Kai can eventually exceed what his body can safely vent, but the Domain is fundamentally an environment he is built to thrive inside.
+At reckless duration even Kai can eventually overheat, but the Domain is fundamentally an environment built for him and hostile to everyone else.
 
-**Identity:** everyone else is slowly being cooked dry while Kai becomes more explosive.
+**Identity:** everyone else is being cooked dry while Kai becomes more explosive.
 
 ---
 
-# 3. LOCKED — #6 Aya Katsuragi
+# 6. Aya Katsuragi — LOCKED
 
+**Position:** Shinrin #6  
 **Tier:** Stable Paragon  
-**Style:** Medical needles / meridian medicine.
+**Style:** Medical needles / meridian medicine
 
-## Signature skills — LOCKED
+## Signature skills
 
 ### Seven Pulse Needles — Transcended Control
-Seven fine needles target pulse and circulation junctions. Depending on placement they can stabilize bleeding, calm spasms, reduce pain, correct unstable qi or temporarily disrupt an enemy's circulation.
+Seven fine needles target pulse and circulation junctions. Depending on placement they can slow bleeding, calm spasms, stabilize unstable qi or temporarily disrupt an enemy's circulation.
 
 ### White Thread Sutra — Transcended Healing
-Fine qi threads delivered through implanted needles temporarily stabilize damaged meridians and vessels long enough for the patient's body and medicine to recover.
+Fine qi threads delivered through implanted needles stabilize torn meridians and vessels long enough for the patient's body and medicine to recover.
 
 ### Borrowed Beat — Supreme Healing / Emergency Support
-Aya physically connects to a failing patient through needle points and temporarily synchronizes their unstable circulation to her own controlled pulse, keeping them alive through shock, poison or meridian failure. It cannot resurrect the dead or restore consumed lifespan.
+Aya synchronizes a failing patient's unstable circulation to her own controlled pulse through needle contact, keeping them alive through shock, poison or meridian failure. It cannot resurrect the dead or restore consumed lifespan.
 
-## Hundred Pulse Dominion — LOCKED / REVISED
-Aya can still perceive the pulse and circulation rhythm of every living body inside the Domain with extraordinary accuracy, but against enemies the Domain has an additional combat expression: **Paralytic Pulse**.
+## Hundred Pulse Dominion — LOCKED
+Aya perceives pulse, circulation and meridian behaviour across every living body in the Domain with extreme precision.
 
-### Paralytic Pulse
-Once Aya identifies a hostile target's circulation rhythm, the Domain applies precise suppressive pressure to major meridian junctions across that body.
+Against enemies, this manifests as **Paralytic Pulse**.
 
-The result is progressive paralysis:
+Once Aya identifies a hostile circulation rhythm, the Domain applies precise suppressive pressure to major meridian junctions.
 
-- limbs become heavy;
-- fine movement deteriorates;
-- muscles stop responding cleanly;
-- sufficiently affected opponents can become almost completely unable to move.
+Effects progress from:
 
-### They can force movement — at a price
-The paralysis is not an invisible wall physically holding the body still.
+- heavy limbs;
+- degraded fine movement;
+- delayed muscle response;
+- partial paralysis;
+- near-total inability to move cleanly.
 
-A powerful cultivator may force qi through the suppressed junctions and move anyway.
+A powerful cultivator can force movement by driving qi through the suppressed meridians, but this means pushing high-output circulation through channels the Domain is constricting.
 
-Doing so means driving high-output circulation through meridians Aya's Domain is actively constricting.
-
-Consequences can include:
+Repeated forced movement can cause:
 
 - torn meridians;
 - internal bleeding along circulation channels;
-- damaged joints and muscles from badly synchronized qi;
-- progressively worse self-injury the longer they continue forcing movement.
+- damaged joints or muscles from badly synchronized qi;
+- worsening self-injury with every forced action.
 
-A Paragon may choose to move through the paralysis for a decisive attack, but they are knowingly injuring their own meridians to do it.
+Aya can exclude selected allies from Paralytic Pulse and instead use the Domain's diagnostic side to support treatment.
 
-Allies selected by Aya are not subjected to Paralytic Pulse and instead benefit from her diagnostic/healing awareness.
-
-**Identity:** Aya does not need to chase an enemy. She makes movement itself become a medical decision: stay still, or tear yourself apart forcing the body to obey.
+**Identity:** stay still, or damage your own meridians forcing the body to move.
 
 ---
 
-# 4. LOCKED — #7 Kenji Narukami
+# 7. Kenji Narukami — LOCKED
 
+**Position:** Shinrin #7  
 **Tier:** Stable Paragon  
-**Style:** Straight sword / Thunder-Qi burst combat.
+**Style:** Straight sword / Thunder-Qi burst combat
 
-## Signature skills — LOCKED
+## Signature skills
 
 ### Flashstep — Transcended Movement
-A controlled Thunder-Qi surge through the legs and nerves produces violent short-range acceleration. It is physical movement, not teleportation.
+A controlled Thunder-Qi surge through nerves and legs produces violent short-range physical acceleration. It is not teleportation.
 
 ### Sky Crack — Transcended Offense
-When Kenji's sword makes physical contact with weapon, armour or body, compressed Thunder Qi discharges through the clash point and briefly disrupts grip, muscle timing and stance recovery.
+When Kenji's sword makes physical contact, compressed Thunder Qi discharges through the clash point and briefly disrupts grip, muscle timing and stance recovery.
 
 ### Sevenfold Thunder — Supreme Movement / Offense
 Kenji stores a sequence of Thunder-Qi bursts through rapid movement and clashes, then releases them through one continuously changing-speed sword assault.
 
-## Stormstep Dominion — LOCKED / REVISED
-Inside the Domain, **every meaningful step taken by a hostile target calls a Thunder-Qi strike onto that target's current position**.
+## Stormstep Dominion — LOCKED
+Every meaningful planted step or landing taken by a hostile target calls a Thunder-Qi strike onto that target's current position.
 
-The strike is generated by the charged atmosphere of Kenji's Domain, not by teleportation or mind control.
+An individual strike can be avoided or survived through:
 
-### Enemy problem
-An enemy can evade an individual thunder strike.
+- acceleration;
+- jumping;
+- rolling;
+- blocking;
+- redirection;
+- brief airborne movement;
+- terrain or another defensive technique.
 
-They can:
+But each new meaningful step triggers another strike.
 
-- accelerate away;
-- roll or leap;
-- block;
-- redirect;
-- remain airborne briefly;
-- use terrain or another technique to survive the discharge.
+Rapid footwork can therefore create a continuous thunder pursuit. Remaining still avoids fresh step-triggered strikes, but gives a Thunder-Qi swordsman a stationary target.
 
-But the problem is repetition.
+Landing after a leap counts as a new planted contact and can call the next strike.
 
-The next planted step triggers another strike.
-
-Then another.
-
-Then another.
-
-Rapid footwork can therefore turn the Domain into a continuous thunder pursuit.
-
-Remaining still avoids creating fresh step-triggered strikes, but surrendering footwork against Kenji gives a Thunder-Qi swordsman exactly the stationary target he wants.
-
-Landing after a leap counts as a new planted step/contact and can trigger the next strike.
-
-Extremely refined opponents may minimize or disguise certain contacts, but they cannot keep moving normally forever without repeatedly inviting thunder.
-
-**Identity:** you can dodge the lightning. The real question is how many times you can keep dodging while still trying to fight Kenji.
+**Identity:** dodging one bolt is possible; fighting normally while every step calls another is the real problem.
 
 ---
 
-# 5. LOCKED — #8 Jun Kajihara
+# 8. Jun Kajihara — LOCKED
 
+**Position:** Shinrin #8  
 **Tier:** Stable Paragon  
-**Style:** Heavy halberd / anti-defence martial art.
+**Style:** Heavy halberd / anti-defence martial art
 
-## Signature skills — LOCKED
+## Signature skills
 
 ### Gatebreaker Halberd — Transcended Offense
 Jun compresses the full force of a heavy halberd swing into a small impact zone, maximizing penetration rather than producing a broad blast.
@@ -199,12 +326,10 @@ Jun compresses the full force of a heavy halberd swing into a small impact zone,
 Jun immediately follows a defended impact with a second strike shaped around the position and timing exposed by the first collision.
 
 ### Third Wall Falls — Supreme
-Three escalating halberd attacks are delivered in rapid succession, forcing the defender to survive repeated anti-guard pressure without time to fully reset.
+Three escalating halberd attacks arrive in rapid succession, forcing the defender to survive repeated anti-guard pressure without a full reset.
 
-## Breach Dominion — LOCKED / REVISED
-Inside the Domain, **Jun's attacks negate defensive mitigation at the point they actually connect**.
-
-If his halberd hits the target, defensive layers do not reduce the force of the strike in the normal way.
+## Breach Dominion — LOCKED
+When Jun's attack **actually connects**, conventional defensive mitigation at that point provides no meaningful reduction to the strike.
 
 This includes:
 
@@ -216,191 +341,128 @@ This includes:
 - conventional barriers;
 - reinforced defensive techniques.
 
-At contact, Jun's Domain treats those defensive layers as though they provide **no meaningful mitigation** against the force being delivered.
+Breach Dominion does not guarantee contact and does not erase cultivation or cancel an enemy Domain wholesale.
 
-### Important distinction
-Breach Dominion does not guarantee that Jun lands.
-
-Opponents can still:
+Enemies can still:
 
 - dodge;
-- redirect his weapon before clean contact;
-- interrupt him;
+- redirect the weapon before clean contact;
+- interrupt Jun;
+- control spacing;
 - attack first;
-- use spacing and mobility;
 - avoid the halberd entirely.
 
-It also does not erase an opponent's cultivation or cancel their Domain wholesale.
-
-But if the strike **lands**, hiding behind thicker armour, a stronger shield or denser defensive qi does not save you.
-
-**Identity:** against Jun, defence is not the answer. Do not be where the halberd lands.
+**Identity:** against Jun, thicker defence is not the answer. Do not be where the halberd lands.
 
 ---
 
-# 6. PROPOSED REWORK — #1 Tsubasa Kurokawa
+# 9. Eirik Voss — LOCKED
 
-**Keep current approved direction:** Peak-Paragon longbow specialist. Existing signature skills can remain unless separately changed.
+**Position:** Shinrin #9  
+**Tier:** Stable Paragon  
+**Origin:** Former leader of Isgard  
+**Style:** Isgard longsword and shield / battlefield command
 
-## Proposed Domain — Distant Heaven Dominion
-Tsubasa's arrows become more dangerous the **farther they travel inside the Domain**.
+## Signature skills
 
-Rather than losing speed to drag, every arrow he fires continuously draws small amounts of ambient qi into the shaft and compressed arrowhead while airborne.
+### Winter Brace — Transcended Defence
+Eirik distributes incoming force through shield rim, shoulder, hips and rear leg, using his entire frame instead of one arm to absorb impact.
 
-The result:
+### King's Guard — Transcended Defence / Escort
+Sword and shield form a moving defensive frame around one nearby ally, allowing Eirik to protect that person during retreat, extraction or advance.
 
-- the arrow keeps accelerating;
-- penetration keeps increasing;
-- stability improves rather than decays over range;
-- very long shots become substantially more dangerous than close shots.
+### Last Standard — Supreme Formation Art
+Eirik releases a clear battle signal and qi pulse that willing allies can consciously synchronize with. Matching his breathing and guard rhythm lets the group receive one major exchange in coordinated sequence rather than as isolated fighters. It is not mind control.
 
-The Domain does **not** curve arrows, home onto targets or alter their chosen trajectory.
+## Crownless Dominion — LOCKED
+Inside Crownless Dominion, hostile cultivators cannot properly replenish spent qi from the surrounding environment.
 
-If Tsubasa misses the line, he misses.
+They can still use the reserve already inside their bodies at full normal potential.
 
-The counter is therefore conceptually simple and practically terrifying: **close the distance before his range becomes overwhelming**.
+What changes is recovery:
 
-At close range he is still a Peak Paragon archer, but his Domain reaches its most frightening expression when he has hundreds of metres of sky to work with.
+- ambient qi becomes effectively unavailable to hostile circulation;
+- breathing and ordinary recovery methods restore almost nothing from the environment;
+- large techniques become genuinely irreversible expenditures while the Domain persists;
+- repeated qinggong, Domains and Supreme arts steadily drain hostile reserves with little or no replenishment;
+- fatigue accumulates faster because spent internal energy stays spent.
 
-**Identity:** ordinary archers lose power with distance. Tsubasa gains it.
+Eirik and selected allies remain able to interact with ambient qi normally.
 
----
+The Domain does **not** directly steal or delete existing enemy reserve. Whatever they entered with remains theirs until they spend it.
 
-# 7. PROPOSED REWORK — #3 Haru Ishikawa
+This turns long engagements into a resource war Eirik is built to command.
 
-**Keep current direction:** precision spear specialist. Existing signature skills can remain unless separately changed.
-
-## Proposed Domain — Carved Spear Dominion
-Every genuine spear thrust Haru completes inside the Domain leaves behind a temporary residue of compressed spear qi along the exact physical line the thrust travelled.
-
-Think of each completed thrust as **carving one attack into the battlefield**.
-
-For a short time, Haru can trigger that stored residue once.
-
-When triggered, it discharges as a second spear-qi thrust along the original line.
-
-This means:
-
-- a thrust that missed five seconds ago may become dangerous again;
-- a blocked thrust may later re-fire along the same angle after the defender has moved their guard;
-- Haru can deliberately build several stored thrust-lines before triggering them in a sequence;
-- the battlefield becomes increasingly filled with remembered attacks that Haru created himself.
-
-Limits:
-
-- each stored thrust can discharge only once;
-- the line cannot rotate after being carved;
-- Haru cannot store an unlimited number;
-- sufficiently strong qi disruption can destroy a stored residue;
-- it stores **his own completed spear attacks**, not enemy actions.
-
-**Identity:** fighting Haru means remembering not only where his spear is now, but everywhere it has already been.
+**Identity:** enemies may fight inside Eirik's Domain, but the battlefield gives them nothing back.
 
 ---
 
-# 8. PROPOSED REWORK — #4 Hana Arakawa
+# 10. Nao Shibasaki — LOCKED
 
-**Keep current direction:** twin short swords / Wind-Qi qinggong.
+**Position:** Shinrin #10  
+**Tier:** Stable Paragon  
+**Style:** Flowing jian / Water-Qi swordsmanship
 
-## Proposed Domain — Hollow Sky Dominion
-Hana uses Wind Qi to create moving zones of drastically reduced air pressure throughout the Domain.
+## Signature skills
 
-Inside those low-pressure pockets:
+### Quiet Lake Guard — Transcended Defence
+Nao receives heavy force through circular sword movement and layered body rotation, spreading one collision through wrist, elbow, shoulder, waist and footwork rather than taking it at one point.
 
-- breathing becomes difficult;
-- sound becomes heavily muted;
-- lungs and ears experience painful pressure stress;
-- loose clothing, dust and light projectiles behave erratically;
-- explosive movement across a pressure boundary can destabilize footing and body orientation.
+### Rain-Cut Sword — Transcended Offense
+A sequence of light precise cuts flows around a stronger guard rather than contesting it head-on, targeting exposed edges, wrists and openings.
 
-Hana can then collapse a low-pressure pocket by allowing surrounding air to rush back in.
+### Mercy Current — Supreme Defence / Rescue
+Nao wraps Water Qi around herself and one nearby person, splitting a dangerous incoming impact across several controlled body movements to create an escape opening.
 
-That sudden pressure equalization creates a short, violent physical implosion that can:
+## Stillwater Dominion — LOCKED
+Stillwater Dominion gradually lowers the **effective circulatory pressure** of hostile cultivators.
 
-- spoil a weapon line;
-- pull a body several inches off balance;
-- rupture weak diffuse qi constructs;
-- create the tiny opening Hana needs for twin-sword combat.
+At first their techniques work normally.
 
-She cannot casually vacuum an entire Paragon dry of air, and powerful cultivators can sustain themselves through qi-assisted breathing for a time.
+With continued exposure:
 
-Hana is trained to regulate her own breathing and Wind-Qi circulation inside the pressure changes.
+- the same circulation effort produces slightly less output;
+- explosive qinggong becomes harder to reach at full force;
+- weapon reinforcement weakens unless more qi is forced through it;
+- major techniques require increasingly aggressive circulation to reproduce their earlier strength;
+- fatigue accelerates as the enemy tries to compensate.
 
-**Identity:** Hana does not simply control wind. She weaponizes the absence of it.
+A hostile cultivator is not hard-capped. They can force themselves back toward full output by overpressurizing their own meridians.
 
----
+But repeatedly doing so can cause:
 
-# 9. PROPOSED REWORK — #9 Eirik Voss
+- meridian inflammation;
+- internal bleeding;
+- torn circulation channels;
+- unstable qi flow;
+- rapidly increasing exhaustion.
 
-**Keep current direction:** former Isgard leader / longsword and shield / battlefield commander.
+Nao's Water-Qi circulation is built around continuous equalization. Inside Stillwater Dominion her own internal pressure repeatedly settles back toward its trained balance, allowing her to remain much closer to normal output while opponents progressively decline.
 
-## Proposed Domain — One Banner Dominion
-Eirik can link willing allies inside the Domain into a **shared qi reserve** centred on himself.
-
-Each participating fighter may voluntarily contribute a portion of their available qi.
-
-Eirik can then redistribute that pooled qi to whoever needs it most.
-
-Examples:
-
-- a defender whose reserve is nearly exhausted can receive emergency qi from several fresher allies;
-- a formation can temporarily feed one specialist enough power to complete a crucial technique;
-- Eirik can reinforce a collapsing flank without physically standing there by routing pooled reserve to the fighters holding it;
-- Eirik himself can donate most of his own reserve to keep others standing.
-
-Limits:
-
-- participation must be willing;
-- Eirik cannot transfer cultivation level, techniques, health or lifespan;
-- foreign qi loses some efficiency during transfer;
-- forcing too much qi through a weaker person's meridians can injure them;
-- Eirik is the central regulator, so disrupting him destabilizes the entire network;
-- when alone, the Domain offers far less advantage.
-
-**Identity:** Eirik's strength as a ruler was never that he stood above everyone. He could make an army spend its strength where it mattered most.
+**Identity:** enemies can accept becoming weaker, or injure themselves trying to remain at full strength.
 
 ---
 
-# 10. PROPOSED REWORK — #10 Nao Shibasaki
+# Yurushi Amagiri / Black Radiance — cross-reference
 
-**Keep current direction:** flowing jian / Water-Qi swordsmanship / sympathetic defensive personality.
+Yurushi Amagiri remains **unranked in Shinrin by deliberate choice** and is not one of the official ten despite Established-Paragon strength.
 
-## Proposed Domain — Stillwater Dominion
-The new mechanic is **qi damping**, not force redirection.
+His already locked martial system remains:
 
-Inside the Domain, Nao's Water Qi resists sudden changes in circulation the way deep water resists abrupt violent motion.
+- literal Light Qi / Darkness Qi;
+- Radiant Step;
+- Black Veil;
+- Piercing Dawn;
+- Night Severance;
+- Eclipse Crossing;
+- **Twilight Dominion**.
 
-Rapid spikes in qi output are automatically smoothed toward a slower curve.
-
-This means explosive techniques become harder to execute instantly:
-
-- burst movement takes longer to reach maximum acceleration;
-- sudden body reinforcement cannot appear at full strength in one instant;
-- explosive qi releases need additional time to build;
-- abrupt power surges lose their sharp first moment.
-
-The Domain does **not** reduce a cultivator's total reserve and does not prevent them from eventually reaching high output.
-
-Steady, continuous circulation works far better than sudden bursts.
-
-Nao has built her entire sword style around smooth, uninterrupted Water-Qi flow, so her normal rhythm is affected far less than opponents who depend on explosive activation.
-
-**Identity:** Stillwater Dominion does not make enemies weaker. It makes sudden power stop being sudden.
+The detailed Black Radiance mechanics in `FINAL_ARC_CANON_LOCK.md` remain authoritative unless explicitly changed later.
 
 ---
 
-# 11. Current Approval State
+# Final approval state
 
-## LOCKED
-- #2 Jin Takamori — skills + Hundred Locks Dominion.
-- #5 Kai Moriyama — skills + revised Crimson Crucible Dominion.
-- #6 Aya Katsuragi — skills + revised Hundred Pulse Dominion / Paralytic Pulse.
-- #7 Kenji Narukami — skills + revised Stormstep Dominion.
-- #8 Jun Kajihara — skills + revised Breach Dominion.
+All ten official Shinrin Paragons now have **locked** martial styles, signature skills and Domains.
 
-## STILL PROPOSED
-- #1 Tsubasa Kurokawa — **Distant Heaven Dominion**.
-- #3 Haru Ishikawa — **Carved Spear Dominion**.
-- #4 Hana Arakawa — **Hollow Sky Dominion**.
-- #9 Eirik Voss — **One Banner Dominion**.
-- #10 Nao Shibasaki — reworked **Stillwater Dominion**.
+No official-ten Shinrin martial roster item remains approval-gated.
