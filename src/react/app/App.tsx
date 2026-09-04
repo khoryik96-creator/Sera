@@ -12,6 +12,7 @@ const OverviewPage = lazy(() => import('../routes/OverviewRoute').then((module) 
 const CharactersPage = lazy(() => import('../routes/CharactersRoute').then((module) => ({ default: module.CharactersPage })));
 const VillainsPage = lazy(() => import('../routes/VillainsRoute').then((module) => ({ default: module.VillainsPage })));
 const IsgardPage = lazy(() => import('../routes/IsgardRoute').then((module) => ({ default: module.IsgardPage })));
+const ShinrinPage = lazy(() => import('../routes/ShinrinRoute').then((module) => ({ default: module.ShinrinPage })));
 const TechniquesPage = lazy(() => import('../routes/TechniquesRoute').then((module) => ({ default: module.TechniquesPage })));
 const TeahousePage = lazy(() => import('../routes/TeahouseRoute').then((module) => ({ default: module.TeahousePage })));
 const ChaptersPage = lazy(() => import('../routes/ChaptersRoute').then((module) => ({ default: module.ChaptersPage })));
@@ -219,6 +220,7 @@ export function App() {
       case 'characters': page = <CharactersPage selectedKey={route.characterKey} onOpenCharacter={openCharacter} onOpenChapter={openChapter} />; break;
       case 'villains': page = <VillainsPage />; break;
       case 'isgard': page = <IsgardPage />; break;
+      case 'shinrin': page = <ShinrinPage />; break;
       case 'techniques': page = <TechniquesPage />; break;
       case 'teahouse': page = <TeahousePage />; break;
       case 'chapters': page = <ChaptersPage onOpenChapter={openChapter} />; break;
