@@ -10,20 +10,20 @@
 
 | Shinrin position | Name | Tier | Locked narrative function |
 |---|---|---|---|
-| #1 | **Rai Kurokawa** | Peak Paragon | Ruling-guild leader |
+| #1 | **Tsubasa Kurokawa** | Peak Paragon | Ruling-guild leader |
 | #2 | **Jin Takamori** | Established Paragon | Yun Shizhen's attacker |
-| #3 | **Ren Ishikawa** | Established Paragon | Strategic loyalist |
-| #4 | **Mei Arakawa** | Established Paragon | Major personal tie to Black Radiance; exact relationship still to be finalized |
+| #3 | **Haru Ishikawa** | Established Paragon | Strategic loyalist |
+| #4 | **Hana Arakawa** | Established Paragon | Major personal tie to Black Radiance; exact relationship still to be finalized |
 | #5 | **Kai Moriyama** | Established Paragon | Old-guard Shinrin warrior |
 | #6 | **Aya Katsuragi** | Stable Paragon | Medicine / Axtaya research connection |
-| #7 | **Ryo Narukami** | Stable Paragon | Younger-generation Paragon |
+| #7 | **Kenji Narukami** | Stable Paragon | Younger-generation Paragon |
 | #8 | **Jun Kajihara** | Stable Paragon | Hard military expansionist |
 | #9 | **Eirik Voss** | Stable Paragon | Former leader of Isgard from an earlier generation |
 | #10 | **Nao Shibasaki** | Stable Paragon | Sympathetic official-ten member |
 
 ### Black Radiance — locked name/status
 
-- Personal name: **Rei Amagiri**.
+- Personal name: **Yurushi Amagiri**.
 - Title: **Black Radiance**.
 - Cultivation: **Established Paragon**.
 - He was **unranked in Shinrin by deliberate choice** and was never one of Shinrin's official ten officers.
@@ -35,21 +35,21 @@
 
 # 2. Proposed Martial Roster — Revised
 
-## #1 Rai Kurokawa — Peak Paragon
+## #1 Tsubasa Kurokawa — Peak Paragon
 
 ### Style — Longbow / Threaded Bow-Qi Archery
 
-Rai should not resemble Tae, Kael or Huo in silhouette or fighting rhythm. He is a **dedicated long-range archer** who prefers to decide a battle before an opponent reaches him.
+Tsubasa should not resemble Tae, Kael or Huo in silhouette or fighting rhythm. He is a **dedicated long-range archer** who prefers to decide a battle before an opponent reaches him.
 
 He uses a powerful black longbow and specially balanced heavy arrows. His internal art produces extremely fine strands of bow qi that remain connected to arrows he has personally fired for a short interval. He is not telekinetically controlling objects; the qi strands act like temporary extensions of bowstring tension.
 
-At ordinary levels, an archer wins by predicting where a target will be. Rai wins because a shot can still be adjusted **after the target believes the original trajectory has been solved**.
+At ordinary levels, an archer wins by predicting where a target will be. Tsubasa wins because a shot can still be adjusted **after the target believes the original trajectory has been solved**.
 
 ### Signature skills
 
 #### **Silent String — Transcended Passive / Control**
 
-Rai wraps bow, hands and shoulders in tightly controlled qi at the moment of release.
+Tsubasa wraps bow, hands and shoulders in tightly controlled qi at the moment of release.
 
 What it does:
 
@@ -60,13 +60,13 @@ What it does:
 
 What it looks like:
 
-The bow barely seems to move. Often the target hears the arrow striking before hearing anything from Rai's position.
+The bow barely seems to move. Often the target hears the arrow striking before hearing anything from Tsubasa's position.
 
 It does not make him invisible and does not erase the physical arrow.
 
 #### **Black Comet — Transcended Offense**
 
-Rai condenses qi tightly along the entire arrow rather than creating a huge projectile blast.
+Tsubasa condenses qi tightly along the entire arrow rather than creating a huge projectile blast.
 
 Effect:
 
@@ -81,7 +81,7 @@ A dark, almost ordinary-looking arrow crosses the battlefield with very little s
 
 #### **Nine Stars Descend — Supreme**
 
-Rai fires nine arrows at deliberately different elevations, speeds and timings.
+Tsubasa fires nine arrows at deliberately different elevations, speeds and timings.
 
 They initially appear unrelated.
 
@@ -93,9 +93,9 @@ It requires enormous concentration and is difficult to repeat immediately.
 
 ### Domain — **Heavenstring Dominion**
 
-Inside the Domain, every arrow Rai personally fires can remain connected to him by an ultra-fine strand of bow qi until it hits, leaves the Domain or the strand breaks.
+Inside the Domain, every arrow Tsubasa personally fires can remain connected to him by an ultra-fine strand of bow qi until it hits, leaves the Domain or the strand breaks.
 
-For each connected arrow, Rai can make **one meaningful correction** while it is still in flight.
+For each connected arrow, Tsubasa can make **one meaningful correction** while it is still in flight.
 
 Possible corrections include:
 
@@ -109,14 +109,14 @@ Important limits:
 
 - arrows do **not** teleport;
 - they still obey physical momentum and cannot turn at impossible right angles;
-- Rai cannot attach strings to enemy weapons, bodies or unrelated objects;
+- Tsubasa cannot attach strings to enemy weapons, bodies or unrelated objects;
 - sufficiently powerful qi interference can sever a bow-qi strand;
-- forcing Rai into cramped close combat makes maintaining many strings much harder;
+- forcing Tsubasa into cramped close combat makes maintaining many strings much harder;
 - each additional connected arrow costs concentration and reserve.
 
 At Peak Paragon level, however, he can sustain a frightening number of simultaneous shots.
 
-**Combat identity:** Rai makes ordinary archery rules unreliable. Dodging the first trajectory is not enough, because the arrow may still have one decision left.
+**Combat identity:** Tsubasa makes ordinary archery rules unreliable. Dodging the first trajectory is not enough, because the arrow may still have one decision left.
 
 ---
 
@@ -195,39 +195,39 @@ Locks expire. The Domain does not automatically cripple people permanently.
 
 ---
 
-## #3 Ren Ishikawa — Established Paragon
+## #3 Haru Ishikawa — Established Paragon
 
 ### Style — Precision Spear / Battlefield Measurement
 
-Ren uses a long spear and fights like a living measuring instrument.
+Haru uses a long spear and fights like a living measuring instrument.
 
 He is not prophetic. He does not read minds or foresee choices.
 
-Instead, once an opponent genuinely moves, Ren understands the physical reality of that movement with absurd precision: reach, speed, angle, recovery time and where the body must finish.
+Instead, once an opponent genuinely moves, Haru understands the physical reality of that movement with absurd precision: reach, speed, angle, recovery time and where the body must finish.
 
 ### Signature skills
 
 #### **Three-Length Spear — Transcended Offense**
 
-Ren changes the effective reach of one thrust at the final instant using grip shift, torso extension and compressed spear qi.
+Haru changes the effective reach of one thrust at the final instant using grip shift, torso extension and compressed spear qi.
 
 The spear does not physically grow.
 
-The opponent may read the first grip and believe the tip will stop short, only for Ren to slide into the long grip and extend compressed qi along the thrust line.
+The opponent may read the first grip and believe the tip will stop short, only for Haru to slide into the long grip and extend compressed qi along the thrust line.
 
 He can also shorten unexpectedly, causing a defender to overreact to reach that never arrives.
 
 #### **Half-Step Outside — Transcended Movement / Counter**
 
-Ren deliberately positions himself just beyond the actual end point of a committed attack.
+Haru deliberately positions himself just beyond the actual end point of a committed attack.
 
 The enemy misses by inches rather than meters.
 
-Because Ren never over-retreated, he is already inside perfect spear-counter distance while the enemy is still recovering.
+Because Haru never over-retreated, he is already inside perfect spear-counter distance while the enemy is still recovering.
 
 #### **Nine Lines Collapse — Supreme**
 
-Ren attacks nine carefully selected angles in sequence.
+Haru attacks nine carefully selected angles in sequence.
 
 Each thrust is chosen to remove one viable escape or counter line.
 
@@ -235,7 +235,7 @@ By the final thrust, the opponent is not being overwhelmed by speed alone; they 
 
 ### Domain — **True Measure Dominion**
 
-Inside the Domain, Ren receives near-perfect real-time awareness of measurable physical combat data after movement begins:
+Inside the Domain, Haru receives near-perfect real-time awareness of measurable physical combat data after movement begins:
 
 - distance;
 - angle;
@@ -250,15 +250,15 @@ A feint can still deceive him before genuine commitment.
 
 Once the body, weapon or technique truly moves, however, he reads its physical limits almost instantly.
 
-**Combat identity:** Ren does not know what you will choose. The problem is that the moment you choose, he knows exactly what that choice can physically reach.
+**Combat identity:** Haru does not know what you will choose. The problem is that the moment you choose, he knows exactly what that choice can physically reach.
 
 ---
 
-## #4 Mei Arakawa — Established Paragon
+## #4 Hana Arakawa — Established Paragon
 
 ### Style — Twin Short Swords / Wind-Qi Qinggong
 
-Mei uses twin short swords and compressed Wind Qi.
+Hana uses twin short swords and compressed Wind Qi.
 
 She does not try to overpower stronger opponents. She turns tiny directional errors into major openings by attacking from angles that keep changing faster than the defender can reset.
 
@@ -268,7 +268,7 @@ Her style is graceful at first glance and vicious in practice.
 
 #### **Falling Sky Step — Transcended Movement**
 
-Wind Qi bursts around Mei's feet and lower legs during directional changes.
+Wind Qi bursts around Hana's feet and lower legs during directional changes.
 
 Unlike ordinary qinggong, which often sacrifices speed when changing direction sharply, Falling Sky Step lets her redirect sideways, diagonally or downward while preserving much of her momentum.
 
@@ -276,7 +276,7 @@ This makes her extremely difficult to trap against a wall or predictable retreat
 
 #### **Twin Gale Crescent — Transcended Offense**
 
-Mei releases two compressed wind-edged sword cuts from slightly separated angles.
+Hana releases two compressed wind-edged sword cuts from slightly separated angles.
 
 The first forces a guard.
 
@@ -286,11 +286,11 @@ The wind edges remain extensions of real sword force rather than giant ranged bl
 
 #### **Silent Crosswind — Supreme**
 
-Mei uses the pressure wake from one violent movement to hide the airflow signature of her next directional change.
+Hana uses the pressure wake from one violent movement to hide the airflow signature of her next directional change.
 
 An opponent reading her previous motion expects the continuation to go one way.
 
-Mei changes direction inside that disturbed air and attacks from another.
+Hana changes direction inside that disturbed air and attacks from another.
 
 It is not an illusion. The opponent's reading is wrong because the physical airflow is intentionally misleading.
 
@@ -298,7 +298,7 @@ It is not an illusion. The opponent's reading is wrong because the physical airf
 
 Every meaningful movement inside the Domain produces real pressure changes in the air.
 
-Mei can manipulate those pressure differences with her Wind Qi.
+Hana can manipulate those pressure differences with her Wind Qi.
 
 She can:
 
@@ -310,9 +310,9 @@ She can:
 
 She cannot casually blow away a massive concentrated attack or move an opponent like a puppet.
 
-The effect becomes especially dangerous in crowded fights because every moving body contributes new disturbed air for Mei to exploit.
+The effect becomes especially dangerous in crowded fights because every moving body contributes new disturbed air for Hana to exploit.
 
-**Combat identity:** everyone creates wind when they move; Mei is the only person treating all of that movement as usable battlefield material.
+**Combat identity:** everyone creates wind when they move; Hana is the only person treating all of that movement as usable battlefield material.
 
 ---
 
@@ -442,11 +442,11 @@ She still must physically place a needle, touch a target or deliver a qi pulse. 
 
 ---
 
-## #7 Ryo Narukami — Stable Paragon
+## #7 Kenji Narukami — Stable Paragon
 
 ### Style — Straight Sword / Thunder-Qi Burst Combat
 
-Ryo is fast, aggressive and built around short explosive accelerations rather than sustained top speed.
+Kenji is fast, aggressive and built around short explosive accelerations rather than sustained top speed.
 
 His Thunder Qi travels through his own nerves, muscles, sword and grounded contact points.
 
@@ -456,7 +456,7 @@ He fights like a series of sudden detonations separated by tiny moments of reset
 
 #### **Flashstep — Transcended Movement**
 
-Ryo sends a controlled burst of Thunder Qi through leg muscles and nerves.
+Kenji sends a controlled burst of Thunder Qi through leg muscles and nerves.
 
 The body accelerates violently over a short distance.
 
@@ -464,7 +464,7 @@ It is not teleportation and the movement still has a readable physical line, but
 
 #### **Sky Crack — Transcended Offense**
 
-When Ryo's sword makes physical contact with weapon, armour or body, he can discharge tightly compressed Thunder Qi through the clash point.
+When Kenji's sword makes physical contact with weapon, armour or body, he can discharge tightly compressed Thunder Qi through the clash point.
 
 The shock is designed to disrupt:
 
@@ -477,7 +477,7 @@ It is brief neuromuscular disruption rather than giant lightning damage.
 
 #### **Sevenfold Thunder — Supreme Movement / Offense**
 
-Ryo stores seven successive bursts of Thunder Qi through rapid grounded contacts and sword clashes.
+Kenji stores seven successive bursts of Thunder Qi through rapid grounded contacts and sword clashes.
 
 He can release those stored bursts in one continuous sequence of accelerations, creating an attack that changes pace multiple times before the final sword strike.
 
@@ -485,7 +485,7 @@ Each burst is physical movement. There is no jumping between pre-marked location
 
 ### Domain — **Stormstep Dominion**
 
-Inside the Domain, every strong grounded step, landing or weapon clash Ryo completes can generate a temporary **thunder charge** inside his own circulation.
+Inside the Domain, every strong grounded step, landing or weapon clash Kenji completes can generate a temporary **thunder charge** inside his own circulation.
 
 He can hold a limited number of charges and spend them to:
 
@@ -498,7 +498,7 @@ He cannot create an infinite charge network across the ground and cannot telepor
 
 The more aggressively he moves, the faster he reloads—but the more stress he places on his own nerves and muscles.
 
-**Combat identity:** Ryo turns his own movement and clashes into ammunition for the next burst.
+**Combat identity:** Kenji turns his own movement and clashes into ammunition for the next burst.
 
 ---
 
@@ -672,13 +672,13 @@ Limits:
 
 # 3. Distinction Check Against Existing Cast
 
-- **Rai / Heavenstring** — long-range archery with one controlled mid-flight correction per connected arrow.
+- **Tsubasa / Heavenstring** — long-range archery with one controlled mid-flight correction per connected arrow.
 - **Jin / Hundred Locks** — earned physical contact progressively restricts usable body regions.
-- **Ren / True Measure** — perfect measurement after genuine movement begins, not foresight.
-- **Mei / Crosswind** — Wind Qi uses real battlefield airflow and pressure changes.
+- **Haru / True Measure** — perfect measurement after genuine movement begins, not foresight.
+- **Hana / Crosswind** — Wind Qi uses real battlefield airflow and pressure changes.
 - **Kai / Crimson Crucible** — clash-generated heat escalates both his power and his self-damage risk.
 - **Aya / Hundred Pulse** — circulation diagnosis and precision medical intervention.
-- **Ryo / Stormstep** — his own grounded movement/clashes generate limited Thunder-Qi charges for later bursts.
+- **Kenji / Stormstep** — his own grounded movement/clashes generate limited Thunder-Qi charges for later bursts.
 - **Jun / Breach** — repeated strikes exploit physical stress fractures in fixed defences.
 - **Eirik / Crownwall** — willing allies synchronize defensive qi timing to distribute and survive formation impacts.
 - **Nao / Stillwater** — disperses incoming force across several flowing vectors.
@@ -687,7 +687,7 @@ Limits:
 - **Huo / Endless Dominion** — intent and execution become increasingly mismatched.
 - **Qin / Echo Dominion** — hostile committed force returns as resonance-equivalent echo force.
 - **Kael / Worldweight Dominion** — committed force through terrain becomes physical burden.
-- **Rei Amagiri / Twilight Dominion** — darkness grants concealment/blindness; light grants speed/dazzle; twilight converts one state into the other.
+- **Yurushi Amagiri / Twilight Dominion** — darkness grants concealment/blindness; light grants speed/dazzle; twilight converts one state into the other.
 
 ---
 
@@ -695,13 +695,13 @@ Limits:
 
 Before these martial details become canon, confirm or revise:
 
-1. Rai — longbow / bow-qi filament art / **Heavenstring Dominion**.
+1. Tsubasa — longbow / bow-qi filament art / **Heavenstring Dominion**.
 2. Jin — Seizing Hand / **Hundred Locks Dominion**.
-3. Ren — Precision Spear / **True Measure Dominion**.
-4. Mei — Wind-Qi twin swords / **Crosswind Dominion**.
+3. Haru — Precision Spear / **True Measure Dominion**.
+4. Hana — Wind-Qi twin swords / **Crosswind Dominion**.
 5. Kai — Tempered Flame-Qi heavy saber / **Crimson Crucible Dominion**.
 6. Aya — Medical needles / **Hundred Pulse Dominion**.
-7. Ryo — Thunder-Qi burst sword / **Stormstep Dominion**.
+7. Kenji — Thunder-Qi burst sword / **Stormstep Dominion**.
 8. Jun — Siege halberd / **Breach Dominion**.
 9. Eirik — Isgard sword-and-shield formation command / **Crownwall Dominion**.
 10. Nao — Water-Qi defensive sword / **Stillwater Dominion**.

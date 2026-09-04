@@ -415,7 +415,7 @@ He is not automatically heroic and does not instantly become Sera's subordinate.
 
 ### 12.3 Personal Name Pending / Title Locked
 
-The prior **Ren Tsukishiro / Dusk Walker** proposal is discarded.
+The prior **Haru Tsukishiro / Dusk Walker** proposal is discarded.
 
 **Permanent title: Black Radiance.**
 
@@ -425,7 +425,7 @@ His personal name remains approval-gated. Current oriental-name options remain:
 2. **Amagiri Seiran**
 3. **Kurobane Akito**
 4. **Tsukimori Renji**
-5. **Shigure Ren**
+5. **Shigure Haru**
 6. **Mizuhara Kaito**
 
 Future planning should refer to him as **Black Radiance** until the personal name is selected.
