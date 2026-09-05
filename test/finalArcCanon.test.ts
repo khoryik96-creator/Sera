@@ -65,8 +65,8 @@ describe('final-arc canon synchronization', () => {
   });
 
   it('gives Rhen his post-seclusion Monarch’s Winter Law with Winter Essence folded in', () => {
-    const law = data.rhenSkills.find((s) => s.name === "Monarch's Winter Law");
-    expect(law, "Monarch's Winter Law present").toBeTruthy();
+    const law = data.rhenSkills.find((s) => s.name === "Monarch’s Winter Law");
+    expect(law, "Monarch’s Winter Law present").toBeTruthy();
     expect(law?.tier).toBe('Supreme Domain Art');
     const blob = JSON.stringify(law);
     expect(blob).toMatch(/50-mile|fifty-mile/);
