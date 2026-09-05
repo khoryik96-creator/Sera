@@ -1,7 +1,8 @@
 import { describe, expect, it } from 'vitest';
 import rawData from '../src/data.json';
 import type { RawDatabase } from '../src/types';
-import { rankStatus } from '../src/react/shared/rankState';
+import { rankStatus, rankStatusForEntry } from '../src/react/shared/rankState';
+import { rankColorKey } from '../src/ranks';
 
 const data = rawData as unknown as RawDatabase;
 
@@ -49,6 +50,18 @@ describe('final-arc canon synchronization', () => {
     for (const n of ['Undertaker’s Measure', 'Pulse Debt', 'False Cure', 'Three Pulse Reversal', 'Final Diagnosis']) {
       expect(names.has(n), n).toBe(true);
     }
+  });
+
+  it('shows both #10 holders in the rankings — Yun (deceased) kept, Xie (current) added', () => {
+    const tens = data.ranks.filter((r) => r.rank === '#10');
+    const yun = tens.find((r) => /Yun/.test(r.name));
+    const xie = tens.find((r) => /Xie Wuchen/.test(r.name));
+    expect(yun, 'Yun #10 preserved').toBeTruthy();
+    expect(xie, 'Xie #10 added').toBeTruthy();
+    expect(rankStatusForEntry(yun!.name.split(' — ')[0], yun!.rank, yun!.className)).toBe('deceased');
+    expect(rankStatusForEntry(xie!.name.split(' — ')[0], xie!.rank, xie!.className)).toBe('current');
+    // Xie's ranking card colours to his own swatch, not the rhen fallback.
+    expect(rankColorKey(xie!.name)).toBe('xie_wuchen');
   });
 
   it('gives Sigrun a Graven Dominion at Paragon', () => {
