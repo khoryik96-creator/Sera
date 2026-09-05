@@ -17,6 +17,7 @@ export function rankColorKey(name: string): string {
   if (name.includes('Arin')) return 'arin';
   if (name.includes('Luo')) return 'luo';
   if (name.includes('Yun')) return 'yun';
+  if (name.includes('Xie')) return 'xie_wuchen';
   if (name.includes('Qin')) return 'qin';
   if (name.includes('Sera')) return 'sera';
   if (name.includes('Han')) return 'han';
