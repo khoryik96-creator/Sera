@@ -1,14 +1,13 @@
 // Shinrin — the final-arc northern power and its ten Paragon officers.
 //
 // Sourced verbatim from the authoritative locks:
+//   docs/FINAL_ARC_PHASE1_PHASE2_CONTINUITY_LOCK.md (revised #1–#10 order + tiers)
 //   docs/FINAL_ARC_SHINRIN_MARTIAL_LOCKS.md  (styles, signature skills, Domains)
-//   docs/FINAL_ARC_SHINRIN_CANON_SUPPLEMENT.md (locked names, tiers, Domain summaries)
-//   docs/FINAL_ARC_SHINRIN_CHARACTER_LOCKS.md (Shinsei Guild, ages, Shunto rename, Ultimate)
-// The later supplement + FINAL_ARC_SHINRIN_CHARACTER_LOCKS win on names/tiers/
-// Domains. Nothing is invented or renamed; the ruling guild is now locked as the
-// Shinsei Guild. Yurushi Amagiri (Black Radiance) is a
-// deliberately-unranked Established Paragon outside the official ten and lives
-// on the Quaint Teahouse tab as the Sixth Petal.
+//   docs/FINAL_ARC_SHINRIN_CHARACTER_LOCKS.md (Shinsei Guild, ages, Ultimate)
+// The Phase I/II continuity lock wins on order/tiers where it conflicts with the
+// older Shinrin roster/supplement/martial docs. Nothing is invented or renamed.
+// Yurushi Amagiri (Black Radiance) is a deliberately-unranked High Paragon
+// outside the official ten and lives on the Quaint Teahouse tab as the Sixth Petal.
 import type { ArchiveFigure } from '../villains/archiveFigures';
 
 /** The ten official Shinsei Guild Paragons, in canonical roster order (#1–#10). */
@@ -28,8 +27,8 @@ export const shinrinParagons: ArchiveFigure[] = [
   },
   {
     key: 'shunto', name: 'Shunto Takamori', source: 'arc',
-    subtitle: 'Shinsei #2 · Established Paragon · Seizing Hand',
-    affiliation: 'Shinsei Guild', affiliationRole: 'Shinsei Guild officer', strength: 'Established Paragon',
+    subtitle: 'Shinsei #2 · High Paragon · Seizing Hand',
+    affiliation: 'Shinsei Guild', affiliationRole: 'Shinsei Guild officer', strength: 'High Paragon',
     details: 'A close-range capture specialist wielding paired hooked blades, built to strip an opponent’s circulation and mobility piece by piece. Age 38.',
     skills: [
       ['Five Lock Hand', 'Transcended Control', 'Precise finger, palm, elbow and wrist strikes to major circulation junctions; clean contact numbs fingers, weakens grip, delays leg response or makes qi circulation through the struck region painful and unreliable.'],
@@ -39,10 +38,22 @@ export const shinrinParagons: ArchiveFigure[] = [
     ],
   },
   {
+    key: 'kai', name: 'Kai Moriyama', source: 'arc',
+    subtitle: 'Shinsei #3 · High Paragon · Heavy saber / Tempered Flame Qi',
+    affiliation: 'Shinsei Guild', affiliationRole: 'Shinsei Guild officer', strength: 'High Paragon',
+    details: 'A heavy-saber bruiser whose Tempered Flame Qi turns a prolonged clash into an oven built for him. Age 46.',
+    skills: [
+      ['Redsteel Heart', 'Transcended Passive', 'Major clashes raise his internal temperature and circulatory pressure; as heat builds, muscle response quickens, the saber runs hotter at contact and his output grows increasingly explosive.'],
+      ['Crimson Cleave', 'Transcended Offense', 'Compresses flame qi and saber force into the impact point — the blade lands first, then stored heat expands violently through the damaged guard, armour or struck tissue.'],
+      ['Last Ember Guard', 'Supreme Defence / Counter', 'Receives a major attack through reinforced stance and saber structure, catches part of the clash-generated heat in his circulation, then vents it through an immediate countercut.'],
+      ['Crimson Crucible Dominion', 'Paragon Domain', 'Drives ambient temperature to extremes while feeding his Tempered Flame Qi. Enemies dehydrate and tire rapidly — sweating, dry mouth, muscle weakness, dizziness, harder circulation control, eventual collapse — faster the harder they fight; qi thermoregulation endures longer at the cost of reserve. Kai’s conditioned body instead grows more explosive up to his trained ceiling. Identity: everyone else is cooked dry while Kai becomes more explosive.'],
+    ],
+  },
+  {
     key: 'haru', name: 'Haru Ishikawa', source: 'arc',
-    subtitle: 'Shinsei #3 · Established Paragon · Precision spear',
-    affiliation: 'Shinsei Guild', affiliationRole: 'Shinsei Guild officer', strength: 'Established Paragon',
-    details: 'A precision spear stylist who wins by geometry — reach, angle and denial — rather than raw force. Age 28.',
+    subtitle: 'Shinsei #4 · High Paragon · Precision spear',
+    affiliation: 'Shinsei Guild', affiliationRole: 'Shinsei Guild officer', strength: 'High Paragon',
+    details: 'A precision spear stylist who wins by geometry — reach, angle and denial — rather than raw force. At 28 he is the youngest High Paragon in Shinsei history.',
     skills: [
       ['Three-Length Spear', 'Transcended Offense', 'Changes the effective reach of a thrust at the last instant through grip shift, torso extension and compressed spear qi — the spear does not magically grow.'],
       ['Half-Step Outside', 'Transcended Movement / Counter', 'Positions just outside the true end of a committed attack so it misses by inches while he stays in immediate spear-counter range.'],
@@ -51,8 +62,20 @@ export const shinrinParagons: ArchiveFigure[] = [
     ],
   },
   {
+    key: 'eirik', name: 'Eirik Voss', source: 'arc',
+    subtitle: 'Shinsei #5 · High Paragon · Longsword & shield',
+    affiliation: 'Shinsei Guild', affiliationRole: 'Former ruler of Isgard; now a Shinsei Guild Paragon', strength: 'High Paragon',
+    details: 'Once Isgard’s ruler, now a Shinsei Guild Paragon — an Isgard longsword-and-shield fighter and battlefield commander built to win wars of attrition.',
+    skills: [
+      ['Winter Brace', 'Transcended Defence', 'Distributes incoming force through shield rim, shoulder, hips and rear leg, absorbing impact with his whole frame instead of one arm.'],
+      ['King’s Guard', 'Transcended Defence / Escort', 'Sword and shield form a moving defensive frame around one nearby ally, protecting them through retreat, extraction or advance.'],
+      ['Last Standard', 'Supreme Formation Art', 'A clear battle signal and qi pulse that willing allies can consciously synchronize with, letting the group take one major exchange in coordinated sequence rather than as isolated fighters. It is not mind control.'],
+      ['Crownless Dominion', 'Paragon Domain', 'Hostile cultivators cannot replenish spent qi from the surrounding environment — their existing reserve works at full potential, but breathing and ordinary recovery restore almost nothing, large techniques become irreversible expenditures, and fatigue accumulates because spent energy stays spent. Eirik and selected allies still draw on ambient qi normally, and the Domain never steals existing reserve. Identity: enemies may fight inside his Domain, but the battlefield gives them nothing back.'],
+    ],
+  },
+  {
     key: 'hana', name: 'Hana Arakawa', source: 'arc',
-    subtitle: 'Shinsei #4 · Established Paragon · Twin short swords / Wind Qi',
+    subtitle: 'Shinsei #6 · Established Paragon · Twin short swords / Wind Qi',
     affiliation: 'Shinsei Guild', affiliationRole: 'Shinsei Guild officer', strength: 'Established Paragon',
     details: 'A twin-short-sword duelist whose Wind-Qi qinggong turns movement and air pressure into weapons. Age 34.',
     skills: [
@@ -63,22 +86,10 @@ export const shinrinParagons: ArchiveFigure[] = [
     ],
   },
   {
-    key: 'kai', name: 'Kai Moriyama', source: 'arc',
-    subtitle: 'Shinsei #5 · Established Paragon · Heavy saber / Tempered Flame Qi',
-    affiliation: 'Shinsei Guild', affiliationRole: 'Shinsei Guild officer', strength: 'Established Paragon',
-    details: 'A heavy-saber bruiser whose Tempered Flame Qi turns a prolonged clash into an oven built for him. Age 46.',
-    skills: [
-      ['Redsteel Heart', 'Transcended Passive', 'Major clashes raise his internal temperature and circulatory pressure; as heat builds, muscle response quickens, the saber runs hotter at contact and his output grows increasingly explosive.'],
-      ['Crimson Cleave', 'Transcended Offense', 'Compresses flame qi and saber force into the impact point — the blade lands first, then stored heat expands violently through the damaged guard, armour or struck tissue.'],
-      ['Last Ember Guard', 'Supreme Defence / Counter', 'Receives a major attack through reinforced stance and saber structure, catches part of the clash-generated heat in his circulation, then vents it through an immediate countercut.'],
-      ['Crimson Crucible Dominion', 'Paragon Domain', 'Drives ambient temperature to extremes while feeding his Tempered Flame Qi. Enemies dehydrate and tire rapidly — sweating, dry mouth, muscle weakness, dizziness, harder circulation control, eventual collapse — faster the harder they fight; qi thermoregulation endures longer at the cost of reserve. Kai’s conditioned body instead grows more explosive up to his trained ceiling. Identity: everyone else is cooked dry while Kai becomes more explosive.'],
-    ],
-  },
-  {
     key: 'aya', name: 'Aya Katsuragi', source: 'arc',
-    subtitle: 'Shinsei #6 · Stable Paragon · Medical needles / meridian medicine',
-    affiliation: 'Shinsei Guild', affiliationRole: 'Shinsei Guild officer', strength: 'Stable Paragon',
-    details: 'A meridian physician whose needle art both keeps allies alive and turns an enemy’s own circulation against them.',
+    subtitle: 'Shinsei #7 · Established Paragon · Medical needles / meridian medicine',
+    affiliation: 'Shinsei Guild', affiliationRole: 'Shinsei Guild officer · senior medical command', strength: 'Established Paragon',
+    details: 'A meridian physician whose needle art both keeps allies alive and turns an enemy’s own circulation against them. She originally developed the legitimate ~20–30% emergency circulatory stimulant "Aya" and helped develop the controlled 1.5× Axtaya tier, but objected to 2× and never approved routine 3× Redline infantry use; Shinsei military command militarized Axtaya over her objections, and she stayed too long inside the program trying to reduce the harm.',
     skills: [
       ['Seven Pulse Needles', 'Transcended Control', 'Seven fine needles at pulse and circulation junctions can slow bleeding, calm spasms and stabilize unstable qi — or temporarily disrupt an enemy’s circulation.'],
       ['White Thread Sutra', 'Transcended Healing', 'Fine qi threads delivered through implanted needles stabilize torn meridians and vessels long enough for the patient’s body and medicine to recover.'],
@@ -88,8 +99,8 @@ export const shinrinParagons: ArchiveFigure[] = [
   },
   {
     key: 'kenji', name: 'Kenji Narukami', source: 'arc',
-    subtitle: 'Shinsei #7 · Stable Paragon · Straight sword / Thunder Qi',
-    affiliation: 'Shinsei Guild', affiliationRole: 'Shinsei Guild officer', strength: 'Stable Paragon',
+    subtitle: 'Shinsei #8 · Established Paragon · Straight sword / Thunder Qi',
+    affiliation: 'Shinsei Guild', affiliationRole: 'Shinsei Guild officer', strength: 'Established Paragon',
     details: 'A Thunder-Qi burst swordsman built around violent short-range acceleration and step-punishing pressure. Age 25.',
     skills: [
       ['Flashstep', 'Transcended Movement', 'A controlled Thunder-Qi surge through nerves and legs produces violent short-range physical acceleration. It is not teleportation.'],
@@ -100,7 +111,7 @@ export const shinrinParagons: ArchiveFigure[] = [
   },
   {
     key: 'jun_kajihara', name: 'Jun Kajihara', source: 'arc',
-    subtitle: 'Shinsei #8 · Stable Paragon · Heavy halberd / anti-defence',
+    subtitle: 'Shinsei #9 · Stable Paragon · Heavy halberd / anti-defence',
     affiliation: 'Shinsei Guild', affiliationRole: 'Shinsei Guild officer', strength: 'Stable Paragon',
     details: 'A heavy-halberd anti-defence specialist whose whole art is about making armour and guards irrelevant at the point of contact. Age 36.',
     skills: [
@@ -108,18 +119,6 @@ export const shinrinParagons: ArchiveFigure[] = [
       ['Second Wall', 'Transcended Follow-Up', 'Immediately follows a defended impact with a second strike shaped around the position and timing the first collision exposed.'],
       ['Third Wall Falls', 'Supreme', 'Three escalating halberd attacks arrive in rapid succession, forcing the defender to survive repeated anti-guard pressure without a full reset.'],
       ['Breach Dominion', 'Paragon Domain', 'When Jun’s attack actually connects, conventional mitigation at that point — armour, shields, weapon guards, body-hardening qi, defensive coatings, barriers, reinforced techniques — gives no meaningful reduction. It does not guarantee contact, erase cultivation or cancel an enemy Domain; opponents can still dodge, redirect the weapon before clean contact, interrupt him, control spacing or strike first. Identity: thicker defence is not the answer — do not be where the halberd lands.'],
-    ],
-  },
-  {
-    key: 'eirik', name: 'Eirik Voss', source: 'arc',
-    subtitle: 'Shinsei #9 · Stable Paragon · Longsword & shield',
-    affiliation: 'Shinsei Guild', affiliationRole: 'Former leader of Isgard; now a Shinsei Guild Paragon', strength: 'Stable Paragon',
-    details: 'Once Isgard’s leader, now a Shinsei Guild Paragon — an Isgard longsword-and-shield fighter and battlefield commander built to win wars of attrition.',
-    skills: [
-      ['Winter Brace', 'Transcended Defence', 'Distributes incoming force through shield rim, shoulder, hips and rear leg, absorbing impact with his whole frame instead of one arm.'],
-      ['King’s Guard', 'Transcended Defence / Escort', 'Sword and shield form a moving defensive frame around one nearby ally, protecting them through retreat, extraction or advance.'],
-      ['Last Standard', 'Supreme Formation Art', 'A clear battle signal and qi pulse that willing allies can consciously synchronize with, letting the group take one major exchange in coordinated sequence rather than as isolated fighters. It is not mind control.'],
-      ['Crownless Dominion', 'Paragon Domain', 'Hostile cultivators cannot replenish spent qi from the surrounding environment — their existing reserve works at full potential, but breathing and ordinary recovery restore almost nothing, large techniques become irreversible expenditures, and fatigue accumulates because spent energy stays spent. Eirik and selected allies still draw on ambient qi normally, and the Domain never steals existing reserve. Identity: enemies may fight inside his Domain, but the battlefield gives them nothing back.'],
     ],
   },
   {
@@ -137,4 +136,4 @@ export const shinrinParagons: ArchiveFigure[] = [
 ];
 
 /** Tier order used to group the roster from strongest to steadiest. */
-export const SHINRIN_TIER_ORDER = ['Peak Paragon', 'Established Paragon', 'Stable Paragon'];
+export const SHINRIN_TIER_ORDER = ['Peak Paragon', 'High Paragon', 'Established Paragon', 'Stable Paragon'];

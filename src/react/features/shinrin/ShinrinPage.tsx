@@ -58,7 +58,7 @@ export function ShinrinPage() {
           </div>
         ))
       )}
-      <p className="empty-note">Yurushi Amagiri (Black Radiance) is a deliberately-unranked Established Paragon outside the official ten — he appears on the Quaint Teahouse tab as the Sixth Petal.</p>
+      <p className="empty-note">Yurushi Amagiri (Black Radiance) is a deliberately-unranked High Paragon outside the official ten — he appears on the Quaint Teahouse tab as the Sixth Petal.</p>
     </section>
   );
 }

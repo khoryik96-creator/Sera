@@ -22,7 +22,7 @@ describe('The Quaint Teahouse five-year reference', () => {
     const br = orchidHierarchy.find((member) => member.key === 'black_radiance');
     expect(br?.name).toBe('Yurushi Amagiri');
     expect(br?.seat).toBe('Sixth Petal');
-    expect(br?.cultivation.toLowerCase()).toContain('established paragon');
+    expect(br?.cultivation.toLowerCase()).toContain('high paragon');
     // Twilight Dominion is locked canon for him (he is a Paragon), not future-locked.
     expect(br?.arts?.some((art) => art.name === 'Twilight Dominion')).toBe(true);
   });
