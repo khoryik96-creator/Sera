@@ -2,7 +2,7 @@
 
 > **Purpose:** scene-level writing handoff for Seasons 95–108.
 >
-> This is not an alternate canon source. Canon facts come from the latest authoritative locks, especially `FINAL_ARC_PHASE1_PHASE2_CONTINUITY_LOCK.md`. This file exists to prevent approved connective tissue from disappearing when the final-arc chapter outline and finished reader prose are written.
+> This is not an alternate canon source. Canon facts come from the latest authoritative locks, especially `FINAL_ARC_PHASE1_PHASE2_CONTINUITY_LOCK.md` and later focused locks such as `FINAL_ARC_AYA_BREAKPOINT_LOCK.md`. This file exists to prevent approved connective tissue from disappearing when the final-arc chapter outline and finished reader prose are written.
 >
 > **Current repository state:** finished reader prose stops at Season 94. Therefore the items below are **mandatory prose insertions for the upcoming Season 95+ draft**, not edits to already-written final-arc chapters.
 
@@ -172,7 +172,26 @@ Sigrun's **Graven Dominion** must be explained during the evacuation hold, inclu
 
 Do not summarize this entire month in one casualty paragraph. At least several losses must be experienced in scene so the later Wuyue anger is earned.
 
-### B2. Wuyue mobilization
+### B2. Emergency Isgard command spine
+
+After Halvek / Raska are lost, Tor / Eldran are removed from front-line command and all three Isgard Paragons are badly injured, Isgard does **not** become leaderless.
+
+Use the locked emergency structure:
+
+- **Solveig Skeldran** — acting war commander / coordination spine;
+- **Varok Skeldran** — mobile field command / pursuit / reinforcement / retreat protection;
+- **Brynja Kharvorn** — coastal defence and landing denial;
+- **Astrid Vardrenn** — recon, forest routes and hidden-road continuity after Halvek's main road network breaks;
+- **Aldric** — supreme legal authority when conscious / able, but not day-to-day field commander while badly injured;
+- **Maedra + Sigrun** — strategic voices while recovering, not magically fresh commanders.
+
+The handoff scene should show a real command vacuum before Solveig accepts the burden. Halvek's death must create institutional consequences that cannot be solved by simply assigning one replacement.
+
+Brynja should earn a visible first-month coastal hold that prevents another major Shinsei landing. Astrid's existing hidden-road speciality should keep armies / medicine moving after primary routes are severed.
+
+When Wuyue arrives, the command hall should feel exhausted and functional rather than empty: Solveig over maps, Varok returning from another movement operation, Brynja still holding coastline, Astrid feeding improvised routes into the command picture.
+
+### B3. Wuyue mobilization
 
 Use the revised post-war army rather than the old previous-war 131,000 figure.
 
@@ -188,7 +207,7 @@ Prose should make clear:
 
 The army must be experienced through marching time, supply traffic, ships, medicine and command load rather than a pure stat dump.
 
-### B3. Sera arrives to support before attacking
+### B4. Sera arrives to support before attacking
 
 Sera's 120 immediately split into medicine, evacuation, reconstruction, logistics, reconnaissance and security tasks.
 
@@ -196,7 +215,7 @@ The first emotional proof of the pact is that Wuyue keeps Isgard alive.
 
 Sera sees the three injured Paragons and the missing / retired commanders before the first Wuyue counterattack.
 
-### B4. First counterattack / Jun defeat
+### B5. First counterattack / Jun defeat
 
 The alliance wins one meaningful beachhead and captures Axtaya.
 
@@ -204,7 +223,7 @@ Jun is badly injured but not removed from the story. Aya treats him. The treatme
 
 Tsubasa sends Kai north because Jun's temporary loss plus Wuyue's arrival changed the arithmetic.
 
-### B5. First mass Redline panic
+### B6. First mass Redline panic
 
 Do not reveal the standard-issue 3× doctrine merely in a briefing.
 
@@ -214,13 +233,30 @@ The scene must distinguish tripled throughput from promotion in cultivation.
 
 Luo recognizes the medical horror. Jin throws away a good plan quickly enough to preserve the army.
 
-### B6. Five-Minute Retreat and Shinsei counter-adaptation
+### B7. Aya's mass-Redline aftermath
+
+After the first large formation-wide Redline use, return to the Shinsei medical side.
+
+Aya activates **Hundred Pulse Dominion** over the treatment area and experiences the aftermath as circulation data rather than abstract casualty numbers.
+
+Make the distinction visible:
+
+- torn meridians can be repaired;
+- internal bleeding can be repaired;
+- collapsed qi channels can be repaired with difficulty;
+- future vitality already consumed by Redline is **gone**.
+
+Aya then learns that ordinary soldiers were not properly told that one 3× dose could cost years of life. This is the institutional betrayal that pushes her from passive harm reduction into active medical resistance.
+
+Use the focused canon in `FINAL_ARC_AYA_BREAKPOINT_LOCK.md`.
+
+### B8. Five-Minute Retreat and Shinsei counter-adaptation
 
 Jin develops the controlled retreat after studying timing with Luo.
 
 Show at least one successful use before Kai counters with staggered waves. The war should feel adaptive: neither side discovers one tactic that permanently solves the other.
 
-### B7. Kai arrives
+### B9. Kai arrives
 
 Properly reintroduce Kai as Shinsei No.3 / High Paragon.
 
@@ -298,6 +334,20 @@ Tae's years of Frozen Petals Garden refinement explain his superior sustainable 
 
 Tae lets Haru / Hana retreat and brings Yurushi home. The emotional payoff is belonging: someone finally came for the man who spent years building escape routes for everyone else.
 
+### C9. Aya treats Haru / institutional breakpoint
+
+After Hana gets Haru back to Shinsei, Aya treats him and immediately recognizes multiple same-day Redline cycles from his pulse and circulation.
+
+The key distinction is that Haru did not redose because he was dying; he redosed because he was losing.
+
+That proves to Aya that Redline has crossed from emergency medicine into doctrine, ego and institutional dependency.
+
+Aya confronts Tsubasa. He tightens redosing controls but refuses to discontinue 3× Redline during the war, promising reform later. This destroys Aya's old “stay for this crisis, fix it afterward” justification.
+
+From here, Hana / Aya / Nao begin deliberately overlapping their harm-reduction work without yet becoming a formal rebellion.
+
+Use `FINAL_ARC_AYA_BREAKPOINT_LOCK.md` as the later focused canon.
+
 ---
 
 ## D. Information boundaries that prose must preserve
@@ -363,9 +413,9 @@ Approximately **83,800 public combat-ready personnel** remain, including about *
 
 Before finished Phase II chapters reach these moments, resolve:
 
-1. **Isgard emergency command spine** after Halvek / Raska die, Tor / Eldran retire and the three Paragons are injured. Solveig remains central; choose the other promoted officers from established Isgard canon.
-2. exact chapter distribution for the above scene chain;
-3. later Phase II reinforcement / casualty progression;
-4. Phase III final operational sequence and Tsubasa confrontation.
+1. exact chapter distribution for the above scene chain;
+2. later Phase II reinforcement / casualty progression;
+3. Phase III final operational sequence and Tsubasa confrontation;
+4. Aya's final Phase III institutional choice remains intentionally open even though her Phase II breakpoint is locked.
 
 When one of these gaps is unresolved, leave it in planning rather than inventing a contradictory answer inside finished reader prose.
