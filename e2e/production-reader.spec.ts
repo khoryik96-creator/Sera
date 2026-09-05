@@ -88,6 +88,7 @@ test('production archive renders every canonical core record', async ({ page }) 
     ['characters', '.character-nav-card', expected.characters],
     ['villains', '.lore-card', expected.villains],
     ['isgard', '.lore-card', expected.isgard],
+    ['shinrin', '.lore-card', 10],
     ['rankings', '.ranking-card', expected.ranks],
     ['legends', '.lore-card', expected.legends],
     ['former', '.former-card', expected.former],
@@ -97,7 +98,7 @@ test('production archive renders every canonical core record', async ({ page }) 
 
   for (const [hash, selector, count] of sections) {
     await openProduction(page, hash);
-    if (hash === 'villains' || hash === 'isgard') {
+    if (hash === 'villains' || hash === 'isgard' || hash === 'shinrin') {
       // Both are lazy chunks and render at least the raw arcFigures count for
       // their group (villains also folds in recurring highlighted cast). Poll
       // the count so the assertion waits for the chunk to mount instead of
@@ -181,7 +182,7 @@ test('active mobile section remains visible inside the tab strip', async ({ page
 
 test('all production archive sections render without mobile overflow', async ({ page }, testInfo) => {
   test.skip(!testInfo.project.name.includes('mobile'), 'mobile parity assertion');
-  const sections = ['overview', 'characters', 'villains', 'isgard', 'techniques', 'chapters', 'bookmarks', 'rankings', 'legends', 'former', 'timeline', 'canon'];
+  const sections = ['overview', 'characters', 'villains', 'isgard', 'shinrin', 'techniques', 'chapters', 'bookmarks', 'rankings', 'legends', 'former', 'timeline', 'canon'];
   for (const section of sections) {
     await openProduction(page, section);
     await expect(page.locator('.content')).toBeVisible();

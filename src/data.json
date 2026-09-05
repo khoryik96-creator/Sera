@@ -25,7 +25,7 @@
     },
     "kael": {
       "name": "#1 - Kael Veyran",
-      "subtitle": "World Rank #1 · The Heaven-Breaking Sovereign · High Sovereign · Five Sovereigns",
+      "subtitle": "World Rank #1 · The Heaven-Breaking Sovereign · Newly ascended Paragon · Five Sovereigns",
       "tags": [
         "#1",
         "Five Dukes",
@@ -46,7 +46,7 @@
     },
     "liang": {
       "name": "#2 - Liang Yue",
-      "subtitle": "World Rank #2 · The Bloodless Empress · Mid Sovereign · Five Sovereigns",
+      "subtitle": "World Rank #2 · The Bloodless Empress · Peak Sovereign · Five Sovereigns",
       "tags": [
         "#2",
         "Five Dukes",
@@ -68,7 +68,7 @@
     },
     "jin": {
       "name": "#3 - Jin Seoryu",
-      "subtitle": "World Rank #3 · The Thousand-Eyed Strategist · Early Sovereign · Five Sovereigns",
+      "subtitle": "World Rank #3 · The Thousand-Eyed Strategist · Peak Sovereign · Five Sovereigns",
       "tags": [
         "#3",
         "Five Dukes",
@@ -89,7 +89,7 @@
     },
     "lei": {
       "name": "#4 - Lei Zhen",
-      "subtitle": "Age 26 · World Rank #4 · The Thunder Sovereign · Newly Ascended Sovereign · Five Sovereigns",
+      "subtitle": "Age 26 · World Rank #4 · The Thunder Sovereign · Peak Sovereign · Five Sovereigns",
       "tags": [
         "#4",
         "Five Dukes",
@@ -111,7 +111,7 @@
     },
     "rui": {
       "name": "#5 - Shen Rui",
-      "subtitle": "World Rank #5 · The Azure Tide Saint · Newly Ascended Sovereign · Five Sovereigns",
+      "subtitle": "World Rank #5 · The Azure Tide Saint · Peak Sovereign · Five Sovereigns",
       "tags": [
         "#5",
         "Five Dukes",
@@ -133,7 +133,7 @@
     },
     "qin": {
       "name": "Former #6 - Qin Luo",
-      "subtitle": "Former World Rank #6 · The Silent Bell · Semi-retired · Secretly restored to Sovereign · Second Inner Petal of The Quaint Teahouse",
+      "subtitle": "Former World Rank #6 · The Silent Bell · Semi-retired · Secretly restored to High Paragon · Second Inner Petal of The Quaint Teahouse",
       "tags": [
         "Former #6",
         "Semi-Retired",
@@ -155,11 +155,10 @@
     },
     "sera": {
       "name": "Former #6 - Sera",
-      "subtitle": "The Pale Orchid · Peak Sovereign, approaching Paragon · First Inner Petal of The Quaint Teahouse · Ageless",
+      "subtitle": "The Pale Orchid · Peak Paragon · First Inner Petal of The Quaint Teahouse · Ageless",
       "tags": [
         "First Inner Petal",
-        "Peak Sovereign",
-        "Approaching Paragon",
+        "Peak Paragon",
         "The Pale Orchid",
         "Ageless",
         "Married to Rhen"
@@ -201,7 +200,7 @@
     },
     "arin": {
       "name": "#8 - Arin Vale",
-      "subtitle": "World Rank #8 · The Silver Sword Saint · High Duke · Five Dukes",
+      "subtitle": "World Rank #8 · The Silver Sword Saint · Newly Sovereign · Five Dukes",
       "tags": [
         "#8",
         "Third of the Five Marquises",
@@ -222,7 +221,7 @@
     },
     "wen": {
       "name": "#9 - Luo Wen",
-      "subtitle": "World Rank #9 · The Laughing Undertaker · Established Duke · Five Dukes",
+      "subtitle": "World Rank #9 · The Laughing Undertaker · Newly Sovereign · Five Dukes",
       "tags": [
         "#9",
         "Fourth of the Five Marquises",
@@ -244,7 +243,7 @@
     },
     "mo": {
       "name": "#7 - Mo Qingzhao",
-      "subtitle": "World Rank #7 · The Paper Emperor · High Duke · Five Dukes",
+      "subtitle": "World Rank #7 · The Paper Emperor · Newly Sovereign · Five Dukes",
       "tags": [
         "#7",
         "Second of the Five Marquises",
@@ -262,7 +261,7 @@
     },
     "yun": {
       "name": "#10 - Yun Shizhen",
-      "subtitle": "World Rank #10 · The Pale Venom · Established Duke · Five Dukes",
+      "subtitle": "World Rank #10 · The Pale Venom · Newly Sovereign · Five Dukes",
       "tags": [
         "#10",
         "Fifth of the Five Marquises",
@@ -280,7 +279,7 @@
     },
     "ilyra": {
       "name": "#6 - Ilyra Serath",
-      "subtitle": "The Mirror Queen · Former Crown II · Current World #6 · Established Sovereign · leads the Five Dukes",
+      "subtitle": "The Mirror Queen · Former Crown II · Current World #6 · High Sovereign · leads the Five Dukes",
       "details": "Abandons her western Crown identity before the Ancient Kings awaken, which saves her from Orun's assassination of the surviving Crown court. Takes Sera's vacant #6 position. Stronger than several Dukes in direct combat, though Kael, Tae and Liang remain above her. Becomes the coalition's central protector, repeatedly entering King-level kill zones to rescue Marquises and injured Dukes.",
       "tags": [
         "#6",
@@ -303,12 +302,12 @@
     },
     "tae": {
       "name": "Tae Muyeon",
-      "subtitle": "Co-#1 (unranked) · The Iron Horizon Sovereign · High Sovereign · Senior Sepal of The Quaint Teahouse",
+      "subtitle": "Co-#1 (unranked) · The Iron Horizon Sovereign · High Paragon · Senior Sepal of The Quaint Teahouse",
       "tags": [
         "Co-#1",
         "Unranked",
         "Iron Horizon Sovereign",
-        "High Sovereign",
+        "High Paragon",
         "Senior Sepal",
         "Offensive General"
       ],
@@ -326,11 +325,11 @@
     },
     "huo": {
       "name": "Huo Wujin",
-      "subtitle": "Unranked · The Empty Throne · High Sovereign · Sepal & Second Offensive General of The Quaint Teahouse",
+      "subtitle": "Unranked · The Empty Throne · High Paragon · Sepal & Second Offensive General of The Quaint Teahouse",
       "tags": [
         "Unranked",
         "The Empty Throne",
-        "High Sovereign",
+        "High Paragon",
         "Sepal",
         "Offensive General",
         "Nine Meridian Wheels"
@@ -347,6 +346,31 @@
       "cultivation": "High Paragon",
       "affiliation": "The Quaint Teahouse (Wuyue)",
       "affiliationRole": "Sepal — second Offensive General · The Empty Throne (unranked)"
+    },
+    "black_radiance": {
+      "name": "Yurushi Amagiri",
+      "subtitle": "Unranked by choice · Black Radiance · Established Paragon · Sixth Petal of The Quaint Teahouse",
+      "tags": [
+        "Unranked by choice",
+        "Black Radiance",
+        "Established Paragon",
+        "Sixth Petal",
+        "Light & Darkness Qi",
+        "Twilight Dominion",
+        "Shinrin defector"
+      ],
+      "identity": "Black Radiance — a Shinrin Established Paragon who cultivates literal Light Qi and Darkness Qi and stayed deliberately unranked, never counted among Shinrin’s official ten. After defecting he becomes the Sixth Petal of the Quaint Teahouse.",
+      "appearance": "",
+      "personality": "Genuinely kind and peace-seeking, calm rather than theatrical — not a brooding edgelord. He enjoys tea, has a dry sense of humour, banters comfortably with Sera and eventually forms a low-key tea friendship with Rhen. He will admit the moral compromises of his past, helped ordinary people long before there was any reward for it, and is suspicious of centralized power after watching Shinrin’s stability curdle into corruption; he avoids public ranking and does not seek command.",
+      "reputation": "Only a small circle of senior Shinrin insiders ever knew his true Established-Paragon cultivation. Publicly he stayed unranked and out of the spotlight, was never counted among Shinrin’s official ten despite being strong enough to stand among them, and does not take the vacant Wuyue Top Ten seat.",
+      "motif": "Light and darkness bordering one another — concealment becoming speed and speed becoming concealment; a quiet man who helped people before it was ever rewarded.",
+      "relationship": "Sixth Petal of the Quaint Teahouse, recruited by Sera during Rhen’s seclusion while Rhen remains the Hidden Petal. He does not replace Rhen, and forms a low-key tea friendship with him after Rhen returns.",
+      "background": "He once served Shinrin sincerely, believing centralized rule could end endless clan conflict, and became one of its strongest covert figures. As the guild turned authoritarian and corrupt he began quietly resisting its abuses long before Wuyue entered the picture — moving endangered families to safety, letting selected targets escape, protecting civilians from abusive officers, quietly paying for medicine and hiding people who would otherwise disappear — without knowing the Quaint Teahouse existed. Helping the injured Yun escape became the final break: when he learned she reached Isgard and still died, and that one of Shinrin’s Established Paragons was responsible, his remaining loyalty collapsed and he defected within days, independently destroying Axtaya supply points, opening evacuation routes and sabotaging invasion preparations. Following that humanitarian trail, Sera found him, realized he had effectively been doing the Quaint Teahouse’s work alone, and offered him the Sixth Petal.",
+      "details": "Cultivation art: literal Light Qi and Darkness Qi. Signature arts include Radiant Step, Black Veil, Piercing Dawn, Night Severance and Eclipse Crossing, culminating in the Twilight Dominion.",
+      "legend": "",
+      "cultivation": "Established Paragon",
+      "affiliation": "The Quaint Teahouse (Wuyue) · formerly Shinrin",
+      "affiliationRole": "Sixth Petal (unranked by choice) · former Shinrin covert Paragon"
     }
   },
   "rhenSkills": [
@@ -356,8 +380,8 @@
       "signature": "An ageless garden where no petals fall",
       "rating": "★★★★★",
       "tier": "Evolved Supreme Passive",
-      "short": "The evolved passive that made Rhen ageless and his energy limitless.",
-      "mechanics": "Refines his meridian foundation until it becomes a self-sustaining ageless state, so he no longer biologically ages; continuously regenerates a functionally inexhaustible reservoir; instantly and automatically neutralizes any poison. It extends distance-independent protection and refinement to Sera through their bond, carries a divine-sense-like awareness that detects invisible/concealed attacks, killing intent, traps and hidden danger, and can optionally raise a two-mile hostile field that drains enemy energy and halves enemy movement speed. Exact detection ranges and drain rates are TBD.",
+      "short": "The evolved passive that made Rhen ageless and his energy limitless — now condensed into an ultra-dense reserve after his six-month-plus seclusion.",
+      "mechanics": "Refines his meridian foundation until it becomes a self-sustaining ageless state, so he no longer biologically ages; continuously regenerates a functionally inexhaustible reservoir; instantly and automatically neutralizes any poison. It extends distance-independent protection and refinement to Sera through their bond, carries a divine-sense-like awareness that detects invisible/concealed attacks, killing intent, traps and hidden danger, and can optionally raise a two-mile hostile field that drains enemy energy and halves enemy movement speed. Exact detection ranges and drain rates are TBD. Post-seclusion he condensed the ever-refilling reservoir instead of letting it expand — \"one hundred into one\" — so the same body now carries a far denser reserve that still refills to full roughly a day after extreme expenditure, one percent of present output can reproduce what once took essentially everything he had, and a faint violet frozen-petal aura drifts around him when he is not deliberately suppressing it.",
       "visual": "A still, invisible garden of frozen petals that never touch the ground.",
       "lore": "Sera and, as a long-term medical exception, the blind Qin Luo are the only people to receive prolonged refinement from it. Sera’s completed reconstruction leaves her permanently ageless even after Rhen withdraws the barrier.",
       "reveal": "Five-year evolution — Beneath the Crooked Sign"
@@ -453,7 +477,7 @@
       "rating": "★★★★★",
       "tier": "Supreme",
       "short": "His causal-stasis art, distinct from the Ultimate; its stasis identity is unchanged.",
-      "mechanics": "Suspends a martial action or state in a held moment rather than severing or ending it. Its exact additional five-year upgrades are TBD and are not to be assumed. Final-arc scale (locked): roughly a 10-mile radius, and any martial Domain caught inside active Stasis can be neutralized immediately — so its use stays deliberate.",
+      "mechanics": "Suspends a martial action or state in a held moment rather than severing or ending it. Its exact additional five-year upgrades are TBD and are not to be assumed. Final-arc scale (locked): roughly a 10-mile radius, and any martial Domain caught inside active Stasis can be neutralized immediately — so its use stays deliberate. The anti-Domain rule applies to friendly and hostile Domains alike unless Rhen deliberately excludes an area, so Sera’s Orchid Dominion cannot casually coexist inside the same Stasis space.",
       "visual": "Petals hanging motionless in the air, refusing to fall.",
       "lore": "Kept deliberately distinct from the Ultimate; no additional mechanics are added until defined.",
       "reveal": "Five-year state — Beneath the Crooked Sign"
@@ -465,7 +489,7 @@
       "rating": "★★★★★",
       "tier": "Ultimate",
       "short": "Rhen’s Ultimate — preserved in reference only. Story use is locked.",
-      "mechanics": "Resolves hostile possibilities into one peaceful, inevitable ending beneath a moon. Once invoked it cannot be interrupted; it can reach a 50-mile radius and strike all enemies in the area or only specifically selected ones, while allies are unharmed and instead healed, physically restored and replenished in internal energy.",
+      "mechanics": "Resolves hostile possibilities into one peaceful, inevitable ending beneath a moon. Once invoked it cannot be interrupted; it can reach a 50-mile radius and strike all enemies in the area or only specifically selected ones, while allies are unharmed and instead healed, physically restored and replenished in internal energy. Post-seclusion, within its reach selected allies are healed instantly regardless of number and selected hostile possibilities are resolved instantly into the peaceful ending Rhen chooses; once invoked it remains effectively impossible to interrupt. Story use stays locked — reference only unless the user approves it.",
       "visual": "A frozen moon and a slow fall of petals; everything hostile quietly ends.",
       "lore": "Its graceful, beautiful character remains intact even at catastrophic scale. Story usage is locked — it may exist in reference material, but is never used in the continuation without direct approval.",
       "reveal": "Ultimate — story use locked"
@@ -1477,6 +1501,50 @@
         "signature": "Survive the mismatch, then survive Huo adapting to your correction",
         "rating": "★★★★★+",
         "description": "Huo’s Paragon Domain. Hostile action must first survive confusion between intention and physical execution: his Nine Meridian Wheels continuously alter the rhythm between intent, balance, movement timing, circulation response and execution, so intention and execution can separate — left becomes right, retreat resolves forward, an attack collapses into a guard, circulation may discharge through the wrong route or timing. It is not mind control, and if an opponent learns one correction another Wheel overlaps the next exchange."
+      }
+    ],
+    "black_radiance": [
+      {
+        "name": "Radiant Step",
+        "category": "Transcended (Movement)",
+        "signature": "Explosive light acceleration with true afterimages",
+        "rating": "★★★★★",
+        "description": "Explosive Light-Qi acceleration that leaves genuine residual-light afterimages."
+      },
+      {
+        "name": "Black Veil",
+        "category": "Transcended (Control)",
+        "signature": "Genuine darkness that swallows light",
+        "rating": "★★★★★",
+        "description": "Darkness Qi swallows and scatters ambient light to create genuine darkness."
+      },
+      {
+        "name": "Piercing Dawn",
+        "category": "Transcended (Offense)",
+        "signature": "Concentrated Light Qi for speed and penetration",
+        "rating": "★★★★★",
+        "description": "Highly concentrated Light Qi delivered through palm, fist or fingertip for speed and penetration."
+      },
+      {
+        "name": "Night Severance",
+        "category": "Transcended (Offense / Suppression)",
+        "signature": "Darkness that strips defensive qi at contact",
+        "rating": "★★★★★",
+        "description": "Darkness Qi at the contact point absorbs and scatters part of the target’s outward defensive qi for the instant of impact."
+      },
+      {
+        "name": "Eclipse Crossing",
+        "category": "Supreme",
+        "signature": "A true light phase into a true darkness phase",
+        "rating": "★★★★★",
+        "description": "A genuine Light-Qi phase followed by a genuine Darkness-Qi phase — neither phase is a feint."
+      },
+      {
+        "name": "Twilight Dominion",
+        "category": "Paragon Domain",
+        "signature": "Shadow conceals and blinds; light overwhelms; twilight weaponizes the transition",
+        "rating": "★★★★★+",
+        "description": "His Paragon Domain. In shadow he moves through connected darkness and blinds enemies with genuine darkness (hearing, resonance, touch and refined qi perception still function); in light he becomes blindingly fast, massively amplifies Radiant Step and can daze opponents with actual blinding light; twilight transitions convert concealment into explosive acceleration and back, so one continuous action can change elemental state. Literal Light Qi and Darkness Qi — not Yin/Yang framing, spellcasting, spatial magic or mind control."
       }
     ]
   },

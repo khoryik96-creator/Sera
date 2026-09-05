@@ -11,12 +11,12 @@ const limits = {
   // split into separate lazy chunks, not this file). It is a single lazily-
   // loaded payload that gzips to a fraction of the raw size, so the ceiling
   // tracks real content growth with a little headroom rather than blocking it.
-  coreJson: 264 * 1024,
+  coreJson: 288 * 1024,
   lazyRouteJs: 180 * 1024,
 };
 
 const requiredLazyRoutes = [
-  'ReaderRoute', 'ChaptersRoute', 'OverviewRoute', 'CharactersRoute', 'VillainsRoute', 'IsgardRoute', 'TechniquesRoute', 'TeahouseRoute',
+  'ReaderRoute', 'ChaptersRoute', 'OverviewRoute', 'CharactersRoute', 'VillainsRoute', 'IsgardRoute', 'ShinrinRoute', 'TechniquesRoute', 'TeahouseRoute',
   'RankingsRoute', 'BookmarksRoute', 'InsightsRoute', 'LegendsRoute', 'FormerRoute', 'TimelineRoute', 'CanonRoute', 'SearchRoute',
 ];
 
