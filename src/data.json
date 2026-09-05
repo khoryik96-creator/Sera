@@ -371,6 +371,30 @@
       "cultivation": "Established Paragon",
       "affiliation": "The Quaint Teahouse (Wuyue) · formerly Shinrin",
       "affiliationRole": "Sixth Petal (unranked by choice) · former Shinrin covert Paragon"
+    },
+    "xie_wuchen": {
+      "name": "Xie Wuchen",
+      "subtitle": "The Unseen Gale · Newly Sovereign · last successor of Tempest Hall · later Wuyue No.10",
+      "tags": [
+        "The Unseen Gale",
+        "Newly Sovereign",
+        "Tempest Hall",
+        "Wind Qi",
+        "Later Wuyue No.10",
+        "No Dominion yet"
+      ],
+      "identity": "The Unseen Gale — the last true successor of Tempest Hall, a masked Wind-Qi cultivator who spent years helping where he stood and leaving before any banner could claim him. He later succeeds Yun Shizhen as Wuyue No.10.",
+      "appearance": "Often masked in the field; even in strong wind the air immediately around him can fall eerily still.",
+      "personality": "Calm, mildly playful, hard to intimidate and unimpressed by rank for its own sake, he turns serious the instant innocent people are threatened. For years his philosophy was simply: help when you are there; leave before anyone puts a banner over your head. His core conflict is detachment versus responsibility — the Shinsei crisis forces him to ask whether refusing every banner becomes its own way of refusing to stand where people need him.",
+      "reputation": "Newly Sovereign but unusually dangerous for the tier, through experience, technical refinement and a style that historically beat stronger-on-paper opponents. Years ago, masked, he decisively defeated Shen Rui — sparing him — while protecting innocent witnesses; the battle was never recorded and Shen Rui never learned his identity, recognizing only the distinctive Wind-Qi circulation years later.",
+      "motif": "Wind that leaves no footprints; stillness at the centre of the gale; help freely given, then gone before the banner.",
+      "relationship": "Independent for years; accepting Yun Shizhen’s vacant No.10 seat becomes his first real public commitment. His hidden past defeat of Shen Rui later becomes part of Shen Rui’s growth.",
+      "background": "Tempest Hall was a small, highly selective Wind-Qi lineage whose pressure techniques were notoriously dangerous; it withdrew from public martial politics rather than become a military production school, and Wuchen was its final true successor. His early method compressed Wind Qi inside his meridians before release; pushing it further than his predecessors accumulated microscopic meridian tearing and stalled his cultivation for years, since another breakthrough risked permanent collapse. He solved it himself — letting the meridians merely conduct the Wind Qi while the atmosphere outside his body becomes the pressure chamber — and finally reached Sovereign. Rhen was not responsible for the breakthrough.",
+      "details": "Element: Wind Qi. A Tempest Hall atmospheric-pressure style. He holds no Dominion at Sovereign level — if he later reaches Paragon he must develop one.",
+      "legend": "",
+      "cultivation": "Newly Sovereign",
+      "affiliation": "Wuyue · Tempest Hall (last successor)",
+      "affiliationRole": "The Unseen Gale · later succeeds Yun Shizhen as Wuyue No.10"
     }
   },
   "rhenSkills": [
@@ -1545,6 +1569,43 @@
         "signature": "Shadow conceals and blinds; light overwhelms; twilight weaponizes the transition",
         "rating": "★★★★★+",
         "description": "His Paragon Domain. In shadow he moves through connected darkness and blinds enemies with genuine darkness (hearing, resonance, touch and refined qi perception still function); in light he becomes blindingly fast, massively amplifies Radiant Step and can daze opponents with actual blinding light; twilight transitions convert concealment into explosive acceleration and back, so one continuous action can change elemental state. Literal Light Qi and Darkness Qi — not Yin/Yang framing, spellcasting, spatial magic or mind control."
+      }
+    ],
+    "xie_wuchen": [
+      {
+        "name": "Still Air",
+        "category": "Transcended Passive",
+        "signature": "Even in strong wind, the air around him falls still",
+        "rating": "★★★★★",
+        "description": "Continuously regulates the local atmospheric pressure around his body, giving exceptional balance, resistance to displacement, shockwave stability and control over his own abrupt pressure releases."
+      },
+      {
+        "name": "Heaven Compressed to an Inch",
+        "category": "Transcended Offense",
+        "signature": "The compressed air itself becomes the impact",
+        "rating": "★★★★★",
+        "description": "Compresses Wind Qi and atmosphere into an extremely thin close-range space, then releases it violently — the hand or weapon need not physically touch the target for the compressed air to land the blow."
+      },
+      {
+        "name": "Returning Gale",
+        "category": "Transcended Counter / Control",
+        "signature": "Opposing pressure forces an attack off its line",
+        "rating": "★★★★★",
+        "description": "Uses opposing atmospheric pressure to force an incoming weapon, body or projected attack off its intended line. It does not copy the technique and is distinct from Qin’s resonance return."
+      },
+      {
+        "name": "Gale Without Footprints",
+        "category": "Transcended Movement",
+        "signature": "A pressure differential launches explosive acceleration",
+        "rating": "★★★★★",
+        "description": "Creates a sharp pressure differential — reduced pressure ahead, compressed release behind — physically launching him into explosive acceleration without teleportation."
+      },
+      {
+        "name": "Sky Burial",
+        "category": "Supreme",
+        "signature": "Layered atmosphere collapses downward in stages",
+        "rating": "★★★★★",
+        "description": "Compresses layered atmosphere and Wind Qi over an area or target, then collapses the pressure downward in escalating stages — atmospheric compression, not gravity. Across a field it suppresses movement, breathing and stance; against one target the same layered pressure narrows into a far more destructive concentrated collapse."
       }
     ]
   },
