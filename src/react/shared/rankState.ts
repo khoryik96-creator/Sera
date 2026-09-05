@@ -33,6 +33,9 @@ export function rankStatus(name: string, season?: number): RankStatus {
   const rank = rankLabel(clean, season);
   if (/unranked|\bUNR\b/i.test(rank)) return 'unranked';
   if (clean === 'Han Myeong' || clean === 'Han') return season !== undefined && season <= 22 ? 'current' : 'deceased';
+  // Yun Shizhen dies in the final arc; she reads as deceased in present-day /
+  // final-arc contexts but stays current in the shipped pre-final-arc seasons.
+  if (clean === 'Yun Shizhen' || clean === 'Yun') return season !== undefined && season < 95 ? 'current' : 'deceased';
   if (clean === 'Qin Luo' || clean === 'Qin') return season !== undefined && season <= 22 ? 'current' : 'retired';
   if (rank.startsWith('Former ')) return 'former';
   return 'current';
