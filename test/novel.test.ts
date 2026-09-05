@@ -128,6 +128,14 @@ describe('renderNovel', () => {
     expect(out).not.toContain('rank-badge--retired');
   });
 
+  it('marks Yun Shizhen deceased in final-arc prose but alive before it', () => {
+    const finalArc = renderNovel('Yun Shizhen fell at last.', 95);
+    expect(finalArc).toContain('rank-badge rank-badge--deceased');
+    expect(finalArc).toContain('†');
+    const earlier = renderNovel('Yun Shizhen stood ready.', 80);
+    expect(earlier).not.toContain('rank-badge--deceased');
+  });
+
   it('tags the bare alias "Han" as Han Myeong through the epilogue', () => {
     const out = renderNovel('Han carried the furnace gauntlets.', 8);
     expect(out).toContain('character-han">Han</span>');

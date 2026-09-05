@@ -3,32 +3,34 @@
 // Sourced verbatim from the authoritative locks:
 //   docs/FINAL_ARC_SHINRIN_MARTIAL_LOCKS.md  (styles, signature skills, Domains)
 //   docs/FINAL_ARC_SHINRIN_CANON_SUPPLEMENT.md (locked names, tiers, Domain summaries)
-// The later supplement wins on names/tiers/Domains. Nothing is invented or
-// renamed; the ruling-guild's own name is still open in canon, so the shared
-// affiliation is left as "Shinrin". Yurushi Amagiri (Black Radiance) is a
+//   docs/FINAL_ARC_SHINRIN_CHARACTER_LOCKS.md (Shinsei Guild, ages, Shunto rename, Ultimate)
+// The later supplement + FINAL_ARC_SHINRIN_CHARACTER_LOCKS win on names/tiers/
+// Domains. Nothing is invented or renamed; the ruling guild is now locked as the
+// Shinsei Guild. Yurushi Amagiri (Black Radiance) is a
 // deliberately-unranked Established Paragon outside the official ten and lives
 // on the Quaint Teahouse tab as the Sixth Petal.
 import type { ArchiveFigure } from '../villains/archiveFigures';
 
-/** The ten official Shinrin Paragons, in canonical roster order (#1–#10). */
+/** The ten official Shinsei Guild Paragons, in canonical roster order (#1–#10). */
 export const shinrinParagons: ArchiveFigure[] = [
   {
     key: 'tsubasa', name: 'Tsubasa Kurokawa', source: 'arc',
-    subtitle: 'Shinrin #1 · Peak Paragon · Chained Crescent',
-    affiliation: 'Shinrin', affiliationRole: 'Ruling-guild leader', strength: 'Peak Paragon',
-    details: 'Shinrin’s leader. He abandoned the bow for a large black crescent blade on a long reinforced chain — fighting close by gripping near the blade, controlling mid-range with shortened chain, or releasing it for wide sweeps that anchor on terrain, pillars, trees and enemy equipment.',
+    subtitle: 'Shinsei #1 · Peak Paragon · Chained Crescent',
+    affiliation: 'Shinsei Guild', affiliationRole: 'Shinsei Guild leader · undisputed No.1', strength: 'Peak Paragon',
+    details: 'Shinsei Guild’s undisputed No.1, with a clear gap over Shunto despite Shunto being the official No.2. He abandoned the bow for a large black crescent blade on a long reinforced chain — fighting close by gripping near the blade, controlling mid-range with shortened chain, or releasing it for wide sweeps that anchor on terrain, pillars, trees and enemy equipment. Age 42.',
     skills: [
       ['Black Orbit', 'Transcended Offense / Control', 'Rotates the crescent through changing chain lengths and attack planes — abruptly shortening or releasing chain, reversing the orbit through an anchor point, or changing the plane of rotation without stopping the weapon’s momentum.'],
       ['Heaven Snare', 'Transcended Control / Movement', 'The chain physically catches terrain, structures, weapons, armour or limbs, and Tsubasa uses the connection to redirect the crescent or pull his own body to a new angle. No teleportation or telekinetic grab — the chain must genuinely catch something.'],
       ['Eclipse Descent', 'Supreme', 'Sets several physical anchor points, releases most of the chain, then drives the crescent through them in one continuous high-speed sequence that keeps returning from new angles at Paragon momentum.'],
       ['Tethered Heaven Dominion', 'Paragon Domain', 'Two linked rules: detached hostile qi loses cohesion the farther it travels from its owner (weakening ranged sword qi, projected blades, pressure waves and remote barriers), while Tsubasa’s own output stays connected body → hand → chain → crescent; and the closer a target comes, the harder the Domain makes retreat — movement grows heavier and increasing distance from him meets the strongest drag. Not gravity or added mass. Identity: the farther your power travels the weaker it becomes; the closer you come to Tsubasa, the harder it is to leave.'],
+      ['One Chain Binds Heaven', 'Ultimate (requires Tethered Heaven Dominion)', 'His Ultimate. Tsubasa sets genuine physical chain anchors through terrain and structures so the uninterrupted chain becomes a continentally scaled extension of his connected martial reach within the prepared battlefield — one man, one chain, one crescent, with no clones, teleportation, duplicated weapons or spatial magic. The unbroken body → hand → chain → crescent connection preserves his output against the Domain’s detached-qi weakening, anchor geometry lets the crescent redirect again and again while keeping real physical momentum, and targets near the chain network meet the same retreat-resistance normally strongest beside him. Anchors and chain sections can be destroyed by sufficient force, and the strain on body, meridians, concentration and weapon is extreme.'],
     ],
   },
   {
-    key: 'jin_takamori', name: 'Jin Takamori', source: 'arc',
-    subtitle: 'Shinrin #2 · Established Paragon · Seizing Hand',
-    affiliation: 'Shinrin', affiliationRole: 'Shinrin Paragon officer', strength: 'Established Paragon',
-    details: 'A close-range capture specialist wielding paired hooked blades, built to strip an opponent’s circulation and mobility piece by piece.',
+    key: 'shunto', name: 'Shunto Takamori', source: 'arc',
+    subtitle: 'Shinsei #2 · Established Paragon · Seizing Hand',
+    affiliation: 'Shinsei Guild', affiliationRole: 'Shinsei Guild officer', strength: 'Established Paragon',
+    details: 'A close-range capture specialist wielding paired hooked blades, built to strip an opponent’s circulation and mobility piece by piece. Age 38.',
     skills: [
       ['Five Lock Hand', 'Transcended Control', 'Precise finger, palm, elbow and wrist strikes to major circulation junctions; clean contact numbs fingers, weakens grip, delays leg response or makes qi circulation through the struck region painful and unreliable.'],
       ['Wolf Hook', 'Transcended Offense / Capture', 'Hooks a weapon guard, armour seam, sleeve, belt, shield rim or limb, then adds body rotation and qi-reinforced pull to drag the target into grappling range.'],
@@ -38,9 +40,9 @@ export const shinrinParagons: ArchiveFigure[] = [
   },
   {
     key: 'haru', name: 'Haru Ishikawa', source: 'arc',
-    subtitle: 'Shinrin #3 · Established Paragon · Precision spear',
-    affiliation: 'Shinrin', affiliationRole: 'Shinrin Paragon officer', strength: 'Established Paragon',
-    details: 'A precision spear stylist who wins by geometry — reach, angle and denial — rather than raw force.',
+    subtitle: 'Shinsei #3 · Established Paragon · Precision spear',
+    affiliation: 'Shinsei Guild', affiliationRole: 'Shinsei Guild officer', strength: 'Established Paragon',
+    details: 'A precision spear stylist who wins by geometry — reach, angle and denial — rather than raw force. Age 28.',
     skills: [
       ['Three-Length Spear', 'Transcended Offense', 'Changes the effective reach of a thrust at the last instant through grip shift, torso extension and compressed spear qi — the spear does not magically grow.'],
       ['Half-Step Outside', 'Transcended Movement / Counter', 'Positions just outside the true end of a committed attack so it misses by inches while he stays in immediate spear-counter range.'],
@@ -50,9 +52,9 @@ export const shinrinParagons: ArchiveFigure[] = [
   },
   {
     key: 'hana', name: 'Hana Arakawa', source: 'arc',
-    subtitle: 'Shinrin #4 · Established Paragon · Twin short swords / Wind Qi',
-    affiliation: 'Shinrin', affiliationRole: 'Shinrin Paragon officer', strength: 'Established Paragon',
-    details: 'A twin-short-sword duelist whose Wind-Qi qinggong turns movement and air pressure into weapons.',
+    subtitle: 'Shinsei #4 · Established Paragon · Twin short swords / Wind Qi',
+    affiliation: 'Shinsei Guild', affiliationRole: 'Shinsei Guild officer', strength: 'Established Paragon',
+    details: 'A twin-short-sword duelist whose Wind-Qi qinggong turns movement and air pressure into weapons. Age 34.',
     skills: [
       ['Falling Sky Step', 'Transcended Movement', 'Wind Qi bursts around her legs during direction changes, letting her redirect sideways, diagonally or downward while keeping far more speed than ordinary qinggong.'],
       ['Twin Gale Crescent', 'Transcended Offense', 'Two compressed wind-edged cuts arrive from slightly separated angles — the first forces a guard, the second punishes that same guard position.'],
@@ -62,9 +64,9 @@ export const shinrinParagons: ArchiveFigure[] = [
   },
   {
     key: 'kai', name: 'Kai Moriyama', source: 'arc',
-    subtitle: 'Shinrin #5 · Established Paragon · Heavy saber / Tempered Flame Qi',
-    affiliation: 'Shinrin', affiliationRole: 'Shinrin Paragon officer', strength: 'Established Paragon',
-    details: 'A heavy-saber bruiser whose Tempered Flame Qi turns a prolonged clash into an oven built for him.',
+    subtitle: 'Shinsei #5 · Established Paragon · Heavy saber / Tempered Flame Qi',
+    affiliation: 'Shinsei Guild', affiliationRole: 'Shinsei Guild officer', strength: 'Established Paragon',
+    details: 'A heavy-saber bruiser whose Tempered Flame Qi turns a prolonged clash into an oven built for him. Age 46.',
     skills: [
       ['Redsteel Heart', 'Transcended Passive', 'Major clashes raise his internal temperature and circulatory pressure; as heat builds, muscle response quickens, the saber runs hotter at contact and his output grows increasingly explosive.'],
       ['Crimson Cleave', 'Transcended Offense', 'Compresses flame qi and saber force into the impact point — the blade lands first, then stored heat expands violently through the damaged guard, armour or struck tissue.'],
@@ -74,8 +76,8 @@ export const shinrinParagons: ArchiveFigure[] = [
   },
   {
     key: 'aya', name: 'Aya Katsuragi', source: 'arc',
-    subtitle: 'Shinrin #6 · Stable Paragon · Medical needles / meridian medicine',
-    affiliation: 'Shinrin', affiliationRole: 'Shinrin Paragon officer', strength: 'Stable Paragon',
+    subtitle: 'Shinsei #6 · Stable Paragon · Medical needles / meridian medicine',
+    affiliation: 'Shinsei Guild', affiliationRole: 'Shinsei Guild officer', strength: 'Stable Paragon',
     details: 'A meridian physician whose needle art both keeps allies alive and turns an enemy’s own circulation against them.',
     skills: [
       ['Seven Pulse Needles', 'Transcended Control', 'Seven fine needles at pulse and circulation junctions can slow bleeding, calm spasms and stabilize unstable qi — or temporarily disrupt an enemy’s circulation.'],
@@ -86,9 +88,9 @@ export const shinrinParagons: ArchiveFigure[] = [
   },
   {
     key: 'kenji', name: 'Kenji Narukami', source: 'arc',
-    subtitle: 'Shinrin #7 · Stable Paragon · Straight sword / Thunder Qi',
-    affiliation: 'Shinrin', affiliationRole: 'Shinrin Paragon officer', strength: 'Stable Paragon',
-    details: 'A Thunder-Qi burst swordsman built around violent short-range acceleration and step-punishing pressure.',
+    subtitle: 'Shinsei #7 · Stable Paragon · Straight sword / Thunder Qi',
+    affiliation: 'Shinsei Guild', affiliationRole: 'Shinsei Guild officer', strength: 'Stable Paragon',
+    details: 'A Thunder-Qi burst swordsman built around violent short-range acceleration and step-punishing pressure. Age 25.',
     skills: [
       ['Flashstep', 'Transcended Movement', 'A controlled Thunder-Qi surge through nerves and legs produces violent short-range physical acceleration. It is not teleportation.'],
       ['Sky Crack', 'Transcended Offense', 'When his sword makes contact, compressed Thunder Qi discharges through the clash point and briefly disrupts grip, muscle timing and stance recovery.'],
@@ -98,9 +100,9 @@ export const shinrinParagons: ArchiveFigure[] = [
   },
   {
     key: 'jun_kajihara', name: 'Jun Kajihara', source: 'arc',
-    subtitle: 'Shinrin #8 · Stable Paragon · Heavy halberd / anti-defence',
-    affiliation: 'Shinrin', affiliationRole: 'Shinrin Paragon officer', strength: 'Stable Paragon',
-    details: 'A heavy-halberd anti-defence specialist whose whole art is about making armour and guards irrelevant at the point of contact.',
+    subtitle: 'Shinsei #8 · Stable Paragon · Heavy halberd / anti-defence',
+    affiliation: 'Shinsei Guild', affiliationRole: 'Shinsei Guild officer', strength: 'Stable Paragon',
+    details: 'A heavy-halberd anti-defence specialist whose whole art is about making armour and guards irrelevant at the point of contact. Age 36.',
     skills: [
       ['Gatebreaker Halberd', 'Transcended Offense', 'Compresses the full force of a heavy halberd swing into a small impact zone, maximizing penetration rather than producing a broad blast.'],
       ['Second Wall', 'Transcended Follow-Up', 'Immediately follows a defended impact with a second strike shaped around the position and timing the first collision exposed.'],
@@ -110,9 +112,9 @@ export const shinrinParagons: ArchiveFigure[] = [
   },
   {
     key: 'eirik', name: 'Eirik Voss', source: 'arc',
-    subtitle: 'Shinrin #9 · Stable Paragon · Longsword & shield',
-    affiliation: 'Shinrin', affiliationRole: 'Former leader of Isgard; now a Shinrin Paragon', strength: 'Stable Paragon',
-    details: 'Once Isgard’s leader, now a Shinrin Paragon — an Isgard longsword-and-shield fighter and battlefield commander built to win wars of attrition.',
+    subtitle: 'Shinsei #9 · Stable Paragon · Longsword & shield',
+    affiliation: 'Shinsei Guild', affiliationRole: 'Former leader of Isgard; now a Shinsei Guild Paragon', strength: 'Stable Paragon',
+    details: 'Once Isgard’s leader, now a Shinsei Guild Paragon — an Isgard longsword-and-shield fighter and battlefield commander built to win wars of attrition.',
     skills: [
       ['Winter Brace', 'Transcended Defence', 'Distributes incoming force through shield rim, shoulder, hips and rear leg, absorbing impact with his whole frame instead of one arm.'],
       ['King’s Guard', 'Transcended Defence / Escort', 'Sword and shield form a moving defensive frame around one nearby ally, protecting them through retreat, extraction or advance.'],
@@ -122,9 +124,9 @@ export const shinrinParagons: ArchiveFigure[] = [
   },
   {
     key: 'nao', name: 'Nao Shibasaki', source: 'arc',
-    subtitle: 'Shinrin #10 · Stable Paragon · Flowing jian / Water Qi',
-    affiliation: 'Shinrin', affiliationRole: 'Shinrin Paragon officer', strength: 'Stable Paragon',
-    details: 'A flowing-jian Water-Qi swordswoman who defends, rescues, and slowly drains an opponent’s circulatory power.',
+    subtitle: 'Shinsei #10 · Stable Paragon · Flowing jian / Water Qi',
+    affiliation: 'Shinsei Guild', affiliationRole: 'Shinsei Guild officer', strength: 'Stable Paragon',
+    details: 'A flowing-jian Water-Qi swordswoman who defends, rescues, and slowly drains an opponent’s circulatory power. Age 31.',
     skills: [
       ['Quiet Lake Guard', 'Transcended Defence', 'Receives heavy force through circular sword movement and layered body rotation, spreading one collision through wrist, elbow, shoulder, waist and footwork rather than taking it at a single point.'],
       ['Rain-Cut Sword', 'Transcended Offense', 'A sequence of light precise cuts flows around a stronger guard rather than contesting it head-on, targeting exposed edges, wrists and openings.'],

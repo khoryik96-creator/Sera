@@ -38,7 +38,7 @@ export function ShinrinPage() {
 
   return (
     <section>
-      <PageHeader eyebrow="Final arc · Northern invaders" title="Shinrin" description="Shinrin’s ten official Paragon officers — their martial styles, signature skills and Paragon Domains — grouped by cultivation tier." />
+      <PageHeader eyebrow="Final arc · Northern invaders" title="Shinrin" description="The Shinsei Guild’s ten official Paragon officers — their martial styles, signature skills and Paragon Domains — grouped by cultivation tier." />
       <div className="toolbar-row">
         <input className="filter-input" value={filter} onChange={(event: { target: HTMLInputElement }) => setFilter(event.target.value)} placeholder="Filter Shinrin Paragons, styles, or Domains…" />
         <span className="archive-count">{total} of 10 Paragons</span>
