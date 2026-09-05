@@ -45,7 +45,7 @@ export const teahouseIdentity = {
   summary:
     'Second Spring Tea House remains Rhen and Sera’s public home and ordinary business. Beneath it grows a covert relief guild — The Quaint Teahouse — built from the same desire to protect civilians, preserve medical access and prevent concealed disasters. It does not rule territory, replace governments, seek recognition, or intervene in ranking disputes. Its senior hierarchy is shaped like an orchid rather than a ranking board, and through the end of Year Five its existence remains unknown to the Top Ten.',
   quietHand:
-    'The Quiet Hand is the guild’s ~200-person hidden force. Its founding cells are led by ten of Rhen’s original twelve apprentices — Peak Marquis-class by Year Five, drawn from healers rather than assassins, with authority rooted in judgment and restraint rather than raw strength.',
+    'The Quiet Hand is the guild’s hidden force. Its founding cells were led by ten of Rhen’s original twelve apprentices — drawn from healers rather than assassins, with authority rooted in judgment and restraint rather than raw strength. By the final arc it has matured to a hard cap of 1,000 members, all at least Marquis level — 10 Sovereigns, 30 Dukes, 260 Peak Marquis, 400 High Marquis and 300 Marquis — organized into ten companies of 100 (each led by a Sovereign captain with three Duke lieutenants). Sera takes only 120 of them into Isgard, chosen for medicine, evacuation, logistics and defensive escort rather than assault.',
 };
 
 export const spoilerNotice =
