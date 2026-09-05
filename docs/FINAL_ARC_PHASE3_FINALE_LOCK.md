@@ -10,8 +10,30 @@
 
 The final confrontation reaches the point where Tsubasa commits both himself and a massive Shinsei field formation to 3× Redline.
 
+Before that apex exchange begins, **Rhen restores Tsubasa to effectively 100% combat condition**.
+
+This is mandatory.
+
+Sera's preceding duel is allowed to wound and exhaust Tsubasa genuinely. Rhen does not erase the significance of Sera pushing him that far, but he refuses to begin his own confrontation against a man who is still carrying another fighter's injuries.
+
+Rhen therefore uses focused healing to restore all medically recoverable combat damage, meridian strain, ordinary qi depletion and physical exhaustion that Tsubasa is carrying into the confrontation.
+
+The intended character beat is simple: Rhen does not want an unfair victory and does not want anyone — including Tsubasa — to be able to say that the final comparison happened against an already-damaged opponent.
+
+The exact dialogue can vary, but Rhen's meaning should be close to:
+
+> **"You're not fighting me like that."**
+
+If Tsubasa questions why an enemy is healing him, Rhen may answer with understated simplicity rather than bravado:
+
+> **"It would be unfair."**
+
+This restoration does **not** rewrite irreversible consequences that are outside ordinary healing. In particular, if Tsubasa has already spent future lifespan through any earlier Axtaya exposure, that spent lifespan is not restored. The required point is that his body, meridians, reserve and ordinary combat condition enter the final Rhen confrontation at effectively full readiness.
+
+Only after this reset does Tsubasa knowingly take his dedicated final **3× Redline** dose and commit to the apex exchange.
+
 - Approximately **50,000 Shinrin / Shinsei elites** activate **3× Redline** under command authorization.
-- **Tsubasa Kurokawa** also activates **3× Redline** himself.
+- **Tsubasa Kurokawa**, now fully restored from prior recoverable combat damage, also activates **3× Redline** himself.
 - Tsubasa simultaneously fights through his established apex system:
   - **Tethered Heaven Dominion**;
   - **One Chain Binds Heaven**;
@@ -20,6 +42,8 @@ The final confrontation reaches the point where Tsubasa commits both himself and
   - temporary 3× combat throughput.
 - This state is deliberately presented as beyond Aethon Vael's historic conventional combat benchmark.
 - Rhen does **not** open this exchange with **Moonless Snowfield**. Stacking it immediately would be unnecessary overkill and would dilute the reveal of his new Domain-type art.
+
+The final comparison therefore cannot be discounted as Rhen defeating a wounded Tsubasa. Rhen deliberately restores the strongest conventional cultivator alive, lets him enter his chosen 3× apex state, and only then answers him.
 
 ---
 
@@ -89,7 +113,7 @@ The frozen petals circulate through the fifty-mile Domain under his control.
 
 A stronger target's petal may appear visually denser or more opaque than a weaker person's, but remains one petal.
 
-Tsubasa's petal should be visually exceptional because it contains a Peak-Paragon reserve under 3× Redline pressure, but the visual difference must not imply a different mechanic.
+Tsubasa's petal should be visually exceptional because it contains a fully restored Peak-Paragon reserve under 3× Redline pressure, but the visual difference must not imply a different mechanic.
 
 ---
 
@@ -210,8 +234,25 @@ This is Rhen's preferred method for ordinary Shinsei elites once resistance is n
 
 The finale must first let Tsubasa's 3× state feel genuinely monstrous.
 
+Before the 3× activation, however, the reader must see that **Rhen has already restored Tsubasa to effectively 100%** from the wounds and exhaustion caused by the preceding Sera fight and accumulated recoverable war damage.
+
+This reset is part of Rhen's character, not a tactical mistake.
+
+He considers it unfair to measure himself against an opponent who is already damaged. The clean comparison therefore begins only after Tsubasa is restored and chooses to escalate again under his own power.
+
+The sequence is:
+
+1. Sera's duel leaves Tsubasa genuinely wounded / exhausted.
+2. Rhen takes over only after Sera's own fight and accomplishment are complete.
+3. Rhen heals Tsubasa's recoverable damage, meridian strain, depleted reserve and physical exhaustion to effectively full combat readiness.
+4. Tsubasa understands that Rhen is deliberately giving him the fairest possible final comparison.
+5. Tsubasa then activates his fresh 3× Redline dose.
+6. The 50,000 Shinsei elites activate theirs.
+7. Only then does the final Rhen-vs-Tsubasa apex exchange begin.
+
 Before Rhen uses Monarch's Winter Law, Tsubasa should demonstrate why he is considered the strongest conventional cultivator in the series:
 
+- a fully restored base body and reserve;
 - 3× Peak-Paragon throughput;
 - Tethered Heaven's ranged / retreat trap;
 - One Chain Binds Heaven's battlefield geometry;
@@ -224,7 +265,7 @@ The battlefield falls quiet as hostile reserves begin condensing.
 
 The 50,000 boosted elites each lose usable qi into one frozen petal.
 
-Tsubasa's own 3× circulation also condenses into one exceptionally dense frozen petal.
+Tsubasa's own fully restored 3× circulation also condenses into one exceptionally dense frozen petal.
 
 As his reserve disappears:
 
@@ -240,7 +281,7 @@ Tsubasa is still allowed dignity after this point.
 
 Even deprived of cultivation reinforcement, he may continue attacking through physical skill, discipline and will.
 
-Rhen defeats him without framing Tsubasa as weak. The point is that the comparison was never fair once Rhen's post-seclusion anomaly entered the battlefield.
+Rhen defeats him without framing Tsubasa as weak. The point is that the comparison was never fair in the opposite direction: Rhen deliberately removed every ordinary excuse first, restored Tsubasa to full condition, let him enter his chosen 3× state, and only then demonstrated how far outside conventional comparison he has become.
 
 ---
 
@@ -366,6 +407,8 @@ The intended conclusion is:
 - Wuyue and Isgard carried the war for more than six months without Rhen;
 - Sera and the allied leadership were never incompetent or merely waiting for rescue;
 - Tsubasa and Shinsei were genuinely capable of winning a conventional war of attrition;
+- Sera genuinely pushed Tsubasa hard enough to wound and exhaust him before Rhen's duel;
+- Rhen then deliberately restored Tsubasa to full fighting condition before making the final comparison;
 - Rhen's return changes the category of the conflict itself.
 
 The final realization is that Rhen is not simply another stronger Paragon.
@@ -374,7 +417,7 @@ He is an anomaly outside the assumptions on which Shinsei calculated armies, Red
 
 Suggested narrative principle:
 
-> They did not lose because Tsubasa was weak. They lost because Rhen returned to a war whose mathematics had no place for him.
+> They did not lose because Tsubasa was weak or wounded. Rhen healed the strongest man beneath heaven before defeating him. They lost because Rhen returned to a war whose mathematics had no place for him.
 
 No exact final line is mandatory until prose is drafted.
 
@@ -394,10 +437,13 @@ No exact final line is mandatory until prose is drafted.
 10. Do not use the discarded name **Winter Essence: Returning Violence**.
 11. **Winter Essence: Quiet Snow** remains the nonlethal sleep option.
 12. Rhen does **not** open the Tsubasa / 50,000-Redline exchange with Moonless Snowfield.
-13. Tsubasa personally takes one 3× Redline in the final confrontation.
-14. Approximately 50,000 Shinsei elites also activate 3× in the final confrontation.
-15. After Tsubasa falls, most remaining hardline Shinsei Paragons take 3×; Aya, Hana and Nao refuse.
-16. Rhen answers the final Paragon surge with **Winter Ends, Spring Blossoms** first, neutralizing the active artificial Redline state without refunding already-spent lifespan.
-17. Rhen then uses **Moonless Snowfield** as a mercy-based immobilization / surrender warning.
-18. Once Shinsei concedes, Rhen releases them rather than massacring or humiliating them.
-19. Finished Seasons 1–94 prose must not be retroactively rewritten to reveal Monarch's Winter Law early.
+13. **Before Rhen's final duel begins, Rhen restores Tsubasa to effectively 100% recoverable combat condition, including prior battle wounds, meridian strain, ordinary qi depletion and physical exhaustion.**
+14. This healing occurs after Sera's duel has already been completed and does not diminish Sera's accomplishment; Rhen heals Tsubasa because he considers fighting an already-damaged opponent unfair.
+15. Tsubasa personally takes one fresh 3× Redline only after Rhen has restored him to full combat readiness.
+16. Approximately 50,000 Shinsei elites also activate 3× in the final confrontation.
+17. The final Rhen-vs-Tsubasa comparison must therefore be framed as full-condition Tsubasa + 3× Redline + his complete apex martial system against post-seclusion Rhen.
+18. After Tsubasa falls, most remaining hardline Shinsei Paragons take 3×; Aya, Hana and Nao refuse.
+19. Rhen answers the final Paragon surge with **Winter Ends, Spring Blossoms** first, neutralizing the active artificial Redline state without refunding already-spent lifespan.
+20. Rhen then uses **Moonless Snowfield** as a mercy-based immobilization / surrender warning.
+21. Once Shinsei concedes, Rhen releases them rather than massacring or humiliating them.
+22. Finished Seasons 1–94 prose must not be retroactively rewritten to reveal Monarch's Winter Law early.
