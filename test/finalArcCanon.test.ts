@@ -64,6 +64,20 @@ describe('final-arc canon synchronization', () => {
     expect(rankColorKey(xie!.name)).toBe('xie_wuchen');
   });
 
+  it('gives Rhen his post-seclusion Monarch’s Winter Law with Winter Essence folded in', () => {
+    const law = data.rhenSkills.find((s) => s.name === "Monarch's Winter Law");
+    expect(law, "Monarch's Winter Law present").toBeTruthy();
+    expect(law?.tier).toBe('Supreme Domain Art');
+    const blob = JSON.stringify(law);
+    expect(blob).toMatch(/50-mile|fifty-mile/);
+    expect(blob).toMatch(/one frozen petal|single frozen petal/i);
+    // Winter Essence is part of this Law, not a separate art entry.
+    expect(blob).toContain('Winter Essence');
+    expect(blob).toContain('Calamity');
+    expect(blob).toContain('Quiet Snow');
+    expect(data.rhenSkills.some((s) => s.name === 'Winter Essence')).toBe(false);
+  });
+
   it('gives Sigrun a Graven Dominion at Paragon', () => {
     const sigrun = data.arcFigures.find((f) => f.key === 'sigrun');
     expect(sigrun?.subtitle).toContain('Newly ascended Paragon');

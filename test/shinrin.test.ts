@@ -40,6 +40,16 @@ describe('Shinsei Guild roster', () => {
     expect(tsubasa?.skills?.some((s) => s[0] === 'One Chain Binds Heaven')).toBe(true);
   });
 
+  it('gives Tsubasa his new Heaven Returns What It Receives counter-passive', () => {
+    const tsubasa = shinrinParagons.find((f) => f.key === 'tsubasa');
+    const art = tsubasa?.skills?.find((s) => s[0] === 'Heaven Returns What It Receives');
+    expect(art, 'Heaven Returns What It Receives present').toBeTruthy();
+    expect(art?.[1]).toMatch(/Passive|Counter/i);
+    // Locked identity: received force fuels the next attack without negating the injury.
+    expect(art?.[2]).toMatch(/next committed attack/i);
+    expect(art?.[2]).toMatch(/stop feeding him/i);
+  });
+
   it('marks Haru as the youngest High Paragon', () => {
     const haru = shinrinParagons.find((f) => f.key === 'haru');
     expect(haru?.strength).toBe('High Paragon');
