@@ -119,11 +119,11 @@ export const orchidHierarchy: TeahouseMember[] = [
   {
     key: 'black_radiance',
     name: 'Yurushi Amagiri',
-    role: 'Sixth Petal — covert humanitarian operative; recruited during Rhen’s seclusion',
+    role: 'Sixth Petal — specialist senior seat (foreign routes, covert extraction, Shinsei-facing intelligence); not sixth-in-command',
     seat: 'Sixth Petal',
-    cultivation: 'Established Paragon',
+    cultivation: 'High Paragon',
     background:
-      'Titled Black Radiance, Yurushi Amagiri is a Shinrin Established Paragon who stayed deliberately unranked — he dislikes attention, public rankings, ceremonies and formal officer status and prefers covert work, so only a small senior circle knew his true cultivation and he was never counted among Shinrin’s official ten. He quietly resisted Shinrin’s abuses for years and helped the injured Yun escape. Following his humanitarian trail while expecting a Shinrin operative, Sera eventually found him and — realizing he had effectively been doing the Quaint Teahouse’s work alone without knowing the guild existed — revealed it and offered him the Sixth Petal. He does not take the vacant Wuyue Top Ten seat, and Rhen remains Hidden Petal. (Final-arc addition; portrait to be added.)',
+      'Titled Black Radiance, Yurushi Amagiri is a Shinsei High Paragon who stayed deliberately unranked — he dislikes attention, public rankings, ceremonies and formal officer status and prefers covert work, so only a small senior circle knew his true cultivation and he was never counted among Shinsei’s official ten. He quietly resisted Shinsei’s abuses for years and helped the injured Yun escape. Following his humanitarian trail, Sera eventually found him and — realizing he had effectively been doing the Quaint Teahouse’s work alone without knowing the guild existed — revealed it and offered him the Sixth Petal, a specialist senior seat rather than a sixth-in-command role. He does not take the vacant Wuyue Top Ten seat, Rhen remains Hidden Petal, and — having joined too recently — he does not carry Tae, Huo and Qin’s years of Frozen Petals Garden refinement. (Final-arc addition; portrait to be added.)',
     skillsHeading: 'Light and Darkness Qi system',
     arts: [
       { name: 'Radiant Step', tier: 'Transcended (Movement)', summary: 'Explosive Light-Qi acceleration that leaves genuine residual-light afterimages.' },
