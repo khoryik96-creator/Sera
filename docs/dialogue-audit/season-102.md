@@ -1,116 +1,9 @@
 # Season 102 — unattributed dialogue
 
-401 quoted lines in this season have no speaker.
+297 quoted lines in this season have no speaker.
 See `README.md` in this folder for what to do with them.
 
 Lines already resolved show their speaker in `[brackets]` for context.
-
-### Chapter 371 — Crownless Against the Unbroken
-
-```
-Shinsei did not.
-Their formation remained quiet.
-Eirik's eyes stayed on Aldric.
->>> “So that is what you became.”   <-- WHO SAYS THIS?
-Aldric's jaw tightened.
-“You came home to find out.”
-```
-```
-Eirik's eyes stayed on Aldric.
-“So that is what you became.”
-Aldric's jaw tightened.
->>> “You came home to find out.”   <-- WHO SAYS THIS?
-He twisted the spear.
-The sustained pressure changed angle without truly ending.
-```
-```
-But once spent, it stayed spent.
-Aldric's eyes sharpened.
-Eirik lifted his damaged shield.
->>> “Do you understand?”   <-- WHO SAYS THIS?
-“Yes.”
-“Then stop.”
-```
-```
-Aldric's eyes sharpened.
-Eirik lifted his damaged shield.
-“Do you understand?”
->>> “Yes.”   <-- WHO SAYS THIS?
-“Then stop.”
-“No.”
-```
-```
-Eirik lifted his damaged shield.
-“Do you understand?”
-“Yes.”
->>> “Then stop.”   <-- WHO SAYS THIS?
-“No.”
-Aldric attacked again.
-```
-```
-“Do you understand?”
-“Yes.”
-“Then stop.”
->>> “No.”   <-- WHO SAYS THIS?
-Aldric attacked again.
-Of course he did.
-```
-```
-Eirik had expected that too.
-“You always hated long arguments,” he said.
-Aldric thrust.
->>> “You always made them long.”   <-- WHO SAYS THIS?
-The spear hit Eirik's shield again.
-Unbroken pressure continued.
-```
-```
-Eirik stepped back.
-That surprised everyone.
-Aldric looked up.
->>> “Finish it.”   <-- WHO SAYS THIS?
-“No.”
-“Why?”
-```
-```
-That surprised everyone.
-Aldric looked up.
-“Finish it.”
->>> “No.”   <-- WHO SAYS THIS?
-“Why?”
-“Because I came here to make Isgard submit.”
-```
-```
-Aldric looked up.
-“Finish it.”
-“No.”
->>> “Why?”   <-- WHO SAYS THIS?
-“Because I came here to make Isgard submit.”
-Eirik's face was tired.
-```
-```
-“Finish it.”
-“No.”
-“Why?”
->>> “Because I came here to make Isgard submit.”   <-- WHO SAYS THIS?
-Eirik's face was tired.
-“Not to prove I can kill you.”
-```
-```
-“Why?”
-“Because I came here to make Isgard submit.”
-Eirik's face was tired.
->>> “Not to prove I can kill you.”   <-- WHO SAYS THIS?
-Aldric laughed once and coughed blood.
-“Very civilized invasion.”
-```
-```
-Eirik's face was tired.
-“Not to prove I can kill you.”
-Aldric laughed once and coughed blood.
->>> “Very civilized invasion.”   <-- WHO SAYS THIS?
-The words landed harder than the spear had.
-Eirik's expression changed.
-```
 
 ### Chapter 372 — Halvek Holds the Road After the Gate Is Gone
 
@@ -119,117 +12,45 @@ Jun did not care.
 “Where does the road split behind it?” he asked.
 An officer pointed.
 >>> “Two miles inland.”   <-- WHO SAYS THIS?
-“Evacuation traffic?”
+[jun] “Evacuation traffic?”
 “Continuous.”
-```
-```
-“Where does the road split behind it?” he asked.
-An officer pointed.
-“Two miles inland.”
->>> “Evacuation traffic?”   <-- WHO SAYS THIS?
-“Continuous.”
-“Then the wall is not the objective.”
 ```
 ```
 An officer pointed.
 “Two miles inland.”
-“Evacuation traffic?”
+[jun] “Evacuation traffic?”
 >>> “Continuous.”   <-- WHO SAYS THIS?
-“Then the wall is not the objective.”
+[jun] “Then the wall is not the objective.”
 The officer looked at the wall.
-```
-```
-“Two miles inland.”
-“Evacuation traffic?”
-“Continuous.”
->>> “Then the wall is not the objective.”   <-- WHO SAYS THIS?
-The officer looked at the wall.
-Jun lifted his halberd.
-```
-```
-“Then the wall is not the objective.”
-The officer looked at the wall.
-Jun lifted his halberd.
->>> “The road is.”   <-- WHO SAYS THIS?
-The first swing struck the gate.
-**Breach Dominion** activated on contact.
-```
-```
-Not magically.
-Halvek's engineers dropped pre-cut support posts from two adjoining structures and buried the first pursuing formation under timber and stone.
-Jun stopped the next rank before it fed into the blockage.
->>> “Clear side route.”   <-- WHO SAYS THIS?
-The officer beside him looked furious.
-“They destroyed their own town.”
 ```
 ```
 Jun stopped the next rank before it fed into the blockage.
-“Clear side route.”
+[jun] “Clear side route.”
 The officer beside him looked furious.
 >>> “They destroyed their own town.”   <-- WHO SAYS THIS?
-“They destroyed our timetable.”
+[jun] “They destroyed our timetable.”
 Jun watched Isgard withdraw.
-```
-```
-“Clear side route.”
-The officer beside him looked furious.
-“They destroyed their own town.”
->>> “They destroyed our timetable.”   <-- WHO SAYS THIS?
-Jun watched Isgard withdraw.
-“Respect the distinction.”
-```
-```
-“They destroyed their own town.”
-“They destroyed our timetable.”
-Jun watched Isgard withdraw.
->>> “Respect the distinction.”   <-- WHO SAYS THIS?
-By sunset, the gate belonged to Shinsei.
-The road did not.
-```
-```
-A road could retreat and still remain a road.
-On Day Twenty-Four, Halvek reached the last fortified choke point before the interior split.
-He checked the evacuation ledger himself.
->>> “Last medical wagon?”   <-- WHO SAYS THIS?
-“Passed.”
-“Civilians?”
 ```
 ```
 On Day Twenty-Four, Halvek reached the last fortified choke point before the interior split.
 He checked the evacuation ledger himself.
-“Last medical wagon?”
+[halvek] “Last medical wagon?”
 >>> “Passed.”   <-- WHO SAYS THIS?
-“Civilians?”
+[halvek] “Civilians?”
 “Western villages clear.”
 ```
 ```
-He checked the evacuation ledger himself.
-“Last medical wagon?”
+[halvek] “Last medical wagon?”
 “Passed.”
->>> “Civilians?”   <-- WHO SAYS THIS?
-“Western villages clear.”
-“Rear infantry?”
-```
-```
-“Last medical wagon?”
-“Passed.”
-“Civilians?”
+[halvek] “Civilians?”
 >>> “Western villages clear.”   <-- WHO SAYS THIS?
-“Rear infantry?”
+[halvek] “Rear infantry?”
 “Crossing the fork now.”
 ```
 ```
-“Passed.”
-“Civilians?”
+[halvek] “Civilians?”
 “Western villages clear.”
->>> “Rear infantry?”   <-- WHO SAYS THIS?
-“Crossing the fork now.”
-Halvek looked toward the gate.
-```
-```
-“Civilians?”
-“Western villages clear.”
-“Rear infantry?”
+[halvek] “Rear infantry?”
 >>> “Crossing the fork now.”   <-- WHO SAYS THIS?
 Halvek looked toward the gate.
 Shinsei banners were already visible.
@@ -243,212 +64,36 @@ The officer blinked.
 He had expected something grander.
 ```
 ```
-The officer blinked.
-He had expected something grander.
 Halvek pointed inland.
->>> “You leave.”   <-- WHO SAYS THIS?
-The officer's face changed.
-“Commander—”
-```
-```
-Halvek pointed inland.
-“You leave.”
+[halvek] “You leave.”
 The officer's face changed.
 >>> “Commander—”   <-- WHO SAYS THIS?
-“Somebody has to make them believe this gate still matters for another ten minutes.”
+[halvek] “Somebody has to make them believe this gate still matters for another ten minutes.”
 “We can leave a company.”
-```
-```
-“You leave.”
-The officer's face changed.
-“Commander—”
->>> “Somebody has to make them believe this gate still matters for another ten minutes.”   <-- WHO SAYS THIS?
-“We can leave a company.”
-“No.”
 ```
 ```
 The officer's face changed.
 “Commander—”
-“Somebody has to make them believe this gate still matters for another ten minutes.”
+[halvek] “Somebody has to make them believe this gate still matters for another ten minutes.”
 >>> “We can leave a company.”   <-- WHO SAYS THIS?
-“No.”
+[halvek] “No.”
 “Then a squad.”
 ```
 ```
-“Commander—”
-“Somebody has to make them believe this gate still matters for another ten minutes.”
+[halvek] “Somebody has to make them believe this gate still matters for another ten minutes.”
 “We can leave a company.”
->>> “No.”   <-- WHO SAYS THIS?
-“Then a squad.”
-“No.”
-```
-```
-“Somebody has to make them believe this gate still matters for another ten minutes.”
-“We can leave a company.”
-“No.”
+[halvek] “No.”
 >>> “Then a squad.”   <-- WHO SAYS THIS?
-“No.”
+[halvek] “No.”
 The young officer's jaw trembled.
-```
-```
-“We can leave a company.”
-“No.”
-“Then a squad.”
->>> “No.”   <-- WHO SAYS THIS?
-The young officer's jaw trembled.
-Halvek softened.
-```
-```
-“No.”
-The young officer's jaw trembled.
-Halvek softened.
->>> “Do not turn my job into other people's graves because you dislike the shape of it.”   <-- WHO SAYS THIS?
-The officer stared at him.
-Then saluted.
-```
-```
-That made him stop.
-He entered cautiously.
-Halvek stood on the inner road.
->>> “Jun Kajihara?”   <-- WHO SAYS THIS?
-Jun held his halberd low.
-“Yes.”
 ```
 ```
 Halvek stood on the inner road.
-“Jun Kajihara?”
+[halvek] “Jun Kajihara?”
 Jun held his halberd low.
 >>> “Yes.”   <-- WHO SAYS THIS?
-“Thirteen Gates.”
+[halvek] “Thirteen Gates.”
 Jun's expression shifted.
-```
-```
-“Jun Kajihara?”
-Jun held his halberd low.
-“Yes.”
->>> “Thirteen Gates.”   <-- WHO SAYS THIS?
-Jun's expression shifted.
-“You know it.”
-```
-```
-“Yes.”
-“Thirteen Gates.”
-Jun's expression shifted.
->>> “You know it.”   <-- WHO SAYS THIS?
-“I study roads.”
-“That was a siege.”
-```
-```
-“Thirteen Gates.”
-Jun's expression shifted.
-“You know it.”
->>> “I study roads.”   <-- WHO SAYS THIS?
-“That was a siege.”
-“Sieges are roads with worse manners.”
-```
-```
-Jun's expression shifted.
-“You know it.”
-“I study roads.”
->>> “That was a siege.”   <-- WHO SAYS THIS?
-“Sieges are roads with worse manners.”
-Jun almost smiled.
-```
-```
-“You know it.”
-“I study roads.”
-“That was a siege.”
->>> “Sieges are roads with worse manners.”   <-- WHO SAYS THIS?
-Jun almost smiled.
-Almost.
-```
-```
-“Sieges are roads with worse manners.”
-Jun almost smiled.
-Almost.
->>> “Move.”   <-- WHO SAYS THIS?
-Halvek looked behind him.
-Nothing.
-```
-```
-Good.
-The last rear company had cleared the fork.
-He lifted his spear.
->>> “No.”   <-- WHO SAYS THIS?
-Jun sighed.
-“You know how this ends.”
-```
-```
-He lifted his spear.
-“No.”
-Jun sighed.
->>> “You know how this ends.”   <-- WHO SAYS THIS?
-“Yes.”
-“Then why?”
-```
-```
-“No.”
-Jun sighed.
-“You know how this ends.”
->>> “Yes.”   <-- WHO SAYS THIS?
-“Then why?”
-Halvek pulled the first signal cord.
-```
-```
-Jun sighed.
-“You know how this ends.”
-“Yes.”
->>> “Then why?”   <-- WHO SAYS THIS?
-Halvek pulled the first signal cord.
-A distant bridge collapsed.
-```
-```
-Fourth.
-The final gate dropped behind Jun's advance column, dividing the first companies from their support for several minutes.
-Halvek looked at him.
->>> “Because ten minutes is still ten minutes.”   <-- WHO SAYS THIS?
-Jun moved.
-The fight lasted thirty-one breaths.
-```
-```
-The road was closed behind the last column.
-Jun caught Halvek before he hit the ground.
-Halvek looked annoyed by this.
->>> “Put me down.”   <-- WHO SAYS THIS?
-“You'll die.”
-“That was already happening.”
-```
-```
-Jun caught Halvek before he hit the ground.
-Halvek looked annoyed by this.
-“Put me down.”
->>> “You'll die.”   <-- WHO SAYS THIS?
-“That was already happening.”
-Jun lowered him carefully against the wall.
-```
-```
-Halvek looked annoyed by this.
-“Put me down.”
-“You'll die.”
->>> “That was already happening.”   <-- WHO SAYS THIS?
-Jun lowered him carefully against the wall.
-Halvek's breathing shortened.
-```
-```
-Halvek's breathing shortened.
-“Road?” he asked.
-Jun looked toward the empty gate.
->>> “Clear.”   <-- WHO SAYS THIS?
-Halvek's mouth moved.
-Not quite a smile.
-```
-```
-“Clear.”
-Halvek's mouth moved.
-Not quite a smile.
->>> “Then the gate was cheap.”   <-- WHO SAYS THIS?
-He died before Jun answered.
-Shinsei took the Seventh Road system that evening.
 ```
 
 ### Chapter 373 — Raska's Last Charge
@@ -458,528 +103,48 @@ Raska raised his sword.
 “Two passes,” he told his riders.
 His lieutenant looked at the Shinsei line.
 >>> “Only two?”   <-- WHO SAYS THIS?
-“After two, we are tired horses pretending otherwise.”
+[raska] “After two, we are tired horses pretending otherwise.”
 The lieutenant nodded.
-```
-```
-“Two passes,” he told his riders.
-His lieutenant looked at the Shinsei line.
-“Only two?”
->>> “After two, we are tired horses pretending otherwise.”   <-- WHO SAYS THIS?
-The lieutenant nodded.
-Raska smiled.
-```
-```
-“After two, we are tired horses pretending otherwise.”
-The lieutenant nodded.
-Raska smiled.
->>> “Good. Nice to be understood.”   <-- WHO SAYS THIS?
-They charged.
-The first pass worked.
-```
-```
-Lightning hit the ground beside it.
-The animal screamed and veered.
-Raska understood immediately.
->>> “Disengage mounts!”   <-- WHO SAYS THIS?
-His lieutenant stared.
-“What?”
 ```
 ```
 Raska understood immediately.
-“Disengage mounts!”
+[raska] “Disengage mounts!”
 His lieutenant stared.
 >>> “What?”   <-- WHO SAYS THIS?
-“Off the horses!”
+[raska] “Off the horses!”
 A cavalry commander ordering dismount in open ground sounded insane.
-```
-```
-“Disengage mounts!”
-His lieutenant stared.
-“What?”
->>> “Off the horses!”   <-- WHO SAYS THIS?
-A cavalry commander ordering dismount in open ground sounded insane.
-Then another planted contact called another thunder strike.
-```
-```
-Raska blocked.
-Thunder Qi discharged through the clash point and numbed three fingers.
-“I like fighting,” Kenji answered.
->>> “Bad place for it.”   <-- WHO SAYS THIS?
-“Yes.”
-That honesty irritated Raska more than bravado would have.
-```
-```
-Thunder Qi discharged through the clash point and numbed three fingers.
-“I like fighting,” Kenji answered.
-“Bad place for it.”
->>> “Yes.”   <-- WHO SAYS THIS?
-That honesty irritated Raska more than bravado would have.
-They moved.
-```
-```
-Used sliding snow pressure to shift weight without committing clear steps.
-Jumped once, then realized landing counted too.
-Kenji smiled despite himself.
->>> “Good.”   <-- WHO SAYS THIS?
-“Stop complimenting me.”
-“No.”
-```
-```
-Jumped once, then realized landing counted too.
-Kenji smiled despite himself.
-“Good.”
->>> “Stop complimenting me.”   <-- WHO SAYS THIS?
-“No.”
-Raska cut for his shoulder.
-```
-```
-Kenji smiled despite himself.
-“Good.”
-“Stop complimenting me.”
->>> “No.”   <-- WHO SAYS THIS?
-Raska cut for his shoulder.
-Kenji used **Flashstep**.
-```
-```
-Stormstep did not punish its owner.
-But every moment Kenji spent solving Raska was a moment the river kept filling with retreating Isgard troops.
-Kenji saw it.
->>> “You're not trying to beat me.”   <-- WHO SAYS THIS?
-“Congratulations.”
-“You're trying to keep me here.”
-```
-```
-But every moment Kenji spent solving Raska was a moment the river kept filling with retreating Isgard troops.
-Kenji saw it.
-“You're not trying to beat me.”
->>> “Congratulations.”   <-- WHO SAYS THIS?
-“You're trying to keep me here.”
-“Second congratulations.”
-```
-```
-Kenji saw it.
-“You're not trying to beat me.”
-“Congratulations.”
->>> “You're trying to keep me here.”   <-- WHO SAYS THIS?
-“Second congratulations.”
-Kenji's face tightened.
-```
-```
-“You're not trying to beat me.”
-“Congratulations.”
-“You're trying to keep me here.”
->>> “Second congratulations.”   <-- WHO SAYS THIS?
-Kenji's face tightened.
-He changed rhythm.
-```
-```
-Kenji rose.
-Raska grabbed his ankle.
-“You are very annoying,” Kenji said.
->>> “Good.”   <-- WHO SAYS THIS?
-“Let go.”
-“No.”
-```
-```
-Raska grabbed his ankle.
-“You are very annoying,” Kenji said.
-“Good.”
->>> “Let go.”   <-- WHO SAYS THIS?
-“No.”
-The second Isgard infantry formation reached the river.
-```
-```
-“You are very annoying,” Kenji said.
-“Good.”
-“Let go.”
->>> “No.”   <-- WHO SAYS THIS?
-The second Isgard infantry formation reached the river.
-Kenji looked at it.
-```
-```
-Then at Raska.
-He understood.
-His expression changed.
->>> “Damn you.”   <-- WHO SAYS THIS?
-Raska laughed blood into the snow.
-“Third congratulations.”
-```
-```
-His expression changed.
-“Damn you.”
-Raska laughed blood into the snow.
->>> “Third congratulations.”   <-- WHO SAYS THIS?
-Kenji could have cut the hand off.
-He did not.
-```
-```
-The opportunity had closed.
-Raska lay on his back.
-Kenji stood over him.
->>> “Why didn't you retreat?”   <-- WHO SAYS THIS?
-Raska looked toward the river.
-“They did.”
-```
-```
-Kenji stood over him.
-“Why didn't you retreat?”
-Raska looked toward the river.
->>> “They did.”   <-- WHO SAYS THIS?
-Not **we**.
-They.
 ```
 
 ### Chapter 374 — Tor Wins the Retreat and Loses the Frontline
 
 ```
-**Quiet Lake Guard.**
-The collision spread through her body instead of breaking one point.
-Tor drove forward.
->>> “You think I had not noticed?”   <-- WHO SAYS THIS?
-“No.”
-“Then stop explaining.”
-```
-```
-The collision spread through her body instead of breaking one point.
-Tor drove forward.
-“You think I had not noticed?”
->>> “No.”   <-- WHO SAYS THIS?
-“Then stop explaining.”
-“No.”
-```
-```
-Tor drove forward.
-“You think I had not noticed?”
-“No.”
->>> “Then stop explaining.”   <-- WHO SAYS THIS?
-“No.”
-He swung again.
-```
-```
-“You think I had not noticed?”
-“No.”
-“Then stop explaining.”
->>> “No.”   <-- WHO SAYS THIS?
-He swung again.
-The second strike was weaker.
-```
-```
-So he drove circulation harder.
 His axe regained full weight.
 Nao's eyes changed.
->>> “You'll tear something.”   <-- WHO SAYS THIS?
-“Probably.”
-“Then reduce output.”
-```
-```
-His axe regained full weight.
-Nao's eyes changed.
-“You'll tear something.”
+[nao] “You'll tear something.”
 >>> “Probably.”   <-- WHO SAYS THIS?
-“Then reduce output.”
-“No.”
+[nao] “Then reduce output.”
+[tor_veyrhald] “No.”
 ```
 ```
-Nao's eyes changed.
-“You'll tear something.”
-“Probably.”
->>> “Then reduce output.”   <-- WHO SAYS THIS?
-“No.”
-“You cannot hold the old level indefinitely.”
-```
-```
-“You'll tear something.”
-“Probably.”
-“Then reduce output.”
->>> “No.”   <-- WHO SAYS THIS?
-“You cannot hold the old level indefinitely.”
-“Do I look like I need indefinitely?”
-```
-```
-“Probably.”
-“Then reduce output.”
-“No.”
->>> “You cannot hold the old level indefinitely.”   <-- WHO SAYS THIS?
-“Do I look like I need indefinitely?”
-Nao glanced past him.
-```
-```
-“Then reduce output.”
-“No.”
-“You cannot hold the old level indefinitely.”
->>> “Do I look like I need indefinitely?”   <-- WHO SAYS THIS?
-Nao glanced past him.
-The retreating companies were still moving.
-```
-```
-Then the unmistakable wet tearing sensation of internal bleeding along one circulation branch.
-Tor grinned.
-Nao looked furious.
->>> “Stop.”   <-- WHO SAYS THIS?
-“You first.”
-“This is unnecessary.”
-```
-```
-Tor grinned.
-Nao looked furious.
-“Stop.”
->>> “You first.”   <-- WHO SAYS THIS?
-“This is unnecessary.”
-“It becomes unnecessary when the last company clears.”
-```
-```
-Nao looked furious.
-“Stop.”
-“You first.”
->>> “This is unnecessary.”   <-- WHO SAYS THIS?
-“It becomes unnecessary when the last company clears.”
-Nao's sword paused for half a beat.
-```
-```
-“Stop.”
-“You first.”
-“This is unnecessary.”
->>> “It becomes unnecessary when the last company clears.”   <-- WHO SAYS THIS?
-Nao's sword paused for half a beat.
-Nao recognized the pattern Kenji had found in Raska.
-```
-```
-The ground beside him.
-A Rain-Cut sequence severed two wagon traces and collapsed the empty cart blocking one side of the ravine entrance.
-Tor looked at her.
->>> “You missed.”   <-- WHO SAYS THIS?
-“No.”
-The fallen cart narrowed the approach.
-```
-```
-A Rain-Cut sequence severed two wagon traces and collapsed the empty cart blocking one side of the ravine entrance.
-Tor looked at her.
-“You missed.”
->>> “No.”   <-- WHO SAYS THIS?
-The fallen cart narrowed the approach.
-Shinsei infantry behind Nao had to slow.
-```
-```
-The fallen cart narrowed the approach.
-Shinsei infantry behind Nao had to slow.
-Tor understood.
->>> “You are helping me.”   <-- WHO SAYS THIS?
-“I am preventing my soldiers from entering a bad choke point.”
-“That was almost convincing.”
-```
-```
-Shinsei infantry behind Nao had to slow.
-Tor understood.
-“You are helping me.”
->>> “I am preventing my soldiers from entering a bad choke point.”   <-- WHO SAYS THIS?
-“That was almost convincing.”
-Nao's jaw tightened.
-```
-```
-Tor understood.
-“You are helping me.”
-“I am preventing my soldiers from entering a bad choke point.”
->>> “That was almost convincing.”   <-- WHO SAYS THIS?
-Nao's jaw tightened.
-“You are still the enemy commander.”
-```
-```
-“I am preventing my soldiers from entering a bad choke point.”
-“That was almost convincing.”
-Nao's jaw tightened.
->>> “You are still the enemy commander.”   <-- WHO SAYS THIS?
-“Yes.”
-“Move.”
-```
-```
-“That was almost convincing.”
-Nao's jaw tightened.
-“You are still the enemy commander.”
->>> “Yes.”   <-- WHO SAYS THIS?
-“Move.”
-“No.”
-```
-```
-Nao's jaw tightened.
-“You are still the enemy commander.”
-“Yes.”
->>> “Move.”   <-- WHO SAYS THIS?
-“No.”
-She sighed.
-```
-```
-“You are still the enemy commander.”
-“Yes.”
-“Move.”
->>> “No.”   <-- WHO SAYS THIS?
-She sighed.
-Then attacked him properly again.
-```
-```
-He caught it with the right hand.
-Nao's sword stopped a finger from his throat.
-Tor looked at it.
->>> “Last company?”   <-- WHO SAYS THIS?
-A horn sounded from inside the ravine.
-Two notes.
-```
-```
-Clear.
-Gone.
-Tor smiled.
->>> “Yes.”   <-- WHO SAYS THIS?
-Nao lowered the sword.
-“Then leave.”
-```
-```
-Tor smiled.
-“Yes.”
-Nao lowered the sword.
->>> “Then leave.”   <-- WHO SAYS THIS?
-He tried.
-His left leg failed.
-```
-```
-Annoyed.
-Nao caught his shoulder before he hit the ground.
-He stared at her.
->>> “This is humiliating.”   <-- WHO SAYS THIS?
-“You're welcome.”
-“Why?”
-```
-```
-Nao caught his shoulder before he hit the ground.
-He stared at her.
-“This is humiliating.”
->>> “You're welcome.”   <-- WHO SAYS THIS?
-“Why?”
-“Because the battle is over.”
-```
-```
-He stared at her.
-“This is humiliating.”
-“You're welcome.”
->>> “Why?”   <-- WHO SAYS THIS?
-“Because the battle is over.”
-“Not the war.”
-```
-```
-“This is humiliating.”
-“You're welcome.”
-“Why?”
->>> “Because the battle is over.”   <-- WHO SAYS THIS?
-“Not the war.”
-“No.”
-```
-```
-“You're welcome.”
-“Why?”
-“Because the battle is over.”
->>> “Not the war.”   <-- WHO SAYS THIS?
-“No.”
-Shinsei soldiers reached them.
-```
-```
-“Why?”
-“Because the battle is over.”
-“Not the war.”
->>> “No.”   <-- WHO SAYS THIS?
-Shinsei soldiers reached them.
-Nao raised one hand.
-```
-```
-“No.”
-Shinsei soldiers reached them.
-Nao raised one hand.
->>> “Prisoner. Alive.”   <-- WHO SAYS THIS?
+[nao] “Prisoner. Alive.”
 Tor laughed weakly.
-“Isgard will retrieve me.”
-```
-```
-Nao raised one hand.
-“Prisoner. Alive.”
-Tor laughed weakly.
->>> “Isgard will retrieve me.”   <-- WHO SAYS THIS?
-“Probably.”
-“You sound certain.”
-```
-```
-“Prisoner. Alive.”
-Tor laughed weakly.
-“Isgard will retrieve me.”
+[tor_veyrhald] “Isgard will retrieve me.”
 >>> “Probably.”   <-- WHO SAYS THIS?
-“You sound certain.”
-“You are irritating enough that somebody will pay.”
-```
-```
-Tor laughed weakly.
-“Isgard will retrieve me.”
-“Probably.”
->>> “You sound certain.”   <-- WHO SAYS THIS?
-“You are irritating enough that somebody will pay.”
-He almost laughed again.
-```
-```
-“Isgard will retrieve me.”
-“Probably.”
-“You sound certain.”
->>> “You are irritating enough that somebody will pay.”   <-- WHO SAYS THIS?
-He almost laughed again.
-Pain stopped him.
-```
-```
-Nao knew it before the medics did.
-Her face became very quiet.
-Tor saw.
->>> “Do not.”   <-- WHO SAYS THIS?
-“What?”
-“Look guilty.”
+[tor_veyrhald] “You sound certain.”
+[nao] “You are irritating enough that somebody will pay.”
 ```
 ```
 Her face became very quiet.
 Tor saw.
-“Do not.”
+[tor_veyrhald] “Do not.”
 >>> “What?”   <-- WHO SAYS THIS?
-“Look guilty.”
-“I did this.”
+[tor_veyrhald] “Look guilty.”
+[nao] “I did this.”
 ```
 ```
-Tor saw.
-“Do not.”
-“What?”
->>> “Look guilty.”   <-- WHO SAYS THIS?
-“I did this.”
-“I did this.”
-```
-```
-“Do not.”
-“What?”
-“Look guilty.”
->>> “I did this.”   <-- WHO SAYS THIS?
-“I did this.”
-“You chose because I gave you the choice.”
-```
-```
-“What?”
-“Look guilty.”
-“I did this.”
->>> “I did this.”   <-- WHO SAYS THIS?
-“You chose because I gave you the choice.”
-“And I would choose it again.”
-```
-```
-“Look guilty.”
-“I did this.”
-“I did this.”
->>> “You chose because I gave you the choice.”   <-- WHO SAYS THIS?
-“And I would choose it again.”
-Nao stared at him.
-```
-```
-“I did this.”
-“I did this.”
-“You chose because I gave you the choice.”
+[nao] “I did this.”
+[tor_veyrhald] “I did this.”
+[tor_veyrhald] “You chose because I gave you the choice.”
 >>> “And I would choose it again.”   <-- WHO SAYS THIS?
 Nao stared at him.
 Tor leaned his head back against the ravine wall.
