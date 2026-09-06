@@ -14,6 +14,10 @@
 >
 > Finished reader prose still stops at Season 94. This document is not a claim that Seasons 101–108 are already written.
 
+## Tone carry-forward
+
+Phase II is a war arc, but it must not turn the cast into uniformly grim war archetypes. Preserve the older Quaint contrast in short, natural beats between crises: Rhen can be absurdly powerful and domestically ridiculous when he is present; Sera stays dry rather than sentimental; Tae / Huo remain terrifying idiots without becoming incompetent; Qin's humor stays quiet; Lu remains the exhausted competent adult. Comedy may release tension or deepen family chemistry, but must never undercut casualties, Yun's death, captivity or civilian suffering.
+
 ---
 
 # Phase II war clock
@@ -34,14 +38,14 @@
 # Season 101 — Four Months Become Fourteen Days
 ## Chapters 361–370
 
-### Chapter 361 — The Warning Arrives Without the Woman
-Yun's death report reaches Wuyue. Sera, Luo, the Top Ten and the Quaint leadership react to the military facts before anyone has the full truth about Shunto's assault. The Wuyue–Isgard defensive pact is activated immediately.
+### Chapter 361 — The First Day After the Warning
+Phase II opens **after** the events of Chapters 355–357: Yun has already completed the report, died, Wuyue has already received the warning, and the Wuyue–Isgard defensive pact is already active. Day 1 is therefore mobilisation under grief, not a second delivery of the same message. Jin converts Yun's facts into movement orders; Isgard disperses coast / medical assets; Luo works while the loss is still new; Sera allocates what can leave Wuyue without stripping home defence. In Shinrin, Tsubasa learns that Yun succeeded and understands the original timetable is compromised. Do **not** replay Yun's report or pact activation.
 
 ### Chapter 362 — The Door Cannot Be Opened
 Sera reaches Rhen's seclusion chamber and confirms he entered the previous day. The previously established warning is repeated plainly: forced interruption after condensation begins can catastrophically damage his meridians and body. Sera does not gamble his life because the timing is cruel.
 
 ### Chapter 363 — Luo Reads What Yun Left Him
-Luo decodes Yun's private medical notation: Axtaya stock, approximate troop scale, Paragon sightings, shipping corridors and the warning that Shinsei is a government-sized military institution rather than a remote guild. A tiny ordinary personal note makes the loss intimate without replacing the military evidence.
+The delayed **outbound coded medical packet** Yun sent before capture reaches / is routed into Wuyue channels; this is not a magically recovered field notebook. Luo decodes its copied notation: Axtaya at state scale, ten Paragon Seats, Isgard as the external objective and the limited evidence Yun judged safe to send early. The final Isgard report remains the fuller operational warning. After the military layer, Luo finds the private shorthand meaning **you forgot to eat again / eat something, idiot**. His response stays small. The field notebook Shunto seized remains compromised unless later returned on-page.
 
 ### Chapter 364 — Black Radiance Burns the Last Safehouse
 In Shinrin, Yurushi dismantles / hands off the last civilian routes that would expose people if Shunto reaches them. Shunto's hunt for Yun's insider tightens. Yurushi chooses to leave only after the vulnerable people on those routes have somewhere else to go.
@@ -53,7 +57,7 @@ Tsubasa confirms Yun escaped with enough information to compromise the original 
 Jin activates the final-arc 60% Black March as strategic defence weight, not raw headcount. The reader sees armies, shipping, medicine and supply traffic rather than a stats-only briefing. Kael leaves most Stonecrown fixed defence at home.
 
 ### Chapter 367 — The Man Who Says He Has Not Joined
-Yurushi reaches Wuyue and gives Sera his first inside Shinsei intelligence. She does not trust him instantly. Lu begins verifying his story against Yun's route, old civilian escape patterns and Shinsei logistics.
+Yurushi reaches Wuyue and gives Sera / Luo his first inside Shinsei intelligence. He immediately shares what he directly observed: Yun was held under Shunto's personal medical-security chain, badly injured, clearly subjected to treatment far beyond lawful detention, and unwilling to spend the escape narrating details. He does **not** claim a detailed firsthand confession of the assault. Sera does not trust him instantly; Lu verifies his route history, civilian corridors and Shinsei logistics against Yun's evidence. This prevents Yurushi from inexplicably sitting on direct information for six months while preserving the later fuller reconstruction.
 
 ### Chapter 368 — Fourteen Days
 Isgard's coast sees the first Shinsei fleet. Solveig begins emergency dispersal before anyone knows exactly which Paragons came north. The invasion is visibly earlier than Wuyue's mobilisation timetable wanted.
@@ -142,7 +146,7 @@ Tsubasa responds to Jun's temporary removal and Wuyue's full intervention by act
 > This season runs in parallel with the early Isgard escalation immediately after Sera / the public Top Ten leave Wuyue.
 
 ### Chapter 391 — Two Paragons Enter Sera's Home
-Haru and Hana attack the Quaint home / support hub expecting Sera, the public Top Ten and Rhen to be absent. They know the household is medically important; they do not know it hides three High Paragons or a 1,000-person Marquis+ organisation.
+Haru and Hana attack the Quaint home / support hub expecting Sera, the public Top Ten and Rhen to be absent. Before the first clash, establish why Haru is feared through the old **Forty-Seven Thrust Duel**: an opponent believed he had blocked or avoided forty-seven spear lines, only for **Carved Spear Dominion** to reveal that the earlier thrusts had built the geometry of the real trap. They know the household is medically important; they do not know it hides three High Paragons or a 1,000-person Marquis+ organisation. Haru's legend should make what follows feel like a terrifying expert walking into a house that is even worse than he expected.
 
 ### Chapter 392 — Tae Muyeon Takes Both
 Tae reveals **Iron Chain Dominion** against Haru + Hana. Every meaningful hostile action forges compressed iron-qi chain pressure. Haru / Hana discover that breaking chains costs qi and further aggression creates more.
@@ -154,7 +158,7 @@ Huo takes the next turn rather than the trio dogpiling. **Endless Dominion** and
 Qin finally enters with **Echo Dominion**. He does not automatically cancel enemy Domains. He overwhelms sustainable rhythm, orientation and usable qi until Haru / Hana can no longer maintain the fight. Shinsei retreats with the first proof that Wuyue hid three High Paragons.
 
 ### Chapter 395 — Qin Opens the Map
-Qin refuses to keep all three hidden Paragons around one building. He remains central while Tae / Huo are redistributed toward weaker regions. Lu turns the first attack into a prediction problem: where would Shinsei strike next if the objective is to force Kael home?
+Qin refuses to keep all three hidden Paragons around one building. He remains central while Tae / Huo are redistributed toward weaker regions. Lu turns the first attack into a prediction problem: where would Shinsei strike next if the objective is to force Kael home? In parallel, Tsubasa receives the retreat report and explicitly recalculates Wuyue: its public Top Ten was never its full apex roster. Three High Paragons have been living under Sera and Rhen's roof outside the ranking system, which means Shinsei's pre-war model of Wuyue strength was materially incomplete.
 
 ### Chapter 396 — The Central Region
 Haru and Hana attack a vulnerable Kael-region command / road / logistics node rather than trying to defeat all ~38,000 Stonecrown troops. Yurushi recognizes the targeting logic and races there before the larger response can assemble.
@@ -195,7 +199,7 @@ Luo identifies the approximate Redline window from captured stock, bodies and ti
 Wuyue executes Jin's doctrine successfully. The tactic saves formations and destroys a crashing Redline unit afterward. It is clearly a countermeasure, not immunity.
 
 ### Chapter 407 — Kai Moriyama Arrives
-Properly reintroduce Shinsei No.3 / High Paragon. Kai treats Redline as one tool inside a war rather than a reason for ego duels. His presence visibly raises the front's strategic pressure.
+Properly reintroduce Shinsei No.3 / High Paragon. His history with Tsubasa matters: Kai once **defeated a younger Tsubasa**, and Tsubasa later returned with negotiated terms rather than revenge. That old loss helps explain both Kai's standing and why Tsubasa's legitimacy was never built on pretending he had always been invincible. Present-day Kai treats Redline as one tool inside a war rather than a reason for ego duels. His presence visibly raises the front's strategic pressure.
 
 ### Chapter 408 — Kael Learns What High Paragon Means
 Kael fights Kai and proves he belongs at Paragon while still losing ground to a vastly more experienced High Paragon. Kai's **Crimson Crucible Dominion** makes prolonged close combat increasingly hostile through heat / dehydration while strengthening Kai's own conditioned output. Kael is seriously wounded, not humiliated.
@@ -268,7 +272,7 @@ Silver Horizon protects an evacuation corridor while its rebuilt numbers shrink 
 Kai's staggered Redline doctrine creates another breakthrough. Lei Zhen holds a collapsing heavy front long enough for Mo's 18,000-person Imperial backbone to re-form the line. Lei takes a serious but survivable injury; Mo proves his growth as an actual wartime commander rather than a paper regent.
 
 ### Chapter 428 — Two High Paragons Against the Orchid
-Kai and the fully restored Eirik attack a command / medical corridor whose loss could break allied continuity. Sera intercepts. **Orchid Dominion**, **Crimson Crucible Dominion** and **Crownless Dominion** are all explained through what they do to the fight rather than named as trivia.
+Kai and the fully restored Eirik attack a command / medical corridor whose loss could break allied continuity. Sera intercepts. This is the definitive multi-Domain rules demonstration: Domains **coexist unless an art explicitly disrupts another**; simultaneous activation does not automatically cancel the weaker one. **Orchid Dominion** strengthens Sera's Orchid execution / Counter-Bloom economy and imposes its weakening conditions where her rule reaches the opponents; **Crimson Crucible Dominion** makes prolonged close combat increasingly punishing through heat, dehydration and Kai's conditioned output; **Crownless Dominion** suppresses hostile ambient-qi replenishment. Overlap creates interacting battlefield rules, not a generic aura collision. Sera must actively solve the combined conditions while Kai and Eirik are also fighting inside Orchid's pressure.
 
 ### Chapter 429 — Sera Keeps the Corridor
 Sera cannot casually dominate two High Paragons, especially while Crownless denies ambient recovery and Kai makes prolonged exertion physically punishing. She nevertheless earns Counter-Blooms, wounds both and preserves the corridor. She leaves with significant internal damage and cannot pursue.
@@ -300,7 +304,7 @@ Sera's internal injuries from Kai + Eirik have not vanished overnight. The 120 Q
 Luo tells captured / treated Shinsei soldiers the real Redline cost. Aya's internal truth-telling is beginning to produce similar whispers on the Shinsei side. Morale does not collapse instantly, but the drug's secrecy is no longer stable.
 
 ### Chapter 437 — Tsubasa Has Still Not Entered the Field
-Shinsei's strongest conventional cultivator remains physically fresh relative to the months-worn forward Paragons. Reports / older Heaven Gate history make clear that the war has not yet seen Shinsei's ultimate martial reserve. Do not reveal his new Redline apex package in full yet.
+Shinsei's strongest conventional cultivator remains physically fresh relative to the months-worn forward Paragons. The **Heaven Gate** history is finally told clearly enough to matter: Tsubasa faced **three prepared Paragons**, completed **One Chain Binds Heaven** under that pressure, and emerged as a Peak Paragon. Combined with Seven Bridges and Kai's old victory over his younger self, the legend shows evolution rather than effortless predestination. The war has still not seen Shinsei's ultimate martial reserve. Do not reveal his new Redline apex package in full yet.
 
 ### Chapter 438 — Shunto Guards the Center
 Shunto remains in Shinrin because Yurushi's defection, compromised civilian routes, internal security and the need to protect Tsubasa's government / Axtaya infrastructure make the No.2 seat strategically necessary at home. His presence also keeps the truth about Yun's assault compartmentalized rather than turning it into public Shinsei knowledge immediately.
@@ -309,7 +313,7 @@ Shunto remains in Shinrin because Yurushi's defection, compromised civilian rout
 More than six months after Rhen entered seclusion, the condensation process finally reaches completion naturally. The frost around the chamber changes; white petals begin carrying the first pale-violet radiance. Nobody woke him. Nobody timed it to a battlefield crisis.
 
 ### Chapter 440 — How Long?
-Rhen opens his eyes. His first reaction is understated rather than a declaration of vengeance. He asks how long he has been gone. Only after the answer does he begin learning about Yun, Sera, Isgard, the invasion and the six months everyone else carried without him. End Phase II here.
+Rhen opens his eyes. His first reaction is understated rather than a declaration of vengeance. He asks, **How long?** End Phase II on the question itself. Do **not** answer it here and do not wake him again in Season 109. Chapter 441 begins directly with Lu's already-locked answer — **Six months. And twelve days.** — before Rhen learns about Yun, Sera, Isgard, the invasion and the six months everyone else carried without him.
 
 ---
 

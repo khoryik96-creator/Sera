@@ -600,9 +600,9 @@ Even Tsubasa attended under inquiry escort and stood at the far edge without ask
 
 Luo arrived last.
 
-He carried Yun's notebook.
+He carried the **second notebook Yun had left in Wuyue before Shinrin**.
 
-The same one he had kept closed for weeks after her death because opening it had felt too much like admitting there would be no new page.
+The same one he had held while she was overdue, then kept closed for weeks after her death because opening it had felt too much like admitting there would be no new page. The field notebook Shunto seized was a different object.
 
 He placed it on the tea table.
 

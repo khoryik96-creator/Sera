@@ -698,6 +698,56 @@ Shen Rui and Xie Wuchen visited together once and destroyed half a training yard
 
 Sera billed them.
 
+At the gate, Xie adjusted his travel coat.
+
+“I'll be back in eight days.”
+
+Sera looked at him.
+
+The old Xie would have said *probably*.
+
+Or *if I am nearby*.
+
+Or nothing at all.
+
+Shen Rui noticed too.
+
+“That sounded like a promise.”
+
+Xie gave him a flat look.
+
+“Do not make it unpleasant.”
+
+Eight days later, Lu placed an extra cup on the table before noon.
+
+Sera looked at it.
+
+“You believe him?”
+
+Lu opened a ledger.
+
+“He said eight days.”
+
+The front door opened before Sera could answer.
+
+Xie stepped inside with road dust on his shoulders.
+
+He looked at the waiting cup.
+
+Then at Lu.
+
+“Nine minutes early,” Lu said.
+
+“Wind.”
+
+Nobody congratulated him.
+
+That would have made it ceremonial.
+
+Xie sat down and drank the tea.
+
+For him, returning when promised was enough.
+
 Ilyra arrived unpredictably with reports from disaster zones, ate enough for six people and vanished before sunrise.
 
 Mo sent letters complaining that everyone else was having more interesting retirements than he was.
