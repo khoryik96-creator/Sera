@@ -210,6 +210,15 @@ These features were added after the original roadmap. Future chats must treat th
 - performance budget expanded across all guarded route chunks
 - compatibility terminology cleanup
 
+## Reading Insights — REMOVED
+
+> The standalone **Reading Insights** tab was removed as redundant: overall progress
+> and Continue Reading live on Overview, and library counts, the visit timeline and
+> session summaries live in the Reader Library Journey tab. `src/readingInsights.ts`
+> remains — the Journey panel still uses it. Do not re-add the tab.
+
+Original phase record, kept for history:
+
 ## Reading Insights — DONE
 
 **PR #49 — Reading Insights: private progress analytics**
