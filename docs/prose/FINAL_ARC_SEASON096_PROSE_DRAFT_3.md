@@ -286,7 +286,7 @@ And the two men behind him were pretending not to be soldiers badly enough that 
 
 Yun turned away before the reflection could become mutual.
 
-Her merchant identity had survived five weeks.
+Her merchant identity had survived more than three weeks.
 
 Longer than planned.
 

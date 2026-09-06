@@ -78,7 +78,7 @@ Children wore padded jackets to school.
 
 A tea seller she had passed every third day had changed his menu board from iced plum tea to ginger broth.
 
-Three months announced itself in small humiliations.
+The third month announced itself in small humiliations.
 
 Yun bought the ginger broth.
 
@@ -194,7 +194,7 @@ Luo would have called the man unsalvageable.
 
 Yun closed her eyes.
 
-Three months.
+The third month.
 
 She had promised three weeks.
 
@@ -282,13 +282,13 @@ At the top of a new page she wrote one line.
 
 Then she stared at it.
 
-Three months under one government.
+The third month under one government.
 
-Three months of finding things that worked well enough to make the things beneath them harder to hate cleanly.
+The third month of finding things that worked well enough to make the things beneath them harder to hate cleanly.
 
-Three months of watching a state capable of feeding villages also prepare medicine for an invasion.
+The third month of watching a state capable of feeding villages also prepare medicine for an invasion.
 
-Three months of being hunted by a man whose competence had become part of the architecture around her.
+The third month of being hunted by a man whose competence had become part of the architecture around her.
 
 Yun added a second line.
 

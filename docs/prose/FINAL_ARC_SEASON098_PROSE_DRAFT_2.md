@@ -128,6 +128,44 @@ The last two words pressed harder into the paper.
 
 Then leave.
 
+Yun finished the troop-rotation sequence and noticed the empty bottom margin.
+
+There was room for one more line.
+
+Not enough for anything useful.
+
+Which was why she used it.
+
+She wrote three apparently unrelated medical marks beneath the last supply notation:
+
+**Low heat. Empty stomach. Repeated diagnostic fixation.**
+
+A Shinsei clerk would read it as a symptom cluster.
+
+A physician might assume it described one of the Axtaya cases.
+
+Luo would know better.
+
+It was an old joke from the second winter they had worked together. He would skip meals while diagnosing difficult patients, then become irritated when his hands shook and insist the problem was inadequate tea.
+
+Yun had once written the same three marks across his breakfast bowl.
+
+Translated properly, they meant only:
+
+**You forgot to eat again.**
+
+Yun looked at the line.
+
+Then added one final notation beside it.
+
+**Treat before recurrence.**
+
+Eat something, idiot.
+
+Her mouth moved very slightly.
+
+Then she went back to the war.
+
 Yun closed the notebook and stared at the cover.
 
 It looked ordinary.
@@ -233,6 +271,28 @@ That stayed in her head.
 Three layers.
 
 Again.
+
+Yun looked once more at the three marks she had copied into the bottom margin.
+
+They were not necessary to the invasion warning.
+
+She had copied them anyway.
+
+If the packet reached Wuyue, Luo would read the troop estimate first.
+
+The Ten Seats second.
+
+Isgard third.
+
+Then, somewhere beneath all the numbers, he would find her telling him to eat.
+
+Yun considered removing it.
+
+Did not.
+
+The packet needed to survive her.
+
+That did not mean every surviving line had to belong to the war.
 
 Yun sealed the pages beneath legitimate dermatology reports purchased from a retired physician.
 

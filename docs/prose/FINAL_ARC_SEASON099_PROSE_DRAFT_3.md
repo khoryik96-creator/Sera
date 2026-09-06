@@ -756,6 +756,54 @@ Yun caught the wall herself.
 
 They continued.
 
+Yurushi watched her for several steps.
+
+Not the blood.
+
+Not only the damaged circulation marks around her wrists.
+
+The whole picture.
+
+The too-careful way she kept one side away from contact. The medicinal smell of a detention compound. The bruising that did not match a clean arrest. The exhaustion beneath the poisoner's discipline. And the reflex that had stopped his hand before either of them chose it.
+
+His face went still.
+
+“What did Takamori do?”
+
+Yun's eyes met his.
+
+For one moment, something behind them became very cold.
+
+Then she looked toward the route north.
+
+“Later.”
+
+He did not move.
+
+Yun added, “If there is one.”
+
+That answered enough.
+
+Not everything.
+
+Enough.
+
+Yurushi's jaw tightened.
+
+Yun pointed north.
+
+“Isgard first.”
+
+He nodded once.
+
+No demand for details.
+
+No promise to avenge her.
+
+No attempt to turn her escape into his anger.
+
+“Isgard first,” he agreed.
+
 By dusk, they reached the forgotten ridge path.
 
 Yun’s breathing had become shallow.

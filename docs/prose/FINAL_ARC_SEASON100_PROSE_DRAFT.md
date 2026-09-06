@@ -676,6 +676,72 @@ Now the door was locked.
 
 Finally.
 
+Then the bedroom window refused to close.
+
+Rhen stared at it.
+
+Sera watched from beside the bed.
+
+“You're losing.”
+
+“I'm assessing it.”
+
+“The window?”
+
+“Yes.”
+
+“It has two hinges.”
+
+“One is misaligned.”
+
+“You once stopped a mountain from falling on a village.”
+
+“That mountain was structurally simpler.”
+
+Sera covered her mouth.
+
+Rhen looked over.
+
+“Are you laughing?”
+
+“No.”
+
+“You are.”
+
+“Petals Monarch defeated by carpentry.”
+
+“Windows are not carpentry.”
+
+“What are they?”
+
+Rhen looked back at the frame.
+
+“Currently hostile.”
+
+Sera lost the fight and laughed into her hand.
+
+Rhen gave the window one final, deeply offended look.
+
+Then he shut it with two fingers and an amount of precision qi that could probably have severed a fortress gate without disturbing the wall around it.
+
+Sera stared.
+
+“You cheated.”
+
+“It is closed.”
+
+“You used cultivation on a window.”
+
+“It was hostile.”
+
+Rhen returned to the edge of the bed.
+
+For a few breaths, tomorrow was not a medical danger or the beginning of months apart.
+
+It was simply tomorrow.
+
+And tonight, Rhen had lost to a window.
+
 Sera crossed the room.
 
 Rhen held out one hand.

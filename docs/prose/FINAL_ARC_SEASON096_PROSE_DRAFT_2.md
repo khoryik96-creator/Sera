@@ -712,6 +712,104 @@ A group of children had tied ribbons to the marker.
 
 Yun watched them run past.
 
+A woman selling tea from a roadside kettle noticed where Yun was looking.
+
+“Children still do that?” Yun asked.
+
+“Every spring.”
+
+“For Shinsei?”
+
+The woman wiped her hands on her apron.
+
+“For the bridge.”
+
+Yun looked at her.
+
+“What bridge?”
+
+The question earned genuine surprise.
+
+“You really are foreign.”
+
+“So I have been told.”
+
+“Seven Bridges.”
+
+Yun waited.
+
+“Before Shinsei held the river country properly, three clans fought over the crossings. Not soldiers fighting soldiers. Everyone. Farmers searched. Ferries burned. Houses emptied because somebody's cousin wore the wrong crest.”
+
+Her face changed while she spoke.
+
+Not reverence.
+
+Memory inherited from somebody else's fear.
+
+“My mother was six.”
+
+Yun said nothing.
+
+“By the last night, six bridges were gone. Burned or broken. The clans were fighting over the seventh while families were still trying to cross.”
+
+“Tsubasa Kurokawa?”
+
+The woman nodded.
+
+“He was young then. Not what he is now.”
+
+“What did he do?”
+
+“Stayed.”
+
+Yun waited for more.
+
+The woman shrugged.
+
+“That is the story.”
+
+“He fought three clans.”
+
+“Probably.”
+
+“You don't know?”
+
+“I know my mother crossed.”
+
+That stopped Yun.
+
+“They say he held the last bridge through the night. Kept the supports standing. Kept the fighting away from the families. Didn't chase anyone when the clans pulled back. Didn't leave when people started saying the road was clear.”
+
+The woman's voice softened.
+
+“He stayed until the last family crossed.”
+
+The road moved around them.
+
+A cart wheel squeaked.
+
+Someone argued over onions.
+
+Two children ran past the Shinsei marker with ribbon tangled around one wrist.
+
+Yun looked at the broken circle joined by one line.
+
+Propaganda could invent a hero.
+
+It could polish one.
+
+It could not easily manufacture the exact way an ordinary woman still measured a martial legend by whether her mother reached the other bank alive.
+
+That was more inconvenient.
+
+A cruel government was easy to understand.
+
+A government built by people who had once done something worth loving was much more dangerous.
+
+Because people did not obey only from fear.
+
+Sometimes they remembered the bridge.
+
 Nothing about the scene looked coerced.
 
 That was important.

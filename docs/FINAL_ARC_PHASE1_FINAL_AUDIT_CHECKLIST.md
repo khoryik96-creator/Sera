@@ -39,8 +39,8 @@ The correct emotional method is accumulation of ordinary intimacy, separation, p
 
 ## LOCKED / PROSE INSERT READY
 
-- [ ] **Chapter 335 private line:** include the small coded line meaning **"You forgot to eat again" / "Eat something, idiot."** This is already drafted in `docs/prose/FINAL_ARC_PHASE1_POLISH_INSERTS.md`.
-- [ ] IMPORTANT DELIVERY FIX: the private line must be copied into the **outbound coded medical packet**, not left only in Yun's field notebook. The field notebook may be seized during capture; Chapter 363 in Phase II must be able to decode the surviving packet honestly.
+- [x] **Chapter 335 private line:** include the small coded line meaning **"You forgot to eat again" / "Eat something, idiot."** This is already drafted in `docs/prose/FINAL_ARC_PHASE1_POLISH_INSERTS.md`.
+- [x] IMPORTANT DELIVERY FIX: the private line must be copied into the **outbound coded medical packet**, not left only in Yun's field notebook. The field notebook may be seized during capture; Chapter 363 in Phase II must be able to decode the surviving packet honestly.
 
 ## DO NOT ADD
 
@@ -64,9 +64,9 @@ Chapter 319 occurs before Chapter 320, so five weeks cannot precede Day 26.
 
 ### Locked correction
 
-- [ ] Change Chapter 319's "five weeks" wording to approximately **three and a half weeks / more than three weeks**.
-- [ ] Preserve Chapter 320 Day-26 sequence.
-- [ ] Chapter 330 being **more than six weeks** into Shinrin then remains valid.
+- [x] Change Chapter 319's "five weeks" wording to approximately **three and a half weeks / more than three weeks**.
+- [x] Preserve Chapter 320 Day-26 sequence.
+- [x] Chapter 330 being **more than six weeks** into Shinrin then remains valid.
 
 ## DEFECT B — Chapter 331 begins too late for a late-month-three capture
 
@@ -76,11 +76,11 @@ Chapter 319 occurs before Chapter 320, so five weeks cannot precede Day 26.
 
 Chapter 331 must represent **the beginning of the third month**, not three completed months.
 
-- [ ] "Three months announced itself" → **"The third month announced itself"** or equivalent.
-- [ ] "Three months. She had promised three weeks." → **"The third month. She had promised three weeks."** or equivalent.
-- [ ] Other Chapter 331 statements implying three completed months should become **entering / living through month three**.
-- [ ] Chapters 332–339 then consume the remainder of month three.
-- [ ] Chapter 340 capture lands in **late month three**, preserving the authoritative clock.
+- [x] "Three months announced itself" → **"The third month announced itself"** or equivalent.
+- [x] "Three months. She had promised three weeks." → **"The third month. She had promised three weeks."** or equivalent.
+- [x] Other Chapter 331 statements implying three completed months should become **entering / living through month three**.
+- [x] Chapters 332–339 then consume the remainder of month three.
+- [x] Chapter 340 capture lands in **late month three**, preserving the authoritative clock.
 
 ---
 
@@ -96,8 +96,8 @@ Chapter 331 must represent **the beginning of the third month**, not three compl
 
 ## LOCKED CLARIFICATION
 
-- [ ] The **Chapter 363** Phase II decode must be the surviving **outbound coded packet / copied notation**, not a magically recovered field notebook.
-- [ ] The private "you forgot to eat" line must therefore be in that packet.
+- [x] The **Chapter 363** Phase II decode must be the surviving **outbound coded packet / copied notation**, not a magically recovered field notebook.
+- [x] The private "you forgot to eat" line must therefore be in that packet.
 - [ ] The notebook Luo carries at the **Chapter 496 memorial** must be treated as the notebook already left in Wuyue / retained from their shared work unless later prose explicitly dramatizes Shinsei returning Yun's seized field notebook after the war. No unexplained notebook teleportation.
 
 ---
@@ -113,8 +113,8 @@ Chapter 331 must represent **the beginning of the third month**, not three compl
 
 ## LOCKED / PROSE INSERT READY
 
-- [ ] **Seven Bridges** must be folded into Chapter 316 from `FINAL_ARC_PHASE1_POLISH_INSERTS.md`.
-- [ ] Yun must recognize that civilian affection around the story is real even if retellings polished it.
+- [x] **Seven Bridges** must be folded into Chapter 316 from `FINAL_ARC_PHASE1_POLISH_INSERTS.md`.
+- [x] Yun must recognize that civilian affection around the story is real even if retellings polished it.
 - [ ] Do not dump Heaven Gate / Kai's old victory / Haru's legend into Phase I.
 
 ---
@@ -145,7 +145,7 @@ Chapter 331 must represent **the beginning of the third month**, not three compl
 
 ## LOCKED / PROSE INSERT READY
 
-- [ ] Fold Chapter 349 information-boundary insert into final prose: Yurushi can infer severe abuse and asks what Shunto did; Yun answers effectively **later / if there is one**, then prioritizes Isgard.
+- [x] Fold Chapter 349 information-boundary insert into final prose: Yurushi can infer severe abuse and asks what Shunto did; Yun answers effectively **later / if there is one**, then prioritizes Isgard.
 - [ ] Yurushi therefore does **not** possess a detailed firsthand assault confession in Phase I.
 
 ## PENDING DOWNSTREAM PAYOFF
@@ -169,7 +169,7 @@ Chapter 331 must represent **the beginning of the third month**, not three compl
 
 ## LOCKED / PROSE INSERT READY
 
-- [ ] Fold the hostile-window domestic scene into Chapter 353 so Rhen/Sera's last normal night has old-series texture before the door closes.
+- [x] Fold the hostile-window domestic scene into Chapter 353 so Rhen/Sera's last normal night has old-series texture before the door closes.
 
 ---
 
@@ -186,7 +186,7 @@ Chapter 331 must represent **the beginning of the third month**, not three compl
 
 ## LOCKED / PROSE INSERT READY
 
-- [ ] Hostile-window scene before seclusion.
+- [x] Hostile-window scene before seclusion.
 - [ ] Preserve a few short domestic beats in Phase II/III; do not let the war convert everyone into grim archetypes.
 
 ---
