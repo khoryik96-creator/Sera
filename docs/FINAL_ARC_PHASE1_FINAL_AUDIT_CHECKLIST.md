@@ -234,7 +234,7 @@ These are not missing from Phase I; they are **pending placement**:
 - [x] **Phase II map placement locked:** Tsubasa explicitly recalculates Wuyue after learning its public ranking board was never its true apex roster — Chapter 395.
 
 > These are map-level placements. They remain prose-writing obligations when Seasons 101–108 are drafted.
-- [ ] Three-way Domain overlap in Sera's Phase II fight must receive a real physical/qi rules payoff rather than generic "three auras collide" prose.
+- [x] **Phase II map fixed:** Chapter 428 now defines simultaneous Domains as coexisting battlefield rules unless an art explicitly disrupts another; Orchid / Crimson Crucible / Crownless overlap physically rather than becoming generic aura collision.
 
 ---
 
@@ -246,14 +246,14 @@ The six-season chain remains complete:
 
 **peace → Axtaya → established Luo/Yun relationship → Yun enters Shinrin → Shinsei's genuine achievements → Shunto adaptive pursuit → state/military scale discovery → evidence layers → capture → Yurushi/Hana escape → Rhen's unrelated seclusion → Yun warning/death → Luo grief → Xie accepts the empty No.10 function.**
 
-## Remaining Phase I work before integration can be called final
+## Phase I implementation status
 
-- [ ] Fold Seven Bridges insert into Ch316.
-- [ ] Correct Ch319 five-week contradiction.
-- [ ] Reword Ch331 as start/inside of the third month rather than three completed months.
-- [ ] Fold private Luo line into Ch335 **and outbound packet**.
-- [ ] Fold Yurushi information-boundary insert into Ch349.
-- [ ] Fold hostile-window domestic insert into Ch353.
-- [ ] Final read for chapter-length/pacing after inserts; do not pad.
+- [x] Seven Bridges integrated into Ch316.
+- [x] Ch319 five-week contradiction corrected.
+- [x] Ch331 reworded as the third month rather than three completed months.
+- [x] Private Luo line integrated into Ch335 **and copied into the outbound packet**.
+- [x] Yurushi information-boundary scene integrated into Ch349.
+- [x] Hostile-window domestic scene integrated into Ch353.
+- [x] Final audit read completed after inserts; additions remain short scene payoffs rather than padding.
 
-Once those items are integrated, **Phase I itself has no unresolved structural gap**. The remaining critical work is the Phase II seam and later payoffs listed above.
+**Phase I itself now has no unresolved structural gap from this audit.** The Phase II seam and later legend/domain/payoff requirements are corrected at map level and remain obligations for the still-unwritten Seasons 101–108 prose.
