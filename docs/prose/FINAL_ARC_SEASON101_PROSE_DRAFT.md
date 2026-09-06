@@ -34,7 +34,7 @@ A naval clerk swallowed.
 
 “I did not.”
 
-“You did yesterday.”
+[[speaker:jin]]“You did yesterday.”
 
 “That was another clerk.”
 
@@ -44,7 +44,7 @@ The clerk amended himself.
 
 “That was the office.”
 
-“Better.”
+[[speaker:jin]]“Better.”
 
 Sera leaned against the table.
 
@@ -74,21 +74,21 @@ Weeks were what people called time when they were trying not to say **soon**.
 
 Jin moved one counter.
 
-“Medical reserve first.”
+[[speaker:jin]]“Medical reserve first.”
 
 A logistics officer said, “Before troops?”
 
-“Yes.”
+[[speaker:jin]]“Yes.”
 
 “If the fleet launches—”
 
-“If Isgard loses hospitals before we arrive, troops become decorative.”
+[[speaker:jin]]“If Isgard loses hospitals before we arrive, troops become decorative.”
 
 The officer nodded.
 
 Jin continued.
 
-“Send preserved bloodroot, feverleaf, suturing silk, splints, anti-rot compounds and grain concentrate under pact priority. Isgard already moved its coastal reserve inland last night. Their bottleneck is civilian handling capacity.”
+[[speaker:jin]]“Send preserved bloodroot, feverleaf, suturing silk, splints, anti-rot compounds and grain concentrate under pact priority. Isgard already moved its coastal reserve inland last night. Their bottleneck is civilian handling capacity.”
 
 The last sentence mattered.
 
@@ -130,53 +130,53 @@ They were not waiting to be saved.
 
 Sera handed the message to Jin.
 
-“Reply that the first medicine convoy leaves before noon.”
+[[speaker:sera]]“Reply that the first medicine convoy leaves before noon.”
 
-“We have not finished escort allocation.”
+[[speaker:jin]]“We have not finished escort allocation.”
 
-“Then finish it before noon.”
+[[speaker:sera]]“Then finish it before noon.”
 
 Jin looked at her.
 
-“That was already the plan.”
+[[speaker:jin]]“That was already the plan.”
 
-“Good.”
+[[speaker:sera]]“Good.”
 
-“You enjoy giving orders after I have made them.”
+[[speaker:jin]]“You enjoy giving orders after I have made them.”
 
-“I enjoy correct plans.”
+[[speaker:sera]]“I enjoy correct plans.”
 
-“That is not the same thing.”
+[[speaker:jin]]“That is not the same thing.”
 
-“It is from my side of the table.”
+[[speaker:sera]]“It is from my side of the table.”
 
 For half a breath, Tae looked like he might laugh.
 
 He thought better of it when Jin turned toward him.
 
-“Tae.”
+[[speaker:jin]]“Tae.”
 
-“No.”
+[[speaker:tae]]“No.”
 
 Jin paused.
 
-“I have not asked anything.”
+[[speaker:jin]]“I have not asked anything.”
 
-“I know what your face means.”
+[[speaker:tae]]“I know what your face means.”
 
-“Move the western Quaint storehouses into hardened distribution.”
+[[speaker:jin]]“Move the western Quaint storehouses into hardened distribution.”
 
 Tae frowned.
 
-“That was less annoying than expected.”
+[[speaker:tae]]“That was less annoying than expected.”
 
-“Give me time.”
+[[speaker:jin]]“Give me time.”
 
 Huo Wujin was already carrying two supply crates that ordinary men would have put on carts.
 
 He set them down.
 
-“Where do you want these?”
+[[speaker:huo]]“Where do you want these?”
 
 Lu Weiran answered without looking up from his ledger.
 
@@ -184,13 +184,13 @@ Lu Weiran answered without looking up from his ledger.
 
 Huo looked down.
 
-“Why?”
+[[speaker:huo]]“Why?”
 
-“That corridor is for outgoing medical cargo.”
+[[speaker:luweiran]]“That corridor is for outgoing medical cargo.”
 
-“These are medical cargo.”
+[[speaker:huo]]“These are medical cargo.”
 
-“They are training stones.”
+[[speaker:luweiran]]“They are training stones.”
 
 Huo looked at the crates again.
 
@@ -200,15 +200,15 @@ Tae became suddenly interested in a wall.
 
 Lu's eyes lifted.
 
-“Tae.”
+[[speaker:luweiran]]“Tae.”
 
-“No evidence.”
+[[speaker:tae]]“No evidence.”
 
-“You wrote it.”
+[[speaker:luweiran]]“You wrote it.”
 
-“You cannot prove that.”
+[[speaker:tae]]“You cannot prove that.”
 
-“It is your handwriting.”
+[[speaker:luweiran]]“It is your handwriting.”
 
 Sera closed her eyes.
 
@@ -228,17 +228,17 @@ He still looked offended every time someone addressed him by the number.
 
 A clerk said, “Number Ten, the eastern reserve—”
 
-“Xie.”
+[[speaker:xie_wuchen]]“Xie.”
 
 The clerk stopped.
 
 “Sir?”
 
-“Xie is shorter.”
+[[speaker:xie_wuchen]]“Xie is shorter.”
 
 “The regulation says—”
 
-“Then the regulation has too many syllables.”
+[[speaker:xie_wuchen]]“Then the regulation has too many syllables.”
 
 He signed anyway.
 
@@ -260,13 +260,13 @@ The assistant froze.
 
 “The tea?”
 
-“The sample.”
+[[speaker:luo]]“The sample.”
 
 “I meant the tea.”
 
 Luo looked at the cup as if seeing it for the first time.
 
-“Oh.”
+[[speaker:luo]]“Oh.”
 
 The assistant heated it.
 
@@ -278,17 +278,17 @@ That worried Sera more than shaking would have.
 
 She stood in the doorway.
 
-“Anything new?”
+[[speaker:sera]]“Anything new?”
 
-“Not yet.”
+[[speaker:luo]]“Not yet.”
 
-“Anything useful?”
+[[speaker:sera]]“Anything useful?”
 
-“Yes.”
+[[speaker:luo]]“Yes.”
 
 He tapped the sealed capillary.
 
-“She was right about throughput.”
+[[speaker:luo]]“She was right about throughput.”
 
 Sera waited.
 
@@ -298,25 +298,25 @@ Luo continued.
 
 “Can you stop it?”
 
-“Eventually.”
+[[speaker:luo]]“Eventually.”
 
-“That is not an answer.”
+[[speaker:sera]]“That is not an answer.”
 
-“It is the honest one.”
+[[speaker:luo]]“It is the honest one.”
 
 Sera accepted it.
 
 Luo looked at the capillary again.
 
-“She got this here.”
+[[speaker:luo]]“She got this here.”
 
-“Yes.”
+[[speaker:sera]]“Yes.”
 
-“She should have come with it.”
+[[speaker:luo]]“She should have come with it.”
 
 Sera did not offer comfort shaped like a lie.
 
-“Yes.”
+[[speaker:sera]]“Yes.”
 
 Luo's jaw moved once.
 
@@ -386,13 +386,13 @@ Shunto Takamori stood near the window.
 
 Tsubasa folded the report.
 
-“Then the calendar is wrong.”
+[[speaker:tsubasa]]“Then the calendar is wrong.”
 
 Haru looked up.
 
 Shunto said, “We can still contain—”
 
-“No.”
+[[speaker:tsubasa]]“No.”
 
 Tsubasa's voice was quiet.
 
@@ -400,15 +400,15 @@ Not angry.
 
 That made Shunto stop.
 
-“The warning is out.”
+[[speaker:tsubasa]]“The warning is out.”
 
 Tsubasa looked toward the north wall where shipping schedules covered half the stone.
 
-“The question is no longer whether they know.”
+[[speaker:tsubasa]]“The question is no longer whether they know.”
 
 His eyes moved to Haru.
 
-“It is how much time knowing buys them.”
+[[speaker:tsubasa]]“It is how much time knowing buys them.”
 
 Haru put down the charcoal.
 
@@ -418,7 +418,7 @@ Tsubasa waited.
 
 Haru walked toward the schedule board.
 
-“But more than we should give them.”
+[[speaker:haru]]“But more than we should give them.”
 
 Day One ended in three countries.
 

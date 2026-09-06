@@ -1,6 +1,6 @@
 # Season 101 — unattributed dialogue
 
-639 quoted lines in this season have no speaker.
+585 quoted lines in this season have no speaker.
 See `README.md` in this folder for what to do with them.
 
 Lines already resolved show their speaker in `[brackets]` for context.
@@ -20,21 +20,13 @@ A naval clerk swallowed.
 “Forty-six deep-hull transports confirmed within nine days. Another nineteen if Stonecrown releases civilian grain carriers.”
 “Do not count grain carriers twice,” Jin said.
 >>> “I did not.”   <-- WHO SAYS THIS?
-“You did yesterday.”
+[jin] “You did yesterday.”
 “That was another clerk.”
-```
-```
-“Forty-six deep-hull transports confirmed within nine days. Another nineteen if Stonecrown releases civilian grain carriers.”
-“Do not count grain carriers twice,” Jin said.
-“I did not.”
->>> “You did yesterday.”   <-- WHO SAYS THIS?
-“That was another clerk.”
-Jin looked at him.
 ```
 ```
 “Do not count grain carriers twice,” Jin said.
 “I did not.”
-“You did yesterday.”
+[jin] “You did yesterday.”
 >>> “That was another clerk.”   <-- WHO SAYS THIS?
 Jin looked at him.
 The clerk amended himself.
@@ -44,48 +36,16 @@ The clerk amended himself.
 Jin looked at him.
 The clerk amended himself.
 >>> “That was the office.”   <-- WHO SAYS THIS?
-“Better.”
+[jin] “Better.”
 Sera leaned against the table.
 ```
 ```
-Jin looked at him.
-The clerk amended himself.
-“That was the office.”
->>> “Better.”   <-- WHO SAYS THIS?
-Sera leaned against the table.
-The map looked different from the night before.
-```
-```
-Weeks were not time.
-Weeks were what people called time when they were trying not to say **soon**.
-Jin moved one counter.
->>> “Medical reserve first.”   <-- WHO SAYS THIS?
+[jin] “Medical reserve first.”
 A logistics officer said, “Before troops?”
-“Yes.”
-```
-```
-Jin moved one counter.
-“Medical reserve first.”
-A logistics officer said, “Before troops?”
->>> “Yes.”   <-- WHO SAYS THIS?
-“If the fleet launches—”
-“If Isgard loses hospitals before we arrive, troops become decorative.”
-```
-```
-“Medical reserve first.”
-A logistics officer said, “Before troops?”
-“Yes.”
+[jin] “Yes.”
 >>> “If the fleet launches—”   <-- WHO SAYS THIS?
-“If Isgard loses hospitals before we arrive, troops become decorative.”
+[jin] “If Isgard loses hospitals before we arrive, troops become decorative.”
 The officer nodded.
-```
-```
-A logistics officer said, “Before troops?”
-“Yes.”
-“If the fleet launches—”
->>> “If Isgard loses hospitals before we arrive, troops become decorative.”   <-- WHO SAYS THIS?
-The officer nodded.
-Jin continued.
 ```
 ```
 Sera had learned that lesson in Isgard the expensive way.
@@ -96,436 +56,44 @@ Sera took it.
 Isgard had already begun dispersing medicine away from its major ports.
 ```
 ```
-Good.
-They were not waiting to be saved.
-Sera handed the message to Jin.
->>> “Reply that the first medicine convoy leaves before noon.”   <-- WHO SAYS THIS?
-“We have not finished escort allocation.”
-“Then finish it before noon.”
-```
-```
-They were not waiting to be saved.
-Sera handed the message to Jin.
-“Reply that the first medicine convoy leaves before noon.”
->>> “We have not finished escort allocation.”   <-- WHO SAYS THIS?
-“Then finish it before noon.”
-Jin looked at her.
-```
-```
-Sera handed the message to Jin.
-“Reply that the first medicine convoy leaves before noon.”
-“We have not finished escort allocation.”
->>> “Then finish it before noon.”   <-- WHO SAYS THIS?
-Jin looked at her.
-“That was already the plan.”
-```
-```
-“We have not finished escort allocation.”
-“Then finish it before noon.”
-Jin looked at her.
->>> “That was already the plan.”   <-- WHO SAYS THIS?
-“Good.”
-“You enjoy giving orders after I have made them.”
-```
-```
-“Then finish it before noon.”
-Jin looked at her.
-“That was already the plan.”
->>> “Good.”   <-- WHO SAYS THIS?
-“You enjoy giving orders after I have made them.”
-“I enjoy correct plans.”
-```
-```
-Jin looked at her.
-“That was already the plan.”
-“Good.”
->>> “You enjoy giving orders after I have made them.”   <-- WHO SAYS THIS?
-“I enjoy correct plans.”
-“That is not the same thing.”
-```
-```
-“That was already the plan.”
-“Good.”
-“You enjoy giving orders after I have made them.”
->>> “I enjoy correct plans.”   <-- WHO SAYS THIS?
-“That is not the same thing.”
-“It is from my side of the table.”
-```
-```
-“Good.”
-“You enjoy giving orders after I have made them.”
-“I enjoy correct plans.”
->>> “That is not the same thing.”   <-- WHO SAYS THIS?
-“It is from my side of the table.”
-For half a breath, Tae looked like he might laugh.
-```
-```
-“You enjoy giving orders after I have made them.”
-“I enjoy correct plans.”
-“That is not the same thing.”
->>> “It is from my side of the table.”   <-- WHO SAYS THIS?
-For half a breath, Tae looked like he might laugh.
-He thought better of it when Jin turned toward him.
-```
-```
-“It is from my side of the table.”
-For half a breath, Tae looked like he might laugh.
-He thought better of it when Jin turned toward him.
->>> “Tae.”   <-- WHO SAYS THIS?
-“No.”
-Jin paused.
-```
-```
-For half a breath, Tae looked like he might laugh.
-He thought better of it when Jin turned toward him.
-“Tae.”
->>> “No.”   <-- WHO SAYS THIS?
-Jin paused.
-“I have not asked anything.”
-```
-```
-“Tae.”
-“No.”
-Jin paused.
->>> “I have not asked anything.”   <-- WHO SAYS THIS?
-“I know what your face means.”
-“Move the western Quaint storehouses into hardened distribution.”
-```
-```
-“No.”
-Jin paused.
-“I have not asked anything.”
->>> “I know what your face means.”   <-- WHO SAYS THIS?
-“Move the western Quaint storehouses into hardened distribution.”
-Tae frowned.
-```
-```
-Jin paused.
-“I have not asked anything.”
-“I know what your face means.”
->>> “Move the western Quaint storehouses into hardened distribution.”   <-- WHO SAYS THIS?
-Tae frowned.
-“That was less annoying than expected.”
-```
-```
-“I know what your face means.”
-“Move the western Quaint storehouses into hardened distribution.”
-Tae frowned.
->>> “That was less annoying than expected.”   <-- WHO SAYS THIS?
-“Give me time.”
-Huo Wujin was already carrying two supply crates that ordinary men would have put on carts.
-```
-```
-“Move the western Quaint storehouses into hardened distribution.”
-Tae frowned.
-“That was less annoying than expected.”
->>> “Give me time.”   <-- WHO SAYS THIS?
-Huo Wujin was already carrying two supply crates that ordinary men would have put on carts.
-He set them down.
-```
-```
-“Give me time.”
-Huo Wujin was already carrying two supply crates that ordinary men would have put on carts.
-He set them down.
->>> “Where do you want these?”   <-- WHO SAYS THIS?
-Lu Weiran answered without looking up from his ledger.
-[luweiran] “Not there.”
-```
-```
-Lu Weiran answered without looking up from his ledger.
-[luweiran] “Not there.”
-Huo looked down.
->>> “Why?”   <-- WHO SAYS THIS?
-“That corridor is for outgoing medical cargo.”
-“These are medical cargo.”
-```
-```
-[luweiran] “Not there.”
-Huo looked down.
-“Why?”
->>> “That corridor is for outgoing medical cargo.”   <-- WHO SAYS THIS?
-“These are medical cargo.”
-“They are training stones.”
-```
-```
-Huo looked down.
-“Why?”
-“That corridor is for outgoing medical cargo.”
->>> “These are medical cargo.”   <-- WHO SAYS THIS?
-“They are training stones.”
-Huo looked at the crates again.
-```
-```
-“Why?”
-“That corridor is for outgoing medical cargo.”
-“These are medical cargo.”
->>> “They are training stones.”   <-- WHO SAYS THIS?
-Huo looked at the crates again.
-Someone had written **MEDICAL** across the side in charcoal.
-```
-```
-Someone had written **MEDICAL** across the side in charcoal.
-Tae became suddenly interested in a wall.
-Lu's eyes lifted.
->>> “Tae.”   <-- WHO SAYS THIS?
-“No evidence.”
-“You wrote it.”
-```
-```
-Tae became suddenly interested in a wall.
-Lu's eyes lifted.
-“Tae.”
->>> “No evidence.”   <-- WHO SAYS THIS?
-“You wrote it.”
-“You cannot prove that.”
-```
-```
-Lu's eyes lifted.
-“Tae.”
-“No evidence.”
->>> “You wrote it.”   <-- WHO SAYS THIS?
-“You cannot prove that.”
-“It is your handwriting.”
-```
-```
-“Tae.”
-“No evidence.”
-“You wrote it.”
->>> “You cannot prove that.”   <-- WHO SAYS THIS?
-“It is your handwriting.”
-Sera closed her eyes.
-```
-```
-“No evidence.”
-“You wrote it.”
-“You cannot prove that.”
->>> “It is your handwriting.”   <-- WHO SAYS THIS?
-Sera closed her eyes.
-For three seconds the room felt like home.
-```
-```
-At the public command bureau, Xie Wuchen signed his sixth routing authority as No.10.
-He still looked offended every time someone addressed him by the number.
 A clerk said, “Number Ten, the eastern reserve—”
->>> “Xie.”   <-- WHO SAYS THIS?
-The clerk stopped.
-“Sir?”
-```
-```
-A clerk said, “Number Ten, the eastern reserve—”
-“Xie.”
+[xie_wuchen] “Xie.”
 The clerk stopped.
 >>> “Sir?”   <-- WHO SAYS THIS?
-“Xie is shorter.”
+[xie_wuchen] “Xie is shorter.”
 “The regulation says—”
-```
-```
-“Xie.”
-The clerk stopped.
-“Sir?”
->>> “Xie is shorter.”   <-- WHO SAYS THIS?
-“The regulation says—”
-“Then the regulation has too many syllables.”
 ```
 ```
 The clerk stopped.
 “Sir?”
-“Xie is shorter.”
+[xie_wuchen] “Xie is shorter.”
 >>> “The regulation says—”   <-- WHO SAYS THIS?
-“Then the regulation has too many syllables.”
+[xie_wuchen] “Then the regulation has too many syllables.”
 He signed anyway.
-```
-```
-“Sir?”
-“Xie is shorter.”
-“The regulation says—”
->>> “Then the regulation has too many syllables.”   <-- WHO SAYS THIS?
-He signed anyway.
-Across the compound, Luo Wen did not sign anything unless it concerned medicine.
 ```
 ```
 He stood over Yun's Axtaya sample with three assistants and a cup of tea that had gone cold enough to become an accusation.
 “Do not heat it,” he said when one assistant reached for the kettle.
 The assistant froze.
 >>> “The tea?”   <-- WHO SAYS THIS?
-“The sample.”
+[luo] “The sample.”
 “I meant the tea.”
-```
-```
-“Do not heat it,” he said when one assistant reached for the kettle.
-The assistant froze.
-“The tea?”
->>> “The sample.”   <-- WHO SAYS THIS?
-“I meant the tea.”
-Luo looked at the cup as if seeing it for the first time.
 ```
 ```
 The assistant froze.
 “The tea?”
-“The sample.”
+[luo] “The sample.”
 >>> “I meant the tea.”   <-- WHO SAYS THIS?
 Luo looked at the cup as if seeing it for the first time.
-“Oh.”
-```
-```
-“The sample.”
-“I meant the tea.”
-Luo looked at the cup as if seeing it for the first time.
->>> “Oh.”   <-- WHO SAYS THIS?
-The assistant heated it.
-Luo did not drink.
-```
-```
-His hands were steady.
-That worried Sera more than shaking would have.
-She stood in the doorway.
->>> “Anything new?”   <-- WHO SAYS THIS?
-“Not yet.”
-“Anything useful?”
-```
-```
-That worried Sera more than shaking would have.
-She stood in the doorway.
-“Anything new?”
->>> “Not yet.”   <-- WHO SAYS THIS?
-“Anything useful?”
-“Yes.”
-```
-```
-She stood in the doorway.
-“Anything new?”
-“Not yet.”
->>> “Anything useful?”   <-- WHO SAYS THIS?
-“Yes.”
-He tapped the sealed capillary.
-```
-```
-“Anything new?”
-“Not yet.”
-“Anything useful?”
->>> “Yes.”   <-- WHO SAYS THIS?
-He tapped the sealed capillary.
-“She was right about throughput.”
-```
-```
-“Anything useful?”
-“Yes.”
-He tapped the sealed capillary.
->>> “She was right about throughput.”   <-- WHO SAYS THIS?
-Sera waited.
-Luo continued.
+[luo] “Oh.”
 ```
 ```
 Sera waited.
 Luo continued.
 [luo] “Whatever else they have done to the compound, it is still forcing existing systems to spend faster. It is not creating cultivation. If somebody comes at us under Redline, treat the body like an overpressurized vessel, not a stronger realm.”
 >>> “Can you stop it?”   <-- WHO SAYS THIS?
-“Eventually.”
-“That is not an answer.”
-```
-```
-Luo continued.
-[luo] “Whatever else they have done to the compound, it is still forcing existing systems to spend faster. It is not creating cultivation. If somebody comes at us under Redline, treat the body like an overpressurized vessel, not a stronger realm.”
-“Can you stop it?”
->>> “Eventually.”   <-- WHO SAYS THIS?
-“That is not an answer.”
-“It is the honest one.”
-```
-```
-[luo] “Whatever else they have done to the compound, it is still forcing existing systems to spend faster. It is not creating cultivation. If somebody comes at us under Redline, treat the body like an overpressurized vessel, not a stronger realm.”
-“Can you stop it?”
-“Eventually.”
->>> “That is not an answer.”   <-- WHO SAYS THIS?
-“It is the honest one.”
-Sera accepted it.
-```
-```
-“Can you stop it?”
-“Eventually.”
-“That is not an answer.”
->>> “It is the honest one.”   <-- WHO SAYS THIS?
-Sera accepted it.
-Luo looked at the capillary again.
-```
-```
-“It is the honest one.”
-Sera accepted it.
-Luo looked at the capillary again.
->>> “She got this here.”   <-- WHO SAYS THIS?
-“Yes.”
-“She should have come with it.”
-```
-```
-Sera accepted it.
-Luo looked at the capillary again.
-“She got this here.”
->>> “Yes.”   <-- WHO SAYS THIS?
-“She should have come with it.”
-Sera did not offer comfort shaped like a lie.
-```
-```
-Luo looked at the capillary again.
-“She got this here.”
-“Yes.”
->>> “She should have come with it.”   <-- WHO SAYS THIS?
-Sera did not offer comfort shaped like a lie.
-“Yes.”
-```
-```
-“Yes.”
-“She should have come with it.”
-Sera did not offer comfort shaped like a lie.
->>> “Yes.”   <-- WHO SAYS THIS?
-Luo's jaw moved once.
-Then he returned to work.
-```
-```
-Haru Ishikawa stood at the far side of the table with a charcoal stick between two fingers.
-Shunto Takamori stood near the window.
-Tsubasa folded the report.
->>> “Then the calendar is wrong.”   <-- WHO SAYS THIS?
-Haru looked up.
-Shunto said, “We can still contain—”
-```
-```
-“Then the calendar is wrong.”
-Haru looked up.
-Shunto said, “We can still contain—”
->>> “No.”   <-- WHO SAYS THIS?
-Tsubasa's voice was quiet.
-Not angry.
-```
-```
-Tsubasa's voice was quiet.
-Not angry.
-That made Shunto stop.
->>> “The warning is out.”   <-- WHO SAYS THIS?
-Tsubasa looked toward the north wall where shipping schedules covered half the stone.
-“The question is no longer whether they know.”
-```
-```
-That made Shunto stop.
-“The warning is out.”
-Tsubasa looked toward the north wall where shipping schedules covered half the stone.
->>> “The question is no longer whether they know.”   <-- WHO SAYS THIS?
-His eyes moved to Haru.
-“It is how much time knowing buys them.”
-```
-```
-Tsubasa looked toward the north wall where shipping schedules covered half the stone.
-“The question is no longer whether they know.”
-His eyes moved to Haru.
->>> “It is how much time knowing buys them.”   <-- WHO SAYS THIS?
-Haru put down the charcoal.
-“Not enough,” he said.
-```
-```
-“Not enough,” he said.
-Tsubasa waited.
-Haru walked toward the schedule board.
->>> “But more than we should give them.”   <-- WHO SAYS THIS?
-Day One ended in three countries.
-Only one of them had decided exactly how much faster the next thirteen would need to become.
+[luo] “Eventually.”
+[sera] “That is not an answer.”
 ```
 
 ### Chapter 362 — The Door Cannot Be Opened
