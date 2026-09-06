@@ -12,4 +12,6 @@ jobs:
         with:
           node-version: 24
       - name: Run literary diagnostics
-        run: node scripts/literary-audit.mjs
+        run: |
+          node scripts/literary-audit.mjs
+          node scripts/literary-contexts.mjs
