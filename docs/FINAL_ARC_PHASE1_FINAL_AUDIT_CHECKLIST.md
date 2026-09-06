@@ -12,6 +12,8 @@
 >
 > Do not call an item "fixed in prose" merely because it exists in a planning/insert file.
 
+**Current implementation status:** all identified Phase I prose defects are now integrated into the chapter files; cross-phase continuity defects are corrected in the Phase II map; the two immediately-fixable Phase III ambiguities/payoffs (Yun's notebook identity and Xie's promised return) are now corrected in merged-prose descendants on this branch. Remaining unchecked items are genuine future Phase II prose obligations or intentional tone rules, not unresolved Phase I contradictions.
+
 ---
 
 # 1. Luo Wen × Yun Shizhen romance — AUDIT RESULT
@@ -98,7 +100,7 @@ Chapter 331 must represent **the beginning of the third month**, not three compl
 
 - [x] The **Chapter 363** Phase II decode must be the surviving **outbound coded packet / copied notation**, not a magically recovered field notebook.
 - [x] The private "you forgot to eat" line must therefore be in that packet.
-- [ ] The notebook Luo carries at the **Chapter 496 memorial** must be treated as the notebook already left in Wuyue / retained from their shared work unless later prose explicitly dramatizes Shinsei returning Yun's seized field notebook after the war. No unexplained notebook teleportation.
+- [x] The **Chapter 496 memorial** now explicitly identifies Luo's notebook as the second notebook Yun left in Wuyue; the field notebook Shunto seized is a different object. No unexplained notebook teleportation.
 
 ---
 
@@ -146,7 +148,7 @@ Chapter 331 must represent **the beginning of the third month**, not three compl
 ## LOCKED / PROSE INSERT READY
 
 - [x] Fold Chapter 349 information-boundary insert into final prose: Yurushi can infer severe abuse and asks what Shunto did; Yun answers effectively **later / if there is one**, then prioritizes Isgard.
-- [ ] Yurushi therefore does **not** possess a detailed firsthand assault confession in Phase I.
+- [x] Yurushi therefore does **not** possess a detailed firsthand assault confession in Phase I.
 
 ## PENDING DOWNSTREAM PAYOFF
 
@@ -204,16 +206,18 @@ Chapter 331 must represent **the beginning of the third month**, not three compl
 
 ## PENDING DOWNSTREAM PAYOFF
 
-- [ ] Epilogue must preserve the small character payoff that Xie learns to **return when he said he would**, not merely appear for another fight.
+- [x] Chapter 499 now dramatizes Xie learning to **return when he said he would**: he names eight days and comes back eight days later, without turning it into ceremony.
 
 ---
 
 # 10. Phase I → Phase II seam — PENDING CRITICAL FIX
 
-- [ ] **Chapter 361 cannot deliver Yun's warning again.** Phase I already completes the report, death, Wuyue receipt and pact activation in Chapters 355–357.
-- [ ] Rewrite Chapter 361 as **the first day after the warning**: mobilization already underway, grief colliding with logistics, Isgard scrambling, Shinsei realizing Yun succeeded.
-- [ ] Chapter 362 can then pay off why Rhen's door cannot safely be opened.
-- [ ] Chapter 363 decodes Yun's surviving coded packet and private Luo line.
+- [x] **Phase II map fixed:** Chapter 361 no longer delivers Yun's warning again; it opens on Day 1 after the already-completed warning/death/pact activation.
+- [x] **Phase II map fixed:** Chapter 361 is mobilisation under grief, with Isgard scrambling and Tsubasa learning Yun succeeded.
+- [x] Chapter 362 remains the safe-interruption payoff for Rhen's closed door.
+- [x] **Phase II map fixed:** Chapter 363 explicitly decodes Yun's surviving outbound coded packet and private Luo line, not the seized field notebook.
+
+> Phase II chapter **prose** remains unwritten; these checkmarks mean the continuity/map defect is fixed before drafting, not that Chapters 361–363 have already been prose-integrated.
 
 This is the highest-priority Phase II map correction before Season 101 prose begins.
 
@@ -223,11 +227,13 @@ This is the highest-priority Phase II map correction before Season 101 prose beg
 
 These are not missing from Phase I; they are **pending placement**:
 
-- [ ] Kai once defeated young Tsubasa and Tsubasa returned with negotiated terms rather than revenge.
-- [ ] Tsubasa's Heaven Gate three-Paragon legend and **One Chain Binds Heaven**.
-- [ ] Haru's **Forty-Seven Thrust Duel** before his major home-front fight.
-- [ ] Haru/Hana attack Quaint and discover Tae/Huo/Qin are hidden High Paragons.
-- [ ] Tsubasa explicitly recalculates Wuyue after learning its public ranking board was never its true apex roster.
+- [x] **Phase II map placement locked:** Kai once defeated young Tsubasa and Tsubasa returned with negotiated terms rather than revenge — Chapter 407.
+- [x] **Phase II map placement locked:** Tsubasa's Heaven Gate three-Paragon legend and **One Chain Binds Heaven** — Chapter 437.
+- [x] **Phase II map placement locked:** Haru's **Forty-Seven Thrust Duel** before his major home-front fight — Chapter 391.
+- [x] Haru/Hana attack Quaint and discover Tae/Huo/Qin are hidden High Paragons — existing Season 104 route preserved.
+- [x] **Phase II map placement locked:** Tsubasa explicitly recalculates Wuyue after learning its public ranking board was never its true apex roster — Chapter 395.
+
+> These are map-level placements. They remain prose-writing obligations when Seasons 101–108 are drafted.
 - [ ] Three-way Domain overlap in Sera's Phase II fight must receive a real physical/qi rules payoff rather than generic "three auras collide" prose.
 
 ---
