@@ -1,6 +1,6 @@
 # Season 101 — unattributed dialogue
 
-585 quoted lines in this season have no speaker.
+535 quoted lines in this season have no speaker.
 See `README.md` in this folder for what to do with them.
 
 Lines already resolved show their speaker in `[brackets]` for context.
@@ -87,101 +87,53 @@ The assistant froze.
 Luo looked at the cup as if seeing it for the first time.
 [luo] “Oh.”
 ```
-```
-Sera waited.
-Luo continued.
-[luo] “Whatever else they have done to the compound, it is still forcing existing systems to spend faster. It is not creating cultivation. If somebody comes at us under Redline, treat the body like an overpressurized vessel, not a stronger realm.”
->>> “Can you stop it?”   <-- WHO SAYS THIS?
-[luo] “Eventually.”
-[sera] “That is not an answer.”
-```
 
 ### Chapter 362 — The Door Cannot Be Opened
 
 ```
-Rhen had always been good at disappearing when he wanted to.
-This was simply the first time disappearance had become treatment.
 Sera looked at Core.
->>> “Say it again.”   <-- WHO SAYS THIS?
-Core did not ask what.
-“Do not open the door.”
-```
-```
-Sera looked at Core.
-“Say it again.”
+[sera] “Say it again.”
 Core did not ask what.
 >>> “Do not open the door.”   <-- WHO SAYS THIS?
-“Why?”
+[sera] “Why?”
 “The condensation has already passed the first reversible stage.”
-```
-```
-“Say it again.”
-Core did not ask what.
-“Do not open the door.”
->>> “Why?”   <-- WHO SAYS THIS?
-“The condensation has already passed the first reversible stage.”
-Sera's eyes stayed on the stone.
 ```
 ```
 Core did not ask what.
 “Do not open the door.”
-“Why?”
+[sera] “Why?”
 >>> “The condensation has already passed the first reversible stage.”   <-- WHO SAYS THIS?
 Sera's eyes stayed on the stone.
-“Plain language.”
-```
-```
-“Why?”
-“The condensation has already passed the first reversible stage.”
-Sera's eyes stayed on the stone.
->>> “Plain language.”   <-- WHO SAYS THIS?
-Core exhaled.
-“The first hours were compression. If he had stopped then, he would have been sick and furious but probably safe.”
+[sera] “Plain language.”
 ```
 ```
 Sera's eyes stayed on the stone.
-“Plain language.”
+[sera] “Plain language.”
 Core exhaled.
 >>> “The first hours were compression. If he had stopped then, he would have been sick and furious but probably safe.”   <-- WHO SAYS THIS?
-“And now?”
+[sera] “And now?”
 “Now his old circulation structure is being rebuilt around the denser reserve.”
-```
-```
-“Plain language.”
-Core exhaled.
-“The first hours were compression. If he had stopped then, he would have been sick and furious but probably safe.”
->>> “And now?”   <-- WHO SAYS THIS?
-“Now his old circulation structure is being rebuilt around the denser reserve.”
-He tapped one slate.
 ```
 ```
 Core exhaled.
 “The first hours were compression. If he had stopped then, he would have been sick and furious but probably safe.”
-“And now?”
+[sera] “And now?”
 >>> “Now his old circulation structure is being rebuilt around the denser reserve.”   <-- WHO SAYS THIS?
 He tapped one slate.
 “The meridians are not simply carrying qi. They are changing how they carry it. If the process is forced open from outside, the pressure can tear through channels that are only half stabilized.”
 ```
 ```
-“And now?”
+[sera] “And now?”
 “Now his old circulation structure is being rebuilt around the denser reserve.”
 He tapped one slate.
 >>> “The meridians are not simply carrying qi. They are changing how they carry it. If the process is forced open from outside, the pressure can tear through channels that are only half stabilized.”   <-- WHO SAYS THIS?
-“Can he repair that?”
+[sera] “Can he repair that?”
 “Maybe.”
-```
-```
-“Now his old circulation structure is being rebuilt around the denser reserve.”
-He tapped one slate.
-“The meridians are not simply carrying qi. They are changing how they carry it. If the process is forced open from outside, the pressure can tear through channels that are only half stabilized.”
->>> “Can he repair that?”   <-- WHO SAYS THIS?
-“Maybe.”
-Sera turned.
 ```
 ```
 He tapped one slate.
 “The meridians are not simply carrying qi. They are changing how they carry it. If the process is forced open from outside, the pressure can tear through channels that are only half stabilized.”
-“Can he repair that?”
+[sera] “Can he repair that?”
 >>> “Maybe.”   <-- WHO SAYS THIS?
 Sera turned.
 Core held her gaze.
@@ -191,21 +143,13 @@ Core held her gaze.
 Sera turned.
 Core held her gaze.
 >>> “You asked for plain language.”   <-- WHO SAYS THIS?
-“I did.”
+[sera] “I did.”
 “Maybe he repairs it. Maybe he wakes with enough of himself intact to repair the rest. Maybe the damage propagates faster than he can reorganize from inside it.”
-```
-```
-Sera turned.
-Core held her gaze.
-“You asked for plain language.”
->>> “I did.”   <-- WHO SAYS THIS?
-“Maybe he repairs it. Maybe he wakes with enough of himself intact to repair the rest. Maybe the damage propagates faster than he can reorganize from inside it.”
-Lu said nothing.
 ```
 ```
 Core held her gaze.
 “You asked for plain language.”
-“I did.”
+[sera] “I did.”
 >>> “Maybe he repairs it. Maybe he wakes with enough of himself intact to repair the rest. Maybe the damage propagates faster than he can reorganize from inside it.”   <-- WHO SAYS THIS?
 Lu said nothing.
 Core continued.
@@ -219,380 +163,36 @@ That was the medical summary of Rhen's life.
 Sera almost smiled.
 ```
 ```
-That was the medical summary of Rhen's life.
 Sera almost smiled.
 Almost.
->>> “How long before interruption becomes safe?”   <-- WHO SAYS THIS?
-“It becomes safe when he finishes.”
-“That was not my question.”
-```
-```
-Sera almost smiled.
-Almost.
-“How long before interruption becomes safe?”
+[sera] “How long before interruption becomes safe?”
 >>> “It becomes safe when he finishes.”   <-- WHO SAYS THIS?
-“That was not my question.”
+[sera] “That was not my question.”
 “It is the only honest answer.”
 ```
 ```
-Almost.
-“How long before interruption becomes safe?”
+[sera] “How long before interruption becomes safe?”
 “It becomes safe when he finishes.”
->>> “That was not my question.”   <-- WHO SAYS THIS?
-“It is the only honest answer.”
-The corridor stayed quiet.
-```
-```
-“How long before interruption becomes safe?”
-“It becomes safe when he finishes.”
-“That was not my question.”
+[sera] “That was not my question.”
 >>> “It is the only honest answer.”   <-- WHO SAYS THIS?
 The corridor stayed quiet.
 Sera placed one hand against the stone.
 ```
 ```
-There were cruelties nobody could punch.
-Sera removed her hand.
-Lu said, “We can leave a watch.”
->>> “We already have one.”   <-- WHO SAYS THIS?
-“A second.”
-“For what?”
-```
-```
-Sera removed her hand.
-Lu said, “We can leave a watch.”
-“We already have one.”
->>> “A second.”   <-- WHO SAYS THIS?
-“For what?”
-“In case the chamber changes.”
-```
-```
-Lu said, “We can leave a watch.”
-“We already have one.”
-“A second.”
->>> “For what?”   <-- WHO SAYS THIS?
-“In case the chamber changes.”
-Sera looked at him.
-```
-```
-“We already have one.”
-“A second.”
-“For what?”
->>> “In case the chamber changes.”   <-- WHO SAYS THIS?
-Sera looked at him.
 Lu's expression remained practical.
-```
-```
-“In case the chamber changes.”
-Sera looked at him.
-Lu's expression remained practical.
->>> “If the frost pattern changes. If the seal cracks. If he communicates. If anything suggests the process has entered a stable interruption state.”   <-- WHO SAYS THIS?
-Core nodded.
-“That is reasonable.”
-```
-```
-Lu's expression remained practical.
-“If the frost pattern changes. If the seal cracks. If he communicates. If anything suggests the process has entered a stable interruption state.”
+[luweiran] “If the frost pattern changes. If the seal cracks. If he communicates. If anything suggests the process has entered a stable interruption state.”
 Core nodded.
 >>> “That is reasonable.”   <-- WHO SAYS THIS?
-“Then do it.”
+[sera] “Then do it.”
 Lu made a note.
-```
-```
-“If the frost pattern changes. If the seal cracks. If he communicates. If anything suggests the process has entered a stable interruption state.”
-Core nodded.
-“That is reasonable.”
->>> “Then do it.”   <-- WHO SAYS THIS?
-Lu made a note.
-Sera turned away from the door.
 ```
 ```
 Lu made a note.
 Sera turned away from the door.
 Core watched her.
 >>> “You are not going to ask me a fourth time?”   <-- WHO SAYS THIS?
-“No.”
+[sera] “No.”
 He looked surprised.
-```
-```
-Sera turned away from the door.
-Core watched her.
-“You are not going to ask me a fourth time?”
->>> “No.”   <-- WHO SAYS THIS?
-He looked surprised.
-Sera glanced back at the stone once.
-```
-```
-“No.”
-He looked surprised.
-Sera glanced back at the stone once.
->>> “I married a physician.”   <-- WHO SAYS THIS?
-Core waited.
-“He told me what would happen if I opened it.”
-```
-```
-Sera glanced back at the stone once.
-“I married a physician.”
-Core waited.
->>> “He told me what would happen if I opened it.”   <-- WHO SAYS THIS?
-Her voice stayed level.
-“I believed him before I needed the answer to be different.”
-```
-```
-Core waited.
-“He told me what would happen if I opened it.”
-Her voice stayed level.
->>> “I believed him before I needed the answer to be different.”   <-- WHO SAYS THIS?
-That was the whole thing.
-Not sacrifice.
-```
-```
-Core remained at the door to check the seal.
-Halfway to the map room, Lu said, “Jin currently has Rhen listed as unavailable.”
-Sera stopped.
->>> “Currently?”   <-- WHO SAYS THIS?
-“He dislikes leaving variables undefined.”
-“He is unavailable.”
-```
-```
-Halfway to the map room, Lu said, “Jin currently has Rhen listed as unavailable.”
-Sera stopped.
-“Currently?”
->>> “He dislikes leaving variables undefined.”   <-- WHO SAYS THIS?
-“He is unavailable.”
-“Yes.”
-```
-```
-Sera stopped.
-“Currently?”
-“He dislikes leaving variables undefined.”
->>> “He is unavailable.”   <-- WHO SAYS THIS?
-“Yes.”
-“Then remove him from the war model.”
-```
-```
-“Currently?”
-“He dislikes leaving variables undefined.”
-“He is unavailable.”
->>> “Yes.”   <-- WHO SAYS THIS?
-“Then remove him from the war model.”
-Lu raised an eyebrow.
-```
-```
-“He dislikes leaving variables undefined.”
-“He is unavailable.”
-“Yes.”
->>> “Then remove him from the war model.”   <-- WHO SAYS THIS?
-Lu raised an eyebrow.
-“Jin may object philosophically.”
-```
-```
-“Yes.”
-“Then remove him from the war model.”
-Lu raised an eyebrow.
->>> “Jin may object philosophically.”   <-- WHO SAYS THIS?
-“Jin can object while moving ships.”
-“What if Rhen finishes earlier?”
-```
-```
-“Then remove him from the war model.”
-Lu raised an eyebrow.
-“Jin may object philosophically.”
->>> “Jin can object while moving ships.”   <-- WHO SAYS THIS?
-“What if Rhen finishes earlier?”
-“Then he can complain that we planned competently without him.”
-```
-```
-Lu raised an eyebrow.
-“Jin may object philosophically.”
-“Jin can object while moving ships.”
->>> “What if Rhen finishes earlier?”   <-- WHO SAYS THIS?
-“Then he can complain that we planned competently without him.”
-Lu considered this.
-```
-```
-“Jin may object philosophically.”
-“Jin can object while moving ships.”
-“What if Rhen finishes earlier?”
->>> “Then he can complain that we planned competently without him.”   <-- WHO SAYS THIS?
-Lu considered this.
-“He may find that romantic.”
-```
-```
-“What if Rhen finishes earlier?”
-“Then he can complain that we planned competently without him.”
-Lu considered this.
->>> “He may find that romantic.”   <-- WHO SAYS THIS?
-“Rhen finds inventory romantic.”
-“That is true.”
-```
-```
-“Then he can complain that we planned competently without him.”
-Lu considered this.
-“He may find that romantic.”
->>> “Rhen finds inventory romantic.”   <-- WHO SAYS THIS?
-“That is true.”
-They reached the stair.
-```
-```
-Lu considered this.
-“He may find that romantic.”
-“Rhen finds inventory romantic.”
->>> “That is true.”   <-- WHO SAYS THIS?
-They reached the stair.
-At the bottom, Tae waited with his arms folded.
-```
-```
-Huo stood beside him.
-Qin sat on the railing.
-Sera looked at all three.
->>> “No.”   <-- WHO SAYS THIS?
-Tae frowned.
-“We did not ask.”
-```
-```
-Sera looked at all three.
-“No.”
-Tae frowned.
->>> “We did not ask.”   <-- WHO SAYS THIS?
-“You were going to.”
-Huo looked at Tae.
-```
-```
-“No.”
-Tae frowned.
-“We did not ask.”
->>> “You were going to.”   <-- WHO SAYS THIS?
-Huo looked at Tae.
-“She is getting worse.”
-```
-```
-“We did not ask.”
-“You were going to.”
-Huo looked at Tae.
->>> “She is getting worse.”   <-- WHO SAYS THIS?
-“Marriage.”
-Sera stared at them.
-```
-```
-“You were going to.”
-Huo looked at Tae.
-“She is getting worse.”
->>> “Marriage.”   <-- WHO SAYS THIS?
-Sera stared at them.
-Huo corrected himself.
-```
-```
-“Marriage.”
-Sera stared at them.
-Huo corrected himself.
->>> “Better.”   <-- WHO SAYS THIS?
-Qin's mouth moved faintly.
-Sera continued down.
-```
-```
-Sera continued down.
-[sera] “Rhen is not an available asset.”
-Tae's humor disappeared.
->>> “How long?”   <-- WHO SAYS THIS?
-“We do not know.”
-Huo looked up the stair toward the sealed chamber.
-```
-```
-[sera] “Rhen is not an available asset.”
-Tae's humor disappeared.
-“How long?”
->>> “We do not know.”   <-- WHO SAYS THIS?
-Huo looked up the stair toward the sealed chamber.
-“And if Shinsei lands?”
-```
-```
-“How long?”
-“We do not know.”
-Huo looked up the stair toward the sealed chamber.
->>> “And if Shinsei lands?”   <-- WHO SAYS THIS?
-“We fight.”
-“If ten Paragons land?”
-```
-```
-“We do not know.”
-Huo looked up the stair toward the sealed chamber.
-“And if Shinsei lands?”
->>> “We fight.”   <-- WHO SAYS THIS?
-“If ten Paragons land?”
-“We fight smarter.”
-```
-```
-Huo looked up the stair toward the sealed chamber.
-“And if Shinsei lands?”
-“We fight.”
->>> “If ten Paragons land?”   <-- WHO SAYS THIS?
-“We fight smarter.”
-Tae said, “That sounded like Jin.”
-```
-```
-“And if Shinsei lands?”
-“We fight.”
-“If ten Paragons land?”
->>> “We fight smarter.”   <-- WHO SAYS THIS?
-Tae said, “That sounded like Jin.”
-“I have been near him too long.”
-```
-```
-“If ten Paragons land?”
-“We fight smarter.”
-Tae said, “That sounded like Jin.”
->>> “I have been near him too long.”   <-- WHO SAYS THIS?
-Qin stood.
-“What do you need from us?”
-```
-```
-Tae said, “That sounded like Jin.”
-“I have been near him too long.”
-Qin stood.
->>> “What do you need from us?”   <-- WHO SAYS THIS?
-Sera finally had the question she needed.
-Sera looked at the three men who had lived beneath her roof, eaten her food, broken her training grounds, annoyed Lu and somehow become High Paragons while most of the world still thought Wuyue's strength ended at its public ranking board.
-```
-```
-Sera looked at the three men who had lived beneath her roof, eaten her food, broken her training grounds, annoyed Lu and somehow become High Paragons while most of the world still thought Wuyue's strength ended at its public ranking board.
-“Home,” she said.
-Huo's brow furrowed.
->>> “We are not leaving yet.”   <-- WHO SAYS THIS?
-“I know.”
-“Then why—”
-```
-```
-“Home,” she said.
-Huo's brow furrowed.
-“We are not leaving yet.”
->>> “I know.”   <-- WHO SAYS THIS?
-“Then why—”
-“Because when we do, Shinsei may discover Wuyue has a door behind the door.”
-```
-```
-Huo's brow furrowed.
-“We are not leaving yet.”
-“I know.”
->>> “Then why—”   <-- WHO SAYS THIS?
-“Because when we do, Shinsei may discover Wuyue has a door behind the door.”
-Tae's eyes narrowed.
-```
-```
-“We are not leaving yet.”
-“I know.”
-“Then why—”
->>> “Because when we do, Shinsei may discover Wuyue has a door behind the door.”   <-- WHO SAYS THIS?
-Tae's eyes narrowed.
-Sera looked at Qin.
-```
-```
-“Because when we do, Shinsei may discover Wuyue has a door behind the door.”
-Tae's eyes narrowed.
-Sera looked at Qin.
->>> “Start designing what happens when they try to open it.”   <-- WHO SAYS THIS?
-Qin nodded once.
-No complaint.
 ```
 
 ### Chapter 363 — Luo Reads What Yun Left Him

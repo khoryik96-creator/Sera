@@ -296,7 +296,7 @@ Luo continued.
 
 “Whatever else they have done to the compound, it is still forcing existing systems to spend faster. It is not creating cultivation. If somebody comes at us under Redline, treat the body like an overpressurized vessel, not a stronger realm.”
 
-“Can you stop it?”
+[[speaker:sera]]“Can you stop it?”
 
 [[speaker:luo]]“Eventually.”
 
@@ -450,25 +450,25 @@ This was simply the first time disappearance had become treatment.
 
 Sera looked at Core.
 
-“Say it again.”
+[[speaker:sera]]“Say it again.”
 
 Core did not ask what.
 
 “Do not open the door.”
 
-“Why?”
+[[speaker:sera]]“Why?”
 
 “The condensation has already passed the first reversible stage.”
 
 Sera's eyes stayed on the stone.
 
-“Plain language.”
+[[speaker:sera]]“Plain language.”
 
 Core exhaled.
 
 “The first hours were compression. If he had stopped then, he would have been sick and furious but probably safe.”
 
-“And now?”
+[[speaker:sera]]“And now?”
 
 “Now his old circulation structure is being rebuilt around the denser reserve.”
 
@@ -476,7 +476,7 @@ He tapped one slate.
 
 “The meridians are not simply carrying qi. They are changing how they carry it. If the process is forced open from outside, the pressure can tear through channels that are only half stabilized.”
 
-“Can he repair that?”
+[[speaker:sera]]“Can he repair that?”
 
 “Maybe.”
 
@@ -486,7 +486,7 @@ Core held her gaze.
 
 “You asked for plain language.”
 
-“I did.”
+[[speaker:sera]]“I did.”
 
 “Maybe he repairs it. Maybe he wakes with enough of himself intact to repair the rest. Maybe the damage propagates faster than he can reorganize from inside it.”
 
@@ -502,11 +502,11 @@ Sera almost smiled.
 
 Almost.
 
-“How long before interruption becomes safe?”
+[[speaker:sera]]“How long before interruption becomes safe?”
 
 “It becomes safe when he finishes.”
 
-“That was not my question.”
+[[speaker:sera]]“That was not my question.”
 
 “It is the only honest answer.”
 
@@ -536,25 +536,25 @@ Sera removed her hand.
 
 Lu said, “We can leave a watch.”
 
-“We already have one.”
+[[speaker:sera]]“We already have one.”
 
-“A second.”
+[[speaker:luweiran]]“A second.”
 
-“For what?”
+[[speaker:sera]]“For what?”
 
-“In case the chamber changes.”
+[[speaker:luweiran]]“In case the chamber changes.”
 
 Sera looked at him.
 
 Lu's expression remained practical.
 
-“If the frost pattern changes. If the seal cracks. If he communicates. If anything suggests the process has entered a stable interruption state.”
+[[speaker:luweiran]]“If the frost pattern changes. If the seal cracks. If he communicates. If anything suggests the process has entered a stable interruption state.”
 
 Core nodded.
 
 “That is reasonable.”
 
-“Then do it.”
+[[speaker:sera]]“Then do it.”
 
 Lu made a note.
 
@@ -564,21 +564,21 @@ Core watched her.
 
 “You are not going to ask me a fourth time?”
 
-“No.”
+[[speaker:sera]]“No.”
 
 He looked surprised.
 
 Sera glanced back at the stone once.
 
-“I married a physician.”
+[[speaker:sera]]“I married a physician.”
 
 Core waited.
 
-“He told me what would happen if I opened it.”
+[[speaker:sera]]“He told me what would happen if I opened it.”
 
 Her voice stayed level.
 
-“I believed him before I needed the answer to be different.”
+[[speaker:sera]]“I believed him before I needed the answer to be different.”
 
 That was the whole thing.
 
@@ -598,33 +598,33 @@ Halfway to the map room, Lu said, “Jin currently has Rhen listed as unavailabl
 
 Sera stopped.
 
-“Currently?”
+[[speaker:sera]]“Currently?”
 
-“He dislikes leaving variables undefined.”
+[[speaker:luweiran]]“He dislikes leaving variables undefined.”
 
-“He is unavailable.”
+[[speaker:sera]]“He is unavailable.”
 
-“Yes.”
+[[speaker:luweiran]]“Yes.”
 
-“Then remove him from the war model.”
+[[speaker:sera]]“Then remove him from the war model.”
 
 Lu raised an eyebrow.
 
-“Jin may object philosophically.”
+[[speaker:luweiran]]“Jin may object philosophically.”
 
-“Jin can object while moving ships.”
+[[speaker:sera]]“Jin can object while moving ships.”
 
-“What if Rhen finishes earlier?”
+[[speaker:luweiran]]“What if Rhen finishes earlier?”
 
-“Then he can complain that we planned competently without him.”
+[[speaker:sera]]“Then he can complain that we planned competently without him.”
 
 Lu considered this.
 
-“He may find that romantic.”
+[[speaker:luweiran]]“He may find that romantic.”
 
-“Rhen finds inventory romantic.”
+[[speaker:sera]]“Rhen finds inventory romantic.”
 
-“That is true.”
+[[speaker:luweiran]]“That is true.”
 
 They reached the stair.
 
@@ -636,55 +636,55 @@ Qin sat on the railing.
 
 Sera looked at all three.
 
-“No.”
+[[speaker:sera]]“No.”
 
 Tae frowned.
 
-“We did not ask.”
+[[speaker:tae]]“We did not ask.”
 
-“You were going to.”
+[[speaker:sera]]“You were going to.”
 
 Huo looked at Tae.
 
-“She is getting worse.”
+[[speaker:huo]]“She is getting worse.”
 
-“Marriage.”
+[[speaker:tae]]“Marriage.”
 
 Sera stared at them.
 
 Huo corrected himself.
 
-“Better.”
+[[speaker:huo]]“Better.”
 
 Qin's mouth moved faintly.
 
 Sera continued down.
 
-“Rhen is not an available asset.”
+[[speaker:sera]]“Rhen is not an available asset.”
 
 Tae's humor disappeared.
 
-“How long?”
+[[speaker:tae]]“How long?”
 
-“We do not know.”
+[[speaker:sera]]“We do not know.”
 
 Huo looked up the stair toward the sealed chamber.
 
-“And if Shinsei lands?”
+[[speaker:huo]]“And if Shinsei lands?”
 
-“We fight.”
+[[speaker:sera]]“We fight.”
 
-“If ten Paragons land?”
+[[speaker:huo]]“If ten Paragons land?”
 
-“We fight smarter.”
+[[speaker:sera]]“We fight smarter.”
 
 Tae said, “That sounded like Jin.”
 
-“I have been near him too long.”
+[[speaker:sera]]“I have been near him too long.”
 
 Qin stood.
 
-“What do you need from us?”
+[[speaker:qin]]“What do you need from us?”
 
 Sera finally had the question she needed.
 
@@ -694,19 +694,19 @@ Sera looked at the three men who had lived beneath her roof, eaten her food, bro
 
 Huo's brow furrowed.
 
-“We are not leaving yet.”
+[[speaker:huo]]“We are not leaving yet.”
 
-“I know.”
+[[speaker:sera]]“I know.”
 
-“Then why—”
+[[speaker:huo]]“Then why—”
 
-“Because when we do, Shinsei may discover Wuyue has a door behind the door.”
+[[speaker:sera]]“Because when we do, Shinsei may discover Wuyue has a door behind the door.”
 
 Tae's eyes narrowed.
 
 Sera looked at Qin.
 
-“Start designing what happens when they try to open it.”
+[[speaker:sera]]“Start designing what happens when they try to open it.”
 
 Qin nodded once.
 
