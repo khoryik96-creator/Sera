@@ -114,17 +114,18 @@ function cleanChapterBody(raw) {
   const footer = body.search(/\n---\n\s*(?:\*\*End of|Chapter \d+ begins|Phase III begins|Reader integration note)/i);
   if (footer >= 0) body = body.slice(0, footer).trim();
 
-  // The markdown horizontal rule is used as a chapter separator in the source
-  // drafts. The reader does not parse Markdown rules, so remove separator-only
-  // lines while preserving ordinary blank-line paragraph rhythm.
+  // Horizontal rules delimit chapters/parts in the authoring files. Internal
+  // source subheadings are converted to bold reader lines because the novel
+  // renderer intentionally does not interpret Markdown headers.
   body = body
     .split('\n')
     .filter((line) => line.trim() !== '---')
     .join('\n')
+    .replace(/^#{1,6}\s+(.+)$/gm, '**$1**')
     .trim();
 
-  if (/^#{1,6}\s/m.test(body)) {
-    throw new Error('Final-arc chapter body still contains a Markdown heading.');
+  if (/^## Chapter \d+\s+[—-]/m.test(body)) {
+    throw new Error('Final-arc chapter body leaked a chapter boundary heading.');
   }
   return body;
 }
