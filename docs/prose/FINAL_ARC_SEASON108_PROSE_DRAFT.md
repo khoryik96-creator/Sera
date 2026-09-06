@@ -148,8 +148,6 @@ Solveig held her gaze.
 
 Then nodded.
 
-Good.
-
 One hundred thousand Shinsei personnel existed on the map.
 
 Fifty thousand Wuyue combat-capable.
@@ -213,8 +211,6 @@ A pause.
 “We’re winning too slowly.”
 
 There it was.
-
-The truth of Phase II.
 
 Not defeat.
 
@@ -314,8 +310,6 @@ Sera looked north.
 
 Neither knew Rhen’s condensation was almost complete.
 
-That was important.
-
 Their decisions still belonged to them.
 
 ---
@@ -367,8 +361,6 @@ Sera considered.
 “Insensitive.”
 
 Ilyra laughed hard enough to hurt herself.
-
-Good.
 
 The humor lasted six seconds.
 
@@ -554,8 +546,6 @@ Rhen would have objected.
 
 That thought irritated her.
 
-Good.
-
 Irritation meant she was still herself.
 
 Luo had ordered no sustained Dominion combat for several days.
@@ -595,8 +585,6 @@ Evacuation.
 Security.
 
 They had never become Sera’s assault regiment.
-
-Good.
 
 One reconnaissance cell brought three route updates.
 
