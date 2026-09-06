@@ -20,7 +20,7 @@ Claude / Claude Code must NOT:
 - expand its blank/TBD sections
 - invent missing character development
 - compose chapters/scenes from it
-- migrate its planned facts into `src/data.json`
+- migrate its planned facts into the authoring data (`src/data/lore.json`, `src/data/seasons/`)
 - update season/chapter prose from it
 - change canon, rankings, techniques, timelines, or character story content merely because the skeleton contains future plans
 - treat future skeleton material as already implemented story canon
