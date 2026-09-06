@@ -1,5 +1,6 @@
 import { readdir, readFile, writeFile } from 'node:fs/promises';
 
+// Executes the manually authored Season 95 map with paragraph-shape and uniqueness guards.
 const mapSource = await readFile('scripts/apply-dialogue-s95-complete.mjs', 'utf8');
 const match = mapSource.match(/const entries = (\[[\s\S]*?\n\]);/);
 if (!match) throw new Error('Could not read Season 95 resolution map');
@@ -17,7 +18,6 @@ for (const file of files) {
     const list=byChapter.get(part.chapter); if(!list) continue;
     let section=text.slice(part.start,part.end); const paras=section.split(/\n{2,}/);
     for (const [,quote,speaker] of list) {
-      // Markers are allowed only on paragraphs made entirely of quoted dialogue.
       if (!(quote.startsWith('“') && quote.endsWith('”'))) { skippedNarration++; continue; }
       const matches=[]; for(let i=0;i<paras.length;i++) if(stripMarker(paras[i].trim())===quote) matches.push(i);
       if(matches.length===0){skippedMissing++;continue;}
