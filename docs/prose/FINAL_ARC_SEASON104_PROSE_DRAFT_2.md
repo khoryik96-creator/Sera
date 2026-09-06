@@ -13,35 +13,35 @@ He spent it separating three High Paragons.
 
 Tae objected first.
 
-“Absolutely not.”
+[[speaker:tae]]“Absolutely not.”
 
 Qin stood over the continental map.
 
-“You are going west.”
+[[speaker:qin]]“You are going west.”
 
-“No.”
+[[speaker:tae]]“No.”
 
-“Huo goes southeast.”
+[[speaker:qin]]“Huo goes southeast.”
 
 Huo pointed at himself.
 
-“Why southeast?”
+[[speaker:huo]]“Why southeast?”
 
-“Because you are large.”
+[[speaker:qin]]“Because you are large.”
 
 Huo frowned.
 
-“That is not strategy.”
+[[speaker:huo]]“That is not strategy.”
 
-“It was not the reason.”
+[[speaker:qin]]“It was not the reason.”
 
 Tae folded his arms.
 
-“We were just attacked here.”
+[[speaker:tae]]“We were just attacked here.”
 
-“Yes.”
+[[speaker:qin]]“Yes.”
 
-“So we stay here.”
+[[speaker:tae]]“So we stay here.”
 
 “No.”
 
@@ -49,43 +49,43 @@ Lu Weiran entered with three new reports and placed them in order without speaki
 
 Qin touched the map.
 
-“Shinsei now knows this building contains three High Paragons.”
+[[speaker:qin]]“Shinsei now knows this building contains three High Paragons.”
 
 Tae’s expression hardened.
 
-“Yes.”
+[[speaker:tae]]“Yes.”
 
-“If we all remain here, what have they learned?”
+[[speaker:qin]]“If we all remain here, what have they learned?”
 
-“That attacking here is stupid.”
+[[speaker:tae]]“That attacking here is stupid.”
 
-“Correct.”
+[[speaker:qin]]“Correct.”
 
-“So?”
+[[speaker:tae]]“So?”
 
 Qin moved two markers.
 
-“They stop attacking here.”
+[[speaker:qin]]“They stop attacking here.”
 
 Silence.
 
 Huo leaned closer.
 
-“They hit somewhere else.”
+[[speaker:huo]]“They hit somewhere else.”
 
-“Yes.”
+[[speaker:qin]]“Yes.”
 
 Lu opened the first report.
 
-“Stonecrown’s fixed defence remains heavy, but Kael personally is north. Western command-road chain has two exposed logistics nodes. Central medical distribution is stronger than expected but still concentrated.”
+[[speaker:luweiran]]“Stonecrown’s fixed defence remains heavy, but Kael personally is north. Western command-road chain has two exposed logistics nodes. Central medical distribution is stronger than expected but still concentrated.”
 
 Second.
 
-“White Vein region has adequate Sovereign response. Imperial interior is numerically strongest.”
+[[speaker:luweiran]]“White Vein region has adequate Sovereign response. Imperial interior is numerically strongest.”
 
 Third.
 
-“Three smaller areas depend on public commanders who are currently in Isgard.”
+[[speaker:luweiran]]“Three smaller areas depend on public commanders who are currently in Isgard.”
 
 Tae looked at the map.
 
@@ -97,25 +97,25 @@ Qin continued.
 
 His fingers moved apart.
 
-“Three High Paragons distributed correctly makes Wuyue difficult to raid.”
+[[speaker:qin]]“Three High Paragons distributed correctly makes Wuyue difficult to raid.”
 
 Tae sighed.
 
-“Fine.”
+[[speaker:tae]]“Fine.”
 
 Huo looked at Qin.
 
-“What about you?”
+[[speaker:huo]]“What about you?”
 
-“I stay central.”
+[[speaker:qin]]“I stay central.”
 
-“That sounds convenient.”
+[[speaker:huo]]“That sounds convenient.”
 
-“I am operational deputy.”
+[[speaker:qin]]“I am operational deputy.”
 
-“That sounds like paperwork.”
+[[speaker:huo]]“That sounds like paperwork.”
 
-“It is.”
+[[speaker:qin]]“It is.”
 
 Huo looked horrified.
 
@@ -131,37 +131,37 @@ No visible wounds because he had not been in it.
 
 That bothered him more than he wanted to admit.
 
-“What happened?”
+[[speaker:black_radiance]]“What happened?”
 
 Tae looked at him.
 
-“You missed two Paragons.”
+[[speaker:tae]]“You missed two Paragons.”
 
 Yurushi stared.
 
-“Excuse me?”
+[[speaker:black_radiance]]“Excuse me?”
 
-“Haru and Hana.”
+[[speaker:tae]]“Haru and Hana.”
 
 Everything in Yurushi’s face changed.
 
-“Hana.”
+[[speaker:black_radiance]]“Hana.”
 
 “Yes.”
 
-“Here.”
+[[speaker:black_radiance]]“Here.”
 
 “Yes.”
 
-“Alive?”
+[[speaker:black_radiance]]“Alive?”
 
 Tae blinked.
 
-“Obviously.”
+[[speaker:tae]]“Obviously.”
 
 Yurushi looked at Qin.
 
-“What did she do?”
+[[speaker:black_radiance]]“What did she do?”
 
 Qin answered the question he meant.
 
@@ -175,15 +175,15 @@ Controlled.
 
 Then looked at the damage ledger.
 
-“Civilians?”
+[[speaker:black_radiance]]“Civilians?”
 
 “Safe.”
 
-“Patients?”
+[[speaker:black_radiance]]“Patients?”
 
 “Safe.”
 
-“Quaint?”
+[[speaker:black_radiance]]“Quaint?”
 
 “Eleven significant injuries. No deaths.”
 
@@ -193,15 +193,15 @@ Good.
 
 Then he saw the map.
 
-“You’re redistributing.”
+[[speaker:black_radiance]]“You’re redistributing.”
 
 “Yes.”
 
-“Because Shinsei will stop probing the house and hit support elsewhere.”
+[[speaker:black_radiance]]“Because Shinsei will stop probing the house and hit support elsewhere.”
 
 Qin turned toward him.
 
-“Where?”
+[[speaker:qin]]“Where?”
 
 Yurushi understood immediately what he was being asked.
 
@@ -211,47 +211,47 @@ Judgement.
 
 He walked to the table.
 
-“Not Stonecrown itself.”
+[[speaker:black_radiance]]“Not Stonecrown itself.”
 
 “Why?” Tae asked.
 
-“Too much fixed weight. Even without Kael, thirty-eight thousand plus fortress systems. Haru does not enjoy problems that cannot be narrowed.”
+[[speaker:black_radiance]]“Too much fixed weight. Even without Kael, thirty-eight thousand plus fortress systems. Haru does not enjoy problems that cannot be narrowed.”
 
 Huo looked at him.
 
-“You know him?”
+[[speaker:huo]]“You know him?”
 
-“Enough.”
+[[speaker:black_radiance]]“Enough.”
 
 Yurushi pointed at a central logistics line.
 
-“This.”
+[[speaker:black_radiance]]“This.”
 
 Lu leaned forward.
 
-“Why?”
+[[speaker:luweiran]]“Why?”
 
-“Because damaging it threatens Kael’s regional support without requiring Shinsei to defeat the region.”
+[[speaker:black_radiance]]“Because damaging it threatens Kael’s regional support without requiring Shinsei to defeat the region.”
 
 He moved one finger.
 
-“Road command. Medical relay. Replacement equipment. If this node fails, Isgard learns about it through slower supply within days. Kael hears. Political pressure begins.”
+[[speaker:black_radiance]]“Road command. Medical relay. Replacement equipment. If this node fails, Isgard learns about it through slower supply within days. Kael hears. Political pressure begins.”
 
 Qin nodded.
 
-“Hana?”
+[[speaker:qin]]“Hana?”
 
 Yurushi’s hand stopped.
 
-“She would choose the route with the best civilian evacuation geometry.”
+[[speaker:black_radiance]]“She would choose the route with the best civilian evacuation geometry.”
 
 Tae looked at him.
 
-“That specific?”
+[[speaker:tae]]“That specific?”
 
 Yurushi did not look up.
 
-“We were together four years.”
+[[speaker:black_radiance]]“We were together four years.”
 
 Nobody said anything.
 
@@ -263,27 +263,27 @@ Lu, because he was Lu, simply wrote the information down.
 
 Yurushi noticed.
 
-“Do not put that in the military record.”
+[[speaker:black_radiance]]“Do not put that in the military record.”
 
-“I wrote route preference.”
+[[speaker:luweiran]]“I wrote route preference.”
 
-“Good.”
+[[speaker:black_radiance]]“Good.”
 
 Qin said, “You’re staying central with me.”
 
 Yurushi looked at him.
 
-“I thought Tae was going west.”
+[[speaker:black_radiance]]“I thought Tae was going west.”
 
-“He is.”
+[[speaker:qin]]“He is.”
 
-“And Huo southeast.”
+[[speaker:black_radiance]]“And Huo southeast.”
 
-“Yes.”
+[[speaker:qin]]“Yes.”
 
-“Then why am I central?”
+[[speaker:black_radiance]]“Then why am I central?”
 
-“Because you understand Shinsei targeting logic and I need you here until we know which prediction is real.”
+[[speaker:qin]]“Because you understand Shinsei targeting logic and I need you here until we know which prediction is real.”
 
 That was Sera’s original reason for leaving him home.
 
@@ -293,21 +293,21 @@ Yurushi nodded.
 
 Tae picked up his travel coat.
 
-“West, then.”
+[[speaker:tae]]“West, then.”
 
 Huo looked toward the kitchen.
 
-“Can I eat first?”
+[[speaker:huo]]“Can I eat first?”
 
 Qin said, “On the road.”
 
 Huo looked betrayed.
 
-“You’ve changed.”
+[[speaker:huo]]“You’ve changed.”
 
-“You met me after I went blind.”
+[[speaker:qin]]“You met me after I went blind.”
 
-“That is not what I meant.”
+[[speaker:huo]]“That is not what I meant.”
 
 Tae walked out.
 
@@ -337,11 +337,11 @@ Qin turned toward him.
 
 Yurushi was already standing.
 
-“Haru and Hana.”
+[[speaker:black_radiance]]“Haru and Hana.”
 
-“Likely.”
+[[speaker:qin]]“Likely.”
 
-“Distance?”
+[[speaker:black_radiance]]“Distance?”
 
 Lu answered.
 
@@ -365,61 +365,61 @@ Qin said, “No.”
 
 Yurushi looked at him.
 
-“You cannot reach them fast enough without leaving this command blind.”
+[[speaker:qin]]“You cannot reach them fast enough without leaving this command blind.”
 
-“I can reorganize.”
+[[speaker:black_radiance]]“I can reorganize.”
 
-“That takes time.”
+[[speaker:qin]]“That takes time.”
 
-“So does dying.”
+[[speaker:black_radiance]]“So does dying.”
 
 Yurushi’s mouth moved.
 
-“Comforting.”
+[[speaker:black_radiance]]“Comforting.”
 
 Qin tilted his head.
 
-“You’re one High Paragon against one High and one Established.”
+[[speaker:qin]]“You’re one High Paragon against one High and one Established.”
 
-“Yes.”
+[[speaker:black_radiance]]“Yes.”
 
-“You are not ordered to win.”
+[[speaker:qin]]“You are not ordered to win.”
 
-“I know.”
+[[speaker:black_radiance]]“I know.”
 
-“Delay.”
+[[speaker:qin]]“Delay.”
 
-“I know.”
+[[speaker:black_radiance]]“I know.”
 
-“Protect the node.”
+[[speaker:qin]]“Protect the node.”
 
-“I know.”
+[[speaker:black_radiance]]“I know.”
 
-“Do not chase them.”
+[[speaker:qin]]“Do not chase them.”
 
 Yurushi stared.
 
-“You repeat yourself like Sera.”
+[[speaker:black_radiance]]“You repeat yourself like Sera.”
 
-“She trained me.”
+[[speaker:qin]]“She trained me.”
 
-“That explains many things.”
+[[speaker:black_radiance]]“That explains many things.”
 
 Lu handed Yurushi a narrow packet.
 
-“What?”
+[[speaker:black_radiance]]“What?”
 
-“Updated road map. Stonecrown engineers changed two culverts last year.”
+[[speaker:luweiran]]“Updated road map. Stonecrown engineers changed two culverts last year.”
 
 Yurushi took it.
 
-“You had this ready?”
+[[speaker:black_radiance]]“You had this ready?”
 
-“I suspected your prediction might be correct.”
+[[speaker:luweiran]]“I suspected your prediction might be correct.”
 
-“You are unsettling.”
+[[speaker:black_radiance]]“You are unsettling.”
 
-“Yes.”
+[[speaker:luweiran]]“Yes.”
 
 Then Yurushi left.
 
@@ -461,11 +461,11 @@ Both froze when they saw him.
 
 “Black Radiance?”
 
-“Later.”
+[[speaker:black_radiance]]“Later.”
 
 Yurushi looked at the building.
 
-“Where?”
+[[speaker:black_radiance]]“Where?”
 
 One pointed.
 
@@ -499,7 +499,7 @@ None of that disappeared because they stood on opposite sides now.
 
 Hana’s face changed.
 
-“Yurushi.”
+[[speaker:hana]]“Yurushi.”
 
 Haru looked toward him.
 
@@ -507,11 +507,11 @@ Recognition came slower.
 
 Then faster.
 
-“Black Radiance.”
+[[speaker:haru]]“Black Radiance.”
 
 Yurushi stopped between them and the command entrance.
 
-“Hana.”
+[[speaker:black_radiance]]“Hana.”
 
 She looked at the small black token beneath his coat.
 
@@ -521,27 +521,27 @@ Six petals.
 
 Her eyes narrowed.
 
-“You joined them.”
+[[speaker:hana]]“You joined them.”
 
-“Temporarily.”
+[[speaker:black_radiance]]“Temporarily.”
 
 Hana stared.
 
 Despite the war, despite everything, one corner of her mouth almost moved.
 
-“You’re unbelievable.”
+[[speaker:hana]]“You’re unbelievable.”
 
-“That is what I said.”
+[[speaker:black_radiance]]“That is what I said.”
 
 Haru’s spear lowered.
 
-“This node supports Kael’s regional command.”
+[[speaker:haru]]“This node supports Kael’s regional command.”
 
-“Yes.”
+[[speaker:black_radiance]]“Yes.”
 
-“We are taking it out.”
+[[speaker:haru]]“We are taking it out.”
 
-“No.”
+[[speaker:black_radiance]]“No.”
 
 Haru looked at him.
 
@@ -583,9 +583,9 @@ Haru noticed her noticing.
 
 Hana looked at him.
 
-“For?”
+[[speaker:hana]]“For?”
 
-“Complete the objective or withdraw.”
+[[speaker:haru]]“Complete the objective or withdraw.”
 
 Good.
 
@@ -621,27 +621,27 @@ Not afraid.
 
 Sad.
 
-“You finally showed me the whole thing.”
+[[speaker:hana]]“You finally showed me the whole thing.”
 
 Yurushi looked at her.
 
-“You never asked while trying to stab me before.”
+[[speaker:black_radiance]]“You never asked while trying to stab me before.”
 
-“That happened twice.”
+[[speaker:hana]]“That happened twice.”
 
-“Three times.”
+[[speaker:black_radiance]]“Three times.”
 
-“One was training.”
+[[speaker:hana]]“One was training.”
 
-“You used a real sword.”
+[[speaker:black_radiance]]“You used a real sword.”
 
 Haru looked between them.
 
-“This is not useful.”
+[[speaker:haru]]“This is not useful.”
 
 Hana sighed.
 
-“You see why we broke up.”
+[[speaker:hana]]“You see why we broke up.”
 
 Yurushi almost laughed.
 
@@ -737,13 +737,13 @@ Yurushi looked at her.
 
 She looked back.
 
-“I know you.”
+[[speaker:hana]]“I know you.”
 
-“Yes.”
+[[speaker:black_radiance]]“Yes.”
 
-“That is inconvenient.”
+[[speaker:hana]]“That is inconvenient.”
 
-“For both of us.”
+[[speaker:black_radiance]]“For both of us.”
 
 Haru attacked again.
 
@@ -789,15 +789,15 @@ The trap was elegant.
 
 Yurushi smiled despite himself.
 
-“Still good.”
+[[speaker:black_radiance]]“Still good.”
 
 Hana’s jaw tightened.
 
-“Don’t.”
+[[speaker:hana]]“Don’t.”
 
-“What?”
+[[speaker:black_radiance]]“What?”
 
-“Sound proud of me.”
+[[speaker:hana]]“Sound proud of me.”
 
 Yurushi stopped smiling.
 
@@ -829,7 +829,7 @@ He vanished into shadow again.
 
 Haru’s eyes narrowed.
 
-“He’s solving us.”
+[[speaker:haru]]“He’s solving us.”
 
 Hana breathed carefully.
 
@@ -905,15 +905,15 @@ Haru looked upward.
 
 “What?” Hana asked.
 
-“He changed scale.”
+[[speaker:haru]]“He changed scale.”
 
-“Yes.”
+[[speaker:hana]]“Yes.”
 
-“Why?”
+[[speaker:haru]]“Why?”
 
 Hana understood before he did.
 
-“Evacuation.”
+[[speaker:hana]]“Evacuation.”
 
 Yurushi used Radiant Step not toward Haru.
 
@@ -941,11 +941,11 @@ Their blades locked for one second.
 
 She whispered:
 
-“You could have stayed.”
+[[speaker:hana]]“You could have stayed.”
 
 Yurushi’s eyes met hers.
 
-“So could you have left.”
+[[speaker:black_radiance]]“So could you have left.”
 
 The old argument.
 
@@ -973,7 +973,7 @@ Haru’s eyes moved to the sealed red vial at his belt.
 
 Hana saw.
 
-“No.”
+[[speaker:hana]]“No.”
 
 Yurushi saw too.
 
