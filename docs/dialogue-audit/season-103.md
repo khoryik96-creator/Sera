@@ -1,6 +1,6 @@
 # Season 103 — unattributed dialogue
 
-375 quoted lines in this season have no speaker.
+253 quoted lines in this season have no speaker.
 See `README.md` in this folder for what to do with them.
 
 Lines already resolved show their speaker in `[brackets]` for context.
@@ -324,137 +324,17 @@ Luo looked at her.
 ### Chapter 385 — Jin Chooses One Beachhead
 
 ```
-Mo wanted the central crossing because eighteen thousand Imperial troops were already positioned to support it.
-Solveig listened to all of them.
-Then looked at Jin.
->>> “What do you want?”   <-- WHO SAYS THIS?
-Jin stood over the map.
-“One beachhead.”
-```
-```
-Then looked at Jin.
-“What do you want?”
-Jin stood over the map.
->>> “One beachhead.”   <-- WHO SAYS THIS?
-Kael frowned.
-“That is not an answer.”
-```
-```
-Jin stood over the map.
-“One beachhead.”
-Kael frowned.
->>> “That is not an answer.”   <-- WHO SAYS THIS?
-“It is the answer.”
-Jin placed one black marker beside the western coastal supply corridor.
-```
-```
-“One beachhead.”
-Kael frowned.
-“That is not an answer.”
->>> “It is the answer.”   <-- WHO SAYS THIS?
-Jin placed one black marker beside the western coastal supply corridor.
-A relatively small position.
-```
-```
-Not the biggest port.
-Not the deepest penetration.
-Not the place poets would choose.
->>> “This.”   <-- WHO SAYS THIS?
-Lei looked at it.
-“Why?”
-```
-```
-Not the place poets would choose.
-“This.”
-Lei looked at it.
->>> “Why?”   <-- WHO SAYS THIS?
-“Because Shinsei can lose the east road and reroute.”
-He moved two red lines.
-```
-```
-“This.”
-Lei looked at it.
-“Why?”
->>> “Because Shinsei can lose the east road and reroute.”   <-- WHO SAYS THIS?
-He moved two red lines.
-“Lose the north ridge and they move artillery.”
-```
-```
-“Why?”
-“Because Shinsei can lose the east road and reroute.”
-He moved two red lines.
->>> “Lose the north ridge and they move artillery.”   <-- WHO SAYS THIS?
-Another.
-“Lose one coastal fort and they still have three.”
-```
-```
-He moved two red lines.
-“Lose the north ridge and they move artillery.”
-Another.
->>> “Lose one coastal fort and they still have three.”   <-- WHO SAYS THIS?
-Then he tapped the western corridor.
-“But this position feeds Jun’s current formation, two inland medical routes and the reinforcement road connecting the southern landing to Eirik’s center.”
-```
-```
-Another.
-“Lose one coastal fort and they still have three.”
-Then he tapped the western corridor.
->>> “But this position feeds Jun’s current formation, two inland medical routes and the reinforcement road connecting the southern landing to Eirik’s center.”   <-- WHO SAYS THIS?
-Solveig leaned closer.
-Jin continued.
-```
-```
-Jin continued.
-[jin] “If we take it, they can retake it.”
-Kael looked at him.
->>> “That sounds less impressive.”   <-- WHO SAYS THIS?
-“Good. Impressive plans usually have hidden costs.”
-Arin’s mouth twitched.
-```
-```
-[jin] “If we take it, they can retake it.”
-Kael looked at him.
-“That sounds less impressive.”
->>> “Good. Impressive plans usually have hidden costs.”   <-- WHO SAYS THIS?
-Arin’s mouth twitched.
-Jin drew three arrows.
-```
-```
-“Good. Impressive plans usually have hidden costs.”
-Arin’s mouth twitched.
-Jin drew three arrows.
->>> “They can retake it. But to do so they must move troops from somewhere else. That movement is the point.”   <-- WHO SAYS THIS?
+[jin] “They can retake it. But to do so they must move troops from somewhere else. That movement is the point.”
 Solveig saw it first.
-“You’re not choosing the place we want to own.”
-```
-```
-Jin drew three arrows.
-“They can retake it. But to do so they must move troops from somewhere else. That movement is the point.”
-Solveig saw it first.
->>> “You’re not choosing the place we want to own.”   <-- WHO SAYS THIS?
-“No.”
-“You’re choosing the place they cannot ignore.”
-```
-```
-“They can retake it. But to do so they must move troops from somewhere else. That movement is the point.”
-Solveig saw it first.
-“You’re not choosing the place we want to own.”
+[solveig] “You’re not choosing the place we want to own.”
 >>> “No.”   <-- WHO SAYS THIS?
-“You’re choosing the place they cannot ignore.”
+[solveig] “You’re choosing the place they cannot ignore.”
 “Yes.”
 ```
 ```
-Solveig saw it first.
-“You’re not choosing the place we want to own.”
+[solveig] “You’re not choosing the place we want to own.”
 “No.”
->>> “You’re choosing the place they cannot ignore.”   <-- WHO SAYS THIS?
-“Yes.”
-There.
-```
-```
-“You’re not choosing the place we want to own.”
-“No.”
-“You’re choosing the place they cannot ignore.”
+[solveig] “You’re choosing the place they cannot ignore.”
 >>> “Yes.”   <-- WHO SAYS THIS?
 There.
 Not domination.
@@ -500,529 +380,106 @@ Kael raised one eyebrow.
 The colonel realized what he had said and became very interested in the table.
 ```
 ```
-Kael raised one eyebrow.
-The colonel realized what he had said and became very interested in the table.
-Sera ignored it.
->>> “Strength does not improve a supply map.”   <-- WHO SAYS THIS?
-Jin nodded solemnly.
-“Finally, recognition.”
-```
-```
-Sera ignored it.
-“Strength does not improve a supply map.”
-Jin nodded solemnly.
->>> “Finally, recognition.”   <-- WHO SAYS THIS?
-Sera looked at him.
-“Do not make me regret it.”
-```
-```
-Jin nodded solemnly.
-“Finally, recognition.”
-Sera looked at him.
->>> “Do not make me regret it.”   <-- WHO SAYS THIS?
-The room relaxed by one degree.
-Then Jin started assigning people.
-```
-```
-Not Sera.
 The colonel looked surprised again.
 Sera noticed.
->>> “Jun is Stable Paragon.”   <-- WHO SAYS THIS?
-“Yes.”
-“Kael is newly Paragon.”
-```
-```
-The colonel looked surprised again.
-Sera noticed.
-“Jun is Stable Paragon.”
+[sera] “Jun is Stable Paragon.”
 >>> “Yes.”   <-- WHO SAYS THIS?
-“Kael is newly Paragon.”
+[sera] “Kael is newly Paragon.”
 “Yes.”
 ```
 ```
-Sera noticed.
-“Jun is Stable Paragon.”
+[sera] “Jun is Stable Paragon.”
 “Yes.”
->>> “Kael is newly Paragon.”   <-- WHO SAYS THIS?
-“Yes.”
-“So Kael needs Paragon battlefield experience.”
-```
-```
-“Jun is Stable Paragon.”
-“Yes.”
-“Kael is newly Paragon.”
+[sera] “Kael is newly Paragon.”
 >>> “Yes.”   <-- WHO SAYS THIS?
-“So Kael needs Paragon battlefield experience.”
+[sera] “So Kael needs Paragon battlefield experience.”
 Kael looked at her.
-```
-```
-“Yes.”
-“Kael is newly Paragon.”
-“Yes.”
->>> “So Kael needs Paragon battlefield experience.”   <-- WHO SAYS THIS?
-Kael looked at her.
-“You are discussing me like medicine.”
-```
-```
-“Yes.”
-“So Kael needs Paragon battlefield experience.”
-Kael looked at her.
->>> “You are discussing me like medicine.”   <-- WHO SAYS THIS?
-“You survived Rhen.”
-“That sentence could mean several things.”
-```
-```
-“So Kael needs Paragon battlefield experience.”
-Kael looked at her.
-“You are discussing me like medicine.”
->>> “You survived Rhen.”   <-- WHO SAYS THIS?
-“That sentence could mean several things.”
-Jin cut in.
-```
-```
-Kael looked at her.
-“You are discussing me like medicine.”
-“You survived Rhen.”
->>> “That sentence could mean several things.”   <-- WHO SAYS THIS?
-Jin cut in.
-“Can we return to the war?”
-```
-```
-“You survived Rhen.”
-“That sentence could mean several things.”
-Jin cut in.
->>> “Can we return to the war?”   <-- WHO SAYS THIS?
-Sera nodded.
-Kael sighed.
-```
-```
-No convenient solo legend.
-Useful work.
-Xie read his assignment.
->>> “Again with messages.”   <-- WHO SAYS THIS?
-Jin looked up.
-“You are extremely fast.”
-```
-```
-Xie read his assignment.
-“Again with messages.”
-Jin looked up.
->>> “You are extremely fast.”   <-- WHO SAYS THIS?
-“I am also Wuyue No.10.”
-“Yes.”
-```
-```
-“Again with messages.”
-Jin looked up.
-“You are extremely fast.”
->>> “I am also Wuyue No.10.”   <-- WHO SAYS THIS?
-“Yes.”
-“Should that not mean something more dignified?”
 ```
 ```
 Jin looked up.
-“You are extremely fast.”
-“I am also Wuyue No.10.”
+[jin] “You are extremely fast.”
+[xie_wuchen] “I am also Wuyue No.10.”
 >>> “Yes.”   <-- WHO SAYS THIS?
-“Should that not mean something more dignified?”
-“Yun carried information across a continent.”
+[xie_wuchen] “Should that not mean something more dignified?”
+[jin] “Yun carried information across a continent.”
 ```
 ```
-“You are extremely fast.”
-“I am also Wuyue No.10.”
-“Yes.”
->>> “Should that not mean something more dignified?”   <-- WHO SAYS THIS?
-“Yun carried information across a continent.”
-Xie stopped.
-```
-```
-“I am also Wuyue No.10.”
-“Yes.”
-“Should that not mean something more dignified?”
->>> “Yun carried information across a continent.”   <-- WHO SAYS THIS?
-Xie stopped.
-Jin’s tone had not changed.
-```
-```
-“Yun carried information across a continent.”
-Xie stopped.
-Jin’s tone had not changed.
->>> “That number has already established its standard.”   <-- WHO SAYS THIS?
-Xie folded the assignment.
-“Fine.”
-```
-```
-Jin’s tone had not changed.
-“That number has already established its standard.”
-Xie folded the assignment.
->>> “Fine.”   <-- WHO SAYS THIS?
-No joke afterward.
-The room went quiet for a moment.
-```
-```
-The room went quiet for a moment.
-Then Solveig said, “When?”
-Jin looked at the western corridor.
->>> “Dawn tomorrow.”   <-- WHO SAYS THIS?
+[jin] “Dawn tomorrow.”
 Kael rested one hand on the table.
-“Jun will be there.”
-```
-```
-Jin looked at the western corridor.
-“Dawn tomorrow.”
-Kael rested one hand on the table.
->>> “Jun will be there.”   <-- WHO SAYS THIS?
-“Yes.”
-“Good.”
-```
-```
-“Dawn tomorrow.”
-Kael rested one hand on the table.
-“Jun will be there.”
+[kael] “Jun will be there.”
 >>> “Yes.”   <-- WHO SAYS THIS?
 “Good.”
 Sera looked at him.
 ```
 ```
 Kael rested one hand on the table.
-“Jun will be there.”
+[kael] “Jun will be there.”
 “Yes.”
 >>> “Good.”   <-- WHO SAYS THIS?
 Sera looked at him.
-“Do not say that like you’re happy.”
-```
-```
-“Yes.”
-“Good.”
-Sera looked at him.
->>> “Do not say that like you’re happy.”   <-- WHO SAYS THIS?
-“I am Paragon now.”
-“That did not answer me.”
-```
-```
-“Good.”
-Sera looked at him.
-“Do not say that like you’re happy.”
->>> “I am Paragon now.”   <-- WHO SAYS THIS?
-“That did not answer me.”
-Kael smiled.
-```
-```
-Sera looked at him.
-“Do not say that like you’re happy.”
-“I am Paragon now.”
->>> “That did not answer me.”   <-- WHO SAYS THIS?
-Kael smiled.
-“I want to know what it means.”
-```
-```
-“I am Paragon now.”
-“That did not answer me.”
-Kael smiled.
->>> “I want to know what it means.”   <-- WHO SAYS THIS?
-Sera understood.
-Not pride.
+[sera] “Do not say that like you’re happy.”
 ```
 
 ### Chapter 386 — Worldweight Meets Breach
 
 ```
-Formal.
-Precise.
-No wasted flourish.
->>> “Kael Veyran.”   <-- WHO SAYS THIS?
-“Jun Kajihara.”
-“You’ve seen the rule.”
-```
-```
-Precise.
-No wasted flourish.
-“Kael Veyran.”
->>> “Jun Kajihara.”   <-- WHO SAYS THIS?
-“You’ve seen the rule.”
-“Yes.”
-```
-```
-No wasted flourish.
-“Kael Veyran.”
-“Jun Kajihara.”
->>> “You’ve seen the rule.”   <-- WHO SAYS THIS?
-“Yes.”
-“Then don’t block me again.”
-```
-```
-“Kael Veyran.”
-“Jun Kajihara.”
-“You’ve seen the rule.”
+[jun] “Kael Veyran.”
+[kael] “Jun Kajihara.”
+[jun] “You’ve seen the rule.”
 >>> “Yes.”   <-- WHO SAYS THIS?
-“Then don’t block me again.”
+[jun] “Then don’t block me again.”
 Kael smiled.
 ```
 ```
-“Jun Kajihara.”
-“You’ve seen the rule.”
-“Yes.”
->>> “Then don’t block me again.”   <-- WHO SAYS THIS?
-Kael smiled.
-“Helpful.”
-```
-```
-“Yes.”
-“Then don’t block me again.”
-Kael smiled.
->>> “Helpful.”   <-- WHO SAYS THIS?
-Jun attacked.
-Kael moved.
-```
-```
-Not decorative.
-“Better,” Jun said.
-Kael laughed.
->>> “You sound disappointed.”   <-- WHO SAYS THIS?
-“I prefer opponents who learn before they die.”
-“That is almost kind.”
-```
-```
-“Better,” Jun said.
-Kael laughed.
-“You sound disappointed.”
->>> “I prefer opponents who learn before they die.”   <-- WHO SAYS THIS?
-“That is almost kind.”
-“It is practical.”
-```
-```
-Kael laughed.
-“You sound disappointed.”
-“I prefer opponents who learn before they die.”
->>> “That is almost kind.”   <-- WHO SAYS THIS?
-“It is practical.”
-There was the man beneath the invasion.
-```
-```
-“You sound disappointed.”
-“I prefer opponents who learn before they die.”
-“That is almost kind.”
->>> “It is practical.”   <-- WHO SAYS THIS?
-There was the man beneath the invasion.
-A soldier.
-```
-```
-Enough.
-Jun looked at the torn armor near his shoulder.
 Then at Kael.
->>> “You’re new.”   <-- WHO SAYS THIS?
-“To Paragon.”
-“Yes.”
-```
-```
-Jun looked at the torn armor near his shoulder.
-Then at Kael.
-“You’re new.”
->>> “To Paragon.”   <-- WHO SAYS THIS?
-“Yes.”
-“Was it obvious?”
-```
-```
-Then at Kael.
-“You’re new.”
-“To Paragon.”
+[jun] “You’re new.”
+[kael] “To Paragon.”
 >>> “Yes.”   <-- WHO SAYS THIS?
-“Was it obvious?”
-“You still think Domains are the fight.”
-```
-```
-“You’re new.”
-“To Paragon.”
-“Yes.”
->>> “Was it obvious?”   <-- WHO SAYS THIS?
-“You still think Domains are the fight.”
-Kael’s smile faded.
-```
-```
-“To Paragon.”
-“Yes.”
-“Was it obvious?”
->>> “You still think Domains are the fight.”   <-- WHO SAYS THIS?
-Kael’s smile faded.
-Jun lifted the halberd.
-```
-```
-“You still think Domains are the fight.”
-Kael’s smile faded.
-Jun lifted the halberd.
->>> “They’re the rule.”   <-- WHO SAYS THIS?
-Then he attacked with no Domain gimmick at all.
-Just twenty years of better weapon experience.
-```
-```
-Kael hit the ground hard.
-Stonecrown soldiers moved again.
-He slammed one fist into the earth.
->>> “NO.”   <-- WHO SAYS THIS?
-They stopped.
-Jun approached.
-```
-```
-“NO.”
-They stopped.
-Jun approached.
->>> “You have disciplined troops.”   <-- WHO SAYS THIS?
-“Yes.”
-“They’d save you.”
+[kael] “Was it obvious?”
+[jun] “You still think Domains are the fight.”
 ```
 ```
 They stopped.
 Jun approached.
-“You have disciplined troops.”
+[jun] “You have disciplined troops.”
 >>> “Yes.”   <-- WHO SAYS THIS?
-“They’d save you.”
+[jun] “They’d save you.”
 “No.”
 ```
 ```
-Jun approached.
-“You have disciplined troops.”
+[jun] “You have disciplined troops.”
 “Yes.”
->>> “They’d save you.”   <-- WHO SAYS THIS?
-“No.”
-“They would try.”
-```
-```
-“You have disciplined troops.”
-“Yes.”
-“They’d save you.”
+[jun] “They’d save you.”
 >>> “No.”   <-- WHO SAYS THIS?
-“They would try.”
+[jun] “They would try.”
 Kael stood.
-```
-```
-“Yes.”
-“They’d save you.”
-“No.”
->>> “They would try.”   <-- WHO SAYS THIS?
-Kael stood.
-His left arm hung wrong.
-```
-```
-His left arm hung wrong.
-Worldweight pulsed beneath the road.
-He looked at Jun.
->>> “This is my fight.”   <-- WHO SAYS THIS?
-Jun’s expression did not change.
-“That is usually what men say before getting others killed.”
-```
-```
-He looked at Jun.
-“This is my fight.”
-Jun’s expression did not change.
->>> “That is usually what men say before getting others killed.”   <-- WHO SAYS THIS?
-Kael’s eyes hardened.
-“Then watch.”
-```
-```
-Jun’s expression did not change.
-“That is usually what men say before getting others killed.”
-Kael’s eyes hardened.
->>> “Then watch.”   <-- WHO SAYS THIS?
-He stopped blocking.
-Completely.
-```
-```
-It was the battlefield in which victory became possible.
-Jun saw that understanding arrive.
-For the first time, he looked pleased.
->>> “Now you’re Paragon.”   <-- WHO SAYS THIS?
-Then **Third Wall Falls** began.
-Three escalating halberd attacks.
-```
-```
-Then nearly fell over.
-A Stonecrown captain caught him.
-Kael glared.
->>> “You were told to stay out.”   <-- WHO SAYS THIS?
-“The fight is over.”
-Kael considered that.
 ```
 ```
 A Stonecrown captain caught him.
 Kael glared.
-“You were told to stay out.”
+[kael] “You were told to stay out.”
 >>> “The fight is over.”   <-- WHO SAYS THIS?
 Kael considered that.
-“Annoyingly valid.”
-```
-```
-“You were told to stay out.”
-“The fight is over.”
-Kael considered that.
->>> “Annoyingly valid.”   <-- WHO SAYS THIS?
-Behind them, Wuyue banners pushed into the western corridor.
-The first beachhead was falling.
+[kael] “Annoyingly valid.”
 ```
 
 ### Chapter 387 — Kael Wins His First Paragon Fight
 
 ```
-Kael woke up angry because somebody had removed his armor.
-Luo Wen looked at him.
->>> “You were bleeding inside it.”   <-- WHO SAYS THIS?
-“That is not permission.”
-“It is exactly permission.”
-```
-```
-Kael woke up angry because somebody had removed his armor.
-Luo Wen looked at him.
-“You were bleeding inside it.”
->>> “That is not permission.”   <-- WHO SAYS THIS?
-“It is exactly permission.”
-Kael tried to sit.
-```
-```
-Luo Wen looked at him.
-“You were bleeding inside it.”
-“That is not permission.”
->>> “It is exactly permission.”   <-- WHO SAYS THIS?
-Kael tried to sit.
-Pain stopped him.
-```
-```
-Luo pushed him flat with two fingers.
 The public Number One stared at him.
 Luo stared back.
->>> “You are newly Paragon.”   <-- WHO SAYS THIS?
-“Yes.”
-“You are not newly sensible.”
-```
-```
-The public Number One stared at him.
-Luo stared back.
-“You are newly Paragon.”
+[luo] “You are newly Paragon.”
 >>> “Yes.”   <-- WHO SAYS THIS?
-“You are not newly sensible.”
+[luo] “You are not newly sensible.”
 “No.”
 ```
 ```
-Luo stared back.
-“You are newly Paragon.”
+[luo] “You are newly Paragon.”
 “Yes.”
->>> “You are not newly sensible.”   <-- WHO SAYS THIS?
-“No.”
-“Good. Diagnostic complete.”
-```
-```
-“You are newly Paragon.”
-“Yes.”
-“You are not newly sensible.”
+[luo] “You are not newly sensible.”
 >>> “No.”   <-- WHO SAYS THIS?
-“Good. Diagnostic complete.”
+[luo] “Good. Diagnostic complete.”
 Kael closed his eyes.
-```
-```
-“Yes.”
-“You are not newly sensible.”
-“No.”
->>> “Good. Diagnostic complete.”   <-- WHO SAYS THIS?
-Kael closed his eyes.
-The medical tent around them shook faintly under distant artillery.
 ```
 ```
 Varok’s mobile command was already screening the northern flank.
@@ -1030,108 +487,20 @@ Jin’s one-beachhead strategy had become a battlefield rather than a theory.
 Kael opened his eyes.
 >>> “Status.”   <-- WHO SAYS THIS?
 Luo kept wrapping his shoulder.
-“Jun defeated.”
+[luo] “Jun defeated.”
 ```
 ```
-Kael opened his eyes.
-“Status.”
-Luo kept wrapping his shoulder.
->>> “Jun defeated.”   <-- WHO SAYS THIS?
-“I remember.”
-“Congratulations.”
-```
-```
-“Status.”
-Luo kept wrapping his shoulder.
-“Jun defeated.”
->>> “I remember.”   <-- WHO SAYS THIS?
-“Congratulations.”
-“That sounded insincere.”
-```
-```
-Luo kept wrapping his shoulder.
-“Jun defeated.”
-“I remember.”
->>> “Congratulations.”   <-- WHO SAYS THIS?
-“That sounded insincere.”
-“It was sincere until you tried to stand.”
-```
-```
-“Jun defeated.”
-“I remember.”
-“Congratulations.”
->>> “That sounded insincere.”   <-- WHO SAYS THIS?
-“It was sincere until you tried to stand.”
-“Status.”
-```
-```
-“I remember.”
-“Congratulations.”
-“That sounded insincere.”
->>> “It was sincere until you tried to stand.”   <-- WHO SAYS THIS?
-“Status.”
-Luo sighed.
-```
-```
-“Congratulations.”
-“That sounded insincere.”
-“It was sincere until you tried to stand.”
+[luo] “Congratulations.”
+[kael] “That sounded insincere.”
+[luo] “It was sincere until you tried to stand.”
 >>> “Status.”   <-- WHO SAYS THIS?
 Luo sighed.
-“Position mostly ours. Shinsei withdrawing from two secondary depots. We captured prisoners and Axtaya stores. Sera has not fought.”
+[luo] “Position mostly ours. Shinsei withdrawing from two secondary depots. We captured prisoners and Axtaya stores. Sera has not fought.”
 ```
 ```
-“It was sincere until you tried to stand.”
-“Status.”
-Luo sighed.
->>> “Position mostly ours. Shinsei withdrawing from two secondary depots. We captured prisoners and Axtaya stores. Sera has not fought.”   <-- WHO SAYS THIS?
-Kael looked at him.
-“Why did you say that last part?”
-```
-```
-Luo sighed.
-“Position mostly ours. Shinsei withdrawing from two secondary depots. We captured prisoners and Axtaya stores. Sera has not fought.”
-Kael looked at him.
->>> “Why did you say that last part?”   <-- WHO SAYS THIS?
-“Because I know you.”
-Kael frowned.
-```
-```
-“Position mostly ours. Shinsei withdrawing from two secondary depots. We captured prisoners and Axtaya stores. Sera has not fought.”
-Kael looked at him.
-“Why did you say that last part?”
->>> “Because I know you.”   <-- WHO SAYS THIS?
-Kael frowned.
-“I wasn’t going to ask.”
-```
-```
-“Why did you say that last part?”
-“Because I know you.”
-Kael frowned.
->>> “I wasn’t going to ask.”   <-- WHO SAYS THIS?
-“You were going to ask whether she needed to intervene.”
-“That is different.”
-```
-```
-“Because I know you.”
-Kael frowned.
-“I wasn’t going to ask.”
->>> “You were going to ask whether she needed to intervene.”   <-- WHO SAYS THIS?
-“That is different.”
-“No.”
-```
-```
-Kael frowned.
-“I wasn’t going to ask.”
-“You were going to ask whether she needed to intervene.”
->>> “That is different.”   <-- WHO SAYS THIS?
-“No.”
-Kael let his head fall back.
-```
-```
-“I wasn’t going to ask.”
-“You were going to ask whether she needed to intervene.”
-“That is different.”
+[kael] “I wasn’t going to ask.”
+[luo] “You were going to ask whether she needed to intervene.”
+[kael] “That is different.”
 >>> “No.”   <-- WHO SAYS THIS?
 Kael let his head fall back.
 There had been a time when being Wuyue’s public Number One meant everyone expected him to be the answer in every room.
@@ -1150,79 +519,31 @@ Luo noticed.
 “What?”
 >>> “I won.”   <-- WHO SAYS THIS?
 “Yes.”
-“My first Paragon fight.”
+[kael] “My first Paragon fight.”
 ```
 ```
 Luo noticed.
 “What?”
 “I won.”
 >>> “Yes.”   <-- WHO SAYS THIS?
-“My first Paragon fight.”
+[kael] “My first Paragon fight.”
 “Yes.”
-```
-```
-“What?”
-“I won.”
-“Yes.”
->>> “My first Paragon fight.”   <-- WHO SAYS THIS?
-“Yes.”
-“I won.”
 ```
 ```
 “I won.”
 “Yes.”
-“My first Paragon fight.”
+[kael] “My first Paragon fight.”
 >>> “Yes.”   <-- WHO SAYS THIS?
 “I won.”
 Luo tied the bandage harder than necessary.
 ```
 ```
 “Yes.”
-“My first Paragon fight.”
+[kael] “My first Paragon fight.”
 “Yes.”
 >>> “I won.”   <-- WHO SAYS THIS?
 Luo tied the bandage harder than necessary.
 Kael hissed.
-```
-```
-“I won.”
-Luo tied the bandage harder than necessary.
-Kael hissed.
->>> “Arrogance causes swelling.”   <-- WHO SAYS THIS?
-“That is medically false.”
-“I am the physician.”
-```
-```
-Luo tied the bandage harder than necessary.
-Kael hissed.
-“Arrogance causes swelling.”
->>> “That is medically false.”   <-- WHO SAYS THIS?
-“I am the physician.”
-“You’re abusing authority.”
-```
-```
-Kael hissed.
-“Arrogance causes swelling.”
-“That is medically false.”
->>> “I am the physician.”   <-- WHO SAYS THIS?
-“You’re abusing authority.”
-“Correct.”
-```
-```
-“Arrogance causes swelling.”
-“That is medically false.”
-“I am the physician.”
->>> “You’re abusing authority.”   <-- WHO SAYS THIS?
-“Correct.”
-Outside, soldiers began shouting.
-```
-```
-“That is medically false.”
-“I am the physician.”
-“You’re abusing authority.”
->>> “Correct.”   <-- WHO SAYS THIS?
-Outside, soldiers began shouting.
-Not alarm.
 ```
 ```
 Not alarm.
@@ -1233,152 +554,24 @@ Luo listened.
 The sound spread.
 ```
 ```
-Then Sera entered.
-Kael looked at her.
-She looked at the bandages.
->>> “You look terrible.”   <-- WHO SAYS THIS?
-“Victory is ugly.”
-“You lost half your shoulder function.”
-```
-```
-Kael looked at her.
-She looked at the bandages.
-“You look terrible.”
->>> “Victory is ugly.”   <-- WHO SAYS THIS?
-“You lost half your shoulder function.”
-“Temporary.”
-```
-```
-She looked at the bandages.
-“You look terrible.”
-“Victory is ugly.”
->>> “You lost half your shoulder function.”   <-- WHO SAYS THIS?
-“Temporary.”
-Luo said, “If he behaves.”
-```
-```
-“You look terrible.”
-“Victory is ugly.”
-“You lost half your shoulder function.”
->>> “Temporary.”   <-- WHO SAYS THIS?
-Luo said, “If he behaves.”
-Sera nodded.
-```
-```
-“Temporary.”
-Luo said, “If he behaves.”
-Sera nodded.
->>> “So permanent.”   <-- WHO SAYS THIS?
-Kael glared at both.
-Then asked, “Beachhead?”
-```
-```
-“So permanent.”
-Kael glared at both.
-Then asked, “Beachhead?”
->>> “Ours for now.”   <-- WHO SAYS THIS?
-“For now.”
-Sera walked to the small field map.
-```
-```
-Kael glared at both.
-Then asked, “Beachhead?”
-“Ours for now.”
->>> “For now.”   <-- WHO SAYS THIS?
-Sera walked to the small field map.
-“Jin was right. Shinsei has started moving reserves toward it.”
-```
-```
-“Ours for now.”
-“For now.”
-Sera walked to the small field map.
->>> “Jin was right. Shinsei has started moving reserves toward it.”   <-- WHO SAYS THIS?
-Kael smiled.
-“So the point wasn’t the point.”
-```
-```
-Sera walked to the small field map.
-“Jin was right. Shinsei has started moving reserves toward it.”
-Kael smiled.
->>> “So the point wasn’t the point.”   <-- WHO SAYS THIS?
-“Exactly.”
-“What did we capture?”
-```
-```
-“Jin was right. Shinsei has started moving reserves toward it.”
-Kael smiled.
-“So the point wasn’t the point.”
->>> “Exactly.”   <-- WHO SAYS THIS?
-“What did we capture?”
-“Axtaya. Supply records. Seventy-three prisoners so far, more surrendering.”
-```
-```
-Kael smiled.
-“So the point wasn’t the point.”
-“Exactly.”
->>> “What did we capture?”   <-- WHO SAYS THIS?
-“Axtaya. Supply records. Seventy-three prisoners so far, more surrendering.”
 Kael’s expression sharpened.
-```
-```
-“So the point wasn’t the point.”
-“Exactly.”
-“What did we capture?”
->>> “Axtaya. Supply records. Seventy-three prisoners so far, more surrendering.”   <-- WHO SAYS THIS?
-Kael’s expression sharpened.
-“Treatment?”
-```
-```
-“What did we capture?”
-“Axtaya. Supply records. Seventy-three prisoners so far, more surrendering.”
-Kael’s expression sharpened.
->>> “Treatment?”   <-- WHO SAYS THIS?
-“The same as ours.”
-“Good.”
-```
-```
-“Axtaya. Supply records. Seventy-three prisoners so far, more surrendering.”
-Kael’s expression sharpened.
-“Treatment?”
->>> “The same as ours.”   <-- WHO SAYS THIS?
-“Good.”
-Sera looked at him.
-```
-```
-Kael’s expression sharpened.
-“Treatment?”
-“The same as ours.”
+[kael] “Treatment?”
+[sera] “The same as ours.”
 >>> “Good.”   <-- WHO SAYS THIS?
 Sera looked at him.
-“Jun?”
-```
-```
-“The same as ours.”
-“Good.”
-Sera looked at him.
->>> “Jun?”   <-- WHO SAYS THIS?
-[luo] “Alive when extracted from the field,” Luo said. “Severe internal trauma. One arm damaged. Multiple meridian disruptions. Shinsei recovery team reached him during their withdrawal.”
-Kael frowned.
-```
-```
-“Jun?”
-[luo] “Alive when extracted from the field,” Luo said. “Severe internal trauma. One arm damaged. Multiple meridian disruptions. Shinsei recovery team reached him during their withdrawal.”
-Kael frowned.
->>> “They took him.”   <-- WHO SAYS THIS?
-“Yes.”
-“Good.”
+[sera] “Jun?”
 ```
 ```
 [luo] “Alive when extracted from the field,” Luo said. “Severe internal trauma. One arm damaged. Multiple meridian disruptions. Shinsei recovery team reached him during their withdrawal.”
 Kael frowned.
-“They took him.”
+[kael] “They took him.”
 >>> “Yes.”   <-- WHO SAYS THIS?
 “Good.”
 Sera raised an eyebrow.
 ```
 ```
 Kael frowned.
-“They took him.”
+[kael] “They took him.”
 “Yes.”
 >>> “Good.”   <-- WHO SAYS THIS?
 Sera raised an eyebrow.
@@ -1389,208 +582,40 @@ Kael looked at her.
 Sera raised an eyebrow.
 Kael looked at her.
 >>> “What?”   <-- WHO SAYS THIS?
-“You wanted him dead?”
+[sera] “You wanted him dead?”
 “No.”
-```
-```
-Sera raised an eyebrow.
-Kael looked at her.
-“What?”
->>> “You wanted him dead?”   <-- WHO SAYS THIS?
-“No.”
-“Then good.”
 ```
 ```
 Kael looked at her.
 “What?”
-“You wanted him dead?”
+[sera] “You wanted him dead?”
 >>> “No.”   <-- WHO SAYS THIS?
-“Then good.”
+[sera] “Then good.”
 Kael considered that.
 ```
 ```
-“What?”
-“You wanted him dead?”
-“No.”
->>> “Then good.”   <-- WHO SAYS THIS?
-Kael considered that.
-“Annoyingly reasonable.”
-```
-```
-“No.”
-“Then good.”
-Kael considered that.
->>> “Annoyingly reasonable.”   <-- WHO SAYS THIS?
-Sera’s gaze stayed on him.
-“You learned something?”
-```
-```
-Kael considered that.
-“Annoyingly reasonable.”
-Sera’s gaze stayed on him.
->>> “You learned something?”   <-- WHO SAYS THIS?
-Kael looked at his useless shoulder.
-“Several things.”
-```
-```
-Sera’s gaze stayed on him.
-“You learned something?”
-Kael looked at his useless shoulder.
->>> “Several things.”   <-- WHO SAYS THIS?
-“About Breach?”
-“About Paragon.”
-```
-```
-“You learned something?”
-Kael looked at his useless shoulder.
-“Several things.”
->>> “About Breach?”   <-- WHO SAYS THIS?
-“About Paragon.”
-That answer satisfied her more.
-```
-```
-Kael looked at his useless shoulder.
-“Several things.”
-“About Breach?”
->>> “About Paragon.”   <-- WHO SAYS THIS?
-That answer satisfied her more.
-He continued.
-```
-```
-“About Paragon.”
-That answer satisfied her more.
-He continued.
->>> “Jun said Domains are the rule, not the fight.”   <-- WHO SAYS THIS?
-Sera nodded.
-“He’s right.”
-```
-```
-He continued.
-“Jun said Domains are the rule, not the fight.”
-Sera nodded.
->>> “He’s right.”   <-- WHO SAYS THIS?
+[sera] “He’s right.”
 Kael looked at her.
-“You already knew.”
-```
-```
-Sera nodded.
-“He’s right.”
-Kael looked at her.
->>> “You already knew.”   <-- WHO SAYS THIS?
-“Yes.”
-“You could have told me.”
-```
-```
-“He’s right.”
-Kael looked at her.
-“You already knew.”
+[kael] “You already knew.”
 >>> “Yes.”   <-- WHO SAYS THIS?
-“You could have told me.”
-“I did.”
-```
-```
-Kael looked at her.
-“You already knew.”
-“Yes.”
->>> “You could have told me.”   <-- WHO SAYS THIS?
-“I did.”
-“When?”
-```
-```
-“You already knew.”
-“Yes.”
-“You could have told me.”
->>> “I did.”   <-- WHO SAYS THIS?
-“When?”
-“Repeatedly.”
-```
-```
-“Yes.”
-“You could have told me.”
-“I did.”
->>> “When?”   <-- WHO SAYS THIS?
-“Repeatedly.”
-Kael searched memory.
-```
-```
-“You could have told me.”
-“I did.”
-“When?”
->>> “Repeatedly.”   <-- WHO SAYS THIS?
-Kael searched memory.
-Unfortunately, she was correct.
-```
-```
-Sera almost smiled.
-Then the tent flap opened.
-Jin entered carrying three captured ledgers.
->>> “Enjoying yourself?”   <-- WHO SAYS THIS?
-“No.”
-“You look happy.”
+[kael] “You could have told me.”
+[sera] “I did.”
 ```
 ```
 Then the tent flap opened.
 Jin entered carrying three captured ledgers.
-“Enjoying yourself?”
+[jin] “Enjoying yourself?”
 >>> “No.”   <-- WHO SAYS THIS?
-“You look happy.”
-“I am injured.”
+[jin] “You look happy.”
+[kael] “I am injured.”
 ```
 ```
-Jin entered carrying three captured ledgers.
-“Enjoying yourself?”
-“No.”
->>> “You look happy.”   <-- WHO SAYS THIS?
-“I am injured.”
-“Those can coexist.”
-```
-```
-“Enjoying yourself?”
-“No.”
-“You look happy.”
->>> “I am injured.”   <-- WHO SAYS THIS?
-“Those can coexist.”
-Kael pointed at the ledgers.
-```
-```
-“No.”
-“You look happy.”
-“I am injured.”
->>> “Those can coexist.”   <-- WHO SAYS THIS?
-Kael pointed at the ledgers.
-“What?”
-```
-```
-“I am injured.”
-“Those can coexist.”
+[kael] “I am injured.”
+[jin] “Those can coexist.”
 Kael pointed at the ledgers.
 >>> “What?”   <-- WHO SAYS THIS?
 Jin’s expression changed.
-“Redline distribution records.”
-```
-```
-Kael pointed at the ledgers.
-“What?”
-Jin’s expression changed.
->>> “Redline distribution records.”   <-- WHO SAYS THIS?
-Luo stood immediately.
-The humor disappeared.
-```
-```
-Luo stood immediately.
-The humor disappeared.
-Jin placed the first book on the table.
->>> “We knew Axtaya was military.”   <-- WHO SAYS THIS?
-He opened it.
-Rows.
-```
-```
-Not black-market vials.
-Not rare emergency stocks.
-System.
->>> “We did not know how normal they intend to make it.”   <-- WHO SAYS THIS?
-Luo reached for the ledger.
-Sera’s eyes hardened.
+[jin] “Redline distribution records.”
 ```
 
 ### Chapter 388 — Wuyue Takes Prisoners
