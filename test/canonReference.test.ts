@@ -1,5 +1,5 @@
 import { describe, expect, it } from 'vitest';
-import rawData from '../src/data.json';
+import rawData from '../src/data';
 import { restoredCanonReferences } from '../src/canonReference';
 import { normalizeDatabase } from '../src/db';
 import type { RawDatabase } from '../src/types';
@@ -18,7 +18,7 @@ describe('restored React canon references', () => {
     expect(titles).toContain('Duke / Marquis Structure');
   });
 
-  it('does not duplicate canon-rule titles already owned by data.json', () => {
+  it('does not duplicate canon-rule titles already owned by lore.json', () => {
     const currentTitles = new Set((data.canonRules || []).map((rule) => rule.title));
     expect(restoredCanonReferences.filter((rule) => currentTitles.has(rule.title))).toEqual([]);
   });

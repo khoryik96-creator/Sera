@@ -1,5 +1,5 @@
 import { describe, it, expect, beforeAll } from 'vitest';
-import data from '../src/data.json';
+import data from '../src/data';
 import { setDB } from '../src/db';
 import { renderNovel, rankForStory, artLore } from '../src/novel';
 import type { RawDatabase } from '../src/types';

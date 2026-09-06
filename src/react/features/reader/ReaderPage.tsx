@@ -272,7 +272,7 @@ export function ReaderPage({ season, episode, onBack, onOpenChapter }: ReaderPag
   const arcIndex = EPISODE_ARCS.findIndex((arc) => arc.seasons.some((entry) => entry.season === season));
   const arc = EPISODE_ARCS[Math.max(0, arcIndex)];
   const loreEntry = loreKey ? characterRegistry.find((entry) => entry.key === loreKey) : undefined;
-  // A registry key and its data.json profile key can differ (registry "luo" vs
+  // A registry key and its lore.json profile key can differ (registry "luo" vs
   // profile "wen"), so fall back to a display-name match. Without it the card
   // fell back to a stale season-cast snapshot and "Open full profile" navigated
   // to a key the Characters page cannot resolve, silently opening the wrong one.
@@ -282,7 +282,7 @@ export function ReaderPage({ season, episode, onBack, onOpenChapter }: ReaderPag
       : Object.keys(DB.characters).find((key) => cleanCharacterName(DB.characters[key].name) === loreEntry?.displayName))
     : undefined;
   const loreProfile = loreProfileKey ? DB.characters[loreProfileKey] : undefined;
-  // The Shinsei Guild roster lives in shinrinData.ts rather than data.json, so
+  // The Shinsei Guild roster lives in shinrinData.ts rather than lore.json, so
   // fall back to it here — otherwise every Shinsei name in the final arc opened
   // a card of generic placeholders ("Referenced figure", "Not formally rated").
   const loreArcFigure = loreKey

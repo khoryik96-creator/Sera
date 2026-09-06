@@ -52,7 +52,10 @@ src/
       characterInsights.ts       derived character links/appearances
     styles/                      shell + feature-owned responsive styles
   db.ts                          core lore loader / normalization
-  data.json                      canonical lore database
+  data/
+    lore.json                    canonical structured lore (characters, skills, ranks, ...)
+    seasons/season-NNN.json      one authoring file per season of prose
+    index.ts                     test-facing recomposed view of the two above
   seasonStore.ts                 independently loaded season cache
   readingProgress.ts             device-local story progress model
   readingInsights.ts             device-local progress/activity calculations

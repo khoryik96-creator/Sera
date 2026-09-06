@@ -1,5 +1,5 @@
 import { beforeAll, describe, expect, it } from 'vitest';
-import rawData from '../src/data.json';
+import rawData from '../src/data';
 import { normalizeDatabase, setDB } from '../src/db';
 import { characterAliases, characterAppearanceSeasons, rankJourney, relatedCharacters } from '../src/react/shared/characterInsights';
 import { TOTAL_SEASONS } from '../src/episodeMeta';

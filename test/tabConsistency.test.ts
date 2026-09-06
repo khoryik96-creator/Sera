@@ -1,5 +1,5 @@
 import { describe, expect, it } from 'vitest';
-import rawData from '../src/data.json';
+import rawData from '../src/data';
 import type { RawDatabase } from '../src/types';
 import { orchidHierarchy } from '../src/react/features/teahouse/teahouseData';
 
@@ -7,7 +7,7 @@ const data = rawData as unknown as RawDatabase;
 
 // Rhen and Sera are the two characters whose signature arts are authored in
 // TWO independent places: the Characters / Arts & Techniques tabs read
-// data.json (rhenSkills / seraSkills), while the Quaint Teahouse tab reads
+// lore.json (rhenSkills / seraSkills), while the Quaint Teahouse tab reads
 // teahouseData.ts (orchidHierarchy). Nothing structurally forces the two
 // lists to agree, so a skill added to one tab can silently go missing on the
 // other (this is exactly how "Monarch's Winter Law" first shipped on the
@@ -19,7 +19,7 @@ function teahouseMember(key: string) {
   return member!;
 }
 
-describe('cross-tab skill consistency (data.json ⇄ teahouseData)', () => {
+describe('cross-tab skill consistency (lore.json ⇄ teahouseData)', () => {
   it('shows every one of Rhen’s rhenSkills arts on the Teahouse tab', () => {
     const rhenArtNames = new Set((teahouseMember('rhen').arts ?? []).map((a) => a.name.trim()));
     const missing = data.rhenSkills.map((s) => s.name.trim()).filter((name) => !rhenArtNames.has(name));

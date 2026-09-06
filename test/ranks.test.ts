@@ -1,5 +1,5 @@
 import { describe, it, expect } from 'vitest';
-import rawData from '../src/data.json';
+import rawData from '../src/data';
 import { normalizeDatabase } from '../src/db';
 import { rankColorKey, rankBadgeTone, rankBadgeLabel } from '../src/ranks';
 import type { RawDatabase } from '../src/types';

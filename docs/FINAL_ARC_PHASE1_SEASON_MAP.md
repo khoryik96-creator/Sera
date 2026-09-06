@@ -16,7 +16,7 @@
 >
 > Older Shinrin character/roster documents contain superseded rank and tier values. For present-day final-arc power levels, the later continuity locks win. In particular, **Shunto Takamori is Shinsei No.2 / High Paragon** during Yun's route.
 >
-> **Reader status:** finished runtime prose still ends at Season 94. Phase I is not yet written into `src/data.json`; this is the chapter-by-chapter writing map.
+> **Reader status:** finished runtime prose still ends at Season 94. Phase I is not yet written into `src/data/seasons/`; this is the chapter-by-chapter writing map.
 
 ---
 

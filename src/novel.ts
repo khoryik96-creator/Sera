@@ -102,7 +102,7 @@ function knownArts(): ArtInfo[] {
     }
   }
   // The Shinsei Guild roster is authored in TypeScript (shinrinData.ts) rather
-  // than in data.json, so its named arts were invisible here: every Shinsei
+  // than in lore.json, so its named arts were invisible here: every Shinsei
   // technique in the final-arc prose rendered as plain text and could not be
   // clicked for its mini-card. Feed them through the same pipeline. A Paragon
   // Domain is a character's top-tier signature art, so it is toned like the

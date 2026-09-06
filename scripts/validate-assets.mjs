@@ -1,10 +1,13 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
+import { loadLore } from './load-authoring-data.mjs';
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const assetsDir = path.join(root, 'src', 'assets');
-const data = JSON.parse(fs.readFileSync(path.join(root, 'src', 'data.json'), 'utf8'));
+// Portrait keys are validated against structured lore only, so this reads
+// src/data/lore.json rather than recomposing every season's prose.
+const data = await loadLore();
 const allowedExt = new Set(['.jpg', '.jpeg', '.png', '.webp']);
 const expectedCore = ['rhen', 'sera', 'kael', 'liang', 'jin', 'lei', 'rui', 'ilyra', 'mo', 'arin', 'wen', 'yun', 'qin', 'han'];
 const errors = [];

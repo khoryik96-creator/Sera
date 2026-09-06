@@ -1,5 +1,5 @@
 import { describe, expect, it } from 'vitest';
-import rawData from '../src/data.json';
+import rawData from '../src/data';
 import type { RawDatabase } from '../src/types';
 import { rankStatus, rankStatusForEntry } from '../src/react/shared/rankState';
 import { rankColorKey } from '../src/ranks';

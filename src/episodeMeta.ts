@@ -7,7 +7,7 @@ const season = (season: number, title: string, badge: string): EpisodeSeasonMeta
   hasCast: season >= 4,
 });
 
-/** Canonical archive structure. Episode prose remains in data.json. */
+/** Canonical archive structure. Episode prose remains in src/data/seasons. */
 export const EPISODE_ARCS: EpisodeArcMeta[] = [
   {
     title: 'Arc I — The Quiet Regular',

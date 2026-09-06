@@ -1,7 +1,7 @@
 import { readFileSync } from 'node:fs';
 import { resolve } from 'node:path';
 import { describe, it, expect } from 'vitest';
-import rawData from '../src/data.json';
+import rawData from '../src/data';
 import { characterRegistry, colorKeyItems } from '../src/characterRegistry';
 import { characterImageMap, characterExtraImages } from '../src/images';
 import type { RawDatabase } from '../src/types';

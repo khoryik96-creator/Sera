@@ -10,7 +10,7 @@ import type { RawCoreDatabase } from '../src/types';
 
 setDB(core as unknown as RawCoreDatabase);
 
-// The Shinsei roster is authored in shinrinData.ts rather than data.json. Until
+// The Shinsei roster is authored in shinrinData.ts rather than lore.json. Until
 // it was wired into the renderer, every Shinsei art in the final arc rendered as
 // plain text and every Shinsei name opened a card of generic placeholders.
 describe('final-arc highlighting and click-through', () => {
@@ -50,7 +50,7 @@ describe('final-arc highlighting and click-through', () => {
   });
 
   it('reaches Luo Wen’s profile despite the registry/profile key difference', () => {
-    // Registry key is "luo"; the data.json profile key is "wen".
+    // Registry key is "luo"; the lore.json profile key is "wen".
     expect(DB.characters.luo).toBeUndefined();
     const entry = characterRegistry.find((item) => item.key === 'luo');
     const resolved = Object.keys(DB.characters).find((key) => cleanCharacterName(DB.characters[key].name) === entry?.displayName);

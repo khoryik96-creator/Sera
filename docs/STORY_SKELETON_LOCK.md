@@ -4,7 +4,7 @@
 >
 > This document is owned by the ChatGPT story-planning workflow with the user. Claude, Codex, and other technical/architecture agents may read it for context, but **must not edit, rewrite, reinterpret, expand, migrate, summarize away, or implement its contents into story/canon/runtime data unless the user explicitly instructs that story implementation may begin.**
 >
-> Do not modify `src/data.json`, season/chapter prose, canon entries, character profiles, techniques data, timelines, rankings, or UI content from this file merely because the file exists.
+> Do not modify `src/data/lore.json`, `src/data/seasons/season-NNN.json` season/chapter prose, canon entries, character profiles, techniques data, timelines, rankings, or UI content from this file merely because the file exists.
 
 ## Contents
 

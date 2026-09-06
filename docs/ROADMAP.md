@@ -12,7 +12,7 @@ This file is the source of truth for product-development status on the Sera / Th
 6. Keep `react-preview.html` only as the tested historical-link compatibility alias unless explicitly instructed otherwise.
 7. Do not change portrait/image assets during architecture/UI work unless the user explicitly asks for portrait changes.
 8. Do not rewrite story/canon prose as part of reader architecture or UI work.
-9. Reuse canonical sources (`src/data.json`, generated season/search data, registry/rank helpers, Reader Library state) instead of creating duplicate lore/state stores.
+9. Reuse canonical sources (`src/data/lore.json`, `src/data/seasons/`, generated season/search data, registry/rank helpers, Reader Library state) instead of creating duplicate lore/state stores.
 10. When this roadmap reaches the end, **do not invent another major refactor automatically**. Present concrete options and wait for user direction.
 
 ## Current production baseline

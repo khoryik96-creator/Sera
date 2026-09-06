@@ -2,7 +2,7 @@ import type { CanonRule } from './types';
 
 /**
  * Stable reference rules that existed in the tested legacy Canon panel but are
- * not represented in data.json's newer arc-specific canonRules collection.
+ * not represented in lore.json's newer arc-specific canonRules collection.
  * Keep this list limited to evergreen setting/story constraints; archive UI
  * behavior and obsolete season-specific notes do not belong here.
  */

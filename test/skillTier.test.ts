@@ -1,5 +1,5 @@
 import { describe, it, expect } from 'vitest';
-import rawData from '../src/data.json';
+import rawData from '../src/data';
 import { powerTier, powerTierFromRating } from '../src/react/shared/skillTier';
 import type { RawDatabase } from '../src/types';
 

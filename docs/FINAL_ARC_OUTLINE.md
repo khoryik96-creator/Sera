@@ -1645,7 +1645,7 @@ The conspiracy version should end with:
 Until the approval gates above are resolved:
 
 - this document may be expanded, rearranged and debated;
-- no proposed antagonist name, motive, sponsor or chapter event should be copied into `src/data.json` as finished canon;
+- no proposed antagonist name, motive, sponsor or chapter event should be copied into the authoring data under `src/data/` as finished canon;
 - no Season 95 prose should imply the conspiracy premise was already locked at Chapter 300;
 - GitHub `main` remains the source of truth for inherited continuity;
 - once the user approves the final-arc foundation, this document can be converted from a planning skeleton into the same locked production role that `WHEN_WUYUE_MARCHES_NORTH_OUTLINE.md` served for Seasons 85–94.

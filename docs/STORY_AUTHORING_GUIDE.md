@@ -1,6 +1,6 @@
 # Story Authoring Guide — reader formatting contract
 
-This guide is for whoever writes chapter prose into `src/data.json` (the ChatGPT
+This guide is for whoever writes chapter prose into `src/data/seasons/season-NNN.json` (the ChatGPT
 story workflow). It documents **how the reader turns prose into styled output** —
 coloured character names with rank badges, tier-symbol skill styling, dialogue
 cards and bold — so new chapters render the same way the existing ones do.
@@ -65,7 +65,7 @@ Rules:
 The reader styles a **named art** inline wherever it appears — a tier symbol
 (`Ω` Ultimate · `✦` Supreme · `◆` Transcended · `✧` Named) plus a tier colour and
 hover label. This is driven by the **skill data** (`topSkills`, `rhenSkills`,
-`seraSkills` in `src/data.json`) — every art registered there styles automatically
+`seraSkills` in `src/data/lore.json`) — every art registered there styles automatically
 in prose.
 
 - **Write an art's name exactly as it appears in the skill data** — same words,

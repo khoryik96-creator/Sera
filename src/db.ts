@@ -6,7 +6,7 @@ export let DB: Database;
 
 /**
  * Adopt loaded core lore as the runtime Database. Rows are stored as named
- * objects in src/data.json, so this is an identity bridge; it remains the
+ * objects in src/data/lore.json, so this is an identity bridge; it remains the
  * single entry point the app and tests call when taking on freshly loaded data.
  */
 export function normalizeDatabase(raw: RawCoreDatabase): Database {
