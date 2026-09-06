@@ -9,8 +9,15 @@ const raw = rawData as unknown as RawDatabase;
 const data = normalizeDatabase(raw);
 
 describe('data integrity', () => {
-  it('has every canonical season as a non-empty array', () => {
-    for (let season = 1; season <= TOTAL_SEASONS; season++) {
+  it('keeps legacy src/data.json seasons contiguous while generated sources extend the archive', () => {
+    const sourceSeasons = Object.keys(raw)
+      .filter((key) => /^season\d+$/.test(key))
+      .map((key) => Number(key.slice(6)))
+      .sort((a, b) => a - b);
+    const expected = Array.from({ length: sourceSeasons.at(-1) || 0 }, (_, index) => index + 1);
+    expect(sourceSeasons).toEqual(expected);
+    expect(sourceSeasons.at(-1)).toBeLessThanOrEqual(TOTAL_SEASONS);
+    for (const season of sourceSeasons) {
       const episodes = raw[`season${season}` as `season${number}`];
       expect(Array.isArray(episodes), `season${season}`).toBe(true);
       expect(episodes.length, `season${season}`).toBeGreaterThan(0);

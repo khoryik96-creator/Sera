@@ -211,6 +211,47 @@ export const EPISODE_ARCS: EpisodeArcMeta[] = [
       season(94, 'No Banner Owns a Continent', '10 CHAPTERS · FIRST DRAFT'),
     ],
   },
+  {
+    title: 'Final Arc Phase I — The Warning From Shinrin',
+    badge: 'Seasons 95–100 · Complete prose',
+    description: 'Two peaceful years fracture when Axtaya leads Yun Shizhen into Shinrin. Her investigation exposes Shinsei, costs Wuyue its No.10, and leaves a warning that arrives one day after Rhen enters an irreversible seclusion.',
+    seasons: [
+      season(95, 'Two Years Beneath the Crooked Sign', '10 CHAPTERS · FINAL PROSE'),
+      season(96, 'The Road to Shinrin', '10 CHAPTERS · FINAL PROSE'),
+      season(97, 'No.2 Hunts the Pale Venom', '10 CHAPTERS · FINAL PROSE'),
+      season(98, 'Three Months Under One Government', '10 CHAPTERS · FINAL PROSE'),
+      season(99, 'The Locked Room', '10 CHAPTERS · FINAL PROSE'),
+      season(100, 'The Warning She Carried', '10 CHAPTERS · FINAL PROSE'),
+    ],
+  },
+  {
+    title: 'Final Arc Phase II — The War That Rhen Slept Through',
+    badge: 'Seasons 101–108 · Complete prose',
+    description: 'Shinsei invades Isgard while Rhen remains sealed away. Isgard bleeds, Wuyue marches, hidden Quaint High Paragons are exposed, Axtaya becomes an industrial weapon, and Sera holds the alliance together through six months of adaptive war.',
+    seasons: [
+      season(101, 'The Remaining Weeks', '10 CHAPTERS · FINAL PROSE'),
+      season(102, 'Isgard Bleeds Alone', '10 CHAPTERS · FINAL PROSE'),
+      season(103, 'Wuyue Comes North', '10 CHAPTERS · FINAL PROSE'),
+      season(104, 'The House They Thought Empty', '10 CHAPTERS · FINAL PROSE'),
+      season(105, 'Five Minutes of Borrowed Life', '10 CHAPTERS · FINAL PROSE'),
+      season(106, 'The Physician Who Makes Monsters Stand Again', '10 CHAPTERS · FINAL PROSE'),
+      season(107, 'Winning Battles, Losing the Arithmetic', '10 CHAPTERS · FINAL PROSE'),
+      season(108, 'Winning Too Slowly', '10 CHAPTERS · FINAL PROSE'),
+    ],
+  },
+  {
+    title: 'Final Arc Phase III — When Winter Wakes',
+    badge: 'Seasons 109–114 · Complete prose',
+    description: 'Rhen wakes after six months and twelve days, but Sera still owns the central martial confrontation. Shinsei fractures around truth and choice, Monarch winter ends the war, and the story closes with reconstruction, a third teashop and one private future.',
+    seasons: [
+      season(109, 'The Day Winter Woke', '10 CHAPTERS · FINAL PROSE'),
+      season(110, 'The War Changes Shape', '10 CHAPTERS · FINAL PROSE'),
+      season(111, 'The Man Who Would Not Stay Down', '10 CHAPTERS · FINAL PROSE'),
+      season(112, 'The Strongest Beneath Heaven', '10 CHAPTERS · FINAL PROSE'),
+      season(113, "Monarch's Winter", '10 CHAPTERS · FINAL PROSE'),
+      season(114, 'When Spring Finally Comes', '10 CHAPTERS · FINAL PROSE'),
+    ],
+  },
 ];
 
 /** Highest season and total chapter count, derived from the archive above so

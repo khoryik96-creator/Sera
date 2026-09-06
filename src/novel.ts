@@ -170,7 +170,7 @@ function rankTone(name: string, rank: string, season?: number): NovelRankTone {
   if (currentEra && (name === 'Han Myeong' || name === 'Han')) return 'deceased';
   // Yun Shizhen dies in the final arc; mark her deceased only from the final-arc
   // seasons so shipped pre-final-arc prose keeps her alive.
-  if (season !== undefined && season >= 95 && (name === 'Yun Shizhen' || name === 'Yun')) return 'deceased';
+  if (season !== undefined && season > 100 && (name === 'Yun Shizhen' || name === 'Yun')) return 'deceased';
   if (currentEra && (name === 'Qin Luo' || name === 'Qin')) return 'retired';
   if (rank.startsWith('Former ')) return 'former';
   return 'current';
