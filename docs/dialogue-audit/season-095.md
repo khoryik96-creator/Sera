@@ -1,6 +1,6 @@
 # Season 95 — unattributed dialogue
 
-385 quoted lines in this season have no speaker.
+306 quoted lines in this season have no speaker.
 See `README.md` in this folder for what to do with them.
 
 Lines already resolved show their speaker in `[brackets]` for context.
@@ -19,46 +19,6 @@ He walked away.
 ### Chapter 302 — The Garden Is Asked For, Not Imposed
 
 ```
-Rhen's fingers brushed a loose strand of hair from her cheek.
-Sera caught his wrist.
-[sera] “You're about to ask me again.”
->>> “Yes.”   <-- WHO SAYS THIS?
-“Every time?”
-“Yes.”
-```
-```
-Sera caught his wrist.
-[sera] “You're about to ask me again.”
-“Yes.”
->>> “Every time?”   <-- WHO SAYS THIS?
-“Yes.”
-“You know my answer.”
-```
-```
-[sera] “You're about to ask me again.”
-“Yes.”
-“Every time?”
->>> “Yes.”   <-- WHO SAYS THIS?
-“You know my answer.”
-“I know your previous answer.”
-```
-```
-“Yes.”
-“Every time?”
-“Yes.”
->>> “You know my answer.”   <-- WHO SAYS THIS?
-“I know your previous answer.”
-That was why she loved him.
-```
-```
-“Every time?”
-“Yes.”
-“You know my answer.”
->>> “I know your previous answer.”   <-- WHO SAYS THIS?
-That was why she loved him.
-It was also why he could be infuriating.
-```
-```
 Sera tapped the board.
 [sera] “Company Seven?”
 A captain stood.
@@ -70,356 +30,28 @@ One hundred people.
 ### Chapter 303 — What Two Years Did Not Repair
 
 ```
-The women who remained fit for formation had survived two years of war and two years of deciding whether they still wanted to stand inside something that had taken so much from them.
-Arin no longer treated that decision as automatic.
-When the sequence ended, she lowered her hand.
->>> “Dismissed.”   <-- WHO SAYS THIS?
-Nobody moved.
-Arin frowned.
-```
-```
 Nobody moved.
 Arin frowned.
 A young swordswoman in the front rank lifted her chin.
 >>> “Master.”   <-- WHO SAYS THIS?
-“What?”
+[arin] “What?”
 “You said we were rebuilding the east practice wall today.”
-```
-```
-Arin frowned.
-A young swordswoman in the front rank lifted her chin.
-“Master.”
->>> “What?”   <-- WHO SAYS THIS?
-“You said we were rebuilding the east practice wall today.”
-Arin looked toward the wall.
 ```
 ```
 A young swordswoman in the front rank lifted her chin.
 “Master.”
-“What?”
+[arin] “What?”
 >>> “You said we were rebuilding the east practice wall today.”   <-- WHO SAYS THIS?
 Arin looked toward the wall.
 Half of it leaned inward.
-```
-```
-Sera stared.
-Rhen looked down.
-[rhen] “That was moisture.”
->>> “Of course.”   <-- WHO SAYS THIS?
-Arin approached carrying a stack of replacement braces.
-She looked better than she had two years earlier.
-```
-```
-Arin Vale had never been soft.
-But the sharpness no longer felt like something cutting inward every time someone spoke to her.
-She looked up at Rhen.
->>> “Can you actually heal wood?”   <-- WHO SAYS THIS?
-“No.”
-The beam creaked into a more reasonable position.
-```
-```
-But the sharpness no longer felt like something cutting inward every time someone spoke to her.
-She looked up at Rhen.
-“Can you actually heal wood?”
->>> “No.”   <-- WHO SAYS THIS?
-The beam creaked into a more reasonable position.
-Arin looked at Sera.
-```
-```
-“Six hundred eleven,” Sera said.
-Arin's gaze shifted toward the formation ground.
-[arin] “Fit for formation.”
->>> “The others?”   <-- WHO SAYS THIS?
-“One thousand four hundred eighty-six alive outside formation. Wounded. Retired. Teaching. Some left martial life entirely.”
-“And the dead?”
-```
-```
-Arin's gaze shifted toward the formation ground.
-[arin] “Fit for formation.”
-“The others?”
->>> “One thousand four hundred eighty-six alive outside formation. Wounded. Retired. Teaching. Some left martial life entirely.”   <-- WHO SAYS THIS?
-“And the dead?”
-Arin did not answer immediately.
-```
-```
-[arin] “Fit for formation.”
-“The others?”
-“One thousand four hundred eighty-six alive outside formation. Wounded. Retired. Teaching. Some left martial life entirely.”
->>> “And the dead?”   <-- WHO SAYS THIS?
-Arin did not answer immediately.
-[arin] “Nine hundred three dead or missing.”
-```
-```
-He had spent enough years around survivors to know that some grief became insulting when people tried to make it smaller.
-Arin looked at him.
-[arin] “You could probably put half the injured back into formation.”
->>> “Yes.”   <-- WHO SAYS THIS?
-“You have not.”
-“No.”
-```
-```
-Arin looked at him.
-[arin] “You could probably put half the injured back into formation.”
-“Yes.”
->>> “You have not.”   <-- WHO SAYS THIS?
-“No.”
-“Why?”
-```
-```
-[arin] “You could probably put half the injured back into formation.”
-“Yes.”
-“You have not.”
->>> “No.”   <-- WHO SAYS THIS?
-“Why?”
-“Because injured and retired are not the same word.”
-```
-```
-“Yes.”
-“You have not.”
-“No.”
->>> “Why?”   <-- WHO SAYS THIS?
-“Because injured and retired are not the same word.”
-Arin watched him.
-```
-```
-“You have not.”
-“No.”
-“Why?”
->>> “Because injured and retired are not the same word.”   <-- WHO SAYS THIS?
-Arin watched him.
-Rhen wiped dust from his hand.
-```
-```
-[rhen] “If someone asks me to repair damage, I repair it. If someone decided they are done, I do not heal that decision.”
-Arin's mouth tightened.
-Then eased.
->>> “Good.”   <-- WHO SAYS THIS?
-Behind them, someone dropped a brace.
-Three people yelled.
-```
-```
-[sera] “Epidemic numbers are down.”
-Rhen glanced over.
-[rhen] “Good.”
->>> “Coastal rebuilding behind schedule.”   <-- WHO SAYS THIS?
-“Less good.”
-“Aldric is complaining about Wuyue lumber prices.”
-```
-```
-Rhen glanced over.
-[rhen] “Good.”
-“Coastal rebuilding behind schedule.”
->>> “Less good.”   <-- WHO SAYS THIS?
-“Aldric is complaining about Wuyue lumber prices.”
-“That sounds healthy.”
-```
-```
-[rhen] “Good.”
-“Coastal rebuilding behind schedule.”
-“Less good.”
->>> “Aldric is complaining about Wuyue lumber prices.”   <-- WHO SAYS THIS?
-“That sounds healthy.”
-Sera snorted.
-```
-```
-“Coastal rebuilding behind schedule.”
-“Less good.”
-“Aldric is complaining about Wuyue lumber prices.”
->>> “That sounds healthy.”   <-- WHO SAYS THIS?
-Sera snorted.
-[sera] “Maedra added a note.”
-```
-```
-[sera] “‘Tell the healer his northern tonic tastes like boiled boots.’”
-Rhen looked offended.
-[rhen] “It contains licorice.”
->>> “That does not defend it.”   <-- WHO SAYS THIS?
-“It absolutely does.”
-Sera folded the letter.
-```
-```
-Rhen looked offended.
-[rhen] “It contains licorice.”
-“That does not defend it.”
->>> “It absolutely does.”   <-- WHO SAYS THIS?
-Sera folded the letter.
-The road continued.
 ```
 ```
 The injury was ordinary.
 He touched two fingers to the man's collarbone, guided the joint into place, repaired torn tissue, smoothed the inflamed meridian branch, and was done before the miner finished swearing.
 The man stared at him.
 >>> “That's it?”   <-- WHO SAYS THIS?
-“That is generally the goal.”
+[rhen] “That is generally the goal.”
 Rhen turned away.
-```
-```
-He touched two fingers to the man's collarbone, guided the joint into place, repaired torn tissue, smoothed the inflamed meridian branch, and was done before the miner finished swearing.
-The man stared at him.
-“That's it?”
->>> “That is generally the goal.”   <-- WHO SAYS THIS?
-Rhen turned away.
-Then stopped.
-```
-```
-Rhen flexed his fingers once.
-Sera stepped closer.
-[sera] “What?”
->>> “Nothing.”   <-- WHO SAYS THIS?
-She raised one eyebrow.
-Rhen corrected himself.
-```
-```
-She raised one eyebrow.
-Rhen corrected himself.
-[rhen] “Something small.”
->>> “What?”   <-- WHO SAYS THIS?
-He considered the sensation.
-“My reserve filled faster than expected.”
-```
-```
-[rhen] “Something small.”
-“What?”
-He considered the sensation.
->>> “My reserve filled faster than expected.”   <-- WHO SAYS THIS?
-“How much faster?”
-“Enough that I noticed.”
-```
-```
-“What?”
-He considered the sensation.
-“My reserve filled faster than expected.”
->>> “How much faster?”   <-- WHO SAYS THIS?
-“Enough that I noticed.”
-Sera's expression changed.
-```
-```
-He considered the sensation.
-“My reserve filled faster than expected.”
-“How much faster?”
->>> “Enough that I noticed.”   <-- WHO SAYS THIS?
-Sera's expression changed.
-Rhen touched her wrist lightly.
-```
-```
-Sera's expression changed.
-Rhen touched her wrist lightly.
-[rhen] “Not dangerous.”
->>> “You do not get to use that tone.”   <-- WHO SAYS THIS?
-“What tone?”
-“The healer tone.”
-```
-```
-Rhen touched her wrist lightly.
-[rhen] “Not dangerous.”
-“You do not get to use that tone.”
->>> “What tone?”   <-- WHO SAYS THIS?
-“The healer tone.”
-“I am a healer.”
-```
-```
-[rhen] “Not dangerous.”
-“You do not get to use that tone.”
-“What tone?”
->>> “The healer tone.”   <-- WHO SAYS THIS?
-“I am a healer.”
-“You are my husband first when I ask what is wrong.”
-```
-```
-“You do not get to use that tone.”
-“What tone?”
-“The healer tone.”
->>> “I am a healer.”   <-- WHO SAYS THIS?
-“You are my husband first when I ask what is wrong.”
-Rhen looked at her.
-```
-```
-“What tone?”
-“The healer tone.”
-“I am a healer.”
->>> “You are my husband first when I ask what is wrong.”   <-- WHO SAYS THIS?
-Rhen looked at her.
-That answer still had the power to stop him for half a second.
-```
-```
-Rhen looked at her.
-That answer still had the power to stop him for half a second.
-He squeezed her wrist gently.
->>> “I do not know yet.”   <-- WHO SAYS THIS?
-“Better.”
-“It may simply be the Garden becoming more efficient.”
-```
-```
-That answer still had the power to stop him for half a second.
-He squeezed her wrist gently.
-“I do not know yet.”
->>> “Better.”   <-- WHO SAYS THIS?
-“It may simply be the Garden becoming more efficient.”
-“May.”
-```
-```
-He squeezed her wrist gently.
-“I do not know yet.”
-“Better.”
->>> “It may simply be the Garden becoming more efficient.”   <-- WHO SAYS THIS?
-“May.”
-“Yes.”
-```
-```
-“I do not know yet.”
-“Better.”
-“It may simply be the Garden becoming more efficient.”
->>> “May.”   <-- WHO SAYS THIS?
-“Yes.”
-“And if it happens again?”
-```
-```
-“Better.”
-“It may simply be the Garden becoming more efficient.”
-“May.”
->>> “Yes.”   <-- WHO SAYS THIS?
-“And if it happens again?”
-“I tell you.”
-```
-```
-“It may simply be the Garden becoming more efficient.”
-“May.”
-“Yes.”
->>> “And if it happens again?”   <-- WHO SAYS THIS?
-“I tell you.”
-“Immediately.”
-```
-```
-“May.”
-“Yes.”
-“And if it happens again?”
->>> “I tell you.”   <-- WHO SAYS THIS?
-“Immediately.”
-“Yes.”
-```
-```
-“Yes.”
-“And if it happens again?”
-“I tell you.”
->>> “Immediately.”   <-- WHO SAYS THIS?
-“Yes.”
-Sera narrowed her eyes.
-```
-```
-“And if it happens again?”
-“I tell you.”
-“Immediately.”
->>> “Yes.”   <-- WHO SAYS THIS?
-Sera narrowed her eyes.
-[sera] “Define immediately.”
-```
-```
-[sera] “Define immediately.”
-Rhen's mouth moved.
-[rhen] “Before you ask.”
->>> “Good.”   <-- WHO SAYS THIS?
-She released him.
-Rhen looked at his palm again.
 ```
 
 ### Chapter 304 — The Man Who Was Strong for Five Minutes
@@ -439,14 +71,6 @@ Huo nodded as though this were a complete and respectable explanation.
 >>> “It was.”   <-- WHO SAYS THIS?
 The man strapped to it convulsed.
 The conversation ended.
-```
-```
-By the time the courier detail reached the side clinic, lamps were already lit. Sera came down from the upper floor pulling her hair into a knot. Luo and Yun arrived from the mountain quarters at nearly the same time, Luo carrying a medical case and Yun carrying nothing except a knife she had apparently considered more important than shoes.
-She looked down at her bare feet.
-Then at everyone else.
->>> “Do not comment.”   <-- WHO SAYS THIS?
-Luo handed her his spare sandals.
-Yun looked at him.
 ```
 ```
 Rhen cut the bindings.
@@ -489,23 +113,15 @@ Tae had arrived without anyone noticing.
 He looked at the patient.
 ```
 ```
-“Three times, maybe. More. He hit like he had no reason to preserve himself. Ran through two spear lines. Broke a wagon axle with his shoulder.”
 Tae had arrived without anyone noticing.
 He looked at the patient.
->>> “And then?”   <-- WHO SAYS THIS?
-“Five minutes.”
-The courier's face tightened.
-```
-```
-Tae had arrived without anyone noticing.
-He looked at the patient.
-“And then?”
+[tae] “And then?”
 >>> “Five minutes.”   <-- WHO SAYS THIS?
 The courier's face tightened.
 “Then he collapsed.”
 ```
 ```
-“And then?”
+[tae] “And then?”
 “Five minutes.”
 The courier's face tightened.
 >>> “Then he collapsed.”   <-- WHO SAYS THIS?
@@ -513,236 +129,20 @@ Rhen placed one hand over the man's sternum.
 The body told a worse story than the courier.
 ```
 ```
-Rhen knew injuries.
-Something else was missing.
-He did not name it yet.
->>> “Luo.”   <-- WHO SAYS THIS?
-Luo was already beside him.
-[yun] “Pulse is wrong.”
-```
-```
-[yun] “Pulse is wrong.”
-“Which part?” Yun asked.
-[yun] “All of it.”
->>> “That is technically not useful.”   <-- WHO SAYS THIS?
-“The rebound is too deep for simple overcirculation. His body did not borrow only qi.”
-Yun crouched near the discarded clothing.
-```
-```
-“Which part?” Yun asked.
-[yun] “All of it.”
-“That is technically not useful.”
->>> “The rebound is too deep for simple overcirculation. His body did not borrow only qi.”   <-- WHO SAYS THIS?
-Yun crouched near the discarded clothing.
-A dark stain marked the collar where the ampoule had broken.
-```
-```
-She did not touch it.
-Instead she drew one of Luo's wooden sample sticks from his case.
-He looked at her.
->>> “You know those are mine.”   <-- WHO SAYS THIS?
-“You know I improve them by using them.”
-“That is not how ownership works.”
-```
-```
-Instead she drew one of Luo's wooden sample sticks from his case.
-He looked at her.
-“You know those are mine.”
->>> “You know I improve them by using them.”   <-- WHO SAYS THIS?
-“That is not how ownership works.”
-“Focus.”
-```
-```
-He looked at her.
-“You know those are mine.”
-“You know I improve them by using them.”
->>> “That is not how ownership works.”   <-- WHO SAYS THIS?
-“Focus.”
-Luo's expression suggested he had several answers and had wisely chosen none.
-```
-```
-“You know those are mine.”
-“You know I improve them by using them.”
-“That is not how ownership works.”
->>> “Focus.”   <-- WHO SAYS THIS?
-Luo's expression suggested he had several answers and had wisely chosen none.
-Sera moved to the courier.
-```
-```
 Luo's expression suggested he had several answers and had wisely chosen none.
 Sera moved to the courier.
 [sera] “Where did you capture him?”
 >>> “Northwest Isgard. Trade road feeding the epidemic clinics.”   <-- WHO SAYS THIS?
-“Smuggling what?”
+[sera] “Smuggling what?”
 “Medical compounds. Some legitimate. Some mislabeled. We only knew the escort was wrong because one crate carried a clinic seal from a hospital that burned last winter.”
-```
-```
-Sera moved to the courier.
-[sera] “Where did you capture him?”
-“Northwest Isgard. Trade road feeding the epidemic clinics.”
->>> “Smuggling what?”   <-- WHO SAYS THIS?
-“Medical compounds. Some legitimate. Some mislabeled. We only knew the escort was wrong because one crate carried a clinic seal from a hospital that burned last winter.”
-Lu arrived at the word crate.
 ```
 ```
 [sera] “Where did you capture him?”
 “Northwest Isgard. Trade road feeding the epidemic clinics.”
-“Smuggling what?”
+[sera] “Smuggling what?”
 >>> “Medical compounds. Some legitimate. Some mislabeled. We only knew the escort was wrong because one crate carried a clinic seal from a hospital that burned last winter.”   <-- WHO SAYS THIS?
 Lu arrived at the word crate.
 Nobody had sent for him.
-```
-```
-Luo said, “Not like that.”
-Huo paused.
-[huo] “How was I holding him?”
->>> “You were about to use one hand.”   <-- WHO SAYS THIS?
-“Yes.”
-“He is convulsing.”
-```
-```
-Huo paused.
-[huo] “How was I holding him?”
-“You were about to use one hand.”
->>> “Yes.”   <-- WHO SAYS THIS?
-“He is convulsing.”
-“I noticed.”
-```
-```
-[huo] “How was I holding him?”
-“You were about to use one hand.”
-“Yes.”
->>> “He is convulsing.”   <-- WHO SAYS THIS?
-“I noticed.”
-“Use two.”
-```
-```
-“You were about to use one hand.”
-“Yes.”
-“He is convulsing.”
->>> “I noticed.”   <-- WHO SAYS THIS?
-“Use two.”
-Huo looked insulted.
-```
-```
-“Yes.”
-“He is convulsing.”
-“I noticed.”
->>> “Use two.”   <-- WHO SAYS THIS?
-Huo looked insulted.
-Then used two.
-```
-```
-[tae] “Obviously.”
-Huo looked at him.
-[huo] “You were not here when they said it.”
->>> “I have ears.”   <-- WHO SAYS THIS?
-“You also have a personality problem.”
-Sera ignored them.
-```
-```
-Huo looked at him.
-[huo] “You were not here when they said it.”
-“I have ears.”
->>> “You also have a personality problem.”   <-- WHO SAYS THIS?
-Sera ignored them.
-“What happened?” she asked Rhen.
-```
-```
-“You also have a personality problem.”
-Sera ignored them.
-“What happened?” she asked Rhen.
->>> “His cultivation stayed Peak Marquis.”   <-- WHO SAYS THIS?
-“Then how did he move like that?”
-Rhen looked at Yun.
-```
-```
-Sera ignored them.
-“What happened?” she asked Rhen.
-“His cultivation stayed Peak Marquis.”
->>> “Then how did he move like that?”   <-- WHO SAYS THIS?
-Rhen looked at Yun.
-She had lifted the stained collar toward the lamp without touching the residue.
-```
-```
-“Then how did he move like that?”
-Rhen looked at Yun.
-She had lifted the stained collar toward the lamp without touching the residue.
->>> “Something forced throughput.”   <-- WHO SAYS THIS?
-Yun's eyes sharpened.
-[yun] “Chemical.”
-```
-```
-“Something forced throughput.”
-Yun's eyes sharpened.
-[yun] “Chemical.”
->>> “Probably.”   <-- WHO SAYS THIS?
-Luo leaned over the sample.
-[luo] “Circulatory stimulant?”
-```
-```
-“Probably.”
-Luo leaned over the sample.
-[luo] “Circulatory stimulant?”
->>> “Not ordinary.”   <-- WHO SAYS THIS?
-Yun smiled without humor.
-[yun] “Ordinary medicine does not ask a body to tear itself apart for five good minutes.”
-```
-```
-Then Rhen stopped.
-Luo looked at him.
-[luo] “You missed three tears.”
->>> “No.”   <-- WHO SAYS THIS?
-Rhen touched the patient's wrist.
-[rhen] “I left them because I want you to see the pattern before I erase it.”
-```
-```
-Yun pointed to the patient's arm.
-[yun] “The body tried to stop.”
-Then to another tear near the shoulder.
->>> “Whatever he took told it not to.”   <-- WHO SAYS THIS?
-Then the third.
-“And when the second warning came, it told that one to be quiet too.”
-```
-```
-Then to another tear near the shoulder.
-“Whatever he took told it not to.”
-Then the third.
->>> “And when the second warning came, it told that one to be quiet too.”   <-- WHO SAYS THIS?
-Luo's face had gone still.
-[luo] “This was designed.”
-```
-```
-“And when the second warning came, it told that one to be quiet too.”
-Luo's face had gone still.
-[luo] “This was designed.”
->>> “Obviously.”   <-- WHO SAYS THIS?
-“By someone who understood medicine.”
-Yun looked at him.
-```
-```
-Luo's face had gone still.
-[luo] “This was designed.”
-“Obviously.”
->>> “By someone who understood medicine.”   <-- WHO SAYS THIS?
-Yun looked at him.
-[yun] “Yes.”
-```
-```
-[luweiran] “Three crates passed through registered medical distributors before the route went dark.”
-Sera looked at him.
-[sera] “In Isgard?”
->>> “Originally, no.”   <-- WHO SAYS THIS?
-“Where?”
-Lu tapped a small notation written beside a shipping code.
-```
-```
-Sera looked at him.
-[sera] “In Isgard?”
-“Originally, no.”
->>> “Where?”   <-- WHO SAYS THIS?
-Lu tapped a small notation written beside a shipping code.
-[luweiran] “Still tracing it.”
 ```
 ```
 The man looked at her.
@@ -757,20 +157,12 @@ Yun watched his pupils.
 Yun watched his pupils.
 [yun] “Lie.”
 >>> “I don't know what it was.”   <-- WHO SAYS THIS?
-“That is different.”
+[yun] “That is different.”
 He swallowed.
 ```
 ```
-Yun watched his pupils.
-[yun] “Lie.”
 “I don't know what it was.”
->>> “That is different.”   <-- WHO SAYS THIS?
-He swallowed.
-“They said it was strength.”
-```
-```
-“I don't know what it was.”
-“That is different.”
+[yun] “That is different.”
 He swallowed.
 >>> “They said it was strength.”   <-- WHO SAYS THIS?
 Luo's eyes hardened.
@@ -783,30 +175,6 @@ He looked down at Huo's hands holding him to the table.
 >>> “No.”   <-- WHO SAYS THIS?
 Outside, the mountain remained quiet.
 Inside the clinic, Lu folded the manifest once.
-```
-```
-Luo looked at her.
-[luo] “No.”
-She looked back.
->>> “It sounds a little fun.”   <-- WHO SAYS THIS?
-“It sounds medically catastrophic.”
-“Exactly.”
-```
-```
-[luo] “No.”
-She looked back.
-“It sounds a little fun.”
->>> “It sounds medically catastrophic.”   <-- WHO SAYS THIS?
-“Exactly.”
-Luo closed his eyes.
-```
-```
-She looked back.
-“It sounds a little fun.”
-“It sounds medically catastrophic.”
->>> “Exactly.”   <-- WHO SAYS THIS?
-Luo closed his eyes.
-Rhen, despite himself, almost smiled.
 ```
 
 ### Chapter 305 — Physician and Poisoner

@@ -488,15 +488,15 @@ Sera caught his wrist.
 
 “You're about to ask me again.”
 
-“Yes.”
+[[speaker:rhen]]“Yes.”
 
-“Every time?”
+[[speaker:sera]]“Every time?”
 
-“Yes.”
+[[speaker:rhen]]“Yes.”
 
-“You know my answer.”
+[[speaker:sera]]“You know my answer.”
 
-“I know your previous answer.”
+[[speaker:rhen]]“I know your previous answer.”
 
 That was why she loved him.
 
@@ -956,7 +956,7 @@ Arin no longer treated that decision as automatic.
 
 When the sequence ended, she lowered her hand.
 
-“Dismissed.”
+[[speaker:arin]]“Dismissed.”
 
 Nobody moved.
 
@@ -966,7 +966,7 @@ A young swordswoman in the front rank lifted her chin.
 
 “Master.”
 
-“What?”
+[[speaker:arin]]“What?”
 
 “You said we were rebuilding the east practice wall today.”
 
@@ -1006,7 +1006,7 @@ Rhen looked down.
 
 “That was moisture.”
 
-“Of course.”
+[[speaker:sera]]“Of course.”
 
 Arin approached carrying a stack of replacement braces.
 
@@ -1020,9 +1020,9 @@ But the sharpness no longer felt like something cutting inward every time someon
 
 She looked up at Rhen.
 
-“Can you actually heal wood?”
+[[speaker:arin]]“Can you actually heal wood?”
 
-“No.”
+[[speaker:rhen]]“No.”
 
 The beam creaked into a more reasonable position.
 
@@ -1040,11 +1040,11 @@ Arin's gaze shifted toward the formation ground.
 
 “Fit for formation.”
 
-“The others?”
+[[speaker:sera]]“The others?”
 
-“One thousand four hundred eighty-six alive outside formation. Wounded. Retired. Teaching. Some left martial life entirely.”
+[[speaker:arin]]“One thousand four hundred eighty-six alive outside formation. Wounded. Retired. Teaching. Some left martial life entirely.”
 
-“And the dead?”
+[[speaker:sera]]“And the dead?”
 
 Arin did not answer immediately.
 
@@ -1064,15 +1064,15 @@ Arin looked at him.
 
 “You could probably put half the injured back into formation.”
 
-“Yes.”
+[[speaker:rhen]]“Yes.”
 
-“You have not.”
+[[speaker:arin]]“You have not.”
 
-“No.”
+[[speaker:rhen]]“No.”
 
-“Why?”
+[[speaker:arin]]“Why?”
 
-“Because injured and retired are not the same word.”
+[[speaker:rhen]]“Because injured and retired are not the same word.”
 
 Arin watched him.
 
@@ -1084,7 +1084,7 @@ Arin's mouth tightened.
 
 Then eased.
 
-“Good.”
+[[speaker:arin]]“Good.”
 
 Behind them, someone dropped a brace.
 
@@ -1126,13 +1126,13 @@ Rhen glanced over.
 
 “Good.”
 
-“Coastal rebuilding behind schedule.”
+[[speaker:sera]]“Coastal rebuilding behind schedule.”
 
-“Less good.”
+[[speaker:rhen]]“Less good.”
 
-“Aldric is complaining about Wuyue lumber prices.”
+[[speaker:sera]]“Aldric is complaining about Wuyue lumber prices.”
 
-“That sounds healthy.”
+[[speaker:rhen]]“That sounds healthy.”
 
 Sera snorted.
 
@@ -1150,9 +1150,9 @@ Rhen looked offended.
 
 “It contains licorice.”
 
-“That does not defend it.”
+[[speaker:sera]]“That does not defend it.”
 
-“It absolutely does.”
+[[speaker:rhen]]“It absolutely does.”
 
 Sera folded the letter.
 
@@ -1188,7 +1188,7 @@ The man stared at him.
 
 “That's it?”
 
-“That is generally the goal.”
+[[speaker:rhen]]“That is generally the goal.”
 
 Rhen turned away.
 
@@ -1224,7 +1224,7 @@ Sera stepped closer.
 
 “What?”
 
-“Nothing.”
+[[speaker:rhen]]“Nothing.”
 
 She raised one eyebrow.
 
@@ -1232,15 +1232,15 @@ Rhen corrected himself.
 
 “Something small.”
 
-“What?”
+[[speaker:sera]]“What?”
 
 He considered the sensation.
 
-“My reserve filled faster than expected.”
+[[speaker:rhen]]“My reserve filled faster than expected.”
 
-“How much faster?”
+[[speaker:sera]]“How much faster?”
 
-“Enough that I noticed.”
+[[speaker:rhen]]“Enough that I noticed.”
 
 Sera's expression changed.
 
@@ -1248,15 +1248,15 @@ Rhen touched her wrist lightly.
 
 “Not dangerous.”
 
-“You do not get to use that tone.”
+[[speaker:sera]]“You do not get to use that tone.”
 
-“What tone?”
+[[speaker:rhen]]“What tone?”
 
-“The healer tone.”
+[[speaker:sera]]“The healer tone.”
 
-“I am a healer.”
+[[speaker:rhen]]“I am a healer.”
 
-“You are my husband first when I ask what is wrong.”
+[[speaker:sera]]“You are my husband first when I ask what is wrong.”
 
 Rhen looked at her.
 
@@ -1264,23 +1264,23 @@ That answer still had the power to stop him for half a second.
 
 He squeezed her wrist gently.
 
-“I do not know yet.”
+[[speaker:rhen]]“I do not know yet.”
 
-“Better.”
+[[speaker:sera]]“Better.”
 
-“It may simply be the Garden becoming more efficient.”
+[[speaker:rhen]]“It may simply be the Garden becoming more efficient.”
 
-“May.”
+[[speaker:sera]]“May.”
 
-“Yes.”
+[[speaker:rhen]]“Yes.”
 
-“And if it happens again?”
+[[speaker:sera]]“And if it happens again?”
 
-“I tell you.”
+[[speaker:rhen]]“I tell you.”
 
-“Immediately.”
+[[speaker:sera]]“Immediately.”
 
-“Yes.”
+[[speaker:rhen]]“Yes.”
 
 Sera narrowed her eyes.
 
@@ -1290,7 +1290,7 @@ Rhen's mouth moved.
 
 “Before you ask.”
 
-“Good.”
+[[speaker:sera]]“Good.”
 
 She released him.
 
@@ -1342,7 +1342,7 @@ She looked down at her bare feet.
 
 Then at everyone else.
 
-“Do not comment.”
+[[speaker:yun]]“Do not comment.”
 
 Luo handed her his spare sandals.
 
@@ -1408,7 +1408,7 @@ Tae had arrived without anyone noticing.
 
 He looked at the patient.
 
-“And then?”
+[[speaker:tae]]“And then?”
 
 “Five minutes.”
 
@@ -1440,19 +1440,19 @@ Something else was missing.
 
 He did not name it yet.
 
-“Luo.”
+[[speaker:rhen]]“Luo.”
 
 Luo was already beside him.
 
-“Pulse is wrong.”
+[[speaker:luo]]“Pulse is wrong.”
 
 “Which part?” Yun asked.
 
-“All of it.”
+[[speaker:luo]]“All of it.”
 
-“That is technically not useful.”
+[[speaker:yun]]“That is technically not useful.”
 
-“The rebound is too deep for simple overcirculation. His body did not borrow only qi.”
+[[speaker:luo]]“The rebound is too deep for simple overcirculation. His body did not borrow only qi.”
 
 Yun crouched near the discarded clothing.
 
@@ -1464,13 +1464,13 @@ Instead she drew one of Luo's wooden sample sticks from his case.
 
 He looked at her.
 
-“You know those are mine.”
+[[speaker:luo]]“You know those are mine.”
 
-“You know I improve them by using them.”
+[[speaker:yun]]“You know I improve them by using them.”
 
-“That is not how ownership works.”
+[[speaker:luo]]“That is not how ownership works.”
 
-“Focus.”
+[[speaker:yun]]“Focus.”
 
 Luo's expression suggested he had several answers and had wisely chosen none.
 
@@ -1480,7 +1480,7 @@ Sera moved to the courier.
 
 “Northwest Isgard. Trade road feeding the epidemic clinics.”
 
-“Smuggling what?”
+[[speaker:sera]]“Smuggling what?”
 
 “Medical compounds. Some legitimate. Some mislabeled. We only knew the escort was wrong because one crate carried a clinic seal from a hospital that burned last winter.”
 
@@ -1512,15 +1512,15 @@ Huo paused.
 
 “How was I holding him?”
 
-“You were about to use one hand.”
+[[speaker:luo]]“You were about to use one hand.”
 
-“Yes.”
+[[speaker:huo]]“Yes.”
 
-“He is convulsing.”
+[[speaker:luo]]“He is convulsing.”
 
-“I noticed.”
+[[speaker:huo]]“I noticed.”
 
-“Use two.”
+[[speaker:luo]]“Use two.”
 
 Huo looked insulted.
 
@@ -1566,35 +1566,35 @@ Huo looked at him.
 
 “You were not here when they said it.”
 
-“I have ears.”
+[[speaker:tae]]“I have ears.”
 
-“You also have a personality problem.”
+[[speaker:huo]]“You also have a personality problem.”
 
 Sera ignored them.
 
 “What happened?” she asked Rhen.
 
-“His cultivation stayed Peak Marquis.”
+[[speaker:rhen]]“His cultivation stayed Peak Marquis.”
 
-“Then how did he move like that?”
+[[speaker:sera]]“Then how did he move like that?”
 
 Rhen looked at Yun.
 
 She had lifted the stained collar toward the lamp without touching the residue.
 
-“Something forced throughput.”
+[[speaker:rhen]]“Something forced throughput.”
 
 Yun's eyes sharpened.
 
 “Chemical.”
 
-“Probably.”
+[[speaker:rhen]]“Probably.”
 
 Luo leaned over the sample.
 
 “Circulatory stimulant?”
 
-“Not ordinary.”
+[[speaker:rhen]]“Not ordinary.”
 
 Yun smiled without humor.
 
@@ -1622,7 +1622,7 @@ Luo looked at him.
 
 “You missed three tears.”
 
-“No.”
+[[speaker:rhen]]“No.”
 
 Rhen touched the patient's wrist.
 
@@ -1660,19 +1660,19 @@ Yun pointed to the patient's arm.
 
 Then to another tear near the shoulder.
 
-“Whatever he took told it not to.”
+[[speaker:yun]]“Whatever he took told it not to.”
 
 Then the third.
 
-“And when the second warning came, it told that one to be quiet too.”
+[[speaker:yun]]“And when the second warning came, it told that one to be quiet too.”
 
 Luo's face had gone still.
 
 “This was designed.”
 
-“Obviously.”
+[[speaker:yun]]“Obviously.”
 
-“By someone who understood medicine.”
+[[speaker:luo]]“By someone who understood medicine.”
 
 Yun looked at him.
 
@@ -1698,9 +1698,9 @@ Sera looked at him.
 
 “In Isgard?”
 
-“Originally, no.”
+[[speaker:luweiran]]“Originally, no.”
 
-“Where?”
+[[speaker:sera]]“Where?”
 
 Lu tapped a small notation written beside a shipping code.
 
@@ -1750,7 +1750,7 @@ Yun watched his pupils.
 
 “I don't know what it was.”
 
-“That is different.”
+[[speaker:yun]]“That is different.”
 
 He swallowed.
 
@@ -1808,11 +1808,11 @@ Luo looked at her.
 
 She looked back.
 
-“It sounds a little fun.”
+[[speaker:yun]]“It sounds a little fun.”
 
-“It sounds medically catastrophic.”
+[[speaker:luo]]“It sounds medically catastrophic.”
 
-“Exactly.”
+[[speaker:yun]]“Exactly.”
 
 Luo closed his eyes.
 
