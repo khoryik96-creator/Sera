@@ -310,7 +310,7 @@ He continued.
 
 [[speaker:shunto]]“Are you denying it?”
 
-“No.”
+[[speaker:yun]]“No.”
 
 There was no point.
 

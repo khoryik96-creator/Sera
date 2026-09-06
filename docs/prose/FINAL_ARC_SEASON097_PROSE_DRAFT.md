@@ -534,7 +534,7 @@ Sera’s hand stayed on his chest.
 
 “That is new.”
 
-“Yes.”
+[[speaker:rhen]]“Yes.”
 
 [[speaker:sera]]“Bad?”
 

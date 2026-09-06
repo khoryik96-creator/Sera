@@ -1,6 +1,6 @@
 # Season 97 — unattributed dialogue
 
-49 quoted lines in this season have no speaker.
+45 quoted lines in this season have no speaker.
 See `README.md` in this folder for what to do with them.
 
 Lines already resolved show their speaker in `[brackets]` for context.
@@ -243,17 +243,6 @@ Yun stared.
 The old man laughed until he coughed.
 ```
 
-### Chapter 323 — The Aura That Would Not Stay Small
-
-```
-Then he closed it again.
-Sera’s hand stayed on his chest.
-[sera] “That is new.”
->>> “Yes.”   <-- WHO SAYS THIS?
-[sera] “Bad?”
-[rhen] “Not yet.”
-```
-
 ### Chapter 324 — Shunto Takamori
 
 ```
@@ -295,17 +284,6 @@ He grinned.
 >>> “Everyone knows that one.”   <-- WHO SAYS THIS?
 Apparently everyone except the foreign Sovereign who had learned it with half her body numb in a market lane.
 Yun finished the tea and left.
-```
-
-### Chapter 325 — Poison the Room, Not the Man
-
-```
-[shunto] “Wuyue. Physician-adjacent poison specialist. Public rank uncertain until recently. Pale Venom.”
-[yun] “You make me sound employable.”
-[shunto] “Are you denying it?”
->>> “No.”   <-- WHO SAYS THIS?
-There was no point.
-A false identity was useful until the enemy had the truth. Clinging to it afterward only wasted attention.
 ```
 
 ### Chapter 328 — The Arm He Could Not Feel
@@ -397,23 +375,4 @@ At the back stair she paused.
 >>> “Do not come back.”   <-- WHO SAYS THIS?
 [yun] “Reasonable.”
 She slipped into the rain.
-```
-
-### Chapter 329 — He Learns From Pain
-
-```
-Only after the woman left did he say, “The arm was clever.”
-Yun kept her eyes on her own cup.
-[yun] “You recovered.”
->>> “I did.”   <-- WHO SAYS THIS?
-[yun] “Tragic.”
-A faint smile.
-```
-```
-Shunto continued.
-[shunto] “You are not here to assassinate anyone. If you were, you would have tried already.”
-[yun] “Comforting.”
->>> “You are not here to sabotage infrastructure. Your routes avoid civilian systems whenever possible.”   <-- WHO SAYS THIS?
-[yun] “Also comforting.”
-[shunto] “You are reading.”
 ```

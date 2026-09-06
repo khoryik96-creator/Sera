@@ -340,7 +340,7 @@ Yun kept her eyes on her own cup.
 
 “You recovered.”
 
-“I did.”
+[[speaker:shunto]]“I did.”
 
 [[speaker:yun]]“Tragic.”
 
@@ -444,7 +444,7 @@ Shunto continued.
 
 [[speaker:yun]]“Comforting.”
 
-“You are not here to sabotage infrastructure. Your routes avoid civilian systems whenever possible.”
+[[speaker:shunto]]“You are not here to sabotage infrastructure. Your routes avoid civilian systems whenever possible.”
 
 [[speaker:yun]]“Also comforting.”
 
