@@ -37,6 +37,33 @@ async function loadSpeakerAliases() {
   return rows;
 }
 
+/** Every speaker key the reader can colour, for validating hand-written
+ *  `[[speaker:key]]` markers in the prose drafts. */
+async function loadSpeakerKeys() {
+  const source = await readFile(registryPath, 'utf8');
+  const keys = new Set();
+  for (const match of source.matchAll(/\{ key: '([a-z0-9_]+)',[^\n]*?(?:speakerKeys: \[([^\]]+)\])?\s*\}/g)) {
+    keys.add(match[1]);
+    if (match[2]) for (const k of match[2].matchAll(/'([^']+)'/g)) keys.add(k[1]);
+  }
+  for (const match of source.matchAll(/speakerKeys: \[([^\]]+)\]/g)) {
+    for (const k of match[1].matchAll(/'([^']+)'/g)) keys.add(k[1]);
+  }
+  const neutral = source.match(/neutralSpeakerNames[^{]*\{([\s\S]*?)\}/);
+  if (neutral) for (const k of neutral[1].matchAll(/(\w+):/g)) keys.add(k[1]);
+  return keys;
+}
+
+/** A hand-written marker with an unknown key renders as an uncoloured fallback
+ *  name, which is silent breakage. Fail the build instead. */
+function assertKnownSpeakers(body, keys, where) {
+  for (const match of body.matchAll(/\[\[speaker:([^\]]+)\]\]/g)) {
+    if (!keys.has(match[1])) {
+      throw new Error(`${where}: unknown speaker key "${match[1]}". Use a key listed in docs/dialogue-audit/README.md.`);
+    }
+  }
+}
+
 function subjectSpeaker(paragraph, aliases) {
   const text = paragraph.trim().replace(/^\*\*/, '');
   for (const row of aliases) {
@@ -57,6 +84,23 @@ function attributedSpeaker(paragraph, aliases) {
 
 /** The narration of a paragraph with the quoted speech removed, so an
  *  attribution is only read from outside the quotation marks. */
+/** A short narration line that announces who is about to speak — `Luo finally
+ *  spoke.`, `Hana whispered:`, `Huo's voice drifted in from the courtyard.` The
+ *  name must lead the sentence, and a negation (`Rhen said nothing.`) means the
+ *  opposite, so those are rejected. This is an explicit statement by the prose
+ *  and therefore outranks any guess drawn from a neighbouring paragraph. */
+const SPEECH_CUE = /\b(?:voice|spoke|speaks|called|calls|answered|replied|asked|said|whispered|murmured|muttered|shouted|added|continued|snapped)\b/i;
+const CUE_NEGATION = /\b(?:nothing|never|silent|silence|did not|didn’t|didn't|no reply|without a word)\b/i;
+
+function announcedSpeaker(paragraph, aliases) {
+  const text = paragraph.trim();
+  if (text.length > 120 || CUE_NEGATION.test(text) || !SPEECH_CUE.test(text)) return null;
+  for (const row of aliases) {
+    if (new RegExp(`^${escRe(row.alias)}(?:[’']s)?\\b`).test(text)) return row.key;
+  }
+  return null;
+}
+
 function outsideQuotes(paragraph) {
   return paragraph.replace(/“[^”]*”?/gu, ' ');
 }
@@ -73,6 +117,9 @@ function addDialogueHints(body, aliases) {
   let lastSpeaker = null;
   let previousSpeaker = null;
   let focusSpeaker = null;
+  let announced = null;
+  let recentSpeakers = new Set();
+  // reset per chapter; addDialogueHints is called once per chapter body
 
   for (let i = 0; i < paragraphs.length; i++) {
     const paragraph = paragraphs[i].trim();
@@ -81,6 +128,7 @@ function addDialogueHints(body, aliases) {
     if (!isStandaloneDialogue(paragraph)) {
       const explicit = attributedSpeaker(paragraph, aliases);
       const subject = subjectSpeaker(paragraph, aliases);
+      announced = announcedSpeaker(paragraph, aliases);
       focusSpeaker = explicit || subject;
       continue;
     }
@@ -94,25 +142,31 @@ function addDialogueHints(body, aliases) {
     // inside the quote is reported speech (`“Rui said you saved six witnesses.”`)
     // and says nothing about who is speaking.
     const selfAttribution = attributedSpeaker(outsideQuotes(paragraph), aliases);
-    let speaker = selfAttribution || nextAttribution || focusSpeaker;
+    let speaker = selfAttribution || announced || nextAttribution || focusSpeaker;
 
     // In a clean two-person exchange, consecutive quote paragraphs usually
     // alternate. Only use this when two distinct speakers were already observed;
     // multi-person scenes without a fresh narrative subject stay untagged rather
     // than risk assigning the wrong colour.
-    if (!speaker && lastSpeaker && previousSpeaker && lastSpeaker !== previousSpeaker) {
+    // The alternation guess rests on nothing but "they take turns", which only
+    // holds in a clean two-person exchange. Once a third voice is active in the
+    // scene it is a coin flip, and a wrong name reads worse than none, so those
+    // quotes stay untagged.
+    if (!speaker && lastSpeaker && previousSpeaker && lastSpeaker !== previousSpeaker && recentSpeakers.size <= 2) {
       speaker = previousSpeaker;
     }
 
     if (speaker) {
       paragraphs[i] = `[[speaker:${speaker}]]${paragraph}`;
       tagged++;
+      recentSpeakers.add(speaker);
       if (speaker !== lastSpeaker) {
         previousSpeaker = lastSpeaker;
         lastSpeaker = speaker;
       }
     }
     focusSpeaker = null;
+    announced = null;
   }
 
   return { text: paragraphs.join('\n\n').trim(), tagged, total };
@@ -148,6 +202,7 @@ function expectedSeasonForChapter(chapter) {
 
 export async function loadFinalArcSeasons() {
   const aliases = await loadSpeakerAliases();
+  const speakerKeys = await loadSpeakerKeys();
   const filenames = (await readdir(proseDir))
     .filter((name) => SOURCE_RE.test(name))
     .map((name) => ({ name, match: SOURCE_RE.exec(name) }))
@@ -178,6 +233,7 @@ export async function loadFinalArcSeasons() {
       }
       if (seenChapters.has(chapter)) throw new Error(`Duplicate final-arc Chapter ${chapter}`);
       seenChapters.add(chapter);
+      assertKnownSpeakers(source, speakerKeys, `${name} (Chapter ${chapter})`);
 
       const start = heading.index + heading[0].length;
       const end = headings[i + 1]?.index ?? source.length;
