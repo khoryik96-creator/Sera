@@ -6,6 +6,7 @@ import { initAccessibilityHardening } from './accessibilityHardening';
 import { App } from './app/App';
 import { ReaderProvider } from './features/reader/ReaderContext';
 import './styles/global.css';
+import './styles/final-arc-characters.css';
 import './styles/archive.css';
 import './styles/mobile.css';
 import './styles/pwa.css';
