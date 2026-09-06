@@ -55,6 +55,12 @@ function attributedSpeaker(paragraph, aliases) {
   return null;
 }
 
+/** The narration of a paragraph with the quoted speech removed, so an
+ *  attribution is only read from outside the quotation marks. */
+function outsideQuotes(paragraph) {
+  return paragraph.replace(/“[^”]*”?/gu, ' ');
+}
+
 function isStandaloneDialogue(paragraph) {
   const text = paragraph.trim();
   return !text.startsWith('[[speaker:') && text.startsWith('“') && /”[.!?…]?$/u.test(text);
@@ -82,7 +88,13 @@ function addDialogueHints(body, aliases) {
     total++;
     const next = paragraphs[i + 1]?.trim() || '';
     const nextAttribution = attributedSpeaker(next, aliases);
-    let speaker = nextAttribution || focusSpeaker;
+    // A quote paragraph can carry its own attribution — `“No,” Eirik said. “I am
+    // surprised.”` — and that is stated fact, so it outranks every neighbouring
+    // guess below. Only the narration OUTSIDE the quotation marks counts: a name
+    // inside the quote is reported speech (`“Rui said you saved six witnesses.”`)
+    // and says nothing about who is speaking.
+    const selfAttribution = attributedSpeaker(outsideQuotes(paragraph), aliases);
+    let speaker = selfAttribution || nextAttribution || focusSpeaker;
 
     // In a clean two-person exchange, consecutive quote paragraphs usually
     // alternate. Only use this when two distinct speakers were already observed;
