@@ -1,6 +1,6 @@
 # Season 95 — unattributed dialogue
 
-455 quoted lines in this season have no speaker.
+385 quoted lines in this season have no speaker.
 See `README.md` in this folder for what to do with them.
 
 Lines already resolved show their speaker in `[brackets]` for context.
@@ -8,550 +8,55 @@ Lines already resolved show their speaker in `[brackets]` for context.
 ### Chapter 301 — Two Years Beneath the Crooked Sign
 
 ```
-[rhen] “If I can hear your chain before I can see you move, you are not surprising anyone!”
-Huo's voice answered from farther away.
-[huo] “They surprised me.”
->>> “That is because you were eating.”   <-- WHO SAYS THIS?
-“I can do two things.”
-“You were doing one badly.”
-```
-```
-Huo's voice answered from farther away.
-[huo] “They surprised me.”
-“That is because you were eating.”
->>> “I can do two things.”   <-- WHO SAYS THIS?
-“You were doing one badly.”
-Rhen looked back at Sera.
-```
-```
-[huo] “They surprised me.”
-“That is because you were eating.”
-“I can do two things.”
->>> “You were doing one badly.”   <-- WHO SAYS THIS?
-Rhen looked back at Sera.
-[rhen] “I could fix the sign before they destroy something expensive.”
-```
-```
-[rhen] “I could fix the sign before they destroy something expensive.”
-Sera's mouth twitched.
-[sera] “You say that like the sign is not the expensive thing you're about to destroy.”
->>> “It is wood.”   <-- WHO SAYS THIS?
-“It is history.”
-“It is crooked.”
-```
-```
-Sera's mouth twitched.
-[sera] “You say that like the sign is not the expensive thing you're about to destroy.”
-“It is wood.”
->>> “It is history.”   <-- WHO SAYS THIS?
-“It is crooked.”
-“So are you.”
-```
-```
-[sera] “You say that like the sign is not the expensive thing you're about to destroy.”
-“It is wood.”
-“It is history.”
->>> “It is crooked.”   <-- WHO SAYS THIS?
-“So are you.”
-Rhen stared at her.
-```
-```
-“It is wood.”
-“It is history.”
-“It is crooked.”
->>> “So are you.”   <-- WHO SAYS THIS?
-Rhen stared at her.
-Sera smiled.
-```
-```
-Sera stepped onto the first rung of the ladder.
-Rhen's hand immediately settled around her waist.
-She looked down at it.
->>> “I'm not falling.”   <-- WHO SAYS THIS?
-“I know.”
-“You moved before I even climbed.”
-```
-```
-Rhen's hand immediately settled around her waist.
-She looked down at it.
-“I'm not falling.”
->>> “I know.”   <-- WHO SAYS THIS?
-“You moved before I even climbed.”
-“I know.”
-```
-```
-She looked down at it.
-“I'm not falling.”
-“I know.”
->>> “You moved before I even climbed.”   <-- WHO SAYS THIS?
-“I know.”
-“That is extremely annoying.”
-```
-```
-“I'm not falling.”
-“I know.”
-“You moved before I even climbed.”
->>> “I know.”   <-- WHO SAYS THIS?
-“That is extremely annoying.”
-“I know.”
-```
-```
-“I know.”
-“You moved before I even climbed.”
-“I know.”
->>> “That is extremely annoying.”   <-- WHO SAYS THIS?
-“I know.”
-She climbed one rung higher anyway.
-```
-```
-“You moved before I even climbed.”
-“I know.”
-“That is extremely annoying.”
->>> “I know.”   <-- WHO SAYS THIS?
-She climbed one rung higher anyway.
-Rhen kept his hand where it was.
-```
-```
-[sera] “There.”
-Rhen looked at the sign.
-Then at her.
->>> “You made it worse.”   <-- WHO SAYS THIS?
-“I made it ours.”
-“That sentence does not improve the angle.”
-```
-```
-Rhen looked at the sign.
-Then at her.
-“You made it worse.”
->>> “I made it ours.”   <-- WHO SAYS THIS?
-“That sentence does not improve the angle.”
-“It improves everything else.”
-```
-```
-Then at her.
-“You made it worse.”
-“I made it ours.”
->>> “That sentence does not improve the angle.”   <-- WHO SAYS THIS?
-“It improves everything else.”
-Before Rhen could answer, the front door opened behind them.
-```
-```
-“You made it worse.”
-“I made it ours.”
-“That sentence does not improve the angle.”
->>> “It improves everything else.”   <-- WHO SAYS THIS?
-Before Rhen could answer, the front door opened behind them.
-Qin Luo stood in the doorway holding two cups of tea.
-```
-```
-[huo] “Not me.”
-Lu called back, “I did not ask you.”
-[luweiran] “Still not me.”
->>> “That makes it more suspicious.”   <-- WHO SAYS THIS?
-Sera stepped past Qin.
-[sera] “Good morning, Lu.”
-```
-```
-“That makes it more suspicious.”
-Sera stepped past Qin.
-[sera] “Good morning, Lu.”
->>> “It was.”   <-- WHO SAYS THIS?
-The tea room was full enough that Sera had to turn sideways between two tables.
-Two years earlier, the reopened shop had still felt like a place remembering how to exist. Now it was simply alive.
-```
-```
-[luo] “That is the fourth one.”
-Yun chewed.
-[yun] “You counted?”
->>> “Yes.”   <-- WHO SAYS THIS?
-“That is romantic.”
-“That is inventory.”
-```
-```
-Yun chewed.
-[yun] “You counted?”
-“Yes.”
->>> “That is romantic.”   <-- WHO SAYS THIS?
-“That is inventory.”
-“Same thing if you care enough.”
-```
-```
-[yun] “You counted?”
-“Yes.”
-“That is romantic.”
->>> “That is inventory.”   <-- WHO SAYS THIS?
-“Same thing if you care enough.”
-Luo looked at Sera as she approached.
-```
-```
-“Yes.”
-“That is romantic.”
-“That is inventory.”
->>> “Same thing if you care enough.”   <-- WHO SAYS THIS?
-Luo looked at Sera as she approached.
-[luo] “She is impossible.”
-```
-```
-Luo caught her wrist without looking.
-Yun looked down at his hand.
-Then up at him.
->>> “Very romantic.”   <-- WHO SAYS THIS?
-He let go.
-She took the plum anyway.
-```
-```
-[luweiran] “No, you do not.”
-Rhen looked at him.
-[rhen] “I have prices.”
->>> “You have numbers written on a board.”   <-- WHO SAYS THIS?
-“That is what prices are.”
-“That is what decoration is when nobody collects them.”
-```
-```
-Rhen looked at him.
-[rhen] “I have prices.”
-“You have numbers written on a board.”
->>> “That is what prices are.”   <-- WHO SAYS THIS?
-“That is what decoration is when nobody collects them.”
-Sera hid a smile in her cup.
-```
-```
-[rhen] “I have prices.”
-“You have numbers written on a board.”
-“That is what prices are.”
->>> “That is what decoration is when nobody collects them.”   <-- WHO SAYS THIS?
-Sera hid a smile in her cup.
-Lu noticed.
-```
-```
-Sera hid a smile in her cup.
-Lu noticed.
-[luweiran] “Do not encourage him.”
->>> “I married him. That ship left years ago.”   <-- WHO SAYS THIS?
-The room went quiet for exactly one second.
-Shock had nothing to do with it. Huo had just entered through the side door carrying an entire training post over one shoulder.
-```
-```
-Shock had nothing to do with it. Huo had just entered through the side door carrying an entire training post over one shoulder.
-Tae followed him.
-[tae] “You broke it.”
->>> “I improved it.”   <-- WHO SAYS THIS?
-“It is in two pieces.”
-“It now travels easier.”
-```
-```
-Tae followed him.
-[tae] “You broke it.”
-“I improved it.”
->>> “It is in two pieces.”   <-- WHO SAYS THIS?
-“It now travels easier.”
-“You are holding both pieces.”
-```
-```
-[tae] “You broke it.”
-“I improved it.”
-“It is in two pieces.”
->>> “It now travels easier.”   <-- WHO SAYS THIS?
-“You are holding both pieces.”
-“That is not the point.”
-```
-```
-“I improved it.”
-“It is in two pieces.”
-“It now travels easier.”
->>> “You are holding both pieces.”   <-- WHO SAYS THIS?
-“That is not the point.”
-Huo saw Sera.
-```
-```
-“It is in two pieces.”
-“It now travels easier.”
-“You are holding both pieces.”
->>> “That is not the point.”   <-- WHO SAYS THIS?
-Huo saw Sera.
-[huo] “Morning.”
-```
-```
-Huo slowly turned his body so the intact-looking side faced him.
-Lu's expression did not change.
-[luweiran] “Huo.”
->>> “Yes?”   <-- WHO SAYS THIS?
-“Put it down.”
-“Where?”
-```
-```
-Lu's expression did not change.
-[luweiran] “Huo.”
-“Yes?”
->>> “Put it down.”   <-- WHO SAYS THIS?
-“Where?”
-“Somewhere I cannot see it.”
-```
-```
-[luweiran] “Huo.”
-“Yes?”
-“Put it down.”
->>> “Where?”   <-- WHO SAYS THIS?
-“Somewhere I cannot see it.”
-Huo considered this.
-```
-```
-“Yes?”
-“Put it down.”
-“Where?”
->>> “Somewhere I cannot see it.”   <-- WHO SAYS THIS?
-Huo considered this.
-Then walked back outside.
-```
-```
 The customer stared.
 Rhen stared back.
 [rhen] “Too hot?”
 >>> “No.”   <-- WHO SAYS THIS?
-“Good.”
+[rhen] “Good.”
 He walked away.
-```
-```
-Rhen stared back.
-[rhen] “Too hot?”
-“No.”
->>> “Good.”   <-- WHO SAYS THIS?
-He walked away.
-Sera watched him.
-```
-```
-Sera watched him.
-A faint smile softened her face.
-He felt her gaze before he turned.
->>> “What?”   <-- WHO SAYS THIS?
-“Nothing.”
-“That is never true.”
-```
-```
-A faint smile softened her face.
-He felt her gaze before he turned.
-“What?”
->>> “Nothing.”   <-- WHO SAYS THIS?
-“That is never true.”
-She crooked one finger at him.
-```
-```
-He felt her gaze before he turned.
-“What?”
-“Nothing.”
->>> “That is never true.”   <-- WHO SAYS THIS?
-She crooked one finger at him.
-Rhen came closer.
-```
-```
-Just enough that Huo, walking back through the side door without the broken post, immediately turned around again.
-Tae walked into him.
-[tae] “What are you doing?”
->>> “Respecting privacy.”   <-- WHO SAYS THIS?
-“We are in a tea shop.”
-“Exactly.”
-```
-```
-Tae walked into him.
-[tae] “What are you doing?”
-“Respecting privacy.”
->>> “We are in a tea shop.”   <-- WHO SAYS THIS?
-“Exactly.”
-Sera released Rhen.
-```
-```
-[tae] “What are you doing?”
-“Respecting privacy.”
-“We are in a tea shop.”
->>> “Exactly.”   <-- WHO SAYS THIS?
-Sera released Rhen.
-His grey eyes stayed on her.
-```
-```
-Sera released Rhen.
-His grey eyes stayed on her.
-“Was that about the sign?” he asked.
->>> “No.”   <-- WHO SAYS THIS?
-“The tea?”
-“No.”
-```
-```
-His grey eyes stayed on her.
-“Was that about the sign?” he asked.
-“No.”
->>> “The tea?”   <-- WHO SAYS THIS?
-“No.”
-“You are difficult.”
-```
-```
-“Was that about the sign?” he asked.
-“No.”
-“The tea?”
->>> “No.”   <-- WHO SAYS THIS?
-“You are difficult.”
-Sera leaned closer.
-```
-```
-“No.”
-“The tea?”
-“No.”
->>> “You are difficult.”   <-- WHO SAYS THIS?
-Sera leaned closer.
-[sera] “You like difficult.”
 ```
 
 ### Chapter 302 — The Garden Is Asked For, Not Imposed
 
 ```
-Sera woke with a frozen petal on her collarbone.
-She did not open her eyes.
->>> “Rhen.”   <-- WHO SAYS THIS?
-No answer.
-The petal melted.
+Rhen's fingers brushed a loose strand of hair from her cheek.
+Sera caught his wrist.
+[sera] “You're about to ask me again.”
+>>> “Yes.”   <-- WHO SAYS THIS?
+“Every time?”
+“Yes.”
 ```
 ```
-Sera opened one eye.
-Rhen was lying beside her, very obviously awake, one arm beneath his head.
-[rhen] “You are abusing a transcendent martial foundation for nonsense.”
->>> “I am not using a technique.”   <-- WHO SAYS THIS?
-“That makes it worse.”
-“It was one petal.”
+Sera caught his wrist.
+[sera] “You're about to ask me again.”
+“Yes.”
+>>> “Every time?”   <-- WHO SAYS THIS?
+“Yes.”
+“You know my answer.”
 ```
 ```
-Rhen was lying beside her, very obviously awake, one arm beneath his head.
-[rhen] “You are abusing a transcendent martial foundation for nonsense.”
-“I am not using a technique.”
->>> “That makes it worse.”   <-- WHO SAYS THIS?
-“It was one petal.”
-“Two.”
+[sera] “You're about to ask me again.”
+“Yes.”
+“Every time?”
+>>> “Yes.”   <-- WHO SAYS THIS?
+“You know my answer.”
+“I know your previous answer.”
 ```
 ```
-[rhen] “You are abusing a transcendent martial foundation for nonsense.”
-“I am not using a technique.”
-“That makes it worse.”
->>> “It was one petal.”   <-- WHO SAYS THIS?
-“Two.”
-“The first melted.”
+“Yes.”
+“Every time?”
+“Yes.”
+>>> “You know my answer.”   <-- WHO SAYS THIS?
+“I know your previous answer.”
+That was why she loved him.
 ```
 ```
-“I am not using a technique.”
-“That makes it worse.”
-“It was one petal.”
->>> “Two.”   <-- WHO SAYS THIS?
-“The first melted.”
-“That is not how counting works.”
-```
-```
-“That makes it worse.”
-“It was one petal.”
-“Two.”
->>> “The first melted.”   <-- WHO SAYS THIS?
-“That is not how counting works.”
-Rhen looked thoughtful.
-```
-```
-“It was one petal.”
-“Two.”
-“The first melted.”
->>> “That is not how counting works.”   <-- WHO SAYS THIS?
-Rhen looked thoughtful.
-Sera rolled toward him.
-```
-```
-She looked at him.
-“How do you know?” Sera asked.
-[sera] “You have been arguing for ten minutes.”
->>> “That proves nothing.”   <-- WHO SAYS THIS?
-“There are captains waiting below.”
-Sera sighed.
-```
-```
-“How do you know?” Sera asked.
-[sera] “You have been arguing for ten minutes.”
-“That proves nothing.”
->>> “There are captains waiting below.”   <-- WHO SAYS THIS?
-Sera sighed.
-[sera] “Which ones?”
-```
-```
-“There are captains waiting below.”
-Sera sighed.
-[sera] “Which ones?”
->>> “All ten.”   <-- WHO SAYS THIS?
-That got her moving.
-By the time they reached the lower assembly hall, the mountain base was fully awake.
-```
-```
-Beyond them, companies of Peak Marquis, High Marquis and Marquis personnel were already rotating through morning assignments.
-Sera entered.
-Everyone stood.
->>> “Sit.”   <-- WHO SAYS THIS?
-They sat.
-Huo leaned against a rear pillar.
-```
-```
-[luweiran] “Why are there four companies on medicine routes?”
-Lu answered immediately.
-[luweiran] “Flooding south of the river. The bridge repairs are finished but three villages are still relying on temporary wells.”
->>> “Lethal authorization?”   <-- WHO SAYS THIS?
-“None requested.”
-“Escort threat?”
-```
-```
-Lu answered immediately.
-[luweiran] “Flooding south of the river. The bridge repairs are finished but three villages are still relying on temporary wells.”
-“Lethal authorization?”
->>> “None requested.”   <-- WHO SAYS THIS?
-“Escort threat?”
-“Bandits withdrew after learning who runs the route.”
-```
-```
-[luweiran] “Flooding south of the river. The bridge repairs are finished but three villages are still relying on temporary wells.”
-“Lethal authorization?”
-“None requested.”
->>> “Escort threat?”   <-- WHO SAYS THIS?
-“Bandits withdrew after learning who runs the route.”
-Huo sounded disappointed.
-```
-```
-“Lethal authorization?”
-“None requested.”
-“Escort threat?”
->>> “Bandits withdrew after learning who runs the route.”   <-- WHO SAYS THIS?
-Huo sounded disappointed.
-[huo] “Cowards.”
-```
-```
-[huo] “Cowards.”
-Sera looked at him.
-[sera] “You are not going to provoke bandits because you are bored.”
->>> “I did not say that.”   <-- WHO SAYS THIS?
-[tae] “You thought it loudly.”
-Tae muttered, “He does most things loudly.”
-```
-```
-Tae muttered, “He does most things loudly.”
-Huo looked at him.
-[huo] “Want to train?”
->>> “No.”   <-- WHO SAYS THIS?
-“That sounded afraid.”
-“That sounded employed.”
-```
-```
-Huo looked at him.
-[huo] “Want to train?”
-“No.”
->>> “That sounded afraid.”   <-- WHO SAYS THIS?
-“That sounded employed.”
-Sera tapped the board.
-```
-```
-[huo] “Want to train?”
-“No.”
-“That sounded afraid.”
->>> “That sounded employed.”   <-- WHO SAYS THIS?
-Sera tapped the board.
-[sera] “Company Seven?”
+“Every time?”
+“Yes.”
+“You know my answer.”
+>>> “I know your previous answer.”   <-- WHO SAYS THIS?
+That was why she loved him.
+It was also why he could be infuriating.
 ```
 ```
 Sera tapped the board.
@@ -560,70 +65,6 @@ A captain stood.
 >>> “Mountain clinic rotation. Two Duke lieutenants at the northern shelter. Twenty-six Peak Marquis split between caravan escort and medicine staging. Forty High Marquis on route security. Thirty Marquis on distribution and village support.”   <-- WHO SAYS THIS?
 Routine.
 One hundred people.
-```
-```
-[luweiran] “Training court.”
-Huo stopped.
-[huo] “How?”
->>> “I know you.”   <-- WHO SAYS THIS?
-“That is invasive.”
-“So is stealing breakfast meant for patients.”
-```
-```
-Huo stopped.
-[huo] “How?”
-“I know you.”
->>> “That is invasive.”   <-- WHO SAYS THIS?
-“So is stealing breakfast meant for patients.”
-“That happened once.”
-```
-```
-[huo] “How?”
-“I know you.”
-“That is invasive.”
->>> “So is stealing breakfast meant for patients.”   <-- WHO SAYS THIS?
-“That happened once.”
-“Yesterday.”
-```
-```
-“I know you.”
-“That is invasive.”
-“So is stealing breakfast meant for patients.”
->>> “That happened once.”   <-- WHO SAYS THIS?
-“Yesterday.”
-Huo left.
-```
-```
-“That is invasive.”
-“So is stealing breakfast meant for patients.”
-“That happened once.”
->>> “Yesterday.”   <-- WHO SAYS THIS?
-Huo left.
-Tae followed, smiling for the first time all morning.
-```
-```
-Tae followed, smiling for the first time all morning.
-Qin remained.
-He turned his face toward Rhen.
->>> “You asked again?”   <-- WHO SAYS THIS?
-“Yes.”
-“Still yes.”
-```
-```
-Qin remained.
-He turned his face toward Rhen.
-“You asked again?”
->>> “Yes.”   <-- WHO SAYS THIS?
-“Still yes.”
-Rhen nodded.
-```
-```
-He turned his face toward Rhen.
-“You asked again?”
-“Yes.”
->>> “Still yes.”   <-- WHO SAYS THIS?
-Rhen nodded.
-Qin added, “But if you tell me my right meridian branch is compensating four percent more than the left, I am leaving.”
 ```
 
 ### Chapter 303 — What Two Years Did Not Repair

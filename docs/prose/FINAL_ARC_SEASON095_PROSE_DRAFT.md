@@ -54,11 +54,11 @@ Huo's voice answered from farther away.
 
 “They surprised me.”
 
-“That is because you were eating.”
+[[speaker:tae]]“That is because you were eating.”
 
-“I can do two things.”
+[[speaker:huo]]“I can do two things.”
 
-“You were doing one badly.”
+[[speaker:tae]]“You were doing one badly.”
 
 Rhen looked back at Sera.
 
@@ -68,13 +68,13 @@ Sera's mouth twitched.
 
 “You say that like the sign is not the expensive thing you're about to destroy.”
 
-“It is wood.”
+[[speaker:rhen]]“It is wood.”
 
-“It is history.”
+[[speaker:sera]]“It is history.”
 
-“It is crooked.”
+[[speaker:rhen]]“It is crooked.”
 
-“So are you.”
+[[speaker:sera]]“So are you.”
 
 Rhen stared at her.
 
@@ -98,17 +98,17 @@ Rhen's hand immediately settled around her waist.
 
 She looked down at it.
 
-“I'm not falling.”
+[[speaker:sera]]“I'm not falling.”
 
-“I know.”
+[[speaker:rhen]]“I know.”
 
-“You moved before I even climbed.”
+[[speaker:sera]]“You moved before I even climbed.”
 
-“I know.”
+[[speaker:rhen]]“I know.”
 
-“That is extremely annoying.”
+[[speaker:sera]]“That is extremely annoying.”
 
-“I know.”
+[[speaker:rhen]]“I know.”
 
 She climbed one rung higher anyway.
 
@@ -122,13 +122,13 @@ Rhen looked at the sign.
 
 Then at her.
 
-“You made it worse.”
+[[speaker:rhen]]“You made it worse.”
 
-“I made it ours.”
+[[speaker:sera]]“I made it ours.”
 
-“That sentence does not improve the angle.”
+[[speaker:rhen]]“That sentence does not improve the angle.”
 
-“It improves everything else.”
+[[speaker:sera]]“It improves everything else.”
 
 Before Rhen could answer, the front door opened behind them.
 
@@ -182,15 +182,15 @@ Huo's voice drifted in from the courtyard.
 
 Lu called back, “I did not ask you.”
 
-“Still not me.”
+[[speaker:huo]]“Still not me.”
 
-“That makes it more suspicious.”
+[[speaker:luweiran]]“That makes it more suspicious.”
 
 Sera stepped past Qin.
 
 “Good morning, Lu.”
 
-“It was.”
+[[speaker:luweiran]]“It was.”
 
 The tea room was full enough that Sera had to turn sideways between two tables.
 
@@ -208,13 +208,13 @@ Yun chewed.
 
 “You counted?”
 
-“Yes.”
+[[speaker:luo]]“Yes.”
 
-“That is romantic.”
+[[speaker:yun]]“That is romantic.”
 
-“That is inventory.”
+[[speaker:luo]]“That is inventory.”
 
-“Same thing if you care enough.”
+[[speaker:yun]]“Same thing if you care enough.”
 
 Luo looked at Sera as she approached.
 
@@ -228,7 +228,7 @@ Yun looked down at his hand.
 
 Then up at him.
 
-“Very romantic.”
+[[speaker:yun]]“Very romantic.”
 
 He let go.
 
@@ -258,11 +258,11 @@ Rhen looked at him.
 
 “I have prices.”
 
-“You have numbers written on a board.”
+[[speaker:luweiran]]“You have numbers written on a board.”
 
-“That is what prices are.”
+[[speaker:rhen]]“That is what prices are.”
 
-“That is what decoration is when nobody collects them.”
+[[speaker:luweiran]]“That is what decoration is when nobody collects them.”
 
 Sera hid a smile in her cup.
 
@@ -270,7 +270,7 @@ Lu noticed.
 
 “Do not encourage him.”
 
-“I married him. That ship left years ago.”
+[[speaker:sera]]“I married him. That ship left years ago.”
 
 The room went quiet for exactly one second.
 
@@ -280,15 +280,15 @@ Tae followed him.
 
 “You broke it.”
 
-“I improved it.”
+[[speaker:huo]]“I improved it.”
 
-“It is in two pieces.”
+[[speaker:tae]]“It is in two pieces.”
 
-“It now travels easier.”
+[[speaker:huo]]“It now travels easier.”
 
-“You are holding both pieces.”
+[[speaker:tae]]“You are holding both pieces.”
 
-“That is not the point.”
+[[speaker:huo]]“That is not the point.”
 
 Huo saw Sera.
 
@@ -306,13 +306,13 @@ Lu's expression did not change.
 
 “Huo.”
 
-“Yes?”
+[[speaker:huo]]“Yes?”
 
-“Put it down.”
+[[speaker:luweiran]]“Put it down.”
 
-“Where?”
+[[speaker:huo]]“Where?”
 
-“Somewhere I cannot see it.”
+[[speaker:luweiran]]“Somewhere I cannot see it.”
 
 Huo considered this.
 
@@ -360,7 +360,7 @@ Rhen stared back.
 
 “No.”
 
-“Good.”
+[[speaker:rhen]]“Good.”
 
 He walked away.
 
@@ -370,11 +370,11 @@ A faint smile softened her face.
 
 He felt her gaze before he turned.
 
-“What?”
+[[speaker:rhen]]“What?”
 
-“Nothing.”
+[[speaker:sera]]“Nothing.”
 
-“That is never true.”
+[[speaker:rhen]]“That is never true.”
 
 She crooked one finger at him.
 
@@ -392,11 +392,11 @@ Tae walked into him.
 
 “What are you doing?”
 
-“Respecting privacy.”
+[[speaker:huo]]“Respecting privacy.”
 
-“We are in a tea shop.”
+[[speaker:tae]]“We are in a tea shop.”
 
-“Exactly.”
+[[speaker:huo]]“Exactly.”
 
 Sera released Rhen.
 
@@ -404,13 +404,13 @@ His grey eyes stayed on her.
 
 “Was that about the sign?” he asked.
 
-“No.”
+[[speaker:sera]]“No.”
 
-“The tea?”
+[[speaker:rhen]]“The tea?”
 
-“No.”
+[[speaker:sera]]“No.”
 
-“You are difficult.”
+[[speaker:rhen]]“You are difficult.”
 
 Sera leaned closer.
 
@@ -438,7 +438,7 @@ Sera woke with a frozen petal on her collarbone.
 
 She did not open her eyes.
 
-“Rhen.”
+[[speaker:sera]]“Rhen.”
 
 No answer.
 
@@ -450,19 +450,19 @@ Sera opened one eye.
 
 Rhen was lying beside her, very obviously awake, one arm beneath his head.
 
-“You are abusing a transcendent martial foundation for nonsense.”
+[[speaker:sera]]“You are abusing a transcendent martial foundation for nonsense.”
 
-“I am not using a technique.”
+[[speaker:rhen]]“I am not using a technique.”
 
-“That makes it worse.”
+[[speaker:sera]]“That makes it worse.”
 
-“It was one petal.”
+[[speaker:rhen]]“It was one petal.”
 
-“Two.”
+[[speaker:sera]]“Two.”
 
-“The first melted.”
+[[speaker:rhen]]“The first melted.”
 
-“That is not how counting works.”
+[[speaker:sera]]“That is not how counting works.”
 
 Rhen looked thoughtful.
 
@@ -688,17 +688,17 @@ She looked at him.
 
 “How do you know?” Sera asked.
 
-“You have been arguing for ten minutes.”
+[[speaker:luweiran]]“You have been arguing for ten minutes.”
 
-“That proves nothing.”
+[[speaker:sera]]“That proves nothing.”
 
-“There are captains waiting below.”
+[[speaker:luweiran]]“There are captains waiting below.”
 
 Sera sighed.
 
 “Which ones?”
 
-“All ten.”
+[[speaker:luweiran]]“All ten.”
 
 That got her moving.
 
@@ -730,7 +730,7 @@ Sera entered.
 
 Everyone stood.
 
-“Sit.”
+[[speaker:sera]]“Sit.”
 
 They sat.
 
@@ -752,19 +752,19 @@ Exactly where he preferred.
 
 Sera glanced at the assignment board.
 
-“Why are there four companies on medicine routes?”
+[[speaker:sera]]“Why are there four companies on medicine routes?”
 
 Lu answered immediately.
 
 “Flooding south of the river. The bridge repairs are finished but three villages are still relying on temporary wells.”
 
-“Lethal authorization?”
+[[speaker:sera]]“Lethal authorization?”
 
-“None requested.”
+[[speaker:luweiran]]“None requested.”
 
-“Escort threat?”
+[[speaker:sera]]“Escort threat?”
 
-“Bandits withdrew after learning who runs the route.”
+[[speaker:luweiran]]“Bandits withdrew after learning who runs the route.”
 
 Huo sounded disappointed.
 
@@ -774,9 +774,9 @@ Sera looked at him.
 
 “You are not going to provoke bandits because you are bored.”
 
-“I did not say that.”
+[[speaker:huo]]“I did not say that.”
 
-“You thought it loudly.”
+[[speaker:sera]]“You thought it loudly.”
 
 Tae muttered, “He does most things loudly.”
 
@@ -784,11 +784,11 @@ Huo looked at him.
 
 “Want to train?”
 
-“No.”
+[[speaker:tae]]“No.”
 
-“That sounded afraid.”
+[[speaker:huo]]“That sounded afraid.”
 
-“That sounded employed.”
+[[speaker:tae]]“That sounded employed.”
 
 Sera tapped the board.
 
@@ -854,15 +854,15 @@ Huo stopped.
 
 “How?”
 
-“I know you.”
+[[speaker:luweiran]]“I know you.”
 
-“That is invasive.”
+[[speaker:huo]]“That is invasive.”
 
-“So is stealing breakfast meant for patients.”
+[[speaker:luweiran]]“So is stealing breakfast meant for patients.”
 
-“That happened once.”
+[[speaker:huo]]“That happened once.”
 
-“Yesterday.”
+[[speaker:luweiran]]“Yesterday.”
 
 Huo left.
 
@@ -872,11 +872,11 @@ Qin remained.
 
 He turned his face toward Rhen.
 
-“You asked again?”
+[[speaker:qin]]“You asked again?”
 
-“Yes.”
+[[speaker:rhen]]“Yes.”
 
-“Still yes.”
+[[speaker:qin]]“Still yes.”
 
 Rhen nodded.
 
