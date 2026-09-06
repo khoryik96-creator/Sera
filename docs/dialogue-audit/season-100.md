@@ -1,6 +1,6 @@
 # Season 100 — unattributed dialogue
 
-68 quoted lines in this season have no speaker.
+67 quoted lines in this season have no speaker.
 See `README.md` in this folder for what to do with them.
 
 Lines already resolved show their speaker in `[brackets]` for context.
@@ -463,21 +463,13 @@ The word came out almost soundless.
 Yun turned her head toward the evidence tray.
 [yun] “Sample.”
 >>> “We have it.”   <-- WHO SAYS THIS?
-“Luo Wen.”
+[yun] “Luo Wen.”
 “We will make sure Wuyue medical command receives the findings and the sample as soon as transport allows.”
-```
-```
-Yun turned her head toward the evidence tray.
-[yun] “Sample.”
-“We have it.”
->>> “Luo Wen.”   <-- WHO SAYS THIS?
-“We will make sure Wuyue medical command receives the findings and the sample as soon as transport allows.”
-Yun frowned.
 ```
 ```
 [yun] “Sample.”
 “We have it.”
-“Luo Wen.”
+[yun] “Luo Wen.”
 >>> “We will make sure Wuyue medical command receives the findings and the sample as soon as transport allows.”   <-- WHO SAYS THIS?
 Yun frowned.
 [yun] “Not medical command.”

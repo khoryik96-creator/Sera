@@ -676,7 +676,7 @@ Yun turned her head toward the evidence tray.
 
 “We have it.”
 
-“Luo Wen.”
+[[speaker:yun]]“Luo Wen.”
 
 “We will make sure Wuyue medical command receives the findings and the sample as soon as transport allows.”
 
