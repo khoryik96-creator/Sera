@@ -86,9 +86,7 @@ The final line had been underlined twice.
 
 Yun almost laughed.
 
-Not because it was funny.
-
-Because she had seen what the descendant of this medicine looked like.
+Nothing about it was funny; she had seen what the descendant of this medicine looked like.
 
 A Peak Marquis vomiting blood after forcing three times his ordinary throughput.
 
@@ -254,7 +252,7 @@ Then, beneath it:
 
 **Aya Katsuragi — Shinsei Ten, No.7.**
 
-For the first time since arriving, Yun felt the shape of the problem rise above ordinary crime.
+The shape of the problem finally rose above ordinary crime.
 
 ---
 
@@ -606,7 +604,7 @@ Luo looked down at the notebook.
 
 “Something is wrong.”
 
-There it was.
+Luo had finally said it aloud.
 
 Not panic.
 
@@ -728,9 +726,7 @@ Sera frowned.
 
 Luo’s breathing slowed.
 
-Not because he felt better.
-
-Because his mind finally had something to work on.
+Relief had nothing to do with it. His mind finally had something to work on.
 
 “Why?”
 
@@ -790,4 +786,4 @@ Day twenty-six became day twenty-seven.
 
 No message came.
 
-For the first time since Yun left, nobody at the Quaint Teahouse called the delay ordinary.
+By then, nobody at the Quaint Teahouse called the delay ordinary.

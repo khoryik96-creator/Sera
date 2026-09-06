@@ -348,13 +348,7 @@ Then Tsubasa charged.
 
 Without cultivation, Tsubasa Kurokawa was still dangerous.
 
-That mattered.
-
-It mattered to him.
-
-It mattered to Rhen.
-
-It mattered to every soldier watching from the allied ridge who had spent years using qi as if it were synonymous with martial skill.
+The fact belonged to all of them: to Tsubasa, to Rhen, and to every soldier watching from the allied ridge who had spent years using qi as if it were synonymous with martial skill.
 
 Tsubasa crossed the distance through ordinary movement.
 
@@ -424,11 +418,7 @@ For several seconds, the strongest conventional cultivator of the era fought wit
 
 And he was still excellent.
 
-Rhen let him be.
-
-Not out of pity.
-
-Because this was the cleanest part of the entire fight.
+Rhen let him be, not out of pity but because this was the cleanest part of the entire fight.
 
 No army.
 

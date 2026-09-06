@@ -460,7 +460,7 @@ This time longer.
 
 Luo understood.
 
-The next phase had begun.
+The next attack would be for him.
 
 ---
 

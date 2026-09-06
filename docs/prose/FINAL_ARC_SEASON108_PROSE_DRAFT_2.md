@@ -846,15 +846,3 @@ Then back at Lu.
 His voice stayed quiet.
 
 “How long?”
-
----
-
-**End of Phase II.**
-
-Chapter 441 begins with Lu’s answer:
-
-**“Six months.”**
-
-Then:
-
-**“Six months. And twelve days.”**

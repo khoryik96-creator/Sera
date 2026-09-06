@@ -156,11 +156,7 @@ Reduced it.
 
 Good.
 
-Not everyone here was stupid enough to punish a patient through medicine.
-
-That mattered.
-
-It also made Shinsei harder to simplify.
+Not everyone here was stupid enough to punish a patient through medicine. That fact also made Shinsei harder to simplify.
 
 The physician administered the lower dose.
 
@@ -1040,9 +1036,7 @@ He did.
 
 Her eyes were dry.
 
-Not because she did not want to cry.
-
-Because her body had not decided what to do yet.
+Her body had not yet decided what to do with the urge to cry.
 
 “You are still not getting the war.”
 
@@ -1114,9 +1108,7 @@ Yun pressed her forehead against her knees.
 
 She would survive the next minute.
 
-Then the next.
-
-That was enough for tonight.
+Then the next. She had enough data for tonight.
 
 ---
 
@@ -1330,9 +1322,7 @@ She waited for them to stop.
 
 The prison was still a laboratory.
 
-Not because suffering had become interesting.
-
-Because observation returned choices.
+Suffering had not become interesting. Observation mattered because it returned choices.
 
 She checked the basin pipe.
 

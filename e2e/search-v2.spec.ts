@@ -1,4 +1,5 @@
 import { test, expect } from '@playwright/test';
+import { TOTAL_CHAPTERS } from '../src/episodeMeta';
 
 async function openSearch(page: import('@playwright/test').Page) {
   await page.goto('/#overview');
@@ -16,7 +17,7 @@ test('command palette opens with grouped search guidance', async ({ page }) => {
   await expect(palette).toContainText('Global command palette');
   await expect(palette).toContainText('Sera');
   await expect(palette).toContainText('Season 23');
-  await expect(palette).toContainText('933 chapters');
+  await expect(palette).toContainText(`${TOTAL_CHAPTERS} chapters`);
 });
 
 test('character search preserves rank state and Enter opens the best match', async ({ page }) => {

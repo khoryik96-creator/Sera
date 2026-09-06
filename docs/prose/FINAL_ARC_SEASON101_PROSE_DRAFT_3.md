@@ -1026,9 +1026,7 @@ A third voice, harsher:
 
 “My uncle disappeared during one of his emergency levies.”
 
-There it was.
-
-History refusing to simplify itself for the convenience of battle.
+History refused to simplify itself for the convenience of battle.
 
 Eirik heard some of it.
 

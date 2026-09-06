@@ -276,9 +276,7 @@ Tsubasa continued.
 
 “However, issuance doctrine remains unchanged for now.”
 
-There it was.
-
-Aya's jaw tightened.
+Aya saw the unchanged doctrine beneath the amended language. Her jaw tightened.
 
 “Tsubasa.”
 
@@ -784,9 +782,7 @@ He stopped when he saw her face.
 
 She folded the paper.
 
-Rhen did not ask to see it.
-
-That mattered.
+Rhen did not ask to see it. He respected the boundary without requiring it to be explained.
 
 “Yurushi told me everything,” she said.
 

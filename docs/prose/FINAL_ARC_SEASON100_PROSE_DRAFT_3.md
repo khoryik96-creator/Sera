@@ -112,9 +112,7 @@ He paused.
 
 “Not without cost.”
 
-There it was.
-
-Nobody wanted the conversation.
+The cost had finally been named. Nobody wanted the conversation.
 
 The war wanted it anyway.
 
@@ -220,11 +218,7 @@ Sera almost smiled.
 
 “Definitely.”
 
-The smile vanished quickly.
-
-But it had existed.
-
-That mattered.
+The smile vanished quickly, but it had existed, and Sera kept that small fact with her.
 
 Outside, Wuyue’s first pact formations began moving north.
 
@@ -464,11 +458,7 @@ Apparently with enough detail to remember forever.
 
 Rui said, “No.10 does not need another army.”
 
-Good.
-
-That mattered.
-
-Xie had no personal army hidden behind the title.
+Good. Xie had no personal army hidden behind the title.
 
 No invented legion waiting for a dramatic reveal.
 
@@ -854,11 +844,7 @@ Sera knew that.
 
 So she did what she had always demanded the right to do.
 
-She stood without him.
-
-Not because he had abandoned her.
-
-Because this time, necessity had taken him out of reach for reasons nobody had chosen.
+She stood without him. He had not abandoned her; necessity had taken him out of reach for reasons nobody had chosen.
 
 She looked at the command room filling again.
 
@@ -892,7 +878,7 @@ Lu did.
 
 Outside, the first mobilization bells began.
 
-Phase I ended before the invasion began.
+The invasion had not begun.
 
 Wuyue was already warned.
 

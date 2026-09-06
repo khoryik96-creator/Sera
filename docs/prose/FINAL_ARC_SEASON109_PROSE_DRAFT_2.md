@@ -1092,7 +1092,7 @@ Luo actually laughed.
 
 Sera looked around the room and realized she had lost.
 
-For the first time in six months, she did not mind.
+After six months of carrying everything herself, she did not mind losing this one argument.
 
 ---
 
@@ -1172,7 +1172,7 @@ He finished.
 
 Sera sat up.
 
-Her body answered without hesitation for the first time in months.
+Her body answered without hesitation, an ease she had not felt in months.
 
 She flexed the injured arm.
 
@@ -1402,9 +1402,7 @@ A Shinsei prisoner whose abdomen had been opened two days earlier stopped dying 
 
 The physician stared at the healed wound.
 
-Then went immediately to the next bed.
-
-That mattered more than staring.
+Then went immediately to the next bed. Work mattered more than staring.
 
 Hours passed.
 
@@ -1476,4 +1474,4 @@ Night settled over Isgard.
 
 The Sanctuary remained.
 
-For the first time in six months, thousands of wounded soldiers slept beneath a sky they did not have to watch.
+That night, thousands of wounded soldiers slept beneath a sky they did not have to watch.

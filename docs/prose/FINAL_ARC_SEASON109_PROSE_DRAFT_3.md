@@ -1566,7 +1566,7 @@ He could have looked at the map and issued orders. Most people present would hav
 
 Instead he asked Sera.
 
-She looked at him for a long moment.
+Sera held his gaze, weighing the question.
 
 Then pointed to the hospital district first.
 

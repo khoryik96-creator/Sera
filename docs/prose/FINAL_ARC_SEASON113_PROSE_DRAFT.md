@@ -98,11 +98,7 @@ Then at her.
 
 “Yes.”
 
-Aya waited.
-
-Rhen did not move past her.
-
-That mattered.
+Aya waited. Rhen stopped where she stopped him.
 
 “What are you doing?” she asked.
 

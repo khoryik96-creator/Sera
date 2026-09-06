@@ -114,7 +114,7 @@ Ten.
 
 Eleven.
 
-There it was again.
+The same imprecision again.
 
 Not exact.
 
@@ -692,17 +692,13 @@ Trust was not a door one walked through once.
 
 It was a series of accurate predictions.
 
-So far, he had made several.
-
-That was enough to build with.
+So far, he had made several. Enough to build with.
 
 ---
 
 ## Chapter 347 — The Roads He Built for Other People
 
-The first cache was older than Yun’s investigation.
-
-That mattered.
+The first cache predated Yun’s investigation, changing what the entire route network meant.
 
 Yurushi showed her the ledger after she asked the obvious question.
 

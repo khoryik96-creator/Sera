@@ -170,121 +170,153 @@ Everywhere.
 
 Jin Seoryu won three battles in six days and became angrier after each one.
 
-On the seventh morning, Luo asked why.
+On the seventh morning, Luo found him comparing two maps that should have made him happy.
 
-Jin pointed at the map.
+The first showed the week’s victories.
+
+A Shinsei regiment captured near the western road.
+
+Two forward depots destroyed.
+
+A coastal relay forced back far enough for Isgard grain carts to move again.
+
+One Redline convoy abandoned when its escort refused to spend another dose just to recover cargo.
+
+Good work. Real work.
+
+The second map was almost identical to the one from six days earlier.
+
+Luo set down two cups of tea.
+
+“You look offended.”
 
 “It refuses to improve.”
 
-Luo looked.
+“The tea?”
 
-Three black markers advanced.
+“The map.”
 
-Two red depots crossed out.
+“Mine does that too.”
 
-One Shinsei regiment captured.
+Jin ignored him and opened the replacement ledger.
 
-That looked like improvement.
-
-Then Jin opened the replacement ledger.
-
-Two new Shinsei formations had arrived.
-
-A repaired Paragon returned to duty.
-
-A lost depot rerouted through another port.
+Two fresh Shinsei formations had arrived through a secondary port. A repaired Paragon returned to duty. The destroyed depot’s distribution load had been split between three smaller warehouses. Road security had shifted inland instead of disappearing.
 
 The gains remained real.
 
 They simply did not change the slope fast enough.
 
-Luo sat.
+Luo sat opposite him.
 
 “Are we losing?”
 
-Jin answered immediately.
-
 “No.”
 
-A pause.
+Jin did not hesitate.
+
+That was important enough that Luo waited for the rest.
+
+Jin stared at the map until the answer became precise.
 
 “We’re winning too slowly.”
 
-There it was.
+The sentence changed the room more than a casualty report would have.
 
-Not defeat.
+This was not defeat. It was not even a clean stalemate. Wuyue and Isgard were producing tactical success at a rate lower than Shinsei’s ability to replace, reroute, repair or politically absorb the loss.
 
-Not stalemate exactly.
+A victory that failed to change tomorrow was still a victory.
 
-Victory occurring at a rate lower than enemy replacement.
+It was also insufficient.
 
-Sera entered carrying a medical restriction band around her ribs under the coat.
-
-Jin looked at it.
+Sera entered wearing a medical restriction band beneath her coat. Jin noticed because everyone had learned to notice when the most dangerous person in the room was pretending not to be injured.
 
 “You’re supposed to rest.”
 
-“I am sitting soon.”
+“I am about to sit.”
 
 “That is not rest.”
 
 “It is relative.”
 
-Luo pointed at a chair.
+Luo pointed at the nearest chair.
 
 “Sit.”
 
-She sat.
+Sera sat.
 
-Apparently the war had finally found authority she obeyed occasionally.
+Jin looked briefly impressed.
 
-Jin summarized.
+“Finally found an authority you obey?”
+
+“Do not make this unpleasant.”
+
+Luo said, “Too late.”
+
+Jin turned the replacement ledger toward her.
 
 “We can keep winning this way for months.”
 
-Sera looked at casualty trends.
+Sera scanned the casualty trend before answering.
 
 “And?”
 
 “We cannot keep paying this way for months.”
 
-Exactly.
+There was the entire sixth month in two sentences.
 
-No one needed Rhen’s name to understand it.
+Wuyue still had reserves at home, but not infinite ones. Isgard’s government was functioning, but epidemic losses had already thinned the ordinary labor beneath its armies. Shinsei could absorb a lost formation, rebuild it farther back, and send a repaired apex fighter into the gap while Wuyue was still writing letters to the families of the people who bought the original victory.
 
-The solution could not simply be stronger fighting.
+Sera leaned over the table until Luo pushed her shoulder back against the chair.
 
-They already fought well.
+“Structural targets.”
 
-The problem was conversion.
+Jin nodded.
 
-How to turn tactical success into strategic change faster than Shinsei could replace it.
+“Already shifting.”
 
-Luo tapped one line.
+“Show me.”
 
-“Redline secrecy is breaking.”
+He began with ports.
 
-“Slowly.”
+Not ships alone. Unloading schedules, warehouse throughput, road access, the clerks whose stamps made replacement formations move without starving civilian districts.
 
-“Yes.”
+Then Redline.
 
-“Aya?”
+Not every vial. The secrecy that made mass use politically cheap. Luo’s prisoner interviews and Aya’s amended medical language were spreading the real lifespan cost farther than military censorship could comfortably contain.
 
-“Likely helping from inside.”
+Then Isgard.
 
-“Can we prove?”
+Every day Solveig’s emergency command functioned without turning into one ruler’s private machine weakened Shinsei’s claim that only imposed centralization could save the north.
 
-“No.”
+Then prisoners.
 
-“Then we do not plan around it.”
+Sera’s refusal to mistreat them had begun returning stories to Shinsei that were far more destabilizing than crude propaganda: the enemy treated wounds, explained Redline costs and did not require gratitude for either.
 
-Sera nodded.
+Luo tapped that line.
+
+“Truth is slow.”
+
+“So are infections,” Jin said. “Until they aren’t.”
+
+Sera looked at him.
+
+“That was almost poetic.”
+
+“Please never say that again.”
+
+Luo drank his tea.
+
+“Aya?” Sera asked.
+
+“Still appears to be pushing accurate disclosure from inside,” Luo said. “Likely more than we can prove.”
+
+“Then we do not plan around what we cannot prove.”
+
+Jin nodded.
 
 “Correct.”
 
-Jin looked at her.
-
-“You keep saying that.”
+“You keep agreeing with me.”
 
 “Because you keep being correct.”
 
@@ -292,25 +324,35 @@ Jin looked at her.
 
 “Don’t get used to it.”
 
-The map remained ugly.
+For a moment, the room felt almost like the Quaint command table before the war: dry insults, bad tea, people competent enough to annoy one another safely.
 
-Good people were not losing because they were stupid.
+Then Jin opened the casualty ledger again.
 
-They were losing time because the enemy had depth.
+The feeling passed.
 
-That made every victory matter more, not less.
+He drew a line beneath the week’s three victories.
 
-Jin closed the ledger.
+“We need the next month to change something the enemy cannot heal, replace or reroute before breakfast.”
 
-“We need the next phase to change something structural.”
+Sera studied the map.
 
-Sera looked north.
+“Then stop asking the map whether we won yesterday.”
 
-“Yes.”
+Jin looked at her.
 
-Neither knew Rhen’s condensation was almost complete.
+“What do I ask?”
 
-Their decisions still belonged to them.
+“Whether yesterday made today different.”
+
+He was quiet for several breaths.
+
+Then he turned the first map over and began a new one.
+
+Far away, Rhen’s condensation was nearing completion, unknown to everyone in that tent.
+
+Their plan did not depend on it.
+
+The decisions on the new map still belonged to them.
 
 ---
 
@@ -464,33 +506,55 @@ So armies had to become good enough that ten people did not need to be.
 
 Aldric Veyrhald received three petitions that morning asking him to overrule Solveig.
 
-He denied all three.
+He denied all three before breakfast.
 
-The petitioners were shocked.
+The petitioners were shocked, which Aldric considered useful information about how badly Isgard had trained powerful families to confuse access with authority.
 
-That was their problem.
+The first petition came from an inland clan that wanted Brynja’s coastal reserve transferred north to protect its own estates.
 
-One wanted troop redistribution from Brynja’s coast to an inland clan region.
+Aldric wrote beneath it:
 
-Aldric wrote:
+**Coastal command remains Brynja Kharvorn’s operational authority. Current threat assessment does not justify transfer.**
 
-**Coastal command remains Brynja Kharvorn’s operational authority.**
+The clan representative read the answer twice.
 
-One wanted Astrid’s hidden-road network placed under a traditional Veyrhald road office.
+“Those are our grain stores.”
 
-Aldric wrote:
+“And the coast is where the next ships arrive.”
+
+“If the grain burns—”
+
+“If the coast falls, your grain becomes somebody else’s.”
+
+The man left angry.
+
+Aldric let him.
+
+The second petition asked for Astrid’s hidden-road network to be placed under a traditional Veyrhald road office now that the worst emergency had supposedly passed.
+
+Aldric wrote one word.
 
 **No.**
 
-The third argued that now all three Paragons had returned, emergency command should dissolve.
+Solveig, standing behind him with three ledgers under one arm, looked over his shoulder.
 
-Aldric stared at that one longest.
+“Diplomatic.”
 
-Then wrote:
+“I considered adding a second word.”
+
+“Dangerous escalation.”
+
+The third petition argued that the return of Isgard’s three Paragons made emergency command unnecessary. Aldric stared at that one longest.
+
+The argument was flattering. That made it worse.
+
+If he accepted it, Aldric would be admitting that Isgard’s government existed only when its strongest people were standing upright.
+
+He wrote:
 
 **Emergency command ends when the emergency ends, not when powerful people become available again.**
 
-Solveig read the line later.
+Solveig read the line.
 
 “You wrote that?”
 
@@ -504,33 +568,125 @@ Solveig read the line later.
 
 Aldric frowned.
 
-Across the hall, Maedra was arguing with Varok about cavalry allocation.
+The command hall around them was louder than it had been before the invasion and less ceremonial than any ruler would have preferred.
 
-Sigrun sat with Brynja reviewing coastal reinforcement without trying to take command just because she was Paragon.
+Maedra was arguing with Varok over whether the surviving cavalry should support a grain convoy or reinforce a threatened eastern road. Both had valid reasons. Neither was getting everything wanted.
 
-Astrid had dirt on one sleeve and three new routes on the map.
+Sigrun sat with Brynja over coastal reinforcement tables, contributing Paragon threat estimates without pretending that cultivation rank made her a better harbor commander.
 
-The government looked damaged.
+Astrid entered through a side door with dirt on one sleeve, placed three new hidden routes on the table, and refused to explain the fourth until the room was cleared of visiting clan aides.
 
-Not collapsed.
+A grain steward waited beside two village delegates whose farms had been stripped first by epidemic labor loss and then by military requisition.
 
-That mattered beyond pride.
+That conversation became Aldric’s next problem.
 
-Shinsei’s political case relied partly on the assumption Isgard required imposed centralization to function.
+“We need the southern reserve,” the steward said.
 
-Every day Solveig’s emergency system worked under lawful authority without becoming one ruler’s personal machine, that argument weakened.
+“No,” one delegate answered. “You need what is left of our winter.”
 
-Eirik knew it too.
+Aldric looked at Solveig.
 
-That was why the later war had become personal in a way armies could not measure.
+She already had the numbers.
 
-Aldric looked at the room.
+“Military requirement?”
+
+“Seven days at current issue.”
+
+“Civilian requirement?”
+
+“Eleven if the next Wuyue purchase convoy lands on schedule. Nineteen if it does not.”
+
+The steward said, “Then we requisition.”
+
+Aldric looked at him.
+
+“No.”
+
+“My lord—”
+
+“We purchase what can be purchased, borrow against the Wuyue shipment, and cut military issue before taking seed grain.”
+
+“That reduces readiness.”
+
+“Yes.”
+
+The word landed harder than a heroic speech.
+
+Aldric continued. “A government that saves its army by ensuring nobody can plant after the war has defended a uniform, not a country.”
+
+Solveig wrote the order down.
+
+One village delegate stared at Aldric as if uncertain whether to trust the sentence.
+
+Good. Trust earned too quickly was usually fear in polite clothing.
+
+By midday, six clan representatives had complained that Solveig possessed too much emergency authority.
+
+Three others complained that she was refusing to use enough of it.
+
+Brynja sent a note that consisted of one insult and a revised coastal schedule.
+
+Astrid’s road office denied knowledge of two roads everybody in the room had just watched her draw.
+
+Varok threatened to solve the cavalry dispute by taking half the horses and letting Maedra chase him.
+
+Maedra threatened to catch him.
+
+The government looked terrible.
+
+It also worked.
+
+Orders moved through lawful authority instead of whichever Paragon happened to be nearest. Civilian complaints entered the same room as military requests. Solveig kept theater command because she possessed the freshest theater knowledge. Aldric retained political authority without pretending that meant knowing every bridge better than Astrid or every coast better than Brynja.
+
+None of it was elegant.
+
+That was precisely why it mattered.
+
+Eirik’s criticism of Isgard had never been entirely false. The old clan system duplicated offices, protected local pride and had failed to coordinate fast enough during the natural epidemic. People had died inside those failures.
+
+Shinsei’s conclusion was the lie.
+
+Failure did not automatically grant a foreign state the right to choose Isgard’s replacement.
+
+More importantly, Isgard was changing under pressure without becoming Shinsei.
+
+It was centralizing what needed coordination and leaving other authority distributed. Powerful people were being forced to accept roles rather than ownership. Solveig’s emergency structure could exist beneath law instead of above it.
+
+Eirik understood what that meant. Every functioning day weakened the strongest part of his political argument: that only imposed order could save the north from itself.
+
+Near sunset, Solveig placed the morning’s three denied petitions back on Aldric’s desk.
+
+“Keep them.”
+
+“Why?”
+
+“Because when this is over, somebody will claim emergency command worked because everyone agreed.”
+
+Aldric looked around the hall.
+
+Maedra and Varok were still arguing.
+
+Brynja’s latest message had acquired a second insult.
+
+A village delegate was demanding an audit of military grain use.
+
+Astrid had disappeared with one of the maps.
+
+Aldric smiled despite his ribs.
+
+“Fair.”
+
+The government remained damaged, inefficient and loud.
+
+It had not collapsed.
+
+It was learning how to coordinate without surrendering the right to choose itself.
 
 Isgard still had a government.
 
-Not perfect.
+Imperfect.
 
-Not efficient enough.
+Overworked.
 
 Its own.
 
@@ -678,6 +834,4 @@ She did not ask anyone to check if he was nearly done.
 
 He would finish when he finished.
 
-Until then, she commanded hurt.
-
-That was enough.
+Until then, she would command hurt—and refuse to let anyone confuse endurance with invulnerability.

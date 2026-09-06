@@ -10,9 +10,7 @@
 
 Hana Arakawa knew Yurushi was lying before he finished the first sentence.
 
-Not because he was bad at lying.
-
-Because he only became excessively precise when hiding something important.
+Yurushi was good at lying. Excessive precision was simply his tell when the truth mattered.
 
 “The eastern medical corridor has an unnecessary double patrol between third and fourth bell,” he said.
 
@@ -214,9 +212,7 @@ Yurushi’s face softened in a way she remembered too well.
 
 Hana looked away first.
 
-There it was.
-
-The reason she had loved him.
+The old answer was still there: the reason she had loved him.
 
 Also the reason they had broken.
 
@@ -388,9 +384,7 @@ Own feet.
 
 That had been the rule.
 
-Not because being carried was shameful.
-
-Because Yurushi needed both hands and full attention for routes, and Yun needed enough control over her body to choose what happened next.
+Being carried was not shameful; Yurushi needed both hands and full attention for the routes, while Yun needed enough control over her body to choose what happened next.
 
 She took the hidden medicine.
 
@@ -1028,7 +1022,7 @@ Then more seriously:
 
 Yurushi looked at her.
 
-For the first time, Yun felt him stop hiding completely.
+Yun felt him stop hiding completely.
 
 Not an aura burst.
 
@@ -1280,4 +1274,4 @@ The warning was moving again.
 
 So was the damage inside her.
 
-And for the first time since entering Shinrin, there was no locked room behind the next door.
+Beyond the next door, at last, there was no locked room waiting for her.

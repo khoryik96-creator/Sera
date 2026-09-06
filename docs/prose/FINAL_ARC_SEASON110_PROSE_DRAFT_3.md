@@ -298,11 +298,7 @@ Hana looked at Nao.
 
 Nao did not look back.
 
-Shunto smiled.
-
-There it was again.
-
-Small overlaps.
+Shunto smiled. The pattern surfaced again in small overlaps.
 
 People arriving at useful times.
 
@@ -752,11 +748,7 @@ He looked toward the command camp.
 
 ## Chapter 459 — The Three Who Say No
 
-The meeting happened without a name.
-
-That mattered.
-
-Hana refused to call it a faction.
+The meeting happened without a name. Hana refused to call it a faction.
 
 Nao refused to call it resistance.
 

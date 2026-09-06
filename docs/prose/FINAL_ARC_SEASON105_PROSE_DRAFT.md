@@ -220,11 +220,7 @@ Jun looked at her.
 
 Aya stared.
 
-He did not say it lightly.
-
-That mattered.
-
-Jun had watched delayed action kill people as a child.
+He did not say it lightly; Jun had watched delayed action kill people as a child.
 
 His entire command philosophy grew from the belief that refusing necessary violence often increased the final body count.
 
@@ -964,9 +960,7 @@ He looked at her.
 
 “Did you know?”
 
-There it was.
-
-Aya could have explained.
+The question had finally arrived. Aya could have explained.
 
 Could have told him she objected to higher dosing.
 

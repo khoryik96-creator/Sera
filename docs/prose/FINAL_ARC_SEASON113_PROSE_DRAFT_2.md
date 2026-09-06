@@ -154,11 +154,7 @@ The crescent could redirect through that network again and again while retaining
 
 The inner battlefield became an enormous kill geometry.
 
-Rhen stopped walking.
-
-Not because he had been trapped.
-
-Because now Tsubasa had shown what Rhen was waiting to see.
+Rhen stopped walking. Tsubasa had finally shown what Rhen was waiting to see.
 
 Tsubasa noticed.
 
@@ -230,11 +226,7 @@ The crescent passed.
 
 Its pressure tore the sleeve of his coat.
 
-Sera's eyes widened.
-
-Not because Rhen was in danger.
-
-Because Tsubasa had done exactly what he was supposed to do.
+Sera's eyes widened—not from fear for Rhen, but because Tsubasa had done exactly what he was supposed to do.
 
 He had made Rhen move.
 
@@ -336,11 +328,7 @@ Then Tsubasa attacked again.
 
 Harder.
 
-Rhen smiled faintly.
-
-Not because the war was funny.
-
-Because Tsubasa had finally stopped looking like a commander carrying an institution and started looking like what he also was:
+Rhen smiled faintly. The war was not funny; Tsubasa had simply stopped looking like a commander carrying an institution and started looking like what he also was:
 
 a martial artist at the absolute edge of the conventional world.
 
@@ -422,9 +410,7 @@ Tsubasa pulled.
 
 Rhen moved one step.
 
-Only one.
-
-That was enough for Tsubasa.
+Only one. Tsubasa needed no second warning.
 
 He released the stored force from **Heaven Returns What It Receives** through the next committed pull.
 

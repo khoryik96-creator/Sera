@@ -12,9 +12,7 @@ The second man came voluntarily.
 
 That made him harder to question.
 
-Not because he refused to speak.
-
-Because he was embarrassed.
+He spoke readily enough; embarrassment was what made him difficult.
 
 His name was Dae Junseo, thirty-seven, High Marquis by cultivation and dock foreman by profession. He had spent fifteen years loading cargo in an eastern Wuyue port, six years running security for merchant warehouses, and exactly one evening believing a smiling broker who told him that a glass ampoule could make him fight above his station for ten minutes.
 
@@ -236,7 +234,7 @@ His fingers trembled around the tea cup.
 
 Yun's expression turned cold.
 
-There it was.
+The distinction Yun had been waiting for surfaced at last.
 
 Not mind control.
 
@@ -828,9 +826,7 @@ Sera stepped into the street.
 
 The masked man froze.
 
-Not because the name was wrong.
-
-Because it was right.
+The name was right. That was why he froze.
 
 Rui looked at Sera.
 
@@ -1140,9 +1136,7 @@ The broker had not been tortured.
 
 Sera had made that clear before the first question.
 
-He had been arrested for trafficking mislabeled dangerous medicine and cooperating with attempted murder.
-
-That was enough.
+He had been arrested for trafficking mislabeled dangerous medicine and cooperating with attempted murder. The charge alone kept him in custody.
 
 The fact that Huo occasionally walked past the door had increased his willingness to answer questions without anyone requesting the service.
 
@@ -1576,9 +1570,7 @@ The word meant almost nothing to her.
 
 That was what made it dangerous.
 
-Not because every unknown country hid an army.
-
-Because somewhere beyond Wuyue's habits, somebody had built a medical system sophisticated enough to make a High Marquis fight above himself for minutes and pay a cost he had never been told existed.
+An unknown country did not automatically imply an army. What mattered was that somewhere beyond Wuyue's habits, somebody had built a medical system sophisticated enough to make a High Marquis fight above himself for minutes and pay a cost he had never been told existed.
 
 Sera touched the page once.
 

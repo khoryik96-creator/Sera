@@ -624,11 +624,7 @@ He had already moved to the next cart.
 
 She walked on.
 
-The town beyond the gate was not rich.
-
-That mattered.
-
-Prosperity could be staged in capitals.
+The town beyond the gate was not rich, which mattered because prosperity could be staged in capitals.
 
 This was a farming town with patched roofs, muddy children and two old men arguing beside a broken wheel.
 
@@ -932,7 +928,7 @@ The clerk’s confusion deepened.
 
 “This is the civil administration.”
 
-There it was.
+The answer sat in plain sight.
 
 Not a revelation delivered by a secret document.
 

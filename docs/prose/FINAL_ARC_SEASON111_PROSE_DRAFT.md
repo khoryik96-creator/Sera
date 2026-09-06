@@ -56,11 +56,7 @@ Silence.
 
 “Nine.”
 
-The guard looked at him.
-
-That was enough.
-
-Shunto leaned back against the wall.
+The guard looked at him and understood. Shunto leaned back against the wall.
 
 “For nine years, if I told you to open a corridor, you opened it.”
 
@@ -288,9 +284,7 @@ Then he ran.
 
 The camp reacted faster than most armies in the world could have.
 
-But it was reacting to its former No.2.
-
-That mattered.
+But it was reacting to its former No.2, and that distinction changed how fast orders moved.
 
 “Stop him!”
 
@@ -1030,11 +1024,7 @@ Shunto did not block.
 
 He touched Kael's forearm.
 
-Only touched.
-
-That was enough.
-
-A cold obstruction snapped into Kael's circulation at the contact point.
+Only touched. Contact was sufficient. A cold obstruction snapped into Kael's circulation at the contact point.
 
 **Hundred Locks Dominion.**
 
@@ -1606,11 +1596,7 @@ Almost.
 
 Then he noticed Shunto's pulse.
 
-The High Paragon was angry.
-
-That mattered medically.
-
-Not emotionally.
+The High Paragon was angry. Medically, that mattered. Emotionally, it did not.
 
 Anger changed breathing.
 
@@ -1660,11 +1646,7 @@ Kael rolled one shoulder.
 
 Shunto's face hardened.
 
-Kael smiled.
-
-There it was.
-
-The opening.
+Kael smiled. He had the opening.
 
 Shunto attacked too hard.
 

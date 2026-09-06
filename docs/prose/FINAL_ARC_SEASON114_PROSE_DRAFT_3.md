@@ -604,11 +604,7 @@ The tea was cold.
 
 Sera smiled with professional menace.
 
-The aliases survived another day.
-
-That was enough.
-
-Kael spent more and more time at the shop between excursions.
+The aliases survived another day. Kael spent more and more time at the shop between excursions.
 
 Nobody formally recruited him into Quaint.
 
@@ -976,7 +972,7 @@ That made Sera smile wider.
 
 “It is.”
 
-Rhen sat at the edge of the bed.
+Rhen settled onto the edge of the bed.
 
 Sera crossed the room slowly.
 

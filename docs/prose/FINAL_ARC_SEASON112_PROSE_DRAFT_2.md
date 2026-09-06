@@ -78,11 +78,7 @@ Rhen's gaze stayed on the dark horizon.
 
 “I can stop Tsubasa.”
 
-Sera did not answer immediately.
-
-There it was.
-
-No boast.
+Sera did not answer immediately. Rhen’s certainty sat between them without boast.
 
 No threat.
 
@@ -116,13 +112,7 @@ Rhen paused.
 
 “Yes.”
 
-That pause mattered.
-
-Not uncertainty.
-
-Calculation.
-
-Sera saw it.
+The pause was calculation, not uncertainty. Sera saw it.
 
 “You figured something out in that cave.”
 
@@ -170,11 +160,7 @@ Rhen's voice softened.
 
 Sera looked at him.
 
-He meant it.
-
-Not because he thought she needed saving.
-
-Because he would respect the decision if she made it.
+He meant it. He did not think she needed saving; he would simply respect the decision if she made it.
 
 That was the difference between protection and possession.
 
@@ -276,11 +262,7 @@ Rhen was silent.
 
 Sera watched him carefully.
 
-This was the moment she expected resistance.
-
-Not because he doubted her.
-
-Because he loved her.
+This was the moment she expected resistance, and any resistance would come from love rather than doubt.
 
 Rhen looked down at their joined hands.
 
@@ -338,9 +320,7 @@ Rhen's hand tightened around hers.
 
 “Then I catch you.”
 
-She smiled.
-
-There it was.
+She smiled. That was the difference she had been waiting for.
 
 Not rescue before the fall.
 
@@ -1082,11 +1062,7 @@ Sera smiled.
 
 “Everything has a simple answer when nobody is trying to win.”
 
-Tsubasa's eyes narrowed.
-
-There it was.
-
-If he refused hostile commitment entirely, Orchid Dominion gave Sera nothing.
+Tsubasa's eyes narrowed. He had found the choice inside her rule: if he refused hostile commitment entirely, Orchid Dominion gave Sera nothing.
 
 But then he also stopped applying pressure.
 

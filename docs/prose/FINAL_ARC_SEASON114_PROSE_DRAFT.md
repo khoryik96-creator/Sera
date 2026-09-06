@@ -278,7 +278,7 @@ He had stepped outside the question Tsubasa had spent his life answering.
 
 That night, no war horn sounded.
 
-For the first time in six months, soldiers on both sides slept because nobody had ordered them to stay awake.
+That night, soldiers on both sides slept because nobody had ordered them to stay awake.
 
 ---
 
@@ -414,11 +414,7 @@ There was no medical need to return a prisoner awaiting judgment to perfect figh
 
 Shunto would live.
 
-He would answer.
-
-That was enough.
-
-Near sunset, Tsubasa woke fully.
+He would answer. Near sunset, Tsubasa woke fully.
 
 Aya was there.
 
@@ -600,9 +596,7 @@ Aya, Haru, Nao, Hana, Kai, Eirik, Kenji and Jun occupied the Shinsei side.
 
 Shunto's chair was empty.
 
-Tsubasa stood at the head of the table.
-
-Then deliberately stepped away from it.
+Tsubasa took the head of the table, then deliberately stepped away from it.
 
 He removed the white command band from his arm.
 

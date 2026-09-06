@@ -704,11 +704,7 @@ He rose.
 
 Outside the command pavilion, Shinsei officers crossed between tents carrying supply counts, coastal reports and Redline casualty sheets.
 
-The institution still moved.
-
-That mattered.
-
-Tsubasa had spent most of his adult life making sure it could.
+The institution still moved, which was the result of most of Tsubasa’s adult life.
 
 Shinrin had once been clans murdering one another through villages they did not own.
 

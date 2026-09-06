@@ -50,9 +50,7 @@ Sera leaned against the table.
 
 The map looked different from the night before.
 
-Not because the geography had changed.
-
-Because responsibility had.
+The geography had not changed. Responsibility had.
 
 Isgard sat to the north beneath fresh black pins representing ports, hospitals and military depots.
 
@@ -432,9 +430,7 @@ Only one of them had decided exactly how much faster the next thirteen would nee
 
 Sera returned to Rhen's chamber after the first full war council.
 
-Not because she had forgotten where he was.
-
-Because now she needed the answer written without hope inside it.
+She knew exactly where he was. What she needed now was an answer written without hope inside it.
 
 Lu walked beside her.
 
@@ -690,9 +686,7 @@ Qin stood.
 
 “What do you need from us?”
 
-There it was.
-
-The question that mattered.
+Sera finally had the question she needed.
 
 Sera looked at the three men who had lived beneath her roof, eaten her food, broken her training grounds, annoyed Lu and somehow become High Paragons while most of the world still thought Wuyue's strength ended at its public ranking board.
 
@@ -800,11 +794,7 @@ To Luo, they were Yun being rude in a language only two people had spent enough 
 
 He read the first line twice.
 
-Then a third time.
-
-Not because he needed to.
-
-Because she had told him to.
+Then a third time, because she had told him to.
 
 **Read anything that comes back twice.**
 
@@ -878,9 +868,7 @@ Lu leaned forward slightly.
 
 Luo kept reading.
 
-The packet was older than the final report.
-
-That mattered.
+The packet’s age mattered because it captured what Yun knew before the final flight.
 
 It did not contain the complete two-hundred-thousand estimate.
 
@@ -1348,9 +1336,7 @@ He met her eyes.
 
 “Nothing makes me clean.”
 
-There it was.
-
-The thing he had never been willing to say when they were together.
+He had finally named the thing he could never say while they were together.
 
 He had served Shinsei sincerely.
 

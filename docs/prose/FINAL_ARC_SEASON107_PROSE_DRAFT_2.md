@@ -293,9 +293,7 @@ Later reports praised Lei.
 
 They should have.
 
-But the line survived because Mo had not panicked and spent eighteen thousand people saving one famous man five minutes too early.
-
-That mattered too.
+The line survived because Mo had not panicked and spent eighteen thousand people saving one famous man five minutes too early.
 
 ---
 
@@ -767,13 +765,9 @@ Eirik Voss: active.
 
 Both observed at effectively full conventional combat function after Aya’s treatment window.
 
-He read the report.
+He read the report once, then handed it to Luo without comment.
 
-Then handed it to Luo.
-
-Luo read it.
-
-Then looked at Sera, who was lying on a treatment cot and pretending not to listen.
+Luo read it standing beside Sera’s treatment cot. She was awake, although the way she kept her eyes closed suggested she hoped everyone might forget that fact and discuss the war loudly enough for her to participate without being accused of participating.
 
 “We beat them yesterday,” Jin said.
 
@@ -785,43 +779,51 @@ Sera opened one eye.
 
 “Yes.”
 
-Luo folded the report.
+Luo folded the report very neatly.
 
 “This is becoming repetitive.”
 
-Jin looked at him.
+Jin gave him a flat look.
 
-“That is the problem.”
+“Repetition is the problem.”
 
-The map showed Wuyue tactical victories.
+He pulled the latest map closer.
 
-Beachheads.
+It showed real victories. Nobody was inventing morale to make themselves feel better.
 
-Depots destroyed.
+A beachhead lost by Shinsei.
 
-Paragons injured.
+Two Redline depots destroyed.
 
-Prisoners captured.
+A regiment captured rather than slaughtered.
 
-Evacuations saved.
+Three evacuation roads held.
 
-Then replacement arrows kept appearing.
+Kai wounded twice in separate engagements.
 
-Shinsei ordinary forces came from a pool larger than Wuyue’s expedition.
+Eirik damaged badly enough that an ordinary High Paragon would have needed a long recovery window.
 
-Their apex fighters came back because Aya could repair the living.
+Jun defeated once.
 
-Jin tapped Kai’s marker.
+Kenji defeated once.
+
+Every mark represented planning, blood and people who had done exactly what command asked of them.
+
+Then Jin placed the recovery ledger beside the battle map.
+
+The two documents disagreed about what victory meant.
+
+He tapped Kai’s marker.
 
 “Kael hurt him.”
 
-Another.
+Another notation.
 
 “Sera hurt him.”
 
-Another.
+Kai’s current-status seal sat beside both.
 
-“Still here.”
+**ACTIVE.**
 
 Eirik.
 
@@ -829,73 +831,143 @@ Eirik.
 
 “Maedra too,” Luo said.
 
-“Still here.”
+**ACTIVE.**
 
 Jun.
 
 “Kael beat him.”
 
-“Still here.”
+**ACTIVE.**
 
 Kenji.
 
 “Sigrun beat him.”
 
-“Still here.”
+**ACTIVE.**
 
-Sera sat up despite the medic’s glare.
+Sera pushed herself upright despite the medic immediately appearing at the edge of her vision.
+
+“Don’t,” the medic said.
+
+“I’m sitting.”
+
+“You were lying down better.”
+
+Sera ignored that and looked at Jin.
 
 “So what changes?”
 
-Jin looked at the whole map.
+For months, their reports had counted an injured enemy Paragon as temporary strategic relief. A week without Kai could save a corridor. Two weeks without Eirik could let Isgard rebuild a command sector. Those windows still mattered.
 
-“We stop counting bodies we know Aya can return.”
+But the language had quietly become dishonest whenever anyone let *wounded* sound like *removed*.
+
+Jin crossed out four old assumptions.
+
+“We stop counting bodies we know Aya can return as permanent gains.”
 
 Luo nodded.
 
-“Count the things she can’t.”
+“Separate disabled from unrecoverable.”
 
-“Such as?”
+The medic beside Sera muttered, “Physicians have been telling armies to do that for centuries.”
+
+Jin looked at her.
+
+“Armies have been ignoring physicians for centuries.”
+
+“Also true.”
+
+Sera almost laughed and immediately regretted it when her ribs answered.
+
+Luo pointed at her without looking.
+
+“That.”
+
+“I know.”
+
+He turned back to the map.
+
+“Count the things Aya cannot simply restore with a treatment cycle.”
+
+Jin began a new column.
 
 “Spent lifespan.”
+
+“Redline stock.”
+
+“Shipping capacity.”
 
 “Morale.”
 
 “Legitimacy.”
 
-“Supply.”
-
 “Captured information.”
 
-Sera added:
+“Trust in command,” Sera added.
 
-“Time.”
+Jin’s brush paused.
 
-Jin looked at her.
+Then wrote it.
 
-She continued.
+Luo looked at Aya’s name on the intelligence sheet.
 
-“Rhen is still in seclusion.”
+“She is not the war.”
 
-Silence.
+“No,” Sera said.
 
-Not because they expected him tomorrow.
+The answer mattered. It would have been easy to reduce the strategic problem to one extraordinary physician and start thinking like people who solved medicine by killing doctors.
 
-Because for months they had deliberately built strategy as though he would not come.
+Aya had created the healing asymmetry. Shinsei’s institution decided how that asymmetry was used.
 
-Correctly.
+Jin drew a circle around the support network instead of the physician.
 
-But time still existed.
+“So we attack conversion.”
 
-Shinsei believed deeper manpower would eventually solve the war.
+Sera nodded.
 
-Wuyue and Isgard believed survival could outlast the political logic of the invasion.
+“Make every victory cost them something healing cannot refund.”
 
-Neither side had yet proven the other wrong.
+A depot.
 
-Jin moved one marker.
+A route.
 
-Then another.
+A lie soldiers no longer believed.
+
+A commander forced to explain why five years of life had been hidden inside a five-minute order.
+
+A government in Isgard that kept functioning despite the argument that it could not.
+
+The tactical fights still mattered. Kael would still have to stop Jun if Jun came through the same gate again. Sera would still have to survive Kai if he returned to the corridor.
+
+But beating the same people repeatedly could not be the strategy.
+
+It was treatment without diagnosis.
+
+Luo said that aloud.
+
+Jin looked at him.
+
+“You’re comparing my war plan to bad medicine.”
+
+“Yes.”
+
+“Helpful.”
+
+“I try.”
+
+Sera studied the southern road on the map, the one that eventually led back toward Wuyue and the sealed chamber beneath the mountain.
+
+Rhen remained in seclusion.
+
+Nobody at the table planned around his return. They had spent months deliberately building the war as though he would not arrive in time, because anything else would have turned hope into negligence.
+
+Time still existed anyway.
+
+Shinsei believed its deeper manpower and recyclable apex fighters would eventually make arithmetic decisive. Wuyue and Isgard believed survival, consent and political fracture could outlast that arithmetic.
+
+Neither side had proven the other wrong.
+
+Jin moved one marker, then another.
 
 “We are winning battles.”
 
@@ -909,6 +981,8 @@ Sera’s voice stayed level.
 
 “Then don’t waste either.”
 
-The war entered its sixth month.
+Outside the tent, the first shift bell of the sixth month sounded.
 
-And the arithmetic kept refusing to improve.
+Nobody in the room celebrated the victories on the map.
+
+They were too busy deciding how to make the next one stay won.

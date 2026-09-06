@@ -520,9 +520,7 @@ Tsubasa looked at her.
 
 “Remains.”
 
-There it was.
-
-Aya closed her eyes briefly.
+Aya heard the evasion packed into one word and closed her eyes briefly.
 
 “Why?”
 
@@ -668,9 +666,7 @@ Hana looked at her.
 
 “People are dying there.”
 
-There it was again.
-
-People die when the physician leaves.
+The trap returned in a different form: people die when the physician leaves.
 
 Except now Aya knew staying could also keep the wrong thing alive.
 
