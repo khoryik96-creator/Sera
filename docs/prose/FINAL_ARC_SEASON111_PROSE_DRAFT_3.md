@@ -1440,6 +1440,6 @@ Instead Wuyue's Number One had broken his body to protect a physician.
 
 And the physician had chosen to keep Shunto alive for judgment anyway.
 
-Season 111 ended with Kael Veyran lying beneath an Isgard sky, completely capable of fighting again one day.
+Kael Veyran lay beneath an Isgard sky, completely capable of fighting again one day.
 
 He simply did not yet know whether he wanted to.

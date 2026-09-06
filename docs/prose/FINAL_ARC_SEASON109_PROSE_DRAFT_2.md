@@ -1328,7 +1328,7 @@ Twenty.
 
 Thirty.
 
-The hemisphere reached its maximum approved span over hospital fields, allied camps, prisoner wards, civilian shelters, supply roads and stretches of ruined Isgard earth where people had been sleeping under patched canvas because no building remained.
+The hemisphere reached its full thirty-mile span over hospital fields, allied camps, prisoner wards, civilian shelters, supply roads and stretches of ruined Isgard earth where people had been sleeping under patched canvas because no building remained.
 
 Petals covered the sky like a second weather system.
 

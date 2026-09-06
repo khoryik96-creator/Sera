@@ -26,6 +26,10 @@ He had been conscious for hours.
 
 He had not spoken.
 
+Sera and Solveig had approved only a limited joint transfer after the Greywater corridor command confirmed Shunto was stable enough to move. Shinsei could place its disgraced former officer in a secure medical cell, but Wuyue and Isgard custody seals stayed on the restraint order, two allied observers rode with the convoy, and any later transfer required joint approval.
+
+Nobody had simply handed him back.
+
 The escort entered Tsubasa Kurokawa's northern military camp before dawn.
 
 Nobody cheered.

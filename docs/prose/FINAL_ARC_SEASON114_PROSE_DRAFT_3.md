@@ -4,7 +4,9 @@
 
 ## Chapter 497 — No Throne in the North
 
-Isgard rebuilt slowly.
+By the time the first permanent treaty was ready, Isgard had been rebuilding for months.
+
+It rebuilt slowly.
 
 That was the only honest way to do it.
 
@@ -78,9 +80,9 @@ She threatened him.
 
 This restored normal Isgard politics.
 
-Solveig remained Acting War Commander for several months after the formal surrender.
+Solveig had remained Acting War Commander for several months after the formal surrender.
 
-Then Aldric made the role permanent under a different name.
+Before the treaty delegation gathered, Aldric made the role permanent under a different name.
 
 **War Marshal of Isgard.**
 
@@ -94,7 +96,19 @@ That decision earned him more loyalty than claiming it would have.
 
 Maedra approved, which she expressed by saying nothing insulting for almost seven minutes.
 
-Then Eirik Voss came home.
+The rest of Isgard's emergency command spine did not disappear when the crisis ended.
+
+Varok remained the north's mobile field commander through reconstruction and later took permanent responsibility for rapid-response frontier forces.
+
+Brynja rebuilt the coastal-defense network she had held together during the invasion, this time with ports, evacuation lanes and civilian shelters designed into the same plan.
+
+Astrid turned the hidden roads and reconnaissance routes that had kept Isgard alive into a standing evacuation-and-intelligence service answerable to lawful command rather than wartime improvisation.
+
+Tor never returned to frontline combat. The meridian destruction that ended his career remained one of the war's permanent costs, so he taught defensive formations and evacuation doctrine instead.
+
+Eldran likewise stayed retired from frontline fighting. He became the adviser Maedra claimed she did not need and then consulted constantly.
+
+Eirik Voss had come home months before the treaty.
 
 There was no parade.
 

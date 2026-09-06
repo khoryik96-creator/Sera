@@ -80,6 +80,8 @@ No art in the world made that softer.
 
 “What about the qi?” Sera asked.
 
+Only after **Winter Ends, Spring Blossoms** had closed every still-active Redline cycle did Rhen touch the captured reserves again.
+
 Rhen lifted one hand.
 
 Far across the battlefield, the remaining frozen petals changed direction.
@@ -164,7 +166,7 @@ Neither had any of them.
 
 Rhen crossed the battlefield toward Tsubasa.
 
-The former Shinsei No.1 sat against a shattered anchor stone.
+Shinsei's defeated No.1 sat against a shattered anchor stone.
 
 He was conscious.
 

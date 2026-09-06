@@ -1492,4 +1492,4 @@ He closed his eyes.
 
 And began counting how long old authority took to die.
 
-Season 110 ended before the count reached zero.
+The count had not reached zero yet.

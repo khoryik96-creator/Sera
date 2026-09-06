@@ -1222,7 +1222,7 @@ He looked at Sera.
 
 Sera's mouth moved faintly.
 
-“Aethon?”
+“Anyone?”
 
 Tsubasa shook his head.
 
@@ -1237,6 +1237,8 @@ Nobody mistook that for weakness.
 She had forced the strongest conventional cultivator of the era to unveil his Ultimate, lose anchors, break chain, bleed, retreat, adapt and survive a stretch where he was genuinely being beaten.
 
 Base Tsubasa Kurokawa remained above her.
+
+Tsubasa and Aethon Vael had never fought each other. The comparison lived in surviving records, witnesses and what each man had demonstrated. On that evidence, present-day Tsubasa stood above the old Aethon benchmark.
 
 But now everyone knew how narrow the word above could become when the Pale Orchid was beneath it.
 
@@ -1310,6 +1312,6 @@ Rhen said nothing.
 
 He did not need to.
 
-Season 112 ended with the strongest conventional cultivator alive still standing.
+The strongest conventional cultivator alive was still standing.
 
 And the Petals Monarch preparing to make sure he stood at his very best.

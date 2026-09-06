@@ -1642,4 +1642,4 @@ He wrote one sentence on a priority dispatch.
 
 The dispatch began moving south.
 
-Season 109 ended before it reached Tsubasa Kurokawa.
+It would reach Tsubasa Kurokawa soon enough.

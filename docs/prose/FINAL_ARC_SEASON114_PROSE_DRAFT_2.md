@@ -4,7 +4,7 @@
 
 ## Chapter 494 — Burn Every Red Vial
 
-Aya Katsuragi chose fire because paper could lie.
+Six weeks after Shinsei surrendered, Aya Katsuragi chose fire because paper could lie.
 
 Orders could be amended.
 
@@ -96,7 +96,13 @@ Specialized concentration chambers broken.
 
 Formula plates melted.
 
-Military dosage tables sealed into the public inquiry archive rather than preserved as active manufacturing instructions.
+Military dosage tables were preserved only as evidentiary fragments in the public inquiry archive, not as a usable manufacturing package.
+
+Authorization chains, casualty ledgers, batch histories and the proof needed to hold people accountable remained public. The concentration ratios, carrier sequence, manufacturing tolerances and any single document capable of reproducing a 3× Redline dose did not. Those were destroyed under multi-party witness.
+
+The record survived.
+
+The recipe did not.
 
 Then came the vials.
 
@@ -264,7 +270,7 @@ That was progress.
 
 ## Chapter 495 — The Numbers Remember
 
-Kael Veyran retired from Wuyue's public No.1 seat by arriving late to his own ceremony.
+Three months after the surrender, Kael Veyran retired from Wuyue's public No.1 seat by arriving late to his own ceremony.
 
 Jin Seoryu was furious.
 
@@ -330,9 +336,7 @@ Han Myeong.
 
 Yun Shizhen.
 
-Those who had died.
-
-Those who had retired.
+Beyond those two names, the older registry was read in full: every confirmed former holder from the generation's earlier years, including those lost or retired before the final war. The ceremony did not reduce them to previous occupants simply because a later name had inherited the number.
 
 Those who had once carried a number before war, injury, death or history moved it elsewhere.
 
@@ -554,7 +558,7 @@ The names would remain.
 
 ## Chapter 496 — There Was Only One Pale Venom
 
-Yun Shizhen's memorial was smaller than the Top Ten ceremony.
+Two days after the Stonecrown ceremony, Yun Shizhen's memorial was smaller than the Top Ten ceremony.
 
 Luo preferred it that way.
 

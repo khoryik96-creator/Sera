@@ -914,15 +914,15 @@ Kai first.
 
 Heat built fast.
 
-At three times normal throughput, **Crimson Crucible Dominion** would have turned a prolonged fight into a furnace.
+At three times normal throughput, **Crimson Crucible Dominion** would have turned a prolonged fight into a furnace. Its heat rapidly dehydrated and exhausted hostile bodies, while Kai's conditioned circulation used the same rising heat to make his own physical output increasingly explosive.
 
 Eirik opened **Crownless Dominion** beside him.
 
-Ambient qi recovery vanished for selected enemies within the field.
+It did not drain the reserve already inside an enemy. It cut selected hostile cultivators off from ambient qi replenishment, forcing every technique to spend only what the body already carried.
 
-Kenji's **Stormstep Dominion** sharpened his burst geometry.
+Kenji's **Stormstep Dominion** sharpened around the field. Every meaningful hostile planted step or landing called a Thunder-Qi strike onto that target's current position. One strike could be avoided; sustained movement invited another, then another.
 
-Jun's **Breach Dominion** prepared to punish fixed defenses.
+Jun opened **Breach Dominion** around the halberd. It did not break defenses from a distance. If Jun's attack actually connected, conventional mitigation at that point—armor, shields, weapon guards and body-hardening qi—provided no meaningful reduction. The answer was not a thicker defense. It was not being where the halberd landed.
 
 Four Paragons.
 
@@ -999,6 +999,22 @@ Kenji.
 Jun.
 
 Four Redline surges died before they could become a sustained attack.
+
+Rhen did not stop at four.
+
+The same Supreme law spread back across the inner field.
+
+The fifty thousand sleeping under Quiet Snow still carried Redline chemistry in their bodies. Sleep had stopped their fighting; it had not magically stopped an activated dose from running its cycle. Tsubasa's body was still carrying the same artificial overclock beneath the crash Rhen had stabilized.
+
+Rhen selected every still-active Redline state he could feel.
+
+**Winter Ends, Spring Blossoms** touched them all.
+
+Thousands of distorted circulations were forced toward their proper conclusion at once. Some soldiers had already spent seconds. Others had spent minutes. Tsubasa had spent part of his own window. None of that future vitality returned.
+
+But no sleeping body kept burning years merely because the battlefield had gone quiet before the drug did.
+
+Across the spearhead, every remaining artificial 3× cycle ended.
 
 Kai staggered.
 
@@ -1370,6 +1386,6 @@ The war had spent six months calculating strength.
 
 Then an anomaly woke up.
 
-Season 113 ended with Shinsei's weapons on the ground.
+Shinsei's weapons lay on the ground.
 
 And physicians from both sides walking forward together.

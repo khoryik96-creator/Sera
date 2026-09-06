@@ -1192,7 +1192,7 @@ Tae answered first.
 
 “Fast,” Huo said. “Actually fast. Not people-say-fast-because-they-lost-her fast.”
 
-Qin added, “Her movement is physical. Darkness hides connected routes. Light accelerates the real body. No spatial tricks.”
+Qin added, “Her qinggong is physical. Wind and pressure. Hollow Sky creates moving low-pressure pockets: breathing, balance and sustained exertion worsen inside them, and collapsing a pocket can turn the returning air into a violent physical opening. No spatial tricks.”
 
 Rhen nodded approval.
 
