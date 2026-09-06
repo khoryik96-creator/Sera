@@ -1,7 +1,13 @@
 import fs from 'node:fs';
+import path from 'node:path';
+import { fileURLToPath } from 'node:url';
+import { loadAuthoringData } from './load-authoring-data.mjs';
 
-const data = JSON.parse(fs.readFileSync('src/data.json', 'utf8'));
-const registrySource = fs.readFileSync('src/characterRegistry.ts', 'utf8');
+const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
+// Prose usage is scanned across every season, so this needs lore recomposed
+// with the split season files.
+const data = await loadAuthoringData();
+const registrySource = fs.readFileSync(path.join(root, 'src', 'characterRegistry.ts'), 'utf8');
 
 const parseQuoted = (value = '') => [...value.matchAll(/'([^']+)'/g)].map((match) => match[1]);
 const registry = [];

@@ -234,7 +234,10 @@ src/react/
 Important shared/runtime files:
 
 ```text
-src/data.json                 canonical lore authoring data (pretty-printed; object rows; build-validated)
+src/data/lore.json            canonical structured lore authoring data (pretty-printed; object rows; build-validated)
+src/data/seasons/season-NNN.json  one authoring file per season of prose
+src/data/index.ts             test-facing view recomposing lore + seasons
+scripts/load-authoring-data.mjs   Node-side loader for the same two sources
 src/db.ts                     core loader / identity bridge (rows stored in runtime shape)
 src/characterRegistry.ts      canonical identity/alias/rank + colour keys (single source of truth)
 src/react/shared/skillTier.ts power-tier label derivation (Characters + search)
@@ -255,11 +258,13 @@ src/images.ts                 portrait discovery
 
 ### Data model & authoring
 
-- `src/data.json` is the single source of truth for all core lore. It is
+- `src/data/lore.json` is the single source of truth for all core lore, and
+  `src/data/seasons/season-NNN.json` holds one season of prose each. Both are
   **pretty-printed** (line-scoped diffs) and edited by hand and by the ChatGPT
-  story workflow. `topSkills`, `ranks` and `seasonCast` rows are **named
-  objects**, not positional arrays.
-- `npm run prepare:data` (`scripts/prepare-data.mjs`) splits it into
+  story workflow. Splitting the old single `src/data.json` keeps a season edit
+  off the same file as a lore edit. `topSkills`, `ranks` and `seasonCast` rows
+  are **named objects**, not positional arrays.
+- `npm run prepare:data` (`scripts/prepare-data.mjs`) recomposes them into
   `src/generated/` (core + 64 season payloads + search index) and **validates
   it at build time** — a missing character name/subtitle, a malformed skill/rank/
   cast row, or a row left as a positional array fails the build with a precise
@@ -271,7 +276,7 @@ src/images.ts                 portrait discovery
 
 ### How to add a character (technical checklist)
 
-1. Add the profile object to `characters` in `src/data.json` (name + subtitle
+1. Add the profile object to `characters` in `src/data/lore.json` (name + subtitle
    are required; other prose fields are optional and render as "Not recorded.").
 2. Add a `characterRegistry.ts` entry (`key`, `displayName`, `colorKey`,
    `aliases`, `speakerKeys`) if the character speaks or needs alias colouring.
@@ -307,7 +312,7 @@ scripts/validate-assets.mjs
 
 ## Canon / data guardrails for engineering work
 
-- `src/data.json` is the lore source of truth.
+- `src/data/lore.json` (structured lore) and `src/data/seasons/season-NNN.json` (prose) are the source of truth.
 - Do not create a second manually maintained character/legend/ranking database for UI convenience.
 - Rhen is explicitly `UNRANKED` and must not receive a numeric world rank.
 - Current / former / retired / deceased rank states use the shared rank-state model.

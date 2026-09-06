@@ -1,6 +1,6 @@
 // Authoring lint for reader prose. Reports rendering-contract issues that stop
 // names and skills from styling, or that make a new character inherit an
-// existing character's colour. The legacy archive lives in src/data.json while
+// existing character's colour. The legacy archive lives in src/data while
 // Seasons 95–114 are generated from docs/prose final-arc drafts.
 //
 // Run: npm run check:authoring   (add --strict to fail on hard issues)
@@ -9,9 +9,10 @@ import { readFile } from 'node:fs/promises';
 import { dirname, resolve } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { loadFinalArcSeasons } from './final-arc-reader.mjs';
+import { loadAuthoringData } from './load-authoring-data.mjs';
 
 const root = resolve(dirname(fileURLToPath(import.meta.url)), '..');
-const data = JSON.parse(await readFile(resolve(root, 'src/data.json'), 'utf8'));
+const data = await loadAuthoringData();
 const finalArc = await loadFinalArcSeasons();
 const registrySrc = await readFile(resolve(root, 'src/characterRegistry.ts'), 'utf8');
 const seasonData = {

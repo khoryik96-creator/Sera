@@ -35,7 +35,9 @@ async function openProduction(page: import('@playwright/test').Page, hash = 'ove
 }
 
 async function sourceCoreCounts(): Promise<CoreCounts> {
-  const source = await readFile(new URL('../src/data.json', import.meta.url), 'utf8');
+  // Structured lore is authored in src/data/lore.json; season prose lives in
+  // src/data/seasons and is not needed for these core counts.
+  const source = await readFile(new URL('../src/data/lore.json', import.meta.url), 'utf8');
   const core = JSON.parse(source) as CoreCountShape;
   const mainFigureKeys = new Set(['mo_qingzhao', 'yun_shizhen', 'ilyra_serath']);
   const isIsgard = (affiliation?: string) => /\bisgard\b/i.test(affiliation || '');

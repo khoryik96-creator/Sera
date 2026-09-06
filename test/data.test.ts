@@ -1,5 +1,5 @@
 import { describe, it, expect } from 'vitest';
-import rawData from '../src/data.json';
+import rawData from '../src/data';
 import { characterImageMap } from '../src/images';
 import { normalizeDatabase } from '../src/db';
 import { TOTAL_SEASONS } from '../src/episodeMeta';
@@ -9,7 +9,7 @@ const raw = rawData as unknown as RawDatabase;
 const data = normalizeDatabase(raw);
 
 describe('data integrity', () => {
-  it('keeps legacy src/data.json seasons contiguous while generated sources extend the archive', () => {
+  it('keeps authored src/data/seasons contiguous while generated sources extend the archive', () => {
     const sourceSeasons = Object.keys(raw)
       .filter((key) => /^season\d+$/.test(key))
       .map((key) => Number(key.slice(6)))

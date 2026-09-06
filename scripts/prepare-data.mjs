@@ -2,33 +2,28 @@ import { mkdir, readFile, rm, writeFile } from 'node:fs/promises';
 import { dirname, resolve } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { loadFinalArcSeasons } from './final-arc-reader.mjs';
+import { loadLore, loadSeasonSources } from './load-authoring-data.mjs';
 
 const here = dirname(fileURLToPath(import.meta.url));
 const root = resolve(here, '..');
-const sourcePath = resolve(root, 'src/data.json');
 const packagePath = resolve(root, 'package.json');
 const outDir = resolve(root, 'src/generated');
 
-const source = JSON.parse(await readFile(sourcePath, 'utf8'));
+// Structured lore and season prose are authored in separate files under
+// src/data so the technical and story workflows no longer edit one shared file.
+const core = await loadLore();
+const seasons = await loadSeasonSources();
 const pkg = JSON.parse(await readFile(packagePath, 'utf8'));
-const core = {};
-const seasons = [];
-
-for (const [key, value] of Object.entries(source)) {
-  const match = key.match(/^season(\d+)$/);
-  if (match) seasons.push({ season: Number(match[1]), episodes: value });
-  else core[key] = value;
-}
 
 // Seasons 95–114 live as auditable prose drafts rather than another ~1 MB hand
-// edit inside src/data.json. Build preparation turns those canonical chapter
-// files into the same generated Episode[] modules used by every earlier season.
+// edit. Build preparation turns those canonical chapter files into the same
+// generated Episode[] modules used by every earlier season.
 const existingSeasonNumbers = new Set(seasons.map((item) => item.season));
 const finalArc = await loadFinalArcSeasons();
 for (const [key, episodes] of Object.entries(finalArc)) {
   const season = Number(key.replace('season', ''));
   if (existingSeasonNumbers.has(season)) {
-    throw new Error(`${key} exists in both src/data.json and final-arc prose sources`);
+    throw new Error(`${key} exists in both src/data/seasons and the final-arc prose sources`);
   }
   seasons.push({ season, episodes });
 }
@@ -45,7 +40,7 @@ if (found.length === 0 || JSON.stringify(found) !== JSON.stringify(expected)) {
 /**
  * Fail the build early on malformed core lore. This is intentionally
  * lightweight and dependency-free: it guards the shapes that render code and
- * tests assume, so a bad hand/GPT edit to src/data.json is caught here rather
+ * tests assume, so a bad hand/GPT edit to src/data/lore.json is caught here rather
  * than at runtime.
  */
 function validateCore(core) {
@@ -83,7 +78,7 @@ function validateCore(core) {
     });
   }
 
-  if (errors.length) throw new Error(`src/data.json failed validation:\n - ${errors.join('\n - ')}`);
+  if (errors.length) throw new Error(`src/data/lore.json failed validation:\n - ${errors.join('\n - ')}`);
 }
 
 function plainEpisodeText(value) {

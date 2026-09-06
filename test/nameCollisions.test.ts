@@ -1,5 +1,5 @@
 import { describe, it, expect } from 'vitest';
-import rawData from '../src/data.json';
+import rawData from '../src/data';
 import { renderNovel, nameHonorifics } from '../src/novel';
 import { characterRegistry } from '../src/characterRegistry';
 import type { RawDatabase } from '../src/types';

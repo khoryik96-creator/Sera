@@ -1,6 +1,7 @@
 // Type definitions for The Quiet Regular lore repository data model.
-// src/data.json remains the canonical authoring file. Build preparation splits
-// it into a small core payload plus independently loadable season payloads.
+// src/data/lore.json and src/data/seasons/season-NNN.json are the canonical
+// authoring files. Build preparation recomposes them into a small core payload
+// plus independently loadable season payloads.
 
 export interface Character {
   name: string;
@@ -137,13 +138,14 @@ interface CoreFields {
 export type Database = CoreFields;
 
 /**
- * Generated core.json shape. Rows are stored as named objects in src/data.json,
+ * Generated core.json shape. Rows are stored as named objects in the authoring
+ * sources,
  * so this is structurally identical to {@link Database}; the alias is kept for
  * call sites that describe data loaded from disk before it is adopted as DB.
  */
 export type RawCoreDatabase = Database;
 
-/** Canonical authoring shape of src/data.json. */
+/** Canonical authoring shape: lore.json recomposed with every season file. */
 export interface RawDatabase extends RawCoreDatabase {
   [season: `season${number}`]: Episode[];
 }

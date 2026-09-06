@@ -1,5 +1,5 @@
 import { describe, expect, it } from 'vitest';
-import rawData from '../src/data.json';
+import rawData from '../src/data';
 import type { Episode, RawDatabase } from '../src/types';
 
 const raw = rawData as unknown as RawDatabase;

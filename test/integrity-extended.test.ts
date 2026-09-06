@@ -1,5 +1,5 @@
 import { describe, it, expect } from 'vitest';
-import rawData from '../src/data.json';
+import rawData from '../src/data';
 import { normalizeDatabase, colorKeyMap } from '../src/db';
 import { TOTAL_SEASONS } from '../src/episodeMeta';
 import type { Episode, RawDatabase } from '../src/types';
