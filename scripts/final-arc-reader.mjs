@@ -4,6 +4,7 @@ import { fileURLToPath } from 'node:url';
 
 const root = resolve(dirname(fileURLToPath(import.meta.url)), '..');
 const proseDir = resolve(root, 'docs/prose');
+const registryPath = resolve(root, 'src/characterRegistry.ts');
 
 export const FINAL_ARC_FIRST_SEASON = 95;
 export const FINAL_ARC_LAST_SEASON = 114;
@@ -12,10 +13,97 @@ export const FINAL_ARC_LAST_CHAPTER = 500;
 
 const SOURCE_RE = /^FINAL_ARC_SEASON(\d{3})_PROSE_DRAFT(?:_(\d+))?\.md$/;
 const CHAPTER_RE = /^## Chapter (\d+) — (.+)$/gm;
+const SPEECH_VERBS = '(?:said|asked|answered|replied|called|shouted|whispered|muttered|snapped|continued|added|told|said quietly|said dryly)';
+
+function escRe(value) {
+  return value.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+}
 
 function partNumber(name) {
   const match = SOURCE_RE.exec(name);
   return match?.[2] ? Number(match[2]) : 1;
+}
+
+async function loadSpeakerAliases() {
+  const source = await readFile(registryPath, 'utf8');
+  const rows = [];
+  for (const match of source.matchAll(/\{ key: '([a-z0-9_]+)',[^\n]*aliases: \[([^\]]+)\](?:, speakerKeys: \[([^\]]+)\])?/g)) {
+    const key = match[1];
+    const aliases = [...match[2].matchAll(/'([^']+)'/g)].map((item) => item[1]);
+    const speakerKeys = match[3] ? [...match[3].matchAll(/'([^']+)'/g)].map((item) => item[1]) : [key];
+    for (const alias of aliases) rows.push({ alias, key: speakerKeys[0] || key });
+  }
+  rows.sort((a, b) => b.alias.length - a.alias.length);
+  return rows;
+}
+
+function subjectSpeaker(paragraph, aliases) {
+  const text = paragraph.trim().replace(/^\*\*/, '');
+  for (const row of aliases) {
+    const re = new RegExp(`^${escRe(row.alias)}(?:[’']s)?\\b`);
+    if (re.test(text)) return row.key;
+  }
+  return null;
+}
+
+function attributedSpeaker(paragraph, aliases) {
+  const text = paragraph.trim();
+  for (const row of aliases) {
+    const re = new RegExp(`\\b${escRe(row.alias)}\\s+${SPEECH_VERBS}\\b`, 'i');
+    if (re.test(text)) return row.key;
+  }
+  return null;
+}
+
+function isStandaloneDialogue(paragraph) {
+  const text = paragraph.trim();
+  return !text.startsWith('[[speaker:') && text.startsWith('“') && /”[.!?…]?$/u.test(text);
+}
+
+function addDialogueHints(body, aliases) {
+  const paragraphs = body.split(/\n{2,}/);
+  let tagged = 0;
+  let total = 0;
+  let lastSpeaker = null;
+  let previousSpeaker = null;
+  let focusSpeaker = null;
+
+  for (let i = 0; i < paragraphs.length; i++) {
+    const paragraph = paragraphs[i].trim();
+    if (!paragraph) continue;
+
+    if (!isStandaloneDialogue(paragraph)) {
+      const explicit = attributedSpeaker(paragraph, aliases);
+      const subject = subjectSpeaker(paragraph, aliases);
+      focusSpeaker = explicit || subject;
+      continue;
+    }
+
+    total++;
+    const next = paragraphs[i + 1]?.trim() || '';
+    const nextAttribution = attributedSpeaker(next, aliases);
+    let speaker = nextAttribution || focusSpeaker;
+
+    // In a clean two-person exchange, consecutive quote paragraphs usually
+    // alternate. Only use this when two distinct speakers were already observed;
+    // multi-person scenes without a fresh narrative subject stay untagged rather
+    // than risk assigning the wrong colour.
+    if (!speaker && lastSpeaker && previousSpeaker && lastSpeaker !== previousSpeaker) {
+      speaker = previousSpeaker;
+    }
+
+    if (speaker) {
+      paragraphs[i] = `[[speaker:${speaker}]]${paragraph}`;
+      tagged++;
+      if (speaker !== lastSpeaker) {
+        previousSpeaker = lastSpeaker;
+        lastSpeaker = speaker;
+      }
+    }
+    focusSpeaker = null;
+  }
+
+  return { text: paragraphs.join('\n\n').trim(), tagged, total };
 }
 
 function cleanChapterBody(raw) {
@@ -46,6 +134,7 @@ function expectedSeasonForChapter(chapter) {
 }
 
 export async function loadFinalArcSeasons() {
+  const aliases = await loadSpeakerAliases();
   const filenames = (await readdir(proseDir))
     .filter((name) => SOURCE_RE.test(name))
     .map((name) => ({ name, match: SOURCE_RE.exec(name) }))
@@ -57,6 +146,8 @@ export async function loadFinalArcSeasons() {
 
   const bySeason = new Map();
   const seenChapters = new Set();
+  let taggedDialogue = 0;
+  let standaloneDialogue = 0;
 
   for (const { name, match } of filenames) {
     const sourceSeason = Number(match[1]);
@@ -77,7 +168,11 @@ export async function loadFinalArcSeasons() {
 
       const start = heading.index + heading[0].length;
       const end = headings[i + 1]?.index ?? source.length;
-      const text = cleanChapterBody(source.slice(start, end));
+      const cleaned = cleanChapterBody(source.slice(start, end));
+      const dialogue = addDialogueHints(cleaned, aliases);
+      const text = dialogue.text;
+      taggedDialogue += dialogue.tagged;
+      standaloneDialogue += dialogue.total;
       if (!title || !text) throw new Error(`${name}: Chapter ${chapter} is missing title or prose`);
 
       const key = `season${sourceSeason}`;
@@ -108,5 +203,6 @@ export async function loadFinalArcSeasons() {
     });
   }
 
+  console.log(`[final-arc] Parsed 200 chapters; tagged ${taggedDialogue}/${standaloneDialogue} high-confidence standalone dialogue paragraphs.`);
   return Object.fromEntries([...bySeason.entries()].sort((a, b) => Number(a[0].slice(6)) - Number(b[0].slice(6))));
 }
