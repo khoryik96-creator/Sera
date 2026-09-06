@@ -456,47 +456,47 @@ Anger kept memory sharp.
 
 She sat cross-legged before the brazier and rebuilt the investigation aloud.
 
-“Shinsei Guild controls civil government, military regulation, judiciary and strategic infrastructure.”
+[[speaker:yun]]“Shinsei Guild controls civil government, military regulation, judiciary and strategic infrastructure.”
 
 Burn.
 
-“Axtaya originated from legitimate medical stimulant research with safeguards later stripped or overridden in military application.”
+[[speaker:yun]]“Axtaya originated from legitimate medical stimulant research with safeguards later stripped or overridden in military application.”
 
 Burn.
 
-“Three-times Redline output exists inside the wider program.”
+[[speaker:yun]]“Three-times Redline output exists inside the wider program.”
 
 Burn.
 
-“Cost includes future vitality. Physical damage and spent lifespan are not the same injury.”
+[[speaker:yun]]“Cost includes future vitality. Physical damage and spent lifespan are not the same injury.”
 
 Burn.
 
-“Ten ranked Paragon seats.”
+[[speaker:yun]]“Ten ranked Paragon seats.”
 
 Burn.
 
-“Shunto Takamori. No.2. High Paragon. Capture specialist. Adaptive procedure.”
+[[speaker:yun]]“Shunto Takamori. No.2. High Paragon. Capture specialist. Adaptive procedure.”
 
 Burn.
 
-“Tsubasa Kurokawa. No.1. Stronger than Shunto. Exact martial mechanics unknown.”
+[[speaker:yun]]“Tsubasa Kurokawa. No.1. Stronger than Shunto. Exact martial mechanics unknown.”
 
 Burn.
 
-“Wider trained apparatus exceeds two hundred thousand by conservative lower-bound reconstruction.”
+[[speaker:yun]]“Wider trained apparatus exceeds two hundred thousand by conservative lower-bound reconstruction.”
 
 Burn.
 
-“Peak-Marquis-class density abnormally high within trained elite cohorts.”
+[[speaker:yun]]“Peak-Marquis-class density abnormally high within trained elite cohorts.”
 
 Burn.
 
-“External preparation points north.”
+[[speaker:yun]]“External preparation points north.”
 
 The harbor sketch curled.
 
-“Isgard.”
+[[speaker:yun]]“Isgard.”
 
 Flame reached the ink.
 
@@ -804,13 +804,13 @@ Shunto’s mouth twitched.
 
 “For your meeting?”
 
-“So you intercepted him.”
+[[speaker:yun]]“So you intercepted him.”
 
-“Yes.”
+[[speaker:shunto]]“Yes.”
 
-“Alive?”
+[[speaker:yun]]“Alive?”
 
-“Yes.”
+[[speaker:shunto]]“Yes.”
 
 Yun believed him.
 
@@ -818,7 +818,7 @@ Kindness had nothing to do with it; killing a transport-seal broker would waste 
 
 “You disappoint me,” she said.
 
-“I have had three months to become comfortable with that.”
+[[speaker:shunto]]“I have had three months to become comfortable with that.”
 
 Rain slipped from cedar needles.
 
@@ -852,11 +852,11 @@ Shunto did not flinch.
 
 “Needle?” he asked.
 
-“Handkerchief.”
+[[speaker:yun]]“Handkerchief.”
 
-“Liar.”
+[[speaker:shunto]]“Liar.”
 
-“Reasonable guess.”
+[[speaker:yun]]“Reasonable guess.”
 
 She withdrew an empty hand.
 
@@ -868,7 +868,7 @@ Yun said nothing.
 
 Still nothing.
 
-“You abandoned two eastbound channels after we changed health screening.”
+[[speaker:shunto]]“You abandoned two eastbound channels after we changed health screening.”
 
 Yun’s expression stayed flat.
 
@@ -888,13 +888,13 @@ He was collecting them.
 
 “You want out,” he said.
 
-“Everyone eventually does.”
+[[speaker:yun]]“Everyone eventually does.”
 
-“Three months ago you wanted information.”
+[[speaker:shunto]]“Three months ago you wanted information.”
 
-“I still do.”
+[[speaker:yun]]“I still do.”
 
-“Now you want both.”
+[[speaker:shunto]]“Now you want both.”
 
 Yun smiled faintly.
 
@@ -904,25 +904,25 @@ Shunto ignored it.
 
 “I can end this without injury.”
 
-“There it is.”
+[[speaker:yun]]“There it is.”
 
-“You surrender the material you took, submit to questioning and stop resisting.”
+[[speaker:shunto]]“You surrender the material you took, submit to questioning and stop resisting.”
 
-“Then what?”
+[[speaker:yun]]“Then what?”
 
-“That depends on what you know.”
+[[speaker:shunto]]“That depends on what you know.”
 
-“No.”
+[[speaker:yun]]“No.”
 
 Shunto’s eyes hardened.
 
 “You did not even consider it.”
 
-“I considered it months ago.”
+[[speaker:yun]]“I considered it months ago.”
 
-“Before you knew what we were.”
+[[speaker:shunto]]“Before you knew what we were.”
 
-“Especially before.”
+[[speaker:yun]]“Especially before.”
 
 A gust moved through the cedars.
 
@@ -952,15 +952,15 @@ She also hated him for it.
 
 “You learned,” she said.
 
-“So did you.”
+[[speaker:shunto]]“So did you.”
 
-“Mine was more fun.”
+[[speaker:yun]]“Mine was more fun.”
 
-“You disabled my arm.”
+[[speaker:shunto]]“You disabled my arm.”
 
-“Yes.”
+[[speaker:yun]]“Yes.”
 
-“For eleven minutes.”
+[[speaker:shunto]]“For eleven minutes.”
 
 Yun’s gaze sharpened.
 
@@ -1140,7 +1140,7 @@ Maybe one.
 
 She laughed once without humor.
 
-“Congratulations.”
+[[speaker:yun]]“Congratulations.”
 
 The empty road did not answer.
 

@@ -292,7 +292,7 @@ Three days for Yun.
 
 She folded her cloak.
 
-“Fine.”
+[[speaker:yun]]“Fine.”
 
 The word sounded tired.
 
@@ -356,15 +356,15 @@ She no longer needed to.
 
 Instead, she spoke the argument into the empty room.
 
-“State-scale stimulant program.”
+[[speaker:yun]]“State-scale stimulant program.”
 
 Her voice was quiet.
 
-“Military safeguards override original medical limits.”
+[[speaker:yun]]“Military safeguards override original medical limits.”
 
 She touched the wrist brace.
 
-“Physical residue preserved.”
+[[speaker:yun]]“Physical residue preserved.”
 
 Ten stones would have been useful.
 
@@ -372,27 +372,27 @@ She used printer blocks instead.
 
 Ten small pieces of wood in a row.
 
-“Ten Paragon-ranked Seats.”
+[[speaker:yun]]“Ten Paragon-ranked Seats.”
 
 Second block.
 
-“Shunto Takamori. No.2. High Paragon. Capture specialist.”
+[[speaker:yun]]“Shunto Takamori. No.2. High Paragon. Capture specialist.”
 
 First block.
 
-“Tsubasa Kurokawa. No.1. Stronger. Exact arts unknown.”
+[[speaker:yun]]“Tsubasa Kurokawa. No.1. Stronger. Exact arts unknown.”
 
 She swept the blocks aside.
 
-“Trained apparatus exceeds two hundred thousand by conservative reconstruction.”
+[[speaker:yun]]“Trained apparatus exceeds two hundred thousand by conservative reconstruction.”
 
 She laid down a map from memory.
 
-“External preparation repeatedly aligned with Isgard ports and northern logistics.”
+[[speaker:yun]]“External preparation repeatedly aligned with Isgard ports and northern logistics.”
 
 Then four charcoal marks.
 
-“Four-month readiness cycle. Late month three. Launch window may be weeks.”
+[[speaker:yun]]“Four-month readiness cycle. Late month three. Launch window may be weeks.”
 
 Yun stopped. She had enough for Sera to act.
 
@@ -836,15 +836,15 @@ No exposed skin.
 
 He did not rush.
 
-“Yun Shizhen.”
+[[speaker:shunto]]“Yun Shizhen.”
 
 She kept moving.
 
 “Three months,” he called.
 
-“Your hospitality needs work.”
+[[speaker:yun]]“Your hospitality needs work.”
 
-“You found what you came for.”
+[[speaker:shunto]]“You found what you came for.”
 
 That made her stop.
 
@@ -866,7 +866,7 @@ Yun turned to face him.
 
 “How would you know?”
 
-“Your movement changed.”
+[[speaker:shunto]]“Your movement changed.”
 
 Of course.
 
@@ -882,9 +882,9 @@ He had decoded her.
 
 Shunto said, “Give me the material.”
 
-“No.”
+[[speaker:yun]]“No.”
 
-“The notebook.”
+[[speaker:shunto]]“The notebook.”
 
 Yun’s eyes cooled.
 
@@ -1230,7 +1230,7 @@ Shunto’s expression was exhausted.
 
 Not triumphant.
 
-“Enough.”
+[[speaker:shunto]]“Enough.”
 
 She hated that word now.
 
@@ -1280,9 +1280,9 @@ Yun laughed weakly.
 
 “You sound pleased.”
 
-“I sound tired.”
+[[speaker:shunto]]“I sound tired.”
 
-“That too.”
+[[speaker:yun]]“That too.”
 
 He looked toward the diagnostic case beneath the wall.
 
