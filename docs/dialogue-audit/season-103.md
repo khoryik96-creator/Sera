@@ -1,6 +1,6 @@
 # Season 103 — unattributed dialogue
 
-481 quoted lines in this season have no speaker.
+375 quoted lines in this season have no speaker.
 See `README.md` in this folder for what to do with them.
 
 Lines already resolved show their speaker in `[brackets]` for context.
@@ -8,495 +8,95 @@ Lines already resolved show their speaker in `[brackets]` for context.
 ### Chapter 381 — The Crossing
 
 ```
-Sixty-three thousand eight hundred people did not cross a sea because somebody shouted march.
-They crossed because six thousand dockworkers, quartermasters, animal handlers, engineers, cooks, physicians, clerks, sailors, scouts and exhausted officers made thousands of small decisions correctly enough that the army did not become a famine with banners.
 Jin Seoryu discovered this again before sunrise.
->>> “Why is that ship overloaded?”   <-- WHO SAYS THIS?
-The harbor officer looked at the manifest.
-“It is not.”
-```
-```
-Jin Seoryu discovered this again before sunrise.
-“Why is that ship overloaded?”
+[jin] “Why is that ship overloaded?”
 The harbor officer looked at the manifest.
 >>> “It is not.”   <-- WHO SAYS THIS?
 Jin pointed.
 The ship sat lower than the others.
 ```
 ```
-“It is not.”
-Jin pointed.
-The ship sat lower than the others.
->>> “Then the sea has developed a personal opinion.”   <-- WHO SAYS THIS?
-The officer looked again.
-Three minutes later they found twelve wagons of spare Stonecrown plate loaded under a mislabeled engineering category.
-```
-```
-Kael Veyran arrived while men were unloading them.
 He looked at the armor.
 Then at Jin.
->>> “Necessary?”   <-- WHO SAYS THIS?
-“No.”
-Kael nodded.
-```
-```
-He looked at the armor.
-Then at Jin.
-“Necessary?”
+[kael] “Necessary?”
 >>> “No.”   <-- WHO SAYS THIS?
 Kael nodded.
-“Leave it.”
-```
-```
-“Necessary?”
-“No.”
-Kael nodded.
->>> “Leave it.”   <-- WHO SAYS THIS?
-The Stonecrown quartermaster looked horrified.
-Kael looked at him.
-```
-```
-“Leave it.”
-The Stonecrown quartermaster looked horrified.
-Kael looked at him.
->>> “If six thousand men cannot survive without carrying a second fortress on their backs, I have trained them badly.”   <-- WHO SAYS THIS?
-The armor stayed.
-That was the crossing.
-```
-```
-Luo Wen boarded with three medicine trunks and no personal troops.
-Xie Wuchen boarded with one travel bag, a Wind-Qi sword and the expression of a man beginning to understand that becoming No.10 came with less romance than paperwork.
-He stopped beside Sera.
->>> “Which ship is mine?”   <-- WHO SAYS THIS?
-She pointed.
-Xie looked.
-```
-```
-“Which ship is mine?”
-She pointed.
-Xie looked.
->>> “That one has physicians.”   <-- WHO SAYS THIS?
-“You are traveling with Luo.”
-“Why?”
-```
-```
-She pointed.
-Xie looked.
-“That one has physicians.”
->>> “You are traveling with Luo.”   <-- WHO SAYS THIS?
-“Why?”
-“Because you do not have an army.”
+[kael] “Leave it.”
 ```
 ```
 Xie looked.
-“That one has physicians.”
-“You are traveling with Luo.”
+[xie_wuchen] “That one has physicians.”
+[sera] “You are traveling with Luo.”
 >>> “Why?”   <-- WHO SAYS THIS?
-“Because you do not have an army.”
-“I noticed.”
+[sera] “Because you do not have an army.”
+[xie_wuchen] “I noticed.”
 ```
 ```
-“That one has physicians.”
-“You are traveling with Luo.”
-“Why?”
->>> “Because you do not have an army.”   <-- WHO SAYS THIS?
-“I noticed.”
-“And because if a dispatch needs to move between ships quickly, you are useful.”
-```
-```
-“You are traveling with Luo.”
-“Why?”
-“Because you do not have an army.”
->>> “I noticed.”   <-- WHO SAYS THIS?
-“And because if a dispatch needs to move between ships quickly, you are useful.”
+[sera] “And because if a dispatch needs to move between ships quickly, you are useful.”
 Xie looked offended.
-```
-```
-“Why?”
-“Because you do not have an army.”
-“I noticed.”
->>> “And because if a dispatch needs to move between ships quickly, you are useful.”   <-- WHO SAYS THIS?
-Xie looked offended.
-“I became Wuyue No.10 to carry messages?”
-```
-```
-“I noticed.”
-“And because if a dispatch needs to move between ships quickly, you are useful.”
-Xie looked offended.
->>> “I became Wuyue No.10 to carry messages?”   <-- WHO SAYS THIS?
-“No.”
-Sera started walking.
-```
-```
-“And because if a dispatch needs to move between ships quickly, you are useful.”
-Xie looked offended.
-“I became Wuyue No.10 to carry messages?”
+[xie_wuchen] “I became Wuyue No.10 to carry messages?”
 >>> “No.”   <-- WHO SAYS THIS?
 Sera started walking.
-“You became No.10 because you agreed to useful work.”
-```
-```
-“I became Wuyue No.10 to carry messages?”
-“No.”
-Sera started walking.
->>> “You became No.10 because you agreed to useful work.”   <-- WHO SAYS THIS?
-Xie followed.
-“That sounded like a trap.”
-```
-```
-Sera started walking.
-“You became No.10 because you agreed to useful work.”
-Xie followed.
->>> “That sounded like a trap.”   <-- WHO SAYS THIS?
-“It was.”
-The first convoy departed on the afternoon tide.
-```
-```
-“You became No.10 because you agreed to useful work.”
-Xie followed.
-“That sounded like a trap.”
->>> “It was.”   <-- WHO SAYS THIS?
-The first convoy departed on the afternoon tide.
-The second at dusk.
+[sera] “You became No.10 because you agreed to useful work.”
 ```
 ```
 She knew every subtraction.
 Nobody needed to remind her that rebuilding was not resurrection.
 A young swordswoman looked up as Arin passed.
 >>> “Lady Arin.”   <-- WHO SAYS THIS?
-“Sleep.”
+[arin] “Sleep.”
 “I’m not tired.”
-```
-```
-Nobody needed to remind her that rebuilding was not resurrection.
-A young swordswoman looked up as Arin passed.
-“Lady Arin.”
->>> “Sleep.”   <-- WHO SAYS THIS?
-“I’m not tired.”
-“You’re lying badly.”
 ```
 ```
 A young swordswoman looked up as Arin passed.
 “Lady Arin.”
-“Sleep.”
+[arin] “Sleep.”
 >>> “I’m not tired.”   <-- WHO SAYS THIS?
-“You’re lying badly.”
+[arin] “You’re lying badly.”
 The woman smiled and closed her eyes.
-```
-```
-“Lady Arin.”
-“Sleep.”
-“I’m not tired.”
->>> “You’re lying badly.”   <-- WHO SAYS THIS?
-The woman smiled and closed her eyes.
-Arin kept walking.
-```
-```
-Supply sequence.
-Sera entered carrying tea.
-Jin looked at it.
->>> “Is that for me?”   <-- WHO SAYS THIS?
-“No.”
-She drank it.
 ```
 ```
 Sera entered carrying tea.
 Jin looked at it.
-“Is that for me?”
+[jin] “Is that for me?”
 >>> “No.”   <-- WHO SAYS THIS?
 She drank it.
-“Cruel.”
-```
-```
-“Is that for me?”
-“No.”
-She drank it.
->>> “Cruel.”   <-- WHO SAYS THIS?
-“You have been awake for twenty hours.”
-“So have you.”
-```
-```
-“No.”
-She drank it.
-“Cruel.”
->>> “You have been awake for twenty hours.”   <-- WHO SAYS THIS?
-“So have you.”
-“I am not pretending that is impressive.”
-```
-```
-She drank it.
-“Cruel.”
-“You have been awake for twenty hours.”
->>> “So have you.”   <-- WHO SAYS THIS?
-“I am not pretending that is impressive.”
-Jin rubbed both eyes.
-```
-```
-“Cruel.”
-“You have been awake for twenty hours.”
-“So have you.”
->>> “I am not pretending that is impressive.”   <-- WHO SAYS THIS?
-Jin rubbed both eyes.
-“We are still eight days from complete arrival if weather holds.”
-```
-```
-“So have you.”
-“I am not pretending that is impressive.”
-Jin rubbed both eyes.
->>> “We are still eight days from complete arrival if weather holds.”   <-- WHO SAYS THIS?
-“First elements sooner.”
-“Yes.”
-```
-```
-“I am not pretending that is impressive.”
-Jin rubbed both eyes.
-“We are still eight days from complete arrival if weather holds.”
->>> “First elements sooner.”   <-- WHO SAYS THIS?
-“Yes.”
-“Medical?”
+[jin] “Cruel.”
 ```
 ```
 Jin rubbed both eyes.
-“We are still eight days from complete arrival if weather holds.”
-“First elements sooner.”
+[jin] “We are still eight days from complete arrival if weather holds.”
+[sera] “First elements sooner.”
 >>> “Yes.”   <-- WHO SAYS THIS?
-“Medical?”
+[sera] “Medical?”
 “First.”
 ```
 ```
-“We are still eight days from complete arrival if weather holds.”
-“First elements sooner.”
+[sera] “First elements sooner.”
 “Yes.”
->>> “Medical?”   <-- WHO SAYS THIS?
-“First.”
-“Engineering?”
-```
-```
-“First elements sooner.”
-“Yes.”
-“Medical?”
+[sera] “Medical?”
 >>> “First.”   <-- WHO SAYS THIS?
-“Engineering?”
+[sera] “Engineering?”
 “Second.”
 ```
 ```
-“Yes.”
-“Medical?”
+[sera] “Medical?”
 “First.”
->>> “Engineering?”   <-- WHO SAYS THIS?
-“Second.”
-“Combat?”
-```
-```
-“Medical?”
-“First.”
-“Engineering?”
+[sera] “Engineering?”
 >>> “Second.”   <-- WHO SAYS THIS?
-“Combat?”
-“Enough in both waves that Shinsei cannot simply eat the landing.”
-```
-```
-“First.”
-“Engineering?”
-“Second.”
->>> “Combat?”   <-- WHO SAYS THIS?
-“Enough in both waves that Shinsei cannot simply eat the landing.”
-Sera nodded. Sending physicians first did not mean sending them undefended.
-```
-```
-“Engineering?”
-“Second.”
-“Combat?”
->>> “Enough in both waves that Shinsei cannot simply eat the landing.”   <-- WHO SAYS THIS?
-Sera nodded. Sending physicians first did not mean sending them undefended.
-It meant deciding what the landing existed to accomplish.
-```
-```
-Sera nodded. Sending physicians first did not mean sending them undefended.
-It meant deciding what the landing existed to accomplish.
-Jin moved one marker.
->>> “Isgard has lost another secondary port.”   <-- WHO SAYS THIS?
-Sera’s hand tightened around the tea cup.
-“How long ago?”
-```
-```
-Jin moved one marker.
-“Isgard has lost another secondary port.”
-Sera’s hand tightened around the tea cup.
->>> “How long ago?”   <-- WHO SAYS THIS?
-“Report is thirty-one hours old.”
-Distance again.
-```
-```
-“Isgard has lost another secondary port.”
-Sera’s hand tightened around the tea cup.
-“How long ago?”
->>> “Report is thirty-one hours old.”   <-- WHO SAYS THIS?
-Distance again.
-Not magical.
-```
-```
-He was where he needed to be.
-She was where she needed to be.
-That had to be enough.
->>> “Any word from home?”   <-- WHO SAYS THIS?
-Jin checked another sheet.
-“Qin reports stable. Lu has expanded west-port monitoring. Yurushi identified two Shinsei merchant codes we were misclassifying.”
-```
-```
-That had to be enough.
-“Any word from home?”
-Jin checked another sheet.
->>> “Qin reports stable. Lu has expanded west-port monitoring. Yurushi identified two Shinsei merchant codes we were misclassifying.”   <-- WHO SAYS THIS?
-Sera nodded.
-“Tae?”
-```
-```
-Jin checked another sheet.
-“Qin reports stable. Lu has expanded west-port monitoring. Yurushi identified two Shinsei merchant codes we were misclassifying.”
-Sera nodded.
->>> “Tae?”   <-- WHO SAYS THIS?
-“Complained about not being invited.”
-“Huo?”
-```
-```
-“Qin reports stable. Lu has expanded west-port monitoring. Yurushi identified two Shinsei merchant codes we were misclassifying.”
-Sera nodded.
-“Tae?”
->>> “Complained about not being invited.”   <-- WHO SAYS THIS?
-“Huo?”
-“Complained louder.”
-```
-```
-Sera nodded.
-“Tae?”
-“Complained about not being invited.”
->>> “Huo?”   <-- WHO SAYS THIS?
-“Complained louder.”
-That helped more than it should have.
-```
-```
-“Tae?”
-“Complained about not being invited.”
-“Huo?”
->>> “Complained louder.”   <-- WHO SAYS THIS?
-That helped more than it should have.
-Sera looked at the northern line again.
+[sera] “Combat?”
+[jin] “Enough in both waves that Shinsei cannot simply eat the landing.”
 ```
 
 ### Chapter 382 — Sera Sends Healers Before Fighters
 
 ```
-She looked older than six weeks should have allowed.
-One arm was bound beneath her coat.
-There was dried mud on one boot and fresh ink on the other.
->>> “Sera.”   <-- WHO SAYS THIS?
-“Solveig.”
-No ceremony.
-```
-```
-One arm was bound beneath her coat.
-There was dried mud on one boot and fresh ink on the other.
-“Sera.”
->>> “Solveig.”   <-- WHO SAYS THIS?
-No ceremony.
-They clasped forearms once.
-```
-```
-No ceremony.
-They clasped forearms once.
-Solveig looked past her at the ships.
->>> “How many made first landing?”   <-- WHO SAYS THIS?
-“Eleven thousand public personnel. More coming behind.”
-“Physicians?”
-```
-```
-They clasped forearms once.
-Solveig looked past her at the ships.
-“How many made first landing?”
->>> “Eleven thousand public personnel. More coming behind.”   <-- WHO SAYS THIS?
-“Physicians?”
-Sera turned.
-```
-```
-Solveig looked past her at the ships.
-“How many made first landing?”
-“Eleven thousand public personnel. More coming behind.”
->>> “Physicians?”   <-- WHO SAYS THIS?
-Sera turned.
-The one hundred twenty Quaint were already moving.
-```
-```
-Engineering teams started inspecting a collapsed quay before the second transport wave could arrive.
-Only the security elements remained visibly near Sera.
-Solveig watched.
->>> “You brought assassins to fix sewage.”   <-- WHO SAYS THIS?
-Sera looked at her.
-“They know how not to die while doing it.”
-```
-```
-Solveig watched.
-“You brought assassins to fix sewage.”
-Sera looked at her.
->>> “They know how not to die while doing it.”   <-- WHO SAYS THIS?
-A tired sound escaped Solveig.
-It took Sera a second to realize it was laughter.
-```
-```
-A tired sound escaped Solveig.
-It took Sera a second to realize it was laughter.
-Then Solveig’s expression hardened again.
->>> “We need fighters at the east approach.”   <-- WHO SAYS THIS?
-“You’ll get them.”
-“When?”
-```
-```
-It took Sera a second to realize it was laughter.
-Then Solveig’s expression hardened again.
-“We need fighters at the east approach.”
->>> “You’ll get them.”   <-- WHO SAYS THIS?
-“When?”
-“Kael’s first Stonecrown units are unloading now. Mo’s infantry behind them. Jin wants the landing secure before he commits the heavier formations inland.”
-```
-```
-Then Solveig’s expression hardened again.
-“We need fighters at the east approach.”
-“You’ll get them.”
->>> “When?”   <-- WHO SAYS THIS?
-“Kael’s first Stonecrown units are unloading now. Mo’s infantry behind them. Jin wants the landing secure before he commits the heavier formations inland.”
+[sera] “Kael’s first Stonecrown units are unloading now. Mo’s infantry behind them. Jin wants the landing secure before he commits the heavier formations inland.”
 Solveig’s jaw tightened.
-```
-```
-“We need fighters at the east approach.”
-“You’ll get them.”
-“When?”
->>> “Kael’s first Stonecrown units are unloading now. Mo’s infantry behind them. Jin wants the landing secure before he commits the heavier formations inland.”   <-- WHO SAYS THIS?
-Solveig’s jaw tightened.
-“We have lost ground every day for four weeks.”
-```
-```
-“When?”
-“Kael’s first Stonecrown units are unloading now. Mo’s infantry behind them. Jin wants the landing secure before he commits the heavier formations inland.”
-Solveig’s jaw tightened.
->>> “We have lost ground every day for four weeks.”   <-- WHO SAYS THIS?
-“I know.”
-“Do you?”
-```
-```
-“Kael’s first Stonecrown units are unloading now. Mo’s infantry behind them. Jin wants the landing secure before he commits the heavier formations inland.”
-Solveig’s jaw tightened.
-“We have lost ground every day for four weeks.”
+[solveig] “We have lost ground every day for four weeks.”
 >>> “I know.”   <-- WHO SAYS THIS?
-“Do you?”
+[solveig] “Do you?”
 There was no insult in it.
-```
-```
-Solveig’s jaw tightened.
-“We have lost ground every day for four weeks.”
-“I know.”
->>> “Do you?”   <-- WHO SAYS THIS?
-There was no insult in it.
-Only exhaustion.
 ```
 ```
 There was no insult in it.
@@ -531,79 +131,39 @@ Solveig swore.
 Sera was already moving.
 ```
 ```
-“Second casualty barge. More than capacity.”
-Solveig swore.
-Sera was already moving.
->>> “Where?”   <-- WHO SAYS THIS?
-The messenger pointed.
-The barge came in low.
-```
-```
 One entire row of miners still wearing work leathers because the front had reached their settlement before military evacuation did.
 Sera reached the quay as the ramp fell.
 A Quaint physician looked up from the first patient.
 >>> “Leader.”   <-- WHO SAYS THIS?
-“What do you need?”
+[sera] “What do you need?”
 “Space.”
-```
-```
-Sera reached the quay as the ramp fell.
-A Quaint physician looked up from the first patient.
-“Leader.”
->>> “What do you need?”   <-- WHO SAYS THIS?
-“Space.”
-Sera turned.
 ```
 ```
 A Quaint physician looked up from the first patient.
 “Leader.”
-“What do you need?”
+[sera] “What do you need?”
 >>> “Space.”   <-- WHO SAYS THIS?
 Sera turned.
-“Clear warehouse four.”
-```
-```
-“What do you need?”
-“Space.”
-Sera turned.
->>> “Clear warehouse four.”   <-- WHO SAYS THIS?
-An Isgard clerk protested immediately.
-“That holds winter grain.”
+[sera] “Clear warehouse four.”
 ```
 ```
 Sera turned.
-“Clear warehouse four.”
+[sera] “Clear warehouse four.”
 An Isgard clerk protested immediately.
 >>> “That holds winter grain.”   <-- WHO SAYS THIS?
-“Move it.”
+[sera] “Move it.”
 “We don’t have carts.”
-```
-```
-“Clear warehouse four.”
-An Isgard clerk protested immediately.
-“That holds winter grain.”
->>> “Move it.”   <-- WHO SAYS THIS?
-“We don’t have carts.”
-Mo Qingzhao’s first Imperial quartermaster had just stepped onto the dock.
 ```
 ```
 An Isgard clerk protested immediately.
 “That holds winter grain.”
-“Move it.”
+[sera] “Move it.”
 >>> “We don’t have carts.”   <-- WHO SAYS THIS?
 Mo Qingzhao’s first Imperial quartermaster had just stepped onto the dock.
 Sera pointed at him.
 ```
 ```
-“We don’t have carts.”
-Mo Qingzhao’s first Imperial quartermaster had just stepped onto the dock.
-Sera pointed at him.
->>> “You do now.”   <-- WHO SAYS THIS?
-The man looked behind himself at eighteen thousand people’s worth of logistical machinery beginning to arrive.
-Then bowed.
-```
-```
-“You do now.”
+[sera] “You do now.”
 The man looked behind himself at eighteen thousand people’s worth of logistical machinery beginning to arrive.
 Then bowed.
 >>> “Yes.”   <-- WHO SAYS THIS?
@@ -611,331 +171,83 @@ Within fifteen minutes, grain was moving.
 Within thirty, warehouse four became a hospital.
 ```
 ```
-Alive.
-Exactly what Sera had hoped to find.
 Solveig pointed at the northern markers.
->>> “This is what remains.”   <-- WHO SAYS THIS?
-Sera stepped to the table.
-“No.”
-```
-```
-Solveig pointed at the northern markers.
-“This is what remains.”
+[solveig] “This is what remains.”
 Sera stepped to the table.
 >>> “No.”   <-- WHO SAYS THIS?
 Solveig frowned.
 Sera looked at the four of them.
 ```
-```
-“No.”
-Solveig frowned.
-Sera looked at the four of them.
->>> “This is what held.”   <-- WHO SAYS THIS?
-Nobody spoke for a moment.
-Then Jin entered with Kael behind him.
-```
 
 ### Chapter 383 — Three Paragons in Beds
 
-```
-One side of his chest rose more carefully than the other.
-Meridian-cooling needles ran from shoulder to forearm.
-He looked at Sera.
->>> “You took your time.”   <-- WHO SAYS THIS?
-She almost smiled.
-“Good. You’re unpleasant enough to live.”
-```
-```
-He looked at Sera.
-“You took your time.”
-She almost smiled.
->>> “Good. You’re unpleasant enough to live.”   <-- WHO SAYS THIS?
-Aldric’s mouth moved.
-Pain stopped the laugh before it formed.
-```
 ```
 Aldric’s mouth moved.
 Pain stopped the laugh before it formed.
 “Eirik?” Sera asked.
 >>> “Alive.”   <-- WHO SAYS THIS?
 “I know.”
-“Then you know the important part.”
+[aldric] “Then you know the important part.”
 ```
 ```
 Pain stopped the laugh before it formed.
 “Eirik?” Sera asked.
 “Alive.”
 >>> “I know.”   <-- WHO SAYS THIS?
-“Then you know the important part.”
+[aldric] “Then you know the important part.”
 Sera stepped closer.
-```
-```
-“Eirik?” Sera asked.
-“Alive.”
-“I know.”
->>> “Then you know the important part.”   <-- WHO SAYS THIS?
-Sera stepped closer.
-“What happened?”
-```
-```
-“I know.”
-“Then you know the important part.”
-Sera stepped closer.
->>> “What happened?”   <-- WHO SAYS THIS?
-Aldric looked at the ceiling.
-“He was better.”
-```
-```
-Sera stepped closer.
-“What happened?”
-Aldric looked at the ceiling.
->>> “He was better.”   <-- WHO SAYS THIS?
-No excuse.
-No humiliation.
-```
-```
-No excuse.
-No humiliation.
-Just fact.
->>> “Crownless Dominion turns every long fight into a debt,” he said. “I kept spending because people were behind me. He kept making sure the battlefield returned nothing.”   <-- WHO SAYS THIS?
-Sera understood immediately.
-Unbroken Dominion was terrifying partly because Aldric could keep honest force alive beyond normal contact.
-```
-```
-Unbroken Dominion was terrifying partly because Aldric could keep honest force alive beyond normal contact.
-That meant continued expenditure.
-Against Eirik, every expenditure stayed spent.
->>> “You hurt him.”   <-- WHO SAYS THIS?
-Aldric looked at her.
-“Of course I hurt him.”
-```
-```
-Against Eirik, every expenditure stayed spent.
-“You hurt him.”
-Aldric looked at her.
->>> “Of course I hurt him.”   <-- WHO SAYS THIS?
-There he was.
-Sera nodded.
-```
-```
-“Of course I hurt him.”
-There he was.
-Sera nodded.
->>> “Maedra?”   <-- WHO SAYS THIS?
-His expression changed.
-“Next room.”
-```
-```
-Sera nodded.
-“Maedra?”
-His expression changed.
->>> “Next room.”   <-- WHO SAYS THIS?
-Maedra Dravaryn looked worse.
-Not because she had more visible wounds.
-```
-```
-His left side did not move correctly.
-Sera stopped.
-He noticed.
->>> “Don’t.”   <-- WHO SAYS THIS?
-“I didn’t say anything.”
-“You looked.”
-```
-```
-Sera stopped.
-He noticed.
-“Don’t.”
->>> “I didn’t say anything.”   <-- WHO SAYS THIS?
-“You looked.”
-“You are difficult not to look at.”
-```
-```
-He noticed.
-“Don’t.”
-“I didn’t say anything.”
->>> “You looked.”   <-- WHO SAYS THIS?
-“You are difficult not to look at.”
-“Better.”
-```
-```
-“Don’t.”
-“I didn’t say anything.”
-“You looked.”
->>> “You are difficult not to look at.”   <-- WHO SAYS THIS?
-“Better.”
-His right hand rested on Maedra’s blanket.
-```
-```
-“I didn’t say anything.”
-“You looked.”
-“You are difficult not to look at.”
->>> “Better.”   <-- WHO SAYS THIS?
-His right hand rested on Maedra’s blanket.
-The left remained useless at his side.
-```
-```
-His right hand rested on Maedra’s blanket.
-The left remained useless at his side.
-“Jun?” Sera asked.
->>> “Breach Dominion.”   <-- WHO SAYS THIS?
-Sera knew the rule from reports.
-If the halberd connected cleanly, armor, guard and ordinary defensive reinforcement stopped meaning what they normally meant.
-```
-```
-Sera knew the rule from reports.
-If the halberd connected cleanly, armor, guard and ordinary defensive reinforcement stopped meaning what they normally meant.
-Eldran looked down at his own body.
->>> “I learned it thoroughly.”   <-- WHO SAYS THIS?
-“Why?”
-He looked at Maedra.
 ```
 ```
 If the halberd connected cleanly, armor, guard and ordinary defensive reinforcement stopped meaning what they normally meant.
 Eldran looked down at his own body.
-“I learned it thoroughly.”
+[eldran] “I learned it thoroughly.”
 >>> “Why?”   <-- WHO SAYS THIS?
 He looked at Maedra.
 There was the answer.
 ```
 ```
-There was the answer.
-He had stepped into the killing sequence because Maedra would have died.
-Sera did not insult that choice by calling it foolish.
->>> “She wakes?”   <-- WHO SAYS THIS?
-“Sometimes.”
-“Physicians?”
-```
-```
-He had stepped into the killing sequence because Maedra would have died.
-Sera did not insult that choice by calling it foolish.
-“She wakes?”
->>> “Sometimes.”   <-- WHO SAYS THIS?
-“Physicians?”
-“Say she lives.”
-```
-```
-Sera did not insult that choice by calling it foolish.
-“She wakes?”
-“Sometimes.”
->>> “Physicians?”   <-- WHO SAYS THIS?
-“Say she lives.”
-For now, survival was enough to change the room.
-```
-```
-“She wakes?”
-“Sometimes.”
-“Physicians?”
->>> “Say she lives.”   <-- WHO SAYS THIS?
-For now, survival was enough to change the room.
 Eldran’s eyes returned to Sera.
-```
-```
-“Say she lives.”
-For now, survival was enough to change the room.
-Eldran’s eyes returned to Sera.
->>> “Do not waste people avenging me.”   <-- WHO SAYS THIS?
-“I wasn’t planning to.”
-“Good.”
-```
-```
-For now, survival was enough to change the room.
-Eldran’s eyes returned to Sera.
-“Do not waste people avenging me.”
->>> “I wasn’t planning to.”   <-- WHO SAYS THIS?
-“Good.”
-A faint smile.
-```
-```
-Eldran’s eyes returned to Sera.
-“Do not waste people avenging me.”
-“I wasn’t planning to.”
+[eldran] “Do not waste people avenging me.”
+[sera] “I wasn’t planning to.”
 >>> “Good.”   <-- WHO SAYS THIS?
 A faint smile.
-“I like you better than Kael.”
-```
-```
-“I wasn’t planning to.”
-“Good.”
-A faint smile.
->>> “I like you better than Kael.”   <-- WHO SAYS THIS?
-“Everyone does.”
-From the next room, Aldric shouted weakly, “I HEARD THAT.”
-```
-```
-“Good.”
-A faint smile.
-“I like you better than Kael.”
->>> “Everyone does.”   <-- WHO SAYS THIS?
-From the next room, Aldric shouted weakly, “I HEARD THAT.”
-Eldran closed his eyes.
+[eldran] “I like you better than Kael.”
 ```
 ```
 One shoulder was deeply bruised beneath medicinal salve.
 Her right knee had swollen around a graven wound pattern that still held traces of reinforced qi.
 A physician stood beside the bed.
 >>> “She kept moving after she should have lost function.”   <-- WHO SAYS THIS?
-“Last Body Standing.”
+[sera] “Last Body Standing.”
 The physician nodded.
 ```
 ```
-Her right knee had swollen around a graven wound pattern that still held traces of reinforced qi.
-A physician stood beside the bed.
 “She kept moving after she should have lost function.”
->>> “Last Body Standing.”   <-- WHO SAYS THIS?
-The physician nodded.
-“It delayed consequences. It did not remove them.”
-```
-```
-“She kept moving after she should have lost function.”
-“Last Body Standing.”
+[sera] “Last Body Standing.”
 The physician nodded.
 >>> “It delayed consequences. It did not remove them.”   <-- WHO SAYS THIS?
 Sera looked at Sigrun.
-“Kenji?”
-```
-```
-The physician nodded.
-“It delayed consequences. It did not remove them.”
-Sera looked at Sigrun.
->>> “Kenji?”   <-- WHO SAYS THIS?
-“Stormstep Dominion was part of it. Repeated Thunder-Qi pursuit every planted step. She held the evacuation corridor anyway.”
-“How long?”
+[sera] “Kenji?”
 ```
 ```
 “It delayed consequences. It did not remove them.”
 Sera looked at Sigrun.
-“Kenji?”
+[sera] “Kenji?”
 >>> “Stormstep Dominion was part of it. Repeated Thunder-Qi pursuit every planted step. She held the evacuation corridor anyway.”   <-- WHO SAYS THIS?
-“How long?”
+[sera] “How long?”
 “Long enough.”
 ```
 ```
-Sera looked at Sigrun.
-“Kenji?”
+[sera] “Kenji?”
 “Stormstep Dominion was part of it. Repeated Thunder-Qi pursuit every planted step. She held the evacuation corridor anyway.”
->>> “How long?”   <-- WHO SAYS THIS?
-“Long enough.”
-That was becoming Isgard’s favorite unit of measurement.
-```
-```
-“Kenji?”
-“Stormstep Dominion was part of it. Repeated Thunder-Qi pursuit every planted step. She held the evacuation corridor anyway.”
-“How long?”
+[sera] “How long?”
 >>> “Long enough.”   <-- WHO SAYS THIS?
 That was becoming Isgard’s favorite unit of measurement.
 Sera stood between the three rooms.
 ```
 ```
-Eldran crippled.
-And still the maps downstairs had been moving.
 Sera looked at the physician.
->>> “Who has been running the war?”   <-- WHO SAYS THIS?
-The physician gave a tired laugh.
-“Everyone who was left.”
-```
-```
-Sera looked at the physician.
-“Who has been running the war?”
+[sera] “Who has been running the war?”
 The physician gave a tired laugh.
 >>> “Everyone who was left.”   <-- WHO SAYS THIS?
 That answer followed her back to the command hall.
@@ -953,14 +265,6 @@ The room said nothing.
 Luo looked at the floor.
 ```
 ```
-“You made it.”
-The room said nothing.
-Luo looked at the floor.
->>> “Stupid woman.”   <-- WHO SAYS THIS?
-His voice broke on the second word.
-He stopped.
-```
-```
 He stopped.
 Breathed.
 Started again.
@@ -969,204 +273,52 @@ The words carried the whole distance she had crossed.
 Survived Shunto.
 ```
 ```
-He laughed once.
-Quiet.
-Ugly.
->>> “She’d poison me for this.”   <-- WHO SAYS THIS?
-Probably.
-Not lethally.
-```
-```
-Wrote again.
-The door opened a fraction.
-Sera stood outside.
->>> “I asked for alone.”   <-- WHO SAYS THIS?
-“You have been alone for two hours.”
-“That is still alone.”
-```
-```
-The door opened a fraction.
-Sera stood outside.
-“I asked for alone.”
->>> “You have been alone for two hours.”   <-- WHO SAYS THIS?
-“That is still alone.”
+[luo] “That is still alone.”
 She looked at the papers.
-```
-```
-Sera stood outside.
-“I asked for alone.”
-“You have been alone for two hours.”
->>> “That is still alone.”   <-- WHO SAYS THIS?
-She looked at the papers.
-“You’re working.”
-```
-```
-“You have been alone for two hours.”
-“That is still alone.”
-She looked at the papers.
->>> “You’re working.”   <-- WHO SAYS THIS?
-“Yes.”
-“Good.”
-```
-```
-“That is still alone.”
-She looked at the papers.
-“You’re working.”
+[sera] “You’re working.”
 >>> “Yes.”   <-- WHO SAYS THIS?
 “Good.”
 Luo looked at her.
 ```
 ```
 She looked at the papers.
-“You’re working.”
+[sera] “You’re working.”
 “Yes.”
 >>> “Good.”   <-- WHO SAYS THIS?
 Luo looked at her.
 No pity.
 ```
 ```
-Neither spoke for a while.
 Then Sera said, “Yurushi told me what he knew.”
 Luo’s face changed.
->>> “About Shunto.”   <-- WHO SAYS THIS?
-“Yes.”
-“How much?”
-```
-```
-Then Sera said, “Yurushi told me what he knew.”
-Luo’s face changed.
-“About Shunto.”
+[luo] “About Shunto.”
 >>> “Yes.”   <-- WHO SAYS THIS?
-“How much?”
-“Not a confession. Condition. Guard access. What Yun would not spend time explaining while escaping.”
-```
-```
-Luo’s face changed.
-“About Shunto.”
-“Yes.”
->>> “How much?”   <-- WHO SAYS THIS?
-“Not a confession. Condition. Guard access. What Yun would not spend time explaining while escaping.”
-Luo’s hands went still.
-```
-```
-“About Shunto.”
-“Yes.”
-“How much?”
->>> “Not a confession. Condition. Guard access. What Yun would not spend time explaining while escaping.”   <-- WHO SAYS THIS?
-Luo’s hands went still.
-Sera watched him.
-```
-```
-“Not a confession. Condition. Guard access. What Yun would not spend time explaining while escaping.”
-Luo’s hands went still.
-Sera watched him.
->>> “He believes Shunto abused her beyond interrogation.”   <-- WHO SAYS THIS?
-The room became smaller.
-Luo stared at the pulse chart on the wall.
+[luo] “How much?”
+[sera] “Not a confession. Condition. Guard access. What Yun would not spend time explaining while escaping.”
 ```
 ```
 Wrong room.
 Wrong world.
 After a long time he asked, “Did she say his name?”
 >>> “No.”   <-- WHO SAYS THIS?
-“Then we do not invent what she didn’t tell us.”
+[luo] “Then we do not invent what she didn’t tell us.”
 Sera nodded.
 ```
 ```
-Wrong world.
-After a long time he asked, “Did she say his name?”
-“No.”
->>> “Then we do not invent what she didn’t tell us.”   <-- WHO SAYS THIS?
+[luo] “Then we do not invent what she didn’t tell us.”
 Sera nodded.
-“But we don’t ignore what he did either.”
-```
-```
-“No.”
-“Then we do not invent what she didn’t tell us.”
-Sera nodded.
->>> “But we don’t ignore what he did either.”   <-- WHO SAYS THIS?
-“No.”
-Luo looked down at the Axtaya notes.
-```
-```
-“Then we do not invent what she didn’t tell us.”
-Sera nodded.
-“But we don’t ignore what he did either.”
+[sera] “But we don’t ignore what he did either.”
 >>> “No.”   <-- WHO SAYS THIS?
 Luo looked down at the Axtaya notes.
 His voice was very quiet.
 ```
 ```
-“No.”
-Luo looked down at the Axtaya notes.
-His voice was very quiet.
->>> “I’m going to kill him.”   <-- WHO SAYS THIS?
-Sera did not answer immediately.
-Then:
-```
-```
-“I’m going to kill him.”
+[luo] “I’m going to kill him.”
 Sera did not answer immediately.
 Then:
 >>> “No.”   <-- WHO SAYS THIS?
 Luo looked at her.
-“If a day comes when lethal force is necessary and I authorize it, that is different.”
-```
-```
-Then:
-“No.”
-Luo looked at her.
->>> “If a day comes when lethal force is necessary and I authorize it, that is different.”   <-- WHO SAYS THIS?
-His jaw tightened.
-“You expect me to—”
-```
-```
-Luo looked at her.
-“If a day comes when lethal force is necessary and I authorize it, that is different.”
-His jaw tightened.
->>> “You expect me to—”   <-- WHO SAYS THIS?
-“I expect you not to let Shunto decide what kind of man Yun’s death turns you into.”
-That hurt.
-```
-```
-“If a day comes when lethal force is necessary and I authorize it, that is different.”
-His jaw tightened.
-“You expect me to—”
->>> “I expect you not to let Shunto decide what kind of man Yun’s death turns you into.”   <-- WHO SAYS THIS?
-That hurt.
-Which was probably why it worked.
-```
-```
-Luo looked away.
-Minutes passed.
-Then he said, “I hate you sometimes.”
->>> “I know.”   <-- WHO SAYS THIS?
-“Rhen is more pleasant.”
-“Objectively false.”
-```
-```
-Minutes passed.
-Then he said, “I hate you sometimes.”
-“I know.”
->>> “Rhen is more pleasant.”   <-- WHO SAYS THIS?
-“Objectively false.”
-A breath escaped Luo.
-```
-```
-Then he said, “I hate you sometimes.”
-“I know.”
-“Rhen is more pleasant.”
->>> “Objectively false.”   <-- WHO SAYS THIS?
-A breath escaped Luo.
-Not laughter.
-```
-```
-Not laughter.
-Close enough.
-He picked up the new poison notes.
->>> “I found something.”   <-- WHO SAYS THIS?
-Sera leaned forward.
-The room where Yun died became, after Day Zero, a place where something new could begin.
+[sera] “If a day comes when lethal force is necessary and I authorize it, that is different.”
 ```
 
 ### Chapter 385 — Jin Chooses One Beachhead

@@ -14,7 +14,7 @@ They crossed because six thousand dockworkers, quartermasters, animal handlers, 
 
 Jin Seoryu discovered this again before sunrise.
 
-“Why is that ship overloaded?”
+[[speaker:jin]]“Why is that ship overloaded?”
 
 The harbor officer looked at the manifest.
 
@@ -24,7 +24,7 @@ Jin pointed.
 
 The ship sat lower than the others.
 
-“Then the sea has developed a personal opinion.”
+[[speaker:jin]]“Then the sea has developed a personal opinion.”
 
 The officer looked again.
 
@@ -36,19 +36,19 @@ He looked at the armor.
 
 Then at Jin.
 
-“Necessary?”
+[[speaker:kael]]“Necessary?”
 
 “No.”
 
 Kael nodded.
 
-“Leave it.”
+[[speaker:kael]]“Leave it.”
 
 The Stonecrown quartermaster looked horrified.
 
 Kael looked at him.
 
-“If six thousand men cannot survive without carrying a second fortress on their backs, I have trained them badly.”
+[[speaker:kael]]“If six thousand men cannot survive without carrying a second fortress on their backs, I have trained them badly.”
 
 The armor stayed.
 
@@ -114,39 +114,39 @@ Xie Wuchen boarded with one travel bag, a Wind-Qi sword and the expression of a 
 
 He stopped beside Sera.
 
-“Which ship is mine?”
+[[speaker:xie_wuchen]]“Which ship is mine?”
 
 She pointed.
 
 Xie looked.
 
-“That one has physicians.”
+[[speaker:xie_wuchen]]“That one has physicians.”
 
-“You are traveling with Luo.”
+[[speaker:sera]]“You are traveling with Luo.”
 
 “Why?”
 
-“Because you do not have an army.”
+[[speaker:sera]]“Because you do not have an army.”
 
-“I noticed.”
+[[speaker:xie_wuchen]]“I noticed.”
 
-“And because if a dispatch needs to move between ships quickly, you are useful.”
+[[speaker:sera]]“And because if a dispatch needs to move between ships quickly, you are useful.”
 
 Xie looked offended.
 
-“I became Wuyue No.10 to carry messages?”
+[[speaker:xie_wuchen]]“I became Wuyue No.10 to carry messages?”
 
 “No.”
 
 Sera started walking.
 
-“You became No.10 because you agreed to useful work.”
+[[speaker:sera]]“You became No.10 because you agreed to useful work.”
 
 Xie followed.
 
-“That sounded like a trap.”
+[[speaker:xie_wuchen]]“That sounded like a trap.”
 
-“It was.”
+[[speaker:sera]]“It was.”
 
 The first convoy departed on the afternoon tide.
 
@@ -180,11 +180,11 @@ A young swordswoman looked up as Arin passed.
 
 “Lady Arin.”
 
-“Sleep.”
+[[speaker:arin]]“Sleep.”
 
 “I’m not tired.”
 
-“You’re lying badly.”
+[[speaker:arin]]“You’re lying badly.”
 
 The woman smiled and closed her eyes.
 
@@ -202,39 +202,39 @@ Sera entered carrying tea.
 
 Jin looked at it.
 
-“Is that for me?”
+[[speaker:jin]]“Is that for me?”
 
 “No.”
 
 She drank it.
 
-“Cruel.”
+[[speaker:jin]]“Cruel.”
 
-“You have been awake for twenty hours.”
+[[speaker:sera]]“You have been awake for twenty hours.”
 
-“So have you.”
+[[speaker:jin]]“So have you.”
 
-“I am not pretending that is impressive.”
+[[speaker:sera]]“I am not pretending that is impressive.”
 
 Jin rubbed both eyes.
 
-“We are still eight days from complete arrival if weather holds.”
+[[speaker:jin]]“We are still eight days from complete arrival if weather holds.”
 
-“First elements sooner.”
+[[speaker:sera]]“First elements sooner.”
 
 “Yes.”
 
-“Medical?”
+[[speaker:sera]]“Medical?”
 
 “First.”
 
-“Engineering?”
+[[speaker:sera]]“Engineering?”
 
 “Second.”
 
-“Combat?”
+[[speaker:sera]]“Combat?”
 
-“Enough in both waves that Shinsei cannot simply eat the landing.”
+[[speaker:jin]]“Enough in both waves that Shinsei cannot simply eat the landing.”
 
 Sera nodded. Sending physicians first did not mean sending them undefended.
 
@@ -242,13 +242,13 @@ It meant deciding what the landing existed to accomplish.
 
 Jin moved one marker.
 
-“Isgard has lost another secondary port.”
+[[speaker:jin]]“Isgard has lost another secondary port.”
 
 Sera’s hand tightened around the tea cup.
 
-“How long ago?”
+[[speaker:sera]]“How long ago?”
 
-“Report is thirty-one hours old.”
+[[speaker:jin]]“Report is thirty-one hours old.”
 
 Distance again.
 
@@ -280,21 +280,21 @@ She was where she needed to be.
 
 That had to be enough.
 
-“Any word from home?”
+[[speaker:sera]]“Any word from home?”
 
 Jin checked another sheet.
 
-“Qin reports stable. Lu has expanded west-port monitoring. Yurushi identified two Shinsei merchant codes we were misclassifying.”
+[[speaker:jin]]“Qin reports stable. Lu has expanded west-port monitoring. Yurushi identified two Shinsei merchant codes we were misclassifying.”
 
 Sera nodded.
 
-“Tae?”
+[[speaker:sera]]“Tae?”
 
-“Complained about not being invited.”
+[[speaker:jin]]“Complained about not being invited.”
 
-“Huo?”
+[[speaker:sera]]“Huo?”
 
-“Complained louder.”
+[[speaker:jin]]“Complained louder.”
 
 That helped more than it should have.
 
@@ -352,9 +352,9 @@ One arm was bound beneath her coat.
 
 There was dried mud on one boot and fresh ink on the other.
 
-“Sera.”
+[[speaker:solveig]]“Sera.”
 
-“Solveig.”
+[[speaker:sera]]“Solveig.”
 
 No ceremony.
 
@@ -362,11 +362,11 @@ They clasped forearms once.
 
 Solveig looked past her at the ships.
 
-“How many made first landing?”
+[[speaker:solveig]]“How many made first landing?”
 
-“Eleven thousand public personnel. More coming behind.”
+[[speaker:sera]]“Eleven thousand public personnel. More coming behind.”
 
-“Physicians?”
+[[speaker:solveig]]“Physicians?”
 
 Sera turned.
 
@@ -396,11 +396,11 @@ Only the security elements remained visibly near Sera.
 
 Solveig watched.
 
-“You brought assassins to fix sewage.”
+[[speaker:solveig]]“You brought assassins to fix sewage.”
 
 Sera looked at her.
 
-“They know how not to die while doing it.”
+[[speaker:sera]]“They know how not to die while doing it.”
 
 A tired sound escaped Solveig.
 
@@ -408,21 +408,21 @@ It took Sera a second to realize it was laughter.
 
 Then Solveig’s expression hardened again.
 
-“We need fighters at the east approach.”
+[[speaker:solveig]]“We need fighters at the east approach.”
 
-“You’ll get them.”
+[[speaker:sera]]“You’ll get them.”
 
-“When?”
+[[speaker:solveig]]“When?”
 
-“Kael’s first Stonecrown units are unloading now. Mo’s infantry behind them. Jin wants the landing secure before he commits the heavier formations inland.”
+[[speaker:sera]]“Kael’s first Stonecrown units are unloading now. Mo’s infantry behind them. Jin wants the landing secure before he commits the heavier formations inland.”
 
 Solveig’s jaw tightened.
 
-“We have lost ground every day for four weeks.”
+[[speaker:solveig]]“We have lost ground every day for four weeks.”
 
 “I know.”
 
-“Do you?”
+[[speaker:solveig]]“Do you?”
 
 There was no insult in it.
 
@@ -436,7 +436,7 @@ Solveig looked at her.
 
 Sera continued.
 
-“I know the reports. That is not the same thing.”
+[[speaker:sera]]“I know the reports. That is not the same thing.”
 
 Something in Solveig’s face shifted.
 
@@ -458,7 +458,7 @@ Solveig swore.
 
 Sera was already moving.
 
-“Where?”
+[[speaker:sera]]“Where?”
 
 The messenger pointed.
 
@@ -480,19 +480,19 @@ A Quaint physician looked up from the first patient.
 
 “Leader.”
 
-“What do you need?”
+[[speaker:sera]]“What do you need?”
 
 “Space.”
 
 Sera turned.
 
-“Clear warehouse four.”
+[[speaker:sera]]“Clear warehouse four.”
 
 An Isgard clerk protested immediately.
 
 “That holds winter grain.”
 
-“Move it.”
+[[speaker:sera]]“Move it.”
 
 “We don’t have carts.”
 
@@ -500,7 +500,7 @@ Mo Qingzhao’s first Imperial quartermaster had just stepped onto the dock.
 
 Sera pointed at him.
 
-“You do now.”
+[[speaker:sera]]“You do now.”
 
 The man looked behind himself at eighteen thousand people’s worth of logistical machinery beginning to arrive.
 
@@ -544,7 +544,7 @@ Exactly what Sera had hoped to find.
 
 Solveig pointed at the northern markers.
 
-“This is what remains.”
+[[speaker:solveig]]“This is what remains.”
 
 Sera stepped to the table.
 
@@ -554,7 +554,7 @@ Solveig frowned.
 
 Sera looked at the four of them.
 
-“This is what held.”
+[[speaker:sera]]“This is what held.”
 
 Nobody spoke for a moment.
 
@@ -582,11 +582,11 @@ Meridian-cooling needles ran from shoulder to forearm.
 
 He looked at Sera.
 
-“You took your time.”
+[[speaker:aldric]]“You took your time.”
 
 She almost smiled.
 
-“Good. You’re unpleasant enough to live.”
+[[speaker:sera]]“Good. You’re unpleasant enough to live.”
 
 Aldric’s mouth moved.
 
@@ -598,15 +598,15 @@ Pain stopped the laugh before it formed.
 
 “I know.”
 
-“Then you know the important part.”
+[[speaker:aldric]]“Then you know the important part.”
 
 Sera stepped closer.
 
-“What happened?”
+[[speaker:sera]]“What happened?”
 
 Aldric looked at the ceiling.
 
-“He was better.”
+[[speaker:aldric]]“He was better.”
 
 No excuse.
 
@@ -614,7 +614,7 @@ No humiliation.
 
 Just fact.
 
-“Crownless Dominion turns every long fight into a debt,” he said. “I kept spending because people were behind me. He kept making sure the battlefield returned nothing.”
+[[speaker:aldric]]“Crownless Dominion turns every long fight into a debt,” he said. “I kept spending because people were behind me. He kept making sure the battlefield returned nothing.”
 
 Sera understood immediately.
 
@@ -624,21 +624,21 @@ That meant continued expenditure.
 
 Against Eirik, every expenditure stayed spent.
 
-“You hurt him.”
+[[speaker:sera]]“You hurt him.”
 
 Aldric looked at her.
 
-“Of course I hurt him.”
+[[speaker:aldric]]“Of course I hurt him.”
 
 There he was.
 
 Sera nodded.
 
-“Maedra?”
+[[speaker:sera]]“Maedra?”
 
 His expression changed.
 
-“Next room.”
+[[speaker:aldric]]“Next room.”
 
 Maedra Dravaryn looked worse.
 
@@ -660,15 +660,15 @@ Sera stopped.
 
 He noticed.
 
-“Don’t.”
+[[speaker:eldran]]“Don’t.”
 
-“I didn’t say anything.”
+[[speaker:sera]]“I didn’t say anything.”
 
-“You looked.”
+[[speaker:eldran]]“You looked.”
 
-“You are difficult not to look at.”
+[[speaker:sera]]“You are difficult not to look at.”
 
-“Better.”
+[[speaker:eldran]]“Better.”
 
 His right hand rested on Maedra’s blanket.
 
@@ -676,7 +676,7 @@ The left remained useless at his side.
 
 “Jun?” Sera asked.
 
-“Breach Dominion.”
+[[speaker:eldran]]“Breach Dominion.”
 
 Sera knew the rule from reports.
 
@@ -684,7 +684,7 @@ If the halberd connected cleanly, armor, guard and ordinary defensive reinforcem
 
 Eldran looked down at his own body.
 
-“I learned it thoroughly.”
+[[speaker:eldran]]“I learned it thoroughly.”
 
 “Why?”
 
@@ -696,29 +696,29 @@ He had stepped into the killing sequence because Maedra would have died.
 
 Sera did not insult that choice by calling it foolish.
 
-“She wakes?”
+[[speaker:sera]]“She wakes?”
 
-“Sometimes.”
+[[speaker:eldran]]“Sometimes.”
 
-“Physicians?”
+[[speaker:sera]]“Physicians?”
 
-“Say she lives.”
+[[speaker:eldran]]“Say she lives.”
 
 For now, survival was enough to change the room.
 
 Eldran’s eyes returned to Sera.
 
-“Do not waste people avenging me.”
+[[speaker:eldran]]“Do not waste people avenging me.”
 
-“I wasn’t planning to.”
+[[speaker:sera]]“I wasn’t planning to.”
 
 “Good.”
 
 A faint smile.
 
-“I like you better than Kael.”
+[[speaker:eldran]]“I like you better than Kael.”
 
-“Everyone does.”
+[[speaker:sera]]“Everyone does.”
 
 From the next room, Aldric shouted weakly, “I HEARD THAT.”
 
@@ -746,7 +746,7 @@ A physician stood beside the bed.
 
 “She kept moving after she should have lost function.”
 
-“Last Body Standing.”
+[[speaker:sera]]“Last Body Standing.”
 
 The physician nodded.
 
@@ -754,11 +754,11 @@ The physician nodded.
 
 Sera looked at Sigrun.
 
-“Kenji?”
+[[speaker:sera]]“Kenji?”
 
 “Stormstep Dominion was part of it. Repeated Thunder-Qi pursuit every planted step. She held the evacuation corridor anyway.”
 
-“How long?”
+[[speaker:sera]]“How long?”
 
 “Long enough.”
 
@@ -788,7 +788,7 @@ And still the maps downstairs had been moving.
 
 Sera looked at the physician.
 
-“Who has been running the war?”
+[[speaker:sera]]“Who has been running the war?”
 
 The physician gave a tired laugh.
 
@@ -886,7 +886,7 @@ The room said nothing.
 
 Luo looked at the floor.
 
-“Stupid woman.”
+[[speaker:luo]]“Stupid woman.”
 
 His voice broke on the second word.
 
@@ -920,7 +920,7 @@ Quiet.
 
 Ugly.
 
-“She’d poison me for this.”
+[[speaker:luo]]“She’d poison me for this.”
 
 Probably.
 
@@ -996,15 +996,15 @@ The door opened a fraction.
 
 Sera stood outside.
 
-“I asked for alone.”
+[[speaker:luo]]“I asked for alone.”
 
-“You have been alone for two hours.”
+[[speaker:sera]]“You have been alone for two hours.”
 
-“That is still alone.”
+[[speaker:luo]]“That is still alone.”
 
 She looked at the papers.
 
-“You’re working.”
+[[speaker:sera]]“You’re working.”
 
 “Yes.”
 
@@ -1028,19 +1028,19 @@ Then Sera said, “Yurushi told me what he knew.”
 
 Luo’s face changed.
 
-“About Shunto.”
+[[speaker:luo]]“About Shunto.”
 
 “Yes.”
 
-“How much?”
+[[speaker:luo]]“How much?”
 
-“Not a confession. Condition. Guard access. What Yun would not spend time explaining while escaping.”
+[[speaker:sera]]“Not a confession. Condition. Guard access. What Yun would not spend time explaining while escaping.”
 
 Luo’s hands went still.
 
 Sera watched him.
 
-“He believes Shunto abused her beyond interrogation.”
+[[speaker:sera]]“He believes Shunto abused her beyond interrogation.”
 
 The room became smaller.
 
@@ -1056,11 +1056,11 @@ After a long time he asked, “Did she say his name?”
 
 “No.”
 
-“Then we do not invent what she didn’t tell us.”
+[[speaker:luo]]“Then we do not invent what she didn’t tell us.”
 
 Sera nodded.
 
-“But we don’t ignore what he did either.”
+[[speaker:sera]]“But we don’t ignore what he did either.”
 
 “No.”
 
@@ -1068,7 +1068,7 @@ Luo looked down at the Axtaya notes.
 
 His voice was very quiet.
 
-“I’m going to kill him.”
+[[speaker:luo]]“I’m going to kill him.”
 
 Sera did not answer immediately.
 
@@ -1078,13 +1078,13 @@ Then:
 
 Luo looked at her.
 
-“If a day comes when lethal force is necessary and I authorize it, that is different.”
+[[speaker:sera]]“If a day comes when lethal force is necessary and I authorize it, that is different.”
 
 His jaw tightened.
 
-“You expect me to—”
+[[speaker:luo]]“You expect me to—”
 
-“I expect you not to let Shunto decide what kind of man Yun’s death turns you into.”
+[[speaker:sera]]“I expect you not to let Shunto decide what kind of man Yun’s death turns you into.”
 
 That hurt.
 
@@ -1096,11 +1096,11 @@ Minutes passed.
 
 Then he said, “I hate you sometimes.”
 
-“I know.”
+[[speaker:sera]]“I know.”
 
-“Rhen is more pleasant.”
+[[speaker:luo]]“Rhen is more pleasant.”
 
-“Objectively false.”
+[[speaker:sera]]“Objectively false.”
 
 A breath escaped Luo.
 
@@ -1110,7 +1110,7 @@ Close enough.
 
 He picked up the new poison notes.
 
-“I found something.”
+[[speaker:luo]]“I found something.”
 
 Sera leaned forward.
 
