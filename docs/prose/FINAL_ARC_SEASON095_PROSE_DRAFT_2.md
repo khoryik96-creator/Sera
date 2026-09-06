@@ -20,15 +20,15 @@ Luo looked at the table.
 
 There were three knives.
 
-“One is a scraper.”
+[[speaker:luo]]“One is a scraper.”
 
-“It has an edge.”
+[[speaker:yun]]“It has an edge.”
 
-“That does not make it a knife.”
+[[speaker:luo]]“That does not make it a knife.”
 
-“It is shaped like a knife.”
+[[speaker:yun]]“It is shaped like a knife.”
 
-“So are you when you are tired.”
+[[speaker:yun]]“So are you when you are tired.”
 
 Luo stared at her.
 
@@ -54,25 +54,25 @@ Luo watched.
 
 “Circulation opener.”
 
-“Partly.”
+[[speaker:yun]]“Partly.”
 
-“Fast absorption.”
+[[speaker:luo]]“Fast absorption.”
 
 “Yes.”
 
-“Adrenal response.”
+[[speaker:luo]]“Adrenal response.”
 
 Yun made a face.
 
-“Crude word.”
+[[speaker:yun]]“Crude word.”
 
-“Useful word.”
+[[speaker:luo]]“Useful word.”
 
-“We are not discussing goats.”
+[[speaker:yun]]“We are not discussing goats.”
 
-“We are discussing a man who tried to break a wagon axle with his shoulder.”
+[[speaker:luo]]“We are discussing a man who tried to break a wagon axle with his shoulder.”
 
-“That does support your argument.”
+[[speaker:yun]]“That does support your argument.”
 
 Luo took the next sample.
 
@@ -90,15 +90,15 @@ Then, several breaths later, a pale thread formed through the mixture.
 
 Luo's eyes narrowed.
 
-“Delayed release.”
+[[speaker:luo]]“Delayed release.”
 
 Yun nodded.
 
-“That is the interesting part.”
+[[speaker:yun]]“That is the interesting part.”
 
-“The interesting part is that there are several interesting parts.”
+[[speaker:luo]]“The interesting part is that there are several interesting parts.”
 
-“That is why I like it.”
+[[speaker:yun]]“That is why I like it.”
 
 Luo looked at her.
 
@@ -128,13 +128,13 @@ Neither had admitted this counted as domesticity.
 
 Luo wrote three lines in the notebook.
 
-“First layer forces circulation.”
+[[speaker:luo]]“First layer forces circulation.”
 
-“Agreed.”
+[[speaker:yun]]“Agreed.”
 
-“Second suppresses pain feedback.”
+[[speaker:luo]]“Second suppresses pain feedback.”
 
-“Not only pain.”
+[[speaker:yun]]“Not only pain.”
 
 Yun tapped the glass.
 
@@ -142,19 +142,19 @@ Yun tapped the glass.
 
 Luo's expression hardened.
 
-“That is not medicine.”
+[[speaker:luo]]“That is not medicine.”
 
 Yun tilted her head.
 
-“It could have started as medicine.”
+[[speaker:yun]]“It could have started as medicine.”
 
 He looked at her.
 
 She continued.
 
-“Emergency battlefield stimulant. Collapse rescue. Shock response. A physician could have built the first principle.”
+[[speaker:yun]]“Emergency battlefield stimulant. Collapse rescue. Shock response. A physician could have built the first principle.”
 
-“And someone kept going.”
+[[speaker:luo]]“And someone kept going.”
 
 “Yes.”
 
@@ -178,17 +178,17 @@ This compound seemed designed to make survival secondary to output.
 
 Yun smiled.
 
-“There you are.”
+[[speaker:yun]]“There you are.”
 
 He ignored her.
 
 She reached for one of the knives.
 
-“The body begins to fail after the first forced surge. Whoever made this expected that.”
+[[speaker:yun]]“The body begins to fail after the first forced surge. Whoever made this expected that.”
 
 She scraped a nearly invisible residue from the side of the jar onto a ceramic tile.
 
-“Here.”
+[[speaker:yun]]“Here.”
 
 Luo leaned closer.
 
@@ -202,19 +202,19 @@ One waxy.
 
 Yun nodded.
 
-“The second component arrives after the first damage begins.”
+[[speaker:yun]]“The second component arrives after the first damage begins.”
 
-“To do what?”
+[[speaker:luo]]“To do what?”
 
-“Buy time.”
+[[speaker:yun]]“Buy time.”
 
 Luo did not like the answer.
 
-“How?”
+[[speaker:luo]]“How?”
 
 Yun's expression lost its amusement.
 
-“By making the body spend something it would normally refuse to spend.”
+[[speaker:yun]]“By making the body spend something it would normally refuse to spend.”
 
 The room became quieter.
 
@@ -226,23 +226,23 @@ The strange absence Rhen had not yet named.
 
 He looked at Yun.
 
-“You think vitality.”
+[[speaker:luo]]“You think vitality.”
 
-“I think the compound is not satisfied with qi.”
+[[speaker:yun]]“I think the compound is not satisfied with qi.”
 
-“Vitality is not a jar of oil.”
-
-“I know.”
-
-“You cannot simply pour it into a technique.”
+[[speaker:luo]]“Vitality is not a jar of oil.”
 
 “I know.”
 
-“Then how?”
+[[speaker:luo]]“You cannot simply pour it into a technique.”
+
+“I know.”
+
+[[speaker:luo]]“Then how?”
 
 Yun rested both hands on the workbench.
 
-“That is what I want to know.”
+[[speaker:yun]]“That is what I want to know.”
 
 Luo's gaze dropped to her fingers.
 
@@ -252,23 +252,23 @@ He reached across, took her hand and turned it over.
 
 Yun looked down.
 
-“That is extremely dramatic.”
+[[speaker:yun]]“That is extremely dramatic.”
 
-“You cut yourself.”
+[[speaker:luo]]“You cut yourself.”
 
-“It is a line.”
+[[speaker:yun]]“It is a line.”
 
-“It is contaminated work.”
+[[speaker:luo]]“It is contaminated work.”
 
-“I was wearing gloves.”
+[[speaker:yun]]“I was wearing gloves.”
 
-“You removed one.”
+[[speaker:luo]]“You removed one.”
 
-“To write.”
+[[speaker:yun]]“To write.”
 
-“You have another hand.”
+[[speaker:luo]]“You have another hand.”
 
-“That is discriminatory.”
+[[speaker:yun]]“That is discriminatory.”
 
 Luo cleaned the cut anyway.
 
@@ -276,17 +276,17 @@ Yun let him.
 
 When he finished, she curled her fingers around his wrist.
 
-“You are worried.”
+[[speaker:yun]]“You are worried.”
 
 “Yes.”
 
-“About me?”
+[[speaker:yun]]“About me?”
 
-“About your terrible laboratory habits.”
+[[speaker:luo]]“About your terrible laboratory habits.”
 
-“So me.”
+[[speaker:yun]]“So me.”
 
-“Unfortunately.”
+[[speaker:luo]]“Unfortunately.”
 
 She smiled.
 
@@ -296,33 +296,33 @@ Half the household had stolen it by now.
 
 Yun released him and returned to the sample.
 
-“Let us say the original designer was a physician.”
+[[speaker:yun]]“Let us say the original designer was a physician.”
 
 Luo sat beside her.
 
 “Why?”
 
-“Because of the screening logic.”
+[[speaker:yun]]“Because of the screening logic.”
 
-“We do not have screening logic.”
+[[speaker:luo]]“We do not have screening logic.”
 
-“We have the body.”
+[[speaker:yun]]“We have the body.”
 
 Yun pointed toward the notes.
 
 “The patient's damage clusters around thresholds. Whoever made the compound expected variance in meridian width, cardiovascular tolerance and body mass.”
 
-“That could be trial and error.”
+[[speaker:luo]]“That could be trial and error.”
 
-“Then there would be more random failure.”
+[[speaker:yun]]“Then there would be more random failure.”
 
 Luo considered that.
 
 Yun continued.
 
-“This is ugly, but it is not ignorant.”
+[[speaker:yun]]“This is ugly, but it is not ignorant.”
 
-“That may be worse.”
+[[speaker:luo]]“That may be worse.”
 
 “Yes.”
 
@@ -334,61 +334,61 @@ Luo moved it away.
 
 She looked at him.
 
-“You are being difficult.”
+[[speaker:yun]]“You are being difficult.”
 
-“You have not eaten.”
+[[speaker:luo]]“You have not eaten.”
 
-“I ate.”
+[[speaker:yun]]“I ate.”
 
-“Dried plum is not breakfast.”
+[[speaker:luo]]“Dried plum is not breakfast.”
 
-“I had five.”
+[[speaker:yun]]“I had five.”
 
-“That is not a stronger argument.”
+[[speaker:luo]]“That is not a stronger argument.”
 
 Yun leaned back.
 
-“If I say six, does it become one?”
+[[speaker:yun]]“If I say six, does it become one?”
 
 “No.”
 
-“Cruel.”
+[[speaker:yun]]“Cruel.”
 
 Luo stood.
 
-“Come upstairs.”
+[[speaker:luo]]“Come upstairs.”
 
-“We are working.”
+[[speaker:yun]]“We are working.”
 
-“We can work after food.”
+[[speaker:luo]]“We can work after food.”
 
 Yun looked at the samples.
 
 Then at him.
 
-“You know I can poison you.”
+[[speaker:yun]]“You know I can poison you.”
 
 “Yes.”
 
-“And yet you command me.”
+[[speaker:yun]]“And yet you command me.”
 
-“I am asking.”
+[[speaker:luo]]“I am asking.”
 
-“That sounded like command.”
+[[speaker:yun]]“That sounded like command.”
 
-“You are free to refuse.”
+[[speaker:luo]]“You are free to refuse.”
 
 Yun smiled slowly.
 
-“And if I refuse?”
+[[speaker:yun]]“And if I refuse?”
 
-“I bring food here.”
+[[speaker:luo]]“I bring food here.”
 
 She stared.
 
-“That is unfair.”
+[[speaker:yun]]“That is unfair.”
 
-“I learned from you.”
+[[speaker:luo]]“I learned from you.”
 
 They left the laboratory together.
 
@@ -504,11 +504,11 @@ Rhen looked at him.
 
 “That part was comforting.”
 
-“You are not currently deteriorating.”
+[[speaker:rhen]]“You are not currently deteriorating.”
 
 “Better.”
 
-“I cannot restore what is missing.”
+[[speaker:rhen]]“I cannot restore what is missing.”
 
 The room went still.
 
@@ -524,7 +524,7 @@ Luo stepped closer.
 
 “Vital reserve?”
 
-“Something adjacent to it.”
+[[speaker:rhen]]“Something adjacent to it.”
 
 Yun folded her arms.
 
@@ -532,7 +532,7 @@ Yun folded her arms.
 
 “It is.”
 
-“Then this is not damage.”
+[[speaker:yun]]“Then this is not damage.”
 
 “No.”
 
@@ -546,7 +546,7 @@ Rhen looked at her.
 
 He looked back at the patient.
 
-“If someone empties a cup, repairing the cup does not put the water back.”
+[[speaker:rhen]]“If someone empties a cup, repairing the cup does not put the water back.”
 
 The patient looked at his hands.
 
@@ -564,7 +564,7 @@ Or at least suspected.
 
 The man looked at her.
 
-“You spent it.”
+[[speaker:yun]]“You spent it.”
 
 His expression changed.
 
@@ -586,7 +586,7 @@ Rhen considered.
 
 “Some things, yes. Ordinary exhaustion. Qi. physical condition.”
 
-“And the missing part?”
+[[speaker:sera]]“And the missing part?”
 
 “I do not know.”
 
@@ -606,7 +606,7 @@ Luo looked interested.
 
 “Thin how?”
 
-“Like a bell with the right shape but less metal.”
+[[speaker:qin]]“Like a bell with the right shape but less metal.”
 
 Yun's eyes sharpened.
 
@@ -748,7 +748,7 @@ Luo's mouth tightened.
 
 “That phrase is too broad.”
 
-“It is still the nearest one.”
+[[speaker:yun]]“It is still the nearest one.”
 
 Rhen looked at Yun.
 
@@ -796,9 +796,9 @@ Yun lifted one eyebrow.
 
 “That is a very Rhen answer.”
 
-“It is a physician answer.”
+[[speaker:rhen]]“It is a physician answer.”
 
-“You say that like those are different.”
+[[speaker:yun]]“You say that like those are different.”
 
 Rhen looked at her.
 
@@ -826,7 +826,7 @@ They all turned.
 
 He held up the original shipping manifest.
 
-“And I need Yun to stop contaminating my evidence table.”
+[[speaker:luweiran]]“And I need Yun to stop contaminating my evidence table.”
 
 Yun looked offended.
 
@@ -836,7 +836,7 @@ Lu stared at her.
 
 She considered.
 
-“Intentionally.”
+[[speaker:yun]]“Intentionally.”
 
 Luo closed his eyes.
 
@@ -848,13 +848,13 @@ At the end of the corridor, she caught his sleeve.
 
 He stopped.
 
-“You are worried about something else.”
+[[speaker:sera]]“You are worried about something else.”
 
 Rhen looked at her.
 
 She touched his wrist.
 
-“The refill.”
+[[speaker:sera]]“The refill.”
 
 He exhaled softly.
 
@@ -868,9 +868,9 @@ It had not.
 
 “Yes.”
 
-“How fast?”
+[[speaker:sera]]“How fast?”
 
-“Too fast.”
+[[speaker:rhen]]“Too fast.”
 
 That was the first time he used those words.
 
@@ -880,11 +880,11 @@ Rhen covered her hand with his.
 
 “I am watching it.”
 
-“So am I.”
+[[speaker:sera]]“So am I.”
 
-“I noticed.”
+[[speaker:rhen]]“I noticed.”
 
-“You were supposed to.”
+[[speaker:sera]]“You were supposed to.”
 
 They stood there for a moment while the clinic breathed around them.
 
@@ -934,15 +934,15 @@ The young woman swallowed.
 
 “Crate entered Isgard at South Fen relay on the ninth day of early spring.”
 
-“Origin?”
+[[speaker:luweiran]]“Origin?”
 
 “Listed as Greywater medical consortium.”
 
-“Does Greywater exist?”
+[[speaker:luweiran]]“Does Greywater exist?”
 
 “Yes.”
 
-“Does the consortium?”
+[[speaker:luweiran]]“Does the consortium?”
 
 “No.”
 
@@ -960,17 +960,17 @@ The courier continued.
 
 Lu tapped the manifest.
 
-“Meaning the seal itself could be genuine.”
+[[speaker:luweiran]]“Meaning the seal itself could be genuine.”
 
 Sera leaned closer.
 
-“Stolen before the fire?”
+[[speaker:sera]]“Stolen before the fire?”
 
-“Or recovered after. Or copied from old cargo. The point is not the seal.”
+[[speaker:luweiran]]“Or recovered after. Or copied from old cargo. The point is not the seal.”
 
-“What is?”
+[[speaker:sera]]“What is?”
 
-“The box.”
+[[speaker:luweiran]]“The box.”
 
 Sera stared at him.
 
@@ -980,17 +980,17 @@ Qin's mouth moved slightly.
 
 Sera noticed.
 
-“Do not encourage him.”
+[[speaker:sera]]“Do not encourage him.”
 
-“I said nothing.”
+[[speaker:qin]]“I said nothing.”
 
-“You enjoyed it.”
+[[speaker:sera]]“You enjoyed it.”
 
-“That is private.”
+[[speaker:qin]]“That is private.”
 
 Lu moved the first manifest aside.
 
-“Medical cargo is boring. That is why it is useful.”
+[[speaker:luweiran]]“Medical cargo is boring. That is why it is useful.”
 
 Sera waited.
 
@@ -1000,7 +1000,7 @@ He continued.
 
 Sera nodded slowly.
 
-“And those rules leave a trail.”
+[[speaker:sera]]“And those rules leave a trail.”
 
 “Yes.”
 
@@ -1008,67 +1008,67 @@ Lu pointed at three route marks.
 
 “The first crate entered Isgard through South Fen. The second through a western grain exchange. The third came by sea disguised as fever medication.”
 
-“Different origins.”
+[[speaker:sera]]“Different origins.”
 
-“Officially.”
+[[speaker:luweiran]]“Officially.”
 
-“Actually?”
+[[speaker:sera]]“Actually?”
 
 Lu slid three invoices together.
 
-“All three used the same wax supplier.”
+[[speaker:luweiran]]“All three used the same wax supplier.”
 
 Sera looked at him.
 
-“That is it?”
+[[speaker:sera]]“That is it?”
 
 “No.”
 
-“The same rope?”
+[[speaker:sera]]“The same rope?”
 
 “No.”
 
-“The same carpenter?”
+[[speaker:sera]]“The same carpenter?”
 
 Lu's face changed by half a degree.
 
 Sera pointed at him.
 
-“It is the carpenter.”
+[[speaker:sera]]“It is the carpenter.”
 
-“It is not the carpenter.”
+[[speaker:luweiran]]“It is not the carpenter.”
 
 Qin said, “You look disappointed.”
 
-“I am surrounded by children.”
+[[speaker:luweiran]]“I am surrounded by children.”
 
 Lu drew one invoice forward.
 
-“Same wax supplier. Same ceramic ampoule maker. Same transit insurer.”
+[[speaker:luweiran]]“Same wax supplier. Same ceramic ampoule maker. Same transit insurer.”
 
 Sera's amusement faded.
 
-“Those are not accidental.”
+[[speaker:sera]]“Those are not accidental.”
 
 “No.”
 
-“Who?”
+[[speaker:sera]]“Who?”
 
-“Intermediaries.”
+[[speaker:luweiran]]“Intermediaries.”
 
-“Useful ones?”
+[[speaker:sera]]“Useful ones?”
 
-“One is already dead.”
+[[speaker:luweiran]]“One is already dead.”
 
-“Of course.”
+[[speaker:sera]]“Of course.”
 
-“One relocated.”
+[[speaker:luweiran]]“One relocated.”
 
 “Where?”
 
 “Unknown.”
 
-“And the third?”
+[[speaker:sera]]“And the third?”
 
 Lu looked toward the archive door.
 
@@ -1076,15 +1076,15 @@ A Quiet Hand operative entered carrying a sealed packet.
 
 Lu took it, opened it and read.
 
-“Still operating.”
+[[speaker:luweiran]]“Still operating.”
 
 Sera's eyes sharpened.
 
 “Where?”
 
-“Port city. East coast.”
+[[speaker:luweiran]]“Port city. East coast.”
 
-“Wuyue?”
+[[speaker:sera]]“Wuyue?”
 
 “Yes.”
 
@@ -1094,11 +1094,11 @@ The source being Wuyue was less important than the route touching home.
 
 Lu handed the packet to Sera.
 
-“Registered as a merchant brokerage. Mostly medical equipment, preserved herbs and sea transport contracts.”
+[[speaker:luweiran]]“Registered as a merchant brokerage. Mostly medical equipment, preserved herbs and sea transport contracts.”
 
-“Mostly?”
+[[speaker:sera]]“Mostly?”
 
-“Enough legitimate business to survive inspection.”
+[[speaker:luweiran]]“Enough legitimate business to survive inspection.”
 
 Qin turned his head.
 
@@ -1108,39 +1108,39 @@ Sera looked at him.
 
 “Since when do you say lawyers?”
 
-“Lu taught me.”
+[[speaker:qin]]“Lu taught me.”
 
 Lu looked pained.
 
 “I did not.”
 
-“You did. Repeatedly. Usually with hatred.”
+[[speaker:qin]]“You did. Repeatedly. Usually with hatred.”
 
-“That is not instruction.”
+[[speaker:luweiran]]“That is not instruction.”
 
 Sera smiled.
 
 Then looked back at the manifest.
 
-“Quiet surveillance.”
+[[speaker:sera]]“Quiet surveillance.”
 
 Lu nodded.
 
-“No arrests yet.”
+[[speaker:luweiran]]“No arrests yet.”
 
-“Agreed.”
+[[speaker:sera]]“Agreed.”
 
-“No Tae.”
+[[speaker:luweiran]]“No Tae.”
 
 Sera looked offended.
 
-“I was not going to send Tae.”
+[[speaker:sera]]“I was not going to send Tae.”
 
 Lu said nothing.
 
 She narrowed her eyes.
 
-“I was not.”
+[[speaker:sera]]“I was not.”
 
 Qin smiled.
 
@@ -1156,43 +1156,43 @@ He relaxed slightly.
 
 She noticed.
 
-“You wound me.”
+[[speaker:yun]]“You wound me.”
 
-“I am adapting.”
+[[speaker:luweiran]]“I am adapting.”
 
 Luo came in behind her carrying a notebook.
 
-“We have another component.”
+[[speaker:luo]]“We have another component.”
 
 Lu held up one finger.
 
-“Do not put it on the table.”
+[[speaker:luweiran]]“Do not put it on the table.”
 
 Luo stopped.
 
 Yun looked delighted.
 
-“I told you.”
+[[speaker:yun]]“I told you.”
 
 Luo sighed.
 
 Sera stood.
 
-“What did you find?”
+[[speaker:sera]]“What did you find?”
 
 “Not origin,” Luo said. “Function.”
 
 Yun answered more directly.
 
-“The compound suppresses the body's own refusal.”
+[[speaker:yun]]“The compound suppresses the body's own refusal.”
 
 Lu looked at her.
 
-“That sounds philosophical.”
+[[speaker:luweiran]]“That sounds philosophical.”
 
-“It is physiological.”
+[[speaker:yun]]“It is physiological.”
 
-“Better.”
+[[speaker:luweiran]]“Better.”
 
 Luo opened the notebook without setting it down.
 
@@ -1220,21 +1220,21 @@ Sera pointed to the invoices.
 
 Yun's posture changed.
 
-“Local production?”
+[[speaker:yun]]“Local production?”
 
 “Not necessarily.”
 
-“Then import.”
+[[speaker:yun]]“Then import.”
 
 “That is what I think.”
 
 Luo looked at the route map.
 
-“From where?”
+[[speaker:luo]]“From where?”
 
 Lu tapped the sea lane.
 
-“Still buried under intermediaries.”
+[[speaker:luweiran]]“Still buried under intermediaries.”
 
 Yun stepped closer.
 
@@ -1244,19 +1244,19 @@ She stared at him.
 
 He stared back.
 
-“I am not poisonous.”
+[[speaker:yun]]“I am not poisonous.”
 
-“No. Your hobbies are.”
+[[speaker:luweiran]]“No. Your hobbies are.”
 
 Yun looked at Luo.
 
-“Defend me.”
+[[speaker:yun]]“Defend me.”
 
 “No.”
 
-“Coward.”
+[[speaker:yun]]“Coward.”
 
-“Alive.”
+[[speaker:luo]]“Alive.”
 
 Sera rubbed her forehead.
 
@@ -1286,27 +1286,27 @@ Lu traced one finger from Isgard to the eastern Wuyue port.
 
 Then farther out across the blank space of the map.
 
-“That is what bothers me.”
+[[speaker:luweiran]]“That is what bothers me.”
 
 Sera looked at him.
 
 “What?”
 
-“The route does not begin anywhere.”
+[[speaker:luweiran]]“The route does not begin anywhere.”
 
 Yun's expression sharpened.
 
 Lu continued.
 
-“Every record I have is middle.”
+[[speaker:luweiran]]“Every record I have is middle.”
 
 “Meaning?” Luo asked.
 
-“Meaning somebody did not merely hide the cargo.”
+[[speaker:luweiran]]“Meaning somebody did not merely hide the cargo.”
 
 He tapped the far edge of the sea lane.
 
-“They hid the country it came from behind enough legitimate trade that nobody bothered asking.”
+[[speaker:luweiran]]“They hid the country it came from behind enough legitimate trade that nobody bothered asking.”
 
 The room went quiet.
 
@@ -1332,19 +1332,19 @@ Lu gathered the manifests.
 
 Yun smiled faintly.
 
-“And I follow the poison.”
+[[speaker:yun]]“And I follow the poison.”
 
 Luo looked between them.
 
-“I follow both of you because neither respects sleep.”
+[[speaker:luo]]“I follow both of you because neither respects sleep.”
 
 Sera looked at Qin.
 
-“What do you follow?”
+[[speaker:sera]]“What do you follow?”
 
 Qin lifted his tea.
 
-“Good judgment.”
+[[speaker:qin]]“Good judgment.”
 
 Lu said, “Then you are in the wrong room.”
 

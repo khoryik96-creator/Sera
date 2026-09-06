@@ -614,15 +614,15 @@ Sera looked at him.
 
 “I gave them one instruction.”
 
-“Do not spook him?”
+[[speaker:sera]]“Do not spook him?”
 
 “Yes.”
 
-“Did we spook him?”
+[[speaker:sera]]“Did we spook him?”
 
-“He is currently crossing a roof.”
+[[speaker:luweiran]]“He is currently crossing a roof.”
 
-“That sounds spooked.”
+[[speaker:sera]]“That sounds spooked.”
 
 Lu stared at her.
 
@@ -648,15 +648,15 @@ Lu caught her sleeve.
 
 She looked at him.
 
-“Records first.”
+[[speaker:luweiran]]“Records first.”
 
-“He is escaping.”
+[[speaker:sera]]“He is escaping.”
 
-“He is middle.”
+[[speaker:luweiran]]“He is middle.”
 
-“You want to follow him.”
+[[speaker:sera]]“You want to follow him.”
 
-“I want to know where middle runs when middle is frightened.”
+[[speaker:luweiran]]“I want to know where middle runs when middle is frightened.”
 
 Sera stopped.
 
@@ -808,11 +808,11 @@ Sera looked at him.
 
 “You say that when you are about to become annoying.”
 
-“He left one.”
+[[speaker:luweiran]]“He left one.”
 
 Rui had already understood.
 
-“To follow.”
+[[speaker:rui]]“To follow.”
 
 The masked man's head turned slightly.
 
@@ -832,7 +832,7 @@ Rui looked at Sera.
 
 “You know his name?”
 
-“Lu does.”
+[[speaker:sera]]“Lu does.”
 
 Lu looked offended.
 
@@ -850,13 +850,13 @@ Clear eyes that looked younger when relaxed and much older when deciding whether
 
 Xie Wuchen sighed.
 
-“That is unfortunate.”
+[[speaker:xie_wuchen]]“That is unfortunate.”
 
 Sera smiled faintly.
 
-“You sound like Rhen.”
+[[speaker:sera]]“You sound like Rhen.”
 
-“I do not know who that is.”
+[[speaker:xie_wuchen]]“I do not know who that is.”
 
 Rui said, “Liar.”
 
@@ -864,27 +864,27 @@ Xie's eyes moved to him.
 
 For the first time, recognition sharpened them.
 
-“Oh.”
+[[speaker:xie_wuchen]]“Oh.”
 
 Rui's expression darkened.
 
-“Oh?”
+[[speaker:rui]]“Oh?”
 
-“You got older.”
+[[speaker:xie_wuchen]]“You got older.”
 
-“So did you.”
+[[speaker:rui]]“So did you.”
 
 “Yes.”
 
-“That is all?”
+[[speaker:rui]]“That is all?”
 
 Xie considered.
 
-“You improved.”
+[[speaker:xie_wuchen]]“You improved.”
 
 Rui almost smiled despite himself.
 
-“Enough to beat you?”
+[[speaker:rui]]“Enough to beat you?”
 
 “No.”
 
@@ -896,7 +896,7 @@ Lu did not bother.
 
 Rui looked at both of them.
 
-“This is not funny.”
+[[speaker:rui]]“This is not funny.”
 
 “It is slightly funny,” Sera said.
 
@@ -906,29 +906,29 @@ The man had collapsed against a wall, staring at everyone around him as though h
 
 Xie pointed at him.
 
-“He was about to be killed.”
+[[speaker:xie_wuchen]]“He was about to be killed.”
 
 “We noticed,” Lu said.
 
-“So I helped.”
+[[speaker:xie_wuchen]]“So I helped.”
 
-“Why?”
+[[speaker:luweiran]]“Why?”
 
 Xie looked at him.
 
-“Because he was about to be killed.”
+[[speaker:xie_wuchen]]“Because he was about to be killed.”
 
 Lu nodded.
 
-“Good answer.”
+[[speaker:luweiran]]“Good answer.”
 
 Xie's gaze shifted toward the alley where the fifth assassin had escaped.
 
-“I assume you are following that one.”
+[[speaker:xie_wuchen]]“I assume you are following that one.”
 
 “Yes.”
 
-“Then I am done.”
+[[speaker:xie_wuchen]]“Then I am done.”
 
 He turned.
 
@@ -950,23 +950,23 @@ No attempt to explain why he had risked himself for strangers.
 
 Xie looked back over one shoulder.
 
-“I helped.”
+[[speaker:xie_wuchen]]“I helped.”
 
-“You did.”
+[[speaker:sera]]“You did.”
 
-“The problem is no longer immediate.”
+[[speaker:xie_wuchen]]“The problem is no longer immediate.”
 
 “No.”
 
-“Then I am leaving.”
+[[speaker:xie_wuchen]]“Then I am leaving.”
 
 Sera tilted her head.
 
-“That is a very specific philosophy.”
+[[speaker:sera]]“That is a very specific philosophy.”
 
-“It has worked.”
+[[speaker:xie_wuchen]]“It has worked.”
 
-“Has it?”
+[[speaker:sera]]“Has it?”
 
 Xie's eyes narrowed.
 
@@ -986,7 +986,7 @@ Wind gathered under his feet.
 
 Rui spoke before he moved.
 
-“Tempest Hall.”
+[[speaker:rui]]“Tempest Hall.”
 
 Xie stopped again.
 
@@ -994,7 +994,7 @@ The words landed differently.
 
 Rui continued.
 
-“Last successor?”
+[[speaker:rui]]“Last successor?”
 
 Xie's face lost its lightness.
 
@@ -1014,21 +1014,21 @@ Sera heard the answer too.
 
 Xie looked between them.
 
-“I am still leaving.”
+[[speaker:xie_wuchen]]“I am still leaving.”
 
 Sera shrugged.
 
-“I did not stop you.”
+[[speaker:sera]]“I did not stop you.”
 
-“You were about to.”
+[[speaker:xie_wuchen]]“You were about to.”
 
 “No.”
 
-“You have the face.”
+[[speaker:xie_wuchen]]“You have the face.”
 
-“What face?”
+[[speaker:sera]]“What face?”
 
-“The one people use before saying responsibility.”
+[[speaker:xie_wuchen]]“The one people use before saying responsibility.”
 
 Lu said, “She does have that face.”
 
@@ -1038,7 +1038,7 @@ Lu looked away.
 
 Xie stepped backward.
 
-“Goodbye.”
+[[speaker:xie_wuchen]]“Goodbye.”
 
 The wind compressed.
 
@@ -1054,13 +1054,13 @@ Rui watched until he disappeared.
 
 Sera turned to him.
 
-“You really lost to him?”
+[[speaker:sera]]“You really lost to him?”
 
 Rui closed his eyes.
 
 “Do not.”
 
-“How badly?”
+[[speaker:sera]]“How badly?”
 
 “Do not.”
 
@@ -1068,11 +1068,11 @@ Lu was already writing.
 
 Rui looked at him.
 
-“What are you writing?”
+[[speaker:rui]]“What are you writing?”
 
-“Xie Wuchen. The Unseen Gale. Tempest Hall. Newly Sovereign.”
+[[speaker:luweiran]]“Xie Wuchen. The Unseen Gale. Tempest Hall. Newly Sovereign.”
 
-“How do you know he is newly Sovereign?”
+[[speaker:rui]]“How do you know he is newly Sovereign?”
 
 Lu looked up.
 
@@ -1088,7 +1088,7 @@ Everyone remembered him.
 
 Lu closed the ledger.
 
-“Now,” he said, “we ask why someone preferred him dead before we could ask where the boxes came from.”
+[[speaker:luweiran]]“Now,” he said, “we ask why someone preferred him dead before we could ask where the boxes came from.”
 
 The humor left the street.
 
@@ -1116,7 +1116,7 @@ He did not know what it meant.
 
 That distinction disappointed Yun.
 
-“Say it again.”
+[[speaker:yun]]“Say it again.”
 
 The broker swallowed.
 
@@ -1156,31 +1156,31 @@ The broker looked at Yun.
 
 “That is what it was called on the invoices.”
 
-“By whom?”
+[[speaker:yun]]“By whom?”
 
 “I don't know.”
 
-“You sold it.”
+[[speaker:yun]]“You sold it.”
 
 “I brokered sealed cargo.”
 
-“To cultivators.”
+[[speaker:yun]]“To cultivators.”
 
 “Yes.”
 
-“Using weight charts.”
+[[speaker:yun]]“Using weight charts.”
 
 “Yes.”
 
-“Pulse screening.”
+[[speaker:yun]]“Pulse screening.”
 
 “Yes.”
 
-“Risk questions.”
+[[speaker:yun]]“Risk questions.”
 
 “Yes.”
 
-“And you did not know what it did?”
+[[speaker:yun]]“And you did not know what it did?”
 
 The broker's face tightened.
 
@@ -1188,35 +1188,35 @@ The broker's face tightened.
 
 Yun leaned closer.
 
-“What were you told?”
+[[speaker:yun]]“What were you told?”
 
 “Temporary combat amplification.”
 
 Luo's expression did not change.
 
-“Not cultivation breakthrough.”
+[[speaker:luo]]“Not cultivation breakthrough.”
 
 “No.”
 
-“Not permanent strengthening.”
+[[speaker:luo]]“Not permanent strengthening.”
 
 “No.”
 
-“Recovery?”
+[[speaker:luo]]“Recovery?”
 
 “One or two days.”
 
-“Long-term cost?”
+[[speaker:luo]]“Long-term cost?”
 
 The broker hesitated.
 
 Yun saw it.
 
-“So there was one.”
+[[speaker:yun]]“So there was one.”
 
 “I did not know the number.”
 
-“That was not my question.”
+[[speaker:yun]]“That was not my question.”
 
 He looked at the table.
 
@@ -1224,15 +1224,15 @@ He looked at the table.
 
 Luo's voice went cold.
 
-“Repeated.”
+[[speaker:luo]]“Repeated.”
 
 “Yes.”
 
-“What about one dose?”
+[[speaker:luo]]“What about one dose?”
 
 “They said healthy users recover.”
 
-“Recover what?”
+[[speaker:luo]]“Recover what?”
 
 Silence.
 
@@ -1242,41 +1242,41 @@ The broker looked away first.
 
 Lu opened a ledger.
 
-“Your company received six shipments over nine months.”
+[[speaker:luweiran]]“Your company received six shipments over nine months.”
 
 The broker nodded reluctantly.
 
-“Three went north through Isgard intermediaries. Two remained in Wuyue. One disappeared from your books.”
+[[speaker:luweiran]]“Three went north through Isgard intermediaries. Two remained in Wuyue. One disappeared from your books.”
 
 “I told you—”
 
-“You told me the warehouse burned.”
+[[speaker:luweiran]]“You told me the warehouse burned.”
 
 “It did.”
 
-“The warehouse burned two weeks before the shipment arrived.”
+[[speaker:luweiran]]“The warehouse burned two weeks before the shipment arrived.”
 
 The broker stopped breathing.
 
 Lu turned one page.
 
-“This is why dates matter.”
+[[speaker:luweiran]]“This is why dates matter.”
 
 Sera hid a smile.
 
 Yun did not.
 
-“I like him.”
+[[speaker:yun]]“I like him.”
 
 Luo looked at her.
 
-“You have known Lu for years.”
+[[speaker:luo]]“You have known Lu for years.”
 
-“I am rediscovering it.”
+[[speaker:yun]]“I am rediscovering it.”
 
 Lu continued.
 
-“Where did the sixth shipment go?”
+[[speaker:luweiran]]“Where did the sixth shipment go?”
 
 The broker swallowed.
 
@@ -1286,25 +1286,25 @@ The room changed.
 
 Sera's face went still.
 
-“Whose military?”
+[[speaker:sera]]“Whose military?”
 
 “I don't know.”
 
-“Wuyue?”
+[[speaker:sera]]“Wuyue?”
 
 “No.”
 
-“Isgard?”
+[[speaker:sera]]“Isgard?”
 
 “No.”
 
-“How do you know?”
+[[speaker:sera]]“How do you know?”
 
 “Different payment notes. Different script. Foreign weights.”
 
 Lu leaned forward.
 
-“Show me.”
+[[speaker:luweiran]]“Show me.”
 
 The broker pointed to one of the copied invoices.
 
@@ -1314,11 +1314,11 @@ Lu turned the page sideways.
 
 Yun looked over his shoulder.
 
-“Body mass?”
+[[speaker:yun]]“Body mass?”
 
 Luo frowned.
 
-“Could be cargo.”
+[[speaker:luo]]“Could be cargo.”
 
 The broker shook his head.
 
@@ -1326,7 +1326,7 @@ The broker shook his head.
 
 Yun's eyes sharpened.
 
-“There.”
+[[speaker:yun]]“There.”
 
 One column.
 
@@ -1344,41 +1344,41 @@ The system was more complete than Dae remembered.
 
 Luo traced the categories without touching the paper.
 
-“This is medical.”
+[[speaker:luo]]“This is medical.”
 
 Sera looked at him.
 
-“You keep saying that.”
+[[speaker:sera]]“You keep saying that.”
 
-“Because it matters.”
+[[speaker:luo]]“Because it matters.”
 
 His voice stayed controlled.
 
-“A poisoner can discover a lethal dose. A physician builds exclusion criteria.”
+[[speaker:luo]]“A poisoner can discover a lethal dose. A physician builds exclusion criteria.”
 
 Yun nodded.
 
-“Whoever made the original framework expected to keep some users alive.”
+[[speaker:yun]]“Whoever made the original framework expected to keep some users alive.”
 
 Sera looked at the broker.
 
-“Supplier.”
+[[speaker:sera]]“Supplier.”
 
 He shook his head.
 
 “I never met them.”
 
-“Route.”
+[[speaker:sera]]“Route.”
 
 “Sea.”
 
-“From where?”
+[[speaker:sera]]“From where?”
 
 “I don't know.”
 
 Lu placed another document in front of him.
 
-“What is this mark?”
+[[speaker:luweiran]]“What is this mark?”
 
 The broker looked.
 
@@ -1394,13 +1394,13 @@ Familiarity.
 
 Yun looked at Lu.
 
-“Company?”
+[[speaker:yun]]“Company?”
 
-“Could be.”
+[[speaker:luweiran]]“Could be.”
 
 The broker said, “They told us not to copy it into local manifests.”
 
-“Why?”
+[[speaker:yun]]“Why?”
 
 “I don't know.”
 
@@ -1440,21 +1440,21 @@ He realized the mistake.
 
 Yun smiled without warmth.
 
-“You know that one.”
+[[speaker:yun]]“You know that one.”
 
 He closed his eyes.
 
 “Only as a place-name.”
 
-“Where?”
+[[speaker:yun]]“Where?”
 
 “Far east by sea routes. Merchant networks. Not direct from here.”
 
 Sera looked at Lu.
 
-“Do we know it?”
+[[speaker:sera]]“Do we know it?”
 
-“Barely.”
+[[speaker:luweiran]]“Barely.”
 
 Lu went through memory.
 
@@ -1468,17 +1468,17 @@ Nothing strategic.
 
 Nothing that had ever required Wuyue's leaders to care.
 
-“A distant continent or major state,” he said. “Depending on which merchant map you trust.”
+[[speaker:luweiran]]“A distant continent or major state,” he said. “Depending on which merchant map you trust.”
 
-“Government?”
-
-“Unknown.”
-
-“Martial strength?”
+[[speaker:sera]]“Government?”
 
 “Unknown.”
 
-“Army?”
+[[speaker:sera]]“Martial strength?”
+
+“Unknown.”
+
+[[speaker:sera]]“Army?”
 
 “Unknown.”
 
@@ -1486,7 +1486,7 @@ Sera exhaled.
 
 Yun rested both forearms on the table.
 
-“So at the moment we know a dangerous medically designed stimulant moves through a foreign route touching a place called Shinrin.”
+[[speaker:yun]]“So at the moment we know a dangerous medically designed stimulant moves through a foreign route touching a place called Shinrin.”
 
 Luo added, “We know users are lied to about cost.”
 
@@ -1494,7 +1494,7 @@ Lu added, “We know the supply chain uses legitimate medical commerce and stand
 
 Sera looked at the broker.
 
-“And we know someone tried to kill the middleman.”
+[[speaker:sera]]“And we know someone tried to kill the middleman.”
 
 The broker looked miserable.
 
@@ -1554,13 +1554,13 @@ Yun looked down at the word.
 
 Luo watched her.
 
-“What?”
+[[speaker:luo]]“What?”
 
-“It sounds like medicine trying to have a prettier name than it deserves.”
+[[speaker:yun]]“It sounds like medicine trying to have a prettier name than it deserves.”
 
 Lu closed the ledger.
 
-“Most products do.”
+[[speaker:luweiran]]“Most products do.”
 
 Sera looked at the route mark beneath it.
 
@@ -1574,15 +1574,15 @@ An unknown country did not automatically imply an army. What mattered was that s
 
 Sera touched the page once.
 
-“Find the road.”
+[[speaker:sera]]“Find the road.”
 
 Yun's eyes lifted.
 
 For the first time all evening, she smiled for real.
 
-“Now that sounds fun.”
+[[speaker:yun]]“Now that sounds fun.”
 
 Luo sighed.
 
-“It absolutely does not.”
+[[speaker:luo]]“It absolutely does not.”
 

@@ -38,7 +38,7 @@ Rhen looked down.
 
 “I haven't done anything yet.”
 
-“That is why I am saying no now.”
+[[speaker:sera]]“That is why I am saying no now.”
 
 The morning road below the Quaint Teahouse was already busy. A grain wagon creaked toward the eastern market. Two old soldiers argued over whose turn it was to buy breakfast. A woman from the next village carried a basket of pears toward the clinic entrance built into the side wing. Somewhere behind the main building, one of the younger Quaint companies was running formation drills badly enough that Tae had begun shouting.
 
@@ -48,7 +48,7 @@ A metallic crash followed.
 
 Then Tae's voice carried across the courtyard.
 
-“If I can hear your chain before I can see you move, you are not surprising anyone!”
+[[speaker:tae]]“If I can hear your chain before I can see you move, you are not surprising anyone!”
 
 Huo's voice answered from farther away.
 
@@ -152,7 +152,7 @@ Qin's expression remained perfectly neutral.
 
 “You walked outside because you brought tea,” Sera said.
 
-“I can regret several things.”
+[[speaker:qin]]“I can regret several things.”
 
 Rhen tasted the tea.
 
@@ -240,13 +240,13 @@ Sera leaned against the counter.
 
 “There are no paying customers here,” Luo said.
 
-“That is because you are both standing in front of the register.”
+[[speaker:sera]]“That is because you are both standing in front of the register.”
 
 Yun glanced around.
 
 “Rhen never charges injured people.”
 
-“Rhen doesn't charge anyone properly.”
+[[speaker:sera]]“Rhen doesn't charge anyone properly.”
 
 From the doorway, Rhen said, “I charge.”
 
@@ -546,21 +546,21 @@ Rhen nodded.
 
 “That was easy.”
 
-“You woke me with ice.”
+[[speaker:sera]]“You woke me with ice.”
 
-“You were awake.”
+[[speaker:rhen]]“You were awake.”
 
-“I was resting my eyes.”
+[[speaker:sera]]“I was resting my eyes.”
 
-“You threatened Huo in your sleep.”
+[[speaker:rhen]]“You threatened Huo in your sleep.”
 
 Sera paused.
 
 “What did he do?”
 
-“Unknown.”
+[[speaker:rhen]]“Unknown.”
 
-“Then he probably deserved it.”
+[[speaker:sera]]“Then he probably deserved it.”
 
 Rhen sat up.
 
@@ -596,23 +596,23 @@ Rhen closed his eyes for one breath.
 
 “Yes.”
 
-“Any pressure?”
+[[speaker:rhen]]“Any pressure?”
 
 “No.”
 
-“Sleep disturbance?”
+[[speaker:rhen]]“Sleep disturbance?”
 
-“Only from you.”
+[[speaker:sera]]“Only from you.”
 
 He opened his eyes.
 
-“That is unrelated.”
+[[speaker:rhen]]“That is unrelated.”
 
-“Highly related.”
+[[speaker:sera]]“Highly related.”
 
 He ignored that.
 
-“Then no change.”
+[[speaker:rhen]]“Then no change.”
 
 Sera watched him for another moment.
 
@@ -620,19 +620,19 @@ Sera watched him for another moment.
 
 “Yes.”
 
-“Huo?”
+[[speaker:sera]]“Huo?”
 
 “Yes.”
 
-“Tae?”
+[[speaker:sera]]“Tae?”
 
 “Yes.”
 
-“Qin?”
+[[speaker:sera]]“Qin?”
 
 “Yes.”
 
-“And they all keep saying yes?”
+[[speaker:sera]]“And they all keep saying yes?”
 
 Rhen nodded.
 
@@ -648,7 +648,7 @@ Sera laughed.
 
 “And?”
 
-“I told him his left shoulder still compensates three percent more than the right.”
+[[speaker:rhen]]“I told him his left shoulder still compensates three percent more than the right.”
 
 She laughed harder.
 
@@ -656,9 +656,9 @@ Rhen looked mildly offended.
 
 “It does.”
 
-“That is not the point.”
+[[speaker:sera]]“That is not the point.”
 
-“It is medically the point.”
+[[speaker:rhen]]“It is medically the point.”
 
 A knock sounded at the door.
 
@@ -670,9 +670,9 @@ Sera looked toward it.
 
 “If that is a ledger, I am going back to bed.”
 
-“It is morning.”
+[[speaker:rhen]]“It is morning.”
 
-“Exactly.”
+[[speaker:sera]]“Exactly.”
 
 The door opened one handspan.
 
@@ -992,11 +992,11 @@ Sera stood below him.
 
 “You know they asked for resin.”
 
-“I brought resin.”
+[[speaker:rhen]]“I brought resin.”
 
-“You are healing the wood.”
+[[speaker:sera]]“You are healing the wood.”
 
-“I am not.”
+[[speaker:rhen]]“I am not.”
 
 The cracked beam straightened slightly.
 
@@ -1350,7 +1350,7 @@ Yun looked at him.
 
 “You brought two pairs?”
 
-“I know you.”
+[[speaker:luo]]“I know you.”
 
 She put them on.
 
