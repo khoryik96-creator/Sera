@@ -1108,21 +1108,21 @@ A woman waited there with two children and a travel bundle.
 
 “South road?” she asked.
 
-“No.”
+[[speaker:black_radiance]]“No.”
 
 Her face tightened.
 
 Yurushi continued.
 
-“South road is watched. Take the dyers' canal west, then the old kiln track. There will be a cart at the broken shrine.”
+[[speaker:black_radiance]]“South road is watched. Take the dyers' canal west, then the old kiln track. There will be a cart at the broken shrine.”
 
 “Whose cart?”
 
-“You do not want to know.”
+[[speaker:black_radiance]]“You do not want to know.”
 
 “That sounds reassuring.”
 
-“It is not.”
+[[speaker:black_radiance]]“It is not.”
 
 She almost smiled.
 
@@ -1132,23 +1132,23 @@ Fear became easier to move when it remembered it could change shape.
 
 Yurushi handed her a merchant chit.
 
-“Do not show this unless someone stops the cart.”
+[[speaker:black_radiance]]“Do not show this unless someone stops the cart.”
 
 “What if Shinsei stops it?”
 
-“Especially then.”
+[[speaker:black_radiance]]“Especially then.”
 
 She looked at the mark.
 
 “Will it work?”
 
-“For another day.”
+[[speaker:black_radiance]]“For another day.”
 
 “And after that?”
 
 Yurushi looked back at the safehouse.
 
-“After that I would not recommend returning.”
+[[speaker:black_radiance]]“After that I would not recommend returning.”
 
 The woman understood.
 
@@ -1184,11 +1184,11 @@ He watched long enough to be certain the hidden ledger cache burned.
 
 A voice came from the roof behind him.
 
-“You always did hate paperwork.”
+[[speaker:hana]]“You always did hate paperwork.”
 
 Yurushi did not turn.
 
-“Hello, Hana.”
+[[speaker:black_radiance]]“Hello, Hana.”
 
 Hana Arakawa dropped into the alley without sound.
 
@@ -1200,31 +1200,31 @@ Neither of them had needed weapons to make a conversation dangerous in years.
 
 She looked at the fire.
 
-“Yours?”
+[[speaker:hana]]“Yours?”
 
-“Temporarily.”
+[[speaker:black_radiance]]“Temporarily.”
 
-“Was.”
+[[speaker:hana]]“Was.”
 
-“Better.”
+[[speaker:black_radiance]]“Better.”
 
 Hana's eyes moved over him.
 
-“You are leaving.”
+[[speaker:hana]]“You are leaving.”
 
-“Am I?”
+[[speaker:black_radiance]]“Am I?”
 
-“You destroyed three route caches in two days.”
+[[speaker:hana]]“You destroyed three route caches in two days.”
 
-“Poor storage discipline.”
+[[speaker:black_radiance]]“Poor storage discipline.”
 
-“You moved forty-seven civilians out of districts Shunto is searching.”
+[[speaker:hana]]“You moved forty-seven civilians out of districts Shunto is searching.”
 
-“Coincidence.”
+[[speaker:black_radiance]]“Coincidence.”
 
-“You hate coincidences.”
+[[speaker:hana]]“You hate coincidences.”
 
-“Growth.”
+[[speaker:black_radiance]]“Growth.”
 
 Her expression did not change.
 
@@ -1240,57 +1240,57 @@ Neither mentioned it.
 
 Hana said, “Shunto knows someone helped the foreign woman.”
 
-“He should investigate harder.”
+[[speaker:black_radiance]]“He should investigate harder.”
 
-“He is.”
+[[speaker:hana]]“He is.”
 
-“I noticed.”
+[[speaker:black_radiance]]“I noticed.”
 
-“He has your old eastern corridor lists.”
+[[speaker:hana]]“He has your old eastern corridor lists.”
 
 That made Yurushi still.
 
-“Which version?”
+[[speaker:black_radiance]]“Which version?”
 
-“Two years old.”
+[[speaker:hana]]“Two years old.”
 
-“Then he has six dead routes and one dangerous one.”
+[[speaker:black_radiance]]“Then he has six dead routes and one dangerous one.”
 
-“He will still find people if you leave them.”
+[[speaker:hana]]“He will still find people if you leave them.”
 
-“I did not.”
+[[speaker:black_radiance]]“I did not.”
 
 Hana looked toward the street the woman had taken.
 
-“No.”
+[[speaker:hana]]“No.”
 
 Something softened in her face.
 
 Not enough to become agreement.
 
-“Yurushi.”
+[[speaker:hana]]“Yurushi.”
 
 He waited.
 
-“Was she Wuyue?”
+[[speaker:hana]]“Was she Wuyue?”
 
 He did not answer immediately.
 
 Hana's eyes narrowed.
 
-“She was.”
+[[speaker:hana]]“She was.”
 
-“She was a woman being hunted by our own people.”
+[[speaker:black_radiance]]“She was a woman being hunted by our own people.”
 
-“That is not an answer.”
+[[speaker:hana]]“That is not an answer.”
 
-“It was the answer when I helped her.”
+[[speaker:black_radiance]]“It was the answer when I helped her.”
 
-“And afterward?”
+[[speaker:hana]]“And afterward?”
 
 Yurushi looked into the burning room.
 
-“Afterward I learned her name.”
+[[speaker:black_radiance]]“Afterward I learned her name.”
 
 Hana did not ask it.
 
@@ -1310,31 +1310,31 @@ Yun had merely removed the last excuse.
 
 Hana said, “If you leave, you lose what access you have.”
 
-“If I stay, my access becomes a reason to keep lending the rest of myself to people I no longer trust.”
+[[speaker:black_radiance]]“If I stay, my access becomes a reason to keep lending the rest of myself to people I no longer trust.”
 
-“You think I trust everything?”
+[[speaker:hana]]“You think I trust everything?”
 
-“No.”
+[[speaker:black_radiance]]“No.”
 
 That answer hurt her more than accusation would have.
 
 He continued.
 
-“I think you believe somebody decent has to remain near the machinery.”
+[[speaker:black_radiance]]“I think you believe somebody decent has to remain near the machinery.”
 
-“Yes.”
+[[speaker:hana]]“Yes.”
 
-“I think decent people can become lubrication.”
+[[speaker:black_radiance]]“I think decent people can become lubrication.”
 
 Hana's face hardened.
 
-“And leaving makes you clean?”
+[[speaker:hana]]“And leaving makes you clean?”
 
-“No.”
+[[speaker:black_radiance]]“No.”
 
 He met her eyes.
 
-“Nothing makes me clean.”
+[[speaker:black_radiance]]“Nothing makes me clean.”
 
 He had finally named the thing he could never say while they were together.
 
@@ -1352,23 +1352,23 @@ The fire caught the roof beam.
 
 “Where will you go?” she asked.
 
-“Somewhere with tea.”
+[[speaker:black_radiance]]“Somewhere with tea.”
 
 Her eyes closed briefly.
 
-“That is not a country.”
+[[speaker:hana]]“That is not a country.”
 
-“It narrows the search.”
+[[speaker:black_radiance]]“It narrows the search.”
 
-“Wuyue.”
+[[speaker:hana]]“Wuyue.”
 
 Yurushi smiled faintly.
 
-“You said it.”
+[[speaker:black_radiance]]“You said it.”
 
-“Idiot.”
+[[speaker:hana]]“Idiot.”
 
-“Probably.”
+[[speaker:black_radiance]]“Probably.”
 
 A bell rang three streets away.
 
@@ -1386,17 +1386,17 @@ He looked at her.
 
 Hana's expression was blank.
 
-“That sounds like ordinary administration.”
+[[speaker:black_radiance]]“That sounds like ordinary administration.”
 
-“It is.”
+[[speaker:hana]]“It is.”
 
-“Of course.”
+[[speaker:black_radiance]]“Of course.”
 
-“If someone intended to be gone before then, the old river credentials might still pass.”
+[[speaker:hana]]“If someone intended to be gone before then, the old river credentials might still pass.”
 
-“Someone?”
+[[speaker:black_radiance]]“Someone?”
 
-“I have no idea who.”
+[[speaker:hana]]“I have no idea who.”
 
 Yurushi's smile became real for half a second.
 
@@ -1410,21 +1410,21 @@ He did not laugh.
 
 Her face tightened.
 
-“Do not make this into more than it is.”
+[[speaker:hana]]“Do not make this into more than it is.”
 
-“I wouldn't dare.”
+[[speaker:black_radiance]]“I wouldn't dare.”
 
-“You always dared.”
+[[speaker:hana]]“You always dared.”
 
-“That was different.”
+[[speaker:black_radiance]]“That was different.”
 
-“How?”
+[[speaker:hana]]“How?”
 
-“We were younger.”
+[[speaker:black_radiance]]“We were younger.”
 
-“We were together four years, Yurushi. We were not children.”
+[[speaker:hana]]“We were together four years, Yurushi. We were not children.”
 
-“Emotionally debatable.”
+[[speaker:black_radiance]]“Emotionally debatable.”
 
 She nearly smiled.
 
@@ -1434,25 +1434,25 @@ Then the patrol bell rang again.
 
 Hana stepped backward into the dark edge of the alley.
 
-“Go.”
+[[speaker:hana]]“Go.”
 
 Yurushi looked at her.
 
-“You know Shunto will eventually ask whether you saw me.”
+[[speaker:black_radiance]]“You know Shunto will eventually ask whether you saw me.”
 
-“Yes.”
+[[speaker:hana]]“Yes.”
 
-“What will you say?”
+[[speaker:black_radiance]]“What will you say?”
 
-“That I inspected a fire.”
+[[speaker:hana]]“That I inspected a fire.”
 
-“That is true.”
+[[speaker:black_radiance]]“That is true.”
 
-“I am learning from you.”
+[[speaker:hana]]“I am learning from you.”
 
-“That should concern you.”
+[[speaker:black_radiance]]“That should concern you.”
 
-“It does.”
+[[speaker:hana]]“It does.”
 
 Then she was gone.
 
