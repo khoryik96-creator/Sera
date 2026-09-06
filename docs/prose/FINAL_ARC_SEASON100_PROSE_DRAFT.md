@@ -1024,7 +1024,7 @@ Now she looked at it and wished she had complained longer.
 
 Lu checked the chamber one final time.
 
-“Emergency access stays sealed unless the external monitor shows catastrophic deviation.”
+[[speaker:luweiran]]“Emergency access stays sealed unless the external monitor shows catastrophic deviation.”
 
 Rhen nodded.
 
@@ -1032,21 +1032,21 @@ Rhen nodded.
 
 Tae stood behind him.
 
-“What if I am very nervous?”
+[[speaker:tae]]“What if I am very nervous?”
 
-“No.”
+[[speaker:luweiran]]“No.”
 
-“What if—”
+[[speaker:tae]]“What if—”
 
-“No.”
+[[speaker:luweiran]]“No.”
 
 Huo folded his arms.
 
-“This is why nobody lets you manage medicine.”
+[[speaker:huo]]“This is why nobody lets you manage medicine.”
 
-“I manage morale.”
+[[speaker:tae]]“I manage morale.”
 
-“You damage morale.”
+[[speaker:huo]]“You damage morale.”
 
 Qin Luo looked toward Sera.
 
@@ -1090,21 +1090,21 @@ Qin spoke first.
 
 Rhen looked at him.
 
-“That sounds rude.”
+[[speaker:rhen]]“That sounds rude.”
 
-“It is medical encouragement.”
+[[speaker:qin]]“It is medical encouragement.”
 
-“Luo has been influencing you.”
+[[speaker:rhen]]“Luo has been influencing you.”
 
-“Probably.”
+[[speaker:qin]]“Probably.”
 
 Huo stepped forward.
 
-“If something happens, we hold Quaint.”
+[[speaker:huo]]“If something happens, we hold Quaint.”
 
 Rhen nodded.
 
-“I know.”
+[[speaker:rhen]]“I know.”
 
 Tae said, “If something happens, we punch it.”
 
@@ -1112,19 +1112,19 @@ Huo closed his eyes.
 
 Rhen smiled.
 
-“I also know.”
+[[speaker:rhen]]“I also know.”
 
 Lu handed him a small monitoring strip.
 
-“First stage, I can still call you out if the circulation pattern fails.”
+[[speaker:luweiran]]“First stage, I can still call you out if the circulation pattern fails.”
 
-“And after?”
+[[speaker:rhen]]“And after?”
 
-“After, I guard the door from idiots.”
+[[speaker:luweiran]]“After, I guard the door from idiots.”
 
 Tae looked offended.
 
-“Why did you look at me?”
+[[speaker:tae]]“Why did you look at me?”
 
 Lu did not answer.
 
@@ -1136,19 +1136,19 @@ Rhen looked at her.
 
 Sera said, “You owe me rent.”
 
-“I remember.”
+[[speaker:rhen]]“I remember.”
 
-“And tea.”
+[[speaker:sera]]“And tea.”
 
-“Yes.”
+[[speaker:rhen]]“Yes.”
 
-“And several months.”
+[[speaker:sera]]“And several months.”
 
-“That may be difficult to return literally.”
+[[speaker:rhen]]“That may be difficult to return literally.”
 
-“Do not become philosophical now.”
+[[speaker:sera]]“Do not become philosophical now.”
 
-“Sorry.”
+[[speaker:rhen]]“Sorry.”
 
 She stepped close.
 
@@ -1160,11 +1160,11 @@ Sera adjusted the collar of his plain inner robe because his coat would remain o
 
 Then she kissed him once.
 
-“Come back.”
+[[speaker:sera]]“Come back.”
 
 Rhen touched her cheek.
 
-“I intend to.”
+[[speaker:rhen]]“I intend to.”
 
 Still precise.
 
