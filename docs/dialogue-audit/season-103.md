@@ -1,6 +1,6 @@
 # Season 103 — unattributed dialogue
 
-215 quoted lines in this season have no speaker.
+336 quoted lines in this season have no speaker.
 See `README.md` in this folder for what to do with them.
 
 Lines already resolved show their speaker in `[brackets]` for context.
@@ -38,6 +38,14 @@ Then at Jin.
 >>> “No.”   <-- WHO SAYS THIS?
 Kael nodded.
 [kael] “Leave it.”
+```
+```
+Luo Wen boarded with three medicine trunks and no personal troops.
+Xie Wuchen boarded with one travel bag, a Wind-Qi sword and the expression of a man beginning to understand that becoming No.10 came with less romance than paperwork.
+He stopped beside Sera.
+>>> “Which ship is mine?”   <-- WHO SAYS THIS?
+She pointed.
+Xie looked.
 ```
 ```
 She pointed.
@@ -306,6 +314,126 @@ Solveig looked past her at the ships.
 Sera turned.
 The one hundred twenty Quaint were already moving.
 ```
+```
+A tired sound escaped Solveig.
+It took Sera a second to realize it was laughter.
+Then Solveig’s expression hardened again.
+>>> “We need fighters at the east approach.”   <-- WHO SAYS THIS?
+“You’ll get them.”
+“When?”
+```
+```
+It took Sera a second to realize it was laughter.
+Then Solveig’s expression hardened again.
+“We need fighters at the east approach.”
+>>> “You’ll get them.”   <-- WHO SAYS THIS?
+“When?”
+“Kael’s first Stonecrown units are unloading now. Mo’s infantry behind them. Jin wants the landing secure before he commits the heavier formations inland.”
+```
+```
+Then Solveig’s expression hardened again.
+“We need fighters at the east approach.”
+“You’ll get them.”
+>>> “When?”   <-- WHO SAYS THIS?
+“Kael’s first Stonecrown units are unloading now. Mo’s infantry behind them. Jin wants the landing secure before he commits the heavier formations inland.”
+Solveig’s jaw tightened.
+```
+```
+“We need fighters at the east approach.”
+“You’ll get them.”
+“When?”
+>>> “Kael’s first Stonecrown units are unloading now. Mo’s infantry behind them. Jin wants the landing secure before he commits the heavier formations inland.”   <-- WHO SAYS THIS?
+Solveig’s jaw tightened.
+[solveig] “We have lost ground every day for four weeks.”
+```
+```
+“Kael’s first Stonecrown units are unloading now. Mo’s infantry behind them. Jin wants the landing secure before he commits the heavier formations inland.”
+Solveig’s jaw tightened.
+[solveig] “We have lost ground every day for four weeks.”
+>>> “I know.”   <-- WHO SAYS THIS?
+“Do you?”
+There was no insult in it.
+```
+```
+Solveig’s jaw tightened.
+[solveig] “We have lost ground every day for four weeks.”
+“I know.”
+>>> “Do you?”   <-- WHO SAYS THIS?
+There was no insult in it.
+Only exhaustion.
+```
+```
+Good.
+Sera did not need to pretend shared paperwork was shared suffering.
+A messenger ran toward them.
+>>> “Commander. West quay.”   <-- WHO SAYS THIS?
+Solveig turned.
+[solveig] “What?”
+```
+```
+“Commander. West quay.”
+Solveig turned.
+[solveig] “What?”
+>>> “Second casualty barge. More than capacity.”   <-- WHO SAYS THIS?
+Solveig swore.
+Sera was already moving.
+```
+```
+One entire row of miners still wearing work leathers because the front had reached their settlement before military evacuation did.
+Sera reached the quay as the ramp fell.
+A Quaint physician looked up from the first patient.
+>>> “Leader.”   <-- WHO SAYS THIS?
+“What do you need?”
+“Space.”
+```
+```
+Sera reached the quay as the ramp fell.
+A Quaint physician looked up from the first patient.
+“Leader.”
+>>> “What do you need?”   <-- WHO SAYS THIS?
+“Space.”
+Sera turned.
+```
+```
+A Quaint physician looked up from the first patient.
+“Leader.”
+“What do you need?”
+>>> “Space.”   <-- WHO SAYS THIS?
+Sera turned.
+[sera] “Clear warehouse four.”
+```
+```
+Sera turned.
+[sera] “Clear warehouse four.”
+An Isgard clerk protested immediately.
+>>> “That holds winter grain.”   <-- WHO SAYS THIS?
+“Move it.”
+“We don’t have carts.”
+```
+```
+[sera] “Clear warehouse four.”
+An Isgard clerk protested immediately.
+“That holds winter grain.”
+>>> “Move it.”   <-- WHO SAYS THIS?
+“We don’t have carts.”
+Mo Qingzhao’s first Imperial quartermaster had just stepped onto the dock.
+```
+```
+An Isgard clerk protested immediately.
+“That holds winter grain.”
+“Move it.”
+>>> “We don’t have carts.”   <-- WHO SAYS THIS?
+Mo Qingzhao’s first Imperial quartermaster had just stepped onto the dock.
+Sera pointed at him.
+```
+```
+[sera] “You do now.”
+The man looked behind himself at eighteen thousand people’s worth of logistical machinery beginning to arrive.
+Then bowed.
+>>> “Yes.”   <-- WHO SAYS THIS?
+Within fifteen minutes, grain was moving.
+Within thirty, warehouse four became a hospital.
+```
 
 ### Chapter 383 — Three Paragons in Beds
 
@@ -340,6 +468,70 @@ Sera stepped closer.
 >>> “Then you know the important part.”   <-- WHO SAYS THIS?
 Sera stepped closer.
 [sera] “What happened?”
+```
+```
+No excuse.
+No humiliation.
+Just fact.
+>>> “Crownless Dominion turns every long fight into a debt,” he said. “I kept spending because people were behind me. He kept making sure the battlefield returned nothing.”   <-- WHO SAYS THIS?
+Sera understood immediately.
+Unbroken Dominion was terrifying partly because Aldric could keep honest force alive beyond normal contact.
+```
+```
+Unbroken Dominion was terrifying partly because Aldric could keep honest force alive beyond normal contact.
+That meant continued expenditure.
+Against Eirik, every expenditure stayed spent.
+>>> “You hurt him.”   <-- WHO SAYS THIS?
+Aldric looked at her.
+[aldric] “Of course I hurt him.”
+```
+```
+Sera nodded.
+[sera] “Maedra?”
+His expression changed.
+>>> “Next room.”   <-- WHO SAYS THIS?
+Maedra Dravaryn looked worse.
+Not because she had more visible wounds.
+```
+```
+His left side did not move correctly.
+Sera stopped.
+He noticed.
+>>> “Don’t.”   <-- WHO SAYS THIS?
+“I didn’t say anything.”
+“You looked.”
+```
+```
+Sera stopped.
+He noticed.
+“Don’t.”
+>>> “I didn’t say anything.”   <-- WHO SAYS THIS?
+“You looked.”
+“You are difficult not to look at.”
+```
+```
+He noticed.
+“Don’t.”
+“I didn’t say anything.”
+>>> “You looked.”   <-- WHO SAYS THIS?
+“You are difficult not to look at.”
+“Better.”
+```
+```
+“Don’t.”
+“I didn’t say anything.”
+“You looked.”
+>>> “You are difficult not to look at.”   <-- WHO SAYS THIS?
+“Better.”
+His right hand rested on Maedra’s blanket.
+```
+```
+“I didn’t say anything.”
+“You looked.”
+“You are difficult not to look at.”
+>>> “Better.”   <-- WHO SAYS THIS?
+His right hand rested on Maedra’s blanket.
+The left remained useless at his side.
 ```
 ```
 If the halberd connected cleanly, armor, guard and ordinary defensive reinforcement stopped meaning what they normally meant.
@@ -394,8 +586,16 @@ A faint smile.
 “Good.”
 A faint smile.
 >>> “I like you better than Kael.”   <-- WHO SAYS THIS?
-[aldric] “Everyone does.”
+“Everyone does.”
 From the next room, Aldric shouted weakly, “I HEARD THAT.”
+```
+```
+“Good.”
+A faint smile.
+“I like you better than Kael.”
+>>> “Everyone does.”   <-- WHO SAYS THIS?
+From the next room, Aldric shouted weakly, “I HEARD THAT.”
+Eldran closed his eyes.
 ```
 ```
 One shoulder was deeply bruised beneath medicinal salve.
@@ -480,6 +680,158 @@ Ugly.
 Probably.
 Not lethally.
 ```
+```
+The door opened a fraction.
+Sera stood outside.
+[sera] “I asked for alone.”
+>>> “You have been alone for two hours.”   <-- WHO SAYS THIS?
+“That is still alone.”
+She looked at the papers.
+```
+```
+Sera stood outside.
+[sera] “I asked for alone.”
+“You have been alone for two hours.”
+>>> “That is still alone.”   <-- WHO SAYS THIS?
+She looked at the papers.
+“You’re working.”
+```
+```
+“You have been alone for two hours.”
+“That is still alone.”
+She looked at the papers.
+>>> “You’re working.”   <-- WHO SAYS THIS?
+“Yes.”
+“Good.”
+```
+```
+“That is still alone.”
+She looked at the papers.
+“You’re working.”
+>>> “Yes.”   <-- WHO SAYS THIS?
+“Good.”
+Luo looked at her.
+```
+```
+She looked at the papers.
+“You’re working.”
+“Yes.”
+>>> “Good.”   <-- WHO SAYS THIS?
+Luo looked at her.
+No pity.
+```
+```
+Then Sera said, “Yurushi told me what he knew.”
+Luo’s face changed.
+[luo] “About Shunto.”
+>>> “Yes.”   <-- WHO SAYS THIS?
+“How much?”
+“Not a confession. Condition. Guard access. What Yun would not spend time explaining while escaping.”
+```
+```
+Luo’s face changed.
+[luo] “About Shunto.”
+“Yes.”
+>>> “How much?”   <-- WHO SAYS THIS?
+“Not a confession. Condition. Guard access. What Yun would not spend time explaining while escaping.”
+Luo’s hands went still.
+```
+```
+[luo] “About Shunto.”
+“Yes.”
+“How much?”
+>>> “Not a confession. Condition. Guard access. What Yun would not spend time explaining while escaping.”   <-- WHO SAYS THIS?
+Luo’s hands went still.
+Sera watched him.
+```
+```
+Wrong room.
+Wrong world.
+After a long time he asked, “Did she say his name?”
+>>> “No.”   <-- WHO SAYS THIS?
+“Then we do not invent what she didn’t tell us.”
+Sera nodded.
+```
+```
+Wrong world.
+After a long time he asked, “Did she say his name?”
+“No.”
+>>> “Then we do not invent what she didn’t tell us.”   <-- WHO SAYS THIS?
+Sera nodded.
+[sera] “But we don’t ignore what he did either.”
+```
+```
+“Then we do not invent what she didn’t tell us.”
+Sera nodded.
+[sera] “But we don’t ignore what he did either.”
+>>> “No.”   <-- WHO SAYS THIS?
+Luo looked down at the Axtaya notes.
+His voice was very quiet.
+```
+```
+“No.”
+Luo looked down at the Axtaya notes.
+His voice was very quiet.
+>>> “I’m going to kill him.”   <-- WHO SAYS THIS?
+Sera did not answer immediately.
+Then:
+```
+```
+“I’m going to kill him.”
+Sera did not answer immediately.
+Then:
+>>> “No.”   <-- WHO SAYS THIS?
+Luo looked at her.
+[luo] “If a day comes when lethal force is necessary and I authorize it, that is different.”
+```
+```
+Luo looked at her.
+[luo] “If a day comes when lethal force is necessary and I authorize it, that is different.”
+His jaw tightened.
+>>> “You expect me to—”   <-- WHO SAYS THIS?
+“I expect you not to let Shunto decide what kind of man Yun’s death turns you into.”
+That hurt.
+```
+```
+[luo] “If a day comes when lethal force is necessary and I authorize it, that is different.”
+His jaw tightened.
+“You expect me to—”
+>>> “I expect you not to let Shunto decide what kind of man Yun’s death turns you into.”   <-- WHO SAYS THIS?
+That hurt.
+Which was probably why it worked.
+```
+```
+Luo looked away.
+Minutes passed.
+Then he said, “I hate you sometimes.”
+>>> “I know.”   <-- WHO SAYS THIS?
+“Rhen is more pleasant.”
+“Objectively false.”
+```
+```
+Minutes passed.
+Then he said, “I hate you sometimes.”
+“I know.”
+>>> “Rhen is more pleasant.”   <-- WHO SAYS THIS?
+“Objectively false.”
+A breath escaped Luo.
+```
+```
+Then he said, “I hate you sometimes.”
+“I know.”
+“Rhen is more pleasant.”
+>>> “Objectively false.”   <-- WHO SAYS THIS?
+A breath escaped Luo.
+Not laughter.
+```
+```
+Not laughter.
+Close enough.
+He picked up the new poison notes.
+>>> “I found something.”   <-- WHO SAYS THIS?
+Sera leaned forward.
+The room where Yun died became, after Day Zero, a place where something new could begin.
+```
 
 ### Chapter 385 — Jin Chooses One Beachhead
 
@@ -492,7 +844,23 @@ Jin stood over the map.
 [jin] “One beachhead.”
 ```
 ```
-[kael] “This.”
+[jin] “One beachhead.”
+Kael frowned.
+[kael] “That is not an answer.”
+>>> “It is the answer.”   <-- WHO SAYS THIS?
+Jin placed one black marker beside the western coastal supply corridor.
+A relatively small position.
+```
+```
+Not the biggest port.
+Not the deepest penetration.
+Not the place poets would choose.
+>>> “This.”   <-- WHO SAYS THIS?
+Lei looked at it.
+[lei] “Why?”
+```
+```
+“This.”
 Lei looked at it.
 [lei] “Why?”
 >>> “Because Shinsei can lose the east road and reroute.”   <-- WHO SAYS THIS?
@@ -806,6 +1174,70 @@ Kael’s smile faded.
 Kael’s smile faded.
 Jun lifted the halberd.
 ```
+```
+Kael hit the ground hard.
+Stonecrown soldiers moved again.
+He slammed one fist into the earth.
+>>> “NO.”   <-- WHO SAYS THIS?
+They stopped.
+Jun approached.
+```
+```
+They stopped.
+Jun approached.
+[jun] “You have disciplined troops.”
+>>> “Yes.”   <-- WHO SAYS THIS?
+“They’d save you.”
+“No.”
+```
+```
+Jun approached.
+[jun] “You have disciplined troops.”
+“Yes.”
+>>> “They’d save you.”   <-- WHO SAYS THIS?
+“No.”
+“They would try.”
+```
+```
+[jun] “You have disciplined troops.”
+“Yes.”
+“They’d save you.”
+>>> “No.”   <-- WHO SAYS THIS?
+“They would try.”
+Kael stood.
+```
+```
+“Yes.”
+“They’d save you.”
+“No.”
+>>> “They would try.”   <-- WHO SAYS THIS?
+Kael stood.
+His left arm hung wrong.
+```
+```
+His left arm hung wrong.
+Worldweight pulsed beneath the road.
+He looked at Jun.
+>>> “This is my fight.”   <-- WHO SAYS THIS?
+Jun’s expression did not change.
+[jun] “That is usually what men say before getting others killed.”
+```
+```
+It was the battlefield in which victory became possible.
+Jun saw that understanding arrive.
+For the first time, he looked pleased.
+>>> “Now you’re Paragon.”   <-- WHO SAYS THIS?
+Then **Third Wall Falls** began.
+Three escalating halberd attacks.
+```
+```
+A Stonecrown captain caught him.
+Kael glared.
+[kael] “You were told to stay out.”
+>>> “The fight is over.”   <-- WHO SAYS THIS?
+Kael considered that.
+[kael] “Annoyingly valid.”
+```
 
 ### Chapter 387 — Kael Wins His First Paragon Fight
 
@@ -856,6 +1288,182 @@ Kael closed his eyes.
 >>> “Good. Diagnostic complete.”   <-- WHO SAYS THIS?
 Kael closed his eyes.
 The medical tent around them shook faintly under distant artillery.
+```
+```
+[kael] “Status.”
+Luo kept wrapping his shoulder.
+[luo] “Jun defeated.”
+>>> “I remember.”   <-- WHO SAYS THIS?
+“Congratulations.”
+“That sounded insincere.”
+```
+```
+Luo kept wrapping his shoulder.
+[luo] “Jun defeated.”
+“I remember.”
+>>> “Congratulations.”   <-- WHO SAYS THIS?
+“That sounded insincere.”
+“It was sincere until you tried to stand.”
+```
+```
+[luo] “Jun defeated.”
+“I remember.”
+“Congratulations.”
+>>> “That sounded insincere.”   <-- WHO SAYS THIS?
+“It was sincere until you tried to stand.”
+“Status.”
+```
+```
+“I remember.”
+“Congratulations.”
+“That sounded insincere.”
+>>> “It was sincere until you tried to stand.”   <-- WHO SAYS THIS?
+“Status.”
+Luo sighed.
+```
+```
+“Congratulations.”
+“That sounded insincere.”
+“It was sincere until you tried to stand.”
+>>> “Status.”   <-- WHO SAYS THIS?
+Luo sighed.
+[luo] “Position mostly ours. Shinsei withdrawing from two secondary depots. We captured prisoners and Axtaya stores. Sera has not fought.”
+```
+```
+[luo] “Position mostly ours. Shinsei withdrawing from two secondary depots. We captured prisoners and Axtaya stores. Sera has not fought.”
+Kael looked at him.
+[kael] “Why did you say that last part?”
+>>> “Because I know you.”   <-- WHO SAYS THIS?
+Kael frowned.
+[kael] “I wasn’t going to ask.”
+```
+```
+“Because I know you.”
+Kael frowned.
+[kael] “I wasn’t going to ask.”
+>>> “You were going to ask whether she needed to intervene.”   <-- WHO SAYS THIS?
+“That is different.”
+“No.”
+```
+```
+Kael frowned.
+[kael] “I wasn’t going to ask.”
+“You were going to ask whether she needed to intervene.”
+>>> “That is different.”   <-- WHO SAYS THIS?
+“No.”
+Kael let his head fall back.
+```
+```
+[kael] “I wasn’t going to ask.”
+“You were going to ask whether she needed to intervene.”
+“That is different.”
+>>> “No.”   <-- WHO SAYS THIS?
+Kael let his head fall back.
+There had been a time when being Wuyue’s public Number One meant everyone expected him to be the answer in every room.
+```
+```
+He smiled.
+Luo noticed.
+[luo] “What?”
+>>> “I won.”   <-- WHO SAYS THIS?
+“Yes.”
+“My first Paragon fight.”
+```
+```
+Luo noticed.
+[luo] “What?”
+“I won.”
+>>> “Yes.”   <-- WHO SAYS THIS?
+“My first Paragon fight.”
+“Yes.”
+```
+```
+[luo] “What?”
+“I won.”
+“Yes.”
+>>> “My first Paragon fight.”   <-- WHO SAYS THIS?
+“Yes.”
+“I won.”
+```
+```
+“I won.”
+“Yes.”
+“My first Paragon fight.”
+>>> “Yes.”   <-- WHO SAYS THIS?
+“I won.”
+Luo tied the bandage harder than necessary.
+```
+```
+“Yes.”
+“My first Paragon fight.”
+“Yes.”
+>>> “I won.”   <-- WHO SAYS THIS?
+Luo tied the bandage harder than necessary.
+Kael hissed.
+```
+```
+Luo tied the bandage harder than necessary.
+Kael hissed.
+[kael] “Arrogance causes swelling.”
+>>> “That is medically false.”   <-- WHO SAYS THIS?
+“I am the physician.”
+“You’re abusing authority.”
+```
+```
+Kael hissed.
+[kael] “Arrogance causes swelling.”
+“That is medically false.”
+>>> “I am the physician.”   <-- WHO SAYS THIS?
+“You’re abusing authority.”
+“Correct.”
+```
+```
+[kael] “Arrogance causes swelling.”
+“That is medically false.”
+“I am the physician.”
+>>> “You’re abusing authority.”   <-- WHO SAYS THIS?
+“Correct.”
+Outside, soldiers began shouting.
+```
+```
+“That is medically false.”
+“I am the physician.”
+“You’re abusing authority.”
+>>> “Correct.”   <-- WHO SAYS THIS?
+Outside, soldiers began shouting.
+Not alarm.
+```
+```
+Then Sera entered.
+Kael looked at her.
+She looked at the bandages.
+>>> “You look terrible.”   <-- WHO SAYS THIS?
+“Victory is ugly.”
+“You lost half your shoulder function.”
+```
+```
+Kael looked at her.
+She looked at the bandages.
+“You look terrible.”
+>>> “Victory is ugly.”   <-- WHO SAYS THIS?
+“You lost half your shoulder function.”
+“Temporary.”
+```
+```
+She looked at the bandages.
+“You look terrible.”
+“Victory is ugly.”
+>>> “You lost half your shoulder function.”   <-- WHO SAYS THIS?
+“Temporary.”
+Luo said, “If he behaves.”
+```
+```
+“You look terrible.”
+“Victory is ugly.”
+“You lost half your shoulder function.”
+>>> “Temporary.”   <-- WHO SAYS THIS?
+Luo said, “If he behaves.”
+Sera nodded.
 ```
 ```
 [sera] “So permanent.”
@@ -911,7 +1519,7 @@ Kael’s expression sharpened.
 “The same as ours.”
 >>> “Good.”   <-- WHO SAYS THIS?
 Sera looked at him.
-[luo] “Jun?”
+[sera] “Jun?”
 ```
 ```
 [luo] “Alive when extracted from the field,” Luo said. “Severe internal trauma. One arm damaged. Multiple meridian disruptions. Shinsei recovery team reached him during their withdrawal.”
@@ -1205,6 +1813,150 @@ He looked at the prisoners.
 One was barely nineteen.
 ```
 ```
+[jin] “They expected massacre.”
+Sera looked at the growing holding area.
+[sera] “Yes.”
+>>> “That expectation was part of their discipline model.”   <-- WHO SAYS THIS?
+“Yes.”
+“If surrender means survival—”
+```
+```
+Sera looked at the growing holding area.
+[sera] “Yes.”
+“That expectation was part of their discipline model.”
+>>> “Yes.”   <-- WHO SAYS THIS?
+“If surrender means survival—”
+“Do not turn this into a weapon yet.”
+```
+```
+[sera] “Yes.”
+“That expectation was part of their discipline model.”
+“Yes.”
+>>> “If surrender means survival—”   <-- WHO SAYS THIS?
+“Do not turn this into a weapon yet.”
+Jin looked at her.
+```
+```
+“That expectation was part of their discipline model.”
+“Yes.”
+“If surrender means survival—”
+>>> “Do not turn this into a weapon yet.”   <-- WHO SAYS THIS?
+Jin looked at her.
+Sera continued.
+```
+```
+[sera] “We treat prisoners because that is what we do. If it also weakens Shinsei’s willingness to die pointlessly, good. But do not make compassion conditional on usefulness.”
+Jin was quiet.
+Then nodded.
+>>> “Fair.”   <-- WHO SAYS THIS?
+Luo spent most of the night in the prisoner hospital.
+Not because he trusted them.
+```
+```
+A vitality signature that felt wrong in a way ordinary exhaustion did not.
+“How many?” Luo asked.
+The man looked away.
+>>> “One.”   <-- WHO SAYS THIS?
+“When?”
+“Six days ago.”
+```
+```
+“How many?” Luo asked.
+The man looked away.
+“One.”
+>>> “When?”   <-- WHO SAYS THIS?
+“Six days ago.”
+“Why?”
+```
+```
+The man looked away.
+“One.”
+“When?”
+>>> “Six days ago.”   <-- WHO SAYS THIS?
+“Why?”
+“Formation breach.”
+```
+```
+“One.”
+“When?”
+“Six days ago.”
+>>> “Why?”   <-- WHO SAYS THIS?
+“Formation breach.”
+“Were you dying?”
+```
+```
+“When?”
+“Six days ago.”
+“Why?”
+>>> “Formation breach.”   <-- WHO SAYS THIS?
+“Were you dying?”
+“No.”
+```
+```
+“Six days ago.”
+“Why?”
+“Formation breach.”
+>>> “Were you dying?”   <-- WHO SAYS THIS?
+“No.”
+“Were your people?”
+```
+```
+“Why?”
+“Formation breach.”
+“Were you dying?”
+>>> “No.”   <-- WHO SAYS THIS?
+“Were your people?”
+“Yes.”
+```
+```
+“Formation breach.”
+“Were you dying?”
+“No.”
+>>> “Were your people?”   <-- WHO SAYS THIS?
+“Yes.”
+Luo nodded.
+```
+```
+“Were you dying?”
+“No.”
+“Were your people?”
+>>> “Yes.”   <-- WHO SAYS THIS?
+Luo nodded.
+That was medicine’s difficult answer.
+```
+```
+Maybe that use had saved lives.
+Maybe it had cost the man years.
+Both could be true.
+>>> “How much did they tell you?”   <-- WHO SAYS THIS?
+The soldier frowned.
+“About what?”
+```
+```
+Both could be true.
+“How much did they tell you?”
+The soldier frowned.
+>>> “About what?”   <-- WHO SAYS THIS?
+“The cost.”
+“Recovery?”
+```
+```
+“How much did they tell you?”
+The soldier frowned.
+“About what?”
+>>> “The cost.”   <-- WHO SAYS THIS?
+“Recovery?”
+Luo became still.
+```
+```
+The soldier frowned.
+“About what?”
+“The cost.”
+>>> “Recovery?”   <-- WHO SAYS THIS?
+Luo became still.
+[luo] “What did they say?”
+```
+```
 Luo became still.
 [luo] “What did they say?”
 The soldier shrugged.
@@ -1407,6 +2159,222 @@ Jun closed his eyes again.
 Jun closed his eyes again.
 [jun] “He learned.”
 ```
+```
+Aya adjusted a needle.
+[aya] “So should you.”
+One eye opened.
+>>> “That sounded philosophical.”   <-- WHO SAYS THIS?
+“It was medical.”
+“How?”
+```
+```
+[aya] “So should you.”
+One eye opened.
+“That sounded philosophical.”
+>>> “It was medical.”   <-- WHO SAYS THIS?
+“How?”
+“You are injured because your opponent adapted faster than you did.”
+```
+```
+One eye opened.
+“That sounded philosophical.”
+“It was medical.”
+>>> “How?”   <-- WHO SAYS THIS?
+“You are injured because your opponent adapted faster than you did.”
+Jun considered that.
+```
+```
+“That sounded philosophical.”
+“It was medical.”
+“How?”
+>>> “You are injured because your opponent adapted faster than you did.”   <-- WHO SAYS THIS?
+Jun considered that.
+[jun] “Fair.”
+```
+```
+Aya slapped his wrist back to the bed.
+Jun stared.
+[jun] “You hit me.”
+>>> “Yes.”   <-- WHO SAYS THIS?
+“I am a Paragon.”
+“You are currently a patient.”
+```
+```
+Jun stared.
+[jun] “You hit me.”
+“Yes.”
+>>> “I am a Paragon.”   <-- WHO SAYS THIS?
+“You are currently a patient.”
+He looked almost offended.
+```
+```
+[jun] “You hit me.”
+“Yes.”
+“I am a Paragon.”
+>>> “You are currently a patient.”   <-- WHO SAYS THIS?
+He looked almost offended.
+Then the corner of his mouth moved.
+```
+```
+“You are currently a patient.”
+He looked almost offended.
+Then the corner of his mouth moved.
+>>> “Also fair.”   <-- WHO SAYS THIS?
+Aya looked at the chart.
+[aya] “Several days before I let you stand in armor.”
+```
+```
+“Also fair.”
+Aya looked at the chart.
+[aya] “Several days before I let you stand in armor.”
+>>> “Too long.”   <-- WHO SAYS THIS?
+“No.”
+“Shinsei needs—”
+```
+```
+Aya looked at the chart.
+[aya] “Several days before I let you stand in armor.”
+“Too long.”
+>>> “No.”   <-- WHO SAYS THIS?
+“Shinsei needs—”
+“Shinsei needs you alive more than it needs you pretending one successful treatment erased the fight.”
+```
+```
+[aya] “Several days before I let you stand in armor.”
+“Too long.”
+“No.”
+>>> “Shinsei needs—”   <-- WHO SAYS THIS?
+“Shinsei needs you alive more than it needs you pretending one successful treatment erased the fight.”
+Jun was silent.
+```
+```
+“Too long.”
+“No.”
+“Shinsei needs—”
+>>> “Shinsei needs you alive more than it needs you pretending one successful treatment erased the fight.”   <-- WHO SAYS THIS?
+Jun was silent.
+Aya continued.
+```
+```
+Jun was silent.
+Aya continued.
+[aya] “Your recoverable damage can be repaired.”
+>>> “Can?”   <-- WHO SAYS THIS?
+“Yes.”
+“All of it?”
+```
+```
+Aya continued.
+[aya] “Your recoverable damage can be repaired.”
+“Can?”
+>>> “Yes.”   <-- WHO SAYS THIS?
+“All of it?”
+“With time.”
+```
+```
+[aya] “Your recoverable damage can be repaired.”
+“Can?”
+“Yes.”
+>>> “All of it?”   <-- WHO SAYS THIS?
+“With time.”
+“How much?”
+```
+```
+“Can?”
+“Yes.”
+“All of it?”
+>>> “With time.”   <-- WHO SAYS THIS?
+“How much?”
+She looked at him.
+```
+```
+“Yes.”
+“All of it?”
+“With time.”
+>>> “How much?”   <-- WHO SAYS THIS?
+She looked at him.
+“Enough that command will complain.”
+```
+```
+“With time.”
+“How much?”
+She looked at him.
+>>> “Enough that command will complain.”   <-- WHO SAYS THIS?
+Jun almost laughed.
+Then winced.
+```
+```
+[jun] “How many?”
+Aya looked toward the door.
+[aya] “Too many.”
+>>> “Redline?”   <-- WHO SAYS THIS?
+“Some.”
+Jun’s expression hardened.
+```
+```
+Aya looked toward the door.
+[aya] “Too many.”
+“Redline?”
+>>> “Some.”   <-- WHO SAYS THIS?
+Jun’s expression hardened.
+[jun] “Did they hold?”
+```
+```
+Jun looked at her.
+Aya’s voice was calm.
+That made it sharper.
+>>> “Ask command.”   <-- WHO SAYS THIS?
+He looked away.
+Aya returned to the needles. This was why she had stayed.
+```
+```
+Aya had known that contradiction for years.
+Today it felt heavier.
+A clerk entered with a captured-status bulletin.
+>>> “Western corridor lost. Jun’s formation withdrew successfully. One hundred-plus personnel captured.”   <-- WHO SAYS THIS?
+Jun looked at him.
+[jun] “Executed?”
+```
+```
+Jun looked at him.
+[jun] “Executed?”
+The clerk checked.
+>>> “No.”   <-- WHO SAYS THIS?
+A pause.
+“Wuyue is treating them.”
+```
+```
+The clerk checked.
+“No.”
+A pause.
+>>> “Wuyue is treating them.”   <-- WHO SAYS THIS?
+Jun’s eyes narrowed.
+Aya stopped moving for half a second.
+```
+```
+Jun’s eyes narrowed.
+Aya stopped moving for half a second.
+[aya] “Treating?”
+>>> “Yes.”   <-- WHO SAYS THIS?
+“Same standard as their own?”
+“Report says yes.”
+```
+```
+Aya stopped moving for half a second.
+[aya] “Treating?”
+“Yes.”
+>>> “Same standard as their own?”   <-- WHO SAYS THIS?
+“Report says yes.”
+Jun stared at the ceiling.
+```
+```
+[aya] “Treating?”
+“Yes.”
+“Same standard as their own?”
+>>> “Report says yes.”   <-- WHO SAYS THIS?
+Jun stared at the ceiling.
+Aya looked down at his chart.
+```
 
 ### Chapter 390 — Tsubasa Changes the Arithmetic
 
@@ -1512,7 +2480,7 @@ Kai grunted.
 “And Jin?”
 >>> “Concord nine thousand. He appears to be directing combined operational planning with Isgard command.”   <-- WHO SAYS THIS?
 Kai grunted.
-[shunto] “Smart.”
+[kai] “Smart.”
 ```
 ```
 Kai looked delighted.
@@ -1699,7 +2667,7 @@ Kai nodded.
 Tsubasa turned to Haru.
 ```
 ```
-[haru] “What do we know?”
+[tsubasa] “What do we know?”
 Haru answered.
 [haru] “Publicly, the Quaint Teahouse is associated with medicine, intelligence support and Sera’s private personnel. Rhen is unavailable. Sera and all ten public Wuyue rankings are north.”
 >>> “What do we not know?”   <-- WHO SAYS THIS?

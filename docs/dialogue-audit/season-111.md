@@ -1,6 +1,6 @@
 # Season 111 — unattributed dialogue
 
-121 quoted lines in this season have no speaker.
+178 quoted lines in this season have no speaker.
 See `README.md` in this folder for what to do with them.
 
 Lines already resolved show their speaker in `[brackets]` for context.
@@ -459,6 +459,222 @@ Kael folded his arms.
 The movement pulled slightly at his left side.
 ```
 ```
+Luo noticed.
+Kael noticed Luo noticing.
+[kael] “This is why physicians are unpopular.”
+>>> “Incorrect. Physicians are unpopular because patients are stupid.”   <-- WHO SAYS THIS?
+A nearby Isgard medic coughed into her sleeve to hide a laugh.
+Kael looked at her.
+```
+```
+Luo called it evidence that numbers should require licensing.
+Kael leaned over the open crate.
+[kael] “Anything?”
+>>> “Yes.”   <-- WHO SAYS THIS?
+“What?”
+“A reason for you to stop breathing on my notes.”
+```
+```
+Kael leaned over the open crate.
+[kael] “Anything?”
+“Yes.”
+>>> “What?”   <-- WHO SAYS THIS?
+“A reason for you to stop breathing on my notes.”
+Kael straightened.
+```
+```
+[kael] “Anything?”
+“Yes.”
+“What?”
+>>> “A reason for you to stop breathing on my notes.”   <-- WHO SAYS THIS?
+Kael straightened.
+[kael] “You've gotten less pleasant.”
+```
+```
+[kael] “You've gotten less pleasant.”
+Luo's hands stopped for one fraction of a second.
+Then resumed.
+>>> “Probably.”   <-- WHO SAYS THIS?
+Kael looked at him.
+There were things the two men did not discuss.
+```
+```
+Kael respected that.
+Mostly.
+A scout entered the shed.
+>>> “Lord Kael.”   <-- WHO SAYS THIS?
+Kael turned.
+[kael] “What?”
+```
+```
+“Lord Kael.”
+Kael turned.
+[kael] “What?”
+>>> “Western ridge patrol missed a signal window.”   <-- WHO SAYS THIS?
+Luo looked up.
+Kael's expression changed immediately.
+```
+```
+No laziness.
+No recovery.
+Wuyue No.1 returned to his face like a door closing.
+>>> “How long?”   <-- WHO SAYS THIS?
+“Seven minutes.”
+“Weather?”
+```
+```
+No recovery.
+Wuyue No.1 returned to his face like a door closing.
+“How long?”
+>>> “Seven minutes.”   <-- WHO SAYS THIS?
+“Weather?”
+“Clear.”
+```
+```
+Wuyue No.1 returned to his face like a door closing.
+“How long?”
+“Seven minutes.”
+>>> “Weather?”   <-- WHO SAYS THIS?
+“Clear.”
+“Other relays?”
+```
+```
+“How long?”
+“Seven minutes.”
+“Weather?”
+>>> “Clear.”   <-- WHO SAYS THIS?
+“Other relays?”
+“Normal.”
+```
+```
+“Seven minutes.”
+“Weather?”
+“Clear.”
+>>> “Other relays?”   <-- WHO SAYS THIS?
+“Normal.”
+Kael walked outside.
+```
+```
+“Weather?”
+“Clear.”
+“Other relays?”
+>>> “Normal.”   <-- WHO SAYS THIS?
+Kael walked outside.
+Luo followed.
+```
+```
+Kael walked outside.
+Luo followed.
+The corridor commander met them halfway.
+>>> “Could be equipment failure.”   <-- WHO SAYS THIS?
+Kael looked toward the western ridge.
+[kael] “No.”
+```
+```
+Kael looked toward the western ridge.
+[kael] “No.”
+The commander frowned.
+>>> “You know that?”   <-- WHO SAYS THIS?
+“No.”
+“Then—”
+```
+```
+[kael] “No.”
+The commander frowned.
+“You know that?”
+>>> “No.”   <-- WHO SAYS THIS?
+“Then—”
+“I dislike the timing.”
+```
+```
+The commander frowned.
+“You know that?”
+“No.”
+>>> “Then—”   <-- WHO SAYS THIS?
+“I dislike the timing.”
+Kael pointed.
+```
+```
+“You know that?”
+“No.”
+“Then—”
+>>> “I dislike the timing.”   <-- WHO SAYS THIS?
+Kael pointed.
+[kael] “Pull noncombatants behind Bridge Two. Prisoners too.”
+```
+```
+“I dislike the timing.”
+Kael pointed.
+[kael] “Pull noncombatants behind Bridge Two. Prisoners too.”
+>>> “Lord Kael, that will jam the road.”   <-- WHO SAYS THIS?
+“Jam it.”
+The commander saluted and ran.
+```
+```
+Kael pointed.
+[kael] “Pull noncombatants behind Bridge Two. Prisoners too.”
+“Lord Kael, that will jam the road.”
+>>> “Jam it.”   <-- WHO SAYS THIS?
+The commander saluted and ran.
+Luo looked at Kael.
+```
+```
+[luo] “You felt something.”
+Kael's eyes stayed on the ridge.
+[kael] “No.”
+>>> “That is reassuring.”   <-- WHO SAYS THIS?
+“I said I dislike the timing.”
+“Your instincts are not medicine.”
+```
+```
+Kael's eyes stayed on the ridge.
+[kael] “No.”
+“That is reassuring.”
+>>> “I said I dislike the timing.”   <-- WHO SAYS THIS?
+“Your instincts are not medicine.”
+“They have kept me alive.”
+```
+```
+[kael] “No.”
+“That is reassuring.”
+“I said I dislike the timing.”
+>>> “Your instincts are not medicine.”   <-- WHO SAYS THIS?
+“They have kept me alive.”
+“Your physicians have kept you alive.”
+```
+```
+“That is reassuring.”
+“I said I dislike the timing.”
+“Your instincts are not medicine.”
+>>> “They have kept me alive.”   <-- WHO SAYS THIS?
+“Your physicians have kept you alive.”
+Kael almost answered.
+```
+```
+“I said I dislike the timing.”
+“Your instincts are not medicine.”
+“They have kept me alive.”
+>>> “Your physicians have kept you alive.”   <-- WHO SAYS THIS?
+Kael almost answered.
+Then the first body fell from the ridge.
+```
+```
+Luo dropped beside the first.
+One touch to the wrist.
+His expression sharpened.
+>>> “Circulation locks.”   <-- WHO SAYS THIS?
+Kael looked up.
+A man stood on the ridge.
+```
+```
+Shunto looked past Kael.
+His eyes found Luo.
+Recognition came slowly.
+>>> “The physician.”   <-- WHO SAYS THIS?
+Luo stood.
+Kael moved half a step between them without looking back.
+```
+```
 [shunto] “Protective.”
 Kael rolled his shoulder once.
 [kael] “What happened to your army?”
@@ -541,6 +757,22 @@ Kael's qi settled into the road.
 
 ### Chapter 463 — Worldweight Against Hundred Locks
 
+```
+“Better,” Kael said.
+Shunto wiped blood from his upper lip.
+[shunto] “You talk too much.”
+>>> “I've been told.”   <-- WHO SAYS THIS?
+“By stronger men?”
+Kael thought of Rhen.
+```
+```
+Shunto wiped blood from his upper lip.
+[shunto] “You talk too much.”
+“I've been told.”
+>>> “By stronger men?”   <-- WHO SAYS THIS?
+Kael thought of Rhen.
+[kael] “Yes.”
+```
 ```
 [luo] “Stop forcing circulation through it.”
 Kael did not look back.
@@ -649,6 +881,38 @@ Shunto climbed out.
 ### Chapter 464 — Kael Makes Him Pay
 
 ```
+[kael] “Annoying.”
+Shunto circled.
+[shunto] “You're slowing.”
+>>> “Yes.”   <-- WHO SAYS THIS?
+“You don't sound concerned.”
+“I am.”
+```
+```
+Shunto circled.
+[shunto] “You're slowing.”
+“Yes.”
+>>> “You don't sound concerned.”   <-- WHO SAYS THIS?
+“I am.”
+Shunto's eyes narrowed.
+```
+```
+[shunto] “You're slowing.”
+“Yes.”
+“You don't sound concerned.”
+>>> “I am.”   <-- WHO SAYS THIS?
+Shunto's eyes narrowed.
+Kael drove his heel down.
+```
+```
+[kael] “That's unpleasant.”
+Shunto breathed through his teeth.
+[shunto] “So are you.”
+>>> “Thank you.”   <-- WHO SAYS THIS?
+Luo almost smiled.
+Almost.
+```
+```
 [shunto] “Do you think he can save you?”
 Kael looked genuinely confused.
 [kael] “From what?”
@@ -673,6 +937,25 @@ Kael moved.
 Shunto drank first.
 ```
 
+### Chapter 465 — Three Times
+
+```
+[shunto] “You were enjoying yourself before.”
+Kael spat blood.
+[kael] “I still am.”
+>>> “That is stupid.”   <-- WHO SAYS THIS?
+“Yes.”
+Shunto attacked.
+```
+```
+Kael spat blood.
+[kael] “I still am.”
+“That is stupid.”
+>>> “Yes.”   <-- WHO SAYS THIS?
+Shunto attacked.
+Kael gave ground for the first time.
+```
+
 ### Chapter 466 — Luo Becomes the Real Target
 
 ```
@@ -682,6 +965,30 @@ He was three paces behind before he even turned.
 >>> “Luo!”   <-- WHO SAYS THIS?
 Luo did not move.
 That was not bravery.
+```
+```
+He moved behind a stone supply marker rather than farther away.
+Shunto saw.
+[shunto] “Still studying?”
+>>> “Yes.”   <-- WHO SAYS THIS?
+“You think poison will bridge a realm?”
+“No.”
+```
+```
+Shunto saw.
+[shunto] “Still studying?”
+“Yes.”
+>>> “You think poison will bridge a realm?”   <-- WHO SAYS THIS?
+“No.”
+Shunto paused.
+```
+```
+[shunto] “Still studying?”
+“Yes.”
+“You think poison will bridge a realm?”
+>>> “No.”   <-- WHO SAYS THIS?
+Shunto paused.
+Luo continued.
 ```
 ```
 [luo] “Yes.”
@@ -725,6 +1032,38 @@ Kael spat red into the road.
 [kael] “No.”
 ```
 ```
+“You cannot stop me.”
+Kael spat red into the road.
+[kael] “No.”
+>>> “Then why are you standing?”   <-- WHO SAYS THIS?
+Kael looked at Luo.
+Luo had a needle between two fingers now.
+```
+```
+[kael] “Because he's not done.”
+Shunto's eyes narrowed.
+He turned fully.
+>>> “You are Wuyue's Number One.”   <-- WHO SAYS THIS?
+Kael smiled with half his mouth.
+[kael] “That's why I'm standing here.”
+```
+```
+[shunto] “There.”
+Kael breathed in broken pieces.
+[kael] “There what?”
+>>> “You finally sound human.”   <-- WHO SAYS THIS?
+Kael laughed.
+It became a cough.
+```
+```
+Kael laughed.
+It became a cough.
+Blood touched his lips.
+>>> “I've always been human.”   <-- WHO SAYS THIS?
+Shunto kicked him in the face again.
+Kael rolled.
+```
+```
 The same correction he had seen six times already.
 Shunto burned the foreign substance out before it entered anything important.
 He tossed the needle aside.
@@ -747,6 +1086,107 @@ Luo did not move.
 >>> “Now there is nobody between us.”   <-- WHO SAYS THIS?
 Luo looked past him.
 At Kael.
+```
+
+### Chapter 468 — Undertaker's Measure
+
+```
+[shunto] “You're very calm.”
+Luo reached into his sleeve.
+[luo] “I'm working.”
+>>> “On me?”   <-- WHO SAYS THIS?
+“Yes.”
+Shunto smiled.
+```
+```
+Luo reached into his sleeve.
+[luo] “I'm working.”
+“On me?”
+>>> “Yes.”   <-- WHO SAYS THIS?
+Shunto smiled.
+[shunto] “Then work faster.”
+```
+```
+[shunto] “There was only one Pale Venom.”
+Luo's mouth moved.
+For one impossible instant, Shunto thought he was smiling.
+>>> “Yes.”   <-- WHO SAYS THIS?
+A silver needle punched through the webbing of Shunto's thumb.
+He dropped Luo instinctively.
+```
+```
+[luo] “Four minutes, nine seconds.”
+Shunto's expression tightened.
+[shunto] “You keep counting.”
+>>> “Yes.”   <-- WHO SAYS THIS?
+“Why?”
+“Because your body is.”
+```
+```
+Shunto's expression tightened.
+[shunto] “You keep counting.”
+“Yes.”
+>>> “Why?”   <-- WHO SAYS THIS?
+“Because your body is.”
+Shunto stepped forward.
+```
+```
+[shunto] “You keep counting.”
+“Yes.”
+“Why?”
+>>> “Because your body is.”   <-- WHO SAYS THIS?
+Shunto stepped forward.
+His damaged wrist trembled once.
+```
+```
+Yun's favourite teaching irritant because it smelled strong enough to make students overreact.
+Shunto realized a moment later.
+[shunto] “You're wasting time.”
+>>> “No.”   <-- WHO SAYS THIS?
+Luo looked at his throat pulse.
+Four minutes, twenty-six seconds.
+```
+```
+“No.”
+Luo looked at his throat pulse.
+Four minutes, twenty-six seconds.
+>>> “You are.”   <-- WHO SAYS THIS?
+At the alliance command hall, the warning arrived almost forty minutes too late.
+Sera opened Lu's encoded sheet.
+```
+
+### Chapter 469 — False Cure
+
+```
+[luo] “Better?”
+Shunto flexed his fingers.
+[shunto] “Yes.”
+>>> “Good.”   <-- WHO SAYS THIS?
+Shunto's smile faded.
+Luo raised one finger.
+```
+```
+It began when you understood what the body would do next.
+Luo raised his hand.
+His voice was almost gentle.
+>>> “Diagnosis complete.”   <-- WHO SAYS THIS?
+**Final Diagnosis.**
+The Supreme art did not add a new poison from nowhere.
+```
+```
+Kael breathed once.
+Pain tore through everything.
+He looked toward Luo.
+>>> “Did that count?”   <-- WHO SAYS THIS?
+Luo ran toward them.
+[luo] “Yes.”
+```
+```
+“Did that count?”
+Luo ran toward them.
+[luo] “Yes.”
+>>> “Good.”   <-- WHO SAYS THIS?
+Kael fell over.
 ```
 
 ### Chapter 470 — Live Long Enough
@@ -800,6 +1240,14 @@ Luo kept working.
 Shunto swallowed.
 ```
 ```
+Luo kept working.
+Shunto swallowed.
+It hurt.
+>>> “Why?”   <-- WHO SAYS THIS?
+Luo said nothing.
+Shunto's eyes shifted toward Kael.
+```
+```
 The Wuyue No.1 lay surrounded by medics.
 Blood everywhere.
 Then back to Luo.
@@ -814,6 +1262,22 @@ Then back to Luo.
 >>> “Yes.”   <-- WHO SAYS THIS?
 Shunto breathed shallowly.
 [shunto] “Then do it.”
+```
+```
+Something like anger returned to Shunto's eyes.
+Luo leaned closer.
+His voice remained quiet.
+>>> “You are going to live long enough to answer for her.”   <-- WHO SAYS THIS?
+Shunto stared at him.
+Luo finished the stabilization.
+```
+```
+Hands visible.
+The corridor troops raised bows anyway.
+The Shinsei captain stopped well outside range.
+>>> “Shunto Takamori acted without Shinsei authority!” he shouted. “We request joint custody pending medical stabilization and formal judgment!”   <-- WHO SAYS THIS?
+Nobody answered.
+Luo did not care.
 ```
 ```
 Kael's pulse had weakened again.

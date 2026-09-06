@@ -1,12 +1,36 @@
 # Season 95 — unattributed dialogue
 
-306 quoted lines in this season have no speaker.
+453 quoted lines in this season have no speaker.
 See `README.md` in this folder for what to do with them.
 
 Lines already resolved show their speaker in `[brackets]` for context.
 
 ### Chapter 301 — Two Years Beneath the Crooked Sign
 
+```
+[sera] “No.”
+Rhen looked down.
+[rhen] “I haven't done anything yet.”
+>>> “That is why I am saying no now.”   <-- WHO SAYS THIS?
+The morning road below the Quaint Teahouse was already busy. A grain wagon creaked toward the eastern market. Two old soldiers argued over whose turn it was to buy breakfast. A woman from the next village carried a basket of pears toward the clinic entrance built into the side wing. Somewhere behind the main building, one of the younger Quaint companies was running formation drills badly enough that Tae had begun shouting.
+Rhen glanced toward the sound.
+```
+```
+Rhen glanced toward the sound.
+A metallic crash followed.
+Then Tae's voice carried across the courtyard.
+>>> “If I can hear your chain before I can see you move, you are not surprising anyone!”   <-- WHO SAYS THIS?
+Huo's voice answered from farther away.
+[huo] “They surprised me.”
+```
+```
+[luo] “That is because you are both standing in front of the register.”
+Yun glanced around.
+[yun] “Rhen never charges injured people.”
+>>> “Rhen doesn't charge anyone properly.”   <-- WHO SAYS THIS?
+From the doorway, Rhen said, “I charge.”
+Lu appeared behind him with three ledgers under one arm.
+```
 ```
 The customer stared.
 Rhen stared back.
@@ -18,6 +42,222 @@ He walked away.
 
 ### Chapter 302 — The Garden Is Asked For, Not Imposed
 
+```
+[sera] “Still yes.”
+Rhen nodded.
+[rhen] “That was easy.”
+>>> “You woke me with ice.”   <-- WHO SAYS THIS?
+“You were awake.”
+“I was resting my eyes.”
+```
+```
+Rhen nodded.
+[rhen] “That was easy.”
+“You woke me with ice.”
+>>> “You were awake.”   <-- WHO SAYS THIS?
+“I was resting my eyes.”
+“You threatened Huo in your sleep.”
+```
+```
+[rhen] “That was easy.”
+“You woke me with ice.”
+“You were awake.”
+>>> “I was resting my eyes.”   <-- WHO SAYS THIS?
+“You threatened Huo in your sleep.”
+Sera paused.
+```
+```
+“You woke me with ice.”
+“You were awake.”
+“I was resting my eyes.”
+>>> “You threatened Huo in your sleep.”   <-- WHO SAYS THIS?
+Sera paused.
+[sera] “What did he do?”
+```
+```
+“You threatened Huo in your sleep.”
+Sera paused.
+[sera] “What did he do?”
+>>> “Unknown.”   <-- WHO SAYS THIS?
+“Then he probably deserved it.”
+Rhen sat up.
+```
+```
+Sera paused.
+[sera] “What did he do?”
+“Unknown.”
+>>> “Then he probably deserved it.”   <-- WHO SAYS THIS?
+Rhen sat up.
+The room changed almost imperceptibly.
+```
+```
+The Garden simply refused to let damage and impurity steal pieces of what she earned.
+Rhen closed his eyes for one breath.
+[rhen] “Still comfortable?”
+>>> “Yes.”   <-- WHO SAYS THIS?
+“Any pressure?”
+“No.”
+```
+```
+Rhen closed his eyes for one breath.
+[rhen] “Still comfortable?”
+“Yes.”
+>>> “Any pressure?”   <-- WHO SAYS THIS?
+“No.”
+“Sleep disturbance?”
+```
+```
+[rhen] “Still comfortable?”
+“Yes.”
+“Any pressure?”
+>>> “No.”   <-- WHO SAYS THIS?
+“Sleep disturbance?”
+“Only from you.”
+```
+```
+“Yes.”
+“Any pressure?”
+“No.”
+>>> “Sleep disturbance?”   <-- WHO SAYS THIS?
+“Only from you.”
+He opened his eyes.
+```
+```
+“Any pressure?”
+“No.”
+“Sleep disturbance?”
+>>> “Only from you.”   <-- WHO SAYS THIS?
+He opened his eyes.
+“That is unrelated.”
+```
+```
+“Sleep disturbance?”
+“Only from you.”
+He opened his eyes.
+>>> “That is unrelated.”   <-- WHO SAYS THIS?
+“Highly related.”
+He ignored that.
+```
+```
+“Only from you.”
+He opened his eyes.
+“That is unrelated.”
+>>> “Highly related.”   <-- WHO SAYS THIS?
+He ignored that.
+“Then no change.”
+```
+```
+“That is unrelated.”
+“Highly related.”
+He ignored that.
+>>> “Then no change.”   <-- WHO SAYS THIS?
+Sera watched him for another moment.
+[sera] “You ask Lu too?”
+```
+```
+“Then no change.”
+Sera watched him for another moment.
+[sera] “You ask Lu too?”
+>>> “Yes.”   <-- WHO SAYS THIS?
+“Huo?”
+“Yes.”
+```
+```
+Sera watched him for another moment.
+[sera] “You ask Lu too?”
+“Yes.”
+>>> “Huo?”   <-- WHO SAYS THIS?
+“Yes.”
+“Tae?”
+```
+```
+[sera] “You ask Lu too?”
+“Yes.”
+“Huo?”
+>>> “Yes.”   <-- WHO SAYS THIS?
+“Tae?”
+“Yes.”
+```
+```
+“Yes.”
+“Huo?”
+“Yes.”
+>>> “Tae?”   <-- WHO SAYS THIS?
+“Yes.”
+“Qin?”
+```
+```
+“Huo?”
+“Yes.”
+“Tae?”
+>>> “Yes.”   <-- WHO SAYS THIS?
+“Qin?”
+“Yes.”
+```
+```
+“Yes.”
+“Tae?”
+“Yes.”
+>>> “Qin?”   <-- WHO SAYS THIS?
+“Yes.”
+“And they all keep saying yes?”
+```
+```
+“Tae?”
+“Yes.”
+“Qin?”
+>>> “Yes.”   <-- WHO SAYS THIS?
+“And they all keep saying yes?”
+Rhen nodded.
+```
+```
+“Yes.”
+“Qin?”
+“Yes.”
+>>> “And they all keep saying yes?”   <-- WHO SAYS THIS?
+Rhen nodded.
+Sera smiled.
+```
+```
+[rhen] “He said, ‘If this is another excuse to tell me my meridians are asymmetrical, I will leave.’”
+Sera laughed.
+[sera] “And?”
+>>> “I told him his left shoulder still compensates three percent more than the right.”   <-- WHO SAYS THIS?
+She laughed harder.
+Rhen looked mildly offended.
+```
+```
+She laughed harder.
+Rhen looked mildly offended.
+[rhen] “It does.”
+>>> “That is not the point.”   <-- WHO SAYS THIS?
+“It is medically the point.”
+A knock sounded at the door.
+```
+```
+Rhen looked mildly offended.
+[rhen] “It does.”
+“That is not the point.”
+>>> “It is medically the point.”   <-- WHO SAYS THIS?
+A knock sounded at the door.
+Three precise taps.
+```
+```
+Lu.
+Sera looked toward it.
+[sera] “If that is a ledger, I am going back to bed.”
+>>> “It is morning.”   <-- WHO SAYS THIS?
+“Exactly.”
+The door opened one handspan.
+```
+```
+Sera looked toward it.
+[sera] “If that is a ledger, I am going back to bed.”
+“It is morning.”
+>>> “Exactly.”   <-- WHO SAYS THIS?
+The door opened one handspan.
+Lu's voice came through.
+```
 ```
 Sera tapped the board.
 [sera] “Company Seven?”
@@ -46,6 +286,30 @@ Arin looked toward the wall.
 Half of it leaned inward.
 ```
 ```
+By afternoon, Rhen was standing on Silver Horizon's damaged wall with one hand against a beam.
+Sera stood below him.
+[sera] “You know they asked for resin.”
+>>> “I brought resin.”   <-- WHO SAYS THIS?
+“You are healing the wood.”
+“I am not.”
+```
+```
+Sera stood below him.
+[sera] “You know they asked for resin.”
+“I brought resin.”
+>>> “You are healing the wood.”   <-- WHO SAYS THIS?
+“I am not.”
+The cracked beam straightened slightly.
+```
+```
+[sera] “You know they asked for resin.”
+“I brought resin.”
+“You are healing the wood.”
+>>> “I am not.”   <-- WHO SAYS THIS?
+The cracked beam straightened slightly.
+Sera stared.
+```
+```
 The injury was ordinary.
 He touched two fingers to the man's collarbone, guided the joint into place, repaired torn tissue, smoothed the inflamed meridian branch, and was done before the miner finished swearing.
 The man stared at him.
@@ -71,6 +335,14 @@ Huo nodded as though this were a complete and respectable explanation.
 >>> “It was.”   <-- WHO SAYS THIS?
 The man strapped to it convulsed.
 The conversation ended.
+```
+```
+Luo handed her his spare sandals.
+Yun looked at him.
+[yun] “You brought two pairs?”
+>>> “I know you.”   <-- WHO SAYS THIS?
+She put them on.
+The man on the door screamed.
 ```
 ```
 Rhen cut the bindings.
@@ -251,6 +523,518 @@ Yun made a face.
 Yun made a face.
 [yun] “Crude word.”
 ```
+```
+“Adrenal response.”
+Yun made a face.
+[yun] “Crude word.”
+>>> “Useful word.”   <-- WHO SAYS THIS?
+“We are not discussing goats.”
+“We are discussing a man who tried to break a wagon axle with his shoulder.”
+```
+```
+Yun made a face.
+[yun] “Crude word.”
+“Useful word.”
+>>> “We are not discussing goats.”   <-- WHO SAYS THIS?
+“We are discussing a man who tried to break a wagon axle with his shoulder.”
+“That does support your argument.”
+```
+```
+[yun] “Crude word.”
+“Useful word.”
+“We are not discussing goats.”
+>>> “We are discussing a man who tried to break a wagon axle with his shoulder.”   <-- WHO SAYS THIS?
+“That does support your argument.”
+Luo took the next sample.
+```
+```
+“Useful word.”
+“We are not discussing goats.”
+“We are discussing a man who tried to break a wagon axle with his shoulder.”
+>>> “That does support your argument.”   <-- WHO SAYS THIS?
+Luo took the next sample.
+He did not touch it directly.
+```
+```
+[luo] “Delayed release.”
+Yun nodded.
+[yun] “That is the interesting part.”
+>>> “The interesting part is that there are several interesting parts.”   <-- WHO SAYS THIS?
+“That is why I like it.”
+Luo looked at her.
+```
+```
+Yun nodded.
+[yun] “That is the interesting part.”
+“The interesting part is that there are several interesting parts.”
+>>> “That is why I like it.”   <-- WHO SAYS THIS?
+Luo looked at her.
+Yun looked back.
+```
+```
+Luo looked at her.
+Yun looked back.
+After a moment she added, “Professionally.”
+>>> “Of course.”   <-- WHO SAYS THIS?
+They had been together long enough that neither needed to perform affection every time they were alone.
+It showed in smaller things.
+```
+```
+Neither had admitted this counted as domesticity.
+Luo wrote three lines in the notebook.
+[luo] “First layer forces circulation.”
+>>> “Agreed.”   <-- WHO SAYS THIS?
+“Second suppresses pain feedback.”
+“Not only pain.”
+```
+```
+Luo wrote three lines in the notebook.
+[luo] “First layer forces circulation.”
+“Agreed.”
+>>> “Second suppresses pain feedback.”   <-- WHO SAYS THIS?
+“Not only pain.”
+Yun tapped the glass.
+```
+```
+[luo] “First layer forces circulation.”
+“Agreed.”
+“Second suppresses pain feedback.”
+>>> “Not only pain.”   <-- WHO SAYS THIS?
+Yun tapped the glass.
+[yun] “Warning responses. Tremor. breath distress. vascular pressure. The body begins screaming and something tells it to lower its voice.”
+```
+```
+[yun] “It could have started as medicine.”
+He looked at her.
+She continued.
+>>> “Emergency battlefield stimulant. Collapse rescue. Shock response. A physician could have built the first principle.”   <-- WHO SAYS THIS?
+“And someone kept going.”
+“Yes.”
+```
+```
+He looked at her.
+She continued.
+“Emergency battlefield stimulant. Collapse rescue. Shock response. A physician could have built the first principle.”
+>>> “And someone kept going.”   <-- WHO SAYS THIS?
+“Yes.”
+Luo looked again at the pale thread inside the sample.
+```
+```
+She continued.
+“Emergency battlefield stimulant. Collapse rescue. Shock response. A physician could have built the first principle.”
+“And someone kept going.”
+>>> “Yes.”   <-- WHO SAYS THIS?
+Luo looked again at the pale thread inside the sample.
+Medicine often required violence.
+```
+```
+[yun] “There you are.”
+He ignored her.
+She reached for one of the knives.
+>>> “The body begins to fail after the first forced surge. Whoever made this expected that.”   <-- WHO SAYS THIS?
+She scraped a nearly invisible residue from the side of the jar onto a ceramic tile.
+“Here.”
+```
+```
+She reached for one of the knives.
+“The body begins to fail after the first forced surge. Whoever made this expected that.”
+She scraped a nearly invisible residue from the side of the jar onto a ceramic tile.
+>>> “Here.”   <-- WHO SAYS THIS?
+Luo leaned closer.
+The material had separated into two textures after drying.
+```
+```
+“Release coating,” he said.
+Yun nodded.
+[yun] “The second component arrives after the first damage begins.”
+>>> “To do what?”   <-- WHO SAYS THIS?
+“Buy time.”
+Luo did not like the answer.
+```
+```
+Yun nodded.
+[yun] “The second component arrives after the first damage begins.”
+“To do what?”
+>>> “Buy time.”   <-- WHO SAYS THIS?
+Luo did not like the answer.
+[luo] “How?”
+```
+```
+The torn meridians.
+The strange absence Rhen had not yet named.
+He looked at Yun.
+>>> “You think vitality.”   <-- WHO SAYS THIS?
+“I think the compound is not satisfied with qi.”
+“Vitality is not a jar of oil.”
+```
+```
+The strange absence Rhen had not yet named.
+He looked at Yun.
+“You think vitality.”
+>>> “I think the compound is not satisfied with qi.”   <-- WHO SAYS THIS?
+“Vitality is not a jar of oil.”
+“I know.”
+```
+```
+He looked at Yun.
+“You think vitality.”
+“I think the compound is not satisfied with qi.”
+>>> “Vitality is not a jar of oil.”   <-- WHO SAYS THIS?
+“I know.”
+“You cannot simply pour it into a technique.”
+```
+```
+“You think vitality.”
+“I think the compound is not satisfied with qi.”
+“Vitality is not a jar of oil.”
+>>> “I know.”   <-- WHO SAYS THIS?
+“You cannot simply pour it into a technique.”
+“I know.”
+```
+```
+“I think the compound is not satisfied with qi.”
+“Vitality is not a jar of oil.”
+“I know.”
+>>> “You cannot simply pour it into a technique.”   <-- WHO SAYS THIS?
+“I know.”
+“Then how?”
+```
+```
+“Vitality is not a jar of oil.”
+“I know.”
+“You cannot simply pour it into a technique.”
+>>> “I know.”   <-- WHO SAYS THIS?
+“Then how?”
+Yun rested both hands on the workbench.
+```
+```
+“I know.”
+“You cannot simply pour it into a technique.”
+“I know.”
+>>> “Then how?”   <-- WHO SAYS THIS?
+Yun rested both hands on the workbench.
+[yun] “That is what I want to know.”
+```
+```
+He reached across, took her hand and turned it over.
+Yun looked down.
+[yun] “That is extremely dramatic.”
+>>> “You cut yourself.”   <-- WHO SAYS THIS?
+“It is a line.”
+“It is contaminated work.”
+```
+```
+Yun looked down.
+[yun] “That is extremely dramatic.”
+“You cut yourself.”
+>>> “It is a line.”   <-- WHO SAYS THIS?
+“It is contaminated work.”
+“I was wearing gloves.”
+```
+```
+[yun] “That is extremely dramatic.”
+“You cut yourself.”
+“It is a line.”
+>>> “It is contaminated work.”   <-- WHO SAYS THIS?
+“I was wearing gloves.”
+“You removed one.”
+```
+```
+“You cut yourself.”
+“It is a line.”
+“It is contaminated work.”
+>>> “I was wearing gloves.”   <-- WHO SAYS THIS?
+“You removed one.”
+“To write.”
+```
+```
+“It is a line.”
+“It is contaminated work.”
+“I was wearing gloves.”
+>>> “You removed one.”   <-- WHO SAYS THIS?
+“To write.”
+“You have another hand.”
+```
+```
+“It is contaminated work.”
+“I was wearing gloves.”
+“You removed one.”
+>>> “To write.”   <-- WHO SAYS THIS?
+“You have another hand.”
+“That is discriminatory.”
+```
+```
+“I was wearing gloves.”
+“You removed one.”
+“To write.”
+>>> “You have another hand.”   <-- WHO SAYS THIS?
+“That is discriminatory.”
+Luo cleaned the cut anyway.
+```
+```
+“You removed one.”
+“To write.”
+“You have another hand.”
+>>> “That is discriminatory.”   <-- WHO SAYS THIS?
+Luo cleaned the cut anyway.
+Yun let him.
+```
+```
+Luo cleaned the cut anyway.
+Yun let him.
+When he finished, she curled her fingers around his wrist.
+>>> “You are worried.”   <-- WHO SAYS THIS?
+“Yes.”
+“About me?”
+```
+```
+Yun let him.
+When he finished, she curled her fingers around his wrist.
+“You are worried.”
+>>> “Yes.”   <-- WHO SAYS THIS?
+“About me?”
+“About your terrible laboratory habits.”
+```
+```
+When he finished, she curled her fingers around his wrist.
+“You are worried.”
+“Yes.”
+>>> “About me?”   <-- WHO SAYS THIS?
+“About your terrible laboratory habits.”
+“So me.”
+```
+```
+“You are worried.”
+“Yes.”
+“About me?”
+>>> “About your terrible laboratory habits.”   <-- WHO SAYS THIS?
+“So me.”
+“Unfortunately.”
+```
+```
+“Yes.”
+“About me?”
+“About your terrible laboratory habits.”
+>>> “So me.”   <-- WHO SAYS THIS?
+“Unfortunately.”
+She smiled.
+```
+```
+“About me?”
+“About your terrible laboratory habits.”
+“So me.”
+>>> “Unfortunately.”   <-- WHO SAYS THIS?
+She smiled.
+The line belonged to Rhen.
+```
+```
+[yun] “Let us say the original designer was a physician.”
+Luo sat beside her.
+[luo] “Why?”
+>>> “Because of the screening logic.”   <-- WHO SAYS THIS?
+“We do not have screening logic.”
+“We have the body.”
+```
+```
+Luo sat beside her.
+[luo] “Why?”
+“Because of the screening logic.”
+>>> “We do not have screening logic.”   <-- WHO SAYS THIS?
+“We have the body.”
+Yun pointed toward the notes.
+```
+```
+[luo] “Why?”
+“Because of the screening logic.”
+“We do not have screening logic.”
+>>> “We have the body.”   <-- WHO SAYS THIS?
+Yun pointed toward the notes.
+[yun] “The patient's damage clusters around thresholds. Whoever made the compound expected variance in meridian width, cardiovascular tolerance and body mass.”
+```
+```
+“We have the body.”
+Yun pointed toward the notes.
+[yun] “The patient's damage clusters around thresholds. Whoever made the compound expected variance in meridian width, cardiovascular tolerance and body mass.”
+>>> “That could be trial and error.”   <-- WHO SAYS THIS?
+“Then there would be more random failure.”
+Luo considered that.
+```
+```
+Yun pointed toward the notes.
+[yun] “The patient's damage clusters around thresholds. Whoever made the compound expected variance in meridian width, cardiovascular tolerance and body mass.”
+“That could be trial and error.”
+>>> “Then there would be more random failure.”   <-- WHO SAYS THIS?
+Luo considered that.
+Yun continued.
+```
+```
+Luo considered that.
+Yun continued.
+[yun] “This is ugly, but it is not ignorant.”
+>>> “That may be worse.”   <-- WHO SAYS THIS?
+“Yes.”
+For several breaths neither spoke.
+```
+```
+Yun continued.
+[yun] “This is ugly, but it is not ignorant.”
+“That may be worse.”
+>>> “Yes.”   <-- WHO SAYS THIS?
+For several breaths neither spoke.
+Then Yun reached toward the patient chart.
+```
+```
+Then Yun reached toward the patient chart.
+Luo moved it away.
+She looked at him.
+>>> “You are being difficult.”   <-- WHO SAYS THIS?
+“You have not eaten.”
+“I ate.”
+```
+```
+Luo moved it away.
+She looked at him.
+“You are being difficult.”
+>>> “You have not eaten.”   <-- WHO SAYS THIS?
+“I ate.”
+“Dried plum is not breakfast.”
+```
+```
+She looked at him.
+“You are being difficult.”
+“You have not eaten.”
+>>> “I ate.”   <-- WHO SAYS THIS?
+“Dried plum is not breakfast.”
+“I had five.”
+```
+```
+“You are being difficult.”
+“You have not eaten.”
+“I ate.”
+>>> “Dried plum is not breakfast.”   <-- WHO SAYS THIS?
+“I had five.”
+“That is not a stronger argument.”
+```
+```
+“You have not eaten.”
+“I ate.”
+“Dried plum is not breakfast.”
+>>> “I had five.”   <-- WHO SAYS THIS?
+“That is not a stronger argument.”
+Yun leaned back.
+```
+```
+“I ate.”
+“Dried plum is not breakfast.”
+“I had five.”
+>>> “That is not a stronger argument.”   <-- WHO SAYS THIS?
+Yun leaned back.
+[yun] “If I say six, does it become one?”
+```
+```
+“That is not a stronger argument.”
+Yun leaned back.
+[yun] “If I say six, does it become one?”
+>>> “No.”   <-- WHO SAYS THIS?
+“Cruel.”
+Luo stood.
+```
+```
+Yun leaned back.
+[yun] “If I say six, does it become one?”
+“No.”
+>>> “Cruel.”   <-- WHO SAYS THIS?
+Luo stood.
+[luo] “Come upstairs.”
+```
+```
+“Cruel.”
+Luo stood.
+[luo] “Come upstairs.”
+>>> “We are working.”   <-- WHO SAYS THIS?
+“We can work after food.”
+Yun looked at the samples.
+```
+```
+Luo stood.
+[luo] “Come upstairs.”
+“We are working.”
+>>> “We can work after food.”   <-- WHO SAYS THIS?
+Yun looked at the samples.
+Then at him.
+```
+```
+“We can work after food.”
+Yun looked at the samples.
+Then at him.
+>>> “You know I can poison you.”   <-- WHO SAYS THIS?
+“Yes.”
+“And yet you command me.”
+```
+```
+Yun looked at the samples.
+Then at him.
+“You know I can poison you.”
+>>> “Yes.”   <-- WHO SAYS THIS?
+“And yet you command me.”
+“I am asking.”
+```
+```
+Then at him.
+“You know I can poison you.”
+“Yes.”
+>>> “And yet you command me.”   <-- WHO SAYS THIS?
+“I am asking.”
+“That sounded like command.”
+```
+```
+“You know I can poison you.”
+“Yes.”
+“And yet you command me.”
+>>> “I am asking.”   <-- WHO SAYS THIS?
+“That sounded like command.”
+“You are free to refuse.”
+```
+```
+“Yes.”
+“And yet you command me.”
+“I am asking.”
+>>> “That sounded like command.”   <-- WHO SAYS THIS?
+“You are free to refuse.”
+Yun smiled slowly.
+```
+```
+“And yet you command me.”
+“I am asking.”
+“That sounded like command.”
+>>> “You are free to refuse.”   <-- WHO SAYS THIS?
+Yun smiled slowly.
+[yun] “And if I refuse?”
+```
+```
+“You are free to refuse.”
+Yun smiled slowly.
+[yun] “And if I refuse?”
+>>> “I bring food here.”   <-- WHO SAYS THIS?
+She stared.
+“That is unfair.”
+```
+```
+[yun] “And if I refuse?”
+“I bring food here.”
+She stared.
+>>> “That is unfair.”   <-- WHO SAYS THIS?
+“I learned from you.”
+They left the laboratory together.
+```
+```
+“I bring food here.”
+She stared.
+“That is unfair.”
+>>> “I learned from you.”   <-- WHO SAYS THIS?
+They left the laboratory together.
+Behind them, four sealed jars sat beneath glass.
+```
 
 ### Chapter 306 — Something Was Spent
 
@@ -285,6 +1069,46 @@ The patient swallowed.
 >>> “That is not comforting.”   <-- WHO SAYS THIS?
 Rhen looked at him.
 [rhen] “You are alive.”
+```
+```
+“That is not comforting.”
+Rhen looked at him.
+[rhen] “You are alive.”
+>>> “That part was comforting.”   <-- WHO SAYS THIS?
+“You are not currently deteriorating.”
+“Better.”
+```
+```
+Rhen looked at him.
+[rhen] “You are alive.”
+“That part was comforting.”
+>>> “You are not currently deteriorating.”   <-- WHO SAYS THIS?
+“Better.”
+“I cannot restore what is missing.”
+```
+```
+[rhen] “You are alive.”
+“That part was comforting.”
+“You are not currently deteriorating.”
+>>> “Better.”   <-- WHO SAYS THIS?
+“I cannot restore what is missing.”
+The room went still.
+```
+```
+“That part was comforting.”
+“You are not currently deteriorating.”
+“Better.”
+>>> “I cannot restore what is missing.”   <-- WHO SAYS THIS?
+The room went still.
+The patient stared.
+```
+```
+“I cannot restore what is missing.”
+The room went still.
+The patient stared.
+>>> “What is missing?”   <-- WHO SAYS THIS?
+Rhen did not answer immediately.
+He disliked naming things before he understood them.
 ```
 ```
 He disliked naming things before he understood them.
@@ -383,7 +1207,15 @@ Yun's eyes sharpened.
 [yun] “That is useful.”
 ```
 ```
-[luo] “That it would make me stronger.”
+Rhen returned to the bedside.
+[rhen] “What were you told before you took it?”
+The man hesitated.
+>>> “That it would make me stronger.”   <-- WHO SAYS THIS?
+“For how long?” Luo asked.
+[luo] “Minutes.”
+```
+```
+“That it would make me stronger.”
 “For how long?” Luo asked.
 [luo] “Minutes.”
 >>> “What cost?”   <-- WHO SAYS THIS?
@@ -413,6 +1245,14 @@ Yun's face went flat.
 >>> “A day. Maybe two.”   <-- WHO SAYS THIS?
 Yun's face went flat.
 The man continued.
+```
+```
+“A day. Maybe two.”
+Yun's face went flat.
+The man continued.
+>>> “They said the body would feel emptied because the drug burns qi fast.”   <-- WHO SAYS THIS?
+“It does burn qi fast,” Luo said.
+The patient looked hopeful.
 ```
 ```
 The hope disappeared.
@@ -525,6 +1365,14 @@ Luo's mouth tightened.
 >>> “It is still the nearest one.”   <-- WHO SAYS THIS?
 Rhen looked at Yun.
 [rhen] “What makes you think future?”
+```
+```
+“It is still the nearest one.”
+Rhen looked at Yun.
+[rhen] “What makes you think future?”
+>>> “Because the compound delays collapse by pulling from somewhere the body normally refuses to access. If it were only present qi, you could restore the deficit by restoring qi.”   <-- WHO SAYS THIS?
+Rhen said nothing.
+That logic matched what his healing sense found.
 ```
 ```
 [rhen] “Not safely without knowing what I am restoring.”
@@ -698,6 +1546,134 @@ Lu tapped the manifest.
 [luweiran] “Meaning the seal itself could be genuine.”
 ```
 ```
+[luweiran] “Meaning the seal itself could be genuine.”
+Sera leaned closer.
+[sera] “Stolen before the fire?”
+>>> “Or recovered after. Or copied from old cargo. The point is not the seal.”   <-- WHO SAYS THIS?
+“What is?”
+“The box.”
+```
+```
+Sera leaned closer.
+[sera] “Stolen before the fire?”
+“Or recovered after. Or copied from old cargo. The point is not the seal.”
+>>> “What is?”   <-- WHO SAYS THIS?
+“The box.”
+Sera stared at him.
+```
+```
+[sera] “Stolen before the fire?”
+“Or recovered after. Or copied from old cargo. The point is not the seal.”
+“What is?”
+>>> “The box.”   <-- WHO SAYS THIS?
+Sera stared at him.
+Lu stared back.
+```
+```
+Qin's mouth moved slightly.
+Sera noticed.
+[sera] “Do not encourage him.”
+>>> “I said nothing.”   <-- WHO SAYS THIS?
+“You enjoyed it.”
+“That is private.”
+```
+```
+Sera noticed.
+[sera] “Do not encourage him.”
+“I said nothing.”
+>>> “You enjoyed it.”   <-- WHO SAYS THIS?
+“That is private.”
+Lu moved the first manifest aside.
+```
+```
+[sera] “Do not encourage him.”
+“I said nothing.”
+“You enjoyed it.”
+>>> “That is private.”   <-- WHO SAYS THIS?
+Lu moved the first manifest aside.
+[luweiran] “Medical cargo is boring. That is why it is useful.”
+```
+```
+[luweiran] “Medical cargo is boring. That is why it is useful.”
+Sera waited.
+He continued.
+>>> “Medicine moves on predictable schedules. Temperature-controlled compounds use certain wagons. Certain routes. Certain rest intervals. Controlled toxins require declared handlers. If someone wants to hide a dangerous substance inside legitimate medical traffic, they still have to obey enough of the boring rules to keep the cargo stable.”   <-- WHO SAYS THIS?
+Sera nodded slowly.
+[sera] “And those rules leave a trail.”
+```
+```
+“Medicine moves on predictable schedules. Temperature-controlled compounds use certain wagons. Certain routes. Certain rest intervals. Controlled toxins require declared handlers. If someone wants to hide a dangerous substance inside legitimate medical traffic, they still have to obey enough of the boring rules to keep the cargo stable.”
+Sera nodded slowly.
+[sera] “And those rules leave a trail.”
+>>> “Yes.”   <-- WHO SAYS THIS?
+Lu pointed at three route marks.
+[luweiran] “The first crate entered Isgard through South Fen. The second through a western grain exchange. The third came by sea disguised as fever medication.”
+```
+```
+“Yes.”
+Lu pointed at three route marks.
+[luweiran] “The first crate entered Isgard through South Fen. The second through a western grain exchange. The third came by sea disguised as fever medication.”
+>>> “Different origins.”   <-- WHO SAYS THIS?
+“Officially.”
+“Actually?”
+```
+```
+Lu pointed at three route marks.
+[luweiran] “The first crate entered Isgard through South Fen. The second through a western grain exchange. The third came by sea disguised as fever medication.”
+“Different origins.”
+>>> “Officially.”   <-- WHO SAYS THIS?
+“Actually?”
+Lu slid three invoices together.
+```
+```
+[luweiran] “The first crate entered Isgard through South Fen. The second through a western grain exchange. The third came by sea disguised as fever medication.”
+“Different origins.”
+“Officially.”
+>>> “Actually?”   <-- WHO SAYS THIS?
+Lu slid three invoices together.
+[luweiran] “All three used the same wax supplier.”
+```
+```
+[luweiran] “All three used the same wax supplier.”
+Sera looked at him.
+[sera] “That is it?”
+>>> “No.”   <-- WHO SAYS THIS?
+“The same rope?”
+“No.”
+```
+```
+Sera looked at him.
+[sera] “That is it?”
+“No.”
+>>> “The same rope?”   <-- WHO SAYS THIS?
+“No.”
+“The same carpenter?”
+```
+```
+[sera] “That is it?”
+“No.”
+“The same rope?”
+>>> “No.”   <-- WHO SAYS THIS?
+“The same carpenter?”
+Lu's face changed by half a degree.
+```
+```
+“No.”
+“The same rope?”
+“No.”
+>>> “The same carpenter?”   <-- WHO SAYS THIS?
+Lu's face changed by half a degree.
+Sera pointed at him.
+```
+```
+Lu's face changed by half a degree.
+Sera pointed at him.
+[sera] “It is the carpenter.”
+>>> “It is not the carpenter.”   <-- WHO SAYS THIS?
+Qin said, “You look disappointed.”
+[qin] “I am surrounded by children.”
+```
+```
 [luweiran] “Same wax supplier. Same ceramic ampoule maker. Same transit insurer.”
 Sera's amusement faded.
 [sera] “Those are not accidental.”
@@ -863,10 +1839,10 @@ Lu nodded.
 “Agreed.”
 >>> “No Tae.”   <-- WHO SAYS THIS?
 Sera looked offended.
-[luweiran] “I was not going to send Tae.”
+[sera] “I was not going to send Tae.”
 ```
 ```
-[luweiran] “I was not going to send Tae.”
+[sera] “I was not going to send Tae.”
 Lu said nothing.
 She narrowed her eyes.
 >>> “I was not.”   <-- WHO SAYS THIS?
@@ -903,10 +1879,10 @@ Lu looked at her.
 “It is physiological.”
 >>> “Better.”   <-- WHO SAYS THIS?
 Luo opened the notebook without setting it down.
-[sera] “We think the first layer drives circulation. Another suppresses distress. A delayed component extends the high-output state after tissue begins failing.”
+[luo] “We think the first layer drives circulation. Another suppresses distress. A delayed component extends the high-output state after tissue begins failing.”
 ```
 ```
-[sera] “We think the first layer drives circulation. Another suppresses distress. A delayed component extends the high-output state after tissue begins failing.”
+[luo] “We think the first layer drives circulation. Another suppresses distress. A delayed component extends the high-output state after tissue begins failing.”
 “How long?” Sera asked.
 [sera] “Unknown.”
 >>> “Cost?”   <-- WHO SAYS THIS?
@@ -1058,15 +2034,31 @@ Dae frowned.
 Dae frowned.
 >>> “That feels like a trap.”   <-- WHO SAYS THIS?
 “It is not.”
-[yun] “People said the Pale Orchid was terrifying.”
+“People said the Pale Orchid was terrifying.”
 ```
 ```
 “Yes.”
 Dae frowned.
 “That feels like a trap.”
 >>> “It is not.”   <-- WHO SAYS THIS?
-[yun] “People said the Pale Orchid was terrifying.”
+“People said the Pale Orchid was terrifying.”
 Yun said, “She is.”
+```
+```
+Dae frowned.
+“That feels like a trap.”
+“It is not.”
+>>> “People said the Pale Orchid was terrifying.”   <-- WHO SAYS THIS?
+Yun said, “She is.”
+Sera looked at her.
+```
+```
+Sera rested both hands on her knees.
+[sera] “You came here because Lu found your name on a purchase ledger and you agreed to be examined. That does not make you a prisoner.”
+Dae's fingers tightened around the cup.
+>>> “What if I bought something illegal?”   <-- WHO SAYS THIS?
+Lu answered without looking up.
+[luweiran] “You bought mislabeled medicine from a licensed broker.”
 ```
 ```
 Lu answered without looking up.
@@ -1130,15 +2122,23 @@ Sera rubbed her forehead.
 [sera] “Lu.”
 >>> “What?”   <-- WHO SAYS THIS?
 “Less helpful.”
-[rhen] “I was motivating honesty.”
+“I was motivating honesty.”
 ```
 ```
 Sera rubbed her forehead.
 [sera] “Lu.”
 “What?”
 >>> “Less helpful.”   <-- WHO SAYS THIS?
-[rhen] “I was motivating honesty.”
+“I was motivating honesty.”
 Rhen said, “It worked.”
+```
+```
+[sera] “Lu.”
+“What?”
+“Less helpful.”
+>>> “I was motivating honesty.”   <-- WHO SAYS THIS?
+Rhen said, “It worked.”
+Sera looked at him.
 ```
 ```
 Sera looked at him.
@@ -1173,15 +2173,31 @@ Yun's mouth flattened.
 [yun] “Careful wording.”
 ```
 ```
+Yun's mouth flattened.
+[yun] “Careful wording.”
+Dae nodded.
+>>> “The broker said it wasn't a breakthrough. Just... access.”   <-- WHO SAYS THIS?
+“To what?” Luo asked.
+[luo] “Everything I already had.”
+```
+```
 That was closer to the truth than the broker probably understood.
 Sera asked, “Why did you take it?”
 Dae looked ashamed.
 >>> “My younger brother got into debt with a dock gang.”   <-- WHO SAYS THIS?
 Nobody interrupted.
-[yun] “I was going to pull him out. They had six men. Two were Marquis. I knew I could beat one. Maybe two. Not six.”
+“I was going to pull him out. They had six men. Two were Marquis. I knew I could beat one. Maybe two. Not six.”
 ```
 ```
-[yun] “I was going to pull him out. They had six men. Two were Marquis. I knew I could beat one. Maybe two. Not six.”
+Dae looked ashamed.
+“My younger brother got into debt with a dock gang.”
+Nobody interrupted.
+>>> “I was going to pull him out. They had six men. Two were Marquis. I knew I could beat one. Maybe two. Not six.”   <-- WHO SAYS THIS?
+“So you bought strength,” Yun said.
+Dae looked at her.
+```
+```
+“I was going to pull him out. They had six men. Two were Marquis. I knew I could beat one. Maybe two. Not six.”
 “So you bought strength,” Yun said.
 Dae looked at her.
 >>> “Yes.”   <-- WHO SAYS THIS?
@@ -1290,18 +2306,26 @@ The body screaming stop while the chemical system lowered the volume of the scre
 Dae swallowed.
 >>> “Seven minutes, maybe eight.”   <-- WHO SAYS THIS?
 “Then?”
-[luo] “I woke up the next afternoon.”
+“I woke up the next afternoon.”
 ```
 ```
 “How long?” Sera asked.
 Dae swallowed.
 “Seven minutes, maybe eight.”
 >>> “Then?”   <-- WHO SAYS THIS?
-[luo] “I woke up the next afternoon.”
+“I woke up the next afternoon.”
 Luo asked, “What were you told recovery would be?”
 ```
 ```
-[luo] “I woke up the next afternoon.”
+Dae swallowed.
+“Seven minutes, maybe eight.”
+“Then?”
+>>> “I woke up the next afternoon.”   <-- WHO SAYS THIS?
+Luo asked, “What were you told recovery would be?”
+[luo] “Two days tired. Maybe nausea.”
+```
+```
+“I woke up the next afternoon.”
 Luo asked, “What were you told recovery would be?”
 [luo] “Two days tired. Maybe nausea.”
 >>> “Anything about future vitality?”   <-- WHO SAYS THIS?
@@ -1549,6 +2573,14 @@ Yun looked at Luo.
 [yun] “That is screening.”
 ```
 ```
+Not street screening.
+Medical screening.
+Dae watched them.
+>>> “What does that mean?”   <-- WHO SAYS THIS?
+Yun answered.
+[yun] “It means whoever designed the sale protocol knew enough medicine to understand who might die before the product finished working.”
+```
+```
 Dae's face lost color.
 Sera glanced at Lu.
 [sera] “Do we have the broker?”
@@ -1601,11 +2633,19 @@ Lu's tone stayed calm.
 [luweiran] “If we arrest the middle of a chain, the beginning disappears.”
 Dae looked down.
 >>> “I could identify him.”   <-- WHO SAYS THIS?
-[yun] “That helps.”
+“That helps.”
 Yun asked, “Did the ampoule have writing?”
 ```
 ```
-[yun] “That helps.”
+[luweiran] “If we arrest the middle of a chain, the beginning disappears.”
+Dae looked down.
+“I could identify him.”
+>>> “That helps.”   <-- WHO SAYS THIS?
+Yun asked, “Did the ampoule have writing?”
+Dae frowned.
+```
+```
+“That helps.”
 Yun asked, “Did the ampoule have writing?”
 Dae frowned.
 >>> “Not writing I could read.”   <-- WHO SAYS THIS?
@@ -1832,6 +2872,14 @@ Lu looked offended.
 [luweiran] “I know everyone's name.”
 ```
 ```
+[xie_wuchen] “That is unfortunate.”
+Sera smiled faintly.
+[sera] “You sound like Rhen.”
+>>> “I do not know who that is.”   <-- WHO SAYS THIS?
+Rui said, “Liar.”
+Xie's eyes moved to him.
+```
+```
 Rui said, “Liar.”
 Xie's eyes moved to him.
 For the first time, recognition sharpened them.
@@ -1880,7 +2928,7 @@ The smile vanished.
 Sera covered her mouth.
 ```
 ```
-[luweiran] “He was about to be killed.”
+[xie_wuchen] “He was about to be killed.”
 “We noticed,” Lu said.
 [luweiran] “So I helped.”
 >>> “Why?”   <-- WHO SAYS THIS?
@@ -1973,15 +3021,23 @@ Sera shrugged.
 “No.”
 >>> “You have the face.”   <-- WHO SAYS THIS?
 “What face?”
-[luweiran] “The one people use before saying responsibility.”
+“The one people use before saying responsibility.”
 ```
 ```
 “You were about to.”
 “No.”
 “You have the face.”
 >>> “What face?”   <-- WHO SAYS THIS?
-[luweiran] “The one people use before saying responsibility.”
+“The one people use before saying responsibility.”
 Lu said, “She does have that face.”
+```
+```
+“No.”
+“You have the face.”
+“What face?”
+>>> “The one people use before saying responsibility.”   <-- WHO SAYS THIS?
+Lu said, “She does have that face.”
+Sera looked at him.
 ```
 ```
 [sera] “You really lost to him?”
@@ -2163,6 +3219,110 @@ Luo's expression did not change.
 [luo] “Not cultivation breakthrough.”
 ```
 ```
+“Temporary combat amplification.”
+Luo's expression did not change.
+[luo] “Not cultivation breakthrough.”
+>>> “No.”   <-- WHO SAYS THIS?
+“Not permanent strengthening.”
+“No.”
+```
+```
+Luo's expression did not change.
+[luo] “Not cultivation breakthrough.”
+“No.”
+>>> “Not permanent strengthening.”   <-- WHO SAYS THIS?
+“No.”
+“Recovery?”
+```
+```
+[luo] “Not cultivation breakthrough.”
+“No.”
+“Not permanent strengthening.”
+>>> “No.”   <-- WHO SAYS THIS?
+“Recovery?”
+“One or two days.”
+```
+```
+“No.”
+“Not permanent strengthening.”
+“No.”
+>>> “Recovery?”   <-- WHO SAYS THIS?
+“One or two days.”
+“Long-term cost?”
+```
+```
+“Not permanent strengthening.”
+“No.”
+“Recovery?”
+>>> “One or two days.”   <-- WHO SAYS THIS?
+“Long-term cost?”
+The broker hesitated.
+```
+```
+“No.”
+“Recovery?”
+“One or two days.”
+>>> “Long-term cost?”   <-- WHO SAYS THIS?
+The broker hesitated.
+Yun saw it.
+```
+```
+The broker hesitated.
+Yun saw it.
+[yun] “So there was one.”
+>>> “I did not know the number.”   <-- WHO SAYS THIS?
+“That was not my question.”
+He looked at the table.
+```
+```
+Yun saw it.
+[yun] “So there was one.”
+“I did not know the number.”
+>>> “That was not my question.”   <-- WHO SAYS THIS?
+He looked at the table.
+“The supplier said repeated use was dangerous.”
+```
+```
+“I did not know the number.”
+“That was not my question.”
+He looked at the table.
+>>> “The supplier said repeated use was dangerous.”   <-- WHO SAYS THIS?
+Luo's voice went cold.
+[luo] “Repeated.”
+```
+```
+“The supplier said repeated use was dangerous.”
+Luo's voice went cold.
+[luo] “Repeated.”
+>>> “Yes.”   <-- WHO SAYS THIS?
+“What about one dose?”
+“They said healthy users recover.”
+```
+```
+Luo's voice went cold.
+[luo] “Repeated.”
+“Yes.”
+>>> “What about one dose?”   <-- WHO SAYS THIS?
+“They said healthy users recover.”
+“Recover what?”
+```
+```
+[luo] “Repeated.”
+“Yes.”
+“What about one dose?”
+>>> “They said healthy users recover.”   <-- WHO SAYS THIS?
+“Recover what?”
+Silence.
+```
+```
+“Yes.”
+“What about one dose?”
+“They said healthy users recover.”
+>>> “Recover what?”   <-- WHO SAYS THIS?
+Silence.
+Luo looked at him for a long moment.
+```
+```
 Lu opened a ledger.
 [luweiran] “Your company received six shipments over nine months.”
 The broker nodded reluctantly.
@@ -2201,6 +3361,14 @@ The broker stopped breathing.
 >>> “The warehouse burned two weeks before the shipment arrived.”   <-- WHO SAYS THIS?
 The broker stopped breathing.
 Lu turned one page.
+```
+```
+[yun] “I like him.”
+Luo looked at her.
+[luo] “You have known Lu for years.”
+>>> “I am rediscovering it.”   <-- WHO SAYS THIS?
+Lu continued.
+[luweiran] “Where did the sixth shipment go?”
 ```
 ```
 Lu continued.
@@ -2351,8 +3519,16 @@ The broker said, “They told us not to copy it into local manifests.”
 “Could be.”
 The broker said, “They told us not to copy it into local manifests.”
 >>> “Why?”   <-- WHO SAYS THIS?
-[yun] “I don't know.”
+“I don't know.”
 “Another useful sentence,” Yun muttered.
+```
+```
+“Could be.”
+The broker said, “They told us not to copy it into local manifests.”
+“Why?”
+>>> “I don't know.”   <-- WHO SAYS THIS?
+“Another useful sentence,” Yun muttered.
+Lu ignored her.
 ```
 ```
 And beneath it, in a route-reference column, another word.

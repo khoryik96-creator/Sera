@@ -1,6 +1,6 @@
 # Season 97 — unattributed dialogue
 
-135 quoted lines in this season have no speaker.
+216 quoted lines in this season have no speaker.
 See `README.md` in this folder for what to do with them.
 
 Lines already resolved show their speaker in `[brackets]` for context.
@@ -333,6 +333,446 @@ Rhen was lying on his back beside her, awake.
 Sera lifted the frozen edge of the blanket.
 [sera] “You understand why that answer is worse.”
 ```
+```
+“No.”
+Sera lifted the frozen edge of the blanket.
+[sera] “You understand why that answer is worse.”
+>>> “Yes.”   <-- WHO SAYS THIS?
+She sat up.
+The room was not cold overall.
+```
+```
+The window remained warm from late-summer air. The floorboards were normal. Only a thin crescent around Rhen’s side of the bed had accumulated frost, as though his qi had become too dense to stay completely inside while his conscious suppression relaxed.
+Sera touched his shoulder.
+[sera] “No pain?”
+>>> “No.”   <-- WHO SAYS THIS?
+“Pressure?”
+“More.”
+```
+```
+Sera touched his shoulder.
+[sera] “No pain?”
+“No.”
+>>> “Pressure?”   <-- WHO SAYS THIS?
+“More.”
+“How much more?”
+```
+```
+[sera] “No pain?”
+“No.”
+“Pressure?”
+>>> “More.”   <-- WHO SAYS THIS?
+“How much more?”
+Rhen stared at the ceiling.
+```
+```
+“No.”
+“Pressure?”
+“More.”
+>>> “How much more?”   <-- WHO SAYS THIS?
+Rhen stared at the ceiling.
+[rhen] “Enough that I’m no longer sure dispersal is useful.”
+```
+```
+[rhen] “Enough that I’m no longer sure dispersal is useful.”
+Sera’s expression sharpened.
+[sera] “You promised.”
+>>> “I’m telling you.”   <-- WHO SAYS THIS?
+“After I woke up frozen.”
+“The blanket is frozen.”
+```
+```
+Sera’s expression sharpened.
+[sera] “You promised.”
+“I’m telling you.”
+>>> “After I woke up frozen.”   <-- WHO SAYS THIS?
+“The blanket is frozen.”
+“You’re lucky you’re pretty.”
+```
+```
+[sera] “You promised.”
+“I’m telling you.”
+“After I woke up frozen.”
+>>> “The blanket is frozen.”   <-- WHO SAYS THIS?
+“You’re lucky you’re pretty.”
+Rhen looked over.
+```
+```
+“I’m telling you.”
+“After I woke up frozen.”
+“The blanket is frozen.”
+>>> “You’re lucky you’re pretty.”   <-- WHO SAYS THIS?
+Rhen looked over.
+[rhen] “Am I?”
+```
+```
+“You’re lucky you’re pretty.”
+Rhen looked over.
+[rhen] “Am I?”
+>>> “Don’t ruin it.”   <-- WHO SAYS THIS?
+That got the small smile she wanted.
+Then she put her hand over his sternum.
+```
+```
+“Don’t ruin it.”
+That got the small smile she wanted.
+Then she put her hand over his sternum.
+>>> “Show me properly.”   <-- WHO SAYS THIS?
+Rhen hesitated.
+Sera’s eyes narrowed.
+```
+```
+Then he closed it again.
+Sera’s hand stayed on his chest.
+[sera] “That is new.”
+>>> “Yes.”   <-- WHO SAYS THIS?
+“Bad?”
+“Not yet.”
+```
+```
+Sera’s hand stayed on his chest.
+[sera] “That is new.”
+“Yes.”
+>>> “Bad?”   <-- WHO SAYS THIS?
+“Not yet.”
+“Rhen.”
+```
+```
+[sera] “That is new.”
+“Yes.”
+“Bad?”
+>>> “Not yet.”   <-- WHO SAYS THIS?
+“Rhen.”
+He sighed.
+```
+```
+“Yes.”
+“Bad?”
+“Not yet.”
+>>> “Rhen.”   <-- WHO SAYS THIS?
+He sighed.
+“Potentially.”
+```
+```
+“Not yet.”
+“Rhen.”
+He sighed.
+>>> “Potentially.”   <-- WHO SAYS THIS?
+She lay back down, but not away from him.
+Instead she pulled one leg over his and rested her chin on his shoulder.
+```
+```
+“Potentially.”
+She lay back down, but not away from him.
+Instead she pulled one leg over his and rested her chin on his shoulder.
+>>> “Explain like I’m not you.”   <-- WHO SAYS THIS?
+He considered.
+“The Garden keeps restoring what I spend.”
+```
+```
+Instead she pulled one leg over his and rested her chin on his shoulder.
+“Explain like I’m not you.”
+He considered.
+>>> “The Garden keeps restoring what I spend.”   <-- WHO SAYS THIS?
+“I know.”
+“It also keeps refining it.”
+```
+```
+“Explain like I’m not you.”
+He considered.
+“The Garden keeps restoring what I spend.”
+>>> “I know.”   <-- WHO SAYS THIS?
+“It also keeps refining it.”
+“I know that too.”
+```
+```
+He considered.
+“The Garden keeps restoring what I spend.”
+“I know.”
+>>> “It also keeps refining it.”   <-- WHO SAYS THIS?
+“I know that too.”
+“The refinement increased recovery efficiency.”
+```
+```
+“The Garden keeps restoring what I spend.”
+“I know.”
+“It also keeps refining it.”
+>>> “I know that too.”   <-- WHO SAYS THIS?
+“The refinement increased recovery efficiency.”
+Sera waited.
+```
+```
+“I know.”
+“It also keeps refining it.”
+“I know that too.”
+>>> “The refinement increased recovery efficiency.”   <-- WHO SAYS THIS?
+Sera waited.
+[sera] “So?”
+```
+```
+“The refinement increased recovery efficiency.”
+Sera waited.
+[sera] “So?”
+>>> “So the reserve returns denser than before.”   <-- WHO SAYS THIS?
+“And?”
+“And I was already not short on reserve.”
+```
+```
+Sera waited.
+[sera] “So?”
+“So the reserve returns denser than before.”
+>>> “And?”   <-- WHO SAYS THIS?
+“And I was already not short on reserve.”
+“That is the understatement of your life.”
+```
+```
+[sera] “So?”
+“So the reserve returns denser than before.”
+“And?”
+>>> “And I was already not short on reserve.”   <-- WHO SAYS THIS?
+“That is the understatement of your life.”
+Rhen ignored that.
+```
+```
+“So the reserve returns denser than before.”
+“And?”
+“And I was already not short on reserve.”
+>>> “That is the understatement of your life.”   <-- WHO SAYS THIS?
+Rhen ignored that.
+[rhen] “Think of pouring water into a sealed jar.”
+```
+```
+“That is the understatement of your life.”
+Rhen ignored that.
+[rhen] “Think of pouring water into a sealed jar.”
+>>> “Finally, a normal metaphor.”   <-- WHO SAYS THIS?
+“Then replacing the water with mercury.”
+“There it is.”
+```
+```
+Rhen ignored that.
+[rhen] “Think of pouring water into a sealed jar.”
+“Finally, a normal metaphor.”
+>>> “Then replacing the water with mercury.”   <-- WHO SAYS THIS?
+“There it is.”
+“The jar does not get larger.”
+```
+```
+[rhen] “Think of pouring water into a sealed jar.”
+“Finally, a normal metaphor.”
+“Then replacing the water with mercury.”
+>>> “There it is.”   <-- WHO SAYS THIS?
+“The jar does not get larger.”
+Sera’s amusement faded.
+```
+```
+“Finally, a normal metaphor.”
+“Then replacing the water with mercury.”
+“There it is.”
+>>> “The jar does not get larger.”   <-- WHO SAYS THIS?
+Sera’s amusement faded.
+[sera] “You’re the jar.”
+```
+```
+“The jar does not get larger.”
+Sera’s amusement faded.
+[sera] “You’re the jar.”
+>>> “Yes.”   <-- WHO SAYS THIS?
+“And the answer is what you said before. Make the qi take less space.”
+“Yes.”
+```
+```
+Sera’s amusement faded.
+[sera] “You’re the jar.”
+“Yes.”
+>>> “And the answer is what you said before. Make the qi take less space.”   <-- WHO SAYS THIS?
+“Yes.”
+“Condense it.”
+```
+```
+[sera] “You’re the jar.”
+“Yes.”
+“And the answer is what you said before. Make the qi take less space.”
+>>> “Yes.”   <-- WHO SAYS THIS?
+“Condense it.”
+“Eventually.”
+```
+```
+“Yes.”
+“And the answer is what you said before. Make the qi take less space.”
+“Yes.”
+>>> “Condense it.”   <-- WHO SAYS THIS?
+“Eventually.”
+She pressed her face into his shoulder for one irritated second.
+```
+```
+“And the answer is what you said before. Make the qi take less space.”
+“Yes.”
+“Condense it.”
+>>> “Eventually.”   <-- WHO SAYS THIS?
+She pressed her face into his shoulder for one irritated second.
+“I dislike eventually.”
+```
+```
+“Condense it.”
+“Eventually.”
+She pressed her face into his shoulder for one irritated second.
+>>> “I dislike eventually.”   <-- WHO SAYS THIS?
+“So do I.”
+“When?”
+```
+```
+“Eventually.”
+She pressed her face into his shoulder for one irritated second.
+“I dislike eventually.”
+>>> “So do I.”   <-- WHO SAYS THIS?
+“When?”
+Rhen looked toward the dark window.
+```
+```
+She pressed her face into his shoulder for one irritated second.
+“I dislike eventually.”
+“So do I.”
+>>> “When?”   <-- WHO SAYS THIS?
+Rhen looked toward the dark window.
+[rhen] “Not while Yun is overdue.”
+```
+```
+No message.
+Sera said, “This is unrelated.”
+[sera] “Yes.”
+>>> “You’re not delaying because you think I’ll need you.”   <-- WHO SAYS THIS?
+Rhen turned his head.
+She was watching him closely.
+```
+```
+“You’re not delaying because you think I’ll need you.”
+Rhen turned his head.
+She was watching him closely.
+>>> “That would be a bad reason.”   <-- WHO SAYS THIS?
+“It would also be a very you reason.”
+He thought about denying it.
+```
+```
+Rhen turned his head.
+She was watching him closely.
+“That would be a bad reason.”
+>>> “It would also be a very you reason.”   <-- WHO SAYS THIS?
+He thought about denying it.
+“Partly.”
+```
+```
+“That would be a bad reason.”
+“It would also be a very you reason.”
+He thought about denying it.
+>>> “Partly.”   <-- WHO SAYS THIS?
+Sera pinched his side.
+Rhen did not flinch.
+```
+```
+Sera pinched his side.
+Rhen did not flinch.
+“That is cheating,” she said.
+>>> “I’m durable.”   <-- WHO SAYS THIS?
+“You’re impossible.”
+She let go.
+```
+```
+Rhen did not flinch.
+“That is cheating,” she said.
+“I’m durable.”
+>>> “You’re impossible.”   <-- WHO SAYS THIS?
+She let go.
+Then, quieter:
+```
+```
+“You’re impossible.”
+She let go.
+Then, quieter:
+>>> “If you need to close the door, you close it.”   <-- WHO SAYS THIS?
+Rhen said nothing.
+Sera continued.
+```
+```
+“Leaving before anyone can depend on you is still a choice,” he said.
+She blinked.
+Then stared.
+>>> “You stole my line.”   <-- WHO SAYS THIS?
+“It was good.”
+“You heard that?”
+```
+```
+She blinked.
+Then stared.
+“You stole my line.”
+>>> “It was good.”   <-- WHO SAYS THIS?
+“You heard that?”
+“Xie complained about it downstairs.”
+```
+```
+Then stared.
+“You stole my line.”
+“It was good.”
+>>> “You heard that?”   <-- WHO SAYS THIS?
+“Xie complained about it downstairs.”
+Sera covered her face with one hand.
+```
+```
+“You stole my line.”
+“It was good.”
+“You heard that?”
+>>> “Xie complained about it downstairs.”   <-- WHO SAYS THIS?
+Sera covered her face with one hand.
+[sera] “Of course he did.”
+```
+```
+The problem remained; he was simply awake enough to control it again.
+Sera settled back against him.
+[sera] “Promise me something else.”
+>>> “What?”   <-- WHO SAYS THIS?
+“When you know it’s time, don’t wait for a crisis to make the decision.”
+Rhen looked at the frost dissolving along the blanket edge.
+```
+```
+Sera settled back against him.
+[sera] “Promise me something else.”
+“What?”
+>>> “When you know it’s time, don’t wait for a crisis to make the decision.”   <-- WHO SAYS THIS?
+Rhen looked at the frost dissolving along the blanket edge.
+[rhen] “Okay.”
+```
+```
+[rhen] “Okay.”
+Sera lifted her head.
+[sera] “Okay as in yes?”
+>>> “Yes.”   <-- WHO SAYS THIS?
+“Good.”
+She kissed him once.
+```
+```
+Sera lifted her head.
+[sera] “Okay as in yes?”
+“Yes.”
+>>> “Good.”   <-- WHO SAYS THIS?
+She kissed him once.
+Then pulled the blanket up.
+```
+```
+[sera] “You owe me bedding now too.”
+Rhen closed his eyes.
+[rhen] “Add it to the teapot.”
+>>> “I have a list.”   <-- WHO SAYS THIS?
+“I know.”
+The frost did not return before morning.
+```
+```
+Rhen closed his eyes.
+[rhen] “Add it to the teapot.”
+“I have a list.”
+>>> “I know.”   <-- WHO SAYS THIS?
+The frost did not return before morning.
+Rhen still did not sleep.
+```
 
 ### Chapter 324 — Shunto Takamori
 
@@ -611,9 +1051,121 @@ Shunto watched anyway.
 Yun lifted one hand.
 [yun] “Then react to this.”
 ```
+```
+His boot landed inside a harmless chalk ring.
+He looked down.
+Then up.
+>>> “Nothing?”   <-- WHO SAYS THIS?
+“Nothing.”
+He understood one beat too late.
+```
+```
+He looked down.
+Then up.
+“Nothing?”
+>>> “Nothing.”   <-- WHO SAYS THIS?
+He understood one beat too late.
+The movement had disturbed the powder above.
+```
 
 ### Chapter 326 — The Gale Brings One More Ledger
 
+```
+[luweiran] “Door.”
+Xie put one boot on the floor.
+[xie_wuchen] “Window was open.”
+>>> “That is because air is allowed in.”   <-- WHO SAYS THIS?
+“So am I.”
+“That remains under review.”
+```
+```
+Xie put one boot on the floor.
+[xie_wuchen] “Window was open.”
+“That is because air is allowed in.”
+>>> “So am I.”   <-- WHO SAYS THIS?
+“That remains under review.”
+Xie stepped fully inside and placed a ledger on Lu’s desk.
+```
+```
+[xie_wuchen] “Window was open.”
+“That is because air is allowed in.”
+“So am I.”
+>>> “That remains under review.”   <-- WHO SAYS THIS?
+Xie stepped fully inside and placed a ledger on Lu’s desk.
+Lu looked at it.
+```
+```
+Xie stepped fully inside and placed a ledger on Lu’s desk.
+Lu looked at it.
+Then at him.
+>>> “What is this?”   <-- WHO SAYS THIS?
+“A ledger.”
+“I can see that.”
+```
+```
+Lu looked at it.
+Then at him.
+“What is this?”
+>>> “A ledger.”   <-- WHO SAYS THIS?
+“I can see that.”
+“Good.”
+```
+```
+Then at him.
+“What is this?”
+“A ledger.”
+>>> “I can see that.”   <-- WHO SAYS THIS?
+“Good.”
+Lu opened it.
+```
+```
+“What is this?”
+“A ledger.”
+“I can see that.”
+>>> “Good.”   <-- WHO SAYS THIS?
+Lu opened it.
+The first page made him stop being annoyed.
+```
+```
+Three intermediary names already present in the Axtaya investigation.
+“Where?” Lu asked.
+[luweiran] “Eastern port.”
+>>> “How?”   <-- WHO SAYS THIS?
+Xie leaned against the wall.
+[xie_wuchen] “A courier was being beaten.”
+```
+```
+“How?”
+Xie leaned against the wall.
+[xie_wuchen] “A courier was being beaten.”
+>>> “That does not explain how you acquired a commercial ledger.”   <-- WHO SAYS THIS?
+“The men beating him dropped it.”
+“And then?”
+```
+```
+Xie leaned against the wall.
+[xie_wuchen] “A courier was being beaten.”
+“That does not explain how you acquired a commercial ledger.”
+>>> “The men beating him dropped it.”   <-- WHO SAYS THIS?
+“And then?”
+“They continued to not have it.”
+```
+```
+[xie_wuchen] “A courier was being beaten.”
+“That does not explain how you acquired a commercial ledger.”
+“The men beating him dropped it.”
+>>> “And then?”   <-- WHO SAYS THIS?
+“They continued to not have it.”
+Lu stared.
+```
+```
+“That does not explain how you acquired a commercial ledger.”
+“The men beating him dropped it.”
+“And then?”
+>>> “They continued to not have it.”   <-- WHO SAYS THIS?
+Lu stared.
+Xie stared back.
+```
 ```
 [xie_wuchen] “This house is very bad at privacy.”
 Rui walked in.
@@ -719,6 +1271,14 @@ Lu closed the ledger.
 [luweiran] “Both of you stop.”
 ```
 ```
+They did.
+Lu was not stronger; somehow everyone eventually obeyed the man holding the documents.
+He tapped one line.
+>>> “This vessel unloaded in Wuyue three months ago under a fever-resin declaration. Same vessel departed for Shinrin twelve days later. Then it changed ownership on paper without changing crew.”   <-- WHO SAYS THIS?
+Xie said, “False transfer.”
+[xie_wuchen] “Yes.”
+```
+```
 [xie_wuchen] “Yes.”
 Rui frowned.
 [rui] “Smuggling?”
@@ -795,8 +1355,24 @@ Rui coughed into one fist.
 Xie looked offended.
 That was new.
 >>> “I may not.”   <-- WHO SAYS THIS?
-[xie_wuchen] “Then the sheet was inexpensive.”
+“Then the sheet was inexpensive.”
 For a long moment Xie said nothing.
+```
+```
+Xie looked offended.
+That was new.
+“I may not.”
+>>> “Then the sheet was inexpensive.”   <-- WHO SAYS THIS?
+For a long moment Xie said nothing.
+Then folded the paper once and slid it into his sleeve.
+```
+```
+“Then the sheet was inexpensive.”
+For a long moment Xie said nothing.
+Then folded the paper once and slid it into his sleeve.
+>>> “I am still not joining anything.”   <-- WHO SAYS THIS?
+Rui said, “Nobody asked.”
+Xie vanished through the window.
 ```
 ```
 [luweiran] “Close that.”
@@ -881,6 +1457,22 @@ He moved.
 He moved.
 Yun threw three needles.
 ```
+```
+Yun clicked her tongue.
+Shunto heard.
+[shunto] “Disappointed?”
+>>> “Deeply.”   <-- WHO SAYS THIS?
+“Good.”
+He advanced.
+```
+```
+Shunto heard.
+[shunto] “Disappointed?”
+“Deeply.”
+>>> “Good.”   <-- WHO SAYS THIS?
+He advanced.
+Yun ran.
+```
 
 ### Chapter 328 — The Arm He Could Not Feel
 
@@ -893,7 +1485,15 @@ Yun did not answer.
 [yun] “Big mouse.”
 ```
 ```
-[yun] “Are you the one they’re looking for?”
+He looked at her torn sleeve.
+Then at the blood drying near her collar.
+Then through the tower window toward the Shinsei patrols.
+>>> “Are you the one they’re looking for?”   <-- WHO SAYS THIS?
+Yun said, “Possibly.”
+[yun] “That is not reassuring.”
+```
+```
+“Are you the one they’re looking for?”
 Yun said, “Possibly.”
 [yun] “That is not reassuring.”
 >>> “I’m not here to hurt you.”   <-- WHO SAYS THIS?
@@ -1110,4 +1710,52 @@ He smiled.
 >>> “Not everyone.”   <-- WHO SAYS THIS?
 The answer was too revealing in a different direction.
 Yun filed it away.
+```
+```
+Yun filed it away.
+Shunto continued.
+[shunto] “You are not here to assassinate anyone. If you were, you would have tried already.”
+>>> “Comforting.”   <-- WHO SAYS THIS?
+“You are not here to sabotage infrastructure. Your routes avoid civilian systems whenever possible.”
+“Also comforting.”
+```
+```
+Shunto continued.
+[shunto] “You are not here to assassinate anyone. If you were, you would have tried already.”
+“Comforting.”
+>>> “You are not here to sabotage infrastructure. Your routes avoid civilian systems whenever possible.”   <-- WHO SAYS THIS?
+“Also comforting.”
+“You are reading.”
+```
+```
+[shunto] “You are not here to assassinate anyone. If you were, you would have tried already.”
+“Comforting.”
+“You are not here to sabotage infrastructure. Your routes avoid civilian systems whenever possible.”
+>>> “Also comforting.”   <-- WHO SAYS THIS?
+“You are reading.”
+Yun’s eyes cooled.
+```
+```
+“Comforting.”
+“You are not here to sabotage infrastructure. Your routes avoid civilian systems whenever possible.”
+“Also comforting.”
+>>> “You are reading.”   <-- WHO SAYS THIS?
+Yun’s eyes cooled.
+Shunto saw it.
+```
+```
+Shunto saw it.
+[shunto] “Archives. Warehouses. movement. Medicine.”
+He leaned back.
+>>> “So I ask again. What are you trying to find?”   <-- WHO SAYS THIS?
+Yun finished her tea.
+Then set the cup down.
+```
+```
+“So I ask again. What are you trying to find?”
+Yun finished her tea.
+Then set the cup down.
+>>> “Why your state needs so much medicine.”   <-- WHO SAYS THIS?
+For the first time, Shunto’s expression truly changed.
+Small.
 ```

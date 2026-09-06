@@ -1,6 +1,6 @@
 # Season 105 — unattributed dialogue
 
-155 quoted lines in this season have no speaker.
+257 quoted lines in this season have no speaker.
 See `README.md` in this folder for what to do with them.
 
 Lines already resolved show their speaker in `[brackets]` for context.
@@ -31,6 +31,262 @@ Aya did not look up from the chart.
 Jun sat on the edge of the treatment cot in partial armor.
 His chest still hurt when he breathed too deeply.
 ```
+```
+Jun nodded.
+[jun] “You should not maintain full Dominion output longer than necessary.”
+He nodded again.
+>>> “If your chest pain sharpens, stop.”   <-- WHO SAYS THIS?
+A pause.
+“If your left hand begins to numb, stop.”
+```
+```
+He nodded again.
+“If your chest pain sharpens, stop.”
+A pause.
+>>> “If your left hand begins to numb, stop.”   <-- WHO SAYS THIS?
+Another.
+“If you taste blood—”
+```
+```
+A pause.
+“If your left hand begins to numb, stop.”
+Another.
+>>> “If you taste blood—”   <-- WHO SAYS THIS?
+“I know.”
+Aya looked at him.
+```
+```
+“If your left hand begins to numb, stop.”
+Another.
+“If you taste blood—”
+>>> “I know.”   <-- WHO SAYS THIS?
+Aya looked at him.
+Jun corrected himself.
+```
+```
+Aya looked at him.
+Jun corrected himself.
+[jun] “Stop.”
+>>> “Yes.”   <-- WHO SAYS THIS?
+He reached for the halberd resting beside the cot.
+Aya’s hand closed around the shaft first.
+```
+```
+Aya’s hand closed around the shaft first.
+Jun stared.
+She did not release it.
+>>> “You are not healed because command needs you.”   <-- WHO SAYS THIS?
+“I know.”
+“You are being returned early because command needs you.”
+```
+```
+Jun stared.
+She did not release it.
+“You are not healed because command needs you.”
+>>> “I know.”   <-- WHO SAYS THIS?
+“You are being returned early because command needs you.”
+“Yes.”
+```
+```
+She did not release it.
+“You are not healed because command needs you.”
+“I know.”
+>>> “You are being returned early because command needs you.”   <-- WHO SAYS THIS?
+“Yes.”
+“Those are different sentences.”
+```
+```
+“You are not healed because command needs you.”
+“I know.”
+“You are being returned early because command needs you.”
+>>> “Yes.”   <-- WHO SAYS THIS?
+“Those are different sentences.”
+Jun’s expression softened by a fraction.
+```
+```
+“I know.”
+“You are being returned early because command needs you.”
+“Yes.”
+>>> “Those are different sentences.”   <-- WHO SAYS THIS?
+Jun’s expression softened by a fraction.
+[jun] “I know.”
+```
+```
+Aya noticed immediately.
+[aya] “Where?”
+The quartermaster stopped.
+>>> “Forward Third and Sixth.”   <-- WHO SAYS THIS?
+“How many?”
+He hesitated.
+```
+```
+[aya] “Where?”
+The quartermaster stopped.
+“Forward Third and Sixth.”
+>>> “How many?”   <-- WHO SAYS THIS?
+He hesitated.
+Aya looked at him.
+```
+```
+He hesitated.
+Aya looked at him.
+[aya] “How many?”
+>>> “Formation allocation.”   <-- WHO SAYS THIS?
+“That is not a number.”
+The quartermaster glanced toward his officer.
+```
+```
+Aya looked at him.
+[aya] “How many?”
+“Formation allocation.”
+>>> “That is not a number.”   <-- WHO SAYS THIS?
+The quartermaster glanced toward his officer.
+The officer approached.
+```
+```
+“That is not a number.”
+The quartermaster glanced toward his officer.
+The officer approached.
+>>> “Physician Katsuragi.”   <-- WHO SAYS THIS?
+“How many 3× seals?”
+“Operationally restricted.”
+```
+```
+The quartermaster glanced toward his officer.
+The officer approached.
+“Physician Katsuragi.”
+>>> “How many 3× seals?”   <-- WHO SAYS THIS?
+“Operationally restricted.”
+Aya’s face went still.
+```
+```
+The officer approached.
+“Physician Katsuragi.”
+“How many 3× seals?”
+>>> “Operationally restricted.”   <-- WHO SAYS THIS?
+Aya’s face went still.
+[aya] “I designed the medical screening protocol for the drug you are carrying.”
+```
+```
+“Operationally restricted.”
+Aya’s face went still.
+[aya] “I designed the medical screening protocol for the drug you are carrying.”
+>>> “This is command authorization.”   <-- WHO SAYS THIS?
+“That did not answer me.”
+Jun remained near the pavilion entrance.
+```
+```
+Aya’s face went still.
+[aya] “I designed the medical screening protocol for the drug you are carrying.”
+“This is command authorization.”
+>>> “That did not answer me.”   <-- WHO SAYS THIS?
+Jun remained near the pavilion entrance.
+Watching.
+```
+```
+Jun remained near the pavilion entrance.
+Watching.
+The officer lowered his voice.
+>>> “Several thousand.”   <-- WHO SAYS THIS?
+Aya’s hand tightened around the chart.
+[aya] “For emergency distribution?”
+```
+```
+“Several thousand.”
+Aya’s hand tightened around the chart.
+[aya] “For emergency distribution?”
+>>> “Formation activation.”   <-- WHO SAYS THIS?
+The words landed badly.
+Not individual catastrophic necessity.
+```
+```
+Aya stepped closer.
+[aya] “No.”
+The officer blinked.
+>>> “Excuse me?”   <-- WHO SAYS THIS?
+“No mass same-window 3× activation.”
+“Command approved it.”
+```
+```
+[aya] “No.”
+The officer blinked.
+“Excuse me?”
+>>> “No mass same-window 3× activation.”   <-- WHO SAYS THIS?
+“Command approved it.”
+“I am objecting medically.”
+```
+```
+The officer blinked.
+“Excuse me?”
+“No mass same-window 3× activation.”
+>>> “Command approved it.”   <-- WHO SAYS THIS?
+“I am objecting medically.”
+“I will record that.”
+```
+```
+“Excuse me?”
+“No mass same-window 3× activation.”
+“Command approved it.”
+>>> “I am objecting medically.”   <-- WHO SAYS THIS?
+“I will record that.”
+“And then?”
+```
+```
+“No mass same-window 3× activation.”
+“Command approved it.”
+“I am objecting medically.”
+>>> “I will record that.”   <-- WHO SAYS THIS?
+“And then?”
+The officer said nothing.
+```
+```
+“Command approved it.”
+“I am objecting medically.”
+“I will record that.”
+>>> “And then?”   <-- WHO SAYS THIS?
+The officer said nothing.
+Aya understood.
+```
+```
+Jun looked at the crates.
+[jun] “How critical?”
+The officer answered him.
+>>> “Wuyue is preparing another push. If Third and Sixth break, the coastal supply spine becomes vulnerable.”   <-- WHO SAYS THIS?
+Jun’s jaw tightened.
+Aya turned to him.
+```
+```
+Jun’s jaw tightened.
+Aya turned to him.
+[aya] “Do not.”
+>>> “I didn’t say anything.”   <-- WHO SAYS THIS?
+“You were about to say necessity.”
+Jun looked at her.
+```
+```
+Aya turned to him.
+[aya] “Do not.”
+“I didn’t say anything.”
+>>> “You were about to say necessity.”   <-- WHO SAYS THIS?
+Jun looked at her.
+[jun] “Sometimes it is.”
+```
+```
+Jun lifted the halberd.
+[jun] “I’ll be careful.”
+She looked at him.
+>>> “No, you won’t.”   <-- WHO SAYS THIS?
+A faint smile.
+“Fair.”
+```
+```
+She looked at him.
+“No, you won’t.”
+A faint smile.
+>>> “Fair.”   <-- WHO SAYS THIS?
+Then he returned to war before she had finished healing him.
+Aya stood in the doorway until the last Redline crate disappeared.
+```
 
 ### Chapter 402 — Thousands Open the Same Seal
 
@@ -51,6 +307,70 @@ A horn began.
 Too late.
 ```
 ```
+Literally.
+The paper ripped between his hands.
+The aide stared.
+>>> “New orders?”   <-- WHO SAYS THIS?
+“Everything changes.”
+“What about the ridge?”
+```
+```
+The paper ripped between his hands.
+The aide stared.
+“New orders?”
+>>> “Everything changes.”   <-- WHO SAYS THIS?
+“What about the ridge?”
+“Give it back.”
+```
+```
+The aide stared.
+“New orders?”
+“Everything changes.”
+>>> “What about the ridge?”   <-- WHO SAYS THIS?
+“Give it back.”
+“The beachhead?”
+```
+```
+“New orders?”
+“Everything changes.”
+“What about the ridge?”
+>>> “Give it back.”   <-- WHO SAYS THIS?
+“The beachhead?”
+“Keep only the hospital road.”
+```
+```
+“Everything changes.”
+“What about the ridge?”
+“Give it back.”
+>>> “The beachhead?”   <-- WHO SAYS THIS?
+“Keep only the hospital road.”
+“We just spent—”
+```
+```
+“What about the ridge?”
+“Give it back.”
+“The beachhead?”
+>>> “Keep only the hospital road.”   <-- WHO SAYS THIS?
+“We just spent—”
+“I know what we spent.”
+```
+```
+“Give it back.”
+“The beachhead?”
+“Keep only the hospital road.”
+>>> “We just spent—”   <-- WHO SAYS THIS?
+“I know what we spent.”
+Jin’s voice cut harder.
+```
+```
+“The beachhead?”
+“Keep only the hospital road.”
+“We just spent—”
+>>> “I know what we spent.”   <-- WHO SAYS THIS?
+Jin’s voice cut harder.
+[jin] “Do not spend it twice because pride wants interest.”
+```
+```
 [sera] “What?”
 Jin pointed.
 [jin] “Mass 3×.”
@@ -64,19 +384,27 @@ Jin pointed.
 “How many?”
 >>> “Thousands.”   <-- WHO SAYS THIS?
 Her face hardened.
-[luo] “Window?”
+“Window?”
+```
+```
+“How many?”
+“Thousands.”
+Her face hardened.
+>>> “Window?”   <-- WHO SAYS THIS?
+“Luo said roughly five minutes.”
+“Then we don’t fight five minutes.”
 ```
 ```
 “Thousands.”
 Her face hardened.
-[luo] “Window?”
+“Window?”
 >>> “Luo said roughly five minutes.”   <-- WHO SAYS THIS?
 “Then we don’t fight five minutes.”
 Jin looked at her.
 ```
 ```
 Her face hardened.
-[luo] “Window?”
+“Window?”
 “Luo said roughly five minutes.”
 >>> “Then we don’t fight five minutes.”   <-- WHO SAYS THIS?
 Jin looked at her.
@@ -521,7 +849,15 @@ Aya did not soften it.
 [aya] “Five years. Approximate. Individual cost varies.”
 ```
 ```
-[aya] “No.”
+Aya did not soften it.
+[aya] “Five years. Approximate. Individual cost varies.”
+The soldier looked at his hands.
+>>> “No.”   <-- WHO SAYS THIS?
+Aya said nothing.
+[aya] “They said months.”
+```
+```
+“No.”
 Aya said nothing.
 [aya] “They said months.”
 >>> “I know.”   <-- WHO SAYS THIS?
@@ -780,6 +1116,190 @@ Sera, sitting beside the table, said nothing.
 Luo looked at her.
 ```
 ```
+Sera, sitting beside the table, said nothing.
+Luo looked at her.
+[luo] “What?”
+>>> “Nothing.”   <-- WHO SAYS THIS?
+“That was judgement.”
+“Yes.”
+```
+```
+Luo looked at her.
+[luo] “What?”
+“Nothing.”
+>>> “That was judgement.”   <-- WHO SAYS THIS?
+“Yes.”
+He ignored her.
+```
+```
+[luo] “What?”
+“Nothing.”
+“That was judgement.”
+>>> “Yes.”   <-- WHO SAYS THIS?
+He ignored her.
+“Standard 3× active peak is roughly five minutes. But onset varies. Crash varies. Body mass, prior fatigue, circulation quality, dose absorption, temperature, injury.”
+```
+```
+“That was judgement.”
+“Yes.”
+He ignored her.
+>>> “Standard 3× active peak is roughly five minutes. But onset varies. Crash varies. Body mass, prior fatigue, circulation quality, dose absorption, temperature, injury.”   <-- WHO SAYS THIS?
+Jin nodded.
+[jin] “So no exact bell.”
+```
+```
+“Standard 3× active peak is roughly five minutes. But onset varies. Crash varies. Body mass, prior fatigue, circulation quality, dose absorption, temperature, injury.”
+Jin nodded.
+[jin] “So no exact bell.”
+>>> “No.”   <-- WHO SAYS THIS?
+“But tactical window.”
+“Yes.”
+```
+```
+Jin nodded.
+[jin] “So no exact bell.”
+“No.”
+>>> “But tactical window.”   <-- WHO SAYS THIS?
+“Yes.”
+Luo moved the watches.
+```
+```
+[jin] “So no exact bell.”
+“No.”
+“But tactical window.”
+>>> “Yes.”   <-- WHO SAYS THIS?
+Luo moved the watches.
+[luo] “First minute, don’t contest unless terrain forces you.”
+```
+```
+Luo moved the watches.
+[luo] “First minute, don’t contest unless terrain forces you.”
+Second.
+>>> “Minutes two to four, make them move for nothing.”   <-- WHO SAYS THIS?
+Third.
+“Force direction changes. Deny fixed targets. Make them spend qinggong, formation acceleration, weapon reinforcement.”
+```
+```
+Second.
+“Minutes two to four, make them move for nothing.”
+Third.
+>>> “Force direction changes. Deny fixed targets. Make them spend qinggong, formation acceleration, weapon reinforcement.”   <-- WHO SAYS THIS?
+Fourth.
+“Near expected crash, do not rush too early. Some users hold longer.”
+```
+```
+Third.
+“Force direction changes. Deny fixed targets. Make them spend qinggong, formation acceleration, weapon reinforcement.”
+Fourth.
+>>> “Near expected crash, do not rush too early. Some users hold longer.”   <-- WHO SAYS THIS?
+Fifth.
+“When tremor, temperature drop after peak, gait instability and circulation noise appear—then punish.”
+```
+```
+Fourth.
+“Near expected crash, do not rush too early. Some users hold longer.”
+Fifth.
+>>> “When tremor, temperature drop after peak, gait instability and circulation noise appear—then punish.”   <-- WHO SAYS THIS?
+Jin studied the arrangement.
+[jin] “Retreat as offense.”
+```
+```
+“When tremor, temperature drop after peak, gait instability and circulation noise appear—then punish.”
+Jin studied the arrangement.
+[jin] “Retreat as offense.”
+>>> “Yes.”   <-- WHO SAYS THIS?
+“Not rout.”
+“No.”
+```
+```
+Jin studied the arrangement.
+[jin] “Retreat as offense.”
+“Yes.”
+>>> “Not rout.”   <-- WHO SAYS THIS?
+“No.”
+“Structured denial.”
+```
+```
+[jin] “Retreat as offense.”
+“Yes.”
+“Not rout.”
+>>> “No.”   <-- WHO SAYS THIS?
+“Structured denial.”
+“Yes.”
+```
+```
+“Yes.”
+“Not rout.”
+“No.”
+>>> “Structured denial.”   <-- WHO SAYS THIS?
+“Yes.”
+Jin smiled.
+```
+```
+“Not rout.”
+“No.”
+“Structured denial.”
+>>> “Yes.”   <-- WHO SAYS THIS?
+Jin smiled.
+Luo looked suspicious.
+```
+```
+Jin smiled.
+Luo looked suspicious.
+[luo] “What?”
+>>> “I like it.”   <-- WHO SAYS THIS?
+“That is rarely comforting.”
+Jin stood and moved to the map.
+```
+```
+Luo looked suspicious.
+[luo] “What?”
+“I like it.”
+>>> “That is rarely comforting.”   <-- WHO SAYS THIS?
+Jin stood and moved to the map.
+[jin] “Five-Minute Retreat.”
+```
+```
+[jin] “Five-Minute Retreat.”
+Luo stared.
+[luo] “You named it already.”
+>>> “Yes.”   <-- WHO SAYS THIS?
+“That is terrible.”
+“It is accurate.”
+```
+```
+Luo stared.
+[luo] “You named it already.”
+“Yes.”
+>>> “That is terrible.”   <-- WHO SAYS THIS?
+“It is accurate.”
+“It sounds like soldiers are taking a break.”
+```
+```
+[luo] “You named it already.”
+“Yes.”
+“That is terrible.”
+>>> “It is accurate.”   <-- WHO SAYS THIS?
+“It sounds like soldiers are taking a break.”
+“They’ll remember it.”
+```
+```
+“Yes.”
+“That is terrible.”
+“It is accurate.”
+>>> “It sounds like soldiers are taking a break.”   <-- WHO SAYS THIS?
+“They’ll remember it.”
+Sera said, “He’s right.”
+```
+```
+“That is terrible.”
+“It is accurate.”
+“It sounds like soldiers are taking a break.”
+>>> “They’ll remember it.”   <-- WHO SAYS THIS?
+Sera said, “He’s right.”
+Luo looked betrayed.
+```
+```
 [luo] “One more thing.”
 Jin looked at him.
 [jin] “Some crash hard enough to die if you hit immediately.”
@@ -958,12 +1478,84 @@ She looked at the field.
 She looked at the field.
 Wounded everywhere.
 ```
+```
+She looked at the field.
+Wounded everywhere.
+Still too many.
+>>> “Again?”   <-- WHO SAYS THIS?
+Jin answered.
+[jin] “Until they solve it.”
+```
 
 ### Chapter 407 — Kai Moriyama Arrives
 
 ```
+[kai] “That was the order.”
+Kenji smiled despite fatigue.
+[kenji] “You hate boats.”
+>>> “I hate bad boats.”   <-- WHO SAYS THIS?
+“That was a good one.”
+“It moved.”
+```
+```
+Kenji smiled despite fatigue.
+[kenji] “You hate boats.”
+“I hate bad boats.”
+>>> “That was a good one.”   <-- WHO SAYS THIS?
+“It moved.”
+Kenji laughed.
+```
+```
+[kenji] “You hate boats.”
+“I hate bad boats.”
+“That was a good one.”
+>>> “It moved.”   <-- WHO SAYS THIS?
+Kenji laughed.
+There.
+```
+```
+The smile vanished.
+Kenji looked away.
+[kenji] “I killed him.”
+>>> “Battle?”   <-- WHO SAYS THIS?
+“Yes.”
+“Was he trying to kill you?”
+```
+```
+Kenji looked away.
+[kenji] “I killed him.”
+“Battle?”
+>>> “Yes.”   <-- WHO SAYS THIS?
+“Was he trying to kill you?”
+“Yes.”
+```
+```
+[kenji] “I killed him.”
+“Battle?”
+“Yes.”
+>>> “Was he trying to kill you?”   <-- WHO SAYS THIS?
+“Yes.”
+“Then don’t turn honesty into self-indulgence.”
+```
+```
+“Battle?”
+“Yes.”
+“Was he trying to kill you?”
+>>> “Yes.”   <-- WHO SAYS THIS?
+“Then don’t turn honesty into self-indulgence.”
+Kenji looked back.
+```
+```
+“Yes.”
+“Was he trying to kill you?”
+“Yes.”
+>>> “Then don’t turn honesty into self-indulgence.”   <-- WHO SAYS THIS?
+Kenji looked back.
+Kai’s voice softened by one degree.
+```
+```
 Kai looked at the latter longest.
-[eirik] “How many mass activations?”
+[kai] “How many mass activations?”
 [eirik] “Two major,” Eirik said. “Several smaller.”
 >>> “Aya?”   <-- WHO SAYS THIS?
 She looked at him.
@@ -1007,7 +1599,15 @@ Jun leaned on the halberd.
 [jun] “Annoying.”
 >>> “Those are usually related.”   <-- WHO SAYS THIS?
 Kai looked at the Wuyue apex markers.
-[eirik] “Sera.”
+[kai] “Sera.”
+```
+```
+[kai] “Sera.”
+“Peak Paragon,” Eirik said.
+[eirik] “Kael?”
+>>> “New Paragon. Better than initial model.”   <-- WHO SAYS THIS?
+Jun said, “He learns quickly.”
+Kai looked at him.
 ```
 ```
 Jun said, “He learns quickly.”
@@ -1109,6 +1709,102 @@ Somewhere south, the temperature began to rise.
 ### Chapter 408 — Kael Learns What High Paragon Means
 
 ```
+[kael] “You look happy.”
+Kai rested the heavy saber against one shoulder.
+[kai] “I grew up near furnaces.”
+>>> “I grew up near mountains.”   <-- WHO SAYS THIS?
+“Yes.”
+“Mountains are better.”
+```
+```
+Kai rested the heavy saber against one shoulder.
+[kai] “I grew up near furnaces.”
+“I grew up near mountains.”
+>>> “Yes.”   <-- WHO SAYS THIS?
+“Mountains are better.”
+“Objectively false.”
+```
+```
+[kai] “I grew up near furnaces.”
+“I grew up near mountains.”
+“Yes.”
+>>> “Mountains are better.”   <-- WHO SAYS THIS?
+“Objectively false.”
+Then Kai moved.
+```
+```
+“I grew up near mountains.”
+“Yes.”
+“Mountains are better.”
+>>> “Objectively false.”   <-- WHO SAYS THIS?
+Then Kai moved.
+The first saber clash taught Kael the tier gap.
+```
+```
+[kael] “Jun was more straightforward.”
+Kai laughed.
+[kai] “Jun is thirty-six and formal.”
+>>> “What are you?”   <-- WHO SAYS THIS?
+“Forty-six and tired.”
+The saber came down.
+```
+```
+Kai laughed.
+[kai] “Jun is thirty-six and formal.”
+“What are you?”
+>>> “Forty-six and tired.”   <-- WHO SAYS THIS?
+The saber came down.
+**Crimson Cleave.**
+```
+```
+Kael’s breathing worsened.
+Kai saw.
+[kai] “Still want mountains?”
+>>> “Yes.”   <-- WHO SAYS THIS?
+“Stubborn.”
+“Public requirement.”
+```
+```
+Kai saw.
+[kai] “Still want mountains?”
+“Yes.”
+>>> “Stubborn.”   <-- WHO SAYS THIS?
+“Public requirement.”
+Kai laughed again.
+```
+```
+[kai] “Still want mountains?”
+“Yes.”
+“Stubborn.”
+>>> “Public requirement.”   <-- WHO SAYS THIS?
+Kai laughed again.
+The fight continued.
+```
+```
+Kai stopped the next cut before it reached his neck.
+Not mercy.
+Assessment.
+>>> “You’re done.”   <-- WHO SAYS THIS?
+Kael looked up.
+[kael] “No.”
+```
+```
+“You’re done.”
+Kael looked up.
+[kael] “No.”
+>>> “You are.”   <-- WHO SAYS THIS?
+“No.”
+Kai sighed.
+```
+```
+Kael looked up.
+[kael] “No.”
+“You are.”
+>>> “No.”   <-- WHO SAYS THIS?
+Kai sighed.
+[kai] “I see why people find you tiring.”
+```
+```
 Sera looked at Kael.
 [sera] “You learned?”
 He glared.
@@ -1133,6 +1829,14 @@ Then she looked at Kai.
 
 ### Chapter 409 — Pale Orchid
 
+```
+Sera’s second strike hit his shoulder.
+Kai laughed.
+Actually laughed.
+>>> “Good.”   <-- WHO SAYS THIS?
+Kael, being treated twenty paces away, muttered:
+[kael] “Stop encouraging people.”
+```
 ```
 Kai stepped back.
 Sera did not chase.
@@ -1268,4 +1972,119 @@ Kael considered that.
 >>> “Yes.”   <-- WHO SAYS THIS?
 Kael considered that.
 Then nodded.
+```
+
+### Chapter 410 — The Second Wave Opens at Minute Four
+
+```
+Borrow lifespan in sequence instead of all at once.
+Luo arrived at the command position already swearing.
+[luo] “They redosed?”
+>>> “Fresh troops.”   <-- WHO SAYS THIS?
+“Better medically.”
+“Worse strategically.”
+```
+```
+Luo arrived at the command position already swearing.
+[luo] “They redosed?”
+“Fresh troops.”
+>>> “Better medically.”   <-- WHO SAYS THIS?
+“Worse strategically.”
+“Yes.”
+```
+```
+[luo] “They redosed?”
+“Fresh troops.”
+“Better medically.”
+>>> “Worse strategically.”   <-- WHO SAYS THIS?
+“Yes.”
+Jin tore another plan.
+```
+```
+“Fresh troops.”
+“Better medically.”
+“Worse strategically.”
+>>> “Yes.”   <-- WHO SAYS THIS?
+Jin tore another plan.
+Luo looked at him.
+```
+```
+Jin tore another plan.
+Luo looked at him.
+[luo] “You enjoy that too much.”
+>>> “I hate paper.”   <-- WHO SAYS THIS?
+“That explains nothing.”
+Sera entered from the right sector.
+```
+```
+Luo looked at him.
+[luo] “You enjoy that too much.”
+“I hate paper.”
+>>> “That explains nothing.”   <-- WHO SAYS THIS?
+Sera entered from the right sector.
+Blood on one sleeve from the Kai clash.
+```
+```
+“That explains nothing.”
+Sera entered from the right sector.
+Blood on one sleeve from the Kai clash.
+>>> “Status.”   <-- WHO SAYS THIS?
+Jin pointed.
+[jin] “They found the seam.”
+```
+```
+Jin pointed.
+[jin] “They found the seam.”
+She saw immediately.
+>>> “Second wave before crash.”   <-- WHO SAYS THIS?
+“Yes.”
+“How do we answer?”
+```
+```
+[jin] “They found the seam.”
+She saw immediately.
+“Second wave before crash.”
+>>> “Yes.”   <-- WHO SAYS THIS?
+“How do we answer?”
+Jin looked at the map.
+```
+```
+She saw immediately.
+“Second wave before crash.”
+“Yes.”
+>>> “How do we answer?”   <-- WHO SAYS THIS?
+Jin looked at the map.
+[jin] “Not today.”
+```
+```
+[jin] “Not today.”
+Sera stared.
+He continued.
+>>> “Today we survive it. Then we answer.”   <-- WHO SAYS THIS?
+Good.
+No fake genius.
+```
+```
+The aide gave him the number.
+He closed his eyes.
+Then opened them.
+>>> “Write them all.”   <-- WHO SAYS THIS?
+“They are being written.”
+“I know.”
+```
+```
+He closed his eyes.
+Then opened them.
+“Write them all.”
+>>> “They are being written.”   <-- WHO SAYS THIS?
+“I know.”
+He looked at the map.
+```
+```
+Then opened them.
+“Write them all.”
+“They are being written.”
+>>> “I know.”   <-- WHO SAYS THIS?
+He looked at the map.
+Wuyue had found a tactic.
 ```

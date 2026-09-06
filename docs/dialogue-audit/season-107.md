@@ -1,9 +1,92 @@
 # Season 107 — unattributed dialogue
 
-75 quoted lines in this season have no speaker.
+142 quoted lines in this season have no speaker.
 See `README.md` in this folder for what to do with them.
 
 Lines already resolved show their speaker in `[brackets]` for context.
+
+### Chapter 421 — Liang Yue Uses Less
+
+```
+Hundreds already clear.
+Nao looked past him.
+[nao] “Those are wounded.”
+>>> “Yes.”   <-- WHO SAYS THIS?
+“Why are you still here?”
+“To keep you asking questions.”
+```
+```
+Nao looked past him.
+[nao] “Those are wounded.”
+“Yes.”
+>>> “Why are you still here?”   <-- WHO SAYS THIS?
+“To keep you asking questions.”
+She almost smiled.
+```
+```
+[nao] “Those are wounded.”
+“Yes.”
+“Why are you still here?”
+>>> “To keep you asking questions.”   <-- WHO SAYS THIS?
+She almost smiled.
+Then used Mercy Current to redirect a heavy clash from one allied officer nearby and create an escape path.
+```
+```
+“Do you believe in this invasion?” he asked.
+Nao’s sword stopped for less than a breath.
+[nao] “That is not a battlefield question.”
+>>> “It became one when you crossed the sea.”   <-- WHO SAYS THIS?
+Fair.
+Nao attacked again.
+```
+```
+Nao could pursue.
+Did not.
+He looked at her.
+>>> “Why?”   <-- WHO SAYS THIS?
+“Your objective is done.”
+“Yes.”
+```
+```
+Did not.
+He looked at her.
+“Why?”
+>>> “Your objective is done.”   <-- WHO SAYS THIS?
+“Yes.”
+“Mine was to hold ground.”
+```
+```
+He looked at her.
+“Why?”
+“Your objective is done.”
+>>> “Yes.”   <-- WHO SAYS THIS?
+“Mine was to hold ground.”
+“Yes.”
+```
+```
+“Why?”
+“Your objective is done.”
+“Yes.”
+>>> “Mine was to hold ground.”   <-- WHO SAYS THIS?
+“Yes.”
+“Then continuing would be pride.”
+```
+```
+“Your objective is done.”
+“Yes.”
+“Mine was to hold ground.”
+>>> “Yes.”   <-- WHO SAYS THIS?
+“Then continuing would be pride.”
+Liang nodded.
+```
+```
+“Yes.”
+“Mine was to hold ground.”
+“Yes.”
+>>> “Then continuing would be pride.”   <-- WHO SAYS THIS?
+Liang nodded.
+[liang] “Good answer.”
+```
 
 ### Chapter 422 — Jun Finishes Healing
 
@@ -111,6 +194,86 @@ Jun did not move.
 Aya eventually looked up.
 ```
 ```
+People on the other side kept paying costs that Aya could erase from Shinsei bodies but not from theirs.
+“I used to think recovery meant we were harder to defeat,” Jun said.
+[jun] “We are.”
+>>> “That is not what I mean.”   <-- WHO SAYS THIS?
+Aya put the brush down.
+Jun continued. “Kael beat me. I came back before I was ready. Then I finished healing anyway. Kenji loses and you rebuild him. Eirik gets hurt and comes back. We keep treating the fact that we can stand again as proof we should keep standing in the same place.”
+```
+```
+Jun continued. “Kael beat me. I came back before I was ready. Then I finished healing anyway. Kenji loses and you rebuild him. Eirik gets hurt and comes back. We keep treating the fact that we can stand again as proof we should keep standing in the same place.”
+Aya watched him carefully.
+[aya] “Do you want me to disagree?”
+>>> “No.”   <-- WHO SAYS THIS?
+“Good.”
+He almost smiled.
+```
+```
+Aya watched him carefully.
+[aya] “Do you want me to disagree?”
+“No.”
+>>> “Good.”   <-- WHO SAYS THIS?
+He almost smiled.
+Then his face settled again.
+```
+```
+“Good.”
+He almost smiled.
+Then his face settled again.
+>>> “Does getting cleared mean you think I should fight?”   <-- WHO SAYS THIS?
+“No.”
+The answer came too quickly to misunderstand.
+```
+```
+He almost smiled.
+Then his face settled again.
+“Does getting cleared mean you think I should fight?”
+>>> “No.”   <-- WHO SAYS THIS?
+The answer came too quickly to misunderstand.
+Aya tapped the chart.
+```
+```
+[aya] “This says your shoulder will not fail because I released you. It says your meridians can sustain your own cultivation. It says the injuries Kael gave you are healed. It does not tell you what your orders mean, whether the invasion is right, or whether a second fight is worth another field full of wounded people.”
+Jun’s grip shifted on the halberd.
+[jun] “You make medicine sound annoyingly limited.”
+>>> “It is. That is why physicians become dangerous when governments start asking medicine to answer political questions.”   <-- WHO SAYS THIS?
+He looked at her for a long time.
+“Thank you.”
+```
+```
+[jun] “You make medicine sound annoyingly limited.”
+“It is. That is why physicians become dangerous when governments start asking medicine to answer political questions.”
+He looked at her for a long time.
+>>> “Thank you.”   <-- WHO SAYS THIS?
+Aya’s brush stopped.
+“For healing me,” he added.
+```
+```
+“Thank you.”
+Aya’s brush stopped.
+“For healing me,” he added.
+>>> “You do not owe me obedience because I treated you.”   <-- WHO SAYS THIS?
+“I know.”
+“You do not owe Shinsei more years because I returned your body.”
+```
+```
+Aya’s brush stopped.
+“For healing me,” he added.
+“You do not owe me obedience because I treated you.”
+>>> “I know.”   <-- WHO SAYS THIS?
+“You do not owe Shinsei more years because I returned your body.”
+Jun went still at the wording.
+```
+```
+“For healing me,” he added.
+“You do not owe me obedience because I treated you.”
+“I know.”
+>>> “You do not owe Shinsei more years because I returned your body.”   <-- WHO SAYS THIS?
+Jun went still at the wording.
+Redline had made that sentence impossible to hear innocently.
+```
+```
 [kael] “Again?”
 Luo nodded.
 [luo] “I beat him.”
@@ -202,6 +365,62 @@ Jun still reached them.
 First wall opened.
 ```
 ```
+[jun] “Move.”
+Rui smiled.
+[rui] “No.”
+>>> “I do not need you dead.”   <-- WHO SAYS THIS?
+“Comforting.”
+“Your troops are already withdrawing.”
+```
+```
+Rui smiled.
+[rui] “No.”
+“I do not need you dead.”
+>>> “Comforting.”   <-- WHO SAYS THIS?
+“Your troops are already withdrawing.”
+“Exactly.”
+```
+```
+[rui] “No.”
+“I do not need you dead.”
+“Comforting.”
+>>> “Your troops are already withdrawing.”   <-- WHO SAYS THIS?
+“Exactly.”
+Rui attacked.
+```
+```
+“I do not need you dead.”
+“Comforting.”
+“Your troops are already withdrawing.”
+>>> “Exactly.”   <-- WHO SAYS THIS?
+Rui attacked.
+He knew he could not win.
+```
+```
+“Go,” Jun said.
+Rui laughed.
+[rui] “You invaded us.”
+>>> “I know.”   <-- WHO SAYS THIS?
+“That was not permission.”
+“No.”
+```
+```
+Rui laughed.
+[rui] “You invaded us.”
+“I know.”
+>>> “That was not permission.”   <-- WHO SAYS THIS?
+“No.”
+Rui turned.
+```
+```
+[rui] “You invaded us.”
+“I know.”
+“That was not permission.”
+>>> “No.”   <-- WHO SAYS THIS?
+Rui turned.
+Then his injured shoulder failed.
+```
+```
 [rui] “You took your time.”
 Xie looked at Jun.
 Then at Rui.
@@ -285,6 +504,70 @@ Silence.
 Xie smiled without humor.
 ```
 ```
+Silence.
+Xie smiled without humor.
+[xie_wuchen] “Predictable.”
+>>> “You will damage yourself.”   <-- WHO SAYS THIS?
+“Yes.”
+“Why?”
+```
+```
+Xie smiled without humor.
+[xie_wuchen] “Predictable.”
+“You will damage yourself.”
+>>> “Yes.”   <-- WHO SAYS THIS?
+“Why?”
+Xie almost laughed.
+```
+```
+[xie_wuchen] “Predictable.”
+“You will damage yourself.”
+“Yes.”
+>>> “Why?”   <-- WHO SAYS THIS?
+Xie almost laughed.
+Months earlier, Sera had asked him why he always helped and then left before anyone could depend on him.
+```
+```
+Months earlier, Sera had asked him why he always helped and then left before anyone could depend on him.
+Now Rui was asking why he stayed.
+Apparently life had become irritatingly symmetrical.
+>>> “Because I took the number.”   <-- WHO SAYS THIS?
+Rui looked at him.
+Xie continued running.
+```
+```
+Rui looked at him.
+Xie continued running.
+[xie_wuchen] “I’m not replacing Yun.”
+>>> “I know.”   <-- WHO SAYS THIS?
+“I’m carrying the empty number.”
+“I know.”
+```
+```
+Xie continued running.
+[xie_wuchen] “I’m not replacing Yun.”
+“I know.”
+>>> “I’m carrying the empty number.”   <-- WHO SAYS THIS?
+“I know.”
+“Then stop asking why I’m carrying people.”
+```
+```
+[xie_wuchen] “I’m not replacing Yun.”
+“I know.”
+“I’m carrying the empty number.”
+>>> “I know.”   <-- WHO SAYS THIS?
+“Then stop asking why I’m carrying people.”
+Rui shut up.
+```
+```
+“I know.”
+“I’m carrying the empty number.”
+“I know.”
+>>> “Then stop asking why I’m carrying people.”   <-- WHO SAYS THIS?
+Rui shut up.
+Good.
+```
+```
 Medics took Rui.
 Luo looked at Xie.
 [luo] “You too.”
@@ -331,6 +614,81 @@ Xie sighed.
 >>> “That does not make meridians decorative.”   <-- WHO SAYS THIS?
 Xie sighed.
 Sat.
+```
+
+### Chapter 425 — Ilyra Burns a Redline Depot
+
+```
+[sera] “No civilian fire spread.”
+Ilyra looked offended.
+[ilyra] “I know.”
+>>> “Say it.”   <-- WHO SAYS THIS?
+“No civilian fire spread.”
+“Good.”
+```
+```
+Ilyra looked offended.
+[ilyra] “I know.”
+“Say it.”
+>>> “No civilian fire spread.”   <-- WHO SAYS THIS?
+“Good.”
+“I am not a child.”
+```
+```
+[ilyra] “I know.”
+“Say it.”
+“No civilian fire spread.”
+>>> “Good.”   <-- WHO SAYS THIS?
+“I am not a child.”
+“No.”
+```
+```
+“Say it.”
+“No civilian fire spread.”
+“Good.”
+>>> “I am not a child.”   <-- WHO SAYS THIS?
+“No.”
+Sera paused.
+```
+```
+“No civilian fire spread.”
+“Good.”
+“I am not a child.”
+>>> “No.”   <-- WHO SAYS THIS?
+Sera paused.
+[sera] “You were worse when younger.”
+```
+```
+She hated it.
+Sera visited the field hospital.
+[sera] “You succeeded.”
+>>> “I know.”   <-- WHO SAYS THIS?
+“You’re alive.”
+“I noticed.”
+```
+```
+Sera visited the field hospital.
+[sera] “You succeeded.”
+“I know.”
+>>> “You’re alive.”   <-- WHO SAYS THIS?
+“I noticed.”
+“You are not returning tomorrow.”
+```
+```
+[sera] “You succeeded.”
+“I know.”
+“You’re alive.”
+>>> “I noticed.”   <-- WHO SAYS THIS?
+“You are not returning tomorrow.”
+Ilyra looked at her.
+```
+```
+“I know.”
+“You’re alive.”
+“I noticed.”
+>>> “You are not returning tomorrow.”   <-- WHO SAYS THIS?
+Ilyra looked at her.
+[ilyra] “No.”
 ```
 
 ### Chapter 426 — You Do Not Have Three Thousand Anymore
@@ -407,6 +765,62 @@ Jin paused.
 Jin paused.
 Arin tapped the board.
 ```
+```
+Jin paused.
+Arin tapped the board.
+[arin] “I know the number better than you do.”
+>>> “That is why I said it.”   <-- WHO SAYS THIS?
+She looked at him.
+Jin continued.
+```
+```
+Spend people to preserve a reputation built when more of them were alive.
+Arin closed her eyes.
+Then erased one route.
+>>> “We abandon east approach.”   <-- WHO SAYS THIS?
+Jin nodded.
+[jin] “Evacuation?”
+```
+```
+“We abandon east approach.”
+Jin nodded.
+[jin] “Evacuation?”
+>>> “Shift through north corridor.”   <-- WHO SAYS THIS?
+“That adds distance.”
+“Better than adding funerals.”
+```
+```
+Jin nodded.
+[jin] “Evacuation?”
+“Shift through north corridor.”
+>>> “That adds distance.”   <-- WHO SAYS THIS?
+“Better than adding funerals.”
+Good.
+```
+```
+[jin] “Evacuation?”
+“Shift through north corridor.”
+“That adds distance.”
+>>> “Better than adding funerals.”   <-- WHO SAYS THIS?
+Good.
+The battle came anyway.
+```
+```
+Lost ground.
+Saved the evacuation.
+At one point a Shinsei officer shouted across the line:
+>>> “Running?”   <-- WHO SAYS THIS?
+Arin looked at the hundreds of civilians and wounded passing behind her.
+Then back at him.
+```
+```
+“Running?”
+Arin looked at the hundreds of civilians and wounded passing behind her.
+Then back at him.
+>>> “Yes.”   <-- WHO SAYS THIS?
+The officer blinked.
+Arin smiled.
+```
 
 ### Chapter 427 — Lei Holds the Second Wave
 
@@ -481,6 +895,129 @@ Mo’s voice stayed level.
 >>> “If we feed people into that wave before the road opens, we lose both.”   <-- WHO SAYS THIS?
 Mo’s voice stayed level.
 [mo] “Trust him for ninety seconds.”
+```
+```
+[lei] “Late.”
+Mo laughed once.
+[mo] “Ninety-two seconds.”
+>>> “Late.”   <-- WHO SAYS THIS?
+“Ungrateful.”
+Lei’s mouth moved.
+```
+```
+Mo laughed once.
+[mo] “Ninety-two seconds.”
+“Late.”
+>>> “Ungrateful.”   <-- WHO SAYS THIS?
+Lei’s mouth moved.
+[lei] “Line?”
+```
+```
+“Ungrateful.”
+Lei’s mouth moved.
+[lei] “Line?”
+>>> “Holding.”   <-- WHO SAYS THIS?
+Only then did he let the medics take him.
+Later reports praised Lei.
+```
+
+### Chapter 429 — Sera Keeps the Corridor
+
+```
+[kai] “You’re not fighting us anymore.”
+Sera looked at him.
+[sera] “I am.”
+>>> “No.”   <-- WHO SAYS THIS?
+He smiled.
+“You’re fighting the map.”
+```
+```
+[sera] “I am.”
+“No.”
+He smiled.
+>>> “You’re fighting the map.”   <-- WHO SAYS THIS?
+Sera said nothing.
+Correct.
+```
+```
+The moment Orchid Dominion faded, her knees nearly gave.
+She caught the edge of a supply cart.
+One Quaint medic appeared instantly.
+>>> “Leader.”   <-- WHO SAYS THIS?
+“I’m fine.”
+The medic stared.
+```
+```
+She caught the edge of a supply cart.
+One Quaint medic appeared instantly.
+“Leader.”
+>>> “I’m fine.”   <-- WHO SAYS THIS?
+The medic stared.
+Sera sighed.
+```
+```
+The medic stared.
+Sera sighed.
+[sera] “Bad habit.”
+>>> “Yes.”   <-- WHO SAYS THIS?
+“Internal damage.”
+“Yes.”
+```
+```
+Sera sighed.
+[sera] “Bad habit.”
+“Yes.”
+>>> “Internal damage.”   <-- WHO SAYS THIS?
+“Yes.”
+“Dehydration.”
+```
+```
+[sera] “Bad habit.”
+“Yes.”
+“Internal damage.”
+>>> “Yes.”   <-- WHO SAYS THIS?
+“Dehydration.”
+“Yes.”
+```
+```
+“Yes.”
+“Internal damage.”
+“Yes.”
+>>> “Dehydration.”   <-- WHO SAYS THIS?
+“Yes.”
+“You’ve been spending time with Luo.”
+```
+```
+“Internal damage.”
+“Yes.”
+“Dehydration.”
+>>> “Yes.”   <-- WHO SAYS THIS?
+“You’ve been spending time with Luo.”
+“Yes.”
+```
+```
+“Yes.”
+“Dehydration.”
+“Yes.”
+>>> “You’ve been spending time with Luo.”   <-- WHO SAYS THIS?
+“Yes.”
+Sera sat.
+```
+```
+“Dehydration.”
+“Yes.”
+“You’ve been spending time with Luo.”
+>>> “Yes.”   <-- WHO SAYS THIS?
+Sera sat.
+The corridor remained open behind her.
+```
+```
+She looked north where Kai and Eirik withdrew.
+“Next time,” she said quietly.
+The medic misunderstood.
+>>> “Next time what?”   <-- WHO SAYS THIS?
+Sera closed her eyes.
+[sera] “Nothing.”
 ```
 
 ### Chapter 430 — We Beat Them Yesterday
@@ -579,15 +1116,23 @@ Jin began a new column.
 “Shipping capacity.”
 >>> “Morale.”   <-- WHO SAYS THIS?
 “Legitimacy.”
-[sera] “Captured information.”
+“Captured information.”
 ```
 ```
 “Redline stock.”
 “Shipping capacity.”
 “Morale.”
 >>> “Legitimacy.”   <-- WHO SAYS THIS?
-[sera] “Captured information.”
+“Captured information.”
 “Trust in command,” Sera added.
+```
+```
+“Shipping capacity.”
+“Morale.”
+“Legitimacy.”
+>>> “Captured information.”   <-- WHO SAYS THIS?
+“Trust in command,” Sera added.
+Jin’s brush paused.
 ```
 ```
 Luo said that aloud.

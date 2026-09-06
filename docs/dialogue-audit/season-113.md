@@ -1,6 +1,6 @@
 # Season 113 — unattributed dialogue
 
-171 quoted lines in this season have no speaker.
+235 quoted lines in this season have no speaker.
 See `README.md` in this folder for what to do with them.
 
 Lines already resolved show their speaker in `[brackets]` for context.
@@ -30,6 +30,46 @@ Aya's eyes narrowed.
 >>> “I need him.”   <-- WHO SAYS THIS?
 Aya's eyes narrowed.
 Tsubasa laughed once, then immediately regretted it when one of Sera's rib injuries reminded him it still existed.
+```
+```
+Aya put one hand against his chest.
+Not forcefully.
+Firmly.
+>>> “He is my patient.”   <-- WHO SAYS THIS?
+Rhen looked at her hand.
+Then at her.
+```
+```
+“He is my patient.”
+Rhen looked at her hand.
+Then at her.
+>>> “Yes.”   <-- WHO SAYS THIS?
+Aya waited. Rhen stopped where she stopped him.
+“What are you doing?” she asked.
+```
+```
+“Yes.”
+Aya waited. Rhen stopped where she stopped him.
+“What are you doing?” she asked.
+>>> “Finishing the treatment faster.”   <-- WHO SAYS THIS?
+“To send him back into combat.”
+“Yes.”
+```
+```
+Aya waited. Rhen stopped where she stopped him.
+“What are you doing?” she asked.
+“Finishing the treatment faster.”
+>>> “To send him back into combat.”   <-- WHO SAYS THIS?
+“Yes.”
+Aya's expression became murderous.
+```
+```
+“What are you doing?” she asked.
+“Finishing the treatment faster.”
+“To send him back into combat.”
+>>> “Yes.”   <-- WHO SAYS THIS?
+Aya's expression became murderous.
+Tsubasa looked between them.
 ```
 ```
 Rhen ignored him.
@@ -304,6 +344,14 @@ Tsubasa looked at her.
 [tsubasa] “You assume I intend to continue.”
 ```
 ```
+Sera's expression softened.
+[sera] “No.”
+Then hardened again.
+>>> “I assume you still haven't surrendered.”   <-- WHO SAYS THIS?
+Tsubasa said nothing.
+That was answer enough.
+```
+```
 It had not erased it.
 Rhen looked back at Tsubasa.
 [rhen] “You're healthy.”
@@ -473,6 +521,14 @@ He paused.
 >>> “Some will lose less. Some more. Existing health, age and prior exposure change the cost. Aya Katsuragi has ordered the estimate written plainly because you are the ones who pay it.”   <-- WHO SAYS THIS?
 Aya looked toward him.
 Tsubasa continued.
+```
+```
+Small.
+A few heads turning.
+A few shoulders shifting.
+>>> “If you do not accept the cost, leave the inner spearhead now.”   <-- WHO SAYS THIS?
+One soldier stepped backward.
+Nobody stopped him.
 ```
 ```
 “They're telling them,” he said.
@@ -734,6 +790,38 @@ Aya's voice was quiet.
 ### Chapter 483 — Fifty Thousand Redlines
 
 ```
+Sera stood at the central ridge.
+[sera] “Do not feed them a fixed line!”
+Signal flags moved.
+>>> “Give them ground. Keep them moving. Make them spend the five minutes walking through nothing.”   <-- WHO SAYS THIS?
+The order saved thousands.
+It did not make the pressure small.
+```
+```
+“They're good,” he said.
+Sera looked at him.
+[sera] “They've been invading us for six months.”
+>>> “I know.”   <-- WHO SAYS THIS?
+“That wasn't praise.”
+“It was accurate.”
+```
+```
+Sera looked at him.
+[sera] “They've been invading us for six months.”
+“I know.”
+>>> “That wasn't praise.”   <-- WHO SAYS THIS?
+“It was accurate.”
+Sera sighed.
+```
+```
+[sera] “They've been invading us for six months.”
+“I know.”
+“That wasn't praise.”
+>>> “It was accurate.”   <-- WHO SAYS THIS?
+Sera sighed.
+[sera] “Unfortunately, yes.”
+```
+```
 [jin] “Still inside expectation.”
 Lei Zhen looked at the collapsing forward ditch.
 [lei] “That is your expectation?”
@@ -755,10 +843,10 @@ Shen Rui glanced toward Rhen.
 “I hate your expectations.”
 >>> “So do I.”   <-- WHO SAYS THIS?
 Shen Rui glanced toward Rhen.
-[rhen] “Are we waiting for something?”
+[rui] “Are we waiting for something?”
 ```
 ```
-[rhen] “Are we waiting for something?”
+[rui] “Are we waiting for something?”
 Rhen answered.
 [rhen] “Yes.”
 >>> “What?”   <-- WHO SAYS THIS?
@@ -774,7 +862,7 @@ As if called by name, the Peak Paragon moved.
 The 3× state entered him fully.
 ```
 ```
-[rhen] “He's stronger than earlier.”
+[sera] “He's stronger than earlier.”
 “Yes,” Rhen said.
 [rhen] “How much?”
 >>> “Approximately what the label says.”   <-- WHO SAYS THIS?
@@ -832,6 +920,14 @@ The strongest conventional cultivator alive had been healed to full condition.
 
 ### Chapter 484 — Tsubasa at Three Times
 
+```
+[sera] “That is annoyingly good.”
+Jin looked at her.
+[jin] “Which one?”
+>>> “Yes.”   <-- WHO SAYS THIS?
+Tsubasa's **Tethered Heaven Dominion** pressed over the inner battlefield.
+Rhen felt the first rule immediately.
+```
 ```
 “Stop doing that,” Sera muttered.
 Luo looked at her.
@@ -913,10 +1009,117 @@ Rhen looked back at him.
 [rhen] “Because Sera told me not to be annoying.”
 ```
 
+### Chapter 485 — Rhen Walks In
+
+```
+[rhen] “Very good.”
+Tsubasa's face became expressionless.
+[tsubasa] “You are mocking me.”
+>>> “No.”   <-- WHO SAYS THIS?
+“You're bleeding.”
+“Yes.”
+```
+```
+Tsubasa's face became expressionless.
+[tsubasa] “You are mocking me.”
+“No.”
+>>> “You're bleeding.”   <-- WHO SAYS THIS?
+“Yes.”
+“And you sound pleased.”
+```
+```
+[tsubasa] “You are mocking me.”
+“No.”
+“You're bleeding.”
+>>> “Yes.”   <-- WHO SAYS THIS?
+“And you sound pleased.”
+“You made me bleed.”
+```
+```
+“No.”
+“You're bleeding.”
+“Yes.”
+>>> “And you sound pleased.”   <-- WHO SAYS THIS?
+“You made me bleed.”
+Tsubasa's eyes narrowed.
+```
+```
+“You're bleeding.”
+“Yes.”
+“And you sound pleased.”
+>>> “You made me bleed.”   <-- WHO SAYS THIS?
+Tsubasa's eyes narrowed.
+Rhen closed his hand.
+```
+```
+Tsubasa's eyes narrowed.
+Rhen closed his hand.
+The cut healed.
+>>> “That is usually impressive.”   <-- WHO SAYS THIS?
+Tsubasa exhaled slowly.
+Then laughed.
+```
+```
+A real laugh.
+For one heartbeat, the leader of Shinsei was simply forty-two years old and standing across from the first opponent in years who made absurdity feel honest.
+Then he lifted the crescent again.
+>>> “Fine.”   <-- WHO SAYS THIS?
+The chain network screamed into motion.
+Every major anchor in the inner battlefield engaged.
+```
+```
+Rhen's expression changed.
+Tsubasa saw it.
+[tsubasa] “You were waiting.”
+>>> “Yes.”   <-- WHO SAYS THIS?
+“For what?”
+“For you to show me everything.”
+```
+```
+Tsubasa saw it.
+[tsubasa] “You were waiting.”
+“Yes.”
+>>> “For what?”   <-- WHO SAYS THIS?
+“For you to show me everything.”
+Tsubasa's fingers tightened around the chain.
+```
+```
+[tsubasa] “You were waiting.”
+“Yes.”
+“For what?”
+>>> “For you to show me everything.”   <-- WHO SAYS THIS?
+Tsubasa's fingers tightened around the chain.
+[tsubasa] “And now?”
+```
+```
+[rhen] “I wouldn't move too much for the next few breaths.”
+Tsubasa lifted the crescent.
+[tsubasa] “That sounds like advice.”
+>>> “It is.”   <-- WHO SAYS THIS?
+“I don't intend to take it.”
+“I know.”
+```
+```
+Tsubasa lifted the crescent.
+[tsubasa] “That sounds like advice.”
+“It is.”
+>>> “I don't intend to take it.”   <-- WHO SAYS THIS?
+“I know.”
+The first frozen petal formed.
+```
+```
+[tsubasa] “That sounds like advice.”
+“It is.”
+“I don't intend to take it.”
+>>> “I know.”   <-- WHO SAYS THIS?
+The first frozen petal formed.
+It did not come from Rhen.
+```
+
 ### Chapter 486 — Monarch's Winter Law
 
 ```
-[rhen] “What did you do?”
+[tsubasa] “What did you do?”
 Rhen answered because there was no point hiding a rule already happening inside Tsubasa's body.
 [rhen] “Condensed your reserve.”
 >>> “Into that?”   <-- WHO SAYS THIS?
@@ -930,6 +1133,14 @@ Rhen answered because there was no point hiding a rule already happening inside 
 >>> “Yes.”   <-- WHO SAYS THIS?
 Tsubasa looked at the petal.
 [tsubasa] “How much?”
+```
+```
+“Yes.”
+Tsubasa looked at the petal.
+[tsubasa] “How much?”
+>>> “All of it.”   <-- WHO SAYS THIS?
+For the first time in the final arc, Tsubasa Kurokawa lost control of his expression.
+Not fear.
 ```
 ```
 [rhen] “Very dense.”
@@ -958,6 +1169,30 @@ Exactly fifty thousand soldiers.
 
 ### Chapter 487 — Fifty Thousand and One Petals
 
+```
+[rhen] “Don't.”
+Tsubasa looked up.
+[tsubasa] “Advice again?”
+>>> “Yes.”   <-- WHO SAYS THIS?
+“I remain bad at taking it.”
+“I noticed.”
+```
+```
+Tsubasa looked up.
+[tsubasa] “Advice again?”
+“Yes.”
+>>> “I remain bad at taking it.”   <-- WHO SAYS THIS?
+“I noticed.”
+Around them, Shinsei officers tried to reorganize the inner spearhead.
+```
+```
+[tsubasa] “Advice again?”
+“Yes.”
+“I remain bad at taking it.”
+>>> “I noticed.”   <-- WHO SAYS THIS?
+Around them, Shinsei officers tried to reorganize the inner spearhead.
+Some succeeded.
+```
 ```
 [sera] “That is excessive.”
 Kael looked at her.
@@ -1007,6 +1242,14 @@ Aya looked at the field.
 [aya] “No.”
 ```
 ```
+Aya looked at the field.
+[aya] “No.”
+She knew enough medicine to understand the terrifying part.
+>>> “He could have chosen something else.”   <-- WHO SAYS THIS?
+Haru said nothing.
+At the center, Tsubasa remained awake.
+```
+```
 Rhen had excluded him from Quiet Snow.
 Tsubasa noticed.
 [tsubasa] “You want me conscious.”
@@ -1029,6 +1272,249 @@ Tsubasa looked down at the chain in his hands.
 >>> “You're still fighting.”   <-- WHO SAYS THIS?
 Tsubasa looked down at the chain in his hands.
 Then at the sleeping army.
+```
+
+### Chapter 488 — Winter Essence
+
+```
+[rhen] “That was expensive.”
+Tsubasa gave him a flat look.
+[tsubasa] “Are you worried about my equipment?”
+>>> “A little.”   <-- WHO SAYS THIS?
+“You destroyed it.”
+“Yes.”
+```
+```
+Tsubasa gave him a flat look.
+[tsubasa] “Are you worried about my equipment?”
+“A little.”
+>>> “You destroyed it.”   <-- WHO SAYS THIS?
+“Yes.”
+“That makes the concern difficult to appreciate.”
+```
+```
+[tsubasa] “Are you worried about my equipment?”
+“A little.”
+“You destroyed it.”
+>>> “Yes.”   <-- WHO SAYS THIS?
+“That makes the concern difficult to appreciate.”
+Rhen considered.
+```
+```
+“A little.”
+“You destroyed it.”
+“Yes.”
+>>> “That makes the concern difficult to appreciate.”   <-- WHO SAYS THIS?
+Rhen considered.
+[rhen] “Fair.”
+```
+```
+Instead he let go.
+Tsubasa's eyes narrowed.
+[tsubasa] “You keep allowing me another attack.”
+>>> “Yes.”   <-- WHO SAYS THIS?
+“Why?”
+Rhen looked at him.
+```
+```
+Tsubasa's eyes narrowed.
+[tsubasa] “You keep allowing me another attack.”
+“Yes.”
+>>> “Why?”   <-- WHO SAYS THIS?
+Rhen looked at him.
+[rhen] “You're still choosing one.”
+```
+```
+One knee hit stone.
+Tsubasa looked up sharply.
+He understood at once.
+>>> “You're not controlling my thoughts.”   <-- WHO SAYS THIS?
+“No.”
+“My movement.”
+```
+```
+Tsubasa looked up sharply.
+He understood at once.
+“You're not controlling my thoughts.”
+>>> “No.”   <-- WHO SAYS THIS?
+“My movement.”
+“Your motor circulation.”
+```
+```
+He understood at once.
+“You're not controlling my thoughts.”
+“No.”
+>>> “My movement.”   <-- WHO SAYS THIS?
+“Your motor circulation.”
+Tsubasa's expression darkened.
+```
+```
+“You're not controlling my thoughts.”
+“No.”
+“My movement.”
+>>> “Your motor circulation.”   <-- WHO SAYS THIS?
+Tsubasa's expression darkened.
+[tsubasa] “Using my own qi.”
+```
+```
+“Your motor circulation.”
+Tsubasa's expression darkened.
+[tsubasa] “Using my own qi.”
+>>> “A little of it.”   <-- WHO SAYS THIS?
+“The qi you took.”
+“Yes.”
+```
+```
+Tsubasa's expression darkened.
+[tsubasa] “Using my own qi.”
+“A little of it.”
+>>> “The qi you took.”   <-- WHO SAYS THIS?
+“Yes.”
+Tsubasa laughed once.
+```
+```
+[tsubasa] “Using my own qi.”
+“A little of it.”
+“The qi you took.”
+>>> “Yes.”   <-- WHO SAYS THIS?
+Tsubasa laughed once.
+There was no humor in it.
+```
+```
+“Yes.”
+Tsubasa laughed once.
+There was no humor in it.
+>>> “That is unpleasant.”   <-- WHO SAYS THIS?
+“I know.”
+“You can make me strike myself.”
+```
+```
+Tsubasa laughed once.
+There was no humor in it.
+“That is unpleasant.”
+>>> “I know.”   <-- WHO SAYS THIS?
+“You can make me strike myself.”
+“Yes.”
+```
+```
+There was no humor in it.
+“That is unpleasant.”
+“I know.”
+>>> “You can make me strike myself.”   <-- WHO SAYS THIS?
+“Yes.”
+“Break my own body.”
+```
+```
+“That is unpleasant.”
+“I know.”
+“You can make me strike myself.”
+>>> “Yes.”   <-- WHO SAYS THIS?
+“Break my own body.”
+“Yes.”
+```
+```
+“I know.”
+“You can make me strike myself.”
+“Yes.”
+>>> “Break my own body.”   <-- WHO SAYS THIS?
+“Yes.”
+“Kill myself.”
+```
+```
+“You can make me strike myself.”
+“Yes.”
+“Break my own body.”
+>>> “Yes.”   <-- WHO SAYS THIS?
+“Kill myself.”
+Rhen's face went still.
+```
+```
+“Yes.”
+“Break my own body.”
+“Yes.”
+>>> “Kill myself.”   <-- WHO SAYS THIS?
+Rhen's face went still.
+[rhen] “If I chose that severity.”
+```
+```
+[rhen] “If I chose that severity.”
+Tsubasa held his gaze.
+[tsubasa] “You won't.”
+>>> “No.”   <-- WHO SAYS THIS?
+“Why?”
+Rhen looked across the field.
+```
+```
+Tsubasa held his gaze.
+[tsubasa] “You won't.”
+“No.”
+>>> “Why?”   <-- WHO SAYS THIS?
+Rhen looked across the field.
+Fifty thousand soldiers slept under Quiet Snow.
+```
+```
+“Why?”
+Rhen looked across the field.
+Fifty thousand soldiers slept under Quiet Snow.
+>>> “No reason to.”   <-- WHO SAYS THIS?
+Tsubasa stared at him for a long moment.
+Then reached for the chain again.
+```
+```
+Then reached for the chain again.
+Rhen sighed.
+[rhen] “You are very committed to this.”
+>>> “You healed me to full strength.”   <-- WHO SAYS THIS?
+“Yes.”
+“You let me take Redline.”
+```
+```
+Rhen sighed.
+[rhen] “You are very committed to this.”
+“You healed me to full strength.”
+>>> “Yes.”   <-- WHO SAYS THIS?
+“You let me take Redline.”
+“Yes.”
+```
+```
+[rhen] “You are very committed to this.”
+“You healed me to full strength.”
+“Yes.”
+>>> “You let me take Redline.”   <-- WHO SAYS THIS?
+“Yes.”
+“You let me use everything.”
+```
+```
+“You healed me to full strength.”
+“Yes.”
+“You let me take Redline.”
+>>> “Yes.”   <-- WHO SAYS THIS?
+“You let me use everything.”
+“Yes.”
+```
+```
+“Yes.”
+“You let me take Redline.”
+“Yes.”
+>>> “You let me use everything.”   <-- WHO SAYS THIS?
+“Yes.”
+“And now you're surprised I won't stop because you removed it?”
+```
+```
+“You let me take Redline.”
+“Yes.”
+“You let me use everything.”
+>>> “Yes.”   <-- WHO SAYS THIS?
+“And now you're surprised I won't stop because you removed it?”
+Rhen thought about that.
+```
+```
+“Yes.”
+“You let me use everything.”
+“Yes.”
+>>> “And now you're surprised I won't stop because you removed it?”   <-- WHO SAYS THIS?
+Rhen thought about that.
+[rhen] “No.”
 ```
 
 ### Chapter 489 — Tsubasa Without Heaven
@@ -1056,6 +1542,22 @@ Jin looked back at the fight.
 >>> “Yes.”   <-- WHO SAYS THIS?
 Jin looked back at the fight.
 [jin] “I'll add it to reconstruction.”
+```
+```
+That distinction was important.
+Tsubasa wiped his mouth.
+[tsubasa] “You were holding back.”
+>>> “Yes.”   <-- WHO SAYS THIS?
+“How much?”
+Rhen looked uncomfortable.
+```
+```
+Tsubasa wiped his mouth.
+[tsubasa] “You were holding back.”
+“Yes.”
+>>> “How much?”   <-- WHO SAYS THIS?
+Rhen looked uncomfortable.
+[rhen] “That question never helps.”
 ```
 ```
 [rhen] “You proved it.”
@@ -1284,6 +1786,22 @@ Kai.
 
 ### Chapter 490 — The Last Argument
 
+```
+[haru] “I already paid enough for being stupid.”
+Nao's mouth moved faintly.
+[nao] “That may be the smartest thing you've said.”
+>>> “Don't ruin it.”   <-- WHO SAYS THIS?
+For once, Hana smiled.
+The four who had activated 3× moved toward Rhen.
+```
+```
+Across the spearhead, every remaining artificial 3× cycle ended.
+Kai staggered.
+His Dominion flickered from the sudden transition.
+>>> “What did you—”   <-- WHO SAYS THIS?
+“Ended it,” Rhen said.
+Eirik checked his own pulse.
+```
 ```
 He had not lied about its cost.
 Kai looked furious.

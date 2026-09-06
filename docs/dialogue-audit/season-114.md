@@ -1,6 +1,6 @@
 # Season 114 — unattributed dialogue
 
-136 quoted lines in this season have no speaker.
+209 quoted lines in this season have no speaker.
 See `README.md` in this folder for what to do with them.
 
 Lines already resolved show their speaker in `[brackets]` for context.
@@ -176,15 +176,23 @@ Then sighed.
 “I dislike you.”
 >>> “I've been told.”   <-- WHO SAYS THIS?
 “By Sera?”
-[sera] “Frequently.”
+“Frequently.”
 ```
 ```
 “Okay.”
 “I dislike you.”
 “I've been told.”
 >>> “By Sera?”   <-- WHO SAYS THIS?
-[sera] “Frequently.”
+“Frequently.”
 From the next cot, Sera said, “Accurately.”
+```
+```
+“I dislike you.”
+“I've been told.”
+“By Sera?”
+>>> “Frequently.”   <-- WHO SAYS THIS?
+From the next cot, Sera said, “Accurately.”
+She was supposed to be resting.
 ```
 ```
 He would answer. Near sunset, Tsubasa woke fully.
@@ -342,6 +350,22 @@ Haru looked at him sharply.
 Nao did too.
 ```
 ```
+[tsubasa] “I will submit to inquiry regarding the invasion, Redline doctrine, custody abuses under my administration and any orders issued under emergency authority.”
+Eirik spoke first.
+[eirik] “You understand stepping down does not erase responsibility.”
+>>> “Yes.”   <-- WHO SAYS THIS?
+“Good.”
+Sera studied him.
+```
+```
+Eirik spoke first.
+[eirik] “You understand stepping down does not erase responsibility.”
+“Yes.”
+>>> “Good.”   <-- WHO SAYS THIS?
+Sera studied him.
+[sera] “What happens if your people refuse your resignation?”
+```
+```
 Sera tapped one finger against the table.
 [sera] “Wuyue is not occupying Shinrin.”
 Several Shinsei officers looked up.
@@ -446,15 +470,23 @@ Aya scanned them.
 “Cleared.”
 >>> “Naval reserve?”   <-- WHO SAYS THIS?
 “Cleared.”
-[hana] “Internal-security vault?”
+“Internal-security vault?”
 ```
 ```
 [aya] “Research annex?”
 “Cleared.”
 “Naval reserve?”
 >>> “Cleared.”   <-- WHO SAYS THIS?
-[hana] “Internal-security vault?”
+“Internal-security vault?”
 Hana answered.
+```
+```
+“Cleared.”
+“Naval reserve?”
+“Cleared.”
+>>> “Internal-security vault?”   <-- WHO SAYS THIS?
+Hana answered.
+[hana] “Opened this morning. Cleared.”
 ```
 ```
 [tsubasa] “Destroyed yesterday under witness.”
@@ -556,6 +588,174 @@ Kael looked toward the ceremonial plaza.
 [kael] “Then everyone had time to sit.”
 ```
 ```
+[kael] “Then everyone had time to sit.”
+Jin stared at him.
+[jin] “This is why I hate you.”
+>>> “No, it isn't.”   <-- WHO SAYS THIS?
+“No. It is one of several reasons.”
+The plaza beneath Stonecrown's old council terraces had filled before dawn.
+```
+```
+Jin stared at him.
+[jin] “This is why I hate you.”
+“No, it isn't.”
+>>> “No. It is one of several reasons.”   <-- WHO SAYS THIS?
+The plaza beneath Stonecrown's old council terraces had filled before dawn.
+Not only with officials.
+```
+```
+Annoyingly healthy.
+No longer interested in being No.1.
+He stood before the first pillar while an official read the declaration.
+>>> “The ranking records active responsibility. The memorial records service.”   <-- WHO SAYS THIS?
+The wind moved through the plaza.
+“No successor inherits a life already lived. No new holder erases the one before.”
+```
+```
+He stood before the first pillar while an official read the declaration.
+“The ranking records active responsibility. The memorial records service.”
+The wind moved through the plaza.
+>>> “No successor inherits a life already lived. No new holder erases the one before.”   <-- WHO SAYS THIS?
+Luo Wen looked toward Yun's name.
+He did not move.
+```
+```
+When the declaration ended, Kael stepped forward.
+He did not give a long speech.
+Nobody expected him to.
+>>> “I am retiring.”   <-- WHO SAYS THIS?
+A murmur moved through the crowd anyway.
+The announcement was known.
+```
+```
+A murmur moved through the crowd anyway.
+The announcement was known.
+Hearing it aloud made it real.
+>>> “I can still fight.”   <-- WHO SAYS THIS?
+That quieted the plaza.
+Kael flexed the hand Shunto had once broken.
+```
+```
+That quieted the plaza.
+Kael flexed the hand Shunto had once broken.
+Perfectly healed.
+>>> “My body works.”   <-- WHO SAYS THIS?
+He bent the knee Shunto had destroyed.
+Perfectly healed.
+```
+```
+“My body works.”
+He bent the knee Shunto had destroyed.
+Perfectly healed.
+>>> “I am not being forced out.”   <-- WHO SAYS THIS?
+He looked across the soldiers who had followed him through disasters nobody should have survived.
+“I am tired.”
+```
+```
+Perfectly healed.
+“I am not being forced out.”
+He looked across the soldiers who had followed him through disasters nobody should have survived.
+>>> “I am tired.”   <-- WHO SAYS THIS?
+Silence.
+Not shame.
+```
+```
+Not shame.
+Not defeat.
+Simple truth.
+>>> “I have spent enough years waiting for the next person who thinks Wuyue needs to be tested.”   <-- WHO SAYS THIS?
+A few soldiers laughed.
+Kael almost smiled.
+```
+```
+Liang Yue, standing beside the second pillar, muttered, “Terrible idea.”
+Kael looked at him.
+[kael] “You invited yourself.”
+>>> “I did not.”   <-- WHO SAYS THIS?
+“You packed yesterday.”
+“That proves nothing.”
+```
+```
+Kael looked at him.
+[kael] “You invited yourself.”
+“I did not.”
+>>> “You packed yesterday.”   <-- WHO SAYS THIS?
+“That proves nothing.”
+“You packed three cloaks.”
+```
+```
+[kael] “You invited yourself.”
+“I did not.”
+“You packed yesterday.”
+>>> “That proves nothing.”   <-- WHO SAYS THIS?
+“You packed three cloaks.”
+“Climate is unpredictable.”
+```
+```
+“I did not.”
+“You packed yesterday.”
+“That proves nothing.”
+>>> “You packed three cloaks.”   <-- WHO SAYS THIS?
+“Climate is unpredictable.”
+Jin pinched the bridge of his nose.
+```
+```
+“You packed yesterday.”
+“That proves nothing.”
+“You packed three cloaks.”
+>>> “Climate is unpredictable.”   <-- WHO SAYS THIS?
+Jin pinched the bridge of his nose.
+The plaza finally laughed properly.
+```
+```
+Kael waited for it to settle.
+[kael] “Stonecrown will not receive a replacement Kael.”
+That line mattered.
+>>> “No one person needs to become the region.”   <-- WHO SAYS THIS?
+He turned toward Jin.
+“Jin Seoryu will help manage military command and administration during transition.”
+```
+```
+That line mattered.
+“No one person needs to become the region.”
+He turned toward Jin.
+>>> “Jin Seoryu will help manage military command and administration during transition.”   <-- WHO SAYS THIS?
+Jin's expression suggested Kael had omitted the part where Jin had spent two days refusing.
+[jin] “He will build something that does not collapse if one person leaves.”
+```
+```
+Liang appeared beside him carrying travel papers.
+Kael looked down.
+[kael] “You said you weren't coming.”
+>>> “I said nothing of the sort.”   <-- WHO SAYS THIS?
+“You called it a terrible idea.”
+“It is.”
+```
+```
+Kael looked down.
+[kael] “You said you weren't coming.”
+“I said nothing of the sort.”
+>>> “You called it a terrible idea.”   <-- WHO SAYS THIS?
+“It is.”
+“And yet?”
+```
+```
+[kael] “You said you weren't coming.”
+“I said nothing of the sort.”
+“You called it a terrible idea.”
+>>> “It is.”   <-- WHO SAYS THIS?
+“And yet?”
+Liang adjusted one of his three cloaks.
+```
+```
+“I said nothing of the sort.”
+“You called it a terrible idea.”
+“It is.”
+>>> “And yet?”   <-- WHO SAYS THIS?
+Liang adjusted one of his three cloaks.
+[liang] “Someone needs to stop you eating poisonous roadside mushrooms.”
+```
+```
 [jin] “Cowards.”
 Sera came to stand beside him.
 [sera] “You want to go too.”
@@ -606,6 +806,14 @@ Then looked at the ten pillars.
 
 ### Chapter 496 — There Was Only One Pale Venom
 
+```
+[sera] “You brought terrible tea.”
+Luo looked at her.
+[luo] “It was hers.”
+>>> “That explains it.”   <-- WHO SAYS THIS?
+A few people laughed.
+The sound hurt.
+```
 ```
 [aya] “There will be physicians studying her work.”
 Luo's eyes shifted toward her.
@@ -786,7 +994,95 @@ Solveig, standing between them, said, “Sign the document.”
 They did.
 ```
 ```
-[maedra] “Maybe I like functional diplomacy.”
+“You are terrible at carpentry,” Aldric said.
+Eirik kept working.
+[eirik] “I know.”
+>>> “You were better at ruling.”   <-- WHO SAYS THIS?
+Eirik stopped.
+Aldric immediately regretted the sentence.
+```
+```
+After a while he produced a folded appointment document.
+Eirik did not take it.
+[eirik] “What is it?”
+>>> “Not a crown.”   <-- WHO SAYS THIS?
+“That narrows it.”
+“Warden of the Northern Shield.”
+```
+```
+Eirik did not take it.
+[eirik] “What is it?”
+“Not a crown.”
+>>> “That narrows it.”   <-- WHO SAYS THIS?
+“Warden of the Northern Shield.”
+Eirik looked at him.
+```
+```
+[eirik] “What is it?”
+“Not a crown.”
+“That narrows it.”
+>>> “Warden of the Northern Shield.”   <-- WHO SAYS THIS?
+Eirik looked at him.
+[eirik] “Under whose authority?”
+```
+```
+“Warden of the Northern Shield.”
+Eirik looked at him.
+[eirik] “Under whose authority?”
+>>> “Mine when I am being reasonable.”   <-- WHO SAYS THIS?
+“That is concerning.”
+“Solveig's when I am not.”
+```
+```
+Eirik looked at him.
+[eirik] “Under whose authority?”
+“Mine when I am being reasonable.”
+>>> “That is concerning.”   <-- WHO SAYS THIS?
+“Solveig's when I am not.”
+“Better.”
+```
+```
+[eirik] “Under whose authority?”
+“Mine when I am being reasonable.”
+“That is concerning.”
+>>> “Solveig's when I am not.”   <-- WHO SAYS THIS?
+“Better.”
+The role carried military responsibility.
+```
+```
+“Mine when I am being reasonable.”
+“That is concerning.”
+“Solveig's when I am not.”
+>>> “Better.”   <-- WHO SAYS THIS?
+The role carried military responsibility.
+No throne.
+```
+```
+At the treaty hall, Sera watched Eirik take his place behind Isgard's delegation rather than at its head.
+Rhen stood beside her.
+“You're smiling,” he said.
+>>> “Am I?”   <-- WHO SAYS THIS?
+“Yes.”
+“Maybe I like functional diplomacy.”
+```
+```
+Rhen stood beside her.
+“You're smiling,” he said.
+“Am I?”
+>>> “Yes.”   <-- WHO SAYS THIS?
+“Maybe I like functional diplomacy.”
+Rhen looked at Aldric and Maedra arguing over a comma while Solveig threatened both of them.
+```
+```
+“You're smiling,” he said.
+“Am I?”
+“Yes.”
+>>> “Maybe I like functional diplomacy.”   <-- WHO SAYS THIS?
+Rhen looked at Aldric and Maedra arguing over a comma while Solveig threatened both of them.
+[rhen] “This is functional?”
+```
+```
+“Maybe I like functional diplomacy.”
 Rhen looked at Aldric and Maedra arguing over a comma while Solveig threatened both of them.
 [rhen] “This is functional?”
 >>> “For Isgard, extremely.”   <-- WHO SAYS THIS?
@@ -868,6 +1164,22 @@ Yurushi's expression changed.
 Yurushi's expression changed.
 Softened.
 ```
+```
+Tae dragged him backward by the collar.
+Huo protested.
+[huo] “I was being supportive.”
+>>> “You were spying.”   <-- WHO SAYS THIS?
+“Supportively.”
+Some things did not need character development.
+```
+```
+Huo protested.
+[huo] “I was being supportive.”
+“You were spying.”
+>>> “Supportively.”   <-- WHO SAYS THIS?
+Some things did not need character development.
+Huo remained Huo.
+```
 
 ### Chapter 499 — Xue Ra and Ri Xue
 
@@ -904,6 +1216,14 @@ Sera pointed at Rhen.
 [sera] “Ri Xue.”
 ```
 ```
+Rhen pointed at Sera.
+[rhen] “Xue Ra.”
+The governor frowned.
+>>> “Are you related to the Petals Monarch?”   <-- WHO SAYS THIS?
+Rhen said, “No.”
+Sera said, “Never heard of him.”
+```
+```
 Liang continued appearing on Kael's travels through what he insisted were coincidences.
 “Why are you here?” Kael asked once at a coastal inn six hundred miles from Liang's territory.
 [kael] “Coincidence.”
@@ -933,15 +1253,23 @@ One afternoon Qin asked, “What brings you here?”
 “Lu handles that.”
 >>> “Medical logistics.”   <-- WHO SAYS THIS?
 “Luo handles that.”
-[luweiran] “Warehouse allocation.”
+“Warehouse allocation.”
 ```
 ```
 [qin] “Regional coordination.”
 “Lu handles that.”
 “Medical logistics.”
 >>> “Luo handles that.”   <-- WHO SAYS THIS?
-[luweiran] “Warehouse allocation.”
+“Warehouse allocation.”
 From three rooms away Lu shouted, “I handle that too.”
+```
+```
+“Lu handles that.”
+“Medical logistics.”
+“Luo handles that.”
+>>> “Warehouse allocation.”   <-- WHO SAYS THIS?
+From three rooms away Lu shouted, “I handle that too.”
+Arin stared at the wall.
 ```
 ```
 Qin smiled.
@@ -964,27 +1292,35 @@ The old Xie would have said *probably*.
 Rhen arranged cups.
 [rhen] “They work a little.”
 >>> “Kael calls you Rhen in public.”   <-- WHO SAYS THIS?
-[huo] “He forgets.”
+“He forgets.”
 “Huo shouted Petals Monarch from across the street yesterday.”
+```
+```
+Rhen arranged cups.
+[rhen] “They work a little.”
+“Kael calls you Rhen in public.”
+>>> “He forgets.”   <-- WHO SAYS THIS?
+“Huo shouted Petals Monarch from across the street yesterday.”
+“He also forgets.”
 ```
 ```
 [rhen] “They work a little.”
 “Kael calls you Rhen in public.”
-[huo] “He forgets.”
+“He forgets.”
 >>> “Huo shouted Petals Monarch from across the street yesterday.”   <-- WHO SAYS THIS?
 “He also forgets.”
 “Tae threatened to kill him.”
 ```
 ```
 “Kael calls you Rhen in public.”
-[huo] “He forgets.”
+“He forgets.”
 “Huo shouted Petals Monarch from across the street yesterday.”
 >>> “He also forgets.”   <-- WHO SAYS THIS?
 “Tae threatened to kill him.”
 “He remembered.”
 ```
 ```
-[huo] “He forgets.”
+“He forgets.”
 “Huo shouted Petals Monarch from across the street yesterday.”
 “He also forgets.”
 >>> “Tae threatened to kill him.”   <-- WHO SAYS THIS?
@@ -1121,4 +1457,252 @@ Rhen settled onto the edge of the bed.
 >>> “It is.”   <-- WHO SAYS THIS?
 Rhen settled onto the edge of the bed.
 Sera crossed the room slowly.
+```
+```
+[rhen] “What?”
+She touched the pale scar over his left eyebrow.
+Then his cheek.
+>>> “You disappeared for six months.”   <-- WHO SAYS THIS?
+Rhen's expression softened.
+[rhen] “I know.”
+```
+```
+“You disappeared for six months.”
+Rhen's expression softened.
+[rhen] “I know.”
+>>> “You slept through a war.”   <-- WHO SAYS THIS?
+“I was not sleeping.”
+“You were horizontal for most of it.”
+```
+```
+Rhen's expression softened.
+[rhen] “I know.”
+“You slept through a war.”
+>>> “I was not sleeping.”   <-- WHO SAYS THIS?
+“You were horizontal for most of it.”
+“That is not the definition of sleeping.”
+```
+```
+[rhen] “I know.”
+“You slept through a war.”
+“I was not sleeping.”
+>>> “You were horizontal for most of it.”   <-- WHO SAYS THIS?
+“That is not the definition of sleeping.”
+Sera pushed him backward onto the bed.
+```
+```
+“You slept through a war.”
+“I was not sleeping.”
+“You were horizontal for most of it.”
+>>> “That is not the definition of sleeping.”   <-- WHO SAYS THIS?
+Sera pushed him backward onto the bed.
+Rhen blinked.
+```
+```
+Because he did not object.
+Rhen looked at her.
+[rhen] “Sera.”
+>>> “Mm?”   <-- WHO SAYS THIS?
+“What are you doing?”
+She leaned closer.
+```
+```
+Rhen looked at her.
+[rhen] “Sera.”
+“Mm?”
+>>> “What are you doing?”   <-- WHO SAYS THIS?
+She leaned closer.
+Her hair fell around them.
+```
+```
+“What are you doing?”
+She leaned closer.
+Her hair fell around them.
+>>> “Planning.”   <-- WHO SAYS THIS?
+“You said the future.”
+“Same thing.”
+```
+```
+She leaned closer.
+Her hair fell around them.
+“Planning.”
+>>> “You said the future.”   <-- WHO SAYS THIS?
+“Same thing.”
+Rhen's mouth twitched.
+```
+```
+Her hair fell around them.
+“Planning.”
+“You said the future.”
+>>> “Same thing.”   <-- WHO SAYS THIS?
+Rhen's mouth twitched.
+[rhen] “What kind of plan?”
+```
+```
+Good.
+Sera traced one finger down the front of his shirt.
+[sera] “We have three tea shops.”
+>>> “Yes.”   <-- WHO SAYS THIS?
+“A mountain full of terrifying people who refuse to leave us alone.”
+“Yes.”
+```
+```
+Sera traced one finger down the front of his shirt.
+[sera] “We have three tea shops.”
+“Yes.”
+>>> “A mountain full of terrifying people who refuse to leave us alone.”   <-- WHO SAYS THIS?
+“Yes.”
+“A clinic full of patients.”
+```
+```
+[sera] “We have three tea shops.”
+“Yes.”
+“A mountain full of terrifying people who refuse to leave us alone.”
+>>> “Yes.”   <-- WHO SAYS THIS?
+“A clinic full of patients.”
+“Yes.”
+```
+```
+“Yes.”
+“A mountain full of terrifying people who refuse to leave us alone.”
+“Yes.”
+>>> “A clinic full of patients.”   <-- WHO SAYS THIS?
+“Yes.”
+“A ridiculous extended family.”
+```
+```
+“A mountain full of terrifying people who refuse to leave us alone.”
+“Yes.”
+“A clinic full of patients.”
+>>> “Yes.”   <-- WHO SAYS THIS?
+“A ridiculous extended family.”
+Rhen considered Huo.
+```
+```
+“Yes.”
+“A clinic full of patients.”
+“Yes.”
+>>> “A ridiculous extended family.”   <-- WHO SAYS THIS?
+Rhen considered Huo.
+[rhen] “Unfortunately.”
+```
+```
+Softer.
+Warmer.
+A little wicked.
+>>> “And now,” she said, “I want something else.”   <-- WHO SAYS THIS?
+Rhen looked at her carefully.
+[rhen] “What?”
+```
+```
+Silence.
+Rhen stared at the ceiling.
+Then at her.
+>>> “...Minis?”   <-- WHO SAYS THIS?
+Sera sat back just enough to see his face.
+The Petals Monarch looked genuinely confused.
+```
+```
+[sera] “Little versions.”
+Rhen's eyes widened by perhaps half a fraction.
+For him, this was panic.
+>>> “Sera.”   <-- WHO SAYS THIS?
+“You heard me.”
+“I did.”
+```
+```
+Rhen's eyes widened by perhaps half a fraction.
+For him, this was panic.
+“Sera.”
+>>> “You heard me.”   <-- WHO SAYS THIS?
+“I did.”
+“Good.”
+```
+```
+For him, this was panic.
+“Sera.”
+“You heard me.”
+>>> “I did.”   <-- WHO SAYS THIS?
+“Good.”
+“We should discuss—”
+```
+```
+“Sera.”
+“You heard me.”
+“I did.”
+>>> “Good.”   <-- WHO SAYS THIS?
+“We should discuss—”
+“No.”
+```
+```
+“You heard me.”
+“I did.”
+“Good.”
+>>> “We should discuss—”   <-- WHO SAYS THIS?
+“No.”
+“Timelines.”
+```
+```
+“I did.”
+“Good.”
+“We should discuss—”
+>>> “No.”   <-- WHO SAYS THIS?
+“Timelines.”
+“No.”
+```
+```
+“Good.”
+“We should discuss—”
+“No.”
+>>> “Timelines.”   <-- WHO SAYS THIS?
+“No.”
+“Clinic scheduling.”
+```
+```
+“We should discuss—”
+“No.”
+“Timelines.”
+>>> “No.”   <-- WHO SAYS THIS?
+“Clinic scheduling.”
+“Absolutely not.”
+```
+```
+“No.”
+“Timelines.”
+“No.”
+>>> “Clinic scheduling.”   <-- WHO SAYS THIS?
+“Absolutely not.”
+“Potential—”
+```
+```
+“Timelines.”
+“No.”
+“Clinic scheduling.”
+>>> “Absolutely not.”   <-- WHO SAYS THIS?
+“Potential—”
+Sera kissed him again.
+```
+```
+“No.”
+“Clinic scheduling.”
+“Absolutely not.”
+>>> “Potential—”   <-- WHO SAYS THIS?
+Sera kissed him again.
+That solved the meeting.
+```
+```
+“You planned this,” he murmured.
+Sera's smile turned smug.
+[sera] “For a while.”
+>>> “How long?”   <-- WHO SAYS THIS?
+She thought about the question.
+Then laughed because once, after six months of silence, those had been the first words he asked the world.
+```
+```
+She thought about the question.
+Then laughed because once, after six months of silence, those had been the first words he asked the world.
+Now they meant something entirely different.
+>>> “Long enough.”   <-- WHO SAYS THIS?
+Outside, rain moved over the river.
+Downstairs, two cups waited beside a cooling kettle.
 ```

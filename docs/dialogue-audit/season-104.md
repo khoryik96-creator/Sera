@@ -1,6 +1,6 @@
 # Season 104 — unattributed dialogue
 
-168 quoted lines in this season have no speaker.
+229 quoted lines in this season have no speaker.
 See `README.md` in this folder for what to do with them.
 
 Lines already resolved show their speaker in `[brackets]` for context.
@@ -54,6 +54,166 @@ Hana looked at him.
 >>> “Yes.”   <-- WHO SAYS THIS?
 Hana looked at him.
 [hana] “You are enjoying saying yes.”
+```
+```
+“Yes.”
+Hana looked at him.
+[hana] “You are enjoying saying yes.”
+>>> “No.”   <-- WHO SAYS THIS?
+“You sound like it.”
+“I am confirming variables.”
+```
+```
+Hana looked at him.
+[hana] “You are enjoying saying yes.”
+“No.”
+>>> “You sound like it.”   <-- WHO SAYS THIS?
+“I am confirming variables.”
+“You are a deeply exciting person.”
+```
+```
+[hana] “You are enjoying saying yes.”
+“No.”
+“You sound like it.”
+>>> “I am confirming variables.”   <-- WHO SAYS THIS?
+“You are a deeply exciting person.”
+Haru ignored her.
+```
+```
+“No.”
+“You sound like it.”
+“I am confirming variables.”
+>>> “You are a deeply exciting person.”   <-- WHO SAYS THIS?
+Haru ignored her.
+He had been feared since before most soldiers understood his name.
+```
+```
+Because he measured until the battlefield became narrower than the opponent understood.
+Hana looked at the wall again.
+[hana] “What is bothering you?”
+>>> “Too few visible defenders.”   <-- WHO SAYS THIS?
+“That should be good.”
+“No.”
+```
+```
+Hana looked at the wall again.
+[hana] “What is bothering you?”
+“Too few visible defenders.”
+>>> “That should be good.”   <-- WHO SAYS THIS?
+“No.”
+“Why?”
+```
+```
+[hana] “What is bothering you?”
+“Too few visible defenders.”
+“That should be good.”
+>>> “No.”   <-- WHO SAYS THIS?
+“Why?”
+“Organizations with Sera’s known resources do not leave critical medical infrastructure this exposed.”
+```
+```
+“Too few visible defenders.”
+“That should be good.”
+“No.”
+>>> “Why?”   <-- WHO SAYS THIS?
+“Organizations with Sera’s known resources do not leave critical medical infrastructure this exposed.”
+Hana’s eyes narrowed.
+```
+```
+“That should be good.”
+“No.”
+“Why?”
+>>> “Organizations with Sera’s known resources do not leave critical medical infrastructure this exposed.”   <-- WHO SAYS THIS?
+Hana’s eyes narrowed.
+There.
+```
+```
+Not arrogance.
+Pattern.
+He tapped the report.
+>>> “Quaint’s public profile says medicine, private security, logistics.”   <-- WHO SAYS THIS?
+“Yes.”
+“Sera took one hundred twenty north.”
+```
+```
+Pattern.
+He tapped the report.
+“Quaint’s public profile says medicine, private security, logistics.”
+>>> “Yes.”   <-- WHO SAYS THIS?
+“Sera took one hundred twenty north.”
+“Yes.”
+```
+```
+He tapped the report.
+“Quaint’s public profile says medicine, private security, logistics.”
+“Yes.”
+>>> “Sera took one hundred twenty north.”   <-- WHO SAYS THIS?
+“Yes.”
+“If that is a meaningful fraction, more people should be visible here.”
+```
+```
+“Quaint’s public profile says medicine, private security, logistics.”
+“Yes.”
+“Sera took one hundred twenty north.”
+>>> “Yes.”   <-- WHO SAYS THIS?
+“If that is a meaningful fraction, more people should be visible here.”
+Hana looked toward the tree line.
+```
+```
+“Yes.”
+“Sera took one hundred twenty north.”
+“Yes.”
+>>> “If that is a meaningful fraction, more people should be visible here.”   <-- WHO SAYS THIS?
+Hana looked toward the tree line.
+[hana] “Unless they’re hidden.”
+```
+```
+“If that is a meaningful fraction, more people should be visible here.”
+Hana looked toward the tree line.
+[hana] “Unless they’re hidden.”
+>>> “Or distributed.”   <-- WHO SAYS THIS?
+“Or the report is wrong.”
+Haru folded it.
+```
+```
+Hana looked toward the tree line.
+[hana] “Unless they’re hidden.”
+“Or distributed.”
+>>> “Or the report is wrong.”   <-- WHO SAYS THIS?
+Haru folded it.
+[haru] “That possibility is increasing.”
+```
+```
+A herb carrier.
+Peak Marquis.
+He set the baskets down.
+>>> “Visitors?”   <-- WHO SAYS THIS?
+Haru looked at him.
+[haru] “Move away from the building.”
+```
+```
+His expression did not become heroic.
+Good.
+He turned and shouted:
+>>> “RED TWO.”   <-- WHO SAYS THIS?
+The teahouse changed.
+Not visibly at first.
+```
+```
+No mass rush toward the Paragons.
+Hana stared.
+[hana] “Prepared.”
+>>> “Yes.”   <-- WHO SAYS THIS?
+The herb carrier backed away with the civilians instead of fighting.
+Haru’s eyes sharpened.
+```
+```
+Looked at Haru.
+Then Hana.
+Then behind them.
+>>> “Only two?”   <-- WHO SAYS THIS?
+Hana blinked.
+Haru’s grip adjusted on his spear.
 ```
 ```
 [tae] “I was hoping the intelligence service had become more ambitious.”
@@ -152,7 +312,23 @@ Tae heard.
 “You’re still forcing it.”
 >>> “I know.”   <-- WHO SAYS THIS?
 Tae heard.
-[hana] “Healthy relationship.”
+[tae] “Healthy relationship.”
+```
+```
+Huo looked at the broken outer wall.
+Then at the teapot.
+Then at Haru and Hana.
+>>> “I was making tea.”   <-- WHO SAYS THIS?
+Tae stared.
+[tae] “During an attack.”
+```
+```
+“I was making tea.”
+Tae stared.
+[tae] “During an attack.”
+>>> “It was steeping.”   <-- WHO SAYS THIS?
+Haru felt Huo’s circulation.
+Nine rotating structures.
 ```
 
 ### Chapter 393 — Huo Changes the Answer
@@ -164,6 +340,46 @@ Hana passed him.
 >>> “No.”   <-- WHO SAYS THIS?
 She attacked again.
 Hollow Sky Dominion returned.
+```
+```
+“I let you think that,” Huo said.
+Haru hated him instantly.
+From the outer wall, Tae laughed.
+>>> “Everyone does.”   <-- WHO SAYS THIS?
+Huo looked back.
+[huo] “You’re resting?”
+```
+```
+“Everyone does.”
+Huo looked back.
+[huo] “You’re resting?”
+>>> “I’m managing perimeter.”   <-- WHO SAYS THIS?
+“You’re sitting.”
+“Strategically.”
+```
+```
+Huo looked back.
+[huo] “You’re resting?”
+“I’m managing perimeter.”
+>>> “You’re sitting.”   <-- WHO SAYS THIS?
+“Strategically.”
+Hana emerged from the broken rail.
+```
+```
+[huo] “You’re resting?”
+“I’m managing perimeter.”
+“You’re sitting.”
+>>> “Strategically.”   <-- WHO SAYS THIS?
+Hana emerged from the broken rail.
+[hana] “Are they always like this?”
+```
+```
+Haru answered before Tae could.
+[haru] “Focus.”
+She looked at him.
+>>> “That was not an answer.”   <-- WHO SAYS THIS?
+Huo came again.
+The fight turned ugly.
 ```
 ```
 After seven minutes, Haru’s breathing changed.
@@ -201,6 +417,14 @@ Haru’s jaw tightened.
 [haru] “Yes.”
 ```
 ```
+“Leaving?”
+Haru’s jaw tightened.
+[haru] “Yes.”
+>>> “Good.”   <-- WHO SAYS THIS?
+Hana looked at him.
+[hana] “You’re letting us?”
+```
+```
 [hana] “You’re letting us?”
 Qin tilted his head.
 [qin] “Sera authorizes lethal action.”
@@ -225,7 +449,7 @@ Qin’s expression remained calm.
 [qin] “Because you came to damage a support site, found three High Paragons you did not know existed, and are now going home to tell your government exactly how wrong its intelligence was.”
 ```
 ```
-[qin] “Three High Paragons.”
+[haru] “Three High Paragons.”
 Qin said nothing.
 [qin] “Outside the public Top Ten.”
 >>> “Yes.”   <-- WHO SAYS THIS?
@@ -358,7 +582,7 @@ Tae’s humor vanished.
 [tae] “Yes.”
 >>> “They now know.”   <-- WHO SAYS THIS?
 Qin nodded.
-[huo] “So do we.”
+[qin] “So do we.”
 ```
 ```
 Qin turned toward the continental map inside.
@@ -372,7 +596,23 @@ Tae followed.
 ### Chapter 395 — Qin Opens the Map
 
 ```
-[qin] “Huo goes southeast.”
+[tae] “Absolutely not.”
+Qin stood over the continental map.
+[qin] “You are going west.”
+>>> “No.”   <-- WHO SAYS THIS?
+“Huo goes southeast.”
+Huo pointed at himself.
+```
+```
+Qin stood over the continental map.
+[qin] “You are going west.”
+“No.”
+>>> “Huo goes southeast.”   <-- WHO SAYS THIS?
+Huo pointed at himself.
+[huo] “Why southeast?”
+```
+```
+“Huo goes southeast.”
 Huo pointed at himself.
 [huo] “Why southeast?”
 >>> “Because you are large.”   <-- WHO SAYS THIS?
@@ -644,6 +884,14 @@ Qin turned toward him.
 [qin] “Where?”
 ```
 ```
+Not memory.
+Judgement.
+He walked to the table.
+>>> “Not Stonecrown itself.”   <-- WHO SAYS THIS?
+“Why?” Tae asked.
+[tae] “Too much fixed weight. Even without Kael, thirty-eight thousand plus fortress systems. Haru does not enjoy problems that cannot be narrowed.”
+```
+```
 [tae] “Too much fixed weight. Even without Kael, thirty-eight thousand plus fortress systems. Haru does not enjoy problems that cannot be narrowed.”
 Huo looked at him.
 [huo] “You know him?”
@@ -672,8 +920,16 @@ Lu, because he was Lu, simply wrote the information down.
 Yurushi noticed.
 [yurushi] “Do not put that in the military record.”
 >>> “I wrote route preference.”   <-- WHO SAYS THIS?
-[qin] “Good.”
+“Good.”
 Qin said, “You’re staying central with me.”
+```
+```
+Yurushi noticed.
+[yurushi] “Do not put that in the military record.”
+“I wrote route preference.”
+>>> “Good.”   <-- WHO SAYS THIS?
+Qin said, “You’re staying central with me.”
+Yurushi looked at him.
 ```
 ```
 Qin said, “You’re staying central with me.”
@@ -739,8 +995,40 @@ Qin turned toward him.
 Yurushi was already standing.
 [yurushi] “Haru and Hana.”
 >>> “Likely.”   <-- WHO SAYS THIS?
-[luweiran] “Distance?”
+“Distance?”
 Lu answered.
+```
+```
+Yurushi was already standing.
+[yurushi] “Haru and Hana.”
+“Likely.”
+>>> “Distance?”   <-- WHO SAYS THIS?
+Lu answered.
+[luweiran] “From here? Too far for ordinary response before they finish a limited strike.”
+```
+```
+Qin said, “No.”
+Yurushi looked at him.
+[yurushi] “You cannot reach them fast enough without leaving this command blind.”
+>>> “I can reorganize.”   <-- WHO SAYS THIS?
+“That takes time.”
+“So does dying.”
+```
+```
+Yurushi looked at him.
+[yurushi] “You cannot reach them fast enough without leaving this command blind.”
+“I can reorganize.”
+>>> “That takes time.”   <-- WHO SAYS THIS?
+“So does dying.”
+Yurushi’s mouth moved.
+```
+```
+[yurushi] “You cannot reach them fast enough without leaving this command blind.”
+“I can reorganize.”
+“That takes time.”
+>>> “So does dying.”   <-- WHO SAYS THIS?
+Yurushi’s mouth moved.
+[yurushi] “Comforting.”
 ```
 ```
 [yurushi] “Comforting.”
@@ -1026,6 +1314,22 @@ Haru attacked again.
 Nine Lines Collapse.
 ```
 ```
+[yurushi] “Still good.”
+Hana’s jaw tightened.
+[hana] “Don’t.”
+>>> “What?”   <-- WHO SAYS THIS?
+“Sound proud of me.”
+Yurushi stopped smiling.
+```
+```
+Hana’s jaw tightened.
+[hana] “Don’t.”
+“What?”
+>>> “Sound proud of me.”   <-- WHO SAYS THIS?
+Yurushi stopped smiling.
+Fair.
+```
+```
 Haru looked upward.
 “What?” Hana asked.
 [hana] “He changed scale.”
@@ -1091,6 +1395,150 @@ Did he?
 >>> “I know.”   <-- WHO SAYS THIS?
 Did he?
 Yurushi heard the answer in the way Haru attacked.
+```
+```
+[hana] “No.”
+Haru looked at her.
+[haru] “We are thirty seconds from the command archive.”
+>>> “Then we withdraw.”   <-- WHO SAYS THIS?
+“We can finish.”
+“The first dose is ending.”
+```
+```
+Haru looked at her.
+[haru] “We are thirty seconds from the command archive.”
+“Then we withdraw.”
+>>> “We can finish.”   <-- WHO SAYS THIS?
+“The first dose is ending.”
+“Yes.”
+```
+```
+[haru] “We are thirty seconds from the command archive.”
+“Then we withdraw.”
+“We can finish.”
+>>> “The first dose is ending.”   <-- WHO SAYS THIS?
+“Yes.”
+“That is the signal.”
+```
+```
+“Then we withdraw.”
+“We can finish.”
+“The first dose is ending.”
+>>> “Yes.”   <-- WHO SAYS THIS?
+“That is the signal.”
+“No. It is a timing constraint.”
+```
+```
+“We can finish.”
+“The first dose is ending.”
+“Yes.”
+>>> “That is the signal.”   <-- WHO SAYS THIS?
+“No. It is a timing constraint.”
+Hana stared.
+```
+```
+“The first dose is ending.”
+“Yes.”
+“That is the signal.”
+>>> “No. It is a timing constraint.”   <-- WHO SAYS THIS?
+Hana stared.
+Yurushi, bleeding twenty paces away, almost felt sorry for him.
+```
+```
+Yurushi, bleeding twenty paces away, almost felt sorry for him.
+Almost.
+[hana] “Haru,” Hana said, quieter. “Tsubasa said no heroics.”
+>>> “This is not heroics.”   <-- WHO SAYS THIS?
+“It is exactly heroics with a ruler.”
+He pulled his wrist free.
+```
+```
+Almost.
+[hana] “Haru,” Hana said, quieter. “Tsubasa said no heroics.”
+“This is not heroics.”
+>>> “It is exactly heroics with a ruler.”   <-- WHO SAYS THIS?
+He pulled his wrist free.
+The second seal broke.
+```
+```
+She saw Haru’s hand shake harder.
+Saw qi leaking through microtears along one forearm.
+Saw the skin beneath his collar flush too dark.
+>>> “Haru.”   <-- WHO SAYS THIS?
+No answer.
+“Haru!”
+```
+```
+Saw the skin beneath his collar flush too dark.
+“Haru.”
+No answer.
+>>> “Haru!”   <-- WHO SAYS THIS?
+He struck Yurushi across the ribs.
+Something cracked.
+```
+```
+That hesitation cost her objective time.
+Yurushi coughed blood.
+Still smiled.
+>>> “You always did have terrible timing.”   <-- WHO SAYS THIS?
+Hana’s eyes flashed.
+[hana] “Shut up.”
+```
+```
+“You always did have terrible timing.”
+Hana’s eyes flashed.
+[hana] “Shut up.”
+>>> “Comforting.”   <-- WHO SAYS THIS?
+Haru’s second dose began fading.
+The command archive remained intact.
+```
+```
+Then at his belt.
+One vial left.
+Her face changed.
+>>> “No.”   <-- WHO SAYS THIS?
+Haru’s breathing was ragged.
+His right hand shook visibly now.
+```
+```
+[hana] “I said no.”
+Haru stared at her.
+[haru] “The objective is unfinished.”
+>>> “The objective is lost.”   <-- WHO SAYS THIS?
+“We are one breakthrough from—”
+“You don’t know that.”
+```
+```
+Haru stared at her.
+[haru] “The objective is unfinished.”
+“The objective is lost.”
+>>> “We are one breakthrough from—”   <-- WHO SAYS THIS?
+“You don’t know that.”
+“I do.”
+```
+```
+[haru] “The objective is unfinished.”
+“The objective is lost.”
+“We are one breakthrough from—”
+>>> “You don’t know that.”   <-- WHO SAYS THIS?
+“I do.”
+“No.”
+```
+```
+“The objective is lost.”
+“We are one breakthrough from—”
+“You don’t know that.”
+>>> “I do.”   <-- WHO SAYS THIS?
+“No.”
+Hana’s voice cracked like a blade.
+```
+```
+“We are one breakthrough from—”
+“You don’t know that.”
+“I do.”
+>>> “No.”   <-- WHO SAYS THIS?
+Hana’s voice cracked like a blade.
+[hana] “You know the line you want to be true.”
 ```
 
 ### Chapter 399 — Tae Arrives Before the Crash
@@ -1185,6 +1633,38 @@ He frowned.
 >>> “You were losing.”   <-- WHO SAYS THIS?
 Hana’s voice shook.
 [hana] “And you burned yourself because you couldn’t tolerate the difference.”
+```
+```
+Hana said it now because she was furious enough to name the truth before anyone had a chart.
+Haru closed his eyes.
+[haru] “We need to move.”
+>>> “Yes.”   <-- WHO SAYS THIS?
+“You should leave me if—”
+She slapped him again.
+```
+```
+Haru closed his eyes.
+[haru] “We need to move.”
+“Yes.”
+>>> “You should leave me if—”   <-- WHO SAYS THIS?
+She slapped him again.
+His eyes opened.
+```
+```
+“You should leave me if—”
+She slapped him again.
+His eyes opened.
+>>> “That was less deserved.”   <-- WHO SAYS THIS?
+“No, it wasn’t.”
+Hana got his arm over her shoulder.
+```
+```
+She slapped him again.
+His eyes opened.
+“That was less deserved.”
+>>> “No, it wasn’t.”   <-- WHO SAYS THIS?
+Hana got his arm over her shoulder.
+They moved.
 ```
 ```
 [tae] “How many things are broken?”
@@ -1305,6 +1785,14 @@ Tae felt Yurushi tense slightly at her name.
 >>> “Yes.”   <-- WHO SAYS THIS?
 Tae felt Yurushi tense slightly at her name.
 He ignored that too.
+```
+```
+After a while Yurushi asked, “Why didn’t you chase?”
+Tae stopped.
+Looked at him.
+>>> “Because you were here.”   <-- WHO SAYS THIS?
+Yurushi said nothing.
+Tae continued walking.
 ```
 ```
 Tae pushed him onto it.

@@ -1,6 +1,6 @@
 # Season 110 — unattributed dialogue
 
-293 quoted lines in this season have no speaker.
+468 quoted lines in this season have no speaker.
 See `README.md` in this folder for what to do with them.
 
 Lines already resolved show their speaker in `[brackets]` for context.
@@ -263,6 +263,284 @@ Jin looked at the junior officer.
 Jin looked at the junior officer.
 [jin] “Leave.”
 ```
+```
+The officer escaped.
+Sera watched him go.
+[sera] “You frightened him.”
+>>> “He gave me adjectives.”   <-- WHO SAYS THIS?
+“Monster.”
+Jin pointed to the ledger.
+```
+```
+Sera watched him go.
+[sera] “You frightened him.”
+“He gave me adjectives.”
+>>> “Monster.”   <-- WHO SAYS THIS?
+Jin pointed to the ledger.
+Sera's smile faded as she read.
+```
+```
+Jin pointed to the ledger.
+Sera's smile faded as she read.
+[sera] “That's today?”
+>>> “Yes.”   <-- WHO SAYS THIS?
+“And the second number?”
+“Expected return within seven days.”
+```
+```
+Sera's smile faded as she read.
+[sera] “That's today?”
+“Yes.”
+>>> “And the second number?”   <-- WHO SAYS THIS?
+“Expected return within seven days.”
+She looked up.
+```
+```
+[sera] “That's today?”
+“Yes.”
+“And the second number?”
+>>> “Expected return within seven days.”   <-- WHO SAYS THIS?
+She looked up.
+“That's a lot.”
+```
+```
+“And the second number?”
+“Expected return within seven days.”
+She looked up.
+>>> “That's a lot.”   <-- WHO SAYS THIS?
+“Yes.”
+“How much does it change?”
+```
+```
+“Expected return within seven days.”
+She looked up.
+“That's a lot.”
+>>> “Yes.”   <-- WHO SAYS THIS?
+“How much does it change?”
+Jin picked up the bun.
+```
+```
+She looked up.
+“That's a lot.”
+“Yes.”
+>>> “How much does it change?”   <-- WHO SAYS THIS?
+Jin picked up the bun.
+He stared at it while thinking.
+```
+```
+Jin picked up the bun.
+He stared at it while thinking.
+Then took a bite because Sera would not leave otherwise.
+>>> “It changes everything and not enough.”   <-- WHO SAYS THIS?
+“Very Jin answer.”
+“Shinsei still has more depth. It still has a continental government behind the army. It still controls ports. It can still feed replacement waves into the theater.”
+```
+```
+He stared at it while thinking.
+Then took a bite because Sera would not leave otherwise.
+“It changes everything and not enough.”
+>>> “Very Jin answer.”   <-- WHO SAYS THIS?
+“Shinsei still has more depth. It still has a continental government behind the army. It still controls ports. It can still feed replacement waves into the theater.”
+Sera nodded.
+```
+```
+Then took a bite because Sera would not leave otherwise.
+“It changes everything and not enough.”
+“Very Jin answer.”
+>>> “Shinsei still has more depth. It still has a continental government behind the army. It still controls ports. It can still feed replacement waves into the theater.”   <-- WHO SAYS THIS?
+Sera nodded.
+[sera] “But?”
+```
+```
+“Shinsei still has more depth. It still has a continental government behind the army. It still controls ports. It can still feed replacement waves into the theater.”
+Sera nodded.
+[sera] “But?”
+>>> “But our wounded stop being a permanent slope.”   <-- WHO SAYS THIS?
+He drew two lines on a spare page.
+“One line was us.”
+```
+```
+[sera] “But?”
+“But our wounded stop being a permanent slope.”
+He drew two lines on a spare page.
+>>> “One line was us.”   <-- WHO SAYS THIS?
+Downward.
+“The other was them.”
+```
+```
+He drew two lines on a spare page.
+“One line was us.”
+Downward.
+>>> “The other was them.”   <-- WHO SAYS THIS?
+Flatter.
+“Not because they were not taking losses. Because their system had more replacements and Aya kept returning apex fighters.”
+```
+```
+Downward.
+“The other was them.”
+Flatter.
+>>> “Not because they were not taking losses. Because their system had more replacements and Aya kept returning apex fighters.”   <-- WHO SAYS THIS?
+He drew a third line.
+It climbed.
+```
+```
+“Not because they were not taking losses. Because their system had more replacements and Aya kept returning apex fighters.”
+He drew a third line.
+It climbed.
+>>> “This is the last four days.”   <-- WHO SAYS THIS?
+Sera looked at it.
+Jin continued.
+```
+```
+Sera looked at it.
+Jin continued.
+[jin] “If Rhen remains available, then every battle where Shinsei trades one-for-one becomes worse for Shinsei than it was before. Every time they spend a week removing Lei or Rui, we may get them back in days. Every time they cripple a formation without killing it, the formation may return.”
+>>> “Unless they start killing instead of disabling.”   <-- WHO SAYS THIS?
+Jin looked at her.
+[jin] “Exactly.”
+```
+```
+The room cooled despite the brazier.
+Sera leaned over the map.
+[sera] “Tsubasa will see this.”
+>>> “He will.”   <-- WHO SAYS THIS?
+“He won't keep fighting the same way.”
+“No.”
+```
+```
+Sera leaned over the map.
+[sera] “Tsubasa will see this.”
+“He will.”
+>>> “He won't keep fighting the same way.”   <-- WHO SAYS THIS?
+“No.”
+“Then what does he do?”
+```
+```
+[sera] “Tsubasa will see this.”
+“He will.”
+“He won't keep fighting the same way.”
+>>> “No.”   <-- WHO SAYS THIS?
+“Then what does he do?”
+Jin swallowed the rest of the bun.
+```
+```
+“He will.”
+“He won't keep fighting the same way.”
+“No.”
+>>> “Then what does he do?”   <-- WHO SAYS THIS?
+Jin swallowed the rest of the bun.
+[jin] “Stops paying for wounds.”
+```
+```
+Sera's face went still.
+Jin pointed to three Shinsei fronts.
+[jin] “He contracts. Consolidates. Forces fewer, larger decisions. He stops letting us trade local damage for time because local damage is now reversible.”
+>>> “And the Ten?”   <-- WHO SAYS THIS?
+“He brings them closer.”
+Sera glanced toward the hospital district where the Sanctuary still shimmered faintly over the horizon.
+```
+```
+Jin pointed to three Shinsei fronts.
+[jin] “He contracts. Consolidates. Forces fewer, larger decisions. He stops letting us trade local damage for time because local damage is now reversible.”
+“And the Ten?”
+>>> “He brings them closer.”   <-- WHO SAYS THIS?
+Sera glanced toward the hospital district where the Sanctuary still shimmered faintly over the horizon.
+[sera] “Rhen said the same.”
+```
+```
+“He brings them closer.”
+Sera glanced toward the hospital district where the Sanctuary still shimmered faintly over the horizon.
+[sera] “Rhen said the same.”
+>>> “I know.”   <-- WHO SAYS THIS?
+“You hate that.”
+“I hate when he says sensible things casually.”
+```
+```
+Sera glanced toward the hospital district where the Sanctuary still shimmered faintly over the horizon.
+[sera] “Rhen said the same.”
+“I know.”
+>>> “You hate that.”   <-- WHO SAYS THIS?
+“I hate when he says sensible things casually.”
+Sera smiled.
+```
+```
+[sera] “Rhen said the same.”
+“I know.”
+“You hate that.”
+>>> “I hate when he says sensible things casually.”   <-- WHO SAYS THIS?
+Sera smiled.
+Jin did not.
+```
+```
+Jin did not.
+He moved one black marker south.
+Then another.
+>>> “Tsubasa's best answer is concentration.”   <-- WHO SAYS THIS?
+“His worst?”
+“Panic.”
+```
+```
+He moved one black marker south.
+Then another.
+“Tsubasa's best answer is concentration.”
+>>> “His worst?”   <-- WHO SAYS THIS?
+“Panic.”
+“Will he panic?”
+```
+```
+Then another.
+“Tsubasa's best answer is concentration.”
+“His worst?”
+>>> “Panic.”   <-- WHO SAYS THIS?
+“Will he panic?”
+“No.”
+```
+```
+“Tsubasa's best answer is concentration.”
+“His worst?”
+“Panic.”
+>>> “Will he panic?”   <-- WHO SAYS THIS?
+“No.”
+Jin's answer came without hesitation.
+```
+```
+“His worst?”
+“Panic.”
+“Will he panic?”
+>>> “No.”   <-- WHO SAYS THIS?
+Jin's answer came without hesitation.
+Sera watched him.
+```
+```
+Jin's answer came without hesitation.
+Sera watched him.
+[sera] “You respect him.”
+>>> “I respect competent enemies. Incompetent ones get people killed unpredictably.”   <-- WHO SAYS THIS?
+He looked back at the map.
+“Tsubasa is not stupid. That is why he is dangerous.”
+```
+```
+[sera] “You respect him.”
+“I respect competent enemies. Incompetent ones get people killed unpredictably.”
+He looked back at the map.
+>>> “Tsubasa is not stupid. That is why he is dangerous.”   <-- WHO SAYS THIS?
+Sera folded her arms.
+[sera] “And Rhen?”
+```
+```
+[sera] “And Rhen?”
+Jin looked toward the window.
+Outside, one frost-white petal drifted past, pale violet at the edge.
+>>> “That is why Tsubasa's problem is worse than ours.”   <-- WHO SAYS THIS?
+Sera said nothing.
+Jin turned another page.
+```
+```
+Jin turned another page.
+[jin] “For six months Shinsei was asking whether Wuyue and Isgard could survive the arithmetic.”
+He tapped the new numbers.
+>>> “Now Tsubasa has to ask whether arithmetic still applies.”   <-- WHO SAYS THIS?
+```
 
 ### Chapter 452 — The Healer Was the Myth
 
@@ -459,6 +737,22 @@ Aya was not in the room.
 She was still in the northern theater under the medical arrangements that had grown around prisoner exchange and mass casualty treatment.
 ```
 ```
+He simply asked, “How?”
+Shunto's jaw shifted.
+[shunto] “He is one man.”
+>>> “So is Kai.”   <-- WHO SAYS THIS?
+Kai said nothing.
+[kai] “So are you.”
+```
+```
+“Prepare relocation,” he said.
+Kai looked up.
+[kai] “To Isgard?”
+>>> “Yes.”   <-- WHO SAYS THIS?
+“All of us?” Hana asked.
+Tsubasa looked at every face in the room.
+```
+```
 Haru's eyes narrowed.
 Shunto pushed away from the post.
 [shunto] “That leaves Shinrin exposed.”
@@ -578,6 +872,14 @@ Sera ducked.
 >>> “You are a terrible liar.”   <-- WHO SAYS THIS?
 Jin pointed at the map.
 [jin] “He is doing it.”
+```
+```
+Rhen stood near the window with tea.
+Sera looked between them.
+[sera] “Consolidating.”
+>>> “Yes.”   <-- WHO SAYS THIS?
+Jin marked the abandoned ridges.
+Then the abandoned river camp.
 ```
 ```
 [jin] “And reducing the number of places we can hurt without committing.”
@@ -737,15 +1039,23 @@ Rhen looked up.
 [rhen] “What?”
 >>> “You made a face.”   <-- WHO SAYS THIS?
 “I did not.”
-[jin] “You did.”
+“You did.”
 ```
 ```
 Rhen looked up.
 [rhen] “What?”
 “You made a face.”
 >>> “I did not.”   <-- WHO SAYS THIS?
-[jin] “You did.”
+“You did.”
 Jin said, “He did.”
+```
+```
+[rhen] “What?”
+“You made a face.”
+“I did not.”
+>>> “You did.”   <-- WHO SAYS THIS?
+Jin said, “He did.”
+Rhen looked betrayed.
 ```
 ```
 [sera] “That. That exact face.”
@@ -785,15 +1095,23 @@ Sera rubbed her temple.
 [sera] “You describe ten Paragons concentrating in one theater as organizational improvement.”
 >>> “It is.”   <-- WHO SAYS THIS?
 “For us?”
-[jin] “Yes.”
+“Yes.”
 ```
 ```
 Sera rubbed her temple.
 [sera] “You describe ten Paragons concentrating in one theater as organizational improvement.”
 “It is.”
 >>> “For us?”   <-- WHO SAYS THIS?
-[jin] “Yes.”
+“Yes.”
 Jin muttered something impolite.
+```
+```
+[sera] “You describe ten Paragons concentrating in one theater as organizational improvement.”
+“It is.”
+“For us?”
+>>> “Yes.”   <-- WHO SAYS THIS?
+Jin muttered something impolite.
+Rhen ignored him.
 ```
 ```
 [rhen] “Tsubasa is also making the same calculation.”
@@ -849,7 +1167,7 @@ Tsubasa stopped at the central map.
 “It still is.”
 >>> “Partly.”   <-- WHO SAYS THIS?
 Tsubasa pointed to a casualty column.
-[shunto] “Depth works when damage remains damage.”
+[tsubasa] “Depth works when damage remains damage.”
 ```
 ```
 Shunto said nothing.
@@ -1061,6 +1379,46 @@ He left.
 >>> “Good.”   <-- WHO SAYS THIS?
 He left.
 The clerk waited until the tent flap stopped moving.
+```
+```
+Aya's gaze touched him and moved on.
+Tsubasa held one of her amended reports.
+[tsubasa] “You changed the standard language.”
+>>> “Yes.”   <-- WHO SAYS THIS?
+“Without approval.”
+“Yes.”
+```
+```
+Tsubasa held one of her amended reports.
+[tsubasa] “You changed the standard language.”
+“Yes.”
+>>> “Without approval.”   <-- WHO SAYS THIS?
+“Yes.”
+“Why?”
+```
+```
+[tsubasa] “You changed the standard language.”
+“Yes.”
+“Without approval.”
+>>> “Yes.”   <-- WHO SAYS THIS?
+“Why?”
+“Because it was dishonest.”
+```
+```
+“Yes.”
+“Without approval.”
+“Yes.”
+>>> “Why?”   <-- WHO SAYS THIS?
+“Because it was dishonest.”
+Shunto's mouth curved faintly.
+```
+```
+“Without approval.”
+“Yes.”
+“Why?”
+>>> “Because it was dishonest.”   <-- WHO SAYS THIS?
+Shunto's mouth curved faintly.
+[shunto] “Dishonest.”
 ```
 ```
 Kai looked at the floor.
@@ -1370,6 +1728,190 @@ Lu's face remained calm.
 [luweiran] “No. Rhen makes bad tea when distracted.”
 ```
 ```
+“Rhen has infected you.”
+Lu's face remained calm.
+[luweiran] “No. Rhen makes bad tea when distracted.”
+>>> “That sounded personal.”   <-- WHO SAYS THIS?
+“It is logistical.”
+Yurushi sat.
+```
+```
+Lu's face remained calm.
+[luweiran] “No. Rhen makes bad tea when distracted.”
+“That sounded personal.”
+>>> “It is logistical.”   <-- WHO SAYS THIS?
+Yurushi sat.
+The mountain base was quieter than usual.
+```
+```
+Lu said nothing.
+[luweiran] “I asked her whether Shunto had done it.”
+His jaw tightened.
+>>> “She did not answer directly.”   <-- WHO SAYS THIS?
+Lu's eyes lowered.
+[luweiran] “She did not need to.”
+```
+```
+“She did not answer directly.”
+Lu's eyes lowered.
+[luweiran] “She did not need to.”
+>>> “No.”   <-- WHO SAYS THIS?
+The room became very still.
+Yurushi's hands stayed flat on the table.
+```
+```
+The room became very still.
+Yurushi's hands stayed flat on the table.
+[yurushi] “She wanted the military evidence moved first. Ships. Troop estimates. Redline storage. Paragon sightings. Everything.”
+>>> “Of course she did.”   <-- WHO SAYS THIS?
+“She was dying and still correcting my route priorities.”
+A faint, broken smile touched Yurushi's mouth.
+```
+```
+Yurushi's hands stayed flat on the table.
+[yurushi] “She wanted the military evidence moved first. Ships. Troop estimates. Redline storage. Paragon sightings. Everything.”
+“Of course she did.”
+>>> “She was dying and still correcting my route priorities.”   <-- WHO SAYS THIS?
+A faint, broken smile touched Yurushi's mouth.
+“She told me I was wasting time on the wrong crate.”
+```
+```
+“Of course she did.”
+“She was dying and still correcting my route priorities.”
+A faint, broken smile touched Yurushi's mouth.
+>>> “She told me I was wasting time on the wrong crate.”   <-- WHO SAYS THIS?
+Lu looked down.
+[luweiran] “That sounds like her.”
+```
+```
+“She told me I was wasting time on the wrong crate.”
+Lu looked down.
+[luweiran] “That sounds like her.”
+>>> “You knew her well?”   <-- WHO SAYS THIS?
+“No.”
+Lu's answer was quiet.
+```
+```
+Lu looked down.
+[luweiran] “That sounds like her.”
+“You knew her well?”
+>>> “No.”   <-- WHO SAYS THIS?
+Lu's answer was quiet.
+[luweiran] “But I knew people who did.”
+```
+```
+[luweiran] “Now we write.”
+Yurushi frowned.
+[yurushi] “You said you don't trust messages.”
+>>> “I don't.”   <-- WHO SAYS THIS?
+“Then?”
+“We are not writing one message.”
+```
+```
+Yurushi frowned.
+[yurushi] “You said you don't trust messages.”
+“I don't.”
+>>> “Then?”   <-- WHO SAYS THIS?
+“We are not writing one message.”
+Lu divided the page into four sections.
+```
+```
+[yurushi] “You said you don't trust messages.”
+“I don't.”
+“Then?”
+>>> “We are not writing one message.”   <-- WHO SAYS THIS?
+Lu divided the page into four sections.
+[luweiran] “Military facts go in one packet. Your direct observations in another. Medical inference in a third. Names and route compromise in a fourth.”
+```
+```
+“We are not writing one message.”
+Lu divided the page into four sections.
+[luweiran] “Military facts go in one packet. Your direct observations in another. Medical inference in a third. Names and route compromise in a fourth.”
+>>> “Why split them?”   <-- WHO SAYS THIS?
+“So stealing one does not reveal all of them.”
+He took out four different seals.
+```
+```
+Lu divided the page into four sections.
+[luweiran] “Military facts go in one packet. Your direct observations in another. Medical inference in a third. Names and route compromise in a fourth.”
+“Why split them?”
+>>> “So stealing one does not reveal all of them.”   <-- WHO SAYS THIS?
+He took out four different seals.
+“Two packets move north through ordinary Quaint medical supply traffic. One goes by a Wuyue military courier who does not know the other two exist. The final packet stays with a person.”
+```
+```
+“Why split them?”
+“So stealing one does not reveal all of them.”
+He took out four different seals.
+>>> “Two packets move north through ordinary Quaint medical supply traffic. One goes by a Wuyue military courier who does not know the other two exist. The final packet stays with a person.”   <-- WHO SAYS THIS?
+Yurushi looked at him.
+[yurushi] “What person?”
+```
+```
+Yurushi stared.
+Lu added, “Neither does the person until the final exchange point.”
+[luweiran] “You are unsettling.”
+>>> “Yes.”   <-- WHO SAYS THIS?
+They worked for three hours.
+Lu asked the same question five different ways whenever timing mattered.
+```
+```
+He separated what Yurushi knew from what Yurushi believed.
+He refused to let inference become fact merely because the inference was likely correct.
+When they reached the assault, Lu stopped writing for the first time.
+>>> “Do you know?”   <-- WHO SAYS THIS?
+Yurushi's eyes hardened.
+[yurushi] “Yes.”
+```
+```
+“Do you know?”
+Yurushi's eyes hardened.
+[yurushi] “Yes.”
+>>> “Or infer?”   <-- WHO SAYS THIS?
+“Know enough.”
+Lu held his gaze.
+```
+```
+Yurushi's eyes hardened.
+[yurushi] “Yes.”
+“Or infer?”
+>>> “Know enough.”   <-- WHO SAYS THIS?
+Lu held his gaze.
+Yurushi's voice dropped.
+```
+```
+He sanded the ink.
+Yurushi looked at the words.
+[yurushi] “They look too small.”
+>>> “They are supposed to.”   <-- WHO SAYS THIS?
+“Why?”
+“Because the truth does not become more true if I decorate it.”
+```
+```
+Yurushi looked at the words.
+[yurushi] “They look too small.”
+“They are supposed to.”
+>>> “Why?”   <-- WHO SAYS THIS?
+“Because the truth does not become more true if I decorate it.”
+Yurushi closed his eyes.
+```
+```
+[yurushi] “They look too small.”
+“They are supposed to.”
+“Why?”
+>>> “Because the truth does not become more true if I decorate it.”   <-- WHO SAYS THIS?
+Yurushi closed his eyes.
+Lu folded the sheet.
+```
+```
+Nobody held the whole account except Lu, Yurushi and eventually Sera.
+When the first packet reached Isgard, Sera was reviewing hospital release numbers with Jin.
+A Quaint medic placed the lacquer tube on the table.
+>>> “From Lu.”   <-- WHO SAYS THIS?
+Sera's hand stopped.
+Jin noticed.
+```
+```
 Sera's hand stopped.
 Jin noticed.
 [jin] “What?”
@@ -1580,6 +2122,446 @@ She did not soften the truth into something easier to hear.
 Nothing happened.
 That was the frightening part.
 ```
+```
+Just touching wood.
+Sera watched him.
+[sera] “Luo.”
+>>> “Where is Shunto Takamori?”   <-- WHO SAYS THIS?
+His voice was completely calm.
+Sera had expected anger.
+```
+```
+His voice was completely calm.
+Sera had expected anger.
+This was worse.
+>>> “Tsubasa has consolidated the official Ten in Isgard.”   <-- WHO SAYS THIS?
+“Where?”
+“We do not have exact current camp position yet.”
+```
+```
+Sera had expected anger.
+This was worse.
+“Tsubasa has consolidated the official Ten in Isgard.”
+>>> “Where?”   <-- WHO SAYS THIS?
+“We do not have exact current camp position yet.”
+“Who does?”
+```
+```
+This was worse.
+“Tsubasa has consolidated the official Ten in Isgard.”
+“Where?”
+>>> “We do not have exact current camp position yet.”   <-- WHO SAYS THIS?
+“Who does?”
+“Jin has likely sectors. Lu is working routes. Yurushi's old intelligence helps.”
+```
+```
+“Tsubasa has consolidated the official Ten in Isgard.”
+“Where?”
+“We do not have exact current camp position yet.”
+>>> “Who does?”   <-- WHO SAYS THIS?
+“Jin has likely sectors. Lu is working routes. Yurushi's old intelligence helps.”
+Luo nodded once.
+```
+```
+“Where?”
+“We do not have exact current camp position yet.”
+“Who does?”
+>>> “Jin has likely sectors. Lu is working routes. Yurushi's old intelligence helps.”   <-- WHO SAYS THIS?
+Luo nodded once.
+[luo] “Good.”
+```
+```
+[sera] “Do not disappear.”
+Luo looked at her.
+[luo] “I am not Rhen.”
+>>> “That is not reassuring.”   <-- WHO SAYS THIS?
+“I am a Sovereign.”
+“That is exactly why it isn't reassuring. Shunto is a High Paragon.”
+```
+```
+Luo looked at her.
+[luo] “I am not Rhen.”
+“That is not reassuring.”
+>>> “I am a Sovereign.”   <-- WHO SAYS THIS?
+“That is exactly why it isn't reassuring. Shunto is a High Paragon.”
+Luo's eyes did not change.
+```
+```
+[luo] “I am not Rhen.”
+“That is not reassuring.”
+“I am a Sovereign.”
+>>> “That is exactly why it isn't reassuring. Shunto is a High Paragon.”   <-- WHO SAYS THIS?
+Luo's eyes did not change.
+[luo] “I know.”
+```
+```
+“That is exactly why it isn't reassuring. Shunto is a High Paragon.”
+Luo's eyes did not change.
+[luo] “I know.”
+>>> “Then say what you are thinking.”   <-- WHO SAYS THIS?
+Silence.
+Sera waited.
+```
+```
+Silence.
+Sera waited.
+Finally Luo looked toward the patient charts.
+>>> “I am thinking Yun would be angry if I died stupidly.”   <-- WHO SAYS THIS?
+Sera's chest loosened by one breath.
+[sera] “Yes.”
+```
+```
+“I am thinking Yun would be angry if I died stupidly.”
+Sera's chest loosened by one breath.
+[sera] “Yes.”
+>>> “She would call it inefficient.”   <-- WHO SAYS THIS?
+“Yes.”
+“She would probably correct my poison ratios at the funeral.”
+```
+```
+Sera's chest loosened by one breath.
+[sera] “Yes.”
+“She would call it inefficient.”
+>>> “Yes.”   <-- WHO SAYS THIS?
+“She would probably correct my poison ratios at the funeral.”
+Sera almost smiled.
+```
+```
+[sera] “Yes.”
+“She would call it inefficient.”
+“Yes.”
+>>> “She would probably correct my poison ratios at the funeral.”   <-- WHO SAYS THIS?
+Sera almost smiled.
+Almost.
+```
+```
+Luo's gaze dropped.
+The calm finally cracked—not outward, but inward.
+His face tightened around something he refused to let become sound.
+>>> “She didn't tell me.”   <-- WHO SAYS THIS?
+Sera's throat closed.
+[sera] “She was dying.”
+```
+```
+“She didn't tell me.”
+Sera's throat closed.
+[sera] “She was dying.”
+>>> “I know.”   <-- WHO SAYS THIS?
+“She prioritized the invasion evidence.”
+“I know.”
+```
+```
+Sera's throat closed.
+[sera] “She was dying.”
+“I know.”
+>>> “She prioritized the invasion evidence.”   <-- WHO SAYS THIS?
+“I know.”
+“She may not have wanted her last minutes to become—”
+```
+```
+[sera] “She was dying.”
+“I know.”
+“She prioritized the invasion evidence.”
+>>> “I know.”   <-- WHO SAYS THIS?
+“She may not have wanted her last minutes to become—”
+“I know.”
+```
+```
+“I know.”
+“She prioritized the invasion evidence.”
+“I know.”
+>>> “She may not have wanted her last minutes to become—”   <-- WHO SAYS THIS?
+“I know.”
+The third answer broke.
+```
+```
+“She prioritized the invasion evidence.”
+“I know.”
+“She may not have wanted her last minutes to become—”
+>>> “I know.”   <-- WHO SAYS THIS?
+The third answer broke.
+Luo turned away.
+```
+```
+Sera did not touch him.
+Not yet.
+He stared at the wall.
+>>> “She knew I would ask.”   <-- WHO SAYS THIS?
+Sera said nothing.
+[sera] “She knew I would know something was missing.”
+```
+```
+Sera said nothing.
+[sera] “She knew I would know something was missing.”
+His shoulders moved once.
+>>> “She still spent the time on troop counts.”   <-- WHO SAYS THIS?
+“That was Yun.”
+“Yes.”
+```
+```
+[sera] “She knew I would know something was missing.”
+His shoulders moved once.
+“She still spent the time on troop counts.”
+>>> “That was Yun.”   <-- WHO SAYS THIS?
+“Yes.”
+Luo laughed once.
+```
+```
+His shoulders moved once.
+“She still spent the time on troop counts.”
+“That was Yun.”
+>>> “Yes.”   <-- WHO SAYS THIS?
+Luo laughed once.
+It was not humor.
+```
+```
+“Yes.”
+Luo laughed once.
+It was not humor.
+>>> “She corrected my silverroot notation before leaving.”   <-- WHO SAYS THIS?
+Sera remembered the tiny note in the notebook.
+Tea owed.
+```
+```
+Ordinary nonsense beside a war.
+Luo closed his eyes.
+[luo] “Did Yurushi save her?”
+>>> “He helped her escape.”   <-- WHO SAYS THIS?
+“That wasn't the question.”
+Sera looked at him.
+```
+```
+Luo closed his eyes.
+[luo] “Did Yurushi save her?”
+“He helped her escape.”
+>>> “That wasn't the question.”   <-- WHO SAYS THIS?
+Sera looked at him.
+Luo opened his eyes.
+```
+```
+Sera looked at him.
+Luo opened his eyes.
+[luo] “Did he save her from him?”
+>>> “He got her out after.”   <-- WHO SAYS THIS?
+Luo nodded.
+[luo] “He did what he could.”
+```
+```
+“He got her out after.”
+Luo nodded.
+[luo] “He did what he could.”
+>>> “Yes.”   <-- WHO SAYS THIS?
+“Then I owe him.”
+“You do not owe him revenge.”
+```
+```
+Luo nodded.
+[luo] “He did what he could.”
+“Yes.”
+>>> “Then I owe him.”   <-- WHO SAYS THIS?
+“You do not owe him revenge.”
+“I did not say revenge.”
+```
+```
+[luo] “He did what he could.”
+“Yes.”
+“Then I owe him.”
+>>> “You do not owe him revenge.”   <-- WHO SAYS THIS?
+“I did not say revenge.”
+“No.”
+```
+```
+“Yes.”
+“Then I owe him.”
+“You do not owe him revenge.”
+>>> “I did not say revenge.”   <-- WHO SAYS THIS?
+“No.”
+Sera studied him.
+```
+```
+“Then I owe him.”
+“You do not owe him revenge.”
+“I did not say revenge.”
+>>> “No.”   <-- WHO SAYS THIS?
+Sera studied him.
+[sera] “That worries me more.”
+```
+```
+[sera] “That worries me more.”
+Luo finally looked directly at her.
+[luo] “What do you want me to do?”
+>>> “Keep being a doctor.”   <-- WHO SAYS THIS?
+His face went blank.
+Sera continued.
+```
+```
+His face went blank.
+Sera continued.
+[sera] “I am not asking you to forgive Shunto.”
+>>> “Good.”   <-- WHO SAYS THIS?
+“I am not asking you to forget.”
+“Good.”
+```
+```
+Sera continued.
+[sera] “I am not asking you to forgive Shunto.”
+“Good.”
+>>> “I am not asking you to forget.”   <-- WHO SAYS THIS?
+“Good.”
+“I am asking you not to let him choose what you become next.”
+```
+```
+[sera] “I am not asking you to forgive Shunto.”
+“Good.”
+“I am not asking you to forget.”
+>>> “Good.”   <-- WHO SAYS THIS?
+“I am asking you not to let him choose what you become next.”
+Luo looked away.
+```
+```
+“Good.”
+“I am not asking you to forget.”
+“Good.”
+>>> “I am asking you not to let him choose what you become next.”   <-- WHO SAYS THIS?
+Luo looked away.
+The silence stretched.
+```
+```
+Then he asked, “Did Rhen tell you to say that?”
+Sera's eyebrows rose.
+[sera] “No.”
+>>> “He would.”   <-- WHO SAYS THIS?
+“He'd say it worse.”
+That earned the faintest movement at the corner of Luo's mouth.
+```
+```
+Sera's eyebrows rose.
+[sera] “No.”
+“He would.”
+>>> “He'd say it worse.”   <-- WHO SAYS THIS?
+That earned the faintest movement at the corner of Luo's mouth.
+Sera stepped closer.
+```
+```
+[sera] “When the time comes, you will not face him alone.”
+Luo's gaze sharpened.
+[luo] “Sera.”
+>>> “No.”   <-- WHO SAYS THIS?
+“You don't even know what I was going to say.”
+“Yes, I do. You were going to tell me this is personal.”
+```
+```
+Luo's gaze sharpened.
+[luo] “Sera.”
+“No.”
+>>> “You don't even know what I was going to say.”   <-- WHO SAYS THIS?
+“Yes, I do. You were going to tell me this is personal.”
+“It is.”
+```
+```
+[luo] “Sera.”
+“No.”
+“You don't even know what I was going to say.”
+>>> “Yes, I do. You were going to tell me this is personal.”   <-- WHO SAYS THIS?
+“It is.”
+“So was Yun.”
+```
+```
+“No.”
+“You don't even know what I was going to say.”
+“Yes, I do. You were going to tell me this is personal.”
+>>> “It is.”   <-- WHO SAYS THIS?
+“So was Yun.”
+He stopped.
+```
+```
+“You don't even know what I was going to say.”
+“Yes, I do. You were going to tell me this is personal.”
+“It is.”
+>>> “So was Yun.”   <-- WHO SAYS THIS?
+He stopped.
+Sera held his gaze.
+```
+```
+Two handwriting styles arguing across paper.
+Luo traced one line with his thumb.
+[luo] “She hated this version.”
+>>> “Why?”   <-- WHO SAYS THIS?
+“She said I was thinking like a doctor.”
+Sera blinked.
+```
+```
+Luo traced one line with his thumb.
+[luo] “She hated this version.”
+“Why?”
+>>> “She said I was thinking like a doctor.”   <-- WHO SAYS THIS?
+Sera blinked.
+[sera] “You are a doctor.”
+```
+```
+“She said I was thinking like a doctor.”
+Sera blinked.
+[sera] “You are a doctor.”
+>>> “Yes. She found that disappointing whenever poison was involved.”   <-- WHO SAYS THIS?
+Sera laughed softly.
+Luo did too.
+```
+```
+“Where is Shunto Takamori?” he asked again.
+Sera did not mistake the repetition for obsession.
+This time it was a practical question.
+>>> “We'll find out.”   <-- WHO SAYS THIS?
+Luo nodded.
+[luo] “And until then?”
+```
+```
+The third was an Isgard child injured in a supply-road collapse.
+Luo picked them up.
+His hands were steady.
+>>> “Fine.”   <-- WHO SAYS THIS?
+He stood.
+At the door he stopped.
+```
+```
+“Fine.”
+He stood.
+At the door he stopped.
+>>> “Sera.”   <-- WHO SAYS THIS?
+“Yes?”
+“Thank you for telling me yourself.”
+```
+```
+He stood.
+At the door he stopped.
+“Sera.”
+>>> “Yes?”   <-- WHO SAYS THIS?
+“Thank you for telling me yourself.”
+She nodded.
+```
+```
+At the door he stopped.
+“Sera.”
+“Yes?”
+>>> “Thank you for telling me yourself.”   <-- WHO SAYS THIS?
+She nodded.
+Luo opened the door.
+```
+```
+She nodded.
+Luo opened the door.
+Then paused one last time.
+>>> “When we find him, do not let Rhen erase the problem in one punch.”   <-- WHO SAYS THIS?
+Sera looked at him.
+Despite everything, something almost wicked entered her eyes.
+```
+```
+“When we find him, do not let Rhen erase the problem in one punch.”
+Sera looked at him.
+Despite everything, something almost wicked entered her eyes.
+>>> “I wasn't planning to.”   <-- WHO SAYS THIS?
+Luo nodded.
+[luo] “Good.”
+```
 
 ### Chapter 457 — Hana's Changed Patrol
 
@@ -1662,6 +2644,158 @@ Hana looked at him.
 >>> “That one opened Yurushi's escape corridor.”   <-- WHO SAYS THIS?
 Hana looked at him.
 [hana] “So?”
+```
+```
+[shunto] “You tell me.”
+Hana put the paper down.
+[hana] “I issued a broad patrol rebalance after reports of grain-road disruption.”
+>>> “The reports were false.”   <-- WHO SAYS THIS?
+“I learned that later.”
+“You didn't verify them.”
+```
+```
+Hana put the paper down.
+[hana] “I issued a broad patrol rebalance after reports of grain-road disruption.”
+“The reports were false.”
+>>> “I learned that later.”   <-- WHO SAYS THIS?
+“You didn't verify them.”
+“It was a field deployment, not a tribunal.”
+```
+```
+[hana] “I issued a broad patrol rebalance after reports of grain-road disruption.”
+“The reports were false.”
+“I learned that later.”
+>>> “You didn't verify them.”   <-- WHO SAYS THIS?
+“It was a field deployment, not a tribunal.”
+“Convenient.”
+```
+```
+“The reports were false.”
+“I learned that later.”
+“You didn't verify them.”
+>>> “It was a field deployment, not a tribunal.”   <-- WHO SAYS THIS?
+“Convenient.”
+Hana's eyes cooled.
+```
+```
+“I learned that later.”
+“You didn't verify them.”
+“It was a field deployment, not a tribunal.”
+>>> “Convenient.”   <-- WHO SAYS THIS?
+Hana's eyes cooled.
+[hana] “Be careful.”
+```
+```
+[hana] “Be careful.”
+Shunto almost laughed.
+[shunto] “Of what?”
+>>> “Confusing suspicion with proof.”   <-- WHO SAYS THIS?
+The words landed harder than they should have.
+Shunto stood.
+```
+```
+Shunto stood.
+Hana did not move.
+[hana] “You were with Yurushi for four years.”
+>>> “Yes.”   <-- WHO SAYS THIS?
+“You knew his civilian routes.”
+“Some.”
+```
+```
+Hana did not move.
+[hana] “You were with Yurushi for four years.”
+“Yes.”
+>>> “You knew his civilian routes.”   <-- WHO SAYS THIS?
+“Some.”
+“You knew how he thought.”
+```
+```
+[hana] “You were with Yurushi for four years.”
+“Yes.”
+“You knew his civilian routes.”
+>>> “Some.”   <-- WHO SAYS THIS?
+“You knew how he thought.”
+“Yes.”
+```
+```
+“Yes.”
+“You knew his civilian routes.”
+“Some.”
+>>> “You knew how he thought.”   <-- WHO SAYS THIS?
+“Yes.”
+“You knew he would help Yun.”
+```
+```
+“You knew his civilian routes.”
+“Some.”
+“You knew how he thought.”
+>>> “Yes.”   <-- WHO SAYS THIS?
+“You knew he would help Yun.”
+“No.”
+```
+```
+“Some.”
+“You knew how he thought.”
+“Yes.”
+>>> “You knew he would help Yun.”   <-- WHO SAYS THIS?
+“No.”
+A pause.
+```
+```
+“You knew how he thought.”
+“Yes.”
+“You knew he would help Yun.”
+>>> “No.”   <-- WHO SAYS THIS?
+A pause.
+Shunto's eyes sharpened.
+```
+```
+Not innocence either.
+Shunto stepped closer.
+[shunto] “How much did you know?”
+>>> “Enough to know your lockdown was hurting civilians who had nothing to do with Yun.”   <-- WHO SAYS THIS?
+“That is not what I asked.”
+“It is what I am answering.”
+```
+```
+Shunto stepped closer.
+[shunto] “How much did you know?”
+“Enough to know your lockdown was hurting civilians who had nothing to do with Yun.”
+>>> “That is not what I asked.”   <-- WHO SAYS THIS?
+“It is what I am answering.”
+His qi shifted.
+```
+```
+[shunto] “How much did you know?”
+“Enough to know your lockdown was hurting civilians who had nothing to do with Yun.”
+“That is not what I asked.”
+>>> “It is what I am answering.”   <-- WHO SAYS THIS?
+His qi shifted.
+Not a Domain.
+```
+```
+Wind Qi stirred lightly around her sleeves.
+Shunto noticed.
+[shunto] “So defensive.”
+>>> “So predictable.”   <-- WHO SAYS THIS?
+For one breath they stood close enough that either could start something neither could later call misunderstanding.
+Then a voice came from the entrance.
+```
+```
+“So predictable.”
+For one breath they stood close enough that either could start something neither could later call misunderstanding.
+Then a voice came from the entrance.
+>>> “Enough.”   <-- WHO SAYS THIS?
+Nao Shibasaki stood in the doorway.
+Neither had heard her approach.
+```
+```
+That irritated Shunto.
+Nao entered.
+Her hand rested nowhere near her jian.
+>>> “Lady Arakawa is due in the eastern civilian sector.”   <-- WHO SAYS THIS?
+Shunto looked at her.
+[shunto] “I did not dismiss her.”
 ```
 ```
 [shunto] “I did not dismiss her.”
@@ -1763,7 +2897,95 @@ The use of names instead of titles removed the last excuse to treat this as proc
 Tsubasa sat across from him.
 ```
 ```
-[tsubasa] “I need your opinion.”
+His expression did not change.
+Tsubasa watched him anyway.
+[tsubasa] “Yun Shizhen.”
+>>> “Yes.”   <-- WHO SAYS THIS?
+“Her final detention site.”
+“Yes.”
+```
+```
+Tsubasa watched him anyway.
+[tsubasa] “Yun Shizhen.”
+“Yes.”
+>>> “Her final detention site.”   <-- WHO SAYS THIS?
+“Yes.”
+“Your custody.”
+```
+```
+[tsubasa] “Yun Shizhen.”
+“Yes.”
+“Her final detention site.”
+>>> “Yes.”   <-- WHO SAYS THIS?
+“Your custody.”
+“Yes.”
+```
+```
+“Yes.”
+“Her final detention site.”
+“Yes.”
+>>> “Your custody.”   <-- WHO SAYS THIS?
+“Yes.”
+Tsubasa folded his hands.
+```
+```
+“Her final detention site.”
+“Yes.”
+“Your custody.”
+>>> “Yes.”   <-- WHO SAYS THIS?
+Tsubasa folded his hands.
+[tsubasa] “I am going to ask once.”
+```
+```
+[tsubasa] “I am going to ask once.”
+Shunto leaned back.
+[shunto] “Dramatic.”
+>>> “No.”   <-- WHO SAYS THIS?
+Tsubasa's voice remained even.
+[tsubasa] “Efficient.”
+```
+```
+That was almost insulting.
+“No follow-up?” Shunto said.
+[shunto] “I said once.”
+>>> “You came here for one question.”   <-- WHO SAYS THIS?
+“Yes.”
+“And you believe me?”
+```
+```
+“No follow-up?” Shunto said.
+[shunto] “I said once.”
+“You came here for one question.”
+>>> “Yes.”   <-- WHO SAYS THIS?
+“And you believe me?”
+Tsubasa stood.
+```
+```
+[shunto] “I said once.”
+“You came here for one question.”
+“Yes.”
+>>> “And you believe me?”   <-- WHO SAYS THIS?
+Tsubasa stood.
+[tsubasa] “I did not say that.”
+```
+```
+Shunto's custody report.
+Tsubasa reached Aya's hospital tent.
+She was washing blood from her hands.
+>>> “Tsubasa.”   <-- WHO SAYS THIS?
+“I need your opinion.”
+Aya looked suspicious immediately.
+```
+```
+Tsubasa reached Aya's hospital tent.
+She was washing blood from her hands.
+“Tsubasa.”
+>>> “I need your opinion.”   <-- WHO SAYS THIS?
+Aya looked suspicious immediately.
+[aya] “Medical?”
+```
+```
+“I need your opinion.”
 Aya looked suspicious immediately.
 [aya] “Medical?”
 >>> “Yes.”   <-- WHO SAYS THIS?
@@ -2036,6 +3258,30 @@ Nao closed the door.
 [nao] “Can we please finish before someone notices three members of the official Ten entering an abandoned grain office at midnight?”
 ```
 ```
+[nao] “Can we please finish before someone notices three members of the official Ten entering an abandoned grain office at midnight?”
+Hana looked at her.
+[hana] “That does sound suspicious when you say it like that.”
+>>> “It is suspicious.”   <-- WHO SAYS THIS?
+Aya rubbed her temple.
+[aya] “We are not overthrowing Shinsei.”
+```
+```
+[aya] “We are not overthrowing Shinsei.”
+“No,” Hana said.
+[hana] “We are not sabotaging the army.”
+>>> “No.”   <-- WHO SAYS THIS?
+“We are not helping Wuyue win battles.”
+Nao hesitated.
+```
+```
+“No,” Hana said.
+[hana] “We are not sabotaging the army.”
+“No.”
+>>> “We are not helping Wuyue win battles.”   <-- WHO SAYS THIS?
+Nao hesitated.
+Aya looked at her.
+```
+```
 Aya took out three sheets.
 [aya] “First. Redline.”
 She pushed copies across the table.
@@ -2156,6 +3402,14 @@ Hana looked pleased.
 Nao ignored them.
 ```
 ```
+[hana] “Shunto is reconstructing Yurushi's routes. He found my old patrol change.”
+Nao's eyes narrowed.
+[nao] “How much?”
+>>> “Enough to suspect. Not enough to prove I knew Yun would use that road.”   <-- WHO SAYS THIS?
+“Did you?” Aya asked.
+[aya] “No.”
+```
+```
 Hana's answer came cleanly.
 [hana] “I knew civilians were being crushed by the lockdown. I knew Yurushi would resist if he believed Shinsei crossed a line. I shifted patrol pressure because the grain road did not need military harassment.”
 She looked at the table.
@@ -2212,6 +3466,14 @@ Aya looked at both.
 [aya] “This is policy.”
 ```
 ```
+[aya] “This is policy.”
+Hana's mouth twisted.
+[hana] “Yes.”
+>>> “We have no authority to rewrite policy.”   <-- WHO SAYS THIS?
+Nao said, “We have authority over our own departments.”
+Aya looked at her.
+```
+```
 [nao] “That is irrelevant.”
 Aya smiled.
 [aya] “So yes.”
@@ -2237,6 +3499,142 @@ He understood instantly.
 >>> “What is this?”   <-- WHO SAYS THIS?
 Tsubasa did not invite him to sit.
 [tsubasa] “Shunto Takamori.”
+```
+```
+[tsubasa] “You concealed material abuse committed against Yun Shizhen while she was under Shinsei custody.”
+Shunto's face hardened.
+[shunto] “You are accepting enemy reconstruction as fact.”
+>>> “No.”   <-- WHO SAYS THIS?
+“A frightened guard?”
+“No.”
+```
+```
+Shunto's face hardened.
+[shunto] “You are accepting enemy reconstruction as fact.”
+“No.”
+>>> “A frightened guard?”   <-- WHO SAYS THIS?
+“No.”
+“Then what?”
+```
+```
+[shunto] “You are accepting enemy reconstruction as fact.”
+“No.”
+“A frightened guard?”
+>>> “No.”   <-- WHO SAYS THIS?
+“Then what?”
+Tsubasa looked at him.
+```
+```
+“No.”
+“A frightened guard?”
+“No.”
+>>> “Then what?”   <-- WHO SAYS THIS?
+Tsubasa looked at him.
+[tsubasa] “Your lie.”
+```
+```
+Shunto's jaw tightened.
+Tsubasa continued.
+[tsubasa] “I asked whether anything material was omitted.”
+>>> “You asked a vague question about a chaotic detention.”   <-- WHO SAYS THIS?
+“I asked once so there would be no confusion.”
+“You came to me having already decided.”
+```
+```
+Tsubasa continued.
+[tsubasa] “I asked whether anything material was omitted.”
+“You asked a vague question about a chaotic detention.”
+>>> “I asked once so there would be no confusion.”   <-- WHO SAYS THIS?
+“You came to me having already decided.”
+“No.”
+```
+```
+[tsubasa] “I asked whether anything material was omitted.”
+“You asked a vague question about a chaotic detention.”
+“I asked once so there would be no confusion.”
+>>> “You came to me having already decided.”   <-- WHO SAYS THIS?
+“No.”
+For the first time, Tsubasa's voice sharpened.
+```
+```
+“You asked a vague question about a chaotic detention.”
+“I asked once so there would be no confusion.”
+“You came to me having already decided.”
+>>> “No.”   <-- WHO SAYS THIS?
+For the first time, Tsubasa's voice sharpened.
+“I came to you hoping the man in the report was not the man sitting in front of me.”
+```
+```
+“You came to me having already decided.”
+“No.”
+For the first time, Tsubasa's voice sharpened.
+>>> “I came to you hoping the man in the report was not the man sitting in front of me.”   <-- WHO SAYS THIS?
+The pavilion went still.
+Shunto laughed once.
+```
+```
+The pavilion went still.
+Shunto laughed once.
+Cold.
+>>> “You're doing this now.”   <-- WHO SAYS THIS?
+“Yes.”
+“During a war.”
+```
+```
+Shunto laughed once.
+Cold.
+“You're doing this now.”
+>>> “Yes.”   <-- WHO SAYS THIS?
+“During a war.”
+“Yes.”
+```
+```
+Cold.
+“You're doing this now.”
+“Yes.”
+>>> “During a war.”   <-- WHO SAYS THIS?
+“Yes.”
+“With Rhen active.”
+```
+```
+“You're doing this now.”
+“Yes.”
+“During a war.”
+>>> “Yes.”   <-- WHO SAYS THIS?
+“With Rhen active.”
+“Yes.”
+```
+```
+“Yes.”
+“During a war.”
+“Yes.”
+>>> “With Rhen active.”   <-- WHO SAYS THIS?
+“Yes.”
+“With Wuyue at the gate.”
+```
+```
+“During a war.”
+“Yes.”
+“With Rhen active.”
+>>> “Yes.”   <-- WHO SAYS THIS?
+“With Wuyue at the gate.”
+“Yes.”
+```
+```
+“Yes.”
+“With Rhen active.”
+“Yes.”
+>>> “With Wuyue at the gate.”   <-- WHO SAYS THIS?
+“Yes.”
+Shunto looked around the room.
+```
+```
+“With Rhen active.”
+“Yes.”
+“With Wuyue at the gate.”
+>>> “Yes.”   <-- WHO SAYS THIS?
+Shunto looked around the room.
+[shunto] “Do any of you understand what happens if No.2 is publicly stripped while the state is fighting for survival?”
 ```
 ```
 Tsubasa nodded once.

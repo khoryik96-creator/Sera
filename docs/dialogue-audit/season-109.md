@@ -1,6 +1,6 @@
 # Season 109 — unattributed dialogue
 
-420 quoted lines in this season have no speaker.
+555 quoted lines in this season have no speaker.
 See `README.md` in this folder for what to do with them.
 
 Lines already resolved show their speaker in `[brackets]` for context.
@@ -60,6 +60,70 @@ He did not open it.
 Rhen waited.
 Outside the chamber, someone shifted weight and then became perfectly still again. The guard detail had heard his voice. Lu could feel that much without needing a martial sense.
 ```
+```
+Because that was the first thing Rhen chose to say after learning a friend had died while he slept.
+Rhen looked toward the sealed door.
+[rhen] “When?”
+>>> “The day after you entered.”   <-- WHO SAYS THIS?
+That one landed harder.
+Lu saw it because Rhen's face became completely still.
+```
+```
+That one landed harder.
+Lu saw it because Rhen's face became completely still.
+[luweiran] “One day.”
+>>> “Yes.”   <-- WHO SAYS THIS?
+If Sera had brought the news twenty-four hours earlier, Rhen would have been standing in Isgard before Yun's body cooled.
+If Yun had arrived twenty-four hours later, nothing would have changed.
+```
+```
+[luweiran] “About five years for a standard three-times dose,” Lu said. “Healthy-adult average. More if redosed. Much more if repeated inside a day.”
+Rhen's gaze dropped to the ledger.
+[rhen] “Can Aya heal the damage?”
+>>> “The physical damage, yes. She's a Paragon physician.”   <-- WHO SAYS THIS?
+“The lifespan?”
+“No.”
+```
+```
+Rhen's gaze dropped to the ledger.
+[rhen] “Can Aya heal the damage?”
+“The physical damage, yes. She's a Paragon physician.”
+>>> “The lifespan?”   <-- WHO SAYS THIS?
+“No.”
+Rhen was quiet for several breaths.
+```
+```
+[rhen] “Can Aya heal the damage?”
+“The physical damage, yes. She's a Paragon physician.”
+“The lifespan?”
+>>> “No.”   <-- WHO SAYS THIS?
+Rhen was quiet for several breaths.
+[rhen] “Neither can I.”
+```
+```
+Sera had stitched one of the inner tears herself because she had said the apprentices made the seam too neat and he would complain.
+Rhen put it on.
+His fingers paused against the repaired lining.
+>>> “Did she do this?”   <-- WHO SAYS THIS?
+Lu considered lying.
+It would have been kinder.
+```
+```
+“Did she do this?”
+Lu considered lying.
+It would have been kinder.
+>>> “She did it the night before you went in.”   <-- WHO SAYS THIS?
+Rhen's thumb rested against the stitch once.
+Then he let the coat fall closed.
+```
+```
+“She did it the night before you went in.”
+Rhen's thumb rested against the stitch once.
+Then he let the coat fall closed.
+>>> “Tell me everything.”   <-- WHO SAYS THIS?
+Lu looked toward the chamber door.
+[luweiran] “Everything will take a while.”
+```
 
 ### Chapter 442 — Six Months of Names
 
@@ -87,6 +151,678 @@ Lu looked at him.
 Lu looked at him.
 Rhen looked completely serious.
 ```
+```
+“Yun died on Day Zero,” he said.
+Rhen stood at the table.
+[rhen] “Day Zero?”
+>>> “Jin's naming. Easier for planning.”   <-- WHO SAYS THIS?
+Rhen's eyes moved over the board.
+[rhen] “Of course it is.”
+```
+```
+[luweiran] “Her warning reached Wuyue immediately. The defensive pact activated. You had entered seclusion the previous day, and Sera reached your chamber before the first full war council.”
+Rhen's gaze stayed on the coast.
+[rhen] “She didn't wake me.”
+>>> “No.”   <-- WHO SAYS THIS?
+“Good.”
+Lu looked at him.
+```
+```
+Rhen's gaze stayed on the coast.
+[rhen] “She didn't wake me.”
+“No.”
+>>> “Good.”   <-- WHO SAYS THIS?
+Lu looked at him.
+Rhen finally looked back.
+```
+```
+He did not insult it by wishing she had chosen differently.
+Lu moved to the next marker.
+[luweiran] “Shinsei attacked in roughly two weeks. Yun had placed them late in a four-month readiness cycle; the remaining launch window was already measured in weeks. Once her warning got out, Tsubasa cut even that down.”
+>>> “Tsubasa.”   <-- WHO SAYS THIS?
+“Shinsei Number One. Peak Paragon.”
+Rhen's eyes moved to the name.
+```
+```
+Lu moved to the next marker.
+[luweiran] “Shinsei attacked in roughly two weeks. Yun had placed them late in a four-month readiness cycle; the remaining launch window was already measured in weeks. Once her warning got out, Tsubasa cut even that down.”
+“Tsubasa.”
+>>> “Shinsei Number One. Peak Paragon.”   <-- WHO SAYS THIS?
+Rhen's eyes moved to the name.
+[rhen] “Strong?”
+```
+```
+“Shinsei Number One. Peak Paragon.”
+Rhen's eyes moved to the name.
+[rhen] “Strong?”
+>>> “Yes.”   <-- WHO SAYS THIS?
+“How strong?”
+“Enough that nobody who has met him speaks casually about it.”
+```
+```
+Rhen's eyes moved to the name.
+[rhen] “Strong?”
+“Yes.”
+>>> “How strong?”   <-- WHO SAYS THIS?
+“Enough that nobody who has met him speaks casually about it.”
+Rhen nodded once.
+```
+```
+[rhen] “Strong?”
+“Yes.”
+“How strong?”
+>>> “Enough that nobody who has met him speaks casually about it.”   <-- WHO SAYS THIS?
+Rhen nodded once.
+That was apparently sufficient.
+```
+```
+Lu continued.
+[luweiran] “The first landing force was around twenty-five thousand. Five official Paragons.”
+He tapped five markers.
+>>> “Eirik Voss. Aya Katsuragi. Kenji Narukami. Jun Kajihara. Nao Shibasaki.”   <-- WHO SAYS THIS?
+Rhen's gaze stopped on the first.
+[rhen] “Voss.”
+```
+```
+“Eirik Voss. Aya Katsuragi. Kenji Narukami. Jun Kajihara. Nao Shibasaki.”
+Rhen's gaze stopped on the first.
+[rhen] “Voss.”
+>>> “Former ruler of Isgard.”   <-- WHO SAYS THIS?
+That made Rhen look up.
+Lu explained.
+```
+```
+Lu did not soften those either.
+[luweiran] “Halvek Veyrhald died holding an evacuation road.”
+A marker came off the board.
+>>> “Raska Dravaryn died covering a retreat.”   <-- WHO SAYS THIS?
+Another.
+“Tor Veyrhald survived, but his meridians are destroyed badly enough that his frontline career is over.”
+```
+```
+A marker came off the board.
+“Raska Dravaryn died covering a retreat.”
+Another.
+>>> “Tor Veyrhald survived, but his meridians are destroyed badly enough that his frontline career is over.”   <-- WHO SAYS THIS?
+Another marker moved back from the line.
+“Eldran Dravaryn survived. Crippled. He took a killing sequence meant for Maedra.”
+```
+```
+Another.
+“Tor Veyrhald survived, but his meridians are destroyed badly enough that his frontline career is over.”
+Another marker moved back from the line.
+>>> “Eldran Dravaryn survived. Crippled. He took a killing sequence meant for Maedra.”   <-- WHO SAYS THIS?
+Rhen's hand rested lightly on the table edge.
+[rhen] “Aldric?”
+```
+```
+“Eldran Dravaryn survived. Crippled. He took a killing sequence meant for Maedra.”
+Rhen's hand rested lightly on the table edge.
+[rhen] “Aldric?”
+>>> “Critically injured.”   <-- WHO SAYS THIS?
+“Maedra?”
+“Same.”
+```
+```
+Rhen's hand rested lightly on the table edge.
+[rhen] “Aldric?”
+“Critically injured.”
+>>> “Maedra?”   <-- WHO SAYS THIS?
+“Same.”
+“Sigrun?”
+```
+```
+[rhen] “Aldric?”
+“Critically injured.”
+“Maedra?”
+>>> “Same.”   <-- WHO SAYS THIS?
+“Sigrun?”
+“Nearly died holding an evacuation corridor after becoming Paragon.”
+```
+```
+“Critically injured.”
+“Maedra?”
+“Same.”
+>>> “Sigrun?”   <-- WHO SAYS THIS?
+“Nearly died holding an evacuation corridor after becoming Paragon.”
+Rhen looked at Lu.
+```
+```
+“Maedra?”
+“Same.”
+“Sigrun?”
+>>> “Nearly died holding an evacuation corridor after becoming Paragon.”   <-- WHO SAYS THIS?
+Rhen looked at Lu.
+[rhen] “She reached Paragon?”
+```
+```
+“Nearly died holding an evacuation corridor after becoming Paragon.”
+Rhen looked at Lu.
+[rhen] “She reached Paragon?”
+>>> “Recently. Graven Dominion.”   <-- WHO SAYS THIS?
+A faint smile touched Rhen's mouth.
+“Good for her.”
+```
+```
+[rhen] “She reached Paragon?”
+“Recently. Graven Dominion.”
+A faint smile touched Rhen's mouth.
+>>> “Good for her.”   <-- WHO SAYS THIS?
+Lu almost told him that Sigrun had then used that new Dominion to keep moving while her body accumulated damage it should not have survived.
+He decided that could wait five seconds.
+```
+```
+[rhen] “Right.”
+There were days when Lu suspected his entire purpose in life was making sure powerful people remembered that logistics existed before they urgently needed it.
+He moved the Wuyue markers north.
+>>> “Wuyue arrived after roughly six weeks.”   <-- WHO SAYS THIS?
+“All ten?”
+“All ten public Top Ten.”
+```
+```
+There were days when Lu suspected his entire purpose in life was making sure powerful people remembered that logistics existed before they urgently needed it.
+He moved the Wuyue markers north.
+“Wuyue arrived after roughly six weeks.”
+>>> “All ten?”   <-- WHO SAYS THIS?
+“All ten public Top Ten.”
+“Sera?”
+```
+```
+He moved the Wuyue markers north.
+“Wuyue arrived after roughly six weeks.”
+“All ten?”
+>>> “All ten public Top Ten.”   <-- WHO SAYS THIS?
+“Sera?”
+“Yes.”
+```
+```
+“Wuyue arrived after roughly six weeks.”
+“All ten?”
+“All ten public Top Ten.”
+>>> “Sera?”   <-- WHO SAYS THIS?
+“Yes.”
+“How many?”
+```
+```
+“All ten?”
+“All ten public Top Ten.”
+“Sera?”
+>>> “Yes.”   <-- WHO SAYS THIS?
+“How many?”
+“About sixty-four thousand public troops, plus Sera's one hundred twenty Quaint Hands.”
+```
+```
+“All ten public Top Ten.”
+“Sera?”
+“Yes.”
+>>> “How many?”   <-- WHO SAYS THIS?
+“About sixty-four thousand public troops, plus Sera's one hundred twenty Quaint Hands.”
+Rhen's eyes narrowed slightly.
+```
+```
+“Sera?”
+“Yes.”
+“How many?”
+>>> “About sixty-four thousand public troops, plus Sera's one hundred twenty Quaint Hands.”   <-- WHO SAYS THIS?
+Rhen's eyes narrowed slightly.
+[rhen] “Only one hundred twenty?”
+```
+```
+“About sixty-four thousand public troops, plus Sera's one hundred twenty Quaint Hands.”
+Rhen's eyes narrowed slightly.
+[rhen] “Only one hundred twenty?”
+>>> “She left the rest home.”   <-- WHO SAYS THIS?
+“Smart.”
+“She also left Tae, Huo and Qin.”
+```
+```
+Rhen's eyes narrowed slightly.
+[rhen] “Only one hundred twenty?”
+“She left the rest home.”
+>>> “Smart.”   <-- WHO SAYS THIS?
+“She also left Tae, Huo and Qin.”
+Rhen looked toward the door.
+```
+```
+[rhen] “Only one hundred twenty?”
+“She left the rest home.”
+“Smart.”
+>>> “She also left Tae, Huo and Qin.”   <-- WHO SAYS THIS?
+Rhen looked toward the door.
+[rhen] “Smarter.”
+```
+```
+Then Qin.
+Rhen listened with increasing stillness.
+“Two Paragons?” he asked.
+>>> “Yes.”   <-- WHO SAYS THIS?
+“And the house?”
+“Standing.”
+```
+```
+Rhen listened with increasing stillness.
+“Two Paragons?” he asked.
+“Yes.”
+>>> “And the house?”   <-- WHO SAYS THIS?
+“Standing.”
+“The clinic?”
+```
+```
+“Two Paragons?” he asked.
+“Yes.”
+“And the house?”
+>>> “Standing.”   <-- WHO SAYS THIS?
+“The clinic?”
+“Standing.”
+```
+```
+“Yes.”
+“And the house?”
+“Standing.”
+>>> “The clinic?”   <-- WHO SAYS THIS?
+“Standing.”
+“The tea?”
+```
+```
+“And the house?”
+“Standing.”
+“The clinic?”
+>>> “Standing.”   <-- WHO SAYS THIS?
+“The tea?”
+Lu stared at him.
+```
+```
+“Standing.”
+“The clinic?”
+“Standing.”
+>>> “The tea?”   <-- WHO SAYS THIS?
+Lu stared at him.
+Rhen waited.
+```
+```
+Lu stared at him.
+Rhen waited.
+[rhen] “The tea survived.”
+>>> “Good.”   <-- WHO SAYS THIS?
+“Haru took three Redlines in a later engagement.”
+Rhen's face changed.
+```
+```
+Rhen waited.
+[rhen] “The tea survived.”
+“Good.”
+>>> “Haru took three Redlines in a later engagement.”   <-- WHO SAYS THIS?
+Rhen's face changed.
+Only slightly.
+```
+```
+“Haru took three Redlines in a later engagement.”
+Rhen's face changed.
+Only slightly.
+>>> “Three?”   <-- WHO SAYS THIS?
+“In one day.”
+“Three three-times doses?”
+```
+```
+Rhen's face changed.
+Only slightly.
+“Three?”
+>>> “In one day.”   <-- WHO SAYS THIS?
+“Three three-times doses?”
+“Yes.”
+```
+```
+Only slightly.
+“Three?”
+“In one day.”
+>>> “Three three-times doses?”   <-- WHO SAYS THIS?
+“Yes.”
+Rhen did the arithmetic without asking.
+```
+```
+“Three?”
+“In one day.”
+“Three three-times doses?”
+>>> “Yes.”   <-- WHO SAYS THIS?
+Rhen did the arithmetic without asking.
+Five years.
+```
+```
+Then roughly double cost for the second.
+Then roughly quadruple for the third.
+“Thirty-five years,” he said.
+>>> “Approximately.”   <-- WHO SAYS THIS?
+“Idiot.”
+Lu said nothing.
+```
+```
+Then roughly quadruple for the third.
+“Thirty-five years,” he said.
+“Approximately.”
+>>> “Idiot.”   <-- WHO SAYS THIS?
+Lu said nothing.
+It was the harshest thing Rhen had said since waking.
+```
+```
+Because a twenty-eight-year-old prodigy had burned decades of his own future because he could not accept a battlefield slipping away.
+Lu moved to the Isgard front again.
+[luweiran] “Kael reached Paragon before the war. He beat Jun.”
+>>> “Good.”   <-- WHO SAYS THIS?
+“Kai Moriyama arrived after that. High Paragon. Kael lost to him.”
+Rhen nodded again.
+```
+```
+Lu moved to the Isgard front again.
+[luweiran] “Kael reached Paragon before the war. He beat Jun.”
+“Good.”
+>>> “Kai Moriyama arrived after that. High Paragon. Kael lost to him.”   <-- WHO SAYS THIS?
+Rhen nodded again.
+[rhen] “Also good.”
+```
+```
+[rhen] “Also good.”
+Lu frowned.
+[luweiran] “He was badly injured.”
+>>> “I heard you.”   <-- WHO SAYS THIS?
+“Then why is that good?”
+“Because Kael spent too long being the strongest person everyone around him expected to see.”
+```
+```
+Lu frowned.
+[luweiran] “He was badly injured.”
+“I heard you.”
+>>> “Then why is that good?”   <-- WHO SAYS THIS?
+“Because Kael spent too long being the strongest person everyone around him expected to see.”
+Rhen moved Kael's marker with one finger.
+```
+```
+[luweiran] “He was badly injured.”
+“I heard you.”
+“Then why is that good?”
+>>> “Because Kael spent too long being the strongest person everyone around him expected to see.”   <-- WHO SAYS THIS?
+Rhen moved Kael's marker with one finger.
+[rhen] “Losing to someone better can be useful if it doesn't kill you.”
+```
+```
+[rhen] “Losing to someone better can be useful if it doesn't kill you.”
+Lu considered this.
+[luweiran] “You have an irritating way of making injuries sound educational.”
+>>> “I am a physician.”   <-- WHO SAYS THIS?
+“That is not what physicians do.”
+“Bad physicians.”
+```
+```
+Lu considered this.
+[luweiran] “You have an irritating way of making injuries sound educational.”
+“I am a physician.”
+>>> “That is not what physicians do.”   <-- WHO SAYS THIS?
+“Bad physicians.”
+Lu refused to dignify that.
+```
+```
+[luweiran] “You have an irritating way of making injuries sound educational.”
+“I am a physician.”
+“That is not what physicians do.”
+>>> “Bad physicians.”   <-- WHO SAYS THIS?
+Lu refused to dignify that.
+He moved on.
+```
+```
+About Wuyue winning battles and still losing people faster than the strategic balance improved.
+About Shinsei sending thousands of wounded back to Aya and receiving Paragons again at full strength days later.
+That made Rhen pause.
+>>> “Aya can restore them completely?”   <-- WHO SAYS THIS?
+“With enough time. Recoverable damage, yes.”
+Rhen nodded.
+```
+```
+About Shinsei sending thousands of wounded back to Aya and receiving Paragons again at full strength days later.
+That made Rhen pause.
+“Aya can restore them completely?”
+>>> “With enough time. Recoverable damage, yes.”   <-- WHO SAYS THIS?
+Rhen nodded.
+[rhen] “Good doctor.”
+```
+```
+“With enough time. Recoverable damage, yes.”
+Rhen nodded.
+[rhen] “Good doctor.”
+>>> “She is also the physician whose work became Axtaya.”   <-- WHO SAYS THIS?
+“Still a good doctor.”
+Lu looked at him.
+```
+```
+Rhen nodded.
+[rhen] “Good doctor.”
+“She is also the physician whose work became Axtaya.”
+>>> “Still a good doctor.”   <-- WHO SAYS THIS?
+Lu looked at him.
+Rhen's eyes remained on the map.
+```
+```
+That Shinsei was not one mind.
+Rhen listened.
+Then Lu reached the numbers he had been avoiding.
+>>> “Wuyue left with about sixty-three thousand eight hundred combat-ready public personnel.”   <-- WHO SAYS THIS?
+Rhen looked at the black markers.
+[rhen] “And now?”
+```
+```
+“Wuyue left with about sixty-three thousand eight hundred combat-ready public personnel.”
+Rhen looked at the black markers.
+[rhen] “And now?”
+>>> “About fifty to fifty-one thousand combat-capable, depending on the day.”   <-- WHO SAYS THIS?
+“How many dead?”
+“Current estimate between five and six thousand Wuyue personnel. More wounded, rotated out, missing, or temporarily unfit.”
+```
+```
+Rhen looked at the black markers.
+[rhen] “And now?”
+“About fifty to fifty-one thousand combat-capable, depending on the day.”
+>>> “How many dead?”   <-- WHO SAYS THIS?
+“Current estimate between five and six thousand Wuyue personnel. More wounded, rotated out, missing, or temporarily unfit.”
+Rhen said nothing.
+```
+```
+[rhen] “And now?”
+“About fifty to fifty-one thousand combat-capable, depending on the day.”
+“How many dead?”
+>>> “Current estimate between five and six thousand Wuyue personnel. More wounded, rotated out, missing, or temporarily unfit.”   <-- WHO SAYS THIS?
+Rhen said nothing.
+[rhen] “Isgard?”
+```
+```
+“Current estimate between five and six thousand Wuyue personnel. More wounded, rotated out, missing, or temporarily unfit.”
+Rhen said nothing.
+[rhen] “Isgard?”
+>>> “Worse proportionally.”   <-- WHO SAYS THIS?
+“Civilians?”
+Lu did not answer immediately.
+```
+```
+Rhen said nothing.
+[rhen] “Isgard?”
+“Worse proportionally.”
+>>> “Civilians?”   <-- WHO SAYS THIS?
+Lu did not answer immediately.
+Rhen closed his eyes.
+```
+```
+[luweiran] “Neither did I until the lists stopped fitting on one board.”
+Rhen looked at him for a long second.
+Then nodded.
+>>> “Fair.”   <-- WHO SAYS THIS?
+Lu had not expected the apology hidden in that word.
+He turned to the last cluster.
+```
+```
+“Fair.”
+Lu had not expected the apology hidden in that word.
+He turned to the last cluster.
+>>> “Sera is still commanding.”   <-- WHO SAYS THIS?
+Rhen's attention sharpened again.
+[rhen] “Injured?”
+```
+```
+“Sera is still commanding.”
+Rhen's attention sharpened again.
+[rhen] “Injured?”
+>>> “Yes.”   <-- WHO SAYS THIS?
+“How badly?”
+“Enough that Luo has ordered her to stop fighting twice.”
+```
+```
+Rhen's attention sharpened again.
+[rhen] “Injured?”
+“Yes.”
+>>> “How badly?”   <-- WHO SAYS THIS?
+“Enough that Luo has ordered her to stop fighting twice.”
+“And?”
+```
+```
+[rhen] “Injured?”
+“Yes.”
+“How badly?”
+>>> “Enough that Luo has ordered her to stop fighting twice.”   <-- WHO SAYS THIS?
+“And?”
+“You know Sera.”
+```
+```
+“Yes.”
+“How badly?”
+“Enough that Luo has ordered her to stop fighting twice.”
+>>> “And?”   <-- WHO SAYS THIS?
+“You know Sera.”
+Rhen exhaled through his nose.
+```
+```
+“How badly?”
+“Enough that Luo has ordered her to stop fighting twice.”
+“And?”
+>>> “You know Sera.”   <-- WHO SAYS THIS?
+Rhen exhaled through his nose.
+That was the closest he came to laughing.
+```
+```
+“You know Sera.”
+Rhen exhaled through his nose.
+That was the closest he came to laughing.
+>>> “Is she walking?”   <-- WHO SAYS THIS?
+“Yes.”
+“Eating?”
+```
+```
+Rhen exhaled through his nose.
+That was the closest he came to laughing.
+“Is she walking?”
+>>> “Yes.”   <-- WHO SAYS THIS?
+“Eating?”
+Lu hesitated.
+```
+```
+That was the closest he came to laughing.
+“Is she walking?”
+“Yes.”
+>>> “Eating?”   <-- WHO SAYS THIS?
+Lu hesitated.
+Rhen looked at him.
+```
+```
+Lu hesitated.
+Rhen looked at him.
+[rhen] “Lu.”
+>>> “She eats.”   <-- WHO SAYS THIS?
+“That was a suspicious pause.”
+“She eats when someone places food directly in front of her and remains there until she finishes.”
+```
+```
+Rhen looked at him.
+[rhen] “Lu.”
+“She eats.”
+>>> “That was a suspicious pause.”   <-- WHO SAYS THIS?
+“She eats when someone places food directly in front of her and remains there until she finishes.”
+Rhen stared.
+```
+```
+[rhen] “Lu.”
+“She eats.”
+“That was a suspicious pause.”
+>>> “She eats when someone places food directly in front of her and remains there until she finishes.”   <-- WHO SAYS THIS?
+Rhen stared.
+Lu raised both hands.
+```
+```
+Rhen stared.
+Lu raised both hands.
+[luweiran] “I am in Wuyue.”
+>>> “Who is doing that in Isgard?”   <-- WHO SAYS THIS?
+“Luo. Sometimes Arin. Once Jin.”
+“Jin?”
+```
+```
+Lu raised both hands.
+[luweiran] “I am in Wuyue.”
+“Who is doing that in Isgard?”
+>>> “Luo. Sometimes Arin. Once Jin.”   <-- WHO SAYS THIS?
+“Jin?”
+“He threatened to classify lunch as a mandatory strategic resource.”
+```
+```
+[luweiran] “I am in Wuyue.”
+“Who is doing that in Isgard?”
+“Luo. Sometimes Arin. Once Jin.”
+>>> “Jin?”   <-- WHO SAYS THIS?
+“He threatened to classify lunch as a mandatory strategic resource.”
+Rhen's mouth twitched.
+```
+```
+“Who is doing that in Isgard?”
+“Luo. Sometimes Arin. Once Jin.”
+“Jin?”
+>>> “He threatened to classify lunch as a mandatory strategic resource.”   <-- WHO SAYS THIS?
+Rhen's mouth twitched.
+[rhen] “Effective?”
+```
+```
+“He threatened to classify lunch as a mandatory strategic resource.”
+Rhen's mouth twitched.
+[rhen] “Effective?”
+>>> “Apparently.”   <-- WHO SAYS THIS?
+Rhen looked down at the northern map again.
+Six months.
+```
+```
+Sera still standing.
+Everyone else carrying the space he had left behind.
+He touched the edge of Isgard with one finger.
+>>> “I should go.”   <-- WHO SAYS THIS?
+“Yes.”
+“But first—”
+```
+```
+Everyone else carrying the space he had left behind.
+He touched the edge of Isgard with one finger.
+“I should go.”
+>>> “Yes.”   <-- WHO SAYS THIS?
+“But first—”
+A heavy footstep stopped outside the map-room door.
+```
+```
+He touched the edge of Isgard with one finger.
+“I should go.”
+“Yes.”
+>>> “But first—”   <-- WHO SAYS THIS?
+A heavy footstep stopped outside the map-room door.
+Then another.
+```
+```
+Qin Luo stood between them with his eyes closed, one hand resting lightly against the wall.
+For a moment nobody said anything.
+Then Tae looked Rhen up and down.
+>>> “You look annoyingly well-rested.”   <-- WHO SAYS THIS?
+Rhen nodded.
+[rhen] “You look louder.”
+```
 
 ### Chapter 443 — The Three Who Stayed Home
 
@@ -97,6 +833,22 @@ Qin tilted his head.
 >>> “You three got better.”   <-- WHO SAYS THIS?
 Tae folded his arms.
 [tae] “You slept for six months.”
+```
+```
+“You three got better.”
+Tae folded his arms.
+[tae] “You slept for six months.”
+>>> “That doesn't answer me.”   <-- WHO SAYS THIS?
+“It wasn't a question.”
+Rhen considered this.
+```
+```
+Tae folded his arms.
+[tae] “You slept for six months.”
+“That doesn't answer me.”
+>>> “It wasn't a question.”   <-- WHO SAYS THIS?
+Rhen considered this.
+[rhen] “True.”
 ```
 ```
 Rhen stared back.
@@ -216,7 +968,7 @@ Huo looked from one to the other.
 “It usually is.”
 >>> “No, it isn't.”   <-- WHO SAYS THIS?
 Huo looked from one to the other.
-[tae] “I missed this.”
+[huo] “I missed this.”
 ```
 ```
 Qin chose his words carefully.
@@ -299,16 +1051,24 @@ Rhen looked at Qin.
 Qin sighed.
 ```
 ```
+“What did you think of their Domains?” he asked.
+Tae answered first.
+[tae] “Haru is dangerous. Very dangerous. His precision is worse than his raw strength. If he gets to choose the line, he wastes almost nothing.”
+>>> “Hana?”   <-- WHO SAYS THIS?
+[huo] “Fast,” Huo said. “Actually fast. Not people-say-fast-because-they-lost-her fast.”
+Qin added, “Her qinggong is physical. Wind and pressure. Hollow Sky creates moving low-pressure pockets: breathing, balance and sustained exertion worsen inside them, and collapsing a pocket can turn the returning air into a violent physical opening. No spatial tricks.”
+```
+```
 That changed the room.
 Qin's expression softened first.
-[luweiran] “Alive.”
+[qin] “Alive.”
 >>> “Lu told me.”   <-- WHO SAYS THIS?
 “Then he didn't tell you how close.”
 Rhen looked toward Lu.
 ```
 ```
 Qin's expression softened first.
-[luweiran] “Alive.”
+[qin] “Alive.”
 “Lu told me.”
 >>> “Then he didn't tell you how close.”   <-- WHO SAYS THIS?
 Rhen looked toward Lu.
@@ -427,6 +1187,14 @@ Huo frowned.
 Rhen added, “Also someone should stop Huo from drinking the emergency tea stock.”
 ```
 ```
+[huo] “That happened once.”
+Lu spoke without lifting his head.
+[luweiran] “Four times.”
+>>> “Those were separate emergencies.”   <-- WHO SAYS THIS?
+“What emergencies?” Tae asked.
+[tae] “I was thirsty.”
+```
+```
 [rhen] “Serious.”
 Tae stared at him.
 [tae] “You've been awake less than an hour and you're already making him worse.”
@@ -532,7 +1300,15 @@ The quartermaster opened his mouth.
 Closed it.
 ```
 ```
-[luweiran] “I think he dislikes me.”
+The quartermaster looked between them.
+Then at Lu, who had followed at a distance.
+Then back at Rhen.
+>>> “Should I—”   <-- WHO SAYS THIS?
+“Yes,” Lu said.
+The quartermaster vanished.
+```
+```
+[yurushi] “I think he dislikes me.”
 “He likes systems,” Lu said.
 [luweiran] “So do I.”
 >>> “You change his.”   <-- WHO SAYS THIS?
@@ -602,6 +1378,14 @@ Rhen continued, “She didn't know you.”
 >>> “What did she use?”   <-- WHO SAYS THIS?
 Yurushi looked almost offended.
 [yurushi] “That's your question?”
+```
+```
+“What did she use?”
+Yurushi looked almost offended.
+[yurushi] “That's your question?”
+>>> “I am a physician.”   <-- WHO SAYS THIS?
+Lu muttered, “He keeps saying that as if it explains him.”
+Yurushi's mouth twitched.
 ```
 ```
 [yurushi] “Modified sleep toxin. Fast circulation trigger. She expected me to purge upward and used the purge route as the second delivery.”
@@ -804,7 +1588,15 @@ Rhen's gaze moved between them.
 [rhen] “What account?”
 ```
 ```
-[luweiran] “Send it.”
+[yurushi] “Something Sera should hear before the rest of the war council does.”
+Rhen understood the boundary.
+He did not push through it simply because he could.
+>>> “Send it.”   <-- WHO SAYS THIS?
+“I am,” Lu said.
+[luweiran] “Today.”
+```
+```
+“Send it.”
 “I am,” Lu said.
 [luweiran] “Today.”
 >>> “It leaves in an hour.”   <-- WHO SAYS THIS?
@@ -1282,6 +2074,206 @@ The sentry ran toward the hospital instead of the command post.
 Rhen nodded approvingly.
 ```
 ```
+[rhen] “I was busy.”
+Arin's eyes narrowed.
+[arin] “Sleeping?”
+>>> “Apparently.”   <-- WHO SAYS THIS?
+She almost smiled.
+Almost.
+```
+```
+She almost smiled.
+Almost.
+Then she stepped aside.
+>>> “She is in there.”   <-- WHO SAYS THIS?
+Rhen stopped before the command tent.
+Arin's voice softened.
+```
+```
+[arin] “Don't make a joke first.”
+Rhen looked at her.
+[rhen] “Why?”
+>>> “Because she has spent six months threatening people who try to take care of her.”   <-- WHO SAYS THIS?
+“That sounds normal.”
+“It is not normal when she can flatten a hill.”
+```
+```
+Rhen looked at her.
+[rhen] “Why?”
+“Because she has spent six months threatening people who try to take care of her.”
+>>> “That sounds normal.”   <-- WHO SAYS THIS?
+“It is not normal when she can flatten a hill.”
+“Fair.”
+```
+```
+[rhen] “Why?”
+“Because she has spent six months threatening people who try to take care of her.”
+“That sounds normal.”
+>>> “It is not normal when she can flatten a hill.”   <-- WHO SAYS THIS?
+“Fair.”
+“And Rhen?”
+```
+```
+“Because she has spent six months threatening people who try to take care of her.”
+“That sounds normal.”
+“It is not normal when she can flatten a hill.”
+>>> “Fair.”   <-- WHO SAYS THIS?
+“And Rhen?”
+He waited.
+```
+```
+“That sounds normal.”
+“It is not normal when she can flatten a hill.”
+“Fair.”
+>>> “And Rhen?”   <-- WHO SAYS THIS?
+He waited.
+Arin looked at him with the tired seriousness of someone who had watched Sera carry too many lists.
+```
+```
+“You,” Sera said.
+Rhen nodded.
+[rhen] “Me.”
+>>> “You slept through a war.”   <-- WHO SAYS THIS?
+“Yes.”
+“Six months.”
+```
+```
+Rhen nodded.
+[rhen] “Me.”
+“You slept through a war.”
+>>> “Yes.”   <-- WHO SAYS THIS?
+“Six months.”
+“Twelve days.”
+```
+```
+[rhen] “Me.”
+“You slept through a war.”
+“Yes.”
+>>> “Six months.”   <-- WHO SAYS THIS?
+“Twelve days.”
+Her face changed.
+```
+```
+“You slept through a war.”
+“Yes.”
+“Six months.”
+>>> “Twelve days.”   <-- WHO SAYS THIS?
+Her face changed.
+“You counted?”
+```
+```
+“Six months.”
+“Twelve days.”
+Her face changed.
+>>> “You counted?”   <-- WHO SAYS THIS?
+“Lu did.”
+“Of course he did.”
+```
+```
+“Twelve days.”
+Her face changed.
+“You counted?”
+>>> “Lu did.”   <-- WHO SAYS THIS?
+“Of course he did.”
+Then she grabbed the front of his coat and pulled him down into her.
+```
+```
+Her face changed.
+“You counted?”
+“Lu did.”
+>>> “Of course he did.”   <-- WHO SAYS THIS?
+Then she grabbed the front of his coat and pulled him down into her.
+Rhen's arms closed around her immediately.
+```
+```
+Rhen's jaw tightened.
+Sera felt it.
+“Don't,” she said into his coat.
+>>> “I didn't say anything.”   <-- WHO SAYS THIS?
+“You were about to.”
+“I was going to say hello.”
+```
+```
+Sera felt it.
+“Don't,” she said into his coat.
+“I didn't say anything.”
+>>> “You were about to.”   <-- WHO SAYS THIS?
+“I was going to say hello.”
+“No, you weren't.”
+```
+```
+“Don't,” she said into his coat.
+“I didn't say anything.”
+“You were about to.”
+>>> “I was going to say hello.”   <-- WHO SAYS THIS?
+“No, you weren't.”
+Rhen considered lying.
+```
+```
+“I didn't say anything.”
+“You were about to.”
+“I was going to say hello.”
+>>> “No, you weren't.”   <-- WHO SAYS THIS?
+Rhen considered lying.
+Sera pulled back enough to look at him.
+```
+```
+Rhen considered lying.
+Sera pulled back enough to look at him.
+He did not lie.
+>>> “You're hurt.”   <-- WHO SAYS THIS?
+“There it is.”
+“Several times.”
+```
+```
+Sera pulled back enough to look at him.
+He did not lie.
+“You're hurt.”
+>>> “There it is.”   <-- WHO SAYS THIS?
+“Several times.”
+“Yes, doctor.”
+```
+```
+He did not lie.
+“You're hurt.”
+“There it is.”
+>>> “Several times.”   <-- WHO SAYS THIS?
+“Yes, doctor.”
+“You haven't been sleeping.”
+```
+```
+“You're hurt.”
+“There it is.”
+“Several times.”
+>>> “Yes, doctor.”   <-- WHO SAYS THIS?
+“You haven't been sleeping.”
+“I sleep.”
+```
+```
+“There it is.”
+“Several times.”
+“Yes, doctor.”
+>>> “You haven't been sleeping.”   <-- WHO SAYS THIS?
+“I sleep.”
+“How much?”
+```
+```
+“Several times.”
+“Yes, doctor.”
+“You haven't been sleeping.”
+>>> “I sleep.”   <-- WHO SAYS THIS?
+“How much?”
+Jin quietly moved toward the far side of the tent.
+```
+```
+“Yes, doctor.”
+“You haven't been sleeping.”
+“I sleep.”
+>>> “How much?”   <-- WHO SAYS THIS?
+Jin quietly moved toward the far side of the tent.
+Sera glared at him.
+```
+```
 Jin quietly moved toward the far side of the tent.
 Sera glared at him.
 [sera] “Do not.”
@@ -1302,27 +2294,35 @@ Pale violet shone beneath its surface.
 Sera looked at Rhen.
 [sera] “What happened to you?”
 >>> “It worked.”   <-- WHO SAYS THIS?
-[tae] “That is not an answer.”
+“That is not an answer.”
 “Tae said that too.”
+```
+```
+Sera looked at Rhen.
+[sera] “What happened to you?”
+“It worked.”
+>>> “That is not an answer.”   <-- WHO SAYS THIS?
+“Tae said that too.”
+“Then Tae was right.”
 ```
 ```
 [sera] “What happened to you?”
 “It worked.”
-[tae] “That is not an answer.”
+“That is not an answer.”
 >>> “Tae said that too.”   <-- WHO SAYS THIS?
 “Then Tae was right.”
 “He will be unbearable when I tell him.”
 ```
 ```
 “It worked.”
-[tae] “That is not an answer.”
+“That is not an answer.”
 “Tae said that too.”
 >>> “Then Tae was right.”   <-- WHO SAYS THIS?
 “He will be unbearable when I tell him.”
 “He already is.”
 ```
 ```
-[tae] “That is not an answer.”
+“That is not an answer.”
 “Tae said that too.”
 “Then Tae was right.”
 >>> “He will be unbearable when I tell him.”   <-- WHO SAYS THIS?
@@ -1500,7 +2500,7 @@ Jin nodded once.
 ```
 [rhen] “Acting War Commander?”
 Solveig's eyebrows rose.
-[luweiran] “You know who I am.”
+[solveig] “You know who I am.”
 >>> “Lu told me to remember your name.”   <-- WHO SAYS THIS?
 Solveig looked as though she did not know whether to be honored or offended.
 Rhen extended a hand.
@@ -1522,7 +2522,15 @@ Rhen looked around the room.
 Then back at Sera.
 ```
 ```
-[luo] “How many wounded within thirty miles?”
+“I know.”
+Rhen looked around the room.
+Then back at Sera.
+>>> “How many wounded within thirty miles?”   <-- WHO SAYS THIS?
+Luo answered before she could.
+[luo] “Depends what you call wounded.”
+```
+```
+“How many wounded within thirty miles?”
 Luo answered before she could.
 [luo] “Depends what you call wounded.”
 >>> “Anyone whose body is limiting combat, work, sleep or survival because of recoverable damage.”   <-- WHO SAYS THIS?
@@ -1682,6 +2690,14 @@ Sera smiled.
 [sera] “I know.”
 ```
 ```
+[sera] “I know.”
+Rhen looked at Luo.
+[rhen] “Is she always like this now?”
+>>> “Worse.”   <-- WHO SAYS THIS?
+“Traitor,” Sera said.
+Luo turned another page.
+```
+```
 [rhen] “Fine.”
 Sera narrowed her eyes.
 [sera] “That was too easy.”
@@ -1819,6 +2835,38 @@ A Wuyue officer raised a hand.
 >>> “What about Shinsei prisoners?”   <-- WHO SAYS THIS?
 Rhen looked at him.
 [rhen] “I said prisoners.”
+```
+```
+[rhen] “Your Hundred Pulse can identify circulation collapse faster than most teams can report it.”
+Aya nodded cautiously.
+[aya] “Yes.”
+>>> “Use it.”   <-- WHO SAYS THIS?
+“You know what it does?”
+“Luo explained.”
+```
+```
+Aya nodded cautiously.
+[aya] “Yes.”
+“Use it.”
+>>> “You know what it does?”   <-- WHO SAYS THIS?
+“Luo explained.”
+Luo did not look up from his board.
+```
+```
+[aya] “Yes.”
+“Use it.”
+“You know what it does?”
+>>> “Luo explained.”   <-- WHO SAYS THIS?
+Luo did not look up from his board.
+Rhen continued.
+```
+```
+Aya's **Hundred Pulse Dominion** spread through the critical sectors.
+Her perception touched pulse, circulation and meridian behavior across the living bodies around her with terrifying precision.
+She lifted one hand.
+>>> “Sector Three. Bed line seven. Third patient from the west. Now.”   <-- WHO SAYS THIS?
+A marker flashed.
+Rhen found the body through the Sanctuary.
 ```
 ```
 [luo] “Sector Nine,” Luo called. “Poison cascade. Wuyue female, Duke-level, two antidotes already failed.”
@@ -2333,10 +3381,10 @@ Rhen's expression changed.
 “Yes.”
 >>> “And you think that is good?”   <-- WHO SAYS THIS?
 Rhen's expression changed.
-[aya] “The healing is.”
+[rhen] “The healing is.”
 ```
 ```
-[aya] “The healing is.”
+[rhen] “The healing is.”
 Aya said nothing.
 [aya] “The war is separate,” he continued. “Do not confuse repairing a person with endorsing every order that person may receive afterward.”
 >>> “That is convenient.”   <-- WHO SAYS THIS?
@@ -2611,6 +3659,22 @@ Maedra's eyes narrowed.
 [maedra] “I was ruling armies before your grandmother learned to braid her hair.”
 ```
 ```
+“No.”
+Maedra's eyes narrowed.
+[maedra] “I was ruling armies before your grandmother learned to braid her hair.”
+>>> “My grandmother is bald.”   <-- WHO SAYS THIS?
+Maedra paused.
+The surgeon held out one hand.
+```
+```
+“My grandmother is bald.”
+Maedra paused.
+The surgeon held out one hand.
+>>> “Sit.”   <-- WHO SAYS THIS?
+Maedra sat.
+Sera watched from the entrance, delighted.
+```
+```
 [rhen] “No.”
 Sera glanced back.
 [sera] “Why?”
@@ -2696,7 +3760,7 @@ Maedra looked at him.
 [maedra] “You understand?”
 >>> “I am a physician.”   <-- WHO SAYS THIS?
 Sera groaned.
-[rhen] “He has been awake three days and has said that approximately fifty times.”
+[sera] “He has been awake three days and has said that approximately fifty times.”
 ```
 ```
 “Forty-seven,” Rhen said.
@@ -2713,6 +3777,14 @@ Sera stared.
 >>> “That was too fast.”   <-- WHO SAYS THIS?
 Rhen looked innocent.
 Maedra stood.
+```
+```
+Her qi circulated once.
+Stable.
+She looked toward the north.
+>>> “Where is Solveig?”   <-- WHO SAYS THIS?
+“Working,” Sera said.
+[sera] “Of course she is.”
 ```
 ```
 Sigrun turned.
@@ -3086,6 +4158,14 @@ Ilyra barked a laugh.
 Jin closed one notebook.
 ```
 ```
+[sera] “No.”
+Several officers looked at her.
+She pointed to the coastal map.
+>>> “Those ships are also carrying wounded, physicians, food and replacement personnel. If we erase the fleet, we do not merely remove military pressure. We strand occupied zones, prisoners and our own people still trapped behind their lines.”   <-- WHO SAYS THIS?
+Jin added, “And Shinsei has enough port infrastructure to replace part of it while using the destruction as justification for total mobilization.”
+Rhen nodded.
+```
+```
 The simplicity unsettled everyone more than if he had insisted.
 Aldric watched him.
 [aldric] “You could end individual battles.”
@@ -3198,7 +4278,7 @@ Lei stared at him.
 Jin looked exhausted enough to enjoy the irritation.
 ```
 ```
-[jin] “You want to cut their hospitals.”
+[aya] “You want to cut their hospitals.”
 “No,” Jin said.
 That answer came instantly.
 >>> “I want to cut military rotation while preserving a medical lane.”   <-- WHO SAYS THIS?

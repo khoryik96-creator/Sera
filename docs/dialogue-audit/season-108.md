@@ -1,12 +1,44 @@
 # Season 108 — unattributed dialogue
 
-111 quoted lines in this season have no speaker.
+128 quoted lines in this season have no speaker.
 See `README.md` in this folder for what to do with them.
 
 Lines already resolved show their speaker in `[brackets]` for context.
 
 ### Chapter 431 — One Hundred Thousand Without One Battlefield
 
+```
+[sera] “One hundred thousand plus.”
+Jin nodded.
+[jin] “Across total forward-support network.”
+>>> “Not one battlefield.”   <-- WHO SAYS THIS?
+“No.”
+“How many could they concentrate quickly?”
+```
+```
+Jin nodded.
+[jin] “Across total forward-support network.”
+“Not one battlefield.”
+>>> “No.”   <-- WHO SAYS THIS?
+“How many could they concentrate quickly?”
+“Depends where.”
+```
+```
+[jin] “Across total forward-support network.”
+“Not one battlefield.”
+“No.”
+>>> “How many could they concentrate quickly?”   <-- WHO SAYS THIS?
+“Depends where.”
+That answer again.
+```
+```
+“Not one battlefield.”
+“No.”
+“How many could they concentrate quickly?”
+>>> “Depends where.”   <-- WHO SAYS THIS?
+That answer again.
+War resisted clean numbers.
+```
 ```
 [solveig] “North farms are down another twelve percent.”
 Jin looked at her.
@@ -24,7 +56,7 @@ Sera looked at the map.
 Shinsei wanted resources partly because it believed Isgard could no longer use them efficiently.
 ```
 ```
-[sera] “We need Wuyue grain shipments increased.”
+[jin] “We need Wuyue grain shipments increased.”
 “Home reserve?” Sera asked.
 [sera] “Can absorb some. Not indefinitely.”
 >>> “Then increase trade purchase, not military seizure.”   <-- WHO SAYS THIS?
@@ -131,6 +163,14 @@ Luo pointed at the nearest chair.
 [luo] “Sit.”
 ```
 ```
+Sera sat.
+Jin looked briefly impressed.
+[jin] “Finally found an authority you obey?”
+>>> “Do not make this unpleasant.”   <-- WHO SAYS THIS?
+Luo said, “Too late.”
+Jin turned the replacement ledger toward her.
+```
+```
 [jin] “We can keep winning this way for months.”
 Sera scanned the casualty trend before answering.
 [sera] “And?”
@@ -213,6 +253,14 @@ Then he turned the first map over and began a new one.
 
 ### Chapter 433 — Ten People Cannot Be Ten Armies
 
+```
+[sera] “This is embarrassing.”
+Kael frowned.
+[kael] “What?”
+>>> “We look old.”   <-- WHO SAYS THIS?
+Arin stared at her.
+[arin] “You don’t age.”
+```
 ```
 Ilyra laughed hard enough to hurt herself.
 The humor lasted six seconds.
@@ -424,6 +472,62 @@ The steward said, “Then we requisition.”
 The steward said, “Then we requisition.”
 Aldric looked at him.
 ```
+```
+The steward said, “Then we requisition.”
+Aldric looked at him.
+[aldric] “No.”
+>>> “My lord—”   <-- WHO SAYS THIS?
+“We purchase what can be purchased, borrow against the Wuyue shipment, and cut military issue before taking seed grain.”
+“That reduces readiness.”
+```
+```
+Aldric looked at him.
+[aldric] “No.”
+“My lord—”
+>>> “We purchase what can be purchased, borrow against the Wuyue shipment, and cut military issue before taking seed grain.”   <-- WHO SAYS THIS?
+“That reduces readiness.”
+“Yes.”
+```
+```
+[aldric] “No.”
+“My lord—”
+“We purchase what can be purchased, borrow against the Wuyue shipment, and cut military issue before taking seed grain.”
+>>> “That reduces readiness.”   <-- WHO SAYS THIS?
+“Yes.”
+The word landed harder than a heroic speech.
+```
+```
+“My lord—”
+“We purchase what can be purchased, borrow against the Wuyue shipment, and cut military issue before taking seed grain.”
+“That reduces readiness.”
+>>> “Yes.”   <-- WHO SAYS THIS?
+The word landed harder than a heroic speech.
+Aldric continued. “A government that saves its army by ensuring nobody can plant after the war has defended a uniform, not a country.”
+```
+```
+It was centralizing what needed coordination and leaving other authority distributed. Powerful people were being forced to accept roles rather than ownership. Solveig’s emergency structure could exist beneath law instead of above it.
+Eirik understood what that meant. Every functioning day weakened the strongest part of his political argument: that only imposed order could save the north from itself.
+Near sunset, Solveig placed the morning’s three denied petitions back on Aldric’s desk.
+>>> “Keep them.”   <-- WHO SAYS THIS?
+“Why?”
+“Because when this is over, somebody will claim emergency command worked because everyone agreed.”
+```
+```
+Eirik understood what that meant. Every functioning day weakened the strongest part of his political argument: that only imposed order could save the north from itself.
+Near sunset, Solveig placed the morning’s three denied petitions back on Aldric’s desk.
+“Keep them.”
+>>> “Why?”   <-- WHO SAYS THIS?
+“Because when this is over, somebody will claim emergency command worked because everyone agreed.”
+Aldric looked around the hall.
+```
+```
+Near sunset, Solveig placed the morning’s three denied petitions back on Aldric’s desk.
+“Keep them.”
+“Why?”
+>>> “Because when this is over, somebody will claim emergency command worked because everyone agreed.”   <-- WHO SAYS THIS?
+Aldric looked around the hall.
+Maedra and Varok were still arguing.
+```
 
 ### Chapter 435 — Sera Commands While Hurt
 
@@ -442,6 +546,22 @@ Sera stared at him.
 >>> “That is why it is a threat.”   <-- WHO SAYS THIS?
 She obeyed by only using Orchid Dominion once.
 Luo found out.
+```
+```
+She obeyed by only using Orchid Dominion once.
+Luo found out.
+[luo] “This is why physicians become violent.”
+>>> “You are already violent.”   <-- WHO SAYS THIS?
+“More violent.”
+She sat on the medical crate while he checked her ribs.
+```
+```
+Luo found out.
+[luo] “This is why physicians become violent.”
+“You are already violent.”
+>>> “More violent.”   <-- WHO SAYS THIS?
+She sat on the medical crate while he checked her ribs.
+The 120 Quaint had changed around her over six months.
 ```
 ```
 Current Sera chose the convoy because destroying it changed more future fights.
@@ -754,14 +874,14 @@ He pointed at Yurushi’s summary.
 ```
 ```
 Kael leaned over the table.
-[jin] “So he is fresh.”
+[kael] “So he is fresh.”
 [jin] “Relative to the forward Paragons,” Jin said. “Yes.”
 >>> “Peak Paragon.”   <-- WHO SAYS THIS?
 “Yes.”
 “Has not spent six months being punched by Wuyue and Isgard.”
 ```
 ```
-[jin] “So he is fresh.”
+[kael] “So he is fresh.”
 [jin] “Relative to the forward Paragons,” Jin said. “Yes.”
 “Peak Paragon.”
 >>> “Yes.”   <-- WHO SAYS THIS?
@@ -863,6 +983,22 @@ Hana handed the sheet back.
 ### Chapter 439 — The Frost Changes Colour
 
 ```
+Violet within.
+Tae’s expression changed.
+[tae] “That is new.”
+>>> “Yes.”   <-- WHO SAYS THIS?
+Qin placed his fingertips against the outer stone.
+He did not send qi through it.
+```
+```
+[huo] “Do we open?”
+Everyone turned toward him.
+He raised both hands.
+>>> “I asked so nobody else had to.”   <-- WHO SAYS THIS?
+“No,” Lu said.
+[luweiran] “Good.”
+```
+```
 Qin remained several minutes longer.
 “Different?” Tae asked him.
 [tae] “Yes.”
@@ -871,7 +1007,7 @@ Qin considered.
 [qin] “I cannot tell.”
 ```
 ```
-[luweiran] “He will be angry we did all this without him.”
+[huo] “He will be angry we did all this without him.”
 Lu said, “No.”
 [luweiran] “You sound certain.”
 >>> “He will be angry we did not keep better tea in the lower stores.”   <-- WHO SAYS THIS?
