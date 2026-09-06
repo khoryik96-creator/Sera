@@ -40,11 +40,11 @@ His body accepted that eighty percent now was better than damaging himself tryin
 
 Nao’s eyes narrowed.
 
-“Efficient.”
+[[speaker:nao]]“Efficient.”
 
 Liang smiled.
 
-“Usually.”
+[[speaker:liang]]“Usually.”
 
 They were not fighting for a knockout. Nao held a broad retreat-control field over Shinsei’s right sector.
 
@@ -96,13 +96,13 @@ Hundreds already clear.
 
 Nao looked past him.
 
-“Those are wounded.”
+[[speaker:nao]]“Those are wounded.”
 
-“Yes.”
+[[speaker:liang]]“Yes.”
 
-“Why are you still here?”
+[[speaker:nao]]“Why are you still here?”
 
-“To keep you asking questions.”
+[[speaker:liang]]“To keep you asking questions.”
 
 She almost smiled.
 
@@ -122,9 +122,9 @@ Liang found that absurd.
 
 Nao’s sword stopped for less than a breath.
 
-“That is not a battlefield question.”
+[[speaker:nao]]“That is not a battlefield question.”
 
-“It became one when you crossed the sea.”
+[[speaker:liang]]“It became one when you crossed the sea.”
 
 Fair.
 
@@ -158,25 +158,25 @@ Did not.
 
 He looked at her.
 
-“Why?”
+[[speaker:liang]]“Why?”
 
-“Your objective is done.”
+[[speaker:nao]]“Your objective is done.”
 
-“Yes.”
+[[speaker:liang]]“Yes.”
 
-“Mine was to hold ground.”
+[[speaker:nao]]“Mine was to hold ground.”
 
-“Yes.”
+[[speaker:liang]]“Yes.”
 
-“Then continuing would be pride.”
+[[speaker:nao]]“Then continuing would be pride.”
 
 Liang nodded.
 
-“Good answer.”
+[[speaker:liang]]“Good answer.”
 
 Nao looked irritated.
 
-“Stop grading me.”
+[[speaker:nao]]“Stop grading me.”
 
 He smiled and withdrew.
 
@@ -202,13 +202,13 @@ Aya removed the last restriction from Jun Kajihara’s chart just after dawn.
 
 He read the line twice, suspicious of good news on principle.
 
-“Full?”
+[[speaker:jun]]“Full?”
 
-“Recoverable conventional damage: effectively full.”
+[[speaker:aya]]“Recoverable conventional damage: effectively full.”
 
-“Effectively?”
+[[speaker:jun]]“Effectively?”
 
-“Medicine uses words carefully. Try it sometime.”
+[[speaker:aya]]“Medicine uses words carefully. Try it sometime.”
 
 Jun ignored the insult and flexed the arm Kael had damaged weeks earlier.
 
@@ -222,13 +222,13 @@ Now enough uninterrupted treatment had finally passed for the remainder to close
 
 Jun looked at the clean chart.
 
-“So I can go back.”
+[[speaker:jun]]“So I can go back.”
 
-“I said you are medically cleared.”
+[[speaker:aya]]“I said you are medically cleared.”
 
-“That means I can go back.”
+[[speaker:jun]]“That means I can go back.”
 
-“It means your body is no longer the reason you cannot.”
+[[speaker:aya]]“It means your body is no longer the reason you cannot.”
 
 He looked at her.
 
@@ -238,17 +238,17 @@ Jun had learned that neutral was where she hid the most complicated answers.
 
 He picked up the halberd resting beside the cot, tested its weight, then stopped before leaving.
 
-“Kael?”
+[[speaker:jun]]“Kael?”
 
-“What about him?”
+[[speaker:aya]]“What about him?”
 
-“If I fight him again, I don’t make the same mistake.”
+[[speaker:jun]]“If I fight him again, I don’t make the same mistake.”
 
-“That is not a medical observation.”
+[[speaker:aya]]“That is not a medical observation.”
 
-“No.”
+[[speaker:jun]]“No.”
 
-“Good.”
+[[speaker:aya]]“Good.”
 
 Jun did not move.
 
@@ -272,9 +272,9 @@ People on the other side kept paying costs that Aya could erase from Shinsei bod
 
 “I used to think recovery meant we were harder to defeat,” Jun said.
 
-“We are.”
+[[speaker:aya]]“We are.”
 
-“That is not what I mean.”
+[[speaker:jun]]“That is not what I mean.”
 
 Aya put the brush down.
 
@@ -282,17 +282,17 @@ Jun continued. “Kael beat me. I came back before I was ready. Then I finished 
 
 Aya watched him carefully.
 
-“Do you want me to disagree?”
+[[speaker:aya]]“Do you want me to disagree?”
 
-“No.”
+[[speaker:jun]]“No.”
 
-“Good.”
+[[speaker:aya]]“Good.”
 
 He almost smiled.
 
 Then his face settled again.
 
-“Does getting cleared mean you think I should fight?”
+[[speaker:jun]]“Does getting cleared mean you think I should fight?”
 
 “No.”
 
@@ -300,27 +300,27 @@ The answer came too quickly to misunderstand.
 
 Aya tapped the chart.
 
-“This says your shoulder will not fail because I released you. It says your meridians can sustain your own cultivation. It says the injuries Kael gave you are healed. It does not tell you what your orders mean, whether the invasion is right, or whether a second fight is worth another field full of wounded people.”
+[[speaker:aya]]“This says your shoulder will not fail because I released you. It says your meridians can sustain your own cultivation. It says the injuries Kael gave you are healed. It does not tell you what your orders mean, whether the invasion is right, or whether a second fight is worth another field full of wounded people.”
 
 Jun’s grip shifted on the halberd.
 
-“You make medicine sound annoyingly limited.”
+[[speaker:jun]]“You make medicine sound annoyingly limited.”
 
-“It is. That is why physicians become dangerous when governments start asking medicine to answer political questions.”
+[[speaker:aya]]“It is. That is why physicians become dangerous when governments start asking medicine to answer political questions.”
 
 He looked at her for a long time.
 
-“Thank you.”
+[[speaker:jun]]“Thank you.”
 
 Aya’s brush stopped.
 
 “For healing me,” he added.
 
-“You do not owe me obedience because I treated you.”
+[[speaker:aya]]“You do not owe me obedience because I treated you.”
 
 “I know.”
 
-“You do not owe Shinsei more years because I returned your body.”
+[[speaker:aya]]“You do not owe Shinsei more years because I returned your body.”
 
 Jun went still at the wording.
 
@@ -328,7 +328,7 @@ Redline had made that sentence impossible to hear innocently.
 
 Aya did not soften it.
 
-“Medical clearance is not ownership.”
+[[speaker:aya]]“Medical clearance is not ownership.”
 
 Jun nodded once.
 
@@ -342,19 +342,19 @@ On the Wuyue side, confirmation reached intelligence before noon.
 
 Kael read the report from a recovery bench while a physician retied the brace on his knee.
 
-“Again?”
+[[speaker:kael]]“Again?”
 
 Luo nodded.
 
-“I beat him.”
+[[speaker:kael]]“I beat him.”
 
-“Yes.”
+[[speaker:luo]]“Yes.”
 
-“He was badly injured.”
+[[speaker:kael]]“He was badly injured.”
 
-“Yes.”
+[[speaker:luo]]“Yes.”
 
-“And now he is fine.”
+[[speaker:kael]]“And now he is fine.”
 
 “Yes.”
 
@@ -362,21 +362,21 @@ Kael looked personally offended by the concept of successful medicine.
 
 Luo folded the report.
 
-“Please do not take this personally.”
+[[speaker:luo]]“Please do not take this personally.”
 
-“I am absolutely taking it personally.”
+[[speaker:kael]]“I am absolutely taking it personally.”
 
-“You were healed by Rhen from worse things.”
+[[speaker:luo]]“You were healed by Rhen from worse things.”
 
-“That was different.”
+[[speaker:kael]]“That was different.”
 
-“How?”
+[[speaker:luo]]“How?”
 
-“He is unfair.”
+[[speaker:kael]]“He is unfair.”
 
 Luo considered the argument.
 
-“Valid.”
+[[speaker:luo]]“Valid.”
 
 Then he added a new notation beside Jun’s name.
 
@@ -412,11 +412,11 @@ Against Breach Dominion, conventional defensive mitigation did nothing once Jun�
 
 Rui had planned for that.
 
-“Do not block the blade.”
+[[speaker:rui]]“Do not block the blade.”
 
 His officers repeated the order.
 
-“Redirect shaft. Break angle. Give ground before contact.”
+[[speaker:rui]]“Redirect shaft. Break angle. Give ground before contact.”
 
 Jun still reached them.
 
@@ -442,19 +442,19 @@ Necessary timing.
 
 Jun stopped.
 
-“Move.”
+[[speaker:jun]]“Move.”
 
 Rui smiled.
 
 “No.”
 
-“I do not need you dead.”
+[[speaker:jun]]“I do not need you dead.”
 
-“Comforting.”
+[[speaker:rui]]“Comforting.”
 
-“Your troops are already withdrawing.”
+[[speaker:jun]]“Your troops are already withdrawing.”
 
-“Exactly.”
+[[speaker:rui]]“Exactly.”
 
 Rui attacked.
 
@@ -488,7 +488,7 @@ Jun raised the halberd again.
 
 Rui smiled through blood.
 
-“Done.”
+[[speaker:rui]]“Done.”
 
 Jun saw the retreat was complete.
 
@@ -504,13 +504,13 @@ This Jun had lost to Kael, been healed by Aya, and returned with less interest i
 
 Rui laughed.
 
-“You invaded us.”
+[[speaker:rui]]“You invaded us.”
 
-“I know.”
+[[speaker:jun]]“I know.”
 
-“That was not permission.”
+[[speaker:rui]]“That was not permission.”
 
-“No.”
+[[speaker:jun]]“No.”
 
 Rui turned.
 
@@ -526,17 +526,17 @@ A man.
 
 Xie Wuchen landed beside him.
 
-“Convenient?”
+[[speaker:xie_wuchen]]“Convenient?”
 
 Rui grimaced.
 
-“You took your time.”
+[[speaker:rui]]“You took your time.”
 
 Xie looked at Jun.
 
 Then at Rui.
 
-“I had to become No.10. Apparently that includes rescuing people who once tried to arrest me.”
+[[speaker:xie_wuchen]]“I had to become No.10. Apparently that includes rescuing people who once tried to arrest me.”
 
 Rui almost smiled.
 
@@ -544,7 +544,7 @@ Then blood filled his mouth.
 
 Xie’s expression changed.
 
-“Right. Jokes later.”
+[[speaker:xie_wuchen]]“Right. Jokes later.”
 
 The Unseen Gale lifted him.
 
@@ -574,13 +574,13 @@ This became extremely relevant while carrying Shen Rui through a collapsing war 
 
 “No.”
 
-“I can run.”
+[[speaker:rui]]“I can run.”
 
-“You are leaking.”
+[[speaker:xie_wuchen]]“You are leaking.”
 
-“That is not technical language.”
+[[speaker:rui]]“That is not technical language.”
 
-“It is accurate.”
+[[speaker:xie_wuchen]]“It is accurate.”
 
 Xie used Wind Qi the way Tempest Hall had taught him after he rebuilt the old flaw.
 
@@ -608,13 +608,13 @@ Meridian pain flashed along one leg.
 
 Rui noticed.
 
-“You’re overdoing it.”
+[[speaker:rui]]“You’re overdoing it.”
 
-“You’re observant for a dying man.”
+[[speaker:xie_wuchen]]“You’re observant for a dying man.”
 
-“I’m not dying.”
+[[speaker:rui]]“I’m not dying.”
 
-“Then stop making it convincing.”
+[[speaker:xie_wuchen]]“Then stop making it convincing.”
 
 Behind them, a Shinsei pursuit group gained.
 
@@ -650,23 +650,23 @@ Pain sharpened.
 
 Rui said, “Xie.”
 
-“No.”
+[[speaker:xie_wuchen]]“No.”
 
-“You don’t know what I was going to say.”
+[[speaker:rui]]“You don’t know what I was going to say.”
 
-“You were going to tell me to leave you.”
+[[speaker:xie_wuchen]]“You were going to tell me to leave you.”
 
 Silence.
 
 Xie smiled without humor.
 
-“Predictable.”
+[[speaker:xie_wuchen]]“Predictable.”
 
-“You will damage yourself.”
+[[speaker:rui]]“You will damage yourself.”
 
-“Yes.”
+[[speaker:xie_wuchen]]“Yes.”
 
-“Why?”
+[[speaker:rui]]“Why?”
 
 Xie almost laughed.
 
@@ -676,21 +676,21 @@ Now Rui was asking why he stayed.
 
 Apparently life had become irritatingly symmetrical.
 
-“Because I took the number.”
+[[speaker:xie_wuchen]]“Because I took the number.”
 
 Rui looked at him.
 
 Xie continued running.
 
-“I’m not replacing Yun.”
+[[speaker:xie_wuchen]]“I’m not replacing Yun.”
 
-“I know.”
+[[speaker:rui]]“I know.”
 
-“I’m carrying the empty number.”
+[[speaker:xie_wuchen]]“I’m carrying the empty number.”
 
-“I know.”
+[[speaker:rui]]“I know.”
 
-“Then stop asking why I’m carrying people.”
+[[speaker:xie_wuchen]]“Then stop asking why I’m carrying people.”
 
 Rui shut up.
 
@@ -702,19 +702,19 @@ Medics took Rui.
 
 Luo looked at Xie.
 
-“You too.”
+[[speaker:luo]]“You too.”
 
-“No.”
+[[speaker:xie_wuchen]]“No.”
 
-“You’re limping.”
+[[speaker:luo]]“You’re limping.”
 
-“I am dramatically walking.”
+[[speaker:xie_wuchen]]“I am dramatically walking.”
 
-“You overstrained.”
+[[speaker:luo]]“You overstrained.”
 
-“I am Sovereign.”
+[[speaker:xie_wuchen]]“I am Sovereign.”
 
-“That does not make meridians decorative.”
+[[speaker:luo]]“That does not make meridians decorative.”
 
 Xie sighed.
 
@@ -732,11 +732,11 @@ Restricted duty several days.
 
 Xie looked offended.
 
-“This is what No.10 does?”
+[[speaker:xie_wuchen]]“This is what No.10 does?”
 
 Luo did not look up.
 
-“No. This is what you do.”
+[[speaker:luo]]“No. This is what you do.”
 
 That was fair.
 
@@ -782,21 +782,21 @@ Sera approved the raid with one condition.
 
 Ilyra looked offended.
 
-“I know.”
+[[speaker:ilyra]]“I know.”
 
-“Say it.”
+[[speaker:sera]]“Say it.”
 
-“No civilian fire spread.”
+[[speaker:ilyra]]“No civilian fire spread.”
 
-“Good.”
+[[speaker:sera]]“Good.”
 
-“I am not a child.”
+[[speaker:ilyra]]“I am not a child.”
 
-“No.”
+[[speaker:sera]]“No.”
 
 Sera paused.
 
-“You were worse when younger.”
+[[speaker:sera]]“You were worse when younger.”
 
 Ilyra glared.
 
@@ -866,25 +866,25 @@ She hated it.
 
 Sera visited the field hospital.
 
-“You succeeded.”
+[[speaker:sera]]“You succeeded.”
 
-“I know.”
+[[speaker:ilyra]]“I know.”
 
-“You’re alive.”
+[[speaker:sera]]“You’re alive.”
 
-“I noticed.”
+[[speaker:ilyra]]“I noticed.”
 
-“You are not returning tomorrow.”
+[[speaker:sera]]“You are not returning tomorrow.”
 
 Ilyra looked at her.
 
-“No.”
+[[speaker:ilyra]]“No.”
 
 Sera raised one eyebrow.
 
 Ilyra exhaled.
 
-“Fine.”
+[[speaker:ilyra]]“Fine.”
 
 Growth was ugly.
 
