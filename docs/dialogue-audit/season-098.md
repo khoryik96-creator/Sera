@@ -1,6 +1,6 @@
 # Season 98 — unattributed dialogue
 
-18 quoted lines in this season have no speaker.
+17 quoted lines in this season have no speaker.
 See `README.md` in this folder for what to do with them.
 
 Lines already resolved show their speaker in `[brackets]` for context.
@@ -104,14 +104,6 @@ Yun waited another full minute.
 
 ### Chapter 334 — Proof That Can Survive Her
 
-```
-Sera’s eyes narrowed.
-Rhen almost smiled.
-[rhen] “Comforting?”
->>> “No.”   <-- WHO SAYS THIS?
-He looked down at his hand.
-A petal formed above his palm.
-```
 ```
 White-blue.
 Perfect.

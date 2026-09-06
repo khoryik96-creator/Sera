@@ -1108,7 +1108,7 @@ Rhen almost smiled.
 
 “Comforting?”
 
-“No.”
+[[speaker:sera]]“No.”
 
 He looked down at his hand.
 
