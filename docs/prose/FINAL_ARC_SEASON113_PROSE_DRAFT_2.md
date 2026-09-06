@@ -422,9 +422,7 @@ Tsubasa pulled.
 
 Rhen moved one step.
 
-Only one.
-
-That was enough for Tsubasa.
+Only one. Tsubasa needed no second warning.
 
 He released the stored force from **Heaven Returns What It Receives** through the next committed pull.
 

@@ -1090,9 +1090,7 @@ Sera's eyes sharpened.
 
 That changed the problem.
 
-Not because the source was Wuyue.
-
-Because the route touched home.
+The source being Wuyue was less important than the route touching home.
 
 Lu handed the packet to Sera.
 

@@ -394,11 +394,7 @@ Then four charcoal marks.
 
 “Four-month readiness cycle. Late month three. Launch window may be weeks.”
 
-Yun stopped.
-
-That was enough.
-
-Enough for Sera to act.
+Yun stopped. She had enough for Sera to act.
 
 Enough for Lu to verify.
 

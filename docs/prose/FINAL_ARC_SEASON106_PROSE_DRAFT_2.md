@@ -55,11 +55,7 @@ Kenji’s expression tightened.
 
 “It should still sound terrible.”
 
-Kenji looked at her.
-
-There it was.
-
-The thing the war had started doing to him.
+Kenji looked at her, caught again by the question the war had taught him to postpone.
 
 Separating the fact that a battlefield action could be legitimate inside a war from the question of whether the war itself was legitimate.
 
@@ -333,31 +329,29 @@ Kenji’s injuries would have ended an ordinary cultivator’s season.
 
 Aya gave him back to the war in days.
 
-That was the horror.
+The speed was not miraculous. It was work so concentrated that, from outside the treatment room, it looked almost worse.
 
-Not instant.
+Fourteen hours for the first repair cycle. Seven Pulse Needles stabilizing nerve disruption. White Thread Sutra laid carefully around torn meridian walls. Cooling treatment for Thunder-Qi overdraw. Joint reconstruction one layer at a time because forcing the shoulder closed too quickly would have preserved strength and ruined motion.
 
-Not effortless.
+Aya slept for three hours on a bench between the first and second cycles.
 
-She spent fourteen hours on the first repair cycle.
+Kenji woke before she did.
 
-Seven Pulse Needles to stabilize nerve disruption.
+He stared at his repaired hand until she opened one eye.
 
-White Thread Sutra around torn meridian walls.
+“Move the fingers.”
 
-Cooling treatment for Thunder-Qi overdraw.
+“All of them?”
 
-Joint reconstruction.
+“If I wanted only some, I would have said so.”
 
-Muscle repair.
+He obeyed.
 
-Two days of controlled circulation before maximum output testing.
+No tremor.
 
-Then another treatment cycle.
+Aya sat up, checked the wrist, then the elbow, then the shoulder. The work was not finished, but the body was beginning to believe it belonged to itself again.
 
-Kenji complained constantly.
-
-Aya found that reassuring.
+Kenji watched her expression.
 
 “You’re smiling.”
 
@@ -371,47 +365,71 @@ Aya found that reassuring.
 
 “Yes.”
 
-Kenji looked at his repaired hand.
+The answer made him laugh. The laugh pulled at his ribs and stopped him immediately.
+
+Aya pointed at him without looking up from the chart.
+
+“That is why you are not finished.”
+
+Two days later he could rotate the shoulder through its full range. On the fourth, he could circulate Thunder Qi through the repaired arm without the old hitch. On the fifth, Aya let him stand under load and made him repeat the same motion until boredom replaced caution.
+
+Only then did Kenji ask the question he had been avoiding.
 
 “Will it be normal?”
 
-“Yes.”
+“Recoverable damage, yes.”
 
 “All of it?”
 
-“Recoverable damage, yes.”
+“Yes.”
 
-He stared.
+He looked at the shoulder Sigrun had nearly destroyed.
 
-“I thought Sigrun ended my shoulder.”
+“I thought she ended this arm.”
 
 “She nearly did.”
 
 “And you fixed it.”
 
-“Yes.”
+“I treated it.”
 
-Kenji looked uncomfortable.
+“That sounds like the same thing.”
 
-Aya noticed.
+“It is not.”
 
-“What?”
+Aya set the chart aside.
 
-“If she beats me again?”
+The distinction sat between them for several breaths.
+
+Kenji had spent most of his adult life believing physical consequence clarified moral consequence. You fought. You were wounded. You paid. If you survived, the pain at least proved something had happened.
+
+Now his body was erasing the evidence faster than his mind could.
+
+“If she beats me again?” he asked.
 
 “That is not medical.”
 
 “I know.”
 
-Aya sat.
+Aya waited.
 
-He continued.
+Kenji looked toward the canvas wall as though Isgard existed immediately beyond it.
 
 “Raska died.”
 
 “Yes.”
 
-“Tor retired.”
+“Halvek too.”
+
+“Yes.”
+
+“Tor cannot return to the frontline.”
+
+“Yes.”
+
+“Eldran may never fight properly again.”
+
+Aya’s eyes lowered.
 
 “Yes.”
 
@@ -419,67 +437,73 @@ He continued.
 
 “Yes.”
 
-“And I get to come back whole.”
+He flexed the repaired hand once more.
 
-Aya’s expression changed.
+“And I get this.”
 
-There it was.
+Aya understood before he finished.
 
-The strategic asymmetry made personal.
+Not guilt exactly. The first honest recognition of an asymmetry he had previously experienced only as advantage.
 
-Shinsei could keep recycling living apex fighters as long as Aya had time.
+Shinsei could recycle a living apex fighter if Aya had enough time and the damage remained physically recoverable. Isgard could not ask Raska to stand again. No technique made Halvek less dead. Tor’s destroyed future frontline capacity did not become temporary because the enemy physician was talented.
 
-Isgard had lost Halvek permanently.
-
-Raska permanently.
-
-Tor’s frontline career permanently.
-
-Eldran permanently.
-
-Kenji got repaired.
-
-Not because his life mattered more.
-
-Because Aya was there.
-
-He looked at her.
+Kenji swallowed.
 
 “That doesn’t feel fair.”
 
 “No.”
 
-“Should I refuse?”
+“Should I refuse the rest of the treatment?”
 
-Aya became still.
+Aya became very still.
 
 “No.”
 
 He blinked.
 
-She continued.
-
-“You do not honor dead people by making more injuries permanent when they can be healed.”
+“You do not honor dead people by making one more injury permanent when it can be healed.” Her voice was quiet, but there was iron beneath it. “A physician does not correct injustice by creating another patient.”
 
 Kenji looked down.
 
-“Then what?”
+“Then what am I supposed to do with it?”
+
+“The body?”
+
+“The fact that I get it back.”
+
+Aya glanced at the repaired shoulder, then at his face.
 
 “Decide what you do with the body afterward.”
 
-That was the question.
+That answer stayed with him through the final circulation test.
 
-Aya could return flesh.
+Aya restored tendon, nerve, muscle and meridian. She could return the clean mechanics of Stormstep Dominion. She could make the shoulder strong enough to hold a sword as if Sigrun had never driven a spear through his certainty.
 
-Could not decide purpose.
+She could not restore the certainty itself.
 
-Kenji flexed his fingers.
+When Kenji finally stood in armor again, he rolled the shoulder once and found nothing wrong.
 
-The shoulder moved cleanly.
+Physically, he was whole.
 
-Physically whole.
+He thanked Aya before leaving.
 
-Certainty not included.
+She did not look up from the next chart.
+
+“You owe me no obedience because I treated you.”
+
+“I know.”
+
+“No extra years because I returned your body.”
+
+Kenji paused at the flap.
+
+“I know that too.”
+
+This time Aya believed him.
+
+She had given him back his body.
+
+What he chose to make it mean would have to be his.
 
 ---
 

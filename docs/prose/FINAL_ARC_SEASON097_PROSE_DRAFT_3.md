@@ -300,9 +300,7 @@ Shunto had taken Yun’s greatest weapon against him—the fact that his style w
 
 Yun read the copied directives in a rented room and felt a familiar anger.
 
-Not because he was adapting.
-
-Because he was good.
+His adaptation was not what angered her. His competence was.
 
 Stupidity was easy to survive.
 

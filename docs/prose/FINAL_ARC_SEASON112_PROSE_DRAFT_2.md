@@ -78,11 +78,7 @@ Rhen's gaze stayed on the dark horizon.
 
 “I can stop Tsubasa.”
 
-Sera did not answer immediately.
-
-There it was.
-
-No boast.
+Sera did not answer immediately. Rhen’s certainty sat between them without boast.
 
 No threat.
 
@@ -338,9 +334,7 @@ Rhen's hand tightened around hers.
 
 “Then I catch you.”
 
-She smiled.
-
-There it was.
+She smiled. That was the difference she had been waiting for.
 
 Not rescue before the fall.
 
@@ -1082,11 +1076,7 @@ Sera smiled.
 
 “Everything has a simple answer when nobody is trying to win.”
 
-Tsubasa's eyes narrowed.
-
-There it was.
-
-If he refused hostile commitment entirely, Orchid Dominion gave Sera nothing.
+Tsubasa's eyes narrowed. He had found the choice inside her rule: if he refused hostile commitment entirely, Orchid Dominion gave Sera nothing.
 
 But then he also stopped applying pressure.
 

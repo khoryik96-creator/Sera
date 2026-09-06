@@ -2006,6 +2006,4 @@ Not today.
 
 Not without cost.
 
-But eventually.
-
-And that was enough for one morning.
+But eventually. For one morning, that was all they needed.

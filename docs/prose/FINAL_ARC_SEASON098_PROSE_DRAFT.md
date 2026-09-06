@@ -30,9 +30,7 @@ Then the widow’s nephew received a new municipal inspection assignment.
 
 Yun left before dawn.
 
-Not because the nephew had betrayed her.
-
-Because he might be ordered to inspect his own building and become guilty without ever choosing to be.
+The nephew had not betrayed her. He might simply be ordered to inspect his own building and become guilty without ever choosing it.
 
 That was the problem with hiding under a government this complete.
 
@@ -182,9 +180,7 @@ The thought landed without warning.
 
 Yun stopped on the stair.
 
-Not because of danger.
-
-Because for one second she could see Luo leaning against their clinic table while she explained that her fictional husband snored and lost money at dice.
+Danger had nothing to do with the pause. For one second she could see Luo leaning against their clinic table while she explained that her fictional husband snored and lost money at dice.
 
 He would have asked whether the fake husband at least washed his cups.
 
@@ -224,9 +220,7 @@ And Luo’s notebook.
 
 The notebook had become the most dangerous object in Shinrin.
 
-Not because anybody else could read it completely.
-
-Because Shunto knew she was reading.
+Its danger did not come from anyone else reading it completely. Shunto knew she was reading.
 
 Eventually he would understand she was writing too.
 
@@ -326,11 +320,9 @@ Safehouses had become calendar marks.
 
 Routes had become a countdown.
 
-And for the first time since arriving in Shinrin, Yun could feel the investigation approaching an end.
+Yun could feel the investigation narrowing toward an end.
 
-Not because she had solved everything.
-
-Because soon there would be nowhere left to stand while solving it.
+She had not solved everything. Soon there would simply be nowhere left to stand while solving it.
 
 ---
 
@@ -558,19 +550,13 @@ The old man looked at her as though she had asked whether winter was colder than
 
 “Of course.”
 
-That was enough.
-
-She did not ask for secret techniques.
+She had what she could defend and did not ask for secret techniques.
 
 People who possessed those details did not tell them to travelling apothecaries over cheap liquor.
 
 Back in her room, Yun opened Luo’s notebook.
 
-She did not write ten names.
-
-She did not have ten names with confidence.
-
-She wrote what she could defend.
+She refused to write ten names merely to make the list look complete. Instead she wrote only what she could defend.
 
 **Shinsei maintains ten ranked Seat officers. Multiple independent medical and administrative records classify Seat-level treatment as Paragon protocol. Treat all ten as Paragon unless disproven.**
 
@@ -584,19 +570,9 @@ And below that:
 
 Yun underlined the last sentence.
 
-Exact arts unknown.
+Exact arts unknown. The uncertainty belonged in the report as firmly as the confirmed ranks.
 
-That mattered.
-
-She did not know their Domains.
-
-She did not know how the ten fought together.
-
-She did not know which were stationed near the capital and which were abroad.
-
-She did not know whether every one would participate in an invasion.
-
-Those unknowns had to remain unknown.
+Their Domains remained unknown, as did how the ten fought together, which of them were stationed near the capital, and whether every seat would join an invasion. Yun left those gaps visible instead of filling them with confidence she had not earned.
 
 Fear was not permission to invent intelligence.
 
@@ -650,9 +626,7 @@ But somewhere, eventually, someone had to count mouths.
 
 Yun began with rice.
 
-Not because rice was dramatic.
-
-Because soldiers ate it.
+Rice was not dramatic. Soldiers still had to eat it.
 
 A northern grain authority published quarterly storage allocations for disaster planning. The document was public enough that nobody considered it dangerous.
 
@@ -690,9 +664,7 @@ Yun stared at it.
 
 Too low.
 
-Not because she wanted a bigger threat.
-
-Because clinic consumption alone implied more wounded trainees than the payroll category could produce.
+She did not want a bigger threat; clinic consumption simply implied more wounded trainees than the payroll category could produce.
 
 She checked the classification code.
 
@@ -1058,9 +1030,7 @@ That had become work.
 
 Sera could tell.
 
-Not because his face changed.
-
-Because she knew what his stillness looked like when it was effortless.
+His face gave nothing away, but Sera knew what his stillness looked like when it was effortless.
 
 This was not that.
 

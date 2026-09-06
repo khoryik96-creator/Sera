@@ -1022,11 +1022,7 @@ Endless Dominion shifted the timing between her balance correction and Wind-Qi b
 
 She remained functional.
 
-Barely.
-
-That mattered.
-
-Haru stored spear lines anyway.
+Barely. Haru stored spear lines anyway.
 
 One.
 
@@ -1464,9 +1460,7 @@ Qin continued.
 
 “That information is useful to us too.”
 
-There it was.
-
-Not mercy.
+Qin’s choice was strategy, not mercy.
 
 Not only.
 

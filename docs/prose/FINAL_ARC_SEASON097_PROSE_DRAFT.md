@@ -696,9 +696,7 @@ Rhen’s smile returned.
 
 The room warmed slightly.
 
-Not because the problem was solved.
-
-Because he was awake enough to control it again.
+The problem remained; he was simply awake enough to control it again.
 
 Sera settled back against him.
 

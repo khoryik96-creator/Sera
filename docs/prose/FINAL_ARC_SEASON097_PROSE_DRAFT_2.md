@@ -254,9 +254,7 @@ No victory.
 
 No duel.
 
-Only distance.
-
-For now, that was enough.
+Only distance. For now, distance was enough.
 
 ---
 
@@ -354,9 +352,7 @@ A slow-reacting powder clung to the rafters where heat from the old dye vats had
 
 Yun had prepared the building as a contingency after finding the address in a clerk’s ledger.
 
-Not because she expected Shunto specifically.
-
-Because survival favored people who prepared rooms before they needed them.
+She had not expected Shunto specifically. She had prepared the room because survival favored people who prepared before they needed to.
 
 Shunto said, “Come with me.”
 
@@ -716,9 +712,7 @@ Lu closed the ledger.
 
 They did.
 
-Not because Lu was stronger.
-
-Because somehow everyone eventually obeyed the man holding the documents.
+Lu was not stronger; somehow everyone eventually obeyed the man holding the documents.
 
 He tapped one line.
 

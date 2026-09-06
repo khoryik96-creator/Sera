@@ -136,11 +136,7 @@ Haru answered without pretending certainty.
 
 “Quaint?”
 
-Haru paused.
-
-There it was.
-
-The blank space.
+Haru paused. The blank space in the schedule had become impossible to ignore.
 
 “Fragmentary.”
 
@@ -192,11 +188,7 @@ Haru glanced at him.
 
 “Then why do it?”
 
-Haru looked at Tsubasa.
-
-Not because he lacked the answer.
-
-Because it was Tsubasa's decision to own.
+Haru looked at Tsubasa. He had the answer, but the decision belonged to Tsubasa.
 
 Tsubasa stood.
 
@@ -368,9 +360,7 @@ The lie entered the room quietly.
 
 Tsubasa accepted it.
 
-Not because he was stupid.
-
-Because Shunto had ended rebellions without massacres.
+It was not stupidity. Shunto had ended rebellions without massacres.
 
 Captured commanders alive.
 
@@ -598,9 +588,7 @@ Sera drank tea.
 
 “Imperial Army eighteen thousand.”
 
-Mo Qingzhao's marker was the largest single public manpower block on the board.
-
-That mattered.
+Mo Qingzhao's marker was the largest single public manpower block on the board, a fact Jin kept central to every deployment choice.
 
 The Imperial Army was not the strongest formation per person.
 

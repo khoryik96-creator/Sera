@@ -145,11 +145,7 @@ Then walked away.
 
 He did not look convinced.
 
-He also did not stop the meal.
-
-That mattered.
-
-By evening, seventy-three prisoners had become one hundred twelve.
+He also did not stop the meal. By evening, seventy-three prisoners had become one hundred twelve.
 
 The number kept rising as scattered Shinsei groups realized the retreat corridor remained open to those who dropped weapons.
 
@@ -253,7 +249,7 @@ The soldier shrugged.
 
 “Severe fatigue. Meridian strain. Several months before full vitality recovery if overused.”
 
-There it was.
+The number on the page was the difference.
 
 Not five years.
 
@@ -597,11 +593,7 @@ That made it sharper.
 
 He looked away.
 
-Aya returned to the needles.
-
-There it was.
-
-The reason she had stayed.
+Aya returned to the needles. This was why she had stayed.
 
 Jun would live because she was here.
 
@@ -738,8 +730,6 @@ Tsubasa looked up.
 “Only six.”
 
 “Yes.”
-
-That mattered.
 
 Their pre-war model had assumed Kael would either remain home or move a greater share of Stonecrown if Wuyue committed seriously.
 
@@ -945,9 +935,7 @@ Haru paused.
 
 “The real depth of the private organization.”
 
-There it was.
-
-The intelligence sacrifice from accelerating the invasion.
+Accelerating the invasion had bought time by spending intelligence.
 
 Tsubasa looked at Hana.
 

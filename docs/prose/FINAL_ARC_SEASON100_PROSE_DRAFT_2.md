@@ -116,9 +116,7 @@ Yun closed her eyes again.
 
 The room changed.
 
-Not because No.10 meant she suddenly deserved more medicine.
-
-Because Wuyue and Isgard had a defensive pact, and one of Wuyue’s public Top Ten had just crossed the border nearly dead while insisting on an officer.
+The No.10 title did not make her more deserving of medicine. It activated a defensive pact between Wuyue and Isgard, and one of Wuyue’s public Top Ten had just crossed the border nearly dead while insisting on an officer.
 
 The physician turned toward the door.
 
@@ -298,9 +296,7 @@ He paused.
 
 “Foreign invasion preparation against Isgard.”
 
-That was enough.
-
-Hallen’s face hardened.
+Hallen’s face hardened. He had heard enough.
 
 “Confirmed?”
 
@@ -704,9 +700,7 @@ Yun relaxed by a fraction.
 
 The physician took her hand.
 
-Not because medicine required it.
-
-Because sometimes physicians ran out of medicine before they ran out of hands.
+Medicine did not require the touch. Sometimes physicians ran out of medicine before they ran out of hands.
 
 Yun looked at him.
 
@@ -1056,9 +1050,7 @@ Then he reached the Axtaya notes.
 
 Physician returned to his face.
 
-Not because grief disappeared.
-
-Because Yun had spent her final strength giving him work that mattered.
+Grief remained. So did the work Yun had spent her final strength giving him.
 
 Luo stood.
 

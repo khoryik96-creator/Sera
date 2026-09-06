@@ -836,6 +836,4 @@ Yun's tea cooled untouched on the table.
 
 Nobody tried to replace her.
 
-Nobody forgot her.
-
-That was enough.
+Nobody forgot her. They did not need a second Pale Venom to prove it.

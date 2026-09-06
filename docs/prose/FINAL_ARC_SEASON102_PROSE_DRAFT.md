@@ -1196,9 +1196,7 @@ Nao looked furious.
 
 Nao's sword paused for half a beat.
 
-There it was again.
-
-The same thing Kenji had found in Raska.
+Nao recognized the pattern Kenji had found in Raska.
 
 Shinsei had planned to defeat an army.
 

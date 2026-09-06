@@ -46,11 +46,7 @@ Liang smiled.
 
 “Usually.”
 
-They were not fighting for a knockout.
-
-That mattered.
-
-Nao held a broad retreat-control field over Shinsei’s right sector.
+They were not fighting for a knockout. Nao held a broad retreat-control field over Shinsei’s right sector.
 
 Liang’s assignment was to extract nearly three thousand wounded Wuyue and Isgard personnel from a corridor that was becoming untenable.
 
@@ -202,49 +198,45 @@ War had become full of victories that did not fit on one line.
 
 ## Chapter 422 — Jun Finishes Healing
 
-Aya removed the last restriction from Jun Kajihara’s chart.
+Aya removed the last restriction from Jun Kajihara’s chart just after dawn.
 
-He read it twice.
+He read the line twice, suspicious of good news on principle.
 
 “Full?”
 
 “Recoverable conventional damage: effectively full.”
 
-Jun flexed the arm Kael had damaged weeks earlier.
+“Effectively?”
+
+“Medicine uses words carefully. Try it sometime.”
+
+Jun ignored the insult and flexed the arm Kael had damaged weeks earlier.
 
 No instability.
 
-He rotated the shoulder.
+He rotated the shoulder through a slow circle. No pain. A full breath produced no catch beneath the ribs. Even the deep meridian bruise that had made Gatebreaker Halberd feel half a beat late was gone.
 
-No pain.
+Aya had taken him from near-collapse to seventy-eight percent in days because Shinsei needed bodies back on the line. The rushed return had never been the same as healing. She had known it. Jun had known it. Command had known it and used him anyway.
 
-Breathed deeply.
+Now enough uninterrupted treatment had finally passed for the remainder to close.
 
-Chest held.
+Jun looked at the clean chart.
 
-Aya had taken him from near-collapse to seventy-eight percent in days.
+“So I can go back.”
 
-Then war demanded him back early.
+“I said you are medically cleared.”
 
-Now enough uninterrupted treatment had passed that the remaining damage was gone.
+“That means I can go back.”
 
-Jun looked at her.
+“It means your body is no longer the reason you cannot.”
 
-“You’re terrifying.”
+He looked at her.
 
-Aya continued writing.
+Aya’s expression remained neutral.
 
-“I am a physician.”
+Jun had learned that neutral was where she hid the most complicated answers.
 
-“That did not contradict me.”
-
-No.
-
-It did not.
-
-Jun took the halberd.
-
-Then paused.
+He picked up the halberd resting beside the cot, tested its weight, then stopped before leaving.
 
 “Kael?”
 
@@ -252,25 +244,77 @@ Then paused.
 
 “If I fight him again, I don’t make the same mistake.”
 
-Aya looked up.
-
 “That is not a medical observation.”
 
 “No.”
 
 “Good.”
 
-She returned to the chart.
+Jun did not move.
 
-Jun’s expression became serious.
+Aya eventually looked up.
+
+“What?”
+
+He had spent his recovery reading battlefield summaries because lying still was intolerable and because the first loss to Kael had embarrassed him enough to become educational. The reports contained more than technique notes now.
+
+Halvek’s road.
+
+Raska’s river retreat.
+
+Tor’s retirement.
+
+Eldran’s ruined frontline future.
+
+Sigrun returning after Kenji nearly killed her.
+
+People on the other side kept paying costs that Aya could erase from Shinsei bodies but not from theirs.
+
+“I used to think recovery meant we were harder to defeat,” Jun said.
+
+“We are.”
+
+“That is not what I mean.”
+
+Aya put the brush down.
+
+Jun continued. “Kael beat me. I came back before I was ready. Then I finished healing anyway. Kenji loses and you rebuild him. Eirik gets hurt and comes back. We keep treating the fact that we can stand again as proof we should keep standing in the same place.”
+
+Aya watched him carefully.
+
+“Do you want me to disagree?”
+
+“No.”
+
+“Good.”
+
+He almost smiled.
+
+Then his face settled again.
+
+“Does getting cleared mean you think I should fight?”
+
+“No.”
+
+The answer came too quickly to misunderstand.
+
+Aya tapped the chart.
+
+“This says your shoulder will not fail because I released you. It says your meridians can sustain your own cultivation. It says the injuries Kael gave you are healed. It does not tell you what your orders mean, whether the invasion is right, or whether a second fight is worth another field full of wounded people.”
+
+Jun’s grip shifted on the halberd.
+
+“You make medicine sound annoyingly limited.”
+
+“It is. That is why physicians become dangerous when governments start asking medicine to answer political questions.”
+
+He looked at her for a long time.
 
 “Thank you.”
 
 Aya’s brush stopped.
 
-“For healing me.”
-
-She looked at him.
+“For healing me,” he added.
 
 “You do not owe me obedience because I treated you.”
 
@@ -278,23 +322,25 @@ She looked at him.
 
 “You do not owe Shinsei more years because I returned your body.”
 
-Jun became still.
+Jun went still at the wording.
 
-Aya continued.
+Redline had made that sentence impossible to hear innocently.
 
-“That distinction matters now.”
+Aya did not soften it.
 
-He nodded slowly.
+“Medical clearance is not ownership.”
 
-Then left.
+Jun nodded once.
 
-On the Wuyue side, intelligence received confirmation before noon.
+Then left with his halberd and a body that felt as though the first fight had never happened.
 
-Jun Kajihara.
+The first fight had happened anyway.
 
-Back at full conventional combat capacity.
+On the Wuyue side, confirmation reached intelligence before noon.
 
-Kael read the report from a recovery bench.
+**Jun Kajihara — returned to full conventional combat capacity.**
+
+Kael read the report from a recovery bench while a physician retied the brace on his knee.
 
 “Again?”
 
@@ -308,11 +354,11 @@ Luo nodded.
 
 “Yes.”
 
-“And now he’s fine.”
+“And now he is fine.”
 
 “Yes.”
 
-Kael looked deeply offended by medicine.
+Kael looked personally offended by the concept of successful medicine.
 
 Luo folded the report.
 
@@ -328,15 +374,21 @@ Luo folded the report.
 
 “He is unfair.”
 
-Luo considered.
+Luo considered the argument.
 
 “Valid.”
 
-The problem remained.
+Then he added a new notation beside Jun’s name.
 
-Aya did not need Shinsei to win every battle.
+**Defeated once does not equal removed.**
 
-She only needed their Paragons to survive them.
+Kael stopped joking.
+
+The sentence was the real problem.
+
+Aya did not need Shinsei to win every battle. She did not even need its Paragons to avoid losing.
+
+She only needed the living ones to reach her with enough body left to repair.
 
 ---
 
@@ -700,7 +752,7 @@ No invented army.
 
 Just a Sovereign using exactly what he had until it nearly broke.
 
-For the first time, the number felt like his without feeling less like Yun’s history.
+The number finally felt like his without taking anything from Yun’s history.
 
 ---
 
@@ -766,11 +818,7 @@ She killed two depot commanders who refused surrender and attacked first.
 
 Disabled four others.
 
-Her team opened the medical storage before ignition to separate legitimate medicine from Redline stock.
-
-That mattered.
-
-Axtaya had grown from medicine.
+Her team opened the medical storage before ignition to separate legitimate medicine from Redline stock. The separation mattered because Axtaya had grown from medicine.
 
 Not every vial in a Shinsei hospital deserved fire.
 

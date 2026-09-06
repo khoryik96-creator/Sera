@@ -8,11 +8,7 @@
 
 ## Chapter 375 — Eldran Stands Where Maedra Would Have Died
 
-Maedra Dravaryn had already been wounded twice before Jun Kajihara found her.
-
-That mattered.
-
-Nobody crossed a month of invasion as a fresh diagram.
+Maedra Dravaryn had already been wounded twice before Jun Kajihara found her. Nobody crossed a month of invasion as a fresh diagram.
 
 Her left thigh carried a deep sword cut from an earlier Shinsei push.
 

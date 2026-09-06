@@ -236,11 +236,7 @@ Jin rubbed both eyes.
 
 “Enough in both waves that Shinsei cannot simply eat the landing.”
 
-Sera nodded.
-
-That mattered.
-
-Sending physicians first did not mean sending them undefended.
+Sera nodded. Sending physicians first did not mean sending them undefended.
 
 It meant deciding what the landing existed to accomplish.
 
@@ -254,9 +250,7 @@ Sera’s hand tightened around the tea cup.
 
 “Report is thirty-one hours old.”
 
-There it was again.
-
-Distance.
+Distance again.
 
 Not magical.
 
@@ -810,11 +804,7 @@ Brynja had three coastline sectors underlined twice.
 
 Astrid was arguing with a quartermaster about whether a forest path counted as a road if wagons had to be dismantled to use it.
 
-Sera stopped in the doorway.
-
-There it was.
-
-Not absence.
+Sera stopped in the doorway. What she found was not absence.
 
 Survival.
 
@@ -1126,4 +1116,4 @@ He picked up the new poison notes.
 
 Sera leaned forward.
 
-And the room where Yun died became, for the first time since Day Zero, a place where something new began.
+The room where Yun died became, after Day Zero, a place where something new could begin.

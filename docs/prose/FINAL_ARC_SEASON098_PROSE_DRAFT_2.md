@@ -814,9 +814,7 @@ Shunto’s mouth twitched.
 
 Yun believed him.
 
-Not because Shunto was kind.
-
-Because killing a transport-seal broker would waste information.
+Kindness had nothing to do with it; killing a transport-seal broker would waste information.
 
 “You disappoint me,” she said.
 
@@ -1006,11 +1004,7 @@ Yun exhaled.
 
 Then threw a poison needle directly at Shunto’s face.
 
-He did not catch it.
-
-He did not dodge dramatically.
-
-He stepped half a pace aside.
+He neither caught it nor wasted motion on a dramatic dodge. He stepped half a pace aside.
 
 The needle passed.
 

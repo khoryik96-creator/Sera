@@ -1144,11 +1144,7 @@ Sera looked up.
 
 She tried one more time.
 
-Her circulation failed to answer cleanly.
-
-That was enough.
-
-The medical observers saw it.
+Her circulation failed to answer cleanly. The medical observers saw it immediately.
 
 Aya raised one hand on the Shinsei side.
 

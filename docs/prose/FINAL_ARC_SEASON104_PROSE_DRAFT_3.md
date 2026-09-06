@@ -53,11 +53,7 @@ Hana moved too.
 
 Not boosted.
 
-Still herself.
-
-That mattered.
-
-She used Haru’s new pace as structure rather than trying to imitate it.
+Still herself. She used Haru’s new pace as structure rather than trying to imitate it.
 
 Hollow Sky pressure pockets took away Yurushi’s easiest breathing corridors.
 
@@ -1093,9 +1089,7 @@ Yurushi said nothing.
 
 Tae continued walking.
 
-The answer stayed between them.
-
-That was enough.
+The answer stayed between them. Neither needed to press it further.
 
 At the first field infirmary, the physician took one look at Yurushi and shouted for a trauma table.
 

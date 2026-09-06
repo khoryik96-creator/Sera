@@ -86,15 +86,11 @@ Now she wore it more easily.
 
 Two years had done that.
 
-Not because the war had been forgotten.
-
-It had not.
+The war had not been forgotten.
 
 The repaired road below the mountain still passed markers carved with the names of men and women who had not returned from Isgard. Veterans came through the shop with new canes, new silences, new habits of sitting where they could see the door. Arin's swordswomen still arrived in groups smaller than the ones people remembered. Even laughter in the tea room sometimes carried the careful shape of something people had relearned.
 
-But peace had become real enough to be ordinary again.
-
-That mattered.
+Peace had become real enough to be ordinary again, and Sera valued the ordinariness more than she expected.
 
 Sera stepped onto the first rung of the ladder.
 
@@ -278,9 +274,7 @@ Lu noticed.
 
 The room went quiet for exactly one second.
 
-Not because anyone was shocked.
-
-Because Huo had just entered through the side door carrying an entire training post over one shoulder.
+Shock had nothing to do with it. Huo had just entered through the side door carrying an entire training post over one shoulder.
 
 Tae followed him.
 
@@ -434,7 +428,7 @@ Outside, the crooked sign creaked in the morning breeze.
 
 Below it, the world had finally learned how to have breakfast again.
 
-For the first time in a long time, nobody in the room was waiting for war.
+Nobody in the room was waiting for war. More than the quiet streets outside, that made peace feel real.
 
 ---
 
@@ -512,11 +506,7 @@ Sera released his wrist and sat up, pulling the blanket around herself.
 
 Two years earlier, when the war ended and the roads began filling with survivors instead of soldiers, Rhen had asked if she wanted the Frozen Petals Garden restored over the core household.
 
-Not because she was weak.
-
-Not because he believed she could not protect herself.
-
-She had already proved the opposite.
+Weakness had nothing to do with the offer, and neither did any doubt that she could protect herself. She had already proved the opposite.
 
 She had reached Paragon under her own will, fought two Paragons at once, lost honestly, stood up afterward, and told Rhen more than once that she would never again allow protection to become a cage.
 
@@ -546,9 +536,7 @@ And again.
 
 And again.
 
-Not because the Garden switched off every six months.
-
-Because he refused to treat old consent like permanent ownership.
+The Garden did not switch off every six months; Rhen simply refused to treat old consent like permanent ownership.
 
 Sera looked down at him.
 
