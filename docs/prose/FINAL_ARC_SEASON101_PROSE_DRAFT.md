@@ -854,17 +854,17 @@ It was Yun.
 
 Lu leaned forward slightly.
 
-“Useful?”
+[[speaker:luweiran]]“Useful?”
 
-“Yes.”
+[[speaker:luo]]“Yes.”
 
-“New?”
+[[speaker:luweiran]]“New?”
 
-“Some.”
+[[speaker:luo]]“Some.”
 
-“Enough to change deployment?”
+[[speaker:luweiran]]“Enough to change deployment?”
 
-“Not yet.”
+[[speaker:luo]]“Not yet.”
 
 Luo kept reading.
 
@@ -896,7 +896,7 @@ He stopped breathing for a moment.
 
 Sera saw it.
 
-“What?”
+[[speaker:sera]]“What?”
 
 Luo did not answer.
 
@@ -962,15 +962,15 @@ Lu exhaled through his nose.
 
 Luo looked at him.
 
-“Do not make this a moment.”
+[[speaker:luo]]“Do not make this a moment.”
 
-“I did not speak.”
+[[speaker:luweiran]]“I did not speak.”
 
-“Your face did.”
+[[speaker:luo]]“Your face did.”
 
-“My face is neutral.”
+[[speaker:luweiran]]“My face is neutral.”
 
-“Your face is irritating.”
+[[speaker:luo]]“Your face is irritating.”
 
 Sera said, “Eat.”
 
@@ -1000,15 +1000,15 @@ When the bowl was empty, Luo pulled a clean sheet toward himself.
 
 “What are you doing?” Sera asked.
 
-“Separating the useful parts.”
+[[speaker:luo]]“Separating the useful parts.”
 
-“You just finished reading it.”
+[[speaker:sera]]“You just finished reading it.”
 
-“Yes.”
+[[speaker:luo]]“Yes.”
 
-“And?”
+[[speaker:sera]]“And?”
 
-“And Shinsei's medical structure can tell us where it expects losses before troop reports do.”
+[[speaker:luo]]“And Shinsei's medical structure can tell us where it expects losses before troop reports do.”
 
 His eyes had changed.
 
@@ -1018,17 +1018,17 @@ Working.
 
 He drew three columns.
 
-“Give Jin this. Not the private notation.”
+[[speaker:luo]]“Give Jin this. Not the private notation.”
 
 Lu nodded.
 
-“Obviously.”
+[[speaker:luweiran]]“Obviously.”
 
-“Give Qin the route structure.”
+[[speaker:luo]]“Give Qin the route structure.”
 
-“Done.”
+[[speaker:luweiran]]“Done.”
 
-“Keep the original here.”
+[[speaker:luo]]“Keep the original here.”
 
 Sera said, “Under guard.”
 
@@ -1058,11 +1058,11 @@ Luo placed one palm over the paper.
 
 Sera heard.
 
-“What?”
+[[speaker:sera]]“What?”
 
 He looked at the empty bowl.
 
-“Nothing.”
+[[speaker:luo]]“Nothing.”
 
 But when he returned to work, he moved Yun's untouched cup slightly closer to the lamp.
 
