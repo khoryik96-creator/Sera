@@ -198,7 +198,7 @@ The clerk looked at the name.
 
 “Aya Katsuragi?”
 
-“Yes.”
+[[speaker:yun]]“Yes.”
 
 He stared at Yun as though she had asked whether rain still fell.
 
@@ -540,7 +540,7 @@ Sera leaned against the doorframe.
 
 [[speaker:sera]]“Anything?”
 
-“No.”
+[[speaker:luo]]“No.”
 
 [[speaker:sera]]“You’ve checked all drops?”
 
@@ -572,7 +572,7 @@ Sera followed his gaze.
 
 [[speaker:sera]]“You can straighten it.”
 
-“No.”
+[[speaker:luo]]“No.”
 
 [[speaker:sera]]“She’ll survive you touching paper.”
 
@@ -648,15 +648,15 @@ At the questions for continuing to be sensible.
 
 [[speaker:luo]]“She said three weeks.”
 
-“I know.”
+[[speaker:sera]]“I know.”
 
 [[speaker:luo]]“She said if she found nothing, she’d come back.”
 
-“I know.”
+[[speaker:sera]]“I know.”
 
 [[speaker:luo]]“She would contact me.”
 
-“I know.”
+[[speaker:sera]]“I know.”
 
 His hand closed around the notebook hard enough to whiten his knuckles.
 

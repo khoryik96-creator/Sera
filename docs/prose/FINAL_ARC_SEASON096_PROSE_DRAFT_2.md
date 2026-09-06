@@ -26,7 +26,7 @@ Sera looked at the packet.
 
 [[speaker:sera]]“To Shinrin.”
 
-“Yes.”
+[[speaker:yun]]“Yes.”
 
 Luo’s jaw tightened.
 
@@ -350,17 +350,17 @@ Yun closed the case.
 
 He walked in.
 
-“Three weeks.”
+[[speaker:luo]]“Three weeks.”
 
-“Yes.”
+[[speaker:yun]]“Yes.”
 
 [[speaker:luo]]“If you have nothing, you come back.”
 
-“Yes.”
+[[speaker:yun]]“Yes.”
 
 [[speaker:luo]]“If the route turns bad, you come back.”
 
-“Yes.”
+[[speaker:yun]]“Yes.”
 
 [[speaker:luo]]“If somebody stronger than you starts hunting you—”
 
@@ -380,7 +380,7 @@ He sat on the edge of the bed.
 
 [[speaker:luo]]“You’re enjoying this.”
 
-“No.”
+[[speaker:yun]]“No.”
 
 [[speaker:luo]]“You look amused.”
 
@@ -402,7 +402,7 @@ She came closer and stood between his knees.
 
 [[speaker:luo]]“That is not the same thing.”
 
-“No.”
+[[speaker:yun]]“No.”
 
 She touched two fingers beneath his chin and made him look up.
 
@@ -442,11 +442,11 @@ That was probably why Luo liked it.
 
 After a while he said, “Use the second notebook.”
 
-“I know.”
+[[speaker:yun]]“I know.”
 
 [[speaker:luo]]“The one with the false herb-index headings.”
 
-“I know.”
+[[speaker:yun]]“I know.”
 
 [[speaker:luo]]“Page offsets in thirds.”
 
@@ -480,9 +480,9 @@ The kind of kiss built from having done it enough times to know where the other 
 
 When she pulled back, Luo did not let go of her hand.
 
-“Three weeks.”
+[[speaker:luo]]“Three weeks.”
 
-“Three weeks.”
+[[speaker:yun]]“Three weeks.”
 
 [[speaker:luo]]“You owe me tea when you get back.”
 

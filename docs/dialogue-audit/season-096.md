@@ -1,76 +1,12 @@
 # Season 96 — unattributed dialogue
 
-75 quoted lines in this season have no speaker.
+46 quoted lines in this season have no speaker.
 See `README.md` in this folder for what to do with them.
 
 Lines already resolved show their speaker in `[brackets]` for context.
 
 ### Chapter 312 — Frost Where Rhen Did Not Mean It
 
-```
-[rhen] “How long what?”
-[sera] “How long have you been doing that when I’m not looking?”
-[rhen] “I don’t generally freeze pottery when you’re not looking.”
->>> “Rhen.”   <-- WHO SAYS THIS?
-He sighed.
-There were people in Wuyue who would rather fight a Sovereign than hear that tone from Sera.
-```
-```
-This quiet was crowded.
-Her fingers stayed there.
-[sera] “You’re full again.”
->>> “Yes.”   <-- WHO SAYS THIS?
-[sera] “How full?”
-Rhen considered lying.
-```
-```
-[rhen] “More than after the Isgard finale.”
-Sera’s gaze snapped up.
-[sera] “That was two years ago.”
->>> “I know.”   <-- WHO SAYS THIS?
-[sera] “And you’ve used qi constantly since then.”
-[rhen] “Healing. Garden maintenance. Training repairs. The occasional mountain.”
-```
-```
-For Rhen, whose baseline reserve was already ridiculous, efficiency had become accumulation.
-Sera’s fingers pressed slightly harder against his wrist.
-[sera] “Does it hurt?”
->>> “No.”   <-- WHO SAYS THIS?
-[sera] “Uncomfortable?”
-“Yes.”
-```
-```
-[sera] “Does it hurt?”
-“No.”
-[sera] “Uncomfortable?”
->>> “Yes.”   <-- WHO SAYS THIS?
-[sera] “How much?”
-[rhen] “Like being too full after dinner.”
-```
-```
-[rhen] “That seems unfair.”
-[sera] “You once tested a healing variation on yourself because you wanted to know whether broken ribs felt different when repaired from the inside.”
-[rhen] “They did.”
->>> “Rhen.”   <-- WHO SAYS THIS?
-He looked appropriately chastened.
-It was not convincing.
-```
-```
-Outside, the town moved through an ordinary night. A cart rolled over stone. Someone called for a child to come home. A dog barked twice and stopped.
-Sera rested her cheek against his shoulder.
-[sera] “Can you fix it?”
->>> “Yes.”   <-- WHO SAYS THIS?
-He answered too quickly.
-She lifted her head.
-```
-```
-[rhen] “It needs less space.”
-She followed his gaze.
-[sera] “The qi.”
->>> “Yes.”   <-- WHO SAYS THIS?
-[sera] “You mean condense it.”
-[rhen] “Eventually.”
-```
 ```
 Sera took that in without making it larger than it was.
 They had survived too many catastrophes to panic at every strange symptom.
@@ -83,44 +19,12 @@ Rhen glanced down at her.
 ### Chapter 313 — Leaving Is Still a Choice
 
 ```
-Xie looked at Sera as she stepped onto the roof.
-[xie_wuchen] “This is mine.”
-[sera] “The pear?”
->>> “Yes.”   <-- WHO SAYS THIS?
-[sera] “You took it from my kitchen.”
-[xie_wuchen] “I was given it.”
-```
-```
 Xie looked at her.
 She patted the tile beside her.
 He stayed where he was.
 >>> “Fine,” she said. “Be dramatic.”   <-- WHO SAYS THIS?
 [xie_wuchen] “I’m eating fruit.”
 [sera] “You’re eating it mysteriously.”
-```
-```
-[xie_wuchen] “That seems healthy.”
-Sera smiled.
-Then the smile faded.
->>> “Why did you leave?”   <-- WHO SAYS THIS?
-Xie finished chewing.
-[xie_wuchen] “After?”
-```
-```
-[xie_wuchen] “You’ve been talking to him a lot.”
-[sera] “He talks more when irritated.”
-[xie_wuchen] “That is unfortunate.”
->>> “Why did you leave?”   <-- WHO SAYS THIS?
-Xie looked at the pear core.
-[xie_wuchen] “Because staying means somebody gives you a title.”
-```
-```
-Xie glanced at her.
-[xie_wuchen] “No.”
-[sera] “Huo?”
->>> “No.”   <-- WHO SAYS THIS?
-[sera] “Qin?”
-[xie_wuchen] “Definitely not.”
 ```
 ```
 Then the next.
@@ -137,100 +41,6 @@ The apprentice who had given him the pear looked up.
 >>> “Will he?”   <-- WHO SAYS THIS?
 Sera considered the empty roof.
 [sera] “Ask me after he steals another pear.”
-```
-
-### Chapter 314 — Yun Asks for the Road
-
-```
-[yun] “I want to follow the chain.”
-Sera looked at the packet.
-[sera] “To Shinrin.”
->>> “Yes.”   <-- WHO SAYS THIS?
-Luo’s jaw tightened.
-The movement was so small that most people would have missed it.
-```
-
-### Chapter 315 — Three Weeks
-
-```
-[luo] “I am standing.”
-[yun] “You do both loudly.”
-He walked in.
->>> “Three weeks.”   <-- WHO SAYS THIS?
-“Yes.”
-[luo] “If you have nothing, you come back.”
-```
-```
-[yun] “You do both loudly.”
-He walked in.
-“Three weeks.”
->>> “Yes.”   <-- WHO SAYS THIS?
-[luo] “If you have nothing, you come back.”
-“Yes.”
-```
-```
-“Three weeks.”
-“Yes.”
-[luo] “If you have nothing, you come back.”
->>> “Yes.”   <-- WHO SAYS THIS?
-[luo] “If the route turns bad, you come back.”
-“Yes.”
-```
-```
-[luo] “If you have nothing, you come back.”
-“Yes.”
-[luo] “If the route turns bad, you come back.”
->>> “Yes.”   <-- WHO SAYS THIS?
-[luo] “If somebody stronger than you starts hunting you—”
-Yun lifted one eyebrow.
-```
-```
-[yun] “I had guessed.”
-He sat on the edge of the bed.
-[luo] “You’re enjoying this.”
->>> “No.”   <-- WHO SAYS THIS?
-[luo] “You look amused.”
-[yun] “I’m enjoying you trying to phrase fear as procedure.”
-```
-```
-[luo] “We don’t know that.”
-[yun] “We know enough that I would not go if I thought it was one.”
-[luo] “That is not the same thing.”
->>> “No.”   <-- WHO SAYS THIS?
-She touched two fingers beneath his chin and made him look up.
-[yun] “But it is true.”
-```
-```
-No one who knew Pale Venom by reputation would have recognized the scene.
-That was probably why Luo liked it.
-After a while he said, “Use the second notebook.”
->>> “I know.”   <-- WHO SAYS THIS?
-[luo] “The one with the false herb-index headings.”
-“I know.”
-```
-```
-After a while he said, “Use the second notebook.”
-“I know.”
-[luo] “The one with the false herb-index headings.”
->>> “I know.”   <-- WHO SAYS THIS?
-[luo] “Page offsets in thirds.”
-[yun] “I invented them.”
-```
-```
-Familiar.
-The kind of kiss built from having done it enough times to know where the other person would move before they moved.
-When she pulled back, Luo did not let go of her hand.
->>> “Three weeks.”   <-- WHO SAYS THIS?
-“Three weeks.”
-[luo] “You owe me tea when you get back.”
-```
-```
-The kind of kiss built from having done it enough times to know where the other person would move before they moved.
-When she pulled back, Luo did not let go of her hand.
-“Three weeks.”
->>> “Three weeks.”   <-- WHO SAYS THIS?
-[luo] “You owe me tea when you get back.”
-[yun] “Why do I owe you tea?”
 ```
 
 ### Chapter 316 — A Country That Works
@@ -518,20 +328,12 @@ That got more attention.
 That got more attention.
 The clerk looked at the name.
 >>> “Aya Katsuragi?”   <-- WHO SAYS THIS?
-“Yes.”
+[yun] “Yes.”
 He stared at Yun as though she had asked whether rain still fell.
 ```
 ```
-That got more attention.
-The clerk looked at the name.
 “Aya Katsuragi?”
->>> “Yes.”   <-- WHO SAYS THIS?
-He stared at Yun as though she had asked whether rain still fell.
-“She’s one of the Ten.”
-```
-```
-“Aya Katsuragi?”
-“Yes.”
+[yun] “Yes.”
 He stared at Yun as though she had asked whether rain still fell.
 >>> “She’s one of the Ten.”   <-- WHO SAYS THIS?
 Yun kept her face neutral.
@@ -587,47 +389,4 @@ The voice came closer.
 >>> “Merchant, then?”   <-- WHO SAYS THIS?
 [yun] “Whichever permits are cheaper.”
 A hand touched her elbow.
-```
-
-### Chapter 320 — The Third Week Ends
-
-```
-The one she had not taken.
-Sera leaned against the doorframe.
-[sera] “Anything?”
->>> “No.”   <-- WHO SAYS THIS?
-[sera] “You’ve checked all drops?”
-[luo] “Lu has.”
-```
-```
-He had been staring at it for days.
-Sera followed his gaze.
-[sera] “You can straighten it.”
->>> “No.”   <-- WHO SAYS THIS?
-[sera] “She’ll survive you touching paper.”
-[luo] “That isn’t the point.”
-```
-```
-Not at Sera exactly.
-At the questions for continuing to be sensible.
-[luo] “She said three weeks.”
->>> “I know.”   <-- WHO SAYS THIS?
-[luo] “She said if she found nothing, she’d come back.”
-“I know.”
-```
-```
-[luo] “She said three weeks.”
-“I know.”
-[luo] “She said if she found nothing, she’d come back.”
->>> “I know.”   <-- WHO SAYS THIS?
-[luo] “She would contact me.”
-“I know.”
-```
-```
-[luo] “She said if she found nothing, she’d come back.”
-“I know.”
-[luo] “She would contact me.”
->>> “I know.”   <-- WHO SAYS THIS?
-His hand closed around the notebook hard enough to whiten his knuckles.
-Sera did not tell him to calm down.
 ```

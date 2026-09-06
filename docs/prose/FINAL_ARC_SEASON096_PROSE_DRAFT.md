@@ -342,7 +342,7 @@ Rhen glanced at her.
 
 [[speaker:rhen]]“I don’t generally freeze pottery when you’re not looking.”
 
-“Rhen.”
+[[speaker:sera]]“Rhen.”
 
 He sighed.
 
@@ -390,7 +390,7 @@ Her fingers stayed there.
 
 [[speaker:sera]]“You’re full again.”
 
-“Yes.”
+[[speaker:rhen]]“Yes.”
 
 [[speaker:sera]]“How full?”
 
@@ -404,7 +404,7 @@ Sera’s gaze snapped up.
 
 [[speaker:sera]]“That was two years ago.”
 
-“I know.”
+[[speaker:rhen]]“I know.”
 
 [[speaker:sera]]“And you’ve used qi constantly since then.”
 
@@ -442,11 +442,11 @@ Sera’s fingers pressed slightly harder against his wrist.
 
 [[speaker:sera]]“Does it hurt?”
 
-“No.”
+[[speaker:rhen]]“No.”
 
 [[speaker:sera]]“Uncomfortable?”
 
-“Yes.”
+[[speaker:rhen]]“Yes.”
 
 [[speaker:sera]]“How much?”
 
@@ -480,7 +480,7 @@ Rhen blinked.
 
 [[speaker:rhen]]“They did.”
 
-“Rhen.”
+[[speaker:sera]]“Rhen.”
 
 He looked appropriately chastened.
 
@@ -498,7 +498,7 @@ Sera rested her cheek against his shoulder.
 
 [[speaker:sera]]“Can you fix it?”
 
-“Yes.”
+[[speaker:rhen]]“Yes.”
 
 He answered too quickly.
 
@@ -518,7 +518,7 @@ She followed his gaze.
 
 [[speaker:sera]]“The qi.”
 
-“Yes.”
+[[speaker:rhen]]“Yes.”
 
 [[speaker:sera]]“You mean condense it.”
 
@@ -630,7 +630,7 @@ Xie looked at Sera as she stepped onto the roof.
 
 [[speaker:sera]]“The pear?”
 
-“Yes.”
+[[speaker:xie_wuchen]]“Yes.”
 
 [[speaker:sera]]“You took it from my kitchen.”
 
@@ -738,7 +738,7 @@ Sera smiled.
 
 Then the smile faded.
 
-“Why did you leave?”
+[[speaker:sera]]“Why did you leave?”
 
 Xie finished chewing.
 
@@ -754,7 +754,7 @@ Xie’s eyes sharpened.
 
 [[speaker:xie_wuchen]]“That is unfortunate.”
 
-“Why did you leave?”
+[[speaker:sera]]“Why did you leave?”
 
 Xie looked at the pear core.
 
@@ -790,7 +790,7 @@ Xie glanced at her.
 
 [[speaker:sera]]“Huo?”
 
-“No.”
+[[speaker:xie_wuchen]]“No.”
 
 [[speaker:sera]]“Qin?”
 
