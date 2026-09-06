@@ -773,67 +773,25 @@ Rhen opened his eyes.
 
 Nothing happened.
 
-That was the first strange thing.
+No blast through stone.
 
-No surge of qi.
+No pressure wave announcing that the process had ended.
 
-No pressure against stone.
+Only silence.
 
-No violent release from a body that had spent months carrying too much inside too little space.
+For the first time in months, nothing inside him demanded another compression cycle.
 
-For most of the seclusion, condensation had felt like forcing an ocean to remember it could become ice.
+Finished.
 
-Same substance.
+He stayed seated on the low platform.
 
-Less wasted space.
-
-Again.
-
-Again.
-
-Again.
-
-Until density replaced volume.
-
-Now his meridians felt empty.
-
-Not drained.
-
-Empty in the way winter sky looked empty when the stars were simply too distant to count.
-
-Rhen lifted one hand.
-
-A single petal formed above his palm.
-
-Frost-white.
-
-A pale violet line moved beneath its frozen surface.
-
-He watched it for several breaths.
-
-No instability.
-
-No loss of control.
-
-Good.
-
-The petal dissolved before touching his knee.
-
-Rhen breathed once.
-
-Wax.
-
-Stone.
-
-Cold cloth.
-
-The chamber smelled older.
-
-His dark green traveling coat remained folded beside the low platform exactly where Sera had left it.
+His dark green traveling coat remained folded beside him exactly where Sera had left it.
 
 One inner seam carried her uneven repair.
 
-He remembered the night before the door closed.
+He touched the cloth once.
+
+The night before the door closed came back with unpleasant clarity.
 
 Her asking what if I need you.
 
@@ -843,15 +801,13 @@ His answer.
 
 Rhen looked toward the seal.
 
-For six months the outer mechanism had remained locked around an unfinished process.
-
-Now one pin withdrew by itself.
+One locking pin withdrew by itself.
 
 Then another.
 
 Completion, not interruption.
 
-The stone seal opened only far enough for one person to step through.
+The stone opened only far enough for one person to step through.
 
 Lu Weiran entered carrying a ledger.
 
@@ -859,13 +815,13 @@ He stopped after one pace.
 
 For one second, the most competent man in the Quaint Teahouse forgot every word he knew.
 
-Rhen remained seated.
+Rhen had not yet stood.
 
-He had not yet put on the coat.
+Had not yet put on the coat.
 
-Had not yet stood.
+Had not yet tested what six months of condensation had actually made possible.
 
-Had not yet learned a single name the last six months had taken from them.
+He had not learned a single name the last six months had taken from them.
 
 But Lu looked older.
 
@@ -873,19 +829,17 @@ Not by years.
 
 By work.
 
-New reinforcement plates were visible around the outer frame behind him. Medical ledgers sat stacked in the corridor where there had once been only guard stools. One of the two guards beyond the partially opened seal wore a scar Rhen did not remember.
+New reinforcement plates were visible around the frame behind him. Medical ledgers sat stacked in the corridor where there had once been only guard stools. One of the two guards beyond the opening wore a scar Rhen did not remember.
 
-The faint humor left his face.
+The faint humor left Rhen’s face.
 
 “Lu.”
 
 Lu’s fingers tightened around the ledger.
 
-The seal settled closed behind him again. The process was finished now; opening it no longer threatened Rhen’s meridians, but neither man seemed in a hurry to leave the room.
+The seal settled closed behind him. The process was finished now; opening the chamber no longer threatened Rhen’s meridians, but neither man seemed in a hurry to leave.
 
-Rhen looked once at the folded coat.
-
-At Sera’s stitch.
+Rhen looked once at Sera’s stitch.
 
 Then back at Lu.
 
