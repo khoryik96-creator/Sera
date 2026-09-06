@@ -76,19 +76,19 @@ A continent could have terrifying martial elites and still lose a war because no
 
 Sera read the Shinsei commitment report.
 
-“One hundred thousand plus.”
+[[speaker:sera]]“One hundred thousand plus.”
 
 Jin nodded.
 
-“Across total forward-support network.”
+[[speaker:jin]]“Across total forward-support network.”
 
-“Not one battlefield.”
+[[speaker:sera]]“Not one battlefield.”
 
-“No.”
+[[speaker:jin]]“No.”
 
-“How many could they concentrate quickly?”
+[[speaker:sera]]“How many could they concentrate quickly?”
 
-“Depends where.”
+[[speaker:jin]]“Depends where.”
 
 That answer again.
 
@@ -96,19 +96,19 @@ War resisted clean numbers.
 
 Solveig entered with Isgard’s own ledger.
 
-“North farms are down another twelve percent.”
+[[speaker:solveig]]“North farms are down another twelve percent.”
 
 Jin looked at her.
 
-“Combat?”
+[[speaker:jin]]“Combat?”
 
-“Labor.”
+[[speaker:solveig]]“Labor.”
 
 Of course.
 
 She continued.
 
-“We have soldiers. Fewer people to feed them.”
+[[speaker:solveig]]“We have soldiers. Fewer people to feed them.”
 
 Sera looked at the map.
 
@@ -120,29 +120,29 @@ A self-fulfilling argument.
 
 Jin moved supply markers.
 
-“We need Wuyue grain shipments increased.”
+[[speaker:jin]]“We need Wuyue grain shipments increased.”
 
 “Home reserve?” Sera asked.
 
-“Can absorb some. Not indefinitely.”
+[[speaker:jin]]“Can absorb some. Not indefinitely.”
 
-“Then increase trade purchase, not military seizure.”
+[[speaker:sera]]“Then increase trade purchase, not military seizure.”
 
 Solveig looked at her.
 
-“You’ll pay?”
+[[speaker:solveig]]“You’ll pay?”
 
-“Yes.”
+[[speaker:sera]]“Yes.”
 
-“During war.”
+[[speaker:solveig]]“During war.”
 
-“Yes.”
+[[speaker:sera]]“Yes.”
 
-“Why?”
+[[speaker:solveig]]“Why?”
 
 Sera looked at her.
 
-“Because alliance is not annexation with nicer banners.”
+[[speaker:sera]]“Because alliance is not annexation with nicer banners.”
 
 Solveig held her gaze.
 
@@ -188,15 +188,15 @@ The second map was almost identical to the one from six days earlier.
 
 Luo set down two cups of tea.
 
-“You look offended.”
+[[speaker:luo]]“You look offended.”
 
-“It refuses to improve.”
+[[speaker:jin]]“It refuses to improve.”
 
-“The tea?”
+[[speaker:luo]]“The tea?”
 
-“The map.”
+[[speaker:jin]]“The map.”
 
-“Mine does that too.”
+[[speaker:luo]]“Mine does that too.”
 
 Jin ignored him and opened the replacement ledger.
 
@@ -208,9 +208,9 @@ They simply did not change the slope fast enough.
 
 Luo sat opposite him.
 
-“Are we losing?”
+[[speaker:luo]]“Are we losing?”
 
-“No.”
+[[speaker:jin]]“No.”
 
 Jin did not hesitate.
 
@@ -218,7 +218,7 @@ That was important enough that Luo waited for the rest.
 
 Jin stared at the map until the answer became precise.
 
-“We’re winning too slowly.”
+[[speaker:jin]]“We’re winning too slowly.”
 
 The sentence changed the room more than a casualty report would have.
 
@@ -230,37 +230,37 @@ It was also insufficient.
 
 Sera entered wearing a medical restriction band beneath her coat. Jin noticed because everyone had learned to notice when the most dangerous person in the room was pretending not to be injured.
 
-“You’re supposed to rest.”
+[[speaker:jin]]“You’re supposed to rest.”
 
-“I am about to sit.”
+[[speaker:sera]]“I am about to sit.”
 
-“That is not rest.”
+[[speaker:jin]]“That is not rest.”
 
-“It is relative.”
+[[speaker:sera]]“It is relative.”
 
 Luo pointed at the nearest chair.
 
-“Sit.”
+[[speaker:luo]]“Sit.”
 
 Sera sat.
 
 Jin looked briefly impressed.
 
-“Finally found an authority you obey?”
+[[speaker:jin]]“Finally found an authority you obey?”
 
-“Do not make this unpleasant.”
+[[speaker:sera]]“Do not make this unpleasant.”
 
 Luo said, “Too late.”
 
 Jin turned the replacement ledger toward her.
 
-“We can keep winning this way for months.”
+[[speaker:jin]]“We can keep winning this way for months.”
 
 Sera scanned the casualty trend before answering.
 
-“And?”
+[[speaker:sera]]“And?”
 
-“We cannot keep paying this way for months.”
+[[speaker:jin]]“We cannot keep paying this way for months.”
 
 There was the entire sixth month in two sentences.
 
@@ -268,13 +268,13 @@ Wuyue still had reserves at home, but not infinite ones. Isgard’s government w
 
 Sera leaned over the table until Luo pushed her shoulder back against the chair.
 
-“Structural targets.”
+[[speaker:sera]]“Structural targets.”
 
 Jin nodded.
 
-“Already shifting.”
+[[speaker:jin]]“Already shifting.”
 
-“Show me.”
+[[speaker:sera]]“Show me.”
 
 He began with ports.
 
@@ -294,15 +294,15 @@ Sera’s refusal to mistreat them had begun returning stories to Shinsei that we
 
 Luo tapped that line.
 
-“Truth is slow.”
+[[speaker:luo]]“Truth is slow.”
 
 “So are infections,” Jin said. “Until they aren’t.”
 
 Sera looked at him.
 
-“That was almost poetic.”
+[[speaker:sera]]“That was almost poetic.”
 
-“Please never say that again.”
+[[speaker:jin]]“Please never say that again.”
 
 Luo drank his tea.
 
@@ -310,19 +310,19 @@ Luo drank his tea.
 
 “Still appears to be pushing accurate disclosure from inside,” Luo said. “Likely more than we can prove.”
 
-“Then we do not plan around what we cannot prove.”
+[[speaker:sera]]“Then we do not plan around what we cannot prove.”
 
 Jin nodded.
 
-“Correct.”
+[[speaker:jin]]“Correct.”
 
-“You keep agreeing with me.”
+[[speaker:sera]]“You keep agreeing with me.”
 
-“Because you keep being correct.”
+[[speaker:jin]]“Because you keep being correct.”
 
-“That sounded suspiciously supportive.”
+[[speaker:sera]]“That sounded suspiciously supportive.”
 
-“Don’t get used to it.”
+[[speaker:jin]]“Don’t get used to it.”
 
 For a moment, the room felt almost like the Quaint command table before the war: dry insults, bad tea, people competent enough to annoy one another safely.
 
@@ -332,17 +332,17 @@ The feeling passed.
 
 He drew a line beneath the week’s three victories.
 
-“We need the next month to change something the enemy cannot heal, replace or reroute before breakfast.”
+[[speaker:jin]]“We need the next month to change something the enemy cannot heal, replace or reroute before breakfast.”
 
 Sera studied the map.
 
-“Then stop asking the map whether we won yesterday.”
+[[speaker:sera]]“Then stop asking the map whether we won yesterday.”
 
 Jin looked at her.
 
-“What do I ask?”
+[[speaker:jin]]“What do I ask?”
 
-“Whether yesterday made today different.”
+[[speaker:sera]]“Whether yesterday made today different.”
 
 He was quiet for several breaths.
 
@@ -384,23 +384,23 @@ Xie Wuchen’s Wind-Qi meridians were still recovering from overstrain after ext
 
 Sera looked around the table.
 
-“This is embarrassing.”
+[[speaker:sera]]“This is embarrassing.”
 
 Kael frowned.
 
-“What?”
+[[speaker:kael]]“What?”
 
-“We look old.”
+[[speaker:sera]]“We look old.”
 
 Arin stared at her.
 
-“You don’t age.”
+[[speaker:arin]]“You don’t age.”
 
 Silence.
 
 Sera considered.
 
-“Insensitive.”
+[[speaker:sera]]“Insensitive.”
 
 Ilyra laughed hard enough to hurt herself.
 
@@ -408,13 +408,13 @@ The humor lasted six seconds.
 
 Then Jin opened the workload map.
 
-“Ten people cannot be ten armies.”
+[[speaker:jin]]“Ten people cannot be ten armies.”
 
 Kael looked at him.
 
-“No one said we could.”
+[[speaker:kael]]“No one said we could.”
 
-“Your schedules disagree.”
+[[speaker:jin]]“Your schedules disagree.”
 
 He started pointing.
 
@@ -442,33 +442,33 @@ That last category was the problem.
 
 Sera looked at Jin.
 
-“Say it.”
+[[speaker:sera]]“Say it.”
 
-“You are doing too much.”
+[[speaker:jin]]“You are doing too much.”
 
-“Specific.”
+[[speaker:sera]]“Specific.”
 
-“You personally intervened in seven apex incidents this month.”
+[[speaker:jin]]“You personally intervened in seven apex incidents this month.”
 
-“Necessary.”
+[[speaker:sera]]“Necessary.”
 
-“Three were.”
+[[speaker:jin]]“Three were.”
 
 Sera’s eyes narrowed.
 
 Jin did not care.
 
-“Four could have been delegated at higher short-term cost and lower long-term command damage.”
+[[speaker:jin]]“Four could have been delegated at higher short-term cost and lower long-term command damage.”
 
-“People would have died.”
+[[speaker:sera]]“People would have died.”
 
-“Yes.”
+[[speaker:jin]]“Yes.”
 
 The room became quiet.
 
 Jin’s voice softened.
 
-“But if you break, more die later.”
+[[speaker:jin]]“But if you break, more die later.”
 
 There.
 
@@ -478,15 +478,15 @@ Sera hated it because it was true.
 
 Kael leaned back.
 
-“Welcome to being a symbol.”
+[[speaker:kael]]“Welcome to being a symbol.”
 
 Sera looked at him.
 
-“You are not helping.”
+[[speaker:sera]]“You are not helping.”
 
-“No.”
+[[speaker:kael]]“No.”
 
-“But I am correct.”
+[[speaker:kael]]“But I am correct.”
 
 Annoyingly.
 
@@ -520,11 +520,11 @@ The clan representative read the answer twice.
 
 “Those are our grain stores.”
 
-“And the coast is where the next ships arrive.”
+[[speaker:aldric]]“And the coast is where the next ships arrive.”
 
 “If the grain burns—”
 
-“If the coast falls, your grain becomes somebody else’s.”
+[[speaker:aldric]]“If the coast falls, your grain becomes somebody else’s.”
 
 The man left angry.
 
@@ -538,11 +538,11 @@ Aldric wrote one word.
 
 Solveig, standing behind him with three ledgers under one arm, looked over his shoulder.
 
-“Diplomatic.”
+[[speaker:solveig]]“Diplomatic.”
 
-“I considered adding a second word.”
+[[speaker:aldric]]“I considered adding a second word.”
 
-“Dangerous escalation.”
+[[speaker:solveig]]“Dangerous escalation.”
 
 The third petition argued that the return of Isgard’s three Paragons made emergency command unnecessary. Aldric stared at that one longest.
 
@@ -556,15 +556,15 @@ He wrote:
 
 Solveig read the line.
 
-“You wrote that?”
+[[speaker:solveig]]“You wrote that?”
 
-“Yes.”
+[[speaker:aldric]]“Yes.”
 
-“Good.”
+[[speaker:solveig]]“Good.”
 
-“You sound surprised.”
+[[speaker:aldric]]“You sound surprised.”
 
-“I am enjoying this.”
+[[speaker:solveig]]“I am enjoying this.”
 
 Aldric frowned.
 
@@ -588,23 +588,23 @@ Aldric looked at Solveig.
 
 She already had the numbers.
 
-“Military requirement?”
+[[speaker:aldric]]“Military requirement?”
 
-“Seven days at current issue.”
+[[speaker:solveig]]“Seven days at current issue.”
 
-“Civilian requirement?”
+[[speaker:aldric]]“Civilian requirement?”
 
-“Eleven if the next Wuyue purchase convoy lands on schedule. Nineteen if it does not.”
+[[speaker:solveig]]“Eleven if the next Wuyue purchase convoy lands on schedule. Nineteen if it does not.”
 
 The steward said, “Then we requisition.”
 
 Aldric looked at him.
 
-“No.”
+[[speaker:aldric]]“No.”
 
 “My lord—”
 
-“We purchase what can be purchased, borrow against the Wuyue shipment, and cut military issue before taking seed grain.”
+[[speaker:aldric]]“We purchase what can be purchased, borrow against the Wuyue shipment, and cut military issue before taking seed grain.”
 
 “That reduces readiness.”
 
@@ -656,11 +656,11 @@ Eirik understood what that meant. Every functioning day weakened the strongest p
 
 Near sunset, Solveig placed the morning’s three denied petitions back on Aldric’s desk.
 
-“Keep them.”
+[[speaker:solveig]]“Keep them.”
 
 “Why?”
 
-“Because when this is over, somebody will claim emergency command worked because everyone agreed.”
+[[speaker:solveig]]“Because when this is over, somebody will claim emergency command worked because everyone agreed.”
 
 Aldric looked around the hall.
 
@@ -674,7 +674,7 @@ Astrid had disappeared with one of the maps.
 
 Aldric smiled despite his ribs.
 
-“Fair.”
+[[speaker:aldric]]“Fair.”
 
 The government remained damaged, inefficient and loud.
 
@@ -714,23 +714,23 @@ Luo had noticed.
 
 His second order came that morning.
 
-“No sustained Dominion combat. No apex interception unless the alternative is immediate collapse. And if you make me say this a third time, I am asking Tae to sit on you.”
+[[speaker:luo]]“No sustained Dominion combat. No apex interception unless the alternative is immediate collapse. And if you make me say this a third time, I am asking Tae to sit on you.”
 
 Sera stared at him.
 
-“Tae would enjoy that too much.”
+[[speaker:sera]]“Tae would enjoy that too much.”
 
-“That is why it is a threat.”
+[[speaker:luo]]“That is why it is a threat.”
 
 She obeyed by only using Orchid Dominion once.
 
 Luo found out.
 
-“This is why physicians become violent.”
+[[speaker:luo]]“This is why physicians become violent.”
 
-“You are already violent.”
+[[speaker:sera]]“You are already violent.”
 
-“More violent.”
+[[speaker:luo]]“More violent.”
 
 She sat on the medical crate while he checked her ribs.
 
@@ -774,25 +774,25 @@ Current Sera chose the convoy because destroying it changed more future fights.
 
 “Send Ilyra?” Jin asked.
 
-“Restricted duty.”
+[[speaker:sera]]“Restricted duty.”
 
-“She’ll complain.”
+[[speaker:jin]]“She’ll complain.”
 
-“She can recover while complaining.”
+[[speaker:sera]]“She can recover while complaining.”
 
-“Then?”
+[[speaker:jin]]“Then?”
 
-“Two Quiet cells, Isgard scouts, no direct engagement if Paragon escort appears.”
+[[speaker:sera]]“Two Quiet cells, Isgard scouts, no direct engagement if Paragon escort appears.”
 
 Jin nodded.
 
 She looked at the civilian cluster.
 
-“Move relief first.”
+[[speaker:sera]]“Move relief first.”
 
-“Combat opportunity?”
+[[speaker:jin]]“Combat opportunity?”
 
-“Can wait.”
+[[speaker:sera]]“Can wait.”
 
 That was Sera’s growth too.
 
@@ -808,17 +808,17 @@ Pain sharpened.
 
 Luo glared.
 
-“Sit.”
+[[speaker:luo]]“Sit.”
 
 Sera sat again.
 
-“Humiliating.”
+[[speaker:sera]]“Humiliating.”
 
-“Good.”
+[[speaker:luo]]“Good.”
 
-“Why good?”
+[[speaker:sera]]“Why good?”
 
-“You remember limits.”
+[[speaker:luo]]“You remember limits.”
 
 Everyone in Isgard had learned that lesson differently.
 

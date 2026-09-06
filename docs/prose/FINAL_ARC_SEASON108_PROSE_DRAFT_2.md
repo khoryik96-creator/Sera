@@ -15,13 +15,13 @@ That made the accusation useful.
 
 Luo nodded.
 
-“For one standard three-times Redline exposure. Approximately.”
+[[speaker:luo]]“For one standard three-times Redline exposure. Approximately.”
 
 The medic stared at him as though the approximation were the offensive part.
 
 “That is absurd.”
 
-“Yes.”
+[[speaker:luo]]“Yes.”
 
 “I mean your claim.”
 
@@ -33,7 +33,7 @@ The medic had expected interrogation.
 
 Instead Luo handed him a wrist.
 
-“Check him.”
+[[speaker:luo]]“Check him.”
 
 The wrist belonged to a captured Shinsei infantryman who had taken one 3× dose six days earlier.
 
@@ -41,7 +41,7 @@ The medic frowned.
 
 “You are asking me to verify your accusation.”
 
-“I am asking you to examine a patient.”
+[[speaker:luo]]“I am asking you to examine a patient.”
 
 That was harder to refuse.
 
@@ -79,15 +79,15 @@ The medic looked at Luo.
 
 “What am I feeling?”
 
-“Vital reserve after expenditure.”
+[[speaker:luo]]“Vital reserve after expenditure.”
 
 “That is not how vitality loss presents.”
 
-“Not from illness.”
+[[speaker:luo]]“Not from illness.”
 
 Luo crouched opposite him.
 
-“Redline forces throughput by borrowing from what the body would otherwise have spent across years. The vessel survives. The expenditure does not return merely because the vessel heals.”
+[[speaker:luo]]“Redline forces throughput by borrowing from what the body would otherwise have spent across years. The vessel survives. The expenditure does not return merely because the vessel heals.”
 
 The patient stared at both physicians.
 
@@ -99,7 +99,7 @@ Luo’s jaw tightened.
 
 “How?”
 
-“Because we found the same language in captured issue material.”
+[[speaker:luo]]“Because we found the same language in captured issue material.”
 
 The Shinsei medic looked away.
 
@@ -111,11 +111,11 @@ One of the other prisoners spoke from a cot.
 
 “Can Physician Katsuragi restore it?”
 
-“No.”
+[[speaker:luo]]“No.”
 
 “Can you?”
 
-“No.”
+[[speaker:luo]]“No.”
 
 A third voice:
 
@@ -125,7 +125,7 @@ The tent became quieter.
 
 Luo paused before answering.
 
-“Not with ordinary healing.”
+[[speaker:luo]]“Not with ordinary healing.”
 
 That was enough to make the room understand there was a difference between repairing injury and returning time already spent.
 
@@ -135,21 +135,21 @@ The first medic stood.
 
 Luo looked at him.
 
-“You think I should keep your government’s secret because we are at war?”
+[[speaker:luo]]“You think I should keep your government’s secret because we are at war?”
 
 “I think you gain something by frightening prisoners.”
 
-“Of course we gain something.”
+[[speaker:luo]]“Of course we gain something.”
 
 The medic’s face hardened.
 
 Luo continued before anger could simplify the conversation.
 
-“We gain soldiers who know what is being asked of them. We gain physicians who stop calling five years ‘recovery.’ We gain fewer people taking a second dose because someone omitted the first number.”
+[[speaker:luo]]“We gain soldiers who know what is being asked of them. We gain physicians who stop calling five years ‘recovery.’ We gain fewer people taking a second dose because someone omitted the first number.”
 
 He pointed at the patient.
 
-“And he gains the right to understand his own body.”
+[[speaker:luo]]“And he gains the right to understand his own body.”
 
 That answer spread farther than propaganda would have.
 
@@ -239,13 +239,13 @@ Sera read the report beside a field brazier while Luo changed the bandage under 
 
 “Hold still,” he said.
 
-“I am holding still.”
+[[speaker:sera]]“I am holding still.”
 
-“You are reading military intelligence.”
+[[speaker:luo]]“You are reading military intelligence.”
 
-“My eyes are not connected to my ribs.”
+[[speaker:sera]]“My eyes are not connected to my ribs.”
 
-“Everything is connected to your ribs when I am repairing them.”
+[[speaker:luo]]“Everything is connected to your ribs when I am repairing them.”
 
 Jin ignored both.
 
@@ -269,15 +269,15 @@ Tsubasa would not bet his homeland that it was wrong only once.
 
 Kael leaned over the table.
 
-“So he is fresh.”
+[[speaker:kael]]“So he is fresh.”
 
 “Relative to the forward Paragons,” Jin said. “Yes.”
 
-“Peak Paragon.”
+[[speaker:kael]]“Peak Paragon.”
 
 “Yes.”
 
-“Has not spent six months being punched by Wuyue and Isgard.”
+[[speaker:kael]]“Has not spent six months being punched by Wuyue and Isgard.”
 
 “Yes.”
 
@@ -287,13 +287,13 @@ Sera said, “Good.”
 
 He turned to her.
 
-“You keep using that word incorrectly.”
+[[speaker:kael]]“You keep using that word incorrectly.”
 
-“I prefer knowing what is waiting.”
+[[speaker:sera]]“I prefer knowing what is waiting.”
 
 Jin slid a second page across the table.
 
-“Heaven Gate.”
+[[speaker:jin]]“Heaven Gate.”
 
 That silenced Kael.
 
@@ -367,19 +367,19 @@ And walked out of Heaven Gate a Peak Paragon.
 
 Kael whistled once.
 
-“Annoying.”
+[[speaker:kael]]“Annoying.”
 
 Liang, seated farther back, said, “You call all strong people annoying.”
 
-“I call you annoying and you are not even Paragon.”
+[[speaker:kael]]“I call you annoying and you are not even Paragon.”
 
-“Proof the categories are independent.”
+[[speaker:liang]]“Proof the categories are independent.”
 
 Sera’s mouth almost moved.
 
 Jin continued.
 
-“He was stronger eleven years later even before this war.”
+[[speaker:jin]]“He was stronger eleven years later even before this war.”
 
 Another sheet.
 
@@ -417,23 +417,23 @@ Sera folded the pages.
 
 “Why?”
 
-“Because legends become easier to fight when you know what they actually learned.”
+[[speaker:sera]]“Because legends become easier to fight when you know what they actually learned.”
 
 Jin looked at her.
 
-“And what did he learn?”
+[[speaker:jin]]“And what did he learn?”
 
 Sera stared north across the map.
 
-“That he can survive being wrong.”
+[[speaker:sera]]“That he can survive being wrong.”
 
 She tapped Seven Bridges.
 
-“Once, that made him better.”
+[[speaker:sera]]“Once, that made him better.”
 
 Then Heaven Gate.
 
-“Later, being right too often made him dangerous.”
+[[speaker:sera]]“Later, being right too often made him dangerous.”
 
 The brazier snapped.
 
@@ -503,19 +503,19 @@ The clerk brought the revised copy.
 
 Hana looked at it.
 
-“Where are the two lines?”
+[[speaker:hana]]“Where are the two lines?”
 
 The clerk froze.
 
 “What lines?”
 
-“Good answer.”
+[[speaker:hana]]“Good answer.”
 
 He paled.
 
 Hana handed the sheet back.
 
-“Keep doing your job.”
+[[speaker:hana]]“Keep doing your job.”
 
 Then she left.
 
@@ -647,7 +647,7 @@ Lu stared at him.
 
 Huo lowered his voice further.
 
-“Later.”
+[[speaker:huo]]“Later.”
 
 Another petal formed.
 
@@ -657,7 +657,7 @@ Violet within.
 
 Tae’s expression changed.
 
-“That is new.”
+[[speaker:tae]]“That is new.”
 
 “Yes.”
 
@@ -683,13 +683,13 @@ The density had stopped announcing itself by pushing against the container.
 
 Huo looked at Lu.
 
-“Do we open?”
+[[speaker:huo]]“Do we open?”
 
 Everyone turned toward him.
 
 He raised both hands.
 
-“I asked so nobody else had to.”
+[[speaker:huo]]“I asked so nobody else had to.”
 
 “No,” Lu said.
 
@@ -715,11 +715,11 @@ Qin remained several minutes longer.
 
 “Yes.”
 
-“Dangerous?”
+[[speaker:tae]]“Dangerous?”
 
 Qin considered.
 
-“I cannot tell.”
+[[speaker:qin]]“I cannot tell.”
 
 Tae nodded.
 
@@ -729,23 +729,23 @@ They had all become stronger partly by learning that powerful people were allowe
 
 Huo looked at the stone.
 
-“He will be angry we did all this without him.”
+[[speaker:huo]]“He will be angry we did all this without him.”
 
 Lu said, “No.”
 
-“You sound certain.”
+[[speaker:huo]]“You sound certain.”
 
-“He will be angry we did not keep better tea in the lower stores.”
+[[speaker:luweiran]]“He will be angry we did not keep better tea in the lower stores.”
 
 Tae looked offended.
 
-“The lower tea is fine.”
+[[speaker:tae]]“The lower tea is fine.”
 
-“It is training tea.”
+[[speaker:luweiran]]“It is training tea.”
 
-“There is no such category.”
+[[speaker:tae]]“There is no such category.”
 
-“There is now.”
+[[speaker:luweiran]]“There is now.”
 
 For one breath, the corridor felt like the old house again.
 
@@ -833,7 +833,7 @@ New reinforcement plates were visible around the frame behind him. Medical ledge
 
 The faint humor left Rhen’s face.
 
-“Lu.”
+[[speaker:rhen]]“Lu.”
 
 Lu’s fingers tightened around the ledger.
 
@@ -845,4 +845,4 @@ Then back at Lu.
 
 His voice stayed quiet.
 
-“How long?”
+[[speaker:rhen]]“How long?”
