@@ -596,9 +596,7 @@ Aya, Haru, Nao, Hana, Kai, Eirik, Kenji and Jun occupied the Shinsei side.
 
 Shunto's chair was empty.
 
-Tsubasa stood at the head of the table.
-
-Then deliberately stepped away from it.
+Tsubasa took the head of the table, then deliberately stepped away from it.
 
 He removed the white command band from his arm.
 

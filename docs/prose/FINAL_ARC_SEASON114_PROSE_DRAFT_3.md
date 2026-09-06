@@ -972,7 +972,7 @@ That made Sera smile wider.
 
 “It is.”
 
-Rhen sat at the edge of the bed.
+Rhen settled onto the edge of the bed.
 
 Sera crossed the room slowly.
 
