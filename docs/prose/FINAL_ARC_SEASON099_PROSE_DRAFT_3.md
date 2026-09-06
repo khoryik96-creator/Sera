@@ -26,15 +26,15 @@ Hana pressed it down.
 
 “You came here to discuss patrol efficiency.”
 
-“Yes.”
+[[speaker:black_radiance]]“Yes.”
 
-“No.”
+[[speaker:hana]]“No.”
 
 Yurushi considered.
 
 “Partly.”
 
-“Still no.”
+[[speaker:hana]]“Still no.”
 
 He stood across from her desk in a dark travel coat that had been repaired at the shoulder by someone with poor matching thread.
 
@@ -46,11 +46,11 @@ Neither commented.
 
 Hana said, “What do you want?”
 
-“One patrol moved.”
+[[speaker:black_radiance]]“One patrol moved.”
 
-“Which?”
+[[speaker:hana]]“Which?”
 
-“Eastern medical corridor. Third bell rotation.”
+[[speaker:black_radiance]]“Eastern medical corridor. Third bell rotation.”
 
 “Why?”
 
@@ -74,19 +74,19 @@ Also enough responsibility to know when someone was trying to borrow that author
 
 He looked at her.
 
-“Someone is being held wrongly.”
+[[speaker:black_radiance]]“Someone is being held wrongly.”
 
 Hana’s expression changed.
 
 “Wrongly how?”
 
-“I am not telling you everything.”
+[[speaker:black_radiance]]“I am not telling you everything.”
 
-“That is a terrible opening.”
+[[speaker:hana]]“That is a terrible opening.”
 
 “I know.”
 
-“Shunto?”
+[[speaker:hana]]“Shunto?”
 
 He did not answer.
 
@@ -120,31 +120,31 @@ Hana looked back at him.
 
 “Is this person dangerous?”
 
-“Yes.”
+[[speaker:black_radiance]]“Yes.”
 
-“At least you are honest.”
+[[speaker:hana]]“At least you are honest.”
 
-“Dangerous is not the same as deserving whatever is being done.”
+[[speaker:black_radiance]]“Dangerous is not the same as deserving whatever is being done.”
 
-“Foreign?”
+[[speaker:hana]]“Foreign?”
 
-“Yes.”
+[[speaker:black_radiance]]“Yes.”
 
-“Spy?”
+[[speaker:hana]]“Spy?”
 
-“Probably.”
+[[speaker:black_radiance]]“Probably.”
 
 Hana closed her eyes for one second.
 
 “You have improved nothing.”
 
-“I am trying not to make you responsible for information you cannot unknow.”
+[[speaker:black_radiance]]“I am trying not to make you responsible for information you cannot unknow.”
 
-“That is very generous of you.”
+[[speaker:hana]]“That is very generous of you.”
 
-“It is also practical.”
+[[speaker:black_radiance]]“It is also practical.”
 
-“There you are.”
+[[speaker:hana]]“There you are.”
 
 A faint smile touched his face and disappeared.
 
@@ -326,7 +326,7 @@ He looked back.
 
 “And if that person is more than you think—”
 
-“She probably is.”
+[[speaker:black_radiance]]“She probably is.”
 
 Hana exhaled.
 
@@ -490,7 +490,7 @@ Real cough.
 
 Pain helped.
 
-“Physician sent me downstairs.”
+[[speaker:yun]]“Physician sent me downstairs.”
 
 “Which physician?”
 
@@ -502,7 +502,7 @@ Bad.
 
 “He is not on shift.”
 
-“Then he should stop signing forms while sleeping.”
+[[speaker:yun]]“Then he should stop signing forms while sleeping.”
 
 The guard took the sheet.
 
@@ -566,11 +566,11 @@ He had been physically pressed behind a storage buttress where the darkness conc
 
 “Late,” he said.
 
-“Guard.”
+[[speaker:yun]]“Guard.”
 
-“Problem?”
+[[speaker:black_radiance]]“Problem?”
 
-“His hand tingles.”
+[[speaker:yun]]“His hand tingles.”
 
 Yurushi stared.
 
@@ -578,9 +578,9 @@ Yun kept moving.
 
 “He will recover.”
 
-“I was not asking medically.”
+[[speaker:black_radiance]]“I was not asking medically.”
 
-“Then ask better questions.”
+[[speaker:yun]]“Then ask better questions.”
 
 He almost laughed.
 
@@ -598,9 +598,9 @@ Yun climbed into the covered rear compartment among empty herb crates.
 
 “Humiliating,” she muttered.
 
-“Alive.”
+[[speaker:black_radiance]]“Alive.”
 
-“Both can be true.”
+[[speaker:yun]]“Both can be true.”
 
 The cart moved.
 
@@ -630,13 +630,13 @@ At the fourth, she climbed out before Yurushi told her.
 
 He looked back.
 
-“What are you doing?”
+[[speaker:black_radiance]]“What are you doing?”
 
-“Changing route.”
+[[speaker:yun]]“Changing route.”
 
-“This is the route.”
+[[speaker:black_radiance]]“This is the route.”
 
-“It was. The second guard felt toxin. When he reports, medical transport becomes obvious.”
+[[speaker:yun]]“It was. The second guard felt toxin. When he reports, medical transport becomes obvious.”
 
 Yurushi considered for half a second.
 
@@ -652,11 +652,11 @@ Inside, the owner looked at Yurushi’s seal and swore.
 
 “Again?”
 
-“Sorry.”
+[[speaker:black_radiance]]“Sorry.”
 
 “You are never sorry.”
 
-“True.”
+[[speaker:black_radiance]]“True.”
 
 The man opened a freight panel.
 
@@ -676,25 +676,25 @@ Shunto knew.
 
 Yun said, “How far to the old clan path?”
 
-“Three districts.”
+[[speaker:black_radiance]]“Three districts.”
 
-“Too far.”
+[[speaker:yun]]“Too far.”
 
-“Alternative?”
+[[speaker:black_radiance]]“Alternative?”
 
-“Clinic exchange yard.”
+[[speaker:black_radiance]]“Clinic exchange yard.”
 
-“That is monitored.”
+[[speaker:yun]]“That is monitored.”
 
-“Not the waste channel.”
+[[speaker:black_radiance]]“Not the waste channel.”
 
 Yurushi looked at her.
 
 “You mapped that?”
 
-“Three months.”
+[[speaker:yun]]“Three months.”
 
-“Fair.”
+[[speaker:black_radiance]]“Fair.”
 
 They changed direction.
 
@@ -724,7 +724,7 @@ Yurushi understood immediately.
 
 “That is rude.”
 
-“Yes.”
+[[speaker:yun]]“Yes.”
 
 They crossed the waste channel.
 
@@ -762,7 +762,7 @@ The too-careful way she kept one side away from contact. The medicinal smell of 
 
 His face went still.
 
-“What did Takamori do?”
+[[speaker:black_radiance]]“What did Takamori do?”
 
 Yun's eyes met his.
 
@@ -770,7 +770,7 @@ For one moment, something behind them became very cold.
 
 Then she looked toward the route north.
 
-“Later.”
+[[speaker:yun]]“Later.”
 
 He did not move.
 
@@ -808,9 +808,9 @@ Yurushi noticed.
 
 “Rest.”
 
-“No.”
+[[speaker:yun]]“No.”
 
-“You collapse here, the route dies with you.”
+[[speaker:black_radiance]]“You collapse here, the route dies with you.”
 
 That was a better argument.
 
@@ -850,19 +850,19 @@ At the last cache, Yurushi gave Yun his coat.
 
 She refused.
 
-“You need it.”
+[[speaker:yun]]“You need it.”
 
-“So do you.”
+[[speaker:black_radiance]]“So do you.”
 
-“I am going back.”
+[[speaker:black_radiance]]“I am going back.”
 
-“That is an argument for keeping your coat.”
+[[speaker:yun]]“That is an argument for keeping your coat.”
 
-“I have another.”
+[[speaker:black_radiance]]“I have another.”
 
-“Where?”
+[[speaker:yun]]“Where?”
 
-“Cache.”
+[[speaker:black_radiance]]“Cache.”
 
 Yun looked around the tiny stone shelter.
 
@@ -876,9 +876,9 @@ Two civilian travel papers.
 
 No coat.
 
-“You are lying.”
+[[speaker:yun]]“You are lying.”
 
-“Yes.”
+[[speaker:black_radiance]]“Yes.”
 
 She was too tired to fight properly, so she took it.
 
@@ -912,25 +912,25 @@ Yurushi returned.
 
 “Marker is clean.”
 
-“For now.”
+[[speaker:yun]]“For now.”
 
-“Yes.”
+[[speaker:black_radiance]]“Yes.”
 
-“How long to Isgard contact?”
+[[speaker:yun]]“How long to Isgard contact?”
 
-“Two days if healthy.”
+[[speaker:black_radiance]]“Two days if healthy.”
 
 Yun looked at him.
 
 He corrected.
 
-“Three to four.”
+[[speaker:black_radiance]]“Three to four.”
 
-“Better.”
+[[speaker:yun]]“Better.”
 
-“You should take five.”
+[[speaker:black_radiance]]“You should take five.”
 
-“I do not have five.”
+[[speaker:yun]]“I do not have five.”
 
 He did not argue.
 
@@ -944,7 +944,7 @@ He had not asked for more while they were moving.
 
 Now he did.
 
-“How bad?”
+[[speaker:black_radiance]]“How bad?”
 
 Yun looked south.
 
@@ -964,7 +964,7 @@ Axtaya.
 
 A state built to end one kind of violence preparing another.
 
-“Bad enough that Isgard needs the warning before Shinsei knows it has been warned.”
+[[speaker:yun]]“Bad enough that Isgard needs the warning before Shinsei knows it has been warned.”
 
 Yurushi nodded once.
 
@@ -976,17 +976,17 @@ Yun said, “Come with me.”
 
 He looked at her.
 
-“You already asked.”
+[[speaker:black_radiance]]“You already asked.”
 
-“I am asking again because now Shunto knows the escape was internal.”
+[[speaker:yun]]“I am asking again because now Shunto knows the escape was internal.”
 
-“Yes.”
+[[speaker:black_radiance]]“Yes.”
 
-“He will hunt whoever built the corridor.”
+[[speaker:yun]]“He will hunt whoever built the corridor.”
 
-“Yes.”
+[[speaker:black_radiance]]“Yes.”
 
-“He may find Hana’s patrol change.”
+[[speaker:yun]]“He may find Hana’s patrol change.”
 
 Yurushi’s face became still.
 
@@ -996,15 +996,15 @@ Yun noticed.
 
 He did not answer quickly enough.
 
-“Interesting.”
+[[speaker:yun]]“Interesting.”
 
-“Not important.”
+[[speaker:black_radiance]]“Not important.”
 
-“Very important to your face.”
+[[speaker:yun]]“Very important to your face.”
 
-“This is not the time.”
+[[speaker:black_radiance]]“This is not the time.”
 
-“Probably not.”
+[[speaker:yun]]“Probably not.”
 
 Yun leaned back against the wall.
 
@@ -1162,7 +1162,7 @@ Then pointed north.
 
 “After the shrine, take the goat trail west. It meets a medical caravan road used by Isgard-linked traders.”
 
-“Names?”
+[[speaker:yun]]“Names?”
 
 He gave two.
 
@@ -1170,25 +1170,25 @@ Yun memorized them.
 
 Then looked at him.
 
-“Yurushi.”
+[[speaker:yun]]“Yurushi.”
 
-“Yes?”
+[[speaker:black_radiance]]“Yes?”
 
-“If I make it—”
+[[speaker:yun]]“If I make it—”
 
-“When.”
+[[speaker:black_radiance]]“When.”
 
 She ignored him.
 
-“If I make it, this becomes larger than your routes.”
+[[speaker:yun]]“If I make it, this becomes larger than your routes.”
 
-“I know.”
+[[speaker:black_radiance]]“I know.”
 
-“Shinsei may go to war.”
+[[speaker:yun]]“Shinsei may go to war.”
 
-“I know.”
+[[speaker:black_radiance]]“I know.”
 
-“You helped cause the warning.”
+[[speaker:yun]]“You helped cause the warning.”
 
 Yurushi looked south.
 

@@ -276,11 +276,11 @@ The name meant nothing to her yet.
 
 The man answered from the hallway.
 
-“Then people will keep receiving medicine.”
+[[speaker:black_radiance]]“Then people will keep receiving medicine.”
 
 “You are not Shinsei medical command.”
 
-“I noticed.”
+[[speaker:black_radiance]]“I noticed.”
 
 “You are not Shinsei anything.”
 
@@ -288,7 +288,7 @@ A pause.
 
 Then:
 
-“That is mostly why I sleep well.”
+[[speaker:black_radiance]]“That is mostly why I sleep well.”
 
 The physician muttered something rude.
 
@@ -484,55 +484,55 @@ The voice waited.
 
 Good.
 
-“Define walk.”
+[[speaker:yun]]“Define walk.”
 
 A soft breath that might have been laughter.
 
 “Own feet. No carrying.”
 
-“Then yes.”
+[[speaker:yun]]“Then yes.”
 
 “Fast?”
 
-“No.”
+[[speaker:yun]]“No.”
 
 “Fight?”
 
-“Briefly.”
+[[speaker:yun]]“Briefly.”
 
 “Poison?”
 
-“Always.”
+[[speaker:yun]]“Always.”
 
 “That was the answer I expected.”
 
 Yun moved closer to the door.
 
-“Name.”
+[[speaker:yun]]“Name.”
 
 “Yurushi Amagiri.”
 
-“Affiliation.”
+[[speaker:yun]]“Affiliation.”
 
 A pause.
 
-“Complicated.”
+[[speaker:black_radiance]]“Complicated.”
 
-“Bad answer.”
+[[speaker:yun]]“Bad answer.”
 
-“Independent.”
+[[speaker:black_radiance]]“Independent.”
 
-“Better.”
+[[speaker:yun]]“Better.”
 
-“Formerly close enough to Shinsei that old doors still remember me. Far enough away that current officers dislike it.”
+[[speaker:black_radiance]]“Formerly close enough to Shinsei that old doors still remember me. Far enough away that current officers dislike it.”
 
 Yun considered.
 
-“Why?”
+[[speaker:yun]]“Why?”
 
-“Why help?”
+[[speaker:black_radiance]]“Why help?”
 
-“Yes.”
+[[speaker:yun]]“Yes.”
 
 Silence.
 
@@ -542,19 +542,19 @@ Yun’s hand tightened.
 
 He continued before she could speak.
 
-“I do not know who you are.”
+[[speaker:black_radiance]]“I do not know who you are.”
 
 True, perhaps.
 
-“I know Second Seat has a badly injured foreign prisoner hidden inside a medical security ward. I know the treatment is not ordinary detention. I know staff were told to document less than they observed.”
+[[speaker:black_radiance]]“I know Second Seat has a badly injured foreign prisoner hidden inside a medical security ward. I know the treatment is not ordinary detention. I know staff were told to document less than they observed.”
 
 His voice stayed level.
 
-“And I know wrong when I see it.”
+[[speaker:black_radiance]]“And I know wrong when I see it.”
 
 Yun said, “That is not enough reason to risk a High Paragon.”
 
-“For some people it is.”
+[[speaker:black_radiance]]“For some people it is.”
 
 She hated that answer because part of her wanted to believe it.
 
@@ -562,17 +562,17 @@ So she did not.
 
 Not yet.
 
-“What do you want from me?”
+[[speaker:yun]]“What do you want from me?”
 
-“Nothing.”
+[[speaker:black_radiance]]“Nothing.”
 
-“Everyone wants something.”
+[[speaker:yun]]“Everyone wants something.”
 
-“I want you out before Takamori moves you somewhere my old doors do not remember.”
+[[speaker:black_radiance]]“I want you out before Takamori moves you somewhere my old doors do not remember.”
 
-“That is something.”
+[[speaker:yun]]“That is something.”
 
-“Fine. I want fewer locked rooms.”
+[[speaker:black_radiance]]“Fine. I want fewer locked rooms.”
 
 Yun rested her head briefly against the door.
 
@@ -586,15 +586,15 @@ Yurushi became quiet.
 
 “Of what?”
 
-“Not telling you yet.”
+[[speaker:yun]]“Not telling you yet.”
 
-“Good.”
+[[speaker:black_radiance]]“Good.”
 
 That surprised her.
 
 He continued.
 
-“If you told me everything through a door after three notes, I would reconsider helping.”
+[[speaker:black_radiance]]“If you told me everything through a door after three notes, I would reconsider helping.”
 
 Yun almost smiled.
 
@@ -602,37 +602,37 @@ Three points again.
 
 She said, “The evidence cannot be left behind.”
 
-“Where?”
+[[speaker:black_radiance]]“Where?”
 
-“Some on me. Some may already be elsewhere. One notebook may be in Takamori’s possession.”
+[[speaker:yun]]“Some on me. Some may already be elsewhere. One notebook may be in Takamori’s possession.”
 
-“Then the notebook is not tonight’s priority.”
+[[speaker:black_radiance]]“Then the notebook is not tonight’s priority.”
 
-“No.”
+[[speaker:yun]]“No.”
 
 Yun liked that he understood immediately.
 
 “Your priority?” Yurushi asked.
 
-“Get me far enough north that I can reach an Isgard-linked route.”
+[[speaker:yun]]“Get me far enough north that I can reach an Isgard-linked route.”
 
 There was a pause.
 
 Longer this time.
 
-“Isgard.”
+[[speaker:black_radiance]]“Isgard.”
 
-“Yes.”
+[[speaker:yun]]“Yes.”
 
-“That makes this larger than a prison escape.”
+[[speaker:black_radiance]]“That makes this larger than a prison escape.”
 
-“Yes.”
+[[speaker:yun]]“Yes.”
 
-“Are you going to tell me how much larger?”
+[[speaker:black_radiance]]“Are you going to tell me how much larger?”
 
-“No.”
+[[speaker:yun]]“No.”
 
-“Fair.”
+[[speaker:black_radiance]]“Fair.”
 
 Yun sat on the floor beside the door.
 
@@ -668,17 +668,17 @@ At the end, Yurushi said, “I can create ten minutes.”
 
 Yun answered, “I need seven.”
 
-“Why not take ten?”
+[[speaker:black_radiance]]“Why not take ten?”
 
-“Because if you promise ten, something will happen at eight.”
+[[speaker:yun]]“Because if you promise ten, something will happen at eight.”
 
 A pause.
 
 “Fair.”
 
-“Plan for seven.”
+[[speaker:yun]]“Plan for seven.”
 
-“Done.”
+[[speaker:black_radiance]]“Done.”
 
 The shadow withdrew.
 
@@ -728,13 +728,13 @@ Yun looked at him.
 
 “This existed before me.”
 
-“Yes.”
+[[speaker:black_radiance]]“Yes.”
 
-“How long?”
+[[speaker:yun]]“How long?”
 
-“Some parts eight years. Some two. The road changes.”
+[[speaker:black_radiance]]“Some parts eight years. Some two. The road changes.”
 
-“Who for?”
+[[speaker:yun]]“Who for?”
 
 Yurushi closed the panel.
 
@@ -744,15 +744,15 @@ Yun’s eyes narrowed.
 
 “Political dissidents?”
 
-“Sometimes.”
+[[speaker:black_radiance]]“Sometimes.”
 
-“Criminals?”
+[[speaker:yun]]“Criminals?”
 
-“Sometimes.”
+[[speaker:black_radiance]]“Sometimes.”
 
-“That is broad.”
+[[speaker:yun]]“That is broad.”
 
-“Life is inconveniently broad.”
+[[speaker:black_radiance]]“Life is inconveniently broad.”
 
 He handed her a merchant seal.
 
@@ -766,13 +766,13 @@ Yurushi continued.
 
 “Mostly civilians caught between policy and punishment. Clan families whose local enemies learned to use Shinsei law as a weapon. Healers accused of withholding stock. Villagers trapped behind security closures. People who were technically guilty of crossing the wrong authority at the wrong time.”
 
-“You decide who deserves extraction?”
+[[speaker:yun]]“You decide who deserves extraction?”
 
-“No.”
+[[speaker:black_radiance]]“No.”
 
-“Someone does.”
+[[speaker:yun]]“Someone does.”
 
-“People decide whether they want to leave. I decide whether I can move them without getting everyone else killed.”
+[[speaker:black_radiance]]“People decide whether they want to leave. I decide whether I can move them without getting everyone else killed.”
 
 Yun looked at him differently.
 
@@ -790,9 +790,9 @@ Yurushi shrugged.
 
 “Over years?”
 
-“Yes.”
+[[speaker:yun]]“Yes.”
 
-“Enough that I stopped counting because counting started to feel like collecting virtue.”
+[[speaker:black_radiance]]“Enough that I stopped counting because counting started to feel like collecting virtue.”
 
 That answer irritated her less than a number would have.
 
@@ -888,39 +888,39 @@ Yurushi pointed.
 
 “Yes.”
 
-“Behind it is an old dye lane. Three businesses share freight credentials. One owner owes me nothing and dislikes me. Best kind of contact.”
+[[speaker:black_radiance]]“Behind it is an old dye lane. Three businesses share freight credentials. One owner owes me nothing and dislikes me. Best kind of contact.”
 
-“Why?”
+[[speaker:yun]]“Why?”
 
-“He will not lie for me. He will simply honor a real document if the seal is valid.”
+[[speaker:black_radiance]]“He will not lie for me. He will simply honor a real document if the seal is valid.”
 
 Yun nodded.
 
 “After the dye lane?”
 
-“Merchant wagon.”
+[[speaker:black_radiance]]“Merchant wagon.”
 
-“After wagon?”
+[[speaker:yun]]“After wagon?”
 
-“Clinic exchange.”
+[[speaker:black_radiance]]“Clinic exchange.”
 
-“After clinic?”
+[[speaker:yun]]“After clinic?”
 
-“Old clan path.”
+[[speaker:black_radiance]]“Old clan path.”
 
-“After path?”
+[[speaker:yun]]“After path?”
 
-“Civilian medical route north.”
+[[speaker:black_radiance]]“Civilian medical route north.”
 
 Yun looked at him.
 
 “The same corridor Shunto used to catch me near.”
 
-“Not the same road.”
+[[speaker:black_radiance]]“Not the same road.”
 
-“Explain.”
+[[speaker:yun]]“Explain.”
 
-“Shinsei built over older roads. Governments like to think they invented geography.”
+[[speaker:black_radiance]]“Shinsei built over older roads. Governments like to think they invented geography.”
 
 That almost earned a laugh.
 
@@ -928,13 +928,13 @@ Yurushi continued.
 
 “The official transfer route follows the valley floor. Before unification, three hill clans moved medicine along the ridge because they taxed one another below. Shinsei closed two paths and forgot the third because the new road was better.”
 
-“Forgot?”
+[[speaker:yun]]“Forgot?”
 
-“Administratively.”
+[[speaker:black_radiance]]“Administratively.”
 
-“Meaning?”
+[[speaker:yun]]“Meaning?”
 
-“The path still exists. It is simply absent from current route planning.”
+[[speaker:black_radiance]]“The path still exists. It is simply absent from current route planning.”
 
 Yun understood.
 
@@ -946,15 +946,15 @@ Bureaucratically dead.
 
 Useful.
 
-“How many civilians have used it?”
+[[speaker:yun]]“How many civilians have used it?”
 
-“Recently? Six families during last year’s security closures. Two wounded clan mediators. One physician who made the mistake of accusing a district official of stealing medicine.”
+[[speaker:black_radiance]]“Recently? Six families during last year’s security closures. Two wounded clan mediators. One physician who made the mistake of accusing a district official of stealing medicine.”
 
-“So if Shunto searches it—”
+[[speaker:yun]]“So if Shunto searches it—”
 
-“Other people suffer.”
+[[speaker:black_radiance]]“Other people suffer.”
 
-“Yes.”
+[[speaker:yun]]“Yes.”
 
 Yurushi’s jaw tightened.
 
@@ -964,13 +964,13 @@ Yun stared at him.
 
 He had already decided.
 
-“You assume I leave.”
+[[speaker:yun]]“You assume I leave.”
 
-“I am trying optimism.”
+[[speaker:black_radiance]]“I am trying optimism.”
 
-“Dangerous habit.”
+[[speaker:yun]]“Dangerous habit.”
 
-“So I hear.”
+[[speaker:black_radiance]]“So I hear.”
 
 The annex bell rang once.
 
@@ -1004,13 +1004,13 @@ It also made the risk heavier.
 
 Yun said, “If I get out, Shunto will look for who helped.”
 
-“I know.”
+[[speaker:black_radiance]]“I know.”
 
-“He will find something.”
+[[speaker:yun]]“He will find something.”
 
-“I know.”
+[[speaker:black_radiance]]“I know.”
 
-“You could leave with me.”
+[[speaker:yun]]“You could leave with me.”
 
 Yurushi looked toward the false panel.
 
@@ -1024,13 +1024,13 @@ It was years of people who trusted darkness to remain dark.
 
 She nodded once.
 
-“Then we do not waste it.”
+[[speaker:yun]]“Then we do not waste it.”
 
 Yurushi smiled faintly.
 
 “Now you sound like me.”
 
-“Do not be insulting.”
+[[speaker:yun]]“Do not be insulting.”
 
 The bell rang again.
 
