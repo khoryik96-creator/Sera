@@ -110,11 +110,11 @@ The physician’s hand paused.
 
 “You are awake.”
 
-“I had noticed.”
+[[speaker:yun]]“I had noticed.”
 
 “You have internal strain from forced circulation.”
 
-“Your Second Seat caused it.”
+[[speaker:yun]]“Your Second Seat caused it.”
 
 The physician did not answer.
 
@@ -134,7 +134,7 @@ Yun’s eyes sharpened.
 
 “Anti-inflammatory.”
 
-“Name.”
+[[speaker:yun]]“Name.”
 
 He named it.
 
@@ -142,11 +142,11 @@ Yun recognized the formula.
 
 Safe enough.
 
-“Dose?”
+[[speaker:yun]]“Dose?”
 
 He told her.
 
-“Too high for my weight.”
+[[speaker:yun]]“Too high for my weight.”
 
 The physician frowned.
 
@@ -170,11 +170,11 @@ Wonderful.
 
 When the physician finished, he said, “You will be questioned.”
 
-“I was hoping for a holiday.”
+[[speaker:yun]]“I was hoping for a holiday.”
 
 “No unnecessary movement.”
 
-“Does your government issue that sentence with every room?”
+[[speaker:yun]]“Does your government issue that sentence with every room?”
 
 The guard almost smiled.
 
@@ -278,9 +278,9 @@ He noticed.
 
 Flexed the fingers once.
 
-“Still works.”
+[[speaker:shunto]]“Still works.”
 
-“Disappointing.”
+[[speaker:yun]]“Disappointing.”
 
 He closed the door.
 
@@ -298,17 +298,17 @@ Shunto stood beyond reach anyway.
 
 “How are the locks?” he asked.
 
-“Amateurish.”
+[[speaker:yun]]“Amateurish.”
 
-“You tried them.”
+[[speaker:shunto]]“You tried them.”
 
-“Of course.”
+[[speaker:yun]]“Of course.”
 
-“Six closed lines.”
+[[speaker:shunto]]“Six closed lines.”
 
-“I counted.”
+[[speaker:yun]]“I counted.”
 
-“Good.”
+[[speaker:shunto]]“Good.”
 
 He pulled the room’s only chair closer but stopped outside kicking range.
 
@@ -316,21 +316,21 @@ Still learning.
 
 Yun said, “You rehearsed the road for how long?”
 
-“Twenty-seven days.”
+[[speaker:shunto]]“Twenty-seven days.”
 
 She blinked once.
 
-“Obsessive.”
+[[speaker:yun]]“Obsessive.”
 
-“You poisoned my arm.”
+[[speaker:shunto]]“You poisoned my arm.”
 
-“For eleven minutes.”
+[[speaker:yun]]“For eleven minutes.”
 
-“Yes.”
+[[speaker:shunto]]“Yes.”
 
-“Still sensitive?”
+[[speaker:yun]]“Still sensitive?”
 
-“No.”
+[[speaker:shunto]]“No.”
 
 Lie.
 
@@ -344,15 +344,15 @@ She stored it.
 
 Shunto said, “You knew the road was a trap.”
 
-“Yes.”
+[[speaker:yun]]“Yes.”
 
-“And took it.”
+[[speaker:shunto]]“And took it.”
 
-“Yes.”
+[[speaker:yun]]“Yes.”
 
-“Why?”
+[[speaker:shunto]]“Why?”
 
-“Because you did your job well.”
+[[speaker:yun]]“Because you did your job well.”
 
 That answer made him quiet.
 
@@ -364,15 +364,15 @@ Shunto’s expression remained unreadable.
 
 “Is that praise?”
 
-“No.”
+[[speaker:yun]]“No.”
 
-“Sounded like it.”
+[[speaker:shunto]]“Sounded like it.”
 
-“I can respect competence while disliking the person using it.”
+[[speaker:yun]]“I can respect competence while disliking the person using it.”
 
-“Useful distinction.”
+[[speaker:shunto]]“Useful distinction.”
 
-“It keeps the world from becoming childish.”
+[[speaker:yun]]“It keeps the world from becoming childish.”
 
 For a moment neither spoke.
 
@@ -400,13 +400,13 @@ Yun smiled faintly.
 
 “There it is.”
 
-“The material you collected.”
+[[speaker:shunto]]“The material you collected.”
 
-“Define material.”
+[[speaker:yun]]“Define material.”
 
-“Records. Samples. Notes. Names.”
+[[speaker:shunto]]“Records. Samples. Notes. Names.”
 
-“Laundry invoice.”
+[[speaker:yun]]“Laundry invoice.”
 
 His eyes narrowed.
 
@@ -414,9 +414,9 @@ Yun continued.
 
 “Very revealing laundry invoice.”
 
-“You think this is funny.”
+[[speaker:shunto]]“You think this is funny.”
 
-“No. I think you prefer me afraid.”
+[[speaker:yun]]“No. I think you prefer me afraid.”
 
 That landed.
 
@@ -428,7 +428,7 @@ Yun’s smile disappeared.
 
 She looked directly at him.
 
-“You did not capture everything I know.”
+[[speaker:yun]]“You did not capture everything I know.”
 
 Shunto said nothing.
 
@@ -502,19 +502,19 @@ Yun nearly laughed.
 
 Of course he chose the dinner symbol.
 
-“Bad cooking.”
+[[speaker:yun]]“Bad cooking.”
 
 His face did not change.
 
-“That is not a joke.”
+[[speaker:shunto]]“That is not a joke.”
 
-“It is exactly a joke.”
+[[speaker:yun]]“It is exactly a joke.”
 
-“Three circles appears beside military estimates.”
+[[speaker:shunto]]“Three circles appears beside military estimates.”
 
-“Luo cooks badly under stress.”
+[[speaker:yun]]“Luo cooks badly under stress.”
 
-“Luo Wen.”
+[[speaker:shunto]]“Luo Wen.”
 
 Yun’s expression did not move.
 
@@ -534,9 +534,9 @@ Yun watched back.
 
 “Your physician,” he said.
 
-“Many people are physicians.”
+[[speaker:yun]]“Many people are physicians.”
 
-“Your partner.”
+[[speaker:shunto]]“Your partner.”
 
 There.
 
@@ -546,15 +546,15 @@ Shunto continued.
 
 “You built the notation together.”
 
-“Did I?”
+[[speaker:yun]]“Did I?”
 
-“You write differently in ordinary medical records.”
+[[speaker:shunto]]“You write differently in ordinary medical records.”
 
-“Perhaps I became creative abroad.”
+[[speaker:yun]]“Perhaps I became creative abroad.”
 
-“Three circles.”
+[[speaker:shunto]]“Three circles.”
 
-“Burned fish.”
+[[speaker:yun]]“Burned fish.”
 
 He stared.
 
@@ -574,27 +574,27 @@ Good.
 
 Lie.
 
-“Who expects you back?”
+[[speaker:shunto]]“Who expects you back?”
 
-“My landlord.”
+[[speaker:yun]]“My landlord.”
 
-“Wuyue.”
+[[speaker:shunto]]“Wuyue.”
 
-“Eventually.”
+[[speaker:yun]]“Eventually.”
 
-“When?”
+[[speaker:shunto]]“When?”
 
-“I told them three weeks.”
+[[speaker:yun]]“I told them three weeks.”
 
-“That was almost three months ago.”
+[[speaker:shunto]]“That was almost three months ago.”
 
-“Yes.”
+[[speaker:yun]]“Yes.”
 
-“So they know something is wrong.”
+[[speaker:shunto]]“So they know something is wrong.”
 
-“Probably.”
+[[speaker:yun]]“Probably.”
 
-“Who?”
+[[speaker:shunto]]“Who?”
 
 Yun shrugged as much as the restraint allowed.
 
@@ -604,7 +604,7 @@ Shunto’s jaw tightened.
 
 He slid the notebook toward her.
 
-“Read this.”
+[[speaker:shunto]]“Read this.”
 
 Yun looked down.
 
@@ -614,21 +614,21 @@ The troop estimate.
 
 He pointed to the disguised weight notation.
 
-“What is two hundred thousand?”
+[[speaker:shunto]]“What is two hundred thousand?”
 
-“Large patient.”
+[[speaker:yun]]“Large patient.”
 
-“Yun.”
+[[speaker:shunto]]“Yun.”
 
-“Shunto.”
+[[speaker:yun]]“Shunto.”
 
 His voice went colder.
 
-“You spent three months inside restricted infrastructure. You collected state medical material. You mapped military preparations. You attempted to leave through an obsolete northern transfer route.”
+[[speaker:shunto]]“You spent three months inside restricted infrastructure. You collected state medical material. You mapped military preparations. You attempted to leave through an obsolete northern transfer route.”
 
-“Excellent summary.”
+[[speaker:yun]]“Excellent summary.”
 
-“Isgard.”
+[[speaker:shunto]]“Isgard.”
 
 Yun said nothing.
 
@@ -646,9 +646,9 @@ Yun looked bored.
 
 He leaned forward.
 
-“What do you know?”
+[[speaker:shunto]]“What do you know?”
 
-“Your tea is bad.”
+[[speaker:yun]]“Your tea is bad.”
 
 He closed the notebook.
 
@@ -656,7 +656,7 @@ The sound was small.
 
 Hard.
 
-“Where is the physical sample?”
+[[speaker:shunto]]“Where is the physical sample?”
 
 Yun’s pulse remained steady.
 
@@ -666,11 +666,11 @@ Or wanted her to think he did not.
 
 Either way, same response.
 
-“What sample?”
+[[speaker:yun]]“What sample?”
 
-“Axtaya.”
+[[speaker:shunto]]“Axtaya.”
 
-“Interesting name.”
+[[speaker:yun]]“Interesting name.”
 
 His eyes sharpened.
 
@@ -680,19 +680,19 @@ Too cute.
 
 She corrected.
 
-“I heard it in a market months ago.”
+[[speaker:yun]]“I heard it in a market months ago.”
 
-“Before or after you entered military clinics?”
+[[speaker:shunto]]“Before or after you entered military clinics?”
 
-“Which clinic?”
+[[speaker:yun]]“Which clinic?”
 
-“Do not.”
+[[speaker:shunto]]“Do not.”
 
-“Do not what?”
+[[speaker:yun]]“Do not what?”
 
-“Turn every answer into a question.”
+[[speaker:shunto]]“Turn every answer into a question.”
 
-“Why?”
+[[speaker:yun]]“Why?”
 
 He exhaled through his nose.
 
@@ -716,13 +716,13 @@ Information enough to matter later.
 
 Shunto said, “You think silence protects Wuyue.”
 
-“It protects accuracy.”
+[[speaker:yun]]“It protects accuracy.”
 
-“Accuracy?”
+[[speaker:shunto]]“Accuracy?”
 
-“If I tell you a lie and you believe it, that is your problem. If I tell you a truth because you frighten me, that becomes mine.”
+[[speaker:yun]]“If I tell you a lie and you believe it, that is your problem. If I tell you a truth because you frighten me, that becomes mine.”
 
-“You are frightened.”
+[[speaker:shunto]]“You are frightened.”
 
 Yun met his eyes.
 
@@ -736,11 +736,11 @@ Fear did not require surrender.
 
 She continued.
 
-“I am injured. Restrained. In a foreign state facility controlled by a High Paragon who spent three months hunting me. Of course I am frightened.”
+[[speaker:yun]]“I am injured. Restrained. In a foreign state facility controlled by a High Paragon who spent three months hunting me. Of course I am frightened.”
 
 Her voice stayed level.
 
-“But you keep making the mistake of thinking fear and obedience are the same thing.”
+[[speaker:yun]]“But you keep making the mistake of thinking fear and obedience are the same thing.”
 
 Shunto’s expression changed.
 
@@ -754,19 +754,19 @@ Yun watched him gather the notebook.
 
 “Who did you send material to?”
 
-“No one.”
+[[speaker:yun]]“No one.”
 
 Lie.
 
-“Did anything leave Shinrin?”
+[[speaker:shunto]]“Did anything leave Shinrin?”
 
-“No.”
+[[speaker:yun]]“No.”
 
 Lie.
 
-“Does Luo know how to read this?”
+[[speaker:shunto]]“Does Luo know how to read this?”
 
-“No.”
+[[speaker:yun]]“No.”
 
 Lie.
 
@@ -774,7 +774,7 @@ Three clean lies.
 
 Then one truth.
 
-“You have most of the paper I carried.”
+[[speaker:yun]]“You have most of the paper I carried.”
 
 Shunto stopped.
 
@@ -784,7 +784,7 @@ Truth mixed with lies gave the lies shape.
 
 He turned back.
 
-“Most.”
+[[speaker:shunto]]“Most.”
 
 Yun smiled faintly.
 
@@ -890,7 +890,7 @@ Entitlement.
 
 She stood as far as the restraint line allowed.
 
-“Open the door.”
+[[speaker:yun]]“Open the door.”
 
 Shunto said nothing.
 
@@ -914,7 +914,7 @@ No sarcasm.
 
 No ambiguity.
 
-“No.”
+[[speaker:yun]]“No.”
 
 Shunto stopped for one breath.
 
@@ -1006,7 +1006,7 @@ Whatever he expected to see, she refused to perform it for him.
 
 He said, “You should have—”
 
-“Do not finish that sentence.”
+[[speaker:yun]]“Do not finish that sentence.”
 
 Her voice was quiet.
 
@@ -1038,7 +1038,7 @@ Her eyes were dry.
 
 Her body had not yet decided what to do with the urge to cry.
 
-“You are still not getting the war.”
+[[speaker:yun]]“You are still not getting the war.”
 
 Shunto’s expression changed.
 
@@ -1174,7 +1174,7 @@ Shunto looked at her.
 
 “What?”
 
-“Nothing.”
+[[speaker:yun]]“Nothing.”
 
 He flexed again.
 
@@ -1200,15 +1200,15 @@ That hurt.
 
 She did it anyway.
 
-“Could have been the road.”
+[[speaker:yun]]“Could have been the road.”
 
 His eyes narrowed.
 
-“Could have been interrogation.”
+[[speaker:yun]]“Could have been interrogation.”
 
 Silence.
 
-“Could have been later.”
+[[speaker:yun]]“Could have been later.”
 
 The room became very still.
 
@@ -1216,7 +1216,7 @@ Yun’s smile vanished.
 
 She looked directly at him.
 
-“You will never know exactly which moment you gave me.”
+[[speaker:yun]]“You will never know exactly which moment you gave me.”
 
 That was the point.
 
@@ -1270,7 +1270,7 @@ Shunto finally looked at her.
 
 “Why tell me?”
 
-“Because I am a poisoner, not an idiot. Dead captor creates lockdown. Numb captor creates paperwork.”
+[[speaker:yun]]“Because I am a poisoner, not an idiot. Dead captor creates lockdown. Numb captor creates paperwork.”
 
 The physician almost coughed.
 
@@ -1284,11 +1284,11 @@ The physician looked offended.
 
 “Was not.”
 
-“You were.”
+[[speaker:yun]]“You were.”
 
 “I was assessing.”
 
-“Slowly.”
+[[speaker:yun]]“Slowly.”
 
 The guard nearest the door looked down to hide something suspiciously like amusement.
 
