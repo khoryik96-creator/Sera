@@ -1,6 +1,6 @@
 # Season 101 — unattributed dialogue
 
-90 quoted lines in this season have no speaker.
+86 quoted lines in this season have no speaker.
 See `README.md` in this folder for what to do with them.
 
 Lines already resolved show their speaker in `[brackets]` for context.
@@ -470,21 +470,13 @@ She looked at the wounded.
 [aya] “Who was struck by the coastal bolt?”
 A medic raised one hand.
 >>> “Third boat. Four crushed ribs, one open fracture, two concussions.”   <-- WHO SAYS THIS?
-“Redline?”
+[aya] “Redline?”
 “None.”
-```
-```
-[aya] “Who was struck by the coastal bolt?”
-A medic raised one hand.
-“Third boat. Four crushed ribs, one open fracture, two concussions.”
->>> “Redline?”   <-- WHO SAYS THIS?
-“None.”
-[aya] “Keep it that way.”
 ```
 ```
 A medic raised one hand.
 “Third boat. Four crushed ribs, one open fracture, two concussions.”
-“Redline?”
+[aya] “Redline?”
 >>> “None.”   <-- WHO SAYS THIS?
 [aya] “Keep it that way.”
 Aya knelt beside a soldier coughing blood.
@@ -494,19 +486,11 @@ No aura display.
 She pressed two into the chest wall, one near the shoulder, another at the lower rib, then guided the soldier's breathing until the panic stopped eating what little air he had.
 A captain approached.
 >>> “Lady Aya, command asks whether the medical line can move closer to—”   <-- WHO SAYS THIS?
-“No.”
+[aya] “No.”
 He stopped.
 ```
 ```
-She pressed two into the chest wall, one near the shoulder, another at the lower rib, then guided the soldier's breathing until the panic stopped eating what little air he had.
-A captain approached.
-“Lady Aya, command asks whether the medical line can move closer to—”
->>> “No.”   <-- WHO SAYS THIS?
-He stopped.
-[aya] “The wounded come here. I do not move the hospital into siege range because a map wants symmetry.”
-```
-```
-“No.”
+[aya] “No.”
 He stopped.
 [aya] “The wounded come here. I do not move the hospital into siege range because a map wants symmetry.”
 >>> “Yes, Lady Aya.”   <-- WHO SAYS THIS?
@@ -715,22 +699,6 @@ Eirik did not deny it.
 >>> “No.”   <-- WHO SAYS THIS?
 That surprised people.
 He continued.
-```
-```
-Aldric lowered the butt of his spear into the frozen ground.
-[aldric] “You left.”
-Eirik went still.
->>> “You left because people were going to kill each other in your name.”   <-- WHO SAYS THIS?
-“Yes.”
-[aldric] “And now you return with twenty-five thousand soldiers to explain that our right to choose became inconvenient.”
-```
-```
-[aldric] “You left.”
-Eirik went still.
-“You left because people were going to kill each other in your name.”
->>> “Yes.”   <-- WHO SAYS THIS?
-[aldric] “And now you return with twenty-five thousand soldiers to explain that our right to choose became inconvenient.”
-Eirik said nothing.
 ```
 ```
 Eirik looked past Aldric toward the grey banners.

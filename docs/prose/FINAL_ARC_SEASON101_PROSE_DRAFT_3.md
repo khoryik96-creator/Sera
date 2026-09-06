@@ -464,7 +464,7 @@ A medic raised one hand.
 
 “Third boat. Four crushed ribs, one open fracture, two concussions.”
 
-“Redline?”
+[[speaker:aya]]“Redline?”
 
 “None.”
 
@@ -484,7 +484,7 @@ A captain approached.
 
 “Lady Aya, command asks whether the medical line can move closer to—”
 
-“No.”
+[[speaker:aya]]“No.”
 
 He stopped.
 
@@ -1118,9 +1118,9 @@ Aldric lowered the butt of his spear into the frozen ground.
 
 Eirik went still.
 
-“You left because people were going to kill each other in your name.”
+[[speaker:aldric]]“You left because people were going to kill each other in your name.”
 
-“Yes.”
+[[speaker:eirik]]“Yes.”
 
 [[speaker:aldric]]“And now you return with twenty-five thousand soldiers to explain that our right to choose became inconvenient.”
 
