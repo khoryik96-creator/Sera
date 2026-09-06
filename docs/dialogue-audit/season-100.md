@@ -1,6 +1,6 @@
 # Season 100 — unattributed dialogue
 
-399 quoted lines in this season have no speaker.
+528 quoted lines in this season have no speaker.
 See `README.md` in this folder for what to do with them.
 
 Lines already resolved show their speaker in `[brackets]` for context.
@@ -8,9 +8,25 @@ Lines already resolved show their speaker in `[brackets]` for context.
 ### Chapter 351 — Too Full
 
 ```
-[sera] “You are thinking loudly.”
+The answer was obvious.
+He had been avoiding it because obvious answers could still be inconvenient.
+Sera opened one eye.
+>>> “You are thinking loudly.”   <-- WHO SAYS THIS?
 Rhen looked back.
-[rhen] “I did not know that was possible.”
+“I did not know that was possible.”
+```
+```
+Sera opened one eye.
+“You are thinking loudly.”
+Rhen looked back.
+>>> “I did not know that was possible.”   <-- WHO SAYS THIS?
+“It is when you sit at the edge of the bed before sunrise looking like you want to argue with your organs.”
+He almost smiled.
+```
+```
+“You are thinking loudly.”
+Rhen looked back.
+“I did not know that was possible.”
 >>> “It is when you sit at the edge of the bed before sunrise looking like you want to argue with your organs.”   <-- WHO SAYS THIS?
 He almost smiled.
 Sera sat up.
@@ -141,26 +157,34 @@ No argument.
 That worried her more than an argument would have.
 >>> “What is the fix?”   <-- WHO SAYS THIS?
 Rhen rested one hand over his sternum.
-[rhen] “Condensation.”
+“Condensation.”
+```
+```
+That worried her more than an argument would have.
+“What is the fix?”
+Rhen rested one hand over his sternum.
+>>> “Condensation.”   <-- WHO SAYS THIS?
+“You said that before.”
+“I was hoping not to need the full version.”
 ```
 ```
 “What is the fix?”
 Rhen rested one hand over his sternum.
-[rhen] “Condensation.”
+“Condensation.”
 >>> “You said that before.”   <-- WHO SAYS THIS?
 “I was hoping not to need the full version.”
 “What is the full version?”
 ```
 ```
 Rhen rested one hand over his sternum.
-[rhen] “Condensation.”
+“Condensation.”
 “You said that before.”
 >>> “I was hoping not to need the full version.”   <-- WHO SAYS THIS?
 “What is the full version?”
 “The reserve has to take less space.”
 ```
 ```
-[rhen] “Condensation.”
+“Condensation.”
 “You said that before.”
 “I was hoping not to need the full version.”
 >>> “What is the full version?”   <-- WHO SAYS THIS?
@@ -173,26 +197,34 @@ Sera frowned slightly.
 “What is the full version?”
 >>> “The reserve has to take less space.”   <-- WHO SAYS THIS?
 Sera frowned slightly.
-[sera] “Same qi?”
+“Same qi?”
+```
+```
+“What is the full version?”
+“The reserve has to take less space.”
+Sera frowned slightly.
+>>> “Same qi?”   <-- WHO SAYS THIS?
+“Eventually more.”
+“That sounded suspiciously like more power.”
 ```
 ```
 “The reserve has to take less space.”
 Sera frowned slightly.
-[sera] “Same qi?”
+“Same qi?”
 >>> “Eventually more.”   <-- WHO SAYS THIS?
 “That sounded suspiciously like more power.”
 “It is not the purpose.”
 ```
 ```
 Sera frowned slightly.
-[sera] “Same qi?”
+“Same qi?”
 “Eventually more.”
 >>> “That sounded suspiciously like more power.”   <-- WHO SAYS THIS?
 “It is not the purpose.”
 “Explain it without being annoying.”
 ```
 ```
-[sera] “Same qi?”
+“Same qi?”
 “Eventually more.”
 “That sounded suspiciously like more power.”
 >>> “It is not the purpose.”   <-- WHO SAYS THIS?
@@ -205,50 +237,74 @@ Rhen considered.
 “It is not the purpose.”
 >>> “Explain it without being annoying.”   <-- WHO SAYS THIS?
 Rhen considered.
-[rhen] “Imagine packing snow.”
+“Imagine packing snow.”
 ```
 ```
-[rhen] “Imagine packing snow.”
+“It is not the purpose.”
+“Explain it without being annoying.”
+Rhen considered.
+>>> “Imagine packing snow.”   <-- WHO SAYS THIS?
 Sera stared.
-[sera] “That is your explanation?”
+“That is your explanation?”
+```
+```
+Rhen considered.
+“Imagine packing snow.”
+Sera stared.
+>>> “That is your explanation?”   <-- WHO SAYS THIS?
+“You asked for less annoying.”
+“I did.”
+```
+```
+“Imagine packing snow.”
+Sera stared.
+“That is your explanation?”
 >>> “You asked for less annoying.”   <-- WHO SAYS THIS?
 “I did.”
 “Loose snow fills a courtyard quickly. Packed snow occupies less volume without becoming less snow.”
 ```
 ```
 Sera stared.
-[sera] “That is your explanation?”
+“That is your explanation?”
 “You asked for less annoying.”
 >>> “I did.”   <-- WHO SAYS THIS?
 “Loose snow fills a courtyard quickly. Packed snow occupies less volume without becoming less snow.”
 Sera’s eyes narrowed.
 ```
 ```
-[sera] “That is your explanation?”
+“That is your explanation?”
 “You asked for less annoying.”
 “I did.”
 >>> “Loose snow fills a courtyard quickly. Packed snow occupies less volume without becoming less snow.”   <-- WHO SAYS THIS?
 Sera’s eyes narrowed.
-[sera] “So your current qi is loose snow.”
+“So your current qi is loose snow.”
+```
+```
+“I did.”
+“Loose snow fills a courtyard quickly. Packed snow occupies less volume without becoming less snow.”
+Sera’s eyes narrowed.
+>>> “So your current qi is loose snow.”   <-- WHO SAYS THIS?
+“Extremely dangerous loose snow.”
+“And you need to compress it until your body can hold it without leaking winter into the furniture.”
 ```
 ```
 “Loose snow fills a courtyard quickly. Packed snow occupies less volume without becoming less snow.”
 Sera’s eyes narrowed.
-[sera] “So your current qi is loose snow.”
+“So your current qi is loose snow.”
 >>> “Extremely dangerous loose snow.”   <-- WHO SAYS THIS?
 “And you need to compress it until your body can hold it without leaking winter into the furniture.”
 “Yes.”
 ```
 ```
 Sera’s eyes narrowed.
-[sera] “So your current qi is loose snow.”
+“So your current qi is loose snow.”
 “Extremely dangerous loose snow.”
 >>> “And you need to compress it until your body can hold it without leaking winter into the furniture.”   <-- WHO SAYS THIS?
 “Yes.”
 “That was almost understandable.”
 ```
 ```
-[sera] “So your current qi is loose snow.”
+“So your current qi is loose snow.”
 “Extremely dangerous loose snow.”
 “And you need to compress it until your body can hold it without leaking winter into the furniture.”
 >>> “Yes.”   <-- WHO SAYS THIS?
@@ -277,12 +333,28 @@ Rhen looked toward the window.
 “Thank you.”
 >>> “How long?”   <-- WHO SAYS THIS?
 Rhen looked toward the window.
-[rhen] “Months, possibly.”
+“Months, possibly.”
+```
+```
+“Thank you.”
+“How long?”
+Rhen looked toward the window.
+>>> “Months, possibly.”   <-- WHO SAYS THIS?
+Silence.
+Sera’s gaze moved to him again.
+```
+```
+“Months, possibly.”
+Silence.
+Sera’s gaze moved to him again.
+>>> “How many?”   <-- WHO SAYS THIS?
+“I do not know.”
+That answer stayed between them.
 ```
 ```
 Silence.
 Sera’s gaze moved to him again.
-[sera] “How many?”
+“How many?”
 >>> “I do not know.”   <-- WHO SAYS THIS?
 That answer stayed between them.
 Outside, Quaint was beginning to wake.
@@ -360,16 +432,24 @@ Rhen looked at her.
 Sera’s eyebrow rose.
 ```
 ```
+“Can I run Quaint?”
 Rhen looked at her.
 Sera’s eyebrow rose.
-[sera] “Wrong answer and I freeze you myself.”
+>>> “Wrong answer and I freeze you myself.”   <-- WHO SAYS THIS?
+“You can run everything.”
+“Better.”
+```
+```
+Rhen looked at her.
+Sera’s eyebrow rose.
+“Wrong answer and I freeze you myself.”
 >>> “You can run everything.”   <-- WHO SAYS THIS?
 “Better.”
 He took her hand.
 ```
 ```
 Sera’s eyebrow rose.
-[sera] “Wrong answer and I freeze you myself.”
+“Wrong answer and I freeze you myself.”
 “You can run everything.”
 >>> “Better.”   <-- WHO SAYS THIS?
 He took her hand.
@@ -400,16 +480,24 @@ He glanced toward the outer rooms.
 Yun had been gone roughly three months.
 ```
 ```
+Nobody knew enough to call it anything else.
 Rhen said, “It feels like a bad time to disappear.”
 Sera squeezed his hand.
-[sera] “There is never a good time for someone useful to become unavailable.”
+>>> “There is never a good time for someone useful to become unavailable.”   <-- WHO SAYS THIS?
+“That is not comforting.”
+“It is not supposed to be.”
+```
+```
+Rhen said, “It feels like a bad time to disappear.”
+Sera squeezed his hand.
+“There is never a good time for someone useful to become unavailable.”
 >>> “That is not comforting.”   <-- WHO SAYS THIS?
 “It is not supposed to be.”
 She leaned closer.
 ```
 ```
 Sera squeezed his hand.
-[sera] “There is never a good time for someone useful to become unavailable.”
+“There is never a good time for someone useful to become unavailable.”
 “That is not comforting.”
 >>> “It is not supposed to be.”   <-- WHO SAYS THIS?
 She leaned closer.
@@ -459,23 +547,63 @@ For the first time in months, the decision itself made him feel lighter.
 ### Chapter 352 — Three Weeks Became Three Months
 
 ```
-[xie_wuchen] “This came through a merchant office two ports east.”
+Lu Weiran entered near noon carrying a narrow export registry.
+Xie Wuchen followed him through the door and immediately looked as though being indoors had been imposed on him unfairly.
+Luo glanced up.
+>>> “News?”   <-- WHO SAYS THIS?
+So much for not asking.
+Lu placed the registry on the table.
+```
+```
+“News?”
+So much for not asking.
+Lu placed the registry on the table.
+>>> “Not enough.”   <-- WHO SAYS THIS?
+Luo’s face changed by almost nothing.
+“Tell me anyway.”
+```
+```
+Lu placed the registry on the table.
+“Not enough.”
+Luo’s face changed by almost nothing.
+>>> “Tell me anyway.”   <-- WHO SAYS THIS?
+Xie leaned against the wall.
+“This came through a merchant office two ports east.”
+```
+```
+Luo’s face changed by almost nothing.
+“Tell me anyway.”
+Xie leaned against the wall.
+>>> “This came through a merchant office two ports east.”   <-- WHO SAYS THIS?
 Luo looked at him.
-[luo] “I thought you were done helping.”
+“I thought you were done helping.”
+```
+```
+Xie leaned against the wall.
+“This came through a merchant office two ports east.”
+Luo looked at him.
+>>> “I thought you were done helping.”   <-- WHO SAYS THIS?
+“I was.”
+“Then?”
+```
+```
+“This came through a merchant office two ports east.”
+Luo looked at him.
+“I thought you were done helping.”
 >>> “I was.”   <-- WHO SAYS THIS?
 “Then?”
 “The courier was extorting refugees.”
 ```
 ```
 Luo looked at him.
-[luo] “I thought you were done helping.”
+“I thought you were done helping.”
 “I was.”
 >>> “Then?”   <-- WHO SAYS THIS?
 “The courier was extorting refugees.”
 Lu said, “He stopped the extortion, found the ledger and brought it here.”
 ```
 ```
-[luo] “I thought you were done helping.”
+“I thought you were done helping.”
 “I was.”
 “Then?”
 >>> “The courier was extorting refugees.”   <-- WHO SAYS THIS?
@@ -483,16 +611,24 @@ Lu said, “He stopped the extortion, found the ledger and brought it here.”
 Xie looked offended.
 ```
 ```
+“The courier was extorting refugees.”
 Lu said, “He stopped the extortion, found the ledger and brought it here.”
 Xie looked offended.
-[xie_wuchen] “That makes it sound deliberate.”
+>>> “That makes it sound deliberate.”   <-- WHO SAYS THIS?
+“It was deliberate.”
+“Temporarily deliberate.”
+```
+```
+Lu said, “He stopped the extortion, found the ledger and brought it here.”
+Xie looked offended.
+“That makes it sound deliberate.”
 >>> “It was deliberate.”   <-- WHO SAYS THIS?
 “Temporarily deliberate.”
 Nobody argued.
 ```
 ```
 Xie looked offended.
-[xie_wuchen] “That makes it sound deliberate.”
+“That makes it sound deliberate.”
 “It was deliberate.”
 >>> “Temporarily deliberate.”   <-- WHO SAYS THIS?
 Nobody argued.
@@ -504,26 +640,50 @@ Xie waited.
 Then frowned.
 >>> “You are supposed to tell me I keep coming back.”   <-- WHO SAYS THIS?
 Sera entered behind him carrying tea.
-[sera] “We got bored.”
+“We got bored.”
 ```
 ```
-[luweiran] “This credential crossed through three interior medical zones over eleven weeks.”
+Then frowned.
+“You are supposed to tell me I keep coming back.”
+Sera entered behind him carrying tea.
+>>> “We got bored.”   <-- WHO SAYS THIS?
+Xie looked more offended.
+Good.
+```
+```
+Routine cargo.
+One merchant credential had been used repeatedly in districts far deeper inland than Yun’s original pharmaceutical trail should have required.
+Lu tapped it.
+>>> “This credential crossed through three interior medical zones over eleven weeks.”   <-- WHO SAYS THIS?
 Luo stared.
-[luo] “You think it was hers.”
+“You think it was hers.”
+```
+```
+Lu tapped it.
+“This credential crossed through three interior medical zones over eleven weeks.”
+Luo stared.
+>>> “You think it was hers.”   <-- WHO SAYS THIS?
+“I think it matches one alias fragment from the first route she used.”
+“Think.”
+```
+```
+“This credential crossed through three interior medical zones over eleven weeks.”
+Luo stared.
+“You think it was hers.”
 >>> “I think it matches one alias fragment from the first route she used.”   <-- WHO SAYS THIS?
 “Think.”
 “Yes.”
 ```
 ```
 Luo stared.
-[luo] “You think it was hers.”
+“You think it was hers.”
 “I think it matches one alias fragment from the first route she used.”
 >>> “Think.”   <-- WHO SAYS THIS?
 “Yes.”
 Not certainty.
 ```
 ```
-[luo] “You think it was hers.”
+“You think it was hers.”
 “I think it matches one alias fragment from the first route she used.”
 “Think.”
 >>> “Yes.”   <-- WHO SAYS THIS?
@@ -536,26 +696,42 @@ Luo respected him for that.
 Hated him slightly too.
 >>> “Where does it end?”   <-- WHO SAYS THIS?
 Lu turned the page.
-[luweiran] “Here.”
+“Here.”
+```
+```
+Hated him slightly too.
+“Where does it end?”
+Lu turned the page.
+>>> “Here.”   <-- WHO SAYS THIS?
+A transfer station near the northern administrative corridor.
+Then nothing.
+```
+```
+A transfer station near the northern administrative corridor.
+Then nothing.
+Luo’s jaw tightened.
+>>> “Coordinate?”   <-- WHO SAYS THIS?
+“No.”
+“Local contact?”
 ```
 ```
 Then nothing.
 Luo’s jaw tightened.
-[luo] “Coordinate?”
+“Coordinate?”
 >>> “No.”   <-- WHO SAYS THIS?
 “Local contact?”
 “No.”
 ```
 ```
 Luo’s jaw tightened.
-[luo] “Coordinate?”
+“Coordinate?”
 “No.”
 >>> “Local contact?”   <-- WHO SAYS THIS?
 “No.”
 “Prison?”
 ```
 ```
-[luo] “Coordinate?”
+“Coordinate?”
 “No.”
 “Local contact?”
 >>> “No.”   <-- WHO SAYS THIS?
@@ -592,26 +768,34 @@ Luo looked at him.
 “Anything useful?”
 >>> “It tells us she went much deeper than she expected.”   <-- WHO SAYS THIS?
 Luo looked at him.
-[luo] “That is not useful.”
+“That is not useful.”
+```
+```
+“Anything useful?”
+“It tells us she went much deeper than she expected.”
+Luo looked at him.
+>>> “That is not useful.”   <-- WHO SAYS THIS?
+“It is operationally useful.”
+“It does not tell me where she is.”
 ```
 ```
 “It tells us she went much deeper than she expected.”
 Luo looked at him.
-[luo] “That is not useful.”
+“That is not useful.”
 >>> “It is operationally useful.”   <-- WHO SAYS THIS?
 “It does not tell me where she is.”
 “No.”
 ```
 ```
 Luo looked at him.
-[luo] “That is not useful.”
+“That is not useful.”
 “It is operationally useful.”
 >>> “It does not tell me where she is.”   <-- WHO SAYS THIS?
 “No.”
 Lu did not soften the answer.
 ```
 ```
-[luo] “That is not useful.”
+“That is not useful.”
 “It is operationally useful.”
 “It does not tell me where she is.”
 >>> “No.”   <-- WHO SAYS THIS?
@@ -619,15 +803,31 @@ Lu did not soften the answer.
 That was mercy in its own way.
 ```
 ```
+Sera placed a cup beside Luo.
+He did not touch it.
+Xie pushed away from the wall.
+>>> “I can go north.”   <-- WHO SAYS THIS?
+Everyone looked at him.
+He immediately regretted speaking.
+```
+```
+He immediately regretted speaking.
 Sera said, “To where?”
 Xie gestured at the ledger.
-[xie_wuchen] “Shinrin.”
+>>> “Shinrin.”   <-- WHO SAYS THIS?
+“Which city?”
+Silence.
+```
+```
+Sera said, “To where?”
+Xie gestured at the ledger.
+“Shinrin.”
 >>> “Which city?”   <-- WHO SAYS THIS?
 Silence.
 “Which road?”
 ```
 ```
-[xie_wuchen] “Shinrin.”
+“Shinrin.”
 “Which city?”
 Silence.
 >>> “Which road?”   <-- WHO SAYS THIS?
@@ -643,23 +843,47 @@ Xie’s mouth tightened.
 Sera continued.
 ```
 ```
+Sera continued.
+[sera] “We know she crossed a continent-sized state under an alias. We know a medical credential touched multiple interior districts. We do not know whether she is still on any of those routes.”
+Xie looked at Luo.
+>>> “I could search.”   <-- WHO SAYS THIS?
+Luo finally spoke.
+[luo] “And become a second missing person.”
+```
+```
+He understood it.
+Understanding did not make it kinder.
+Lu pointed to another mark.
+>>> “There is one more thing.”   <-- WHO SAYS THIS?
+A northern routing code.
+Not enough to reveal a destination.
+```
+```
+Not enough to reveal a destination.
 Enough to indicate Yun had started moving toward Isgard-linked trade corridors before the record disappeared.
 Luo stared at it.
-[luo] “Home?”
+>>> “Home?”   <-- WHO SAYS THIS?
+“Possibly.”
+“Captured?”
+```
+```
+Enough to indicate Yun had started moving toward Isgard-linked trade corridors before the record disappeared.
+Luo stared at it.
+“Home?”
 >>> “Possibly.”   <-- WHO SAYS THIS?
 “Captured?”
 “Possibly.”
 ```
 ```
 Luo stared at it.
-[luo] “Home?”
+“Home?”
 “Possibly.”
 >>> “Captured?”   <-- WHO SAYS THIS?
 “Possibly.”
 “Dead?”
 ```
 ```
-[luo] “Home?”
+“Home?”
 “Possibly.”
 “Captured?”
 >>> “Possibly.”   <-- WHO SAYS THIS?
@@ -672,7 +896,23 @@ Lu was quiet.
 “Possibly.”
 >>> “Dead?”   <-- WHO SAYS THIS?
 Lu was quiet.
-[luweiran] “Possible.”
+“Possible.”
+```
+```
+“Possibly.”
+“Dead?”
+Lu was quiet.
+>>> “Possible.”   <-- WHO SAYS THIS?
+Sera’s eyes closed briefly.
+Luo looked at Yun’s cup.
+```
+```
+It had already cooled.
+He drank anyway.
+Xie moved toward the door.
+>>> “I am done after this.”   <-- WHO SAYS THIS?
+Nobody answered.
+He stopped.
 ```
 ```
 He stopped.
@@ -682,35 +922,58 @@ Still nothing.
 Sera said, “See you tomorrow.”
 Xie left.
 ```
+```
+Sera said, “See you tomorrow.”
+Xie left.
+Lu watched the door close.
+>>> “He will be back.”   <-- WHO SAYS THIS?
+Luo said, “Probably.”
+For the first time, there was no humor in it.
+```
 
 ### Chapter 353 — Before the Door Closes
 
 ```
 Sera locked the bedroom door.
 Rhen looked at it.
-[rhen] “That felt dramatic.”
+>>> “That felt dramatic.”   <-- WHO SAYS THIS?
+“It was intentional.”
+He was sitting on the edge of the bed with his traveling coat folded beside him.
+```
+```
+Sera locked the bedroom door.
+Rhen looked at it.
+“That felt dramatic.”
 >>> “It was intentional.”   <-- WHO SAYS THIS?
 He was sitting on the edge of the bed with his traveling coat folded beside him.
 Not wearing it.
 ```
 ```
+Then the bedroom window refused to close.
 Rhen stared at it.
 Sera watched from beside the bed.
-[sera] “You're losing.”
+>>> “You're losing.”   <-- WHO SAYS THIS?
+“I'm assessing it.”
+“The window?”
+```
+```
+Rhen stared at it.
+Sera watched from beside the bed.
+“You're losing.”
 >>> “I'm assessing it.”   <-- WHO SAYS THIS?
 “The window?”
 “Yes.”
 ```
 ```
 Sera watched from beside the bed.
-[sera] “You're losing.”
+“You're losing.”
 “I'm assessing it.”
 >>> “The window?”   <-- WHO SAYS THIS?
 “Yes.”
 “It has two hinges.”
 ```
 ```
-[sera] “You're losing.”
+“You're losing.”
 “I'm assessing it.”
 “The window?”
 >>> “Yes.”   <-- WHO SAYS THIS?
@@ -750,23 +1013,31 @@ Sera covered her mouth.
 Rhen looked over.
 ```
 ```
+“That mountain was structurally simpler.”
 Sera covered her mouth.
 Rhen looked over.
-[rhen] “Are you laughing?”
+>>> “Are you laughing?”   <-- WHO SAYS THIS?
+“No.”
+“You are.”
+```
+```
+Sera covered her mouth.
+Rhen looked over.
+“Are you laughing?”
 >>> “No.”   <-- WHO SAYS THIS?
 “You are.”
 “Petals Monarch defeated by carpentry.”
 ```
 ```
 Rhen looked over.
-[rhen] “Are you laughing?”
+“Are you laughing?”
 “No.”
 >>> “You are.”   <-- WHO SAYS THIS?
 “Petals Monarch defeated by carpentry.”
 “Windows are not carpentry.”
 ```
 ```
-[rhen] “Are you laughing?”
+“Are you laughing?”
 “No.”
 “You are.”
 >>> “Petals Monarch defeated by carpentry.”   <-- WHO SAYS THIS?
@@ -787,26 +1058,42 @@ Rhen looked back at the frame.
 “Windows are not carpentry.”
 >>> “What are they?”   <-- WHO SAYS THIS?
 Rhen looked back at the frame.
-[rhen] “Currently hostile.”
+“Currently hostile.”
+```
+```
+“Windows are not carpentry.”
+“What are they?”
+Rhen looked back at the frame.
+>>> “Currently hostile.”   <-- WHO SAYS THIS?
+Sera lost the fight and laughed into her hand.
+Rhen gave the window one final, deeply offended look.
+```
+```
+Rhen gave the window one final, deeply offended look.
+Then he shut it with two fingers and an amount of precision qi that could probably have severed a fortress gate without disturbing the wall around it.
+Sera stared.
+>>> “You cheated.”   <-- WHO SAYS THIS?
+“It is closed.”
+“You used cultivation on a window.”
 ```
 ```
 Then he shut it with two fingers and an amount of precision qi that could probably have severed a fortress gate without disturbing the wall around it.
 Sera stared.
-[sera] “You cheated.”
+“You cheated.”
 >>> “It is closed.”   <-- WHO SAYS THIS?
 “You used cultivation on a window.”
 “It was hostile.”
 ```
 ```
 Sera stared.
-[sera] “You cheated.”
+“You cheated.”
 “It is closed.”
 >>> “You used cultivation on a window.”   <-- WHO SAYS THIS?
 “It was hostile.”
 Rhen returned to the edge of the bed.
 ```
 ```
-[sera] “You cheated.”
+“You cheated.”
 “It is closed.”
 “You used cultivation on a window.”
 >>> “It was hostile.”   <-- WHO SAYS THIS?
@@ -867,19 +1154,27 @@ That was how she knew he understood.
 When they finally separated, Sera rested her forehead against his.
 >>> “Explain the dangerous part again.”   <-- WHO SAYS THIS?
 Rhen sighed.
-[rhen] “Romantic.”
+“Romantic.”
+```
+```
+When they finally separated, Sera rested her forehead against his.
+“Explain the dangerous part again.”
+Rhen sighed.
+>>> “Romantic.”   <-- WHO SAYS THIS?
+“I am serious.”
+“I know.”
 ```
 ```
 “Explain the dangerous part again.”
 Rhen sighed.
-[rhen] “Romantic.”
+“Romantic.”
 >>> “I am serious.”   <-- WHO SAYS THIS?
 “I know.”
 She shifted but did not move off him.
 ```
 ```
 Rhen sighed.
-[rhen] “Romantic.”
+“Romantic.”
 “I am serious.”
 >>> “I know.”   <-- WHO SAYS THIS?
 She shifted but did not move off him.
@@ -923,34 +1218,50 @@ Rhen’s hands became still at her waist.
 “Hours. Possibly a day.”
 >>> “And after?”   <-- WHO SAYS THIS?
 Rhen’s hands became still at her waist.
-[rhen] “After the structure starts collapsing inward, interruption becomes dangerous.”
+“After the structure starts collapsing inward, interruption becomes dangerous.”
+```
+```
+“Hours. Possibly a day.”
+“And after?”
+Rhen’s hands became still at her waist.
+>>> “After the structure starts collapsing inward, interruption becomes dangerous.”   <-- WHO SAYS THIS?
+“Define dangerous.”
+He looked at her.
 ```
 ```
 “And after?”
 Rhen’s hands became still at her waist.
-[rhen] “After the structure starts collapsing inward, interruption becomes dangerous.”
+“After the structure starts collapsing inward, interruption becomes dangerous.”
 >>> “Define dangerous.”   <-- WHO SAYS THIS?
 He looked at her.
 Sera did not blink.
 ```
 ```
+“Define dangerous.”
 He looked at her.
 Sera did not blink.
-[sera] “Rhen.”
+>>> “Rhen.”   <-- WHO SAYS THIS?
+“If the qi is halfway between diffuse and condensed states, forcing normal circulation too quickly can tear the meridians it is moving through.”
+“How badly?”
+```
+```
+He looked at her.
+Sera did not blink.
+“Rhen.”
 >>> “If the qi is halfway between diffuse and condensed states, forcing normal circulation too quickly can tear the meridians it is moving through.”   <-- WHO SAYS THIS?
 “How badly?”
 “Catastrophically.”
 ```
 ```
 Sera did not blink.
-[sera] “Rhen.”
+“Rhen.”
 “If the qi is halfway between diffuse and condensed states, forcing normal circulation too quickly can tear the meridians it is moving through.”
 >>> “How badly?”   <-- WHO SAYS THIS?
 “Catastrophically.”
 Her jaw tightened.
 ```
 ```
-[sera] “Rhen.”
+“Rhen.”
 “If the qi is halfway between diffuse and condensed states, forcing normal circulation too quickly can tear the meridians it is moving through.”
 “How badly?”
 >>> “Catastrophically.”   <-- WHO SAYS THIS?
@@ -1046,7 +1357,15 @@ That one changed him.
 Rhen’s expression softened.
 ```
 ```
-[rhen] “You wait.”
+“What if I need you?”
+That one changed him.
+Rhen’s expression softened.
+>>> “You wait.”   <-- WHO SAYS THIS?
+Sera swallowed.
+He continued quietly.
+```
+```
+“You wait.”
 Sera swallowed.
 He continued quietly.
 >>> “And I come back.”   <-- WHO SAYS THIS?
@@ -1094,23 +1413,31 @@ She kissed him again.
 Slower.
 ```
 ```
+He denied it badly.
 Later, they lay beneath the blanket while rain touched the roof.
 Sera traced one finger along the pale scar near his eyebrow.
-[sera] “Months.”
+>>> “Months.”   <-- WHO SAYS THIS?
+“Probably.”
+“You keep using that word.”
+```
+```
+Later, they lay beneath the blanket while rain touched the roof.
+Sera traced one finger along the pale scar near his eyebrow.
+“Months.”
 >>> “Probably.”   <-- WHO SAYS THIS?
 “You keep using that word.”
 “It remains accurate.”
 ```
 ```
 Sera traced one finger along the pale scar near his eyebrow.
-[sera] “Months.”
+“Months.”
 “Probably.”
 >>> “You keep using that word.”   <-- WHO SAYS THIS?
 “It remains accurate.”
 “When you come out, I am charging you rent.”
 ```
 ```
-[sera] “Months.”
+“Months.”
 “Probably.”
 “You keep using that word.”
 >>> “It remains accurate.”   <-- WHO SAYS THIS?
@@ -1190,39 +1517,55 @@ Rhen was quiet.
 Sera hated the answer before he gave it.
 ```
 ```
+“If news comes after you begin—”
 Rhen was quiet.
 Sera hated the answer before he gave it.
-[sera] “If I am still in the early stage, Lu can assess me.”
+>>> “If I am still in the early stage, Lu can assess me.”   <-- WHO SAYS THIS?
+“And after?”
+“You already know.”
+```
+```
+Rhen was quiet.
+Sera hated the answer before he gave it.
+“If I am still in the early stage, Lu can assess me.”
 >>> “And after?”   <-- WHO SAYS THIS?
 “You already know.”
 She did.
 ```
 ```
 Sera hated the answer before he gave it.
-[sera] “If I am still in the early stage, Lu can assess me.”
+“If I am still in the early stage, Lu can assess me.”
 “And after?”
 >>> “You already know.”   <-- WHO SAYS THIS?
 She did.
 That was the cruelty.
 ```
 ```
+Not choosing Rhen over Yun.
 Choosing based on the world they actually knew tonight.
 Sera rested her head against his chest.
-[sera] “Bad timing.”
+>>> “Bad timing.”   <-- WHO SAYS THIS?
+“Yes.”
+“You said that.”
+```
+```
+Choosing based on the world they actually knew tonight.
+Sera rested her head against his chest.
+“Bad timing.”
 >>> “Yes.”   <-- WHO SAYS THIS?
 “You said that.”
 “I remain correct.”
 ```
 ```
 Sera rested her head against his chest.
-[sera] “Bad timing.”
+“Bad timing.”
 “Yes.”
 >>> “You said that.”   <-- WHO SAYS THIS?
 “I remain correct.”
 She pinched him.
 ```
 ```
-[sera] “Bad timing.”
+“Bad timing.”
 “Yes.”
 “You said that.”
 >>> “I remain correct.”   <-- WHO SAYS THIS?
@@ -1233,84 +1576,156 @@ He pretended it hurt.
 ### Chapter 354 — Closed Garden
 
 ```
+Sera had picked it up from the bedroom floor that morning while complaining exactly as promised.
+Now she looked at it and wished she had complained longer.
+Lu checked the chamber one final time.
+>>> “Emergency access stays sealed unless the external monitor shows catastrophic deviation.”   <-- WHO SAYS THIS?
+Rhen nodded.
+[luweiran] “Once condensation passes the early stage,” Lu continued, “nobody opens this because they are nervous.”
+```
+```
+Rhen nodded.
 [luweiran] “Once condensation passes the early stage,” Lu continued, “nobody opens this because they are nervous.”
 Tae stood behind him.
-[tae] “What if I am very nervous?”
+>>> “What if I am very nervous?”   <-- WHO SAYS THIS?
+“No.”
+“What if—”
+```
+```
+[luweiran] “Once condensation passes the early stage,” Lu continued, “nobody opens this because they are nervous.”
+Tae stood behind him.
+“What if I am very nervous?”
 >>> “No.”   <-- WHO SAYS THIS?
 “What if—”
 “No.”
 ```
 ```
 Tae stood behind him.
-[tae] “What if I am very nervous?”
+“What if I am very nervous?”
 “No.”
 >>> “What if—”   <-- WHO SAYS THIS?
 “No.”
 Huo folded his arms.
 ```
 ```
-[tae] “What if I am very nervous?”
+“What if I am very nervous?”
 “No.”
 “What if—”
 >>> “No.”   <-- WHO SAYS THIS?
 Huo folded his arms.
-[huo] “This is why nobody lets you manage medicine.”
+“This is why nobody lets you manage medicine.”
+```
+```
+“What if—”
+“No.”
+Huo folded his arms.
+>>> “This is why nobody lets you manage medicine.”   <-- WHO SAYS THIS?
+“I manage morale.”
+“You damage morale.”
 ```
 ```
 “No.”
 Huo folded his arms.
-[huo] “This is why nobody lets you manage medicine.”
+“This is why nobody lets you manage medicine.”
 >>> “I manage morale.”   <-- WHO SAYS THIS?
 “You damage morale.”
 Qin Luo looked toward Sera.
 ```
 ```
 Huo folded his arms.
-[huo] “This is why nobody lets you manage medicine.”
+“This is why nobody lets you manage medicine.”
 “I manage morale.”
 >>> “You damage morale.”   <-- WHO SAYS THIS?
 Qin Luo looked toward Sera.
 She was not smiling.
 ```
 ```
+Qin spoke first.
 [qin] “Come back denser.”
 Rhen looked at him.
-[rhen] “That sounds rude.”
+>>> “That sounds rude.”   <-- WHO SAYS THIS?
+“It is medical encouragement.”
+“Luo has been influencing you.”
+```
+```
+[qin] “Come back denser.”
+Rhen looked at him.
+“That sounds rude.”
 >>> “It is medical encouragement.”   <-- WHO SAYS THIS?
 “Luo has been influencing you.”
 “Probably.”
 ```
 ```
 Rhen looked at him.
-[rhen] “That sounds rude.”
+“That sounds rude.”
 “It is medical encouragement.”
 >>> “Luo has been influencing you.”   <-- WHO SAYS THIS?
 “Probably.”
 Huo stepped forward.
 ```
 ```
-[rhen] “That sounds rude.”
+“That sounds rude.”
 “It is medical encouragement.”
 “Luo has been influencing you.”
 >>> “Probably.”   <-- WHO SAYS THIS?
 Huo stepped forward.
-[huo] “If something happens, we hold Quaint.”
+“If something happens, we hold Quaint.”
 ```
 ```
-[rhen] “I also know.”
+“Luo has been influencing you.”
+“Probably.”
+Huo stepped forward.
+>>> “If something happens, we hold Quaint.”   <-- WHO SAYS THIS?
+Rhen nodded.
+“I know.”
+```
+```
+Huo stepped forward.
+“If something happens, we hold Quaint.”
+Rhen nodded.
+>>> “I know.”   <-- WHO SAYS THIS?
+Tae said, “If something happens, we punch it.”
+Huo closed his eyes.
+```
+```
+Tae said, “If something happens, we punch it.”
+Huo closed his eyes.
+Rhen smiled.
+>>> “I also know.”   <-- WHO SAYS THIS?
 Lu handed him a small monitoring strip.
-[luweiran] “First stage, I can still call you out if the circulation pattern fails.”
+“First stage, I can still call you out if the circulation pattern fails.”
+```
+```
+Rhen smiled.
+“I also know.”
+Lu handed him a small monitoring strip.
+>>> “First stage, I can still call you out if the circulation pattern fails.”   <-- WHO SAYS THIS?
+“And after?”
+“After, I guard the door from idiots.”
+```
+```
+“I also know.”
+Lu handed him a small monitoring strip.
+“First stage, I can still call you out if the circulation pattern fails.”
 >>> “And after?”   <-- WHO SAYS THIS?
 “After, I guard the door from idiots.”
 Tae looked offended.
 ```
 ```
 Lu handed him a small monitoring strip.
-[luweiran] “First stage, I can still call you out if the circulation pattern fails.”
+“First stage, I can still call you out if the circulation pattern fails.”
 “And after?”
 >>> “After, I guard the door from idiots.”   <-- WHO SAYS THIS?
 Tae looked offended.
-[tae] “Why did you look at me?”
+“Why did you look at me?”
+```
+```
+“And after?”
+“After, I guard the door from idiots.”
+Tae looked offended.
+>>> “Why did you look at me?”   <-- WHO SAYS THIS?
+Lu did not answer.
+Finally, everyone except Sera stepped back.
 ```
 ```
 The corridor suddenly felt longer.
@@ -1374,37 +1789,61 @@ Sera adjusted the collar of his plain inner robe because his coat would remain o
 Then she kissed him once.
 >>> “Come back.”   <-- WHO SAYS THIS?
 Rhen touched her cheek.
-[rhen] “I intend to.”
+“I intend to.”
+```
+```
+Then she kissed him once.
+“Come back.”
+Rhen touched her cheek.
+>>> “I intend to.”   <-- WHO SAYS THIS?
+Still precise.
+Still him.
 ```
 
 ### Chapter 355 — One Day Later
 
+```
+Yun had apparently objected to that description twice.
+“Walking badly,” the caravan driver corrected when the border healer asked.
+Yun, half-supported against the clinic wall, lifted one finger.
+>>> “Accurate.”   <-- WHO SAYS THIS?
+Then her knees gave way.
+The healer caught her before she hit the floor.
+```
 ```
 Fever beginning beneath exhaustion.
 Multiple injuries at different stages of healing, some treated well enough to prove she had received competent medicine at some point and then been forced to keep moving anyway.
 The physician looked at the pattern and stopped treating her like an ordinary traveler.
 >>> “Who did this?”   <-- WHO SAYS THIS?
 Yun opened her eyes.
-[yun] “Later.”
+“Later.”
+```
+```
+The physician looked at the pattern and stopped treating her like an ordinary traveler.
+“Who did this?”
+Yun opened her eyes.
+>>> “Later.”   <-- WHO SAYS THIS?
+“You need treatment now.”
+“I need an officer.”
 ```
 ```
 “Who did this?”
 Yun opened her eyes.
-[yun] “Later.”
+“Later.”
 >>> “You need treatment now.”   <-- WHO SAYS THIS?
 “I need an officer.”
 “You need a bed.”
 ```
 ```
 Yun opened her eyes.
-[yun] “Later.”
+“Later.”
 “You need treatment now.”
 >>> “I need an officer.”   <-- WHO SAYS THIS?
 “You need a bed.”
 “Both.”
 ```
 ```
-[yun] “Later.”
+“Later.”
 “You need treatment now.”
 “I need an officer.”
 >>> “You need a bed.”   <-- WHO SAYS THIS?
@@ -1436,6 +1875,14 @@ Nothing.
 Border physicians could not be expected to memorize every martial rank across another continent.
 ```
 ```
+Nothing.
+Border physicians could not be expected to memorize every martial rank across another continent.
+Yun swallowed.
+>>> “The Pale Venom.”   <-- WHO SAYS THIS?
+The junior healer beside him went completely still.
+There.
+```
+```
 There.
 That one had travelled farther.
 The senior physician looked at the junior.
@@ -1450,6 +1897,14 @@ The senior physician looked at the junior.
 >>> “Wuyue Top Ten.”   <-- WHO SAYS THIS?
 Silence.
 Yun closed her eyes again.
+```
+```
+“Wuyue Top Ten.”
+Silence.
+Yun closed her eyes again.
+>>> “No.10.”   <-- WHO SAYS THIS?
+The room changed.
+The No.10 title did not make her more deserving of medicine. It activated a defensive pact between Wuyue and Isgard, and one of Wuyue’s public Top Ten had just crossed the border nearly dead while insisting on an officer.
 ```
 ```
 The room changed.
@@ -1484,15 +1939,23 @@ Good.
 Yun released him.
 ```
 ```
+Another warmed fluid.
+A third checked her circulation and swore under his breath.
 Yun heard it.
-[yun] “Professional.”
+>>> “Professional.”   <-- WHO SAYS THIS?
+The healer looked embarrassed.
+“Sorry.”
+```
+```
+Yun heard it.
+“Professional.”
 The healer looked embarrassed.
 >>> “Sorry.”   <-- WHO SAYS THIS?
 “I agree with you.”
 He almost smiled.
 ```
 ```
-[yun] “Professional.”
+“Professional.”
 The healer looked embarrassed.
 “Sorry.”
 >>> “I agree with you.”   <-- WHO SAYS THIS?
@@ -1532,15 +1995,23 @@ Yun looked at him.
 That was an answer.
 ```
 ```
+That was the danger.
+Her body had simply spent too long being asked for one more mile.
 Yun touched the wrap around her wrist.
-[yun] “Cut this carefully.”
+>>> “Cut this carefully.”   <-- WHO SAYS THIS?
+The physician frowned.
+“Why?”
+```
+```
+Yun touched the wrap around her wrist.
+“Cut this carefully.”
 The physician frowned.
 >>> “Why?”   <-- WHO SAYS THIS?
 “Inside seam.”
 He cut the outer wrap.
 ```
 ```
-[yun] “Cut this carefully.”
+“Cut this carefully.”
 The physician frowned.
 “Why?”
 >>> “Inside seam.”   <-- WHO SAYS THIS?
@@ -1641,18 +2112,26 @@ Yun looked at him.
 “Yes.”
 >>> “I am Commander Hallen, northern pact liaison. Whatever you tell me now goes directly to central command and Wuyue.”   <-- WHO SAYS THIS?
 Yun looked at him.
-[yun] “Send the alert first.”
+“Send the alert first.”
+```
+```
+“Yes.”
+“I am Commander Hallen, northern pact liaison. Whatever you tell me now goes directly to central command and Wuyue.”
+Yun looked at him.
+>>> “Send the alert first.”   <-- WHO SAYS THIS?
+He paused.
+“I need cause.”
 ```
 ```
 Yun looked at him.
-[yun] “Send the alert first.”
+“Send the alert first.”
 He paused.
 >>> “I need cause.”   <-- WHO SAYS THIS?
 “Foreign invasion preparation against Isgard.”
 Hallen’s face hardened. He had heard enough.
 ```
 ```
-[yun] “Send the alert first.”
+“Send the alert first.”
 He paused.
 “I need cause.”
 >>> “Foreign invasion preparation against Isgard.”   <-- WHO SAYS THIS?
@@ -1697,18 +2176,26 @@ Time before certainty became irrelevant.
 The physician touched her shoulder.
 >>> “Enough for now.”   <-- WHO SAYS THIS?
 Yun shook her head.
-[yun] “No.”
+“No.”
+```
+```
+The physician touched her shoulder.
+“Enough for now.”
+Yun shook her head.
+>>> “No.”   <-- WHO SAYS THIS?
+“You will kill yourself finishing a report.”
+She looked at him.
 ```
 ```
 “Enough for now.”
 Yun shook her head.
-[yun] “No.”
+“No.”
 >>> “You will kill yourself finishing a report.”   <-- WHO SAYS THIS?
 She looked at him.
 “I did not cross Shinrin to die before the useful part.”
 ```
 ```
-[yun] “No.”
+“No.”
 “You will kill yourself finishing a report.”
 She looked at him.
 >>> “I did not cross Shinrin to die before the useful part.”   <-- WHO SAYS THIS?
@@ -1770,26 +2257,34 @@ Yun pointed weakly toward the sealed capillary now sitting inside a padded evide
 “Continue.”
 >>> “Axtaya.”   <-- WHO SAYS THIS?
 Yun pointed weakly toward the sealed capillary now sitting inside a padded evidence tray.
-[yun] “Circulatory stimulant program. Multiplies combat throughput temporarily. Does not raise cultivation realm or skill.”
+“Circulatory stimulant program. Multiplies combat throughput temporarily. Does not raise cultivation realm or skill.”
+```
+```
+“Continue.”
+“Axtaya.”
+Yun pointed weakly toward the sealed capillary now sitting inside a padded evidence tray.
+>>> “Circulatory stimulant program. Multiplies combat throughput temporarily. Does not raise cultivation realm or skill.”   <-- WHO SAYS THIS?
+“Military issue?”
+“Yes.”
 ```
 ```
 “Axtaya.”
 Yun pointed weakly toward the sealed capillary now sitting inside a padded evidence tray.
-[yun] “Circulatory stimulant program. Multiplies combat throughput temporarily. Does not raise cultivation realm or skill.”
+“Circulatory stimulant program. Multiplies combat throughput temporarily. Does not raise cultivation realm or skill.”
 >>> “Military issue?”   <-- WHO SAYS THIS?
 “Yes.”
 “How strong?”
 ```
 ```
 Yun pointed weakly toward the sealed capillary now sitting inside a padded evidence tray.
-[yun] “Circulatory stimulant program. Multiplies combat throughput temporarily. Does not raise cultivation realm or skill.”
+“Circulatory stimulant program. Multiplies combat throughput temporarily. Does not raise cultivation realm or skill.”
 “Military issue?”
 >>> “Yes.”   <-- WHO SAYS THIS?
 “How strong?”
 “Multiple tiers. I confirmed escalation beyond safe medical origin. Highest field tier can produce roughly triple throughput for a short window.”
 ```
 ```
-[yun] “Circulatory stimulant program. Multiplies combat throughput temporarily. Does not raise cultivation realm or skill.”
+“Circulatory stimulant program. Multiplies combat throughput temporarily. Does not raise cultivation realm or skill.”
 “Military issue?”
 “Yes.”
 >>> “How strong?”   <-- WHO SAYS THIS?
@@ -1829,23 +2324,31 @@ The clerk paused.
 Yun’s breathing became shallower.
 ```
 ```
+“Do not write one field army.”
 The clerk paused.
 Yun’s breathing became shallower.
-[yun] “Wider trained apparatus exceeds two hundred thousand by conservative reconstruction. Regional forces, reserves, support-connected trained units. I did not confirm all would deploy at once.”
+>>> “Wider trained apparatus exceeds two hundred thousand by conservative reconstruction. Regional forces, reserves, support-connected trained units. I did not confirm all would deploy at once.”   <-- WHO SAYS THIS?
+“Quality?”
+“High.”
+```
+```
+The clerk paused.
+Yun’s breathing became shallower.
+“Wider trained apparatus exceeds two hundred thousand by conservative reconstruction. Regional forces, reserves, support-connected trained units. I did not confirm all would deploy at once.”
 >>> “Quality?”   <-- WHO SAYS THIS?
 “High.”
 “How high?”
 ```
 ```
 Yun’s breathing became shallower.
-[yun] “Wider trained apparatus exceeds two hundred thousand by conservative reconstruction. Regional forces, reserves, support-connected trained units. I did not confirm all would deploy at once.”
+“Wider trained apparatus exceeds two hundred thousand by conservative reconstruction. Regional forces, reserves, support-connected trained units. I did not confirm all would deploy at once.”
 “Quality?”
 >>> “High.”   <-- WHO SAYS THIS?
 “How high?”
 “Peak Marquis appears ordinary enough inside trained elite cohorts that Isgard must not plan around Wuyue scarcity assumptions.”
 ```
 ```
-[yun] “Wider trained apparatus exceeds two hundred thousand by conservative reconstruction. Regional forces, reserves, support-connected trained units. I did not confirm all would deploy at once.”
+“Wider trained apparatus exceeds two hundred thousand by conservative reconstruction. Regional forces, reserves, support-connected trained units. I did not confirm all would deploy at once.”
 “Quality?”
 “High.”
 >>> “How high?”   <-- WHO SAYS THIS?
@@ -2186,26 +2689,34 @@ Yun looked at him.
 “Insider assistance.”
 >>> “Name?”   <-- WHO SAYS THIS?
 Yun looked at him.
-[yun] “No.”
+“No.”
+```
+```
+“Insider assistance.”
+“Name?”
+Yun looked at him.
+>>> “No.”   <-- WHO SAYS THIS?
+“For protection?”
+“For theirs.”
 ```
 ```
 “Name?”
 Yun looked at him.
-[yun] “No.”
+“No.”
 >>> “For protection?”   <-- WHO SAYS THIS?
 “For theirs.”
 “Shinsei insider?”
 ```
 ```
 Yun looked at him.
-[yun] “No.”
+“No.”
 “For protection?”
 >>> “For theirs.”   <-- WHO SAYS THIS?
 “Shinsei insider?”
 “Close enough to its systems to create a route.”
 ```
 ```
-[yun] “No.”
+“No.”
 “For protection?”
 “For theirs.”
 >>> “Shinsei insider?”   <-- WHO SAYS THIS?
@@ -2258,7 +2769,15 @@ Yun said quietly, “Captured means captured. Put that in the report.”
 Hallen nodded.
 >>> “Anything else about Takamori?”   <-- WHO SAYS THIS?
 Yun’s eyes stayed on the ceiling.
-[yun] “Not for this report.”
+“Not for this report.”
+```
+```
+Hallen nodded.
+“Anything else about Takamori?”
+Yun’s eyes stayed on the ceiling.
+>>> “Not for this report.”   <-- WHO SAYS THIS?
+No detail.
+No erasure.
 ```
 ```
 This time he said nothing.
@@ -2301,32 +2820,48 @@ The word came out almost soundless.
 Yun turned her head toward the evidence tray.
 ```
 ```
+“Good.”
 The word came out almost soundless.
 Yun turned her head toward the evidence tray.
-[yun] “Sample.”
+>>> “Sample.”   <-- WHO SAYS THIS?
+“We have it.”
+“Luo Wen.”
+```
+```
+The word came out almost soundless.
+Yun turned her head toward the evidence tray.
+“Sample.”
 >>> “We have it.”   <-- WHO SAYS THIS?
 “Luo Wen.”
 “We will make sure Wuyue medical command receives the findings and the sample as soon as transport allows.”
 ```
 ```
 Yun turned her head toward the evidence tray.
-[yun] “Sample.”
+“Sample.”
 “We have it.”
 >>> “Luo Wen.”   <-- WHO SAYS THIS?
 “We will make sure Wuyue medical command receives the findings and the sample as soon as transport allows.”
 Yun frowned.
 ```
 ```
-[yun] “Sample.”
+“Sample.”
 “We have it.”
 “Luo Wen.”
 >>> “We will make sure Wuyue medical command receives the findings and the sample as soon as transport allows.”   <-- WHO SAYS THIS?
 Yun frowned.
-[yun] “Not medical command.”
+“Not medical command.”
+```
+```
+“Luo Wen.”
+“We will make sure Wuyue medical command receives the findings and the sample as soon as transport allows.”
+Yun frowned.
+>>> “Not medical command.”   <-- WHO SAYS THIS?
+Hallen waited.
+“Luo.”
 ```
 ```
 Yun frowned.
-[yun] “Not medical command.”
+“Not medical command.”
 Hallen waited.
 >>> “Luo.”   <-- WHO SAYS THIS?
 A tiny distinction.
@@ -2341,8 +2876,16 @@ Yun relaxed by a fraction.
 The physician took her hand.
 ```
 ```
+The physician took her hand.
+Medicine did not require the touch. Sometimes physicians ran out of medicine before they ran out of hands.
 Yun looked at him.
-[yun] “Did I make it?”
+>>> “Did I make it?”   <-- WHO SAYS THIS?
+He understood what she meant.
+“The warning is moving.”
+```
+```
+Yun looked at him.
+“Did I make it?”
 He understood what she meant.
 >>> “The warning is moving.”   <-- WHO SAYS THIS?
 She closed her eyes.
@@ -2360,6 +2903,38 @@ Her breathing slowed.
 ### Chapter 357 — The Warning Reaches Wuyue
 
 ```
+He read the first line once.
+Then again.
+Sera saw his face before she saw the paper.
+>>> “What?”   <-- WHO SAYS THIS?
+Lu did not answer immediately.
+Jin Seoryu stood over the western campaign map with two logistics officers.
+```
+```
+Qin Luo had just entered from the lower training yard.
+Luo Wen was in the clinic.
+Lu looked at Sera.
+>>> “Isgard activated the pact.”   <-- WHO SAYS THIS?
+The room stopped.
+Jin’s hand left the map.
+```
+```
+“Isgard activated the pact.”
+The room stopped.
+Jin’s hand left the map.
+>>> “Cause?”   <-- WHO SAYS THIS?
+Lu held out the report.
+“Foreign invasion preparation. Shinrin.”
+```
+```
+Jin’s hand left the map.
+“Cause?”
+Lu held out the report.
+>>> “Foreign invasion preparation. Shinrin.”   <-- WHO SAYS THIS?
+Sera took it.
+Her eyes moved fast.
+```
+```
 Sera’s breath stopped.
 One heartbeat.
 Then continued.
@@ -2368,12 +2943,28 @@ Lu looked at the second page.
 Nobody spoke.
 ```
 ```
+Lu looked at the second page.
+Nobody spoke.
+Sera already knew.
+>>> “Say it.”   <-- WHO SAYS THIS?
+Lu’s voice was quiet.
+[luweiran] “She died after completing the report.”
+```
+```
 Necessary.
 Sera nodded.
 She read aloud.
 >>> “Shinsei Guild controls Shinrin’s state and military structure.”   <-- WHO SAYS THIS?
 Jin’s eyes sharpened.
-[jin] “Axtaya is institutional. Combat-throughput stimulant. Multiple tiers. High tier approximately three-times throughput for short duration. Future-vitality cost.”
+“Axtaya is institutional. Combat-throughput stimulant. Multiple tiers. High tier approximately three-times throughput for short duration. Future-vitality cost.”
+```
+```
+She read aloud.
+“Shinsei Guild controls Shinrin’s state and military structure.”
+Jin’s eyes sharpened.
+>>> “Axtaya is institutional. Combat-throughput stimulant. Multiple tiers. High tier approximately three-times throughput for short duration. Future-vitality cost.”   <-- WHO SAYS THIS?
+Huo swore.
+“Army?” Qin asked.
 ```
 ```
 [sera] “Wider trained apparatus greater than two hundred thousand. Not one confirmed field army. Peak Marquis common enough within elite cohorts that normal Wuyue scarcity assumptions are unsafe.”
@@ -2397,7 +2988,15 @@ Then Sera reached the next line.
 Nobody interrupted her this time.
 >>> “Shunto Takamori. No.2. High Paragon. Capture specialist.”   <-- WHO SAYS THIS?
 Qin’s gaze sharpened.
-[qin] “Tsubasa Kurokawa. No.1. Stronger than Shunto. Exact mechanics unknown.”
+“Tsubasa Kurokawa. No.1. Stronger than Shunto. Exact mechanics unknown.”
+```
+```
+Nobody interrupted her this time.
+“Shunto Takamori. No.2. High Paragon. Capture specialist.”
+Qin’s gaze sharpened.
+>>> “Tsubasa Kurokawa. No.1. Stronger than Shunto. Exact mechanics unknown.”   <-- WHO SAYS THIS?
+Jin said, “Good. She did not guess.”
+Sera looked at him.
 ```
 ```
 Sera looked at him.
@@ -2413,12 +3012,20 @@ Jin moved immediately.
 The strategist replaced the grieving man because both had to exist and only one could use the next hour.
 >>> “Activate pact mobilization protocols. Do not wait for a second message.”   <-- WHO SAYS THIS?
 Lu was already writing.
-[luweiran] “Which forces?”
+“Which forces?”
+```
+```
+The strategist replaced the grieving man because both had to exist and only one could use the next hour.
+“Activate pact mobilization protocols. Do not wait for a second message.”
+Lu was already writing.
+>>> “Which forces?”   <-- WHO SAYS THIS?
+“All assigned defensive contingencies first. No public panic order until we know transport capacity and landing options.”
+Sera said, “Quaint prepares.”
 ```
 ```
 “Activate pact mobilization protocols. Do not wait for a second message.”
 Lu was already writing.
-[luweiran] “Which forces?”
+“Which forces?”
 >>> “All assigned defensive contingencies first. No public panic order until we know transport capacity and landing options.”   <-- WHO SAYS THIS?
 Sera said, “Quaint prepares.”
 Qin nodded.
@@ -2464,12 +3071,36 @@ For one impossible second, Yun would have found that funny.
 Then the room remembered she was dead.
 ```
 ```
-[sera] “Luo.”
+For one impossible second, Yun would have found that funny.
+Then the room remembered she was dead.
+Sera folded the report.
+>>> “Luo.”   <-- WHO SAYS THIS?
 Lu nodded.
-[luweiran] “I will tell him.”
+“I will tell him.”
+```
+```
+Sera folded the report.
+“Luo.”
+Lu nodded.
+>>> “I will tell him.”   <-- WHO SAYS THIS?
+“No.”
+Sera stood.
+```
+```
+“Luo.”
+Lu nodded.
+“I will tell him.”
 >>> “No.”   <-- WHO SAYS THIS?
 Sera stood.
-[sera] “I will.”
+“I will.”
+```
+```
+“I will tell him.”
+“No.”
+Sera stood.
+>>> “I will.”   <-- WHO SAYS THIS?
+The clinic smelled like bitterroot and boiled cloth.
+Luo was standing over a patient when Sera entered.
 ```
 ```
 He looked up once.
@@ -2488,6 +3119,14 @@ Sera’s chest tightened.
 Of all the questions.
 ```
 ```
+She made it.
+Because he knew what Yun had gone to do.
+Sera nodded.
+>>> “The warning reached Isgard.”   <-- WHO SAYS THIS?
+Luo closed his eyes.
+One breath.
+```
+```
 Luo closed his eyes.
 One breath.
 Then:
@@ -2504,7 +3143,15 @@ Nothing broke dramatically.
 Luo did not drop a cup.
 ```
 ```
-[sera] “There is an Axtaya sample in Isgard. She asked that it reach you.”
+Did not fall to his knees.
+He sat down on the nearest stool because standing had become unnecessary.
+Sera placed the report beside him.
+>>> “There is an Axtaya sample in Isgard. She asked that it reach you.”   <-- WHO SAYS THIS?
+His hand moved to the paper.
+Stopped before touching it.
+```
+```
+“There is an Axtaya sample in Isgard. She asked that it reach you.”
 His hand moved to the paper.
 Stopped before touching it.
 >>> “She said my name?”   <-- WHO SAYS THIS?
@@ -2544,9 +3191,25 @@ His voice almost failed there.
 Almost.
 ```
 ```
-[luo] “Tell Isgard not to open the capillary outside controlled ventilation. I want comparative bloodwork from any exposed users they have. And no one assumes healing restored spent vitality.”
+Physician returned to his face.
+Grief remained. So did the work Yun had spent her final strength giving him.
+Luo stood.
+>>> “Tell Isgard not to open the capillary outside controlled ventilation. I want comparative bloodwork from any exposed users they have. And no one assumes healing restored spent vitality.”   <-- WHO SAYS THIS?
 Sera watched him.
-[sera] “Luo.”
+“Luo.”
+```
+```
+Luo stood.
+“Tell Isgard not to open the capillary outside controlled ventilation. I want comparative bloodwork from any exposed users they have. And no one assumes healing restored spent vitality.”
+Sera watched him.
+>>> “Luo.”   <-- WHO SAYS THIS?
+“I know.”
+He looked at her.
+```
+```
+“Tell Isgard not to open the capillary outside controlled ventilation. I want comparative bloodwork from any exposed users they have. And no one assumes healing restored spent vitality.”
+Sera watched him.
+“Luo.”
 >>> “I know.”   <-- WHO SAYS THIS?
 He looked at her.
 His eyes were wet now.
@@ -2560,16 +3223,24 @@ Sera said nothing.
 Luo looked down at the report.
 ```
 ```
+“I know she is dead.”
 Sera said nothing.
 Luo looked down at the report.
-[luo] “I can know that and still work.”
+>>> “I can know that and still work.”   <-- WHO SAYS THIS?
+“Yes.”
+“Good.”
+```
+```
+Sera said nothing.
+Luo looked down at the report.
+“I can know that and still work.”
 >>> “Yes.”   <-- WHO SAYS THIS?
 “Good.”
 He wiped his face once with the heel of his hand, irritated by the inconvenience of tears.
 ```
 ```
 Luo looked down at the report.
-[luo] “I can know that and still work.”
+“I can know that and still work.”
 “Yes.”
 >>> “Good.”   <-- WHO SAYS THIS?
 He wiped his face once with the heel of his hand, irritated by the inconvenience of tears.
@@ -2592,18 +3263,34 @@ A military clerk entered carrying a deployment matrix.
 He looked exhausted enough to be honest.
 >>> “First Inner Petal.”   <-- WHO SAYS THIS?
 Sera looked up.
-[sera] “The Top Ten command relay has a vacancy.”
+“The Top Ten command relay has a vacancy.”
+```
+```
+He looked exhausted enough to be honest.
+“First Inner Petal.”
+Sera looked up.
+>>> “The Top Ten command relay has a vacancy.”   <-- WHO SAYS THIS?
+Silence.
+The clerk immediately regretted the sentence.
+```
+```
+Silence.
+The clerk immediately regretted the sentence.
+Sera did not punish him for it.
+>>> “What requires the number?”   <-- WHO SAYS THIS?
+“Public mobilization authority in two eastern formations. They are structured to receive emergency orders through ranked holders or regional sovereign command. We can reroute through Jin, but it creates delay.”
+Jin said, “How much?”
 ```
 ```
 The clerk immediately regretted the sentence.
 Sera did not punish him for it.
-[sera] “What requires the number?”
+“What requires the number?”
 >>> “Public mobilization authority in two eastern formations. They are structured to receive emergency orders through ranked holders or regional sovereign command. We can reroute through Jin, but it creates delay.”   <-- WHO SAYS THIS?
 Jin said, “How much?”
 “Best case, hours. Worst case, a day if the road relay is interrupted.”
 ```
 ```
-[sera] “What requires the number?”
+“What requires the number?”
 “Public mobilization authority in two eastern formations. They are structured to receive emergency orders through ranked holders or regional sovereign command. We can reroute through Jin, but it creates delay.”
 Jin said, “How much?”
 >>> “Best case, hours. Worst case, a day if the road relay is interrupted.”   <-- WHO SAYS THIS?
@@ -2611,16 +3298,32 @@ A day.
 Yun had died buying them days.
 ```
 ```
+Wasting one because grief made administration feel ugly would not honor her.
+That did not mean replacing her before the room stopped remembering her voice.
+Sera looked at the blank line on the deployment matrix.
+>>> “No.10.”   <-- WHO SAYS THIS?
 The clerk nodded.
 Jin leaned back.
-[jin] “We can leave it empty another day if we restructure the relay.”
+```
+```
+“No.10.”
+The clerk nodded.
+Jin leaned back.
+>>> “We can leave it empty another day if we restructure the relay.”   <-- WHO SAYS THIS?
+“Can we do that without weakening response?”
+“Yes.”
+```
+```
+The clerk nodded.
+Jin leaned back.
+“We can leave it empty another day if we restructure the relay.”
 >>> “Can we do that without weakening response?”   <-- WHO SAYS THIS?
 “Yes.”
 He paused.
 ```
 ```
 Jin leaned back.
-[jin] “We can leave it empty another day if we restructure the relay.”
+“We can leave it empty another day if we restructure the relay.”
 “Can we do that without weakening response?”
 >>> “Yes.”   <-- WHO SAYS THIS?
 He paused.
@@ -2635,28 +3338,52 @@ The cost had finally been named. Nobody wanted the conversation.
 The war wanted it anyway.
 ```
 ```
+Of course he had.
 Three Axtaya case sheets covered the table beside Yun’s untouched cup.
 Sera stood in the doorway.
-[sera] “Have you slept?”
+>>> “Have you slept?”   <-- WHO SAYS THIS?
+“No.”
+“That was not a difficult question.”
+```
+```
+Three Axtaya case sheets covered the table beside Yun’s untouched cup.
+Sera stood in the doorway.
+“Have you slept?”
 >>> “No.”   <-- WHO SAYS THIS?
 “That was not a difficult question.”
 “I answered it.”
 ```
 ```
 Sera stood in the doorway.
-[sera] “Have you slept?”
+“Have you slept?”
 “No.”
 >>> “That was not a difficult question.”   <-- WHO SAYS THIS?
 “I answered it.”
 Jin entered behind her.
 ```
 ```
-[sera] “Have you slept?”
+“Have you slept?”
 “No.”
 “That was not a difficult question.”
 >>> “I answered it.”   <-- WHO SAYS THIS?
 Jin entered behind her.
 Luo saw him and understood immediately that this was not a medical visit.
+```
+```
+“I answered it.”
+Jin entered behind her.
+Luo saw him and understood immediately that this was not a medical visit.
+>>> “What?”   <-- WHO SAYS THIS?
+Jin did not circle it.
+“The No.10 command seat creates an operational gap.”
+```
+```
+Luo saw him and understood immediately that this was not a medical visit.
+“What?”
+Jin did not circle it.
+>>> “The No.10 command seat creates an operational gap.”   <-- WHO SAYS THIS?
+Luo looked at Yun’s cup.
+For several breaths he said nothing.
 ```
 ```
 Luo looked at Yun’s cup.
@@ -2715,32 +3442,56 @@ Jin said, “We have not chosen anyone.”
 Luo gave him a tired look.
 ```
 ```
+“Fine.”
 Jin said, “We have not chosen anyone.”
 Luo gave him a tired look.
-[luo] “You came to ask permission?”
+>>> “You came to ask permission?”   <-- WHO SAYS THIS?
+“No.”
+“Good. She would hate that.”
+```
+```
+Jin said, “We have not chosen anyone.”
+Luo gave him a tired look.
+“You came to ask permission?”
 >>> “No.”   <-- WHO SAYS THIS?
 “Good. She would hate that.”
 That was true enough to hurt.
 ```
 ```
 Luo gave him a tired look.
-[luo] “You came to ask permission?”
+“You came to ask permission?”
 “No.”
 >>> “Good. She would hate that.”   <-- WHO SAYS THIS?
 That was true enough to hurt.
 Luo picked up one of the Axtaya sheets.
 ```
 ```
-[luo] “Choose somebody useful.”
+“Good. She would hate that.”
+That was true enough to hurt.
+Luo picked up one of the Axtaya sheets.
+>>> “Choose somebody useful.”   <-- WHO SAYS THIS?
 Sera almost smiled.
-[sera] “Also something she would say.”
+“Also something she would say.”
+```
+```
+Luo picked up one of the Axtaya sheets.
+“Choose somebody useful.”
+Sera almost smiled.
+>>> “Also something she would say.”   <-- WHO SAYS THIS?
+“Probably with more insults.”
+“Definitely.”
+```
+```
+“Choose somebody useful.”
+Sera almost smiled.
+“Also something she would say.”
 >>> “Probably with more insults.”   <-- WHO SAYS THIS?
 “Definitely.”
 The smile vanished quickly, but it had existed, and Sera kept that small fact with her.
 ```
 ```
 Sera almost smiled.
-[sera] “Also something she would say.”
+“Also something she would say.”
 “Probably with more insults.”
 >>> “Definitely.”   <-- WHO SAYS THIS?
 The smile vanished quickly, but it had existed, and Sera kept that small fact with her.
@@ -2755,31 +3506,87 @@ Xie had not.
 He was halfway through leaving the meeting when Rui spoke.
 >>> “Sit down.”   <-- WHO SAYS THIS?
 Xie stopped at the door.
-[xie_wuchen] “No.”
+“No.”
+```
+```
+He was halfway through leaving the meeting when Rui spoke.
+“Sit down.”
+Xie stopped at the door.
+>>> “No.”   <-- WHO SAYS THIS?
+Tae looked delighted.
+“Good start.”
+```
+```
+Xie stopped at the door.
+“No.”
+Tae looked delighted.
+>>> “Good start.”   <-- WHO SAYS THIS?
+Huo elbowed him.
+The command room held more people than usual.
+```
+```
+Then tried to disappear before responsibility noticed him.
+Responsibility had apparently learned qinggong.
+Shen Rui folded his arms.
+>>> “Xie Wuchen.”   <-- WHO SAYS THIS?
+“That is still my name.”
+“Sit.”
 ```
 ```
 Responsibility had apparently learned qinggong.
 Shen Rui folded his arms.
-[rui] “Xie Wuchen.”
+“Xie Wuchen.”
 >>> “That is still my name.”   <-- WHO SAYS THIS?
 “Sit.”
 “No.”
 ```
 ```
 Shen Rui folded his arms.
-[rui] “Xie Wuchen.”
+“Xie Wuchen.”
 “That is still my name.”
 >>> “Sit.”   <-- WHO SAYS THIS?
 “No.”
 Rui looked at Sera.
 ```
 ```
-[rui] “Xie Wuchen.”
+“Xie Wuchen.”
 “That is still my name.”
 “Sit.”
 >>> “No.”   <-- WHO SAYS THIS?
 Rui looked at Sera.
 Sera said, “I am enjoying this. Continue.”
+```
+```
+Rui looked at Sera.
+Sera said, “I am enjoying this. Continue.”
+Xie sighed and sat.
+>>> “Traitors.”   <-- WHO SAYS THIS?
+Tae nodded solemnly.
+“Many.”
+```
+```
+Xie sighed and sat.
+“Traitors.”
+Tae nodded solemnly.
+>>> “Many.”   <-- WHO SAYS THIS?
+Rui ignored him.
+“The No.10 seat is empty.”
+```
+```
+Tae nodded solemnly.
+“Many.”
+Rui ignored him.
+>>> “The No.10 seat is empty.”   <-- WHO SAYS THIS?
+The humor left the room.
+Xie’s expression changed.
+```
+```
+“The No.10 seat is empty.”
+The humor left the room.
+Xie’s expression changed.
+>>> “No.”   <-- WHO SAYS THIS?
+Rui had not asked yet.
+That made the answer clearer.
 ```
 ```
 That made the answer clearer.
@@ -2795,50 +3602,82 @@ Rui said, “Hear me.”
 “I heard enough.”
 >>> “No, you heard a number.”   <-- WHO SAYS THIS?
 Xie stood again.
-[xie_wuchen] “That number belonged to Yun Shizhen.”
+“That number belonged to Yun Shizhen.”
+```
+```
+“I heard enough.”
+“No, you heard a number.”
+Xie stood again.
+>>> “That number belonged to Yun Shizhen.”   <-- WHO SAYS THIS?
+Sera spoke before Rui could.
+[sera] “Yes.”
+```
+```
+Sera spoke before Rui could.
+[sera] “Yes.”
+Xie looked at her.
+>>> “No argument?”   <-- WHO SAYS THIS?
+“Why would I argue with the truth?”
+He hesitated.
 ```
 ```
 [sera] “Yes.”
 Xie looked at her.
-[xie_wuchen] “No argument?”
+“No argument?”
 >>> “Why would I argue with the truth?”   <-- WHO SAYS THIS?
 He hesitated.
 Sera continued.
 ```
 ```
+Sera continued.
 [sera] “Yun was No.10. She died carrying a warning that is already moving armies.”
 Xie’s jaw tightened.
-[xie_wuchen] “So leave it hers.”
+>>> “So leave it hers.”   <-- WHO SAYS THIS?
+“The history will.”
+He looked at her.
+```
+```
+[sera] “Yun was No.10. She died carrying a warning that is already moving armies.”
+Xie’s jaw tightened.
+“So leave it hers.”
 >>> “The history will.”   <-- WHO SAYS THIS?
 He looked at her.
 “The command function cannot remain empty through an invasion because we are afraid filling it means forgetting her.”
 ```
 ```
-[xie_wuchen] “So leave it hers.”
+“So leave it hers.”
 “The history will.”
 He looked at her.
 >>> “The command function cannot remain empty through an invasion because we are afraid filling it means forgetting her.”   <-- WHO SAYS THIS?
 Xie’s eyes cooled.
-[xie_wuchen] “You have Sovereigns.”
+“You have Sovereigns.”
+```
+```
+He looked at her.
+“The command function cannot remain empty through an invasion because we are afraid filling it means forgetting her.”
+Xie’s eyes cooled.
+>>> “You have Sovereigns.”   <-- WHO SAYS THIS?
+“Yes.”
+“Dukes.”
 ```
 ```
 “The command function cannot remain empty through an invasion because we are afraid filling it means forgetting her.”
 Xie’s eyes cooled.
-[xie_wuchen] “You have Sovereigns.”
+“You have Sovereigns.”
 >>> “Yes.”   <-- WHO SAYS THIS?
 “Dukes.”
 “Yes.”
 ```
 ```
 Xie’s eyes cooled.
-[xie_wuchen] “You have Sovereigns.”
+“You have Sovereigns.”
 “Yes.”
 >>> “Dukes.”   <-- WHO SAYS THIS?
 “Yes.”
 “Quaint has ten Sovereign captains without counting the people in this room.”
 ```
 ```
-[xie_wuchen] “You have Sovereigns.”
+“You have Sovereigns.”
 “Yes.”
 “Dukes.”
 >>> “Yes.”   <-- WHO SAYS THIS?
@@ -2870,8 +3709,32 @@ Sera did not answer.
 Rui did.
 ```
 ```
+“Then choose one of them.”
+Sera did not answer.
+Rui did.
+>>> “Because I named you.”   <-- WHO SAYS THIS?
+Xie turned.
+“Why?”
+```
+```
+Rui did.
+“Because I named you.”
+Xie turned.
+>>> “Why?”   <-- WHO SAYS THIS?
+Shen Rui was quiet for a moment.
+Their history sat beneath the question.
+```
+```
+The memory had aged poorly for his pride and very well for his judgment.
+“You beat me once,” Rui said.
 Tae leaned toward Huo.
-[tae] “I like him already.”
+>>> “I like him already.”   <-- WHO SAYS THIS?
+Huo whispered, “You knew that.”
+“I like hearing it again.”
+```
+```
+Tae leaned toward Huo.
+“I like him already.”
 Huo whispered, “You knew that.”
 >>> “I like hearing it again.”   <-- WHO SAYS THIS?
 Rui’s stare silenced both.
@@ -2883,34 +3746,58 @@ Rui’s stare silenced both.
 Then he looked at Xie.
 >>> “You could have killed me.”   <-- WHO SAYS THIS?
 Xie said nothing.
-[xie_wuchen] “You did not.”
+“You did not.”
+```
+```
+Then he looked at Xie.
+“You could have killed me.”
+Xie said nothing.
+>>> “You did not.”   <-- WHO SAYS THIS?
+“You were misinformed, not evil.”
+“That is my point.”
 ```
 ```
 “You could have killed me.”
 Xie said nothing.
-[xie_wuchen] “You did not.”
+“You did not.”
 >>> “You were misinformed, not evil.”   <-- WHO SAYS THIS?
 “That is my point.”
 “No, that is my point.”
 ```
 ```
 Xie said nothing.
-[xie_wuchen] “You did not.”
+“You did not.”
 “You were misinformed, not evil.”
 >>> “That is my point.”   <-- WHO SAYS THIS?
 “No, that is my point.”
 Rui almost smiled.
 ```
 ```
-[xie_wuchen] “You did not.”
+“You did not.”
 “You were misinformed, not evil.”
 “That is my point.”
 >>> “No, that is my point.”   <-- WHO SAYS THIS?
 Rui almost smiled.
-[rui] “Then let me finish it.”
+“Then let me finish it.”
 ```
 ```
-[xie_wuchen] “This is your fault.”
+“That is my point.”
+“No, that is my point.”
+Rui almost smiled.
+>>> “Then let me finish it.”   <-- WHO SAYS THIS?
+Xie sat again, irritated.
+Rui continued.
+```
+```
+Rui continued.
+[rui] “You have spent months pretending every useful thing you do is temporary.”
+Xie looked at Lu.
+>>> “This is your fault.”   <-- WHO SAYS THIS?
+Lu said, “Probably.”
+[rui] “You brought us ledgers.” Rui continued. “Stopped extortion. Identified routes. Went where officials could not move without announcing themselves.”
+```
+```
+“This is your fault.”
 Lu said, “Probably.”
 [rui] “You brought us ledgers.” Rui continued. “Stopped extortion. Identified routes. Went where officials could not move without announcing themselves.”
 >>> “I was nearby.”   <-- WHO SAYS THIS?
@@ -2942,32 +3829,56 @@ Xie’s eyes moved to Sera.
 She said nothing.
 ```
 ```
+And a persistent inability to walk past the wrong thing without interfering.
 “You are not Paragon,” one regional commander said carefully.
 Xie looked at him.
-[xie_wuchen] “No.”
+>>> “No.”   <-- WHO SAYS THIS?
+“No Dominion.”
+“No.”
+```
+```
+“You are not Paragon,” one regional commander said carefully.
+Xie looked at him.
+“No.”
 >>> “No Dominion.”   <-- WHO SAYS THIS?
 “No.”
 The commander nodded.
 ```
 ```
 Xie looked at him.
-[xie_wuchen] “No.”
+“No.”
 “No Dominion.”
 >>> “No.”   <-- WHO SAYS THIS?
 The commander nodded.
 Not insult.
 ```
 ```
-[sera] “Newly Sovereign. No Dominion. No fantasy added because the number sounds grand.”
+Assessment.
+Rui said, “The seat does not require us to lie about what he is.”
+Sera agreed.
+>>> “Newly Sovereign. No Dominion. No fantasy added because the number sounds grand.”   <-- WHO SAYS THIS?
 Xie looked between them.
-[xie_wuchen] “You are both making a poor recruitment pitch.”
+“You are both making a poor recruitment pitch.”
+```
+```
+Sera agreed.
+“Newly Sovereign. No Dominion. No fantasy added because the number sounds grand.”
+Xie looked between them.
+>>> “You are both making a poor recruitment pitch.”   <-- WHO SAYS THIS?
+“We are describing the job.”
+“That is worse.”
+```
+```
+“Newly Sovereign. No Dominion. No fantasy added because the number sounds grand.”
+Xie looked between them.
+“You are both making a poor recruitment pitch.”
 >>> “We are describing the job.”   <-- WHO SAYS THIS?
 “That is worse.”
 Jin finally spoke.
 ```
 ```
 Xie looked between them.
-[xie_wuchen] “You are both making a poor recruitment pitch.”
+“You are both making a poor recruitment pitch.”
 “We are describing the job.”
 >>> “That is worse.”   <-- WHO SAYS THIS?
 Jin finally spoke.
@@ -2998,23 +3909,31 @@ Sera’s voice stayed level.
 [sera] “And because leaving the function empty until grief becomes comfortable would waste what she bought.”
 ```
 ```
+Xie did not answer.
 Rui said, “Take the empty seat.”
 Xie stared at him.
-[xie_wuchen] “Not her place.”
+>>> “Not her place.”   <-- WHO SAYS THIS?
+“No.”
+“Not her title.”
+```
+```
+Rui said, “Take the empty seat.”
+Xie stared at him.
+“Not her place.”
 >>> “No.”   <-- WHO SAYS THIS?
 “Not her title.”
 “No.”
 ```
 ```
 Xie stared at him.
-[xie_wuchen] “Not her place.”
+“Not her place.”
 “No.”
 >>> “Not her title.”   <-- WHO SAYS THIS?
 “No.”
 “Not her legacy.”
 ```
 ```
-[xie_wuchen] “Not her place.”
+“Not her place.”
 “No.”
 “Not her title.”
 >>> “No.”   <-- WHO SAYS THIS?
@@ -3035,18 +3954,34 @@ Rui leaned forward.
 “Not her legacy.”
 >>> “No.”   <-- WHO SAYS THIS?
 Rui leaned forward.
-[rui] “The work.”
+“The work.”
+```
+```
+“Not her legacy.”
+“No.”
+Rui leaned forward.
+>>> “The work.”   <-- WHO SAYS THIS?
+That one reached him.
+Xie looked toward the window.
+```
+```
+Huo covered it with one hand.
+Xie finally said, “Publicly?”
+Sera nodded.
+>>> “Yes.”   <-- WHO SAYS THIS?
+He grimaced.
+“That is cruel.”
 ```
 ```
 Sera nodded.
-[sera] “Yes.”
+“Yes.”
 He grimaced.
 >>> “That is cruel.”   <-- WHO SAYS THIS?
 “Probably.”
 “I hate ceremonies.”
 ```
 ```
-[sera] “Yes.”
+“Yes.”
 He grimaced.
 “That is cruel.”
 >>> “Probably.”   <-- WHO SAYS THIS?
@@ -3110,14 +4045,38 @@ Sera nodded.
 He left through the door.
 ```
 ```
+Tae said, “He is coming back.”
+Rui answered, “Yes.”
+Huo looked at him.
+>>> “You sound certain.”   <-- WHO SAYS THIS?
 Rui’s eyes stayed on the door.
-[rui] “I have made the mistake of misjudging that man once.”
+“I have made the mistake of misjudging that man once.”
+```
+```
+Huo looked at him.
+“You sound certain.”
+Rui’s eyes stayed on the door.
+>>> “I have made the mistake of misjudging that man once.”   <-- WHO SAYS THIS?
+He leaned back.
+“I do not plan to do it twice.”
+```
+```
+Rui’s eyes stayed on the door.
+“I have made the mistake of misjudging that man once.”
 He leaned back.
 >>> “I do not plan to do it twice.”   <-- WHO SAYS THIS?
 ```
 
 ### Chapter 360 — The Empty Number Is Still a Number
 
+```
+Of course Lu noticed.
+“You said an hour,” he told him.
+Xie looked offended.
+>>> “I changed my mind efficiently.”   <-- WHO SAYS THIS?
+The public confirmation was held in the command courtyard because there was no time to build anything more ceremonial.
+Good.
+```
 ```
 Of course it did.
 Tae whispered, “Dramatic.”
@@ -3133,6 +4092,22 @@ The record clerk opened the appointment ledger.
 >>> “Wuyue public ranking seat No.10, vacant following the death of Yun Shizhen, the Pale Venom—”   <-- WHO SAYS THIS?
 Xie raised one hand.
 The clerk stopped.
+```
+```
+Xie raised one hand.
+The clerk stopped.
+Xie looked at Sera.
+>>> “I need this said correctly.”   <-- WHO SAYS THIS?
+Sera nodded.
+“Then say it.”
+```
+```
+Xie looked at Sera.
+“I need this said correctly.”
+Sera nodded.
+>>> “Then say it.”   <-- WHO SAYS THIS?
+He looked around the courtyard.
+At Rui.
 ```
 ```
 At Jin.
@@ -3151,15 +4126,31 @@ Nobody applauded.
 That would have been wrong.
 ```
 ```
+Nobody applauded.
+That would have been wrong.
+Sera picked up the marker and handed it to him.
+>>> “Then carry the number.”   <-- WHO SAYS THIS?
+Xie took it.
+No burst of qi.
+```
+```
+The clerk entered the appointment.
+A messenger immediately stepped forward with the first command relay.
 Xie stared at it.
-[xie_wuchen] “That fast?”
+>>> “That fast?”   <-- WHO SAYS THIS?
+Jin said, “You wanted the work.”
+“I did not say wanted.”
+```
+```
+Xie stared at it.
+“That fast?”
 Jin said, “You wanted the work.”
 >>> “I did not say wanted.”   <-- WHO SAYS THIS?
 “Accepted.”
 “Different word.”
 ```
 ```
-[xie_wuchen] “That fast?”
+“That fast?”
 Jin said, “You wanted the work.”
 “I did not say wanted.”
 >>> “Accepted.”   <-- WHO SAYS THIS?
@@ -3183,15 +4174,23 @@ Xie took the relay.
 It concerned an eastern formation whose mobilization authorization had been delayed by the vacant seat.
 ```
 ```
+Functional.
+The distinction echoed Luo’s medicine more than anyone noticed.
 Sera turned toward Jin.
-[sera] “Status.”
+>>> “Status.”   <-- WHO SAYS THIS?
+He had already moved on.
+“First pact columns are assembling. Isgard has begun coastal warning and medical reserve movement. We need verified transport counts before committing the heaviest formations.”
+```
+```
+Sera turned toward Jin.
+“Status.”
 He had already moved on.
 >>> “First pact columns are assembling. Isgard has begun coastal warning and medical reserve movement. We need verified transport counts before committing the heaviest formations.”   <-- WHO SAYS THIS?
 “Shinsei?”
 “No confirmed launch yet.”
 ```
 ```
-[sera] “Status.”
+“Status.”
 He had already moved on.
 “First pact columns are assembling. Isgard has begun coastal warning and medical reserve movement. We need verified transport counts before committing the heaviest formations.”
 >>> “Shinsei?”   <-- WHO SAYS THIS?
@@ -3212,13 +4211,45 @@ Tae frowned.
 “No confirmed launch yet.”
 >>> “Good.”   <-- WHO SAYS THIS?
 Tae frowned.
-[tae] “Good?”
+“Good?”
+```
+```
+“No confirmed launch yet.”
+“Good.”
+Tae frowned.
+>>> “Good?”   <-- WHO SAYS THIS?
+“Every hour before launch is one Yun bought us.”
+That silenced him.
 ```
 ```
 “Good.”
 Tae frowned.
-[tae] “Good?”
+“Good?”
 >>> “Every hour before launch is one Yun bought us.”   <-- WHO SAYS THIS?
 That silenced him.
 Jin looked toward the north road.
+```
+```
+“Every hour before launch is one Yun bought us.”
+That silenced him.
+Jin looked toward the north road.
+>>> “Phase one mobilization begins now.”   <-- WHO SAYS THIS?
+Sera nodded.
+“Do it.”
+```
+```
+Jin looked toward the north road.
+“Phase one mobilization begins now.”
+Sera nodded.
+>>> “Do it.”   <-- WHO SAYS THIS?
+Across Wuyue, relay stations changed flags.
+Armories opened.
+```
+```
+One newly carried number.
+One dead woman whose warning had moved all of them.
+Sera unfolded the Isgard map.
+>>> “Show me the northern roads.”   <-- WHO SAYS THIS?
+Lu did.
+Outside, the first mobilization bells began.
 ```

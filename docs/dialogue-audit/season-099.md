@@ -1,6 +1,6 @@
 # Season 99 — unattributed dialogue
 
-297 quoted lines in this season have no speaker.
+361 quoted lines in this season have no speaker.
 See `README.md` in this folder for what to do with them.
 
 Lines already resolved show their speaker in `[brackets]` for context.
@@ -24,9 +24,17 @@ The physician’s hand paused.
 The physician did not answer.
 ```
 ```
+He examined the bruise along Yun’s shoulder and the swelling near her knee.
 Then reached for a vial.
 Yun’s eyes sharpened.
-[yun] “What is that?”
+>>> “What is that?”   <-- WHO SAYS THIS?
+“Anti-inflammatory.”
+[yun] “Name.”
+```
+```
+Then reached for a vial.
+Yun’s eyes sharpened.
+“What is that?”
 >>> “Anti-inflammatory.”   <-- WHO SAYS THIS?
 [yun] “Name.”
 He named it.
@@ -39,9 +47,41 @@ When the physician finished, he said, “You will be questioned.”
 [yun] “Does your government issue that sentence with every room?”
 The guard almost smiled.
 ```
+```
+Yun continued.
+[yun] “You did not catch me because I forgot how to think. You removed enough alternatives that the bad route became the least bad route.”
+Shunto’s expression remained unreadable.
+>>> “Is that praise?”   <-- WHO SAYS THIS?
+[yun] “No.”
+[shunto] “Sounded like it.”
+```
+```
+The information war remained alive.
+Shunto said, “Where is the rest?”
+Yun smiled faintly.
+>>> “There it is.”   <-- WHO SAYS THIS?
+[shunto] “The material you collected.”
+[yun] “Define material.”
+```
+```
+That landed.
+Shunto leaned back.
+Yun’s smile disappeared.
+>>> “You captured me alive,” she said. “Congratulations. That means you won the immediate contest.”   <-- WHO SAYS THIS?
+She looked directly at him.
+[yun] “You did not capture everything I know.”
+```
 
 ### Chapter 342 — She Does Not Give Him the War
 
+```
+Not enough to fight properly.
+Progress.
+Shunto tapped the notebook.
+>>> “What does three circles mean?”   <-- WHO SAYS THIS?
+Yun nearly laughed.
+Of course he chose the dinner symbol.
+```
 ```
 Not meaning.
 Good.
@@ -50,12 +90,68 @@ Good.
 Lie.
 [shunto] “Who expects you back?”
 ```
+```
+[yun] “Probably.”
+[shunto] “Who?”
+Yun shrugged as much as the restraint allowed.
+>>> “A very judgmental landlord.”   <-- WHO SAYS THIS?
+Shunto’s jaw tightened.
+He slid the notebook toward her.
+```
+```
+Too much denial would confirm it.
+Too much sarcasm would do the same.
+Shunto studied her face.
+>>> “You know.”   <-- WHO SAYS THIS?
+Yun looked bored.
+He leaned forward.
+```
+```
+[yun] “If I tell you a lie and you believe it, that is your problem. If I tell you a truth because you frighten me, that becomes mine.”
+[shunto] “You are frightened.”
+Yun met his eyes.
+>>> “Yes.”   <-- WHO SAYS THIS?
+The answer surprised him.
+Good.
+```
+```
+Enough.
+He stood.
+Yun watched him gather the notebook.
+>>> “Who did you send material to?”   <-- WHO SAYS THIS?
+[yun] “No one.”
+Lie.
+```
+```
+He turned back.
+[shunto] “Most.”
+Yun smiled faintly.
+>>> “Your word, not mine.”   <-- WHO SAYS THIS?
+He left.
+The guard returned her to the holding room.
+```
 
 ### Chapter 343 — What Shunto Chose
 
 ```
+Shunto entered without a physician.
+Without a guard.
+Yun looked up.
+>>> “No notebook?”   <-- WHO SAYS THIS?
+He closed the door.
+Something in the way he did it changed the room.
+```
+```
+Yun continued.
+[yun] “You chose this.”
 Shunto’s jaw tightened.
-[shunto] “Do not make it about the chase. Do not make it about the notebook. Do not make it about me poisoning your arm.”
+>>> “Do not make it about the chase. Do not make it about the notebook. Do not make it about me poisoning your arm.”   <-- WHO SAYS THIS?
+She swallowed once.
+“You chose this.”
+```
+```
+Shunto’s jaw tightened.
+“Do not make it about the chase. Do not make it about the notebook. Do not make it about me poisoning your arm.”
 She swallowed once.
 >>> “You chose this.”   <-- WHO SAYS THIS?
 He opened the door.
@@ -64,6 +160,30 @@ Yun said, “Look at me.”
 
 ### Chapter 344 — The Prison Is Still a Laboratory
 
+```
+Ugly.
+Satisfied.
+Shunto looked at her.
+>>> “What?”   <-- WHO SAYS THIS?
+[yun] “Nothing.”
+He flexed again.
+```
+```
+Numbness climbed into the outer palm.
+Recognition reached his face.
+Yun leaned back against the wall.
+>>> “You really should stop touching poisoners.”   <-- WHO SAYS THIS?
+Both guards moved.
+Shunto lifted his right hand.
+```
+```
+Yun answered before the doctor.
+[yun] “Reduce circulation pressure. Do not purge through the shoulder. You will spread it.”
+Shunto finally looked at her.
+>>> “Why tell me?”   <-- WHO SAYS THIS?
+[yun] “Because I am a poisoner, not an idiot. Dead captor creates lockdown. Numb captor creates paperwork.”
+The physician almost coughed.
+```
 ```
 Yun continued.
 [yun] “Also your doctor was about to choose the wrong route.”
@@ -100,23 +220,31 @@ Yun moved.
 She did not take the opening.
 ```
 ```
+She needed to know who was moving the pieces.
 The answer arrived three nights later carrying feverroot.
 Yun heard the argument before she saw the man.
-[yun] “I have authorization.”
+>>> “I have authorization.”   <-- WHO SAYS THIS?
+“You have old authorization.”
+“Old medicine works on new fevers.”
+```
+```
+The answer arrived three nights later carrying feverroot.
+Yun heard the argument before she saw the man.
+“I have authorization.”
 >>> “You have old authorization.”   <-- WHO SAYS THIS?
 “Old medicine works on new fevers.”
 “That is not how authorization works.”
 ```
 ```
 Yun heard the argument before she saw the man.
-[yun] “I have authorization.”
+“I have authorization.”
 “You have old authorization.”
 >>> “Old medicine works on new fevers.”   <-- WHO SAYS THIS?
 “That is not how authorization works.”
 “It should be.”
 ```
 ```
-[yun] “I have authorization.”
+“I have authorization.”
 “You have old authorization.”
 “Old medicine works on new fevers.”
 >>> “That is not how authorization works.”   <-- WHO SAYS THIS?
@@ -132,16 +260,24 @@ A guard sighed with the exhaustion of someone who had lost this argument before.
 The door to Yun’s corridor opened.
 ```
 ```
+Only for a fraction of a second.
 Then it did.
 Yun watched him through the small observation gap as he argued with the clinic steward.
-[yun] “Feverroot goes to the lower ward.”
+>>> “Feverroot goes to the lower ward.”   <-- WHO SAYS THIS?
+“That corridor is under security restriction.”
+“So fever agreed to stay downstairs?”
+```
+```
+Then it did.
+Yun watched him through the small observation gap as he argued with the clinic steward.
+“Feverroot goes to the lower ward.”
 >>> “That corridor is under security restriction.”   <-- WHO SAYS THIS?
 “So fever agreed to stay downstairs?”
 The steward looked murderous.
 ```
 ```
 Yun watched him through the small observation gap as he argued with the clinic steward.
-[yun] “Feverroot goes to the lower ward.”
+“Feverroot goes to the lower ward.”
 “That corridor is under security restriction.”
 >>> “So fever agreed to stay downstairs?”   <-- WHO SAYS THIS?
 The steward looked murderous.
@@ -284,19 +420,27 @@ Yun moved closer to the door.
 “Always.”
 >>> “That was the answer I expected.”   <-- WHO SAYS THIS?
 Yun moved closer to the door.
-[yun] “Name.”
+“Name.”
+```
+```
+“Always.”
+“That was the answer I expected.”
+Yun moved closer to the door.
+>>> “Name.”   <-- WHO SAYS THIS?
+“Yurushi Amagiri.”
+“Affiliation.”
 ```
 ```
 “That was the answer I expected.”
 Yun moved closer to the door.
-[yun] “Name.”
+“Name.”
 >>> “Yurushi Amagiri.”   <-- WHO SAYS THIS?
 “Affiliation.”
 A pause.
 ```
 ```
 Yun moved closer to the door.
-[yun] “Name.”
+“Name.”
 “Yurushi Amagiri.”
 >>> “Affiliation.”   <-- WHO SAYS THIS?
 A pause.
@@ -340,19 +484,27 @@ Yun considered.
 “Better.”
 >>> “Formerly close enough to Shinsei that old doors still remember me. Far enough away that current officers dislike it.”   <-- WHO SAYS THIS?
 Yun considered.
-[yun] “Why?”
+“Why?”
+```
+```
+“Better.”
+“Formerly close enough to Shinsei that old doors still remember me. Far enough away that current officers dislike it.”
+Yun considered.
+>>> “Why?”   <-- WHO SAYS THIS?
+“Why help?”
+“Yes.”
 ```
 ```
 “Formerly close enough to Shinsei that old doors still remember me. Far enough away that current officers dislike it.”
 Yun considered.
-[yun] “Why?”
+“Why?”
 >>> “Why help?”   <-- WHO SAYS THIS?
 “Yes.”
 Silence.
 ```
 ```
 Yun considered.
-[yun] “Why?”
+“Why?”
 “Why help?”
 >>> “Yes.”   <-- WHO SAYS THIS?
 Silence.
@@ -439,16 +591,24 @@ Yun rested her head briefly against the door.
 That answer sounded like history.
 ```
 ```
+Not performance.
 She said, “I have evidence.”
 Yurushi became quiet.
-[yurushi] “Of what?”
+>>> “Of what?”   <-- WHO SAYS THIS?
+“Not telling you yet.”
+“Good.”
+```
+```
+She said, “I have evidence.”
+Yurushi became quiet.
+“Of what?”
 >>> “Not telling you yet.”   <-- WHO SAYS THIS?
 “Good.”
 That surprised her.
 ```
 ```
 Yurushi became quiet.
-[yurushi] “Of what?”
+“Of what?”
 “Not telling you yet.”
 >>> “Good.”   <-- WHO SAYS THIS?
 That surprised her.
@@ -602,23 +762,31 @@ Yun returned to bed before the next guard passed.
 ### Chapter 347 — The Roads He Built for Other People
 
 ```
+Dust had settled on the back edge.
 Not new.
 Yun looked at him.
-[yun] “This existed before me.”
+>>> “This existed before me.”   <-- WHO SAYS THIS?
+“Yes.”
+“How long?”
+```
+```
+Not new.
+Yun looked at him.
+“This existed before me.”
 >>> “Yes.”   <-- WHO SAYS THIS?
 “How long?”
 “Some parts eight years. Some two. The road changes.”
 ```
 ```
 Yun looked at him.
-[yun] “This existed before me.”
+“This existed before me.”
 “Yes.”
 >>> “How long?”   <-- WHO SAYS THIS?
 “Some parts eight years. Some two. The road changes.”
 “Who for?”
 ```
 ```
-[yun] “This existed before me.”
+“This existed before me.”
 “Yes.”
 “How long?”
 >>> “Some parts eight years. Some two. The road changes.”   <-- WHO SAYS THIS?
@@ -631,26 +799,42 @@ Yurushi closed the panel.
 “Some parts eight years. Some two. The road changes.”
 >>> “Who for?”   <-- WHO SAYS THIS?
 Yurushi closed the panel.
-[yurushi] “People who need to leave places stronger people insist they stay.”
+“People who need to leave places stronger people insist they stay.”
 ```
 ```
-[yurushi] “People who need to leave places stronger people insist they stay.”
+“Some parts eight years. Some two. The road changes.”
+“Who for?”
+Yurushi closed the panel.
+>>> “People who need to leave places stronger people insist they stay.”   <-- WHO SAYS THIS?
 Yun’s eyes narrowed.
-[yun] “Political dissidents?”
+“Political dissidents?”
+```
+```
+Yurushi closed the panel.
+“People who need to leave places stronger people insist they stay.”
+Yun’s eyes narrowed.
+>>> “Political dissidents?”   <-- WHO SAYS THIS?
+“Sometimes.”
+“Criminals?”
+```
+```
+“People who need to leave places stronger people insist they stay.”
+Yun’s eyes narrowed.
+“Political dissidents?”
 >>> “Sometimes.”   <-- WHO SAYS THIS?
 “Criminals?”
 “Sometimes.”
 ```
 ```
 Yun’s eyes narrowed.
-[yun] “Political dissidents?”
+“Political dissidents?”
 “Sometimes.”
 >>> “Criminals?”   <-- WHO SAYS THIS?
 “Sometimes.”
 “That is broad.”
 ```
 ```
-[yun] “Political dissidents?”
+“Political dissidents?”
 “Sometimes.”
 “Criminals?”
 >>> “Sometimes.”   <-- WHO SAYS THIS?
@@ -706,16 +890,24 @@ Yun looked at him differently.
 There was arrogance in that too.
 ```
 ```
+The question was whether the judgment had limits.
 “How many?” she asked.
 Yurushi shrugged.
-[yurushi] “Over years?”
+>>> “Over years?”   <-- WHO SAYS THIS?
+“Yes.”
+“Enough that I stopped counting because counting started to feel like collecting virtue.”
+```
+```
+“How many?” she asked.
+Yurushi shrugged.
+“Over years?”
 >>> “Yes.”   <-- WHO SAYS THIS?
 “Enough that I stopped counting because counting started to feel like collecting virtue.”
 That answer irritated her less than a number would have.
 ```
 ```
 Yurushi shrugged.
-[yurushi] “Over years?”
+“Over years?”
 “Yes.”
 >>> “Enough that I stopped counting because counting started to feel like collecting virtue.”   <-- WHO SAYS THIS?
 That answer irritated her less than a number would have.
@@ -767,18 +959,42 @@ Yurushi’s face changed slightly.
 “Yes.”
 >>> “You are risking years of infrastructure for me.”   <-- WHO SAYS THIS?
 Yurushi’s face changed slightly.
-[yurushi] “No.”
+“No.”
+```
+```
+“Yes.”
+“You are risking years of infrastructure for me.”
+Yurushi’s face changed slightly.
+>>> “No.”   <-- WHO SAYS THIS?
+Yun waited.
+“I am risking one corridor for you. The rest stays dark if we do this correctly.”
+```
+```
+Yurushi’s face changed slightly.
+“No.”
+Yun waited.
+>>> “I am risking one corridor for you. The rest stays dark if we do this correctly.”   <-- WHO SAYS THIS?
+Good.
+No hero speech.
+```
+```
+No claim that Yun mattered more than everyone else.
+That was what she needed.
+Yurushi handed her a strip of cloth.
+>>> “Wrap your left wrist. The brace mark is distinctive.”   <-- WHO SAYS THIS?
+She did.
+“Can you hide your cultivation?”
 ```
 ```
 Yurushi handed her a strip of cloth.
-[yurushi] “Wrap your left wrist. The brace mark is distinctive.”
+“Wrap your left wrist. The brace mark is distinctive.”
 She did.
 >>> “Can you hide your cultivation?”   <-- WHO SAYS THIS?
 “Enough for clerks. Not for Paragons.”
 “Good. Clerks are tonight’s problem.”
 ```
 ```
-[yurushi] “Wrap your left wrist. The brace mark is distinctive.”
+“Wrap your left wrist. The brace mark is distinctive.”
 She did.
 “Can you hide your cultivation?”
 >>> “Enough for clerks. Not for Paragons.”   <-- WHO SAYS THIS?
@@ -791,26 +1007,42 @@ She did.
 “Enough for clerks. Not for Paragons.”
 >>> “Good. Clerks are tonight’s problem.”   <-- WHO SAYS THIS?
 Yun looked at him.
-[yun] “You are strong.”
+“You are strong.”
 ```
 ```
-[yun] “You are strong.”
+“Enough for clerks. Not for Paragons.”
+“Good. Clerks are tonight’s problem.”
+Yun looked at him.
+>>> “You are strong.”   <-- WHO SAYS THIS?
 Yurushi’s expression stayed neutral.
-[yurushi] “Sometimes.”
+“Sometimes.”
+```
+```
+Yun looked at him.
+“You are strong.”
+Yurushi’s expression stayed neutral.
+>>> “Sometimes.”   <-- WHO SAYS THIS?
+“How strong?”
+“Strong enough that using it openly turns an escape into a military incident.”
+```
+```
+“You are strong.”
+Yurushi’s expression stayed neutral.
+“Sometimes.”
 >>> “How strong?”   <-- WHO SAYS THIS?
 “Strong enough that using it openly turns an escape into a military incident.”
 “That was evasive.”
 ```
 ```
 Yurushi’s expression stayed neutral.
-[yurushi] “Sometimes.”
+“Sometimes.”
 “How strong?”
 >>> “Strong enough that using it openly turns an escape into a military incident.”   <-- WHO SAYS THIS?
 “That was evasive.”
 “Yes.”
 ```
 ```
-[yurushi] “Sometimes.”
+“Sometimes.”
 “How strong?”
 “Strong enough that using it openly turns an escape into a military incident.”
 >>> “That was evasive.”   <-- WHO SAYS THIS?
@@ -826,23 +1058,39 @@ Yun filed it away.
 The shadow trick alone suggested more than ordinary rank.
 ```
 ```
+But he had not used force once.
+That told her more about his strategy than any title.
+Yurushi moved to the window.
+>>> “Come here.”   <-- WHO SAYS THIS?
+Yun stood slowly.
+Her body objected.
+```
+```
+Good medicine should not make a person forget damage existed.
 Outside, the rear yard looked empty.
 Yurushi pointed.
-[yurushi] “See the wall?”
+>>> “See the wall?”   <-- WHO SAYS THIS?
+“Yes.”
+“Behind it is an old dye lane. Three businesses share freight credentials. One owner owes me nothing and dislikes me. Best kind of contact.”
+```
+```
+Outside, the rear yard looked empty.
+Yurushi pointed.
+“See the wall?”
 >>> “Yes.”   <-- WHO SAYS THIS?
 “Behind it is an old dye lane. Three businesses share freight credentials. One owner owes me nothing and dislikes me. Best kind of contact.”
 “Why?”
 ```
 ```
 Yurushi pointed.
-[yurushi] “See the wall?”
+“See the wall?”
 “Yes.”
 >>> “Behind it is an old dye lane. Three businesses share freight credentials. One owner owes me nothing and dislikes me. Best kind of contact.”   <-- WHO SAYS THIS?
 “Why?”
 “He will not lie for me. He will simply honor a real document if the seal is valid.”
 ```
 ```
-[yurushi] “See the wall?”
+“See the wall?”
 “Yes.”
 “Behind it is an old dye lane. Three businesses share freight credentials. One owner owes me nothing and dislikes me. Best kind of contact.”
 >>> “Why?”   <-- WHO SAYS THIS?
@@ -855,26 +1103,34 @@ Yun nodded.
 “Why?”
 >>> “He will not lie for me. He will simply honor a real document if the seal is valid.”   <-- WHO SAYS THIS?
 Yun nodded.
-[yun] “After the dye lane?”
+“After the dye lane?”
+```
+```
+“Why?”
+“He will not lie for me. He will simply honor a real document if the seal is valid.”
+Yun nodded.
+>>> “After the dye lane?”   <-- WHO SAYS THIS?
+“Merchant wagon.”
+“After wagon?”
 ```
 ```
 “He will not lie for me. He will simply honor a real document if the seal is valid.”
 Yun nodded.
-[yun] “After the dye lane?”
+“After the dye lane?”
 >>> “Merchant wagon.”   <-- WHO SAYS THIS?
 “After wagon?”
 “Clinic exchange.”
 ```
 ```
 Yun nodded.
-[yun] “After the dye lane?”
+“After the dye lane?”
 “Merchant wagon.”
 >>> “After wagon?”   <-- WHO SAYS THIS?
 “Clinic exchange.”
 “After clinic?”
 ```
 ```
-[yun] “After the dye lane?”
+“After the dye lane?”
 “Merchant wagon.”
 “After wagon?”
 >>> “Clinic exchange.”   <-- WHO SAYS THIS?
@@ -911,26 +1167,34 @@ Yun looked at him.
 “After path?”
 >>> “Civilian medical route north.”   <-- WHO SAYS THIS?
 Yun looked at him.
-[yun] “The same corridor Shunto used to catch me near.”
+“The same corridor Shunto used to catch me near.”
+```
+```
+“After path?”
+“Civilian medical route north.”
+Yun looked at him.
+>>> “The same corridor Shunto used to catch me near.”   <-- WHO SAYS THIS?
+“Not the same road.”
+“Explain.”
 ```
 ```
 “Civilian medical route north.”
 Yun looked at him.
-[yun] “The same corridor Shunto used to catch me near.”
+“The same corridor Shunto used to catch me near.”
 >>> “Not the same road.”   <-- WHO SAYS THIS?
 “Explain.”
 “Shinsei built over older roads. Governments like to think they invented geography.”
 ```
 ```
 Yun looked at him.
-[yun] “The same corridor Shunto used to catch me near.”
+“The same corridor Shunto used to catch me near.”
 “Not the same road.”
 >>> “Explain.”   <-- WHO SAYS THIS?
 “Shinsei built over older roads. Governments like to think they invented geography.”
 That almost earned a laugh.
 ```
 ```
-[yun] “The same corridor Shunto used to catch me near.”
+“The same corridor Shunto used to catch me near.”
 “Not the same road.”
 “Explain.”
 >>> “Shinsei built over older roads. Governments like to think they invented geography.”   <-- WHO SAYS THIS?
@@ -1007,10 +1271,18 @@ Yurushi’s jaw tightened.
 “Other people suffer.”
 >>> “Yes.”   <-- WHO SAYS THIS?
 Yurushi’s jaw tightened.
-[yurushi] “That is why I stay behind after you leave.”
+“That is why I stay behind after you leave.”
 ```
 ```
-[yurushi] “That is why I stay behind after you leave.”
+“Other people suffer.”
+“Yes.”
+Yurushi’s jaw tightened.
+>>> “That is why I stay behind after you leave.”   <-- WHO SAYS THIS?
+Yun stared at him.
+He had already decided.
+```
+```
+“That is why I stay behind after you leave.”
 Yun stared at him.
 He had already decided.
 >>> “You assume I leave.”   <-- WHO SAYS THIS?
@@ -1071,7 +1343,15 @@ Yurushi looked toward the false panel.
 “I know.”
 >>> “You could leave with me.”   <-- WHO SAYS THIS?
 Yurushi looked toward the false panel.
-[yurushi] “Then the first people he questions are everyone who ever used one of these roads.”
+“Then the first people he questions are everyone who ever used one of these roads.”
+```
+```
+“I know.”
+“You could leave with me.”
+Yurushi looked toward the false panel.
+>>> “Then the first people he questions are everyone who ever used one of these roads.”   <-- WHO SAYS THIS?
+Yun understood.
+The escape was not one corridor.
 ```
 ```
 The escape was not one corridor.
@@ -1079,12 +1359,20 @@ It was years of people who trusted darkness to remain dark.
 She nodded once.
 >>> “Then we do not waste it.”   <-- WHO SAYS THIS?
 Yurushi smiled faintly.
-[yurushi] “Now you sound like me.”
+“Now you sound like me.”
+```
+```
+She nodded once.
+“Then we do not waste it.”
+Yurushi smiled faintly.
+>>> “Now you sound like me.”   <-- WHO SAYS THIS?
+“Do not be insulting.”
+The bell rang again.
 ```
 ```
 “Then we do not waste it.”
 Yurushi smiled faintly.
-[yurushi] “Now you sound like me.”
+“Now you sound like me.”
 >>> “Do not be insulting.”   <-- WHO SAYS THIS?
 The bell rang again.
 They separated before the guard returned.
@@ -1093,25 +1381,41 @@ They separated before the guard returned.
 ### Chapter 348 — Hana Moves One Patrol
 
 ```
+That fact sat between them without needing help.
 Her office overlooked one of Shinsei’s inner administrative courtyards. Wind moved through the open lattice shutters, lifting the corner of a map.
 Hana pressed it down.
-[hana] “You came here to discuss patrol efficiency.”
+>>> “You came here to discuss patrol efficiency.”   <-- WHO SAYS THIS?
+“Yes.”
+“No.”
+```
+```
+Her office overlooked one of Shinsei’s inner administrative courtyards. Wind moved through the open lattice shutters, lifting the corner of a map.
+Hana pressed it down.
+“You came here to discuss patrol efficiency.”
 >>> “Yes.”   <-- WHO SAYS THIS?
 “No.”
 Yurushi considered.
 ```
 ```
 Hana pressed it down.
-[hana] “You came here to discuss patrol efficiency.”
+“You came here to discuss patrol efficiency.”
 “Yes.”
 >>> “No.”   <-- WHO SAYS THIS?
 Yurushi considered.
-[yurushi] “Partly.”
+“Partly.”
+```
+```
+“Yes.”
+“No.”
+Yurushi considered.
+>>> “Partly.”   <-- WHO SAYS THIS?
+“Still no.”
+He stood across from her desk in a dark travel coat that had been repaired at the shoulder by someone with poor matching thread.
 ```
 ```
 “No.”
 Yurushi considered.
-[yurushi] “Partly.”
+“Partly.”
 >>> “Still no.”   <-- WHO SAYS THIS?
 He stood across from her desk in a dark travel coat that had been repaired at the shoulder by someone with poor matching thread.
 Hana noticed because she had once repaired his sword wrappings for four years and therefore possessed the deeply irritating ability to recognize his maintenance habits at a glance.
@@ -1162,26 +1466,34 @@ Also enough responsibility to know when someone was trying to borrow that author
 He looked at her.
 >>> “Someone is being held wrongly.”   <-- WHO SAYS THIS?
 Hana’s expression changed.
-[hana] “Wrongly how?”
+“Wrongly how?”
+```
+```
+He looked at her.
+“Someone is being held wrongly.”
+Hana’s expression changed.
+>>> “Wrongly how?”   <-- WHO SAYS THIS?
+“I am not telling you everything.”
+“That is a terrible opening.”
 ```
 ```
 “Someone is being held wrongly.”
 Hana’s expression changed.
-[hana] “Wrongly how?”
+“Wrongly how?”
 >>> “I am not telling you everything.”   <-- WHO SAYS THIS?
 “That is a terrible opening.”
 “I know.”
 ```
 ```
 Hana’s expression changed.
-[hana] “Wrongly how?”
+“Wrongly how?”
 “I am not telling you everything.”
 >>> “That is a terrible opening.”   <-- WHO SAYS THIS?
 “I know.”
 “Shunto?”
 ```
 ```
-[hana] “Wrongly how?”
+“Wrongly how?”
 “I am not telling you everything.”
 “That is a terrible opening.”
 >>> “I know.”   <-- WHO SAYS THIS?
@@ -1197,23 +1509,31 @@ He did not answer.
 That was answer enough.
 ```
 ```
+Four years of shared meals had survived missions, wounds and long absences.
 That argument did not.
 Hana looked back at him.
-[hana] “Is this person dangerous?”
+>>> “Is this person dangerous?”   <-- WHO SAYS THIS?
+“Yes.”
+“At least you are honest.”
+```
+```
+That argument did not.
+Hana looked back at him.
+“Is this person dangerous?”
 >>> “Yes.”   <-- WHO SAYS THIS?
 “At least you are honest.”
 “Dangerous is not the same as deserving whatever is being done.”
 ```
 ```
 Hana looked back at him.
-[hana] “Is this person dangerous?”
+“Is this person dangerous?”
 “Yes.”
 >>> “At least you are honest.”   <-- WHO SAYS THIS?
 “Dangerous is not the same as deserving whatever is being done.”
 “Foreign?”
 ```
 ```
-[hana] “Is this person dangerous?”
+“Is this person dangerous?”
 “Yes.”
 “At least you are honest.”
 >>> “Dangerous is not the same as deserving whatever is being done.”   <-- WHO SAYS THIS?
@@ -1250,26 +1570,34 @@ Hana closed her eyes for one second.
 “Spy?”
 >>> “Probably.”   <-- WHO SAYS THIS?
 Hana closed her eyes for one second.
-[hana] “You have improved nothing.”
+“You have improved nothing.”
+```
+```
+“Spy?”
+“Probably.”
+Hana closed her eyes for one second.
+>>> “You have improved nothing.”   <-- WHO SAYS THIS?
+“I am trying not to make you responsible for information you cannot unknow.”
+“That is very generous of you.”
 ```
 ```
 “Probably.”
 Hana closed her eyes for one second.
-[hana] “You have improved nothing.”
+“You have improved nothing.”
 >>> “I am trying not to make you responsible for information you cannot unknow.”   <-- WHO SAYS THIS?
 “That is very generous of you.”
 “It is also practical.”
 ```
 ```
 Hana closed her eyes for one second.
-[hana] “You have improved nothing.”
+“You have improved nothing.”
 “I am trying not to make you responsible for information you cannot unknow.”
 >>> “That is very generous of you.”   <-- WHO SAYS THIS?
 “It is also practical.”
 “There you are.”
 ```
 ```
-[hana] “You have improved nothing.”
+“You have improved nothing.”
 “I am trying not to make you responsible for information you cannot unknow.”
 “That is very generous of you.”
 >>> “It is also practical.”   <-- WHO SAYS THIS?
@@ -1330,26 +1658,42 @@ That surprised her.
 “Yes.”
 >>> “Why?”   <-- WHO SAYS THIS?
 Yurushi’s face softened in a way she remembered too well.
-[yurushi] “Because knowing her name should not be the price of deciding this is wrong.”
+“Because knowing her name should not be the price of deciding this is wrong.”
+```
+```
+“Yes.”
+“Why?”
+Yurushi’s face softened in a way she remembered too well.
+>>> “Because knowing her name should not be the price of deciding this is wrong.”   <-- WHO SAYS THIS?
+Hana looked away first.
+The old answer was still there: the reason she had loved him.
+```
+```
+He feared what happened when nobody did.
+Neither fear had become less reasonable.
+Hana opened the patrol ledger.
+>>> “The east medical corridor double-rotation exists because the north service yard is under structural inspection.”   <-- WHO SAYS THIS?
+“I know.”
+“If I move one unit, the gap is nine minutes.”
 ```
 ```
 Neither fear had become less reasonable.
 Hana opened the patrol ledger.
-[hana] “The east medical corridor double-rotation exists because the north service yard is under structural inspection.”
+“The east medical corridor double-rotation exists because the north service yard is under structural inspection.”
 >>> “I know.”   <-- WHO SAYS THIS?
 “If I move one unit, the gap is nine minutes.”
 “Enough.”
 ```
 ```
 Hana opened the patrol ledger.
-[hana] “The east medical corridor double-rotation exists because the north service yard is under structural inspection.”
+“The east medical corridor double-rotation exists because the north service yard is under structural inspection.”
 “I know.”
 >>> “If I move one unit, the gap is nine minutes.”   <-- WHO SAYS THIS?
 “Enough.”
 “You said ten.”
 ```
 ```
-[hana] “The east medical corridor double-rotation exists because the north service yard is under structural inspection.”
+“The east medical corridor double-rotation exists because the north service yard is under structural inspection.”
 “I know.”
 “If I move one unit, the gap is nine minutes.”
 >>> “Enough.”   <-- WHO SAYS THIS?
@@ -1394,12 +1738,20 @@ Did not.
 “West archive inspection.”
 >>> “That is too obvious. Shunto will see the connection.”   <-- WHO SAYS THIS?
 Yurushi considered.
-[yurushi] “South bridge inventory?”
+“South bridge inventory?”
+```
+```
+“West archive inspection.”
+“That is too obvious. Shunto will see the connection.”
+Yurushi considered.
+>>> “South bridge inventory?”   <-- WHO SAYS THIS?
+“Better.”
+Hana made one notation.
 ```
 ```
 “That is too obvious. Shunto will see the connection.”
 Yurushi considered.
-[yurushi] “South bridge inventory?”
+“South bridge inventory?”
 >>> “Better.”   <-- WHO SAYS THIS?
 Hana made one notation.
 Routine manpower correction due to overlapping inspection duty.
@@ -1474,7 +1826,15 @@ Yurushi nodded.
 “I did not ask.”
 >>> “I am moving one patrol because a medical-security chain is being used in a way I cannot justify without investigation.”   <-- WHO SAYS THIS?
 Yurushi nodded.
-[yurushi] “Understood.”
+“Understood.”
+```
+```
+“I did not ask.”
+“I am moving one patrol because a medical-security chain is being used in a way I cannot justify without investigation.”
+Yurushi nodded.
+>>> “Understood.”   <-- WHO SAYS THIS?
+Hana hated how easy he made it to preserve the boundary.
+She wanted him to argue.
 ```
 ```
 She wanted him to argue.
@@ -1498,7 +1858,15 @@ He paused.
 He paused.
 >>> “Do not thank me like this is absolution for either of us.”   <-- WHO SAYS THIS?
 Yurushi’s expression went still.
-[yurushi] “I would not.”
+“I would not.”
+```
+```
+He paused.
+“Do not thank me like this is absolution for either of us.”
+Yurushi’s expression went still.
+>>> “I would not.”   <-- WHO SAYS THIS?
+Good.
+He turned toward the door.
 ```
 ```
 Hana spoke before he reached it.
@@ -1530,7 +1898,15 @@ Hana exhaled.
 “And if that person is more than you think—”
 >>> “She probably is.”   <-- WHO SAYS THIS?
 Hana exhaled.
-[hana] “Of course she is.”
+“Of course she is.”
+```
+```
+“And if that person is more than you think—”
+“She probably is.”
+Hana exhaled.
+>>> “Of course she is.”   <-- WHO SAYS THIS?
+For the first time, he smiled properly.
+Then left.
 ```
 
 ### Chapter 349 — She Escapes on Her Own Feet
@@ -1541,18 +1917,26 @@ The nurse glanced at it.
 Then at Yun.
 >>> “Transfer?”   <-- WHO SAYS THIS?
 Yun nodded tiredly.
-[yun] “South annex.”
+“South annex.”
+```
+```
+Then at Yun.
+“Transfer?”
+Yun nodded tiredly.
+>>> “South annex.”   <-- WHO SAYS THIS?
+The nurse pointed the wrong direction.
+“Other hall.”
 ```
 ```
 Yun nodded tiredly.
-[yun] “South annex.”
+“South annex.”
 The nurse pointed the wrong direction.
 >>> “Other hall.”   <-- WHO SAYS THIS?
 “Thank you.”
 Yun went the correct wrong way.
 ```
 ```
-[yun] “South annex.”
+“South annex.”
 The nurse pointed the wrong direction.
 “Other hall.”
 >>> “Thank you.”   <-- WHO SAYS THIS?
@@ -1600,6 +1984,14 @@ The guard took the sheet.
 Yun let him.
 ```
 ```
+Enough to create sudden pins-and-needles across the hand.
+He jerked.
+Yun caught the sheet.
+>>> “Circulation problem,” she said professionally. “You should get that checked.”   <-- WHO SAYS THIS?
+He stared at his hand.
+Yun walked past.
+```
+```
 Not teleportation.
 He had been physically pressed behind a storage buttress where the darkness concealed him.
 “Late,” he said.
@@ -1624,16 +2016,24 @@ Yurushi stared.
 Yun kept moving.
 ```
 ```
+“His hand tingles.”
 Yurushi stared.
 Yun kept moving.
-[yun] “He will recover.”
+>>> “He will recover.”   <-- WHO SAYS THIS?
+“I was not asking medically.”
+“Then ask better questions.”
+```
+```
+Yurushi stared.
+Yun kept moving.
+“He will recover.”
 >>> “I was not asking medically.”   <-- WHO SAYS THIS?
 “Then ask better questions.”
 He almost laughed.
 ```
 ```
 Yun kept moving.
-[yun] “He will recover.”
+“He will recover.”
 “I was not asking medically.”
 >>> “Then ask better questions.”   <-- WHO SAYS THIS?
 He almost laughed.
@@ -1765,31 +2165,55 @@ Yurushi looked at her.
 “That is monitored.”
 >>> “Not the waste channel.”   <-- WHO SAYS THIS?
 Yurushi looked at her.
-[yurushi] “You mapped that?”
+“You mapped that?”
+```
+```
+“That is monitored.”
+“Not the waste channel.”
+Yurushi looked at her.
+>>> “You mapped that?”   <-- WHO SAYS THIS?
+“Three months.”
+“Fair.”
 ```
 ```
 “Not the waste channel.”
 Yurushi looked at her.
-[yurushi] “You mapped that?”
+“You mapped that?”
 >>> “Three months.”   <-- WHO SAYS THIS?
 “Fair.”
 They changed direction.
 ```
 ```
 Yurushi looked at her.
-[yurushi] “You mapped that?”
+“You mapped that?”
 “Three months.”
 >>> “Fair.”   <-- WHO SAYS THIS?
 They changed direction.
 This was the point that mattered.
 ```
 ```
+Yun nearly smiled.
 “His training helps,” she said.
 Yurushi understood immediately.
-[yurushi] “That is rude.”
+>>> “That is rude.”   <-- WHO SAYS THIS?
+“Yes.”
+They crossed the waste channel.
+```
+```
+“His training helps,” she said.
+Yurushi understood immediately.
+“That is rude.”
 >>> “Yes.”   <-- WHO SAYS THIS?
 They crossed the waste channel.
 Yun slipped once.
+```
+```
+Did not make the moment about his feelings.
+He simply said, “Wall on your left.”
+Yun caught the wall herself.
+>>> “Thank you.”   <-- WHO SAYS THIS?
+They continued.
+Yurushi watched her for several steps.
 ```
 ```
 The whole picture.
@@ -1808,16 +2232,32 @@ He did not move.
 Yun added, “If there is one.”
 ```
 ```
+Enough.
+Yurushi's jaw tightened.
+Yun pointed north.
+>>> “Isgard first.”   <-- WHO SAYS THIS?
+He nodded once.
+No demand for details.
+```
+```
+Yun’s breathing had become shallow.
 Her right leg dragged slightly.
 Yurushi noticed.
-[yurushi] “Rest.”
+>>> “Rest.”   <-- WHO SAYS THIS?
+“No.”
+“You collapse here, the route dies with you.”
+```
+```
+Her right leg dragged slightly.
+Yurushi noticed.
+“Rest.”
 >>> “No.”   <-- WHO SAYS THIS?
 “You collapse here, the route dies with you.”
 That was a better argument.
 ```
 ```
 Yurushi noticed.
-[yurushi] “Rest.”
+“Rest.”
 “No.”
 >>> “You collapse here, the route dies with you.”   <-- WHO SAYS THIS?
 That was a better argument.
@@ -1898,23 +2338,31 @@ She was too tired to fight properly, so she took it.
 The coat was warm.
 ```
 ```
+The escape medicine had bought function.
 It had not created health.
 Yurushi returned.
-[yurushi] “Marker is clean.”
+>>> “Marker is clean.”   <-- WHO SAYS THIS?
+“For now.”
+“Yes.”
+```
+```
+It had not created health.
+Yurushi returned.
+“Marker is clean.”
 >>> “For now.”   <-- WHO SAYS THIS?
 “Yes.”
 “How long to Isgard contact?”
 ```
 ```
 Yurushi returned.
-[yurushi] “Marker is clean.”
+“Marker is clean.”
 “For now.”
 >>> “Yes.”   <-- WHO SAYS THIS?
 “How long to Isgard contact?”
 “Two days if healthy.”
 ```
 ```
-[yurushi] “Marker is clean.”
+“Marker is clean.”
 “For now.”
 “Yes.”
 >>> “How long to Isgard contact?”   <-- WHO SAYS THIS?
@@ -2026,15 +2474,23 @@ Yurushi’s face became still.
 Yun noticed.
 ```
 ```
+“He may find Hana’s patrol change.”
+Yurushi’s face became still.
 Yun noticed.
-[yun] “Hana.”
+>>> “Hana.”   <-- WHO SAYS THIS?
+He did not answer quickly enough.
+“Interesting.”
+```
+```
+Yun noticed.
+“Hana.”
 He did not answer quickly enough.
 >>> “Interesting.”   <-- WHO SAYS THIS?
 “Not important.”
 “Very important to your face.”
 ```
 ```
-[yun] “Hana.”
+“Hana.”
 He did not answer quickly enough.
 “Interesting.”
 >>> “Not important.”   <-- WHO SAYS THIS?
@@ -2106,23 +2562,31 @@ Yurushi looked at her.
 Yun felt him stop hiding completely.
 ```
 ```
+Very dense.
 High Paragon dense.
 Yun stared.
-[yun] “You are joking.”
+>>> “You are joking.”   <-- WHO SAYS THIS?
+“No.”
+“You let me think you were merely suspicious.”
+```
+```
+High Paragon dense.
+Yun stared.
+“You are joking.”
 >>> “No.”   <-- WHO SAYS THIS?
 “You let me think you were merely suspicious.”
 “I was trying humility.”
 ```
 ```
 Yun stared.
-[yun] “You are joking.”
+“You are joking.”
 “No.”
 >>> “You let me think you were merely suspicious.”   <-- WHO SAYS THIS?
 “I was trying humility.”
 “It does not suit you.”
 ```
 ```
-[yun] “You are joking.”
+“You are joking.”
 “No.”
 “You let me think you were merely suspicious.”
 >>> “I was trying humility.”   <-- WHO SAYS THIS?
@@ -2143,26 +2607,34 @@ Yun laughed once and immediately regretted it because her ribs hurt.
 “It does not suit you.”
 >>> “Agreed.”   <-- WHO SAYS THIS?
 Yun laughed once and immediately regretted it because her ribs hurt.
-[yun] “High Paragon?”
+“High Paragon?”
+```
+```
+“It does not suit you.”
+“Agreed.”
+Yun laughed once and immediately regretted it because her ribs hurt.
+>>> “High Paragon?”   <-- WHO SAYS THIS?
+“Yes.”
+“Ranked?”
 ```
 ```
 “Agreed.”
 Yun laughed once and immediately regretted it because her ribs hurt.
-[yun] “High Paragon?”
+“High Paragon?”
 >>> “Yes.”   <-- WHO SAYS THIS?
 “Ranked?”
 “No.”
 ```
 ```
 Yun laughed once and immediately regretted it because her ribs hurt.
-[yun] “High Paragon?”
+“High Paragon?”
 “Yes.”
 >>> “Ranked?”   <-- WHO SAYS THIS?
 “No.”
 “Why?”
 ```
 ```
-[yun] “High Paragon?”
+“High Paragon?”
 “Yes.”
 “Ranked?”
 >>> “No.”   <-- WHO SAYS THIS?
@@ -2215,26 +2687,34 @@ No immediate pursuit.
 He returned and placed three packets on the bench.
 >>> “Pain control. Circulation support. Fever prevention.”   <-- WHO SAYS THIS?
 Yun checked each.
-[yun] “Good.”
+“Good.”
+```
+```
+He returned and placed three packets on the bench.
+“Pain control. Circulation support. Fever prevention.”
+Yun checked each.
+>>> “Good.”   <-- WHO SAYS THIS?
+“I know.”
+“Arrogant.”
 ```
 ```
 “Pain control. Circulation support. Fever prevention.”
 Yun checked each.
-[yun] “Good.”
+“Good.”
 >>> “I know.”   <-- WHO SAYS THIS?
 “Arrogant.”
 “Also true.”
 ```
 ```
 Yun checked each.
-[yun] “Good.”
+“Good.”
 “I know.”
 >>> “Arrogant.”   <-- WHO SAYS THIS?
 “Also true.”
 He gave her one of the civilian travel papers.
 ```
 ```
-[yun] “Good.”
+“Good.”
 “I know.”
 “Arrogant.”
 >>> “Also true.”   <-- WHO SAYS THIS?
@@ -2242,7 +2722,23 @@ He gave her one of the civilian travel papers.
 The identity described a widowed herb buyer from a northern hill district.
 ```
 ```
-[yurushi] “You currently look tired enough to be fifty.”
+He gave her one of the civilian travel papers.
+The identity described a widowed herb buyer from a northern hill district.
+Yun read it.
+>>> “Forty-one?”   <-- WHO SAYS THIS?
+Yurushi looked at her injuries.
+“You currently look tired enough to be fifty.”
+```
+```
+Yun read it.
+“Forty-one?”
+Yurushi looked at her injuries.
+>>> “You currently look tired enough to be fifty.”   <-- WHO SAYS THIS?
+She stared.
+He backed toward the door.
+```
+```
+“You currently look tired enough to be fifty.”
 She stared.
 He backed toward the door.
 >>> “High Paragon reflexes,” he said. “Useful.”   <-- WHO SAYS THIS?
@@ -2399,7 +2895,15 @@ Yurushi looked south.
 “I know.”
 >>> “You helped cause the warning.”   <-- WHO SAYS THIS?
 Yurushi looked south.
-[yurushi] “No. Shinsei caused the warning.”
+“No. Shinsei caused the warning.”
+```
+```
+“I know.”
+“You helped cause the warning.”
+Yurushi looked south.
+>>> “No. Shinsei caused the warning.”   <-- WHO SAYS THIS?
+Yun held his gaze.
+Then nodded.
 ```
 ```
 Someone inside—or close enough to inside—had helped her.
@@ -2407,5 +2911,13 @@ Someone inside—or close enough to inside—had helped her.
 A guard bowed.
 >>> “And the person?”   <-- WHO SAYS THIS?
 Shunto looked at the open door.
-[shunto] “Yes.”
+“Yes.”
+```
+```
+A guard bowed.
+“And the person?”
+Shunto looked at the open door.
+>>> “Yes.”   <-- WHO SAYS THIS?
+Far north, Yun walked alone beneath Yurushi’s coat.
+The warning was moving again.
 ```

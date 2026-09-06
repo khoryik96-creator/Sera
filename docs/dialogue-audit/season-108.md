@@ -1,6 +1,6 @@
 # Season 108 — unattributed dialogue
 
-135 quoted lines in this season have no speaker.
+191 quoted lines in this season have no speaker.
 See `README.md` in this folder for what to do with them.
 
 Lines already resolved show their speaker in `[brackets]` for context.
@@ -8,23 +8,39 @@ Lines already resolved show their speaker in `[brackets]` for context.
 ### Chapter 431 — One Hundred Thousand Without One Battlefield
 
 ```
-[sera] “One hundred thousand plus.”
+Sovereigns did not replace every bridge crew.
+A continent could have terrifying martial elites and still lose a war because not enough ordinary hands remained behind them.
+Sera read the Shinsei commitment report.
+>>> “One hundred thousand plus.”   <-- WHO SAYS THIS?
 Jin nodded.
-[jin] “Across total forward-support network.”
+“Across total forward-support network.”
+```
+```
+Sera read the Shinsei commitment report.
+“One hundred thousand plus.”
+Jin nodded.
+>>> “Across total forward-support network.”   <-- WHO SAYS THIS?
+“Not one battlefield.”
+“No.”
+```
+```
+“One hundred thousand plus.”
+Jin nodded.
+“Across total forward-support network.”
 >>> “Not one battlefield.”   <-- WHO SAYS THIS?
 “No.”
 “How many could they concentrate quickly?”
 ```
 ```
 Jin nodded.
-[jin] “Across total forward-support network.”
+“Across total forward-support network.”
 “Not one battlefield.”
 >>> “No.”   <-- WHO SAYS THIS?
 “How many could they concentrate quickly?”
 “Depends where.”
 ```
 ```
-[jin] “Across total forward-support network.”
+“Across total forward-support network.”
 “Not one battlefield.”
 “No.”
 >>> “How many could they concentrate quickly?”   <-- WHO SAYS THIS?
@@ -40,9 +56,25 @@ That answer again.
 War resisted clean numbers.
 ```
 ```
-[solveig] “North farms are down another twelve percent.”
+That answer again.
+War resisted clean numbers.
+Solveig entered with Isgard’s own ledger.
+>>> “North farms are down another twelve percent.”   <-- WHO SAYS THIS?
 Jin looked at her.
-[jin] “Combat?”
+“Combat?”
+```
+```
+Solveig entered with Isgard’s own ledger.
+“North farms are down another twelve percent.”
+Jin looked at her.
+>>> “Combat?”   <-- WHO SAYS THIS?
+“Labor.”
+Of course.
+```
+```
+“North farms are down another twelve percent.”
+Jin looked at her.
+“Combat?”
 >>> “Labor.”   <-- WHO SAYS THIS?
 Of course.
 She continued.
@@ -56,39 +88,55 @@ Sera looked at the map.
 Shinsei wanted resources partly because it believed Isgard could no longer use them efficiently.
 ```
 ```
+The invasion itself was making the weakness worse.
+A self-fulfilling argument.
 Jin moved supply markers.
-[jin] “We need Wuyue grain shipments increased.”
+>>> “We need Wuyue grain shipments increased.”   <-- WHO SAYS THIS?
+“Home reserve?” Sera asked.
+“Can absorb some. Not indefinitely.”
+```
+```
+Jin moved supply markers.
+“We need Wuyue grain shipments increased.”
 “Home reserve?” Sera asked.
 >>> “Can absorb some. Not indefinitely.”   <-- WHO SAYS THIS?
 “Then increase trade purchase, not military seizure.”
 Solveig looked at her.
 ```
 ```
-[jin] “We need Wuyue grain shipments increased.”
+“We need Wuyue grain shipments increased.”
 “Home reserve?” Sera asked.
 “Can absorb some. Not indefinitely.”
 >>> “Then increase trade purchase, not military seizure.”   <-- WHO SAYS THIS?
 Solveig looked at her.
-[solveig] “You’ll pay?”
+“You’ll pay?”
+```
+```
+“Can absorb some. Not indefinitely.”
+“Then increase trade purchase, not military seizure.”
+Solveig looked at her.
+>>> “You’ll pay?”   <-- WHO SAYS THIS?
+“Yes.”
+“During war.”
 ```
 ```
 “Then increase trade purchase, not military seizure.”
 Solveig looked at her.
-[solveig] “You’ll pay?”
+“You’ll pay?”
 >>> “Yes.”   <-- WHO SAYS THIS?
 “During war.”
 “Yes.”
 ```
 ```
 Solveig looked at her.
-[solveig] “You’ll pay?”
+“You’ll pay?”
 “Yes.”
 >>> “During war.”   <-- WHO SAYS THIS?
 “Yes.”
 “Why?”
 ```
 ```
-[solveig] “You’ll pay?”
+“You’ll pay?”
 “Yes.”
 “During war.”
 >>> “Yes.”   <-- WHO SAYS THIS?
@@ -101,29 +149,45 @@ Sera looked at her.
 “Yes.”
 >>> “Why?”   <-- WHO SAYS THIS?
 Sera looked at her.
-[sera] “Because alliance is not annexation with nicer banners.”
+“Because alliance is not annexation with nicer banners.”
+```
+```
+“Yes.”
+“Why?”
+Sera looked at her.
+>>> “Because alliance is not annexation with nicer banners.”   <-- WHO SAYS THIS?
+Solveig held her gaze.
+Then nodded.
 ```
 
 ### Chapter 432 — The Map That Refuses to Get Better
 
 ```
+Good work. Real work.
 The second map was almost identical to the one from six days earlier.
 Luo set down two cups of tea.
-[luo] “You look offended.”
+>>> “You look offended.”   <-- WHO SAYS THIS?
+“It refuses to improve.”
+“The tea?”
+```
+```
+The second map was almost identical to the one from six days earlier.
+Luo set down two cups of tea.
+“You look offended.”
 >>> “It refuses to improve.”   <-- WHO SAYS THIS?
 “The tea?”
 “The map.”
 ```
 ```
 Luo set down two cups of tea.
-[luo] “You look offended.”
+“You look offended.”
 “It refuses to improve.”
 >>> “The tea?”   <-- WHO SAYS THIS?
 “The map.”
 “Mine does that too.”
 ```
 ```
-[luo] “You look offended.”
+“You look offended.”
 “It refuses to improve.”
 “The tea?”
 >>> “The map.”   <-- WHO SAYS THIS?
@@ -139,65 +203,153 @@ Jin ignored him and opened the replacement ledger.
 Two fresh Shinsei formations had arrived through a secondary port. A repaired Paragon returned to duty. The destroyed depot’s distribution load had been split between three smaller warehouses. Road security had shifted inland instead of disappearing.
 ```
 ```
+The gains remained real.
 They simply did not change the slope fast enough.
 Luo sat opposite him.
-[luo] “Are we losing?”
+>>> “Are we losing?”   <-- WHO SAYS THIS?
+“No.”
+Jin did not hesitate.
+```
+```
+They simply did not change the slope fast enough.
+Luo sat opposite him.
+“Are we losing?”
 >>> “No.”   <-- WHO SAYS THIS?
 Jin did not hesitate.
 That was important enough that Luo waited for the rest.
 ```
 ```
+Jin did not hesitate.
+That was important enough that Luo waited for the rest.
+Jin stared at the map until the answer became precise.
+>>> “We’re winning too slowly.”   <-- WHO SAYS THIS?
+The sentence changed the room more than a casualty report would have.
+This was not defeat. It was not even a clean stalemate. Wuyue and Isgard were producing tactical success at a rate lower than Shinsei’s ability to replace, reroute, repair or politically absorb the loss.
+```
+```
+A victory that failed to change tomorrow was still a victory.
 It was also insufficient.
 Sera entered wearing a medical restriction band beneath her coat. Jin noticed because everyone had learned to notice when the most dangerous person in the room was pretending not to be injured.
-[sera] “You’re supposed to rest.”
+>>> “You’re supposed to rest.”   <-- WHO SAYS THIS?
+“I am about to sit.”
+“That is not rest.”
+```
+```
+It was also insufficient.
+Sera entered wearing a medical restriction band beneath her coat. Jin noticed because everyone had learned to notice when the most dangerous person in the room was pretending not to be injured.
+“You’re supposed to rest.”
 >>> “I am about to sit.”   <-- WHO SAYS THIS?
 “That is not rest.”
 “It is relative.”
 ```
 ```
 Sera entered wearing a medical restriction band beneath her coat. Jin noticed because everyone had learned to notice when the most dangerous person in the room was pretending not to be injured.
-[sera] “You’re supposed to rest.”
+“You’re supposed to rest.”
 “I am about to sit.”
 >>> “That is not rest.”   <-- WHO SAYS THIS?
 “It is relative.”
 Luo pointed at the nearest chair.
 ```
 ```
-[sera] “You’re supposed to rest.”
+“You’re supposed to rest.”
 “I am about to sit.”
 “That is not rest.”
 >>> “It is relative.”   <-- WHO SAYS THIS?
 Luo pointed at the nearest chair.
-[luo] “Sit.”
+“Sit.”
+```
+```
+“That is not rest.”
+“It is relative.”
+Luo pointed at the nearest chair.
+>>> “Sit.”   <-- WHO SAYS THIS?
+Sera sat.
+Jin looked briefly impressed.
+```
+```
+“Sit.”
+Sera sat.
+Jin looked briefly impressed.
+>>> “Finally found an authority you obey?”   <-- WHO SAYS THIS?
+“Do not make this unpleasant.”
+Luo said, “Too late.”
 ```
 ```
 Sera sat.
 Jin looked briefly impressed.
-[jin] “Finally found an authority you obey?”
+“Finally found an authority you obey?”
 >>> “Do not make this unpleasant.”   <-- WHO SAYS THIS?
 Luo said, “Too late.”
 Jin turned the replacement ledger toward her.
 ```
 ```
-[jin] “We can keep winning this way for months.”
+“Do not make this unpleasant.”
+Luo said, “Too late.”
+Jin turned the replacement ledger toward her.
+>>> “We can keep winning this way for months.”   <-- WHO SAYS THIS?
 Sera scanned the casualty trend before answering.
-[sera] “And?”
+“And?”
+```
+```
+Jin turned the replacement ledger toward her.
+“We can keep winning this way for months.”
+Sera scanned the casualty trend before answering.
+>>> “And?”   <-- WHO SAYS THIS?
+“We cannot keep paying this way for months.”
+There was the entire sixth month in two sentences.
+```
+```
+“We can keep winning this way for months.”
+Sera scanned the casualty trend before answering.
+“And?”
 >>> “We cannot keep paying this way for months.”   <-- WHO SAYS THIS?
 There was the entire sixth month in two sentences.
 Wuyue still had reserves at home, but not infinite ones. Isgard’s government was functioning, but epidemic losses had already thinned the ordinary labor beneath its armies. Shinsei could absorb a lost formation, rebuild it farther back, and send a repaired apex fighter into the gap while Wuyue was still writing letters to the families of the people who bought the original victory.
 ```
 ```
-[sera] “Structural targets.”
+There was the entire sixth month in two sentences.
+Wuyue still had reserves at home, but not infinite ones. Isgard’s government was functioning, but epidemic losses had already thinned the ordinary labor beneath its armies. Shinsei could absorb a lost formation, rebuild it farther back, and send a repaired apex fighter into the gap while Wuyue was still writing letters to the families of the people who bought the original victory.
+Sera leaned over the table until Luo pushed her shoulder back against the chair.
+>>> “Structural targets.”   <-- WHO SAYS THIS?
 Jin nodded.
-[jin] “Already shifting.”
+“Already shifting.”
+```
+```
+Sera leaned over the table until Luo pushed her shoulder back against the chair.
+“Structural targets.”
+Jin nodded.
+>>> “Already shifting.”   <-- WHO SAYS THIS?
+“Show me.”
+He began with ports.
+```
+```
+“Structural targets.”
+Jin nodded.
+“Already shifting.”
 >>> “Show me.”   <-- WHO SAYS THIS?
 He began with ports.
 Not ships alone. Unloading schedules, warehouse throughput, road access, the clerks whose stamps made replacement formations move without starving civilian districts.
 ```
 ```
+Then prisoners.
+Sera’s refusal to mistreat them had begun returning stories to Shinsei that were far more destabilizing than crude propaganda: the enemy treated wounds, explained Redline costs and did not require gratitude for either.
+Luo tapped that line.
+>>> “Truth is slow.”   <-- WHO SAYS THIS?
 [jin] “So are infections,” Jin said. “Until they aren’t.”
 Sera looked at him.
-[sera] “That was almost poetic.”
+```
+```
+“Truth is slow.”
+[jin] “So are infections,” Jin said. “Until they aren’t.”
+Sera looked at him.
+>>> “That was almost poetic.”   <-- WHO SAYS THIS?
+“Please never say that again.”
+Luo drank his tea.
+```
+```
+[jin] “So are infections,” Jin said. “Until they aren’t.”
+Sera looked at him.
+“That was almost poetic.”
 >>> “Please never say that again.”   <-- WHO SAYS THIS?
 Luo drank his tea.
 “Aya?” Sera asked.
@@ -208,26 +360,34 @@ Luo drank his tea.
 [luo] “Still appears to be pushing accurate disclosure from inside,” Luo said. “Likely more than we can prove.”
 >>> “Then we do not plan around what we cannot prove.”   <-- WHO SAYS THIS?
 Jin nodded.
-[jin] “Correct.”
+“Correct.”
+```
+```
+[luo] “Still appears to be pushing accurate disclosure from inside,” Luo said. “Likely more than we can prove.”
+“Then we do not plan around what we cannot prove.”
+Jin nodded.
+>>> “Correct.”   <-- WHO SAYS THIS?
+“You keep agreeing with me.”
+“Because you keep being correct.”
 ```
 ```
 “Then we do not plan around what we cannot prove.”
 Jin nodded.
-[jin] “Correct.”
+“Correct.”
 >>> “You keep agreeing with me.”   <-- WHO SAYS THIS?
 “Because you keep being correct.”
 “That sounded suspiciously supportive.”
 ```
 ```
 Jin nodded.
-[jin] “Correct.”
+“Correct.”
 “You keep agreeing with me.”
 >>> “Because you keep being correct.”   <-- WHO SAYS THIS?
 “That sounded suspiciously supportive.”
 “Don’t get used to it.”
 ```
 ```
-[jin] “Correct.”
+“Correct.”
 “You keep agreeing with me.”
 “Because you keep being correct.”
 >>> “That sounded suspiciously supportive.”   <-- WHO SAYS THIS?
@@ -248,12 +408,28 @@ The feeling passed.
 He drew a line beneath the week’s three victories.
 >>> “We need the next month to change something the enemy cannot heal, replace or reroute before breakfast.”   <-- WHO SAYS THIS?
 Sera studied the map.
-[sera] “Then stop asking the map whether we won yesterday.”
+“Then stop asking the map whether we won yesterday.”
 ```
 ```
-[sera] “Then stop asking the map whether we won yesterday.”
+He drew a line beneath the week’s three victories.
+“We need the next month to change something the enemy cannot heal, replace or reroute before breakfast.”
+Sera studied the map.
+>>> “Then stop asking the map whether we won yesterday.”   <-- WHO SAYS THIS?
 Jin looked at her.
-[jin] “What do I ask?”
+“What do I ask?”
+```
+```
+Sera studied the map.
+“Then stop asking the map whether we won yesterday.”
+Jin looked at her.
+>>> “What do I ask?”   <-- WHO SAYS THIS?
+“Whether yesterday made today different.”
+He was quiet for several breaths.
+```
+```
+“Then stop asking the map whether we won yesterday.”
+Jin looked at her.
+“What do I ask?”
 >>> “Whether yesterday made today different.”   <-- WHO SAYS THIS?
 He was quiet for several breaths.
 Then he turned the first map over and began a new one.
@@ -262,12 +438,44 @@ Then he turned the first map over and began a new one.
 ### Chapter 433 — Ten People Cannot Be Ten Armies
 
 ```
-[sera] “This is embarrassing.”
+Luo Wen had forgotten to shave.
+Xie Wuchen’s Wind-Qi meridians were still recovering from overstrain after extracting Rui.
+Sera looked around the table.
+>>> “This is embarrassing.”   <-- WHO SAYS THIS?
 Kael frowned.
-[kael] “What?”
+“What?”
+```
+```
+Sera looked around the table.
+“This is embarrassing.”
+Kael frowned.
+>>> “What?”   <-- WHO SAYS THIS?
+“We look old.”
+Arin stared at her.
+```
+```
+“This is embarrassing.”
+Kael frowned.
+“What?”
 >>> “We look old.”   <-- WHO SAYS THIS?
 Arin stared at her.
-[arin] “You don’t age.”
+“You don’t age.”
+```
+```
+“What?”
+“We look old.”
+Arin stared at her.
+>>> “You don’t age.”   <-- WHO SAYS THIS?
+Silence.
+Sera considered.
+```
+```
+“You don’t age.”
+Silence.
+Sera considered.
+>>> “Insensitive.”   <-- WHO SAYS THIS?
+Ilyra laughed hard enough to hurt herself.
+The humor lasted six seconds.
 ```
 ```
 Ilyra laughed hard enough to hurt herself.
@@ -275,34 +483,50 @@ The humor lasted six seconds.
 Then Jin opened the workload map.
 >>> “Ten people cannot be ten armies.”   <-- WHO SAYS THIS?
 Kael looked at him.
-[kael] “No one said we could.”
+“No one said we could.”
+```
+```
+Then Jin opened the workload map.
+“Ten people cannot be ten armies.”
+Kael looked at him.
+>>> “No one said we could.”   <-- WHO SAYS THIS?
+“Your schedules disagree.”
+He started pointing.
 ```
 ```
 “Ten people cannot be ten armies.”
 Kael looked at him.
-[kael] “No one said we could.”
+“No one said we could.”
 >>> “Your schedules disagree.”   <-- WHO SAYS THIS?
 He started pointing.
 Kael had been answering Stonecrown coordination, Paragon pressure, fixed-defence requests and alliance command.
 ```
 ```
+Sera everything everyone else could not solve.
 That last category was the problem.
 Sera looked at Jin.
-[sera] “Say it.”
+>>> “Say it.”   <-- WHO SAYS THIS?
+“You are doing too much.”
+“Specific.”
+```
+```
+That last category was the problem.
+Sera looked at Jin.
+“Say it.”
 >>> “You are doing too much.”   <-- WHO SAYS THIS?
 “Specific.”
 “You personally intervened in seven apex incidents this month.”
 ```
 ```
 Sera looked at Jin.
-[sera] “Say it.”
+“Say it.”
 “You are doing too much.”
 >>> “Specific.”   <-- WHO SAYS THIS?
 “You personally intervened in seven apex incidents this month.”
 “Necessary.”
 ```
 ```
-[sera] “Say it.”
+“Say it.”
 “You are doing too much.”
 “Specific.”
 >>> “You personally intervened in seven apex incidents this month.”   <-- WHO SAYS THIS?
@@ -326,32 +550,56 @@ Sera’s eyes narrowed.
 Jin did not care.
 ```
 ```
+“Three were.”
 Sera’s eyes narrowed.
 Jin did not care.
-[jin] “Four could have been delegated at higher short-term cost and lower long-term command damage.”
+>>> “Four could have been delegated at higher short-term cost and lower long-term command damage.”   <-- WHO SAYS THIS?
+“People would have died.”
+“Yes.”
+```
+```
+Sera’s eyes narrowed.
+Jin did not care.
+“Four could have been delegated at higher short-term cost and lower long-term command damage.”
 >>> “People would have died.”   <-- WHO SAYS THIS?
 “Yes.”
 The room became quiet.
 ```
 ```
 Jin did not care.
-[jin] “Four could have been delegated at higher short-term cost and lower long-term command damage.”
+“Four could have been delegated at higher short-term cost and lower long-term command damage.”
 “People would have died.”
 >>> “Yes.”   <-- WHO SAYS THIS?
 The room became quiet.
 Jin’s voice softened.
 ```
 ```
-[kael] “Welcome to being a symbol.”
+Leadership’s ugliest sentence.
+Sera hated it because it was true.
+Kael leaned back.
+>>> “Welcome to being a symbol.”   <-- WHO SAYS THIS?
 Sera looked at him.
-[sera] “You are not helping.”
+“You are not helping.”
+```
+```
+Kael leaned back.
+“Welcome to being a symbol.”
+Sera looked at him.
+>>> “You are not helping.”   <-- WHO SAYS THIS?
+“No.”
+“But I am correct.”
+```
+```
+“Welcome to being a symbol.”
+Sera looked at him.
+“You are not helping.”
 >>> “No.”   <-- WHO SAYS THIS?
 “But I am correct.”
 Annoyingly.
 ```
 ```
 Sera looked at him.
-[sera] “You are not helping.”
+“You are not helping.”
 “No.”
 >>> “But I am correct.”   <-- WHO SAYS THIS?
 Annoyingly.
@@ -393,39 +641,55 @@ The man left angry.
 Aldric let him.
 ```
 ```
+Aldric wrote one word.
 **No.**
 Solveig, standing behind him with three ledgers under one arm, looked over his shoulder.
-[solveig] “Diplomatic.”
+>>> “Diplomatic.”   <-- WHO SAYS THIS?
+“I considered adding a second word.”
+“Dangerous escalation.”
+```
+```
+**No.**
+Solveig, standing behind him with three ledgers under one arm, looked over his shoulder.
+“Diplomatic.”
 >>> “I considered adding a second word.”   <-- WHO SAYS THIS?
 “Dangerous escalation.”
 The third petition argued that the return of Isgard’s three Paragons made emergency command unnecessary. Aldric stared at that one longest.
 ```
 ```
 Solveig, standing behind him with three ledgers under one arm, looked over his shoulder.
-[solveig] “Diplomatic.”
+“Diplomatic.”
 “I considered adding a second word.”
 >>> “Dangerous escalation.”   <-- WHO SAYS THIS?
 The third petition argued that the return of Isgard’s three Paragons made emergency command unnecessary. Aldric stared at that one longest.
 The argument was flattering. That made it worse.
 ```
 ```
+He wrote:
 **Emergency command ends when the emergency ends, not when powerful people become available again.**
 Solveig read the line.
-[solveig] “You wrote that?”
+>>> “You wrote that?”   <-- WHO SAYS THIS?
+“Yes.”
+“Good.”
+```
+```
+**Emergency command ends when the emergency ends, not when powerful people become available again.**
+Solveig read the line.
+“You wrote that?”
 >>> “Yes.”   <-- WHO SAYS THIS?
 “Good.”
 “You sound surprised.”
 ```
 ```
 Solveig read the line.
-[solveig] “You wrote that?”
+“You wrote that?”
 “Yes.”
 >>> “Good.”   <-- WHO SAYS THIS?
 “You sound surprised.”
 “I am enjoying this.”
 ```
 ```
-[solveig] “You wrote that?”
+“You wrote that?”
 “Yes.”
 “Good.”
 >>> “You sound surprised.”   <-- WHO SAYS THIS?
@@ -481,23 +745,31 @@ The steward said, “Then we requisition.”
 Aldric looked at him.
 ```
 ```
+“Eleven if the next Wuyue purchase convoy lands on schedule. Nineteen if it does not.”
 The steward said, “Then we requisition.”
 Aldric looked at him.
-[aldric] “No.”
+>>> “No.”   <-- WHO SAYS THIS?
+“My lord—”
+“We purchase what can be purchased, borrow against the Wuyue shipment, and cut military issue before taking seed grain.”
+```
+```
+The steward said, “Then we requisition.”
+Aldric looked at him.
+“No.”
 >>> “My lord—”   <-- WHO SAYS THIS?
 “We purchase what can be purchased, borrow against the Wuyue shipment, and cut military issue before taking seed grain.”
 “That reduces readiness.”
 ```
 ```
 Aldric looked at him.
-[aldric] “No.”
+“No.”
 “My lord—”
 >>> “We purchase what can be purchased, borrow against the Wuyue shipment, and cut military issue before taking seed grain.”   <-- WHO SAYS THIS?
 “That reduces readiness.”
 “Yes.”
 ```
 ```
-[aldric] “No.”
+“No.”
 “My lord—”
 “We purchase what can be purchased, borrow against the Wuyue shipment, and cut military issue before taking seed grain.”
 >>> “That reduces readiness.”   <-- WHO SAYS THIS?
@@ -536,6 +808,14 @@ Near sunset, Solveig placed the morning’s three denied petitions back on Aldri
 Aldric looked around the hall.
 Maedra and Varok were still arguing.
 ```
+```
+A village delegate was demanding an audit of military grain use.
+Astrid had disappeared with one of the maps.
+Aldric smiled despite his ribs.
+>>> “Fair.”   <-- WHO SAYS THIS?
+The government remained damaged, inefficient and loud.
+It had not collapsed.
+```
 
 ### Chapter 435 — Sera Commands While Hurt
 
@@ -545,27 +825,43 @@ Luo had noticed.
 His second order came that morning.
 >>> “No sustained Dominion combat. No apex interception unless the alternative is immediate collapse. And if you make me say this a third time, I am asking Tae to sit on you.”   <-- WHO SAYS THIS?
 Sera stared at him.
-[sera] “Tae would enjoy that too much.”
+“Tae would enjoy that too much.”
+```
+```
+His second order came that morning.
+“No sustained Dominion combat. No apex interception unless the alternative is immediate collapse. And if you make me say this a third time, I am asking Tae to sit on you.”
+Sera stared at him.
+>>> “Tae would enjoy that too much.”   <-- WHO SAYS THIS?
+“That is why it is a threat.”
+She obeyed by only using Orchid Dominion once.
 ```
 ```
 “No sustained Dominion combat. No apex interception unless the alternative is immediate collapse. And if you make me say this a third time, I am asking Tae to sit on you.”
 Sera stared at him.
-[sera] “Tae would enjoy that too much.”
+“Tae would enjoy that too much.”
 >>> “That is why it is a threat.”   <-- WHO SAYS THIS?
 She obeyed by only using Orchid Dominion once.
 Luo found out.
 ```
 ```
+“That is why it is a threat.”
 She obeyed by only using Orchid Dominion once.
 Luo found out.
-[luo] “This is why physicians become violent.”
+>>> “This is why physicians become violent.”   <-- WHO SAYS THIS?
+“You are already violent.”
+“More violent.”
+```
+```
+She obeyed by only using Orchid Dominion once.
+Luo found out.
+“This is why physicians become violent.”
 >>> “You are already violent.”   <-- WHO SAYS THIS?
 “More violent.”
 She sat on the medical crate while he checked her ribs.
 ```
 ```
 Luo found out.
-[luo] “This is why physicians become violent.”
+“This is why physicians become violent.”
 “You are already violent.”
 >>> “More violent.”   <-- WHO SAYS THIS?
 She sat on the medical crate while he checked her ribs.
@@ -636,23 +932,39 @@ That was Sera’s growth too.
 Peak Paragon strength remained one resource among many.
 ```
 ```
-[luo] “Sit.”
+She stood.
+Pain sharpened.
+Luo glared.
+>>> “Sit.”   <-- WHO SAYS THIS?
 Sera sat again.
-[sera] “Humiliating.”
+“Humiliating.”
+```
+```
+Luo glared.
+“Sit.”
+Sera sat again.
+>>> “Humiliating.”   <-- WHO SAYS THIS?
+“Good.”
+“Why good?”
+```
+```
+“Sit.”
+Sera sat again.
+“Humiliating.”
 >>> “Good.”   <-- WHO SAYS THIS?
 “Why good?”
 “You remember limits.”
 ```
 ```
 Sera sat again.
-[sera] “Humiliating.”
+“Humiliating.”
 “Good.”
 >>> “Why good?”   <-- WHO SAYS THIS?
 “You remember limits.”
 Everyone in Isgard had learned that lesson differently.
 ```
 ```
-[sera] “Humiliating.”
+“Humiliating.”
 “Good.”
 “Why good?”
 >>> “You remember limits.”   <-- WHO SAYS THIS?
@@ -667,18 +979,26 @@ The first Shinsei prisoner who accused Luo Wen of lying was a medic.
 That made the accusation useful.
 >>> “Five years?”   <-- WHO SAYS THIS?
 Luo nodded.
-[luo] “For one standard three-times Redline exposure. Approximately.”
+“For one standard three-times Redline exposure. Approximately.”
+```
+```
+That made the accusation useful.
+“Five years?”
+Luo nodded.
+>>> “For one standard three-times Redline exposure. Approximately.”   <-- WHO SAYS THIS?
+The medic stared at him as though the approximation were the offensive part.
+“That is absurd.”
 ```
 ```
 Luo nodded.
-[luo] “For one standard three-times Redline exposure. Approximately.”
+“For one standard three-times Redline exposure. Approximately.”
 The medic stared at him as though the approximation were the offensive part.
 >>> “That is absurd.”   <-- WHO SAYS THIS?
 “Yes.”
 “I mean your claim.”
 ```
 ```
-[luo] “For one standard three-times Redline exposure. Approximately.”
+“For one standard three-times Redline exposure. Approximately.”
 The medic stared at him as though the approximation were the offensive part.
 “That is absurd.”
 >>> “Yes.”   <-- WHO SAYS THIS?
@@ -755,27 +1075,43 @@ Luo crouched opposite him.
 “That is not how vitality loss presents.”
 >>> “Not from illness.”   <-- WHO SAYS THIS?
 Luo crouched opposite him.
-[luo] “Redline forces throughput by borrowing from what the body would otherwise have spent across years. The vessel survives. The expenditure does not return merely because the vessel heals.”
+“Redline forces throughput by borrowing from what the body would otherwise have spent across years. The vessel survives. The expenditure does not return merely because the vessel heals.”
+```
+```
+“That is not how vitality loss presents.”
+“Not from illness.”
+Luo crouched opposite him.
+>>> “Redline forces throughput by borrowing from what the body would otherwise have spent across years. The vessel survives. The expenditure does not return merely because the vessel heals.”   <-- WHO SAYS THIS?
+The patient stared at both physicians.
+“They told us recovery could take months.”
 ```
 ```
 Luo crouched opposite him.
-[luo] “Redline forces throughput by borrowing from what the body would otherwise have spent across years. The vessel survives. The expenditure does not return merely because the vessel heals.”
+“Redline forces throughput by borrowing from what the body would otherwise have spent across years. The vessel survives. The expenditure does not return merely because the vessel heals.”
 The patient stared at both physicians.
 >>> “They told us recovery could take months.”   <-- WHO SAYS THIS?
 Luo’s jaw tightened.
-[luo] “I know.”
+“I know.”
+```
+```
+The patient stared at both physicians.
+“They told us recovery could take months.”
+Luo’s jaw tightened.
+>>> “I know.”   <-- WHO SAYS THIS?
+“How?”
+“Because we found the same language in captured issue material.”
 ```
 ```
 “They told us recovery could take months.”
 Luo’s jaw tightened.
-[luo] “I know.”
+“I know.”
 >>> “How?”   <-- WHO SAYS THIS?
 “Because we found the same language in captured issue material.”
 The Shinsei medic looked away.
 ```
 ```
 Luo’s jaw tightened.
-[luo] “I know.”
+“I know.”
 “How?”
 >>> “Because we found the same language in captured issue material.”   <-- WHO SAYS THIS?
 The Shinsei medic looked away.
@@ -822,24 +1158,40 @@ The tent became quieter.
 Luo paused before answering.
 ```
 ```
-[luo] “Not with ordinary healing.”
+“The Petals Monarch?”
+The tent became quieter.
+Luo paused before answering.
+>>> “Not with ordinary healing.”   <-- WHO SAYS THIS?
+That was enough to make the room understand there was a difference between repairing injury and returning time already spent.
+The first medic stood.
+```
+```
+“Not with ordinary healing.”
 That was enough to make the room understand there was a difference between repairing injury and returning time already spent.
 The first medic stood.
 >>> “If this is true, why tell us?”   <-- WHO SAYS THIS?
 Luo looked at him.
-[luo] “You think I should keep your government’s secret because we are at war?”
+“You think I should keep your government’s secret because we are at war?”
+```
+```
+The first medic stood.
+“If this is true, why tell us?”
+Luo looked at him.
+>>> “You think I should keep your government’s secret because we are at war?”   <-- WHO SAYS THIS?
+“I think you gain something by frightening prisoners.”
+“Of course we gain something.”
 ```
 ```
 “If this is true, why tell us?”
 Luo looked at him.
-[luo] “You think I should keep your government’s secret because we are at war?”
+“You think I should keep your government’s secret because we are at war?”
 >>> “I think you gain something by frightening prisoners.”   <-- WHO SAYS THIS?
 “Of course we gain something.”
 The medic’s face hardened.
 ```
 ```
 Luo looked at him.
-[luo] “You think I should keep your government’s secret because we are at war?”
+“You think I should keep your government’s secret because we are at war?”
 “I think you gain something by frightening prisoners.”
 >>> “Of course we gain something.”   <-- WHO SAYS THIS?
 The medic’s face hardened.
@@ -889,15 +1241,23 @@ Jin ignored both.
 He pointed at Yurushi’s summary.
 ```
 ```
+Shinsei had been wrong about Wuyue’s hidden depth once.
+Tsubasa would not bet his homeland that it was wrong only once.
 Kael leaned over the table.
-[kael] “So he is fresh.”
+>>> “So he is fresh.”   <-- WHO SAYS THIS?
+[jin] “Relative to the forward Paragons,” Jin said. “Yes.”
+“Peak Paragon.”
+```
+```
+Kael leaned over the table.
+“So he is fresh.”
 [jin] “Relative to the forward Paragons,” Jin said. “Yes.”
 >>> “Peak Paragon.”   <-- WHO SAYS THIS?
 “Yes.”
 “Has not spent six months being punched by Wuyue and Isgard.”
 ```
 ```
-[kael] “So he is fresh.”
+“So he is fresh.”
 [jin] “Relative to the forward Paragons,” Jin said. “Yes.”
 “Peak Paragon.”
 >>> “Yes.”   <-- WHO SAYS THIS?
@@ -934,18 +1294,34 @@ He turned to her.
 “You keep using that word incorrectly.”
 >>> “I prefer knowing what is waiting.”   <-- WHO SAYS THIS?
 Jin slid a second page across the table.
-[jin] “Heaven Gate.”
+“Heaven Gate.”
+```
+```
+“You keep using that word incorrectly.”
+“I prefer knowing what is waiting.”
+Jin slid a second page across the table.
+>>> “Heaven Gate.”   <-- WHO SAYS THIS?
+That silenced Kael.
+The story had existed in fragments for years.
+```
+```
+Tsubasa defeated all three.
+And walked out of Heaven Gate a Peak Paragon.
+Kael whistled once.
+>>> “Annoying.”   <-- WHO SAYS THIS?
+Liang, seated farther back, said, “You call all strong people annoying.”
+“I call you annoying and you are not even Paragon.”
 ```
 ```
 Kael whistled once.
-[kael] “Annoying.”
+“Annoying.”
 Liang, seated farther back, said, “You call all strong people annoying.”
 >>> “I call you annoying and you are not even Paragon.”   <-- WHO SAYS THIS?
 “Proof the categories are independent.”
 Sera’s mouth almost moved.
 ```
 ```
-[kael] “Annoying.”
+“Annoying.”
 Liang, seated farther back, said, “You call all strong people annoying.”
 “I call you annoying and you are not even Paragon.”
 >>> “Proof the categories are independent.”   <-- WHO SAYS THIS?
@@ -974,11 +1350,27 @@ Jin looked at her.
 “Why?”
 >>> “Because legends become easier to fight when you know what they actually learned.”   <-- WHO SAYS THIS?
 Jin looked at her.
-[jin] “And what did he learn?”
+“And what did he learn?”
+```
+```
+“Why?”
+“Because legends become easier to fight when you know what they actually learned.”
+Jin looked at her.
+>>> “And what did he learn?”   <-- WHO SAYS THIS?
+Sera stared north across the map.
+“That he can survive being wrong.”
+```
+```
+Jin looked at her.
+“And what did he learn?”
+Sera stared north across the map.
+>>> “That he can survive being wrong.”   <-- WHO SAYS THIS?
+She tapped Seven Bridges.
+“Once, that made him better.”
 ```
 ```
 Sera stared north across the map.
-[sera] “That he can survive being wrong.”
+“That he can survive being wrong.”
 She tapped Seven Bridges.
 >>> “Once, that made him better.”   <-- WHO SAYS THIS?
 Then Heaven Gate.
@@ -996,34 +1388,66 @@ Outside the command shelter, stretcher teams moved between tents.
 ### Chapter 438 — Shunto Guards the Center
 
 ```
+She requested one original access sheet.
+The clerk brought the revised copy.
 Hana looked at it.
-[hana] “Where are the two lines?”
+>>> “Where are the two lines?”   <-- WHO SAYS THIS?
+The clerk froze.
+“What lines?”
+```
+```
+Hana looked at it.
+“Where are the two lines?”
 The clerk froze.
 >>> “What lines?”   <-- WHO SAYS THIS?
 “Good answer.”
 He paled.
 ```
 ```
-[hana] “Where are the two lines?”
+“Where are the two lines?”
 The clerk froze.
 “What lines?”
 >>> “Good answer.”   <-- WHO SAYS THIS?
 He paled.
 Hana handed the sheet back.
 ```
+```
+“Good answer.”
+He paled.
+Hana handed the sheet back.
+>>> “Keep doing your job.”   <-- WHO SAYS THIS?
+Then she left.
+She already had the original.
+```
 
 ### Chapter 439 — The Frost Changes Colour
 
 ```
+White.
 Violet within.
 Tae’s expression changed.
-[tae] “That is new.”
+>>> “That is new.”   <-- WHO SAYS THIS?
+“Yes.”
+Qin placed his fingertips against the outer stone.
+```
+```
+Violet within.
+Tae’s expression changed.
+“That is new.”
 >>> “Yes.”   <-- WHO SAYS THIS?
 Qin placed his fingertips against the outer stone.
 He did not send qi through it.
 ```
 ```
-[huo] “Do we open?”
+No outward strain.
+The density had stopped announcing itself by pushing against the container.
+Huo looked at Lu.
+>>> “Do we open?”   <-- WHO SAYS THIS?
+Everyone turned toward him.
+He raised both hands.
+```
+```
+“Do we open?”
 Everyone turned toward him.
 He raised both hands.
 >>> “I asked so nobody else had to.”   <-- WHO SAYS THIS?
@@ -1052,42 +1476,66 @@ Qin remained several minutes longer.
 “Yes.”
 >>> “Dangerous?”   <-- WHO SAYS THIS?
 Qin considered.
-[qin] “I cannot tell.”
+“I cannot tell.”
+```
+```
+“Yes.”
+“Dangerous?”
+Qin considered.
+>>> “I cannot tell.”   <-- WHO SAYS THIS?
+Tae nodded.
+No embarrassment in uncertainty.
+```
+```
+No embarrassment in uncertainty.
+They had all become stronger partly by learning that powerful people were allowed to say **I do not know** before they turned ignorance into catastrophe.
+Huo looked at the stone.
+>>> “He will be angry we did all this without him.”   <-- WHO SAYS THIS?
+Lu said, “No.”
+“You sound certain.”
 ```
 ```
 Huo looked at the stone.
-[huo] “He will be angry we did all this without him.”
+“He will be angry we did all this without him.”
 Lu said, “No.”
 >>> “You sound certain.”   <-- WHO SAYS THIS?
 “He will be angry we did not keep better tea in the lower stores.”
 Tae looked offended.
 ```
 ```
-[huo] “He will be angry we did all this without him.”
+“He will be angry we did all this without him.”
 Lu said, “No.”
 “You sound certain.”
 >>> “He will be angry we did not keep better tea in the lower stores.”   <-- WHO SAYS THIS?
 Tae looked offended.
-[tae] “The lower tea is fine.”
+“The lower tea is fine.”
+```
+```
+“You sound certain.”
+“He will be angry we did not keep better tea in the lower stores.”
+Tae looked offended.
+>>> “The lower tea is fine.”   <-- WHO SAYS THIS?
+“It is training tea.”
+“There is no such category.”
 ```
 ```
 “He will be angry we did not keep better tea in the lower stores.”
 Tae looked offended.
-[tae] “The lower tea is fine.”
+“The lower tea is fine.”
 >>> “It is training tea.”   <-- WHO SAYS THIS?
 “There is no such category.”
 “There is now.”
 ```
 ```
 Tae looked offended.
-[tae] “The lower tea is fine.”
+“The lower tea is fine.”
 “It is training tea.”
 >>> “There is no such category.”   <-- WHO SAYS THIS?
 “There is now.”
 For one breath, the corridor felt like the old house again.
 ```
 ```
-[tae] “The lower tea is fine.”
+“The lower tea is fine.”
 “It is training tea.”
 “There is no such category.”
 >>> “There is now.”   <-- WHO SAYS THIS?

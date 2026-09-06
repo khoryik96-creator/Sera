@@ -1,6 +1,6 @@
 # Season 106 — unattributed dialogue
 
-269 quoted lines in this season have no speaker.
+373 quoted lines in this season have no speaker.
 See `README.md` in this folder for what to do with them.
 
 Lines already resolved show their speaker in `[brackets]` for context.
@@ -8,23 +8,39 @@ Lines already resolved show their speaker in `[brackets]` for context.
 ### Chapter 411 — You Were Not Dying
 
 ```
-[aya] “Three?”
+There was dried blood on her collar.
+Not hers.
+Aya looked at it.
+>>> “Three?”   <-- WHO SAYS THIS?
 Hana’s face tightened.
-[hana] “Yes.”
+“Yes.”
+```
+```
+Aya looked at it.
+“Three?”
+Hana’s face tightened.
+>>> “Yes.”   <-- WHO SAYS THIS?
+“Same day.”
+“Yes.”
+```
+```
+“Three?”
+Hana’s face tightened.
+“Yes.”
 >>> “Same day.”   <-- WHO SAYS THIS?
 “Yes.”
 “Did you take any?”
 ```
 ```
 Hana’s face tightened.
-[hana] “Yes.”
+“Yes.”
 “Same day.”
 >>> “Yes.”   <-- WHO SAYS THIS?
 “Did you take any?”
 “No.”
 ```
 ```
-[hana] “Yes.”
+“Yes.”
 “Same day.”
 “Yes.”
 >>> “Did you take any?”   <-- WHO SAYS THIS?
@@ -53,43 +69,91 @@ Hana laughed once.
 No humor.
 >>> “I slapped one vial out of his hand.”   <-- WHO SAYS THIS?
 Aya looked toward the closed treatment room.
-[aya] “And?”
+“And?”
+```
+```
+No humor.
+“I slapped one vial out of his hand.”
+Aya looked toward the closed treatment room.
+>>> “And?”   <-- WHO SAYS THIS?
+“He caught it.”
+Of course he did.
 ```
 ```
 “I slapped one vial out of his hand.”
 Aya looked toward the closed treatment room.
-[aya] “And?”
+“And?”
 >>> “He caught it.”   <-- WHO SAYS THIS?
 Of course he did.
 Haru Ishikawa had spent his life turning difficult geometry into proof that he could find the correct line.
 ```
 ```
-[aya] “How many years do you think you spent?”
+All repairable.
+Mostly.
+Aya sat beside him.
+>>> “Pulse.”   <-- WHO SAYS THIS?
+Haru extended his wrist.
+She placed two fingers there.
+```
+```
+Not exact.
+But medically defensible enough to make the number monstrous.
+Aya opened her eyes.
+>>> “How many years do you think you spent?”   <-- WHO SAYS THIS?
 Haru said nothing.
-[haru] “Haru.”
+“Haru.”
+```
+```
+Aya opened her eyes.
+“How many years do you think you spent?”
+Haru said nothing.
+>>> “Haru.”   <-- WHO SAYS THIS?
+“I don’t know.”
+“Guess.”
+```
+```
+“How many years do you think you spent?”
+Haru said nothing.
+“Haru.”
 >>> “I don’t know.”   <-- WHO SAYS THIS?
 “Guess.”
 “Twenty.”
 ```
 ```
 Haru said nothing.
-[haru] “Haru.”
+“Haru.”
 “I don’t know.”
 >>> “Guess.”   <-- WHO SAYS THIS?
 “Twenty.”
 Aya stared.
 ```
 ```
-[haru] “Haru.”
+“Haru.”
 “I don’t know.”
 “Guess.”
 >>> “Twenty.”   <-- WHO SAYS THIS?
 Aya stared.
-[aya] “Thirty-five.”
+“Thirty-five.”
+```
+```
+“Guess.”
+“Twenty.”
+Aya stared.
+>>> “Thirty-five.”   <-- WHO SAYS THIS?
+His face changed.
+Hana looked away.
+```
+```
+Haru’s mouth opened.
+Closed.
+Aya touched one inflamed meridian through the wrist.
+>>> “I can repair this.”   <-- WHO SAYS THIS?
+Another.
+“This too.”
 ```
 ```
 Aya touched one inflamed meridian through the wrist.
-[aya] “I can repair this.”
+“I can repair this.”
 Another.
 >>> “This too.”   <-- WHO SAYS THIS?
 She pointed at his chest.
@@ -197,7 +261,31 @@ Aya leaned forward.
 “Were civilians trapped?”
 >>> “No.”   <-- WHO SAYS THIS?
 Aya leaned forward.
-[aya] “Was the unit collapsing in a way that required emergency breakthrough to save lives?”
+“Was the unit collapsing in a way that required emergency breakthrough to save lives?”
+```
+```
+“Were civilians trapped?”
+“No.”
+Aya leaned forward.
+>>> “Was the unit collapsing in a way that required emergency breakthrough to save lives?”   <-- WHO SAYS THIS?
+Haru’s jaw tightened.
+“No.”
+```
+```
+Aya leaned forward.
+“Was the unit collapsing in a way that required emergency breakthrough to save lives?”
+Haru’s jaw tightened.
+>>> “No.”   <-- WHO SAYS THIS?
+There.
+Hana had already said it on the road.
+```
+```
+Aya said it again with the precision of a diagnosis.
+[aya] “You weren’t dying.”
+Haru looked at her.
+>>> “You were losing.”   <-- WHO SAYS THIS?
+Silence.
+The sentence hit harder here.
 ```
 ```
 Haru looked away.
@@ -229,10 +317,18 @@ He did.
 “I believed we could still complete the objective.”
 >>> “Of course you did.”   <-- WHO SAYS THIS?
 Aya’s anger sharpened.
-[aya] “You always believe the correct line exists if you measure enough.”
+“You always believe the correct line exists if you measure enough.”
 ```
 ```
-[aya] “You always believe the correct line exists if you measure enough.”
+“I believed we could still complete the objective.”
+“Of course you did.”
+Aya’s anger sharpened.
+>>> “You always believe the correct line exists if you measure enough.”   <-- WHO SAYS THIS?
+Haru flinched.
+Good.
+```
+```
+“You always believe the correct line exists if you measure enough.”
 Haru flinched.
 Good.
 >>> “This time the line was withdrawal.”   <-- WHO SAYS THIS?
@@ -240,16 +336,24 @@ No answer.
 Hana stood by the wall, arms folded tightly.
 ```
 ```
+No answer.
 Hana stood by the wall, arms folded tightly.
 Aya looked at her.
-[aya] “You brought him back.”
+>>> “You brought him back.”   <-- WHO SAYS THIS?
+“Yes.”
+“Good.”
+```
+```
+Hana stood by the wall, arms folded tightly.
+Aya looked at her.
+“You brought him back.”
 >>> “Yes.”   <-- WHO SAYS THIS?
 “Good.”
 Hana’s expression nearly broke.
 ```
 ```
 Aya looked at her.
-[aya] “You brought him back.”
+“You brought him back.”
 “Yes.”
 >>> “Good.”   <-- WHO SAYS THIS?
 Hana’s expression nearly broke.
@@ -278,6 +382,22 @@ His eyes closed.
 >>> “You live with it.”   <-- WHO SAYS THIS?
 His eyes closed.
 Aya began treatment.
+```
+```
+Careful.
+No miracle.
+Haru opened his eyes again after several minutes.
+>>> “Will Tsubasa stop Redline?”   <-- WHO SAYS THIS?
+Aya’s hands paused.
+“I am going to ask him.”
+```
+```
+Haru opened his eyes again after several minutes.
+“Will Tsubasa stop Redline?”
+Aya’s hands paused.
+>>> “I am going to ask him.”   <-- WHO SAYS THIS?
+Hana looked at her.
+Aya looked back.
 ```
 ```
 Because Haru had just proven that even Shinsei’s best strategic mind could turn emergency medicine into ego once the institution taught everyone the vial was an acceptable answer.
@@ -317,10 +437,18 @@ Haru looked offended.
 “With him?”
 >>> “Yes.”   <-- WHO SAYS THIS?
 Haru looked offended.
-[haru] “I do not require supervision.”
+“I do not require supervision.”
 ```
 ```
-[haru] “I do not require supervision.”
+“With him?”
+“Yes.”
+Haru looked offended.
+>>> “I do not require supervision.”   <-- WHO SAYS THIS?
+Both women looked at him.
+He sighed.
+```
+```
+“I do not require supervision.”
 Both women looked at him.
 He sighed.
 >>> “Apparently I do.”   <-- WHO SAYS THIS?
@@ -331,64 +459,104 @@ Tsubasa was waiting.
 ### Chapter 412 — After the War
 
 ```
-[aya] “Three same-day 3× doses.”
+Aya.
+One clerk who looked increasingly desperate to become invisible.
+Aya placed Haru’s medical chart on the table.
+>>> “Three same-day 3× doses.”   <-- WHO SAYS THIS?
 Tsubasa’s face hardened.
-[tsubasa] “Yes.”
+“Yes.”
+```
+```
+Aya placed Haru’s medical chart on the table.
+“Three same-day 3× doses.”
+Tsubasa’s face hardened.
+>>> “Yes.”   <-- WHO SAYS THIS?
+“Approximate future-life expenditure around thirty-five years.”
+The clerk’s breath caught.
+```
+```
+“Three same-day 3× doses.”
+Tsubasa’s face hardened.
+“Yes.”
 >>> “Approximate future-life expenditure around thirty-five years.”   <-- WHO SAYS THIS?
 The clerk’s breath caught.
 Tsubasa did not move.
 ```
 ```
+“Approximate future-life expenditure around thirty-five years.”
 The clerk’s breath caught.
 Tsubasa did not move.
-[tsubasa] “Can you prove that number?”
+>>> “Can you prove that number?”   <-- WHO SAYS THIS?
+“Not exactly.”
+“Range?”
+```
+```
+The clerk’s breath caught.
+Tsubasa did not move.
+“Can you prove that number?”
 >>> “Not exactly.”   <-- WHO SAYS THIS?
 “Range?”
 “Wide. But five, ten and twenty remains a medically reasonable same-day compounding estimate under current evidence.”
 ```
 ```
 Tsubasa did not move.
-[tsubasa] “Can you prove that number?”
+“Can you prove that number?”
 “Not exactly.”
 >>> “Range?”   <-- WHO SAYS THIS?
 “Wide. But five, ten and twenty remains a medically reasonable same-day compounding estimate under current evidence.”
 Tsubasa looked at the chart.
 ```
 ```
-[tsubasa] “Can you prove that number?”
+“Can you prove that number?”
 “Not exactly.”
 “Range?”
 >>> “Wide. But five, ten and twenty remains a medically reasonable same-day compounding estimate under current evidence.”   <-- WHO SAYS THIS?
 Tsubasa looked at the chart.
-[tsubasa] “He violated repeat-dose doctrine.”
+“He violated repeat-dose doctrine.”
+```
+```
+“Range?”
+“Wide. But five, ten and twenty remains a medically reasonable same-day compounding estimate under current evidence.”
+Tsubasa looked at the chart.
+>>> “He violated repeat-dose doctrine.”   <-- WHO SAYS THIS?
+“Yes.”
+“That will be addressed.”
 ```
 ```
 “Wide. But five, ten and twenty remains a medically reasonable same-day compounding estimate under current evidence.”
 Tsubasa looked at the chart.
-[tsubasa] “He violated repeat-dose doctrine.”
+“He violated repeat-dose doctrine.”
 >>> “Yes.”   <-- WHO SAYS THIS?
 “That will be addressed.”
 Aya stared.
 ```
 ```
 Tsubasa looked at the chart.
-[tsubasa] “He violated repeat-dose doctrine.”
+“He violated repeat-dose doctrine.”
 “Yes.”
 >>> “That will be addressed.”   <-- WHO SAYS THIS?
 Aya stared.
-[aya] “That is not the problem.”
+“That is not the problem.”
+```
+```
+“Yes.”
+“That will be addressed.”
+Aya stared.
+>>> “That is not the problem.”   <-- WHO SAYS THIS?
+“It is one problem.”
+“No.”
 ```
 ```
 “That will be addressed.”
 Aya stared.
-[aya] “That is not the problem.”
+“That is not the problem.”
 >>> “It is one problem.”   <-- WHO SAYS THIS?
 “No.”
 Her voice stayed level.
 ```
 ```
 Aya stared.
-[aya] “That is not the problem.”
+“That is not the problem.”
 “It is one problem.”
 >>> “No.”   <-- WHO SAYS THIS?
 Her voice stayed level.
@@ -435,23 +603,31 @@ Tsubasa was quiet.
 The clerk stopped writing.
 ```
 ```
+Tsubasa was quiet.
 The clerk stopped writing.
 Aya’s hands flattened on the table.
-[aya] “It means Shinsei has taught its officers that lifespan is an acceptable tactical resource.”
+>>> “It means Shinsei has taught its officers that lifespan is an acceptable tactical resource.”   <-- WHO SAYS THIS?
+“We have not taught—”
+“We issue the vial.”
+```
+```
+The clerk stopped writing.
+Aya’s hands flattened on the table.
+“It means Shinsei has taught its officers that lifespan is an acceptable tactical resource.”
 >>> “We have not taught—”   <-- WHO SAYS THIS?
 “We issue the vial.”
 “For emergencies.”
 ```
 ```
 Aya’s hands flattened on the table.
-[aya] “It means Shinsei has taught its officers that lifespan is an acceptable tactical resource.”
+“It means Shinsei has taught its officers that lifespan is an acceptable tactical resource.”
 “We have not taught—”
 >>> “We issue the vial.”   <-- WHO SAYS THIS?
 “For emergencies.”
 “We normalized carrying it.”
 ```
 ```
-[aya] “It means Shinsei has taught its officers that lifespan is an acceptable tactical resource.”
+“It means Shinsei has taught its officers that lifespan is an acceptable tactical resource.”
 “We have not taught—”
 “We issue the vial.”
 >>> “For emergencies.”   <-- WHO SAYS THIS?
@@ -515,23 +691,39 @@ Tsubasa looked at the chart again.
 Aya’s voice lowered.
 ```
 ```
-[tsubasa] “Repeat-dose controls will tighten immediately.”
+[aya] “You keep promising to become better after the thing that requires you to become worse.”
+The clerk looked at the floor.
+Tsubasa took a long breath.
+>>> “Repeat-dose controls will tighten immediately.”   <-- WHO SAYS THIS?
 Aya did not react.
-[aya] “Same-day redosing prohibited without direct physician and field-command authorization.”
+“Same-day redosing prohibited without direct physician and field-command authorization.”
+```
+```
+Tsubasa took a long breath.
+“Repeat-dose controls will tighten immediately.”
+Aya did not react.
+>>> “Same-day redosing prohibited without direct physician and field-command authorization.”   <-- WHO SAYS THIS?
+“Not enough.”
+“Third dose classified as gross emergency and command violation outside imminent collapse.”
+```
+```
+“Repeat-dose controls will tighten immediately.”
+Aya did not react.
+“Same-day redosing prohibited without direct physician and field-command authorization.”
 >>> “Not enough.”   <-- WHO SAYS THIS?
 “Third dose classified as gross emergency and command violation outside imminent collapse.”
 “Not enough.”
 ```
 ```
 Aya did not react.
-[aya] “Same-day redosing prohibited without direct physician and field-command authorization.”
+“Same-day redosing prohibited without direct physician and field-command authorization.”
 “Not enough.”
 >>> “Third dose classified as gross emergency and command violation outside imminent collapse.”   <-- WHO SAYS THIS?
 “Not enough.”
 “Every Redline briefing will include an explicit lifespan estimate.”
 ```
 ```
-[aya] “Same-day redosing prohibited without direct physician and field-command authorization.”
+“Same-day redosing prohibited without direct physician and field-command authorization.”
 “Not enough.”
 “Third dose classified as gross emergency and command violation outside imminent collapse.”
 >>> “Not enough.”   <-- WHO SAYS THIS?
@@ -552,26 +744,42 @@ Necessary.
 Still not enough.
 >>> “And 3× issue?”   <-- WHO SAYS THIS?
 Tsubasa looked at her.
-[tsubasa] “Remains.”
+“Remains.”
 ```
 ```
-[tsubasa] “Remains.”
+Still not enough.
+“And 3× issue?”
+Tsubasa looked at her.
+>>> “Remains.”   <-- WHO SAYS THIS?
 Aya heard the evasion packed into one word and closed her eyes briefly.
-[aya] “Why?”
+“Why?”
+```
+```
+Tsubasa looked at her.
+“Remains.”
+Aya heard the evasion packed into one word and closed her eyes briefly.
+>>> “Why?”   <-- WHO SAYS THIS?
+“Because Wuyue entered the war.”
+“Yes.”
+```
+```
+“Remains.”
+Aya heard the evasion packed into one word and closed her eyes briefly.
+“Why?”
 >>> “Because Wuyue entered the war.”   <-- WHO SAYS THIS?
 “Yes.”
 “Isgard continues resisting.”
 ```
 ```
 Aya heard the evasion packed into one word and closed her eyes briefly.
-[aya] “Why?”
+“Why?”
 “Because Wuyue entered the war.”
 >>> “Yes.”   <-- WHO SAYS THIS?
 “Isgard continues resisting.”
 “Yes.”
 ```
 ```
-[aya] “Why?”
+“Why?”
 “Because Wuyue entered the war.”
 “Yes.”
 >>> “Isgard continues resisting.”   <-- WHO SAYS THIS?
@@ -608,34 +816,50 @@ Aya opened her eyes.
 “Yes.”
 >>> “Removing Redline now eliminates an option that can prevent entire formations from being destroyed.”   <-- WHO SAYS THIS?
 Aya opened her eyes.
-[aya] “And costs the survivors years.”
+“And costs the survivors years.”
+```
+```
+“Yes.”
+“Removing Redline now eliminates an option that can prevent entire formations from being destroyed.”
+Aya opened her eyes.
+>>> “And costs the survivors years.”   <-- WHO SAYS THIS?
+“Yes.”
+No lie.
 ```
 ```
 “Removing Redline now eliminates an option that can prevent entire formations from being destroyed.”
 Aya opened her eyes.
-[aya] “And costs the survivors years.”
+“And costs the survivors years.”
 >>> “Yes.”   <-- WHO SAYS THIS?
 No lie.
 No denial.
 ```
 ```
+Quiet.
 Broken.
 Tsubasa looked at her.
-[tsubasa] “You hear yourself?”
+>>> “You hear yourself?”   <-- WHO SAYS THIS?
+“Yes.”
+“Do you?”
+```
+```
+Broken.
+Tsubasa looked at her.
+“You hear yourself?”
 >>> “Yes.”   <-- WHO SAYS THIS?
 “Do you?”
 “Yes.”
 ```
 ```
 Tsubasa looked at her.
-[tsubasa] “You hear yourself?”
+“You hear yourself?”
 “Yes.”
 >>> “Do you?”   <-- WHO SAYS THIS?
 “Yes.”
 “Then why?”
 ```
 ```
-[tsubasa] “You hear yourself?”
+“You hear yourself?”
 “Yes.”
 “Do you?”
 >>> “Yes.”   <-- WHO SAYS THIS?
@@ -664,15 +888,31 @@ Tsubasa’s expression hardened.
 “Because I am responsible for Shinrin surviving this war.”
 >>> “And who decides what surviving means?”   <-- WHO SAYS THIS?
 Tsubasa’s expression hardened.
-[tsubasa] “Not now.”
+“Not now.”
+```
+```
+“Because I am responsible for Shinrin surviving this war.”
+“And who decides what surviving means?”
+Tsubasa’s expression hardened.
+>>> “Not now.”   <-- WHO SAYS THIS?
+“Exactly.”
+Aya picked up Haru’s chart.
 ```
 ```
 “And who decides what surviving means?”
 Tsubasa’s expression hardened.
-[tsubasa] “Not now.”
+“Not now.”
 >>> “Exactly.”   <-- WHO SAYS THIS?
 Aya picked up Haru’s chart.
-[aya] “It is never now.”
+“It is never now.”
+```
+```
+“Not now.”
+“Exactly.”
+Aya picked up Haru’s chart.
+>>> “It is never now.”   <-- WHO SAYS THIS?
+She turned to leave.
+Tsubasa said, “Aya.”
 ```
 ```
 She turned to leave.
@@ -755,9 +995,49 @@ The clerk wrote.
 That was Tsubasa’s tragedy in one page.
 ```
 ```
-[aya] “I’m returning to Isgard tomorrow.”
+And still preserve the machine.
+Aya returned to Haru’s treatment room.
+Hana looked up.
+>>> “Well?”   <-- WHO SAYS THIS?
+Aya removed her gloves.
+“He tightened redosing.”
+```
+```
+Hana looked up.
+“Well?”
+Aya removed her gloves.
+>>> “He tightened redosing.”   <-- WHO SAYS THIS?
+Hana waited.
+“3× remains.”
+```
+```
+Aya removed her gloves.
+“He tightened redosing.”
+Hana waited.
+>>> “3× remains.”   <-- WHO SAYS THIS?
+Hana closed her eyes.
+Haru said nothing.
+```
+```
+Hana closed her eyes.
+Haru said nothing.
+Aya sat.
+>>> “I’m returning to Isgard tomorrow.”   <-- WHO SAYS THIS?
 Hana looked at her.
-[hana] “So soon?”
+“So soon?”
+```
+```
+Aya sat.
+“I’m returning to Isgard tomorrow.”
+Hana looked at her.
+>>> “So soon?”   <-- WHO SAYS THIS?
+“People are dying there.”
+The trap returned in a different form: people die when the physician leaves.
+```
+```
+“I’m returning to Isgard tomorrow.”
+Hana looked at her.
+“So soon?”
 >>> “People are dying there.”   <-- WHO SAYS THIS?
 The trap returned in a different form: people die when the physician leaves.
 Except now Aya knew staying could also keep the wrong thing alive.
@@ -766,95 +1046,167 @@ Except now Aya knew staying could also keep the wrong thing alive.
 ### Chapter 413 — Three Women Stop Pretending Their Work Is Separate
 
 ```
-[nao] “You sent this to Hana.”
+Officers hated it.
+Good.
+Nao found Aya in a treatment tent.
+>>> “You sent this to Hana.”   <-- WHO SAYS THIS?
 Aya did not look up.
-[aya] “Yes.”
+“Yes.”
+```
+```
+Nao found Aya in a treatment tent.
+“You sent this to Hana.”
+Aya did not look up.
+>>> “Yes.”   <-- WHO SAYS THIS?
+“Why?”
+“Because she sees deployment records I don’t.”
+```
+```
+“You sent this to Hana.”
+Aya did not look up.
+“Yes.”
 >>> “Why?”   <-- WHO SAYS THIS?
 “Because she sees deployment records I don’t.”
 Nao sat.
 ```
 ```
 Aya did not look up.
-[aya] “Yes.”
+“Yes.”
 “Why?”
 >>> “Because she sees deployment records I don’t.”   <-- WHO SAYS THIS?
 Nao sat.
-[nao] “That sounds coordinated.”
+“That sounds coordinated.”
+```
+```
+“Why?”
+“Because she sees deployment records I don’t.”
+Nao sat.
+>>> “That sounds coordinated.”   <-- WHO SAYS THIS?
+“Yes.”
+Aya finally looked at her.
 ```
 ```
 “Because she sees deployment records I don’t.”
 Nao sat.
-[nao] “That sounds coordinated.”
+“That sounds coordinated.”
 >>> “Yes.”   <-- WHO SAYS THIS?
 Aya finally looked at her.
-[aya] “Does that frighten you?”
+“Does that frighten you?”
 ```
 ```
-[aya] “Does that frighten you?”
+“That sounds coordinated.”
+“Yes.”
+Aya finally looked at her.
+>>> “Does that frighten you?”   <-- WHO SAYS THIS?
 Nao considered.
-[nao] “No.”
+“No.”
+```
+```
+Aya finally looked at her.
+“Does that frighten you?”
+Nao considered.
+>>> “No.”   <-- WHO SAYS THIS?
+“Good.”
+“It should.”
+```
+```
+“Does that frighten you?”
+Nao considered.
+“No.”
 >>> “Good.”   <-- WHO SAYS THIS?
 “It should.”
 “Probably.”
 ```
 ```
 Nao considered.
-[nao] “No.”
+“No.”
 “Good.”
 >>> “It should.”   <-- WHO SAYS THIS?
 “Probably.”
 Nao placed another file on the table.
 ```
 ```
-[nao] “No.”
+“No.”
 “Good.”
 “It should.”
 >>> “Probably.”   <-- WHO SAYS THIS?
 Nao placed another file on the table.
-[nao] “What?”
+“What?”
+```
+```
+“It should.”
+“Probably.”
+Nao placed another file on the table.
+>>> “What?”   <-- WHO SAYS THIS?
+“Three infantry groups reassigned away from a Redline-dependent breach plan.”
+Aya looked at the authorization.
 ```
 ```
 “Probably.”
 Nao placed another file on the table.
-[nao] “What?”
+“What?”
 >>> “Three infantry groups reassigned away from a Redline-dependent breach plan.”   <-- WHO SAYS THIS?
 Aya looked at the authorization.
 Hana Arakawa.
 ```
 ```
+Medically helpful.
 Politically deliberate.
 Aya almost smiled.
-[aya] “Nao.”
+>>> “Nao.”   <-- WHO SAYS THIS?
+“Yes?”
+“What are you doing?”
+```
+```
+Politically deliberate.
+Aya almost smiled.
+“Nao.”
 >>> “Yes?”   <-- WHO SAYS THIS?
 “What are you doing?”
 Nao folded her hands.
 ```
 ```
 Aya almost smiled.
-[aya] “Nao.”
+“Nao.”
 “Yes?”
 >>> “What are you doing?”   <-- WHO SAYS THIS?
 Nao folded her hands.
-[nao] “Stillwater evacuation sectors now accept any soldier refusing Redline issue into medical review before disciplinary referral.”
+“Stillwater evacuation sectors now accept any soldier refusing Redline issue into medical review before disciplinary referral.”
 ```
 ```
-[nao] “Stillwater evacuation sectors now accept any soldier refusing Redline issue into medical review before disciplinary referral.”
+“Yes?”
+“What are you doing?”
+Nao folded her hands.
+>>> “Stillwater evacuation sectors now accept any soldier refusing Redline issue into medical review before disciplinary referral.”   <-- WHO SAYS THIS?
 Aya stared.
-[aya] “That is not standard procedure.”
+“That is not standard procedure.”
+```
+```
+Nao folded her hands.
+“Stillwater evacuation sectors now accept any soldier refusing Redline issue into medical review before disciplinary referral.”
+Aya stared.
+>>> “That is not standard procedure.”   <-- WHO SAYS THIS?
+“No.”
+“Command will notice.”
+```
+```
+“Stillwater evacuation sectors now accept any soldier refusing Redline issue into medical review before disciplinary referral.”
+Aya stared.
+“That is not standard procedure.”
 >>> “No.”   <-- WHO SAYS THIS?
 “Command will notice.”
 “Yes.”
 ```
 ```
 Aya stared.
-[aya] “That is not standard procedure.”
+“That is not standard procedure.”
 “No.”
 >>> “Command will notice.”   <-- WHO SAYS THIS?
 “Yes.”
 “Why?”
 ```
 ```
-[aya] “That is not standard procedure.”
+“That is not standard procedure.”
 “No.”
 “Command will notice.”
 >>> “Yes.”   <-- WHO SAYS THIS?
@@ -867,31 +1219,55 @@ Nao’s expression remained soft.
 “Yes.”
 >>> “Why?”   <-- WHO SAYS THIS?
 Nao’s expression remained soft.
-[nao] “Because frightened people are easier to threaten when they are alone.”
+“Because frightened people are easier to threaten when they are alone.”
+```
+```
+“Yes.”
+“Why?”
+Nao’s expression remained soft.
+>>> “Because frightened people are easier to threaten when they are alone.”   <-- WHO SAYS THIS?
+Aya looked down.
+There.
+```
+```
+Now the overlap was the point.
+Aya said, “We are not forming a faction.”
+Nao’s mouth moved.
+>>> “No.”   <-- WHO SAYS THIS?
+“We are not plotting against Tsubasa.”
+“No.”
 ```
 ```
 Aya said, “We are not forming a faction.”
 Nao’s mouth moved.
-[nao] “No.”
+“No.”
 >>> “We are not plotting against Tsubasa.”   <-- WHO SAYS THIS?
 “No.”
 “We are not sabotaging Shinsei.”
 ```
 ```
 Nao’s mouth moved.
-[nao] “No.”
+“No.”
 “We are not plotting against Tsubasa.”
 >>> “No.”   <-- WHO SAYS THIS?
 “We are not sabotaging Shinsei.”
 Nao looked at the Redline memo.
 ```
 ```
-[nao] “No.”
+“No.”
 “We are not plotting against Tsubasa.”
 “No.”
 >>> “We are not sabotaging Shinsei.”   <-- WHO SAYS THIS?
 Nao looked at the Redline memo.
-[nao] “We are protecting Shinsei soldiers from Shinsei policy.”
+“We are protecting Shinsei soldiers from Shinsei policy.”
+```
+```
+“No.”
+“We are not sabotaging Shinsei.”
+Nao looked at the Redline memo.
+>>> “We are protecting Shinsei soldiers from Shinsei policy.”   <-- WHO SAYS THIS?
+Aya became still.
+That sentence did not fit comfortably anywhere.
 ```
 ```
 That sentence did not fit comfortably anywhere.
@@ -899,26 +1275,34 @@ Good.
 She took out a blank page.
 >>> “Then we need rules.”   <-- WHO SAYS THIS?
 Nao raised one eyebrow.
-[nao] “You want to bureaucratize this.”
+“You want to bureaucratize this.”
+```
+```
+She took out a blank page.
+“Then we need rules.”
+Nao raised one eyebrow.
+>>> “You want to bureaucratize this.”   <-- WHO SAYS THIS?
+“I am a physician.”
+“That did not answer me.”
 ```
 ```
 “Then we need rules.”
 Nao raised one eyebrow.
-[nao] “You want to bureaucratize this.”
+“You want to bureaucratize this.”
 >>> “I am a physician.”   <-- WHO SAYS THIS?
 “That did not answer me.”
 “Yes.”
 ```
 ```
 Nao raised one eyebrow.
-[nao] “You want to bureaucratize this.”
+“You want to bureaucratize this.”
 “I am a physician.”
 >>> “That did not answer me.”   <-- WHO SAYS THIS?
 “Yes.”
 For the first time in days, Nao smiled.
 ```
 ```
-[nao] “You want to bureaucratize this.”
+“You want to bureaucratize this.”
 “I am a physician.”
 “That did not answer me.”
 >>> “Yes.”   <-- WHO SAYS THIS?
@@ -929,63 +1313,95 @@ They wrote nothing resembling conspiracy.
 ### Chapter 414 — Sigrun Stands First
 
 ```
-[solveig] “You’re not taking command back.”
+That was fitting.
+Graven Dominion was built on memory.
+Solveig met her at the command entrance.
+>>> “You’re not taking command back.”   <-- WHO SAYS THIS?
 Sigrun blinked.
-[sigrun] “Hello to you too.”
+“Hello to you too.”
+```
+```
+Solveig met her at the command entrance.
+“You’re not taking command back.”
+Sigrun blinked.
+>>> “Hello to you too.”   <-- WHO SAYS THIS?
+“You’re Paragon. You will be tempted.”
+“Tempted to what?”
+```
+```
+“You’re not taking command back.”
+Sigrun blinked.
+“Hello to you too.”
 >>> “You’re Paragon. You will be tempted.”   <-- WHO SAYS THIS?
 “Tempted to what?”
 “Walk into the map room and start issuing orders because everyone is relieved you’re standing.”
 ```
 ```
 Sigrun blinked.
-[sigrun] “Hello to you too.”
+“Hello to you too.”
 “You’re Paragon. You will be tempted.”
 >>> “Tempted to what?”   <-- WHO SAYS THIS?
 “Walk into the map room and start issuing orders because everyone is relieved you’re standing.”
 Sigrun considered.
 ```
 ```
-[sigrun] “Hello to you too.”
+“Hello to you too.”
 “You’re Paragon. You will be tempted.”
 “Tempted to what?”
 >>> “Walk into the map room and start issuing orders because everyone is relieved you’re standing.”   <-- WHO SAYS THIS?
 Sigrun considered.
-[sigrun] “That sounds plausible.”
+“That sounds plausible.”
+```
+```
+“Tempted to what?”
+“Walk into the map room and start issuing orders because everyone is relieved you’re standing.”
+Sigrun considered.
+>>> “That sounds plausible.”   <-- WHO SAYS THIS?
+“Don’t.”
+“Why?”
 ```
 ```
 “Walk into the map room and start issuing orders because everyone is relieved you’re standing.”
 Sigrun considered.
-[sigrun] “That sounds plausible.”
+“That sounds plausible.”
 >>> “Don’t.”   <-- WHO SAYS THIS?
 “Why?”
 Solveig stared.
 ```
 ```
 Sigrun considered.
-[sigrun] “That sounds plausible.”
+“That sounds plausible.”
 “Don’t.”
 >>> “Why?”   <-- WHO SAYS THIS?
 Solveig stared.
 Sigrun smiled.
 ```
 ```
+“Why?”
 Solveig stared.
 Sigrun smiled.
-[sigrun] “Joking.”
+>>> “Joking.”   <-- WHO SAYS THIS?
+“Terrible.”
+“I was injured for weeks.”
+```
+```
+Solveig stared.
+Sigrun smiled.
+“Joking.”
 >>> “Terrible.”   <-- WHO SAYS THIS?
 “I was injured for weeks.”
 “You should have practiced.”
 ```
 ```
 Sigrun smiled.
-[sigrun] “Joking.”
+“Joking.”
 “Terrible.”
 >>> “I was injured for weeks.”   <-- WHO SAYS THIS?
 “You should have practiced.”
 They clasped forearms.
 ```
 ```
-[sigrun] “Joking.”
+“Joking.”
 “Terrible.”
 “I was injured for weeks.”
 >>> “You should have practiced.”   <-- WHO SAYS THIS?
@@ -993,23 +1409,39 @@ They clasped forearms.
 Carefully.
 ```
 ```
-[solveig] “Kenji.”
+The old version of her might have treated that as a burden to carry alone.
+The last month had corrected that stupidity.
+Solveig handed her one assignment.
+>>> “Kenji.”   <-- WHO SAYS THIS?
 Sigrun’s smile disappeared.
-[sigrun] “The thunder boy.”
+“The thunder boy.”
+```
+```
+Solveig handed her one assignment.
+“Kenji.”
+Sigrun’s smile disappeared.
+>>> “The thunder boy.”   <-- WHO SAYS THIS?
+“He’s back in the northern movement sector.”
+“He thought he broke me.”
+```
+```
+“Kenji.”
+Sigrun’s smile disappeared.
+“The thunder boy.”
 >>> “He’s back in the northern movement sector.”   <-- WHO SAYS THIS?
 “He thought he broke me.”
 “He almost did.”
 ```
 ```
 Sigrun’s smile disappeared.
-[sigrun] “The thunder boy.”
+“The thunder boy.”
 “He’s back in the northern movement sector.”
 >>> “He thought he broke me.”   <-- WHO SAYS THIS?
 “He almost did.”
 “Not the point.”
 ```
 ```
-[sigrun] “The thunder boy.”
+“The thunder boy.”
 “He’s back in the northern movement sector.”
 “He thought he broke me.”
 >>> “He almost did.”   <-- WHO SAYS THIS?
@@ -1022,26 +1454,58 @@ Solveig nodded.
 “He almost did.”
 >>> “Not the point.”   <-- WHO SAYS THIS?
 Solveig nodded.
-[solveig] “No.”
+“No.”
 ```
 ```
-[sigrun] “No Last Body Standing unless collapse.”
+“He almost did.”
+“Not the point.”
+Solveig nodded.
+>>> “No.”   <-- WHO SAYS THIS?
+The point was history.
+Kenji had pressed the evacuation corridor until Sigrun’s body stopped being a body and became a collection of delayed consequences held upright by Domain principle.
+```
+```
+She had survived.
+Now she would meet him again.
+Sigrun rested one hand on her spear.
+>>> “Support?”   <-- WHO SAYS THIS?
+Solveig named three formations.
+Good.
+```
+```
+Good.
+Not alone.
+Sigrun nodded.
+>>> “No Last Body Standing unless collapse.”   <-- WHO SAYS THIS?
 Solveig’s eyes narrowed.
-[solveig] “That was not a suggestion.”
+“That was not a suggestion.”
+```
+```
+Sigrun nodded.
+“No Last Body Standing unless collapse.”
+Solveig’s eyes narrowed.
+>>> “That was not a suggestion.”   <-- WHO SAYS THIS?
+“I know.”
+“You smiled.”
+```
+```
+“No Last Body Standing unless collapse.”
+Solveig’s eyes narrowed.
+“That was not a suggestion.”
 >>> “I know.”   <-- WHO SAYS THIS?
 “You smiled.”
 “I smile when threatened.”
 ```
 ```
 Solveig’s eyes narrowed.
-[solveig] “That was not a suggestion.”
+“That was not a suggestion.”
 “I know.”
 >>> “You smiled.”   <-- WHO SAYS THIS?
 “I smile when threatened.”
 “That explains your family.”
 ```
 ```
-[solveig] “That was not a suggestion.”
+“That was not a suggestion.”
 “I know.”
 “You smiled.”
 >>> “I smile when threatened.”   <-- WHO SAYS THIS?
@@ -1057,16 +1521,24 @@ Sigrun laughed.
 Then winced at one rib.
 ```
 ```
+Sigrun laughed.
 Then winced at one rib.
 Solveig noticed.
-[solveig] “Still hurts.”
+>>> “Still hurts.”   <-- WHO SAYS THIS?
+“Yes.”
+“Good.”
+```
+```
+Then winced at one rib.
+Solveig noticed.
+“Still hurts.”
 >>> “Yes.”   <-- WHO SAYS THIS?
 “Good.”
 Sigrun looked offended.
 ```
 ```
 Solveig noticed.
-[solveig] “Still hurts.”
+“Still hurts.”
 “Yes.”
 >>> “Good.”   <-- WHO SAYS THIS?
 Sigrun looked offended.
@@ -1076,9 +1548,25 @@ Solveig continued.
 ### Chapter 415 — The Woman Kenji Thought He Had Already Broken
 
 ```
-[kenji] “You’re alive.”
+He had believed the fight had finished her.
+Now she stood on a northern ridge in repaired armor with Solveig’s formations behind her.
+Kenji looked almost offended.
+>>> “You’re alive.”   <-- WHO SAYS THIS?
 Sigrun rested the butt of her spear against stone.
-[sigrun] “Disappointing?”
+“Disappointing?”
+```
+```
+Kenji looked almost offended.
+“You’re alive.”
+Sigrun rested the butt of her spear against stone.
+>>> “Disappointing?”   <-- WHO SAYS THIS?
+“No.”
+He said it too quickly.
+```
+```
+“You’re alive.”
+Sigrun rested the butt of her spear against stone.
+“Disappointing?”
 >>> “No.”   <-- WHO SAYS THIS?
 He said it too quickly.
 Sigrun noticed.
@@ -1089,26 +1577,34 @@ Sigrun noticed.
 Good.
 >>> “You nearly killed me.”   <-- WHO SAYS THIS?
 Kenji’s expression tightened.
-[kenji] “You were holding a military retreat.”
+“You were holding a military retreat.”
+```
+```
+Good.
+“You nearly killed me.”
+Kenji’s expression tightened.
+>>> “You were holding a military retreat.”   <-- WHO SAYS THIS?
+“Yes.”
+“I was attacking it.”
 ```
 ```
 “You nearly killed me.”
 Kenji’s expression tightened.
-[kenji] “You were holding a military retreat.”
+“You were holding a military retreat.”
 >>> “Yes.”   <-- WHO SAYS THIS?
 “I was attacking it.”
 “Yes.”
 ```
 ```
 Kenji’s expression tightened.
-[kenji] “You were holding a military retreat.”
+“You were holding a military retreat.”
 “Yes.”
 >>> “I was attacking it.”   <-- WHO SAYS THIS?
 “Yes.”
 “That sounds less terrible when you say it properly.”
 ```
 ```
-[kenji] “You were holding a military retreat.”
+“You were holding a military retreat.”
 “Yes.”
 “I was attacking it.”
 >>> “Yes.”   <-- WHO SAYS THIS?
@@ -1132,41 +1628,65 @@ Kenji looked at her, caught again by the question the war had taught him to post
 Separating the fact that a battlefield action could be legitimate inside a war from the question of whether the war itself was legitimate.
 ```
 ```
+Recoil snapped up Kenji’s arm.
 He hissed.
 Sigrun smiled.
-[sigrun] “Remember me now?”
+>>> “Remember me now?”   <-- WHO SAYS THIS?
+“I remembered you before.”
+“Not enough.”
+```
+```
+He hissed.
+Sigrun smiled.
+“Remember me now?”
 >>> “I remembered you before.”   <-- WHO SAYS THIS?
 “Not enough.”
 She hit him with the spear shaft.
 ```
 ```
 Sigrun smiled.
-[sigrun] “Remember me now?”
+“Remember me now?”
 “I remembered you before.”
 >>> “Not enough.”   <-- WHO SAYS THIS?
 She hit him with the spear shaft.
 Kenji flew sideways.
 ```
 ```
+She pivoted around the planted foot.
 No new trigger.
 Kenji saw the adaptation and laughed despite himself.
-[kenji] “That’s clever.”
+>>> “That’s clever.”   <-- WHO SAYS THIS?
+“Stop complimenting me.”
+“Why does everyone say that?”
+```
+```
+No new trigger.
+Kenji saw the adaptation and laughed despite himself.
+“That’s clever.”
 >>> “Stop complimenting me.”   <-- WHO SAYS THIS?
 “Why does everyone say that?”
 Sigrun almost laughed.
 ```
 ```
 Kenji saw the adaptation and laughed despite himself.
-[kenji] “That’s clever.”
+“That’s clever.”
 “Stop complimenting me.”
 >>> “Why does everyone say that?”   <-- WHO SAYS THIS?
 Sigrun almost laughed.
 Then remembered Raska.
 ```
 ```
+Then remembered Raska.
 Her expression changed.
 Kenji saw that too.
-[kenji] “Raska.”
+>>> “Raska.”   <-- WHO SAYS THIS?
+“Yes.”
+Kenji’s smile disappeared.
+```
+```
+Her expression changed.
+Kenji saw that too.
+“Raska.”
 >>> “Yes.”   <-- WHO SAYS THIS?
 Kenji’s smile disappeared.
 The next exchange became harder.
@@ -1223,23 +1743,31 @@ He obeyed.
 No tremor.
 ```
 ```
+No tremor.
 Aya sat up, checked the wrist, then the elbow, then the shoulder. The work was not finished, but the body was beginning to believe it belonged to itself again.
 Kenji watched her expression.
-[kenji] “You’re smiling.”
+>>> “You’re smiling.”   <-- WHO SAYS THIS?
+“No.”
+“You are.”
+```
+```
+Aya sat up, checked the wrist, then the elbow, then the shoulder. The work was not finished, but the body was beginning to believe it belonged to itself again.
+Kenji watched her expression.
+“You’re smiling.”
 >>> “No.”   <-- WHO SAYS THIS?
 “You are.”
 “I’m checking facial nerve function.”
 ```
 ```
 Kenji watched her expression.
-[kenji] “You’re smiling.”
+“You’re smiling.”
 “No.”
 >>> “You are.”   <-- WHO SAYS THIS?
 “I’m checking facial nerve function.”
 “That is a lie.”
 ```
 ```
-[kenji] “You’re smiling.”
+“You’re smiling.”
 “No.”
 “You are.”
 >>> “I’m checking facial nerve function.”   <-- WHO SAYS THIS?
@@ -1263,7 +1791,15 @@ The answer made him laugh. The laugh pulled at his ribs and stopped him immediat
 Aya pointed at him without looking up from the chart.
 ```
 ```
-[aya] “That is why you are not finished.”
+“Yes.”
+The answer made him laugh. The laugh pulled at his ribs and stopped him immediately.
+Aya pointed at him without looking up from the chart.
+>>> “That is why you are not finished.”   <-- WHO SAYS THIS?
+Two days later he could rotate the shoulder through its full range. On the fourth, he could circulate Thunder Qi through the repaired arm without the old hitch. On the fifth, Aya let him stand under load and made him repeat the same motion until boredom replaced caution.
+Only then did Kenji ask the question he had been avoiding.
+```
+```
+“That is why you are not finished.”
 Two days later he could rotate the shoulder through its full range. On the fourth, he could circulate Thunder Qi through the repaired arm without the old hitch. On the fifth, Aya let him stand under load and made him repeat the same motion until boredom replaced caution.
 Only then did Kenji ask the question he had been avoiding.
 >>> “Will it be normal?”   <-- WHO SAYS THIS?
@@ -1359,23 +1895,31 @@ Aya waited.
 Kenji looked toward the canvas wall as though Isgard existed immediately beyond it.
 ```
 ```
+“I know.”
 Aya waited.
 Kenji looked toward the canvas wall as though Isgard existed immediately beyond it.
-[kenji] “Raska died.”
+>>> “Raska died.”   <-- WHO SAYS THIS?
+“Yes.”
+“Halvek too.”
+```
+```
+Aya waited.
+Kenji looked toward the canvas wall as though Isgard existed immediately beyond it.
+“Raska died.”
 >>> “Yes.”   <-- WHO SAYS THIS?
 “Halvek too.”
 “Yes.”
 ```
 ```
 Kenji looked toward the canvas wall as though Isgard existed immediately beyond it.
-[kenji] “Raska died.”
+“Raska died.”
 “Yes.”
 >>> “Halvek too.”   <-- WHO SAYS THIS?
 “Yes.”
 “Tor cannot return to the frontline.”
 ```
 ```
-[kenji] “Raska died.”
+“Raska died.”
 “Yes.”
 “Halvek too.”
 >>> “Yes.”   <-- WHO SAYS THIS?
@@ -1404,19 +1948,27 @@ Aya’s eyes lowered.
 “Yes.”
 >>> “Eldran may never fight properly again.”   <-- WHO SAYS THIS?
 Aya’s eyes lowered.
-[aya] “Yes.”
+“Yes.”
+```
+```
+“Yes.”
+“Eldran may never fight properly again.”
+Aya’s eyes lowered.
+>>> “Yes.”   <-- WHO SAYS THIS?
+“Sigrun nearly died.”
+“Yes.”
 ```
 ```
 “Eldran may never fight properly again.”
 Aya’s eyes lowered.
-[aya] “Yes.”
+“Yes.”
 >>> “Sigrun nearly died.”   <-- WHO SAYS THIS?
 “Yes.”
 He flexed the repaired hand once more.
 ```
 ```
 Aya’s eyes lowered.
-[aya] “Yes.”
+“Yes.”
 “Sigrun nearly died.”
 >>> “Yes.”   <-- WHO SAYS THIS?
 He flexed the repaired hand once more.
@@ -1431,44 +1983,76 @@ Aya understood before he finished.
 Not guilt exactly. The first honest recognition of an asymmetry he had previously experienced only as advantage.
 ```
 ```
+Not guilt exactly. The first honest recognition of an asymmetry he had previously experienced only as advantage.
 Shinsei could recycle a living apex fighter if Aya had enough time and the damage remained physically recoverable. Isgard could not ask Raska to stand again. No technique made Halvek less dead. Tor’s destroyed future frontline capacity did not become temporary because the enemy physician was talented.
 Kenji swallowed.
-[kenji] “That doesn’t feel fair.”
+>>> “That doesn’t feel fair.”   <-- WHO SAYS THIS?
+“No.”
+“Should I refuse the rest of the treatment?”
+```
+```
+Shinsei could recycle a living apex fighter if Aya had enough time and the damage remained physically recoverable. Isgard could not ask Raska to stand again. No technique made Halvek less dead. Tor’s destroyed future frontline capacity did not become temporary because the enemy physician was talented.
+Kenji swallowed.
+“That doesn’t feel fair.”
 >>> “No.”   <-- WHO SAYS THIS?
 “Should I refuse the rest of the treatment?”
 Aya became very still.
 ```
 ```
 Kenji swallowed.
-[kenji] “That doesn’t feel fair.”
+“That doesn’t feel fair.”
 “No.”
 >>> “Should I refuse the rest of the treatment?”   <-- WHO SAYS THIS?
 Aya became very still.
-[aya] “No.”
+“No.”
+```
+```
+“No.”
+“Should I refuse the rest of the treatment?”
+Aya became very still.
+>>> “No.”   <-- WHO SAYS THIS?
+He blinked.
+“You do not honor dead people by making one more injury permanent when it can be healed.” Her voice was quiet, but there was iron beneath it. “A physician does not correct injustice by creating another patient.”
 ```
 ```
 Aya became very still.
-[aya] “No.”
+“No.”
 He blinked.
 >>> “You do not honor dead people by making one more injury permanent when it can be healed.” Her voice was quiet, but there was iron beneath it. “A physician does not correct injustice by creating another patient.”   <-- WHO SAYS THIS?
 Kenji looked down.
-[kenji] “Then what am I supposed to do with it?”
+“Then what am I supposed to do with it?”
+```
+```
+He blinked.
+“You do not honor dead people by making one more injury permanent when it can be healed.” Her voice was quiet, but there was iron beneath it. “A physician does not correct injustice by creating another patient.”
+Kenji looked down.
+>>> “Then what am I supposed to do with it?”   <-- WHO SAYS THIS?
+“The body?”
+“The fact that I get it back.”
 ```
 ```
 “You do not honor dead people by making one more injury permanent when it can be healed.” Her voice was quiet, but there was iron beneath it. “A physician does not correct injustice by creating another patient.”
 Kenji looked down.
-[kenji] “Then what am I supposed to do with it?”
+“Then what am I supposed to do with it?”
 >>> “The body?”   <-- WHO SAYS THIS?
 “The fact that I get it back.”
 Aya glanced at the repaired shoulder, then at his face.
 ```
 ```
 Kenji looked down.
-[kenji] “Then what am I supposed to do with it?”
+“Then what am I supposed to do with it?”
 “The body?”
 >>> “The fact that I get it back.”   <-- WHO SAYS THIS?
 Aya glanced at the repaired shoulder, then at his face.
-[aya] “Decide what you do with the body afterward.”
+“Decide what you do with the body afterward.”
+```
+```
+“The body?”
+“The fact that I get it back.”
+Aya glanced at the repaired shoulder, then at his face.
+>>> “Decide what you do with the body afterward.”   <-- WHO SAYS THIS?
+That answer stayed with him through the final circulation test.
+Aya restored tendon, nerve, muscle and meridian. She could return the clean mechanics of Stormstep Dominion. She could make the shoulder strong enough to hold a sword as if Sigrun had never driven a spear through his certainty.
 ```
 ```
 Physically, he was whole.
@@ -1492,7 +2076,15 @@ She did not look up from the next chart.
 “I know.”
 >>> “No extra years because I returned your body.”   <-- WHO SAYS THIS?
 Kenji paused at the flap.
-[kenji] “I know that too.”
+“I know that too.”
+```
+```
+“I know.”
+“No extra years because I returned your body.”
+Kenji paused at the flap.
+>>> “I know that too.”   <-- WHO SAYS THIS?
+This time Aya believed him.
+She had given him back his body.
 ```
 
 ### Chapter 417 — Aldric Returns, Solveig Keeps the Map
@@ -1530,48 +2122,80 @@ Aldric looked at her.
 Then laughed.
 ```
 ```
+His ribs still hurt.
 He stopped immediately.
 Solveig did not look sympathetic.
-[solveig] “You were warned.”
+>>> “You were warned.”   <-- WHO SAYS THIS?
+“You sound like my physician.”
+“Your physician is smarter.”
+```
+```
+He stopped immediately.
+Solveig did not look sympathetic.
+“You were warned.”
 >>> “You sound like my physician.”   <-- WHO SAYS THIS?
 “Your physician is smarter.”
 Aldric lowered himself into the chair carefully.
 ```
 ```
 Solveig did not look sympathetic.
-[solveig] “You were warned.”
+“You were warned.”
 “You sound like my physician.”
 >>> “Your physician is smarter.”   <-- WHO SAYS THIS?
 Aldric lowered himself into the chair carefully.
 Not the central operational chair.
 ```
 ```
-[aldric] “You keep theater command.”
+His legal authority returned with consciousness and strength.
+That did not mean Solveig stopped being the person who knew which front had moved since breakfast.
+Aldric looked at the maps.
+>>> “You keep theater command.”   <-- WHO SAYS THIS?
 Solveig paused.
-[solveig] “I expected an argument.”
+“I expected an argument.”
+```
+```
+Aldric looked at the maps.
+“You keep theater command.”
+Solveig paused.
+>>> “I expected an argument.”   <-- WHO SAYS THIS?
+“Why?”
+“Because rulers enjoy reclaiming things.”
+```
+```
+“You keep theater command.”
+Solveig paused.
+“I expected an argument.”
 >>> “Why?”   <-- WHO SAYS THIS?
 “Because rulers enjoy reclaiming things.”
 Aldric looked at her.
 ```
 ```
 Solveig paused.
-[solveig] “I expected an argument.”
+“I expected an argument.”
 “Why?”
 >>> “Because rulers enjoy reclaiming things.”   <-- WHO SAYS THIS?
 Aldric looked at her.
-[aldric] “I nearly died.”
+“I nearly died.”
+```
+```
+“Why?”
+“Because rulers enjoy reclaiming things.”
+Aldric looked at her.
+>>> “I nearly died.”   <-- WHO SAYS THIS?
+“Yes.”
+“Not become stupid.”
 ```
 ```
 “Because rulers enjoy reclaiming things.”
 Aldric looked at her.
-[aldric] “I nearly died.”
+“I nearly died.”
 >>> “Yes.”   <-- WHO SAYS THIS?
 “Not become stupid.”
 A faint smile touched Solveig’s mouth.
 ```
 ```
 Aldric looked at her.
-[aldric] “I nearly died.”
+“I nearly died.”
 “Yes.”
 >>> “Not become stupid.”   <-- WHO SAYS THIS?
 A faint smile touched Solveig’s mouth.
@@ -1666,28 +2290,52 @@ Aldric’s face hardened.
 That wound had not healed either.
 ```
 ```
-[solveig] “You are not fighting him tomorrow.”
+Aldric hated that Eirik’s criticism contained truth.
+He hated more that Eirik believed truth created ownership.
+Solveig watched him.
+>>> “You are not fighting him tomorrow.”   <-- WHO SAYS THIS?
 Aldric looked offended.
-[aldric] “I did not say I was.”
+“I did not say I was.”
+```
+```
+Solveig watched him.
+“You are not fighting him tomorrow.”
+Aldric looked offended.
+>>> “I did not say I was.”   <-- WHO SAYS THIS?
+“You thought it loudly.”
+“That is not a thing.”
+```
+```
+“You are not fighting him tomorrow.”
+Aldric looked offended.
+“I did not say I was.”
 >>> “You thought it loudly.”   <-- WHO SAYS THIS?
 “That is not a thing.”
 “It is with you.”
 ```
 ```
 Aldric looked offended.
-[aldric] “I did not say I was.”
+“I did not say I was.”
 “You thought it loudly.”
 >>> “That is not a thing.”   <-- WHO SAYS THIS?
 “It is with you.”
 Aldric looked at the map.
 ```
 ```
-[aldric] “I did not say I was.”
+“I did not say I was.”
 “You thought it loudly.”
 “That is not a thing.”
 >>> “It is with you.”   <-- WHO SAYS THIS?
 Aldric looked at the map.
-[aldric] “When Maedra returns.”
+“When Maedra returns.”
+```
+```
+“That is not a thing.”
+“It is with you.”
+Aldric looked at the map.
+>>> “When Maedra returns.”   <-- WHO SAYS THIS?
+Solveig understood.
+Not alone.
 ```
 ```
 Good.
@@ -1749,23 +2397,31 @@ The emergency system did not vanish to make room for him.
 ### Chapter 418 — Maedra Returns Last
 
 ```
+She returned last because rushing her back would have been suicide dressed as courage.
 Luo examined her personally before clearing combat.
 Maedra watched him work.
-[maedra] “You’re Wuyue.”
+>>> “You’re Wuyue.”   <-- WHO SAYS THIS?
+“Yes.”
+“Poison physician.”
+```
+```
+Luo examined her personally before clearing combat.
+Maedra watched him work.
+“You’re Wuyue.”
 >>> “Yes.”   <-- WHO SAYS THIS?
 “Poison physician.”
 “Physician who knows poison.”
 ```
 ```
 Maedra watched him work.
-[maedra] “You’re Wuyue.”
+“You’re Wuyue.”
 “Yes.”
 >>> “Poison physician.”   <-- WHO SAYS THIS?
 “Physician who knows poison.”
 “Difference?”
 ```
 ```
-[maedra] “You’re Wuyue.”
+“You’re Wuyue.”
 “Yes.”
 “Poison physician.”
 >>> “Physician who knows poison.”   <-- WHO SAYS THIS?
@@ -1789,39 +2445,63 @@ Silence.
 Maedra’s expression softened.
 ```
 ```
+“Ask Yun.”
+Silence.
+Maedra’s expression softened.
+>>> “Sorry.”   <-- WHO SAYS THIS?
+Luo nodded once.
+Continued.
+```
+```
+Crimson Road Dominion possible.
 Not advised at maximum duration yet.
 Maedra frowned.
-[maedra] “You people love percentages.”
+>>> “You people love percentages.”   <-- WHO SAYS THIS?
+“Only when patients refuse normal language.”
+“What is normal language?”
+```
+```
+Not advised at maximum duration yet.
+Maedra frowned.
+“You people love percentages.”
 >>> “Only when patients refuse normal language.”   <-- WHO SAYS THIS?
 “What is normal language?”
 “Do not be stupid.”
 ```
 ```
 Maedra frowned.
-[maedra] “You people love percentages.”
+“You people love percentages.”
 “Only when patients refuse normal language.”
 >>> “What is normal language?”   <-- WHO SAYS THIS?
 “Do not be stupid.”
 Maedra smiled.
 ```
 ```
-[maedra] “You people love percentages.”
+“You people love percentages.”
 “Only when patients refuse normal language.”
 “What is normal language?”
 >>> “Do not be stupid.”   <-- WHO SAYS THIS?
 Maedra smiled.
-[maedra] “I like you.”
+“I like you.”
+```
+```
+“What is normal language?”
+“Do not be stupid.”
+Maedra smiled.
+>>> “I like you.”   <-- WHO SAYS THIS?
+“Poor judgement.”
+He finished the examination.
 ```
 ```
 “Do not be stupid.”
 Maedra smiled.
-[maedra] “I like you.”
+“I like you.”
 >>> “Poor judgement.”   <-- WHO SAYS THIS?
 He finished the examination.
 “Combat-capable.”
 ```
 ```
-[maedra] “I like you.”
+“I like you.”
 “Poor judgement.”
 He finished the examination.
 >>> “Combat-capable.”   <-- WHO SAYS THIS?
@@ -1859,6 +2539,14 @@ She looked toward the next room.
 >>> “Do you?”   <-- WHO SAYS THIS?
 She looked toward the next room.
 Eldran sat there with one useless side and a book open in his good hand.
+```
+```
+She looked toward the next room.
+Eldran sat there with one useless side and a book open in his good hand.
+Maedra’s expression changed.
+>>> “Yes.”   <-- WHO SAYS THIS?
+Luo followed her gaze.
+Good.
 ```
 ```
 No more lecture.
@@ -1930,35 +2618,51 @@ Maedra looked at him.
 “With me.”
 >>> “Good.”   <-- WHO SAYS THIS?
 Maedra looked at him.
-[maedra] “You don’t want revenge?”
+“You don’t want revenge?”
+```
+```
+“With me.”
+“Good.”
+Maedra looked at him.
+>>> “You don’t want revenge?”   <-- WHO SAYS THIS?
+“For me?”
+“Yes.”
 ```
 ```
 “Good.”
 Maedra looked at him.
-[maedra] “You don’t want revenge?”
+“You don’t want revenge?”
 >>> “For me?”   <-- WHO SAYS THIS?
 “Yes.”
 Eldran considered.
 ```
 ```
 Maedra looked at him.
-[maedra] “You don’t want revenge?”
+“You don’t want revenge?”
 “For me?”
 >>> “Yes.”   <-- WHO SAYS THIS?
 Eldran considered.
-[eldran] “I want you to win the war.”
+“I want you to win the war.”
+```
+```
+“For me?”
+“Yes.”
+Eldran considered.
+>>> “I want you to win the war.”   <-- WHO SAYS THIS?
+“That sounds annoyingly mature.”
+“I have had a lot of time to sit.”
 ```
 ```
 “Yes.”
 Eldran considered.
-[eldran] “I want you to win the war.”
+“I want you to win the war.”
 >>> “That sounds annoyingly mature.”   <-- WHO SAYS THIS?
 “I have had a lot of time to sit.”
 She almost laughed.
 ```
 ```
 Eldran considered.
-[eldran] “I want you to win the war.”
+“I want you to win the war.”
 “That sounds annoyingly mature.”
 >>> “I have had a lot of time to sit.”   <-- WHO SAYS THIS?
 She almost laughed.
@@ -1997,28 +2701,68 @@ Maedra’s jaw tightened.
 Eldran saw.
 ```
 ```
+“Yes.”
 Maedra’s jaw tightened.
 Eldran saw.
-[eldran] “Not her fault.”
+>>> “Not her fault.”   <-- WHO SAYS THIS?
+“I know.”
+“Say it like you know.”
+```
+```
+Maedra’s jaw tightened.
+Eldran saw.
+“Not her fault.”
 >>> “I know.”   <-- WHO SAYS THIS?
 “Say it like you know.”
 Maedra exhaled.
 ```
 ```
 Eldran saw.
-[eldran] “Not her fault.”
+“Not her fault.”
 “I know.”
 >>> “Say it like you know.”   <-- WHO SAYS THIS?
 Maedra exhaled.
-[maedra] “I know.”
+“I know.”
+```
+```
+“I know.”
+“Say it like you know.”
+Maedra exhaled.
+>>> “I know.”   <-- WHO SAYS THIS?
+Good.
+The war’s cruelty did not require hating the physician for being excellent.
+```
+```
+Good.
+The war’s cruelty did not require hating the physician for being excellent.
+Maedra stood.
+>>> “Try not to get crippled again while I’m gone.”   <-- WHO SAYS THIS?
+Eldran looked at his book.
+“I’ll avoid strenuous reading.”
+```
+```
+Maedra stood.
+“Try not to get crippled again while I’m gone.”
+Eldran looked at his book.
+>>> “I’ll avoid strenuous reading.”   <-- WHO SAYS THIS?
+She left.
+Crimson Road Dominion felt different when she activated the first light edge outside.
 ```
 
 ### Chapter 419 — Two Isgards Against Their Former King
 
 ```
+Saved reserve.
 Eirik’s eyes sharpened.
 Aldric smiled.
-[aldric] “Learned something.”
+>>> “Learned something.”   <-- WHO SAYS THIS?
+“You always did eventually.”
+Maedra cut from the side.
+```
+```
+Eirik’s eyes sharpened.
+Aldric smiled.
+“Learned something.”
 >>> “You always did eventually.”   <-- WHO SAYS THIS?
 Maedra cut from the side.
 Eirik blocked.
@@ -2048,23 +2792,39 @@ The battle went thirty minutes.
 Then forty.
 ```
 ```
-[aldric] “You could have come home.”
+He was still a magnificent commander.
+That was why people had followed him once.
+Aldric saw it too.
+>>> “You could have come home.”   <-- WHO SAYS THIS?
 Eirik’s face changed.
-[eirik] “To what?”
+“To what?”
+```
+```
+Aldric saw it too.
+“You could have come home.”
+Eirik’s face changed.
+>>> “To what?”   <-- WHO SAYS THIS?
+“Us.”
+“You were still fractured.”
+```
+```
+“You could have come home.”
+Eirik’s face changed.
+“To what?”
 >>> “Us.”   <-- WHO SAYS THIS?
 “You were still fractured.”
 “Yes.”
 ```
 ```
 Eirik’s face changed.
-[eirik] “To what?”
+“To what?”
 “Us.”
 >>> “You were still fractured.”   <-- WHO SAYS THIS?
 “Yes.”
 “Still fighting yourselves.”
 ```
 ```
-[eirik] “To what?”
+“To what?”
 “Us.”
 “You were still fractured.”
 >>> “Yes.”   <-- WHO SAYS THIS?
@@ -2104,15 +2864,31 @@ Eirik’s voice sharpened.
 [eirik] “Then why would I return to failure?”
 ```
 ```
+Eirik’s voice sharpened.
+[eirik] “Then why would I return to failure?”
+Aldric’s spear remained steady.
+>>> “Because it was ours.”   <-- WHO SAYS THIS?
+That was the answer.
+Not efficient.
+```
+```
+Aldric could have chased.
 Did not.
 Maedra looked at him.
-[maedra] “Why?”
+>>> “Why?”   <-- WHO SAYS THIS?
+“Because our objective is the line.”
+She smiled.
+```
+```
+Did not.
+Maedra looked at him.
+“Why?”
 >>> “Because our objective is the line.”   <-- WHO SAYS THIS?
 She smiled.
 “Look at you.”
 ```
 ```
-[maedra] “Why?”
+“Why?”
 “Because our objective is the line.”
 She smiled.
 >>> “Look at you.”   <-- WHO SAYS THIS?
@@ -2131,6 +2907,30 @@ Isgard celebrated.
 ### Chapter 420 — Eirik Voss Returns at One Hundred Percent
 
 ```
+Solveig received the report at breakfast.
+She stopped eating.
+Sera noticed.
+>>> “What?”   <-- WHO SAYS THIS?
+Solveig slid the page across the table.
+**EIRIK VOSS — returned to active command. Full conventional combat function observed.**
+```
+```
+Controlled circulation.
+Enough uninterrupted work to return a living High Paragon’s recoverable damage to effectively full condition.
+Aldric sat.
+>>> “We removed him.”   <-- WHO SAYS THIS?
+“For three days,” Jin said.
+Nobody liked how calm he sounded.
+```
+```
+Nobody liked how calm he sounded.
+He was already rewriting strategy.
+Maedra looked at Sera.
+>>> “Can Luo do that?”   <-- WHO SAYS THIS?
+Luo answered from the doorway.
+[luo] “No.”
+```
+```
 [luo] “No.”
 Everyone turned.
 He entered carrying a medicine tray.
@@ -2145,6 +2945,14 @@ He set the tray down.
 >>> “Aya is a Paragon physician. Her ceiling is higher.”   <-- WHO SAYS THIS?
 No shame.
 Important.
+```
+```
+Important.
+“And Rhen?” Aldric asked.
+Luo looked at him.
+>>> “Different problem.”   <-- WHO SAYS THIS?
+Everyone understood enough not to ask.
+Rhen was unavailable anyway.
 ```
 ```
 All repairable.
@@ -2179,10 +2987,34 @@ She said it anyway.
 Solveig leaned over the map.
 ```
 ```
+“I know.”
+She said it anyway.
+Solveig leaned over the map.
+>>> “So what do we do?”   <-- WHO SAYS THIS?
+Jin answered.
+[jin] “Stop measuring victory by how many times we knock down someone Aya can stand back up.”
+```
+```
+Jin answered.
 [jin] “Stop measuring victory by how many times we knock down someone Aya can stand back up.”
 Aldric frowned.
-[aldric] “Then?”
+>>> “Then?”   <-- WHO SAYS THIS?
+“Territory. Logistics. Morale. Redline supply. Command objectives. Make their recovered Paragons return to a worse war.”
+There.
+```
+```
+[jin] “Stop measuring victory by how many times we knock down someone Aya can stand back up.”
+Aldric frowned.
+“Then?”
 >>> “Territory. Logistics. Morale. Redline supply. Command objectives. Make their recovered Paragons return to a worse war.”   <-- WHO SAYS THIS?
 There.
 The strategic shift.
+```
+```
+Could not make every captured soldier forget what Wuyue told them.
+Could not prevent Shinsei officers from noticing that the war kept requiring more of the thing everyone promised would become better later.
+Sera looked at the map.
+>>> “Then we stop trying to win the same battle twice.”   <-- WHO SAYS THIS?
+Far across the lines, Eirik Voss lifted his repaired shield.
+Physically, he felt almost new.
 ```

@@ -1,12 +1,28 @@
 # Season 112 — unattributed dialogue
 
-193 quoted lines in this season have no speaker.
+309 quoted lines in this season have no speaker.
 See `README.md` in this folder for what to do with them.
 
 Lines already resolved show their speaker in `[brackets]` for context.
 
 ### Chapter 471 — Shunto Is Not a Martyr
 
+```
+Neither man spoke until the wagon disappeared toward the secure medical cells.
+Then Kai said, “He lost.”
+Tsubasa kept watching the road.
+>>> “Obviously.”   <-- WHO SAYS THIS?
+Kai's mouth tightened.
+“That is not what I meant.”
+```
+```
+Tsubasa kept watching the road.
+“Obviously.”
+Kai's mouth tightened.
+>>> “That is not what I meant.”   <-- WHO SAYS THIS?
+Tsubasa looked at him.
+Kai continued.
+```
 ```
 Tsubasa looked at him.
 Kai continued.
@@ -45,50 +61,74 @@ Kai exhaled.
 “And Luo kept Shunto alive.”
 >>> “Yes.”   <-- WHO SAYS THIS?
 Kai exhaled.
-[kai] “People will talk.”
+“People will talk.”
+```
+```
+“And Luo kept Shunto alive.”
+“Yes.”
+Kai exhaled.
+>>> “People will talk.”   <-- WHO SAYS THIS?
+“They should.”
+That answer made Eirik glance toward him.
 ```
 ```
 “Yes.”
 Kai exhaled.
-[kai] “People will talk.”
+“People will talk.”
 >>> “They should.”   <-- WHO SAYS THIS?
 That answer made Eirik glance toward him.
 Tsubasa noticed.
 ```
 ```
+“They should.”
+That answer made Eirik glance toward him.
 Tsubasa noticed.
-[tsubasa] “Do you disagree?”
+>>> “Do you disagree?”   <-- WHO SAYS THIS?
+[eirik] “No,” Eirik said. “I am surprised.”
+“By what?”
+```
+```
+Tsubasa noticed.
+“Do you disagree?”
 [eirik] “No,” Eirik said. “I am surprised.”
 >>> “By what?”   <-- WHO SAYS THIS?
 “That you are not going to call it enemy propaganda.”
 Tsubasa's expression hardened.
 ```
 ```
-[tsubasa] “Do you disagree?”
+“Do you disagree?”
 [eirik] “No,” Eirik said. “I am surprised.”
 “By what?”
 >>> “That you are not going to call it enemy propaganda.”   <-- WHO SAYS THIS?
 Tsubasa's expression hardened.
-[tsubasa] “Did Shunto break confinement?”
+“Did Shunto break confinement?”
+```
+```
+“By what?”
+“That you are not going to call it enemy propaganda.”
+Tsubasa's expression hardened.
+>>> “Did Shunto break confinement?”   <-- WHO SAYS THIS?
+“Yes.”
+“Did he steal restricted Axtaya?”
 ```
 ```
 “That you are not going to call it enemy propaganda.”
 Tsubasa's expression hardened.
-[tsubasa] “Did Shunto break confinement?”
+“Did Shunto break confinement?”
 >>> “Yes.”   <-- WHO SAYS THIS?
 “Did he steal restricted Axtaya?”
 “Yes.”
 ```
 ```
 Tsubasa's expression hardened.
-[tsubasa] “Did Shunto break confinement?”
+“Did Shunto break confinement?”
 “Yes.”
 >>> “Did he steal restricted Axtaya?”   <-- WHO SAYS THIS?
 “Yes.”
 “Did he attack Kael outside military authorization?”
 ```
 ```
-[tsubasa] “Did Shunto break confinement?”
+“Did Shunto break confinement?”
 “Yes.”
 “Did he steal restricted Axtaya?”
 >>> “Yes.”   <-- WHO SAYS THIS?
@@ -133,39 +173,87 @@ Eirik's eyes sharpened slightly.
 “Yes.”
 >>> “Then which part requires propaganda?”   <-- WHO SAYS THIS?
 Eirik's eyes sharpened slightly.
-[eirik] “None.”
+“None.”
+```
+```
+“Yes.”
+“Then which part requires propaganda?”
+Eirik's eyes sharpened slightly.
+>>> “None.”   <-- WHO SAYS THIS?
+Tsubasa looked back toward the secure ward.
+“Good.”
+```
+```
+Eirik's eyes sharpened slightly.
+“None.”
+Tsubasa looked back toward the secure ward.
+>>> “Good.”   <-- WHO SAYS THIS?
+He entered the pavilion.
+The official Ten gathered an hour later.
+```
+```
+Jun remained expressionless.
+Kai and Eirik already knew the core report.
+Tsubasa stood.
+>>> “Shunto Takamori is alive.”   <-- WHO SAYS THIS?
+Silence.
+“He broke lawful confinement after being stripped of authority. He stole restricted Redline stock. He attacked Kael Veyran and Luo Wen without command authorization. He attempted to kill Luo after identifying him as the battlefield physician solving his circulation.”
 ```
 ```
 Tsubasa stood.
-[tsubasa] “Shunto Takamori is alive.”
+“Shunto Takamori is alive.”
 Silence.
 >>> “He broke lawful confinement after being stripped of authority. He stole restricted Redline stock. He attacked Kael Veyran and Luo Wen without command authorization. He attempted to kill Luo after identifying him as the battlefield physician solving his circulation.”   <-- WHO SAYS THIS?
 Aya's jaw tightened.
 Tsubasa continued.
 ```
 ```
+Tsubasa continued.
+[tsubasa] “He was defeated. Luo Wen stabilized him and transferred him back under white-banner custody.”
+Haru looked at the table.
+>>> “Why?”   <-- WHO SAYS THIS?
+Aya answered before Tsubasa.
+[aya] “Because Luo is a physician.”
+```
+```
+[aya] “Because Luo is a physician.”
 Haru looked at her.
 Aya's expression did not change.
-[aya] “He could have let Shunto die.”
+>>> “He could have let Shunto die.”   <-- WHO SAYS THIS?
+“Yes.”
+“He didn't.”
+```
+```
+Haru looked at her.
+Aya's expression did not change.
+“He could have let Shunto die.”
 >>> “Yes.”   <-- WHO SAYS THIS?
 “He didn't.”
 “No.”
 ```
 ```
 Aya's expression did not change.
-[aya] “He could have let Shunto die.”
+“He could have let Shunto die.”
 “Yes.”
 >>> “He didn't.”   <-- WHO SAYS THIS?
 “No.”
 Haru swallowed.
 ```
 ```
-[aya] “He could have let Shunto die.”
+“He could have let Shunto die.”
 “Yes.”
 “He didn't.”
 >>> “No.”   <-- WHO SAYS THIS?
 Haru swallowed.
 Aya looked away.
+```
+```
+Haru swallowed.
+Aya looked away.
+Tsubasa placed one hand against the table.
+>>> “Shunto is no longer Shinsei No.2.”   <-- WHO SAYS THIS?
+Nobody reacted visibly.
+The sentence had already become true days ago.
 ```
 ```
 Nobody reacted visibly.
@@ -197,15 +285,55 @@ Kai's gaze hardened.
 “Public?”
 >>> “Eventually.”   <-- WHO SAYS THIS?
 Kai's gaze hardened.
-[kai] “And if Wuyue demands custody?”
+“And if Wuyue demands custody?”
+```
+```
+“Public?”
+“Eventually.”
+Kai's gaze hardened.
+>>> “And if Wuyue demands custody?”   <-- WHO SAYS THIS?
+Tsubasa looked at him.
+“They can demand.”
+```
+```
+Kai's gaze hardened.
+“And if Wuyue demands custody?”
+Tsubasa looked at him.
+>>> “They can demand.”   <-- WHO SAYS THIS?
+Kai waited.
+Tsubasa continued.
+```
+```
+[tsubasa] “We are still a sovereign state.”
+Nao's fingers tightened slightly over the civilian reports.
+Tsubasa saw it.
+>>> “But,” he added, “we will not hide what he did.”   <-- WHO SAYS THIS?
+That changed the room.
+Aya looked up.
+```
+```
+Hana did too.
+Even Eirik's expression shifted.
+Tsubasa met their eyes one by one.
+>>> “His assault on Yun Shizhen was committed under Shinsei custody. Concealed from Shinsei command. Then concealed again when I asked directly.”   <-- WHO SAYS THIS?
+The room went very quiet.
+“He will answer for that.”
 ```
 ```
 Tsubasa met their eyes one by one.
-[tsubasa] “His assault on Yun Shizhen was committed under Shinsei custody. Concealed from Shinsei command. Then concealed again when I asked directly.”
+“His assault on Yun Shizhen was committed under Shinsei custody. Concealed from Shinsei command. Then concealed again when I asked directly.”
 The room went very quiet.
 >>> “He will answer for that.”   <-- WHO SAYS THIS?
 Aya said, “Good.”
 Tsubasa looked at her.
+```
+```
+She did not apologize.
+He did not ask her to.
+Hana leaned back.
+>>> “What about the men still calling him a hero?”   <-- WHO SAYS THIS?
+Tsubasa's eyes narrowed.
+There were always men like that.
 ```
 ```
 A martyr could excuse anything if enough people died saying his name.
@@ -219,23 +347,39 @@ That last part was the sharpest.
 ### Chapter 472 — The Last Conventional Offer
 
 ```
-[jin] “Shinsei withdraws all offensive forces from Isgard territory.”
+Rhen sat beside Sera and said nothing.
+That was deliberate.
+Jin finished reading the draft.
+>>> “Shinsei withdraws all offensive forces from Isgard territory.”   <-- WHO SAYS THIS?
 Sera nodded.
-[sera] “All current offensive operations cease.”
+“All current offensive operations cease.”
+```
+```
+Jin finished reading the draft.
+“Shinsei withdraws all offensive forces from Isgard territory.”
+Sera nodded.
+>>> “All current offensive operations cease.”   <-- WHO SAYS THIS?
+“Yes.”
+“Axtaya production records, deployment logs and medical casualty data are opened to independent review.”
+```
+```
+“Shinsei withdraws all offensive forces from Isgard territory.”
+Sera nodded.
+“All current offensive operations cease.”
 >>> “Yes.”   <-- WHO SAYS THIS?
 “Axtaya production records, deployment logs and medical casualty data are opened to independent review.”
 “Yes.”
 ```
 ```
 Sera nodded.
-[sera] “All current offensive operations cease.”
+“All current offensive operations cease.”
 “Yes.”
 >>> “Axtaya production records, deployment logs and medical casualty data are opened to independent review.”   <-- WHO SAYS THIS?
 “Yes.”
 “Prisoner exchange under marked medical corridors.”
 ```
 ```
-[sera] “All current offensive operations cease.”
+“All current offensive operations cease.”
 “Yes.”
 “Axtaya production records, deployment logs and medical casualty data are opened to independent review.”
 >>> “Yes.”   <-- WHO SAYS THIS?
@@ -304,31 +448,175 @@ Jin looked up.
 “No dismantling of Shinsei by foreign decree.”
 >>> “Yes.”   <-- WHO SAYS THIS?
 Jin looked up.
-[jin] “That's generous.”
+“That's generous.”
 ```
 ```
-[maedra] “That is one word.”
+“No dismantling of Shinsei by foreign decree.”
+“Yes.”
+Jin looked up.
+>>> “That's generous.”   <-- WHO SAYS THIS?
+Maedra snorted from across the table.
+“That is one word.”
+```
+```
+Jin looked up.
+“That's generous.”
+Maedra snorted from across the table.
+>>> “That is one word.”   <-- WHO SAYS THIS?
 Aldric looked at her.
-[aldric] “You prefer annihilation?”
+“You prefer annihilation?”
+```
+```
+Maedra snorted from across the table.
+“That is one word.”
+Aldric looked at her.
+>>> “You prefer annihilation?”   <-- WHO SAYS THIS?
+“I prefer invoices with teeth.”
+Sigrun hid a smile.
+```
+```
+“That is one word.”
+Aldric looked at her.
+“You prefer annihilation?”
 >>> “I prefer invoices with teeth.”   <-- WHO SAYS THIS?
 Sigrun hid a smile.
 Solveig ignored all of them.
 ```
 ```
-[sera] “Any objection?”
+“I prefer invoices with teeth.”
+Sigrun hid a smile.
+Solveig ignored all of them.
+>>> “What about Isgard reparations?”   <-- WHO SAYS THIS?
+“Negotiated separately but guaranteed in principle,” Jin said.
+Solveig nodded.
+```
+```
+“Negotiated separately but guaranteed in principle,” Jin said.
+Solveig nodded.
+Sera looked around the table.
+>>> “This is the last offer before the war becomes something else.”   <-- WHO SAYS THIS?
+Nobody asked what she meant.
+Rhen was sitting beside her.
+```
+```
+He stood behind Jin rather than taking a seat.
+Luo sat near the medical side, pale but steady.
+Sera looked at him.
+>>> “Any objection?”   <-- WHO SAYS THIS?
 Luo shook his head.
-[luo] “No.”
+“No.”
+```
+```
+Sera looked at him.
+“Any objection?”
+Luo shook his head.
+>>> “No.”   <-- WHO SAYS THIS?
+“Even with Shunto alive?”
+Luo's expression did not change.
+```
+```
+“Any objection?”
+Luo shook his head.
+“No.”
 >>> “Even with Shunto alive?”   <-- WHO SAYS THIS?
 Luo's expression did not change.
-[luo] “Especially with Shunto alive.”
+“Especially with Shunto alive.”
+```
+```
+“No.”
+“Even with Shunto alive?”
+Luo's expression did not change.
+>>> “Especially with Shunto alive.”   <-- WHO SAYS THIS?
+Sera held his gaze.
+Then nodded.
+```
+```
+Then again with Aya, Nao, Eirik and Kai.
+The room remained silent after the last page.
+Aya was first to speak.
+>>> “They are not asking for occupation.”   <-- WHO SAYS THIS?
+“No,” Tsubasa said.
+Nao looked at the treaty draft.
+```
+```
+“They are not asking for occupation.”
+“No,” Tsubasa said.
+Nao looked at the treaty draft.
+>>> “They are not asking for dissolution.”   <-- WHO SAYS THIS?
+“No.”
+Eirik's eyes stayed on the Isgard clauses.
 ```
 ```
 “No,” Tsubasa said.
 Nao looked at the treaty draft.
-[nao] “They are not asking for dissolution.”
+“They are not asking for dissolution.”
 >>> “No.”   <-- WHO SAYS THIS?
 Eirik's eyes stayed on the Isgard clauses.
-[eirik] “They are asking us to leave a country we invaded.”
+“They are asking us to leave a country we invaded.”
+```
+```
+“They are not asking for dissolution.”
+“No.”
+Eirik's eyes stayed on the Isgard clauses.
+>>> “They are asking us to leave a country we invaded.”   <-- WHO SAYS THIS?
+Tsubasa looked at him.
+“Yes.”
+```
+```
+Eirik's eyes stayed on the Isgard clauses.
+“They are asking us to leave a country we invaded.”
+Tsubasa looked at him.
+>>> “Yes.”   <-- WHO SAYS THIS?
+Eirik did not look away.
+Kai leaned against the wall.
+```
+```
+“Yes.”
+Eirik did not look away.
+Kai leaned against the wall.
+>>> “Axtaya records.”   <-- WHO SAYS THIS?
+Aya said, “They should have them.”
+Kai glanced at her.
+```
+```
+Aya said, “They should have them.”
+Kai glanced at her.
+Aya met his gaze.
+>>> “They should.”   <-- WHO SAYS THIS?
+Tsubasa folded the final page.
+Nobody in the room seemed relieved. That absence of relief exposed the real problem.
+```
+```
+A structure built after generations of private war.
+A structure that had become too comfortable believing the strength required to create peace also gave it the right to define peace forever.
+Nao looked at Tsubasa.
+>>> “Say yes.”   <-- WHO SAYS THIS?
+Kai turned sharply.
+Nao did not flinch.
+```
+```
+“Say yes.”
+Kai turned sharply.
+Nao did not flinch.
+>>> “Say yes to the ceasefire,” she continued. “Then negotiate the rest.”   <-- WHO SAYS THIS?
+Tsubasa was silent.
+Aya watched him.
+```
+```
+Aya watched him.
+Eirik watched too.
+Kai's face hardened.
+>>> “You think Wuyue stops once we show weakness?”   <-- WHO SAYS THIS?
+Nao looked at him.
+“They have Rhen.”
+```
+```
+Kai's face hardened.
+“You think Wuyue stops once we show weakness?”
+Nao looked at him.
+>>> “They have Rhen.”   <-- WHO SAYS THIS?
+The room went quiet.
+[nao] “If they wanted conquest,” Nao continued, “we would be discussing whether our cities still existed.”
 ```
 ```
 That did not make agreement easy.
@@ -344,7 +632,15 @@ Eirik answered immediately.
 [eirik] “Isgard rebuilds.”
 >>> “And Shinrin?”   <-- WHO SAYS THIS?
 Eirik's eyes narrowed.
-[eirik] “That is our problem.”
+“That is our problem.”
+```
+```
+[eirik] “Isgard rebuilds.”
+“And Shinrin?”
+Eirik's eyes narrowed.
+>>> “That is our problem.”   <-- WHO SAYS THIS?
+Tsubasa almost smiled.
+Almost.
 ```
 ```
 Tsubasa almost smiled.
@@ -384,7 +680,37 @@ Kai took longer.
 “Ceasefire.”
 >>> “Kai?”   <-- WHO SAYS THIS?
 Kai took longer.
-[kai] “Not like this.”
+“Not like this.”
+```
+```
+“Ceasefire.”
+“Kai?”
+Kai took longer.
+>>> “Not like this.”   <-- WHO SAYS THIS?
+Tsubasa nodded.
+That was the split.
+```
+```
+Not loyal against traitor.
+A question of whether an institution survived by admitting limits or by proving no foreign power could impose them.
+Tsubasa closed the document.
+>>> “Prepare a response.”   <-- WHO SAYS THIS?
+Aya's eyes hardened.
+“Which one?”
+```
+```
+Tsubasa closed the document.
+“Prepare a response.”
+Aya's eyes hardened.
+>>> “Which one?”   <-- WHO SAYS THIS?
+Tsubasa looked toward the north.
+“The honest one.”
+```
+```
+Aya's eyes hardened.
+“Which one?”
+Tsubasa looked toward the north.
+>>> “The honest one.”   <-- WHO SAYS THIS?
 ```
 
 ### Chapter 473 — Tsubasa Refuses
@@ -459,26 +785,50 @@ Sera's eyes narrowed slightly.
 “Shunto remains subject to judgment.”
 >>> “Yes.”   <-- WHO SAYS THIS?
 Sera's eyes narrowed slightly.
-[sera] “Then what are we arguing about?”
+“Then what are we arguing about?”
+```
+```
+“Shunto remains subject to judgment.”
+“Yes.”
+Sera's eyes narrowed slightly.
+>>> “Then what are we arguing about?”   <-- WHO SAYS THIS?
+Tsubasa looked past her toward the allied lines.
+“Whether Shinsei may be forced into surrender by foreign martial pressure.”
+```
+```
+Sera's eyes narrowed slightly.
+“Then what are we arguing about?”
+Tsubasa looked past her toward the allied lines.
+>>> “Whether Shinsei may be forced into surrender by foreign martial pressure.”   <-- WHO SAYS THIS?
+Jin's mouth tightened.
+Sera did not move.
+```
+```
+“Whether Shinsei may be forced into surrender by foreign martial pressure.”
+Jin's mouth tightened.
+Sera did not move.
+>>> “You invaded Isgard.”   <-- WHO SAYS THIS?
+“Yes.”
+“You used lifespan-burning combat drugs on soldiers who were not properly informed.”
 ```
 ```
 Jin's mouth tightened.
 Sera did not move.
-[sera] “You invaded Isgard.”
+“You invaded Isgard.”
 >>> “Yes.”   <-- WHO SAYS THIS?
 “You used lifespan-burning combat drugs on soldiers who were not properly informed.”
 “Yes.”
 ```
 ```
 Sera did not move.
-[sera] “You invaded Isgard.”
+“You invaded Isgard.”
 “Yes.”
 >>> “You used lifespan-burning combat drugs on soldiers who were not properly informed.”   <-- WHO SAYS THIS?
 “Yes.”
 “You kept fighting after the cost became clear.”
 ```
 ```
-[sera] “You invaded Isgard.”
+“You invaded Isgard.”
 “Yes.”
 “You used lifespan-burning combat drugs on soldiers who were not properly informed.”
 >>> “Yes.”   <-- WHO SAYS THIS?
@@ -534,6 +884,14 @@ Nao's jaw tightened.
 Sera understood the argument.
 ```
 ```
+[tsubasa] “They will not see restraint. They will see weakness. They will test every limit. Old vendettas will reopen. Regional commanders will make private arrangements. Tax provinces will stop obeying central courts. Martial families will begin measuring each other again.”
+Aldric said, “So you invade another continent to prove your government is strong.”
+Tsubasa looked at him.
+>>> “I invade because deterrence failed before invasion became necessary.”   <-- WHO SAYS THIS?
+Maedra was not present.
+If she had been, someone would already be bleeding.
+```
+```
 If she had been, someone would already be bleeding.
 Sera's voice stayed level.
 [sera] “You believe Shinsei's survival gives Shinsei the right to continue a war Shinsei started.”
@@ -558,40 +916,96 @@ Sera studied him.
 For the first time she saw clearly why Tsubasa had lasted this long.
 ```
 ```
+It could also justify almost anything.
+Sera said, “Then change it yourself.”
+Tsubasa's eyes narrowed.
+>>> “Withdraw. Open the records. Put civilian authority between martial command and national policy. Let Shinsei survive without making your strength the constitution.”   <-- WHO SAYS THIS?
+Aya looked at Tsubasa.
+Nao did too.
+```
+```
 Nao did too.
 For a moment he said nothing.
 Then:
 >>> “After the war.”   <-- WHO SAYS THIS?
 Sera's face went cold.
-[sera] “There is always an after.”
+“There is always an after.”
 ```
 ```
-[sera] “Last chance.”
+Then:
+“After the war.”
+Sera's face went cold.
+>>> “There is always an after.”   <-- WHO SAYS THIS?
+Tsubasa held her gaze.
+“And there is always a war.”
+```
+```
+Sera's face went cold.
+“There is always an after.”
+Tsubasa held her gaze.
+>>> “And there is always a war.”   <-- WHO SAYS THIS?
+That was the answer.
+Not refusal to reform.
+```
+```
+He had promised not to take over the negotiation.
+He kept promises.
+Sera turned back.
+>>> “Last chance.”   <-- WHO SAYS THIS?
 Tsubasa's expression softened by a fraction.
-[tsubasa] “I know.”
+“I know.”
+```
+```
+Sera turned back.
+“Last chance.”
+Tsubasa's expression softened by a fraction.
+>>> “I know.”   <-- WHO SAYS THIS?
+“Withdraw.”
+“No.”
+```
+```
+“Last chance.”
+Tsubasa's expression softened by a fraction.
+“I know.”
 >>> “Withdraw.”   <-- WHO SAYS THIS?
 “No.”
 The word carried no anger.
 ```
 ```
 Tsubasa's expression softened by a fraction.
-[tsubasa] “I know.”
+“I know.”
 “Withdraw.”
 >>> “No.”   <-- WHO SAYS THIS?
 The word carried no anger.
 That made it final.
 ```
 ```
-[tsubasa] “I will still honor marked medical corridors and prisoner protections.”
+Aya looked furious.
+Nao looked worse.
+Tsubasa inclined his head.
+>>> “I will still honor marked medical corridors and prisoner protections.”   <-- WHO SAYS THIS?
 Sera stared at him.
-[sera] “That's the lowest bar you could clear.”
+“That's the lowest bar you could clear.”
+```
+```
+Tsubasa inclined his head.
+“I will still honor marked medical corridors and prisoner protections.”
+Sera stared at him.
+>>> “That's the lowest bar you could clear.”   <-- WHO SAYS THIS?
+“Yes.”
+“Good. Keep clearing it.”
+```
+```
+“I will still honor marked medical corridors and prisoner protections.”
+Sera stared at him.
+“That's the lowest bar you could clear.”
 >>> “Yes.”   <-- WHO SAYS THIS?
 “Good. Keep clearing it.”
 Tsubasa almost smiled.
 ```
 ```
 Sera stared at him.
-[sera] “That's the lowest bar you could clear.”
+“That's the lowest bar you could clear.”
 “Yes.”
 >>> “Good. Keep clearing it.”   <-- WHO SAYS THIS?
 Tsubasa almost smiled.
@@ -603,31 +1017,55 @@ The armies waited.
 That evening Jin brought updated casualty projections to Sera.
 >>> “If both sides commit tomorrow,” he said, “we lose thousands before anyone decisive even reaches Tsubasa.”   <-- WHO SAYS THIS?
 Sera looked at the numbers.
-[sera] “Shinsei?”
+“Shinsei?”
+```
+```
+That evening Jin brought updated casualty projections to Sera.
+“If both sides commit tomorrow,” he said, “we lose thousands before anyone decisive even reaches Tsubasa.”
+Sera looked at the numbers.
+>>> “Shinsei?”   <-- WHO SAYS THIS?
+“Worse, if Rhen intervenes.”
+“Without him?”
 ```
 ```
 “If both sides commit tomorrow,” he said, “we lose thousands before anyone decisive even reaches Tsubasa.”
 Sera looked at the numbers.
-[sera] “Shinsei?”
+“Shinsei?”
 >>> “Worse, if Rhen intervenes.”   <-- WHO SAYS THIS?
 “Without him?”
 “Comparable.”
 ```
 ```
 Sera looked at the numbers.
-[sera] “Shinsei?”
+“Shinsei?”
 “Worse, if Rhen intervenes.”
 >>> “Without him?”   <-- WHO SAYS THIS?
 “Comparable.”
 Sera leaned back.
 ```
 ```
-[sera] “Shinsei?”
+“Shinsei?”
 “Worse, if Rhen intervenes.”
 “Without him?”
 >>> “Comparable.”   <-- WHO SAYS THIS?
 Sera leaned back.
 Rhen stood near the tent wall.
+```
+```
+Jin looked at him.
+Then away.
+Sera noticed.
+>>> “Say it.”   <-- WHO SAYS THIS?
+Jin's jaw tightened.
+“If Rhen fights, the casualty projection becomes meaningless.”
+```
+```
+Sera noticed.
+“Say it.”
+Jin's jaw tightened.
+>>> “If Rhen fights, the casualty projection becomes meaningless.”   <-- WHO SAYS THIS?
+Sera looked at Rhen.
+He met her eyes.
 ```
 
 ### Chapter 474 — Rhen Says He Can End It
@@ -638,26 +1076,34 @@ She tasted it.
 Then looked at him.
 >>> “This is terrible.”   <-- WHO SAYS THIS?
 Rhen looked offended.
-[rhen] “It is not.”
+“It is not.”
+```
+```
+Then looked at him.
+“This is terrible.”
+Rhen looked offended.
+>>> “It is not.”   <-- WHO SAYS THIS?
+“It tastes like you boiled an old boot.”
+“That is the water.”
 ```
 ```
 “This is terrible.”
 Rhen looked offended.
-[rhen] “It is not.”
+“It is not.”
 >>> “It tastes like you boiled an old boot.”   <-- WHO SAYS THIS?
 “That is the water.”
 “You made the water.”
 ```
 ```
 Rhen looked offended.
-[rhen] “It is not.”
+“It is not.”
 “It tastes like you boiled an old boot.”
 >>> “That is the water.”   <-- WHO SAYS THIS?
 “You made the water.”
 “I did not make the river.”
 ```
 ```
-[rhen] “It is not.”
+“It is not.”
 “It tastes like you boiled an old boot.”
 “That is the water.”
 >>> “You made the water.”   <-- WHO SAYS THIS?
@@ -673,39 +1119,55 @@ Sera stared at him.
 Rhen drank his own cup.
 ```
 ```
+Rhen drank his own cup.
 His face changed by one degree.
 Sera smiled.
-[sera] “Terrible?”
+>>> “Terrible?”   <-- WHO SAYS THIS?
+“No.”
+“Liar.”
+```
+```
+His face changed by one degree.
+Sera smiled.
+“Terrible?”
 >>> “No.”   <-- WHO SAYS THIS?
 “Liar.”
 He put the cup down.
 ```
 ```
 Sera smiled.
-[sera] “Terrible?”
+“Terrible?”
 “No.”
 >>> “Liar.”   <-- WHO SAYS THIS?
 He put the cup down.
 For several breaths they watched torchlight move between hospital rows.
 ```
 ```
+For several breaths they watched torchlight move between hospital rows.
 The joke faded naturally.
 Sera looked toward the Shinsei lines beyond the hills.
-[sera] “Jin's numbers are ugly.”
+>>> “Jin's numbers are ugly.”   <-- WHO SAYS THIS?
+“Yes.”
+“You read them?”
+```
+```
+The joke faded naturally.
+Sera looked toward the Shinsei lines beyond the hills.
+“Jin's numbers are ugly.”
 >>> “Yes.”   <-- WHO SAYS THIS?
 “You read them?”
 “Yes.”
 ```
 ```
 Sera looked toward the Shinsei lines beyond the hills.
-[sera] “Jin's numbers are ugly.”
+“Jin's numbers are ugly.”
 “Yes.”
 >>> “You read them?”   <-- WHO SAYS THIS?
 “Yes.”
 “Of course you did.”
 ```
 ```
-[sera] “Jin's numbers are ugly.”
+“Jin's numbers are ugly.”
 “Yes.”
 “You read them?”
 >>> “Yes.”   <-- WHO SAYS THIS?
@@ -718,50 +1180,90 @@ Rhen's gaze stayed on the dark horizon.
 “Yes.”
 >>> “Of course you did.”   <-- WHO SAYS THIS?
 Rhen's gaze stayed on the dark horizon.
-[rhen] “I can stop Tsubasa.”
+“I can stop Tsubasa.”
+```
+```
+“Yes.”
+“Of course you did.”
+Rhen's gaze stayed on the dark horizon.
+>>> “I can stop Tsubasa.”   <-- WHO SAYS THIS?
+Sera did not answer immediately. Rhen’s certainty sat between them without boast.
+No threat.
+```
+```
+No grand declaration.
+The strongest person alive stating a practical fact in the same tone he might use to say the kettle was boiling.
+Sera looked at him.
+>>> “How?”   <-- WHO SAYS THIS?
+Rhen glanced back.
+“You don't actually want the answer yet.”
+```
+```
+Sera looked at him.
+“How?”
+Rhen glanced back.
+>>> “You don't actually want the answer yet.”   <-- WHO SAYS THIS?
+That made her smile faintly.
+“No.”
 ```
 ```
 Rhen glanced back.
-[rhen] “You don't actually want the answer yet.”
+“You don't actually want the answer yet.”
 That made her smile faintly.
 >>> “No.”   <-- WHO SAYS THIS?
 “I thought so.”
 Sera turned the cup between her hands.
 ```
 ```
-[rhen] “You don't actually want the answer yet.”
+“You don't actually want the answer yet.”
 That made her smile faintly.
 “No.”
 >>> “I thought so.”   <-- WHO SAYS THIS?
 Sera turned the cup between her hands.
-[sera] “Can you stop the whole army?”
+“Can you stop the whole army?”
+```
+```
+“No.”
+“I thought so.”
+Sera turned the cup between her hands.
+>>> “Can you stop the whole army?”   <-- WHO SAYS THIS?
+“Yes.”
+“Without killing them?”
 ```
 ```
 “I thought so.”
 Sera turned the cup between her hands.
-[sera] “Can you stop the whole army?”
+“Can you stop the whole army?”
 >>> “Yes.”   <-- WHO SAYS THIS?
 “Without killing them?”
 Rhen paused.
 ```
 ```
 Sera turned the cup between her hands.
-[sera] “Can you stop the whole army?”
+“Can you stop the whole army?”
 “Yes.”
 >>> “Without killing them?”   <-- WHO SAYS THIS?
 Rhen paused.
-[rhen] “Yes.”
+“Yes.”
+```
+```
+“Yes.”
+“Without killing them?”
+Rhen paused.
+>>> “Yes.”   <-- WHO SAYS THIS?
+The pause was calculation, not uncertainty. Sera saw it.
+“You figured something out in that cave.”
 ```
 ```
 Rhen paused.
-[rhen] “Yes.”
+“Yes.”
 The pause was calculation, not uncertainty. Sera saw it.
 >>> “You figured something out in that cave.”   <-- WHO SAYS THIS?
 “I was not in a cave.”
 “Room.”
 ```
 ```
-[rhen] “Yes.”
+“Yes.”
 The pause was calculation, not uncertainty. Sera saw it.
 “You figured something out in that cave.”
 >>> “I was not in a cave.”   <-- WHO SAYS THIS?
@@ -793,23 +1295,31 @@ Rhen looked innocent.
 Sera narrowed her eyes.
 ```
 ```
+“You figured something out.”
 Rhen looked innocent.
 Sera narrowed her eyes.
-[sera] “Rhen.”
+>>> “Rhen.”   <-- WHO SAYS THIS?
+“Yes.”
+“Do not do that.”
+```
+```
+Rhen looked innocent.
+Sera narrowed her eyes.
+“Rhen.”
 >>> “Yes.”   <-- WHO SAYS THIS?
 “Do not do that.”
 “Do what?”
 ```
 ```
 Sera narrowed her eyes.
-[sera] “Rhen.”
+“Rhen.”
 “Yes.”
 >>> “Do not do that.”   <-- WHO SAYS THIS?
 “Do what?”
 “That face.”
 ```
 ```
-[sera] “Rhen.”
+“Rhen.”
 “Yes.”
 “Do not do that.”
 >>> “Do what?”   <-- WHO SAYS THIS?
@@ -838,23 +1348,39 @@ Rhen considered this.
 “What face?”
 >>> “The face you make before revealing you can do something obscene to the laws of martial arts while pretending it's a gardening problem.”   <-- WHO SAYS THIS?
 Rhen considered this.
-[rhen] “That seems unfair.”
+“That seems unfair.”
+```
+```
+“What face?”
+“The face you make before revealing you can do something obscene to the laws of martial arts while pretending it's a gardening problem.”
+Rhen considered this.
+>>> “That seems unfair.”   <-- WHO SAYS THIS?
+“You are unfair.”
+“True.”
 ```
 ```
 “The face you make before revealing you can do something obscene to the laws of martial arts while pretending it's a gardening problem.”
 Rhen considered this.
-[rhen] “That seems unfair.”
+“That seems unfair.”
 >>> “You are unfair.”   <-- WHO SAYS THIS?
 “True.”
 Sera laughed once.
 ```
 ```
 Rhen considered this.
-[rhen] “That seems unfair.”
+“That seems unfair.”
 “You are unfair.”
 >>> “True.”   <-- WHO SAYS THIS?
 Sera laughed once.
 Then the quiet returned.
+```
+```
+Now he was powerful enough to end a continental war.
+And he was asking.
+Sera reached over and took his hand.
+>>> “Not yet.”   <-- WHO SAYS THIS?
+Rhen nodded immediately.
+No argument.
 ```
 ```
 No “are you sure?”
@@ -862,26 +1388,34 @@ No hidden sigh.
 Just:
 >>> “Okay.”   <-- WHO SAYS THIS?
 Sera watched him.
-[sera] “That easy?”
+“That easy?”
+```
+```
+Just:
+“Okay.”
+Sera watched him.
+>>> “That easy?”   <-- WHO SAYS THIS?
+“Yes.”
+“You're not going to tell me Tsubasa is dangerous?”
 ```
 ```
 “Okay.”
 Sera watched him.
-[sera] “That easy?”
+“That easy?”
 >>> “Yes.”   <-- WHO SAYS THIS?
 “You're not going to tell me Tsubasa is dangerous?”
 “He is.”
 ```
 ```
 Sera watched him.
-[sera] “That easy?”
+“That easy?”
 “Yes.”
 >>> “You're not going to tell me Tsubasa is dangerous?”   <-- WHO SAYS THIS?
 “He is.”
 “You're not going to tell me I could get hurt?”
 ```
 ```
-[sera] “That easy?”
+“That easy?”
 “Yes.”
 “You're not going to tell me Tsubasa is dangerous?”
 >>> “He is.”   <-- WHO SAYS THIS?
@@ -921,23 +1455,39 @@ She squeezed his hand harder.
 Rhen did not complain.
 ```
 ```
-[sera] “I need one more path before yours.”
+She squeezed his hand harder.
+Rhen did not complain.
+Sera looked back toward the horizon.
+>>> “I need one more path before yours.”   <-- WHO SAYS THIS?
 Rhen waited.
-[rhen] “If I let you walk out first, this war ends because Shinsei meets something it cannot understand.”
+“If I let you walk out first, this war ends because Shinsei meets something it cannot understand.”
+```
+```
+Sera looked back toward the horizon.
+“I need one more path before yours.”
+Rhen waited.
+>>> “If I let you walk out first, this war ends because Shinsei meets something it cannot understand.”   <-- WHO SAYS THIS?
+“Yes.”
+“But if I walk out first—”
+```
+```
+“I need one more path before yours.”
+Rhen waited.
+“If I let you walk out first, this war ends because Shinsei meets something it cannot understand.”
 >>> “Yes.”   <-- WHO SAYS THIS?
 “But if I walk out first—”
 “Tsubasa has to answer Wuyue.”
 ```
 ```
 Rhen waited.
-[rhen] “If I let you walk out first, this war ends because Shinsei meets something it cannot understand.”
+“If I let you walk out first, this war ends because Shinsei meets something it cannot understand.”
 “Yes.”
 >>> “But if I walk out first—”   <-- WHO SAYS THIS?
 “Tsubasa has to answer Wuyue.”
 Sera looked at him.
 ```
 ```
-[rhen] “If I let you walk out first, this war ends because Shinsei meets something it cannot understand.”
+“If I let you walk out first, this war ends because Shinsei meets something it cannot understand.”
 “Yes.”
 “But if I walk out first—”
 >>> “Tsubasa has to answer Wuyue.”   <-- WHO SAYS THIS?
@@ -950,26 +1500,34 @@ Of course he did.
 She continued.
 >>> “He built his whole refusal around the idea that surrendering to a stronger foreign monster destroys Shinsei's legitimacy.”   <-- WHO SAYS THIS?
 Rhen frowned.
-[rhen] “I'm a foreign monster?”
+“I'm a foreign monster?”
+```
+```
+She continued.
+“He built his whole refusal around the idea that surrendering to a stronger foreign monster destroys Shinsei's legitimacy.”
+Rhen frowned.
+>>> “I'm a foreign monster?”   <-- WHO SAYS THIS?
+“In this argument, yes.”
+“That seems rude.”
 ```
 ```
 “He built his whole refusal around the idea that surrendering to a stronger foreign monster destroys Shinsei's legitimacy.”
 Rhen frowned.
-[rhen] “I'm a foreign monster?”
+“I'm a foreign monster?”
 >>> “In this argument, yes.”   <-- WHO SAYS THIS?
 “That seems rude.”
 “Focus.”
 ```
 ```
 Rhen frowned.
-[rhen] “I'm a foreign monster?”
+“I'm a foreign monster?”
 “In this argument, yes.”
 >>> “That seems rude.”   <-- WHO SAYS THIS?
 “Focus.”
 “Okay.”
 ```
 ```
-[rhen] “I'm a foreign monster?”
+“I'm a foreign monster?”
 “In this argument, yes.”
 “That seems rude.”
 >>> “Focus.”   <-- WHO SAYS THIS?
@@ -1014,12 +1572,20 @@ Then back up.
 “Yes.”
 >>> “Not because you think you owe everyone proof?”   <-- WHO SAYS THIS?
 Sera's eyes narrowed.
-[sera] “No.”
+“No.”
+```
+```
+“Yes.”
+“Not because you think you owe everyone proof?”
+Sera's eyes narrowed.
+>>> “No.”   <-- WHO SAYS THIS?
+“Not because you're angry at being compared to me?”
+That one hit closer.
 ```
 ```
 “Not because you think you owe everyone proof?”
 Sera's eyes narrowed.
-[sera] “No.”
+“No.”
 >>> “Not because you're angry at being compared to me?”   <-- WHO SAYS THIS?
 That one hit closer.
 She considered it honestly.
@@ -1030,53 +1596,101 @@ She considered it honestly.
 Then shook her head.
 >>> “No.”   <-- WHO SAYS THIS?
 Rhen nodded.
-[rhen] “Then do it.”
+“Then do it.”
 ```
 ```
-[rhen] “Then do it.”
+Then shook her head.
+“No.”
+Rhen nodded.
+>>> “Then do it.”   <-- WHO SAYS THIS?
 Sera stared at him.
-[sera] “That's all?”
+“That's all?”
+```
+```
+Rhen nodded.
+“Then do it.”
+Sera stared at him.
+>>> “That's all?”   <-- WHO SAYS THIS?
+“What else?”
+“You're supposed to say something romantic.”
+```
+```
+“Then do it.”
+Sera stared at him.
+“That's all?”
 >>> “What else?”   <-- WHO SAYS THIS?
 “You're supposed to say something romantic.”
 Rhen thought.
 ```
 ```
 Sera stared at him.
-[sera] “That's all?”
+“That's all?”
 “What else?”
 >>> “You're supposed to say something romantic.”   <-- WHO SAYS THIS?
 Rhen thought.
-[rhen] “You are very pretty when making dangerous decisions.”
+“You are very pretty when making dangerous decisions.”
 ```
 ```
-[rhen] “You are very pretty when making dangerous decisions.”
+“What else?”
+“You're supposed to say something romantic.”
+Rhen thought.
+>>> “You are very pretty when making dangerous decisions.”   <-- WHO SAYS THIS?
 Sera groaned.
-[sera] “That was awful.”
+“That was awful.”
+```
+```
+Rhen thought.
+“You are very pretty when making dangerous decisions.”
+Sera groaned.
+>>> “That was awful.”   <-- WHO SAYS THIS?
+“You asked.”
+She leaned into him anyway.
+```
+```
+“You are very pretty when making dangerous decisions.”
+Sera groaned.
+“That was awful.”
 >>> “You asked.”   <-- WHO SAYS THIS?
 She leaned into him anyway.
 Rhen rested his head lightly against hers.
+```
+```
+Rhen rested his head lightly against hers.
+After a while Sera said, “If I lose?”
+Rhen's hand tightened around hers.
+>>> “Then I catch you.”   <-- WHO SAYS THIS?
+She smiled. That was the difference she had been waiting for.
+Not rescue before the fall.
 ```
 
 ### Chapter 475 — Pale Orchid Walks Forward
 
 ```
+That was why Tsubasa believed it.
 He read the challenge twice.
 Kai stood beside him.
-[kai] “This is dangerous.”
+>>> “This is dangerous.”   <-- WHO SAYS THIS?
+“Yes.”
+“You don't need to accept.”
+```
+```
+He read the challenge twice.
+Kai stood beside him.
+“This is dangerous.”
 >>> “Yes.”   <-- WHO SAYS THIS?
 “You don't need to accept.”
 “No.”
 ```
 ```
 Kai stood beside him.
-[kai] “This is dangerous.”
+“This is dangerous.”
 “Yes.”
 >>> “You don't need to accept.”   <-- WHO SAYS THIS?
 “No.”
 Kai looked at him.
 ```
 ```
-[kai] “This is dangerous.”
+“This is dangerous.”
 “Yes.”
 “You don't need to accept.”
 >>> “No.”   <-- WHO SAYS THIS?
@@ -1084,23 +1698,71 @@ Kai looked at him.
 Tsubasa placed the paper down.
 ```
 ```
-[tsubasa] “Then the coalition has to absorb the fact that its Peak Paragon could not defeat ours without Rhen.”
+“No.”
+Kai looked at him.
+Tsubasa placed the paper down.
+>>> “But I will.”   <-- WHO SAYS THIS?
+Aya's expression hardened from across the table.
+“Why?”
+```
+```
+Tsubasa placed the paper down.
+“But I will.”
+Aya's expression hardened from across the table.
+>>> “Why?”   <-- WHO SAYS THIS?
+Tsubasa looked at her.
+“Because tomorrow's alternative is twenty thousand people discovering which artillery line collapses first.”
+```
+```
+Aya's expression hardened from across the table.
+“Why?”
+Tsubasa looked at her.
+>>> “Because tomorrow's alternative is twenty thousand people discovering which artillery line collapses first.”   <-- WHO SAYS THIS?
+Aya said nothing.
+Nao looked at the paper.
+```
+```
+“Because tomorrow's alternative is twenty thousand people discovering which artillery line collapses first.”
+Aya said nothing.
+Nao looked at the paper.
+>>> “And because if you defeat her?”   <-- WHO SAYS THIS?
+Tsubasa's eyes narrowed slightly.
+“Then the coalition has to absorb the fact that its Peak Paragon could not defeat ours without Rhen.”
+```
+```
+Nao looked at the paper.
+“And because if you defeat her?”
+Tsubasa's eyes narrowed slightly.
+>>> “Then the coalition has to absorb the fact that its Peak Paragon could not defeat ours without Rhen.”   <-- WHO SAYS THIS?
 Hana leaned against the wall.
-[hana] “You think that changes Sera's decision?”
+“You think that changes Sera's decision?”
+```
+```
+Tsubasa's eyes narrowed slightly.
+“Then the coalition has to absorb the fact that its Peak Paragon could not defeat ours without Rhen.”
+Hana leaned against the wall.
+>>> “You think that changes Sera's decision?”   <-- WHO SAYS THIS?
+“No.”
+“Then what does it change?”
+```
+```
+“Then the coalition has to absorb the fact that its Peak Paragon could not defeat ours without Rhen.”
+Hana leaned against the wall.
+“You think that changes Sera's decision?”
 >>> “No.”   <-- WHO SAYS THIS?
 “Then what does it change?”
 “Everyone else's.”
 ```
 ```
 Hana leaned against the wall.
-[hana] “You think that changes Sera's decision?”
+“You think that changes Sera's decision?”
 “No.”
 >>> “Then what does it change?”   <-- WHO SAYS THIS?
 “Everyone else's.”
 That was the strategic answer.
 ```
 ```
-[hana] “You think that changes Sera's decision?”
+“You think that changes Sera's decision?”
 “No.”
 “Then what does it change?”
 >>> “Everyone else's.”   <-- WHO SAYS THIS?
@@ -1108,17 +1770,49 @@ That was the strategic answer.
 Tsubasa understood morale.
 ```
 ```
+If Pale Orchid walked alone against Shinsei No.1 and lost, Tsubasa gained time.
+Maybe enough to force a negotiated end that did not look like surrender.
+Aya stared at him.
+>>> “You're still trying to win the shape of the surrender.”   <-- WHO SAYS THIS?
+Tsubasa's jaw tightened.
+“Yes.”
+```
+```
+Aya stared at him.
+“You're still trying to win the shape of the surrender.”
+Tsubasa's jaw tightened.
+>>> “Yes.”   <-- WHO SAYS THIS?
+At least he did not lie.
+By midday both armies knew.
+```
+```
 For a moment the battlefield went completely still.
 Tsubasa looked toward Rhen once.
 Then back to Sera.
 >>> “He agreed to stay out?”   <-- WHO SAYS THIS?
 Sera smiled faintly.
-[sera] “You think I need permission from him?”
+“You think I need permission from him?”
 ```
 ```
-[sera] “You think I need permission from him?”
+Then back to Sera.
+“He agreed to stay out?”
+Sera smiled faintly.
+>>> “You think I need permission from him?”   <-- WHO SAYS THIS?
 Tsubasa paused.
-[tsubasa] “No.”
+“No.”
+```
+```
+Sera smiled faintly.
+“You think I need permission from him?”
+Tsubasa paused.
+>>> “No.”   <-- WHO SAYS THIS?
+“Good answer.”
+His mouth moved slightly.
+```
+```
+“You think I need permission from him?”
+Tsubasa paused.
+“No.”
 >>> “Good answer.”   <-- WHO SAYS THIS?
 His mouth moved slightly.
 Almost a smile.
@@ -1201,7 +1895,31 @@ Tsubasa looked at her.
 “Yes.”
 >>> “If you win, you get your proof.”   <-- WHO SAYS THIS?
 Tsubasa looked at her.
-[tsubasa] “Something like that.”
+“Something like that.”
+```
+```
+“Yes.”
+“If you win, you get your proof.”
+Tsubasa looked at her.
+>>> “Something like that.”   <-- WHO SAYS THIS?
+Sera rolled one shoulder.
+“Good.”
+```
+```
+Tsubasa looked at her.
+“Something like that.”
+Sera rolled one shoulder.
+>>> “Good.”   <-- WHO SAYS THIS?
+He touched the chain.
+She lowered her stance.
+```
+```
+She lowered her stance.
+Tsubasa said, “You understand I am not Aethon Vael.”
+Sera's eyes sharpened.
+>>> “I'd be disappointed if you were.”   <-- WHO SAYS THIS?
+The chain moved.
+The duel began.
 ```
 
 ### Chapter 476 — Tethered Heaven Dominion
@@ -1212,19 +1930,43 @@ Tsubasa had built a martial system around making every distance the wrong distan
 On the ridge, Shen Rui breathed out.
 >>> “So this is Shinsei No.1.”   <-- WHO SAYS THIS?
 Lei Zhen's eyes stayed fixed on the basin.
-[lei] “No.”
+“No.”
 ```
 ```
-[tsubasa] “Still want the duel?”
+On the ridge, Shen Rui breathed out.
+“So this is Shinsei No.1.”
+Lei Zhen's eyes stayed fixed on the basin.
+>>> “No.”   <-- WHO SAYS THIS?
+Rui glanced at him.
+Lei continued.
+```
+```
+Sera rose.
+Blood touched the corner of her mouth.
+Tsubasa looked at it.
+>>> “Still want the duel?”   <-- WHO SAYS THIS?
 Sera wiped the blood with one thumb.
-[sera] “You've hit me once.”
+“You've hit me once.”
+```
+```
+Tsubasa looked at it.
+“Still want the duel?”
+Sera wiped the blood with one thumb.
+>>> “You've hit me once.”   <-- WHO SAYS THIS?
+“Twice.”
+“The first was rude, not meaningful.”
+```
+```
+“Still want the duel?”
+Sera wiped the blood with one thumb.
+“You've hit me once.”
 >>> “Twice.”   <-- WHO SAYS THIS?
 “The first was rude, not meaningful.”
 For the first time Tsubasa actually smiled.
 ```
 ```
 Sera wiped the blood with one thumb.
-[sera] “You've hit me once.”
+“You've hit me once.”
 “Twice.”
 >>> “The first was rude, not meaningful.”   <-- WHO SAYS THIS?
 For the first time Tsubasa actually smiled.
@@ -1234,28 +1976,52 @@ Then Sera disappeared.
 ### Chapter 477 — Orchid Dominion
 
 ```
-[sera] “You change the answer after choosing the question.”
+She paid the qi cost and escaped the blade by inches.
+Tsubasa's eyes sharpened.
+Sera smiled.
+>>> “You change the answer after choosing the question.”   <-- WHO SAYS THIS?
 Tsubasa pulled the chain around a second anchor.
-[tsubasa] “You punish choices.”
+“You punish choices.”
+```
+```
+Sera smiled.
+“You change the answer after choosing the question.”
+Tsubasa pulled the chain around a second anchor.
+>>> “You punish choices.”   <-- WHO SAYS THIS?
+“Yes.”
+“Then I should make choices that keep changing.”
+```
+```
+“You change the answer after choosing the question.”
+Tsubasa pulled the chain around a second anchor.
+“You punish choices.”
 >>> “Yes.”   <-- WHO SAYS THIS?
 “Then I should make choices that keep changing.”
 “Try.”
 ```
 ```
 Tsubasa pulled the chain around a second anchor.
-[tsubasa] “You punish choices.”
+“You punish choices.”
 “Yes.”
 >>> “Then I should make choices that keep changing.”   <-- WHO SAYS THIS?
 “Try.”
 He did.
 ```
 ```
-[tsubasa] “You punish choices.”
+“You punish choices.”
 “Yes.”
 “Then I should make choices that keep changing.”
 >>> “Try.”   <-- WHO SAYS THIS?
 He did.
 The next minute became a conversation too fast for most of the watching army to understand.
+```
+```
+Jin stopped pretending he understood every exchange.
+“Can she win?” he asked.
+Kael's eyes remained on the basin.
+>>> “Yes.”   <-- WHO SAYS THIS?
+Jin looked at him.
+Kael continued.
 ```
 ```
 For ten full seconds neither attacked.
@@ -1287,14 +2053,30 @@ Sera smiled.
 “No.”
 >>> “Then it has a simple answer.”   <-- WHO SAYS THIS?
 Sera smiled.
-[sera] “Everything has a simple answer when nobody is trying to win.”
+“Everything has a simple answer when nobody is trying to win.”
+```
+```
+“No.”
+“Then it has a simple answer.”
+Sera smiled.
+>>> “Everything has a simple answer when nobody is trying to win.”   <-- WHO SAYS THIS?
+Tsubasa's eyes narrowed. He had found the choice inside her rule: if he refused hostile commitment entirely, Orchid Dominion gave Sera nothing.
+But then he also stopped applying pressure.
 ```
 
 ### Chapter 478 — Heaven Returns What It Receives
 
 ```
+Not his own.
+Sera's eyes narrowed.
 Tsubasa wiped his mouth.
-[tsubasa] “Good.”
+>>> “Good.”   <-- WHO SAYS THIS?
+She stared at him.
+“What did you do?”
+```
+```
+Tsubasa wiped his mouth.
+“Good.”
 She stared at him.
 >>> “What did you do?”   <-- WHO SAYS THIS?
 He moved.
@@ -1354,19 +2136,27 @@ He looked at her.
 “Yes.”
 >>> “And I still hit you.”   <-- WHO SAYS THIS?
 Sera wiped her mouth.
-[sera] “You sound proud.”
+“You sound proud.”
+```
+```
+“Yes.”
+“And I still hit you.”
+Sera wiped her mouth.
+>>> “You sound proud.”   <-- WHO SAYS THIS?
+“I am.”
+“Good.”
 ```
 ```
 “And I still hit you.”
 Sera wiped her mouth.
-[sera] “You sound proud.”
+“You sound proud.”
 >>> “I am.”   <-- WHO SAYS THIS?
 “Good.”
 She lowered her stance again.
 ```
 ```
 Sera wiped her mouth.
-[sera] “You sound proud.”
+“You sound proud.”
 “I am.”
 >>> “Good.”   <-- WHO SAYS THIS?
 She lowered her stance again.
@@ -1380,27 +2170,50 @@ She lowered her stance again.
 Tsubasa's eyes narrowed.
 Sera smiled.
 ```
+```
+“Keep that feeling.”
+Tsubasa's eyes narrowed.
+Sera smiled.
+>>> “I'm going to take it from you.”   <-- WHO SAYS THIS?
+The Pale Orchid moved.
+```
 
 ### Chapter 479 — One Chain Binds Heaven / Ten Thousand Blooms
 
 ```
-[sera] “There it is.”
+If he continued fighting with ordinary anchor geometry, she would keep reducing the battlefield until his positional advantage became manageable.
+If he wanted the duel back under his control, he had to expand the system.
+Sera smiled faintly.
+>>> “There it is.”   <-- WHO SAYS THIS?
 Tsubasa's eyes narrowed.
-[tsubasa] “You wanted this.”
+“You wanted this.”
+```
+```
+Sera smiled faintly.
+“There it is.”
+Tsubasa's eyes narrowed.
+>>> “You wanted this.”   <-- WHO SAYS THIS?
+“Yes.”
+“Why?”
+```
+```
+“There it is.”
+Tsubasa's eyes narrowed.
+“You wanted this.”
 >>> “Yes.”   <-- WHO SAYS THIS?
 “Why?”
 “So I know what the strongest conventional cultivator alive looks like when he stops holding something back.”
 ```
 ```
 Tsubasa's eyes narrowed.
-[tsubasa] “You wanted this.”
+“You wanted this.”
 “Yes.”
 >>> “Why?”   <-- WHO SAYS THIS?
 “So I know what the strongest conventional cultivator alive looks like when he stops holding something back.”
 The ridge behind Sera went silent.
 ```
 ```
-[tsubasa] “You wanted this.”
+“You wanted this.”
 “Yes.”
 “Why?”
 >>> “So I know what the strongest conventional cultivator alive looks like when he stops holding something back.”   <-- WHO SAYS THIS?
@@ -1443,16 +2256,24 @@ Tsubasa, bleeding from half a dozen serious wounds, answered:
 ### Chapter 480 — Two Peak Paragons Are Not Equal
 
 ```
+Sera saw him see it.
 “Don't look so happy,” she said.
 Tsubasa coughed blood.
-[tsubasa] “I am not happy.”
+>>> “I am not happy.”   <-- WHO SAYS THIS?
+“You have that face.”
+“What face?”
+```
+```
+“Don't look so happy,” she said.
+Tsubasa coughed blood.
+“I am not happy.”
 >>> “You have that face.”   <-- WHO SAYS THIS?
 “What face?”
 Sera almost laughed.
 ```
 ```
 Tsubasa coughed blood.
-[tsubasa] “I am not happy.”
+“I am not happy.”
 “You have that face.”
 >>> “What face?”   <-- WHO SAYS THIS?
 Sera almost laughed.
@@ -1467,15 +2288,23 @@ Tsubasa tightened his grip.
 The final phase began.
 ```
 ```
+More importantly, he did not need one.
+Sera forced herself upright.
 Tsubasa stared.
-[tsubasa] “Enough.”
+>>> “Enough.”   <-- WHO SAYS THIS?
+She raised one hand.
+“No.”
+```
+```
+Tsubasa stared.
+“Enough.”
 She raised one hand.
 >>> “No.”   <-- WHO SAYS THIS?
 “Sera.”
 “Don't start sounding like him.”
 ```
 ```
-[tsubasa] “Enough.”
+“Enough.”
 She raised one hand.
 “No.”
 >>> “Sera.”   <-- WHO SAYS THIS?
@@ -1491,6 +2320,30 @@ Tsubasa glanced toward Rhen despite himself.
 Rhen stood completely still.
 ```
 ```
+Tsubasa glanced toward Rhen despite himself.
+Rhen stood completely still.
+Sera's eyes flashed.
+>>> “Eyes here.”   <-- WHO SAYS THIS?
+Tsubasa looked back.
+She moved.
+```
+```
+Neither had enough left for elegance.
+Kael whispered, “She's still making him solve her.”
+Jin did not look away.
+>>> “Can he?”   <-- WHO SAYS THIS?
+Kael's face tightened.
+“Yes.”
+```
+```
+Jin did not look away.
+“Can he?”
+Kael's face tightened.
+>>> “Yes.”   <-- WHO SAYS THIS?
+That was the truth.
+Sera had reached Tsubasa's level.
+```
+```
 Her knee slipped.
 She laughed once.
 Quietly.
@@ -1499,17 +2352,41 @@ Tsubasa almost collapsed hearing it.
 “You are,” he answered.
 ```
 ```
+Tsubasa almost collapsed hearing it.
 “You are,” he answered.
 Sera looked up.
-[sera] “Was talking about you.”
+>>> “Was talking about you.”   <-- WHO SAYS THIS?
+“I know.”
+She tried one more time.
+```
+```
+“You are,” he answered.
+Sera looked up.
+“Was talking about you.”
 >>> “I know.”   <-- WHO SAYS THIS?
 She tried one more time.
 Her circulation failed to answer cleanly. The medical observers saw it immediately.
 ```
 ```
-[sera] “You took your time.”
+He crossed the basin without hurry and reached Sera before she could fall sideways.
+His arm caught her around the back.
+Sera opened one eye.
+>>> “You took your time.”   <-- WHO SAYS THIS?
 Rhen looked down at her.
-[rhen] “You told me to.”
+“You told me to.”
+```
+```
+Sera opened one eye.
+“You took your time.”
+Rhen looked down at her.
+>>> “You told me to.”   <-- WHO SAYS THIS?
+“Fair.”
+His fingers touched her wrist.
+```
+```
+“You took your time.”
+Rhen looked down at her.
+“You told me to.”
 >>> “Fair.”   <-- WHO SAYS THIS?
 His fingers touched her wrist.
 Healing qi entered immediately.
@@ -1520,18 +2397,42 @@ Then another.
 He looked at Sera.
 >>> “No one has pushed me that far.”   <-- WHO SAYS THIS?
 Sera's mouth moved faintly.
-[sera] “Anyone?”
+“Anyone?”
+```
+```
+He looked at Sera.
+“No one has pushed me that far.”
+Sera's mouth moved faintly.
+>>> “Anyone?”   <-- WHO SAYS THIS?
+Tsubasa shook his head.
+“No.”
+```
+```
+Sera's mouth moved faintly.
+“Anyone?”
+Tsubasa shook his head.
+>>> “No.”   <-- WHO SAYS THIS?
+That answer moved through the watching ranks faster than any official report ever would.
+Sera had lost.
+```
+```
+Tsubasa and Aethon Vael had never fought each other. The comparison lived in surviving records, witnesses and what each man had demonstrated. On that evidence, present-day Tsubasa stood above the old Aethon benchmark.
+But now everyone knew how narrow the word above could become when the Pale Orchid was beneath it.
+Rhen looked at Sera.
+>>> “Done?”   <-- WHO SAYS THIS?
+She closed her eyes.
+“For today.”
 ```
 ```
 Rhen looked at Sera.
-[rhen] “Done?”
+“Done?”
 She closed her eyes.
 >>> “For today.”   <-- WHO SAYS THIS?
 “Good.”
 “Don't sound relieved.”
 ```
 ```
-[rhen] “Done?”
+“Done?”
 She closed her eyes.
 “For today.”
 >>> “Good.”   <-- WHO SAYS THIS?
@@ -1552,28 +2453,52 @@ Sera smiled weakly.
 “Don't sound relieved.”
 >>> “I am relieved.”   <-- WHO SAYS THIS?
 Sera smiled weakly.
-[sera] “Terrible poker face.”
+“Terrible poker face.”
+```
+```
+“Don't sound relieved.”
+“I am relieved.”
+Sera smiled weakly.
+>>> “Terrible poker face.”   <-- WHO SAYS THIS?
+“I don't play cards.”
+“I know.”
 ```
 ```
 “I am relieved.”
 Sera smiled weakly.
-[sera] “Terrible poker face.”
+“Terrible poker face.”
 >>> “I don't play cards.”   <-- WHO SAYS THIS?
 “I know.”
 Across the basin, Aya reached Tsubasa.
 ```
 ```
 Sera smiled weakly.
-[sera] “Terrible poker face.”
+“Terrible poker face.”
 “I don't play cards.”
 >>> “I know.”   <-- WHO SAYS THIS?
 Across the basin, Aya reached Tsubasa.
 She immediately checked his ribs.
 ```
 ```
-[aya] “You are an idiot.”
+She immediately checked his ribs.
+He flinched.
+Aya looked furious.
+>>> “You are an idiot.”   <-- WHO SAYS THIS?
 Tsubasa coughed.
-[tsubasa] “I won.”
+“I won.”
+```
+```
+Aya looked furious.
+“You are an idiot.”
+Tsubasa coughed.
+>>> “I won.”   <-- WHO SAYS THIS?
+“That is not a medical diagnosis.”
+For the first time in hours, Sera laughed.
+```
+```
+“You are an idiot.”
+Tsubasa coughed.
+“I won.”
 >>> “That is not a medical diagnosis.”   <-- WHO SAYS THIS?
 For the first time in hours, Sera laughed.
 It hurt.

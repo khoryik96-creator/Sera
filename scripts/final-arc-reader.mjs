@@ -64,15 +64,6 @@ function assertKnownSpeakers(body, keys, where) {
   }
 }
 
-function subjectSpeaker(paragraph, aliases) {
-  const text = paragraph.trim().replace(/^\*\*/, '');
-  for (const row of aliases) {
-    const re = new RegExp(`^${escRe(row.alias)}(?:[’']s)?\\b`);
-    if (re.test(text)) return row.key;
-  }
-  return null;
-}
-
 function attributedSpeaker(paragraph, aliases) {
   const text = paragraph.trim();
   for (const row of aliases) {
@@ -114,7 +105,6 @@ function addDialogueHints(body, aliases) {
   const paragraphs = body.split(/\n{2,}/);
   let tagged = 0;
   let total = 0;
-  let focusSpeaker = null;
   let announced = null;
   // reset per chapter; addDialogueHints is called once per chapter body
 
@@ -125,7 +115,6 @@ function addDialogueHints(body, aliases) {
     if (!isStandaloneDialogue(paragraph)) {
       const narrationOnly = !paragraph.includes('“');
       announced = narrationOnly ? announcedSpeaker(paragraph, aliases) : null;
-      focusSpeaker = narrationOnly ? subjectSpeaker(paragraph, aliases) : null;
       continue;
     }
 
@@ -136,13 +125,12 @@ function addDialogueHints(body, aliases) {
     // paragraph and do not assume conversational turn-taking: either can assign a
     // plausible but wrong name in multi-person scenes.
     const selfAttribution = attributedSpeaker(outsideQuotes(paragraph), aliases);
-    const speaker = selfAttribution || announced || focusSpeaker;
+    const speaker = selfAttribution || announced;
 
     if (speaker) {
       paragraphs[i] = `[[speaker:${speaker}]]${paragraph}`;
       tagged++;
     }
-    focusSpeaker = null;
     announced = null;
   }
 
