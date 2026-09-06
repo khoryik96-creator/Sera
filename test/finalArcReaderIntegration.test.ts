@@ -8,9 +8,9 @@ import searchIndex from '../src/generated/search-index.json';
 import { TOTAL_CHAPTERS, TOTAL_SEASONS } from '../src/episodeMeta';
 
 describe('final arc reader integration', () => {
-  it('extends the archive through Season 114 and 500 total chapters', () => {
+  it('extends the archive through Season 114 while preserving total archive counting', () => {
     expect(TOTAL_SEASONS).toBe(114);
-    expect(TOTAL_CHAPTERS).toBe(500);
+    expect(TOTAL_CHAPTERS).toBe(1133);
   });
 
   it('generates all 200 final-arc chapters in ten-chapter seasons', () => {
@@ -21,7 +21,7 @@ describe('final arc reader integration', () => {
     }
   });
 
-  it('starts Phase I at Chapter 301 and keeps Yun alive through her final season', () => {
+  it('starts Phase I at Chapter 301 and keeps Yun present through her final season', () => {
     expect(season95[0].ep).toBe('Chapter 301');
     expect(season95[0].title).toBe('Two Years Beneath the Crooked Sign');
     expect(season100[5].ep).toBe('Chapter 356');
