@@ -1,0 +1,41 @@
+name: Dialogue Inference Safety
+
+on:
+  push:
+    branches:
+      - story/dialogue-audit-season95
+    paths:
+      - scripts/patch-dialogue-inference-safety.mjs
+
+permissions:
+  contents: write
+
+jobs:
+  apply-and-verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          ref: story/dialogue-audit-season95
+          fetch-depth: 0
+      - uses: actions/setup-node@v7
+        with:
+          node-version: 22
+          cache: npm
+      - name: Install dependencies
+        run: npm ci
+      - name: Remove unsupported speaker inference
+        run: node scripts/patch-dialogue-inference-safety.mjs
+      - name: Rebuild generated chapter data
+        run: npm run prepare:data
+      - name: Run tests
+        run: npm test
+      - name: Refresh dialogue worklists
+        run: npm run audit:dialogue
+      - name: Commit safety fix and refreshed worklists
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add scripts/final-arc-reader.mjs docs/dialogue-audit
+          git commit -m "Remove unsupported dialogue speaker inference"
+          git push
