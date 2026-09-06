@@ -404,7 +404,7 @@ He did not insult it by wishing she had chosen differently.
 
 Lu moved to the next marker.
 
-“Shinsei attacked in roughly two weeks. They originally had months. Yun's escape forced Tsubasa Kurokawa to accelerate.”
+“Shinsei attacked in roughly two weeks. Yun had placed them late in a four-month readiness cycle; the remaining launch window was already measured in weeks. Once her warning got out, Tsubasa cut even that down.”
 
 “Tsubasa.”
 

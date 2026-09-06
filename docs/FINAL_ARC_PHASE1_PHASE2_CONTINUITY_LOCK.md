@@ -404,7 +404,7 @@ Wuyue may have heard “Shinrin” through distant trade while still failing to 
 
 Tsubasa invades **knowing Wuyue may intervene**. He predicts cautious aid because Wuyue recently paid a devastating price fighting Isgard and because Kael's strongest army remains homeland-oriented.
 
-The original Shinsei invasion schedule is roughly four months away. Yun escapes with warning, so Tsubasa compresses the timetable to approximately **two weeks**, accepting incomplete Wuyue intelligence in exchange for striking before Wuyue can mobilize.
+Shinsei is already late in its established four-month readiness cycle when Yun escapes: her final evidence places the launch window in the remaining weeks of late month three. Once her warning succeeds, Tsubasa compresses **that remaining preparation** to approximately **two weeks**, accepting incomplete Wuyue intelligence and thinner staging redundancy in exchange for striking before Wuyue can finish mobilizing.
 
 This gamble initially works: Isgard is badly mauled before Wuyue arrives. The long-term cost is that Shinsei never completes the deeper intelligence work that would have exposed Wuyue's hidden layer.
 
