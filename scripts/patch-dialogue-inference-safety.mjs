@@ -18,8 +18,8 @@ const replacements = [
 `    // A quote paragraph can carry its own attribution — \`“No,” Eirik said. “I am\n    // surprised.”\` — and that is stated fact. Otherwise only a speaker explicitly\n    // announced by the preceding prose is used. Do not infer from the following\n    // paragraph and do not assume conversational turn-taking: either can assign a\n    // plausible but wrong name in multi-person scenes.\n    const selfAttribution = attributedSpeaker(outsideQuotes(paragraph), aliases);\n    const speaker = selfAttribution || announced || focusSpeaker;\n\n`
   ],
   [
-`    if (speaker) {\n      paragraphs[i] = \`[[speaker:${speaker}]]${paragraph}\`;\n      tagged++;\n      recentSpeakers.add(speaker);\n      if (speaker !== lastSpeaker) {\n        previousSpeaker = lastSpeaker;\n        lastSpeaker = speaker;\n      }\n    }\n`,
-`    if (speaker) {\n      paragraphs[i] = \`[[speaker:${speaker}]]${paragraph}\`;\n      tagged++;\n    }\n`
+`    if (speaker) {\n      paragraphs[i] = \`[[speaker:\${speaker}]]\${paragraph}\`;\n      tagged++;\n      recentSpeakers.add(speaker);\n      if (speaker !== lastSpeaker) {\n        previousSpeaker = lastSpeaker;\n        lastSpeaker = speaker;\n      }\n    }\n`,
+`    if (speaker) {\n      paragraphs[i] = \`[[speaker:\${speaker}]]\${paragraph}\`;\n      tagged++;\n    }\n`
   ]
 ];
 
