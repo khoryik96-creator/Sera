@@ -746,7 +746,7 @@ He simply said, “Wall on your left.”
 
 Yun caught the wall herself.
 
-“Thank you.”
+[[speaker:yun]]“Thank you.”
 
 They continued.
 
@@ -1266,7 +1266,7 @@ A guard bowed.
 
 Shunto looked at the open door.
 
-“Yes.”
+[[speaker:shunto]]“Yes.”
 
 Far north, Yun walked alone beneath Yurushi’s coat.
 

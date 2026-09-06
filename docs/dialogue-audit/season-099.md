@@ -1,6 +1,6 @@
 # Season 99 — unattributed dialogue
 
-42 quoted lines in this season have no speaker.
+35 quoted lines in this season have no speaker.
 See `README.md` in this folder for what to do with them.
 
 Lines already resolved show their speaker in `[brackets]` for context.
@@ -38,28 +38,6 @@ When the physician finished, he said, “You will be questioned.”
 >>> “No unnecessary movement.”   <-- WHO SAYS THIS?
 [yun] “Does your government issue that sentence with every room?”
 The guard almost smiled.
-```
-
-### Chapter 342 — She Does Not Give Him the War
-
-```
-[yun] “If I tell you a lie and you believe it, that is your problem. If I tell you a truth because you frighten me, that becomes mine.”
-[shunto] “You are frightened.”
-Yun met his eyes.
->>> “Yes.”   <-- WHO SAYS THIS?
-The answer surprised him.
-Good.
-```
-
-### Chapter 343 — What Shunto Chose
-
-```
-Shunto’s jaw tightened.
-[yun] “Do not make it about the chase. Do not make it about the notebook. Do not make it about me poisoning your arm.”
-She swallowed once.
->>> “You chose this.”   <-- WHO SAYS THIS?
-He opened the door.
-Yun said, “Look at me.”
 ```
 
 ### Chapter 344 — The Prison Is Still a Laboratory
@@ -246,33 +224,9 @@ Yun moved closer to the door.
 [yun] “Affiliation.”
 A pause.
 ```
-```
-[black_radiance] “Why not take ten?”
-[yun] “Because if you promise ten, something will happen at eight.”
-A pause.
->>> “Fair.”   <-- WHO SAYS THIS?
-[yun] “Plan for seven.”
-[black_radiance] “Done.”
-```
 
 ### Chapter 347 — The Roads He Built for Other People
 
-```
-[black_radiance] “Yes.”
-[yun] “You are risking years of infrastructure for me.”
-Yurushi’s face changed slightly.
->>> “No.”   <-- WHO SAYS THIS?
-Yun waited.
-[black_radiance] “I am risking one corridor for you. The rest stays dark if we do this correctly.”
-```
-```
-Yun looked at him.
-[yun] “You are strong.”
-Yurushi’s expression stayed neutral.
->>> “Sometimes.”   <-- WHO SAYS THIS?
-[yun] “How strong?”
-[black_radiance] “Strong enough that using it openly turns an escape into a military incident.”
-```
 ```
 Outside, the rear yard looked empty.
 Yurushi pointed.
@@ -340,14 +294,6 @@ Inside, the owner looked at Yurushi’s seal and swore.
 [black_radiance] “True.”
 The man opened a freight panel.
 ```
-```
-Did not make the moment about his feelings.
-He simply said, “Wall on your left.”
-Yun caught the wall herself.
->>> “Thank you.”   <-- WHO SAYS THIS?
-They continued.
-Yurushi watched her for several steps.
-```
 
 ### Chapter 350 — Yurushi Stays Behind
 
@@ -357,13 +303,5 @@ Someone inside—or close enough to inside—had helped her.
 A guard bowed.
 >>> “And the person?”   <-- WHO SAYS THIS?
 Shunto looked at the open door.
-“Yes.”
-```
-```
-A guard bowed.
-“And the person?”
-Shunto looked at the open door.
->>> “Yes.”   <-- WHO SAYS THIS?
-Far north, Yun walked alone beneath Yurushi’s coat.
-The warning was moving again.
+[shunto] “Yes.”
 ```

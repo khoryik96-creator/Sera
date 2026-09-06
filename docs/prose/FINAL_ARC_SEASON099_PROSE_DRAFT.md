@@ -726,7 +726,7 @@ Shunto said, “You think silence protects Wuyue.”
 
 Yun met his eyes.
 
-“Yes.”
+[[speaker:yun]]“Yes.”
 
 The answer surprised him.
 
@@ -1026,7 +1026,7 @@ Shunto’s jaw tightened.
 
 She swallowed once.
 
-“You chose this.”
+[[speaker:yun]]“You chose this.”
 
 He opened the door.
 

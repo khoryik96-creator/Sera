@@ -674,7 +674,7 @@ Yun answered, “I need seven.”
 
 A pause.
 
-“Fair.”
+[[speaker:black_radiance]]“Fair.”
 
 [[speaker:yun]]“Plan for seven.”
 
@@ -816,7 +816,7 @@ All from different districts.
 
 Yurushi’s face changed slightly.
 
-“No.”
+[[speaker:black_radiance]]“No.”
 
 Yun waited.
 
@@ -848,7 +848,7 @@ Yun looked at him.
 
 Yurushi’s expression stayed neutral.
 
-“Sometimes.”
+[[speaker:black_radiance]]“Sometimes.”
 
 [[speaker:yun]]“How strong?”
 
