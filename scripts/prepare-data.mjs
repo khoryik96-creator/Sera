@@ -1,6 +1,7 @@
 import { mkdir, readFile, rm, writeFile } from 'node:fs/promises';
 import { dirname, resolve } from 'node:path';
 import { fileURLToPath } from 'node:url';
+import { loadFinalArcSeasons } from './final-arc-reader.mjs';
 
 const here = dirname(fileURLToPath(import.meta.url));
 const root = resolve(here, '..');
@@ -17,6 +18,19 @@ for (const [key, value] of Object.entries(source)) {
   const match = key.match(/^season(\d+)$/);
   if (match) seasons.push({ season: Number(match[1]), episodes: value });
   else core[key] = value;
+}
+
+// Seasons 95–114 live as auditable prose drafts rather than another ~1 MB hand
+// edit inside src/data.json. Build preparation turns those canonical chapter
+// files into the same generated Episode[] modules used by every earlier season.
+const existingSeasonNumbers = new Set(seasons.map((item) => item.season));
+const finalArc = await loadFinalArcSeasons();
+for (const [key, episodes] of Object.entries(finalArc)) {
+  const season = Number(key.replace('season', ''));
+  if (existingSeasonNumbers.has(season)) {
+    throw new Error(`${key} exists in both src/data.json and final-arc prose sources`);
+  }
+  seasons.push({ season, episodes });
 }
 
 seasons.sort((a, b) => a.season - b.season);
