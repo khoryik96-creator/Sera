@@ -291,8 +291,6 @@ To keep Haru from doing something worse.
 
 That hesitation cost her objective time.
 
-Good.
-
 Yurushi coughed blood.
 
 Still smiled.
@@ -623,9 +621,7 @@ Tae was losing.
 
 Actually losing.
 
-Good.
-
-The fight should have been impossible to make easy.
+There was no shame in it. Two Paragons—one of them burning himself at triple throughput—were supposed to be a disaster.
 
 He anchored against a stone column.
 
@@ -742,8 +738,6 @@ Ironheart hardened at contact.
 He still bled.
 
 She still stopped him.
-
-Good.
 
 Then Haru attacked barehanded.
 
@@ -1043,9 +1037,7 @@ Made sure another person reached safety before he did.
 
 Nobody came back for the route-maker because the route-maker had designed things specifically so nobody needed to.
 
-Tae saw something change and did not comment.
-
-Good.
+Tae saw something change and had the sense not to comment.
 
 Yurushi finally put one arm over his shoulder.
 
@@ -1201,22 +1193,12 @@ Enemy command.
 
 Still a physician.
 
-“No direct channel.”
+“Through the medical exchange channel,” Qin said.
 
-“Prisoner medical exchange might carry redosing data eventually.”
+Lu nodded.
 
-Qin looked at him.
+That decision would matter later.
 
-“Do it without compromising intelligence.”
+For now, the report moved north.
 
-Lu was already writing.
-
-Far north, Sera would receive the news days later.
-
-Farther east, Haru’s body was beginning to fail in ways no ordinary healer could fully understand.
-
-And back in the central-region infirmary, Yurushi Amagiri woke briefly to find Tae asleep in a chair outside the treatment room.
-
-He closed his eyes again.
-
-For once, someone else had stayed.
+And somewhere in Shinrin, Hana Arakawa carried a dying strategist toward the physician who had warned him for years what medicine became when people stopped respecting why it existed.
