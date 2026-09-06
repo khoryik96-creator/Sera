@@ -57,4 +57,32 @@ describe('final-arc highlighting and click-through', () => {
     expect(resolved).toBe('wen');
     expect(DB.characters[resolved!].cultivation).toBe('Newly Sovereign');
   });
+
+  it('styles a Paragon Domain authored on an arc figure (Sigrun’s Graven Dominion)', () => {
+    // A "Paragon Domain" carries no tier word, so it used to be filtered out of
+    // the art list entirely and never styled despite appearing in the prose.
+    expect(artLore('Graven Dominion')).toBeTruthy();
+    const html = renderNovel('Sigrun opened **Graven Dominion** across the ridge.', 102, { interactiveNames: true });
+    expect(html).toContain('data-art-name="Graven Dominion"');
+  });
+
+  it('aliases Winter Essence and its modes onto Monarch’s Winter Law', () => {
+    // Canon treats Winter Essence as part of the Law, not a separate art, but the
+    // prose names it, so it styles and opens the parent's mini-card.
+    for (const alias of ['Winter Essence', 'Winter Essence: Calamity', 'Winter Essence: Quiet Snow']) {
+      const lore = artLore(alias);
+      expect(lore, alias).toBeTruthy();
+      expect(lore?.label).toBe('Supreme Domain Art');
+    }
+    const html = renderNovel('He used **Winter Essence: Calamity** on the last swing.', 113, { interactiveNames: true });
+    expect(html).toContain('data-art-name="Winter Essence: Calamity"');
+  });
+
+  it('no longer describes Sera’s revealed arts as locked', () => {
+    const orchid = DB.seraSkills.find((skill) => skill.name === 'The Orchid Blooms Only Once');
+    const blooms = DB.seraSkills.find((skill) => skill.name === 'Ten Thousand Blooms');
+    // Revealed S107 Ch428 / landed S112 Ch478, and used across S112 Ch479-480.
+    expect(`${orchid?.short} ${orchid?.lore} ${orchid?.reveal}`).not.toMatch(/reveal is locked|story reveal locked/i);
+    expect(blooms?.reveal).not.toMatch(/locked/i);
+  });
 });

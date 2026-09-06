@@ -67,6 +67,13 @@ function artTone(label: string): ArtTone {
 // so a chapter never has to carry explicit skill markup. Built lazily and cached
 // against the current DB, longest name first so overlapping names resolve to the
 // most specific art.
+/** Named modes that belong to a parent art rather than standing alone. */
+const ART_SUBMODES: Record<string, string> = {
+  'Winter Essence': 'Monarch\u2019s Winter Law',
+  'Winter Essence: Calamity': 'Monarch\u2019s Winter Law',
+  'Winter Essence: Quiet Snow': 'Monarch\u2019s Winter Law',
+};
+
 let artCache: { source: unknown; arts: ArtInfo[] } | null = null;
 function knownArts(): ArtInfo[] {
   if (artCache && artCache.source === DB) return artCache.arts;
@@ -84,7 +91,14 @@ function knownArts(): ArtInfo[] {
   }
   for (const figure of DB?.arcFigures || []) {
     for (const skill of figure.skills || []) {
-      if (/(supreme|transcended|ultimate)/i.test(skill[1] || '')) add(skill[0], skill[1], skill[1], skill[2]);
+      const category = skill[1] || '';
+      const tiered = /(supreme|transcended|ultimate)/i.test(category);
+      // A Paragon Domain carries no tier word, so it used to be dropped here and
+      // never styled in prose (Sigrun's Graven Dominion). Treat a Domain as the
+      // top-tier signature art it is.
+      const domain = /domain/i.test(category);
+      if (!tiered && !domain) continue;
+      add(skill[0], category, category, skill[2], tiered ? undefined : 'supreme');
     }
   }
   // The Shinsei Guild roster is authored in TypeScript (shinrinData.ts) rather
@@ -98,6 +112,16 @@ function knownArts(): ArtInfo[] {
       const domain = /domain/i.test(category || '') && !/(supreme|transcended|ultimate)/i.test(category || '');
       add(name, category, category, description, domain ? 'supreme' : undefined);
     }
+  }
+
+  // Some named techniques are canonically a mode of a parent art rather than a
+  // separate skill (Winter Essence and its two finishing modes belong to
+  // Monarch's Winter Law). They still appear by name in the prose, so alias them
+  // onto the parent: they style like it and open its mini-card, without adding
+  // extra entries to the Arts & Techniques roster.
+  for (const [alias, parentName] of Object.entries(ART_SUBMODES)) {
+    const parent = arts.find((art) => art.name === parentName);
+    if (parent) arts.push({ ...parent, name: alias });
   }
 
   const seen = new Set<string>();
