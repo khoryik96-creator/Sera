@@ -68,7 +68,7 @@ The stall owner noticed her expression.
 
 “Foreigners always hate the smoked leaves.”
 
-“Correctly.”
+[[speaker:yun]]“Correctly.”
 
 He laughed.
 
@@ -78,7 +78,7 @@ Yun tapped the closed almanac.
 
 “Depends on the fugitive.”
 
-“Seems excessive.”
+[[speaker:yun]]“Seems excessive.”
 
 “Not if he wants them alive.”
 
@@ -146,21 +146,21 @@ Not her signal.
 
 Yun’s fingers closed around a needle.
 
-“Who?”
+[[speaker:yun]]“Who?”
 
-“Laundry.”
+[[speaker:shunto]]“Laundry.”
 
 She looked at the laundry chute.
 
 Then at the door.
 
-“No laundry.”
+[[speaker:yun]]“No laundry.”
 
 Silence.
 
 A man outside said, pleasantly:
 
-“That is unfortunate. Your cover identity paid for the weekly service.”
+[[speaker:shunto]]“That is unfortunate. Your cover identity paid for the weekly service.”
 
 Yun’s blood went cold.
 
@@ -200,9 +200,9 @@ He had learned.
 
 “Wet floor?” he asked.
 
-“Dangerous.”
+[[speaker:yun]]“Dangerous.”
 
-“I’ve heard.”
+[[speaker:shunto]]“I’ve heard.”
 
 He did not enter.
 
@@ -222,7 +222,7 @@ Then the wall adjoining the next room.
 
 Shunto’s voice came through the gap.
 
-“You are making this more interesting than it needs to be.”
+[[speaker:shunto]]“You are making this more interesting than it needs to be.”
 
 Yun drove a needle into the plaster seam beside the bed.
 
@@ -236,7 +236,7 @@ The woman in the next room screamed.
 
 Yun threw her a coin pouch.
 
-“Apologies.”
+[[speaker:yun]]“Apologies.”
 
 Then kept moving.
 
@@ -290,25 +290,25 @@ Yun stood beside three empty vats.
 
 “You’re improving,” she said.
 
-“I’ve had a good teacher.”
+[[speaker:shunto]]“I’ve had a good teacher.”
 
-“I charge more than peaches.”
+[[speaker:yun]]“I charge more than peaches.”
 
 Shunto smiled.
 
 So that part had not changed.
 
-“Yun Shizhen.”
+[[speaker:shunto]]“Yun Shizhen.”
 
 Her face remained still.
 
 He continued.
 
-“Wuyue. Physician-adjacent poison specialist. Public rank uncertain until recently. Pale Venom.”
+[[speaker:shunto]]“Wuyue. Physician-adjacent poison specialist. Public rank uncertain until recently. Pale Venom.”
 
-“You make me sound employable.”
+[[speaker:yun]]“You make me sound employable.”
 
-“Are you denying it?”
+[[speaker:shunto]]“Are you denying it?”
 
 “No.”
 
@@ -320,19 +320,19 @@ Shunto tilted his head.
 
 “Why are you here?”
 
-“Tourism.”
+[[speaker:yun]]“Tourism.”
 
-“You have visited six medical archives.”
+[[speaker:shunto]]“You have visited six medical archives.”
 
-“I like paperwork.”
+[[speaker:yun]]“I like paperwork.”
 
-“Three military-adjacent warehouses.”
+[[speaker:shunto]]“Three military-adjacent warehouses.”
 
-“Architecture.”
+[[speaker:yun]]“Architecture.”
 
-“A river logistics office.”
+[[speaker:shunto]]“A river logistics office.”
 
-“Good view.”
+[[speaker:yun]]“Good view.”
 
 His smile widened.
 
@@ -356,19 +356,19 @@ She had not expected Shunto specifically. She had prepared the room because surv
 
 Shunto said, “Come with me.”
 
-“No.”
+[[speaker:yun]]“No.”
 
-“I am asking once.”
+[[speaker:shunto]]“I am asking once.”
 
-“How ceremonial.”
+[[speaker:yun]]“How ceremonial.”
 
-“You are a foreign ranked officer inside restricted Shinsei infrastructure.”
+[[speaker:shunto]]“You are a foreign ranked officer inside restricted Shinsei infrastructure.”
 
-“And yet your streets remain standing.”
+[[speaker:yun]]“And yet your streets remain standing.”
 
-“That is not the standard.”
+[[speaker:shunto]]“That is not the standard.”
 
-“It should be.”
+[[speaker:yun]]“It should be.”
 
 His expression changed a little.
 
@@ -384,9 +384,9 @@ Shunto watched anyway.
 
 “Interesting,” he murmured.
 
-“You say that often?”
+[[speaker:yun]]“You say that often?”
 
-“Only when people pretend not to react.”
+[[speaker:shunto]]“Only when people pretend not to react.”
 
 Yun lifted one hand.
 
@@ -410,9 +410,9 @@ He looked down.
 
 Then up.
 
-“Nothing?”
+[[speaker:shunto]]“Nothing?”
 
-“Nothing.”
+[[speaker:yun]]“Nothing.”
 
 He understood one beat too late.
 
@@ -558,11 +558,11 @@ Xie put one boot on the floor.
 
 “Window was open.”
 
-“That is because air is allowed in.”
+[[speaker:luweiran]]“That is because air is allowed in.”
 
-“So am I.”
+[[speaker:xie_wuchen]]“So am I.”
 
-“That remains under review.”
+[[speaker:luweiran]]“That remains under review.”
 
 Xie stepped fully inside and placed a ledger on Lu’s desk.
 
@@ -570,13 +570,13 @@ Lu looked at it.
 
 Then at him.
 
-“What is this?”
+[[speaker:luweiran]]“What is this?”
 
-“A ledger.”
+[[speaker:xie_wuchen]]“A ledger.”
 
-“I can see that.”
+[[speaker:luweiran]]“I can see that.”
 
-“Good.”
+[[speaker:xie_wuchen]]“Good.”
 
 Lu opened it.
 
@@ -592,21 +592,21 @@ Three intermediary names already present in the Axtaya investigation.
 
 “Where?” Lu asked.
 
-“Eastern port.”
+[[speaker:xie_wuchen]]“Eastern port.”
 
-“How?”
+[[speaker:luweiran]]“How?”
 
 Xie leaned against the wall.
 
 “A courier was being beaten.”
 
-“That does not explain how you acquired a commercial ledger.”
+[[speaker:luweiran]]“That does not explain how you acquired a commercial ledger.”
 
-“The men beating him dropped it.”
+[[speaker:xie_wuchen]]“The men beating him dropped it.”
 
-“And then?”
+[[speaker:luweiran]]“And then?”
 
-“They continued to not have it.”
+[[speaker:xie_wuchen]]“They continued to not have it.”
 
 Lu stared.
 
@@ -626,15 +626,15 @@ Rui walked in.
 
 “You vanished after the west road.”
 
-“Yes.”
+[[speaker:xie_wuchen]]“Yes.”
 
-“You said you were going south.”
+[[speaker:rui]]“You said you were going south.”
 
-“I went east.”
+[[speaker:xie_wuchen]]“I went east.”
 
-“That is not south.”
+[[speaker:rui]]“That is not south.”
 
-“Strong geography.”
+[[speaker:xie_wuchen]]“Strong geography.”
 
 Rui’s eye twitched.
 
@@ -674,7 +674,7 @@ Rui’s irritation faded.
 
 “How long overdue?”
 
-“More than a week past her expected contact window.”
+[[speaker:luweiran]]“More than a week past her expected contact window.”
 
 Xie’s expression went still.
 
@@ -682,13 +682,13 @@ He had known she was away.
 
 He had not known that.
 
-“Where?”
+[[speaker:xie_wuchen]]“Where?”
 
-“Shinrin.”
+[[speaker:luweiran]]“Shinrin.”
 
-“Alone?”
+[[speaker:xie_wuchen]]“Alone?”
 
-“Yes.”
+[[speaker:luweiran]]“Yes.”
 
 Xie looked toward the open window.
 
@@ -700,11 +700,11 @@ Xie glanced at him.
 
 “No what?”
 
-“You are thinking about disappearing again.”
+[[speaker:rui]]“You are thinking about disappearing again.”
 
-“I’m always thinking about disappearing.”
+[[speaker:xie_wuchen]]“I’m always thinking about disappearing.”
 
-“That is the problem.”
+[[speaker:rui]]“That is the problem.”
 
 Lu closed the ledger.
 
@@ -716,27 +716,27 @@ Lu was not stronger; somehow everyone eventually obeyed the man holding the docu
 
 He tapped one line.
 
-“This vessel unloaded in Wuyue three months ago under a fever-resin declaration. Same vessel departed for Shinrin twelve days later. Then it changed ownership on paper without changing crew.”
+[[speaker:luweiran]]“This vessel unloaded in Wuyue three months ago under a fever-resin declaration. Same vessel departed for Shinrin twelve days later. Then it changed ownership on paper without changing crew.”
 
 Xie said, “False transfer.”
 
-“Yes.”
+[[speaker:luweiran]]“Yes.”
 
 Rui frowned.
 
 “Smuggling?”
 
-“Maybe. But the customs clearance on the Shinrin side was unusually fast.”
+[[speaker:luweiran]]“Maybe. But the customs clearance on the Shinrin side was unusually fast.”
 
 Xie pushed away from the wall.
 
 “You want the captain.”
 
-“I want the records around the captain.”
+[[speaker:luweiran]]“I want the records around the captain.”
 
-“Same problem.”
+[[speaker:xie_wuchen]]“Same problem.”
 
-“No. Captains lie. Routes lie less.”
+[[speaker:luweiran]]“No. Captains lie. Routes lie less.”
 
 Xie looked almost impressed.
 
@@ -746,9 +746,9 @@ Rui said, “I can send Azure people.”
 
 “No visible sect detachment,” Lu said. “Not yet.”
 
-“Why?”
+[[speaker:rui]]“Why?”
 
-“Because Yun left to investigate a pharmaceutical route, not to start an international incident.”
+[[speaker:luweiran]]“Because Yun left to investigate a pharmaceutical route, not to start an international incident.”
 
 Xie glanced at the window again.
 
@@ -756,9 +756,9 @@ Lu pointed at him without looking.
 
 “You also do not start one.”
 
-“I have no affiliation. Very difficult to create an official incident.”
+[[speaker:xie_wuchen]]“I have no affiliation. Very difficult to create an official incident.”
 
-“You are a newly Sovereign Wind-Qi cultivator personally recognized by Wuyue’s No.5.”
+[[speaker:luweiran]]“You are a newly Sovereign Wind-Qi cultivator personally recognized by Wuyue’s No.5.”
 
 Xie looked at Rui.
 
@@ -776,7 +776,7 @@ Xie took the sheet.
 
 “You assume I’m doing this.”
 
-“No.”
+[[speaker:luweiran]]“No.”
 
 Lu dipped his brush.
 
@@ -788,15 +788,15 @@ Xie looked offended.
 
 That was new.
 
-“I may not.”
+[[speaker:xie_wuchen]]“I may not.”
 
-“Then the sheet was inexpensive.”
+[[speaker:luweiran]]“Then the sheet was inexpensive.”
 
 For a long moment Xie said nothing.
 
 Then folded the paper once and slid it into his sleeve.
 
-“I am still not joining anything.”
+[[speaker:xie_wuchen]]“I am still not joining anything.”
 
 Rui said, “Nobody asked.”
 
@@ -810,7 +810,7 @@ Rui stared.
 
 “I didn’t open it.”
 
-“You are closest.”
+[[speaker:luweiran]]“You are closest.”
 
 Wuyue No.5, Peak Sovereign, master of Azure forces and one of the most feared swordsmen alive, walked over and closed the window.
 
@@ -822,9 +822,9 @@ Rui sat down.
 
 “You enjoy this.”
 
-“No.”
+[[speaker:luweiran]]“No.”
 
-“You absolutely do.”
+[[speaker:rui]]“You absolutely do.”
 
 Lu turned a page.
 
@@ -856,17 +856,17 @@ Shunto stopped fifteen paces away.
 
 “No wet floors today?” he asked.
 
-“Seasonal.”
+[[speaker:yun]]“Seasonal.”
 
 He touched the ceramic vial.
 
-“I brought a gift.”
+[[speaker:shunto]]“I brought a gift.”
 
-“You should drink it now.”
+[[speaker:yun]]“You should drink it now.”
 
-“What is it?”
+[[speaker:shunto]]“What is it?”
 
-“Depends what I put here yesterday.”
+[[speaker:yun]]“Depends what I put here yesterday.”
 
 Shunto’s eyes flicked once toward the stone under his boots.
 
@@ -890,11 +890,11 @@ Annoying.
 
 “You’ve been practicing,” Yun said.
 
-“So have you.”
+[[speaker:shunto]]“So have you.”
 
-“Mine is more fun.”
+[[speaker:yun]]“Mine is more fun.”
 
-“I disagree.”
+[[speaker:shunto]]“I disagree.”
 
 He moved.
 
@@ -1050,9 +1050,9 @@ Shunto heard.
 
 “Disappointed?”
 
-“Deeply.”
+[[speaker:yun]]“Deeply.”
 
-“Good.”
+[[speaker:shunto]]“Good.”
 
 He advanced.
 

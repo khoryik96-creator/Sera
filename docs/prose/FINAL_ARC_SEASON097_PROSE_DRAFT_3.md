@@ -152,7 +152,7 @@ Yun said, “Possibly.”
 
 “That is not reassuring.”
 
-“I’m not here to hurt you.”
+[[speaker:yun]]“I’m not here to hurt you.”
 
 “Also what people say before hurting you.”
 
@@ -200,11 +200,11 @@ Yun moved.
 
 At the back stair she paused.
 
-“Thank you.”
+[[speaker:yun]]“Thank you.”
 
 “Do not come back.”
 
-“Reasonable.”
+[[speaker:yun]]“Reasonable.”
 
 She slipped into the rain.
 
@@ -342,15 +342,15 @@ Yun kept her eyes on her own cup.
 
 “I did.”
 
-“Tragic.”
+[[speaker:yun]]“Tragic.”
 
 A faint smile.
 
-“I changed six pursuit procedures because of you.”
+[[speaker:shunto]]“I changed six pursuit procedures because of you.”
 
-“I should charge consulting fees.”
+[[speaker:yun]]“I should charge consulting fees.”
 
-“You already cost the Guild enough.”
+[[speaker:shunto]]“You already cost the Guild enough.”
 
 There.
 
@@ -364,13 +364,13 @@ The hunt was institutional now.
 
 Yun said, “If I’m so expensive, stop looking.”
 
-“You are a foreign Sovereign moving through restricted medical and military infrastructure.”
+[[speaker:shunto]]“You are a foreign Sovereign moving through restricted medical and military infrastructure.”
 
-“Still no cities on fire.”
+[[speaker:yun]]“Still no cities on fire.”
 
-“You keep returning to that defense.”
+[[speaker:shunto]]“You keep returning to that defense.”
 
-“It keeps being true.”
+[[speaker:yun]]“It keeps being true.”
 
 Shunto lifted his cup.
 
@@ -386,9 +386,9 @@ They both lied politely.
 
 “What are you trying to find?” he asked.
 
-“Good tea.”
+[[speaker:yun]]“Good tea.”
 
-“You came to the wrong district.”
+[[speaker:shunto]]“You came to the wrong district.”
 
 Yun finally looked at him.
 
@@ -412,7 +412,7 @@ Pain had taught him.
 
 Yun said, “You could have surrounded this place.”
 
-“I did.”
+[[speaker:shunto]]“I did.”
 
 She listened.
 
@@ -420,19 +420,19 @@ No obvious boots outside.
 
 Which meant he had learned that too.
 
-“Then why are we talking?”
+[[speaker:yun]]“Then why are we talking?”
 
-“Because you keep behaving as though escape is more important than killing me.”
+[[speaker:shunto]]“Because you keep behaving as though escape is more important than killing me.”
 
-“It is.”
+[[speaker:yun]]“It is.”
 
-“That suggests you have an objective beyond me.”
+[[speaker:shunto]]“That suggests you have an objective beyond me.”
 
-“Everyone has an objective beyond you.”
+[[speaker:yun]]“Everyone has an objective beyond you.”
 
 He smiled.
 
-“Not everyone.”
+[[speaker:shunto]]“Not everyone.”
 
 The answer was too revealing in a different direction.
 
@@ -442,29 +442,29 @@ Shunto continued.
 
 “You are not here to assassinate anyone. If you were, you would have tried already.”
 
-“Comforting.”
+[[speaker:yun]]“Comforting.”
 
 “You are not here to sabotage infrastructure. Your routes avoid civilian systems whenever possible.”
 
-“Also comforting.”
+[[speaker:yun]]“Also comforting.”
 
-“You are reading.”
+[[speaker:shunto]]“You are reading.”
 
 Yun’s eyes cooled.
 
 Shunto saw it.
 
-“Archives. Warehouses. movement. Medicine.”
+[[speaker:shunto]]“Archives. Warehouses. movement. Medicine.”
 
 He leaned back.
 
-“So I ask again. What are you trying to find?”
+[[speaker:shunto]]“So I ask again. What are you trying to find?”
 
 Yun finished her tea.
 
 Then set the cup down.
 
-“Why your state needs so much medicine.”
+[[speaker:yun]]“Why your state needs so much medicine.”
 
 For the first time, Shunto’s expression truly changed.
 
@@ -474,7 +474,7 @@ But real.
 
 Yun stood.
 
-“You should fix your face.”
+[[speaker:yun]]“You should fix your face.”
 
 The door behind her opened.
 

@@ -86,7 +86,7 @@ The inspector’s eyes moved over the room.
 
 “Foreign medical trader?”
 
-“Yes.”
+[[speaker:yun]]“Yes.”
 
 “Permit.”
 
@@ -96,7 +96,7 @@ The woman checked the seal.
 
 “What are you doing in a grain office?”
 
-“Trying to understand why fever bark costs twelve percent more here than at the southern port.”
+[[speaker:yun]]“Trying to understand why fever bark costs twelve percent more here than at the southern port.”
 
 “That requires military transport schedules?”
 
@@ -104,7 +104,7 @@ The visible paper had one protected-route stamp on it.
 
 Yun looked down as though noticing for the first time.
 
-“Apparently grain brokers file everything together.”
+[[speaker:yun]]“Apparently grain brokers file everything together.”
 
 The inspector did not smile.
 
@@ -128,11 +128,11 @@ Read it.
 
 “This is restricted.”
 
-“Then your broker has poor filing discipline.”
+[[speaker:yun]]“Then your broker has poor filing discipline.”
 
 “Where is he?”
 
-“Downstairs, unless you’ve arrested him on the way up.”
+[[speaker:yun]]“Downstairs, unless you’ve arrested him on the way up.”
 
 The woman watched Yun for three breaths.
 
@@ -160,13 +160,13 @@ He poked his head into the attic.
 
 “What did you do?”
 
-“Read.”
+[[speaker:yun]]“Read.”
 
 “That is what I feared.”
 
 Yun gave him the agreed coin and packed the remaining ledger copies.
 
-“Did she ask about me?”
+[[speaker:yun]]“Did she ask about me?”
 
 “Everyone asks about you now.”
 
@@ -176,17 +176,17 @@ The broker swallowed.
 
 “I mean foreign merchants. Archives. Clinics. Nothing specific.”
 
-“Specific enough.”
+[[speaker:yun]]“Specific enough.”
 
 He looked miserable.
 
 Yun softened by one degree.
 
-“You did not see me again after tonight.”
+[[speaker:yun]]“You did not see me again after tonight.”
 
 “I would prefer not to.”
 
-“Wise.”
+[[speaker:yun]]“Wise.”
 
 She left through the rear stairs.
 
@@ -354,11 +354,11 @@ He grinned.
 
 “Foreign?”
 
-“Apparently obvious.”
+[[speaker:yun]]“Apparently obvious.”
 
 “You stare at soldiers.”
 
-“That seems unsafe.”
+[[speaker:yun]]“That seems unsafe.”
 
 “Locals stopped staring years ago.”
 
@@ -370,7 +370,7 @@ The fisherman snorted.
 
 “Before Shinsei? Every clan had soldiers. More flags. Less discipline.”
 
-“I meant cultivators.”
+[[speaker:yun]]“I meant cultivators.”
 
 “Ah.”
 
@@ -380,7 +380,7 @@ He considered.
 
 Yun’s attention sharpened.
 
-“Shared training?”
+[[speaker:yun]]“Shared training?”
 
 “Some. Standards. Medicine. Common basics. Big clans still hoard their pretty secrets.”
 
@@ -406,7 +406,7 @@ Yun stood.
 
 “Not yet.”
 
-“How long have you been here?”
+[[speaker:yun]]“How long have you been here?”
 
 “Twenty years.”
 
@@ -454,13 +454,13 @@ Rhen was lying on his back beside her, awake.
 
 “Are you doing that?”
 
-“No.”
+[[speaker:rhen]]“No.”
 
 Sera lifted the frozen edge of the blanket.
 
 “You understand why that answer is worse.”
 
-“Yes.”
+[[speaker:rhen]]“Yes.”
 
 She sat up.
 
@@ -474,13 +474,13 @@ Sera touched his shoulder.
 
 “No pain?”
 
-“No.”
+[[speaker:rhen]]“No.”
 
-“Pressure?”
+[[speaker:sera]]“Pressure?”
 
-“More.”
+[[speaker:rhen]]“More.”
 
-“How much more?”
+[[speaker:sera]]“How much more?”
 
 Rhen stared at the ceiling.
 
@@ -490,25 +490,25 @@ Sera’s expression sharpened.
 
 “You promised.”
 
-“I’m telling you.”
+[[speaker:rhen]]“I’m telling you.”
 
-“After I woke up frozen.”
+[[speaker:sera]]“After I woke up frozen.”
 
-“The blanket is frozen.”
+[[speaker:rhen]]“The blanket is frozen.”
 
-“You’re lucky you’re pretty.”
+[[speaker:sera]]“You’re lucky you’re pretty.”
 
 Rhen looked over.
 
 “Am I?”
 
-“Don’t ruin it.”
+[[speaker:sera]]“Don’t ruin it.”
 
 That got the small smile she wanted.
 
 Then she put her hand over his sternum.
 
-“Show me properly.”
+[[speaker:sera]]“Show me properly.”
 
 Rhen hesitated.
 
@@ -536,79 +536,79 @@ Sera’s hand stayed on his chest.
 
 “Yes.”
 
-“Bad?”
+[[speaker:sera]]“Bad?”
 
-“Not yet.”
+[[speaker:rhen]]“Not yet.”
 
-“Rhen.”
+[[speaker:sera]]“Rhen.”
 
 He sighed.
 
-“Potentially.”
+[[speaker:rhen]]“Potentially.”
 
 She lay back down, but not away from him.
 
 Instead she pulled one leg over his and rested her chin on his shoulder.
 
-“Explain like I’m not you.”
+[[speaker:sera]]“Explain like I’m not you.”
 
 He considered.
 
-“The Garden keeps restoring what I spend.”
+[[speaker:rhen]]“The Garden keeps restoring what I spend.”
 
-“I know.”
+[[speaker:sera]]“I know.”
 
-“It also keeps refining it.”
+[[speaker:rhen]]“It also keeps refining it.”
 
-“I know that too.”
+[[speaker:sera]]“I know that too.”
 
-“The refinement increased recovery efficiency.”
+[[speaker:rhen]]“The refinement increased recovery efficiency.”
 
 Sera waited.
 
 “So?”
 
-“So the reserve returns denser than before.”
+[[speaker:rhen]]“So the reserve returns denser than before.”
 
-“And?”
+[[speaker:sera]]“And?”
 
-“And I was already not short on reserve.”
+[[speaker:rhen]]“And I was already not short on reserve.”
 
-“That is the understatement of your life.”
+[[speaker:sera]]“That is the understatement of your life.”
 
 Rhen ignored that.
 
 “Think of pouring water into a sealed jar.”
 
-“Finally, a normal metaphor.”
+[[speaker:sera]]“Finally, a normal metaphor.”
 
-“Then replacing the water with mercury.”
+[[speaker:rhen]]“Then replacing the water with mercury.”
 
-“There it is.”
+[[speaker:sera]]“There it is.”
 
-“The jar does not get larger.”
+[[speaker:rhen]]“The jar does not get larger.”
 
 Sera’s amusement faded.
 
 “You’re the jar.”
 
-“Yes.”
+[[speaker:rhen]]“Yes.”
 
-“And the answer is what you said before. Make the qi take less space.”
+[[speaker:sera]]“And the answer is what you said before. Make the qi take less space.”
 
-“Yes.”
+[[speaker:rhen]]“Yes.”
 
-“Condense it.”
+[[speaker:sera]]“Condense it.”
 
-“Eventually.”
+[[speaker:rhen]]“Eventually.”
 
 She pressed her face into his shoulder for one irritated second.
 
-“I dislike eventually.”
+[[speaker:sera]]“I dislike eventually.”
 
-“So do I.”
+[[speaker:rhen]]“So do I.”
 
-“When?”
+[[speaker:sera]]“When?”
 
 Rhen looked toward the dark window.
 
@@ -630,21 +630,21 @@ No message.
 
 Sera said, “This is unrelated.”
 
-“Yes.”
+[[speaker:rhen]]“Yes.”
 
-“You’re not delaying because you think I’ll need you.”
+[[speaker:sera]]“You’re not delaying because you think I’ll need you.”
 
 Rhen turned his head.
 
 She was watching him closely.
 
-“That would be a bad reason.”
+[[speaker:rhen]]“That would be a bad reason.”
 
-“It would also be a very you reason.”
+[[speaker:sera]]“It would also be a very you reason.”
 
 He thought about denying it.
 
-“Partly.”
+[[speaker:rhen]]“Partly.”
 
 Sera pinched his side.
 
@@ -652,15 +652,15 @@ Rhen did not flinch.
 
 “That is cheating,” she said.
 
-“I’m durable.”
+[[speaker:rhen]]“I’m durable.”
 
-“You’re impossible.”
+[[speaker:sera]]“You’re impossible.”
 
 She let go.
 
 Then, quieter:
 
-“If you need to close the door, you close it.”
+[[speaker:sera]]“If you need to close the door, you close it.”
 
 Rhen said nothing.
 
@@ -680,13 +680,13 @@ She blinked.
 
 Then stared.
 
-“You stole my line.”
+[[speaker:sera]]“You stole my line.”
 
-“It was good.”
+[[speaker:rhen]]“It was good.”
 
-“You heard that?”
+[[speaker:sera]]“You heard that?”
 
-“Xie complained about it downstairs.”
+[[speaker:rhen]]“Xie complained about it downstairs.”
 
 Sera covered her face with one hand.
 
@@ -702,9 +702,9 @@ Sera settled back against him.
 
 “Promise me something else.”
 
-“What?”
+[[speaker:rhen]]“What?”
 
-“When you know it’s time, don’t wait for a crisis to make the decision.”
+[[speaker:sera]]“When you know it’s time, don’t wait for a crisis to make the decision.”
 
 Rhen looked at the frost dissolving along the blanket edge.
 
@@ -714,9 +714,9 @@ Sera lifted her head.
 
 “Okay as in yes?”
 
-“Yes.”
+[[speaker:rhen]]“Yes.”
 
-“Good.”
+[[speaker:sera]]“Good.”
 
 She kissed him once.
 
@@ -734,9 +734,9 @@ Rhen closed his eyes.
 
 “Add it to the teapot.”
 
-“I have a list.”
+[[speaker:sera]]“I have a list.”
 
-“I know.”
+[[speaker:rhen]]“I know.”
 
 The frost did not return before morning.
 
