@@ -1,0 +1,43 @@
+name: Dialogue Audit S95 Batch 2
+
+on:
+  push:
+    branches:
+      - story/dialogue-audit-season95
+    paths:
+      - scripts/apply-dialogue-s95-ch302-304.mjs
+      - .github/workflows/dialogue-audit-s95-batch2.yml
+
+permissions:
+  contents: write
+
+jobs:
+  apply-and-verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          ref: story/dialogue-audit-season95
+          fetch-depth: 0
+      - uses: actions/setup-node@v7
+        with:
+          node-version: 24
+          cache: npm
+      - name: Install dependencies
+        run: npm ci
+      - name: Apply explicit dialogue markers
+        run: node scripts/apply-dialogue-s95-ch302-304.mjs
+      - name: Rebuild generated chapter data
+        run: npm run prepare:data
+      - name: Run tests
+        run: npm test
+      - name: Refresh dialogue audit worklists
+        run: npm run audit:dialogue
+      - name: Commit source markers and refreshed worklists
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/prose/FINAL_ARC_SEASON095_PROSE_DRAFT.md docs/dialogue-audit
+          git diff --cached --quiet && exit 0
+          git commit -m "Resolve dialogue speakers in S95 chapters 302-304"
+          git push origin HEAD:story/dialogue-audit-season95
