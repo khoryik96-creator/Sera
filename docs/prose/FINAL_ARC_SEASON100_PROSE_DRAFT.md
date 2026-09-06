@@ -96,13 +96,13 @@ He had been avoiding it because obvious answers could still be inconvenient.
 
 Sera opened one eye.
 
-“You are thinking loudly.”
+[[speaker:sera]]“You are thinking loudly.”
 
 Rhen looked back.
 
-“I did not know that was possible.”
+[[speaker:rhen]]“I did not know that was possible.”
 
-“It is when you sit at the edge of the bed before sunrise looking like you want to argue with your organs.”
+[[speaker:sera]]“It is when you sit at the edge of the bed before sunrise looking like you want to argue with your organs.”
 
 He almost smiled.
 
@@ -112,17 +112,17 @@ Then saw the frost beneath the window.
 
 The smile left her face.
 
-“How long?”
+[[speaker:sera]]“How long?”
 
-“Since it became this bad?”
+[[speaker:rhen]]“Since it became this bad?”
 
-“Yes.”
+[[speaker:sera]]“Yes.”
 
-“This morning.”
+[[speaker:rhen]]“This morning.”
 
-“Truth.”
+[[speaker:sera]]“Truth.”
 
-“That is the truth.”
+[[speaker:rhen]]“That is the truth.”
 
 She watched him.
 
@@ -132,15 +132,15 @@ Sera remained the person most capable of making him feel caught with one look.
 
 He sighed.
 
-“The pressure has been worsening for months.”
+[[speaker:rhen]]“The pressure has been worsening for months.”
 
-“I know.”
+[[speaker:sera]]“I know.”
 
-“I thought I could keep adapting the suppression.”
+[[speaker:rhen]]“I thought I could keep adapting the suppression.”
 
-“I know.”
+[[speaker:sera]]“I know.”
 
-“The suppression is now part of every waking breath.”
+[[speaker:rhen]]“The suppression is now part of every waking breath.”
 
 That was new.
 
@@ -150,89 +150,89 @@ Rhen continued before she could ask.
 
 “Not exhausting. Not yet. But continuous.”
 
-“And sleep?”
+[[speaker:sera]]“And sleep?”
 
-“This morning says sleep is no longer enough.”
+[[speaker:rhen]]“This morning says sleep is no longer enough.”
 
 Sera looked at the frosted window.
 
 Then back at him.
 
-“Unsafe.”
+[[speaker:sera]]“Unsafe.”
 
-“Yes.”
+[[speaker:rhen]]“Yes.”
 
 No argument.
 
 That worried her more than an argument would have.
 
-“What is the fix?”
+[[speaker:sera]]“What is the fix?”
 
 Rhen rested one hand over his sternum.
 
-“Condensation.”
+[[speaker:rhen]]“Condensation.”
 
-“You said that before.”
+[[speaker:sera]]“You said that before.”
 
-“I was hoping not to need the full version.”
+[[speaker:rhen]]“I was hoping not to need the full version.”
 
-“What is the full version?”
+[[speaker:sera]]“What is the full version?”
 
-“The reserve has to take less space.”
+[[speaker:rhen]]“The reserve has to take less space.”
 
 Sera frowned slightly.
 
-“Same qi?”
+[[speaker:sera]]“Same qi?”
 
-“Eventually more.”
+[[speaker:rhen]]“Eventually more.”
 
-“That sounded suspiciously like more power.”
+[[speaker:sera]]“That sounded suspiciously like more power.”
 
-“It is not the purpose.”
+[[speaker:rhen]]“It is not the purpose.”
 
-“Explain it without being annoying.”
+[[speaker:sera]]“Explain it without being annoying.”
 
 Rhen considered.
 
-“Imagine packing snow.”
+[[speaker:rhen]]“Imagine packing snow.”
 
 Sera stared.
 
-“That is your explanation?”
+[[speaker:sera]]“That is your explanation?”
 
-“You asked for less annoying.”
+[[speaker:rhen]]“You asked for less annoying.”
 
-“I did.”
+[[speaker:sera]]“I did.”
 
-“Loose snow fills a courtyard quickly. Packed snow occupies less volume without becoming less snow.”
+[[speaker:rhen]]“Loose snow fills a courtyard quickly. Packed snow occupies less volume without becoming less snow.”
 
 Sera’s eyes narrowed.
 
-“So your current qi is loose snow.”
+[[speaker:sera]]“So your current qi is loose snow.”
 
-“Extremely dangerous loose snow.”
+[[speaker:rhen]]“Extremely dangerous loose snow.”
 
-“And you need to compress it until your body can hold it without leaking winter into the furniture.”
+[[speaker:sera]]“And you need to compress it until your body can hold it without leaking winter into the furniture.”
 
-“Yes.”
+[[speaker:rhen]]“Yes.”
 
-“That was almost understandable.”
+[[speaker:sera]]“That was almost understandable.”
 
-“Thank you.”
+[[speaker:rhen]]“Thank you.”
 
-“How long?”
+[[speaker:sera]]“How long?”
 
 Rhen looked toward the window.
 
-“Months, possibly.”
+[[speaker:rhen]]“Months, possibly.”
 
 Silence.
 
 Sera’s gaze moved to him again.
 
-“How many?”
+[[speaker:sera]]“How many?”
 
-“I do not know.”
+[[speaker:rhen]]“I do not know.”
 
 That answer stayed between them.
 
@@ -250,15 +250,15 @@ Rhen listened.
 
 Sera said, “You are going to close the door.”
 
-“Yes.”
+[[speaker:rhen]]“Yes.”
 
-“Today?”
+[[speaker:sera]]“Today?”
 
-“No.”
+[[speaker:rhen]]“No.”
 
-“When?”
+[[speaker:sera]]“When?”
 
-“Soon.”
+[[speaker:rhen]]“Soon.”
 
 She did not tell him not to.
 
@@ -268,23 +268,23 @@ Sera had spent too much of her life being protected without consent to confuse l
 
 Instead she asked, “Can the Garden keep running while you are inside?”
 
-“Yes. The long-term passive is already established. It does not require me to consciously maintain every cycle.”
+[[speaker:rhen]]“Yes. The long-term passive is already established. It does not require me to consciously maintain every cycle.”
 
-“Can Lu manage the clinic?”
+[[speaker:sera]]“Can Lu manage the clinic?”
 
-“With Luo and the apprentices.”
+[[speaker:rhen]]“With Luo and the apprentices.”
 
-“Can I run Quaint?”
+[[speaker:sera]]“Can I run Quaint?”
 
 Rhen looked at her.
 
 Sera’s eyebrow rose.
 
-“Wrong answer and I freeze you myself.”
+[[speaker:sera]]“Wrong answer and I freeze you myself.”
 
-“You can run everything.”
+[[speaker:rhen]]“You can run everything.”
 
-“Better.”
+[[speaker:sera]]“Better.”
 
 He took her hand.
 
@@ -294,11 +294,11 @@ The frost in the room had already vanished.
 
 Rhen said, “I am sorry.”
 
-“For needing medical treatment?”
+[[speaker:sera]]“For needing medical treatment?”
 
-“For timing.”
+[[speaker:rhen]]“For timing.”
 
-“What timing?”
+[[speaker:sera]]“What timing?”
 
 He glanced toward the outer rooms.
 
@@ -316,23 +316,23 @@ Rhen said, “It feels like a bad time to disappear.”
 
 Sera squeezed his hand.
 
-“There is never a good time for someone useful to become unavailable.”
+[[speaker:sera]]“There is never a good time for someone useful to become unavailable.”
 
-“That is not comforting.”
+[[speaker:rhen]]“That is not comforting.”
 
-“It is not supposed to be.”
+[[speaker:sera]]“It is not supposed to be.”
 
 She leaned closer.
 
-“You told me when it became unsafe.”
+[[speaker:sera]]“You told me when it became unsafe.”
 
-“Yes.”
+[[speaker:rhen]]“Yes.”
 
-“That was the deal.”
+[[speaker:sera]]“That was the deal.”
 
-“Yes.”
+[[speaker:rhen]]“Yes.”
 
-“Then keep the rest of it.”
+[[speaker:sera]]“Then keep the rest of it.”
 
 Rhen nodded.
 
@@ -380,41 +380,41 @@ Xie Wuchen followed him through the door and immediately looked as though being 
 
 Luo glanced up.
 
-“News?”
+[[speaker:luo]]“News?”
 
 So much for not asking.
 
 Lu placed the registry on the table.
 
-“Not enough.”
+[[speaker:luweiran]]“Not enough.”
 
 Luo’s face changed by almost nothing.
 
-“Tell me anyway.”
+[[speaker:luo]]“Tell me anyway.”
 
 Xie leaned against the wall.
 
-“This came through a merchant office two ports east.”
+[[speaker:xie_wuchen]]“This came through a merchant office two ports east.”
 
 Luo looked at him.
 
-“I thought you were done helping.”
+[[speaker:luo]]“I thought you were done helping.”
 
-“I was.”
+[[speaker:xie_wuchen]]“I was.”
 
-“Then?”
+[[speaker:luo]]“Then?”
 
-“The courier was extorting refugees.”
+[[speaker:xie_wuchen]]“The courier was extorting refugees.”
 
 Lu said, “He stopped the extortion, found the ledger and brought it here.”
 
 Xie looked offended.
 
-“That makes it sound deliberate.”
+[[speaker:xie_wuchen]]“That makes it sound deliberate.”
 
-“It was deliberate.”
+[[speaker:luweiran]]“It was deliberate.”
 
-“Temporarily deliberate.”
+[[speaker:xie_wuchen]]“Temporarily deliberate.”
 
 Nobody argued.
 
@@ -422,11 +422,11 @@ Xie waited.
 
 Then frowned.
 
-“You are supposed to tell me I keep coming back.”
+[[speaker:xie_wuchen]]“You are supposed to tell me I keep coming back.”
 
 Sera entered behind him carrying tea.
 
-“We got bored.”
+[[speaker:sera]]“We got bored.”
 
 Xie looked more offended.
 
@@ -450,17 +450,17 @@ One merchant credential had been used repeatedly in districts far deeper inland 
 
 Lu tapped it.
 
-“This credential crossed through three interior medical zones over eleven weeks.”
+[[speaker:luweiran]]“This credential crossed through three interior medical zones over eleven weeks.”
 
 Luo stared.
 
-“You think it was hers.”
+[[speaker:luo]]“You think it was hers.”
 
-“I think it matches one alias fragment from the first route she used.”
+[[speaker:luweiran]]“I think it matches one alias fragment from the first route she used.”
 
-“Think.”
+[[speaker:luo]]“Think.”
 
-“Yes.”
+[[speaker:luweiran]]“Yes.”
 
 Not certainty.
 
@@ -470,11 +470,11 @@ Luo respected him for that.
 
 Hated him slightly too.
 
-“Where does it end?”
+[[speaker:luo]]“Where does it end?”
 
 Lu turned the page.
 
-“Here.”
+[[speaker:luweiran]]“Here.”
 
 A transfer station near the northern administrative corridor.
 
@@ -482,31 +482,31 @@ Then nothing.
 
 Luo’s jaw tightened.
 
-“Coordinate?”
+[[speaker:luo]]“Coordinate?”
 
-“No.”
+[[speaker:luweiran]]“No.”
 
-“Local contact?”
+[[speaker:luo]]“Local contact?”
 
-“No.”
+[[speaker:luweiran]]“No.”
 
-“Prison?”
+[[speaker:luo]]“Prison?”
 
-“No.”
+[[speaker:luweiran]]“No.”
 
-“Anything useful?”
+[[speaker:luo]]“Anything useful?”
 
-“It tells us she went much deeper than she expected.”
+[[speaker:luweiran]]“It tells us she went much deeper than she expected.”
 
 Luo looked at him.
 
-“That is not useful.”
+[[speaker:luo]]“That is not useful.”
 
-“It is operationally useful.”
+[[speaker:luweiran]]“It is operationally useful.”
 
-“It does not tell me where she is.”
+[[speaker:luo]]“It does not tell me where she is.”
 
-“No.”
+[[speaker:luweiran]]“No.”
 
 Lu did not soften the answer.
 
@@ -518,7 +518,7 @@ He did not touch it.
 
 Xie pushed away from the wall.
 
-“I can go north.”
+[[speaker:xie_wuchen]]“I can go north.”
 
 Everyone looked at him.
 
@@ -528,37 +528,37 @@ Sera said, “To where?”
 
 Xie gestured at the ledger.
 
-“Shinrin.”
+[[speaker:xie_wuchen]]“Shinrin.”
 
-“Which city?”
-
-Silence.
-
-“Which road?”
+[[speaker:sera]]“Which city?”
 
 Silence.
 
-“Which building?”
+[[speaker:sera]]“Which road?”
+
+Silence.
+
+[[speaker:sera]]“Which building?”
 
 Xie’s mouth tightened.
 
 Sera continued.
 
-“We know she crossed a continent-sized state under an alias. We know a medical credential touched multiple interior districts. We do not know whether she is still on any of those routes.”
+[[speaker:sera]]“We know she crossed a continent-sized state under an alias. We know a medical credential touched multiple interior districts. We do not know whether she is still on any of those routes.”
 
 Xie looked at Luo.
 
-“I could search.”
+[[speaker:xie_wuchen]]“I could search.”
 
 Luo finally spoke.
 
-“And become a second missing person.”
+[[speaker:luo]]“And become a second missing person.”
 
 Xie said nothing.
 
 Luo’s voice was tired.
 
-“Yun went because one person was hard to notice. If we send random strong people after her without a location, we turn the country into a net around everyone.”
+[[speaker:luo]]“Yun went because one person was hard to notice. If we send random strong people after her without a location, we turn the country into a net around everyone.”
 
 That was exactly why she had left him behind.
 
@@ -568,7 +568,7 @@ Understanding did not make it kinder.
 
 Lu pointed to another mark.
 
-“There is one more thing.”
+[[speaker:luweiran]]“There is one more thing.”
 
 A northern routing code.
 
@@ -578,19 +578,19 @@ Enough to indicate Yun had started moving toward Isgard-linked trade corridors b
 
 Luo stared at it.
 
-“Home?”
+[[speaker:luo]]“Home?”
 
-“Possibly.”
+[[speaker:luweiran]]“Possibly.”
 
-“Captured?”
+[[speaker:luo]]“Captured?”
 
-“Possibly.”
+[[speaker:luweiran]]“Possibly.”
 
-“Dead?”
+[[speaker:luo]]“Dead?”
 
 Lu was quiet.
 
-“Possible.”
+[[speaker:luweiran]]“Possible.”
 
 Sera’s eyes closed briefly.
 
@@ -604,7 +604,7 @@ He drank anyway.
 
 Xie moved toward the door.
 
-“I am done after this.”
+[[speaker:xie_wuchen]]“I am done after this.”
 
 Nobody answered.
 
@@ -614,7 +614,7 @@ Looked back.
 
 Still nothing.
 
-“You are all irritating.”
+[[speaker:xie_wuchen]]“You are all irritating.”
 
 Sera said, “See you tomorrow.”
 
@@ -622,7 +622,7 @@ Xie left.
 
 Lu watched the door close.
 
-“He will be back.”
+[[speaker:luweiran]]“He will be back.”
 
 Luo said, “Probably.”
 
