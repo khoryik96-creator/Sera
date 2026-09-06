@@ -1,6 +1,6 @@
 # Season 102 — unattributed dialogue
 
-297 quoted lines in this season have no speaker.
+173 quoted lines in this season have no speaker.
 See `README.md` in this folder for what to do with them.
 
 Lines already resolved show their speaker in `[brackets]` for context.
@@ -193,649 +193,58 @@ Then ordered the medics to be careful with his left shoulder.
 ### Chapter 375 — Eldran Stands Where Maedra Would Have Died
 
 ```
-He also understood it.
-“Your leg is bleeding again,” he said.
-Maedra looked down as if surprised to own one.
->>> “Rude.”   <-- WHO SAYS THIS?
-“That is not a medical assessment.”
-“It is the assessment I have.”
-```
-```
-“Your leg is bleeding again,” he said.
-Maedra looked down as if surprised to own one.
-“Rude.”
->>> “That is not a medical assessment.”   <-- WHO SAYS THIS?
-“It is the assessment I have.”
-They stood at the western cut where two Isgard retreat columns were crossing behind a temporary shield line.
-```
-```
-Maedra looked down as if surprised to own one.
-“Rude.”
-“That is not a medical assessment.”
->>> “It is the assessment I have.”   <-- WHO SAYS THIS?
-They stood at the western cut where two Isgard retreat columns were crossing behind a temporary shield line.
-The old road had been severed after Halvek's death.
-```
-```
 Astrid's hidden route was still being opened farther north.
 Until then, this cut was everything.
 A scout came running.
 >>> “Breach unit.”   <-- WHO SAYS THIS?
 Maedra's face hardened.
-“Jun?”
-```
-```
-A scout came running.
-“Breach unit.”
-Maedra's face hardened.
->>> “Jun?”   <-- WHO SAYS THIS?
-“Yes.”
-Eldran swore.
+[maedra] “Jun?”
 ```
 ```
 “Breach unit.”
 Maedra's face hardened.
-“Jun?”
+[maedra] “Jun?”
 >>> “Yes.”   <-- WHO SAYS THIS?
 Eldran swore.
 Maedra lifted her spear.
-```
-```
-“Yes.”
-Eldran swore.
-Maedra lifted her spear.
->>> “Move the wounded first.”   <-- WHO SAYS THIS?
-“They are already moving.”
-“Then faster.”
-```
-```
-Eldran swore.
-Maedra lifted her spear.
-“Move the wounded first.”
->>> “They are already moving.”   <-- WHO SAYS THIS?
-“Then faster.”
-“That is not how wounded work.”
-```
-```
-Maedra lifted her spear.
-“Move the wounded first.”
-“They are already moving.”
->>> “Then faster.”   <-- WHO SAYS THIS?
-“That is not how wounded work.”
-“Today it is.”
-```
-```
-“Move the wounded first.”
-“They are already moving.”
-“Then faster.”
->>> “That is not how wounded work.”   <-- WHO SAYS THIS?
-“Today it is.”
-Jun's first halberd strike hit the outer barricade two minutes later.
-```
-```
-“They are already moving.”
-“Then faster.”
-“That is not how wounded work.”
->>> “Today it is.”   <-- WHO SAYS THIS?
-Jun's first halberd strike hit the outer barricade two minutes later.
-The reinforced timber failed as if reinforcement were a suggestion.
-```
-```
-“Idiot,” she said.
-Eldran tried to laugh.
-It became a wet cough.
->>> “You were going to die.”   <-- WHO SAYS THIS?
-“That was my decision.”
-“Bad decision.”
-```
-```
-Eldran tried to laugh.
-It became a wet cough.
-“You were going to die.”
->>> “That was my decision.”   <-- WHO SAYS THIS?
-“Bad decision.”
-“Still mine.”
-```
-```
-It became a wet cough.
-“You were going to die.”
-“That was my decision.”
->>> “Bad decision.”   <-- WHO SAYS THIS?
-“Still mine.”
-“Complain later.”
-```
-```
-“You were going to die.”
-“That was my decision.”
-“Bad decision.”
->>> “Still mine.”   <-- WHO SAYS THIS?
-“Complain later.”
-A Dravaryn extraction squad reached them.
-```
-```
-“That was my decision.”
-“Bad decision.”
-“Still mine.”
->>> “Complain later.”   <-- WHO SAYS THIS?
-A Dravaryn extraction squad reached them.
-Jun could have pursued.
-```
-```
-She hated him for being disciplined.
-Villains were easier when they wanted blood more than purpose.
-Eldran's eyes opened once during transport.
->>> “Did they get through?”   <-- WHO SAYS THIS?
-Maedra thought he meant Jun.
-Then understood.
-```
-```
-“Did they get through?”
-Maedra thought he meant Jun.
-Then understood.
->>> “The column?”   <-- WHO SAYS THIS?
-He blinked.
-“Yes.”
-```
-```
-Then understood.
-“The column?”
-He blinked.
->>> “Yes.”   <-- WHO SAYS THIS?
-“Both.”
-His face relaxed.
-```
-```
-“The column?”
-He blinked.
-“Yes.”
->>> “Both.”   <-- WHO SAYS THIS?
-His face relaxed.
-“Good.”
-```
-```
-“Yes.”
-“Both.”
-His face relaxed.
->>> “Good.”   <-- WHO SAYS THIS?
-The medics did not tell him what his shoulder looked like.
-They did not need to.
 ```
 
 ### Chapter 376 — Graven Dominion
 
 ```
-Kenji stepped forward.
-Thunder Qi snapped around his boots.
-Sigrun looked at him.
->>> “Raska.”   <-- WHO SAYS THIS?
-Kenji's expression changed.
-Not much.
-```
-```
-“Raska.”
-Kenji's expression changed.
-Not much.
->>> “He died holding a retreat.”   <-- WHO SAYS THIS?
-“I know.”
-“You killed him.”
-```
-```
-Kenji's expression changed.
-Not much.
-“He died holding a retreat.”
->>> “I know.”   <-- WHO SAYS THIS?
-“You killed him.”
-“Yes.”
-```
-```
-Not much.
-“He died holding a retreat.”
-“I know.”
->>> “You killed him.”   <-- WHO SAYS THIS?
-“Yes.”
-“Good.”
-```
-```
-“He died holding a retreat.”
-“I know.”
-“You killed him.”
->>> “Yes.”   <-- WHO SAYS THIS?
-“Good.”
-Kenji blinked.
-```
-```
-“I know.”
-“You killed him.”
-“Yes.”
->>> “Good.”   <-- WHO SAYS THIS?
-Kenji blinked.
-Sigrun lowered her spear.
-```
-```
-“Good.”
-Kenji blinked.
-Sigrun lowered her spear.
->>> “Now I know which one to hit.”   <-- WHO SAYS THIS?
-She attacked.
-Kenji used Flashstep.
-```
-```
-The contact kicked back through his sword hard enough to sting his wrist.
-His eyes widened.
-Sigrun smiled without humor.
->>> “Again.”   <-- WHO SAYS THIS?
-He did not.
-Good.
-```
-```
-Breathing still became harder.
-Pain did not disappear simply because the body had learned to stand around it.
-Kenji understood the rule.
->>> “Different targets.”   <-- WHO SAYS THIS?
-Sigrun heard him say it to himself.
-“Very clever.”
-```
-```
-Kenji understood the rule.
-“Different targets.”
-Sigrun heard him say it to himself.
->>> “Very clever.”   <-- WHO SAYS THIS?
-“You're rude.”
-“So was Raska.”
-```
-```
-“Different targets.”
-Sigrun heard him say it to himself.
-“Very clever.”
->>> “You're rude.”   <-- WHO SAYS THIS?
-“So was Raska.”
-That shut him up.
-```
-```
-Sigrun heard him say it to himself.
-“Very clever.”
-“You're rude.”
->>> “So was Raska.”   <-- WHO SAYS THIS?
-That shut him up.
-He attacked with Sevenfold Thunder.
-```
-```
-He looked past her.
-The line was still too long.
-He exhaled.
->>> “I need the road.”   <-- WHO SAYS THIS?
-Sigrun answered, “I know.”
-“You cannot keep standing.”
-```
-```
-He exhaled.
-“I need the road.”
-Sigrun answered, “I know.”
->>> “You cannot keep standing.”   <-- WHO SAYS THIS?
-“I know.”
-“Then what are we doing?”
-```
-```
-“I need the road.”
-Sigrun answered, “I know.”
-“You cannot keep standing.”
->>> “I know.”   <-- WHO SAYS THIS?
-“Then what are we doing?”
-She smiled.
-```
-```
-Sigrun answered, “I know.”
-“You cannot keep standing.”
-“I know.”
->>> “Then what are we doing?”   <-- WHO SAYS THIS?
-She smiled.
-“Waiting.”
-```
-```
-“I know.”
-“Then what are we doing?”
-She smiled.
->>> “Waiting.”   <-- WHO SAYS THIS?
-“For what?”
-“The road to stop needing me.”
-```
-```
-“Then what are we doing?”
-She smiled.
-“Waiting.”
->>> “For what?”   <-- WHO SAYS THIS?
-“The road to stop needing me.”
-Kenji hated that answer.
-```
-```
-She smiled.
-“Waiting.”
-“For what?”
->>> “The road to stop needing me.”   <-- WHO SAYS THIS?
-Kenji hated that answer.
-He had heard it before in different words.
-```
-```
-Stormstep lightning hit her planted rear foot.
-She went to one knee.
 Kenji stepped back.
->>> “Done.”   <-- WHO SAYS THIS?
-Sigrun looked up.
-“No.”
-```
-```
-Kenji stepped back.
-“Done.”
+[kenji] “Done.”
 Sigrun looked up.
 >>> “No.”   <-- WHO SAYS THIS?
 She stood.
 Kenji stared.
 ```
-```
-Sigrun lifted the spear.
-Kenji whispered, “What are you?”
-She answered with the truth.
->>> “Tired.”   <-- WHO SAYS THIS?
-Then attacked him again.
-```
 
 ### Chapter 377 — Last Body Standing Ends
 
 ```
-**Last Body Standing.**
-Nothing healed.
-That mattered enough that she said it aloud.
->>> “Not healing.”   <-- WHO SAYS THIS?
-Kenji stopped for half a beat.
-“What?”
-```
-```
-That mattered enough that she said it aloud.
-“Not healing.”
-Kenji stopped for half a beat.
->>> “What?”   <-- WHO SAYS THIS?
-“I know what face you're making.”
-“I am not making a face.”
-```
-```
-“Not healing.”
-Kenji stopped for half a beat.
-“What?”
->>> “I know what face you're making.”   <-- WHO SAYS THIS?
-“I am not making a face.”
-“You are.”
-```
-```
-Kenji stopped for half a beat.
-“What?”
-“I know what face you're making.”
->>> “I am not making a face.”   <-- WHO SAYS THIS?
-“You are.”
-Sigrun drew breath through pain.
-```
-```
-“What?”
-“I know what face you're making.”
-“I am not making a face.”
->>> “You are.”   <-- WHO SAYS THIS?
-Sigrun drew breath through pain.
-“Last Body Standing delays consequences. It does not remove them.”
-```
-```
-“I am not making a face.”
-“You are.”
-Sigrun drew breath through pain.
->>> “Last Body Standing delays consequences. It does not remove them.”   <-- WHO SAYS THIS?
-Kenji looked at the blood covering her armour.
-“That is worse.”
-```
-```
-Sigrun drew breath through pain.
-“Last Body Standing delays consequences. It does not remove them.”
-Kenji looked at the blood covering her armour.
->>> “That is worse.”   <-- WHO SAYS THIS?
-“Yes.”
-“Stop.”
-```
-```
-“Last Body Standing delays consequences. It does not remove them.”
-Kenji looked at the blood covering her armour.
-“That is worse.”
->>> “Yes.”   <-- WHO SAYS THIS?
-“Stop.”
-“No.”
-```
-```
-Kenji looked at the blood covering her armour.
-“That is worse.”
-“Yes.”
->>> “Stop.”   <-- WHO SAYS THIS?
-“No.”
-He laughed once in disbelief.
-```
-```
-“That is worse.”
-“Yes.”
-“Stop.”
->>> “No.”   <-- WHO SAYS THIS?
-He laughed once in disbelief.
-“I hate this country.”
-```
-```
-“Stop.”
-“No.”
-He laughed once in disbelief.
->>> “I hate this country.”   <-- WHO SAYS THIS?
-“Get in line.”
-Then the technique settled fully.
-```
-```
-“No.”
-He laughed once in disbelief.
-“I hate this country.”
->>> “Get in line.”   <-- WHO SAYS THIS?
-Then the technique settled fully.
-Catastrophic functions were delayed while she remained conscious and sustained the Dominion.
-```
-```
-Kenji understood the danger better than most opponents would.
-His entire art was movement.
-He knew what it meant when a body borrowed movement from its own future.
->>> “You are going to die when that ends.”   <-- WHO SAYS THIS?
-“Maybe.”
-“That is not strategy.”
-```
-```
-His entire art was movement.
-He knew what it meant when a body borrowed movement from its own future.
-“You are going to die when that ends.”
->>> “Maybe.”   <-- WHO SAYS THIS?
-“That is not strategy.”
-“The last wagon is still in sight.”
-```
-```
-He knew what it meant when a body borrowed movement from its own future.
-“You are going to die when that ends.”
-“Maybe.”
->>> “That is not strategy.”   <-- WHO SAYS THIS?
-“The last wagon is still in sight.”
-Kenji looked past her.
-```
-```
-“You are going to die when that ends.”
-“Maybe.”
-“That is not strategy.”
->>> “The last wagon is still in sight.”   <-- WHO SAYS THIS?
-Kenji looked past her.
-Damn.
-```
-```
-That restraint cost him time.
-Sigrun knew it.
-“Merciful?” she asked.
->>> “Efficient.”   <-- WHO SAYS THIS?
-“Liar.”
-“Rude.”
-```
-```
-Sigrun knew it.
-“Merciful?” she asked.
-“Efficient.”
->>> “Liar.”   <-- WHO SAYS THIS?
-“Rude.”
-He swept her leg.
-```
-```
-“Merciful?” she asked.
-“Efficient.”
-“Liar.”
->>> “Rude.”   <-- WHO SAYS THIS?
-He swept her leg.
-Sigrun hit the ground.
-```
-```
-He stumbled.
-She used the spear as a crutch and stood again.
-Kenji stared at her.
->>> “You are making Paragons look stupid.”   <-- WHO SAYS THIS?
-“You are doing fine.”
-“That was almost nice.”
-```
-```
-She used the spear as a crutch and stood again.
-Kenji stared at her.
-“You are making Paragons look stupid.”
->>> “You are doing fine.”   <-- WHO SAYS THIS?
-“That was almost nice.”
-“Do not get used to it.”
-```
-```
-Kenji stared at her.
-“You are making Paragons look stupid.”
-“You are doing fine.”
->>> “That was almost nice.”   <-- WHO SAYS THIS?
-“Do not get used to it.”
-A horn sounded behind Sigrun.
-```
-```
-“You are making Paragons look stupid.”
-“You are doing fine.”
-“That was almost nice.”
->>> “Do not get used to it.”   <-- WHO SAYS THIS?
-A horn sounded behind Sigrun.
-One long note.
-```
-```
-The road no longer needed her.
-Her spear lowered.
-Kenji's eyes widened.
->>> “Wait.”   <-- WHO SAYS THIS?
-Sigrun released Last Body Standing.
-Every delayed consequence arrived.
-```
-```
-Sigrun hit the road.
-Kenji caught her head before it struck stone.
 He swore.
->>> “Medic!”   <-- WHO SAYS THIS?
-A Shinsei officer stared.
-“Lady Sigrun is enemy command.”
-```
-```
-He swore.
-“Medic!”
+[kenji] “Medic!”
 A Shinsei officer stared.
 >>> “Lady Sigrun is enemy command.”   <-- WHO SAYS THIS?
-“Medic!”
+[kenji] “Medic!”
 The officer ran.
-```
-```
-“Medic!”
-A Shinsei officer stared.
-“Lady Sigrun is enemy command.”
->>> “Medic!”   <-- WHO SAYS THIS?
-The officer ran.
-Sigrun's eyes opened a fraction.
-```
-```
-“Medic!”
-The officer ran.
-Sigrun's eyes opened a fraction.
->>> “You won?”   <-- WHO SAYS THIS?
-Kenji looked down the empty road.
-“No.”
-```
-```
-Sigrun's eyes opened a fraction.
-“You won?”
-Kenji looked down the empty road.
->>> “No.”   <-- WHO SAYS THIS?
-“Good.”
-“You are impossible.”
-```
-```
-“You won?”
-Kenji looked down the empty road.
-“No.”
->>> “Good.”   <-- WHO SAYS THIS?
-“You are impossible.”
-“Also good.”
-```
-```
-Kenji looked down the empty road.
-“No.”
-“Good.”
->>> “You are impossible.”   <-- WHO SAYS THIS?
-“Also good.”
-Then she lost consciousness.
-```
-```
-“No.”
-“Good.”
-“You are impossible.”
->>> “Also good.”   <-- WHO SAYS THIS?
-Then she lost consciousness.
-Kenji felt for a pulse.
-```
-```
-He exhaled.
-A medic arrived.
-Kenji moved aside.
->>> “Keep her alive.”   <-- WHO SAYS THIS?
-“Prisoner?”
-He looked at Sigrun.
 ```
 ```
 A medic arrived.
 Kenji moved aside.
-“Keep her alive.”
+[kenji] “Keep her alive.”
 >>> “Prisoner?”   <-- WHO SAYS THIS?
 He looked at Sigrun.
 Then toward the northern bend.
 ```
 ```
-“Prisoner?”
-He looked at Sigrun.
 Then toward the northern bend.
->>> “Until Isgard comes for her.”   <-- WHO SAYS THIS?
-The medic blinked.
-“Sir?”
-```
-```
-Then toward the northern bend.
-“Until Isgard comes for her.”
+[kenji] “Until Isgard comes for her.”
 The medic blinked.
 >>> “Sir?”   <-- WHO SAYS THIS?
 Kenji's expression hardened.
-“We have the road. We do not need a dying woman for decoration.”
-```
-```
-The medic blinked.
-“Sir?”
-Kenji's expression hardened.
->>> “We have the road. We do not need a dying woman for decoration.”   <-- WHO SAYS THIS?
-The medic nodded.
-Sigrun was transferred under battlefield truce later that evening with other critical wounded.
+[kenji] “We have the road. We do not need a dying woman for decoration.”
 ```
 
 ### Chapter 378 — Until One of Them Can Stand Again — Me
@@ -846,26 +255,18 @@ Halvek's road office no longer existed.
 Another messenger entered.
 >>> “Western field requests reinforcement.”   <-- WHO SAYS THIS?
 Varok Skeldran looked up.
-“How many?”
-```
-```
-Another messenger entered.
-“Western field requests reinforcement.”
-Varok Skeldran looked up.
->>> “How many?”   <-- WHO SAYS THIS?
-“Two companies.”
-A second runner arrived behind him.
+[varok] “How many?”
 ```
 ```
 “Western field requests reinforcement.”
 Varok Skeldran looked up.
-“How many?”
+[varok] “How many?”
 >>> “Two companies.”   <-- WHO SAYS THIS?
 A second runner arrived behind him.
 “Eastern retreat requests Varok personally.”
 ```
 ```
-“How many?”
+[varok] “How many?”
 “Two companies.”
 A second runner arrived behind him.
 >>> “Eastern retreat requests Varok personally.”   <-- WHO SAYS THIS?
@@ -885,32 +286,16 @@ The officer stopped.
 Solveig said, “He is not awake.”
 The officer stopped.
 >>> “Maedra—”   <-- WHO SAYS THIS?
-“Cannot stand.”
+[solveig] “Cannot stand.”
 “Sigrun—”
-```
-```
-Solveig said, “He is not awake.”
-The officer stopped.
-“Maedra—”
->>> “Cannot stand.”   <-- WHO SAYS THIS?
-“Sigrun—”
-“May not survive the night.”
 ```
 ```
 The officer stopped.
 “Maedra—”
-“Cannot stand.”
+[solveig] “Cannot stand.”
 >>> “Sigrun—”   <-- WHO SAYS THIS?
-“May not survive the night.”
+[solveig] “May not survive the night.”
 Nobody spoke.
-```
-```
-“Maedra—”
-“Cannot stand.”
-“Sigrun—”
->>> “May not survive the night.”   <-- WHO SAYS THIS?
-Nobody spoke.
-Solveig walked to the table.
 ```
 ```
 Solveig walked to the table.
@@ -918,60 +303,28 @@ The chair looked suddenly very small.
 An old staff captain asked the question nobody wanted responsibility for.
 >>> “Then who has command?”   <-- WHO SAYS THIS?
 Solveig looked at him.
-“Until one of them can stand again?”
-```
-```
-An old staff captain asked the question nobody wanted responsibility for.
-“Then who has command?”
-Solveig looked at him.
->>> “Until one of them can stand again?”   <-- WHO SAYS THIS?
-He swallowed.
-“Yes.”
+[solveig] “Until one of them can stand again?”
 ```
 ```
 Solveig looked at him.
-“Until one of them can stand again?”
+[solveig] “Until one of them can stand again?”
 He swallowed.
 >>> “Yes.”   <-- WHO SAYS THIS?
-“Me.”
+[solveig] “Me.”
 There.
-```
-```
-“Until one of them can stand again?”
-He swallowed.
-“Yes.”
->>> “Me.”   <-- WHO SAYS THIS?
-There.
-No ceremony.
-```
-```
-No coronation.
-A woman deciding that seven minutes was already six too many.
-Solveig took the supply order from the courier.
->>> “Halvek's seal is dead. Route this under emergency theatre authority.”   <-- WHO SAYS THIS?
-“Does that exist?”
-“It does now.”
 ```
 ```
 A woman deciding that seven minutes was already six too many.
 Solveig took the supply order from the courier.
-“Halvek's seal is dead. Route this under emergency theatre authority.”
+[solveig] “Halvek's seal is dead. Route this under emergency theatre authority.”
 >>> “Does that exist?”   <-- WHO SAYS THIS?
-“It does now.”
+[solveig] “It does now.”
 “Can you do that?”
 ```
 ```
-Solveig took the supply order from the courier.
-“Halvek's seal is dead. Route this under emergency theatre authority.”
+[solveig] “Halvek's seal is dead. Route this under emergency theatre authority.”
 “Does that exist?”
->>> “It does now.”   <-- WHO SAYS THIS?
-“Can you do that?”
-Solveig looked at him.
-```
-```
-“Halvek's seal is dead. Route this under emergency theatre authority.”
-“Does that exist?”
-“It does now.”
+[solveig] “It does now.”
 >>> “Can you do that?”   <-- WHO SAYS THIS?
 Solveig looked at him.
 He reconsidered the philosophical value of the question.
@@ -981,173 +334,37 @@ He reconsidered the philosophical value of the question.
 Solveig looked at him.
 He reconsidered the philosophical value of the question.
 >>> “Yes, Acting Commander.”   <-- WHO SAYS THIS?
-“Good.”
+[solveig] “Good.”
 She turned to Varok.
 ```
 ```
-Solveig looked at him.
-He reconsidered the philosophical value of the question.
-“Yes, Acting Commander.”
->>> “Good.”   <-- WHO SAYS THIS?
-She turned to Varok.
-“You cannot go east and west.”
-```
-```
-“Yes, Acting Commander.”
-“Good.”
-She turned to Varok.
->>> “You cannot go east and west.”   <-- WHO SAYS THIS?
-“I had noticed.”
-“Which front collapses faster without you?”
-```
-```
-“Good.”
-She turned to Varok.
-“You cannot go east and west.”
->>> “I had noticed.”   <-- WHO SAYS THIS?
-“Which front collapses faster without you?”
-Varok looked at both messages.
-```
-```
-She turned to Varok.
-“You cannot go east and west.”
-“I had noticed.”
->>> “Which front collapses faster without you?”   <-- WHO SAYS THIS?
-Varok looked at both messages.
-Pain crossed his face.
-```
-```
-“Which front collapses faster without you?”
-Varok looked at both messages.
-Pain crossed his face.
->>> “East.”   <-- WHO SAYS THIS?
-“Then go east.”
-“West loses ground.”
-```
-```
-Varok looked at both messages.
-Pain crossed his face.
-“East.”
->>> “Then go east.”   <-- WHO SAYS THIS?
-“West loses ground.”
-“Yes.”
-```
-```
-Pain crossed his face.
-“East.”
-“Then go east.”
->>> “West loses ground.”   <-- WHO SAYS THIS?
-“Yes.”
-“Possibly the ridge.”
-```
-```
-“East.”
-“Then go east.”
-“West loses ground.”
->>> “Yes.”   <-- WHO SAYS THIS?
-“Possibly the ridge.”
-“Yes.”
-```
-```
-“Then go east.”
-“West loses ground.”
-“Yes.”
->>> “Possibly the ridge.”   <-- WHO SAYS THIS?
-“Yes.”
-Varok hated her for agreeing.
-```
-```
-“West loses ground.”
-“Yes.”
-“Possibly the ridge.”
->>> “Yes.”   <-- WHO SAYS THIS?
-Varok hated her for agreeing.
-Solveig let him.
-```
-```
-“Yes.”
-Varok hated her for agreeing.
-Solveig let him.
->>> “Save the people whose retreat becomes impossible without you. Ground can be retaken.”   <-- WHO SAYS THIS?
-Varok grabbed his coat.
-“Tell the west I chose east.”
-```
-```
-Solveig let him.
-“Save the people whose retreat becomes impossible without you. Ground can be retaken.”
-Varok grabbed his coat.
->>> “Tell the west I chose east.”   <-- WHO SAYS THIS?
-“I will tell them **I** chose east.”
-He stopped.
-```
-```
-“Save the people whose retreat becomes impossible without you. Ground can be retaken.”
-Varok grabbed his coat.
-“Tell the west I chose east.”
->>> “I will tell them **I** chose east.”   <-- WHO SAYS THIS?
-He stopped.
-Looked at her.
-```
-```
-Taking blame before victory made it attractive.
-Varok left.
-Solveig turned to the coast board.
->>> “Brynja.”   <-- WHO SAYS THIS?
+[solveig] “Brynja.”
 A clerk said, “No reply to the last two messages.”
-“Why?”
-```
-```
-Solveig turned to the coast board.
-“Brynja.”
-A clerk said, “No reply to the last two messages.”
->>> “Why?”   <-- WHO SAYS THIS?
-“We do not know.”
-Then the door opened and a coastal runner stumbled in covered in soot.
-```
-```
-“Brynja.”
-A clerk said, “No reply to the last two messages.”
-“Why?”
+[solveig] “Why?”
 >>> “We do not know.”   <-- WHO SAYS THIS?
 Then the door opened and a coastal runner stumbled in covered in soot.
 “Because the signal tower is gone.”
 ```
 ```
-“Why?”
+[solveig] “Why?”
 “We do not know.”
 Then the door opened and a coastal runner stumbled in covered in soot.
 >>> “Because the signal tower is gone.”   <-- WHO SAYS THIS?
 Solveig's face tightened.
-“Brynja?”
-```
-```
-Then the door opened and a coastal runner stumbled in covered in soot.
-“Because the signal tower is gone.”
-Solveig's face tightened.
->>> “Brynja?”   <-- WHO SAYS THIS?
-“Alive.”
-The room exhaled.
+[solveig] “Brynja?”
 ```
 ```
 “Because the signal tower is gone.”
 Solveig's face tightened.
-“Brynja?”
+[solveig] “Brynja?”
 >>> “Alive.”   <-- WHO SAYS THIS?
 The room exhaled.
-“Port?”
-```
-```
-“Brynja?”
-“Alive.”
-The room exhaled.
->>> “Port?”   <-- WHO SAYS THIS?
-“Still ours.”
-**Brynja had held it with engines, mud and bad manners.**
+[solveig] “Port?”
 ```
 ```
 “Alive.”
 The room exhaled.
-“Port?”
+[solveig] “Port?”
 >>> “Still ours.”   <-- WHO SAYS THIS?
 **Brynja had held it with engines, mud and bad manners.**
 Shinsei's second major landing attempt came at dusk under fog.
@@ -1157,232 +374,24 @@ She let the first wave ground.
 Then the second.
 Her officers stared at her.
 >>> “Commander—”   <-- WHO SAYS THIS?
-“Wait.”
+[brynja] “Wait.”
 Shinsei troops formed.
 ```
 ```
-Then the second.
-Her officers stared at her.
-“Commander—”
->>> “Wait.”   <-- WHO SAYS THIS?
-Shinsei troops formed.
-Heavy infantry moved toward the road.
-```
-```
-“Wait.”
-Shinsei troops formed.
-Heavy infantry moved toward the road.
->>> “Wait.”   <-- WHO SAYS THIS?
-More boats entered the shallows behind them.
-Now the beach was crowded with men who could move forward or backward but not sideways without colliding.
-```
-```
-The port remained.
-When a clerk later called it a victory, Brynja said, “It was a bill we could afford.”
-**Solveig read the coastal report once.**
->>> “Give Brynja independent authority over coastal denial.”   <-- WHO SAYS THIS?
-A staff officer said, “Halvek used to coordinate port roads.”
-“Halvek is dead.”
-```
-```
-**Solveig read the coastal report once.**
-“Give Brynja independent authority over coastal denial.”
-A staff officer said, “Halvek used to coordinate port roads.”
->>> “Halvek is dead.”   <-- WHO SAYS THIS?
-The sentence hurt.
-Solveig did not soften it.
-```
-```
-“Halvek is dead.”
-The sentence hurt.
-Solveig did not soften it.
->>> “Do not replace him with one person and pretend the institution survived unchanged.”   <-- WHO SAYS THIS?
-She looked at the forest routes.
-“Astrid.”
-```
-```
-Solveig did not soften it.
-“Do not replace him with one person and pretend the institution survived unchanged.”
-She looked at the forest routes.
->>> “Astrid.”   <-- WHO SAYS THIS?
+[solveig] “Astrid.”
 Another clerk said, “She is missing.”
-“Missing how?”
-```
-```
-She looked at the forest routes.
-“Astrid.”
-Another clerk said, “She is missing.”
->>> “Missing how?”   <-- WHO SAYS THIS?
-“No contact for eleven hours.”
-Solveig closed her eyes.
-```
-```
-“Astrid.”
-Another clerk said, “She is missing.”
-“Missing how?”
+[solveig] “Missing how?”
 >>> “No contact for eleven hours.”   <-- WHO SAYS THIS?
 Solveig closed her eyes.
 Then a voice came from the doorway.
 ```
 ```
-“No contact for eleven hours.”
-Solveig closed her eyes.
-Then a voice came from the doorway.
->>> “Your definition of missing is dramatic.”   <-- WHO SAYS THIS?
-Astrid Vardrenn entered carrying a broken map case and three sticks tied with red cloth.
-Everyone stared.
-```
-```
-Astrid Vardrenn entered carrying a broken map case and three sticks tied with red cloth.
-Everyone stared.
-Solveig said, “Where were you?”
->>> “Finding a road.”   <-- WHO SAYS THIS?
-“There is no road through Greyroot.”
-“There is now.”
-```
-```
-Everyone stared.
-Solveig said, “Where were you?”
-“Finding a road.”
->>> “There is no road through Greyroot.”   <-- WHO SAYS THIS?
-“There is now.”
-Astrid dropped the sticks on the table.
-```
-```
-Solveig said, “Where were you?”
-“Finding a road.”
-“There is no road through Greyroot.”
->>> “There is now.”   <-- WHO SAYS THIS?
-Astrid dropped the sticks on the table.
-“Not a good road.”
-```
-```
-“There is no road through Greyroot.”
-“There is now.”
-Astrid dropped the sticks on the table.
->>> “Not a good road.”   <-- WHO SAYS THIS?
-“How bad?”
-“Wagons one at a time. No heavy cavalry. Mud in two gullies. One bridge is actually three trees lying convincingly near each other.”
-```
-```
-“There is now.”
-Astrid dropped the sticks on the table.
-“Not a good road.”
->>> “How bad?”   <-- WHO SAYS THIS?
-“Wagons one at a time. No heavy cavalry. Mud in two gullies. One bridge is actually three trees lying convincingly near each other.”
-Solveig looked at her.
-```
-```
-Astrid dropped the sticks on the table.
-“Not a good road.”
-“How bad?”
->>> “Wagons one at a time. No heavy cavalry. Mud in two gullies. One bridge is actually three trees lying convincingly near each other.”   <-- WHO SAYS THIS?
-Solveig looked at her.
-“Can medicine use it?”
-```
-```
-“How bad?”
-“Wagons one at a time. No heavy cavalry. Mud in two gullies. One bridge is actually three trees lying convincingly near each other.”
-Solveig looked at her.
->>> “Can medicine use it?”   <-- WHO SAYS THIS?
-“Yes.”
-“Wounded?”
-```
-```
-“Wagons one at a time. No heavy cavalry. Mud in two gullies. One bridge is actually three trees lying convincingly near each other.”
-Solveig looked at her.
-“Can medicine use it?”
->>> “Yes.”   <-- WHO SAYS THIS?
-“Wounded?”
-“Slowly.”
-```
-```
-Solveig looked at her.
-“Can medicine use it?”
-“Yes.”
->>> “Wounded?”   <-- WHO SAYS THIS?
-“Slowly.”
-“How many did you move?”
-```
-```
-“Can medicine use it?”
-“Yes.”
-“Wounded?”
->>> “Slowly.”   <-- WHO SAYS THIS?
-“How many did you move?”
-“Six hundred wounded. Three medicine carts. Two field kitchens. One extremely angry goat herd.”
-```
-```
-“Yes.”
-“Wounded?”
-“Slowly.”
->>> “How many did you move?”   <-- WHO SAYS THIS?
-“Six hundred wounded. Three medicine carts. Two field kitchens. One extremely angry goat herd.”
-A clerk blinked.
-```
-```
-“Wounded?”
-“Slowly.”
-“How many did you move?”
->>> “Six hundred wounded. Three medicine carts. Two field kitchens. One extremely angry goat herd.”   <-- WHO SAYS THIS?
-A clerk blinked.
-“Why goats?”
-```
-```
-“How many did you move?”
-“Six hundred wounded. Three medicine carts. Two field kitchens. One extremely angry goat herd.”
+[solveig] “How many did you move?”
+[astrid] “Six hundred wounded. Three medicine carts. Two field kitchens. One extremely angry goat herd.”
 A clerk blinked.
 >>> “Why goats?”   <-- WHO SAYS THIS?
-“Food has legs.”
+[astrid] “Food has legs.”
 Lu Weiran would have loved her.
-```
-```
-“Six hundred wounded. Three medicine carts. Two field kitchens. One extremely angry goat herd.”
-A clerk blinked.
-“Why goats?”
->>> “Food has legs.”   <-- WHO SAYS THIS?
-Lu Weiran would have loved her.
-Solveig almost smiled.
-```
-```
-Lu Weiran would have loved her.
-Solveig almost smiled.
-Almost.
->>> “Greyroot becomes emergency route authority under you.”   <-- WHO SAYS THIS?
-Astrid grimaced.
-“That sounds like paperwork.”
-```
-```
-Almost.
-“Greyroot becomes emergency route authority under you.”
-Astrid grimaced.
->>> “That sounds like paperwork.”   <-- WHO SAYS THIS?
-“It is.”
-“I withdraw the road.”
-```
-```
-“Greyroot becomes emergency route authority under you.”
-Astrid grimaced.
-“That sounds like paperwork.”
->>> “It is.”   <-- WHO SAYS THIS?
-“I withdraw the road.”
-“Denied.”
-```
-```
-Astrid grimaced.
-“That sounds like paperwork.”
-“It is.”
->>> “I withdraw the road.”   <-- WHO SAYS THIS?
-“Denied.”
-The room laughed.
-```
-```
-“That sounds like paperwork.”
-“It is.”
-“I withdraw the road.”
->>> “Denied.”   <-- WHO SAYS THIS?
-The room laughed.
-Only once.
 ```
 
 ### Chapter 379 — Sixth Petal
