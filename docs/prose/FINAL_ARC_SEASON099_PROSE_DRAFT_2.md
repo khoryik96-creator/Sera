@@ -584,7 +584,7 @@ She said, “I have evidence.”
 
 Yurushi became quiet.
 
-“Of what?”
+[[speaker:black_radiance]]“Of what?”
 
 [[speaker:yun]]“Not telling you yet.”
 
@@ -726,7 +726,7 @@ Not new.
 
 Yun looked at him.
 
-“This existed before me.”
+[[speaker:yun]]“This existed before me.”
 
 [[speaker:black_radiance]]“Yes.”
 
@@ -738,11 +738,11 @@ Yun looked at him.
 
 Yurushi closed the panel.
 
-“People who need to leave places stronger people insist they stay.”
+[[speaker:black_radiance]]“People who need to leave places stronger people insist they stay.”
 
 Yun’s eyes narrowed.
 
-“Political dissidents?”
+[[speaker:yun]]“Political dissidents?”
 
 [[speaker:black_radiance]]“Sometimes.”
 
@@ -788,7 +788,7 @@ The question was whether the judgment had limits.
 
 Yurushi shrugged.
 
-“Over years?”
+[[speaker:black_radiance]]“Over years?”
 
 [[speaker:yun]]“Yes.”
 
@@ -802,17 +802,17 @@ Medical wrappers.
 
 All from different districts.
 
-“Some caches are mine. Some belong to old clan physicians. Some to merchants. Some to people who do not know the full route and should not.”
+[[speaker:black_radiance]]“Some caches are mine. Some belong to old clan physicians. Some to merchants. Some to people who do not know the full route and should not.”
 
-“Compartmentalized.”
+[[speaker:yun]]“Compartmentalized.”
 
-“Exactly.”
+[[speaker:black_radiance]]“Exactly.”
 
-“Shunto will break pieces once he knows.”
+[[speaker:yun]]“Shunto will break pieces once he knows.”
 
-“Yes.”
+[[speaker:black_radiance]]“Yes.”
 
-“You are risking years of infrastructure for me.”
+[[speaker:yun]]“You are risking years of infrastructure for me.”
 
 Yurushi’s face changed slightly.
 
@@ -820,7 +820,7 @@ Yurushi’s face changed slightly.
 
 Yun waited.
 
-“I am risking one corridor for you. The rest stays dark if we do this correctly.”
+[[speaker:black_radiance]]“I am risking one corridor for you. The rest stays dark if we do this correctly.”
 
 Good.
 
@@ -832,31 +832,31 @@ That was what she needed.
 
 Yurushi handed her a strip of cloth.
 
-“Wrap your left wrist. The brace mark is distinctive.”
+[[speaker:black_radiance]]“Wrap your left wrist. The brace mark is distinctive.”
 
 She did.
 
-“Can you hide your cultivation?”
+[[speaker:black_radiance]]“Can you hide your cultivation?”
 
-“Enough for clerks. Not for Paragons.”
+[[speaker:yun]]“Enough for clerks. Not for Paragons.”
 
-“Good. Clerks are tonight’s problem.”
+[[speaker:black_radiance]]“Good. Clerks are tonight’s problem.”
 
 Yun looked at him.
 
-“You are strong.”
+[[speaker:yun]]“You are strong.”
 
 Yurushi’s expression stayed neutral.
 
 “Sometimes.”
 
-“How strong?”
+[[speaker:yun]]“How strong?”
 
-“Strong enough that using it openly turns an escape into a military incident.”
+[[speaker:black_radiance]]“Strong enough that using it openly turns an escape into a military incident.”
 
-“That was evasive.”
+[[speaker:yun]]“That was evasive.”
 
-“Yes.”
+[[speaker:black_radiance]]“Yes.”
 
 Yun filed it away.
 
@@ -868,7 +868,7 @@ That told her more about his strategy than any title.
 
 Yurushi moved to the window.
 
-“Come here.”
+[[speaker:black_radiance]]“Come here.”
 
 Yun stood slowly.
 
@@ -884,7 +884,7 @@ Outside, the rear yard looked empty.
 
 Yurushi pointed.
 
-“See the wall?”
+[[speaker:black_radiance]]“See the wall?”
 
 “Yes.”
 
@@ -896,7 +896,7 @@ Yurushi pointed.
 
 Yun nodded.
 
-“After the dye lane?”
+[[speaker:yun]]“After the dye lane?”
 
 [[speaker:black_radiance]]“Merchant wagon.”
 
@@ -914,7 +914,7 @@ Yun nodded.
 
 Yun looked at him.
 
-“The same corridor Shunto used to catch me near.”
+[[speaker:yun]]“The same corridor Shunto used to catch me near.”
 
 [[speaker:black_radiance]]“Not the same road.”
 
@@ -958,7 +958,7 @@ Useful.
 
 Yurushi’s jaw tightened.
 
-“That is why I stay behind after you leave.”
+[[speaker:black_radiance]]“That is why I stay behind after you leave.”
 
 Yun stared at him.
 
@@ -1014,7 +1014,7 @@ Yun said, “If I get out, Shunto will look for who helped.”
 
 Yurushi looked toward the false panel.
 
-“Then the first people he questions are everyone who ever used one of these roads.”
+[[speaker:black_radiance]]“Then the first people he questions are everyone who ever used one of these roads.”
 
 Yun understood.
 
@@ -1028,7 +1028,7 @@ She nodded once.
 
 Yurushi smiled faintly.
 
-“Now you sound like me.”
+[[speaker:black_radiance]]“Now you sound like me.”
 
 [[speaker:yun]]“Do not be insulting.”
 

@@ -130,7 +130,7 @@ Then reached for a vial.
 
 Yun’s eyes sharpened.
 
-“What is that?”
+[[speaker:yun]]“What is that?”
 
 “Anti-inflammatory.”
 
@@ -362,7 +362,7 @@ Yun continued.
 
 Shunto’s expression remained unreadable.
 
-“Is that praise?”
+[[speaker:shunto]]“Is that praise?”
 
 [[speaker:yun]]“No.”
 
@@ -398,7 +398,7 @@ Shunto said, “Where is the rest?”
 
 Yun smiled faintly.
 
-“There it is.”
+[[speaker:yun]]“There it is.”
 
 [[speaker:shunto]]“The material you collected.”
 
@@ -424,7 +424,7 @@ Shunto leaned back.
 
 Yun’s smile disappeared.
 
-“You captured me alive,” she said. “Congratulations. That means you won the immediate contest.”
+[[speaker:yun]]“You captured me alive,” she said. “Congratulations. That means you won the immediate contest.”
 
 She looked directly at him.
 
@@ -496,7 +496,7 @@ Progress.
 
 Shunto tapped the notebook.
 
-“What does three circles mean?”
+[[speaker:shunto]]“What does three circles mean?”
 
 Yun nearly laughed.
 
@@ -570,7 +570,7 @@ Good.
 
 “Who is waiting for this?” he asked.
 
-“No one.”
+[[speaker:yun]]“No one.”
 
 Lie.
 
@@ -598,7 +598,7 @@ Lie.
 
 Yun shrugged as much as the restraint allowed.
 
-“A very judgmental landlord.”
+[[speaker:yun]]“A very judgmental landlord.”
 
 Shunto’s jaw tightened.
 
@@ -640,7 +640,7 @@ Too much sarcasm would do the same.
 
 Shunto studied her face.
 
-“You know.”
+[[speaker:shunto]]“You know.”
 
 Yun looked bored.
 
@@ -752,7 +752,7 @@ He stood.
 
 Yun watched him gather the notebook.
 
-“Who did you send material to?”
+[[speaker:shunto]]“Who did you send material to?”
 
 [[speaker:yun]]“No one.”
 
@@ -788,7 +788,7 @@ He turned back.
 
 Yun smiled faintly.
 
-“Your word, not mine.”
+[[speaker:yun]]“Your word, not mine.”
 
 He left.
 
@@ -874,7 +874,7 @@ Without a guard.
 
 Yun looked up.
 
-“No notebook?”
+[[speaker:yun]]“No notebook?”
 
 He closed the door.
 
@@ -1022,7 +1022,7 @@ Yun continued.
 
 Shunto’s jaw tightened.
 
-“Do not make it about the chase. Do not make it about the notebook. Do not make it about me poisoning your arm.”
+[[speaker:yun]]“Do not make it about the chase. Do not make it about the notebook. Do not make it about me poisoning your arm.”
 
 She swallowed once.
 
@@ -1172,7 +1172,7 @@ Satisfied.
 
 Shunto looked at her.
 
-“What?”
+[[speaker:shunto]]“What?”
 
 [[speaker:yun]]“Nothing.”
 
@@ -1184,7 +1184,7 @@ Recognition reached his face.
 
 Yun leaned back against the wall.
 
-“You really should stop touching poisoners.”
+[[speaker:yun]]“You really should stop touching poisoners.”
 
 Both guards moved.
 
@@ -1268,7 +1268,7 @@ Yun answered before the doctor.
 
 Shunto finally looked at her.
 
-“Why tell me?”
+[[speaker:shunto]]“Why tell me?”
 
 [[speaker:yun]]“Because I am a poisoner, not an idiot. Dead captor creates lockdown. Numb captor creates paperwork.”
 
