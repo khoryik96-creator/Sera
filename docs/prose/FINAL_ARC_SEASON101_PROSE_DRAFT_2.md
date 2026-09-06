@@ -26,7 +26,7 @@ Haru did not complain.
 
 He redrew the sequence.
 
-Shinron's northern ports.
+Shinrin's northern ports.
 
 Isgard landing corridors.
 
