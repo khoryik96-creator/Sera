@@ -18,7 +18,7 @@ The clerk had sent her there because one of Axtaya’s precursor ingredients app
 
 Yun paused.
 
-“Pre-unification?”
+[[speaker:yun]]“Pre-unification?”
 
 “Old standards.”
 
@@ -184,13 +184,13 @@ The clerk passed behind her.
 
 Yun covered the page with one hand and looked up.
 
-“Mostly old mistakes.”
+[[speaker:yun]]“Mostly old mistakes.”
 
 He smiled without interest.
 
 “Those are popular.”
 
-“Does Katsuragi still practice?”
+[[speaker:yun]]“Does Katsuragi still practice?”
 
 That got more attention.
 
@@ -206,23 +206,23 @@ He stared at Yun as though she had asked whether rain still fell.
 
 Yun kept her face neutral.
 
-“The Ten?”
+[[speaker:yun]]“The Ten?”
 
 The clerk’s expression became mildly suspicious.
 
 “You really are foreign.”
 
-“So I’m told.”
+[[speaker:yun]]“So I’m told.”
 
 He shook his head.
 
 “Shinsei Ten. Ranked officers.”
 
-“Physician and officer?”
+[[speaker:yun]]“Physician and officer?”
 
 “Katsuragi is medical command.”
 
-“What rank?”
+[[speaker:yun]]“What rank?”
 
 “Seven.”
 
@@ -348,7 +348,7 @@ They stared at her.
 
 Yun held up a coin.
 
-“Front door?”
+[[speaker:yun]]“Front door?”
 
 One woman pointed.
 
@@ -366,13 +366,13 @@ Then heard a man behind her say, conversationally:
 
 Yun did not turn.
 
-“Foreign physicians are charged by the hour.”
+[[speaker:yun]]“Foreign physicians are charged by the hour.”
 
 The voice came closer.
 
 “Merchant, then?”
 
-“Whichever permits are cheaper.”
+[[speaker:yun]]“Whichever permits are cheaper.”
 
 A hand touched her elbow.
 
@@ -538,21 +538,21 @@ The one she had not taken.
 
 Sera leaned against the doorframe.
 
-“Anything?”
+[[speaker:sera]]“Anything?”
 
 “No.”
 
-“You’ve checked all drops?”
+[[speaker:sera]]“You’ve checked all drops?”
 
-“Lu has.”
+[[speaker:luo]]“Lu has.”
 
-“Ports?”
+[[speaker:sera]]“Ports?”
 
-“Twice.”
+[[speaker:luo]]“Twice.”
 
-“Isgard route?”
+[[speaker:sera]]“Isgard route?”
 
-“No contact.”
+[[speaker:luo]]“No contact.”
 
 Sera entered and sat opposite him.
 
@@ -570,25 +570,25 @@ He had been staring at it for days.
 
 Sera followed his gaze.
 
-“You can straighten it.”
+[[speaker:sera]]“You can straighten it.”
 
 “No.”
 
-“She’ll survive you touching paper.”
+[[speaker:sera]]“She’ll survive you touching paper.”
 
-“That isn’t the point.”
+[[speaker:luo]]“That isn’t the point.”
 
 Sera nodded.
 
 She knew.
 
-“Say it.”
+[[speaker:sera]]“Say it.”
 
 Luo looked at her.
 
 “What?”
 
-“The thing you’ve been refusing to say because saying it feels like making it true.”
+[[speaker:sera]]“The thing you’ve been refusing to say because saying it feels like making it true.”
 
 His jaw tightened.
 
@@ -596,13 +596,13 @@ For several seconds he said nothing.
 
 Then:
 
-“She’s overdue.”
+[[speaker:luo]]“She’s overdue.”
 
 Sera waited.
 
 Luo looked down at the notebook.
 
-“Something is wrong.”
+[[speaker:luo]]“Something is wrong.”
 
 Luo had finally said it aloud.
 
@@ -618,25 +618,25 @@ But Luo was the first person with the right to say it aloud.
 
 “What do you want to do?” Sera asked.
 
-“Go.”
+[[speaker:luo]]“Go.”
 
-“Where?”
+[[speaker:sera]]“Where?”
 
-“Shinrin.”
+[[speaker:luo]]“Shinrin.”
 
-“Which city?”
+[[speaker:sera]]“Which city?”
 
-“I don’t know.”
+[[speaker:luo]]“I don’t know.”
 
-“Which route?”
+[[speaker:sera]]“Which route?”
 
-“The one she used.”
+[[speaker:luo]]“The one she used.”
 
-“If it’s compromised?”
+[[speaker:sera]]“If it’s compromised?”
 
-“I’ll change it.”
+[[speaker:luo]]“I’ll change it.”
 
-“How will you know where?”
+[[speaker:sera]]“How will you know where?”
 
 Luo looked at her.
 
@@ -646,15 +646,15 @@ Not at Sera exactly.
 
 At the questions for continuing to be sensible.
 
-“She said three weeks.”
+[[speaker:luo]]“She said three weeks.”
 
 “I know.”
 
-“She said if she found nothing, she’d come back.”
+[[speaker:luo]]“She said if she found nothing, she’d come back.”
 
 “I know.”
 
-“She would contact me.”
+[[speaker:luo]]“She would contact me.”
 
 “I know.”
 
@@ -668,23 +668,23 @@ Instead she said, “Then we act like she missed the window.”
 
 Luo’s eyes sharpened.
 
-“Meaning?”
+[[speaker:luo]]“Meaning?”
 
-“Lu expands the route search. Xie’s shipping ledger gets cross-checked against every Shinrin medical export we can reach. Isgard gets a quiet request to watch southern arrivals without explaining why. Quaint cells start looking for Yun’s emergency marks.”
+[[speaker:sera]]“Lu expands the route search. Xie’s shipping ledger gets cross-checked against every Shinrin medical export we can reach. Isgard gets a quiet request to watch southern arrivals without explaining why. Quaint cells start looking for Yun’s emergency marks.”
 
-“And me?”
+[[speaker:luo]]“And me?”
 
-“You stay where she expected her evidence to be understood.”
+[[speaker:sera]]“You stay where she expected her evidence to be understood.”
 
 His face hardened.
 
-“Sera.”
+[[speaker:luo]]“Sera.”
 
-“That was her reason.”
+[[speaker:sera]]“That was her reason.”
 
-“I know what she said.”
+[[speaker:luo]]“I know what she said.”
 
-“Then don’t make her wrong because you’re scared.”
+[[speaker:sera]]“Then don’t make her wrong because you’re scared.”
 
 That hurt him.
 
@@ -706,45 +706,45 @@ Luo stood so fast the chair scraped.
 
 Lu raised one hand.
 
-“Not contact.”
+[[speaker:luweiran]]“Not contact.”
 
 Luo stopped.
 
 “What?”
 
-“A route change.”
+[[speaker:luweiran]]“A route change.”
 
 Lu put the papers down.
 
-“One of the merchant intermediaries on Yun’s original chain stopped using its registered southern warehouse eight days ago. Cargo is still moving under the same invoices, but the physical storage address changed.”
+[[speaker:luweiran]]“One of the merchant intermediaries on Yun’s original chain stopped using its registered southern warehouse eight days ago. Cargo is still moving under the same invoices, but the physical storage address changed.”
 
 Sera frowned.
 
-“To where?”
+[[speaker:sera]]“To where?”
 
-“Interior Shinrin.”
+[[speaker:luweiran]]“Interior Shinrin.”
 
 Luo’s breathing slowed.
 
 Relief had nothing to do with it. His mind finally had something to work on.
 
-“Why?”
+[[speaker:luo]]“Why?”
 
-“Unknown.”
+[[speaker:luweiran]]“Unknown.”
 
-“Can we follow it?”
+[[speaker:luo]]“Can we follow it?”
 
-“From here? Slowly.”
+[[speaker:luweiran]]“From here? Slowly.”
 
 “Xie?” Sera asked.
 
 Lu’s mouth flattened.
 
-“He says he is not employed.”
+[[speaker:luweiran]]“He says he is not employed.”
 
-“That was not my question.”
+[[speaker:sera]]“That was not my question.”
 
-“He is already checking the port.”
+[[speaker:luweiran]]“He is already checking the port.”
 
 Luo almost laughed.
 
@@ -752,31 +752,31 @@ It came out as air.
 
 Sera stood.
 
-“Good. We do this properly.”
+[[speaker:sera]]“Good. We do this properly.”
 
 Luo looked at her.
 
-“Properly may be too slow.”
+[[speaker:luo]]“Properly may be too slow.”
 
-“Yes.”
+[[speaker:sera]]“Yes.”
 
 That answer surprised him.
 
 Sera continued.
 
-“But blind is slower if it gets more people caught.”
+[[speaker:sera]]“But blind is slower if it gets more people caught.”
 
 He said nothing.
 
 She touched two fingers to the notebook in his hand.
 
-“Yun knew what she was doing when she left you here.”
+[[speaker:sera]]“Yun knew what she was doing when she left you here.”
 
 Luo looked down.
 
 “I know.”
 
-“Trust that part of her while we find the rest.”
+[[speaker:sera]]“Trust that part of her while we find the rest.”
 
 He closed his eyes once.
 
