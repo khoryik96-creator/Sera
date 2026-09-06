@@ -1,0 +1,221 @@
+name: Phase III prose autofix
+
+on:
+  push:
+    branches:
+      - story/final-arc-phase3-season109-prose
+
+permissions:
+  contents: write
+
+jobs:
+  fix-prose:
+    if: github.event.head_commit.message != 'Apply Phase III prose continuity fixes'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: story/final-arc-phase3-season109-prose
+          fetch-depth: 0
+
+      - name: Apply audited continuity fixes
+        shell: bash
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import re
+
+          ROOT = Path('docs/prose')
+
+          def load(name):
+              p = ROOT / name
+              return p, p.read_text(encoding='utf-8')
+
+          def replace_once(name, old, new):
+              p, text = load(name)
+              count = text.count(old)
+              if count != 1:
+                  raise SystemExit(f'{name}: expected exactly 1 occurrence, found {count}: {old[:100]!r}')
+              p.write_text(text.replace(old, new, 1), encoding='utf-8')
+
+          # 1. Correct Hana's Hollow Sky mechanics; the old line accidentally described Yurushi's Twilight Dominion.
+          replace_once(
+              'FINAL_ARC_SEASON109_PROSE_DRAFT.md',
+              'Qin added, “Her movement is physical. Darkness hides connected routes. Light accelerates the real body. No spatial tricks.”',
+              'Qin added, “Her qinggong is physical. Wind and pressure. Hollow Sky creates moving low-pressure pockets: breathing, balance and sustained exertion worsen inside them, and collapsing a pocket can turn the returning air into a violent physical opening. No spatial tricks.”'
+          )
+
+          # 2. Remove planning-language leakage from Sanctuary prose.
+          total = 0
+          for p in ROOT.glob('FINAL_ARC_SEASON*_PROSE_DRAFT*.md'):
+              text = p.read_text(encoding='utf-8')
+              n = text.count('maximum approved span')
+              if n:
+                  text = text.replace('maximum approved span', 'full thirty-mile span')
+                  p.write_text(text, encoding='utf-8')
+                  total += n
+          if total != 1:
+              raise SystemExit(f'expected exactly one maximum-approved-span phrase, found {total}')
+
+          # 3. Bridge Shunto's Greywater custody into the Shinsei medical transfer.
+          replace_once(
+              'FINAL_ARC_SEASON112_PROSE_DRAFT.md',
+              'He had not spoken.\n\nThe escort entered Tsubasa Kurokawa\'s northern military camp before dawn.',
+              'He had not spoken.\n\nSera and Solveig had approved only a limited joint transfer after the Greywater corridor command confirmed Shunto was stable enough to move. Shinsei could place its disgraced former officer in a secure medical cell, but Wuyue and Isgard custody seals stayed on the restraint order, two allied observers rode with the convoy, and any later transfer required joint approval.\n\nNobody had simply handed him back.\n\nThe escort entered Tsubasa Kurokawa\'s northern military camp before dawn.'
+          )
+
+          # 4. Remove any implication that Tsubasa personally fought Aethon; preserve the historical benchmark.
+          replace_once(
+              'FINAL_ARC_SEASON112_PROSE_DRAFT_3.md',
+              '“No one has pushed me that far.”\n\nSera\'s mouth moved faintly.\n\n“Aethon?”\n\nTsubasa shook his head.\n\n“No.”',
+              '“No one has pushed me that far.”\n\nSera\'s mouth moved faintly.\n\n“Anyone?”\n\nTsubasa shook his head.\n\n“No.”'
+          )
+          replace_once(
+              'FINAL_ARC_SEASON112_PROSE_DRAFT_3.md',
+              'Base Tsubasa Kurokawa remained above her.\n\nBut now everyone knew how narrow the word above could become when the Pale Orchid was beneath it.',
+              'Base Tsubasa Kurokawa remained above her.\n\nTsubasa and Aethon Vael had never fought each other. The comparison lived in surviving records, witnesses and what each man had demonstrated. On that evidence, present-day Tsubasa stood above the old Aethon benchmark.\n\nBut now everyone knew how narrow the word above could become when the Pale Orchid was beneath it.'
+          )
+
+          # 5. Tsubasa has not formally resigned yet in Chapter 491.
+          replace_once(
+              'FINAL_ARC_SEASON114_PROSE_DRAFT.md',
+              'The former Shinsei No.1 sat against a shattered anchor stone.',
+              'Shinsei\'s defeated No.1 sat against a shattered anchor stone.'
+          )
+
+          # 6. Fully explain all four Dominion mechanics when the final Paragon resistance activates them.
+          replace_once(
+              'FINAL_ARC_SEASON113_PROSE_DRAFT_3.md',
+              'At three times normal throughput, **Crimson Crucible Dominion** would have turned a prolonged fight into a furnace.\n\nEirik opened **Crownless Dominion** beside him.\n\nAmbient qi recovery vanished for selected enemies within the field.\n\nKenji\'s **Stormstep Dominion** sharpened his burst geometry.\n\nJun\'s **Breach Dominion** prepared to punish fixed defenses.',
+              'At three times normal throughput, **Crimson Crucible Dominion** would have turned a prolonged fight into a furnace. Its heat rapidly dehydrated and exhausted hostile bodies, while Kai\'s conditioned circulation used the same rising heat to make his own physical output increasingly explosive.\n\nEirik opened **Crownless Dominion** beside him.\n\nIt did not drain the reserve already inside an enemy. It cut selected hostile cultivators off from ambient qi replenishment, forcing every technique to spend only what the body already carried.\n\nKenji\'s **Stormstep Dominion** sharpened around the field. Every meaningful hostile planted step or landing called a Thunder-Qi strike onto that target\'s current position. One strike could be avoided; sustained movement invited another, then another.\n\nJun opened **Breach Dominion** around the halberd. It did not break defenses from a distance. If Jun\'s attack actually connected, conventional mitigation at that point—armor, shields, weapon guards and body-hardening qi—provided no meaningful reduction. The answer was not a thicker defense. It was not being where the halberd landed.'
+          )
+
+          # 7. Winter Ends also closes every still-active Redline cycle among the sleeping spearhead and Tsubasa.
+          replace_once(
+              'FINAL_ARC_SEASON113_PROSE_DRAFT_3.md',
+              'Four Redline surges died before they could become a sustained attack.\n\nKai staggered.',
+              'Four Redline surges died before they could become a sustained attack.\n\nRhen did not stop at four.\n\nThe same Supreme law spread back across the inner field.\n\nThe fifty thousand sleeping under Quiet Snow still carried Redline chemistry in their bodies. Sleep had stopped their fighting; it had not magically stopped an activated dose from running its cycle. Tsubasa\'s body was still carrying the same artificial overclock beneath the crash Rhen had stabilized.\n\nRhen selected every still-active Redline state he could feel.\n\n**Winter Ends, Spring Blossoms** touched them all.\n\nThousands of distorted circulations were forced toward their proper conclusion at once. Some soldiers had already spent seconds. Others had spent minutes. Tsubasa had spent part of his own window. None of that future vitality returned.\n\nBut no sleeping body kept burning years merely because the battlefield had gone quiet before the drug did.\n\nAcross the spearhead, every remaining artificial 3× cycle ended.\n\nKai staggered.'
+          )
+          replace_once(
+              'FINAL_ARC_SEASON114_PROSE_DRAFT.md',
+              'Rhen lifted one hand.\n\nFar across the battlefield, the remaining frozen petals changed direction.',
+              'Only after **Winter Ends, Spring Blossoms** had closed every still-active Redline cycle did Rhen touch the captured reserves again.\n\nRhen lifted one hand.\n\nFar across the battlefield, the remaining frozen petals changed direction.'
+          )
+
+          # 8. Give the epilogue explicit time markers so continent-scale reforms do not happen overnight.
+          replace_once(
+              'FINAL_ARC_SEASON114_PROSE_DRAFT_2.md',
+              'Aya Katsuragi chose fire because paper could lie.',
+              'Six weeks after Shinsei surrendered, Aya Katsuragi chose fire because paper could lie.'
+          )
+          replace_once(
+              'FINAL_ARC_SEASON114_PROSE_DRAFT_2.md',
+              'Kael Veyran retired from Wuyue\'s public No.1 seat by arriving late to his own ceremony.',
+              'Three months after the surrender, Kael Veyran retired from Wuyue\'s public No.1 seat by arriving late to his own ceremony.'
+          )
+          replace_once(
+              'FINAL_ARC_SEASON114_PROSE_DRAFT_2.md',
+              'Yun Shizhen\'s memorial was smaller than the Top Ten ceremony.',
+              'Two days after the Stonecrown ceremony, Yun Shizhen\'s memorial was smaller than the Top Ten ceremony.'
+          )
+          replace_once(
+              'FINAL_ARC_SEASON114_PROSE_DRAFT_3.md',
+              'Isgard rebuilt slowly.\n\nThat was the only honest way to do it.',
+              'By the time the first permanent treaty was ready, Isgard had been rebuilding for months.\n\nIt rebuilt slowly.\n\nThat was the only honest way to do it.'
+          )
+          replace_once(
+              'FINAL_ARC_SEASON114_PROSE_DRAFT_3.md',
+              'Solveig remained Acting War Commander for several months after the formal surrender.\n\nThen Aldric made the role permanent under a different name.',
+              'Solveig had remained Acting War Commander for several months after the formal surrender.\n\nBefore the treaty delegation gathered, Aldric made the role permanent under a different name.'
+          )
+          replace_once(
+              'FINAL_ARC_SEASON114_PROSE_DRAFT_3.md',
+              'Then Eirik Voss came home.',
+              'Eirik Voss had come home months before the treaty.'
+          )
+
+          # 9. Preserve evidence of Axtaya while destroying every reproducible 3x recipe.
+          replace_once(
+              'FINAL_ARC_SEASON114_PROSE_DRAFT_2.md',
+              'Military dosage tables sealed into the public inquiry archive rather than preserved as active manufacturing instructions.',
+              'Military dosage tables were preserved only as evidentiary fragments in the public inquiry archive, not as a usable manufacturing package.\n\nAuthorization chains, casualty ledgers, batch histories and the proof needed to hold people accountable remained public. The concentration ratios, carrier sequence, manufacturing tolerances and any single document capable of reproducing a 3× Redline dose did not. Those were destroyed under multi-party witness.\n\nThe record survived.\n\nThe recipe did not.'
+          )
+
+          # 10. Strengthen the Top Ten memorial as a complete lineage without inventing names not fixed by canon.
+          replace_once(
+              'FINAL_ARC_SEASON114_PROSE_DRAFT_2.md',
+              'Han Myeong.\n\nYun Shizhen.\n\nThose who had died.\n\nThose who had retired.\n\nThose who had once carried a number before war, injury, death or history moved it elsewhere.',
+              'Han Myeong.\n\nYun Shizhen.\n\nBeyond those two names, the older registry was read in full: every confirmed former holder from the generation\'s earlier years, including those lost or retired before the final war. The ceremony did not reduce them to previous occupants simply because a later name had inherited the number.\n\nThose who had once carried a number before war, injury, death or history moved it elsewhere.'
+          )
+
+          # 11. Close the remaining Isgard wartime-command threads.
+          replace_once(
+              'FINAL_ARC_SEASON114_PROSE_DRAFT_3.md',
+              'Maedra approved, which she expressed by saying nothing insulting for almost seven minutes.\n\nEirik Voss had come home months before the treaty.',
+              'Maedra approved, which she expressed by saying nothing insulting for almost seven minutes.\n\nThe rest of Isgard\'s emergency command spine did not disappear when the crisis ended.\n\nVarok remained the north\'s mobile field commander through reconstruction and later took permanent responsibility for rapid-response frontier forces.\n\nBrynja rebuilt the coastal-defense network she had held together during the invasion, this time with ports, evacuation lanes and civilian shelters designed into the same plan.\n\nAstrid turned the hidden roads and reconnaissance routes that had kept Isgard alive into a standing evacuation-and-intelligence service answerable to lawful command rather than wartime improvisation.\n\nTor never returned to frontline combat. The meridian destruction that ended his career remained one of the war\'s permanent costs, so he taught defensive formations and evacuation doctrine instead.\n\nEldran likewise stayed retired from frontline fighting. He became the adviser Maedra claimed she did not need and then consulted constantly.\n\nEirik Voss had come home months before the treaty.'
+          )
+
+          # 12. Remove draft-only season-ending narration from reader prose while preserving the dramatic beats.
+          ending_replacements = {
+              'Season 109 ended before it reached Tsubasa Kurokawa.': 'It would reach Tsubasa Kurokawa soon enough.',
+              'Season 110 ended before the count reached zero.': 'The count had not reached zero yet.',
+              'Season 111 ended with Kael Veyran lying beneath an Isgard sky, completely capable of fighting again one day.': 'Kael Veyran lay beneath an Isgard sky, completely capable of fighting again one day.',
+              'Season 112 ended with the strongest conventional cultivator alive still standing.': 'The strongest conventional cultivator alive was still standing.',
+              'Season 113 ended with Shinsei\'s weapons on the ground.': 'Shinsei\'s weapons lay on the ground.',
+          }
+          for old, new in ending_replacements.items():
+              hits = []
+              for p in ROOT.glob('FINAL_ARC_SEASON*_PROSE_DRAFT*.md'):
+                  text = p.read_text(encoding='utf-8')
+                  if old in text:
+                      hits.append(p)
+                      p.write_text(text.replace(old, new), encoding='utf-8')
+              if len(hits) != 1:
+                  raise SystemExit(f'expected exactly one season-ending phrase {old!r}, found {len(hits)}')
+
+          # Final audit: the known bad phrases must be gone and the new continuity bridges must exist.
+          all_text = '\n'.join(p.read_text(encoding='utf-8') for p in ROOT.glob('FINAL_ARC_SEASON*_PROSE_DRAFT*.md'))
+          forbidden = [
+              'Darkness hides connected routes. Light accelerates the real body.',
+              'maximum approved span',
+              '“Aethon?”',
+              'The former Shinsei No.1 sat against a shattered anchor stone.',
+              'Kenji\'s **Stormstep Dominion** sharpened his burst geometry.',
+              'Jun\'s **Breach Dominion** prepared to punish fixed defenses.',
+              'Military dosage tables sealed into the public inquiry archive rather than preserved as active manufacturing instructions.',
+              'Then Eirik Voss came home.',
+          ]
+          for phrase in forbidden:
+              if phrase in all_text:
+                  raise SystemExit(f'forbidden phrase remains: {phrase}')
+          if re.search(r'Season (?:109|110|111|112|113) ended', all_text):
+              raise SystemExit('draft-only season-ending narration remains')
+
+          required = [
+              'Hollow Sky creates moving low-pressure pockets',
+              'Nobody had simply handed him back.',
+              'Tsubasa and Aethon Vael had never fought each other.',
+              'every remaining artificial 3× cycle ended.',
+              'Every meaningful hostile planted step or landing called a Thunder-Qi strike',
+              'The record survived.\n\nThe recipe did not.',
+              'The rest of Isgard\'s emergency command spine did not disappear',
+          ]
+          for phrase in required:
+              if phrase not in all_text:
+                  raise SystemExit(f'required continuity text missing: {phrase}')
+
+          print('Phase III prose continuity fixes applied and validated.')
+          PY
+
+      - name: Commit prose fixes
+        shell: bash
+        run: |
+          if git diff --quiet -- docs/prose; then
+            echo "No prose changes to commit."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/prose
+          git commit -m "Apply Phase III prose continuity fixes"
+          git push origin HEAD:story/final-arc-phase3-season109-prose
