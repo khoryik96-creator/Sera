@@ -19,7 +19,6 @@ const ChaptersPage = lazy(() => import('../routes/ChaptersRoute').then((module) 
 const ReaderPage = lazy(() => import('../routes/ReaderRoute').then((module) => ({ default: module.ReaderPage })));
 const RankingsPage = lazy(() => import('../routes/RankingsRoute').then((module) => ({ default: module.RankingsPage })));
 const BookmarksPage = lazy(() => import('../routes/BookmarksRoute').then((module) => ({ default: module.BookmarksPage })));
-const InsightsPage = lazy(() => import('../routes/InsightsRoute').then((module) => ({ default: module.InsightsPage })));
 const LegendsPage = lazy(() => import('../routes/LegendsRoute').then((module) => ({ default: module.LegendsPage })));
 const FormerPage = lazy(() => import('../routes/FormerRoute').then((module) => ({ default: module.FormerPage })));
 const TimelinePage = lazy(() => import('../routes/TimelineRoute').then((module) => ({ default: module.TimelinePage })));
@@ -225,7 +224,6 @@ export function App() {
       case 'teahouse': page = <TeahousePage />; break;
       case 'chapters': page = <ChaptersPage onOpenChapter={openChapter} />; break;
       case 'bookmarks': page = <BookmarksPage initialTab={route.libraryTab || 'saved'} onOpenChapter={openChapter} />; break;
-      case 'insights': page = <InsightsPage onOpenChapter={openChapter} onOpenLibrary={() => openSection('bookmarks')} onOpenJourney={() => navigate('bookmarks/journey')} />; break;
       case 'rankings': page = <RankingsPage />; break;
       case 'legends': page = <LegendsPage />; break;
       case 'former': page = <FormerPage />; break;

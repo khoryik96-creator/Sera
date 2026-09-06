@@ -17,7 +17,7 @@ const limits = {
 
 const requiredLazyRoutes = [
   'ReaderRoute', 'ChaptersRoute', 'OverviewRoute', 'CharactersRoute', 'VillainsRoute', 'IsgardRoute', 'ShinrinRoute', 'TechniquesRoute', 'TeahouseRoute',
-  'RankingsRoute', 'BookmarksRoute', 'InsightsRoute', 'LegendsRoute', 'FormerRoute', 'TimelineRoute', 'CanonRoute', 'SearchRoute',
+  'RankingsRoute', 'BookmarksRoute', 'LegendsRoute', 'FormerRoute', 'TimelineRoute', 'CanonRoute', 'SearchRoute',
 ];
 
 async function sizeOf(pattern, label) {
