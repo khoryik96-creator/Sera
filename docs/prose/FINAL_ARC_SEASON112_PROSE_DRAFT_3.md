@@ -230,13 +230,7 @@ Kael saw it.
 
 He said nothing.
 
-Sera did not look toward Rhen.
-
-That mattered.
-
-She had asked for the duel.
-
-He was letting her have it.
+Sera did not look toward Rhen. She had asked for the duel, and he was letting her have it.
 
 Tsubasa entered close range.
 
@@ -330,9 +324,7 @@ Blood touched her lips.
 
 Tsubasa's own breathing was ragged now.
 
-He was not winning cleanly.
-
-That mattered too.
+He was not winning cleanly either.
 
 He looked at her.
 
@@ -698,13 +690,7 @@ He still did not fall.
 
 Sera advanced.
 
-This was her moment.
-
-Not because Rhen had weakened him.
-
-Not because someone else had solved his Domain.
-
-Not because Tsubasa was on a timer created by Redline.
+This was her moment. Rhen had not weakened him, nobody else had solved his Domain, and no Redline timer was forcing his collapse.
 
 Her system had forced the strongest conventional cultivator alive to reveal his full battlefield art.
 

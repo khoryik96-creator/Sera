@@ -704,7 +704,7 @@ Sera did not insult that choice by calling it foolish.
 
 “Say she lives.”
 
-That mattered.
+For now, survival was enough to change the room.
 
 Eldran’s eyes returned to Sera.
 
@@ -898,9 +898,7 @@ Started again.
 
 “You made it.”
 
-That mattered.
-
-She had crossed a continent.
+The words carried the whole distance she had crossed.
 
 Survived Shunto.
 

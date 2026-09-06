@@ -834,6 +834,4 @@ She did not ask anyone to check if he was nearly done.
 
 He would finish when he finished.
 
-Until then, she commanded hurt.
-
-That was enough.
+Until then, she would command hurt—and refuse to let anyone confuse endurance with invulnerability.

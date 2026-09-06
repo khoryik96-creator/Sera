@@ -1260,13 +1260,7 @@ Rhen looked at him as if the question were obvious.
 
 “Yes.”
 
-Luo nodded.
-
-That mattered.
-
-Not today.
-
-Later.
+Luo nodded. Not today, but later.
 
 Kael would never be able to say Shunto took the choice away from him.
 

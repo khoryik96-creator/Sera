@@ -112,13 +112,7 @@ Rhen paused.
 
 “Yes.”
 
-That pause mattered.
-
-Not uncertainty.
-
-Calculation.
-
-Sera saw it.
+The pause was calculation, not uncertainty. Sera saw it.
 
 “You figured something out in that cave.”
 
@@ -166,11 +160,7 @@ Rhen's voice softened.
 
 Sera looked at him.
 
-He meant it.
-
-Not because he thought she needed saving.
-
-Because he would respect the decision if she made it.
+He meant it. He did not think she needed saving; he would simply respect the decision if she made it.
 
 That was the difference between protection and possession.
 
@@ -272,11 +262,7 @@ Rhen was silent.
 
 Sera watched him carefully.
 
-This was the moment she expected resistance.
-
-Not because he doubted her.
-
-Because he loved her.
+This was the moment she expected resistance, and any resistance would come from love rather than doubt.
 
 Rhen looked down at their joined hands.
 

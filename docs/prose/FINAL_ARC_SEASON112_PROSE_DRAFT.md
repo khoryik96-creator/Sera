@@ -498,9 +498,7 @@ Aya met his gaze.
 
 Tsubasa folded the final page.
 
-Nobody in the room seemed relieved.
-
-That was the problem.
+Nobody in the room seemed relieved. That absence of relief exposed the real problem.
 
 The terms were survivable.
 
