@@ -29,7 +29,7 @@ He looked at Sera when she approached and swallowed.
 
 Sera stopped.
 
-“Do what?”
+[[speaker:sera]]“Do what?”
 
 His mouth tightened.
 
@@ -39,17 +39,17 @@ The soldiers beside him glanced at one another.
 
 Sera looked at the wound.
 
-“You’re bleeding.”
+[[speaker:sera]]“You’re bleeding.”
 
 He stared.
 
 “I know.”
 
-“Then stop talking.”
+[[speaker:sera]]“Then stop talking.”
 
 She turned.
 
-“Medic.”
+[[speaker:sera]]“Medic.”
 
 The Shinsei soldier’s expression changed.
 
@@ -125,11 +125,11 @@ The sergeant’s jaw tightened.
 
 “Why?”
 
-“Because they surrendered.”
+[[speaker:sera]]“Because they surrendered.”
 
 “That’s it?”
 
-“That’s enough.”
+[[speaker:sera]]“That’s enough.”
 
 He looked at the prisoners.
 
@@ -151,19 +151,19 @@ The number kept rising as scattered Shinsei groups realized the retreat corridor
 
 Jin noticed immediately.
 
-“They expected massacre.”
+[[speaker:jin]]“They expected massacre.”
 
 Sera looked at the growing holding area.
 
 “Yes.”
 
-“That expectation was part of their discipline model.”
+[[speaker:jin]]“That expectation was part of their discipline model.”
 
 “Yes.”
 
-“If surrender means survival—”
+[[speaker:jin]]“If surrender means survival—”
 
-“Do not turn this into a weapon yet.”
+[[speaker:sera]]“Do not turn this into a weapon yet.”
 
 Jin looked at her.
 
@@ -175,7 +175,7 @@ Jin was quiet.
 
 Then nodded.
 
-“Fair.”
+[[speaker:jin]]“Fair.”
 
 Luo spent most of the night in the prisoner hospital.
 
@@ -231,19 +231,19 @@ Maybe it had cost the man years.
 
 Both could be true.
 
-“How much did they tell you?”
+[[speaker:luo]]“How much did they tell you?”
 
 The soldier frowned.
 
 “About what?”
 
-“The cost.”
+[[speaker:luo]]“The cost.”
 
 “Recovery?”
 
 Luo became still.
 
-“What did they say?”
+[[speaker:luo]]“What did they say?”
 
 The soldier shrugged.
 
@@ -275,7 +275,7 @@ Then another.
 
 He looked at the patient.
 
-“You’re staying overnight.”
+[[speaker:luo]]“You’re staying overnight.”
 
 The man frowned.
 
@@ -285,13 +285,13 @@ The man frowned.
 
 “So?”
 
-“So prisoners also have hearts.”
+[[speaker:luo]]“So prisoners also have hearts.”
 
 The soldier stared.
 
 Luo sighed.
 
-“Apparently.”
+[[speaker:luo]]“Apparently.”
 
 The next morning, a Shinsei medic among the prisoners asked to help.
 
@@ -305,11 +305,11 @@ The medic stood with hands bound in front.
 
 Luo looked at him.
 
-“Training?”
+[[speaker:luo]]“Training?”
 
 “Field medicine.”
 
-“Under Aya Katsuragi?”
+[[speaker:luo]]“Under Aya Katsuragi?”
 
 The man hesitated.
 
@@ -321,7 +321,7 @@ The Isgard guard looked at Sera.
 
 She nodded.
 
-“One hand. One table. Guard stays.”
+[[speaker:sera]]“One hand. One table. Guard stays.”
 
 The medic worked.
 
@@ -361,7 +361,7 @@ Irregular.
 
 Still present.
 
-“Here.”
+[[speaker:aya]]“Here.”
 
 The stretcher team moved toward her before she finished pointing.
 
@@ -381,7 +381,7 @@ Two more were bleeding internally.
 
 Aya put her fingers against his neck.
 
-“Who moved him after collapse?”
+[[speaker:aya]]“Who moved him after collapse?”
 
 A medic raised one hand.
 
@@ -433,11 +433,11 @@ The medic stared.
 
 Aya looked at him.
 
-“It came out.”
+[[speaker:aya]]“It came out.”
 
 “Right.”
 
-“Do not react to blood as though blood itself is failure.”
+[[speaker:aya]]“Do not react to blood as though blood itself is failure.”
 
 “Yes, Physician.”
 
@@ -445,7 +445,7 @@ Jun’s pulse dropped.
 
 Aya changed two needles.
 
-“Borrowed Beat.”
+[[speaker:aya]]“Borrowed Beat.”
 
 The room became quiet.
 
@@ -463,41 +463,41 @@ Aya was still there.
 
 He looked at the ceiling.
 
-“Lost.”
+[[speaker:jun]]“Lost.”
 
 “Yes.”
 
 His voice was rough.
 
-“Kael.”
+[[speaker:jun]]“Kael.”
 
 “Yes.”
 
-“New Paragon.”
+[[speaker:jun]]“New Paragon.”
 
 “Yes.”
 
 Jun closed his eyes again.
 
-“He learned.”
+[[speaker:jun]]“He learned.”
 
 Aya adjusted a needle.
 
-“So should you.”
+[[speaker:aya]]“So should you.”
 
 One eye opened.
 
-“That sounded philosophical.”
+[[speaker:jun]]“That sounded philosophical.”
 
-“It was medical.”
+[[speaker:aya]]“It was medical.”
 
 “How?”
 
-“You are injured because your opponent adapted faster than you did.”
+[[speaker:aya]]“You are injured because your opponent adapted faster than you did.”
 
 Jun considered that.
 
-“Fair.”
+[[speaker:jun]]“Fair.”
 
 He tried to move his arm.
 
@@ -505,31 +505,31 @@ Aya slapped his wrist back to the bed.
 
 Jun stared.
 
-“You hit me.”
+[[speaker:jun]]“You hit me.”
 
 “Yes.”
 
-“I am a Paragon.”
+[[speaker:jun]]“I am a Paragon.”
 
-“You are currently a patient.”
+[[speaker:aya]]“You are currently a patient.”
 
 He looked almost offended.
 
 Then the corner of his mouth moved.
 
-“Also fair.”
+[[speaker:jun]]“Also fair.”
 
 Aya looked at the chart.
 
-“Several days before I let you stand in armor.”
+[[speaker:aya]]“Several days before I let you stand in armor.”
 
-“Too long.”
+[[speaker:jun]]“Too long.”
 
 “No.”
 
-“Shinsei needs—”
+[[speaker:jun]]“Shinsei needs—”
 
-“Shinsei needs you alive more than it needs you pretending one successful treatment erased the fight.”
+[[speaker:aya]]“Shinsei needs you alive more than it needs you pretending one successful treatment erased the fight.”
 
 Jun was silent.
 
@@ -537,19 +537,19 @@ Aya continued.
 
 “Your recoverable damage can be repaired.”
 
-“Can?”
+[[speaker:jun]]“Can?”
 
 “Yes.”
 
-“All of it?”
+[[speaker:jun]]“All of it?”
 
-“With time.”
+[[speaker:aya]]“With time.”
 
-“How much?”
+[[speaker:jun]]“How much?”
 
 She looked at him.
 
-“Enough that command will complain.”
+[[speaker:aya]]“Enough that command will complain.”
 
 Jun almost laughed.
 
@@ -563,23 +563,23 @@ The entire hospital shifted around the sound.
 
 Jun heard it too.
 
-“How many?”
+[[speaker:jun]]“How many?”
 
 Aya looked toward the door.
 
-“Too many.”
+[[speaker:aya]]“Too many.”
 
-“Redline?”
+[[speaker:jun]]“Redline?”
 
-“Some.”
+[[speaker:aya]]“Some.”
 
 Jun’s expression hardened.
 
-“Did they hold?”
+[[speaker:jun]]“Did they hold?”
 
 Aya turned back.
 
-“Do not ask me whether burning their futures bought enough ground to satisfy you while I am repairing them.”
+[[speaker:aya]]“Do not ask me whether burning their futures bought enough ground to satisfy you while I am repairing them.”
 
 Silence.
 
@@ -589,7 +589,7 @@ Aya’s voice was calm.
 
 That made it sharper.
 
-“Ask command.”
+[[speaker:aya]]“Ask command.”
 
 He looked away.
 
@@ -611,7 +611,7 @@ A clerk entered with a captured-status bulletin.
 
 Jun looked at him.
 
-“Executed?”
+[[speaker:jun]]“Executed?”
 
 The clerk checked.
 
@@ -625,11 +625,11 @@ Jun’s eyes narrowed.
 
 Aya stopped moving for half a second.
 
-“Treating?”
+[[speaker:aya]]“Treating?”
 
 “Yes.”
 
-“Same standard as their own?”
+[[speaker:aya]]“Same standard as their own?”
 
 “Report says yes.”
 
@@ -689,45 +689,45 @@ The map looked emptier than Shinsei headquarters was accustomed to.
 
 Tsubasa finished the prisoner report first.
 
-“They treated them.”
+[[speaker:tsubasa]]“They treated them.”
 
 Shunto shrugged.
 
-“Useful theater.”
+[[speaker:shunto]]“Useful theater.”
 
 Kai looked at him.
 
-“Or they treat prisoners.”
+[[speaker:kai]]“Or they treat prisoners.”
 
-“Same effect.”
+[[speaker:shunto]]“Same effect.”
 
 “No.”
 
 Shunto smiled.
 
-“Still dislike me?”
+[[speaker:shunto]]“Still dislike me?”
 
 “Yes.”
 
-“Comforting consistency.”
+[[speaker:shunto]]“Comforting consistency.”
 
 Tsubasa ignored them.
 
-“Haru.”
+[[speaker:tsubasa]]“Haru.”
 
 “Yes.”
 
-“How much did Wuyue send?”
+[[speaker:tsubasa]]“How much did Wuyue send?”
 
-“Confirmed public force approximately sixty-three to sixty-four thousand. Sera with a small private support element outside that number.”
+[[speaker:haru]]“Confirmed public force approximately sixty-three to sixty-four thousand. Sera with a small private support element outside that number.”
 
-“Kael?”
+[[speaker:tsubasa]]“Kael?”
 
-“Roughly six thousand Stonecrown.”
+[[speaker:haru]]“Roughly six thousand Stonecrown.”
 
 Tsubasa looked up.
 
-“Only six.”
+[[speaker:tsubasa]]“Only six.”
 
 “Yes.”
 
@@ -741,23 +741,23 @@ Left the fortress intact.
 
 Tsubasa’s gaze shifted to another line.
 
-“Mo Qingzhao.”
+[[speaker:tsubasa]]“Mo Qingzhao.”
 
-“Eighteen thousand Imperial personnel. Largest single public block.”
+[[speaker:haru]]“Eighteen thousand Imperial personnel. Largest single public block.”
 
-“And Jin?”
+[[speaker:tsubasa]]“And Jin?”
 
-“Concord nine thousand. He appears to be directing combined operational planning with Isgard command.”
+[[speaker:haru]]“Concord nine thousand. He appears to be directing combined operational planning with Isgard command.”
 
 Kai grunted.
 
-“Smart.”
+[[speaker:kai]]“Smart.”
 
 Shunto said, “Predictable.”
 
 Haru looked at him.
 
-“If it was predictable, why did our western corridor fall?”
+[[speaker:haru]]“If it was predictable, why did our western corridor fall?”
 
 Shunto’s smile thinned.
 
@@ -767,15 +767,15 @@ Tsubasa continued reading.
 
 “Jun lost to Kael cleanly?”
 
-“After a serious fight.”
+[[speaker:haru]]“After a serious fight.”
 
-“Domain interaction?”
+[[speaker:tsubasa]]“Domain interaction?”
 
-“Yes. Kael stopped trying to mitigate Breach after contact and used Worldweight to make clean contact progressively harder.”
+[[speaker:haru]]“Yes. Kael stopped trying to mitigate Breach after contact and used Worldweight to make clean contact progressively harder.”
 
 Tsubasa nodded.
 
-“Good adaptation.”
+[[speaker:tsubasa]]“Good adaptation.”
 
 Hana watched him.
 
@@ -793,21 +793,21 @@ He preferred accurate models.
 
 Tsubasa looked toward Kai.
 
-“You’re going north.”
+[[speaker:tsubasa]]“You’re going north.”
 
 Kai’s expression did not change.
 
-“Expected that.”
+[[speaker:kai]]“Expected that.”
 
-“Jun will return, but not immediately. Wuyue now has Sera and Kael at Paragon level in theater, plus the Isgard survivors once they recover.”
+[[speaker:tsubasa]]“Jun will return, but not immediately. Wuyue now has Sera and Kael at Paragon level in theater, plus the Isgard survivors once they recover.”
 
-“And me?”
+[[speaker:kai]]“And me?”
 
-“You stabilize the apex arithmetic.”
+[[speaker:tsubasa]]“You stabilize the apex arithmetic.”
 
 Kai walked to the map.
 
-“Not chase Kael for revenge.”
+[[speaker:kai]]“Not chase Kael for revenge.”
 
 “No.”
 
@@ -815,15 +815,15 @@ Kai walked to the map.
 
 Tsubasa looked at him.
 
-“You once taught me that losing a duel did not make the person who won politically correct.”
+[[speaker:tsubasa]]“You once taught me that losing a duel did not make the person who won politically correct.”
 
 Kai’s mouth moved.
 
-“You remembered.”
+[[speaker:kai]]“You remembered.”
 
-“I remember most useful lessons.”
+[[speaker:tsubasa]]“I remember most useful lessons.”
 
-“That one should have been useful more often.”
+[[speaker:kai]]“That one should have been useful more often.”
 
 The room tightened.
 
@@ -833,15 +833,15 @@ Kai continued.
 
 “You’re still treating this war like the conclusion is obvious if the arithmetic works.”
 
-“Isgard’s material collapse is real.”
+[[speaker:tsubasa]]“Isgard’s material collapse is real.”
 
 “Yes.”
 
-“The epidemic losses are real.”
+[[speaker:tsubasa]]“The epidemic losses are real.”
 
 “Yes.”
 
-“Their fractured administration is costing lives.”
+[[speaker:tsubasa]]“Their fractured administration is costing lives.”
 
 “Yes.”
 
@@ -851,7 +851,7 @@ Tsubasa’s voice remained calm.
 
 Kai pointed at the map.
 
-“The part where being right about their roads makes those roads yours.”
+[[speaker:kai]]“The part where being right about their roads makes those roads yours.”
 
 Silence.
 
@@ -863,7 +863,7 @@ Shunto looked bored.
 
 Tsubasa’s fingers rested on the table edge.
 
-“I am not annexing Isgard for roads.”
+[[speaker:tsubasa]]“I am not annexing Isgard for roads.”
 
 “No.”
 
@@ -873,13 +873,13 @@ Kai’s voice was blunt.
 
 “Yes.”
 
-“At least say it properly.”
+[[speaker:kai]]“At least say it properly.”
 
 Tsubasa held his gaze.
 
 Then nodded once.
 
-“Fair.”
+[[speaker:tsubasa]]“Fair.”
 
 That did not end the disagreement.
 
@@ -891,19 +891,19 @@ He simply believed the decision survived it.
 
 Kai looked at the northern marker.
 
-“When do I leave?”
+[[speaker:kai]]“When do I leave?”
 
-“Tomorrow.”
+[[speaker:tsubasa]]“Tomorrow.”
 
-“Troops?”
+[[speaker:kai]]“Troops?”
 
-“Reinforcement elements follow separately. Your first role is command stabilization and High-Paragon pressure.”
+[[speaker:tsubasa]]“Reinforcement elements follow separately. Your first role is command stabilization and High-Paragon pressure.”
 
 Kai nodded.
 
 Tsubasa turned to Haru.
 
-“Wuyue contingency.”
+[[speaker:tsubasa]]“Wuyue contingency.”
 
 Haru already had the packet ready.
 
@@ -919,45 +919,45 @@ Now it was entering execution.
 
 Haru opened the map.
 
-“Primary objective remains pressure on Sera’s support architecture. Not conquest. Not engagement with Stonecrown’s full fixed army.”
+[[speaker:haru]]“Primary objective remains pressure on Sera’s support architecture. Not conquest. Not engagement with Stonecrown’s full fixed army.”
 
 Tsubasa nodded.
 
-“What do we know?”
+[[speaker:tsubasa]]“What do we know?”
 
 Haru answered.
 
 “Publicly, the Quaint Teahouse is associated with medicine, intelligence support and Sera’s private personnel. Rhen is unavailable. Sera and all ten public Wuyue rankings are north.”
 
-“What do we not know?”
+[[speaker:tsubasa]]“What do we not know?”
 
 Haru paused.
 
-“The real depth of the private organization.”
+[[speaker:haru]]“The real depth of the private organization.”
 
 Accelerating the invasion had bought time by spending intelligence.
 
 Tsubasa looked at Hana.
 
-“You go with Haru.”
+[[speaker:tsubasa]]“You go with Haru.”
 
 “Yes.”
 
-“Limited objective.”
+[[speaker:tsubasa]]“Limited objective.”
 
 “Yes.”
 
-“If the target is materially stronger than assessed?”
+[[speaker:tsubasa]]“If the target is materially stronger than assessed?”
 
-“Withdraw.”
+[[speaker:hana]]“Withdraw.”
 
 Shunto smiled.
 
-“How cautious.”
+[[speaker:shunto]]“How cautious.”
 
 Hana looked at him.
 
-“How alive.”
+[[speaker:hana]]“How alive.”
 
 Kai laughed once.
 
@@ -965,11 +965,11 @@ Tsubasa did not.
 
 He looked at Haru.
 
-“No heroics.”
+[[speaker:tsubasa]]“No heroics.”
 
 Haru’s expression was perfectly neutral.
 
-“Understood.”
+[[speaker:haru]]“Understood.”
 
 Months later, Aya would hear that sentence again in memory and hate it.
 

@@ -1,6 +1,6 @@
 # Season 103 — unattributed dialogue
 
-253 quoted lines in this season have no speaker.
+140 quoted lines in this season have no speaker.
 See `README.md` in this folder for what to do with them.
 
 Lines already resolved show their speaker in `[brackets]` for context.
@@ -626,55 +626,23 @@ Two Wuyue soldiers held him at spearpoint.
 He looked at Sera when she approached and swallowed.
 >>> “Do it.”   <-- WHO SAYS THIS?
 Sera stopped.
-“Do what?”
-```
-```
-He looked at Sera when she approached and swallowed.
-“Do it.”
-Sera stopped.
->>> “Do what?”   <-- WHO SAYS THIS?
-His mouth tightened.
-“Kill me.”
+[sera] “Do what?”
 ```
 ```
 Sera stopped.
-“Do what?”
+[sera] “Do what?”
 His mouth tightened.
 >>> “Kill me.”   <-- WHO SAYS THIS?
 The soldiers beside him glanced at one another.
 Sera looked at the wound.
 ```
 ```
-“Kill me.”
-The soldiers beside him glanced at one another.
 Sera looked at the wound.
->>> “You’re bleeding.”   <-- WHO SAYS THIS?
-He stared.
-“I know.”
-```
-```
-Sera looked at the wound.
-“You’re bleeding.”
+[sera] “You’re bleeding.”
 He stared.
 >>> “I know.”   <-- WHO SAYS THIS?
-“Then stop talking.”
+[sera] “Then stop talking.”
 She turned.
-```
-```
-“You’re bleeding.”
-He stared.
-“I know.”
->>> “Then stop talking.”   <-- WHO SAYS THIS?
-She turned.
-“Medic.”
-```
-```
-“I know.”
-“Then stop talking.”
-She turned.
->>> “Medic.”   <-- WHO SAYS THIS?
-The Shinsei soldier’s expression changed.
-One of the Quaint trauma teams arrived within moments.
 ```
 ```
 The Shinsei soldier’s expression changed.
@@ -753,88 +721,32 @@ The sergeant’s jaw tightened.
 “Yes.”
 The sergeant’s jaw tightened.
 >>> “Why?”   <-- WHO SAYS THIS?
-“Because they surrendered.”
+[sera] “Because they surrendered.”
 “That’s it?”
-```
-```
-“Yes.”
-The sergeant’s jaw tightened.
-“Why?”
->>> “Because they surrendered.”   <-- WHO SAYS THIS?
-“That’s it?”
-“That’s enough.”
 ```
 ```
 The sergeant’s jaw tightened.
 “Why?”
-“Because they surrendered.”
+[sera] “Because they surrendered.”
 >>> “That’s it?”   <-- WHO SAYS THIS?
-“That’s enough.”
+[sera] “That’s enough.”
 He looked at the prisoners.
 ```
 ```
-“Why?”
-“Because they surrendered.”
-“That’s it?”
->>> “That’s enough.”   <-- WHO SAYS THIS?
-He looked at the prisoners.
-One was barely nineteen.
-```
-```
-He also did not stop the meal. By evening, seventy-three prisoners had become one hundred twelve.
-The number kept rising as scattered Shinsei groups realized the retreat corridor remained open to those who dropped weapons.
 Jin noticed immediately.
->>> “They expected massacre.”   <-- WHO SAYS THIS?
-Sera looked at the growing holding area.
-“Yes.”
-```
-```
-Jin noticed immediately.
-“They expected massacre.”
+[jin] “They expected massacre.”
 Sera looked at the growing holding area.
 >>> “Yes.”   <-- WHO SAYS THIS?
-“That expectation was part of their discipline model.”
+[jin] “That expectation was part of their discipline model.”
 “Yes.”
-```
-```
-“They expected massacre.”
-Sera looked at the growing holding area.
-“Yes.”
->>> “That expectation was part of their discipline model.”   <-- WHO SAYS THIS?
-“Yes.”
-“If surrender means survival—”
 ```
 ```
 Sera looked at the growing holding area.
 “Yes.”
-“That expectation was part of their discipline model.”
+[jin] “That expectation was part of their discipline model.”
 >>> “Yes.”   <-- WHO SAYS THIS?
-“If surrender means survival—”
-“Do not turn this into a weapon yet.”
-```
-```
-“Yes.”
-“That expectation was part of their discipline model.”
-“Yes.”
->>> “If surrender means survival—”   <-- WHO SAYS THIS?
-“Do not turn this into a weapon yet.”
-Jin looked at her.
-```
-```
-“That expectation was part of their discipline model.”
-“Yes.”
-“If surrender means survival—”
->>> “Do not turn this into a weapon yet.”   <-- WHO SAYS THIS?
-Jin looked at her.
-Sera continued.
-```
-```
-[sera] “We treat prisoners because that is what we do. If it also weakens Shinsei’s willingness to die pointlessly, good. But do not make compassion conditional on usefulness.”
-Jin was quiet.
-Then nodded.
->>> “Fair.”   <-- WHO SAYS THIS?
-Luo spent most of the night in the prisoner hospital.
-Not because he trusted them.
+[jin] “If surrender means survival—”
+[sera] “Do not turn this into a weapon yet.”
 ```
 ```
 A vitality signature that felt wrong in a way ordinary exhaustion did not.
@@ -909,100 +821,52 @@ Luo nodded.
 That was medicine’s difficult answer.
 ```
 ```
-Maybe that use had saved lives.
-Maybe it had cost the man years.
 Both could be true.
->>> “How much did they tell you?”   <-- WHO SAYS THIS?
-The soldier frowned.
-“About what?”
-```
-```
-Both could be true.
-“How much did they tell you?”
+[luo] “How much did they tell you?”
 The soldier frowned.
 >>> “About what?”   <-- WHO SAYS THIS?
-“The cost.”
+[luo] “The cost.”
 “Recovery?”
-```
-```
-“How much did they tell you?”
-The soldier frowned.
-“About what?”
->>> “The cost.”   <-- WHO SAYS THIS?
-“Recovery?”
-Luo became still.
 ```
 ```
 The soldier frowned.
 “About what?”
-“The cost.”
+[luo] “The cost.”
 >>> “Recovery?”   <-- WHO SAYS THIS?
 Luo became still.
-“What did they say?”
-```
-```
-“The cost.”
-“Recovery?”
-Luo became still.
->>> “What did they say?”   <-- WHO SAYS THIS?
-The soldier shrugged.
-“Severe fatigue. Meridian strain. Several months before full vitality recovery if overused.”
+[luo] “What did they say?”
 ```
 ```
 Luo became still.
-“What did they say?”
+[luo] “What did they say?”
 The soldier shrugged.
 >>> “Severe fatigue. Meridian strain. Several months before full vitality recovery if overused.”   <-- WHO SAYS THIS?
 The number on the page was the difference.
 Not five years.
 ```
 ```
-Then another.
-**Or not all of them.**
 He looked at the patient.
->>> “You’re staying overnight.”   <-- WHO SAYS THIS?
-The man frowned.
-“I’m a prisoner.”
-```
-```
-He looked at the patient.
-“You’re staying overnight.”
+[luo] “You’re staying overnight.”
 The man frowned.
 >>> “I’m a prisoner.”   <-- WHO SAYS THIS?
 “Yes.”
 “So?”
 ```
 ```
-“You’re staying overnight.”
+[luo] “You’re staying overnight.”
 The man frowned.
 “I’m a prisoner.”
 >>> “Yes.”   <-- WHO SAYS THIS?
 “So?”
-“So prisoners also have hearts.”
+[luo] “So prisoners also have hearts.”
 ```
 ```
 The man frowned.
 “I’m a prisoner.”
 “Yes.”
 >>> “So?”   <-- WHO SAYS THIS?
-“So prisoners also have hearts.”
+[luo] “So prisoners also have hearts.”
 The soldier stared.
-```
-```
-“I’m a prisoner.”
-“Yes.”
-“So?”
->>> “So prisoners also have hearts.”   <-- WHO SAYS THIS?
-The soldier stared.
-Luo sighed.
-```
-```
-“So prisoners also have hearts.”
-The soldier stared.
-Luo sighed.
->>> “Apparently.”   <-- WHO SAYS THIS?
-The next morning, a Shinsei medic among the prisoners asked to help.
-An Isgard guard refused immediately.
 ```
 ```
 An Isgard guard refused immediately.
@@ -1010,77 +874,37 @@ Sera was called.
 The medic stood with hands bound in front.
 >>> “I can identify Redline crash patterns.”   <-- WHO SAYS THIS?
 Luo looked at him.
-“Training?”
-```
-```
-The medic stood with hands bound in front.
-“I can identify Redline crash patterns.”
-Luo looked at him.
->>> “Training?”   <-- WHO SAYS THIS?
-“Field medicine.”
-“Under Aya Katsuragi?”
+[luo] “Training?”
 ```
 ```
 “I can identify Redline crash patterns.”
 Luo looked at him.
-“Training?”
+[luo] “Training?”
 >>> “Field medicine.”   <-- WHO SAYS THIS?
-“Under Aya Katsuragi?”
+[luo] “Under Aya Katsuragi?”
 The man hesitated.
 ```
 ```
-Luo looked at him.
-“Training?”
 “Field medicine.”
->>> “Under Aya Katsuragi?”   <-- WHO SAYS THIS?
-The man hesitated.
-“Her manuals.”
-```
-```
-“Field medicine.”
-“Under Aya Katsuragi?”
+[luo] “Under Aya Katsuragi?”
 The man hesitated.
 >>> “Her manuals.”   <-- WHO SAYS THIS?
 Luo untied one hand.
 The Isgard guard looked at Sera.
 ```
-```
-Luo untied one hand.
-The Isgard guard looked at Sera.
-She nodded.
->>> “One hand. One table. Guard stays.”   <-- WHO SAYS THIS?
-The medic worked.
-Carefully.
-```
 
 ### Chapter 389 — Aya Keeps Jun Alive
 
 ```
-Weak.
-Irregular.
-Still present.
->>> “Here.”   <-- WHO SAYS THIS?
-The stretcher team moved toward her before she finished pointing.
-Jun looked enormous even while unconscious.
-```
-```
-Three meridian channels were partially collapsed.
-Two more were bleeding internally.
 Aya put her fingers against his neck.
->>> “Who moved him after collapse?”   <-- WHO SAYS THIS?
-A medic raised one hand.
-“I did.”
-```
-```
-Aya put her fingers against his neck.
-“Who moved him after collapse?”
+[aya] “Who moved him after collapse?”
 A medic raised one hand.
 >>> “I did.”   <-- WHO SAYS THIS?
 “How?”
 “Spine board. No qinggong.”
 ```
 ```
-“Who moved him after collapse?”
+[aya] “Who moved him after collapse?”
 A medic raised one hand.
 “I did.”
 >>> “How?”   <-- WHO SAYS THIS?
@@ -1112,332 +936,76 @@ The medic stared.
 Aya looked at him.
 ```
 ```
-“Good.”
 The medic stared.
 Aya looked at him.
->>> “It came out.”   <-- WHO SAYS THIS?
-“Right.”
-“Do not react to blood as though blood itself is failure.”
-```
-```
-The medic stared.
-Aya looked at him.
-“It came out.”
+[aya] “It came out.”
 >>> “Right.”   <-- WHO SAYS THIS?
-“Do not react to blood as though blood itself is failure.”
+[aya] “Do not react to blood as though blood itself is failure.”
 “Yes, Physician.”
 ```
 ```
-Aya looked at him.
-“It came out.”
+[aya] “It came out.”
 “Right.”
->>> “Do not react to blood as though blood itself is failure.”   <-- WHO SAYS THIS?
-“Yes, Physician.”
-Jun’s pulse dropped.
-```
-```
-“It came out.”
-“Right.”
-“Do not react to blood as though blood itself is failure.”
+[aya] “Do not react to blood as though blood itself is failure.”
 >>> “Yes, Physician.”   <-- WHO SAYS THIS?
 Jun’s pulse dropped.
 Aya changed two needles.
 ```
 ```
-“Yes, Physician.”
-Jun’s pulse dropped.
-Aya changed two needles.
->>> “Borrowed Beat.”   <-- WHO SAYS THIS?
-The room became quiet.
-Her own breathing slowed.
-```
-```
-Hours later, he opened his eyes.
 Aya was still there.
 He looked at the ceiling.
->>> “Lost.”   <-- WHO SAYS THIS?
-“Yes.”
-His voice was rough.
-```
-```
-Aya was still there.
-He looked at the ceiling.
-“Lost.”
+[jun] “Lost.”
 >>> “Yes.”   <-- WHO SAYS THIS?
 His voice was rough.
-“Kael.”
-```
-```
-“Lost.”
-“Yes.”
-His voice was rough.
->>> “Kael.”   <-- WHO SAYS THIS?
-“Yes.”
-“New Paragon.”
+[jun] “Kael.”
 ```
 ```
 “Yes.”
 His voice was rough.
-“Kael.”
+[jun] “Kael.”
 >>> “Yes.”   <-- WHO SAYS THIS?
-“New Paragon.”
+[jun] “New Paragon.”
 “Yes.”
 ```
 ```
-His voice was rough.
-“Kael.”
+[jun] “Kael.”
 “Yes.”
->>> “New Paragon.”   <-- WHO SAYS THIS?
-“Yes.”
-Jun closed his eyes again.
-```
-```
-“Kael.”
-“Yes.”
-“New Paragon.”
+[jun] “New Paragon.”
 >>> “Yes.”   <-- WHO SAYS THIS?
 Jun closed his eyes again.
-“He learned.”
-```
-```
-“New Paragon.”
-“Yes.”
-Jun closed his eyes again.
->>> “He learned.”   <-- WHO SAYS THIS?
-Aya adjusted a needle.
-“So should you.”
-```
-```
-Jun closed his eyes again.
-“He learned.”
-Aya adjusted a needle.
->>> “So should you.”   <-- WHO SAYS THIS?
-One eye opened.
-“That sounded philosophical.”
-```
-```
-Aya adjusted a needle.
-“So should you.”
-One eye opened.
->>> “That sounded philosophical.”   <-- WHO SAYS THIS?
-“It was medical.”
-“How?”
-```
-```
-“So should you.”
-One eye opened.
-“That sounded philosophical.”
->>> “It was medical.”   <-- WHO SAYS THIS?
-“How?”
-“You are injured because your opponent adapted faster than you did.”
+[jun] “He learned.”
 ```
 ```
 One eye opened.
-“That sounded philosophical.”
-“It was medical.”
+[jun] “That sounded philosophical.”
+[aya] “It was medical.”
 >>> “How?”   <-- WHO SAYS THIS?
-“You are injured because your opponent adapted faster than you did.”
+[aya] “You are injured because your opponent adapted faster than you did.”
 Jun considered that.
-```
-```
-“That sounded philosophical.”
-“It was medical.”
-“How?”
->>> “You are injured because your opponent adapted faster than you did.”   <-- WHO SAYS THIS?
-Jun considered that.
-“Fair.”
-```
-```
-“How?”
-“You are injured because your opponent adapted faster than you did.”
-Jun considered that.
->>> “Fair.”   <-- WHO SAYS THIS?
-He tried to move his arm.
-Aya slapped his wrist back to the bed.
-```
-```
-He tried to move his arm.
-Aya slapped his wrist back to the bed.
-Jun stared.
->>> “You hit me.”   <-- WHO SAYS THIS?
-“Yes.”
-“I am a Paragon.”
 ```
 ```
 Aya slapped his wrist back to the bed.
 Jun stared.
-“You hit me.”
+[jun] “You hit me.”
 >>> “Yes.”   <-- WHO SAYS THIS?
-“I am a Paragon.”
-“You are currently a patient.”
-```
-```
-Jun stared.
-“You hit me.”
-“Yes.”
->>> “I am a Paragon.”   <-- WHO SAYS THIS?
-“You are currently a patient.”
-He looked almost offended.
-```
-```
-“You hit me.”
-“Yes.”
-“I am a Paragon.”
->>> “You are currently a patient.”   <-- WHO SAYS THIS?
-He looked almost offended.
-Then the corner of his mouth moved.
-```
-```
-“You are currently a patient.”
-He looked almost offended.
-Then the corner of his mouth moved.
->>> “Also fair.”   <-- WHO SAYS THIS?
-Aya looked at the chart.
-“Several days before I let you stand in armor.”
-```
-```
-Then the corner of his mouth moved.
-“Also fair.”
-Aya looked at the chart.
->>> “Several days before I let you stand in armor.”   <-- WHO SAYS THIS?
-“Too long.”
-“No.”
-```
-```
-“Also fair.”
-Aya looked at the chart.
-“Several days before I let you stand in armor.”
->>> “Too long.”   <-- WHO SAYS THIS?
-“No.”
-“Shinsei needs—”
+[jun] “I am a Paragon.”
+[aya] “You are currently a patient.”
 ```
 ```
 Aya looked at the chart.
-“Several days before I let you stand in armor.”
-“Too long.”
+[aya] “Several days before I let you stand in armor.”
+[jun] “Too long.”
 >>> “No.”   <-- WHO SAYS THIS?
-“Shinsei needs—”
-“Shinsei needs you alive more than it needs you pretending one successful treatment erased the fight.”
-```
-```
-“Several days before I let you stand in armor.”
-“Too long.”
-“No.”
->>> “Shinsei needs—”   <-- WHO SAYS THIS?
-“Shinsei needs you alive more than it needs you pretending one successful treatment erased the fight.”
-Jun was silent.
-```
-```
-“Too long.”
-“No.”
-“Shinsei needs—”
->>> “Shinsei needs you alive more than it needs you pretending one successful treatment erased the fight.”   <-- WHO SAYS THIS?
-Jun was silent.
-Aya continued.
-```
-```
-Jun was silent.
-Aya continued.
-[aya] “Your recoverable damage can be repaired.”
->>> “Can?”   <-- WHO SAYS THIS?
-“Yes.”
-“All of it?”
+[jun] “Shinsei needs—”
+[aya] “Shinsei needs you alive more than it needs you pretending one successful treatment erased the fight.”
 ```
 ```
 Aya continued.
 [aya] “Your recoverable damage can be repaired.”
-“Can?”
+[jun] “Can?”
 >>> “Yes.”   <-- WHO SAYS THIS?
-“All of it?”
-“With time.”
-```
-```
-[aya] “Your recoverable damage can be repaired.”
-“Can?”
-“Yes.”
->>> “All of it?”   <-- WHO SAYS THIS?
-“With time.”
-“How much?”
-```
-```
-“Can?”
-“Yes.”
-“All of it?”
->>> “With time.”   <-- WHO SAYS THIS?
-“How much?”
-She looked at him.
-```
-```
-“Yes.”
-“All of it?”
-“With time.”
->>> “How much?”   <-- WHO SAYS THIS?
-She looked at him.
-“Enough that command will complain.”
-```
-```
-“With time.”
-“How much?”
-She looked at him.
->>> “Enough that command will complain.”   <-- WHO SAYS THIS?
-Jun almost laughed.
-Then winced.
-```
-```
-Outside, new wounded arrived.
-The entire hospital shifted around the sound.
-Jun heard it too.
->>> “How many?”   <-- WHO SAYS THIS?
-Aya looked toward the door.
-“Too many.”
-```
-```
-Jun heard it too.
-“How many?”
-Aya looked toward the door.
->>> “Too many.”   <-- WHO SAYS THIS?
-“Redline?”
-“Some.”
-```
-```
-“How many?”
-Aya looked toward the door.
-“Too many.”
->>> “Redline?”   <-- WHO SAYS THIS?
-“Some.”
-Jun’s expression hardened.
-```
-```
-Aya looked toward the door.
-“Too many.”
-“Redline?”
->>> “Some.”   <-- WHO SAYS THIS?
-Jun’s expression hardened.
-“Did they hold?”
-```
-```
-“Redline?”
-“Some.”
-Jun’s expression hardened.
->>> “Did they hold?”   <-- WHO SAYS THIS?
-Aya turned back.
-“Do not ask me whether burning their futures bought enough ground to satisfy you while I am repairing them.”
-```
-```
-Jun’s expression hardened.
-“Did they hold?”
-Aya turned back.
->>> “Do not ask me whether burning their futures bought enough ground to satisfy you while I am repairing them.”   <-- WHO SAYS THIS?
-Silence.
-Jun looked at her.
-```
-```
-Jun looked at her.
-Aya’s voice was calm.
-That made it sharper.
->>> “Ask command.”   <-- WHO SAYS THIS?
-He looked away.
-Aya returned to the needles. This was why she had stayed.
+[jun] “All of it?”
+[aya] “With time.”
 ```
 ```
 Aya had known that contradiction for years.
@@ -1445,19 +1013,11 @@ Today it felt heavier.
 A clerk entered with a captured-status bulletin.
 >>> “Western corridor lost. Jun’s formation withdrew successfully. One hundred-plus personnel captured.”   <-- WHO SAYS THIS?
 Jun looked at him.
-“Executed?”
-```
-```
-A clerk entered with a captured-status bulletin.
-“Western corridor lost. Jun’s formation withdrew successfully. One hundred-plus personnel captured.”
-Jun looked at him.
->>> “Executed?”   <-- WHO SAYS THIS?
-The clerk checked.
-“No.”
+[jun] “Executed?”
 ```
 ```
 Jun looked at him.
-“Executed?”
+[jun] “Executed?”
 The clerk checked.
 >>> “No.”   <-- WHO SAYS THIS?
 A pause.
@@ -1472,33 +1032,17 @@ Jun’s eyes narrowed.
 Aya stopped moving for half a second.
 ```
 ```
-“Wuyue is treating them.”
 Jun’s eyes narrowed.
 Aya stopped moving for half a second.
->>> “Treating?”   <-- WHO SAYS THIS?
-“Yes.”
-“Same standard as their own?”
-```
-```
-Jun’s eyes narrowed.
-Aya stopped moving for half a second.
-“Treating?”
+[aya] “Treating?”
 >>> “Yes.”   <-- WHO SAYS THIS?
-“Same standard as their own?”
+[aya] “Same standard as their own?”
 “Report says yes.”
 ```
 ```
-Aya stopped moving for half a second.
-“Treating?”
+[aya] “Treating?”
 “Yes.”
->>> “Same standard as their own?”   <-- WHO SAYS THIS?
-“Report says yes.”
-Jun stared at the ceiling.
-```
-```
-“Treating?”
-“Yes.”
-“Same standard as their own?”
+[aya] “Same standard as their own?”
 >>> “Report says yes.”   <-- WHO SAYS THIS?
 Jun stared at the ceiling.
 Aya looked down at his chart.
@@ -1507,377 +1051,81 @@ Aya looked down at his chart.
 ### Chapter 390 — Tsubasa Changes the Arithmetic
 
 ```
-Nao, Eirik, Kenji and Jun were all north.
-The map looked emptier than Shinsei headquarters was accustomed to.
-Tsubasa finished the prisoner report first.
->>> “They treated them.”   <-- WHO SAYS THIS?
-Shunto shrugged.
-“Useful theater.”
-```
-```
-Tsubasa finished the prisoner report first.
-“They treated them.”
-Shunto shrugged.
->>> “Useful theater.”   <-- WHO SAYS THIS?
 Kai looked at him.
-“Or they treat prisoners.”
-```
-```
-Shunto shrugged.
-“Useful theater.”
-Kai looked at him.
->>> “Or they treat prisoners.”   <-- WHO SAYS THIS?
-“Same effect.”
-“No.”
-```
-```
-“Useful theater.”
-Kai looked at him.
-“Or they treat prisoners.”
->>> “Same effect.”   <-- WHO SAYS THIS?
-“No.”
-Shunto smiled.
-```
-```
-Kai looked at him.
-“Or they treat prisoners.”
-“Same effect.”
+[kai] “Or they treat prisoners.”
+[shunto] “Same effect.”
 >>> “No.”   <-- WHO SAYS THIS?
 Shunto smiled.
-“Still dislike me?”
-```
-```
-“Same effect.”
-“No.”
-Shunto smiled.
->>> “Still dislike me?”   <-- WHO SAYS THIS?
-“Yes.”
-“Comforting consistency.”
+[shunto] “Still dislike me?”
 ```
 ```
 “No.”
 Shunto smiled.
-“Still dislike me?”
+[shunto] “Still dislike me?”
 >>> “Yes.”   <-- WHO SAYS THIS?
-“Comforting consistency.”
+[shunto] “Comforting consistency.”
 Tsubasa ignored them.
 ```
 ```
-Shunto smiled.
-“Still dislike me?”
-“Yes.”
->>> “Comforting consistency.”   <-- WHO SAYS THIS?
+[shunto] “Comforting consistency.”
 Tsubasa ignored them.
-“Haru.”
-```
-```
-“Yes.”
-“Comforting consistency.”
-Tsubasa ignored them.
->>> “Haru.”   <-- WHO SAYS THIS?
-“Yes.”
-“How much did Wuyue send?”
-```
-```
-“Comforting consistency.”
-Tsubasa ignored them.
-“Haru.”
+[tsubasa] “Haru.”
 >>> “Yes.”   <-- WHO SAYS THIS?
-“How much did Wuyue send?”
-“Confirmed public force approximately sixty-three to sixty-four thousand. Sera with a small private support element outside that number.”
+[tsubasa] “How much did Wuyue send?”
+[haru] “Confirmed public force approximately sixty-three to sixty-four thousand. Sera with a small private support element outside that number.”
 ```
 ```
-Tsubasa ignored them.
-“Haru.”
-“Yes.”
->>> “How much did Wuyue send?”   <-- WHO SAYS THIS?
-“Confirmed public force approximately sixty-three to sixty-four thousand. Sera with a small private support element outside that number.”
-“Kael?”
-```
-```
-“Haru.”
-“Yes.”
-“How much did Wuyue send?”
->>> “Confirmed public force approximately sixty-three to sixty-four thousand. Sera with a small private support element outside that number.”   <-- WHO SAYS THIS?
-“Kael?”
-“Roughly six thousand Stonecrown.”
-```
-```
-“Yes.”
-“How much did Wuyue send?”
-“Confirmed public force approximately sixty-three to sixty-four thousand. Sera with a small private support element outside that number.”
->>> “Kael?”   <-- WHO SAYS THIS?
-“Roughly six thousand Stonecrown.”
+[haru] “Roughly six thousand Stonecrown.”
 Tsubasa looked up.
-```
-```
-“How much did Wuyue send?”
-“Confirmed public force approximately sixty-three to sixty-four thousand. Sera with a small private support element outside that number.”
-“Kael?”
->>> “Roughly six thousand Stonecrown.”   <-- WHO SAYS THIS?
-Tsubasa looked up.
-“Only six.”
-```
-```
-“Kael?”
-“Roughly six thousand Stonecrown.”
-Tsubasa looked up.
->>> “Only six.”   <-- WHO SAYS THIS?
-“Yes.”
-Their pre-war model had assumed Kael would either remain home or move a greater share of Stonecrown if Wuyue committed seriously.
-```
-```
-“Roughly six thousand Stonecrown.”
-Tsubasa looked up.
-“Only six.”
+[tsubasa] “Only six.”
 >>> “Yes.”   <-- WHO SAYS THIS?
 Their pre-war model had assumed Kael would either remain home or move a greater share of Stonecrown if Wuyue committed seriously.
 Instead he had done both.
 ```
 ```
-Moved personally.
-Left the fortress intact.
-Tsubasa’s gaze shifted to another line.
->>> “Mo Qingzhao.”   <-- WHO SAYS THIS?
-“Eighteen thousand Imperial personnel. Largest single public block.”
-“And Jin?”
-```
-```
-Left the fortress intact.
-Tsubasa’s gaze shifted to another line.
-“Mo Qingzhao.”
->>> “Eighteen thousand Imperial personnel. Largest single public block.”   <-- WHO SAYS THIS?
-“And Jin?”
-“Concord nine thousand. He appears to be directing combined operational planning with Isgard command.”
-```
-```
-Tsubasa’s gaze shifted to another line.
-“Mo Qingzhao.”
-“Eighteen thousand Imperial personnel. Largest single public block.”
->>> “And Jin?”   <-- WHO SAYS THIS?
-“Concord nine thousand. He appears to be directing combined operational planning with Isgard command.”
-Kai grunted.
-```
-```
-“Mo Qingzhao.”
-“Eighteen thousand Imperial personnel. Largest single public block.”
-“And Jin?”
->>> “Concord nine thousand. He appears to be directing combined operational planning with Isgard command.”   <-- WHO SAYS THIS?
-Kai grunted.
-“Smart.”
-```
-```
-“And Jin?”
-“Concord nine thousand. He appears to be directing combined operational planning with Isgard command.”
-Kai grunted.
->>> “Smart.”   <-- WHO SAYS THIS?
-Shunto said, “Predictable.”
-Haru looked at him.
-```
-```
-“Smart.”
-Shunto said, “Predictable.”
-Haru looked at him.
->>> “If it was predictable, why did our western corridor fall?”   <-- WHO SAYS THIS?
-Shunto’s smile thinned.
-Kai looked delighted.
-```
-```
-Kai looked delighted.
-Tsubasa continued reading.
-[tsubasa] “Jun lost to Kael cleanly?”
->>> “After a serious fight.”   <-- WHO SAYS THIS?
-“Domain interaction?”
-“Yes. Kael stopped trying to mitigate Breach after contact and used Worldweight to make clean contact progressively harder.”
-```
-```
-Tsubasa continued reading.
-[tsubasa] “Jun lost to Kael cleanly?”
-“After a serious fight.”
->>> “Domain interaction?”   <-- WHO SAYS THIS?
-“Yes. Kael stopped trying to mitigate Breach after contact and used Worldweight to make clean contact progressively harder.”
-Tsubasa nodded.
-```
-```
-[tsubasa] “Jun lost to Kael cleanly?”
-“After a serious fight.”
-“Domain interaction?”
->>> “Yes. Kael stopped trying to mitigate Breach after contact and used Worldweight to make clean contact progressively harder.”   <-- WHO SAYS THIS?
-Tsubasa nodded.
-“Good adaptation.”
-```
-```
-“Domain interaction?”
-“Yes. Kael stopped trying to mitigate Breach after contact and used Worldweight to make clean contact progressively harder.”
-Tsubasa nodded.
->>> “Good adaptation.”   <-- WHO SAYS THIS?
-Hana watched him.
-Not pride.
-```
-```
-He did not need enemies to be stupid.
-He preferred accurate models.
-Tsubasa looked toward Kai.
->>> “You’re going north.”   <-- WHO SAYS THIS?
-Kai’s expression did not change.
-“Expected that.”
-```
-```
-Tsubasa looked toward Kai.
-“You’re going north.”
-Kai’s expression did not change.
->>> “Expected that.”   <-- WHO SAYS THIS?
-“Jun will return, but not immediately. Wuyue now has Sera and Kael at Paragon level in theater, plus the Isgard survivors once they recover.”
-“And me?”
-```
-```
-“You’re going north.”
-Kai’s expression did not change.
-“Expected that.”
->>> “Jun will return, but not immediately. Wuyue now has Sera and Kael at Paragon level in theater, plus the Isgard survivors once they recover.”   <-- WHO SAYS THIS?
-“And me?”
-“You stabilize the apex arithmetic.”
-```
-```
-Kai’s expression did not change.
-“Expected that.”
-“Jun will return, but not immediately. Wuyue now has Sera and Kael at Paragon level in theater, plus the Isgard survivors once they recover.”
->>> “And me?”   <-- WHO SAYS THIS?
-“You stabilize the apex arithmetic.”
+[tsubasa] “You stabilize the apex arithmetic.”
 Kai walked to the map.
-```
-```
-“Expected that.”
-“Jun will return, but not immediately. Wuyue now has Sera and Kael at Paragon level in theater, plus the Isgard survivors once they recover.”
-“And me?”
->>> “You stabilize the apex arithmetic.”   <-- WHO SAYS THIS?
-Kai walked to the map.
-“Not chase Kael for revenge.”
-```
-```
-“And me?”
-“You stabilize the apex arithmetic.”
-Kai walked to the map.
->>> “Not chase Kael for revenge.”   <-- WHO SAYS THIS?
-“No.”
-“Good.”
-```
-```
-“You stabilize the apex arithmetic.”
-Kai walked to the map.
-“Not chase Kael for revenge.”
+[kai] “Not chase Kael for revenge.”
 >>> “No.”   <-- WHO SAYS THIS?
 “Good.”
 Tsubasa looked at him.
 ```
 ```
 Kai walked to the map.
-“Not chase Kael for revenge.”
+[kai] “Not chase Kael for revenge.”
 “No.”
 >>> “Good.”   <-- WHO SAYS THIS?
 Tsubasa looked at him.
-“You once taught me that losing a duel did not make the person who won politically correct.”
-```
-```
-“No.”
-“Good.”
-Tsubasa looked at him.
->>> “You once taught me that losing a duel did not make the person who won politically correct.”   <-- WHO SAYS THIS?
-Kai’s mouth moved.
-“You remembered.”
-```
-```
-Tsubasa looked at him.
-“You once taught me that losing a duel did not make the person who won politically correct.”
-Kai’s mouth moved.
->>> “You remembered.”   <-- WHO SAYS THIS?
-“I remember most useful lessons.”
-“That one should have been useful more often.”
-```
-```
-“You once taught me that losing a duel did not make the person who won politically correct.”
-Kai’s mouth moved.
-“You remembered.”
->>> “I remember most useful lessons.”   <-- WHO SAYS THIS?
-“That one should have been useful more often.”
-The room tightened.
-```
-```
-Kai’s mouth moved.
-“You remembered.”
-“I remember most useful lessons.”
->>> “That one should have been useful more often.”   <-- WHO SAYS THIS?
-The room tightened.
-Tsubasa did not look away.
-```
-```
-Tsubasa did not look away.
-Kai continued.
-[kai] “You’re still treating this war like the conclusion is obvious if the arithmetic works.”
->>> “Isgard’s material collapse is real.”   <-- WHO SAYS THIS?
-“Yes.”
-“The epidemic losses are real.”
+[tsubasa] “You once taught me that losing a duel did not make the person who won politically correct.”
 ```
 ```
 Kai continued.
 [kai] “You’re still treating this war like the conclusion is obvious if the arithmetic works.”
-“Isgard’s material collapse is real.”
+[tsubasa] “Isgard’s material collapse is real.”
 >>> “Yes.”   <-- WHO SAYS THIS?
-“The epidemic losses are real.”
+[tsubasa] “The epidemic losses are real.”
 “Yes.”
 ```
 ```
-[kai] “You’re still treating this war like the conclusion is obvious if the arithmetic works.”
-“Isgard’s material collapse is real.”
+[tsubasa] “Isgard’s material collapse is real.”
 “Yes.”
->>> “The epidemic losses are real.”   <-- WHO SAYS THIS?
-“Yes.”
-“Their fractured administration is costing lives.”
-```
-```
-“Isgard’s material collapse is real.”
-“Yes.”
-“The epidemic losses are real.”
+[tsubasa] “The epidemic losses are real.”
 >>> “Yes.”   <-- WHO SAYS THIS?
-“Their fractured administration is costing lives.”
+[tsubasa] “Their fractured administration is costing lives.”
 “Yes.”
 ```
 ```
+[tsubasa] “The epidemic losses are real.”
 “Yes.”
-“The epidemic losses are real.”
-“Yes.”
->>> “Their fractured administration is costing lives.”   <-- WHO SAYS THIS?
-“Yes.”
-Tsubasa’s voice remained calm.
-```
-```
-“The epidemic losses are real.”
-“Yes.”
-“Their fractured administration is costing lives.”
+[tsubasa] “Their fractured administration is costing lives.”
 >>> “Yes.”   <-- WHO SAYS THIS?
 Tsubasa’s voice remained calm.
 [tsubasa] “Then what exactly do you dispute?”
 ```
 ```
-Tsubasa’s voice remained calm.
-[tsubasa] “Then what exactly do you dispute?”
-Kai pointed at the map.
->>> “The part where being right about their roads makes those roads yours.”   <-- WHO SAYS THIS?
-Silence.
-Haru looked at Tsubasa.
-```
-```
-Hana looked at Kai.
 Shunto looked bored.
 Tsubasa’s fingers rested on the table edge.
->>> “I am not annexing Isgard for roads.”   <-- WHO SAYS THIS?
-“No.”
-Kai’s voice was blunt.
-```
-```
-Shunto looked bored.
-Tsubasa’s fingers rested on the table edge.
-“I am not annexing Isgard for roads.”
+[tsubasa] “I am not annexing Isgard for roads.”
 >>> “No.”   <-- WHO SAYS THIS?
 Kai’s voice was blunt.
 [kai] “You’re annexing them because you think your answer is better.”
@@ -1887,174 +1135,22 @@ Kai’s voice was blunt.
 Kai’s voice was blunt.
 [kai] “You’re annexing them because you think your answer is better.”
 >>> “Yes.”   <-- WHO SAYS THIS?
-“At least say it properly.”
+[kai] “At least say it properly.”
 Tsubasa held his gaze.
-```
-```
-Kai’s voice was blunt.
-[kai] “You’re annexing them because you think your answer is better.”
-“Yes.”
->>> “At least say it properly.”   <-- WHO SAYS THIS?
-Tsubasa held his gaze.
-Then nodded once.
-```
-```
-“At least say it properly.”
-Tsubasa held his gaze.
-Then nodded once.
->>> “Fair.”   <-- WHO SAYS THIS?
-That did not end the disagreement.
-It made it worse.
-```
-```
-Because Tsubasa could still hear criticism.
-He simply believed the decision survived it.
-Kai looked at the northern marker.
->>> “When do I leave?”   <-- WHO SAYS THIS?
-“Tomorrow.”
-“Troops?”
-```
-```
-He simply believed the decision survived it.
-Kai looked at the northern marker.
-“When do I leave?”
->>> “Tomorrow.”   <-- WHO SAYS THIS?
-“Troops?”
-“Reinforcement elements follow separately. Your first role is command stabilization and High-Paragon pressure.”
-```
-```
-Kai looked at the northern marker.
-“When do I leave?”
-“Tomorrow.”
->>> “Troops?”   <-- WHO SAYS THIS?
-“Reinforcement elements follow separately. Your first role is command stabilization and High-Paragon pressure.”
-Kai nodded.
-```
-```
-“When do I leave?”
-“Tomorrow.”
-“Troops?”
->>> “Reinforcement elements follow separately. Your first role is command stabilization and High-Paragon pressure.”   <-- WHO SAYS THIS?
-Kai nodded.
-Tsubasa turned to Haru.
-```
-```
-“Reinforcement elements follow separately. Your first role is command stabilization and High-Paragon pressure.”
-Kai nodded.
-Tsubasa turned to Haru.
->>> “Wuyue contingency.”   <-- WHO SAYS THIS?
-Haru already had the packet ready.
-Hana’s expression changed by a fraction.
-```
-```
-It had been authorized when Wuyue’s departure was confirmed.
-Now it was entering execution.
-Haru opened the map.
->>> “Primary objective remains pressure on Sera’s support architecture. Not conquest. Not engagement with Stonecrown’s full fixed army.”   <-- WHO SAYS THIS?
-Tsubasa nodded.
-“What do we know?”
-```
-```
-Haru opened the map.
-“Primary objective remains pressure on Sera’s support architecture. Not conquest. Not engagement with Stonecrown’s full fixed army.”
-Tsubasa nodded.
->>> “What do we know?”   <-- WHO SAYS THIS?
-Haru answered.
-[haru] “Publicly, the Quaint Teahouse is associated with medicine, intelligence support and Sera’s private personnel. Rhen is unavailable. Sera and all ten public Wuyue rankings are north.”
-```
-```
-“What do we know?”
-Haru answered.
-[haru] “Publicly, the Quaint Teahouse is associated with medicine, intelligence support and Sera’s private personnel. Rhen is unavailable. Sera and all ten public Wuyue rankings are north.”
->>> “What do we not know?”   <-- WHO SAYS THIS?
-Haru paused.
-“The real depth of the private organization.”
-```
-```
-[haru] “Publicly, the Quaint Teahouse is associated with medicine, intelligence support and Sera’s private personnel. Rhen is unavailable. Sera and all ten public Wuyue rankings are north.”
-“What do we not know?”
-Haru paused.
->>> “The real depth of the private organization.”   <-- WHO SAYS THIS?
-Accelerating the invasion had bought time by spending intelligence.
-Tsubasa looked at Hana.
-```
-```
-“The real depth of the private organization.”
-Accelerating the invasion had bought time by spending intelligence.
-Tsubasa looked at Hana.
->>> “You go with Haru.”   <-- WHO SAYS THIS?
-“Yes.”
-“Limited objective.”
 ```
 ```
 Accelerating the invasion had bought time by spending intelligence.
 Tsubasa looked at Hana.
-“You go with Haru.”
+[tsubasa] “You go with Haru.”
 >>> “Yes.”   <-- WHO SAYS THIS?
-“Limited objective.”
+[tsubasa] “Limited objective.”
 “Yes.”
 ```
 ```
-Tsubasa looked at Hana.
-“You go with Haru.”
+[tsubasa] “You go with Haru.”
 “Yes.”
->>> “Limited objective.”   <-- WHO SAYS THIS?
-“Yes.”
-“If the target is materially stronger than assessed?”
-```
-```
-“You go with Haru.”
-“Yes.”
-“Limited objective.”
+[tsubasa] “Limited objective.”
 >>> “Yes.”   <-- WHO SAYS THIS?
-“If the target is materially stronger than assessed?”
-“Withdraw.”
-```
-```
-“Yes.”
-“Limited objective.”
-“Yes.”
->>> “If the target is materially stronger than assessed?”   <-- WHO SAYS THIS?
-“Withdraw.”
-Shunto smiled.
-```
-```
-“Limited objective.”
-“Yes.”
-“If the target is materially stronger than assessed?”
->>> “Withdraw.”   <-- WHO SAYS THIS?
-Shunto smiled.
-“How cautious.”
-```
-```
-“If the target is materially stronger than assessed?”
-“Withdraw.”
-Shunto smiled.
->>> “How cautious.”   <-- WHO SAYS THIS?
-Hana looked at him.
-“How alive.”
-```
-```
-Shunto smiled.
-“How cautious.”
-Hana looked at him.
->>> “How alive.”   <-- WHO SAYS THIS?
-Kai laughed once.
-Tsubasa did not.
-```
-```
-Kai laughed once.
-Tsubasa did not.
-He looked at Haru.
->>> “No heroics.”   <-- WHO SAYS THIS?
-Haru’s expression was perfectly neutral.
-“Understood.”
-```
-```
-He looked at Haru.
-“No heroics.”
-Haru’s expression was perfectly neutral.
->>> “Understood.”   <-- WHO SAYS THIS?
-Months later, Aya would hear that sentence again in memory and hate it.
-For now, nobody in the room knew what three sealed Redline doses would cost him.
+[tsubasa] “If the target is materially stronger than assessed?”
+[hana] “Withdraw.”
 ```
