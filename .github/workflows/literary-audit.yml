@@ -1,0 +1,15 @@
+name: Literary Audit
+on:
+  push:
+    branches:
+      - story/final-arc-literary-polish
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-node@v7
+        with:
+          node-version: 24
+      - name: Run literary diagnostics
+        run: node scripts/literary-audit.mjs
