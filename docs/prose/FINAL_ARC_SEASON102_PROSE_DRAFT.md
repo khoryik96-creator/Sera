@@ -596,7 +596,7 @@ Halvek stood on the inner road.
 
 Jun held his halberd low.
 
-“Yes.”
+[[speaker:jun]]“Yes.”
 
 [[speaker:halvek]]“Thirteen Gates.”
 
@@ -1360,13 +1360,13 @@ Tor saw.
 
 [[speaker:tor_veyrhald]]“You chose because I gave you the choice.”
 
-“And I would choose it again.”
+[[speaker:tor_veyrhald]]“And I would choose it again.”
 
 Nao stared at him.
 
 Tor leaned his head back against the ravine wall.
 
-“That is what command is.”
+[[speaker:tor_veyrhald]]“That is what command is.”
 
 Nao looked toward the road where Shinsei banners were advancing deeper into Isgard.
 
@@ -1384,11 +1384,11 @@ Nao looked back.
 
 “What?”
 
-“You are thinking.”
+[[speaker:tor_veyrhald]]“You are thinking.”
 
-“I do that.”
+[[speaker:nao]]“I do that.”
 
-“Dangerous habit.”
+[[speaker:tor_veyrhald]]“Dangerous habit.”
 
 Despite herself, she smiled.
 

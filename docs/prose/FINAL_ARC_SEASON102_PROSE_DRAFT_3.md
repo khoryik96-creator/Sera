@@ -38,11 +38,11 @@ Yurushi stared at him.
 
 Lu turned one page.
 
-“Fifteen if you count the noodles.”
+[[speaker:luweiran]]“Fifteen if you count the noodles.”
 
-“They were offered.”
+[[speaker:black_radiance]]“They were offered.”
 
-“So is work.”
+[[speaker:luweiran]]“So is work.”
 
 That had been the shape of it.
 
@@ -76,13 +76,13 @@ Sera poured tea into four cups.
 
 He looked at the fourth.
 
-“Someone else joining us?”
+[[speaker:black_radiance]]“Someone else joining us?”
 
-“No.”
+[[speaker:sera]]“No.”
 
-“Then why four?”
+[[speaker:black_radiance]]“Then why four?”
 
-“Habit.”
+[[speaker:sera]]“Habit.”
 
 Her hand paused.
 
@@ -94,17 +94,17 @@ Sera moved it aside.
 
 Then looked at him.
 
-“I am offering you a seat.”
+[[speaker:sera]]“I am offering you a seat.”
 
 Yurushi leaned back.
 
-“That sounds dangerous.”
+[[speaker:black_radiance]]“That sounds dangerous.”
 
-“It is a chair.”
+[[speaker:sera]]“It is a chair.”
 
-“You know what I mean.”
+[[speaker:black_radiance]]“You know what I mean.”
 
-“Yes.”
+[[speaker:sera]]“Yes.”
 
 Qin sat near the wall with his eyes closed.
 
@@ -114,19 +114,19 @@ Of course he had.
 
 Yurushi noticed it and pointed.
 
-“You knew she was going to ask.”
+[[speaker:black_radiance]]“You knew she was going to ask.”
 
 Lu answered, “I hoped.”
 
-“That is worse.”
+[[speaker:black_radiance]]“That is worse.”
 
 Sera ignored them.
 
-“The Quaint Teahouse has Inner Petals, Sepals, captains, cells and people who still argue about whether the name sounds too harmless.”
+[[speaker:sera]]“The Quaint Teahouse has Inner Petals, Sepals, captains, cells and people who still argue about whether the name sounds too harmless.”
 
-“It does.”
+[[speaker:black_radiance]]“It does.”
 
-“Good. Then it works.”
+[[speaker:sera]]“Good. Then it works.”
 
 A faint smile touched Yurushi’s mouth.
 
@@ -136,7 +136,7 @@ Sera continued.
 
 That made him listen more carefully.
 
-“You would hold a specialist senior seat. Foreign extraction. Civilian corridors. Shinsei-facing intelligence. Covert movement. Humanitarian routes.”
+[[speaker:sera]]“You would hold a specialist senior seat. Foreign extraction. Civilian corridors. Shinsei-facing intelligence. Covert movement. Humanitarian routes.”
 
 She slid a small black token across the table.
 
@@ -148,19 +148,19 @@ Yurushi looked at it.
 
 “Sixth Petal.”
 
-“Yes.”
+[[speaker:sera]]“Yes.”
 
-“Not sixth-in-command.”
+[[speaker:black_radiance]]“Not sixth-in-command.”
 
-“No.”
+[[speaker:sera]]“No.”
 
-“Good.”
+[[speaker:black_radiance]]“Good.”
 
 Tae would never have let him survive the jokes.
 
 Qin said, “The title is senior. The authority is specific.”
 
-“That sounds like Lu wrote it.”
+[[speaker:black_radiance]]“That sounds like Lu wrote it.”
 
 “I did,” Lu said.
 
@@ -170,7 +170,7 @@ Yurushi did not touch the token.
 
 Instead he looked at Sera.
 
-“Why me?”
+[[speaker:black_radiance]]“Why me?”
 
 She could have said High Paragon.
 
@@ -180,25 +180,25 @@ Could have said because he knew Shinsei from inside better than anyone else Wuyu
 
 She said none of those.
 
-“Because the people you helped before you knew we existed are still alive.”
+[[speaker:sera]]“Because the people you helped before you knew we existed are still alive.”
 
 Yurushi’s expression changed.
 
 Sera held his gaze.
 
-“You built routes nobody praised you for. Paid for medicine nobody traced back to you. Let people disappear when your own institution wanted them found.”
+[[speaker:sera]]“You built routes nobody praised you for. Paid for medicine nobody traced back to you. Let people disappear when your own institution wanted them found.”
 
-“That institution also kept roads safe.”
+[[speaker:black_radiance]]“That institution also kept roads safe.”
 
-“I know.”
+[[speaker:sera]]“I know.”
 
-“It stopped clan wars.”
+[[speaker:black_radiance]]“It stopped clan wars.”
 
-“I know.”
+[[speaker:sera]]“I know.”
 
-“It fed cities that used to starve each other.”
+[[speaker:black_radiance]]“It fed cities that used to starve each other.”
 
-“I know.”
+[[speaker:sera]]“I know.”
 
 His jaw tightened.
 
@@ -210,25 +210,25 @@ She did not need people to simplify themselves before she trusted them.
 
 Yurushi looked down at the token.
 
-“I served Shinsei sincerely.”
+[[speaker:black_radiance]]“I served Shinsei sincerely.”
 
-“Yes.”
+[[speaker:sera]]“Yes.”
 
-“I believed in it.”
+[[speaker:black_radiance]]“I believed in it.”
 
-“Yes.”
+[[speaker:sera]]“Yes.”
 
-“I still believe some of what it built was necessary.”
+[[speaker:black_radiance]]“I still believe some of what it built was necessary.”
 
-“Yes.”
+[[speaker:sera]]“Yes.”
 
 He looked up sharply.
 
-“That does not bother you?”
+[[speaker:black_radiance]]“That does not bother you?”
 
 Sera picked up her tea.
 
-“It would bother me more if you rewrote your whole life because changing sides made honesty inconvenient.”
+[[speaker:sera]]“It would bother me more if you rewrote your whole life because changing sides made honesty inconvenient.”
 
 Qin’s mouth moved slightly.
 
@@ -238,13 +238,13 @@ Yurushi was silent.
 
 Then:
 
-“Your recruitment technique is strange.”
+[[speaker:black_radiance]]“Your recruitment technique is strange.”
 
-“I am not recruiting you to agree with me.”
+[[speaker:sera]]“I am not recruiting you to agree with me.”
 
-“What are you recruiting me for?”
+[[speaker:black_radiance]]“What are you recruiting me for?”
 
-“To help people.”
+[[speaker:sera]]“To help people.”
 
 That simple.
 
@@ -254,13 +254,13 @@ Yurushi reached for the token.
 
 His fingers stopped a breath above it.
 
-“Does this come with an oath?”
+[[speaker:black_radiance]]“Does this come with an oath?”
 
-“Yes.”
+[[speaker:sera]]“Yes.”
 
 He sighed.
 
-“Of course.”
+[[speaker:black_radiance]]“Of course.”
 
 Sera said, “You follow my lethal-force authorization. You do not kill because you are angry, afraid or convinced nobody will care. You protect the organization’s people. You do not use the Quaint network for private revenge. If I tell you to stop, you stop.”
 
@@ -282,13 +282,13 @@ Sera answered immediately.
 
 He stared.
 
-“If I still give it?”
+[[speaker:black_radiance]]“If I still give it?”
 
-“You decide whether you can remain under my authority.”
+[[speaker:sera]]“You decide whether you can remain under my authority.”
 
-“That is not how institutions work.”
+[[speaker:black_radiance]]“That is not how institutions work.”
 
-“It is how mine works.”
+[[speaker:sera]]“It is how mine works.”
 
 He looked at Qin.
 
@@ -312,43 +312,43 @@ Good.
 
 He picked up the token.
 
-“Fine.”
+[[speaker:black_radiance]]“Fine.”
 
 Sera raised one eyebrow.
 
-“That is your oath?”
+[[speaker:sera]]“That is your oath?”
 
-“No.”
+[[speaker:black_radiance]]“No.”
 
 He placed the token beside his cup.
 
-“I accept the seat.”
+[[speaker:black_radiance]]“I accept the seat.”
 
 A beat.
 
-“Temporarily.”
+[[speaker:black_radiance]]“Temporarily.”
 
 Lu began writing.
 
 Yurushi glared at him.
 
-“Do not write temporarily.”
+[[speaker:black_radiance]]“Do not write temporarily.”
 
-“I was not going to.”
+[[speaker:luweiran]]“I was not going to.”
 
-“You were.”
+[[speaker:black_radiance]]“You were.”
 
-“I was documenting the time.”
+[[speaker:luweiran]]“I was documenting the time.”
 
-“Why?”
+[[speaker:black_radiance]]“Why?”
 
-“Because you lasted twenty-three days.”
+[[speaker:luweiran]]“Because you lasted twenty-three days.”
 
 Qin actually smiled this time.
 
 Sera drank her tea.
 
-“Sixth Petal.”
+[[speaker:sera]]“Sixth Petal.”
 
 Yurushi looked down at the token again.
 
@@ -380,21 +380,21 @@ He was tying the second satchel when Qin knocked once and entered.
 
 Yurushi looked up.
 
-“You do not need eyes to respect a closed door?”
+[[speaker:black_radiance]]“You do not need eyes to respect a closed door?”
 
-“No.”
+[[speaker:qin]]“No.”
 
-“Fair.”
+[[speaker:black_radiance]]“Fair.”
 
 Qin tilted his head toward the packed satchels.
 
-“You are assuming.”
+[[speaker:qin]]“You are assuming.”
 
-“That sounds ominous.”
+[[speaker:black_radiance]]“That sounds ominous.”
 
-“Sera wants you downstairs.”
+[[speaker:qin]]“Sera wants you downstairs.”
 
-“It became more ominous.”
+[[speaker:black_radiance]]“It became more ominous.”
 
 The main courtyard looked like an army had been poured through a tea house and told not to break the cups.
 
@@ -418,29 +418,29 @@ Yurushi approached with both satchels.
 
 She looked at them.
 
-“No.”
+[[speaker:sera]]“No.”
 
 He stopped.
 
-“That is concise.”
+[[speaker:black_radiance]]“That is concise.”
 
-“You are staying.”
+[[speaker:sera]]“You are staying.”
 
-“In Wuyue.”
+[[speaker:black_radiance]]“In Wuyue.”
 
-“Yes.”
+[[speaker:sera]]“Yes.”
 
-“While Shinsei invades Isgard.”
+[[speaker:black_radiance]]“While Shinsei invades Isgard.”
 
-“Yes.”
+[[speaker:sera]]“Yes.”
 
-“And you are taking the public Top Ten north.”
+[[speaker:black_radiance]]“And you are taking the public Top Ten north.”
 
-“Yes.”
+[[speaker:sera]]“Yes.”
 
 He put the satchels down.
 
-“This feels like a bad allocation of someone who actually knows Shinsei.”
+[[speaker:black_radiance]]“This feels like a bad allocation of someone who actually knows Shinsei.”
 
 Sera pointed at the map.
 
@@ -450,39 +450,39 @@ Yurushi frowned.
 
 She moved three black markers north.
 
-“Tae. Huo. Qin remain here.”
+[[speaker:sera]]“Tae. Huo. Qin remain here.”
 
-“I know.”
+[[speaker:black_radiance]]“I know.”
 
-“Rhen is unavailable.”
+[[speaker:sera]]“Rhen is unavailable.”
 
-“I know.”
+[[speaker:black_radiance]]“I know.”
 
-“Wuyue’s public apex is leaving.”
+[[speaker:sera]]“Wuyue’s public apex is leaving.”
 
-“I also know that.”
+[[speaker:black_radiance]]“I also know that.”
 
-“Then tell me what Shinsei does if it wants to force our expedition back without beating sixty-four thousand people in Isgard.”
+[[speaker:sera]]“Then tell me what Shinsei does if it wants to force our expedition back without beating sixty-four thousand people in Isgard.”
 
 Yurushi looked at the map.
 
 The answer came before he wanted it to.
 
-“Strike support.”
+[[speaker:black_radiance]]“Strike support.”
 
-“Where?”
+[[speaker:sera]]“Where?”
 
-“Medical hubs. Command relays. Roads. Fixed defence nodes. Anything politically expensive enough that Kael or the public Top Ten are pressured to return.”
+[[speaker:black_radiance]]“Medical hubs. Command relays. Roads. Fixed defence nodes. Anything politically expensive enough that Kael or the public Top Ten are pressured to return.”
 
 Sera nodded.
 
-“And what do they know about my home?”
+[[speaker:sera]]“And what do they know about my home?”
 
 He was quiet.
 
-“Not enough.”
+[[speaker:black_radiance]]“Not enough.”
 
-“Exactly.”
+[[speaker:sera]]“Exactly.”
 
 Shinsei knew Sera’s teahouse was important.
 
@@ -506,15 +506,15 @@ A thousand-person covert organization with eight hundred eighty staying home.
 
 Yurushi stared at the markers.
 
-“You want me here because I know how Shinsei chooses pressure points.”
+[[speaker:black_radiance]]“You want me here because I know how Shinsei chooses pressure points.”
 
-“Yes.”
+[[speaker:sera]]“Yes.”
 
-“You could use that knowledge in Isgard.”
+[[speaker:black_radiance]]“You could use that knowledge in Isgard.”
 
-“I have your intelligence.”
+[[speaker:sera]]“I have your intelligence.”
 
-“You do not have me.”
+[[speaker:black_radiance]]“You do not have me.”
 
 Sera looked at him.
 
@@ -522,33 +522,33 @@ For half a second, the line sounded more personal than he intended.
 
 He corrected:
 
-“My judgement in real time.”
+[[speaker:black_radiance]]“My judgement in real time.”
 
-“I know.”
+[[speaker:sera]]“I know.”
 
-“And you still want me home.”
+[[speaker:black_radiance]]“And you still want me home.”
 
-“Yes.”
+[[speaker:sera]]“Yes.”
 
 Yurushi exhaled.
 
-“This organization is irritating.”
+[[speaker:black_radiance]]“This organization is irritating.”
 
 Tae passed behind him carrying an ironbound crate.
 
-“You joined willingly.”
+[[speaker:tae]]“You joined willingly.”
 
-“Temporarily.”
+[[speaker:black_radiance]]“Temporarily.”
 
 Tae kept walking.
 
-“Sure.”
+[[speaker:tae]]“Sure.”
 
 Yurushi looked at Sera.
 
-“Do you ever regret giving him authority?”
+[[speaker:black_radiance]]“Do you ever regret giving him authority?”
 
-“Frequently.”
+[[speaker:sera]]“Frequently.”
 
 Tae shouted from twenty paces away, “I HEARD THAT.”
 
@@ -568,13 +568,13 @@ Her expression changed.
 
 Yurushi watched the war return to her face.
 
-“How bad?”
+[[speaker:black_radiance]]“How bad?”
 
-“Worse.”
+[[speaker:sera]]“Worse.”
 
 She folded the report.
 
-“Still not enough to leave Wuyue undefended.”
+[[speaker:sera]]“Still not enough to leave Wuyue undefended.”
 
 That was the difference.
 
@@ -590,7 +590,7 @@ Then handed it to Qin.
 
 “What?” Qin asked.
 
-“Medical credentials. Useful if Shinsei tries to move through western ports.”
+[[speaker:black_radiance]]“Medical credentials. Useful if Shinsei tries to move through western ports.”
 
 Qin took it.
 
@@ -598,13 +598,13 @@ Yurushi opened the other.
 
 Pulled out three folded maps.
 
-“These are old Shinsei pressure routes. They may be outdated.”
+[[speaker:black_radiance]]“These are old Shinsei pressure routes. They may be outdated.”
 
 Lu appeared beside them as if summoned by useful paper.
 
-“I’ll compare them.”
+[[speaker:luweiran]]“I’ll compare them.”
 
-“Of course you will.”
+[[speaker:black_radiance]]“Of course you will.”
 
 Sera looked toward the port-road beyond the courtyard.
 
@@ -668,11 +668,11 @@ Yurushi one step off to the side by instinct.
 
 Sera noticed.
 
-“Sixth Petal.”
+[[speaker:sera]]“Sixth Petal.”
 
 He looked at her.
 
-“Stand with them.”
+[[speaker:sera]]“Stand with them.”
 
 He hesitated.
 
@@ -686,7 +686,7 @@ Enough.
 
 Sera looked at all four fighters and Lu.
 
-“Wuyue stays standing.”
+[[speaker:sera]]“Wuyue stays standing.”
 
 Qin nodded.
 
@@ -698,37 +698,37 @@ Lu said, “Please do not interpret that as permission to destroy infrastructure
 
 Tae looked offended.
 
-“I never—”
+[[speaker:tae]]“I never—”
 
 Everyone looked at him.
 
 He stopped.
 
-“Recently.”
+[[speaker:tae]]“Recently.”
 
 Sera’s mouth twitched.
 
 Then she looked at Yurushi.
 
-“Now you know why you stayed.”
+[[speaker:sera]]“Now you know why you stayed.”
 
 He looked at the departing armies.
 
 Then at the teahouse behind him.
 
-“No.”
+[[speaker:black_radiance]]“No.”
 
 Sera raised an eyebrow.
 
-“I know why you ordered it.”
+[[speaker:black_radiance]]“I know why you ordered it.”
 
 A pause.
 
-“I’ll decide whether it was right afterward.”
+[[speaker:black_radiance]]“I’ll decide whether it was right afterward.”
 
 Sera nodded.
 
-“Good.”
+[[speaker:sera]]“Good.”
 
 Then she turned and left for Isgard.
 
