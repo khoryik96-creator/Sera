@@ -1,0 +1,34 @@
+name: Apply Final Arc Publication Micro Polish
+
+on:
+  push:
+    branches:
+      - story/final-arc-literary-polish
+    paths:
+      - scripts/apply-final-arc-publication-micro-polish.mjs
+      - .github/workflows/apply-final-arc-publication-micro-polish.yml
+
+permissions:
+  contents: write
+
+jobs:
+  apply:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          ref: story/final-arc-literary-polish
+          fetch-depth: 0
+      - uses: actions/setup-node@v7
+        with:
+          node-version: 24
+      - name: Apply asserted prose micro-polish
+        run: node scripts/apply-final-arc-publication-micro-polish.mjs
+      - name: Commit prose edits
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/prose
+          git diff --cached --quiet && exit 0
+          git commit -m "Finish final arc publication micro-polish"
+          git push origin HEAD:story/final-arc-literary-polish
