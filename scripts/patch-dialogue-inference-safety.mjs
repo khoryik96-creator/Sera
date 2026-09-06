@@ -1,5 +1,6 @@
 import { readFile, writeFile } from 'node:fs/promises';
 
+// One-shot patch: remove all unsupported speaker guessing before manual attribution.
 const path = 'scripts/final-arc-reader.mjs';
 let s = await readFile(path, 'utf8');
 
