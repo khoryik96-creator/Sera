@@ -466,11 +466,11 @@ The youngest clerk stared at the deployment board.
 
 “Sixty percent of continental combat strength—”
 
-“No.”
+[[speaker:jin]]“No.”
 
 “Sixty percent of available soldiers—”
 
-“No.”
+[[speaker:jin]]“No.”
 
 “Sixty percent of—”
 
@@ -482,19 +482,19 @@ Sera sat at the side table drinking tea and enjoying this more than she should h
 
 Jin pointed at the board.
 
-“Strategic defence weight.”
+[[speaker:jin]]“Strategic defence weight.”
 
 “Yes, Lord Jin.”
 
-“Not bodies.”
+[[speaker:jin]]“Not bodies.”
 
 “Yes.”
 
-“Not every sixth man out of ten.”
+[[speaker:jin]]“Not every sixth man out of ten.”
 
 “Yes.”
 
-“Not a mystical number that forces armies to become equal sizes.”
+[[speaker:jin]]“Not a mystical number that forces armies to become equal sizes.”
 
 The clerk hesitated.
 
@@ -522,23 +522,23 @@ The current Kael had buried enough soldiers to understand why thirty-eight thous
 
 Jin nodded.
 
-“Exactly.”
+[[speaker:jin]]“Exactly.”
 
-“White Vein sends six.”
+[[speaker:jin]]“White Vein sends six.”
 
 Liang Yue adjusted one of his unnecessary cloaks.
 
-“Appropriate.”
+[[speaker:liang]]“Appropriate.”
 
 Kael looked at him.
 
-“You have three cloaks.”
+[[speaker:kael]]“You have three cloaks.”
 
-“We are discussing war.”
+[[speaker:liang]]“We are discussing war.”
 
-“You are wearing three cloaks during war.”
+[[speaker:kael]]“You are wearing three cloaks during war.”
 
-“Preparedness.”
+[[speaker:liang]]“Preparedness.”
 
 Sera said, “Continue before they become married in public.”
 
@@ -548,7 +548,7 @@ Jin did not react.
 
 He had survived too much.
 
-“Concord sends nine thousand.”
+[[speaker:jin]]“Concord sends nine thousand.”
 
 His own force.
 
@@ -556,37 +556,37 @@ No pride in the number.
 
 Just weight.
 
-“Stormreach eight.”
+[[speaker:jin]]“Stormreach eight.”
 
 Lei Zhen nodded.
 
-“Azure eleven.”
+[[speaker:jin]]“Azure eleven.”
 
 Shen Rui was already reading road estimates.
 
-“Crownless four.”
+[[speaker:jin]]“Crownless four.”
 
 Ilyra Serath smiled in a way that made the nearest logistics officer uncomfortable.
 
-“Only four?”
+[[speaker:ilyra]]“Only four?”
 
 Jin looked at her.
 
-“Four thousand people, Ilyra.”
+[[speaker:jin]]“Four thousand people, Ilyra.”
 
-“I know.”
+[[speaker:ilyra]]“I know.”
 
-“Not knives.”
+[[speaker:jin]]“Not knives.”
 
-“I know.”
+[[speaker:ilyra]]“I know.”
 
-“Do you?”
+[[speaker:jin]]“Do you?”
 
-“No.”
+[[speaker:ilyra]]“No.”
 
 Sera drank tea.
 
-“Imperial Army eighteen thousand.”
+[[speaker:jin]]“Imperial Army eighteen thousand.”
 
 Mo Qingzhao's marker was the largest single public manpower block on the board, a fact Jin kept central to every deployment choice.
 
@@ -598,25 +598,25 @@ Eighteen thousand disciplined troops could become road security, reserve line, s
 
 Mo looked at the figure.
 
-“Eighteen stays.”
+[[speaker:mo]]“Eighteen stays.”
 
 Jin said, “Yes.”
 
-“My ministers will complain.”
+[[speaker:mo]]“My ministers will complain.”
 
-“Yes.”
+[[speaker:jin]]“Yes.”
 
-“My quartermasters will complain more.”
+[[speaker:mo]]“My quartermasters will complain more.”
 
-“Yes.”
+[[speaker:jin]]“Yes.”
 
-“Good.”
+[[speaker:mo]]“Good.”
 
 Jin looked at him.
 
 Mo smiled.
 
-“If the quartermasters are not complaining, somebody forgot to move an army.”
+[[speaker:mo]]“If the quartermasters are not complaining, somebody forgot to move an army.”
 
 Lu, from the other side of the room, said, “Correct.”
 
@@ -624,7 +624,7 @@ Mo looked pleased to receive the highest available logistical blessing.
 
 Jin moved on.
 
-“Silver Horizon: eighteen hundred.”
+[[speaker:jin]]“Silver Horizon: eighteen hundred.”
 
 Arin Vale did not look at the number.
 
@@ -668,17 +668,17 @@ The room changed.
 
 Sera set down her cup.
 
-“Yes.”
+[[speaker:sera]]“Yes.”
 
 The clerk immediately looked horrified.
 
 “I did not mean—”
 
-“You meant the number is lower.”
+[[speaker:sera]]“You meant the number is lower.”
 
 “Yes.”
 
-“It is.”
+[[speaker:sera]]“It is.”
 
 Nobody saved him from the truth.
 
@@ -692,15 +692,15 @@ Armies could recover strength without becoming identical to what they were befor
 
 Sera stood.
 
-“Sixty percent means we are committing enough strategic weight to honor the pact and stop a continental invasion without emptying Wuyue so badly that Shinsei can win by striking our back.”
+[[speaker:sera]]“Sixty percent means we are committing enough strategic weight to honor the pact and stop a continental invasion without emptying Wuyue so badly that Shinsei can win by striking our back.”
 
 She looked around the table.
 
-“That means some people will hate their number.”
+[[speaker:sera]]“That means some people will hate their number.”
 
 Kael said, “I already do.”
 
-“Good.”
+[[speaker:sera]]“Good.”
 
 He frowned.
 
@@ -712,7 +712,7 @@ Nobody argued.
 
 Jin tapped the home-defence column.
 
-“Approximately eighty-three thousand eight hundred public combat-ready personnel remain distributed across Wuyue.”
+[[speaker:jin]]“Approximately eighty-three thousand eight hundred public combat-ready personnel remain distributed across Wuyue.”
 
 “Plus Quaint,” Qin said.
 
@@ -726,7 +726,7 @@ That usually meant he had found the part everyone else was avoiding.
 
 Qin nodded.
 
-“Plus us.”
+[[speaker:qin]]“Plus us.”
 
 Tae groaned.
 
@@ -734,29 +734,29 @@ Huo looked offended.
 
 Sera looked at both.
 
-“You are staying.”
+[[speaker:sera]]“You are staying.”
 
 Tae said, “We have not reached that agenda item.”
 
-“We have now.”
+[[speaker:sera]]“We have now.”
 
-“I object procedurally.”
+[[speaker:tae]]“I object procedurally.”
 
-“Denied.”
+[[speaker:sera]]“Denied.”
 
 Huo raised one hand.
 
 Sera looked at him.
 
-“I object emotionally.”
+[[speaker:huo]]“I object emotionally.”
 
-“Also denied.”
+[[speaker:sera]]“Also denied.”
 
-“This government is oppressive.”
+[[speaker:huo]]“This government is oppressive.”
 
-“You do not work for the government.”
+[[speaker:sera]]“You do not work for the government.”
 
-“That makes it worse.”
+[[speaker:huo]]“That makes it worse.”
 
 Qin smiled faintly.
 
@@ -766,19 +766,19 @@ Sera's voice became serious.
 
 The humor left.
 
-“All ten public Top Ten will eventually move north if the landing confirms Yun's scale.”
+[[speaker:sera]]“All ten public Top Ten will eventually move north if the landing confirms Yun's scale.”
 
 She looked at Tae.
 
-“Kael's fixed defence cannot be everywhere.”
+[[speaker:sera]]“Kael's fixed defence cannot be everywhere.”
 
 At Huo.
 
-“We do not know whether Shinsei will attack Wuyue directly.”
+[[speaker:sera]]“We do not know whether Shinsei will attack Wuyue directly.”
 
 Then Qin.
 
-“And if they do, I want the answer to be something they never put in their intelligence model.”
+[[speaker:sera]]“And if they do, I want the answer to be something they never put in their intelligence model.”
 
 Qin nodded.
 
@@ -786,31 +786,31 @@ Tae exhaled.
 
 Huo cracked his neck.
 
-“Fine.”
+[[speaker:huo]]“Fine.”
 
 Sera looked at him.
 
-“Fine?”
+[[speaker:sera]]“Fine?”
 
-“I will heroically defend the tea.”
+[[speaker:huo]]“I will heroically defend the tea.”
 
 Tae said, “The tea does need you.”
 
 Huo pointed at him.
 
-“You labeled training stones as medical cargo.”
+[[speaker:huo]]“You labeled training stones as medical cargo.”
 
 The room turned.
 
 Tae slowly looked at Huo.
 
-“Traitor.”
+[[speaker:tae]]“Traitor.”
 
 Lu made a note.
 
 “What are you writing?” Tae demanded.
 
-“Evidence.”
+[[speaker:luweiran]]“Evidence.”
 
 For one breath, generals laughed.
 
@@ -866,7 +866,7 @@ Because the criticism was specific.
 
 Sera stared at him across the table.
 
-“The water was too hot.”
+[[speaker:black_radiance]]“The water was too hot.”
 
 Lu Weiran stopped writing.
 
@@ -876,47 +876,47 @@ Qin, standing near the open window, became very still in the way he did when som
 
 Sera folded her hands.
 
-“You crossed a sea under false papers.”
+[[speaker:sera]]“You crossed a sea under false papers.”
 
-“Yes.”
+[[speaker:black_radiance]]“Yes.”
 
-“Three Shinsei inspection lines.”
+[[speaker:sera]]“Three Shinsei inspection lines.”
 
-“Yes.”
+[[speaker:black_radiance]]“Yes.”
 
-“Arrived at the headquarters of a foreign covert organization.”
+[[speaker:sera]]“Arrived at the headquarters of a foreign covert organization.”
 
-“Yes.”
+[[speaker:black_radiance]]“Yes.”
 
-“And your first decision was to insult my tea.”
+[[speaker:sera]]“And your first decision was to insult my tea.”
 
 Yurushi considered this.
 
-“I complimented the leaves.”
+[[speaker:black_radiance]]“I complimented the leaves.”
 
 Lu put down his brush.
 
 Luo looked at him.
 
-“Do not encourage him.”
+[[speaker:luo]]“Do not encourage him.”
 
-“I said nothing.”
+[[speaker:luweiran]]“I said nothing.”
 
-“Your silence has structure.”
+[[speaker:luo]]“Your silence has structure.”
 
 Yurushi glanced at Luo.
 
-“You are Luo Wen.”
+[[speaker:black_radiance]]“You are Luo Wen.”
 
 The room lost its humor.
 
 Luo's eyes hardened.
 
-“Yes.”
+[[speaker:luo]]“Yes.”
 
 Yurushi set down the cup.
 
-“Then I am sorry.”
+[[speaker:black_radiance]]“Then I am sorry.”
 
 No dramatic bow.
 
@@ -926,19 +926,19 @@ Just the sentence.
 
 Luo looked at him for a long time.
 
-“You knew her?”
+[[speaker:luo]]“You knew her?”
 
-“For several days.”
+[[speaker:black_radiance]]“For several days.”
 
-“That is not what I asked.”
+[[speaker:luo]]“That is not what I asked.”
 
 Yurushi understood.
 
-“No.”
+[[speaker:black_radiance]]“No.”
 
 He did not steal intimacy from the dead.
 
-“I helped her escape.”
+[[speaker:black_radiance]]“I helped her escape.”
 
 Luo's hand tightened once on the edge of the table.
 
@@ -986,13 +986,13 @@ The way she refused his first offer of help because she assumed he might be anot
 
 Luo almost smiled.
 
-“That sounds like her.”
+[[speaker:luo]]“That sounds like her.”
 
 Yurushi nodded.
 
-“She tested the medicine I gave her on the cloth before taking it.”
+[[speaker:black_radiance]]“She tested the medicine I gave her on the cloth before taking it.”
 
-“That definitely sounds like her.”
+[[speaker:luo]]“That definitely sounds like her.”
 
 Then Yurushi described the rest.
 
@@ -1016,19 +1016,19 @@ His face became still.
 
 Yurushi looked at him rather than away.
 
-“She was held under Shunto's personal medical-security chain.”
+[[speaker:black_radiance]]“She was held under Shunto's personal medical-security chain.”
 
 Luo's jaw tightened.
 
-“I know he captured her.”
+[[speaker:luo]]“I know he captured her.”
 
-“Yes.”
+[[speaker:black_radiance]]“Yes.”
 
-“What are you telling me?”
+[[speaker:luo]]“What are you telling me?”
 
 Yurushi chose the words carefully.
 
-“That her injuries did not fit capture and interrogation alone.”
+[[speaker:black_radiance]]“That her injuries did not fit capture and interrogation alone.”
 
 The room changed.
 
@@ -1040,11 +1040,11 @@ Sera did not move.
 
 Luo asked, “Did she tell you?”
 
-“No.”
+[[speaker:black_radiance]]“No.”
 
-“Then how do you know?”
+[[speaker:luo]]“Then how do you know?”
 
-“I do not know every detail.”
+[[speaker:black_radiance]]“I do not know every detail.”
 
 Yurushi's voice stayed level.
 
@@ -1054,17 +1054,17 @@ Luo's breathing changed.
 
 Yurushi continued before grief could force the conversation into certainty he did not possess.
 
-“I asked her once what he had done.”
+[[speaker:black_radiance]]“I asked her once what he had done.”
 
-“And?”
+[[speaker:luo]]“And?”
 
-“She told me later, if there was one.”
+[[speaker:black_radiance]]“She told me later, if there was one.”
 
 Luo closed his eyes.
 
 Yurushi's hands stayed open on the table.
 
-“She then told me I was wasting time on the wrong supply crate because the Isgard shipping evidence mattered more.”
+[[speaker:black_radiance]]“She then told me I was wasting time on the wrong supply crate because the Isgard shipping evidence mattered more.”
 
 A sound left Luo.
 
@@ -1078,59 +1078,59 @@ The question was sharp on purpose.
 
 Yurushi accepted it.
 
-“Because people were still inside the routes Shunto would search after me.”
+[[speaker:black_radiance]]“Because people were still inside the routes Shunto would search after me.”
 
-“How many?”
+[[speaker:sera]]“How many?”
 
-“Depends which day.”
+[[speaker:black_radiance]]“Depends which day.”
 
-“That was not an answer.”
+[[speaker:sera]]“That was not an answer.”
 
-“Forty-seven moved in the final two days. More earlier.”
+[[speaker:black_radiance]]“Forty-seven moved in the final two days. More earlier.”
 
 Lu's eyes shifted.
 
-“Names?”
+[[speaker:luweiran]]“Names?”
 
-“Some.”
+[[speaker:black_radiance]]“Some.”
 
-“Routes?”
+[[speaker:luweiran]]“Routes?”
 
-“Yes.”
+[[speaker:black_radiance]]“Yes.”
 
-“Credentials?”
+[[speaker:luweiran]]“Credentials?”
 
-“Destroyed where compromised. Two still active when I left.”
+[[speaker:black_radiance]]“Destroyed where compromised. Two still active when I left.”
 
 Lu picked up his brush.
 
-“Who built the network?”
+[[speaker:luweiran]]“Who built the network?”
 
-“I did.”
+[[speaker:black_radiance]]“I did.”
 
-“When?”
+[[speaker:luweiran]]“When?”
 
-“Over years.”
+[[speaker:black_radiance]]“Over years.”
 
-“For Shinsei?”
+[[speaker:luweiran]]“For Shinsei?”
 
-“No.”
+[[speaker:black_radiance]]“No.”
 
-“Against Shinsei?”
+[[speaker:luweiran]]“Against Shinsei?”
 
 Yurushi paused.
 
-“At first, I would have said no.”
+[[speaker:black_radiance]]“At first, I would have said no.”
 
 Lu waited.
 
 Yurushi looked at the tea.
 
-“I told myself I was correcting local abuses before they embarrassed the institution.”
+[[speaker:black_radiance]]“I told myself I was correcting local abuses before they embarrassed the institution.”
 
 Sera said, “And now?”
 
-“Now I think I spent years hiding people from a government I kept claiming I still served.”
+[[speaker:black_radiance]]“Now I think I spent years hiding people from a government I kept claiming I still served.”
 
 No absolution in the sentence.
 
@@ -1144,15 +1144,15 @@ She preferred people who knew which part of their own history smelled wrong.
 
 Luo opened his eyes.
 
-“Why help Yun before you knew who she was?”
+[[speaker:luo]]“Why help Yun before you knew who she was?”
 
 Yurushi looked at him.
 
-“Because she was hurt.”
+[[speaker:black_radiance]]“Because she was hurt.”
 
-“That simple?”
+[[speaker:luo]]“That simple?”
 
-“No.”
+[[speaker:black_radiance]]“No.”
 
 The answer surprised everyone.
 
@@ -1162,7 +1162,7 @@ Yurushi continued.
 
 He tapped one finger against the table.
 
-“That made it more complicated. The correct thing was still simple.”
+[[speaker:black_radiance]]“That made it more complicated. The correct thing was still simple.”
 
 Luo stared at him.
 
@@ -1200,7 +1200,7 @@ Looked at Yurushi.
 
 Looked at Sera.
 
-“Who is this?”
+[[speaker:huo]]“Who is this?”
 
 Yurushi said, “I have not joined.”
 
@@ -1208,23 +1208,23 @@ Nobody had asked.
 
 Huo looked delighted.
 
-“I like him.”
+[[speaker:huo]]“I like him.”
 
 Tae appeared behind him.
 
-“You like anyone who says suspicious things confidently.”
+[[speaker:tae]]“You like anyone who says suspicious things confidently.”
 
-“Yes.”
+[[speaker:huo]]“Yes.”
 
-“Bad standard.”
+[[speaker:tae]]“Bad standard.”
 
-“Works on you.”
+[[speaker:huo]]“Works on you.”
 
 Sera rubbed her forehead.
 
 Yurushi looked between them.
 
-“This is the hidden organization?”
+[[speaker:black_radiance]]“This is the hidden organization?”
 
 Lu said, “Unfortunately.”
 
@@ -1248,19 +1248,19 @@ Sera pushed a second tea cup toward Yurushi.
 
 He looked at it.
 
-“This water?”
+[[speaker:black_radiance]]“This water?”
 
-“Correct temperature.”
+[[speaker:sera]]“Correct temperature.”
 
-“That sounded threatening.”
+[[speaker:black_radiance]]“That sounded threatening.”
 
-“It was.”
+[[speaker:sera]]“It was.”
 
 He drank.
 
 Paused.
 
-“Better.”
+[[speaker:black_radiance]]“Better.”
 
 Sera decided not to kill him.
 
@@ -1270,19 +1270,19 @@ Lu slid a stack of port records across the table.
 
 Yurushi looked at them.
 
-“What is this?”
+[[speaker:black_radiance]]“What is this?”
 
-“Work.”
+[[speaker:luweiran]]“Work.”
 
-“I told you I have not joined.”
+[[speaker:black_radiance]]“I told you I have not joined.”
 
-“Yes.”
+[[speaker:luweiran]]“Yes.”
 
-“Then why am I working?”
+[[speaker:black_radiance]]“Then why am I working?”
 
 Lu looked genuinely puzzled.
 
-“You are here.”
+[[speaker:luweiran]]“You are here.”
 
 Qin smiled.
 
@@ -1294,11 +1294,11 @@ Then at Sera.
 
 She lifted her tea.
 
-“Welcome to Wuyue.”
+[[speaker:sera]]“Welcome to Wuyue.”
 
-“I have not joined.”
+[[speaker:black_radiance]]“I have not joined.”
 
-“Of course not.”
+[[speaker:sera]]“Of course not.”
 
 Yurushi looked down at the first ledger.
 
