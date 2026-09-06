@@ -2,7 +2,8 @@ import { describe, it, expect } from 'vitest';
 import rawData from '../src/data.json';
 import { normalizeDatabase, colorKeyMap } from '../src/db';
 import { TOTAL_SEASONS } from '../src/episodeMeta';
-import type { RawDatabase } from '../src/types';
+import type { Episode, RawDatabase } from '../src/types';
+import { FINAL_ARC_GENERATED } from './finalArcGenerated';
 
 const raw = rawData as unknown as RawDatabase;
 const data = normalizeDatabase(raw);
@@ -11,9 +12,17 @@ const data = normalizeDatabase(raw);
 // (e.g. Tae, Huo) are intentionally outside this rank-identity check.
 const coreRankedKeys = ['rhen', 'kael', 'liang', 'jin', 'lei', 'rui', 'ilyra', 'sera', 'mo', 'arin', 'wen', 'yun', 'qin', 'han'];
 
+function legacySeasonEntries() {
+  return Object.keys(raw)
+    .filter((key) => /^season\d+$/.test(key))
+    .map((key) => Number(key.slice(6)))
+    .sort((a, b) => a - b)
+    .map((season) => ({ season, episodes: raw[`season${season}` as `season${number}`] }));
+}
+
 function allEpisodes() {
-  return Array.from({ length: TOTAL_SEASONS }, (_, index) => index + 1).flatMap((season) =>
-    raw[`season${season}` as `season${number}`].map((episode, index) => ({ season, index, episode })),
+  return [...legacySeasonEntries(), ...FINAL_ARC_GENERATED].flatMap(({ season, episodes }) =>
+    episodes.map((episode: Episode, index: number) => ({ season, index, episode })),
   );
 }
 
@@ -62,10 +71,11 @@ describe('extended canon integrity', () => {
   });
 
   it('contains every season through the archive length while preserving the Season 64 epilogue', () => {
-    for (let season = 1; season <= TOTAL_SEASONS; season++) {
-      expect(raw[`season${season}` as `season${number}`].length, `season${season}`).toBeGreaterThan(0);
-    }
+    const combined = [...legacySeasonEntries(), ...FINAL_ARC_GENERATED].sort((a, b) => a.season - b.season);
+    expect(combined.map((entry) => entry.season)).toEqual(Array.from({ length: TOTAL_SEASONS }, (_, index) => index + 1));
+    for (const { season, episodes } of combined) expect(episodes.length, `season${season}`).toBeGreaterThan(0);
     expect(raw.season64[0]?.title.toLowerCase()).toMatch(/second spring|two years|epilogue/);
     expect(raw.season65[0]?.title.toLowerCase()).toMatch(/sign is still crooked/);
+    expect(FINAL_ARC_GENERATED.at(-1)?.episodes.at(-1)?.ep).toBe('Chapter 500');
   });
 });

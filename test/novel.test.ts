@@ -55,7 +55,6 @@ describe('renderNovel', () => {
     const out = renderNovel('**SUPREME ART — Petals in Stasis.**');
     expect(out).toContain('novel-skill-supreme');
     expect(out).toContain('Petals in Stasis.');
-    // The bold markers must be consumed, not left as a plain white bold line.
     expect(out).not.toContain('**');
     expect(out).not.toContain('<strong>SUPREME ART');
   });
@@ -70,10 +69,7 @@ describe('renderNovel', () => {
   });
 
   it('gold-styles a callout hand-authored as a literal <strong> in the data', () => {
-    // A couple of season bodies hardcode the bold tag with an inline sigil; the
-    // renderer must still resolve these to the gold skill callout, not white bold.
     const out = renderNovel('<strong>✦ SUPREME ART — One Petal Before Dawn</strong>');
-    // The gold callout must wrap the whole tier line; nothing left as bare bold.
     expect(out).toContain('<span class="novel-skill-supreme"><strong>✦ SUPREME ART — One Petal Before Dawn</strong></span>');
     expect(out.replace(/<span class="novel-skill[\s\S]*?<\/span>/g, '')).not.toContain('SUPREME ART');
   });
@@ -128,10 +124,13 @@ describe('renderNovel', () => {
     expect(out).not.toContain('rank-badge--retired');
   });
 
-  it('marks Yun Shizhen deceased in final-arc prose but alive before it', () => {
-    const finalArc = renderNovel('Yun Shizhen fell at last.', 95);
-    expect(finalArc).toContain('rank-badge rank-badge--deceased');
-    expect(finalArc).toContain('†');
+  it('keeps Yun Shizhen alive through Phase I and marks her deceased afterward', () => {
+    const phaseOne = renderNovel('Yun Shizhen carried the warning.', 100);
+    expect(phaseOne).not.toContain('rank-badge--deceased');
+    expect(phaseOne).toContain('rank-badge rank-badge--current">#10</span>');
+    const phaseTwo = renderNovel('They remembered Yun Shizhen.', 101);
+    expect(phaseTwo).toContain('rank-badge rank-badge--deceased');
+    expect(phaseTwo).toContain('†');
     const earlier = renderNovel('Yun Shizhen stood ready.', 80);
     expect(earlier).not.toContain('rank-badge--deceased');
   });
@@ -143,8 +142,6 @@ describe('renderNovel', () => {
   });
 
   it('does not tag the bare "Han" as Han Myeong in Beneath the Crooked Sign seasons', () => {
-    // Season 65+ introduce the living apprentice Han Mira; her surname must not
-    // inherit the deceased Former #8 Han Myeong's badge.
     const out = renderNovel('Han Mira arrived first. Han reached the bandages.', 65);
     expect(out).not.toContain('rank-badge');
     expect(out).not.toContain('character-han">Han</span>');
@@ -163,8 +160,6 @@ describe('renderNovel', () => {
   });
 
   it('does not tag the bare "Wei" as Wei Zhen in Beneath the Crooked Sign seasons', () => {
-    // Season 65+ introduce the physician Wei An; his surname must not inherit
-    // the Former #5 Wei Zhen's badge.
     const out = renderNovel('A physician named Wei An was arrested.', 65);
     expect(out).not.toContain('rank-badge');
     expect(out).not.toContain('character-wei">Wei</span>');
@@ -172,7 +167,6 @@ describe('renderNovel', () => {
   });
 
   it('styles an art whose name has an apostrophe, matching typographic quotes', () => {
-    // The skill data stores a straight apostrophe; the prose uses a curly one.
     const out = renderNovel('Kael anchored the road with Sovereign’s March.', 70);
     expect(out).toContain('novel-art');
     expect(out).toContain('Sovereign’s March');
@@ -210,9 +204,6 @@ describe('renderNovel', () => {
   });
 
   it('hands the bare alias "Tor" to Tor Veyrhald, with no rank badge, from the Isgard seasons', () => {
-    // Seasons 75+ reuse the bare given name "Tor" for the Isgard commander Tor
-    // Veyrhald; he sits outside the numeric world ranking, so he must not inherit
-    // Tor Veydan's rank IV badge or colour.
     const out = renderNovel('Tor watched the basin fill.', 78);
     expect(out).toContain('character-tor_veyrhald">Tor</span>');
     expect(out).not.toContain('character-tor">Tor</span>');
@@ -244,7 +235,6 @@ describe('renderNovel', () => {
     const out = renderNovel('Aldric held the line while Maedra opened the Red Miles.', 90);
     expect(out).toContain('character-aldric">Aldric</span>');
     expect(out).toContain('character-maedra">Maedra</span>');
-    // Paragon sits above the numeric world ranking, so no rank pill.
     expect(out).not.toContain('rank-badge');
   });
 });

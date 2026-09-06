@@ -115,6 +115,21 @@ export const characterRegistry: CharacterRegistryEntry[] = [
   { key: 'jorek', displayName: 'Jorek Norrvek', colorKey: 'jorek', aliases: ['Jorek Norrvek', 'Jorek'], speakerKeys: ['jorek'] },
   { key: 'freya', displayName: 'Freya Ysmark', colorKey: 'freya', aliases: ['Freya Ysmark', 'Freya'], speakerKeys: ['freya'] },
   { key: 'kellan', displayName: 'Kellan Haldren', colorKey: 'kellan', aliases: ['Kellan Haldren', 'Kellan'], speakerKeys: ['kellan'] },
+
+  // Final arc — Quaint additions and Shinsei's official Paragon seats.
+  { key: 'luweiran', displayName: 'Lu Weiran', colorKey: 'luweiran', aliases: ['Lu Weiran', 'Lu'], speakerKeys: ['luweiran', 'lu'] },
+  { key: 'xie_wuchen', displayName: 'Xie Wuchen', colorKey: 'xie_wuchen', aliases: ['Xie Wuchen', 'Xie'], speakerKeys: ['xie_wuchen', 'xie'], currentRank: '#10' },
+  { key: 'black_radiance', displayName: 'Yurushi Amagiri', colorKey: 'black_radiance', aliases: ['Yurushi Amagiri', 'Yurushi', 'Black Radiance'], speakerKeys: ['yurushi', 'black_radiance'], currentRank: 'UNR' },
+  { key: 'tsubasa', displayName: 'Tsubasa Kurokawa', colorKey: 'tsubasa', aliases: ['Tsubasa Kurokawa', 'Tsubasa'], speakerKeys: ['tsubasa'], currentRank: 'Shinsei #1' },
+  { key: 'shunto', displayName: 'Shunto Takamori', colorKey: 'shunto', aliases: ['Shunto Takamori', 'Shunto'], speakerKeys: ['shunto'], currentRank: 'Shinsei #2' },
+  { key: 'kai', displayName: 'Kai Moriyama', colorKey: 'kai', aliases: ['Kai Moriyama', 'Kai'], speakerKeys: ['kai'], currentRank: 'Shinsei #3' },
+  { key: 'haru', displayName: 'Haru Ishikawa', colorKey: 'haru', aliases: ['Haru Ishikawa', 'Haru'], speakerKeys: ['haru'], currentRank: 'Shinsei #4' },
+  { key: 'eirik', displayName: 'Eirik Voss', colorKey: 'eirik', aliases: ['Eirik Voss', 'Eirik'], speakerKeys: ['eirik'], currentRank: 'Shinsei #5' },
+  { key: 'hana', displayName: 'Hana Arakawa', colorKey: 'hana', aliases: ['Hana Arakawa', 'Hana'], speakerKeys: ['hana'], currentRank: 'Shinsei #6' },
+  { key: 'aya', displayName: 'Aya Katsuragi', colorKey: 'aya', aliases: ['Aya Katsuragi', 'Aya'], speakerKeys: ['aya'], currentRank: 'Shinsei #7' },
+  { key: 'kenji', displayName: 'Kenji Narukami', colorKey: 'kenji', aliases: ['Kenji Narukami', 'Kenji'], speakerKeys: ['kenji'], currentRank: 'Shinsei #8' },
+  { key: 'jun', displayName: 'Jun Kajihara', colorKey: 'jun', aliases: ['Jun Kajihara', 'Jun'], speakerKeys: ['jun'], currentRank: 'Shinsei #9' },
+  { key: 'nao', displayName: 'Nao Shibasaki', colorKey: 'nao', aliases: ['Nao Shibasaki', 'Nao'], speakerKeys: ['nao'], currentRank: 'Shinsei #10' },
 ];
 
 /**
@@ -136,7 +151,7 @@ export const neutralSpeakerNames: Record<string, string> = {
   hwan: 'Yeo Hwan', lumei: 'Tang Lumei', jiangfen: 'Jiang Fen', minseok: 'Oh Minseok',
   official: 'Provincial Official', guard: 'Provincial Guard', enforcer: 'Red Willow Enforcer', sectleader: 'Sect Leader',
   witness: 'Witness', caowen: 'Cao Wen', physician: 'Physician Su', customer: 'Customer',
-  luweiran: 'Lu Weiran', seoryeong: 'Han Seoryeong',
+  seoryeong: 'Han Seoryeong',
 };
 
 export const colorKeyMap: Record<string, string> = Object.fromEntries([
@@ -173,6 +188,7 @@ export function rankForStory(name: string, season?: number): string {
   if (entry.key === 'arin') return season <= 22 ? '#9' : '#8';
   if (entry.key === 'luo') return season <= 22 ? '' : '#9';
   if (entry.key === 'yun') return season <= 22 ? '' : '#10';
+  if (entry.key === 'xie_wuchen') return season >= 101 ? '#10' : '';
   return entry.currentRank || '';
 }
 
@@ -186,4 +202,7 @@ export const colorKeyItems: [string, string][] = [
   ['aldric', 'Aldric Veyrhald'], ['maedra', 'Maedra Dravaryn'],
   ['sigrun', 'Sigrun Veyrhald'], ['halvek', 'Halvek Veyrhald'], ['solveig', 'Solveig Skeldran'], ['eldran', 'Eldran Dravaryn'],
   ['brynja', 'Brynja Kharvorn'], ['oskar', 'Oskar Solvane'], ['astrid', 'Astrid Vardrenn'], ['jorek', 'Jorek Norrvek'], ['freya', 'Freya Ysmark'], ['kellan', 'Kellan Haldren'],
+  ['luweiran', 'Lu Weiran'], ['xie_wuchen', '#10 Xie Wuchen'], ['black_radiance', 'UNR Yurushi Amagiri'],
+  ['tsubasa', 'Shinsei #1 Tsubasa'], ['shunto', 'Shinsei #2 Shunto'], ['kai', 'Shinsei #3 Kai'], ['haru', 'Shinsei #4 Haru'], ['eirik', 'Shinsei #5 Eirik'],
+  ['hana', 'Shinsei #6 Hana'], ['aya', 'Shinsei #7 Aya'], ['kenji', 'Shinsei #8 Kenji'], ['jun', 'Shinsei #9 Jun'], ['nao', 'Shinsei #10 Nao'],
 ];
