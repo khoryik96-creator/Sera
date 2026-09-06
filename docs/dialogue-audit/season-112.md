@@ -1,6 +1,6 @@
 # Season 112 — unattributed dialogue
 
-190 quoted lines in this season have no speaker.
+193 quoted lines in this season have no speaker.
 See `README.md` in this folder for what to do with them.
 
 Lines already resolved show their speaker in `[brackets]` for context.
@@ -526,6 +526,14 @@ Eirik's eyes shifted slightly.
 Tsubasa spoke without turning.
 ```
 ```
+Tsubasa spoke without turning.
+[tsubasa] “Not perfectly. Not cleanly. But it ended them.”
+Sera said, “And therefore?”
+>>> “Therefore if the institution that ended them can be forced to kneel whenever a stronger foreign coalition arrives, every clan chief in Shinrin learns the wrong lesson.”   <-- WHO SAYS THIS?
+Nao's jaw tightened.
+Sera understood the argument.
+```
+```
 If she had been, someone would already be bleeding.
 Sera's voice stayed level.
 [sera] “You believe Shinsei's survival gives Shinsei the right to continue a war Shinsei started.”
@@ -897,9 +905,17 @@ Sera stared.
 Rhen added, “Probably.”
 ```
 ```
+“You will.”
 Sera stared.
 Rhen added, “Probably.”
-[rhen] “Wonderful.”
+>>> “Wonderful.”   <-- WHO SAYS THIS?
+“You asked.”
+She squeezed his hand harder.
+```
+```
+Sera stared.
+Rhen added, “Probably.”
+“Wonderful.”
 >>> “You asked.”   <-- WHO SAYS THIS?
 She squeezed his hand harder.
 Rhen did not complain.
@@ -1242,23 +1258,31 @@ He did.
 The next minute became a conversation too fast for most of the watching army to understand.
 ```
 ```
+For ten full seconds neither attacked.
 The armies became restless.
 Tsubasa said, “Your Domain doesn't punish patience.”
-[tsubasa] “No.”
+>>> “No.”   <-- WHO SAYS THIS?
+“Or defense.”
+“No.”
+```
+```
+The armies became restless.
+Tsubasa said, “Your Domain doesn't punish patience.”
+“No.”
 >>> “Or defense.”   <-- WHO SAYS THIS?
 “No.”
 “Then it has a simple answer.”
 ```
 ```
 Tsubasa said, “Your Domain doesn't punish patience.”
-[tsubasa] “No.”
+“No.”
 “Or defense.”
 >>> “No.”   <-- WHO SAYS THIS?
 “Then it has a simple answer.”
 Sera smiled.
 ```
 ```
-[tsubasa] “No.”
+“No.”
 “Or defense.”
 “No.”
 >>> “Then it has a simple answer.”   <-- WHO SAYS THIS?

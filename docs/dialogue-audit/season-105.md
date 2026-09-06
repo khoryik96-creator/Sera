@@ -1,6 +1,6 @@
 # Season 105 — unattributed dialogue
 
-257 quoted lines in this season have no speaker.
+258 quoted lines in this season have no speaker.
 See `README.md` in this folder for what to do with them.
 
 Lines already resolved show their speaker in `[brackets]` for context.
@@ -1602,9 +1602,17 @@ Kai looked at the Wuyue apex markers.
 [kai] “Sera.”
 ```
 ```
+Kai looked at the Wuyue apex markers.
 [kai] “Sera.”
 “Peak Paragon,” Eirik said.
-[eirik] “Kael?”
+>>> “Kael?”   <-- WHO SAYS THIS?
+“New Paragon. Better than initial model.”
+Jun said, “He learns quickly.”
+```
+```
+[kai] “Sera.”
+“Peak Paragon,” Eirik said.
+“Kael?”
 >>> “New Paragon. Better than initial model.”   <-- WHO SAYS THIS?
 Jun said, “He learns quickly.”
 Kai looked at him.

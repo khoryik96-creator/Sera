@@ -1,6 +1,6 @@
 # Season 113 — unattributed dialogue
 
-235 quoted lines in this season have no speaker.
+238 quoted lines in this season have no speaker.
 See `README.md` in this folder for what to do with them.
 
 Lines already resolved show their speaker in `[brackets]` for context.
@@ -862,9 +862,17 @@ As if called by name, the Peak Paragon moved.
 The 3× state entered him fully.
 ```
 ```
+Sera's face hardened.
 [sera] “He's stronger than earlier.”
 “Yes,” Rhen said.
-[rhen] “How much?”
+>>> “How much?”   <-- WHO SAYS THIS?
+“Approximately what the label says.”
+Sera gave him a flat look.
+```
+```
+[sera] “He's stronger than earlier.”
+“Yes,” Rhen said.
+“How much?”
 >>> “Approximately what the label says.”   <-- WHO SAYS THIS?
 Sera gave him a flat look.
 [sera] “That was not helpful.”
@@ -1007,6 +1015,14 @@ Rhen looked back at him.
 >>> “Why?”   <-- WHO SAYS THIS?
 Rhen looked back at him.
 [rhen] “Because Sera told me not to be annoying.”
+```
+```
+Tsubasa blinked.
+The crescent nearly dipped.
+From the ridge, Sera shouted:
+>>> “I SAID TRY.”   <-- WHO SAYS THIS?
+Rhen called back without looking.
+[rhen] “I AM.”
 ```
 
 ### Chapter 485 — Rhen Walks In
@@ -1592,23 +1608,31 @@ Rhen paused.
 Sera shouted from the ridge:
 ```
 ```
+Tsubasa's breathing slowed.
 The Redline crash began settling through him.
 “You healed me,” Tsubasa said.
-[tsubasa] “Yes.”
+>>> “Yes.”   <-- WHO SAYS THIS?
+“You let me take the drug.”
+“Yes.”
+```
+```
+The Redline crash began settling through him.
+“You healed me,” Tsubasa said.
+“Yes.”
 >>> “You let me take the drug.”   <-- WHO SAYS THIS?
 “Yes.”
 “You let me use the Dominion.”
 ```
 ```
 “You healed me,” Tsubasa said.
-[tsubasa] “Yes.”
+“Yes.”
 “You let me take the drug.”
 >>> “Yes.”   <-- WHO SAYS THIS?
 “You let me use the Dominion.”
 “Yes.”
 ```
 ```
-[tsubasa] “Yes.”
+“Yes.”
 “You let me take the drug.”
 “Yes.”
 >>> “You let me use the Dominion.”   <-- WHO SAYS THIS?

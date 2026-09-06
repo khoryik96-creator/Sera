@@ -1,6 +1,6 @@
 # Season 101 — unattributed dialogue
 
-451 quoted lines in this season have no speaker.
+471 quoted lines in this season have no speaker.
 See `README.md` in this folder for what to do with them.
 
 Lines already resolved show their speaker in `[brackets]` for context.
@@ -13,19 +13,27 @@ Sera had seen him fight entire campaigns with fewer weapons.
 A naval clerk swallowed.
 >>> “Forty-six deep-hull transports confirmed within nine days. Another nineteen if Stonecrown releases civilian grain carriers.”   <-- WHO SAYS THIS?
 “Do not count grain carriers twice,” Jin said.
-[jin] “I did not.”
+“I did not.”
+```
+```
+A naval clerk swallowed.
+“Forty-six deep-hull transports confirmed within nine days. Another nineteen if Stonecrown releases civilian grain carriers.”
+“Do not count grain carriers twice,” Jin said.
+>>> “I did not.”   <-- WHO SAYS THIS?
+“You did yesterday.”
+“That was another clerk.”
 ```
 ```
 “Forty-six deep-hull transports confirmed within nine days. Another nineteen if Stonecrown releases civilian grain carriers.”
 “Do not count grain carriers twice,” Jin said.
-[jin] “I did not.”
+“I did not.”
 >>> “You did yesterday.”   <-- WHO SAYS THIS?
 “That was another clerk.”
 Jin looked at him.
 ```
 ```
 “Do not count grain carriers twice,” Jin said.
-[jin] “I did not.”
+“I did not.”
 “You did yesterday.”
 >>> “That was another clerk.”   <-- WHO SAYS THIS?
 Jin looked at him.
@@ -392,6 +400,14 @@ Sera did not offer comfort shaped like a lie.
 [sera] “Yes.”
 ```
 ```
+[tsubasa] “Then the calendar is wrong.”
+Haru looked up.
+Shunto said, “We can still contain—”
+>>> “No.”   <-- WHO SAYS THIS?
+Tsubasa's voice was quiet.
+Not angry.
+```
+```
 Tsubasa's voice was quiet.
 Not angry.
 That made Shunto stop.
@@ -547,23 +563,31 @@ The corridor stayed quiet.
 Sera placed one hand against the stone.
 ```
 ```
+There were cruelties nobody could punch.
 Sera removed her hand.
 Lu said, “We can leave a watch.”
-[luweiran] “We already have one.”
+>>> “We already have one.”   <-- WHO SAYS THIS?
+“A second.”
+“For what?”
+```
+```
+Sera removed her hand.
+Lu said, “We can leave a watch.”
+“We already have one.”
 >>> “A second.”   <-- WHO SAYS THIS?
 “For what?”
 “In case the chamber changes.”
 ```
 ```
 Lu said, “We can leave a watch.”
-[luweiran] “We already have one.”
+“We already have one.”
 “A second.”
 >>> “For what?”   <-- WHO SAYS THIS?
 “In case the chamber changes.”
 Sera looked at him.
 ```
 ```
-[luweiran] “We already have one.”
+“We already have one.”
 “A second.”
 “For what?”
 >>> “In case the chamber changes.”   <-- WHO SAYS THIS?
@@ -736,7 +760,15 @@ Tae said, “That sounded like Jin.”
 “If ten Paragons land?”
 >>> “We fight smarter.”   <-- WHO SAYS THIS?
 Tae said, “That sounded like Jin.”
-[tae] “I have been near him too long.”
+“I have been near him too long.”
+```
+```
+“If ten Paragons land?”
+“We fight smarter.”
+Tae said, “That sounded like Jin.”
+>>> “I have been near him too long.”   <-- WHO SAYS THIS?
+Qin stood.
+[qin] “What do you need from us?”
 ```
 ```
 “Home,” she said.
@@ -846,23 +878,31 @@ Sera said, “Eat.”
 Luo glared at both of them.
 ```
 ```
+That was kindness too.
 When the bowl was empty, Luo pulled a clean sheet toward himself.
 “What are you doing?” Sera asked.
-[sera] “Separating the useful parts.”
+>>> “Separating the useful parts.”   <-- WHO SAYS THIS?
+“You just finished reading it.”
+“Yes.”
+```
+```
+When the bowl was empty, Luo pulled a clean sheet toward himself.
+“What are you doing?” Sera asked.
+“Separating the useful parts.”
 >>> “You just finished reading it.”   <-- WHO SAYS THIS?
 “Yes.”
 “And?”
 ```
 ```
 “What are you doing?” Sera asked.
-[sera] “Separating the useful parts.”
+“Separating the useful parts.”
 “You just finished reading it.”
 >>> “Yes.”   <-- WHO SAYS THIS?
 “And?”
 “And Shinsei's medical structure can tell us where it expects losses before troop reports do.”
 ```
 ```
-[sera] “Separating the useful parts.”
+“Separating the useful parts.”
 “You just finished reading it.”
 “Yes.”
 >>> “And?”   <-- WHO SAYS THIS?
@@ -1097,23 +1137,31 @@ Her expression did not change.
 Yurushi finally looked at her.
 ```
 ```
+He knew the way her left thumb touched the edge of her sword guard when she wanted to stop somebody and had not yet decided whether she had the right.
 Neither mentioned it.
 Hana said, “Shunto knows someone helped the foreign woman.”
-[hana] “He should investigate harder.”
+>>> “He should investigate harder.”   <-- WHO SAYS THIS?
+“He is.”
+“I noticed.”
+```
+```
+Neither mentioned it.
+Hana said, “Shunto knows someone helped the foreign woman.”
+“He should investigate harder.”
 >>> “He is.”   <-- WHO SAYS THIS?
 “I noticed.”
 “He has your old eastern corridor lists.”
 ```
 ```
 Hana said, “Shunto knows someone helped the foreign woman.”
-[hana] “He should investigate harder.”
+“He should investigate harder.”
 “He is.”
 >>> “I noticed.”   <-- WHO SAYS THIS?
 “He has your old eastern corridor lists.”
 That made Yurushi still.
 ```
 ```
-[hana] “He should investigate harder.”
+“He should investigate harder.”
 “He is.”
 “I noticed.”
 >>> “He has your old eastern corridor lists.”   <-- WHO SAYS THIS?
@@ -1209,16 +1257,24 @@ Yurushi looked into the burning room.
 [yurushi] “Afterward I learned her name.”
 ```
 ```
+Then one day he had looked at all the people he was secretly moving around Shinsei's official decisions and realized his loyalty existed mostly as a cover story for resisting the institution he claimed to serve.
 Yun had merely removed the last excuse.
 Hana said, “If you leave, you lose what access you have.”
-[hana] “If I stay, my access becomes a reason to keep lending the rest of myself to people I no longer trust.”
+>>> “If I stay, my access becomes a reason to keep lending the rest of myself to people I no longer trust.”   <-- WHO SAYS THIS?
+“You think I trust everything?”
+“No.”
+```
+```
+Yun had merely removed the last excuse.
+Hana said, “If you leave, you lose what access you have.”
+“If I stay, my access becomes a reason to keep lending the rest of myself to people I no longer trust.”
 >>> “You think I trust everything?”   <-- WHO SAYS THIS?
 “No.”
 That answer hurt her more than accusation would have.
 ```
 ```
 Hana said, “If you leave, you lose what access you have.”
-[hana] “If I stay, my access becomes a reason to keep lending the rest of myself to people I no longer trust.”
+“If I stay, my access becomes a reason to keep lending the rest of myself to people I no longer trust.”
 “You think I trust everything?”
 >>> “No.”   <-- WHO SAYS THIS?
 That answer hurt her more than accusation would have.
@@ -1612,16 +1668,24 @@ Haru nodded.
 Tsubasa looked at the readiness board.
 ```
 ```
+Tsubasa looked at the readiness board.
 [tsubasa] “If we wait for perfect intelligence, we arrive against prepared ports, Wuyue formations already north, dispersed medical stores and coordinated command.”
 Kai said, “And if we rush?”
-[kai] “We arrive against an enemy that knows we're coming but has not finished becoming ready.”
+>>> “We arrive against an enemy that knows we're coming but has not finished becoming ready.”   <-- WHO SAYS THIS?
+“While we also are not finished.”
+“Yes.”
+```
+```
+[tsubasa] “If we wait for perfect intelligence, we arrive against prepared ports, Wuyue formations already north, dispersed medical stores and coordinated command.”
+Kai said, “And if we rush?”
+“We arrive against an enemy that knows we're coming but has not finished becoming ready.”
 >>> “While we also are not finished.”   <-- WHO SAYS THIS?
 “Yes.”
 Kai stared at him for several breaths.
 ```
 ```
 Kai said, “And if we rush?”
-[kai] “We arrive against an enemy that knows we're coming but has not finished becoming ready.”
+“We arrive against an enemy that knows we're coming but has not finished becoming ready.”
 “While we also are not finished.”
 >>> “Yes.”   <-- WHO SAYS THIS?
 Kai stared at him for several breaths.
@@ -1652,23 +1716,31 @@ Tsubasa met his eyes.
 Isgard had lost too many civilians to epidemic after the last war.
 ```
 ```
+He would not pretend his fear was imaginary simply because his answer had become dangerous.
 “I think Isgard cannot sustain another decade like the last two years,” he said.
 Kai said, “Then trade with them.”
-[kai] “We tried.”
+>>> “We tried.”   <-- WHO SAYS THIS?
+“Not the same as conquering them.”
+“No.”
+```
+```
+“I think Isgard cannot sustain another decade like the last two years,” he said.
+Kai said, “Then trade with them.”
+“We tried.”
 >>> “Not the same as conquering them.”   <-- WHO SAYS THIS?
 “No.”
 “You used to know that difference faster.”
 ```
 ```
 Kai said, “Then trade with them.”
-[kai] “We tried.”
+“We tried.”
 “Not the same as conquering them.”
 >>> “No.”   <-- WHO SAYS THIS?
 “You used to know that difference faster.”
 The room went silent.
 ```
 ```
-[kai] “We tried.”
+“We tried.”
 “Not the same as conquering them.”
 “No.”
 >>> “You used to know that difference faster.”   <-- WHO SAYS THIS?
@@ -1812,23 +1884,31 @@ Haru's charcoal touched the line between two continents.
 [haru] “It becomes a two-continent war.”
 ```
 ```
+Tsubasa looked around the room.
 [tsubasa] “Fourteen days.”
 Kai said, “You are accepting the intelligence gap.”
-[kai] “Yes.”
+>>> “Yes.”   <-- WHO SAYS THIS?
+“The reserve gap.”
+“Yes.”
+```
+```
+[tsubasa] “Fourteen days.”
+Kai said, “You are accepting the intelligence gap.”
+“Yes.”
 >>> “The reserve gap.”   <-- WHO SAYS THIS?
 “Yes.”
 “And the occupation gap.”
 ```
 ```
 Kai said, “You are accepting the intelligence gap.”
-[kai] “Yes.”
+“Yes.”
 “The reserve gap.”
 >>> “Yes.”   <-- WHO SAYS THIS?
 “And the occupation gap.”
 “Yes.”
 ```
 ```
-[kai] “Yes.”
+“Yes.”
 “The reserve gap.”
 “Yes.”
 >>> “And the occupation gap.”   <-- WHO SAYS THIS?
@@ -2031,23 +2111,31 @@ Sera drank tea.
 [sera] “Imperial Army eighteen thousand.”
 ```
 ```
+Mo looked at the figure.
 [mo] “Eighteen stays.”
 Jin said, “Yes.”
-[jin] “My ministers will complain.”
+>>> “My ministers will complain.”   <-- WHO SAYS THIS?
+“Yes.”
+“My quartermasters will complain more.”
+```
+```
+[mo] “Eighteen stays.”
+Jin said, “Yes.”
+“My ministers will complain.”
 >>> “Yes.”   <-- WHO SAYS THIS?
 “My quartermasters will complain more.”
 “Yes.”
 ```
 ```
 Jin said, “Yes.”
-[jin] “My ministers will complain.”
+“My ministers will complain.”
 “Yes.”
 >>> “My quartermasters will complain more.”   <-- WHO SAYS THIS?
 “Yes.”
 “Good.”
 ```
 ```
-[jin] “My ministers will complain.”
+“My ministers will complain.”
 “Yes.”
 “My quartermasters will complain more.”
 >>> “Yes.”   <-- WHO SAYS THIS?
@@ -2108,19 +2196,35 @@ Sera stood.
 She looked around the table.
 >>> “That means some people will hate their number.”   <-- WHO SAYS THIS?
 Kael said, “I already do.”
-[kael] “Good.”
+“Good.”
+```
+```
+She looked around the table.
+“That means some people will hate their number.”
+Kael said, “I already do.”
+>>> “Good.”   <-- WHO SAYS THIS?
+He frowned.
+Sera continued.
+```
+```
+Sera looked at both.
+[sera] “You are staying.”
+Tae said, “We have not reached that agenda item.”
+>>> “We have now.”   <-- WHO SAYS THIS?
+“I object procedurally.”
+“Denied.”
 ```
 ```
 [sera] “You are staying.”
 Tae said, “We have not reached that agenda item.”
-[tae] “We have now.”
+“We have now.”
 >>> “I object procedurally.”   <-- WHO SAYS THIS?
 “Denied.”
 Huo raised one hand.
 ```
 ```
 Tae said, “We have not reached that agenda item.”
-[tae] “We have now.”
+“We have now.”
 “I object procedurally.”
 >>> “Denied.”   <-- WHO SAYS THIS?
 Huo raised one hand.
@@ -2322,16 +2426,24 @@ Yurushi chose the words carefully.
 [yurushi] “That her injuries did not fit capture and interrogation alone.”
 ```
 ```
+Lu's brush remained perfectly still.
 Sera did not move.
 Luo asked, “Did she tell you?”
-[luo] “No.”
+>>> “No.”   <-- WHO SAYS THIS?
+“Then how do you know?”
+“I do not know every detail.”
+```
+```
+Sera did not move.
+Luo asked, “Did she tell you?”
+“No.”
 >>> “Then how do you know?”   <-- WHO SAYS THIS?
 “I do not know every detail.”
 Yurushi's voice stayed level.
 ```
 ```
 Luo asked, “Did she tell you?”
-[luo] “No.”
+“No.”
 “Then how do you know?”
 >>> “I do not know every detail.”   <-- WHO SAYS THIS?
 Yurushi's voice stayed level.
@@ -2472,6 +2584,14 @@ Yurushi paused.
 >>> “Against Shinsei?”   <-- WHO SAYS THIS?
 Yurushi paused.
 [yurushi] “At first, I would have said no.”
+```
+```
+Yurushi looked at the tea.
+[yurushi] “I told myself I was correcting local abuses before they embarrassed the institution.”
+Sera said, “And now?”
+>>> “Now I think I spent years hiding people from a government I kept claiming I still served.”   <-- WHO SAYS THIS?
+No absolution in the sentence.
+Good.
 ```
 ```
 [luo] “Why help Yun before you knew who she was?”
@@ -2741,23 +2861,31 @@ The runner nodded.
 Good boy.
 ```
 ```
+Solveig read Brynja's first count.
 [solveig] “Begin inland dispersal.”
 Halvek said, “Already moving.”
-[halvek] “Primary roads?”
+>>> “Primary roads?”   <-- WHO SAYS THIS?
+“Open.”
+“Secondary?”
+```
+```
+[solveig] “Begin inland dispersal.”
+Halvek said, “Already moving.”
+“Primary roads?”
 >>> “Open.”   <-- WHO SAYS THIS?
 “Secondary?”
 “Two washed out. Astrid has alternatives.”
 ```
 ```
 Halvek said, “Already moving.”
-[halvek] “Primary roads?”
+“Primary roads?”
 “Open.”
 >>> “Secondary?”   <-- WHO SAYS THIS?
 “Two washed out. Astrid has alternatives.”
 Astrid pointed at the floor without looking up.
 ```
 ```
-[halvek] “Primary roads?”
+“Primary roads?”
 “Open.”
 “Secondary?”
 >>> “Two washed out. Astrid has alternatives.”   <-- WHO SAYS THIS?
@@ -2797,23 +2925,31 @@ The room moved.
 Not panic.
 ```
 ```
+Solveig moved counters.
 [solveig] “Brynja holds the main western port. Do not reinforce every false landing.”
 Varok said, “I can take mobile reserve south.”
-[varok] “You take center until we know which landing is real.”
+>>> “You take center until we know which landing is real.”   <-- WHO SAYS THIS?
+“I hate waiting.”
+“I know.”
+```
+```
+[solveig] “Brynja holds the main western port. Do not reinforce every false landing.”
+Varok said, “I can take mobile reserve south.”
+“You take center until we know which landing is real.”
 >>> “I hate waiting.”   <-- WHO SAYS THIS?
 “I know.”
 “That was not agreement.”
 ```
 ```
 Varok said, “I can take mobile reserve south.”
-[varok] “You take center until we know which landing is real.”
+“You take center until we know which landing is real.”
 “I hate waiting.”
 >>> “I know.”   <-- WHO SAYS THIS?
 “That was not agreement.”
 “It was sympathy.”
 ```
 ```
-[varok] “You take center until we know which landing is real.”
+“You take center until we know which landing is real.”
 “I hate waiting.”
 “I know.”
 >>> “That was not agreement.”   <-- WHO SAYS THIS?
@@ -2851,6 +2987,14 @@ The messenger's face answered before his mouth.
 >>> “Still assembling.”   <-- WHO SAYS THIS?
 Nobody cursed.
 That would have wasted time.
+```
+```
+Nobody cursed.
+That would have wasted time.
+“What has moved?” Solveig asked.
+>>> “Medicine. Preserved food. Surgical supplies. Two fast naval escorts. Wuyue says the main expedition is not ready to sail without becoming a supply failure halfway north.”   <-- WHO SAYS THIS?
+Varok muttered something impolite.
+Solveig ignored him.
 ```
 ```
 Varok muttered something impolite.
@@ -3149,10 +3293,18 @@ Kenji stared.
 “Your officer complained before you arrived.”
 >>> “Betrayal.”   <-- WHO SAYS THIS?
 Nao said, “Regulation.”
-[nao] “Worse.”
+“Worse.”
 ```
 ```
-[nao] “Worse.”
+“Your officer complained before you arrived.”
+“Betrayal.”
+Nao said, “Regulation.”
+>>> “Worse.”   <-- WHO SAYS THIS?
+For one moment they looked almost ordinary.
+Then Aya entered carrying a casualty sheet.
+```
+```
+“Worse.”
 For one moment they looked almost ordinary.
 Then Aya entered carrying a casualty sheet.
 >>> “Coastal batteries killed forty-three before landing. Another seventy-one injured.”   <-- WHO SAYS THIS?
@@ -3259,8 +3411,16 @@ Orven's face had gone pale.
 Varok said, “That is a defensive method.”
 ```
 ```
+“Impact received at shield rim. Force distributed through shoulder, hip and rear leg rather than direct arm absorption. Commander remained planted despite unstable deck.”
+Orven's face had gone pale.
 Varok said, “That is a defensive method.”
-[varok] “No.”
+>>> “No.”   <-- WHO SAYS THIS?
+Orven looked at him.
+“That is **his** defensive method.”
+```
+```
+Varok said, “That is a defensive method.”
+“No.”
 Orven looked at him.
 >>> “That is **his** defensive method.”   <-- WHO SAYS THIS?
 Solveig felt the room change.

@@ -1,6 +1,6 @@
 # Season 99 — unattributed dialogue
 
-395 quoted lines in this season have no speaker.
+406 quoted lines in this season have no speaker.
 See `README.md` in this folder for what to do with them.
 
 Lines already resolved show their speaker in `[brackets]` for context.
@@ -160,15 +160,23 @@ He pulled the room’s only chair closer but stopped outside kicking range.
 Still learning.
 ```
 ```
+He pulled the room’s only chair closer but stopped outside kicking range.
+Still learning.
 Yun said, “You rehearsed the road for how long?”
-[yun] “Twenty-seven days.”
+>>> “Twenty-seven days.”   <-- WHO SAYS THIS?
+She blinked once.
+“Obsessive.”
+```
+```
+Yun said, “You rehearsed the road for how long?”
+“Twenty-seven days.”
 She blinked once.
 >>> “Obsessive.”   <-- WHO SAYS THIS?
 “You poisoned my arm.”
 “For eleven minutes.”
 ```
 ```
-[yun] “Twenty-seven days.”
+“Twenty-seven days.”
 She blinked once.
 “Obsessive.”
 >>> “You poisoned my arm.”   <-- WHO SAYS THIS?
@@ -208,23 +216,31 @@ Lie.
 Tiny.
 ```
 ```
+Interesting.
 She stored it.
 Shunto said, “You knew the road was a trap.”
-[shunto] “Yes.”
+>>> “Yes.”   <-- WHO SAYS THIS?
+“And took it.”
+“Yes.”
+```
+```
+She stored it.
+Shunto said, “You knew the road was a trap.”
+“Yes.”
 >>> “And took it.”   <-- WHO SAYS THIS?
 “Yes.”
 “Why?”
 ```
 ```
 Shunto said, “You knew the road was a trap.”
-[shunto] “Yes.”
+“Yes.”
 “And took it.”
 >>> “Yes.”   <-- WHO SAYS THIS?
 “Why?”
 “Because you did your job well.”
 ```
 ```
-[shunto] “Yes.”
+“Yes.”
 “And took it.”
 “Yes.”
 >>> “Why?”   <-- WHO SAYS THIS?
@@ -707,23 +723,31 @@ He exhaled through his nose.
 Good.
 ```
 ```
+Not weakness enough to matter in a fight.
 Information enough to matter later.
 Shunto said, “You think silence protects Wuyue.”
-[shunto] “It protects accuracy.”
+>>> “It protects accuracy.”   <-- WHO SAYS THIS?
+“Accuracy?”
+“If I tell you a lie and you believe it, that is your problem. If I tell you a truth because you frighten me, that becomes mine.”
+```
+```
+Information enough to matter later.
+Shunto said, “You think silence protects Wuyue.”
+“It protects accuracy.”
 >>> “Accuracy?”   <-- WHO SAYS THIS?
 “If I tell you a lie and you believe it, that is your problem. If I tell you a truth because you frighten me, that becomes mine.”
 “You are frightened.”
 ```
 ```
 Shunto said, “You think silence protects Wuyue.”
-[shunto] “It protects accuracy.”
+“It protects accuracy.”
 “Accuracy?”
 >>> “If I tell you a lie and you believe it, that is your problem. If I tell you a truth because you frighten me, that becomes mine.”   <-- WHO SAYS THIS?
 “You are frightened.”
 Yun met his eyes.
 ```
 ```
-[shunto] “It protects accuracy.”
+“It protects accuracy.”
 “Accuracy?”
 “If I tell you a lie and you believe it, that is your problem. If I tell you a truth because you frighten me, that becomes mine.”
 >>> “You are frightened.”   <-- WHO SAYS THIS?
@@ -1228,7 +1252,15 @@ True, perhaps.
 His voice stayed level.
 >>> “And I know wrong when I see it.”   <-- WHO SAYS THIS?
 Yun said, “That is not enough reason to risk a High Paragon.”
-[yun] “For some people it is.”
+“For some people it is.”
+```
+```
+His voice stayed level.
+“And I know wrong when I see it.”
+Yun said, “That is not enough reason to risk a High Paragon.”
+>>> “For some people it is.”   <-- WHO SAYS THIS?
+She hated that answer because part of her wanted to believe it.
+So she did not.
 ```
 ```
 She hated that answer because part of her wanted to believe it.
@@ -1335,7 +1367,15 @@ Yun liked that he understood immediately.
 “Your priority?” Yurushi asked.
 ```
 ```
-[yurushi] “Get me far enough north that I can reach an Isgard-linked route.”
+“No.”
+Yun liked that he understood immediately.
+“Your priority?” Yurushi asked.
+>>> “Get me far enough north that I can reach an Isgard-linked route.”   <-- WHO SAYS THIS?
+There was a pause.
+Longer this time.
+```
+```
+“Get me far enough north that I can reach an Isgard-linked route.”
 There was a pause.
 Longer this time.
 >>> “Isgard.”   <-- WHO SAYS THIS?
@@ -1391,15 +1431,23 @@ Yun sat on the floor beside the door.
 They built the first real plan in whispers.
 ```
 ```
+Better.
 At the end, Yurushi said, “I can create ten minutes.”
 Yun answered, “I need seven.”
-[yun] “Why not take ten?”
+>>> “Why not take ten?”   <-- WHO SAYS THIS?
+“Because if you promise ten, something will happen at eight.”
+A pause.
+```
+```
+At the end, Yurushi said, “I can create ten minutes.”
+Yun answered, “I need seven.”
+“Why not take ten?”
 >>> “Because if you promise ten, something will happen at eight.”   <-- WHO SAYS THIS?
 A pause.
 “Fair.”
 ```
 ```
-[yun] “Why not take ten?”
+“Why not take ten?”
 “Because if you promise ten, something will happen at eight.”
 A pause.
 >>> “Fair.”   <-- WHO SAYS THIS?
@@ -1866,23 +1914,31 @@ The annex bell rang once.
 Their hour was ending.
 ```
 ```
+That made his help more believable.
 It also made the risk heavier.
 Yun said, “If I get out, Shunto will look for who helped.”
-[yun] “I know.”
+>>> “I know.”   <-- WHO SAYS THIS?
+“He will find something.”
+“I know.”
+```
+```
+It also made the risk heavier.
+Yun said, “If I get out, Shunto will look for who helped.”
+“I know.”
 >>> “He will find something.”   <-- WHO SAYS THIS?
 “I know.”
 “You could leave with me.”
 ```
 ```
 Yun said, “If I get out, Shunto will look for who helped.”
-[yun] “I know.”
+“I know.”
 “He will find something.”
 >>> “I know.”   <-- WHO SAYS THIS?
 “You could leave with me.”
 Yurushi looked toward the false panel.
 ```
 ```
-[yun] “I know.”
+“I know.”
 “He will find something.”
 “I know.”
 >>> “You could leave with me.”   <-- WHO SAYS THIS?
@@ -1933,23 +1989,31 @@ He stood across from her desk in a dark travel coat that had been repaired at th
 Hana noticed because she had once repaired his sword wrappings for four years and therefore possessed the deeply irritating ability to recognize his maintenance habits at a glance.
 ```
 ```
+He noticed her noticing.
 Neither commented.
 Hana said, “What do you want?”
-[hana] “One patrol moved.”
+>>> “One patrol moved.”   <-- WHO SAYS THIS?
+“Which?”
+“Eastern medical corridor. Third bell rotation.”
+```
+```
+Neither commented.
+Hana said, “What do you want?”
+“One patrol moved.”
 >>> “Which?”   <-- WHO SAYS THIS?
 “Eastern medical corridor. Third bell rotation.”
 “Why?”
 ```
 ```
 Hana said, “What do you want?”
-[hana] “One patrol moved.”
+“One patrol moved.”
 “Which?”
 >>> “Eastern medical corridor. Third bell rotation.”   <-- WHO SAYS THIS?
 “Why?”
 Yurushi was quiet.
 ```
 ```
-[hana] “One patrol moved.”
+“One patrol moved.”
 “Which?”
 “Eastern medical corridor. Third bell rotation.”
 >>> “Why?”   <-- WHO SAYS THIS?
@@ -2109,15 +2173,23 @@ His eyes met hers.
 He did not need to say it.
 ```
 ```
+Not a rebellion.
+One patrol.
 Hana said, “Who is she?”
-[hana] “I do not know exactly.”
+>>> “I do not know exactly.”   <-- WHO SAYS THIS?
+That surprised her.
+“You are helping someone whose name you do not know.”
+```
+```
+Hana said, “Who is she?”
+“I do not know exactly.”
 That surprised her.
 >>> “You are helping someone whose name you do not know.”   <-- WHO SAYS THIS?
 “Yes.”
 “Why?”
 ```
 ```
-[hana] “I do not know exactly.”
+“I do not know exactly.”
 That surprised her.
 “You are helping someone whose name you do not know.”
 >>> “Yes.”   <-- WHO SAYS THIS?
@@ -2520,23 +2592,31 @@ The man opened a freight panel.
 No questions.
 ```
 ```
+Early.
 Shunto knew.
 Yun said, “How far to the old clan path?”
-[yun] “Three districts.”
+>>> “Three districts.”   <-- WHO SAYS THIS?
+“Too far.”
+“Alternative?”
+```
+```
+Shunto knew.
+Yun said, “How far to the old clan path?”
+“Three districts.”
 >>> “Too far.”   <-- WHO SAYS THIS?
 “Alternative?”
 “Clinic exchange yard.”
 ```
 ```
 Yun said, “How far to the old clan path?”
-[yun] “Three districts.”
+“Three districts.”
 “Too far.”
 >>> “Alternative?”   <-- WHO SAYS THIS?
 “Clinic exchange yard.”
 “That is monitored.”
 ```
 ```
-[yun] “Three districts.”
+“Three districts.”
 “Too far.”
 “Alternative?”
 >>> “Clinic exchange yard.”   <-- WHO SAYS THIS?
@@ -2978,16 +3058,24 @@ There was history again.
 Yun let it rest.
 ```
 ```
+Did not remove it.
 Shunto was still No.2, backed by the state, and Yurushi’s goal was not to fight him openly.
 “Then survive,” Yun said.
-[yun] “I plan to.”
+>>> “I plan to.”   <-- WHO SAYS THIS?
+“You sound like someone who thinks planning matters.”
+“It occasionally helps.”
+```
+```
+Shunto was still No.2, backed by the state, and Yurushi’s goal was not to fight him openly.
+“Then survive,” Yun said.
+“I plan to.”
 >>> “You sound like someone who thinks planning matters.”   <-- WHO SAYS THIS?
 “It occasionally helps.”
 Outside, a bird startled from the lower trees.
 ```
 ```
 “Then survive,” Yun said.
-[yun] “I plan to.”
+“I plan to.”
 “You sound like someone who thinks planning matters.”
 >>> “It occasionally helps.”   <-- WHO SAYS THIS?
 Outside, a bird startled from the lower trees.

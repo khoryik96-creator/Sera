@@ -1,6 +1,6 @@
 # Season 95 — unattributed dialogue
 
-453 quoted lines in this season have no speaker.
+464 quoted lines in this season have no speaker.
 See `README.md` in this folder for what to do with them.
 
 Lines already resolved show their speaker in `[brackets]` for context.
@@ -24,7 +24,23 @@ Huo's voice answered from farther away.
 [huo] “They surprised me.”
 ```
 ```
-[luo] “That is because you are both standing in front of the register.”
+Qin's expression remained perfectly neutral.
+[qin] “I regret walking outside.”
+“You walked outside because you brought tea,” Sera said.
+>>> “I can regret several things.”   <-- WHO SAYS THIS?
+Rhen tasted the tea.
+It was good.
+```
+```
+Sera leaned against the counter.
+[sera] “You two are blocking paying customers.”
+“There are no paying customers here,” Luo said.
+>>> “That is because you are both standing in front of the register.”   <-- WHO SAYS THIS?
+Yun glanced around.
+[yun] “Rhen never charges injured people.”
+```
+```
+“That is because you are both standing in front of the register.”
 Yun glanced around.
 [yun] “Rhen never charges injured people.”
 >>> “Rhen doesn't charge anyone properly.”   <-- WHO SAYS THIS?
@@ -1212,26 +1228,34 @@ Rhen returned to the bedside.
 The man hesitated.
 >>> “That it would make me stronger.”   <-- WHO SAYS THIS?
 “For how long?” Luo asked.
-[luo] “Minutes.”
+“Minutes.”
+```
+```
+The man hesitated.
+“That it would make me stronger.”
+“For how long?” Luo asked.
+>>> “Minutes.”   <-- WHO SAYS THIS?
+“What cost?”
+“Sickness after.”
 ```
 ```
 “That it would make me stronger.”
 “For how long?” Luo asked.
-[luo] “Minutes.”
+“Minutes.”
 >>> “What cost?”   <-- WHO SAYS THIS?
 “Sickness after.”
 “How much sickness?”
 ```
 ```
 “For how long?” Luo asked.
-[luo] “Minutes.”
+“Minutes.”
 “What cost?”
 >>> “Sickness after.”   <-- WHO SAYS THIS?
 “How much sickness?”
 “A day. Maybe two.”
 ```
 ```
-[luo] “Minutes.”
+“Minutes.”
 “What cost?”
 “Sickness after.”
 >>> “How much sickness?”   <-- WHO SAYS THIS?
@@ -1538,8 +1562,16 @@ The courier blinked.
 Sera said, “He means useful.”
 ```
 ```
+“Good.”
+The courier blinked.
 Sera said, “He means useful.”
-[sera] “I said good.”
+>>> “I said good.”   <-- WHO SAYS THIS?
+The courier continued.
+“Seal matches an Isgard epidemic clinic destroyed by fire eight months earlier.”
+```
+```
+Sera said, “He means useful.”
+“I said good.”
 The courier continued.
 >>> “Seal matches an Isgard epidemic clinic destroyed by fire eight months earlier.”   <-- WHO SAYS THIS?
 Lu tapped the manifest.
@@ -1671,7 +1703,15 @@ Sera pointed at him.
 [sera] “It is the carpenter.”
 >>> “It is not the carpenter.”   <-- WHO SAYS THIS?
 Qin said, “You look disappointed.”
-[qin] “I am surrounded by children.”
+“I am surrounded by children.”
+```
+```
+[sera] “It is the carpenter.”
+“It is not the carpenter.”
+Qin said, “You look disappointed.”
+>>> “I am surrounded by children.”   <-- WHO SAYS THIS?
+Lu drew one invoice forward.
+[luweiran] “Same wax supplier. Same ceramic ampoule maker. Same transit insurer.”
 ```
 ```
 [luweiran] “Same wax supplier. Same ceramic ampoule maker. Same transit insurer.”
@@ -1882,16 +1922,24 @@ Luo opened the notebook without setting it down.
 [luo] “We think the first layer drives circulation. Another suppresses distress. A delayed component extends the high-output state after tissue begins failing.”
 ```
 ```
+Luo opened the notebook without setting it down.
 [luo] “We think the first layer drives circulation. Another suppresses distress. A delayed component extends the high-output state after tissue begins failing.”
 “How long?” Sera asked.
-[sera] “Unknown.”
+>>> “Unknown.”   <-- WHO SAYS THIS?
+“Cost?”
+“Unknown.”
+```
+```
+[luo] “We think the first layer drives circulation. Another suppresses distress. A delayed component extends the high-output state after tissue begins failing.”
+“How long?” Sera asked.
+“Unknown.”
 >>> “Cost?”   <-- WHO SAYS THIS?
 “Unknown.”
 Lu's expression remained flat.
 ```
 ```
 “How long?” Sera asked.
-[sera] “Unknown.”
+“Unknown.”
 “Cost?”
 >>> “Unknown.”   <-- WHO SAYS THIS?
 Lu's expression remained flat.
@@ -1978,8 +2026,16 @@ Yun's expression sharpened.
 Lu continued.
 ```
 ```
+Lu continued.
+[luweiran] “Every record I have is middle.”
 “Meaning?” Luo asked.
-[luo] “Meaning somebody did not merely hide the cargo.”
+>>> “Meaning somebody did not merely hide the cargo.”   <-- WHO SAYS THIS?
+He tapped the far edge of the sea lane.
+“They hid the country it came from behind enough legitimate trade that nobody bothered asking.”
+```
+```
+“Meaning?” Luo asked.
+“Meaning somebody did not merely hide the cargo.”
 He tapped the far edge of the sea lane.
 >>> “They hid the country it came from behind enough legitimate trade that nobody bothered asking.”   <-- WHO SAYS THIS?
 The room went quiet.
@@ -2178,7 +2234,15 @@ Yun's mouth flattened.
 Dae nodded.
 >>> “The broker said it wasn't a breakthrough. Just... access.”   <-- WHO SAYS THIS?
 “To what?” Luo asked.
-[luo] “Everything I already had.”
+“Everything I already had.”
+```
+```
+Dae nodded.
+“The broker said it wasn't a breakthrough. Just... access.”
+“To what?” Luo asked.
+>>> “Everything I already had.”   <-- WHO SAYS THIS?
+Rhen's gaze sharpened slightly.
+That was closer to the truth than the broker probably understood.
 ```
 ```
 That was closer to the truth than the broker probably understood.
@@ -2322,18 +2386,26 @@ Dae swallowed.
 “Then?”
 >>> “I woke up the next afternoon.”   <-- WHO SAYS THIS?
 Luo asked, “What were you told recovery would be?”
-[luo] “Two days tired. Maybe nausea.”
+“Two days tired. Maybe nausea.”
+```
+```
+“Then?”
+“I woke up the next afternoon.”
+Luo asked, “What were you told recovery would be?”
+>>> “Two days tired. Maybe nausea.”   <-- WHO SAYS THIS?
+“Anything about future vitality?”
+Dae frowned.
 ```
 ```
 “I woke up the next afternoon.”
 Luo asked, “What were you told recovery would be?”
-[luo] “Two days tired. Maybe nausea.”
+“Two days tired. Maybe nausea.”
 >>> “Anything about future vitality?”   <-- WHO SAYS THIS?
 Dae frowned.
 “No.”
 ```
 ```
-[luo] “Two days tired. Maybe nausea.”
+“Two days tired. Maybe nausea.”
 “Anything about future vitality?”
 Dae frowned.
 >>> “No.”   <-- WHO SAYS THIS?
@@ -2685,23 +2757,31 @@ Everyone looked at him again.
 “A chart?” Luo asked.
 ```
 ```
+“The broker had a chart.”
 Everyone looked at him again.
 “A chart?” Luo asked.
-[luo] “Different colors. Different weights.”
+>>> “Different colors. Different weights.”   <-- WHO SAYS THIS?
+“How many?”
+“I don't know. Rows.”
+```
+```
+Everyone looked at him again.
+“A chart?” Luo asked.
+“Different colors. Different weights.”
 >>> “How many?”   <-- WHO SAYS THIS?
 “I don't know. Rows.”
 “Did he choose your ampoule from the chart?”
 ```
 ```
 “A chart?” Luo asked.
-[luo] “Different colors. Different weights.”
+“Different colors. Different weights.”
 “How many?”
 >>> “I don't know. Rows.”   <-- WHO SAYS THIS?
 “Did he choose your ampoule from the chart?”
 “Yes.”
 ```
 ```
-[luo] “Different colors. Different weights.”
+“Different colors. Different weights.”
 “How many?”
 “I don't know. Rows.”
 >>> “Did he choose your ampoule from the chart?”   <-- WHO SAYS THIS?
@@ -2928,9 +3008,17 @@ The smile vanished.
 Sera covered her mouth.
 ```
 ```
+Xie pointed at him.
 [xie_wuchen] “He was about to be killed.”
 “We noticed,” Lu said.
-[luweiran] “So I helped.”
+>>> “So I helped.”   <-- WHO SAYS THIS?
+“Why?”
+Xie looked at him.
+```
+```
+[xie_wuchen] “He was about to be killed.”
+“We noticed,” Lu said.
+“So I helped.”
 >>> “Why?”   <-- WHO SAYS THIS?
 Xie looked at him.
 [xie_wuchen] “Because he was about to be killed.”

@@ -123,10 +123,9 @@ function addDialogueHints(body, aliases) {
     if (!paragraph) continue;
 
     if (!isStandaloneDialogue(paragraph)) {
-      const explicit = attributedSpeaker(paragraph, aliases);
-      const subject = subjectSpeaker(paragraph, aliases);
-      announced = announcedSpeaker(paragraph, aliases);
-      focusSpeaker = explicit || subject;
+      const narrationOnly = !paragraph.includes('“');
+      announced = narrationOnly ? announcedSpeaker(paragraph, aliases) : null;
+      focusSpeaker = narrationOnly ? subjectSpeaker(paragraph, aliases) : null;
       continue;
     }
 

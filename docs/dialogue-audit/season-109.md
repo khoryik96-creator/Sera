@@ -1,6 +1,6 @@
 # Season 109 — unattributed dialogue
 
-555 quoted lines in this season have no speaker.
+569 quoted lines in this season have no speaker.
 See `README.md` in this folder for what to do with them.
 
 Lines already resolved show their speaker in `[brackets]` for context.
@@ -310,6 +310,14 @@ A faint smile touched Rhen's mouth.
 >>> “Good for her.”   <-- WHO SAYS THIS?
 Lu almost told him that Sigrun had then used that new Dominion to keep moving while her body accumulated damage it should not have survived.
 He decided that could wait five seconds.
+```
+```
+Then he told him anyway.
+The smile disappeared.
+“Who ran Isgard?” Rhen asked.
+>>> “Someone had to.”   <-- WHO SAYS THIS?
+Lu moved a grey marker into the center.
+[luweiran] “Solveig Skeldran. High Sovereign. Acting War Commander. Varok took mobile field command. Brynja held the coast. Astrid kept hidden roads and recon alive.”
 ```
 ```
 [rhen] “Right.”
@@ -971,6 +979,14 @@ Huo looked from one to the other.
 [huo] “I missed this.”
 ```
 ```
+Huo looked from one to the other.
+[huo] “I missed this.”
+“You were here,” Tae said.
+>>> “I missed him annoying you.”   <-- WHO SAYS THIS?
+Rhen dismissed the petal.
+Qin's fingers slowly lowered.
+```
+```
 Qin chose his words carefully.
 [qin] “Before, even when you suppressed yourself, I could feel where the absence was. Like a bell wrapped in cloth. You hid the sound, but the shape was still there.”
 He turned his face toward Rhen.
@@ -995,7 +1011,15 @@ Huo's grin faded.
 Tae uncrossed his arms.
 ```
 ```
-[qin] “You fought them separately.”
+Qin went very still.
+[rhen] “Two of them,” Rhen said. “Haru and Hana.”
+“Yes,” Qin replied.
+>>> “You fought them separately.”   <-- WHO SAYS THIS?
+Tae nodded.
+[tae] “Mostly.”
+```
+```
+“You fought them separately.”
 Tae nodded.
 [tae] “Mostly.”
 >>> “Why?”   <-- WHO SAYS THIS?
@@ -1099,23 +1123,31 @@ The room quieted again.
 Rhen looked at all three.
 ```
 ```
+People who had held Wuyue while the strongest public fighters were gone.
 Rhen smiled faintly.
 “What?” Tae asked suspiciously.
-[tae] “Nothing.”
+>>> “Nothing.”   <-- WHO SAYS THIS?
+“I hate when you say that.”
+“You hated when I said things too.”
+```
+```
+Rhen smiled faintly.
+“What?” Tae asked suspiciously.
+“Nothing.”
 >>> “I hate when you say that.”   <-- WHO SAYS THIS?
 “You hated when I said things too.”
 “That is because most things you say are irritating.”
 ```
 ```
 “What?” Tae asked suspiciously.
-[tae] “Nothing.”
+“Nothing.”
 “I hate when you say that.”
 >>> “You hated when I said things too.”   <-- WHO SAYS THIS?
 “That is because most things you say are irritating.”
 “Consistent.”
 ```
 ```
-[tae] “Nothing.”
+“Nothing.”
 “I hate when you say that.”
 “You hated when I said things too.”
 >>> “That is because most things you say are irritating.”   <-- WHO SAYS THIS?
@@ -1192,7 +1224,15 @@ Lu spoke without lifting his head.
 [luweiran] “Four times.”
 >>> “Those were separate emergencies.”   <-- WHO SAYS THIS?
 “What emergencies?” Tae asked.
-[tae] “I was thirsty.”
+“I was thirsty.”
+```
+```
+[luweiran] “Four times.”
+“Those were separate emergencies.”
+“What emergencies?” Tae asked.
+>>> “I was thirsty.”   <-- WHO SAYS THIS?
+Rhen nodded gravely.
+[rhen] “Serious.”
 ```
 ```
 [rhen] “Serious.”
@@ -1308,16 +1348,24 @@ Then back at Rhen.
 The quartermaster vanished.
 ```
 ```
+Yurushi watched him go.
 [yurushi] “I think he dislikes me.”
 “He likes systems,” Lu said.
-[luweiran] “So do I.”
+>>> “So do I.”   <-- WHO SAYS THIS?
+“You change his.”
+“Only when they're wrong.”
+```
+```
+[yurushi] “I think he dislikes me.”
+“He likes systems,” Lu said.
+“So do I.”
 >>> “You change his.”   <-- WHO SAYS THIS?
 “Only when they're wrong.”
 Lu pinched the bridge of his nose.
 ```
 ```
 “He likes systems,” Lu said.
-[luweiran] “So do I.”
+“So do I.”
 “You change his.”
 >>> “Only when they're wrong.”   <-- WHO SAYS THIS?
 Lu pinched the bridge of his nose.
@@ -1356,6 +1404,14 @@ Yurushi looked at him.
 [yurushi] “She needed help.”
 ```
 ```
+Rhen waited.
+Yurushi waited back.
+“That is all?” Rhen asked.
+>>> “Was there supposed to be more?”   <-- WHO SAYS THIS?
+Lu looked away because he had already heard this exchange once from Sera and apparently the world had decided he deserved it twice.
+Rhen smiled.
+```
+```
 No promise of repayment.
 Yurushi's face changed more than it had since Rhen arrived.
 He looked down at the crate between them.
@@ -1372,9 +1428,17 @@ That answer was immediate.
 Yurushi looked up.
 ```
 ```
+Yurushi blinked.
 Lu closed his eyes.
 Rhen continued, “She didn't know you.”
-[rhen] “I know.”
+>>> “I know.”   <-- WHO SAYS THIS?
+“What did she use?”
+Yurushi looked almost offended.
+```
+```
+Lu closed his eyes.
+Rhen continued, “She didn't know you.”
+“I know.”
 >>> “What did she use?”   <-- WHO SAYS THIS?
 Yurushi looked almost offended.
 [yurushi] “That's your question?”
@@ -1593,12 +1657,20 @@ Rhen understood the boundary.
 He did not push through it simply because he could.
 >>> “Send it.”   <-- WHO SAYS THIS?
 “I am,” Lu said.
-[luweiran] “Today.”
+“Today.”
+```
+```
+He did not push through it simply because he could.
+“Send it.”
+“I am,” Lu said.
+>>> “Today.”   <-- WHO SAYS THIS?
+“It leaves in an hour.”
+Rhen nodded.
 ```
 ```
 “Send it.”
 “I am,” Lu said.
-[luweiran] “Today.”
+“Today.”
 >>> “It leaves in an hour.”   <-- WHO SAYS THIS?
 Rhen nodded.
 Yurushi looked at him for a long moment.
@@ -1759,23 +1831,31 @@ Rhen followed him toward the kitchens.
 ### Chapter 445 — North Without an Army
 
 ```
+Rhen finished one bowl of rice porridge, two steamed buns, half a plate of pickled greens and something Tae insisted was medicinal beef despite smelling strongly of pepper and bad judgment.
 Lu watched the entire process.
 “This is excessive,” Rhen said.
-[rhen] “You were sealed in stone for six months.”
+>>> “You were sealed in stone for six months.”   <-- WHO SAYS THIS?
+“I was not starving.”
+“You were not eating.”
+```
+```
+Lu watched the entire process.
+“This is excessive,” Rhen said.
+“You were sealed in stone for six months.”
 >>> “I was not starving.”   <-- WHO SAYS THIS?
 “You were not eating.”
 “My body was maintaining itself.”
 ```
 ```
 “This is excessive,” Rhen said.
-[rhen] “You were sealed in stone for six months.”
+“You were sealed in stone for six months.”
 “I was not starving.”
 >>> “You were not eating.”   <-- WHO SAYS THIS?
 “My body was maintaining itself.”
 “That sentence is exactly why normal people don't trust cultivators.”
 ```
 ```
-[rhen] “You were sealed in stone for six months.”
+“You were sealed in stone for six months.”
 “I was not starving.”
 “You were not eating.”
 >>> “My body was maintaining itself.”   <-- WHO SAYS THIS?
@@ -3464,9 +3544,17 @@ Aya gave him a flat look.
 [aya] “Yes.”
 ```
 ```
+Aya felt it too through Hundred Pulse.
 “Sector Seven,” she said instantly.
 “Fourth row,” Rhen answered.
-[rhen] “Paragon-level circulation instability.”
+>>> “Paragon-level circulation instability.”   <-- WHO SAYS THIS?
+“Not Paragon. Sovereign. Dense foundation.”
+Aya looked at him.
+```
+```
+“Sector Seven,” she said instantly.
+“Fourth row,” Rhen answered.
+“Paragon-level circulation instability.”
 >>> “Not Paragon. Sovereign. Dense foundation.”   <-- WHO SAYS THIS?
 Aya looked at him.
 He was right.
@@ -3504,23 +3592,31 @@ Aya looked up at the Sanctuary.
 [aya] “Can anything restore it?”
 ```
 ```
+She did not press.
 For several breaths they stood beside the sleeping officer.
 Then Aya said, “I started writing the numbers into every Redline record.”
-[aya] “I heard.”
+>>> “I heard.”   <-- WHO SAYS THIS?
+“Command objected.”
+“I heard that too.”
+```
+```
+For several breaths they stood beside the sleeping officer.
+Then Aya said, “I started writing the numbers into every Redline record.”
+“I heard.”
 >>> “Command objected.”   <-- WHO SAYS THIS?
 “I heard that too.”
 “I am telling the soldiers now.”
 ```
 ```
 Then Aya said, “I started writing the numbers into every Redline record.”
-[aya] “I heard.”
+“I heard.”
 “Command objected.”
 >>> “I heard that too.”   <-- WHO SAYS THIS?
 “I am telling the soldiers now.”
 “Good.”
 ```
 ```
-[aya] “I heard.”
+“I heard.”
 “Command objected.”
 “I heard that too.”
 >>> “I am telling the soldiers now.”   <-- WHO SAYS THIS?
@@ -3784,7 +3880,15 @@ Stable.
 She looked toward the north.
 >>> “Where is Solveig?”   <-- WHO SAYS THIS?
 “Working,” Sera said.
-[sera] “Of course she is.”
+“Of course she is.”
+```
+```
+She looked toward the north.
+“Where is Solveig?”
+“Working,” Sera said.
+>>> “Of course she is.”   <-- WHO SAYS THIS?
+Sigrun Veyrhald was harder.
+Not medically.
 ```
 ```
 Sigrun turned.
@@ -4302,9 +4406,17 @@ Aya's face tightened.
 Rhen looked at Jin.
 ```
 ```
+Jin paused.
 Then looked annoyed.
 “What?” Rhen asked.
-[rhen] “Nothing.”
+>>> “Nothing.”   <-- WHO SAYS THIS?
+“That sounded like something.”
+Sera leaned toward Rhen.
+```
+```
+Then looked annoyed.
+“What?” Rhen asked.
+“Nothing.”
 >>> “That sounded like something.”   <-- WHO SAYS THIS?
 Sera leaned toward Rhen.
 [sera] “He hates praise.”

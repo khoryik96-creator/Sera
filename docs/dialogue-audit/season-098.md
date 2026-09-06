@@ -1,6 +1,6 @@
 # Season 98 — unattributed dialogue
 
-117 quoted lines in this season have no speaker.
+118 quoted lines in this season have no speaker.
 See `README.md` in this folder for what to do with them.
 
 Lines already resolved show their speaker in `[brackets]` for context.
@@ -936,9 +936,17 @@ Of course.
 She had stopped circling archives.
 ```
 ```
+He had not decoded the intelligence.
 He had decoded her.
 Shunto said, “Give me the material.”
-[shunto] “No.”
+>>> “No.”   <-- WHO SAYS THIS?
+“The notebook.”
+Yun’s eyes cooled.
+```
+```
+He had decoded her.
+Shunto said, “Give me the material.”
+“No.”
 >>> “The notebook.”   <-- WHO SAYS THIS?
 Yun’s eyes cooled.
 There.

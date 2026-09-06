@@ -1,6 +1,6 @@
 # Season 106 — unattributed dialogue
 
-267 quoted lines in this season have no speaker.
+269 quoted lines in this season have no speaker.
 See `README.md` in this folder for what to do with them.
 
 Lines already resolved show their speaker in `[brackets]` for context.
@@ -1893,23 +1893,31 @@ He smiled.
 She sat beside him.
 ```
 ```
+She sat beside him.
 For several breaths neither spoke.
 Then Eldran asked:
-[eldran] “Eirik?”
+>>> “Eirik?”   <-- WHO SAYS THIS?
+“Soon.”
+“Aldric?”
+```
+```
+For several breaths neither spoke.
+Then Eldran asked:
+“Eirik?”
 >>> “Soon.”   <-- WHO SAYS THIS?
 “Aldric?”
 “With me.”
 ```
 ```
 Then Eldran asked:
-[eldran] “Eirik?”
+“Eirik?”
 “Soon.”
 >>> “Aldric?”   <-- WHO SAYS THIS?
 “With me.”
 “Good.”
 ```
 ```
-[eldran] “Eirik?”
+“Eirik?”
 “Soon.”
 “Aldric?”
 >>> “With me.”   <-- WHO SAYS THIS?
@@ -2137,6 +2145,14 @@ He set the tray down.
 >>> “Aya is a Paragon physician. Her ceiling is higher.”   <-- WHO SAYS THIS?
 No shame.
 Important.
+```
+```
+All repairable.
+“Shinsei’s manpower advantage isn’t just two hundred thousand trained elites,” Jin said.
+“No,” Sera answered.
+>>> “It’s that killing the same Paragon is apparently required if we want them permanently removed.”   <-- WHO SAYS THIS?
+Silence.
+Sera did not like that conclusion.
 ```
 ```
 Not because it was tactically false.

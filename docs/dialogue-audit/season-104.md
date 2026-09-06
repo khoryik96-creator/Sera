@@ -1,6 +1,6 @@
 # Season 104 — unattributed dialogue
 
-229 quoted lines in this season have no speaker.
+233 quoted lines in this season have no speaker.
 See `README.md` in this folder for what to do with them.
 
 Lines already resolved show their speaker in `[brackets]` for context.
@@ -334,9 +334,17 @@ Nine rotating structures.
 ### Chapter 393 — Huo Changes the Answer
 
 ```
+The second cut his shoulder.
 Hana passed him.
 “Not bad,” Huo said.
-[huo] “Stop complimenting us.”
+>>> “Stop complimenting us.”   <-- WHO SAYS THIS?
+“No.”
+She attacked again.
+```
+```
+Hana passed him.
+“Not bad,” Huo said.
+“Stop complimenting us.”
 >>> “No.”   <-- WHO SAYS THIS?
 She attacked again.
 Hollow Sky Dominion returned.
@@ -408,6 +416,14 @@ Everyone stopped.
 
 ### Chapter 394 — Qin Ends the First Attack
 
+```
+Another echo returned.
+Haru’s face changed.
+“Do less,” Hana said.
+>>> “I know.”   <-- WHO SAYS THIS?
+They reduced aggression.
+Immediately.
+```
 ```
 Finally.
 Qin heard the shift in their posture.
@@ -889,10 +905,18 @@ Judgement.
 He walked to the table.
 >>> “Not Stonecrown itself.”   <-- WHO SAYS THIS?
 “Why?” Tae asked.
-[tae] “Too much fixed weight. Even without Kael, thirty-eight thousand plus fortress systems. Haru does not enjoy problems that cannot be narrowed.”
+“Too much fixed weight. Even without Kael, thirty-eight thousand plus fortress systems. Haru does not enjoy problems that cannot be narrowed.”
 ```
 ```
-[tae] “Too much fixed weight. Even without Kael, thirty-eight thousand plus fortress systems. Haru does not enjoy problems that cannot be narrowed.”
+He walked to the table.
+“Not Stonecrown itself.”
+“Why?” Tae asked.
+>>> “Too much fixed weight. Even without Kael, thirty-eight thousand plus fortress systems. Haru does not enjoy problems that cannot be narrowed.”   <-- WHO SAYS THIS?
+Huo looked at him.
+[huo] “You know him?”
+```
+```
+“Too much fixed weight. Even without Kael, thirty-eight thousand plus fortress systems. Haru does not enjoy problems that cannot be narrowed.”
 Huo looked at him.
 [huo] “You know him?”
 >>> “Enough.”   <-- WHO SAYS THIS?
@@ -1330,16 +1354,24 @@ Yurushi stopped smiling.
 Fair.
 ```
 ```
+Light intensified across two roofs.
 Haru looked upward.
 “What?” Hana asked.
-[hana] “He changed scale.”
+>>> “He changed scale.”   <-- WHO SAYS THIS?
+“Yes.”
+“Why?”
+```
+```
+Haru looked upward.
+“What?” Hana asked.
+“He changed scale.”
 >>> “Yes.”   <-- WHO SAYS THIS?
 “Why?”
 Hana understood before he did.
 ```
 ```
 “What?” Hana asked.
-[hana] “He changed scale.”
+“He changed scale.”
 “Yes.”
 >>> “Why?”   <-- WHO SAYS THIS?
 Hana understood before he did.

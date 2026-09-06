@@ -1,6 +1,6 @@
 # Season 107 — unattributed dialogue
 
-142 quoted lines in this season have no speaker.
+145 quoted lines in this season have no speaker.
 See `README.md` in this folder for what to do with them.
 
 Lines already resolved show their speaker in `[brackets]` for context.
@@ -194,9 +194,17 @@ Jun did not move.
 Aya eventually looked up.
 ```
 ```
+Sigrun returning after Kenji nearly killed her.
 People on the other side kept paying costs that Aya could erase from Shinsei bodies but not from theirs.
 “I used to think recovery meant we were harder to defeat,” Jun said.
-[jun] “We are.”
+>>> “We are.”   <-- WHO SAYS THIS?
+“That is not what I mean.”
+Aya put the brush down.
+```
+```
+People on the other side kept paying costs that Aya could erase from Shinsei bodies but not from theirs.
+“I used to think recovery meant we were harder to defeat,” Jun said.
+“We are.”
 >>> “That is not what I mean.”   <-- WHO SAYS THIS?
 Aya put the brush down.
 Jun continued. “Kael beat me. I came back before I was ready. Then I finished healing anyway. Kenji loses and you rebuild him. Eirik gets hurt and comes back. We keep treating the fact that we can stand again as proof we should keep standing in the same place.”
@@ -432,23 +440,31 @@ Then blood filled his mouth.
 ### Chapter 424 — The Unseen Gale Takes Number Ten Into Battle
 
 ```
+Xie Wuchen had no Dominion.
 This became extremely relevant while carrying Shen Rui through a collapsing war zone chased by people who did.
 “Put me down,” Rui said.
-[rui] “No.”
+>>> “No.”   <-- WHO SAYS THIS?
+“I can run.”
+“You are leaking.”
+```
+```
+This became extremely relevant while carrying Shen Rui through a collapsing war zone chased by people who did.
+“Put me down,” Rui said.
+“No.”
 >>> “I can run.”   <-- WHO SAYS THIS?
 “You are leaking.”
 “That is not technical language.”
 ```
 ```
 “Put me down,” Rui said.
-[rui] “No.”
+“No.”
 “I can run.”
 >>> “You are leaking.”   <-- WHO SAYS THIS?
 “That is not technical language.”
 “It is accurate.”
 ```
 ```
-[rui] “No.”
+“No.”
 “I can run.”
 “You are leaking.”
 >>> “That is not technical language.”   <-- WHO SAYS THIS?
@@ -488,16 +504,24 @@ Behind them, a Shinsei pursuit group gained.
 No official Paragon in direct chase.
 ```
 ```
+He accelerated again.
 Pain sharpened.
 Rui said, “Xie.”
-[rui] “No.”
+>>> “No.”   <-- WHO SAYS THIS?
+“You don’t know what I was going to say.”
+“You were going to tell me to leave you.”
+```
+```
+Pain sharpened.
+Rui said, “Xie.”
+“No.”
 >>> “You don’t know what I was going to say.”   <-- WHO SAYS THIS?
 “You were going to tell me to leave you.”
 Silence.
 ```
 ```
 Rui said, “Xie.”
-[rui] “No.”
+“No.”
 “You don’t know what I was going to say.”
 >>> “You were going to tell me to leave you.”   <-- WHO SAYS THIS?
 Silence.

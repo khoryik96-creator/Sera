@@ -1,6 +1,6 @@
 # Season 103 — unattributed dialogue
 
-336 quoted lines in this season have no speaker.
+338 quoted lines in this season have no speaker.
 See `README.md` in this folder for what to do with them.
 
 Lines already resolved show their speaker in `[brackets]` for context.
@@ -454,16 +454,24 @@ Aldric’s mouth moved.
 Pain stopped the laugh before it formed.
 ```
 ```
+Aldric’s mouth moved.
 Pain stopped the laugh before it formed.
 “Eirik?” Sera asked.
-[sera] “Alive.”
+>>> “Alive.”   <-- WHO SAYS THIS?
+“I know.”
+“Then you know the important part.”
+```
+```
+Pain stopped the laugh before it formed.
+“Eirik?” Sera asked.
+“Alive.”
 >>> “I know.”   <-- WHO SAYS THIS?
 “Then you know the important part.”
 Sera stepped closer.
 ```
 ```
 “Eirik?” Sera asked.
-[sera] “Alive.”
+“Alive.”
 “I know.”
 >>> “Then you know the important part.”   <-- WHO SAYS THIS?
 Sera stepped closer.
@@ -532,6 +540,14 @@ His right hand rested on Maedra’s blanket.
 >>> “Better.”   <-- WHO SAYS THIS?
 His right hand rested on Maedra’s blanket.
 The left remained useless at his side.
+```
+```
+His right hand rested on Maedra’s blanket.
+The left remained useless at his side.
+“Jun?” Sera asked.
+>>> “Breach Dominion.”   <-- WHO SAYS THIS?
+Sera knew the rule from reports.
+If the halberd connected cleanly, armor, guard and ordinary defensive reinforcement stopped meaning what they normally meant.
 ```
 ```
 If the halberd connected cleanly, armor, guard and ordinary defensive reinforcement stopped meaning what they normally meant.

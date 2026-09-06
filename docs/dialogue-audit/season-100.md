@@ -1,6 +1,6 @@
 # Season 100 — unattributed dialogue
 
-387 quoted lines in this season have no speaker.
+399 quoted lines in this season have no speaker.
 See `README.md` in this folder for what to do with them.
 
 Lines already resolved show their speaker in `[brackets]` for context.
@@ -288,23 +288,31 @@ That answer stayed between them.
 Outside, Quaint was beginning to wake.
 ```
 ```
+Ordinary life.
 Rhen listened.
 Sera said, “You are going to close the door.”
-[sera] “Yes.”
+>>> “Yes.”   <-- WHO SAYS THIS?
+“Today?”
+“No.”
+```
+```
+Rhen listened.
+Sera said, “You are going to close the door.”
+“Yes.”
 >>> “Today?”   <-- WHO SAYS THIS?
 “No.”
 “When?”
 ```
 ```
 Sera said, “You are going to close the door.”
-[sera] “Yes.”
+“Yes.”
 “Today?”
 >>> “No.”   <-- WHO SAYS THIS?
 “When?”
 “Soon.”
 ```
 ```
-[sera] “Yes.”
+“Yes.”
 “Today?”
 “No.”
 >>> “When?”   <-- WHO SAYS THIS?
@@ -368,16 +376,24 @@ He took her hand.
 Warm.
 ```
 ```
+Warm.
 The frost in the room had already vanished.
 Rhen said, “I am sorry.”
-[rhen] “For needing medical treatment?”
+>>> “For needing medical treatment?”   <-- WHO SAYS THIS?
+“For timing.”
+“What timing?”
+```
+```
+The frost in the room had already vanished.
+Rhen said, “I am sorry.”
+“For needing medical treatment?”
 >>> “For timing.”   <-- WHO SAYS THIS?
 “What timing?”
 He glanced toward the outer rooms.
 ```
 ```
 Rhen said, “I am sorry.”
-[rhen] “For needing medical treatment?”
+“For needing medical treatment?”
 “For timing.”
 >>> “What timing?”   <-- WHO SAYS THIS?
 He glanced toward the outer rooms.
@@ -1297,23 +1313,31 @@ Tae looked offended.
 [tae] “Why did you look at me?”
 ```
 ```
+The corridor suddenly felt longer.
 Rhen looked at her.
 Sera said, “You owe me rent.”
-[sera] “I remember.”
+>>> “I remember.”   <-- WHO SAYS THIS?
+“And tea.”
+“Yes.”
+```
+```
+Rhen looked at her.
+Sera said, “You owe me rent.”
+“I remember.”
 >>> “And tea.”   <-- WHO SAYS THIS?
 “Yes.”
 “And several months.”
 ```
 ```
 Sera said, “You owe me rent.”
-[sera] “I remember.”
+“I remember.”
 “And tea.”
 >>> “Yes.”   <-- WHO SAYS THIS?
 “And several months.”
 “That may be difficult to return literally.”
 ```
 ```
-[sera] “I remember.”
+“I remember.”
 “And tea.”
 “Yes.”
 >>> “And several months.”   <-- WHO SAYS THIS?
@@ -2109,15 +2133,23 @@ Good.
 Yun closed her eyes.
 ```
 ```
+“Not yet,” she said.
 He looked angry now.
 “At whom?” Yun asked.
-[yun] “You.”
+>>> “You.”   <-- WHO SAYS THIS?
+“Fair.”
+Hallen returned to the chair.
+```
+```
+He looked angry now.
+“At whom?” Yun asked.
+“You.”
 >>> “Fair.”   <-- WHO SAYS THIS?
 Hallen returned to the chair.
 “You said Takamori captured you.”
 ```
 ```
-[yun] “You.”
+“You.”
 “Fair.”
 Hallen returned to the chair.
 >>> “You said Takamori captured you.”   <-- WHO SAYS THIS?
@@ -2344,7 +2376,15 @@ Jin’s eyes sharpened.
 [jin] “Axtaya is institutional. Combat-throughput stimulant. Multiple tiers. High tier approximately three-times throughput for short duration. Future-vitality cost.”
 ```
 ```
-[tae] “Lower bound.”
+[sera] “Wider trained apparatus greater than two hundred thousand. Not one confirmed field army. Peak Marquis common enough within elite cohorts that normal Wuyue scarcity assumptions are unsafe.”
+Silence again.
+Tae said, “Two hundred thousand?”
+>>> “Lower bound.”   <-- WHO SAYS THIS?
+His expression changed.
+Then Sera reached the next line.
+```
+```
+“Lower bound.”
 His expression changed.
 Then Sera reached the next line.
 >>> “Ten ranked Paragon officers.”   <-- WHO SAYS THIS?
@@ -2384,23 +2424,39 @@ Sera said, “Quaint prepares.”
 Qin nodded.
 ```
 ```
+Sera said, “Quaint prepares.”
+Qin nodded.
+Tae said, “All one thousand?”
+>>> “Prepare all. Move only on command.”   <-- WHO SAYS THIS?
 Huo was already halfway through the door.
 “Where are you going?” Tae asked.
-[tae] “To make sure your company does not pack six months of tea and no bandages.”
+```
+```
+“Prepare all. Move only on command.”
+Huo was already halfway through the door.
+“Where are you going?” Tae asked.
+>>> “To make sure your company does not pack six months of tea and no bandages.”   <-- WHO SAYS THIS?
+“That happened once.”
+“Twice.”
+```
+```
+Huo was already halfway through the door.
+“Where are you going?” Tae asked.
+“To make sure your company does not pack six months of tea and no bandages.”
 >>> “That happened once.”   <-- WHO SAYS THIS?
 “Twice.”
 “It was good tea.”
 ```
 ```
 “Where are you going?” Tae asked.
-[tae] “To make sure your company does not pack six months of tea and no bandages.”
+“To make sure your company does not pack six months of tea and no bandages.”
 “That happened once.”
 >>> “Twice.”   <-- WHO SAYS THIS?
 “It was good tea.”
 For one impossible second, Yun would have found that funny.
 ```
 ```
-[tae] “To make sure your company does not pack six months of tea and no bandages.”
+“To make sure your company does not pack six months of tea and no bandages.”
 “That happened once.”
 “Twice.”
 >>> “It was good tea.”   <-- WHO SAYS THIS?
@@ -2544,7 +2600,15 @@ Sera did not punish him for it.
 [sera] “What requires the number?”
 >>> “Public mobilization authority in two eastern formations. They are structured to receive emergency orders through ranked holders or regional sovereign command. We can reroute through Jin, but it creates delay.”   <-- WHO SAYS THIS?
 Jin said, “How much?”
-[jin] “Best case, hours. Worst case, a day if the road relay is interrupted.”
+“Best case, hours. Worst case, a day if the road relay is interrupted.”
+```
+```
+[sera] “What requires the number?”
+“Public mobilization authority in two eastern formations. They are structured to receive emergency orders through ranked holders or regional sovereign command. We can reroute through Jin, but it creates delay.”
+Jin said, “How much?”
+>>> “Best case, hours. Worst case, a day if the road relay is interrupted.”   <-- WHO SAYS THIS?
+A day.
+Yun had died buying them days.
 ```
 ```
 The clerk nodded.
@@ -2718,9 +2782,17 @@ Rui looked at Sera.
 Sera said, “I am enjoying this. Continue.”
 ```
 ```
+That made the answer clearer.
 Sera watched him.
 Rui said, “Hear me.”
-[rui] “I heard enough.”
+>>> “I heard enough.”   <-- WHO SAYS THIS?
+“No, you heard a number.”
+Xie stood again.
+```
+```
+Sera watched him.
+Rui said, “Hear me.”
+“I heard enough.”
 >>> “No, you heard a number.”   <-- WHO SAYS THIS?
 Xie stood again.
 [xie_wuchen] “That number belonged to Yun Shizhen.”
@@ -2798,7 +2870,15 @@ Sera did not answer.
 Rui did.
 ```
 ```
-[huo] “I like hearing it again.”
+Tae leaned toward Huo.
+[tae] “I like him already.”
+Huo whispered, “You knew that.”
+>>> “I like hearing it again.”   <-- WHO SAYS THIS?
+Rui’s stare silenced both.
+Then he looked at Xie.
+```
+```
+“I like hearing it again.”
 Rui’s stare silenced both.
 Then he looked at Xie.
 >>> “You could have killed me.”   <-- WHO SAYS THIS?
@@ -3039,6 +3119,14 @@ He leaned back.
 ### Chapter 360 — The Empty Number Is Still a Number
 
 ```
+Of course it did.
+Tae whispered, “Dramatic.”
+Huo said, “Weather.”
+>>> “Dramatic weather.”   <-- WHO SAYS THIS?
+Qin ignored both.
+Shen Rui stood nearest the front.
+```
+```
 He had said no.
 That was his right.
 The record clerk opened the appointment ledger.
@@ -3063,23 +3151,31 @@ Nobody applauded.
 That would have been wrong.
 ```
 ```
+Xie stared at it.
 [xie_wuchen] “That fast?”
 Jin said, “You wanted the work.”
-[jin] “I did not say wanted.”
+>>> “I did not say wanted.”   <-- WHO SAYS THIS?
+“Accepted.”
+“Different word.”
+```
+```
+[xie_wuchen] “That fast?”
+Jin said, “You wanted the work.”
+“I did not say wanted.”
 >>> “Accepted.”   <-- WHO SAYS THIS?
 “Different word.”
 “Same paperwork.”
 ```
 ```
 Jin said, “You wanted the work.”
-[jin] “I did not say wanted.”
+“I did not say wanted.”
 “Accepted.”
 >>> “Different word.”   <-- WHO SAYS THIS?
 “Same paperwork.”
 Xie took the relay.
 ```
 ```
-[jin] “I did not say wanted.”
+“I did not say wanted.”
 “Accepted.”
 “Different word.”
 >>> “Same paperwork.”   <-- WHO SAYS THIS?

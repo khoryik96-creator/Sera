@@ -1,6 +1,6 @@
 # Season 110 — unattributed dialogue
 
-468 quoted lines in this season have no speaker.
+472 quoted lines in this season have no speaker.
 See `README.md` in this folder for what to do with them.
 
 Lines already resolved show their speaker in `[brackets]` for context.
@@ -1848,9 +1848,17 @@ Yurushi looked at him.
 [yurushi] “What person?”
 ```
 ```
+[luweiran] “You don't need to know.”
 Yurushi stared.
 Lu added, “Neither does the person until the final exchange point.”
-[luweiran] “You are unsettling.”
+>>> “You are unsettling.”   <-- WHO SAYS THIS?
+“Yes.”
+They worked for three hours.
+```
+```
+Yurushi stared.
+Lu added, “Neither does the person until the final exchange point.”
+“You are unsettling.”
 >>> “Yes.”   <-- WHO SAYS THIS?
 They worked for three hours.
 Lu asked the same question five different ways whenever timing mattered.
@@ -2945,23 +2953,31 @@ Tsubasa's voice remained even.
 [tsubasa] “Efficient.”
 ```
 ```
+Tsubasa asked nothing else.
 That was almost insulting.
 “No follow-up?” Shunto said.
-[shunto] “I said once.”
+>>> “I said once.”   <-- WHO SAYS THIS?
+“You came here for one question.”
+“Yes.”
+```
+```
+That was almost insulting.
+“No follow-up?” Shunto said.
+“I said once.”
 >>> “You came here for one question.”   <-- WHO SAYS THIS?
 “Yes.”
 “And you believe me?”
 ```
 ```
 “No follow-up?” Shunto said.
-[shunto] “I said once.”
+“I said once.”
 “You came here for one question.”
 >>> “Yes.”   <-- WHO SAYS THIS?
 “And you believe me?”
 Tsubasa stood.
 ```
 ```
-[shunto] “I said once.”
+“I said once.”
 “You came here for one question.”
 “Yes.”
 >>> “And you believe me?”   <-- WHO SAYS THIS?
@@ -3266,16 +3282,24 @@ Aya rubbed her temple.
 [aya] “We are not overthrowing Shinsei.”
 ```
 ```
+Aya rubbed her temple.
 [aya] “We are not overthrowing Shinsei.”
 “No,” Hana said.
-[hana] “We are not sabotaging the army.”
+>>> “We are not sabotaging the army.”   <-- WHO SAYS THIS?
+“No.”
+“We are not helping Wuyue win battles.”
+```
+```
+[aya] “We are not overthrowing Shinsei.”
+“No,” Hana said.
+“We are not sabotaging the army.”
 >>> “No.”   <-- WHO SAYS THIS?
 “We are not helping Wuyue win battles.”
 Nao hesitated.
 ```
 ```
 “No,” Hana said.
-[hana] “We are not sabotaging the army.”
+“We are not sabotaging the army.”
 “No.”
 >>> “We are not helping Wuyue win battles.”   <-- WHO SAYS THIS?
 Nao hesitated.
@@ -3407,7 +3431,15 @@ Nao's eyes narrowed.
 [nao] “How much?”
 >>> “Enough to suspect. Not enough to prove I knew Yun would use that road.”   <-- WHO SAYS THIS?
 “Did you?” Aya asked.
-[aya] “No.”
+“No.”
+```
+```
+[nao] “How much?”
+“Enough to suspect. Not enough to prove I knew Yun would use that road.”
+“Did you?” Aya asked.
+>>> “No.”   <-- WHO SAYS THIS?
+Hana's answer came cleanly.
+[hana] “I knew civilians were being crushed by the lockdown. I knew Yurushi would resist if he believed Shinsei crossed a line. I shifted patrol pressure because the grain road did not need military harassment.”
 ```
 ```
 Hana's answer came cleanly.

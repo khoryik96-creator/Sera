@@ -1,6 +1,6 @@
 # Season 108 — unattributed dialogue
 
-128 quoted lines in this season have no speaker.
+135 quoted lines in this season have no speaker.
 See `README.md` in this folder for what to do with them.
 
 Lines already resolved show their speaker in `[brackets]` for context.
@@ -56,9 +56,17 @@ Sera looked at the map.
 Shinsei wanted resources partly because it believed Isgard could no longer use them efficiently.
 ```
 ```
+Jin moved supply markers.
 [jin] “We need Wuyue grain shipments increased.”
 “Home reserve?” Sera asked.
-[sera] “Can absorb some. Not indefinitely.”
+>>> “Can absorb some. Not indefinitely.”   <-- WHO SAYS THIS?
+“Then increase trade purchase, not military seizure.”
+Solveig looked at her.
+```
+```
+[jin] “We need Wuyue grain shipments increased.”
+“Home reserve?” Sera asked.
+“Can absorb some. Not indefinitely.”
 >>> “Then increase trade purchase, not military seizure.”   <-- WHO SAYS THIS?
 Solveig looked at her.
 [solveig] “You’ll pay?”
@@ -564,23 +572,31 @@ She sat on the medical crate while he checked her ribs.
 The 120 Quaint had changed around her over six months.
 ```
 ```
+Old Sera might have chosen the Paragon because it was the most dangerous thing.
 Current Sera chose the convoy because destroying it changed more future fights.
 “Send Ilyra?” Jin asked.
-[jin] “Restricted duty.”
+>>> “Restricted duty.”   <-- WHO SAYS THIS?
+“She’ll complain.”
+“She can recover while complaining.”
+```
+```
+Current Sera chose the convoy because destroying it changed more future fights.
+“Send Ilyra?” Jin asked.
+“Restricted duty.”
 >>> “She’ll complain.”   <-- WHO SAYS THIS?
 “She can recover while complaining.”
 “Then?”
 ```
 ```
 “Send Ilyra?” Jin asked.
-[jin] “Restricted duty.”
+“Restricted duty.”
 “She’ll complain.”
 >>> “She can recover while complaining.”   <-- WHO SAYS THIS?
 “Then?”
 “Two Quiet cells, Isgard scouts, no direct engagement if Paragon escort appears.”
 ```
 ```
-[jin] “Restricted duty.”
+“Restricted duty.”
 “She’ll complain.”
 “She can recover while complaining.”
 >>> “Then?”   <-- WHO SAYS THIS?
@@ -921,24 +937,40 @@ Jin slid a second page across the table.
 [jin] “Heaven Gate.”
 ```
 ```
+Kael whistled once.
 [kael] “Annoying.”
 Liang, seated farther back, said, “You call all strong people annoying.”
-[liang] “I call you annoying and you are not even Paragon.”
+>>> “I call you annoying and you are not even Paragon.”   <-- WHO SAYS THIS?
+“Proof the categories are independent.”
+Sera’s mouth almost moved.
+```
+```
+[kael] “Annoying.”
+Liang, seated farther back, said, “You call all strong people annoying.”
+“I call you annoying and you are not even Paragon.”
 >>> “Proof the categories are independent.”   <-- WHO SAYS THIS?
 Sera’s mouth almost moved.
 Jin continued.
 ```
 ```
+It had made him increasingly certain that because his answers worked, he had earned the right to choose the question for everyone else.
 Sera folded the pages.
 “Still good?” Kael asked.
-[kael] “Yes.”
+>>> “Yes.”   <-- WHO SAYS THIS?
+“Why?”
+“Because legends become easier to fight when you know what they actually learned.”
+```
+```
+Sera folded the pages.
+“Still good?” Kael asked.
+“Yes.”
 >>> “Why?”   <-- WHO SAYS THIS?
 “Because legends become easier to fight when you know what they actually learned.”
 Jin looked at her.
 ```
 ```
 “Still good?” Kael asked.
-[kael] “Yes.”
+“Yes.”
 “Why?”
 >>> “Because legends become easier to fight when you know what they actually learned.”   <-- WHO SAYS THIS?
 Jin looked at her.
@@ -996,20 +1028,44 @@ Everyone turned toward him.
 He raised both hands.
 >>> “I asked so nobody else had to.”   <-- WHO SAYS THIS?
 “No,” Lu said.
-[luweiran] “Good.”
+“Good.”
+```
+```
+He raised both hands.
+“I asked so nobody else had to.”
+“No,” Lu said.
+>>> “Good.”   <-- WHO SAYS THIS?
+Nobody woke Rhen.
+Nobody sent Sera a triumphant message claiming he would emerge by sunset.
+```
+```
+**Frost-white petal. Pale-violet radiance. Seal intact. No instability. No intervention.**
+Qin remained several minutes longer.
+“Different?” Tae asked him.
+>>> “Yes.”   <-- WHO SAYS THIS?
+“Dangerous?”
+Qin considered.
 ```
 ```
 Qin remained several minutes longer.
 “Different?” Tae asked him.
-[tae] “Yes.”
+“Yes.”
 >>> “Dangerous?”   <-- WHO SAYS THIS?
 Qin considered.
 [qin] “I cannot tell.”
 ```
 ```
+Huo looked at the stone.
 [huo] “He will be angry we did all this without him.”
 Lu said, “No.”
-[luweiran] “You sound certain.”
+>>> “You sound certain.”   <-- WHO SAYS THIS?
+“He will be angry we did not keep better tea in the lower stores.”
+Tae looked offended.
+```
+```
+[huo] “He will be angry we did all this without him.”
+Lu said, “No.”
+“You sound certain.”
 >>> “He will be angry we did not keep better tea in the lower stores.”   <-- WHO SAYS THIS?
 Tae looked offended.
 [tae] “The lower tea is fine.”

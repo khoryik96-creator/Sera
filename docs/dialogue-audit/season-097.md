@@ -1,6 +1,6 @@
 # Season 97 — unattributed dialogue
 
-216 quoted lines in this season have no speaker.
+225 quoted lines in this season have no speaker.
 See `README.md` in this folder for what to do with them.
 
 Lines already resolved show their speaker in `[brackets]` for context.
@@ -211,7 +211,15 @@ The shop laughed.
 Yun lowered her eyes.
 ```
 ```
-[yun] “Then perhaps the country is rude.”
+An old fisherman had sat three paces away without asking permission.
+He held a bamboo pole and smelled strongly of river water.
+Yun said, “My math is usually polite.”
+>>> “Then perhaps the country is rude.”   <-- WHO SAYS THIS?
+She looked at him.
+He grinned.
+```
+```
+“Then perhaps the country is rude.”
 She looked at him.
 He grinned.
 >>> “Foreign?”   <-- WHO SAYS THIS?
@@ -638,9 +646,17 @@ Rhen looked toward the dark window.
 [rhen] “Not while Yun is overdue.”
 ```
 ```
+Luo had become frighteningly quiet.
 No message.
 Sera said, “This is unrelated.”
-[sera] “Yes.”
+>>> “Yes.”   <-- WHO SAYS THIS?
+“You’re not delaying because you think I’ll need you.”
+Rhen turned his head.
+```
+```
+No message.
+Sera said, “This is unrelated.”
+“Yes.”
 >>> “You’re not delaying because you think I’ll need you.”   <-- WHO SAYS THIS?
 Rhen turned his head.
 She was watching him closely.
@@ -988,23 +1004,31 @@ His smile widened.
 Yun watched his feet.
 ```
 ```
+Yun had prepared the building as a contingency after finding the address in a clerk’s ledger.
 She had not expected Shunto specifically. She had prepared the room because survival favored people who prepared before they needed to.
 Shunto said, “Come with me.”
-[shunto] “No.”
+>>> “No.”   <-- WHO SAYS THIS?
+“I am asking once.”
+“How ceremonial.”
+```
+```
+She had not expected Shunto specifically. She had prepared the room because survival favored people who prepared before they needed to.
+Shunto said, “Come with me.”
+“No.”
 >>> “I am asking once.”   <-- WHO SAYS THIS?
 “How ceremonial.”
 “You are a foreign ranked officer inside restricted Shinsei infrastructure.”
 ```
 ```
 Shunto said, “Come with me.”
-[shunto] “No.”
+“No.”
 “I am asking once.”
 >>> “How ceremonial.”   <-- WHO SAYS THIS?
 “You are a foreign ranked officer inside restricted Shinsei infrastructure.”
 “And yet your streets remain standing.”
 ```
 ```
-[shunto] “No.”
+“No.”
 “I am asking once.”
 “How ceremonial.”
 >>> “You are a foreign ranked officer inside restricted Shinsei infrastructure.”   <-- WHO SAYS THIS?
@@ -1127,9 +1151,17 @@ Lu opened it.
 The first page made him stop being annoyed.
 ```
 ```
+Shinrin origin stamps.
 Three intermediary names already present in the Axtaya investigation.
 “Where?” Lu asked.
-[luweiran] “Eastern port.”
+>>> “Eastern port.”   <-- WHO SAYS THIS?
+“How?”
+Xie leaned against the wall.
+```
+```
+Three intermediary names already present in the Axtaya investigation.
+“Where?” Lu asked.
+“Eastern port.”
 >>> “How?”   <-- WHO SAYS THIS?
 Xie leaned against the wall.
 [xie_wuchen] “A courier was being beaten.”
@@ -1276,10 +1308,18 @@ Lu was not stronger; somehow everyone eventually obeyed the man holding the docu
 He tapped one line.
 >>> “This vessel unloaded in Wuyue three months ago under a fever-resin declaration. Same vessel departed for Shinrin twelve days later. Then it changed ownership on paper without changing crew.”   <-- WHO SAYS THIS?
 Xie said, “False transfer.”
-[xie_wuchen] “Yes.”
+“Yes.”
 ```
 ```
-[xie_wuchen] “Yes.”
+He tapped one line.
+“This vessel unloaded in Wuyue three months ago under a fever-resin declaration. Same vessel departed for Shinrin twelve days later. Then it changed ownership on paper without changing crew.”
+Xie said, “False transfer.”
+>>> “Yes.”   <-- WHO SAYS THIS?
+Rui frowned.
+[rui] “Smuggling?”
+```
+```
+“Yes.”
 Rui frowned.
 [rui] “Smuggling?”
 >>> “Maybe. But the customs clearance on the Shinrin side was unusually fast.”   <-- WHO SAYS THIS?
@@ -1442,16 +1482,24 @@ Shunto’s eyes flicked once toward the stone under his boots.
 Nothing visible.
 ```
 ```
+Smart.
 Annoying.
 “You’ve been practicing,” Yun said.
-[yun] “So have you.”
+>>> “So have you.”   <-- WHO SAYS THIS?
+“Mine is more fun.”
+“I disagree.”
+```
+```
+Annoying.
+“You’ve been practicing,” Yun said.
+“So have you.”
 >>> “Mine is more fun.”   <-- WHO SAYS THIS?
 “I disagree.”
 He moved.
 ```
 ```
 “You’ve been practicing,” Yun said.
-[yun] “So have you.”
+“So have you.”
 “Mine is more fun.”
 >>> “I disagree.”   <-- WHO SAYS THIS?
 He moved.
@@ -1490,19 +1538,27 @@ Then at the blood drying near her collar.
 Then through the tower window toward the Shinsei patrols.
 >>> “Are you the one they’re looking for?”   <-- WHO SAYS THIS?
 Yun said, “Possibly.”
-[yun] “That is not reassuring.”
+“That is not reassuring.”
+```
+```
+Then through the tower window toward the Shinsei patrols.
+“Are you the one they’re looking for?”
+Yun said, “Possibly.”
+>>> “That is not reassuring.”   <-- WHO SAYS THIS?
+“I’m not here to hurt you.”
+“Also what people say before hurting you.”
 ```
 ```
 “Are you the one they’re looking for?”
 Yun said, “Possibly.”
-[yun] “That is not reassuring.”
+“That is not reassuring.”
 >>> “I’m not here to hurt you.”   <-- WHO SAYS THIS?
 “Also what people say before hurting you.”
 Fair.
 ```
 ```
 Yun said, “Possibly.”
-[yun] “That is not reassuring.”
+“That is not reassuring.”
 “I’m not here to hurt you.”
 >>> “Also what people say before hurting you.”   <-- WHO SAYS THIS?
 Fair.
@@ -1624,23 +1680,31 @@ There.
 Guild.
 ```
 ```
+Not district command.
 The hunt was institutional now.
 Yun said, “If I’m so expensive, stop looking.”
-[yun] “You are a foreign Sovereign moving through restricted medical and military infrastructure.”
+>>> “You are a foreign Sovereign moving through restricted medical and military infrastructure.”   <-- WHO SAYS THIS?
+“Still no cities on fire.”
+“You keep returning to that defense.”
+```
+```
+The hunt was institutional now.
+Yun said, “If I’m so expensive, stop looking.”
+“You are a foreign Sovereign moving through restricted medical and military infrastructure.”
 >>> “Still no cities on fire.”   <-- WHO SAYS THIS?
 “You keep returning to that defense.”
 “It keeps being true.”
 ```
 ```
 Yun said, “If I’m so expensive, stop looking.”
-[yun] “You are a foreign Sovereign moving through restricted medical and military infrastructure.”
+“You are a foreign Sovereign moving through restricted medical and military infrastructure.”
 “Still no cities on fire.”
 >>> “You keep returning to that defense.”   <-- WHO SAYS THIS?
 “It keeps being true.”
 Shunto lifted his cup.
 ```
 ```
-[yun] “You are a foreign Sovereign moving through restricted medical and military infrastructure.”
+“You are a foreign Sovereign moving through restricted medical and military infrastructure.”
 “Still no cities on fire.”
 “You keep returning to that defense.”
 >>> “It keeps being true.”   <-- WHO SAYS THIS?
@@ -1662,6 +1726,14 @@ They both lied politely.
 >>> “You came to the wrong district.”   <-- WHO SAYS THIS?
 Yun finally looked at him.
 That was almost funny.
+```
+```
+Chair placed where nobody could pass behind him.
+Pain had taught him.
+Yun said, “You could have surrounded this place.”
+>>> “I did.”   <-- WHO SAYS THIS?
+She listened.
+No obvious boots outside.
 ```
 ```
 She listened.

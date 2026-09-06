@@ -1,6 +1,6 @@
 # Season 102 — unattributed dialogue
 
-294 quoted lines in this season have no speaker.
+301 quoted lines in this season have no speaker.
 See `README.md` in this folder for what to do with them.
 
 Lines already resolved show their speaker in `[brackets]` for context.
@@ -326,9 +326,17 @@ A cavalry commander ordering dismount in open ground sounded insane.
 Then another planted contact called another thunder strike.
 ```
 ```
+Raska blocked.
 Thunder Qi discharged through the clash point and numbed three fingers.
 “I like fighting,” Kenji answered.
-[kenji] “Bad place for it.”
+>>> “Bad place for it.”   <-- WHO SAYS THIS?
+“Yes.”
+That honesty irritated Raska more than bravado would have.
+```
+```
+Thunder Qi discharged through the clash point and numbed three fingers.
+“I like fighting,” Kenji answered.
+“Bad place for it.”
 >>> “Yes.”   <-- WHO SAYS THIS?
 That honesty irritated Raska more than bravado would have.
 They moved.
@@ -374,16 +382,24 @@ Kenji's face tightened.
 He changed rhythm.
 ```
 ```
+Kenji rose.
 Raska grabbed his ankle.
 “You are very annoying,” Kenji said.
-[kenji] “Good.”
+>>> “Good.”   <-- WHO SAYS THIS?
+“Let go.”
+“No.”
+```
+```
+Raska grabbed his ankle.
+“You are very annoying,” Kenji said.
+“Good.”
 >>> “Let go.”   <-- WHO SAYS THIS?
 “No.”
 The second Isgard infantry formation reached the river.
 ```
 ```
 “You are very annoying,” Kenji said.
-[kenji] “Good.”
+“Good.”
 “Let go.”
 >>> “No.”   <-- WHO SAYS THIS?
 The second Isgard infantry formation reached the river.
@@ -884,19 +900,27 @@ The line was still too long.
 He exhaled.
 >>> “I need the road.”   <-- WHO SAYS THIS?
 Sigrun answered, “I know.”
-[sigrun] “You cannot keep standing.”
+“You cannot keep standing.”
+```
+```
+He exhaled.
+“I need the road.”
+Sigrun answered, “I know.”
+>>> “You cannot keep standing.”   <-- WHO SAYS THIS?
+“I know.”
+“Then what are we doing?”
 ```
 ```
 “I need the road.”
 Sigrun answered, “I know.”
-[sigrun] “You cannot keep standing.”
+“You cannot keep standing.”
 >>> “I know.”   <-- WHO SAYS THIS?
 “Then what are we doing?”
 She smiled.
 ```
 ```
 Sigrun answered, “I know.”
-[sigrun] “You cannot keep standing.”
+“You cannot keep standing.”
 “I know.”
 >>> “Then what are we doing?”   <-- WHO SAYS THIS?
 She smiled.
@@ -1484,16 +1508,24 @@ Astrid Vardrenn entered carrying a broken map case and three sticks tied with re
 Everyone stared.
 ```
 ```
+Astrid Vardrenn entered carrying a broken map case and three sticks tied with red cloth.
 Everyone stared.
 Solveig said, “Where were you?”
-[solveig] “Finding a road.”
+>>> “Finding a road.”   <-- WHO SAYS THIS?
+“There is no road through Greyroot.”
+“There is now.”
+```
+```
+Everyone stared.
+Solveig said, “Where were you?”
+“Finding a road.”
 >>> “There is no road through Greyroot.”   <-- WHO SAYS THIS?
 “There is now.”
 Astrid dropped the sticks on the table.
 ```
 ```
 Solveig said, “Where were you?”
-[solveig] “Finding a road.”
+“Finding a road.”
 “There is no road through Greyroot.”
 >>> “There is now.”   <-- WHO SAYS THIS?
 Astrid dropped the sticks on the table.
@@ -1687,7 +1719,15 @@ Qin sat near the wall with his eyes closed.
 Lu had already prepared paperwork.
 ```
 ```
-[luweiran] “That is worse.”
+Yurushi noticed it and pointed.
+[yurushi] “You knew she was going to ask.”
+Lu answered, “I hoped.”
+>>> “That is worse.”   <-- WHO SAYS THIS?
+Sera ignored them.
+[sera] “The Quaint Teahouse has Inner Petals, Sepals, captains, cells and people who still argue about whether the name sounds too harmless.”
+```
+```
+“That is worse.”
 Sera ignored them.
 [sera] “The Quaint Teahouse has Inner Petals, Sepals, captains, cells and people who still argue about whether the name sounds too harmless.”
 >>> “It does.”   <-- WHO SAYS THIS?
@@ -1741,6 +1781,14 @@ Tae would never have let him survive the jokes.
 >>> “Good.”   <-- WHO SAYS THIS?
 Tae would never have let him survive the jokes.
 Qin said, “The title is senior. The authority is specific.”
+```
+```
+“Good.”
+Tae would never have let him survive the jokes.
+Qin said, “The title is senior. The authority is specific.”
+>>> “That sounds like Lu wrote it.”   <-- WHO SAYS THIS?
+“I did,” Lu said.
+Naturally.
 ```
 ```
 Naturally.
@@ -2328,6 +2376,14 @@ She folded the report.
 >>> “Still not enough to leave Wuyue undefended.”   <-- WHO SAYS THIS?
 That was the difference.
 Fear did not make her abandon structure.
+```
+```
+Yurushi picked up one satchel.
+Then handed it to Qin.
+“What?” Qin asked.
+>>> “Medical credentials. Useful if Shinsei tries to move through western ports.”   <-- WHO SAYS THIS?
+Qin took it.
+Yurushi opened the other.
 ```
 ```
 Qin took it.

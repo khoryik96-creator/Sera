@@ -1,6 +1,6 @@
 # Season 114 — unattributed dialogue
 
-209 quoted lines in this season have no speaker.
+212 quoted lines in this season have no speaker.
 See `README.md` in this folder for what to do with them.
 
 Lines already resolved show their speaker in `[brackets]` for context.
@@ -1224,39 +1224,55 @@ Rhen said, “No.”
 Sera said, “Never heard of him.”
 ```
 ```
+He did not leave.
 Liang continued appearing on Kael's travels through what he insisted were coincidences.
 “Why are you here?” Kael asked once at a coastal inn six hundred miles from Liang's territory.
-[kael] “Coincidence.”
+>>> “Coincidence.”   <-- WHO SAYS THIS?
+“You rented the room next to mine.”
+“Extended coincidence.”
+```
+```
+Liang continued appearing on Kael's travels through what he insisted were coincidences.
+“Why are you here?” Kael asked once at a coastal inn six hundred miles from Liang's territory.
+“Coincidence.”
 >>> “You rented the room next to mine.”   <-- WHO SAYS THIS?
 “Extended coincidence.”
 Back at the mountain base, the main Petals and Sepals still convened regularly.
 ```
 ```
 “Why are you here?” Kael asked once at a coastal inn six hundred miles from Liang's territory.
-[kael] “Coincidence.”
+“Coincidence.”
 “You rented the room next to mine.”
 >>> “Extended coincidence.”   <-- WHO SAYS THIS?
 Back at the mountain base, the main Petals and Sepals still convened regularly.
 That had been non-negotiable.
 ```
 ```
+At first she had reasons.
 Then increasingly weak reasons.
 One afternoon Qin asked, “What brings you here?”
-[qin] “Regional coordination.”
+>>> “Regional coordination.”   <-- WHO SAYS THIS?
+“Lu handles that.”
+“Medical logistics.”
+```
+```
+Then increasingly weak reasons.
+One afternoon Qin asked, “What brings you here?”
+“Regional coordination.”
 >>> “Lu handles that.”   <-- WHO SAYS THIS?
 “Medical logistics.”
 “Luo handles that.”
 ```
 ```
 One afternoon Qin asked, “What brings you here?”
-[qin] “Regional coordination.”
+“Regional coordination.”
 “Lu handles that.”
 >>> “Medical logistics.”   <-- WHO SAYS THIS?
 “Luo handles that.”
 “Warehouse allocation.”
 ```
 ```
-[qin] “Regional coordination.”
+“Regional coordination.”
 “Lu handles that.”
 “Medical logistics.”
 >>> “Luo handles that.”   <-- WHO SAYS THIS?
@@ -1286,6 +1302,14 @@ At the gate, Xie adjusted his travel coat.
 >>> “I'll be back in eight days.”   <-- WHO SAYS THIS?
 Sera looked at him.
 The old Xie would have said *probably*.
+```
+```
+He looked at the waiting cup.
+Then at Lu.
+“Nine minutes early,” Lu said.
+>>> “Wind.”   <-- WHO SAYS THIS?
+Nobody congratulated him.
+That would have made it ceremonial.
 ```
 ```
 [sera] “You know the aliases aren't working.”

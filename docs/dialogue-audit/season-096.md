@@ -1,6 +1,6 @@
 # Season 96 — unattributed dialogue
 
-359 quoted lines in this season have no speaker.
+363 quoted lines in this season have no speaker.
 See `README.md` in this folder for what to do with them.
 
 Lines already resolved show their speaker in `[brackets]` for context.
@@ -483,9 +483,17 @@ She waited.
 Rhen added, “If dinner were inside my meridians.”
 ```
 ```
+“Like being too full after dinner.”
 She waited.
 Rhen added, “If dinner were inside my meridians.”
-[rhen] “That is a terrible explanation.”
+>>> “That is a terrible explanation.”   <-- WHO SAYS THIS?
+“It is accurate.”
+Sera pulled his hand closer and turned it palm-up.
+```
+```
+She waited.
+Rhen added, “If dinner were inside my meridians.”
+“That is a terrible explanation.”
 >>> “It is accurate.”   <-- WHO SAYS THIS?
 Sera pulled his hand closer and turned it palm-up.
 [sera] “No new technique.”
@@ -1417,6 +1425,14 @@ That stopped him.
 Not because he agreed.
 ```
 ```
+Yun looked back at her.
+[yun] “Two weeks if the chain is clean. Three if I have to move slowly.”
+Lu said, “Route time alone is six to eight days each way depending on ship transfer.”
+>>> “Then call it three.”   <-- WHO SAYS THIS?
+“Three weeks,” Luo repeated.
+Yun nodded.
+```
+```
 It did not.
 Yun would obey a direct order. Sera knew that.
 She also knew the order would not make the problem disappear. It would only mean somebody less suited followed the route later.
@@ -2175,15 +2191,23 @@ Yun ate the bun.
 It was good.
 ```
 ```
+Yun watched them run past.
 A woman selling tea from a roadside kettle noticed where Yun was looking.
 “Children still do that?” Yun asked.
-[yun] “Every spring.”
+>>> “Every spring.”   <-- WHO SAYS THIS?
+“For Shinsei?”
+The woman wiped her hands on her apron.
+```
+```
+A woman selling tea from a roadside kettle noticed where Yun was looking.
+“Children still do that?” Yun asked.
+“Every spring.”
 >>> “For Shinsei?”   <-- WHO SAYS THIS?
 The woman wiped her hands on her apron.
 “For the bridge.”
 ```
 ```
-[yun] “Every spring.”
+“Every spring.”
 “For Shinsei?”
 The woman wiped her hands on her apron.
 >>> “For the bridge.”   <-- WHO SAYS THIS?
@@ -2643,23 +2667,31 @@ Sera waited.
 Luo looked down at the notebook.
 ```
 ```
+Sera had known Yun was overdue too. Lu had quietly increased observation at every relevant port four days earlier. Quiet Hand cells had begun tracking inbound foreign medical cargo for any sign of an emergency marker.
 But Luo was the first person with the right to say it aloud.
 “What do you want to do?” Sera asked.
-[sera] “Go.”
+>>> “Go.”   <-- WHO SAYS THIS?
+“Where?”
+“Shinrin.”
+```
+```
+But Luo was the first person with the right to say it aloud.
+“What do you want to do?” Sera asked.
+“Go.”
 >>> “Where?”   <-- WHO SAYS THIS?
 “Shinrin.”
 “Which city?”
 ```
 ```
 “What do you want to do?” Sera asked.
-[sera] “Go.”
+“Go.”
 “Where?”
 >>> “Shinrin.”   <-- WHO SAYS THIS?
 “Which city?”
 “I don’t know.”
 ```
 ```
-[sera] “Go.”
+“Go.”
 “Where?”
 “Shinrin.”
 >>> “Which city?”   <-- WHO SAYS THIS?

@@ -1,6 +1,6 @@
 # Season 111 — unattributed dialogue
 
-178 quoted lines in this season have no speaker.
+180 quoted lines in this season have no speaker.
 See `README.md` in this folder for what to do with them.
 
 Lines already resolved show their speaker in `[brackets]` for context.
@@ -747,9 +747,17 @@ Luo looked toward the two injured scouts.
 [luo] “Because I am their physician.”
 ```
 ```
+[luo] “Because I am their physician.”
 Kael stared at him.
 Luo added, “And yours.”
-[luo] “That was not comforting.”
+>>> “That was not comforting.”   <-- WHO SAYS THIS?
+“It was not intended to be.”
+Shunto took one step forward.
+```
+```
+Kael stared at him.
+Luo added, “And yours.”
+“That was not comforting.”
 >>> “It was not intended to be.”   <-- WHO SAYS THIS?
 Shunto took one step forward.
 Kael's qi settled into the road.
@@ -1352,9 +1360,17 @@ Luo looked at him.
 [luo] “You aren't going to ask why?”
 ```
 ```
+That was somehow worse than praise.
 Rhen stood.
 “Do not restore Shunto to combat condition,” Luo said.
-[luo] “I wasn't planning to.”
+>>> “I wasn't planning to.”   <-- WHO SAYS THIS?
+“He can survive as he is.”
+Rhen checked him from a distance with the Sanctuary's edge.
+```
+```
+Rhen stood.
+“Do not restore Shunto to combat condition,” Luo said.
+“I wasn't planning to.”
 >>> “He can survive as he is.”   <-- WHO SAYS THIS?
 Rhen checked him from a distance with the Sanctuary's edge.
 [rhen] “Yes.”
