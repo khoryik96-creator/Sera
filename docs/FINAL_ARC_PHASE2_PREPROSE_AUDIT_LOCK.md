@@ -689,7 +689,7 @@ Older Shinsei character/martial files containing the pre-reorder #/tier table mu
 - [x] Correct late-readiness-cycle → ~14-day acceleration locked.
 - [x] Correct Wuyue departure/crossing/arrival timing locked.
 - [x] Ch440→441 wake-up seam preserved.
-- [ ] Normalize stale Chapter 442 “originally had months” prose line on this branch.
+- [x] Stale Chapter 442 ‘originally had months’ prose line normalized on this branch.
 
 ## Isgard
 
