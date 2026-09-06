@@ -36,31 +36,31 @@ That did not make Hana feel better.
 
 Haru studied the outer road.
 
-“Traffic reduced.”
+[[speaker:haru]]“Traffic reduced.”
 
-“Sera left.”
-
-“Yes.”
-
-“Public Top Ten left.”
+[[speaker:hana]]“Sera left.”
 
 “Yes.”
 
-“Rhen unavailable.”
+[[speaker:hana]]“Public Top Ten left.”
+
+“Yes.”
+
+[[speaker:hana]]“Rhen unavailable.”
 
 “Yes.”
 
 Hana looked at him.
 
-“You are enjoying saying yes.”
+[[speaker:hana]]“You are enjoying saying yes.”
 
 “No.”
 
-“You sound like it.”
+[[speaker:hana]]“You sound like it.”
 
-“I am confirming variables.”
+[[speaker:haru]]“I am confirming variables.”
 
-“You are a deeply exciting person.”
+[[speaker:hana]]“You are a deeply exciting person.”
 
 Haru ignored her.
 
@@ -98,17 +98,17 @@ Because he measured until the battlefield became narrower than the opponent unde
 
 Hana looked at the wall again.
 
-“What is bothering you?”
+[[speaker:hana]]“What is bothering you?”
 
-“Too few visible defenders.”
+[[speaker:haru]]“Too few visible defenders.”
 
-“That should be good.”
+[[speaker:hana]]“That should be good.”
 
 “No.”
 
-“Why?”
+[[speaker:hana]]“Why?”
 
-“Organizations with Sera’s known resources do not leave critical medical infrastructure this exposed.”
+[[speaker:haru]]“Organizations with Sera’s known resources do not leave critical medical infrastructure this exposed.”
 
 Hana’s eyes narrowed.
 
@@ -122,27 +122,27 @@ Pattern.
 
 He tapped the report.
 
-“Quaint’s public profile says medicine, private security, logistics.”
+[[speaker:haru]]“Quaint’s public profile says medicine, private security, logistics.”
 
 “Yes.”
 
-“Sera took one hundred twenty north.”
+[[speaker:haru]]“Sera took one hundred twenty north.”
 
 “Yes.”
 
-“If that is a meaningful fraction, more people should be visible here.”
+[[speaker:haru]]“If that is a meaningful fraction, more people should be visible here.”
 
 Hana looked toward the tree line.
 
-“Unless they’re hidden.”
+[[speaker:hana]]“Unless they’re hidden.”
 
-“Or distributed.”
+[[speaker:haru]]“Or distributed.”
 
-“Or the report is wrong.”
+[[speaker:hana]]“Or the report is wrong.”
 
 Haru folded it.
 
-“That possibility is increasing.”
+[[speaker:haru]]“That possibility is increasing.”
 
 The mission was limited.
 
@@ -188,7 +188,7 @@ He set the baskets down.
 
 Haru looked at him.
 
-“Move away from the building.”
+[[speaker:haru]]“Move away from the building.”
 
 The man glanced at Hana.
 
@@ -220,7 +220,7 @@ No mass rush toward the Paragons.
 
 Hana stared.
 
-“Prepared.”
+[[speaker:hana]]“Prepared.”
 
 “Yes.”
 
@@ -228,7 +228,7 @@ The herb carrier backed away with the civilians instead of fighting.
 
 Haru’s eyes sharpened.
 
-“Good organization.”
+[[speaker:haru]]“Good organization.”
 
 Then an iron pressure touched the road.
 
@@ -274,7 +274,7 @@ Then Hana.
 
 Then behind them.
 
-“Only two?”
+[[speaker:tae]]“Only two?”
 
 Hana blinked.
 
@@ -282,37 +282,37 @@ Haru’s grip adjusted on his spear.
 
 Tae sighed.
 
-“I was hoping the intelligence service had become more ambitious.”
+[[speaker:tae]]“I was hoping the intelligence service had become more ambitious.”
 
 Hana looked at Haru.
 
-“Do you know him?”
+[[speaker:hana]]“Do you know him?”
 
 “No.”
 
 Tae heard anyway.
 
-“Rude.”
+[[speaker:tae]]“Rude.”
 
 Haru stepped forward.
 
-“We’re not here for civilians.”
+[[speaker:haru]]“We’re not here for civilians.”
 
-“Good.”
+[[speaker:tae]]“Good.”
 
-“We are here for the support network.”
+[[speaker:haru]]“We are here for the support network.”
 
-“Also rude.”
+[[speaker:tae]]“Also rude.”
 
-“Tae Muyeon.”
+[[speaker:tae]]“Tae Muyeon.”
 
-“Haru Ishikawa.”
+[[speaker:haru]]“Haru Ishikawa.”
 
-“Hana Arakawa.”
+[[speaker:hana]]“Hana Arakawa.”
 
 Tae nodded once.
 
-“High Paragon. Established Paragon.”
+[[speaker:tae]]“High Paragon. Established Paragon.”
 
 Hana’s eyes narrowed.
 
@@ -342,7 +342,7 @@ Hana said nothing.
 
 Tae’s smile widened.
 
-“That’s unfortunate.”
+[[speaker:tae]]“That’s unfortunate.”
 
 Then **Iron Chain Dominion** opened.
 
@@ -406,7 +406,7 @@ Another.
 
 Tae smiled.
 
-“Keep moving.”
+[[speaker:tae]]“Keep moving.”
 
 Hana swore.
 
@@ -508,11 +508,11 @@ Then four new chains settled across her torso and thighs.
 
 Her smile disappeared.
 
-“Annoying.”
+[[speaker:hana]]“Annoying.”
 
 Tae nodded.
 
-“That is usually the review.”
+[[speaker:tae]]“That is usually the review.”
 
 Haru triggered the first stored line.
 
@@ -644,19 +644,19 @@ Hana understood it better.
 
 “I know.”
 
-“You’re still forcing it.”
+[[speaker:hana]]“You’re still forcing it.”
 
 “I know.”
 
 Tae heard.
 
-“Healthy relationship.”
+[[speaker:tae]]“Healthy relationship.”
 
 “We are not together,” Hana snapped.
 
 Tae blinked.
 
-“I meant tactically.”
+[[speaker:tae]]“I meant tactically.”
 
 Hana looked furious.
 
@@ -734,7 +734,7 @@ Historical Wuyue data: Sovereign.
 
 Tae looked over his shoulder.
 
-“You’re late.”
+[[speaker:tae]]“You’re late.”
 
 Huo looked at the broken outer wall.
 
@@ -742,13 +742,13 @@ Then at the teapot.
 
 Then at Haru and Hana.
 
-“I was making tea.”
+[[speaker:huo]]“I was making tea.”
 
 Tae stared.
 
-“During an attack.”
+[[speaker:tae]]“During an attack.”
 
-“It was steeping.”
+[[speaker:huo]]“It was steeping.”
 
 Haru felt Huo’s circulation.
 
@@ -820,7 +820,7 @@ Haru’s expression changed.
 
 Huo grinned.
 
-“There it is.”
+[[speaker:huo]]“There it is.”
 
 **Endless Dominion.**
 
@@ -878,7 +878,7 @@ Hana passed him.
 
 “Not bad,” Huo said.
 
-“Stop complimenting us.”
+[[speaker:hana]]“Stop complimenting us.”
 
 “No.”
 
@@ -924,7 +924,7 @@ Haru stored the line.
 
 Huo looked down at the blood.
 
-“Good trick.”
+[[speaker:huo]]“Good trick.”
 
 Haru’s jaw tightened.
 
@@ -940,7 +940,7 @@ The stored line clipped his thigh.
 
 Haru saw it.
 
-“Your Domain affects you?”
+[[speaker:haru]]“Your Domain affects you?”
 
 Huo laughed.
 
@@ -968,21 +968,21 @@ Haru hated him instantly.
 
 From the outer wall, Tae laughed.
 
-“Everyone does.”
+[[speaker:tae]]“Everyone does.”
 
 Huo looked back.
 
-“You’re resting?”
+[[speaker:huo]]“You’re resting?”
 
-“I’m managing perimeter.”
+[[speaker:tae]]“I’m managing perimeter.”
 
-“You’re sitting.”
+[[speaker:huo]]“You’re sitting.”
 
-“Strategically.”
+[[speaker:tae]]“Strategically.”
 
 Hana emerged from the broken rail.
 
-“Are they always like this?”
+[[speaker:hana]]“Are they always like this?”
 
 Haru answered before Tae could.
 
@@ -990,7 +990,7 @@ Haru answered before Tae could.
 
 She looked at him.
 
-“That was not an answer.”
+[[speaker:hana]]“That was not an answer.”
 
 Huo came again.
 
@@ -1064,13 +1064,13 @@ After seven minutes, Haru’s breathing changed.
 
 Hana noticed.
 
-“Enough.”
+[[speaker:hana]]“Enough.”
 
-“Not yet.”
+[[speaker:haru]]“Not yet.”
 
-“Haru.”
+[[speaker:hana]]“Haru.”
 
-“We can still—”
+[[speaker:haru]]“We can still—”
 
 A low hum passed through the ground.
 
@@ -1134,7 +1134,7 @@ Haru said nothing.
 
 Qin tilted his head.
 
-“Civilians clear?”
+[[speaker:qin]]“Civilians clear?”
 
 Lu Weiran’s voice answered from inside.
 
@@ -1148,7 +1148,7 @@ A bell rang once.
 
 Lu again:
 
-“Clear.”
+[[speaker:luweiran]]“Clear.”
 
 Only then did Qin step forward.
 
@@ -1226,7 +1226,7 @@ Haru’s face changed.
 
 “Do less,” Hana said.
 
-“I know.”
+[[speaker:haru]]“I know.”
 
 They reduced aggression.
 
@@ -1428,7 +1428,7 @@ Qin heard the shift in their posture.
 
 He did not attack immediately.
 
-“Leaving?”
+[[speaker:qin]]“Leaving?”
 
 Haru’s jaw tightened.
 
@@ -1438,21 +1438,21 @@ Haru’s jaw tightened.
 
 Hana looked at him.
 
-“You’re letting us?”
+[[speaker:hana]]“You’re letting us?”
 
 Qin tilted his head.
 
-“Sera authorizes lethal action.”
+[[speaker:qin]]“Sera authorizes lethal action.”
 
-“That does not prevent capture.”
+[[speaker:hana]]“That does not prevent capture.”
 
 “No.”
 
-“Then why?”
+[[speaker:hana]]“Then why?”
 
 Qin’s expression remained calm.
 
-“Because you came to damage a support site, found three High Paragons you did not know existed, and are now going home to tell your government exactly how wrong its intelligence was.”
+[[speaker:qin]]“Because you came to damage a support site, found three High Paragons you did not know existed, and are now going home to tell your government exactly how wrong its intelligence was.”
 
 Haru became very still.
 
@@ -1490,25 +1490,25 @@ The raid had failed completely.
 
 Haru lowered his spear.
 
-“Three High Paragons.”
+[[speaker:haru]]“Three High Paragons.”
 
 Qin said nothing.
 
-“Outside the public Top Ten.”
+[[speaker:haru]]“Outside the public Top Ten.”
 
 “Yes.”
 
-“Living here.”
+[[speaker:haru]]“Living here.”
 
 “Yes.”
 
 Haru looked toward the inner building.
 
-“And Rhen?”
+[[speaker:haru]]“And Rhen?”
 
 Qin’s expression changed by almost nothing.
 
-“Physician.”
+[[speaker:qin]]“Physician.”
 
 Haru stared.
 
@@ -1532,11 +1532,11 @@ No pursuit beyond the outer boundary.
 
 The moment they vanished into the western route, Tae looked at Qin.
 
-“You could have hit him harder.”
+[[speaker:tae]]“You could have hit him harder.”
 
 “Yes.”
 
-“Hana too.”
+[[speaker:tae]]“Hana too.”
 
 “Yes.”
 
@@ -1546,33 +1546,33 @@ Cold.
 
 He looked devastated.
 
-“They ruined it.”
+[[speaker:huo]]“They ruined it.”
 
 Tae stared.
 
-“We were attacked by two Paragons.”
+[[speaker:tae]]“We were attacked by two Paragons.”
 
 “Yes.”
 
-“You’re upset about tea.”
+[[speaker:tae]]“You’re upset about tea.”
 
-“It had timing.”
+[[speaker:huo]]“It had timing.”
 
 Lu walked into the courtyard holding three ledgers.
 
-“Damage report.”
+[[speaker:luweiran]]“Damage report.”
 
 Huo looked hopeful.
 
-“Teapot?”
+[[speaker:huo]]“Teapot?”
 
-“Not listed.”
+[[speaker:luweiran]]“Not listed.”
 
-“Why?”
+[[speaker:huo]]“Why?”
 
-“Because the clinic wall matters more.”
+[[speaker:luweiran]]“Because the clinic wall matters more.”
 
-“Debatable.”
+[[speaker:huo]]“Debatable.”
 
 Qin rubbed one temple.
 
@@ -1580,27 +1580,27 @@ The compound began breathing again.
 
 Then Lu opened the first ledger.
 
-“Before anyone celebrates: this was a probe.”
+[[speaker:luweiran]]“Before anyone celebrates: this was a probe.”
 
 Tae’s humor vanished.
 
 “Yes.”
 
-“They now know.”
+[[speaker:luweiran]]“They now know.”
 
 Qin nodded.
 
-“So do we.”
+[[speaker:qin]]“So do we.”
 
 “Know what?” Huo asked.
 
 Qin turned toward the continental map inside.
 
-“That Shinsei is willing to attack Wuyue directly to change the Isgard war.”
+[[speaker:qin]]“That Shinsei is willing to attack Wuyue directly to change the Isgard war.”
 
 He stepped toward the door.
 
-“Open every regional defence map.”
+[[speaker:qin]]“Open every regional defence map.”
 
 Lu was already moving.
 
