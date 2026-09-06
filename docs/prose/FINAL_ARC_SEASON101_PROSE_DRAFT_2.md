@@ -70,21 +70,21 @@ It was measured in what those weeks could buy the enemy.
 
 Haru tapped the northern route.
 
-“Fourteen days is possible.”
+[[speaker:haru]]“Fourteen days is possible.”
 
 Shunto Takamori leaned against the far table.
 
-“Possible and advisable are different words.”
+[[speaker:shunto]]“Possible and advisable are different words.”
 
 Haru looked at him.
 
-“I know.”
+[[speaker:haru]]“I know.”
 
 Shunto smiled faintly.
 
-“You sounded almost disappointed.”
+[[speaker:shunto]]“You sounded almost disappointed.”
 
-“I am disappointed whenever somebody explains vocabulary to me.”
+[[speaker:haru]]“I am disappointed whenever somebody explains vocabulary to me.”
 
 Kai Moriyama barked one laugh from near the door.
 
@@ -92,27 +92,27 @@ He had been invited because Tsubasa trusted him to object without caring whether
 
 Kai folded his arms.
 
-“So what breaks?”
+[[speaker:kai]]“So what breaks?”
 
 Haru turned back to the wall.
 
-“Redundancy first.”
+[[speaker:haru]]“Redundancy first.”
 
 He marked one column.
 
-“Two reserve grain schedules become one. If the first chain is disrupted, replacement stock arrives later.”
+[[speaker:haru]]“Two reserve grain schedules become one. If the first chain is disrupted, replacement stock arrives later.”
 
 Another mark.
 
-“Occupation medicine lands closer to the assault wave instead of preceding it.”
+[[speaker:haru]]“Occupation medicine lands closer to the assault wave instead of preceding it.”
 
 Another.
 
-“Winter equipment screening becomes regional sampling instead of complete inspection.”
+[[speaker:haru]]“Winter equipment screening becomes regional sampling instead of complete inspection.”
 
 Another.
 
-“We lose time for additional intelligence on Wuyue.”
+[[speaker:haru]]“We lose time for additional intelligence on Wuyue.”
 
 That one made the room quieter.
 
@@ -122,23 +122,23 @@ Haru answered without pretending certainty.
 
 “Enough to know the defensive pact is real.”
 
-“Armies?”
+[[speaker:tsubasa]]“Armies?”
 
-“Rebuilt, but unevenly.”
+[[speaker:haru]]“Rebuilt, but unevenly.”
 
-“Kael Veyran?”
+[[speaker:tsubasa]]“Kael Veyran?”
 
-“Stonecrown remains homeland-heavy. His last war made him cautious about emptying fixed defence.”
+[[speaker:haru]]“Stonecrown remains homeland-heavy. His last war made him cautious about emptying fixed defence.”
 
-“Public Top Ten?”
+[[speaker:tsubasa]]“Public Top Ten?”
 
-“Strong. Several advanced in the rebuilding interval. Exact private training unknown.”
+[[speaker:haru]]“Strong. Several advanced in the rebuilding interval. Exact private training unknown.”
 
-“Quaint?”
+[[speaker:tsubasa]]“Quaint?”
 
 Haru paused. The blank space in the schedule had become impossible to ignore.
 
-“Fragmentary.”
+[[speaker:haru]]“Fragmentary.”
 
 Tsubasa's fingers rested against the black crescent blade lying beside the map table.
 
@@ -164,35 +164,35 @@ Tsubasa disliked unknowns.
 
 He disliked giving them time more.
 
-“How much does fourteen days cost our estimate of Wuyue?”
+[[speaker:tsubasa]]“How much does fourteen days cost our estimate of Wuyue?”
 
 Haru said, “A lot.”
 
 Shunto's smile thinned.
 
-“How precise.”
+[[speaker:shunto]]“How precise.”
 
 Haru ignored him.
 
-“To improve our model materially, we need more agents, more port observation, more time around Stonecrown, and actual visibility on Quaint's inner structure. Fourteen days gives us almost none of that.”
+[[speaker:haru]]“To improve our model materially, we need more agents, more port observation, more time around Stonecrown, and actual visibility on Quaint's inner structure. Fourteen days gives us almost none of that.”
 
 Kai said, “So we're choosing to fight people we haven't measured.”
 
 Haru glanced at him.
 
-“Yes.”
+[[speaker:haru]]“Yes.”
 
-“Bad habit.”
+[[speaker:kai]]“Bad habit.”
 
-“Yes.”
+[[speaker:haru]]“Yes.”
 
-“Then why do it?”
+[[speaker:kai]]“Then why do it?”
 
 Haru looked at Tsubasa. He had the answer, but the decision belonged to Tsubasa.
 
 Tsubasa stood.
 
-“Because every day we spend measuring them is a day they spend loading ships.”
+[[speaker:tsubasa]]“Because every day we spend measuring them is a day they spend loading ships.”
 
 Kai's jaw tightened.
 
@@ -202,27 +202,27 @@ Tsubasa continued.
 
 He touched the coast.
 
-“Now both do.”
+[[speaker:tsubasa]]“Now both do.”
 
 Haru nodded.
 
 Tsubasa looked at the readiness board.
 
-“If we wait for perfect intelligence, we arrive against prepared ports, Wuyue formations already north, dispersed medical stores and coordinated command.”
+[[speaker:tsubasa]]“If we wait for perfect intelligence, we arrive against prepared ports, Wuyue formations already north, dispersed medical stores and coordinated command.”
 
 Kai said, “And if we rush?”
 
-“We arrive against an enemy that knows we're coming but has not finished becoming ready.”
+[[speaker:tsubasa]]“We arrive against an enemy that knows we're coming but has not finished becoming ready.”
 
-“While we also are not finished.”
+[[speaker:kai]]“While we also are not finished.”
 
-“Yes.”
+[[speaker:tsubasa]]“Yes.”
 
 Kai stared at him for several breaths.
 
 Then at the map of Isgard.
 
-“Still think annexing them is saving them?”
+[[speaker:kai]]“Still think annexing them is saving them?”
 
 Nobody moved.
 
@@ -238,11 +238,11 @@ That was one of the reasons Kai had stayed beside him this long.
 
 Kai's expression hardened.
 
-“Dangerous answer.”
+[[speaker:kai]]“Dangerous answer.”
 
-“I know.”
+[[speaker:tsubasa]]“I know.”
 
-“Do you?”
+[[speaker:kai]]“Do you?”
 
 Tsubasa met his eyes.
 
@@ -276,13 +276,13 @@ He would not pretend his fear was imaginary simply because his answer had become
 
 Kai said, “Then trade with them.”
 
-“We tried.”
+[[speaker:tsubasa]]“We tried.”
 
-“Not the same as conquering them.”
+[[speaker:kai]]“Not the same as conquering them.”
 
-“No.”
+[[speaker:tsubasa]]“No.”
 
-“You used to know that difference faster.”
+[[speaker:kai]]“You used to know that difference faster.”
 
 The room went silent.
 
@@ -302,7 +302,7 @@ Tsubasa said, “I remember.”
 
 Kai's answer was immediate.
 
-“Good.”
+[[speaker:kai]]“Good.”
 
 No resolution.
 
@@ -312,27 +312,27 @@ Just a line placed in the room where nobody could pretend it had not been spoken
 
 Tsubasa turned to Shunto.
 
-“The infiltrator.”
+[[speaker:tsubasa]]“The infiltrator.”
 
 Shunto straightened slightly.
 
-“Yun Shizhen.”
+[[speaker:shunto]]“Yun Shizhen.”
 
-“You confirmed her identity after escape.”
+[[speaker:tsubasa]]“You confirmed her identity after escape.”
 
-“Yes.”
+[[speaker:shunto]]“Yes.”
 
-“How did she leave your custody?”
+[[speaker:tsubasa]]“How did she leave your custody?”
 
 Shunto's expression remained controlled.
 
-“External assistance inside our route structure. Likely a senior covert operative or someone with access to old patrol gaps.”
+[[speaker:shunto]]“External assistance inside our route structure. Likely a senior covert operative or someone with access to old patrol gaps.”
 
-“Likely?”
+[[speaker:tsubasa]]“Likely?”
 
-“I am narrowing it.”
+[[speaker:shunto]]“I am narrowing it.”
 
-“Was she medically stable when she escaped?”
+[[speaker:tsubasa]]“Was she medically stable when she escaped?”
 
 A very small pause.
 
@@ -342,19 +342,19 @@ Aya would have noticed more.
 
 Tsubasa noticed enough to ask again.
 
-“Shunto.”
+[[speaker:tsubasa]]“Shunto.”
 
-“She was injured.”
+[[speaker:shunto]]“She was injured.”
 
-“From capture?”
+[[speaker:tsubasa]]“From capture?”
 
-“Capture and interrogation.”
+[[speaker:shunto]]“Capture and interrogation.”
 
-“Anything outside authorized detention procedure?”
+[[speaker:tsubasa]]“Anything outside authorized detention procedure?”
 
 Shunto looked directly at him.
 
-“No.”
+[[speaker:shunto]]“No.”
 
 The lie entered the room quietly.
 
@@ -372,9 +372,9 @@ That belief would cost him later.
 
 For now, he nodded.
 
-“Find the insider. Do not disrupt civilian districts to do it.”
+[[speaker:tsubasa]]“Find the insider. Do not disrupt civilian districts to do it.”
 
-“Of course.”
+[[speaker:shunto]]“Of course.”
 
 Shunto bowed slightly.
 
@@ -390,23 +390,23 @@ Cut a secondary reserve depot.
 
 Then stopped.
 
-“Tsubasa.”
+[[speaker:haru]]“Tsubasa.”
 
-“Yes?”
+[[speaker:tsubasa]]“Yes?”
 
-“If Wuyue commits more than the cautious aid model, the first month becomes dangerous.”
+[[speaker:haru]]“If Wuyue commits more than the cautious aid model, the first month becomes dangerous.”
 
-“How dangerous?”
+[[speaker:tsubasa]]“How dangerous?”
 
-“If they move the public Top Ten and a major continental force, this stops being an Isgard annexation campaign.”
+[[speaker:haru]]“If they move the public Top Ten and a major continental force, this stops being an Isgard annexation campaign.”
 
 Haru's charcoal touched the line between two continents.
 
-“It becomes a two-continent war.”
+[[speaker:haru]]“It becomes a two-continent war.”
 
 Tsubasa looked at the same line.
 
-“Then we prevent them from arriving before the first position is secure.”
+[[speaker:tsubasa]]“Then we prevent them from arriving before the first position is secure.”
 
 Haru nodded.
 
@@ -418,27 +418,27 @@ That was what made him valuable.
 
 Tsubasa looked around the room.
 
-“Fourteen days.”
+[[speaker:tsubasa]]“Fourteen days.”
 
 Kai said, “You are accepting the intelligence gap.”
 
-“Yes.”
+[[speaker:tsubasa]]“Yes.”
 
-“The reserve gap.”
+[[speaker:kai]]“The reserve gap.”
 
-“Yes.”
+[[speaker:tsubasa]]“Yes.”
 
-“And the occupation gap.”
+[[speaker:kai]]“And the occupation gap.”
 
-“Yes.”
+[[speaker:tsubasa]]“Yes.”
 
 Kai's eyes stayed on him.
 
-“Then remember later that you chose those gaps.”
+[[speaker:kai]]“Then remember later that you chose those gaps.”
 
 Tsubasa did not look away.
 
-“I will.”
+[[speaker:tsubasa]]“I will.”
 
 Outside the command chamber, bells began calling northern port masters to emergency readiness.
 
