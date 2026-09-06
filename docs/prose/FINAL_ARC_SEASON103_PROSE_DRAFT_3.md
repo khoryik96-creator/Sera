@@ -115,11 +115,11 @@ The invasion.
 
 The month.
 
-“Yes.”
+[[speaker:sera]]“Yes.”
 
 “And we feed them.”
 
-“Yes.”
+[[speaker:sera]]“Yes.”
 
 The sergeant’s jaw tightened.
 
@@ -155,11 +155,11 @@ Jin noticed immediately.
 
 Sera looked at the growing holding area.
 
-“Yes.”
+[[speaker:sera]]“Yes.”
 
 [[speaker:jin]]“That expectation was part of their discipline model.”
 
-“Yes.”
+[[speaker:sera]]“Yes.”
 
 [[speaker:jin]]“If surrender means survival—”
 
@@ -209,15 +209,15 @@ The man looked away.
 
 “Six days ago.”
 
-“Why?”
+[[speaker:luo]]“Why?”
 
 “Formation breach.”
 
-“Were you dying?”
+[[speaker:luo]]“Were you dying?”
 
 “No.”
 
-“Were your people?”
+[[speaker:luo]]“Were your people?”
 
 “Yes.”
 
@@ -281,7 +281,7 @@ The man frowned.
 
 “I’m a prisoner.”
 
-“Yes.”
+[[speaker:luo]]“Yes.”
 
 “So?”
 
@@ -391,7 +391,7 @@ A medic raised one hand.
 
 “Spine board. No qinggong.”
 
-“Good.”
+[[speaker:aya]]“Good.”
 
 The medic looked relieved.
 
@@ -465,17 +465,17 @@ He looked at the ceiling.
 
 [[speaker:jun]]“Lost.”
 
-“Yes.”
+[[speaker:aya]]“Yes.”
 
 His voice was rough.
 
 [[speaker:jun]]“Kael.”
 
-“Yes.”
+[[speaker:aya]]“Yes.”
 
 [[speaker:jun]]“New Paragon.”
 
-“Yes.”
+[[speaker:aya]]“Yes.”
 
 Jun closed his eyes again.
 
@@ -491,7 +491,7 @@ One eye opened.
 
 [[speaker:aya]]“It was medical.”
 
-“How?”
+[[speaker:jun]]“How?”
 
 [[speaker:aya]]“You are injured because your opponent adapted faster than you did.”
 
@@ -507,7 +507,7 @@ Jun stared.
 
 [[speaker:jun]]“You hit me.”
 
-“Yes.”
+[[speaker:aya]]“Yes.”
 
 [[speaker:jun]]“I am a Paragon.”
 
@@ -525,7 +525,7 @@ Aya looked at the chart.
 
 [[speaker:jun]]“Too long.”
 
-“No.”
+[[speaker:aya]]“No.”
 
 [[speaker:jun]]“Shinsei needs—”
 
@@ -539,7 +539,7 @@ Aya continued.
 
 [[speaker:jun]]“Can?”
 
-“Yes.”
+[[speaker:aya]]“Yes.”
 
 [[speaker:jun]]“All of it?”
 
@@ -701,13 +701,13 @@ Kai looked at him.
 
 [[speaker:shunto]]“Same effect.”
 
-“No.”
+[[speaker:kai]]“No.”
 
 Shunto smiled.
 
 [[speaker:shunto]]“Still dislike me?”
 
-“Yes.”
+[[speaker:kai]]“Yes.”
 
 [[speaker:shunto]]“Comforting consistency.”
 
@@ -715,7 +715,7 @@ Tsubasa ignored them.
 
 [[speaker:tsubasa]]“Haru.”
 
-“Yes.”
+[[speaker:haru]]“Yes.”
 
 [[speaker:tsubasa]]“How much did Wuyue send?”
 
@@ -809,9 +809,9 @@ Kai walked to the map.
 
 [[speaker:kai]]“Not chase Kael for revenge.”
 
-“No.”
+[[speaker:tsubasa]]“No.”
 
-“Good.”
+[[speaker:kai]]“Good.”
 
 Tsubasa looked at him.
 
@@ -835,15 +835,15 @@ Kai continued.
 
 [[speaker:tsubasa]]“Isgard’s material collapse is real.”
 
-“Yes.”
+[[speaker:kai]]“Yes.”
 
 [[speaker:tsubasa]]“The epidemic losses are real.”
 
-“Yes.”
+[[speaker:kai]]“Yes.”
 
 [[speaker:tsubasa]]“Their fractured administration is costing lives.”
 
-“Yes.”
+[[speaker:kai]]“Yes.”
 
 Tsubasa’s voice remained calm.
 
@@ -865,13 +865,13 @@ Tsubasa’s fingers rested on the table edge.
 
 [[speaker:tsubasa]]“I am not annexing Isgard for roads.”
 
-“No.”
+[[speaker:kai]]“No.”
 
 Kai’s voice was blunt.
 
 “You’re annexing them because you think your answer is better.”
 
-“Yes.”
+[[speaker:tsubasa]]“Yes.”
 
 [[speaker:kai]]“At least say it properly.”
 
@@ -941,11 +941,11 @@ Tsubasa looked at Hana.
 
 [[speaker:tsubasa]]“You go with Haru.”
 
-“Yes.”
+[[speaker:hana]]“Yes.”
 
 [[speaker:tsubasa]]“Limited objective.”
 
-“Yes.”
+[[speaker:hana]]“Yes.”
 
 [[speaker:tsubasa]]“If the target is materially stronger than assessed?”
 

@@ -1,6 +1,6 @@
 # Season 103 — unattributed dialogue
 
-140 quoted lines in this season have no speaker.
+62 quoted lines in this season have no speaker.
 See `README.md` in this folder for what to do with them.
 
 Lines already resolved show their speaker in `[brackets]` for context.
@@ -14,30 +14,6 @@ The harbor officer looked at the manifest.
 >>> “It is not.”   <-- WHO SAYS THIS?
 Jin pointed.
 The ship sat lower than the others.
-```
-```
-He looked at the armor.
-Then at Jin.
-[kael] “Necessary?”
->>> “No.”   <-- WHO SAYS THIS?
-Kael nodded.
-[kael] “Leave it.”
-```
-```
-Xie looked.
-[xie_wuchen] “That one has physicians.”
-[sera] “You are traveling with Luo.”
->>> “Why?”   <-- WHO SAYS THIS?
-[sera] “Because you do not have an army.”
-[xie_wuchen] “I noticed.”
-```
-```
-[sera] “And because if a dispatch needs to move between ships quickly, you are useful.”
-Xie looked offended.
-[xie_wuchen] “I became Wuyue No.10 to carry messages?”
->>> “No.”   <-- WHO SAYS THIS?
-Sera started walking.
-[sera] “You became No.10 because you agreed to useful work.”
 ```
 ```
 She knew every subtraction.
@@ -55,77 +31,21 @@ A young swordswoman looked up as Arin passed.
 [arin] “You’re lying badly.”
 The woman smiled and closed her eyes.
 ```
-```
-Sera entered carrying tea.
-Jin looked at it.
-[jin] “Is that for me?”
->>> “No.”   <-- WHO SAYS THIS?
-She drank it.
-[jin] “Cruel.”
-```
-```
-Jin rubbed both eyes.
-[jin] “We are still eight days from complete arrival if weather holds.”
-[sera] “First elements sooner.”
->>> “Yes.”   <-- WHO SAYS THIS?
-[sera] “Medical?”
-“First.”
-```
-```
-[sera] “First elements sooner.”
-“Yes.”
-[sera] “Medical?”
->>> “First.”   <-- WHO SAYS THIS?
-[sera] “Engineering?”
-“Second.”
-```
-```
-[sera] “Medical?”
-“First.”
-[sera] “Engineering?”
->>> “Second.”   <-- WHO SAYS THIS?
-[sera] “Combat?”
-[jin] “Enough in both waves that Shinsei cannot simply eat the landing.”
-```
 
 ### Chapter 382 — Sera Sends Healers Before Fighters
 
-```
-[sera] “Kael’s first Stonecrown units are unloading now. Mo’s infantry behind them. Jin wants the landing secure before he commits the heavier formations inland.”
-Solveig’s jaw tightened.
-[solveig] “We have lost ground every day for four weeks.”
->>> “I know.”   <-- WHO SAYS THIS?
-[solveig] “Do you?”
-There was no insult in it.
-```
-```
-There was no insult in it.
-Only exhaustion.
-Sera looked toward the hospital line.
->>> “No.”   <-- WHO SAYS THIS?
-Solveig looked at her.
-Sera continued.
-```
 ```
 Good.
 Sera did not need to pretend shared paperwork was shared suffering.
 A messenger ran toward them.
 >>> “Commander. West quay.”   <-- WHO SAYS THIS?
 Solveig turned.
-“What?”
-```
-```
-A messenger ran toward them.
-“Commander. West quay.”
-Solveig turned.
->>> “What?”   <-- WHO SAYS THIS?
-“Second casualty barge. More than capacity.”
-Solveig swore.
+[solveig] “What?”
 ```
 ```
 “Commander. West quay.”
 Solveig turned.
-“What?”
+[solveig] “What?”
 >>> “Second casualty barge. More than capacity.”   <-- WHO SAYS THIS?
 Solveig swore.
 Sera was already moving.
@@ -182,38 +102,6 @@ Sera looked at the four of them.
 ### Chapter 383 — Three Paragons in Beds
 
 ```
-Aldric’s mouth moved.
-Pain stopped the laugh before it formed.
-“Eirik?” Sera asked.
->>> “Alive.”   <-- WHO SAYS THIS?
-“I know.”
-[aldric] “Then you know the important part.”
-```
-```
-Pain stopped the laugh before it formed.
-“Eirik?” Sera asked.
-“Alive.”
->>> “I know.”   <-- WHO SAYS THIS?
-[aldric] “Then you know the important part.”
-Sera stepped closer.
-```
-```
-If the halberd connected cleanly, armor, guard and ordinary defensive reinforcement stopped meaning what they normally meant.
-Eldran looked down at his own body.
-[eldran] “I learned it thoroughly.”
->>> “Why?”   <-- WHO SAYS THIS?
-He looked at Maedra.
-There was the answer.
-```
-```
-Eldran’s eyes returned to Sera.
-[eldran] “Do not waste people avenging me.”
-[sera] “I wasn’t planning to.”
->>> “Good.”   <-- WHO SAYS THIS?
-A faint smile.
-[eldran] “I like you better than Kael.”
-```
-```
 One shoulder was deeply bruised beneath medicinal salve.
 Her right knee had swollen around a graven wound pattern that still held traces of reinforced qi.
 A physician stood beside the bed.
@@ -257,62 +145,6 @@ Solveig had not left the table.
 ### Chapter 384 — Where Yun Died
 
 ```
-Isgard.
-Eat something, idiot.
-His thumb rested on the last notation.
->>> “You made it.”   <-- WHO SAYS THIS?
-The room said nothing.
-Luo looked at the floor.
-```
-```
-He stopped.
-Breathed.
-Started again.
->>> “You made it.”   <-- WHO SAYS THIS?
-The words carried the whole distance she had crossed.
-Survived Shunto.
-```
-```
-[luo] “That is still alone.”
-She looked at the papers.
-[sera] “You’re working.”
->>> “Yes.”   <-- WHO SAYS THIS?
-“Good.”
-Luo looked at her.
-```
-```
-She looked at the papers.
-[sera] “You’re working.”
-“Yes.”
->>> “Good.”   <-- WHO SAYS THIS?
-Luo looked at her.
-No pity.
-```
-```
-Then Sera said, “Yurushi told me what he knew.”
-Luo’s face changed.
-[luo] “About Shunto.”
->>> “Yes.”   <-- WHO SAYS THIS?
-[luo] “How much?”
-[sera] “Not a confession. Condition. Guard access. What Yun would not spend time explaining while escaping.”
-```
-```
-Wrong room.
-Wrong world.
-After a long time he asked, “Did she say his name?”
->>> “No.”   <-- WHO SAYS THIS?
-[luo] “Then we do not invent what she didn’t tell us.”
-Sera nodded.
-```
-```
-[luo] “Then we do not invent what she didn’t tell us.”
-Sera nodded.
-[sera] “But we don’t ignore what he did either.”
->>> “No.”   <-- WHO SAYS THIS?
-Luo looked down at the Axtaya notes.
-His voice was very quiet.
-```
-```
 [luo] “I’m going to kill him.”
 Sera did not answer immediately.
 Then:
@@ -324,56 +156,24 @@ Luo looked at her.
 ### Chapter 385 — Jin Chooses One Beachhead
 
 ```
-[jin] “They can retake it. But to do so they must move troops from somewhere else. That movement is the point.”
-Solveig saw it first.
-[solveig] “You’re not choosing the place we want to own.”
->>> “No.”   <-- WHO SAYS THIS?
-[solveig] “You’re choosing the place they cannot ignore.”
-“Yes.”
-```
-```
-[solveig] “You’re not choosing the place we want to own.”
-“No.”
-[solveig] “You’re choosing the place they cannot ignore.”
->>> “Yes.”   <-- WHO SAYS THIS?
-There.
-Not domination.
-```
-```
 Sera stood near the back of the room.
 She had said almost nothing.
 That bothered one Isgard colonel enough to finally ask.
 >>> “Pale Orchid. You agree?”   <-- WHO SAYS THIS?
 Sera looked at him.
-“Yes.”
-```
-```
-That bothered one Isgard colonel enough to finally ask.
-“Pale Orchid. You agree?”
-Sera looked at him.
->>> “Yes.”   <-- WHO SAYS THIS?
-“That’s all?”
-“What else do you need?”
+[sera] “Yes.”
 ```
 ```
 “Pale Orchid. You agree?”
 Sera looked at him.
-“Yes.”
+[sera] “Yes.”
 >>> “That’s all?”   <-- WHO SAYS THIS?
-“What else do you need?”
+[sera] “What else do you need?”
 The man hesitated.
 ```
 ```
-Sera looked at him.
-“Yes.”
 “That’s all?”
->>> “What else do you need?”   <-- WHO SAYS THIS?
-The man hesitated.
-“You’re the strongest person in this room.”
-```
-```
-“That’s all?”
-“What else do you need?”
+[sera] “What else do you need?”
 The man hesitated.
 >>> “You’re the strongest person in this room.”   <-- WHO SAYS THIS?
 Kael raised one eyebrow.
@@ -395,65 +195,9 @@ Sera noticed.
 [sera] “So Kael needs Paragon battlefield experience.”
 Kael looked at her.
 ```
-```
-Jin looked up.
-[jin] “You are extremely fast.”
-[xie_wuchen] “I am also Wuyue No.10.”
->>> “Yes.”   <-- WHO SAYS THIS?
-[xie_wuchen] “Should that not mean something more dignified?”
-[jin] “Yun carried information across a continent.”
-```
-```
-[jin] “Dawn tomorrow.”
-Kael rested one hand on the table.
-[kael] “Jun will be there.”
->>> “Yes.”   <-- WHO SAYS THIS?
-“Good.”
-Sera looked at him.
-```
-```
-Kael rested one hand on the table.
-[kael] “Jun will be there.”
-“Yes.”
->>> “Good.”   <-- WHO SAYS THIS?
-Sera looked at him.
-[sera] “Do not say that like you’re happy.”
-```
 
 ### Chapter 386 — Worldweight Meets Breach
 
-```
-[jun] “Kael Veyran.”
-[kael] “Jun Kajihara.”
-[jun] “You’ve seen the rule.”
->>> “Yes.”   <-- WHO SAYS THIS?
-[jun] “Then don’t block me again.”
-Kael smiled.
-```
-```
-Then at Kael.
-[jun] “You’re new.”
-[kael] “To Paragon.”
->>> “Yes.”   <-- WHO SAYS THIS?
-[kael] “Was it obvious?”
-[jun] “You still think Domains are the fight.”
-```
-```
-They stopped.
-Jun approached.
-[jun] “You have disciplined troops.”
->>> “Yes.”   <-- WHO SAYS THIS?
-[jun] “They’d save you.”
-“No.”
-```
-```
-[jun] “You have disciplined troops.”
-“Yes.”
-[jun] “They’d save you.”
->>> “No.”   <-- WHO SAYS THIS?
-[jun] “They would try.”
-Kael stood.
-```
 ```
 A Stonecrown captain caught him.
 Kael glared.
@@ -466,156 +210,12 @@ Kael considered that.
 ### Chapter 387 — Kael Wins His First Paragon Fight
 
 ```
-The public Number One stared at him.
-Luo stared back.
-[luo] “You are newly Paragon.”
->>> “Yes.”   <-- WHO SAYS THIS?
-[luo] “You are not newly sensible.”
-“No.”
-```
-```
-[luo] “You are newly Paragon.”
-“Yes.”
-[luo] “You are not newly sensible.”
->>> “No.”   <-- WHO SAYS THIS?
-[luo] “Good. Diagnostic complete.”
-Kael closed his eyes.
-```
-```
-Varok’s mobile command was already screening the northern flank.
-Jin’s one-beachhead strategy had become a battlefield rather than a theory.
-Kael opened his eyes.
->>> “Status.”   <-- WHO SAYS THIS?
-Luo kept wrapping his shoulder.
-[luo] “Jun defeated.”
-```
-```
-[luo] “Congratulations.”
-[kael] “That sounded insincere.”
-[luo] “It was sincere until you tried to stand.”
->>> “Status.”   <-- WHO SAYS THIS?
-Luo sighed.
-[luo] “Position mostly ours. Shinsei withdrawing from two secondary depots. We captured prisoners and Axtaya stores. Sera has not fought.”
-```
-```
-[kael] “I wasn’t going to ask.”
-[luo] “You were going to ask whether she needed to intervene.”
-[kael] “That is different.”
->>> “No.”   <-- WHO SAYS THIS?
-Kael let his head fall back.
-There had been a time when being Wuyue’s public Number One meant everyone expected him to be the answer in every room.
-```
-```
-Well enough that the corridor was open.
-He smiled.
-Luo noticed.
->>> “What?”   <-- WHO SAYS THIS?
-“I won.”
-“Yes.”
-```
-```
-He smiled.
-Luo noticed.
-“What?”
->>> “I won.”   <-- WHO SAYS THIS?
-“Yes.”
+[luo] “Yes.”
 [kael] “My first Paragon fight.”
-```
-```
-Luo noticed.
-“What?”
-“I won.”
->>> “Yes.”   <-- WHO SAYS THIS?
-[kael] “My first Paragon fight.”
-“Yes.”
-```
-```
-“I won.”
-“Yes.”
-[kael] “My first Paragon fight.”
->>> “Yes.”   <-- WHO SAYS THIS?
-“I won.”
-Luo tied the bandage harder than necessary.
-```
-```
-“Yes.”
-[kael] “My first Paragon fight.”
-“Yes.”
+[luo] “Yes.”
 >>> “I won.”   <-- WHO SAYS THIS?
 Luo tied the bandage harder than necessary.
 Kael hissed.
-```
-```
-Not alarm.
-Something else.
-Kael turned his head.
->>> “What?”   <-- WHO SAYS THIS?
-Luo listened.
-The sound spread.
-```
-```
-Kael’s expression sharpened.
-[kael] “Treatment?”
-[sera] “The same as ours.”
->>> “Good.”   <-- WHO SAYS THIS?
-Sera looked at him.
-[sera] “Jun?”
-```
-```
-[luo] “Alive when extracted from the field,” Luo said. “Severe internal trauma. One arm damaged. Multiple meridian disruptions. Shinsei recovery team reached him during their withdrawal.”
-Kael frowned.
-[kael] “They took him.”
->>> “Yes.”   <-- WHO SAYS THIS?
-“Good.”
-Sera raised an eyebrow.
-```
-```
-Kael frowned.
-[kael] “They took him.”
-“Yes.”
->>> “Good.”   <-- WHO SAYS THIS?
-Sera raised an eyebrow.
-Kael looked at her.
-```
-```
-“Good.”
-Sera raised an eyebrow.
-Kael looked at her.
->>> “What?”   <-- WHO SAYS THIS?
-[sera] “You wanted him dead?”
-“No.”
-```
-```
-Kael looked at her.
-“What?”
-[sera] “You wanted him dead?”
->>> “No.”   <-- WHO SAYS THIS?
-[sera] “Then good.”
-Kael considered that.
-```
-```
-[sera] “He’s right.”
-Kael looked at her.
-[kael] “You already knew.”
->>> “Yes.”   <-- WHO SAYS THIS?
-[kael] “You could have told me.”
-[sera] “I did.”
-```
-```
-Then the tent flap opened.
-Jin entered carrying three captured ledgers.
-[jin] “Enjoying yourself?”
->>> “No.”   <-- WHO SAYS THIS?
-[jin] “You look happy.”
-[kael] “I am injured.”
-```
-```
-[kael] “I am injured.”
-[jin] “Those can coexist.”
-Kael pointed at the ledgers.
->>> “What?”   <-- WHO SAYS THIS?
-Jin’s expression changed.
-[jin] “Redline distribution records.”
 ```
 
 ### Chapter 388 — Wuyue Takes Prisoners
@@ -693,32 +293,16 @@ Sera understood what he meant.
 Not these exact men.
 ```
 ```
-The army.
 The invasion.
 The month.
->>> “Yes.”   <-- WHO SAYS THIS?
-“And we feed them.”
-“Yes.”
-```
-```
-The invasion.
-The month.
-“Yes.”
+[sera] “Yes.”
 >>> “And we feed them.”   <-- WHO SAYS THIS?
-“Yes.”
+[sera] “Yes.”
 The sergeant’s jaw tightened.
 ```
 ```
-The month.
-“Yes.”
 “And we feed them.”
->>> “Yes.”   <-- WHO SAYS THIS?
-The sergeant’s jaw tightened.
-“Why?”
-```
-```
-“And we feed them.”
-“Yes.”
+[sera] “Yes.”
 The sergeant’s jaw tightened.
 >>> “Why?”   <-- WHO SAYS THIS?
 [sera] “Because they surrendered.”
@@ -731,22 +315,6 @@ The sergeant’s jaw tightened.
 >>> “That’s it?”   <-- WHO SAYS THIS?
 [sera] “That’s enough.”
 He looked at the prisoners.
-```
-```
-Jin noticed immediately.
-[jin] “They expected massacre.”
-Sera looked at the growing holding area.
->>> “Yes.”   <-- WHO SAYS THIS?
-[jin] “That expectation was part of their discipline model.”
-“Yes.”
-```
-```
-Sera looked at the growing holding area.
-“Yes.”
-[jin] “That expectation was part of their discipline model.”
->>> “Yes.”   <-- WHO SAYS THIS?
-[jin] “If surrender means survival—”
-[sera] “Do not turn this into a weapon yet.”
 ```
 ```
 A vitality signature that felt wrong in a way ordinary exhaustion did not.
@@ -762,60 +330,36 @@ The man looked away.
 “One.”
 >>> “When?”   <-- WHO SAYS THIS?
 “Six days ago.”
-“Why?”
+[luo] “Why?”
 ```
 ```
 The man looked away.
 “One.”
 “When?”
 >>> “Six days ago.”   <-- WHO SAYS THIS?
-“Why?”
+[luo] “Why?”
 “Formation breach.”
-```
-```
-“One.”
-“When?”
-“Six days ago.”
->>> “Why?”   <-- WHO SAYS THIS?
-“Formation breach.”
-“Were you dying?”
 ```
 ```
 “When?”
 “Six days ago.”
-“Why?”
+[luo] “Why?”
 >>> “Formation breach.”   <-- WHO SAYS THIS?
-“Were you dying?”
+[luo] “Were you dying?”
 “No.”
 ```
 ```
-“Six days ago.”
-“Why?”
+[luo] “Why?”
 “Formation breach.”
->>> “Were you dying?”   <-- WHO SAYS THIS?
-“No.”
-“Were your people?”
-```
-```
-“Why?”
-“Formation breach.”
-“Were you dying?”
+[luo] “Were you dying?”
 >>> “No.”   <-- WHO SAYS THIS?
-“Were your people?”
+[luo] “Were your people?”
 “Yes.”
 ```
 ```
-“Formation breach.”
-“Were you dying?”
+[luo] “Were you dying?”
 “No.”
->>> “Were your people?”   <-- WHO SAYS THIS?
-“Yes.”
-Luo nodded.
-```
-```
-“Were you dying?”
-“No.”
-“Were your people?”
+[luo] “Were your people?”
 >>> “Yes.”   <-- WHO SAYS THIS?
 Luo nodded.
 That was medicine’s difficult answer.
@@ -849,21 +393,13 @@ He looked at the patient.
 [luo] “You’re staying overnight.”
 The man frowned.
 >>> “I’m a prisoner.”   <-- WHO SAYS THIS?
-“Yes.”
+[luo] “Yes.”
 “So?”
-```
-```
-[luo] “You’re staying overnight.”
-The man frowned.
-“I’m a prisoner.”
->>> “Yes.”   <-- WHO SAYS THIS?
-“So?”
-[luo] “So prisoners also have hearts.”
 ```
 ```
 The man frowned.
 “I’m a prisoner.”
-“Yes.”
+[luo] “Yes.”
 >>> “So?”   <-- WHO SAYS THIS?
 [luo] “So prisoners also have hearts.”
 The soldier stared.
@@ -909,23 +445,15 @@ A medic raised one hand.
 “I did.”
 >>> “How?”   <-- WHO SAYS THIS?
 “Spine board. No qinggong.”
-“Good.”
+[aya] “Good.”
 ```
 ```
 A medic raised one hand.
 “I did.”
 “How?”
 >>> “Spine board. No qinggong.”   <-- WHO SAYS THIS?
-“Good.”
+[aya] “Good.”
 The medic looked relieved.
-```
-```
-“I did.”
-“How?”
-“Spine board. No qinggong.”
->>> “Good.”   <-- WHO SAYS THIS?
-The medic looked relieved.
-Aya did not notice.
 ```
 ```
 Jun coughed blood.
@@ -950,62 +478,6 @@ Aya looked at him.
 >>> “Yes, Physician.”   <-- WHO SAYS THIS?
 Jun’s pulse dropped.
 Aya changed two needles.
-```
-```
-Aya was still there.
-He looked at the ceiling.
-[jun] “Lost.”
->>> “Yes.”   <-- WHO SAYS THIS?
-His voice was rough.
-[jun] “Kael.”
-```
-```
-“Yes.”
-His voice was rough.
-[jun] “Kael.”
->>> “Yes.”   <-- WHO SAYS THIS?
-[jun] “New Paragon.”
-“Yes.”
-```
-```
-[jun] “Kael.”
-“Yes.”
-[jun] “New Paragon.”
->>> “Yes.”   <-- WHO SAYS THIS?
-Jun closed his eyes again.
-[jun] “He learned.”
-```
-```
-One eye opened.
-[jun] “That sounded philosophical.”
-[aya] “It was medical.”
->>> “How?”   <-- WHO SAYS THIS?
-[aya] “You are injured because your opponent adapted faster than you did.”
-Jun considered that.
-```
-```
-Aya slapped his wrist back to the bed.
-Jun stared.
-[jun] “You hit me.”
->>> “Yes.”   <-- WHO SAYS THIS?
-[jun] “I am a Paragon.”
-[aya] “You are currently a patient.”
-```
-```
-Aya looked at the chart.
-[aya] “Several days before I let you stand in armor.”
-[jun] “Too long.”
->>> “No.”   <-- WHO SAYS THIS?
-[jun] “Shinsei needs—”
-[aya] “Shinsei needs you alive more than it needs you pretending one successful treatment erased the fight.”
-```
-```
-Aya continued.
-[aya] “Your recoverable damage can be repaired.”
-[jun] “Can?”
->>> “Yes.”   <-- WHO SAYS THIS?
-[jun] “All of it?”
-[aya] “With time.”
 ```
 ```
 Aya had known that contradiction for years.
@@ -1051,106 +523,10 @@ Aya looked down at his chart.
 ### Chapter 390 — Tsubasa Changes the Arithmetic
 
 ```
-Kai looked at him.
-[kai] “Or they treat prisoners.”
-[shunto] “Same effect.”
->>> “No.”   <-- WHO SAYS THIS?
-Shunto smiled.
-[shunto] “Still dislike me?”
-```
-```
-“No.”
-Shunto smiled.
-[shunto] “Still dislike me?”
->>> “Yes.”   <-- WHO SAYS THIS?
-[shunto] “Comforting consistency.”
-Tsubasa ignored them.
-```
-```
-[shunto] “Comforting consistency.”
-Tsubasa ignored them.
-[tsubasa] “Haru.”
->>> “Yes.”   <-- WHO SAYS THIS?
-[tsubasa] “How much did Wuyue send?”
-[haru] “Confirmed public force approximately sixty-three to sixty-four thousand. Sera with a small private support element outside that number.”
-```
-```
 [haru] “Roughly six thousand Stonecrown.”
 Tsubasa looked up.
 [tsubasa] “Only six.”
 >>> “Yes.”   <-- WHO SAYS THIS?
 Their pre-war model had assumed Kael would either remain home or move a greater share of Stonecrown if Wuyue committed seriously.
 Instead he had done both.
-```
-```
-[tsubasa] “You stabilize the apex arithmetic.”
-Kai walked to the map.
-[kai] “Not chase Kael for revenge.”
->>> “No.”   <-- WHO SAYS THIS?
-“Good.”
-Tsubasa looked at him.
-```
-```
-Kai walked to the map.
-[kai] “Not chase Kael for revenge.”
-“No.”
->>> “Good.”   <-- WHO SAYS THIS?
-Tsubasa looked at him.
-[tsubasa] “You once taught me that losing a duel did not make the person who won politically correct.”
-```
-```
-Kai continued.
-[kai] “You’re still treating this war like the conclusion is obvious if the arithmetic works.”
-[tsubasa] “Isgard’s material collapse is real.”
->>> “Yes.”   <-- WHO SAYS THIS?
-[tsubasa] “The epidemic losses are real.”
-“Yes.”
-```
-```
-[tsubasa] “Isgard’s material collapse is real.”
-“Yes.”
-[tsubasa] “The epidemic losses are real.”
->>> “Yes.”   <-- WHO SAYS THIS?
-[tsubasa] “Their fractured administration is costing lives.”
-“Yes.”
-```
-```
-[tsubasa] “The epidemic losses are real.”
-“Yes.”
-[tsubasa] “Their fractured administration is costing lives.”
->>> “Yes.”   <-- WHO SAYS THIS?
-Tsubasa’s voice remained calm.
-[tsubasa] “Then what exactly do you dispute?”
-```
-```
-Shunto looked bored.
-Tsubasa’s fingers rested on the table edge.
-[tsubasa] “I am not annexing Isgard for roads.”
->>> “No.”   <-- WHO SAYS THIS?
-Kai’s voice was blunt.
-[kai] “You’re annexing them because you think your answer is better.”
-```
-```
-“No.”
-Kai’s voice was blunt.
-[kai] “You’re annexing them because you think your answer is better.”
->>> “Yes.”   <-- WHO SAYS THIS?
-[kai] “At least say it properly.”
-Tsubasa held his gaze.
-```
-```
-Accelerating the invasion had bought time by spending intelligence.
-Tsubasa looked at Hana.
-[tsubasa] “You go with Haru.”
->>> “Yes.”   <-- WHO SAYS THIS?
-[tsubasa] “Limited objective.”
-“Yes.”
-```
-```
-[tsubasa] “You go with Haru.”
-“Yes.”
-[tsubasa] “Limited objective.”
->>> “Yes.”   <-- WHO SAYS THIS?
-[tsubasa] “If the target is materially stronger than assessed?”
-[hana] “Withdraw.”
 ```

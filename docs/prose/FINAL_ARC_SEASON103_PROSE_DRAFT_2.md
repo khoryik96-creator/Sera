@@ -91,11 +91,11 @@ Solveig saw it first.
 
 [[speaker:solveig]]“You’re not choosing the place we want to own.”
 
-“No.”
+[[speaker:jin]]“No.”
 
 [[speaker:solveig]]“You’re choosing the place they cannot ignore.”
 
-“Yes.”
+[[speaker:jin]]“Yes.”
 
 There.
 
@@ -113,11 +113,11 @@ That bothered one Isgard colonel enough to finally ask.
 
 Sera looked at him.
 
-“Yes.”
+[[speaker:sera]]“Yes.”
 
 “That’s all?”
 
-“What else do you need?”
+[[speaker:sera]]“What else do you need?”
 
 The man hesitated.
 
@@ -215,7 +215,7 @@ Jin looked up.
 
 [[speaker:xie_wuchen]]“I am also Wuyue No.10.”
 
-“Yes.”
+[[speaker:jin]]“Yes.”
 
 [[speaker:xie_wuchen]]“Should that not mean something more dignified?”
 
@@ -245,9 +245,9 @@ Kael rested one hand on the table.
 
 [[speaker:kael]]“Jun will be there.”
 
-“Yes.”
+[[speaker:jin]]“Yes.”
 
-“Good.”
+[[speaker:kael]]“Good.”
 
 Sera looked at him.
 
@@ -351,7 +351,7 @@ No wasted flourish.
 
 [[speaker:jun]]“You’ve seen the rule.”
 
-“Yes.”
+[[speaker:kael]]“Yes.”
 
 [[speaker:jun]]“Then don’t block me again.”
 
@@ -523,7 +523,7 @@ Then at Kael.
 
 [[speaker:kael]]“To Paragon.”
 
-“Yes.”
+[[speaker:jun]]“Yes.”
 
 [[speaker:kael]]“Was it obvious?”
 
@@ -583,11 +583,11 @@ Jun approached.
 
 [[speaker:jun]]“You have disciplined troops.”
 
-“Yes.”
+[[speaker:kael]]“Yes.”
 
 [[speaker:jun]]“They’d save you.”
 
-“No.”
+[[speaker:kael]]“No.”
 
 [[speaker:jun]]“They would try.”
 
@@ -785,11 +785,11 @@ Luo stared back.
 
 [[speaker:luo]]“You are newly Paragon.”
 
-“Yes.”
+[[speaker:kael]]“Yes.”
 
 [[speaker:luo]]“You are not newly sensible.”
 
-“No.”
+[[speaker:kael]]“No.”
 
 [[speaker:luo]]“Good. Diagnostic complete.”
 
@@ -815,7 +815,7 @@ Jin’s one-beachhead strategy had become a battlefield rather than a theory.
 
 Kael opened his eyes.
 
-“Status.”
+[[speaker:kael]]“Status.”
 
 Luo kept wrapping his shoulder.
 
@@ -829,7 +829,7 @@ Luo kept wrapping his shoulder.
 
 [[speaker:luo]]“It was sincere until you tried to stand.”
 
-“Status.”
+[[speaker:kael]]“Status.”
 
 Luo sighed.
 
@@ -849,7 +849,7 @@ Kael frowned.
 
 [[speaker:kael]]“That is different.”
 
-“No.”
+[[speaker:luo]]“No.”
 
 Kael let his head fall back.
 
@@ -881,15 +881,15 @@ He smiled.
 
 Luo noticed.
 
-“What?”
+[[speaker:luo]]“What?”
 
-“I won.”
+[[speaker:kael]]“I won.”
 
-“Yes.”
+[[speaker:luo]]“Yes.”
 
 [[speaker:kael]]“My first Paragon fight.”
 
-“Yes.”
+[[speaker:luo]]“Yes.”
 
 “I won.”
 
@@ -915,7 +915,7 @@ Something else.
 
 Kael turned his head.
 
-“What?”
+[[speaker:kael]]“What?”
 
 Luo listened.
 
@@ -987,7 +987,7 @@ Kael’s expression sharpened.
 
 [[speaker:sera]]“The same as ours.”
 
-“Good.”
+[[speaker:kael]]“Good.”
 
 Sera looked at him.
 
@@ -999,19 +999,19 @@ Kael frowned.
 
 [[speaker:kael]]“They took him.”
 
-“Yes.”
+[[speaker:luo]]“Yes.”
 
-“Good.”
+[[speaker:kael]]“Good.”
 
 Sera raised an eyebrow.
 
 Kael looked at her.
 
-“What?”
+[[speaker:kael]]“What?”
 
 [[speaker:sera]]“You wanted him dead?”
 
-“No.”
+[[speaker:kael]]“No.”
 
 [[speaker:sera]]“Then good.”
 
@@ -1045,7 +1045,7 @@ Kael looked at her.
 
 [[speaker:kael]]“You already knew.”
 
-“Yes.”
+[[speaker:sera]]“Yes.”
 
 [[speaker:kael]]“You could have told me.”
 
@@ -1069,7 +1069,7 @@ Jin entered carrying three captured ledgers.
 
 [[speaker:jin]]“Enjoying yourself?”
 
-“No.”
+[[speaker:kael]]“No.”
 
 [[speaker:jin]]“You look happy.”
 
@@ -1079,7 +1079,7 @@ Jin entered carrying three captured ledgers.
 
 Kael pointed at the ledgers.
 
-“What?”
+[[speaker:kael]]“What?”
 
 Jin’s expression changed.
 

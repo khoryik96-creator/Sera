@@ -38,7 +38,7 @@ Then at Jin.
 
 [[speaker:kael]]“Necessary?”
 
-“No.”
+[[speaker:jin]]“No.”
 
 Kael nodded.
 
@@ -124,7 +124,7 @@ Xie looked.
 
 [[speaker:sera]]“You are traveling with Luo.”
 
-“Why?”
+[[speaker:xie_wuchen]]“Why?”
 
 [[speaker:sera]]“Because you do not have an army.”
 
@@ -136,7 +136,7 @@ Xie looked offended.
 
 [[speaker:xie_wuchen]]“I became Wuyue No.10 to carry messages?”
 
-“No.”
+[[speaker:sera]]“No.”
 
 Sera started walking.
 
@@ -204,7 +204,7 @@ Jin looked at it.
 
 [[speaker:jin]]“Is that for me?”
 
-“No.”
+[[speaker:sera]]“No.”
 
 She drank it.
 
@@ -222,15 +222,15 @@ Jin rubbed both eyes.
 
 [[speaker:sera]]“First elements sooner.”
 
-“Yes.”
+[[speaker:jin]]“Yes.”
 
 [[speaker:sera]]“Medical?”
 
-“First.”
+[[speaker:jin]]“First.”
 
 [[speaker:sera]]“Engineering?”
 
-“Second.”
+[[speaker:jin]]“Second.”
 
 [[speaker:sera]]“Combat?”
 
@@ -420,7 +420,7 @@ Solveig’s jaw tightened.
 
 [[speaker:solveig]]“We have lost ground every day for four weeks.”
 
-“I know.”
+[[speaker:sera]]“I know.”
 
 [[speaker:solveig]]“Do you?”
 
@@ -430,7 +430,7 @@ Only exhaustion.
 
 Sera looked toward the hospital line.
 
-“No.”
+[[speaker:sera]]“No.”
 
 Solveig looked at her.
 
@@ -450,7 +450,7 @@ A messenger ran toward them.
 
 Solveig turned.
 
-“What?”
+[[speaker:solveig]]“What?”
 
 “Second casualty barge. More than capacity.”
 
@@ -594,9 +594,9 @@ Pain stopped the laugh before it formed.
 
 “Eirik?” Sera asked.
 
-“Alive.”
+[[speaker:aldric]]“Alive.”
 
-“I know.”
+[[speaker:sera]]“I know.”
 
 [[speaker:aldric]]“Then you know the important part.”
 
@@ -686,7 +686,7 @@ Eldran looked down at his own body.
 
 [[speaker:eldran]]“I learned it thoroughly.”
 
-“Why?”
+[[speaker:sera]]“Why?”
 
 He looked at Maedra.
 
@@ -712,7 +712,7 @@ Eldran’s eyes returned to Sera.
 
 [[speaker:sera]]“I wasn’t planning to.”
 
-“Good.”
+[[speaker:eldran]]“Good.”
 
 A faint smile.
 
@@ -880,7 +880,7 @@ Eat something, idiot.
 
 His thumb rested on the last notation.
 
-“You made it.”
+[[speaker:luo]]“You made it.”
 
 The room said nothing.
 
@@ -896,7 +896,7 @@ Breathed.
 
 Started again.
 
-“You made it.”
+[[speaker:luo]]“You made it.”
 
 The words carried the whole distance she had crossed.
 
@@ -1006,9 +1006,9 @@ She looked at the papers.
 
 [[speaker:sera]]“You’re working.”
 
-“Yes.”
+[[speaker:luo]]“Yes.”
 
-“Good.”
+[[speaker:sera]]“Good.”
 
 Luo looked at her.
 
@@ -1030,7 +1030,7 @@ Luo’s face changed.
 
 [[speaker:luo]]“About Shunto.”
 
-“Yes.”
+[[speaker:sera]]“Yes.”
 
 [[speaker:luo]]“How much?”
 
@@ -1054,7 +1054,7 @@ Wrong world.
 
 After a long time he asked, “Did she say his name?”
 
-“No.”
+[[speaker:sera]]“No.”
 
 [[speaker:luo]]“Then we do not invent what she didn’t tell us.”
 
@@ -1062,7 +1062,7 @@ Sera nodded.
 
 [[speaker:sera]]“But we don’t ignore what he did either.”
 
-“No.”
+[[speaker:luo]]“No.”
 
 Luo looked down at the Axtaya notes.
 
