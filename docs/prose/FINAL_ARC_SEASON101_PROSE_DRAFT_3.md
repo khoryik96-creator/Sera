@@ -28,7 +28,7 @@ Then enough that counting stopped being useful.
 
 Brynja lowered the viewing glass.
 
-“Ring it.”
+[[speaker:brynja]]“Ring it.”
 
 The lookout beside her did not move.
 
@@ -40,7 +40,7 @@ Old enough to remember carrying his mother's body to a winter trench.
 
 “Commander?”
 
-“The bell.”
+[[speaker:brynja]]“The bell.”
 
 He blinked.
 
@@ -88,15 +88,15 @@ That difference had never looked more dangerous than it did while Shinsei sails 
 
 Brynja pointed toward the lower road.
 
-“Move the second engine now.”
+[[speaker:brynja]]“Move the second engine now.”
 
 An officer said, “The draft team is still coming.”
 
-“Use infantry.”
+[[speaker:brynja]]“Use infantry.”
 
 “That will exhaust them before—”
 
-“Use infantry.”
+[[speaker:brynja]]“Use infantry.”
 
 He ran.
 
@@ -134,15 +134,15 @@ A runner climbed the stairs too fast.
 
 “Western tower confirms additional hulls.”
 
-“How many?”
+[[speaker:brynja]]“How many?”
 
 “Twenty-two visible. More behind fog.”
 
-“Landing craft?”
+[[speaker:brynja]]“Landing craft?”
 
 “Mixed.”
 
-“Paragon signs?”
+[[speaker:brynja]]“Paragon signs?”
 
 The runner swallowed.
 
@@ -150,11 +150,11 @@ The runner swallowed.
 
 Brynja looked back at the sea.
 
-“Then stop looking for fireworks.”
+[[speaker:brynja]]“Then stop looking for fireworks.”
 
 “Commander?”
 
-“A Paragon who wants to arrive unnoticed will not announce himself because our report form has a box.”
+[[speaker:brynja]]“A Paragon who wants to arrive unnoticed will not announce himself because our report form has a box.”
 
 The runner nodded.
 
@@ -184,39 +184,39 @@ None of them knew which names would be missing from the room by the end of the m
 
 Solveig read Brynja's first count.
 
-“Begin inland dispersal.”
+[[speaker:solveig]]“Begin inland dispersal.”
 
 Halvek said, “Already moving.”
 
-“Primary roads?”
+[[speaker:solveig]]“Primary roads?”
 
-“Open.”
+[[speaker:halvek]]“Open.”
 
-“Secondary?”
+[[speaker:solveig]]“Secondary?”
 
-“Two washed out. Astrid has alternatives.”
+[[speaker:halvek]]“Two washed out. Astrid has alternatives.”
 
 Astrid pointed at the floor without looking up.
 
-“Not alternatives. Goat paths with ambition.”
+[[speaker:astrid]]“Not alternatives. Goat paths with ambition.”
 
 Varok tied his boot.
 
-“Can cavalry use them?”
+[[speaker:varok]]“Can cavalry use them?”
 
-“No.”
+[[speaker:astrid]]“No.”
 
-“Can wounded?”
+[[speaker:varok]]“Can wounded?”
 
-“If they enjoy regretting birth.”
+[[speaker:astrid]]“If they enjoy regretting birth.”
 
 Solveig looked at her.
 
 Astrid sighed.
 
-“Yes. Slowly.”
+[[speaker:astrid]]“Yes. Slowly.”
 
-“Then mark them.”
+[[speaker:solveig]]“Then mark them.”
 
 The room moved.
 
@@ -240,19 +240,19 @@ Shinsei was testing more than one landing point.
 
 Solveig moved counters.
 
-“Brynja holds the main western port. Do not reinforce every false landing.”
+[[speaker:solveig]]“Brynja holds the main western port. Do not reinforce every false landing.”
 
 Varok said, “I can take mobile reserve south.”
 
-“You take center until we know which landing is real.”
+[[speaker:solveig]]“You take center until we know which landing is real.”
 
-“I hate waiting.”
+[[speaker:varok]]“I hate waiting.”
 
-“I know.”
+[[speaker:solveig]]“I know.”
 
-“That was not agreement.”
+[[speaker:varok]]“That was not agreement.”
 
-“It was sympathy.”
+[[speaker:solveig]]“It was sympathy.”
 
 Halvek almost smiled.
 
@@ -264,11 +264,11 @@ Pact liaison.
 
 Solveig's head turned.
 
-“From south?”
+[[speaker:solveig]]“From south?”
 
 “Yes.”
 
-“Army?”
+[[speaker:solveig]]“Army?”
 
 The messenger's face answered before his mouth.
 
@@ -286,7 +286,7 @@ Varok muttered something impolite.
 
 Solveig ignored him.
 
-“Sera?”
+[[speaker:solveig]]“Sera?”
 
 “Still in Wuyue.”
 
@@ -302,13 +302,13 @@ The messenger continued quickly.
 
 Solveig looked at the map.
 
-“Tell her to arrive with an army that can still eat when it gets here.”
+[[speaker:solveig]]“Tell her to arrive with an army that can still eat when it gets here.”
 
 The messenger blinked.
 
 “Those exact words?”
 
-“Yes.”
+[[speaker:solveig]]“Yes.”
 
 Varok said, “Add something inspiring.”
 
@@ -316,7 +316,7 @@ Solveig looked at him.
 
 He reconsidered.
 
-“Never mind.”
+[[speaker:varok]]“Never mind.”
 
 The messenger left.
 
@@ -324,7 +324,7 @@ At sea, the first Shinsei transport lowered boats.
 
 Brynja saw them spread.
 
-“Range?”
+[[speaker:brynja]]“Range?”
 
 “Not yet.”
 
@@ -390,7 +390,7 @@ Brynja's expression changed.
 
 She watched the man lower the shield.
 
-“Maybe.”
+[[speaker:brynja]]“Maybe.”
 
 The figure turned toward the other boats and made one short hand signal.
 
@@ -404,13 +404,13 @@ Brynja felt something colder than fear.
 
 Recognition without a name.
 
-“Send the shieldwork description inland.”
+[[speaker:brynja]]“Send the shieldwork description inland.”
 
 The lookout looked at her.
 
 “Why?”
 
-“Because somebody older than me may hate it for a reason.”
+[[speaker:brynja]]“Because somebody older than me may hate it for a reason.”
 
 The first Shinsei boots touched Isgard before noon.
 
@@ -458,7 +458,7 @@ She did not look at the battlefield first.
 
 She looked at the wounded.
 
-“Who was struck by the coastal bolt?”
+[[speaker:aya]]“Who was struck by the coastal bolt?”
 
 A medic raised one hand.
 
@@ -468,7 +468,7 @@ A medic raised one hand.
 
 “None.”
 
-“Keep it that way.”
+[[speaker:aya]]“Keep it that way.”
 
 Aya knelt beside a soldier coughing blood.
 
@@ -488,11 +488,11 @@ A captain approached.
 
 He stopped.
 
-“The wounded come here. I do not move the hospital into siege range because a map wants symmetry.”
+[[speaker:aya]]“The wounded come here. I do not move the hospital into siege range because a map wants symmetry.”
 
 “Yes, Lady Aya.”
 
-“Also stop calling me Lady in a treatment tent.”
+[[speaker:aya]]“Also stop calling me Lady in a treatment tent.”
 
 “Yes, Lady—”
 
@@ -512,17 +512,17 @@ Thunder Qi snapped around his calves.
 
 He turned.
 
-“What?”
+[[speaker:kenji]]“What?”
 
 “The ramp!”
 
-“I have legs.”
+[[speaker:kenji]]“I have legs.”
 
 “You also have regulations!”
 
 Kenji looked genuinely offended.
 
-“Why?”
+[[speaker:kenji]]“Why?”
 
 A soldier laughed despite himself.
 
@@ -558,11 +558,11 @@ One officer said, “Stone face. Reinforced gates. Layered stakes.”
 
 Jun looked once.
 
-“Do not waste men proving the wall is thick.”
+[[speaker:jun]]“Do not waste men proving the wall is thick.”
 
 The officer waited.
 
-“Find where the road makes them defend it.”
+[[speaker:jun]]“Find where the road makes them defend it.”
 
 Jun's reputation had been built at Thirteen Gates.
 
@@ -596,25 +596,25 @@ A young Shinsei soldier stood nearby gripping his spear too tightly.
 
 Nao noticed.
 
-“First campaign?”
+[[speaker:nao]]“First campaign?”
 
 He stared straight ahead.
 
 “No, Lady Nao.”
 
-“You are lying to somebody who grew up running a bathhouse.”
+[[speaker:nao]]“You are lying to somebody who grew up running a bathhouse.”
 
 The soldier blinked.
 
 Nao looked at his hands.
 
-“People only hold things like that when they are afraid the object may escape.”
+[[speaker:nao]]“People only hold things like that when they are afraid the object may escape.”
 
 His grip loosened by instinct.
 
 She smiled faintly.
 
-“Better.”
+[[speaker:nao]]“Better.”
 
 He swallowed.
 
@@ -622,13 +622,13 @@ He swallowed.
 
 Nao looked toward the Isgard hills.
 
-“Ask me something I can know.”
+[[speaker:nao]]“Ask me something I can know.”
 
 The soldier hesitated.
 
 “Will you be here?”
 
-“Yes.”
+[[speaker:nao]]“Yes.”
 
 That answer steadied him more than a lie would have.
 
@@ -662,31 +662,31 @@ A commander did not discard a shield because the paint had become politically in
 
 Eirik traced Halvek's road system with one finger.
 
-“Do not push center yet.”
+[[speaker:eirik]]“Do not push center yet.”
 
 Jun looked at him.
 
-“The road is the center.”
+[[speaker:jun]]“The road is the center.”
 
-“The road is what Halvek wants us to believe the center is.”
+[[speaker:eirik]]“The road is what Halvek wants us to believe the center is.”
 
 Jun considered.
 
 Eirik moved his finger east.
 
-“He will trade ground for movement. If we chase the ground, he keeps the movement.”
+[[speaker:eirik]]“He will trade ground for movement. If we chase the ground, he keeps the movement.”
 
 Nao entered.
 
-“Civilians?”
+[[speaker:nao]]“Civilians?”
 
 Eirik pointed at three valleys.
 
-“Likely clearing inland.”
+[[speaker:eirik]]“Likely clearing inland.”
 
-“Orders?”
+[[speaker:nao]]“Orders?”
 
-“No targeting evacuation columns unless they contain active military formations using them as cover.”
+[[speaker:eirik]]“No targeting evacuation columns unless they contain active military formations using them as cover.”
 
 Jun nodded.
 
@@ -694,65 +694,65 @@ Kenji arrived a moment later wet to the knee.
 
 Eirik looked at him.
 
-“Ramp.”
+[[speaker:eirik]]“Ramp.”
 
 Kenji stared.
 
-“How did you know?”
+[[speaker:kenji]]“How did you know?”
 
-“Your officer complained before you arrived.”
+[[speaker:eirik]]“Your officer complained before you arrived.”
 
-“Betrayal.”
+[[speaker:kenji]]“Betrayal.”
 
 Nao said, “Regulation.”
 
-“Worse.”
+[[speaker:kenji]]“Worse.”
 
 For one moment they looked almost ordinary.
 
 Then Aya entered carrying a casualty sheet.
 
-“Coastal batteries killed forty-three before landing. Another seventy-one injured.”
+[[speaker:aya]]“Coastal batteries killed forty-three before landing. Another seventy-one injured.”
 
 Eirik took the sheet.
 
-“Can they move?”
+[[speaker:eirik]]“Can they move?”
 
-“Some.”
+[[speaker:aya]]“Some.”
 
-“Redline?”
+[[speaker:eirik]]“Redline?”
 
 Aya's eyes sharpened.
 
-“Not for a landing we already secured.”
+[[speaker:aya]]“Not for a landing we already secured.”
 
-“I did not ask for it.”
+[[speaker:eirik]]“I did not ask for it.”
 
-“Good.”
+[[speaker:aya]]“Good.”
 
 Eirik handed the sheet back.
 
-“What do you need?”
+[[speaker:eirik]]“What do you need?”
 
-“Clean water. More cloth. Less command curiosity inside my hospital.”
+[[speaker:aya]]“Clean water. More cloth. Less command curiosity inside my hospital.”
 
-“Done.”
+[[speaker:eirik]]“Done.”
 
 Aya left.
 
 Kenji watched her go.
 
-“She likes you.”
+[[speaker:kenji]]“She likes you.”
 
 Eirik looked at him.
 
 “No.”
 
-“Respect?”
+[[speaker:kenji]]“Respect?”
 
-“Possibly.”
+[[speaker:eirik]]“Possibly.”
 
-“Same thing at your age.”
+[[speaker:kenji]]“Same thing at your age.”
 
 Nao covered a smile.
 
@@ -776,7 +776,7 @@ Now the people on the shore had to make that choice successful.
 
 Eirik touched the old shield.
 
-“Move before evening.”
+[[speaker:eirik]]“Move before evening.”
 
 Jun nodded.
 
@@ -854,7 +854,7 @@ Orven looked at him.
 
 Solveig felt the room change.
 
-“Eirik Voss is dead.”
+[[speaker:solveig]]“Eirik Voss is dead.”
 
 Orven laughed once.
 
@@ -874,7 +874,7 @@ The second officer sat down.
 
 Varok looked between them.
 
-“Explain.”
+[[speaker:varok]]“Explain.”
 
 Orven closed his eyes.
 
@@ -918,7 +918,7 @@ People built twenty years on the belief that removing himself had been his final
 
 Solveig looked at the coast marker.
 
-“If he lived, why Shinsei?”
+[[speaker:solveig]]“If he lived, why Shinsei?”
 
 Orven answered quietly.
 
@@ -934,11 +934,11 @@ A messenger entered at speed.
 
 Solveig stood.
 
-“Who?”
+[[speaker:solveig]]“Who?”
 
 “Shinsei command delegation under flag.”
 
-“Terms?”
+[[speaker:solveig]]“Terms?”
 
 “They requested Aldric.”
 
@@ -1000,11 +1000,11 @@ Just a dead man walking toward his old country beneath a foreign flag.
 
 Aldric said his name.
 
-“Eirik.”
+[[speaker:aldric]]“Eirik.”
 
 The other man stopped.
 
-“Aldric.”
+[[speaker:eirik]]“Aldric.”
 
 Behind the Isgard line, somebody began crying.
 
@@ -1034,29 +1034,29 @@ His face did not change.
 
 Aldric's did.
 
-“You chose Shinsei.”
+[[speaker:aldric]]“You chose Shinsei.”
 
 Eirik looked toward the broken-circle banner.
 
 “Yes.”
 
-“Why?”
+[[speaker:aldric]]“Why?”
 
-“Because I spent half my life trying to make Isgard stop bleeding through the cracks between its own authorities.”
+[[speaker:eirik]]“Because I spent half my life trying to make Isgard stop bleeding through the cracks between its own authorities.”
 
-“And so you came back with foreigners.”
+[[speaker:aldric]]“And so you came back with foreigners.”
 
-“With a system that ended the same disease in Shinrin.”
+[[speaker:eirik]]“With a system that ended the same disease in Shinrin.”
 
 Aldric's grip tightened on the spear.
 
-“You think occupation is medicine.”
+[[speaker:aldric]]“You think occupation is medicine.”
 
-“No.”
+[[speaker:eirik]]“No.”
 
 Eirik's answer was immediate.
 
-“I think disorder can kill more people than occupation if everyone involved is too proud to admit the arithmetic.”
+[[speaker:eirik]]“I think disorder can kill more people than occupation if everyone involved is too proud to admit the arithmetic.”
 
 Maedra's eyes hardened.
 
@@ -1070,27 +1070,27 @@ Small.
 
 Real.
 
-“Look at Isgard.”
+[[speaker:eirik]]“Look at Isgard.”
 
-“I am.”
+[[speaker:aldric]]“I am.”
 
-“Look at the farms.”
+[[speaker:eirik]]“Look at the farms.”
 
-“I have.”
+[[speaker:aldric]]“I have.”
 
-“The mines.”
+[[speaker:eirik]]“The mines.”
 
-“Yes.”
+[[speaker:aldric]]“Yes.”
 
-“The medicine routes.”
+[[speaker:eirik]]“The medicine routes.”
 
-“Yes.”
+[[speaker:aldric]]“Yes.”
 
-“The epidemic emptied valleys you still expect soldiers to defend.”
+[[speaker:eirik]]“The epidemic emptied valleys you still expect soldiers to defend.”
 
 Aldric stepped forward one pace.
 
-“And you saw that weakness and brought an army.”
+[[speaker:aldric]]“And you saw that weakness and brought an army.”
 
 Eirik did not deny it.
 
@@ -1100,21 +1100,21 @@ That surprised people.
 
 He continued.
 
-“I saw a country I once failed to stabilize breaking under problems it cannot solve with stronger champions.”
+[[speaker:eirik]]“I saw a country I once failed to stabilize breaking under problems it cannot solve with stronger champions.”
 
 Aldric's eyes became very cold.
 
-“So you will decide for us.”
+[[speaker:aldric]]“So you will decide for us.”
 
-“If the alternative is another generation dying because every region believes sovereignty means refusing coordination—”
+[[speaker:eirik]]“If the alternative is another generation dying because every region believes sovereignty means refusing coordination—”
 
-“Stop.”
+[[speaker:aldric]]“Stop.”
 
 The word crossed the field.
 
 Aldric lowered the butt of his spear into the frozen ground.
 
-“You left.”
+[[speaker:aldric]]“You left.”
 
 Eirik went still.
 
@@ -1122,31 +1122,31 @@ Eirik went still.
 
 “Yes.”
 
-“And now you return with twenty-five thousand soldiers to explain that our right to choose became inconvenient.”
+[[speaker:aldric]]“And now you return with twenty-five thousand soldiers to explain that our right to choose became inconvenient.”
 
 Eirik said nothing.
 
 Aldric continued.
 
-“You may be right about every road.”
+[[speaker:aldric]]“You may be right about every road.”
 
 A pause.
 
-“Every tax.”
+[[speaker:aldric]]“Every tax.”
 
 Another.
 
-“Every shortage.”
+[[speaker:aldric]]“Every shortage.”
 
 The wind moved between them.
 
-“You may even be right that our government is worse at some things than yours.”
+[[speaker:aldric]]“You may even be right that our government is worse at some things than yours.”
 
 Eirik's eyes remained on him.
 
 Aldric's voice hardened.
 
-“That does not make Isgard yours.”
+[[speaker:aldric]]“That does not make Isgard yours.”
 
 No cheer followed.
 
@@ -1164,15 +1164,15 @@ Toward young ones who only knew stories.
 
 Aldric almost smiled.
 
-“Provisionally.”
+[[speaker:aldric]]“Provisionally.”
 
-“Yes.”
+[[speaker:eirik]]“Yes.”
 
-“There it is.”
+[[speaker:aldric]]“There it is.”
 
 Eirik's jaw tightened.
 
-“I am offering a route that does not require these fields to fill with bodies.”
+[[speaker:eirik]]“I am offering a route that does not require these fields to fill with bodies.”
 
 Aldric lifted his spear.
 
@@ -1180,19 +1180,19 @@ Not attacking.
 
 Answering.
 
-“So am I.”
+[[speaker:aldric]]“So am I.”
 
 Eirik looked at the spear point.
 
 Then at Aldric.
 
-“Wuyue will come.”
+[[speaker:eirik]]“Wuyue will come.”
 
-“Yes.”
+[[speaker:aldric]]“Yes.”
 
-“You trust them after the last war?”
+[[speaker:eirik]]“You trust them after the last war?”
 
-“I trust what they did after winning.”
+[[speaker:aldric]]“I trust what they did after winning.”
 
 That landed.
 
@@ -1208,13 +1208,13 @@ Eirik understood why Aldric chose that comparison.
 
 His expression became sad.
 
-“Tsubasa believes Wuyue will commit cautiously.”
+[[speaker:eirik]]“Tsubasa believes Wuyue will commit cautiously.”
 
 Aldric said, “Then Tsubasa does not know Sera.”
 
 For the first time, Eirik almost smiled.
 
-“Perhaps.”
+[[speaker:eirik]]“Perhaps.”
 
 He lifted his shield.
 
@@ -1222,7 +1222,7 @@ Not into guard.
 
 Yet.
 
-“Last chance.”
+[[speaker:eirik]]“Last chance.”
 
 Aldric's spear settled into both hands.
 
@@ -1238,11 +1238,11 @@ When he opened them, the old ruler was still there.
 
 So was the Shinsei commander.
 
-“Then we meet tomorrow.”
+[[speaker:eirik]]“Then we meet tomorrow.”
 
 Aldric nodded.
 
-“Tomorrow.”
+[[speaker:aldric]]“Tomorrow.”
 
 They turned away from each other.
 
