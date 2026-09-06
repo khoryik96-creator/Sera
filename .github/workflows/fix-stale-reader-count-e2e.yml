@@ -1,0 +1,34 @@
+name: Fix Stale Reader Count E2E
+
+on:
+  push:
+    branches:
+      - story/final-arc-literary-polish
+    paths:
+      - scripts/fix-stale-reader-count-e2e.mjs
+      - .github/workflows/fix-stale-reader-count-e2e.yml
+
+permissions:
+  contents: write
+
+jobs:
+  apply:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          ref: story/final-arc-literary-polish
+          fetch-depth: 0
+      - uses: actions/setup-node@v7
+        with:
+          node-version: 24
+      - name: Update stale E2E expectations
+        run: node scripts/fix-stale-reader-count-e2e.mjs
+      - name: Commit E2E maintenance
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add e2e
+          git diff --cached --quiet && exit 0
+          git commit -m "Use canonical story counts in reader E2E"
+          git push origin HEAD:story/final-arc-literary-polish
