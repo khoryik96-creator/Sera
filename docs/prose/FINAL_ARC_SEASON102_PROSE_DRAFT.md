@@ -1148,7 +1148,7 @@ Nao's eyes changed.
 
 [[speaker:nao]]“You'll tear something.”
 
-“Probably.”
+[[speaker:tor_veyrhald]]“Probably.”
 
 [[speaker:nao]]“Then reduce output.”
 
@@ -1312,7 +1312,7 @@ Tor laughed weakly.
 
 [[speaker:tor_veyrhald]]“Isgard will retrieve me.”
 
-“Probably.”
+[[speaker:nao]]“Probably.”
 
 [[speaker:tor_veyrhald]]“You sound certain.”
 
@@ -1350,7 +1350,7 @@ Tor saw.
 
 [[speaker:tor_veyrhald]]“Do not.”
 
-“What?”
+[[speaker:nao]]“What?”
 
 [[speaker:tor_veyrhald]]“Look guilty.”
 
@@ -1382,7 +1382,7 @@ Tor closed his eyes.
 
 Nao looked back.
 
-“What?”
+[[speaker:nao]]“What?”
 
 [[speaker:tor_veyrhald]]“You are thinking.”
 

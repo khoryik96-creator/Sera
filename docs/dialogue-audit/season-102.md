@@ -1,6 +1,6 @@
 # Season 102 — unattributed dialogue
 
-42 quoted lines in this season have no speaker.
+38 quoted lines in this season have no speaker.
 See `README.md` in this folder for what to do with them.
 
 Lines already resolved show their speaker in `[brackets]` for context.
@@ -105,41 +105,6 @@ His lieutenant stared.
 >>> “What?”   <-- WHO SAYS THIS?
 [raska] “Off the horses!”
 A cavalry commander ordering dismount in open ground sounded insane.
-```
-
-### Chapter 374 — Tor Wins the Retreat and Loses the Frontline
-
-```
-His axe regained full weight.
-Nao's eyes changed.
-[nao] “You'll tear something.”
->>> “Probably.”   <-- WHO SAYS THIS?
-[nao] “Then reduce output.”
-[tor_veyrhald] “No.”
-```
-```
-[nao] “Prisoner. Alive.”
-Tor laughed weakly.
-[tor_veyrhald] “Isgard will retrieve me.”
->>> “Probably.”   <-- WHO SAYS THIS?
-[tor_veyrhald] “You sound certain.”
-[nao] “You are irritating enough that somebody will pay.”
-```
-```
-Her face became very quiet.
-Tor saw.
-[tor_veyrhald] “Do not.”
->>> “What?”   <-- WHO SAYS THIS?
-[tor_veyrhald] “Look guilty.”
-[nao] “I did this.”
-```
-```
-Tor closed his eyes.
-“Terrible face,” he muttered.
-Nao looked back.
->>> “What?”   <-- WHO SAYS THIS?
-[tor_veyrhald] “You are thinking.”
-[nao] “I do that.”
 ```
 
 ### Chapter 375 — Eldran Stands Where Maedra Would Have Died
