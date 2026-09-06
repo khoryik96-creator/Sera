@@ -72,7 +72,7 @@ Yun opened her eyes.
 
 “You need a bed.”
 
-“Both.”
+[[speaker:yun]]“Both.”
 
 The physician almost argued.
 
@@ -282,7 +282,7 @@ The liaison pulled a chair close.
 
 “Wuyue No.10?”
 
-“Yes.”
+[[speaker:yun]]“Yes.”
 
 “I am Commander Hallen, northern pact liaison. Whatever you tell me now goes directly to central command and Wuyue.”
 
@@ -604,7 +604,7 @@ Hallen returned to the chair.
 
 Yun looked at him.
 
-“No.”
+[[speaker:yun]]“No.”
 
 “For protection?”
 
@@ -712,7 +712,7 @@ He understood what she meant.
 
 She closed her eyes.
 
-“Good.”
+[[speaker:yun]]“Good.”
 
 That was the last clear word she spoke.
 
@@ -770,7 +770,7 @@ Then again.
 
 Sera saw his face before she saw the paper.
 
-“What?”
+[[speaker:sera]]“What?”
 
 Lu did not answer immediately.
 
@@ -784,17 +784,17 @@ Luo Wen was in the clinic.
 
 Lu looked at Sera.
 
-“Isgard activated the pact.”
+[[speaker:luweiran]]“Isgard activated the pact.”
 
 The room stopped.
 
 Jin’s hand left the map.
 
-“Cause?”
+[[speaker:jin]]“Cause?”
 
 Lu held out the report.
 
-“Foreign invasion preparation. Shinrin.”
+[[speaker:luweiran]]“Foreign invasion preparation. Shinrin.”
 
 Sera took it.
 
@@ -820,7 +820,7 @@ One heartbeat.
 
 Then continued.
 
-“Alive?”
+[[speaker:sera]]“Alive?”
 
 Lu looked at the second page.
 
@@ -828,7 +828,7 @@ Nobody spoke.
 
 Sera already knew.
 
-“Say it.”
+[[speaker:sera]]“Say it.”
 
 Lu’s voice was quiet.
 
@@ -852,11 +852,11 @@ Sera nodded.
 
 She read aloud.
 
-“Shinsei Guild controls Shinrin’s state and military structure.”
+[[speaker:sera]]“Shinsei Guild controls Shinrin’s state and military structure.”
 
 Jin’s eyes sharpened.
 
-“Axtaya is institutional. Combat-throughput stimulant. Multiple tiers. High tier approximately three-times throughput for short duration. Future-vitality cost.”
+[[speaker:sera]]“Axtaya is institutional. Combat-throughput stimulant. Multiple tiers. High tier approximately three-times throughput for short duration. Future-vitality cost.”
 
 Huo swore.
 
@@ -870,21 +870,21 @@ Silence again.
 
 Tae said, “Two hundred thousand?”
 
-“Lower bound.”
+[[speaker:sera]]“Lower bound.”
 
 His expression changed.
 
 Then Sera reached the next line.
 
-“Ten ranked Paragon officers.”
+[[speaker:sera]]“Ten ranked Paragon officers.”
 
 Nobody interrupted her this time.
 
-“Shunto Takamori. No.2. High Paragon. Capture specialist.”
+[[speaker:sera]]“Shunto Takamori. No.2. High Paragon. Capture specialist.”
 
 Qin’s gaze sharpened.
 
-“Tsubasa Kurokawa. No.1. Stronger than Shunto. Exact mechanics unknown.”
+[[speaker:sera]]“Tsubasa Kurokawa. No.1. Stronger than Shunto. Exact mechanics unknown.”
 
 Jin said, “Good. She did not guess.”
 
@@ -894,19 +894,19 @@ He meant it as respect.
 
 She knew.
 
-“Target: Isgard. Four-month readiness cycle. Yun left late month three. Launch window may be weeks.”
+[[speaker:sera]]“Target: Isgard. Four-month readiness cycle. Yun left late month three. Launch window may be weeks.”
 
 Jin moved immediately.
 
 The strategist replaced the grieving man because both had to exist and only one could use the next hour.
 
-“Activate pact mobilization protocols. Do not wait for a second message.”
+[[speaker:jin]]“Activate pact mobilization protocols. Do not wait for a second message.”
 
 Lu was already writing.
 
-“Which forces?”
+[[speaker:luweiran]]“Which forces?”
 
-“All assigned defensive contingencies first. No public panic order until we know transport capacity and landing options.”
+[[speaker:jin]]“All assigned defensive contingencies first. No public panic order until we know transport capacity and landing options.”
 
 Sera said, “Quaint prepares.”
 
@@ -914,19 +914,19 @@ Qin nodded.
 
 Tae said, “All one thousand?”
 
-“Prepare all. Move only on command.”
+[[speaker:sera]]“Prepare all. Move only on command.”
 
 Huo was already halfway through the door.
 
 “Where are you going?” Tae asked.
 
-“To make sure your company does not pack six months of tea and no bandages.”
+[[speaker:huo]]“To make sure your company does not pack six months of tea and no bandages.”
 
-“That happened once.”
+[[speaker:tae]]“That happened once.”
 
-“Twice.”
+[[speaker:huo]]“Twice.”
 
-“It was good tea.”
+[[speaker:tae]]“It was good tea.”
 
 For one impossible second, Yun would have found that funny.
 
@@ -934,17 +934,17 @@ Then the room remembered she was dead.
 
 Sera folded the report.
 
-“Luo.”
+[[speaker:sera]]“Luo.”
 
 Lu nodded.
 
-“I will tell him.”
+[[speaker:luweiran]]“I will tell him.”
 
-“No.”
+[[speaker:sera]]“No.”
 
 Sera stood.
 
-“I will.”
+[[speaker:sera]]“I will.”
 
 The clinic smelled like bitterroot and boiled cloth.
 
@@ -956,13 +956,13 @@ Saw her face.
 
 Finished tying the bandage anyway.
 
-“Change this in six hours,” he told the apprentice. “If the swelling crosses the ink line, wake me.”
+[[speaker:luo]]“Change this in six hours,” he told the apprentice. “If the swelling crosses the ink line, wake me.”
 
 The apprentice nodded and left.
 
 Only then did Luo turn fully toward Sera.
 
-“She made it?”
+[[speaker:luo]]“She made it?”
 
 Sera’s chest tightened.
 
@@ -978,7 +978,7 @@ Because he knew what Yun had gone to do.
 
 Sera nodded.
 
-“The warning reached Isgard.”
+[[speaker:sera]]“The warning reached Isgard.”
 
 Luo closed his eyes.
 
@@ -986,9 +986,9 @@ One breath.
 
 Then:
 
-“And her?”
+[[speaker:luo]]“And her?”
 
-“She died after giving the report.”
+[[speaker:sera]]“She died after giving the report.”
 
 Nothing broke dramatically.
 
@@ -1002,15 +1002,15 @@ He sat down on the nearest stool because standing had become unnecessary.
 
 Sera placed the report beside him.
 
-“There is an Axtaya sample in Isgard. She asked that it reach you.”
+[[speaker:sera]]“There is an Axtaya sample in Isgard. She asked that it reach you.”
 
 His hand moved to the paper.
 
 Stopped before touching it.
 
-“She said my name?”
+[[speaker:luo]]“She said my name?”
 
-“Yes.”
+[[speaker:sera]]“Yes.”
 
 That one hurt more.
 
@@ -1036,11 +1036,11 @@ Not yet.
 
 He kept reading.
 
-“She remembered everything.”
+[[speaker:luo]]“She remembered everything.”
 
-“Yes.”
+[[speaker:sera]]“Yes.”
 
-“Of course she did.”
+[[speaker:luo]]“Of course she did.”
 
 His voice almost failed there.
 
@@ -1054,33 +1054,33 @@ Grief remained. So did the work Yun had spent her final strength giving him.
 
 Luo stood.
 
-“Tell Isgard not to open the capillary outside controlled ventilation. I want comparative bloodwork from any exposed users they have. And no one assumes healing restored spent vitality.”
+[[speaker:luo]]“Tell Isgard not to open the capillary outside controlled ventilation. I want comparative bloodwork from any exposed users they have. And no one assumes healing restored spent vitality.”
 
 Sera watched him.
 
-“Luo.”
+[[speaker:sera]]“Luo.”
 
-“I know.”
+[[speaker:luo]]“I know.”
 
 He looked at her.
 
 His eyes were wet now.
 
-“I know she is dead.”
+[[speaker:luo]]“I know she is dead.”
 
 Sera said nothing.
 
 Luo looked down at the report.
 
-“I can know that and still work.”
+[[speaker:luo]]“I can know that and still work.”
 
-“Yes.”
+[[speaker:sera]]“Yes.”
 
-“Good.”
+[[speaker:luo]]“Good.”
 
 He wiped his face once with the heel of his hand, irritated by the inconvenience of tears.
 
-“Then we work.”
+[[speaker:luo]]“Then we work.”
 
 Sera left him with the report.
 

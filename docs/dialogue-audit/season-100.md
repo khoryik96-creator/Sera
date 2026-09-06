@@ -1,6 +1,6 @@
 # Season 100 — unattributed dialogue
 
-233 quoted lines in this season have no speaker.
+185 quoted lines in this season have no speaker.
 See `README.md` in this folder for what to do with them.
 
 Lines already resolved show their speaker in `[brackets]` for context.
@@ -28,16 +28,8 @@ Yun opened her eyes.
 “You need treatment now.”
 [yun] “I need an officer.”
 >>> “You need a bed.”   <-- WHO SAYS THIS?
-“Both.”
+[yun] “Both.”
 The physician almost argued.
-```
-```
-“You need treatment now.”
-[yun] “I need an officer.”
-“You need a bed.”
->>> “Both.”   <-- WHO SAYS THIS?
-The physician almost argued.
-Then Yun said, “Wuyue.”
 ```
 ```
 He paused.
@@ -148,21 +140,13 @@ The liaison pulled a chair close.
 “Yun Shizhen?”
 [yun] “Yes.”
 >>> “Wuyue No.10?”   <-- WHO SAYS THIS?
-“Yes.”
-“I am Commander Hallen, northern pact liaison. Whatever you tell me now goes directly to central command and Wuyue.”
-```
-```
-“Yun Shizhen?”
 [yun] “Yes.”
-“Wuyue No.10?”
->>> “Yes.”   <-- WHO SAYS THIS?
 “I am Commander Hallen, northern pact liaison. Whatever you tell me now goes directly to central command and Wuyue.”
-Yun looked at him.
 ```
 ```
 [yun] “Yes.”
 “Wuyue No.10?”
-“Yes.”
+[yun] “Yes.”
 >>> “I am Commander Hallen, northern pact liaison. Whatever you tell me now goes directly to central command and Wuyue.”   <-- WHO SAYS THIS?
 Yun looked at him.
 [yun] “Send the alert first.”
@@ -416,26 +400,18 @@ Hallen returned to the chair.
 [yun] “Insider assistance.”
 >>> “Name?”   <-- WHO SAYS THIS?
 Yun looked at him.
-“No.”
-```
-```
-[yun] “Insider assistance.”
-“Name?”
-Yun looked at him.
->>> “No.”   <-- WHO SAYS THIS?
-“For protection?”
-[yun] “For theirs.”
+[yun] “No.”
 ```
 ```
 “Name?”
 Yun looked at him.
-“No.”
+[yun] “No.”
 >>> “For protection?”   <-- WHO SAYS THIS?
 [yun] “For theirs.”
 “Shinsei insider?”
 ```
 ```
-“No.”
+[yun] “No.”
 “For protection?”
 [yun] “For theirs.”
 >>> “Shinsei insider?”   <-- WHO SAYS THIS?
@@ -520,370 +496,7 @@ Yun looked at him.
 He understood what she meant.
 >>> “The warning is moving.”   <-- WHO SAYS THIS?
 She closed her eyes.
-“Good.”
-```
-```
-He understood what she meant.
-“The warning is moving.”
-She closed her eyes.
->>> “Good.”   <-- WHO SAYS THIS?
-That was the last clear word she spoke.
-Her breathing slowed.
-```
-
-### Chapter 357 — The Warning Reaches Wuyue
-
-```
-He read the first line once.
-Then again.
-Sera saw his face before she saw the paper.
->>> “What?”   <-- WHO SAYS THIS?
-Lu did not answer immediately.
-Jin Seoryu stood over the western campaign map with two logistics officers.
-```
-```
-Qin Luo had just entered from the lower training yard.
-Luo Wen was in the clinic.
-Lu looked at Sera.
->>> “Isgard activated the pact.”   <-- WHO SAYS THIS?
-The room stopped.
-Jin’s hand left the map.
-```
-```
-“Isgard activated the pact.”
-The room stopped.
-Jin’s hand left the map.
->>> “Cause?”   <-- WHO SAYS THIS?
-Lu held out the report.
-“Foreign invasion preparation. Shinrin.”
-```
-```
-Jin’s hand left the map.
-“Cause?”
-Lu held out the report.
->>> “Foreign invasion preparation. Shinrin.”   <-- WHO SAYS THIS?
-Sera took it.
-Her eyes moved fast.
-```
-```
-Sera’s breath stopped.
-One heartbeat.
-Then continued.
->>> “Alive?”   <-- WHO SAYS THIS?
-Lu looked at the second page.
-Nobody spoke.
-```
-```
-Lu looked at the second page.
-Nobody spoke.
-Sera already knew.
->>> “Say it.”   <-- WHO SAYS THIS?
-Lu’s voice was quiet.
-[luweiran] “She died after completing the report.”
-```
-```
-Necessary.
-Sera nodded.
-She read aloud.
->>> “Shinsei Guild controls Shinrin’s state and military structure.”   <-- WHO SAYS THIS?
-Jin’s eyes sharpened.
-“Axtaya is institutional. Combat-throughput stimulant. Multiple tiers. High tier approximately three-times throughput for short duration. Future-vitality cost.”
-```
-```
-She read aloud.
-“Shinsei Guild controls Shinrin’s state and military structure.”
-Jin’s eyes sharpened.
->>> “Axtaya is institutional. Combat-throughput stimulant. Multiple tiers. High tier approximately three-times throughput for short duration. Future-vitality cost.”   <-- WHO SAYS THIS?
-Huo swore.
-“Army?” Qin asked.
-```
-```
-[sera] “Wider trained apparatus greater than two hundred thousand. Not one confirmed field army. Peak Marquis common enough within elite cohorts that normal Wuyue scarcity assumptions are unsafe.”
-Silence again.
-Tae said, “Two hundred thousand?”
->>> “Lower bound.”   <-- WHO SAYS THIS?
-His expression changed.
-Then Sera reached the next line.
-```
-```
-“Lower bound.”
-His expression changed.
-Then Sera reached the next line.
->>> “Ten ranked Paragon officers.”   <-- WHO SAYS THIS?
-Nobody interrupted her this time.
-“Shunto Takamori. No.2. High Paragon. Capture specialist.”
-```
-```
-Then Sera reached the next line.
-“Ten ranked Paragon officers.”
-Nobody interrupted her this time.
->>> “Shunto Takamori. No.2. High Paragon. Capture specialist.”   <-- WHO SAYS THIS?
-Qin’s gaze sharpened.
-“Tsubasa Kurokawa. No.1. Stronger than Shunto. Exact mechanics unknown.”
-```
-```
-Nobody interrupted her this time.
-“Shunto Takamori. No.2. High Paragon. Capture specialist.”
-Qin’s gaze sharpened.
->>> “Tsubasa Kurokawa. No.1. Stronger than Shunto. Exact mechanics unknown.”   <-- WHO SAYS THIS?
-Jin said, “Good. She did not guess.”
-Sera looked at him.
-```
-```
-Sera looked at him.
-He meant it as respect.
-She knew.
->>> “Target: Isgard. Four-month readiness cycle. Yun left late month three. Launch window may be weeks.”   <-- WHO SAYS THIS?
-Jin moved immediately.
-The strategist replaced the grieving man because both had to exist and only one could use the next hour.
-```
-```
-“Target: Isgard. Four-month readiness cycle. Yun left late month three. Launch window may be weeks.”
-Jin moved immediately.
-The strategist replaced the grieving man because both had to exist and only one could use the next hour.
->>> “Activate pact mobilization protocols. Do not wait for a second message.”   <-- WHO SAYS THIS?
-Lu was already writing.
-“Which forces?”
-```
-```
-The strategist replaced the grieving man because both had to exist and only one could use the next hour.
-“Activate pact mobilization protocols. Do not wait for a second message.”
-Lu was already writing.
->>> “Which forces?”   <-- WHO SAYS THIS?
-“All assigned defensive contingencies first. No public panic order until we know transport capacity and landing options.”
-Sera said, “Quaint prepares.”
-```
-```
-“Activate pact mobilization protocols. Do not wait for a second message.”
-Lu was already writing.
-“Which forces?”
->>> “All assigned defensive contingencies first. No public panic order until we know transport capacity and landing options.”   <-- WHO SAYS THIS?
-Sera said, “Quaint prepares.”
-Qin nodded.
-```
-```
-Sera said, “Quaint prepares.”
-Qin nodded.
-Tae said, “All one thousand?”
->>> “Prepare all. Move only on command.”   <-- WHO SAYS THIS?
-Huo was already halfway through the door.
-“Where are you going?” Tae asked.
-```
-```
-“Prepare all. Move only on command.”
-Huo was already halfway through the door.
-“Where are you going?” Tae asked.
->>> “To make sure your company does not pack six months of tea and no bandages.”   <-- WHO SAYS THIS?
-“That happened once.”
-“Twice.”
-```
-```
-Huo was already halfway through the door.
-“Where are you going?” Tae asked.
-“To make sure your company does not pack six months of tea and no bandages.”
->>> “That happened once.”   <-- WHO SAYS THIS?
-“Twice.”
-“It was good tea.”
-```
-```
-“Where are you going?” Tae asked.
-“To make sure your company does not pack six months of tea and no bandages.”
-“That happened once.”
->>> “Twice.”   <-- WHO SAYS THIS?
-“It was good tea.”
-For one impossible second, Yun would have found that funny.
-```
-```
-“To make sure your company does not pack six months of tea and no bandages.”
-“That happened once.”
-“Twice.”
->>> “It was good tea.”   <-- WHO SAYS THIS?
-For one impossible second, Yun would have found that funny.
-Then the room remembered she was dead.
-```
-```
-For one impossible second, Yun would have found that funny.
-Then the room remembered she was dead.
-Sera folded the report.
->>> “Luo.”   <-- WHO SAYS THIS?
-Lu nodded.
-“I will tell him.”
-```
-```
-Sera folded the report.
-“Luo.”
-Lu nodded.
->>> “I will tell him.”   <-- WHO SAYS THIS?
-“No.”
-Sera stood.
-```
-```
-“Luo.”
-Lu nodded.
-“I will tell him.”
->>> “No.”   <-- WHO SAYS THIS?
-Sera stood.
-“I will.”
-```
-```
-“I will tell him.”
-“No.”
-Sera stood.
->>> “I will.”   <-- WHO SAYS THIS?
-The clinic smelled like bitterroot and boiled cloth.
-Luo was standing over a patient when Sera entered.
-```
-```
-He looked up once.
-Saw her face.
-Finished tying the bandage anyway.
->>> “Change this in six hours,” he told the apprentice. “If the swelling crosses the ink line, wake me.”   <-- WHO SAYS THIS?
-The apprentice nodded and left.
-Only then did Luo turn fully toward Sera.
-```
-```
-“Change this in six hours,” he told the apprentice. “If the swelling crosses the ink line, wake me.”
-The apprentice nodded and left.
-Only then did Luo turn fully toward Sera.
->>> “She made it?”   <-- WHO SAYS THIS?
-Sera’s chest tightened.
-Of all the questions.
-```
-```
-She made it.
-Because he knew what Yun had gone to do.
-Sera nodded.
->>> “The warning reached Isgard.”   <-- WHO SAYS THIS?
-Luo closed his eyes.
-One breath.
-```
-```
-Luo closed his eyes.
-One breath.
-Then:
->>> “And her?”   <-- WHO SAYS THIS?
-“She died after giving the report.”
-Nothing broke dramatically.
-```
-```
-One breath.
-Then:
-“And her?”
->>> “She died after giving the report.”   <-- WHO SAYS THIS?
-Nothing broke dramatically.
-Luo did not drop a cup.
-```
-```
-Did not fall to his knees.
-He sat down on the nearest stool because standing had become unnecessary.
-Sera placed the report beside him.
->>> “There is an Axtaya sample in Isgard. She asked that it reach you.”   <-- WHO SAYS THIS?
-His hand moved to the paper.
-Stopped before touching it.
-```
-```
-“There is an Axtaya sample in Isgard. She asked that it reach you.”
-His hand moved to the paper.
-Stopped before touching it.
->>> “She said my name?”   <-- WHO SAYS THIS?
-“Yes.”
-That one hurt more.
-```
-```
-His hand moved to the paper.
-Stopped before touching it.
-“She said my name?”
->>> “Yes.”   <-- WHO SAYS THIS?
-That one hurt more.
-Sera let the silence exist.
-```
-```
-Luo did not invent the missing pieces.
-Not yet.
-He kept reading.
->>> “She remembered everything.”   <-- WHO SAYS THIS?
-“Yes.”
-“Of course she did.”
-```
-```
-Not yet.
-He kept reading.
-“She remembered everything.”
->>> “Yes.”   <-- WHO SAYS THIS?
-“Of course she did.”
-His voice almost failed there.
-```
-```
-He kept reading.
-“She remembered everything.”
-“Yes.”
->>> “Of course she did.”   <-- WHO SAYS THIS?
-His voice almost failed there.
-Almost.
-```
-```
-Physician returned to his face.
-Grief remained. So did the work Yun had spent her final strength giving him.
-Luo stood.
->>> “Tell Isgard not to open the capillary outside controlled ventilation. I want comparative bloodwork from any exposed users they have. And no one assumes healing restored spent vitality.”   <-- WHO SAYS THIS?
-Sera watched him.
-“Luo.”
-```
-```
-Luo stood.
-“Tell Isgard not to open the capillary outside controlled ventilation. I want comparative bloodwork from any exposed users they have. And no one assumes healing restored spent vitality.”
-Sera watched him.
->>> “Luo.”   <-- WHO SAYS THIS?
-“I know.”
-He looked at her.
-```
-```
-“Tell Isgard not to open the capillary outside controlled ventilation. I want comparative bloodwork from any exposed users they have. And no one assumes healing restored spent vitality.”
-Sera watched him.
-“Luo.”
->>> “I know.”   <-- WHO SAYS THIS?
-He looked at her.
-His eyes were wet now.
-```
-```
-“I know.”
-He looked at her.
-His eyes were wet now.
->>> “I know she is dead.”   <-- WHO SAYS THIS?
-Sera said nothing.
-Luo looked down at the report.
-```
-```
-“I know she is dead.”
-Sera said nothing.
-Luo looked down at the report.
->>> “I can know that and still work.”   <-- WHO SAYS THIS?
-“Yes.”
-“Good.”
-```
-```
-Sera said nothing.
-Luo looked down at the report.
-“I can know that and still work.”
->>> “Yes.”   <-- WHO SAYS THIS?
-“Good.”
-He wiped his face once with the heel of his hand, irritated by the inconvenience of tears.
-```
-```
-Luo looked down at the report.
-“I can know that and still work.”
-“Yes.”
->>> “Good.”   <-- WHO SAYS THIS?
-He wiped his face once with the heel of his hand, irritated by the inconvenience of tears.
-“Then we work.”
-```
-```
-“Yes.”
-“Good.”
-He wiped his face once with the heel of his hand, irritated by the inconvenience of tears.
->>> “Then we work.”   <-- WHO SAYS THIS?
-Sera left him with the report.
-On the way back to command, she passed the lower corridor leading toward Rhen’s sealed chamber.
+[yun] “Good.”
 ```
 
 ### Chapter 358 — The Empty Number
