@@ -1,6 +1,6 @@
 # Season 100 — unattributed dialogue
 
-91 quoted lines in this season have no speaker.
+68 quoted lines in this season have no speaker.
 See `README.md` in this folder for what to do with them.
 
 Lines already resolved show their speaker in `[brackets]` for context.
@@ -537,14 +537,6 @@ Yun had died buying them days.
 ### Chapter 359 — Shen Rui Names the Gale
 
 ```
-[rui] “The No.10 seat is empty.”
-The humor left the room.
-Xie’s expression changed.
->>> “No.”   <-- WHO SAYS THIS?
-Rui had not asked yet.
-That made the answer clearer.
-```
-```
 “You are not Paragon,” one regional commander said carefully.
 Xie looked at him.
 [xie_wuchen] “No.”
@@ -564,186 +556,10 @@ Jin finally spoke.
 ### Chapter 360 — The Empty Number Is Still a Number
 
 ```
-Of course Lu noticed.
-“You said an hour,” he told him.
-Xie looked offended.
->>> “I changed my mind efficiently.”   <-- WHO SAYS THIS?
-The public confirmation was held in the command courtyard because there was no time to build anything more ceremonial.
-Good.
-```
-```
-Of course it did.
-Tae whispered, “Dramatic.”
-Huo said, “Weather.”
->>> “Dramatic weather.”   <-- WHO SAYS THIS?
-Qin ignored both.
-Shen Rui stood nearest the front.
-```
-```
 He had said no.
 That was his right.
 The record clerk opened the appointment ledger.
 >>> “Wuyue public ranking seat No.10, vacant following the death of Yun Shizhen, the Pale Venom—”   <-- WHO SAYS THIS?
 Xie raised one hand.
 The clerk stopped.
-```
-```
-Xie raised one hand.
-The clerk stopped.
-Xie looked at Sera.
->>> “I need this said correctly.”   <-- WHO SAYS THIS?
-Sera nodded.
-“Then say it.”
-```
-```
-Xie looked at Sera.
-“I need this said correctly.”
-Sera nodded.
->>> “Then say it.”   <-- WHO SAYS THIS?
-He looked around the courtyard.
-At Rui.
-```
-```
-At Jin.
-At the people preparing to send orders into a war Yun had discovered before any of them knew it existed.
-Then he looked at the No.10 marker.
->>> “I'm not replacing her.”   <-- WHO SAYS THIS?
-His voice carried without effort.
-“I’m taking the empty number.”
-```
-```
-Then he looked at the No.10 marker.
-“I'm not replacing her.”
-His voice carried without effort.
->>> “I’m taking the empty number.”   <-- WHO SAYS THIS?
-Nobody applauded.
-That would have been wrong.
-```
-```
-Nobody applauded.
-That would have been wrong.
-Sera picked up the marker and handed it to him.
->>> “Then carry the number.”   <-- WHO SAYS THIS?
-Xie took it.
-No burst of qi.
-```
-```
-The clerk entered the appointment.
-A messenger immediately stepped forward with the first command relay.
-Xie stared at it.
->>> “That fast?”   <-- WHO SAYS THIS?
-Jin said, “You wanted the work.”
-“I did not say wanted.”
-```
-```
-Xie stared at it.
-“That fast?”
-Jin said, “You wanted the work.”
->>> “I did not say wanted.”   <-- WHO SAYS THIS?
-“Accepted.”
-“Different word.”
-```
-```
-“That fast?”
-Jin said, “You wanted the work.”
-“I did not say wanted.”
->>> “Accepted.”   <-- WHO SAYS THIS?
-“Different word.”
-“Same paperwork.”
-```
-```
-Jin said, “You wanted the work.”
-“I did not say wanted.”
-“Accepted.”
->>> “Different word.”   <-- WHO SAYS THIS?
-“Same paperwork.”
-Xie took the relay.
-```
-```
-“I did not say wanted.”
-“Accepted.”
-“Different word.”
->>> “Same paperwork.”   <-- WHO SAYS THIS?
-Xie took the relay.
-It concerned an eastern formation whose mobilization authorization had been delayed by the vacant seat.
-```
-```
-Functional.
-The distinction echoed Luo’s medicine more than anyone noticed.
-Sera turned toward Jin.
->>> “Status.”   <-- WHO SAYS THIS?
-He had already moved on.
-“First pact columns are assembling. Isgard has begun coastal warning and medical reserve movement. We need verified transport counts before committing the heaviest formations.”
-```
-```
-Sera turned toward Jin.
-“Status.”
-He had already moved on.
->>> “First pact columns are assembling. Isgard has begun coastal warning and medical reserve movement. We need verified transport counts before committing the heaviest formations.”   <-- WHO SAYS THIS?
-“Shinsei?”
-“No confirmed launch yet.”
-```
-```
-“Status.”
-He had already moved on.
-“First pact columns are assembling. Isgard has begun coastal warning and medical reserve movement. We need verified transport counts before committing the heaviest formations.”
->>> “Shinsei?”   <-- WHO SAYS THIS?
-“No confirmed launch yet.”
-“Good.”
-```
-```
-He had already moved on.
-“First pact columns are assembling. Isgard has begun coastal warning and medical reserve movement. We need verified transport counts before committing the heaviest formations.”
-“Shinsei?”
->>> “No confirmed launch yet.”   <-- WHO SAYS THIS?
-“Good.”
-Tae frowned.
-```
-```
-“First pact columns are assembling. Isgard has begun coastal warning and medical reserve movement. We need verified transport counts before committing the heaviest formations.”
-“Shinsei?”
-“No confirmed launch yet.”
->>> “Good.”   <-- WHO SAYS THIS?
-Tae frowned.
-“Good?”
-```
-```
-“No confirmed launch yet.”
-“Good.”
-Tae frowned.
->>> “Good?”   <-- WHO SAYS THIS?
-“Every hour before launch is one Yun bought us.”
-That silenced him.
-```
-```
-“Good.”
-Tae frowned.
-“Good?”
->>> “Every hour before launch is one Yun bought us.”   <-- WHO SAYS THIS?
-That silenced him.
-Jin looked toward the north road.
-```
-```
-“Every hour before launch is one Yun bought us.”
-That silenced him.
-Jin looked toward the north road.
->>> “Phase one mobilization begins now.”   <-- WHO SAYS THIS?
-Sera nodded.
-“Do it.”
-```
-```
-Jin looked toward the north road.
-“Phase one mobilization begins now.”
-Sera nodded.
->>> “Do it.”   <-- WHO SAYS THIS?
-Across Wuyue, relay stations changed flags.
-Armories opened.
-```
-```
-One newly carried number.
-One dead woman whose warning had moved all of them.
-Sera unfolded the Isgard map.
->>> “Show me the northern roads.”   <-- WHO SAYS THIS?
-Lu did.
-Outside, the first mobilization bells began.
 ```

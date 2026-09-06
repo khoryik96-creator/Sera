@@ -310,7 +310,7 @@ The humor left the room.
 
 Xie’s expression changed.
 
-“No.”
+[[speaker:xie_wuchen]]“No.”
 
 Rui had not asked yet.
 
@@ -638,7 +638,7 @@ Of course Lu noticed.
 
 Xie looked offended.
 
-“I changed my mind efficiently.”
+[[speaker:xie_wuchen]]“I changed my mind efficiently.”
 
 The public confirmation was held in the command courtyard because there was no time to build anything more ceremonial.
 
@@ -678,7 +678,7 @@ Tae whispered, “Dramatic.”
 
 Huo said, “Weather.”
 
-“Dramatic weather.”
+[[speaker:tae]]“Dramatic weather.”
 
 Qin ignored both.
 
@@ -702,11 +702,11 @@ The clerk stopped.
 
 Xie looked at Sera.
 
-“I need this said correctly.”
+[[speaker:xie_wuchen]]“I need this said correctly.”
 
 Sera nodded.
 
-“Then say it.”
+[[speaker:sera]]“Then say it.”
 
 He looked around the courtyard.
 
@@ -718,11 +718,11 @@ At the people preparing to send orders into a war Yun had discovered before any 
 
 Then he looked at the No.10 marker.
 
-“I'm not replacing her.”
+[[speaker:xie_wuchen]]“I'm not replacing her.”
 
 His voice carried without effort.
 
-“I’m taking the empty number.”
+[[speaker:xie_wuchen]]“I’m taking the empty number.”
 
 Nobody applauded.
 
@@ -730,7 +730,7 @@ That would have been wrong.
 
 Sera picked up the marker and handed it to him.
 
-“Then carry the number.”
+[[speaker:sera]]“Then carry the number.”
 
 Xie took it.
 
@@ -760,17 +760,17 @@ A messenger immediately stepped forward with the first command relay.
 
 Xie stared at it.
 
-“That fast?”
+[[speaker:xie_wuchen]]“That fast?”
 
 Jin said, “You wanted the work.”
 
-“I did not say wanted.”
+[[speaker:xie_wuchen]]“I did not say wanted.”
 
-“Accepted.”
+[[speaker:jin]]“Accepted.”
 
-“Different word.”
+[[speaker:xie_wuchen]]“Different word.”
 
-“Same paperwork.”
+[[speaker:jin]]“Same paperwork.”
 
 Xie took the relay.
 
@@ -796,33 +796,33 @@ The distinction echoed Luo’s medicine more than anyone noticed.
 
 Sera turned toward Jin.
 
-“Status.”
+[[speaker:sera]]“Status.”
 
 He had already moved on.
 
-“First pact columns are assembling. Isgard has begun coastal warning and medical reserve movement. We need verified transport counts before committing the heaviest formations.”
+[[speaker:jin]]“First pact columns are assembling. Isgard has begun coastal warning and medical reserve movement. We need verified transport counts before committing the heaviest formations.”
 
-“Shinsei?”
+[[speaker:sera]]“Shinsei?”
 
-“No confirmed launch yet.”
+[[speaker:jin]]“No confirmed launch yet.”
 
-“Good.”
+[[speaker:sera]]“Good.”
 
 Tae frowned.
 
-“Good?”
+[[speaker:tae]]“Good?”
 
-“Every hour before launch is one Yun bought us.”
+[[speaker:sera]]“Every hour before launch is one Yun bought us.”
 
 That silenced him.
 
 Jin looked toward the north road.
 
-“Phase one mobilization begins now.”
+[[speaker:jin]]“Phase one mobilization begins now.”
 
 Sera nodded.
 
-“Do it.”
+[[speaker:sera]]“Do it.”
 
 Across Wuyue, relay stations changed flags.
 
@@ -872,7 +872,7 @@ One dead woman whose warning had moved all of them.
 
 Sera unfolded the Isgard map.
 
-“Show me the northern roads.”
+[[speaker:sera]]“Show me the northern roads.”
 
 Lu did.
 
