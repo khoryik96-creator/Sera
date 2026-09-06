@@ -2,6 +2,7 @@ import { escRe } from './dom';
 import { characterRegistry, colorKeyMap, novelNameMap, rankForStory, seasonScopedAliases, speakerName } from './characterRegistry';
 import { DB } from './db';
 import { powerTier } from './react/shared/skillTier';
+import { shinrinParagons } from './react/features/shinrin/shinrinData';
 
 export { rankForStory } from './characterRegistry';
 
@@ -70,10 +71,10 @@ let artCache: { source: unknown; arts: ArtInfo[] } | null = null;
 function knownArts(): ArtInfo[] {
   if (artCache && artCache.source === DB) return artCache.arts;
   const arts: ArtInfo[] = [];
-  const add = (name: string | undefined, label: string | undefined, category?: string, blurb?: string): void => {
+  const add = (name: string | undefined, label: string | undefined, category?: string, blurb?: string, tone?: ArtTone): void => {
     const clean = (name || '').trim();
     if (!clean || !label) return;
-    arts.push({ name: clean, tone: artTone(label), label, category: (category || '').trim(), blurb: clipBlurb(blurb || '') });
+    arts.push({ name: clean, tone: tone || artTone(label), label, category: (category || '').trim(), blurb: clipBlurb(blurb || '') });
   };
   for (const rows of Object.values(DB?.topSkills || {})) {
     for (const skill of rows) add(skill.name, powerTier(skill.category, skill.rating), skill.category, skill.description || skill.signature);
@@ -86,6 +87,19 @@ function knownArts(): ArtInfo[] {
       if (/(supreme|transcended|ultimate)/i.test(skill[1] || '')) add(skill[0], skill[1], skill[1], skill[2]);
     }
   }
+  // The Shinsei Guild roster is authored in TypeScript (shinrinData.ts) rather
+  // than in data.json, so its named arts were invisible here: every Shinsei
+  // technique in the final-arc prose rendered as plain text and could not be
+  // clicked for its mini-card. Feed them through the same pipeline. A Paragon
+  // Domain is a character's top-tier signature art, so it is toned like the
+  // Supreme domains authored in topSkills (e.g. Sera's Orchid Dominion).
+  for (const figure of shinrinParagons) {
+    for (const [name, category, description] of figure.skills || []) {
+      const domain = /domain/i.test(category || '') && !/(supreme|transcended|ultimate)/i.test(category || '');
+      add(name, category, category, description, domain ? 'supreme' : undefined);
+    }
+  }
+
   const seen = new Set<string>();
   const unique = arts.filter((art) => (seen.has(art.name) ? false : (seen.add(art.name), true)));
   unique.sort((a, b) => b.name.length - a.name.length);
