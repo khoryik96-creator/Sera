@@ -1,6 +1,6 @@
 # Season 100 — unattributed dialogue
 
-305 quoted lines in this season have no speaker.
+233 quoted lines in this season have no speaker.
 See `README.md` in this folder for what to do with them.
 
 Lines already resolved show their speaker in `[brackets]` for context.
@@ -8,56 +8,32 @@ Lines already resolved show their speaker in `[brackets]` for context.
 ### Chapter 355 — One Day Later
 
 ```
-Yun had apparently objected to that description twice.
-“Walking badly,” the caravan driver corrected when the border healer asked.
-Yun, half-supported against the clinic wall, lifted one finger.
->>> “Accurate.”   <-- WHO SAYS THIS?
-Then her knees gave way.
-The healer caught her before she hit the floor.
-```
-```
 Fever beginning beneath exhaustion.
 Multiple injuries at different stages of healing, some treated well enough to prove she had received competent medicine at some point and then been forced to keep moving anyway.
 The physician looked at the pattern and stopped treating her like an ordinary traveler.
 >>> “Who did this?”   <-- WHO SAYS THIS?
 Yun opened her eyes.
-“Later.”
-```
-```
-The physician looked at the pattern and stopped treating her like an ordinary traveler.
-“Who did this?”
-Yun opened her eyes.
->>> “Later.”   <-- WHO SAYS THIS?
-“You need treatment now.”
-“I need an officer.”
+[yun] “Later.”
 ```
 ```
 “Who did this?”
 Yun opened her eyes.
-“Later.”
+[yun] “Later.”
 >>> “You need treatment now.”   <-- WHO SAYS THIS?
-“I need an officer.”
+[yun] “I need an officer.”
 “You need a bed.”
 ```
 ```
-Yun opened her eyes.
-“Later.”
+[yun] “Later.”
 “You need treatment now.”
->>> “I need an officer.”   <-- WHO SAYS THIS?
-“You need a bed.”
-“Both.”
-```
-```
-“Later.”
-“You need treatment now.”
-“I need an officer.”
+[yun] “I need an officer.”
 >>> “You need a bed.”   <-- WHO SAYS THIS?
 “Both.”
 The physician almost argued.
 ```
 ```
 “You need treatment now.”
-“I need an officer.”
+[yun] “I need an officer.”
 “You need a bed.”
 >>> “Both.”   <-- WHO SAYS THIS?
 The physician almost argued.
@@ -68,24 +44,8 @@ He paused.
 Her accent had already told him she was foreign.
 The word changed the type of foreign.
 >>> “Name?”   <-- WHO SAYS THIS?
-“Yun Shizhen.”
+[yun] “Yun Shizhen.”
 Nothing.
-```
-```
-Her accent had already told him she was foreign.
-The word changed the type of foreign.
-“Name?”
->>> “Yun Shizhen.”   <-- WHO SAYS THIS?
-Nothing.
-Border physicians could not be expected to memorize every martial rank across another continent.
-```
-```
-Nothing.
-Border physicians could not be expected to memorize every martial rank across another continent.
-Yun swallowed.
->>> “The Pale Venom.”   <-- WHO SAYS THIS?
-The junior healer beside him went completely still.
-There.
 ```
 ```
 There.
@@ -104,14 +64,6 @@ Silence.
 Yun closed her eyes again.
 ```
 ```
-“Wuyue Top Ten.”
-Silence.
-Yun closed her eyes again.
->>> “No.10.”   <-- WHO SAYS THIS?
-The room changed.
-The No.10 title did not make her more deserving of medicine. It activated a defensive pact between Wuyue and Isgard, and one of Wuyue’s public Top Ten had just crossed the border nearly dead while insisting on an officer.
-```
-```
 The room changed.
 The No.10 title did not make her more deserving of medicine. It activated a defensive pact between Wuyue and Isgard, and one of Wuyue’s public Top Ten had just crossed the border nearly dead while insisting on an officer.
 The physician turned toward the door.
@@ -120,23 +72,7 @@ Yun caught his sleeve.
 Weakly.
 ```
 ```
-Yun caught his sleeve.
-Weakly.
-Still enough.
->>> “Military liaison.”   <-- WHO SAYS THIS?
-He looked at her.
-“Not just diplomatic.”
-```
-```
-Still enough.
-“Military liaison.”
-He looked at her.
->>> “Not just diplomatic.”   <-- WHO SAYS THIS?
-That changed his face again.
-He nodded.
-```
-```
-“Not just diplomatic.”
+[yun] “Not just diplomatic.”
 That changed his face again.
 He nodded.
 >>> “Both.”   <-- WHO SAYS THIS?
@@ -144,132 +80,52 @@ Good.
 Yun released him.
 ```
 ```
-Another warmed fluid.
-A third checked her circulation and swore under his breath.
 Yun heard it.
->>> “Professional.”   <-- WHO SAYS THIS?
-The healer looked embarrassed.
-“Sorry.”
-```
-```
-Yun heard it.
-“Professional.”
+[yun] “Professional.”
 The healer looked embarrassed.
 >>> “Sorry.”   <-- WHO SAYS THIS?
-“I agree with you.”
+[yun] “I agree with you.”
 He almost smiled.
-```
-```
-“Professional.”
-The healer looked embarrassed.
-“Sorry.”
->>> “I agree with you.”   <-- WHO SAYS THIS?
-He almost smiled.
-Then his fingers found another damaged meridian line and the smile disappeared.
-```
-```
-Physicians were bad liars around other physicians.
-“How long?” she asked.
-He said, “Do not talk.”
->>> “Bad answer.”   <-- WHO SAYS THIS?
-“We are stabilizing you.”
-“Also not an answer.”
 ```
 ```
 “How long?” she asked.
 He said, “Do not talk.”
-“Bad answer.”
+[yun] “Bad answer.”
 >>> “We are stabilizing you.”   <-- WHO SAYS THIS?
-“Also not an answer.”
+[yun] “Also not an answer.”
 The senior physician returned and leaned over her.
 ```
 ```
-He said, “Do not talk.”
-“Bad answer.”
 “We are stabilizing you.”
->>> “Also not an answer.”   <-- WHO SAYS THIS?
-The senior physician returned and leaned over her.
-“We are going to try.”
-```
-```
-“We are stabilizing you.”
-“Also not an answer.”
+[yun] “Also not an answer.”
 The senior physician returned and leaned over her.
 >>> “We are going to try.”   <-- WHO SAYS THIS?
 Yun looked at him.
 That was an answer.
 ```
 ```
-That was the danger.
-Her body had simply spent too long being asked for one more mile.
 Yun touched the wrap around her wrist.
->>> “Cut this carefully.”   <-- WHO SAYS THIS?
-The physician frowned.
-“Why?”
-```
-```
-Yun touched the wrap around her wrist.
-“Cut this carefully.”
+[yun] “Cut this carefully.”
 The physician frowned.
 >>> “Why?”   <-- WHO SAYS THIS?
-“Inside seam.”
+[yun] “Inside seam.”
 He cut the outer wrap.
-```
-```
-“Cut this carefully.”
-The physician frowned.
-“Why?”
->>> “Inside seam.”   <-- WHO SAYS THIS?
-He cut the outer wrap.
-Found the tiny sealed capillary.
-```
-```
-Barely visible residue stained the interior.
-Yun exhaled.
-Still there.
->>> “Do not open it here.”   <-- WHO SAYS THIS?
-“What is it?”
-“Axtaya.”
 ```
 ```
 Yun exhaled.
 Still there.
-“Do not open it here.”
+[yun] “Do not open it here.”
 >>> “What is it?”   <-- WHO SAYS THIS?
-“Axtaya.”
+[yun] “Axtaya.”
 The name meant nothing to him.
 ```
 ```
-Still there.
-“Do not open it here.”
-“What is it?”
->>> “Axtaya.”   <-- WHO SAYS THIS?
-The name meant nothing to him.
 Yet.
-```
-```
-“Axtaya.”
-The name meant nothing to him.
-Yet.
->>> “Foreign stimulant. Military.”   <-- WHO SAYS THIS?
-The physician’s eyes sharpened.
-“From where?”
-```
-```
-Yet.
-“Foreign stimulant. Military.”
+[yun] “Foreign stimulant. Military.”
 The physician’s eyes sharpened.
 >>> “From where?”   <-- WHO SAYS THIS?
-“Shinrin.”
+[yun] “Shinrin.”
 That name he knew as geography.
-```
-```
-“Foreign stimulant. Military.”
-The physician’s eyes sharpened.
-“From where?”
->>> “Shinrin.”   <-- WHO SAYS THIS?
-That name he knew as geography.
-The rest had not reached Isgard yet.
 ```
 ```
 Good.
@@ -284,96 +140,56 @@ The physician glared at her.
 She ignored him.
 The liaison pulled a chair close.
 >>> “Yun Shizhen?”   <-- WHO SAYS THIS?
-“Yes.”
+[yun] “Yes.”
 “Wuyue No.10?”
-```
-```
-She ignored him.
-The liaison pulled a chair close.
-“Yun Shizhen?”
->>> “Yes.”   <-- WHO SAYS THIS?
-“Wuyue No.10?”
-“Yes.”
 ```
 ```
 The liaison pulled a chair close.
 “Yun Shizhen?”
-“Yes.”
+[yun] “Yes.”
 >>> “Wuyue No.10?”   <-- WHO SAYS THIS?
 “Yes.”
 “I am Commander Hallen, northern pact liaison. Whatever you tell me now goes directly to central command and Wuyue.”
 ```
 ```
 “Yun Shizhen?”
-“Yes.”
+[yun] “Yes.”
 “Wuyue No.10?”
 >>> “Yes.”   <-- WHO SAYS THIS?
 “I am Commander Hallen, northern pact liaison. Whatever you tell me now goes directly to central command and Wuyue.”
 Yun looked at him.
 ```
 ```
-“Yes.”
+[yun] “Yes.”
 “Wuyue No.10?”
 “Yes.”
 >>> “I am Commander Hallen, northern pact liaison. Whatever you tell me now goes directly to central command and Wuyue.”   <-- WHO SAYS THIS?
 Yun looked at him.
-“Send the alert first.”
-```
-```
-“Yes.”
-“I am Commander Hallen, northern pact liaison. Whatever you tell me now goes directly to central command and Wuyue.”
-Yun looked at him.
->>> “Send the alert first.”   <-- WHO SAYS THIS?
-He paused.
-“I need cause.”
+[yun] “Send the alert first.”
 ```
 ```
 Yun looked at him.
-“Send the alert first.”
+[yun] “Send the alert first.”
 He paused.
 >>> “I need cause.”   <-- WHO SAYS THIS?
-“Foreign invasion preparation against Isgard.”
+[yun] “Foreign invasion preparation against Isgard.”
 Hallen’s face hardened. He had heard enough.
 ```
 ```
-“Send the alert first.”
-He paused.
 “I need cause.”
->>> “Foreign invasion preparation against Isgard.”   <-- WHO SAYS THIS?
-Hallen’s face hardened. He had heard enough.
-“Confirmed?”
-```
-```
-“I need cause.”
-“Foreign invasion preparation against Isgard.”
+[yun] “Foreign invasion preparation against Isgard.”
 Hallen’s face hardened. He had heard enough.
 >>> “Confirmed?”   <-- WHO SAYS THIS?
-“Yes.”
+[yun] “Yes.”
 “How soon?”
-```
-```
-“Foreign invasion preparation against Isgard.”
-Hallen’s face hardened. He had heard enough.
-“Confirmed?”
->>> “Yes.”   <-- WHO SAYS THIS?
-“How soon?”
-“Weeks possible.”
 ```
 ```
 Hallen’s face hardened. He had heard enough.
 “Confirmed?”
-“Yes.”
+[yun] “Yes.”
 >>> “How soon?”   <-- WHO SAYS THIS?
-“Weeks possible.”
+[yun] “Weeks possible.”
 He stood immediately.
-```
-```
-“Confirmed?”
-“Yes.”
-“How soon?”
->>> “Weeks possible.”   <-- WHO SAYS THIS?
-He stood immediately.
-The clerk was already writing.
 ```
 ```
 Not certainty after the enemy landed.
@@ -381,444 +197,174 @@ Time before certainty became irrelevant.
 The physician touched her shoulder.
 >>> “Enough for now.”   <-- WHO SAYS THIS?
 Yun shook her head.
-“No.”
-```
-```
-The physician touched her shoulder.
-“Enough for now.”
-Yun shook her head.
->>> “No.”   <-- WHO SAYS THIS?
-“You will kill yourself finishing a report.”
-She looked at him.
+[yun] “No.”
 ```
 ```
 “Enough for now.”
 Yun shook her head.
-“No.”
+[yun] “No.”
 >>> “You will kill yourself finishing a report.”   <-- WHO SAYS THIS?
 She looked at him.
-“I did not cross Shinrin to die before the useful part.”
-```
-```
-“No.”
-“You will kill yourself finishing a report.”
-She looked at him.
->>> “I did not cross Shinrin to die before the useful part.”   <-- WHO SAYS THIS?
-Hallen sat again.
-The physician swore under his breath.
-```
-```
-This time Yun did not tease him.
-She closed her eyes for one breath.
-Then opened them.
->>> “Write.”   <-- WHO SAYS THIS?
+[yun] “I did not cross Shinrin to die before the useful part.”
 ```
 
 ### Chapter 356 — The Last Report of the Pale Venom
 
 ```
-Not the order she learned it.
-Not the order it hurt.
-The order that mattered now.
->>> “Country: Shinrin.”   <-- WHO SAYS THIS?
 The clerk wrote.
-“Ruling structure: Shinsei Guild. Guild is effectively central government, military command, judiciary and infrastructure authority.”
-```
-```
-The order that mattered now.
-“Country: Shinrin.”
-The clerk wrote.
->>> “Ruling structure: Shinsei Guild. Guild is effectively central government, military command, judiciary and infrastructure authority.”   <-- WHO SAYS THIS?
-Hallen looked up.
-“One institution?”
-```
-```
-The clerk wrote.
-“Ruling structure: Shinsei Guild. Guild is effectively central government, military command, judiciary and infrastructure authority.”
+[yun] “Ruling structure: Shinsei Guild. Guild is effectively central government, military command, judiciary and infrastructure authority.”
 Hallen looked up.
 >>> “One institution?”   <-- WHO SAYS THIS?
-“Yes.”
+[yun] “Yes.”
 “Continue.”
-```
-```
-“Ruling structure: Shinsei Guild. Guild is effectively central government, military command, judiciary and infrastructure authority.”
-Hallen looked up.
-“One institution?”
->>> “Yes.”   <-- WHO SAYS THIS?
-“Continue.”
-“Axtaya.”
 ```
 ```
 Hallen looked up.
 “One institution?”
-“Yes.”
+[yun] “Yes.”
 >>> “Continue.”   <-- WHO SAYS THIS?
-“Axtaya.”
+[yun] “Axtaya.”
 Yun pointed weakly toward the sealed capillary now sitting inside a padded evidence tray.
 ```
 ```
-“One institution?”
-“Yes.”
-“Continue.”
->>> “Axtaya.”   <-- WHO SAYS THIS?
+[yun] “Axtaya.”
 Yun pointed weakly toward the sealed capillary now sitting inside a padded evidence tray.
-“Circulatory stimulant program. Multiplies combat throughput temporarily. Does not raise cultivation realm or skill.”
-```
-```
-“Continue.”
-“Axtaya.”
-Yun pointed weakly toward the sealed capillary now sitting inside a padded evidence tray.
->>> “Circulatory stimulant program. Multiplies combat throughput temporarily. Does not raise cultivation realm or skill.”   <-- WHO SAYS THIS?
-“Military issue?”
-“Yes.”
-```
-```
-“Axtaya.”
-Yun pointed weakly toward the sealed capillary now sitting inside a padded evidence tray.
-“Circulatory stimulant program. Multiplies combat throughput temporarily. Does not raise cultivation realm or skill.”
+[yun] “Circulatory stimulant program. Multiplies combat throughput temporarily. Does not raise cultivation realm or skill.”
 >>> “Military issue?”   <-- WHO SAYS THIS?
-“Yes.”
+[yun] “Yes.”
 “How strong?”
 ```
 ```
-Yun pointed weakly toward the sealed capillary now sitting inside a padded evidence tray.
-“Circulatory stimulant program. Multiplies combat throughput temporarily. Does not raise cultivation realm or skill.”
+[yun] “Circulatory stimulant program. Multiplies combat throughput temporarily. Does not raise cultivation realm or skill.”
 “Military issue?”
->>> “Yes.”   <-- WHO SAYS THIS?
-“How strong?”
-“Multiple tiers. I confirmed escalation beyond safe medical origin. Highest field tier can produce roughly triple throughput for a short window.”
-```
-```
-“Circulatory stimulant program. Multiplies combat throughput temporarily. Does not raise cultivation realm or skill.”
-“Military issue?”
-“Yes.”
+[yun] “Yes.”
 >>> “How strong?”   <-- WHO SAYS THIS?
-“Multiple tiers. I confirmed escalation beyond safe medical origin. Highest field tier can produce roughly triple throughput for a short window.”
+[yun] “Multiple tiers. I confirmed escalation beyond safe medical origin. Highest field tier can produce roughly triple throughput for a short window.”
 The physician stopped writing treatment notes.
 ```
 ```
-“Military issue?”
-“Yes.”
 “How strong?”
->>> “Multiple tiers. I confirmed escalation beyond safe medical origin. Highest field tier can produce roughly triple throughput for a short window.”   <-- WHO SAYS THIS?
-The physician stopped writing treatment notes.
-“Cost?”
-```
-```
-“How strong?”
-“Multiple tiers. I confirmed escalation beyond safe medical origin. Highest field tier can produce roughly triple throughput for a short window.”
+[yun] “Multiple tiers. I confirmed escalation beyond safe medical origin. Highest field tier can produce roughly triple throughput for a short window.”
 The physician stopped writing treatment notes.
 >>> “Cost?”   <-- WHO SAYS THIS?
-“Future vitality. Also acute physical damage. Not the same thing.”
+[yun] “Future vitality. Also acute physical damage. Not the same thing.”
 His expression changed.
 ```
 ```
-“Multiple tiers. I confirmed escalation beyond safe medical origin. Highest field tier can produce roughly triple throughput for a short window.”
-The physician stopped writing treatment notes.
-“Cost?”
->>> “Future vitality. Also acute physical damage. Not the same thing.”   <-- WHO SAYS THIS?
-His expression changed.
-Yun continued before he could ask more.
-```
-```
-[yun] “Ordinary healing may repair torn meridians, muscle, organs. It does not automatically return lifespan already consumed.”
-The physician looked at the capillary differently now.
-Hallen said, “Army size.”
->>> “Do not write one field army.”   <-- WHO SAYS THIS?
 The clerk paused.
 Yun’s breathing became shallower.
-```
-```
-“Do not write one field army.”
-The clerk paused.
-Yun’s breathing became shallower.
->>> “Wider trained apparatus exceeds two hundred thousand by conservative reconstruction. Regional forces, reserves, support-connected trained units. I did not confirm all would deploy at once.”   <-- WHO SAYS THIS?
-“Quality?”
-“High.”
-```
-```
-The clerk paused.
-Yun’s breathing became shallower.
-“Wider trained apparatus exceeds two hundred thousand by conservative reconstruction. Regional forces, reserves, support-connected trained units. I did not confirm all would deploy at once.”
+[yun] “Wider trained apparatus exceeds two hundred thousand by conservative reconstruction. Regional forces, reserves, support-connected trained units. I did not confirm all would deploy at once.”
 >>> “Quality?”   <-- WHO SAYS THIS?
-“High.”
+[yun] “High.”
 “How high?”
 ```
 ```
-Yun’s breathing became shallower.
-“Wider trained apparatus exceeds two hundred thousand by conservative reconstruction. Regional forces, reserves, support-connected trained units. I did not confirm all would deploy at once.”
+[yun] “Wider trained apparatus exceeds two hundred thousand by conservative reconstruction. Regional forces, reserves, support-connected trained units. I did not confirm all would deploy at once.”
 “Quality?”
->>> “High.”   <-- WHO SAYS THIS?
-“How high?”
-“Peak Marquis appears ordinary enough inside trained elite cohorts that Isgard must not plan around Wuyue scarcity assumptions.”
-```
-```
-“Wider trained apparatus exceeds two hundred thousand by conservative reconstruction. Regional forces, reserves, support-connected trained units. I did not confirm all would deploy at once.”
-“Quality?”
-“High.”
+[yun] “High.”
 >>> “How high?”   <-- WHO SAYS THIS?
-“Peak Marquis appears ordinary enough inside trained elite cohorts that Isgard must not plan around Wuyue scarcity assumptions.”
+[yun] “Peak Marquis appears ordinary enough inside trained elite cohorts that Isgard must not plan around Wuyue scarcity assumptions.”
 Hallen went very still.
-```
-```
-“Quality?”
-“High.”
-“How high?”
->>> “Peak Marquis appears ordinary enough inside trained elite cohorts that Isgard must not plan around Wuyue scarcity assumptions.”   <-- WHO SAYS THIS?
-Hallen went very still.
-That sentence did more than a dramatic number would have.
-```
-```
-Yun continued.
-[yun] “Shinsei has ten ranked martial Seats.”
-Hallen said, “Ten commanders?”
->>> “Ten Paragons.”   <-- WHO SAYS THIS?
-The room went silent.
-The clerk’s brush stopped above the page.
-```
-```
-The clerk’s brush stopped above the page.
-Yun heard someone outside the curtain inhale sharply.
-“Ten?” Hallen repeated.
->>> “Yes.”   <-- WHO SAYS THIS?
-“Confirmed?”
-“Multiple independent medical and administrative sources. Treat all ten as Paragon until disproven.”
 ```
 ```
 Yun heard someone outside the curtain inhale sharply.
 “Ten?” Hallen repeated.
-“Yes.”
+[yun] “Yes.”
 >>> “Confirmed?”   <-- WHO SAYS THIS?
-“Multiple independent medical and administrative sources. Treat all ten as Paragon until disproven.”
+[yun] “Multiple independent medical and administrative sources. Treat all ten as Paragon until disproven.”
 “Names?”
 ```
 ```
-“Ten?” Hallen repeated.
-“Yes.”
+[yun] “Yes.”
 “Confirmed?”
->>> “Multiple independent medical and administrative sources. Treat all ten as Paragon until disproven.”   <-- WHO SAYS THIS?
-“Names?”
-“I do not have a complete reliable ten-name operational list. Do not invent one from my report.”
-```
-```
-“Yes.”
-“Confirmed?”
-“Multiple independent medical and administrative sources. Treat all ten as Paragon until disproven.”
+[yun] “Multiple independent medical and administrative sources. Treat all ten as Paragon until disproven.”
 >>> “Names?”   <-- WHO SAYS THIS?
-“I do not have a complete reliable ten-name operational list. Do not invent one from my report.”
+[yun] “I do not have a complete reliable ten-name operational list. Do not invent one from my report.”
 Even dying, Yun remained Yun.
 ```
 ```
-“Confirmed?”
-“Multiple independent medical and administrative sources. Treat all ten as Paragon until disproven.”
-“Names?”
->>> “I do not have a complete reliable ten-name operational list. Do not invent one from my report.”   <-- WHO SAYS THIS?
-Even dying, Yun remained Yun.
-Hallen nodded.
-```
-```
-“I do not have a complete reliable ten-name operational list. Do not invent one from my report.”
+[yun] “I do not have a complete reliable ten-name operational list. Do not invent one from my report.”
 Even dying, Yun remained Yun.
 Hallen nodded.
 >>> “Known?”   <-- WHO SAYS THIS?
-“Shunto Takamori. No.2. High Paragon. Capture specialist.”
+[yun] “Shunto Takamori. No.2. High Paragon. Capture specialist.”
 Her voice changed by one degree.
-```
-```
-Even dying, Yun remained Yun.
-Hallen nodded.
-“Known?”
->>> “Shunto Takamori. No.2. High Paragon. Capture specialist.”   <-- WHO SAYS THIS?
-Her voice changed by one degree.
-The physician heard it.
-```
-```
-Yun continued.
-[yun] “Tsubasa Kurokawa. No.1. Stronger than Shunto. Exact martial mechanics unknown.”
-Hallen said, “How much stronger?”
->>> “I do not know.”   <-- WHO SAYS THIS?
-“Estimate?”
-“No.”
 ```
 ```
 [yun] “Tsubasa Kurokawa. No.1. Stronger than Shunto. Exact martial mechanics unknown.”
 Hallen said, “How much stronger?”
-“I do not know.”
+[yun] “I do not know.”
 >>> “Estimate?”   <-- WHO SAYS THIS?
-“No.”
+[yun] “No.”
 The refusal was immediate.
-```
-```
-Hallen said, “How much stronger?”
-“I do not know.”
-“Estimate?”
->>> “No.”   <-- WHO SAYS THIS?
-The refusal was immediate.
-“Fear is not permission to manufacture intelligence.”
-```
-```
-“Estimate?”
-“No.”
-The refusal was immediate.
->>> “Fear is not permission to manufacture intelligence.”   <-- WHO SAYS THIS?
-The clerk wrote that too before realizing it was not part of the report.
-Yun almost smiled.
 ```
 ```
 Yun almost smiled.
 Then pain moved through her side and the smile failed.
 The physician stepped closer.
 >>> “Stop.”   <-- WHO SAYS THIS?
-“One more section.”
+[yun] “One more section.”
 “You said that three sections ago.”
-```
-```
-Then pain moved through her side and the smile failed.
-The physician stepped closer.
-“Stop.”
->>> “One more section.”   <-- WHO SAYS THIS?
-“You said that three sections ago.”
-“This is the important one.”
 ```
 ```
 The physician stepped closer.
 “Stop.”
-“One more section.”
+[yun] “One more section.”
 >>> “You said that three sections ago.”   <-- WHO SAYS THIS?
-“This is the important one.”
+[yun] “This is the important one.”
 “They were all important.”
 ```
 ```
-“Stop.”
-“One more section.”
+[yun] “One more section.”
 “You said that three sections ago.”
->>> “This is the important one.”   <-- WHO SAYS THIS?
-“They were all important.”
-“Good physician.”
-```
-```
-“One more section.”
-“You said that three sections ago.”
-“This is the important one.”
+[yun] “This is the important one.”
 >>> “They were all important.”   <-- WHO SAYS THIS?
-“Good physician.”
+[yun] “Good physician.”
 “Terrible patient.”
 ```
 ```
-“You said that three sections ago.”
-“This is the important one.”
+[yun] “This is the important one.”
 “They were all important.”
->>> “Good physician.”   <-- WHO SAYS THIS?
-“Terrible patient.”
-“Frequently.”
-```
-```
-“This is the important one.”
-“They were all important.”
-“Good physician.”
+[yun] “Good physician.”
 >>> “Terrible patient.”   <-- WHO SAYS THIS?
-“Frequently.”
+[yun] “Frequently.”
 Hallen waited.
 ```
 ```
-“They were all important.”
-“Good physician.”
-“Terrible patient.”
->>> “Frequently.”   <-- WHO SAYS THIS?
-Hallen waited.
-Yun looked at the map on the wall.
-```
-```
-Yun looked at the map on the wall.
-Isgard.
-The coastline she had spent three months finding in other people’s paperwork.
->>> “Target is here.”   <-- WHO SAYS THIS?
-Nobody needed clarification.
-“Evidence: cold-weather medical staging, deep-keel transport repair, northern harbor studies, grain movement, elite training cycles, troop requisitions, leave compression, forward clinic staffing.”
-```
-```
-The coastline she had spent three months finding in other people’s paperwork.
-“Target is here.”
-Nobody needed clarification.
->>> “Evidence: cold-weather medical staging, deep-keel transport repair, northern harbor studies, grain movement, elite training cycles, troop requisitions, leave compression, forward clinic staffing.”   <-- WHO SAYS THIS?
+[yun] “Evidence: cold-weather medical staging, deep-keel transport repair, northern harbor studies, grain movement, elite training cycles, troop requisitions, leave compression, forward clinic staffing.”
 The clerk’s brush moved quickly.
-“No master order recovered. Independent systems converge on Isgard.”
-```
-```
-Nobody needed clarification.
-“Evidence: cold-weather medical staging, deep-keel transport repair, northern harbor studies, grain movement, elite training cycles, troop requisitions, leave compression, forward clinic staffing.”
-The clerk’s brush moved quickly.
->>> “No master order recovered. Independent systems converge on Isgard.”   <-- WHO SAYS THIS?
-“Launch timing?”
-“Four-month readiness architecture from initial staging. I left late month three.”
-```
-```
-“Evidence: cold-weather medical staging, deep-keel transport repair, northern harbor studies, grain movement, elite training cycles, troop requisitions, leave compression, forward clinic staffing.”
-The clerk’s brush moved quickly.
-“No master order recovered. Independent systems converge on Isgard.”
+[yun] “No master order recovered. Independent systems converge on Isgard.”
 >>> “Launch timing?”   <-- WHO SAYS THIS?
-“Four-month readiness architecture from initial staging. I left late month three.”
+[yun] “Four-month readiness architecture from initial staging. I left late month three.”
 Hallen’s face lost what little color remained.
 ```
 ```
-The clerk’s brush moved quickly.
-“No master order recovered. Independent systems converge on Isgard.”
 “Launch timing?”
->>> “Four-month readiness architecture from initial staging. I left late month three.”   <-- WHO SAYS THIS?
-Hallen’s face lost what little color remained.
-“Weeks.”
-```
-```
-“Launch timing?”
-“Four-month readiness architecture from initial staging. I left late month three.”
+[yun] “Four-month readiness architecture from initial staging. I left late month three.”
 Hallen’s face lost what little color remained.
 >>> “Weeks.”   <-- WHO SAYS THIS?
-“Yes.”
+[yun] “Yes.”
 “Could be delayed.”
-```
-```
-“Four-month readiness architecture from initial staging. I left late month three.”
-Hallen’s face lost what little color remained.
-“Weeks.”
->>> “Yes.”   <-- WHO SAYS THIS?
-“Could be delayed.”
-“Yes.”
 ```
 ```
 Hallen’s face lost what little color remained.
 “Weeks.”
-“Yes.”
+[yun] “Yes.”
 >>> “Could be delayed.”   <-- WHO SAYS THIS?
-“Yes.”
+[yun] “Yes.”
 “Could be accelerated.”
 ```
 ```
-“Weeks.”
-“Yes.”
+[yun] “Yes.”
 “Could be delayed.”
->>> “Yes.”   <-- WHO SAYS THIS?
-“Could be accelerated.”
-“Yes.”
-```
-```
-“Yes.”
-“Could be delayed.”
-“Yes.”
+[yun] “Yes.”
 >>> “Could be accelerated.”   <-- WHO SAYS THIS?
-“Yes.”
+[yun] “Yes.”
 He stood.
 ```
 ```
-“Could be delayed.”
-“Yes.”
 “Could be accelerated.”
->>> “Yes.”   <-- WHO SAYS THIS?
-He stood.
-“Send full emergency activation. Not preliminary. Defensive pact.”
-```
-```
-“Could be accelerated.”
-“Yes.”
+[yun] “Yes.”
 He stood.
 >>> “Send full emergency activation. Not preliminary. Defensive pact.”   <-- WHO SAYS THIS?
 The clerk looked up.
@@ -845,128 +391,72 @@ Yun closed her eyes.
 He looked angry now.
 “At whom?” Yun asked.
 >>> “You.”   <-- WHO SAYS THIS?
-“Fair.”
+[yun] “Fair.”
 Hallen returned to the chair.
 ```
 ```
-He looked angry now.
-“At whom?” Yun asked.
 “You.”
->>> “Fair.”   <-- WHO SAYS THIS?
-Hallen returned to the chair.
-“You said Takamori captured you.”
-```
-```
-“You.”
-“Fair.”
+[yun] “Fair.”
 Hallen returned to the chair.
 >>> “You said Takamori captured you.”   <-- WHO SAYS THIS?
-“Yes.”
+[yun] “Yes.”
 “How did you escape?”
-```
-```
-“Fair.”
-Hallen returned to the chair.
-“You said Takamori captured you.”
->>> “Yes.”   <-- WHO SAYS THIS?
-“How did you escape?”
-“Insider assistance.”
 ```
 ```
 Hallen returned to the chair.
 “You said Takamori captured you.”
-“Yes.”
+[yun] “Yes.”
 >>> “How did you escape?”   <-- WHO SAYS THIS?
-“Insider assistance.”
+[yun] “Insider assistance.”
 “Name?”
 ```
 ```
-“You said Takamori captured you.”
-“Yes.”
+[yun] “Yes.”
 “How did you escape?”
->>> “Insider assistance.”   <-- WHO SAYS THIS?
-“Name?”
-Yun looked at him.
-```
-```
-“Yes.”
-“How did you escape?”
-“Insider assistance.”
+[yun] “Insider assistance.”
 >>> “Name?”   <-- WHO SAYS THIS?
 Yun looked at him.
 “No.”
 ```
 ```
-“Insider assistance.”
+[yun] “Insider assistance.”
 “Name?”
 Yun looked at him.
 >>> “No.”   <-- WHO SAYS THIS?
 “For protection?”
-“For theirs.”
+[yun] “For theirs.”
 ```
 ```
 “Name?”
 Yun looked at him.
 “No.”
 >>> “For protection?”   <-- WHO SAYS THIS?
-“For theirs.”
+[yun] “For theirs.”
 “Shinsei insider?”
-```
-```
-Yun looked at him.
-“No.”
-“For protection?”
->>> “For theirs.”   <-- WHO SAYS THIS?
-“Shinsei insider?”
-“Close enough to its systems to create a route.”
 ```
 ```
 “No.”
 “For protection?”
-“For theirs.”
+[yun] “For theirs.”
 >>> “Shinsei insider?”   <-- WHO SAYS THIS?
-“Close enough to its systems to create a route.”
+[yun] “Close enough to its systems to create a route.”
 Hallen accepted the boundary.
 ```
 ```
-“For protection?”
-“For theirs.”
 “Shinsei insider?”
->>> “Close enough to its systems to create a route.”   <-- WHO SAYS THIS?
-Hallen accepted the boundary.
-“Did Takamori obtain your evidence?”
-```
-```
-“Shinsei insider?”
-“Close enough to its systems to create a route.”
+[yun] “Close enough to its systems to create a route.”
 Hallen accepted the boundary.
 >>> “Did Takamori obtain your evidence?”   <-- WHO SAYS THIS?
-“Notebook, probably. Not all meaning. Physical sample survived. Essential facts memorized. One coded packet may have left Shinrin earlier.”
+[yun] “Notebook, probably. Not all meaning. Physical sample survived. Essential facts memorized. One coded packet may have left Shinrin earlier.”
 “Destination?”
-```
-```
-“Close enough to its systems to create a route.”
-Hallen accepted the boundary.
-“Did Takamori obtain your evidence?”
->>> “Notebook, probably. Not all meaning. Physical sample survived. Essential facts memorized. One coded packet may have left Shinrin earlier.”   <-- WHO SAYS THIS?
-“Destination?”
-“Wuyue medical channels. Luo Wen may recognize it if it arrives.”
 ```
 ```
 Hallen accepted the boundary.
 “Did Takamori obtain your evidence?”
-“Notebook, probably. Not all meaning. Physical sample survived. Essential facts memorized. One coded packet may have left Shinrin earlier.”
+[yun] “Notebook, probably. Not all meaning. Physical sample survived. Essential facts memorized. One coded packet may have left Shinrin earlier.”
 >>> “Destination?”   <-- WHO SAYS THIS?
-“Wuyue medical channels. Luo Wen may recognize it if it arrives.”
+[yun] “Wuyue medical channels. Luo Wen may recognize it if it arrives.”
 The physician glanced at the injuries again.
-```
-```
-“Did Takamori obtain your evidence?”
-“Notebook, probably. Not all meaning. Physical sample survived. Essential facts memorized. One coded packet may have left Shinrin earlier.”
-“Destination?”
->>> “Wuyue medical channels. Luo Wen may recognize it if it arrives.”   <-- WHO SAYS THIS?
-The physician glanced at the injuries again.
-There were questions in his face Yun did not want spoken in a room full of military clerks.
 ```
 ```
 Good physician.
@@ -974,103 +464,47 @@ Yun said quietly, “Captured means captured. Put that in the report.”
 Hallen nodded.
 >>> “Anything else about Takamori?”   <-- WHO SAYS THIS?
 Yun’s eyes stayed on the ceiling.
-“Not for this report.”
-```
-```
-Hallen nodded.
-“Anything else about Takamori?”
-Yun’s eyes stayed on the ceiling.
->>> “Not for this report.”   <-- WHO SAYS THIS?
-No detail.
-No erasure.
-```
-```
-This time he said nothing.
-Yun knew.
-She looked at Hallen.
->>> “Has Wuyue been sent?”   <-- WHO SAYS THIS?
-“Yes.”
-“Pact?”
+[yun] “Not for this report.”
 ```
 ```
 Yun knew.
 She looked at Hallen.
-“Has Wuyue been sent?”
+[yun] “Has Wuyue been sent?”
 >>> “Yes.”   <-- WHO SAYS THIS?
-“Pact?”
+[yun] “Pact?”
 “Activated.”
 ```
 ```
-She looked at Hallen.
-“Has Wuyue been sent?”
+[yun] “Has Wuyue been sent?”
 “Yes.”
->>> “Pact?”   <-- WHO SAYS THIS?
-“Activated.”
-“Good.”
-```
-```
-“Has Wuyue been sent?”
-“Yes.”
-“Pact?”
+[yun] “Pact?”
 >>> “Activated.”   <-- WHO SAYS THIS?
-“Good.”
+[yun] “Good.”
 The word came out almost soundless.
-```
-```
-“Yes.”
-“Pact?”
-“Activated.”
->>> “Good.”   <-- WHO SAYS THIS?
-The word came out almost soundless.
-Yun turned her head toward the evidence tray.
-```
-```
-“Good.”
-The word came out almost soundless.
-Yun turned her head toward the evidence tray.
->>> “Sample.”   <-- WHO SAYS THIS?
-“We have it.”
-“Luo Wen.”
 ```
 ```
 The word came out almost soundless.
 Yun turned her head toward the evidence tray.
-“Sample.”
+[yun] “Sample.”
 >>> “We have it.”   <-- WHO SAYS THIS?
 “Luo Wen.”
 “We will make sure Wuyue medical command receives the findings and the sample as soon as transport allows.”
 ```
 ```
 Yun turned her head toward the evidence tray.
-“Sample.”
+[yun] “Sample.”
 “We have it.”
 >>> “Luo Wen.”   <-- WHO SAYS THIS?
 “We will make sure Wuyue medical command receives the findings and the sample as soon as transport allows.”
 Yun frowned.
 ```
 ```
-“Sample.”
+[yun] “Sample.”
 “We have it.”
 “Luo Wen.”
 >>> “We will make sure Wuyue medical command receives the findings and the sample as soon as transport allows.”   <-- WHO SAYS THIS?
 Yun frowned.
-“Not medical command.”
-```
-```
-“Luo Wen.”
-“We will make sure Wuyue medical command receives the findings and the sample as soon as transport allows.”
-Yun frowned.
->>> “Not medical command.”   <-- WHO SAYS THIS?
-Hallen waited.
-“Luo.”
-```
-```
-Yun frowned.
-“Not medical command.”
-Hallen waited.
->>> “Luo.”   <-- WHO SAYS THIS?
-A tiny distinction.
-A very large one to her.
+[yun] “Not medical command.”
 ```
 ```
 A tiny distinction.
@@ -1081,16 +515,8 @@ Yun relaxed by a fraction.
 The physician took her hand.
 ```
 ```
-The physician took her hand.
-Medicine did not require the touch. Sometimes physicians ran out of medicine before they ran out of hands.
 Yun looked at him.
->>> “Did I make it?”   <-- WHO SAYS THIS?
-He understood what she meant.
-“The warning is moving.”
-```
-```
-Yun looked at him.
-“Did I make it?”
+[yun] “Did I make it?”
 He understood what she meant.
 >>> “The warning is moving.”   <-- WHO SAYS THIS?
 She closed her eyes.

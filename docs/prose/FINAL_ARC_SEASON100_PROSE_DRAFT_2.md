@@ -24,7 +24,7 @@ Yun had apparently objected to that description twice.
 
 Yun, half-supported against the clinic wall, lifted one finger.
 
-“Accurate.”
+[[speaker:yun]]“Accurate.”
 
 Then her knees gave way.
 
@@ -64,11 +64,11 @@ The physician looked at the pattern and stopped treating her like an ordinary tr
 
 Yun opened her eyes.
 
-“Later.”
+[[speaker:yun]]“Later.”
 
 “You need treatment now.”
 
-“I need an officer.”
+[[speaker:yun]]“I need an officer.”
 
 “You need a bed.”
 
@@ -86,7 +86,7 @@ The word changed the type of foreign.
 
 “Name?”
 
-“Yun Shizhen.”
+[[speaker:yun]]“Yun Shizhen.”
 
 Nothing.
 
@@ -94,7 +94,7 @@ Border physicians could not be expected to memorize every martial rank across an
 
 Yun swallowed.
 
-“The Pale Venom.”
+[[speaker:yun]]“The Pale Venom.”
 
 The junior healer beside him went completely still.
 
@@ -112,7 +112,7 @@ Silence.
 
 Yun closed her eyes again.
 
-“No.10.”
+[[speaker:yun]]“No.10.”
 
 The room changed.
 
@@ -128,11 +128,11 @@ Weakly.
 
 Still enough.
 
-“Military liaison.”
+[[speaker:yun]]“Military liaison.”
 
 He looked at her.
 
-“Not just diplomatic.”
+[[speaker:yun]]“Not just diplomatic.”
 
 That changed his face again.
 
@@ -154,13 +154,13 @@ A third checked her circulation and swore under his breath.
 
 Yun heard it.
 
-“Professional.”
+[[speaker:yun]]“Professional.”
 
 The healer looked embarrassed.
 
 “Sorry.”
 
-“I agree with you.”
+[[speaker:yun]]“I agree with you.”
 
 He almost smiled.
 
@@ -174,11 +174,11 @@ Physicians were bad liars around other physicians.
 
 He said, “Do not talk.”
 
-“Bad answer.”
+[[speaker:yun]]“Bad answer.”
 
 “We are stabilizing you.”
 
-“Also not an answer.”
+[[speaker:yun]]“Also not an answer.”
 
 The senior physician returned and leaned over her.
 
@@ -210,13 +210,13 @@ Her body had simply spent too long being asked for one more mile.
 
 Yun touched the wrap around her wrist.
 
-“Cut this carefully.”
+[[speaker:yun]]“Cut this carefully.”
 
 The physician frowned.
 
 “Why?”
 
-“Inside seam.”
+[[speaker:yun]]“Inside seam.”
 
 He cut the outer wrap.
 
@@ -230,23 +230,23 @@ Yun exhaled.
 
 Still there.
 
-“Do not open it here.”
+[[speaker:yun]]“Do not open it here.”
 
 “What is it?”
 
-“Axtaya.”
+[[speaker:yun]]“Axtaya.”
 
 The name meant nothing to him.
 
 Yet.
 
-“Foreign stimulant. Military.”
+[[speaker:yun]]“Foreign stimulant. Military.”
 
 The physician’s eyes sharpened.
 
 “From where?”
 
-“Shinrin.”
+[[speaker:yun]]“Shinrin.”
 
 That name he knew as geography.
 
@@ -278,7 +278,7 @@ The liaison pulled a chair close.
 
 “Yun Shizhen?”
 
-“Yes.”
+[[speaker:yun]]“Yes.”
 
 “Wuyue No.10?”
 
@@ -288,23 +288,23 @@ The liaison pulled a chair close.
 
 Yun looked at him.
 
-“Send the alert first.”
+[[speaker:yun]]“Send the alert first.”
 
 He paused.
 
 “I need cause.”
 
-“Foreign invasion preparation against Isgard.”
+[[speaker:yun]]“Foreign invasion preparation against Isgard.”
 
 Hallen’s face hardened. He had heard enough.
 
 “Confirmed?”
 
-“Yes.”
+[[speaker:yun]]“Yes.”
 
 “How soon?”
 
-“Weeks possible.”
+[[speaker:yun]]“Weeks possible.”
 
 He stood immediately.
 
@@ -332,13 +332,13 @@ The physician touched her shoulder.
 
 Yun shook her head.
 
-“No.”
+[[speaker:yun]]“No.”
 
 “You will kill yourself finishing a report.”
 
 She looked at him.
 
-“I did not cross Shinrin to die before the useful part.”
+[[speaker:yun]]“I did not cross Shinrin to die before the useful part.”
 
 Hallen sat again.
 
@@ -350,7 +350,7 @@ She closed her eyes for one breath.
 
 Then opened them.
 
-“Write.”
+[[speaker:yun]]“Write.”
 
 ---
 
@@ -364,39 +364,39 @@ Not the order it hurt.
 
 The order that mattered now.
 
-“Country: Shinrin.”
+[[speaker:yun]]“Country: Shinrin.”
 
 The clerk wrote.
 
-“Ruling structure: Shinsei Guild. Guild is effectively central government, military command, judiciary and infrastructure authority.”
+[[speaker:yun]]“Ruling structure: Shinsei Guild. Guild is effectively central government, military command, judiciary and infrastructure authority.”
 
 Hallen looked up.
 
 “One institution?”
 
-“Yes.”
+[[speaker:yun]]“Yes.”
 
 “Continue.”
 
-“Axtaya.”
+[[speaker:yun]]“Axtaya.”
 
 Yun pointed weakly toward the sealed capillary now sitting inside a padded evidence tray.
 
-“Circulatory stimulant program. Multiplies combat throughput temporarily. Does not raise cultivation realm or skill.”
+[[speaker:yun]]“Circulatory stimulant program. Multiplies combat throughput temporarily. Does not raise cultivation realm or skill.”
 
 “Military issue?”
 
-“Yes.”
+[[speaker:yun]]“Yes.”
 
 “How strong?”
 
-“Multiple tiers. I confirmed escalation beyond safe medical origin. Highest field tier can produce roughly triple throughput for a short window.”
+[[speaker:yun]]“Multiple tiers. I confirmed escalation beyond safe medical origin. Highest field tier can produce roughly triple throughput for a short window.”
 
 The physician stopped writing treatment notes.
 
 “Cost?”
 
-“Future vitality. Also acute physical damage. Not the same thing.”
+[[speaker:yun]]“Future vitality. Also acute physical damage. Not the same thing.”
 
 His expression changed.
 
@@ -408,21 +408,21 @@ The physician looked at the capillary differently now.
 
 Hallen said, “Army size.”
 
-“Do not write one field army.”
+[[speaker:yun]]“Do not write one field army.”
 
 The clerk paused.
 
 Yun’s breathing became shallower.
 
-“Wider trained apparatus exceeds two hundred thousand by conservative reconstruction. Regional forces, reserves, support-connected trained units. I did not confirm all would deploy at once.”
+[[speaker:yun]]“Wider trained apparatus exceeds two hundred thousand by conservative reconstruction. Regional forces, reserves, support-connected trained units. I did not confirm all would deploy at once.”
 
 “Quality?”
 
-“High.”
+[[speaker:yun]]“High.”
 
 “How high?”
 
-“Peak Marquis appears ordinary enough inside trained elite cohorts that Isgard must not plan around Wuyue scarcity assumptions.”
+[[speaker:yun]]“Peak Marquis appears ordinary enough inside trained elite cohorts that Isgard must not plan around Wuyue scarcity assumptions.”
 
 Hallen went very still.
 
@@ -438,7 +438,7 @@ Yun continued.
 
 Hallen said, “Ten commanders?”
 
-“Ten Paragons.”
+[[speaker:yun]]“Ten Paragons.”
 
 The room went silent.
 
@@ -448,15 +448,15 @@ Yun heard someone outside the curtain inhale sharply.
 
 “Ten?” Hallen repeated.
 
-“Yes.”
+[[speaker:yun]]“Yes.”
 
 “Confirmed?”
 
-“Multiple independent medical and administrative sources. Treat all ten as Paragon until disproven.”
+[[speaker:yun]]“Multiple independent medical and administrative sources. Treat all ten as Paragon until disproven.”
 
 “Names?”
 
-“I do not have a complete reliable ten-name operational list. Do not invent one from my report.”
+[[speaker:yun]]“I do not have a complete reliable ten-name operational list. Do not invent one from my report.”
 
 Even dying, Yun remained Yun.
 
@@ -464,7 +464,7 @@ Hallen nodded.
 
 “Known?”
 
-“Shunto Takamori. No.2. High Paragon. Capture specialist.”
+[[speaker:yun]]“Shunto Takamori. No.2. High Paragon. Capture specialist.”
 
 Her voice changed by one degree.
 
@@ -478,15 +478,15 @@ Yun continued.
 
 Hallen said, “How much stronger?”
 
-“I do not know.”
+[[speaker:yun]]“I do not know.”
 
 “Estimate?”
 
-“No.”
+[[speaker:yun]]“No.”
 
 The refusal was immediate.
 
-“Fear is not permission to manufacture intelligence.”
+[[speaker:yun]]“Fear is not permission to manufacture intelligence.”
 
 The clerk wrote that too before realizing it was not part of the report.
 
@@ -498,19 +498,19 @@ The physician stepped closer.
 
 “Stop.”
 
-“One more section.”
+[[speaker:yun]]“One more section.”
 
 “You said that three sections ago.”
 
-“This is the important one.”
+[[speaker:yun]]“This is the important one.”
 
 “They were all important.”
 
-“Good physician.”
+[[speaker:yun]]“Good physician.”
 
 “Terrible patient.”
 
-“Frequently.”
+[[speaker:yun]]“Frequently.”
 
 Hallen waited.
 
@@ -520,33 +520,33 @@ Isgard.
 
 The coastline she had spent three months finding in other people’s paperwork.
 
-“Target is here.”
+[[speaker:yun]]“Target is here.”
 
 Nobody needed clarification.
 
-“Evidence: cold-weather medical staging, deep-keel transport repair, northern harbor studies, grain movement, elite training cycles, troop requisitions, leave compression, forward clinic staffing.”
+[[speaker:yun]]“Evidence: cold-weather medical staging, deep-keel transport repair, northern harbor studies, grain movement, elite training cycles, troop requisitions, leave compression, forward clinic staffing.”
 
 The clerk’s brush moved quickly.
 
-“No master order recovered. Independent systems converge on Isgard.”
+[[speaker:yun]]“No master order recovered. Independent systems converge on Isgard.”
 
 “Launch timing?”
 
-“Four-month readiness architecture from initial staging. I left late month three.”
+[[speaker:yun]]“Four-month readiness architecture from initial staging. I left late month three.”
 
 Hallen’s face lost what little color remained.
 
 “Weeks.”
 
-“Yes.”
+[[speaker:yun]]“Yes.”
 
 “Could be delayed.”
 
-“Yes.”
+[[speaker:yun]]“Yes.”
 
 “Could be accelerated.”
 
-“Yes.”
+[[speaker:yun]]“Yes.”
 
 He stood.
 
@@ -588,17 +588,17 @@ He looked angry now.
 
 “You.”
 
-“Fair.”
+[[speaker:yun]]“Fair.”
 
 Hallen returned to the chair.
 
 “You said Takamori captured you.”
 
-“Yes.”
+[[speaker:yun]]“Yes.”
 
 “How did you escape?”
 
-“Insider assistance.”
+[[speaker:yun]]“Insider assistance.”
 
 “Name?”
 
@@ -608,21 +608,21 @@ Yun looked at him.
 
 “For protection?”
 
-“For theirs.”
+[[speaker:yun]]“For theirs.”
 
 “Shinsei insider?”
 
-“Close enough to its systems to create a route.”
+[[speaker:yun]]“Close enough to its systems to create a route.”
 
 Hallen accepted the boundary.
 
 “Did Takamori obtain your evidence?”
 
-“Notebook, probably. Not all meaning. Physical sample survived. Essential facts memorized. One coded packet may have left Shinrin earlier.”
+[[speaker:yun]]“Notebook, probably. Not all meaning. Physical sample survived. Essential facts memorized. One coded packet may have left Shinrin earlier.”
 
 “Destination?”
 
-“Wuyue medical channels. Luo Wen may recognize it if it arrives.”
+[[speaker:yun]]“Wuyue medical channels. Luo Wen may recognize it if it arrives.”
 
 The physician glanced at the injuries again.
 
@@ -640,7 +640,7 @@ Hallen nodded.
 
 Yun’s eyes stayed on the ceiling.
 
-“Not for this report.”
+[[speaker:yun]]“Not for this report.”
 
 No detail.
 
@@ -658,21 +658,21 @@ Yun knew.
 
 She looked at Hallen.
 
-“Has Wuyue been sent?”
+[[speaker:yun]]“Has Wuyue been sent?”
 
 “Yes.”
 
-“Pact?”
+[[speaker:yun]]“Pact?”
 
 “Activated.”
 
-“Good.”
+[[speaker:yun]]“Good.”
 
 The word came out almost soundless.
 
 Yun turned her head toward the evidence tray.
 
-“Sample.”
+[[speaker:yun]]“Sample.”
 
 “We have it.”
 
@@ -682,11 +682,11 @@ Yun turned her head toward the evidence tray.
 
 Yun frowned.
 
-“Not medical command.”
+[[speaker:yun]]“Not medical command.”
 
 Hallen waited.
 
-“Luo.”
+[[speaker:yun]]“Luo.”
 
 A tiny distinction.
 
@@ -704,7 +704,7 @@ Medicine did not require the touch. Sometimes physicians ran out of medicine bef
 
 Yun looked at him.
 
-“Did I make it?”
+[[speaker:yun]]“Did I make it?”
 
 He understood what she meant.
 
