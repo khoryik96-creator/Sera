@@ -1,0 +1,29 @@
+name: Apply Literary Polish Pass 2
+on:
+  push:
+    branches:
+      - story/final-arc-literary-polish
+permissions:
+  contents: write
+jobs:
+  apply:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          ref: story/final-arc-literary-polish
+          fetch-depth: 0
+      - uses: actions/setup-node@v7
+        with:
+          node-version: 24
+      - name: Apply asserted prose polish
+        run: node scripts/apply-final-arc-literary-polish-pass2.mjs
+      - name: Remove one-shot patcher and push
+        run: |
+          rm scripts/apply-final-arc-literary-polish-pass2.mjs
+          rm .github/workflows/apply-literary-polish-pass2.yml
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/prose scripts/apply-final-arc-literary-polish-pass2.mjs .github/workflows/apply-literary-polish-pass2.yml
+          git commit -m "Refine final arc literary rhythm"
+          git push origin HEAD:story/final-arc-literary-polish
