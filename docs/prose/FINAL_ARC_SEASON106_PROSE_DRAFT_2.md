@@ -25,13 +25,13 @@ Now she stood on a northern ridge in repaired armor with Solveig’s formations 
 
 Kenji looked almost offended.
 
-“You’re alive.”
+[[speaker:kenji]]“You’re alive.”
 
 Sigrun rested the butt of her spear against stone.
 
-“Disappointing?”
+[[speaker:sigrun]]“Disappointing?”
 
-“No.”
+[[speaker:kenji]]“No.”
 
 He said it too quickly.
 
@@ -39,21 +39,21 @@ Sigrun noticed.
 
 Good.
 
-“You nearly killed me.”
+[[speaker:sigrun]]“You nearly killed me.”
 
 Kenji’s expression tightened.
 
-“You were holding a military retreat.”
+[[speaker:kenji]]“You were holding a military retreat.”
+
+[[speaker:sigrun]]“Yes.”
+
+[[speaker:kenji]]“I was attacking it.”
 
 “Yes.”
 
-“I was attacking it.”
+[[speaker:kenji]]“That sounds less terrible when you say it properly.”
 
-“Yes.”
-
-“That sounds less terrible when you say it properly.”
-
-“It should still sound terrible.”
+[[speaker:sigrun]]“It should still sound terrible.”
 
 Kenji looked at her, caught again by the question the war had taught him to postpone.
 
@@ -163,11 +163,11 @@ He hissed.
 
 Sigrun smiled.
 
-“Remember me now?”
+[[speaker:sigrun]]“Remember me now?”
 
-“I remembered you before.”
+[[speaker:kenji]]“I remembered you before.”
 
-“Not enough.”
+[[speaker:sigrun]]“Not enough.”
 
 She hit him with the spear shaft.
 
@@ -185,11 +185,11 @@ No new trigger.
 
 Kenji saw the adaptation and laughed despite himself.
 
-“That’s clever.”
+[[speaker:kenji]]“That’s clever.”
 
-“Stop complimenting me.”
+[[speaker:sigrun]]“Stop complimenting me.”
 
-“Why does everyone say that?”
+[[speaker:kenji]]“Why does everyone say that?”
 
 Sigrun almost laughed.
 
@@ -199,9 +199,9 @@ Her expression changed.
 
 Kenji saw that too.
 
-“Raska.”
+[[speaker:kenji]]“Raska.”
 
-“Yes.”
+[[speaker:sigrun]]“Yes.”
 
 Kenji’s smile disappeared.
 
@@ -289,7 +289,7 @@ She could kill him.
 
 Did not.
 
-“Yield.”
+[[speaker:sigrun]]“Yield.”
 
 Kenji looked at the spear.
 
@@ -297,7 +297,7 @@ Then at her.
 
 “Why?”
 
-“Because I don’t need you dead to win this ridge.”
+[[speaker:sigrun]]“Because I don’t need you dead to win this ridge.”
 
 That answer hurt more than insult.
 
@@ -339,11 +339,11 @@ Kenji woke before she did.
 
 He stared at his repaired hand until she opened one eye.
 
-“Move the fingers.”
+[[speaker:aya]]“Move the fingers.”
 
-“All of them?”
+[[speaker:kenji]]“All of them?”
 
-“If I wanted only some, I would have said so.”
+[[speaker:aya]]“If I wanted only some, I would have said so.”
 
 He obeyed.
 
@@ -353,15 +353,15 @@ Aya sat up, checked the wrist, then the elbow, then the shoulder. The work was n
 
 Kenji watched her expression.
 
-“You’re smiling.”
+[[speaker:kenji]]“You’re smiling.”
 
-“No.”
+[[speaker:aya]]“No.”
 
-“You are.”
+[[speaker:kenji]]“You are.”
 
-“I’m checking facial nerve function.”
+[[speaker:aya]]“I’m checking facial nerve function.”
 
-“That is a lie.”
+[[speaker:kenji]]“That is a lie.”
 
 “Yes.”
 
@@ -369,33 +369,33 @@ The answer made him laugh. The laugh pulled at his ribs and stopped him immediat
 
 Aya pointed at him without looking up from the chart.
 
-“That is why you are not finished.”
+[[speaker:aya]]“That is why you are not finished.”
 
 Two days later he could rotate the shoulder through its full range. On the fourth, he could circulate Thunder Qi through the repaired arm without the old hitch. On the fifth, Aya let him stand under load and made him repeat the same motion until boredom replaced caution.
 
 Only then did Kenji ask the question he had been avoiding.
 
-“Will it be normal?”
+[[speaker:kenji]]“Will it be normal?”
 
-“Recoverable damage, yes.”
+[[speaker:aya]]“Recoverable damage, yes.”
 
-“All of it?”
+[[speaker:kenji]]“All of it?”
 
 “Yes.”
 
 He looked at the shoulder Sigrun had nearly destroyed.
 
-“I thought she ended this arm.”
+[[speaker:kenji]]“I thought she ended this arm.”
 
-“She nearly did.”
+[[speaker:aya]]“She nearly did.”
 
-“And you fixed it.”
+[[speaker:kenji]]“And you fixed it.”
 
-“I treated it.”
+[[speaker:aya]]“I treated it.”
 
-“That sounds like the same thing.”
+[[speaker:kenji]]“That sounds like the same thing.”
 
-“It is not.”
+[[speaker:aya]]“It is not.”
 
 Aya set the chart aside.
 
@@ -407,39 +407,39 @@ Now his body was erasing the evidence faster than his mind could.
 
 “If she beats me again?” he asked.
 
-“That is not medical.”
+[[speaker:aya]]“That is not medical.”
 
-“I know.”
+[[speaker:kenji]]“I know.”
 
 Aya waited.
 
 Kenji looked toward the canvas wall as though Isgard existed immediately beyond it.
 
-“Raska died.”
+[[speaker:kenji]]“Raska died.”
+
+[[speaker:aya]]“Yes.”
+
+[[speaker:kenji]]“Halvek too.”
 
 “Yes.”
 
-“Halvek too.”
+[[speaker:kenji]]“Tor cannot return to the frontline.”
 
 “Yes.”
 
-“Tor cannot return to the frontline.”
-
-“Yes.”
-
-“Eldran may never fight properly again.”
+[[speaker:kenji]]“Eldran may never fight properly again.”
 
 Aya’s eyes lowered.
 
-“Yes.”
+[[speaker:aya]]“Yes.”
 
-“Sigrun nearly died.”
+[[speaker:kenji]]“Sigrun nearly died.”
 
 “Yes.”
 
 He flexed the repaired hand once more.
 
-“And I get this.”
+[[speaker:kenji]]“And I get this.”
 
 Aya understood before he finished.
 
@@ -449,15 +449,15 @@ Shinsei could recycle a living apex fighter if Aya had enough time and the damag
 
 Kenji swallowed.
 
-“That doesn’t feel fair.”
+[[speaker:kenji]]“That doesn’t feel fair.”
 
 “No.”
 
-“Should I refuse the rest of the treatment?”
+[[speaker:kenji]]“Should I refuse the rest of the treatment?”
 
 Aya became very still.
 
-“No.”
+[[speaker:aya]]“No.”
 
 He blinked.
 
@@ -465,15 +465,15 @@ He blinked.
 
 Kenji looked down.
 
-“Then what am I supposed to do with it?”
+[[speaker:kenji]]“Then what am I supposed to do with it?”
 
-“The body?”
+[[speaker:aya]]“The body?”
 
-“The fact that I get it back.”
+[[speaker:kenji]]“The fact that I get it back.”
 
 Aya glanced at the repaired shoulder, then at his face.
 
-“Decide what you do with the body afterward.”
+[[speaker:aya]]“Decide what you do with the body afterward.”
 
 That answer stayed with him through the final circulation test.
 
@@ -489,15 +489,15 @@ He thanked Aya before leaving.
 
 She did not look up from the next chart.
 
-“You owe me no obedience because I treated you.”
+[[speaker:aya]]“You owe me no obedience because I treated you.”
 
 “I know.”
 
-“No extra years because I returned your body.”
+[[speaker:aya]]“No extra years because I returned your body.”
 
 Kenji paused at the flap.
 
-“I know that too.”
+[[speaker:kenji]]“I know that too.”
 
 This time Aya believed him.
 
@@ -515,13 +515,13 @@ Solveig had done that deliberately.
 
 He stared at the stack.
 
-“Is this a message?”
+[[speaker:aldric]]“Is this a message?”
 
-“Yes.”
+[[speaker:solveig]]“Yes.”
 
-“What does it say?”
+[[speaker:aldric]]“What does it say?”
 
-“That war continued while you were unconscious.”
+[[speaker:solveig]]“That war continued while you were unconscious.”
 
 Aldric looked at her.
 
@@ -535,11 +535,11 @@ He stopped immediately.
 
 Solveig did not look sympathetic.
 
-“You were warned.”
+[[speaker:solveig]]“You were warned.”
 
-“You sound like my physician.”
+[[speaker:aldric]]“You sound like my physician.”
 
-“Your physician is smarter.”
+[[speaker:solveig]]“Your physician is smarter.”
 
 Aldric lowered himself into the chair carefully.
 
@@ -551,23 +551,23 @@ That did not mean Solveig stopped being the person who knew which front had move
 
 Aldric looked at the maps.
 
-“You keep theater command.”
+[[speaker:aldric]]“You keep theater command.”
 
 Solveig paused.
 
-“I expected an argument.”
+[[speaker:solveig]]“I expected an argument.”
 
-“Why?”
+[[speaker:aldric]]“Why?”
 
-“Because rulers enjoy reclaiming things.”
+[[speaker:solveig]]“Because rulers enjoy reclaiming things.”
 
 Aldric looked at her.
 
-“I nearly died.”
+[[speaker:aldric]]“I nearly died.”
 
-“Yes.”
+[[speaker:solveig]]“Yes.”
 
-“Not become stupid.”
+[[speaker:aldric]]“Not become stupid.”
 
 A faint smile touched Solveig’s mouth.
 
@@ -575,27 +575,27 @@ Good.
 
 He pointed at one marker.
 
-“Varok?”
+[[speaker:aldric]]“Varok?”
 
-“Mobile south.”
+[[speaker:solveig]]“Mobile south.”
 
-“Brynja?”
+[[speaker:aldric]]“Brynja?”
 
-“Coast. Still angry.”
+[[speaker:solveig]]“Coast. Still angry.”
 
-“Normal.”
+[[speaker:aldric]]“Normal.”
 
-“Astrid?”
+[[speaker:aldric]]“Astrid?”
 
-“Has apparently created roads that do not exist.”
+[[speaker:solveig]]“Has apparently created roads that do not exist.”
 
-“Also normal.”
+[[speaker:aldric]]“Also normal.”
 
 Aldric leaned back.
 
 Pain reminded him not to go farther.
 
-“Wuyue?”
+[[speaker:aldric]]“Wuyue?”
 
 Solveig gave the summary.
 
@@ -617,9 +617,9 @@ Aldric listened.
 
 Then asked:
 
-“Eirik?”
+[[speaker:aldric]]“Eirik?”
 
-“Still commanding.”
+[[speaker:solveig]]“Still commanding.”
 
 Aldric’s face hardened.
 
@@ -635,21 +635,21 @@ He hated more that Eirik believed truth created ownership.
 
 Solveig watched him.
 
-“You are not fighting him tomorrow.”
+[[speaker:solveig]]“You are not fighting him tomorrow.”
 
 Aldric looked offended.
 
-“I did not say I was.”
+[[speaker:aldric]]“I did not say I was.”
 
-“You thought it loudly.”
+[[speaker:solveig]]“You thought it loudly.”
 
-“That is not a thing.”
+[[speaker:aldric]]“That is not a thing.”
 
-“It is with you.”
+[[speaker:solveig]]“It is with you.”
 
 Aldric looked at the map.
 
-“When Maedra returns.”
+[[speaker:aldric]]“When Maedra returns.”
 
 Solveig understood.
 
@@ -661,19 +661,19 @@ Aldric had learned something too.
 
 He placed one hand on the table.
 
-“Until then, I take diplomacy, legal command and alliance authority.”
+[[speaker:aldric]]“Until then, I take diplomacy, legal command and alliance authority.”
 
-“Correct.”
+[[speaker:solveig]]“Correct.”
 
-“You keep field coordination.”
+[[speaker:aldric]]“You keep field coordination.”
 
-“Yes.”
+[[speaker:solveig]]“Yes.”
 
-“No ceremony.”
+[[speaker:aldric]]“No ceremony.”
 
-“Please.”
+[[speaker:solveig]]“Please.”
 
-“Good.”
+[[speaker:aldric]]“Good.”
 
 Isgard’s supreme ruler had returned.
 
@@ -705,23 +705,23 @@ Luo examined her personally before clearing combat.
 
 Maedra watched him work.
 
-“You’re Wuyue.”
+[[speaker:maedra]]“You’re Wuyue.”
 
-“Yes.”
+[[speaker:luo]]“Yes.”
 
-“Poison physician.”
+[[speaker:maedra]]“Poison physician.”
 
-“Physician who knows poison.”
+[[speaker:luo]]“Physician who knows poison.”
 
-“Difference?”
+[[speaker:maedra]]“Difference?”
 
-“Ask Yun.”
+[[speaker:luo]]“Ask Yun.”
 
 Silence.
 
 Maedra’s expression softened.
 
-“Sorry.”
+[[speaker:maedra]]“Sorry.”
 
 Luo nodded once.
 
@@ -735,31 +735,31 @@ Not advised at maximum duration yet.
 
 Maedra frowned.
 
-“You people love percentages.”
+[[speaker:maedra]]“You people love percentages.”
 
-“Only when patients refuse normal language.”
+[[speaker:luo]]“Only when patients refuse normal language.”
 
-“What is normal language?”
+[[speaker:maedra]]“What is normal language?”
 
-“Do not be stupid.”
+[[speaker:luo]]“Do not be stupid.”
 
 Maedra smiled.
 
-“I like you.”
+[[speaker:maedra]]“I like you.”
 
-“Poor judgement.”
+[[speaker:luo]]“Poor judgement.”
 
 He finished the examination.
 
-“Combat-capable.”
+[[speaker:luo]]“Combat-capable.”
 
-“Good.”
+[[speaker:maedra]]“Good.”
 
-“Not indestructible.”
+[[speaker:luo]]“Not indestructible.”
 
-“I know.”
+[[speaker:maedra]]“I know.”
 
-“Do you?”
+[[speaker:luo]]“Do you?”
 
 She looked toward the next room.
 
@@ -779,13 +779,13 @@ Maedra walked to Eldran after clearance.
 
 He looked up.
 
-“You’re limping.”
+[[speaker:eldran]]“You’re limping.”
 
-“You’re rude.”
+[[speaker:maedra]]“You’re rude.”
 
-“I am retired.”
+[[speaker:eldran]]“I am retired.”
 
-“That did not require personality change.”
+[[speaker:maedra]]“That did not require personality change.”
 
 He smiled.
 
@@ -795,31 +795,31 @@ For several breaths neither spoke.
 
 Then Eldran asked:
 
-“Eirik?”
+[[speaker:eldran]]“Eirik?”
 
-“Soon.”
+[[speaker:maedra]]“Soon.”
 
-“Aldric?”
+[[speaker:eldran]]“Aldric?”
 
-“With me.”
+[[speaker:maedra]]“With me.”
 
-“Good.”
+[[speaker:eldran]]“Good.”
 
 Maedra looked at him.
 
-“You don’t want revenge?”
+[[speaker:maedra]]“You don’t want revenge?”
 
-“For me?”
+[[speaker:eldran]]“For me?”
 
-“Yes.”
+[[speaker:maedra]]“Yes.”
 
 Eldran considered.
 
-“I want you to win the war.”
+[[speaker:eldran]]“I want you to win the war.”
 
-“That sounds annoyingly mature.”
+[[speaker:maedra]]“That sounds annoyingly mature.”
 
-“I have had a lot of time to sit.”
+[[speaker:eldran]]“I have had a lot of time to sit.”
 
 She almost laughed.
 
@@ -829,27 +829,27 @@ Still.
 
 Permanent.
 
-“Jun is back fighting.”
+[[speaker:maedra]]“Jun is back fighting.”
 
-“I heard.”
+[[speaker:eldran]]“I heard.”
 
-“Aya repaired him.”
+[[speaker:maedra]]“Aya repaired him.”
 
-“Yes.”
+[[speaker:eldran]]“Yes.”
 
 Maedra’s jaw tightened.
 
 Eldran saw.
 
-“Not her fault.”
+[[speaker:eldran]]“Not her fault.”
 
-“I know.”
+[[speaker:maedra]]“I know.”
 
-“Say it like you know.”
+[[speaker:eldran]]“Say it like you know.”
 
 Maedra exhaled.
 
-“I know.”
+[[speaker:maedra]]“I know.”
 
 Good.
 
@@ -857,11 +857,11 @@ The war’s cruelty did not require hating the physician for being excellent.
 
 Maedra stood.
 
-“Try not to get crippled again while I’m gone.”
+[[speaker:maedra]]“Try not to get crippled again while I’m gone.”
 
 Eldran looked at his book.
 
-“I’ll avoid strenuous reading.”
+[[speaker:eldran]]“I’ll avoid strenuous reading.”
 
 She left.
 
@@ -951,9 +951,9 @@ Eirik’s eyes sharpened.
 
 Aldric smiled.
 
-“Learned something.”
+[[speaker:aldric]]“Learned something.”
 
-“You always did eventually.”
+[[speaker:eirik]]“You always did eventually.”
 
 Maedra cut from the side.
 
@@ -961,11 +961,11 @@ Eirik blocked.
 
 She laughed.
 
-“Are we interrupting?”
+[[speaker:maedra]]“Are we interrupting?”
 
-“Yes.”
+[[speaker:eirik]]“Yes.”
 
-“Good.”
+[[speaker:maedra]]“Good.”
 
 The battle went thirty minutes.
 
@@ -1013,33 +1013,33 @@ That was why people had followed him once.
 
 Aldric saw it too.
 
-“You could have come home.”
+[[speaker:aldric]]“You could have come home.”
 
 Eirik’s face changed.
 
-“To what?”
+[[speaker:eirik]]“To what?”
 
-“Us.”
+[[speaker:aldric]]“Us.”
 
-“You were still fractured.”
+[[speaker:eirik]]“You were still fractured.”
 
-“Yes.”
+[[speaker:aldric]]“Yes.”
 
-“Still fighting yourselves.”
-
-“Yes.”
-
-“Still starving regions because clans protected privilege.”
+[[speaker:eirik]]“Still fighting yourselves.”
 
 “Yes.”
+
+[[speaker:eirik]]“Still starving regions because clans protected privilege.”
+
+[[speaker:aldric]]“Yes.”
 
 Eirik’s voice sharpened.
 
-“Then why would I return to failure?”
+[[speaker:eirik]]“Then why would I return to failure?”
 
 Aldric’s spear remained steady.
 
-“Because it was ours.”
+[[speaker:aldric]]“Because it was ours.”
 
 That was the answer.
 
@@ -1083,15 +1083,15 @@ Did not.
 
 Maedra looked at him.
 
-“Why?”
+[[speaker:maedra]]“Why?”
 
-“Because our objective is the line.”
+[[speaker:aldric]]“Because our objective is the line.”
 
 She smiled.
 
-“Look at you.”
+[[speaker:maedra]]“Look at you.”
 
-“Do not.”
+[[speaker:aldric]]“Do not.”
 
 Eirik withdrew badly wounded.
 
@@ -1147,7 +1147,7 @@ Enough uninterrupted work to return a living High Paragon’s recoverable damage
 
 Aldric sat.
 
-“We removed him.”
+[[speaker:aldric]]“We removed him.”
 
 “For three days,” Jin said.
 
@@ -1157,21 +1157,21 @@ He was already rewriting strategy.
 
 Maedra looked at Sera.
 
-“Can Luo do that?”
+[[speaker:maedra]]“Can Luo do that?”
 
 Luo answered from the doorway.
 
-“No.”
+[[speaker:luo]]“No.”
 
 Everyone turned.
 
 He entered carrying a medicine tray.
 
-“I can save people who should die. I can repair serious meridian damage. I can return Sovereigns faster than most physicians alive.”
+[[speaker:luo]]“I can save people who should die. I can repair serious meridian damage. I can return Sovereigns faster than most physicians alive.”
 
 He set the tray down.
 
-“Aya is a Paragon physician. Her ceiling is higher.”
+[[speaker:luo]]“Aya is a Paragon physician. Her ceiling is higher.”
 
 No shame.
 
@@ -1181,7 +1181,7 @@ Important.
 
 Luo looked at him.
 
-“Different problem.”
+[[speaker:luo]]“Different problem.”
 
 Everyone understood enough not to ask.
 
@@ -1201,7 +1201,7 @@ All repairable.
 
 “No,” Sera answered.
 
-“It’s that killing the same Paragon is apparently required if we want them permanently removed.”
+[[speaker:jin]]“It’s that killing the same Paragon is apparently required if we want them permanently removed.”
 
 Silence.
 
@@ -1213,27 +1213,27 @@ Because it created pressure toward execution.
 
 She looked at Jin.
 
-“We do not change prisoner or surrender rules.”
+[[speaker:sera]]“We do not change prisoner or surrender rules.”
 
-“I did not suggest it.”
+[[speaker:jin]]“I did not suggest it.”
 
-“I know.”
+[[speaker:sera]]“I know.”
 
 She said it anyway.
 
 Solveig leaned over the map.
 
-“So what do we do?”
+[[speaker:solveig]]“So what do we do?”
 
 Jin answered.
 
-“Stop measuring victory by how many times we knock down someone Aya can stand back up.”
+[[speaker:jin]]“Stop measuring victory by how many times we knock down someone Aya can stand back up.”
 
 Aldric frowned.
 
-“Then?”
+[[speaker:aldric]]“Then?”
 
-“Territory. Logistics. Morale. Redline supply. Command objectives. Make their recovered Paragons return to a worse war.”
+[[speaker:jin]]“Territory. Logistics. Morale. Redline supply. Command objectives. Make their recovered Paragons return to a worse war.”
 
 There.
 
@@ -1253,7 +1253,7 @@ Could not prevent Shinsei officers from noticing that the war kept requiring mor
 
 Sera looked at the map.
 
-“Then we stop trying to win the same battle twice.”
+[[speaker:sera]]“Then we stop trying to win the same battle twice.”
 
 Far across the lines, Eirik Voss lifted his repaired shield.
 
