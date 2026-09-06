@@ -1,4 +1,5 @@
 import { test, expect } from '@playwright/test';
+import { TOTAL_ARCS } from '../src/episodeMeta';
 
 async function openOverview(page: import('@playwright/test').Page) {
   await page.goto('/#overview');
@@ -10,7 +11,7 @@ test('overview dashboard exposes protagonists, Top Ten, and archive actions', as
   await expect(page.locator('.protagonist-card')).toHaveCount(2);
   await expect(page.locator('.overview-rank-list > button')).toHaveCount(10);
   await expect(page.getByText('Two legends. One quiet tea shop.')).toBeVisible();
-  await expect(page.getByText('16 Story Arcs')).toBeVisible();
+  await expect(page.getByText(`${TOTAL_ARCS} Story Arcs`)).toBeVisible();
 
   await page.locator('.protagonist-card--sera').click();
   await expect(page).toHaveURL(/#characters\/sera$/);

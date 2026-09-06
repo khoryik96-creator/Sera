@@ -1,4 +1,5 @@
 import { test, expect } from '@playwright/test';
+import { TOTAL_ARCS, TOTAL_CHAPTERS } from '../src/episodeMeta';
 
 async function openInsights(page: import('@playwright/test').Page) {
   await page.goto('/#insights');
@@ -35,13 +36,13 @@ async function seedReaderState(page: import('@playwright/test').Page) {
 
 test('Reading Insights summarizes existing local reader state and journey', async ({ page }) => {
   await seedReaderState(page); await openInsights(page);
-  await expect(page.locator('.insights-hero')).toContainText('10 of 933 episodes');
+  await expect(page.locator('.insights-hero')).toContainText(`10 of ${TOTAL_CHAPTERS} episodes`);
   await expect(page.locator('.insights-stat-grid')).toContainText('Current streak');
   await expect(page.locator('.insights-stat-grid')).toContainText('3');
   await expect(page.locator('.insights-library-panel .insights-library-grid')).toContainText('4');
   await expect(page.getByRole('heading', { name: 'How you move through the story' })).toBeVisible();
   await expect(page.getByText('episode revisits')).toBeVisible();
-  await expect(page.locator('.insights-arc-card')).toHaveCount(16);
+  await expect(page.locator('.insights-arc-card')).toHaveCount(TOTAL_ARCS);
   await expect(page.locator('.insights-secondary')).toContainText('S2 E1');
 });
 
