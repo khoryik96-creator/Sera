@@ -548,9 +548,25 @@ That thought irritated her.
 
 Irritation meant she was still herself.
 
-Luo had ordered no sustained Dominion combat for several days.
+Luo’s first order had come after Kai and Eirik withdrew from the corridor.
 
-Sera obeyed by only using Orchid Dominion once.
+**Stop fighting until I clear you.**
+
+Sera had obeyed the words by lying on a treatment cot until morning and then spent the following days discovering increasingly creative definitions of *fighting*.
+
+Luo had noticed.
+
+His second order came that morning.
+
+“No sustained Dominion combat. No apex interception unless the alternative is immediate collapse. And if you make me say this a third time, I am asking Tae to sit on you.”
+
+Sera stared at him.
+
+“Tae would enjoy that too much.”
+
+“That is why it is a threat.”
+
+She obeyed by only using Orchid Dominion once.
 
 Luo found out.
 
