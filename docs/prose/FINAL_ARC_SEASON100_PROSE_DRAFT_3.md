@@ -78,7 +78,7 @@ The clerk immediately regretted the sentence.
 
 Sera did not punish him for it.
 
-“What requires the number?”
+[[speaker:sera]]“What requires the number?”
 
 “Public mobilization authority in two eastern formations. They are structured to receive emergency orders through ranked holders or regional sovereign command. We can reroute through Jin, but it creates delay.”
 
@@ -96,21 +96,21 @@ That did not mean replacing her before the room stopped remembering her voice.
 
 Sera looked at the blank line on the deployment matrix.
 
-“No.10.”
+[[speaker:sera]]“No.10.”
 
 The clerk nodded.
 
 Jin leaned back.
 
-“We can leave it empty another day if we restructure the relay.”
+[[speaker:jin]]“We can leave it empty another day if we restructure the relay.”
 
-“Can we do that without weakening response?”
+[[speaker:sera]]“Can we do that without weakening response?”
 
-“Yes.”
+[[speaker:jin]]“Yes.”
 
 He paused.
 
-“Not without cost.”
+[[speaker:jin]]“Not without cost.”
 
 The cost had finally been named. Nobody wanted the conversation.
 
@@ -134,23 +134,23 @@ Three Axtaya case sheets covered the table beside Yun’s untouched cup.
 
 Sera stood in the doorway.
 
-“Have you slept?”
+[[speaker:sera]]“Have you slept?”
 
-“No.”
+[[speaker:luo]]“No.”
 
-“That was not a difficult question.”
+[[speaker:sera]]“That was not a difficult question.”
 
-“I answered it.”
+[[speaker:luo]]“I answered it.”
 
 Jin entered behind her.
 
 Luo saw him and understood immediately that this was not a medical visit.
 
-“What?”
+[[speaker:luo]]“What?”
 
 Jin did not circle it.
 
-“The No.10 command seat creates an operational gap.”
+[[speaker:jin]]“The No.10 command seat creates an operational gap.”
 
 Luo looked at Yun’s cup.
 
@@ -158,13 +158,13 @@ For several breaths he said nothing.
 
 Then:
 
-“Do you have to fill it?”
+[[speaker:luo]]“Do you have to fill it?”
 
-“Soon.”
+[[speaker:jin]]“Soon.”
 
-“Today?”
+[[speaker:luo]]“Today?”
 
-“Preferably before full mobilization leaves central roads.”
+[[speaker:jin]]“Preferably before full mobilization leaves central roads.”
 
 Luo’s mouth tightened.
 
@@ -172,9 +172,9 @@ Sera said, “Nobody replaces her.”
 
 He looked at her.
 
-“I know what the sentence means politically.”
+[[speaker:luo]]“I know what the sentence means politically.”
 
-“That is not what I meant.”
+[[speaker:sera]]“That is not what I meant.”
 
 Silence.
 
@@ -192,31 +192,31 @@ Painful.
 
 Necessary.
 
-“Fine.”
+[[speaker:luo]]“Fine.”
 
 Jin said, “We have not chosen anyone.”
 
 Luo gave him a tired look.
 
-“You came to ask permission?”
+[[speaker:luo]]“You came to ask permission?”
 
-“No.”
+[[speaker:jin]]“No.”
 
-“Good. She would hate that.”
+[[speaker:luo]]“Good. She would hate that.”
 
 That was true enough to hurt.
 
 Luo picked up one of the Axtaya sheets.
 
-“Choose somebody useful.”
+[[speaker:luo]]“Choose somebody useful.”
 
 Sera almost smiled.
 
-“Also something she would say.”
+[[speaker:sera]]“Also something she would say.”
 
-“Probably with more insults.”
+[[speaker:luo]]“Probably with more insults.”
 
-“Definitely.”
+[[speaker:sera]]“Definitely.”
 
 The smile vanished quickly, but it had existed, and Sera kept that small fact with her.
 

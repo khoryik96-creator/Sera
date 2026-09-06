@@ -1,6 +1,6 @@
 # Season 100 — unattributed dialogue
 
-185 quoted lines in this season have no speaker.
+159 quoted lines in this season have no speaker.
 See `README.md` in this folder for what to do with them.
 
 Lines already resolved show their speaker in `[brackets]` for context.
@@ -518,228 +518,20 @@ Silence.
 The clerk immediately regretted the sentence.
 ```
 ```
-Silence.
 The clerk immediately regretted the sentence.
 Sera did not punish him for it.
->>> “What requires the number?”   <-- WHO SAYS THIS?
-“Public mobilization authority in two eastern formations. They are structured to receive emergency orders through ranked holders or regional sovereign command. We can reroute through Jin, but it creates delay.”
-Jin said, “How much?”
-```
-```
-The clerk immediately regretted the sentence.
-Sera did not punish him for it.
-“What requires the number?”
+[sera] “What requires the number?”
 >>> “Public mobilization authority in two eastern formations. They are structured to receive emergency orders through ranked holders or regional sovereign command. We can reroute through Jin, but it creates delay.”   <-- WHO SAYS THIS?
 Jin said, “How much?”
 “Best case, hours. Worst case, a day if the road relay is interrupted.”
 ```
 ```
-“What requires the number?”
+[sera] “What requires the number?”
 “Public mobilization authority in two eastern formations. They are structured to receive emergency orders through ranked holders or regional sovereign command. We can reroute through Jin, but it creates delay.”
 Jin said, “How much?”
 >>> “Best case, hours. Worst case, a day if the road relay is interrupted.”   <-- WHO SAYS THIS?
 A day.
 Yun had died buying them days.
-```
-```
-Wasting one because grief made administration feel ugly would not honor her.
-That did not mean replacing her before the room stopped remembering her voice.
-Sera looked at the blank line on the deployment matrix.
->>> “No.10.”   <-- WHO SAYS THIS?
-The clerk nodded.
-Jin leaned back.
-```
-```
-“No.10.”
-The clerk nodded.
-Jin leaned back.
->>> “We can leave it empty another day if we restructure the relay.”   <-- WHO SAYS THIS?
-“Can we do that without weakening response?”
-“Yes.”
-```
-```
-The clerk nodded.
-Jin leaned back.
-“We can leave it empty another day if we restructure the relay.”
->>> “Can we do that without weakening response?”   <-- WHO SAYS THIS?
-“Yes.”
-He paused.
-```
-```
-Jin leaned back.
-“We can leave it empty another day if we restructure the relay.”
-“Can we do that without weakening response?”
->>> “Yes.”   <-- WHO SAYS THIS?
-He paused.
-“Not without cost.”
-```
-```
-“Can we do that without weakening response?”
-“Yes.”
-He paused.
->>> “Not without cost.”   <-- WHO SAYS THIS?
-The cost had finally been named. Nobody wanted the conversation.
-The war wanted it anyway.
-```
-```
-Of course he had.
-Three Axtaya case sheets covered the table beside Yun’s untouched cup.
-Sera stood in the doorway.
->>> “Have you slept?”   <-- WHO SAYS THIS?
-“No.”
-“That was not a difficult question.”
-```
-```
-Three Axtaya case sheets covered the table beside Yun’s untouched cup.
-Sera stood in the doorway.
-“Have you slept?”
->>> “No.”   <-- WHO SAYS THIS?
-“That was not a difficult question.”
-“I answered it.”
-```
-```
-Sera stood in the doorway.
-“Have you slept?”
-“No.”
->>> “That was not a difficult question.”   <-- WHO SAYS THIS?
-“I answered it.”
-Jin entered behind her.
-```
-```
-“Have you slept?”
-“No.”
-“That was not a difficult question.”
->>> “I answered it.”   <-- WHO SAYS THIS?
-Jin entered behind her.
-Luo saw him and understood immediately that this was not a medical visit.
-```
-```
-“I answered it.”
-Jin entered behind her.
-Luo saw him and understood immediately that this was not a medical visit.
->>> “What?”   <-- WHO SAYS THIS?
-Jin did not circle it.
-“The No.10 command seat creates an operational gap.”
-```
-```
-Luo saw him and understood immediately that this was not a medical visit.
-“What?”
-Jin did not circle it.
->>> “The No.10 command seat creates an operational gap.”   <-- WHO SAYS THIS?
-Luo looked at Yun’s cup.
-For several breaths he said nothing.
-```
-```
-Luo looked at Yun’s cup.
-For several breaths he said nothing.
-Then:
->>> “Do you have to fill it?”   <-- WHO SAYS THIS?
-“Soon.”
-“Today?”
-```
-```
-For several breaths he said nothing.
-Then:
-“Do you have to fill it?”
->>> “Soon.”   <-- WHO SAYS THIS?
-“Today?”
-“Preferably before full mobilization leaves central roads.”
-```
-```
-Then:
-“Do you have to fill it?”
-“Soon.”
->>> “Today?”   <-- WHO SAYS THIS?
-“Preferably before full mobilization leaves central roads.”
-Luo’s mouth tightened.
-```
-```
-“Do you have to fill it?”
-“Soon.”
-“Today?”
->>> “Preferably before full mobilization leaves central roads.”   <-- WHO SAYS THIS?
-Luo’s mouth tightened.
-Sera said, “Nobody replaces her.”
-```
-```
-Luo’s mouth tightened.
-Sera said, “Nobody replaces her.”
-He looked at her.
->>> “I know what the sentence means politically.”   <-- WHO SAYS THIS?
-“That is not what I meant.”
-Silence.
-```
-```
-Sera said, “Nobody replaces her.”
-He looked at her.
-“I know what the sentence means politically.”
->>> “That is not what I meant.”   <-- WHO SAYS THIS?
-Silence.
-Sera continued.
-```
-```
-Small.
-Painful.
-Necessary.
->>> “Fine.”   <-- WHO SAYS THIS?
-Jin said, “We have not chosen anyone.”
-Luo gave him a tired look.
-```
-```
-“Fine.”
-Jin said, “We have not chosen anyone.”
-Luo gave him a tired look.
->>> “You came to ask permission?”   <-- WHO SAYS THIS?
-“No.”
-“Good. She would hate that.”
-```
-```
-Jin said, “We have not chosen anyone.”
-Luo gave him a tired look.
-“You came to ask permission?”
->>> “No.”   <-- WHO SAYS THIS?
-“Good. She would hate that.”
-That was true enough to hurt.
-```
-```
-Luo gave him a tired look.
-“You came to ask permission?”
-“No.”
->>> “Good. She would hate that.”   <-- WHO SAYS THIS?
-That was true enough to hurt.
-Luo picked up one of the Axtaya sheets.
-```
-```
-“Good. She would hate that.”
-That was true enough to hurt.
-Luo picked up one of the Axtaya sheets.
->>> “Choose somebody useful.”   <-- WHO SAYS THIS?
-Sera almost smiled.
-“Also something she would say.”
-```
-```
-Luo picked up one of the Axtaya sheets.
-“Choose somebody useful.”
-Sera almost smiled.
->>> “Also something she would say.”   <-- WHO SAYS THIS?
-“Probably with more insults.”
-“Definitely.”
-```
-```
-“Choose somebody useful.”
-Sera almost smiled.
-“Also something she would say.”
->>> “Probably with more insults.”   <-- WHO SAYS THIS?
-“Definitely.”
-The smile vanished quickly, but it had existed, and Sera kept that small fact with her.
-```
-```
-Sera almost smiled.
-“Also something she would say.”
-“Probably with more insults.”
->>> “Definitely.”   <-- WHO SAYS THIS?
-The smile vanished quickly, but it had existed, and Sera kept that small fact with her.
-Outside, Wuyue’s first pact formations began moving north.
 ```
 
 ### Chapter 359 — Shen Rui Names the Gale
