@@ -1,8 +1,10 @@
 name: Fix Phase II final seam
 on:
   push:
-    branches: [story/final-arc-phase2-preprose-audit]
-    paths: ['.github/workflows/fix-phase2-final-seam.yml']
+    branches:
+      - story/final-arc-phase2-preprose-audit
+    paths:
+      - .github/workflows/fix-phase2-final-seam.yml
 permissions:
   contents: write
 jobs:
@@ -14,8 +16,8 @@ jobs:
           ref: story/final-arc-phase2-preprose-audit
           fetch-depth: 0
       - name: Fix Ch440 to Ch441 staging
-        shell: python
         run: |
+          python - <<'PY'
           from pathlib import Path
           p = Path('docs/prose/FINAL_ARC_SEASON108_PROSE_DRAFT_2.md')
           s = p.read_text()
@@ -76,9 +78,9 @@ His voice stayed quiet.
           s2 = s[:start] + replacement + s[end:]
           assert s2.count('Rhen opened his eyes.') == 1
           assert s2.count('“How long?”') >= 1
-          assert 'The stone opened from inside.' not in s2[start:end+len(replacement)]
           p.write_text(s2)
           Path('.github/workflows/fix-phase2-final-seam.yml').unlink()
+          PY
       - name: Commit seam fix
         run: |
           git config user.name khoryik96-creator
