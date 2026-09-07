@@ -34,7 +34,7 @@ Aya looked at it.
 
 Hana’s face tightened.
 
-“Yes.”
+[[speaker:hana]]“Yes.”
 
 [[speaker:aya]]“Same day.”
 
@@ -388,7 +388,7 @@ Aya placed Haru’s medical chart on the table.
 
 Tsubasa’s face hardened.
 
-“Yes.”
+[[speaker:tsubasa]]“Yes.”
 
 [[speaker:aya]]“Approximate future-life expenditure around thirty-five years.”
 
@@ -522,7 +522,7 @@ Tsubasa looked at her.
 
 Aya heard the evasion packed into one word and closed her eyes briefly.
 
-“Why?”
+[[speaker:aya]]“Why?”
 
 [[speaker:tsubasa]]“Because Wuyue entered the war.”
 
@@ -708,7 +708,7 @@ Nao found Aya in a treatment tent.
 
 Aya did not look up.
 
-“Yes.”
+[[speaker:aya]]“Yes.”
 
 [[speaker:nao]]“Why?”
 
@@ -726,7 +726,7 @@ Aya finally looked at her.
 
 Nao considered.
 
-“No.”
+[[speaker:nao]]“No.”
 
 [[speaker:aya]]“Good.”
 
@@ -802,7 +802,7 @@ Aya said, “We are not forming a faction.”
 
 Nao’s mouth moved.
 
-“No.”
+[[speaker:nao]]“No.”
 
 [[speaker:aya]]“We are not plotting against Tsubasa.”
 

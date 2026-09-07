@@ -295,7 +295,7 @@ Kenji looked at the spear.
 
 Then at her.
 
-“Why?”
+[[speaker:kenji]]“Why?”
 
 [[speaker:sigrun]]“Because I don’t need you dead to win this ridge.”
 
