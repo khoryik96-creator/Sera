@@ -49,7 +49,8 @@ See \`README.md\` in this folder for what to do with them.
 
 Lines already resolved show their speaker in \`[brackets]\` for context.
 `;
-  writeFileSync(`docs/dialogue-audit/season-${String(n).padStart(3, '0')}.md`, header + lines.join('\n') + '\n');
+  const output = `${header}${lines.join('\n')}`.replace(/\n+$/u, '') + '\n';
+  writeFileSync(`docs/dialogue-audit/season-${String(n).padStart(3, '0')}.md`, output);
 }
 
 console.log('total unattributed lines:', grand);
