@@ -40,21 +40,21 @@ Haru studied the outer road.
 
 [[speaker:hana]]“Sera left.”
 
-“Yes.”
+[[speaker:haru]]“Yes.”
 
 [[speaker:hana]]“Public Top Ten left.”
 
-“Yes.”
+[[speaker:haru]]“Yes.”
 
 [[speaker:hana]]“Rhen unavailable.”
 
-“Yes.”
+[[speaker:haru]]“Yes.”
 
 Hana looked at him.
 
 [[speaker:hana]]“You are enjoying saying yes.”
 
-“No.”
+[[speaker:haru]]“No.”
 
 [[speaker:hana]]“You sound like it.”
 
@@ -104,7 +104,7 @@ Hana looked at the wall again.
 
 [[speaker:hana]]“That should be good.”
 
-“No.”
+[[speaker:haru]]“No.”
 
 [[speaker:hana]]“Why?”
 
@@ -124,11 +124,11 @@ He tapped the report.
 
 [[speaker:haru]]“Quaint’s public profile says medicine, private security, logistics.”
 
-“Yes.”
+[[speaker:hana]]“Yes.”
 
 [[speaker:haru]]“Sera took one hundred twenty north.”
 
-“Yes.”
+[[speaker:hana]]“Yes.”
 
 [[speaker:haru]]“If that is a meaningful fraction, more people should be visible here.”
 
@@ -222,7 +222,7 @@ Hana stared.
 
 [[speaker:hana]]“Prepared.”
 
-“Yes.”
+[[speaker:haru]]“Yes.”
 
 The herb carrier backed away with the civilians instead of fighting.
 
@@ -288,7 +288,7 @@ Hana looked at Haru.
 
 [[speaker:hana]]“Do you know him?”
 
-“No.”
+[[speaker:haru]]“No.”
 
 Tae heard anyway.
 
@@ -642,11 +642,11 @@ Hana understood it better.
 
 “Stop forcing it,” she said.
 
-“I know.”
+[[speaker:haru]]“I know.”
 
 [[speaker:hana]]“You’re still forcing it.”
 
-“I know.”
+[[speaker:haru]]“I know.”
 
 Tae heard.
 
@@ -880,7 +880,7 @@ Hana passed him.
 
 [[speaker:hana]]“Stop complimenting us.”
 
-“No.”
+[[speaker:huo]]“No.”
 
 She attacked again.
 
@@ -1446,7 +1446,7 @@ Qin tilted his head.
 
 [[speaker:hana]]“That does not prevent capture.”
 
-“No.”
+[[speaker:qin]]“No.”
 
 [[speaker:hana]]“Then why?”
 
@@ -1496,11 +1496,11 @@ Qin said nothing.
 
 [[speaker:haru]]“Outside the public Top Ten.”
 
-“Yes.”
+[[speaker:qin]]“Yes.”
 
 [[speaker:haru]]“Living here.”
 
-“Yes.”
+[[speaker:qin]]“Yes.”
 
 Haru looked toward the inner building.
 
@@ -1534,11 +1534,11 @@ The moment they vanished into the western route, Tae looked at Qin.
 
 [[speaker:tae]]“You could have hit him harder.”
 
-“Yes.”
+[[speaker:qin]]“Yes.”
 
 [[speaker:tae]]“Hana too.”
 
-“Yes.”
+[[speaker:qin]]“Yes.”
 
 Huo picked up the teapot from the stone post.
 
@@ -1552,7 +1552,7 @@ Tae stared.
 
 [[speaker:tae]]“We were attacked by two Paragons.”
 
-“Yes.”
+[[speaker:huo]]“Yes.”
 
 [[speaker:tae]]“You’re upset about tea.”
 

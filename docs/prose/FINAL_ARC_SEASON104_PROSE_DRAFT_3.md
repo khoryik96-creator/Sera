@@ -325,7 +325,7 @@ One vial left.
 
 Her face changed.
 
-“No.”
+[[speaker:hana]]“No.”
 
 Haru’s breathing was ragged.
 
@@ -1127,7 +1127,7 @@ Tae did not move.
 
 “Lord Tae.”
 
-“I’m not a lord.”
+[[speaker:tae]]“I’m not a lord.”
 
 “Outside.”
 

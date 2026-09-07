@@ -43,7 +43,7 @@ Tae folded his arms.
 
 [[speaker:tae]]“So we stay here.”
 
-“No.”
+[[speaker:qin]]“No.”
 
 Lu Weiran entered with three new reports and placed them in order without speaking.
 
@@ -147,11 +147,11 @@ Everything in Yurushi’s face changed.
 
 [[speaker:black_radiance]]“Hana.”
 
-“Yes.”
+[[speaker:tae]]“Yes.”
 
 [[speaker:black_radiance]]“Here.”
 
-“Yes.”
+[[speaker:tae]]“Yes.”
 
 [[speaker:black_radiance]]“Alive?”
 
@@ -195,7 +195,7 @@ Then he saw the map.
 
 [[speaker:black_radiance]]“You’re redistributing.”
 
-“Yes.”
+[[speaker:qin]]“Yes.”
 
 [[speaker:black_radiance]]“Because Shinsei will stop probing the house and hit support elsewhere.”
 
