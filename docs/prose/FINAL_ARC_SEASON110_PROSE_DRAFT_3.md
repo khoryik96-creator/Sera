@@ -328,7 +328,7 @@ She stopped.
 
 Her back remained toward him.
 
-“No.”
+[[speaker:hana]]“No.”
 
 The answer was true.
 
@@ -966,7 +966,7 @@ Aya looked at both.
 
 Hana's mouth twisted.
 
-“Yes.”
+[[speaker:hana]]“Yes.”
 
 [[speaker:aya]]“We have no authority to rewrite policy.”
 
@@ -1250,7 +1250,7 @@ Shunto's mouth tightened.
 
 Tsubasa nodded once.
 
-“No.”
+[[speaker:tsubasa]]“No.”
 
 He removed the official No.2 command seal from the table box.
 
@@ -1300,7 +1300,7 @@ Shunto almost smiled.
 
 Tsubasa's face went still.
 
-“No.”
+[[speaker:tsubasa]]“No.”
 
 That answer landed differently than anything else.
 

@@ -156,7 +156,7 @@ He frowned.
 
 “Readiness?”
 
-“No.”
+[[speaker:jin]]“No.”
 
 Jin tapped the page harder.
 
@@ -566,7 +566,7 @@ Tsubasa looked toward him.
 
 Haru's mouth flattened.
 
-“Yes.”
+[[speaker:haru]]“Yes.”
 
 [[speaker:tsubasa]]“Did you see Rhen?”
 
@@ -580,7 +580,7 @@ Haru's mouth flattened.
 
 Haru's fingers curled against his knee.
 
-“Yes.”
+[[speaker:haru]]“Yes.”
 
 Tsubasa turned to Hana.
 
@@ -588,7 +588,7 @@ Tsubasa turned to Hana.
 
 Hana held his gaze.
 
-“Yes.”
+[[speaker:hana]]“Yes.”
 
 [[speaker:tsubasa]]“Did he fear the healer?”
 
@@ -918,7 +918,7 @@ Sera leaned over the map.
 
 Jin looked at her.
 
-“No.”
+[[speaker:jin]]“No.”
 
 Ilyra, newly arrived and still muddy, smiled.
 
@@ -1166,7 +1166,7 @@ Shunto walked beside him.
 
 Tsubasa did not look at him.
 
-“No.”
+[[speaker:tsubasa]]“No.”
 
 [[speaker:shunto]]“Wuyue now knows where to find the Ten.”
 

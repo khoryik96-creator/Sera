@@ -1,6 +1,6 @@
 # Season 110 — unattributed dialogue
 
-60 quoted lines in this season have no speaker.
+37 quoted lines in this season have no speaker.
 See `README.md` in this folder for what to do with them.
 
 Lines already resolved show their speaker in `[brackets]` for context.
@@ -116,43 +116,8 @@ He frowned.
 [jin] “No.”
 He frowned.
 >>> “Readiness?”   <-- WHO SAYS THIS?
-“No.”
-Jin tapped the page harder.
-```
-```
 [jin] “No.”
-He frowned.
-“Readiness?”
->>> “No.”   <-- WHO SAYS THIS?
 Jin tapped the page harder.
-[jin] “That is Shinsei's six-month assumption dying.”
-```
-
-### Chapter 452 — The Healer Was the Myth
-
-```
-Tsubasa looked toward him.
-[tsubasa] “You fought the house.”
-Haru's mouth flattened.
->>> “Yes.”   <-- WHO SAYS THIS?
-[tsubasa] “Did you see Rhen?”
-[haru] “No.”
-```
-```
-[haru] “Tae Muyeon. Huo Wujin. Qin Luo. Yurushi later.”
-[tsubasa] “Three hidden High Paragons inside one household.”
-Haru's fingers curled against his knee.
->>> “Yes.”   <-- WHO SAYS THIS?
-Tsubasa turned to Hana.
-[tsubasa] “You knew Yurushi's habits better than anyone.”
-```
-```
-Tsubasa turned to Hana.
-[tsubasa] “You knew Yurushi's habits better than anyone.”
-Hana held his gaze.
->>> “Yes.”   <-- WHO SAYS THIS?
-[tsubasa] “Did he fear the healer?”
-[hana] “No.”
 ```
 
 ### Chapter 453 — Tsubasa Consolidates
@@ -188,22 +153,6 @@ The scout nodded.
 >>> “They withdrew on schedule.”   <-- WHO SAYS THIS?
 [ilyra] “They consolidated.”
 By noon, three more Shinsei positions had done the same.
-```
-```
-[jin] “We can try.”
-[sera] “Should we?”
-Jin looked at her.
->>> “No.”   <-- WHO SAYS THIS?
-Ilyra, newly arrived and still muddy, smiled.
-[ilyra] “I already did.”
-```
-```
-Shunto walked beside him.
-[shunto] “You pulled us too tightly.”
-Tsubasa did not look at him.
->>> “No.”   <-- WHO SAYS THIS?
-[shunto] “Wuyue now knows where to find the Ten.”
-[tsubasa] “Yes.”
 ```
 
 ### Chapter 454 — Aya Writes the Years
@@ -321,40 +270,8 @@ The colonel watched the pen move.
 He left.
 ```
 ```
-The clerk waited until the tent flap stopped moving.
-Then whispered, “Was that wise?”
-Aya kept writing.
->>> “No.”   <-- WHO SAYS THIS?
-The clerk blinked.
-Aya looked up.
-```
-```
-[tsubasa] “Because we are in a war where five minutes can decide whether a formation is annihilated.”
-[aya] “Then tell them five minutes may cost five years before you hand them the vial.”
-Tsubasa held her gaze.
->>> “Yes.”   <-- WHO SAYS THIS?
-Aya paused.
-He continued.
-```
-```
-Shunto watched the tent flap fall shut.
-[shunto] “Wonderful,” he said softly. “We are turning medical records into confession.”
-Aya turned on him.
->>> “No.”   <-- WHO SAYS THIS?
-Her voice was quieter now.
-[aya] “Into records.”
-```
-```
-At one bed, a nineteen-year-old soldier held the amended notice with both hands.
-“Five years?” he asked.
 Aya stopped.
->>> “Yes.”   <-- WHO SAYS THIS?
-He looked at the sealed vial tied inside his emergency pouch.
-“They told us recovery could take months.”
-```
-```
-Aya stopped.
-“Yes.”
+[aya] “Yes.”
 He looked at the sealed vial tied inside his emergency pouch.
 >>> “They told us recovery could take months.”   <-- WHO SAYS THIS?
 [aya] “I know.”
@@ -374,27 +291,11 @@ Aya did not lie.
 The soldier looked at her.
 >>> “Did you?”   <-- WHO SAYS THIS?
 Aya's throat tightened.
-“Yes.”
-```
-```
-The soldier looked at her.
-“Did you?”
-Aya's throat tightened.
->>> “Yes.”   <-- WHO SAYS THIS?
-He stared for several breaths.
-Then looked away.
+[aya] “Yes.”
 ```
 
 ### Chapter 455 — The Sealed Account
 
-```
-When they reached the assault, Lu stopped writing for the first time.
-[luweiran] “Do you know?”
-Yurushi's eyes hardened.
->>> “Yes.”   <-- WHO SAYS THIS?
-[luweiran] “Or infer?”
-[black_radiance] “Know enough.”
-```
 ```
 Nobody held the whole account except Lu, Yurushi and eventually Sera.
 When the first packet reached Isgard, Sera was reviewing hospital release numbers with Jin.
@@ -402,65 +303,6 @@ A Quaint medic placed the lacquer tube on the table.
 >>> “From Lu.”   <-- WHO SAYS THIS?
 Sera's hand stopped.
 Jin noticed.
-```
-```
-Then:
-[sera] “I need to tell Luo.”
-Rhen's hand tightened slightly at her shoulder.
->>> “Yes.”   <-- WHO SAYS THIS?
-[sera] “I hate that I have to.”
-[rhen] “Yes.”
-```
-
-### Chapter 456 — Sera Tells Luo
-
-```
-[luo] “Who does?”
-[sera] “Jin has likely sectors. Lu is working routes. Yurushi's old intelligence helps.”
-Luo nodded once.
->>> “Good.”   <-- WHO SAYS THIS?
-Sera stepped closer.
-[sera] “Do not disappear.”
-```
-```
-[luo] “I am a Sovereign.”
-[sera] “That is exactly why it isn't reassuring. Shunto is a High Paragon.”
-Luo's eyes did not change.
->>> “I know.”   <-- WHO SAYS THIS?
-[sera] “Then say what you are thinking.”
-Silence.
-```
-```
-Finally Luo looked toward the patient charts.
-[luo] “I am thinking Yun would be angry if I died stupidly.”
-Sera's chest loosened by one breath.
->>> “Yes.”   <-- WHO SAYS THIS?
-[luo] “She would call it inefficient.”
-[sera] “Yes.”
-```
-```
-The silence stretched.
-Then he asked, “Did Rhen tell you to say that?”
-Sera's eyebrows rose.
->>> “No.”   <-- WHO SAYS THIS?
-[luo] “He would.”
-[sera] “He'd say it worse.”
-```
-```
-Sera stepped closer.
-[sera] “When the time comes, you will not face him alone.”
-Luo's gaze sharpened.
->>> “Sera.”   <-- WHO SAYS THIS?
-[sera] “No.”
-[luo] “You don't even know what I was going to say.”
-```
-```
-Despite everything, something almost wicked entered her eyes.
-[sera] “I wasn't planning to.”
-Luo nodded.
->>> “Good.”   <-- WHO SAYS THIS?
-He returned to the hospital.
-The first patient he treated was Shinsei.
 ```
 
 ### Chapter 457 — Hana's Changed Patrol
@@ -472,42 +314,4 @@ A guard entered.
 >>> “Lord Takamori. Lady Arakawa is here.”   <-- WHO SAYS THIS?
 Shunto smiled faintly.
 [shunto] “Send her in.”
-```
-```
-She stopped.
-[shunto] “Did you know what Yurushi found in the detention site?”
-Her back remained toward him.
->>> “No.”   <-- WHO SAYS THIS?
-The answer was true.
-Shunto could not prove otherwise because there was nothing to prove.
-```
-
-### Chapter 459 — The Three Who Say No
-
-```
-Aya looked at both.
-[aya] “This is policy.”
-Hana's mouth twisted.
->>> “Yes.”   <-- WHO SAYS THIS?
-[aya] “We have no authority to rewrite policy.”
-Nao said, “We have authority over our own departments.”
-```
-
-### Chapter 460 — The Second Seat Is Stripped
-
-```
-Shunto's mouth tightened.
-[shunto] “This is weakness.”
-Tsubasa nodded once.
->>> “No.”   <-- WHO SAYS THIS?
-He removed the official No.2 command seal from the table box.
-[tsubasa] “Effective immediately, you are stripped of command authority, internal-security authority and access to Redline stores, military dispatch, prisoner systems and troop movement.”
-```
-```
-Shunto almost smiled.
-[shunto] “You are Shinsei.”
-Tsubasa's face went still.
->>> “No.”   <-- WHO SAYS THIS?
-That answer landed differently than anything else.
-Tsubasa continued.
 ```
