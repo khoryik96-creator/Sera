@@ -1,21 +1,30 @@
-export const season = 105;
+export const season = 109;
 export const entries = [
-  {chapter:401, quote:"“Yes.”", speaker:"aya", before:"Stop.", after:"He reached for the halberd"},
-  {chapter:401, quote:"“No.”", speaker:"aya", before:"Aya stepped closer.", after:"The officer blinked."},
+  {chapter:442, quote:"“Good.”", speaker:"rhen", before:"Rhen's expression softened.", after:"The door opened."},
 
-  {chapter:404, quote:"“Yes.”", speaker:"aya", before:"None answered him.", after:"The boy looked away."},
-  {chapter:404, quote:"“Yes.”", speaker:"aya", before:"Aya looked at him.", after:"The officer’s jaw tightened."},
-  {chapter:404, quote:"“Good.”", speaker:"aya", before:"His future had already been affected.", after:"That was the moment Aya stopped"},
+  {chapter:443, quote:"“Good.”", speaker:"rhen", before:"Rhen absorbed that.", after:"Tae threw both hands up."},
+  {chapter:443, quote:"“Yes.”", speaker:"luweiran", before:"Lu sighed.", after:"Rhen turned toward the door."},
 
-  {chapter:405, quote:"“Why?”", speaker:"jin", before:"Jin looked at them.", after:"Because you keep saying five minutes"},
+  {chapter:444, quote:"“Yes.”", speaker:"black_radiance", before:"before settling again.", after:"Why?"},
+  {chapter:444, quote:"“No.”", speaker:"rhen", before:"Rhen smiled.", after:"Yurushi seemed mildly relieved."},
+  {chapter:444, quote:"“No.”", speaker:"rhen", before:"Rhen looked up.", after:"Lu and Yurushi both stared"},
+  {chapter:444, quote:"“Why?”", speaker:"black_radiance", before:"No.", after:"Because Yun's story"},
+  {chapter:444, quote:"“No.”", speaker:"rhen", before:"Rhen's expression softened.", after:"She fought the whole time."},
+  {chapter:444, quote:"“Yes.”", speaker:"luweiran", before:"Lu stared at him.", after:"What?"},
 
-  {chapter:406, quote:"“Yes.”", speaker:"jin", before:"Jin sighed.", after:"Good."},
-  {chapter:406, quote:"“Good.”", speaker:"luo", before:"Yes.", after:"Arin arrived carrying"},
-  {chapter:406, quote:"“Yes.”", speaker:"jin", before:"Jin looked at him.", after:"That was the point."},
+  {chapter:446, quote:"“Why?”", speaker:"rhen", before:"Rhen looked at her.", after:"Because she has spent six months"},
+  {chapter:446, quote:"“I know.”", speaker:"rhen", before:"Rhen's expression changed.", after:"He entered."},
+  {chapter:446, quote:"“What?”", speaker:"rhen", before:"Rhen looked mildly defensive.", after:"I spend six months"},
+  {chapter:446, quote:"“Good.”", speaker:"jin", before:"Jin nodded once.", after:"Rhen looked toward Solveig."},
+  {chapter:446, quote:"“Yes.”", speaker:"rhen", before:"hospital fields beyond the tent.", after:"No boasting."},
+  {chapter:446, quote:"“I know.”", speaker:"sera", before:"Sera smiled.", after:"Rhen looked at Luo."},
 
-  {chapter:408, quote:"“No.”", speaker:"kael", before:"Kael looked up.", after:"You are."},
-  {chapter:408, quote:"“Yes.”", speaker:"kael", before:"He glared.", after:"Good."},
+  {chapter:448, quote:"“No.”", speaker:"rhen", before:"Rhen nodded once.", after:"Aya waited for judgment."},
+  {chapter:448, quote:"“Yes.”", speaker:"rhen", before:"You understand I healed people", after:"And you think that is good?"},
+  {chapter:448, quote:"“Yes.”", speaker:"aya", before:"Aya gave him a flat look.", after:"Rhen's mouth moved faintly."},
 
-  {chapter:409, quote:"“Good.”", speaker:"kai", before:"Actually laughed.", after:"Kael, being treated"},
-  {chapter:409, quote:"“Good.”", speaker:"kai", before:"Kai looked past Sera.", after:"Sera almost smiled."},
+  {chapter:449, quote:"“Yes.”", speaker:"sera", before:"Sera smiled.", after:"Rhen nodded."},
+  {chapter:449, quote:"“Apparently.”", speaker:"aldric", before:"Aldric nodded.", after:"She held the seal out."},
+
+  {chapter:450, quote:"“Probably.”", speaker:"rhen", before:"Rhen considered this.", after:"The room went silent again."},
 ];
