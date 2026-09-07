@@ -35,7 +35,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add docs/prose src/novel.ts test/novel.test.ts src/data.json src/data/seasons docs/dialogue-audit/season-*.md
+          git add docs/prose src/novel.ts test/novel.test.ts src/data docs/dialogue-audit/season-*.md
           if git diff --cached --quiet; then
             echo "No dialogue changes"
           else
