@@ -124,7 +124,7 @@ Tsubasa's eyes narrowed.
 
 [[speaker:rhen]]“Yes.”
 
-“Why?”
+[[speaker:tsubasa]]“Why?”
 
 Rhen looked at him.
 
@@ -240,7 +240,7 @@ Tsubasa held his gaze.
 
 [[speaker:rhen]]“No.”
 
-“Why?”
+[[speaker:tsubasa]]“Why?”
 
 Rhen looked across the field.
 
@@ -740,7 +740,7 @@ Sera saw them too.
 
 Rhen watched the remaining signatures.
 
-“No.”
+[[speaker:rhen]]“No.”
 
 Sera's eyes narrowed.
 
@@ -750,7 +750,7 @@ Rhen waited.
 
 One signature remained still.
 
-“No.”
+[[speaker:rhen]]“No.”
 
 Four moved forward.
 

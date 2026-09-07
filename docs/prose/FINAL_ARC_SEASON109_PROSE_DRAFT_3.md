@@ -366,7 +366,7 @@ Aya stared at him again.
 
 [[speaker:aya]]“You understand I healed people so they could return to the same war.”
 
-“Yes.”
+[[speaker:rhen]]“Yes.”
 
 [[speaker:aya]]“And you think that is good?”
 
@@ -430,7 +430,7 @@ Aya continued.
 
 Aya gave him a flat look.
 
-“Yes.”
+[[speaker:aya]]“Yes.”
 
 Rhen's mouth moved faintly.
 

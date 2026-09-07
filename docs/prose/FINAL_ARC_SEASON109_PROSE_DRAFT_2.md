@@ -578,7 +578,7 @@ Arin looked at him with the tired seriousness of someone who had watched Sera ca
 
 Rhen's expression changed.
 
-“I know.”
+[[speaker:rhen]]“I know.”
 
 He entered.
 
@@ -1058,7 +1058,7 @@ Rhen looked at her bandaged arm.
 
 Sera smiled.
 
-“I know.”
+[[speaker:sera]]“I know.”
 
 Rhen looked at Luo.
 

@@ -32,7 +32,7 @@ Two years later, Rhen stood beneath it with a ladder.
 
 Sera watched from the front step, arms folded.
 
-“No.”
+[[speaker:sera]]“No.”
 
 Rhen looked down.
 

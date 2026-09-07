@@ -1,6 +1,6 @@
 # Season 104 — unattributed dialogue
 
-14 quoted lines in this season have no speaker.
+12 quoted lines in this season have no speaker.
 See `README.md` in this folder for what to do with them.
 
 Lines already resolved show their speaker in `[brackets]` for context.
@@ -22,25 +22,6 @@ He turned and shouted:
 >>> “RED TWO.”   <-- WHO SAYS THIS?
 The teahouse changed.
 Not visibly at first.
-```
-
-### Chapter 394 — Qin Ends the First Attack
-
-```
-He did not attack immediately.
-[qin] “Leaving?”
-Haru’s jaw tightened.
->>> “Yes.”   <-- WHO SAYS THIS?
-[qin] “Good.”
-Hana looked at him.
-```
-```
-Then Lu opened the first ledger.
-[luweiran] “Before anyone celebrates: this was a probe.”
-Tae’s humor vanished.
->>> “Yes.”   <-- WHO SAYS THIS?
-[luweiran] “They now know.”
-Qin nodded.
 ```
 
 ### Chapter 395 — Qin Opens the Map

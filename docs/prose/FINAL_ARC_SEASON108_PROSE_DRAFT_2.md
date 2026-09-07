@@ -95,7 +95,7 @@ The patient stared at both physicians.
 
 Luo’s jaw tightened.
 
-“I know.”
+[[speaker:luo]]“I know.”
 
 “How?”
 
@@ -713,7 +713,7 @@ Qin remained several minutes longer.
 
 “Different?” Tae asked him.
 
-“Yes.”
+[[speaker:qin]]“Yes.”
 
 [[speaker:tae]]“Dangerous?”
 

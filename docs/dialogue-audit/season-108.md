@@ -1,6 +1,6 @@
 # Season 108 — unattributed dialogue
 
-27 quoted lines in this season have no speaker.
+25 quoted lines in this season have no speaker.
 See `README.md` in this folder for what to do with them.
 
 Lines already resolved show their speaker in `[brackets]` for context.
@@ -111,20 +111,12 @@ Luo crouched opposite him.
 The patient stared at both physicians.
 >>> “They told us recovery could take months.”   <-- WHO SAYS THIS?
 Luo’s jaw tightened.
-“I know.”
-```
-```
-The patient stared at both physicians.
-“They told us recovery could take months.”
-Luo’s jaw tightened.
->>> “I know.”   <-- WHO SAYS THIS?
-“How?”
-[luo] “Because we found the same language in captured issue material.”
+[luo] “I know.”
 ```
 ```
 “They told us recovery could take months.”
 Luo’s jaw tightened.
-“I know.”
+[luo] “I know.”
 >>> “How?”   <-- WHO SAYS THIS?
 [luo] “Because we found the same language in captured issue material.”
 The Shinsei medic looked away.
@@ -225,12 +217,4 @@ He raised both hands.
 >>> “Good.”   <-- WHO SAYS THIS?
 Nobody woke Rhen.
 Nobody sent Sera a triumphant message claiming he would emerge by sunset.
-```
-```
-**Frost-white petal. Pale-violet radiance. Seal intact. No instability. No intervention.**
-Qin remained several minutes longer.
-“Different?” Tae asked him.
->>> “Yes.”   <-- WHO SAYS THIS?
-[tae] “Dangerous?”
-Qin considered.
 ```

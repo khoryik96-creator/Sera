@@ -162,7 +162,7 @@ Tsubasa noticed.
 
 Rhen looked at the chain network.
 
-“Yes.”
+[[speaker:rhen]]“Yes.”
 
 That answer irritated Tsubasa more than insult would have.
 
@@ -292,7 +292,7 @@ Tsubasa saw the movement through his peripheral awareness.
 
 Rhen looked past him.
 
-“Yes.”
+[[speaker:rhen]]“Yes.”
 
 [[speaker:tsubasa]]“You could stop them.”
 
@@ -848,7 +848,7 @@ Rhen answered because there was no point hiding a rule already happening inside 
 
 [[speaker:tsubasa]]“Into that?”
 
-“Yes.”
+[[speaker:rhen]]“Yes.”
 
 Tsubasa looked at the petal.
 
@@ -1030,7 +1030,7 @@ Tsubasa laughed once.
 
 Rhen thought about it.
 
-“Yes.”
+[[speaker:rhen]]“Yes.”
 
 Tsubasa looked at fifty thousand petals across the sky.
 

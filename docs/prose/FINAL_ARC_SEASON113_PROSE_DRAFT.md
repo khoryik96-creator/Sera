@@ -96,7 +96,7 @@ Rhen looked at her hand.
 
 Then at her.
 
-“Yes.”
+[[speaker:rhen]]“Yes.”
 
 Aya waited. Rhen stopped where she stopped him.
 
@@ -160,7 +160,7 @@ Tsubasa leaned back against the broken anchor stone behind him.
 
 Rhen nodded.
 
-“Yes.”
+[[speaker:rhen]]“Yes.”
 
 The word reached farther than Rhen intended.
 

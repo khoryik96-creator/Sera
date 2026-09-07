@@ -1,6 +1,6 @@
 # Season 95 — unattributed dialogue
 
-229 quoted lines in this season have no speaker.
+228 quoted lines in this season have no speaker.
 See `README.md` in this folder for what to do with them.
 
 Lines already resolved show their speaker in `[brackets]` for context.
@@ -8,16 +8,8 @@ Lines already resolved show their speaker in `[brackets]` for context.
 ### Chapter 301 — Two Years Beneath the Crooked Sign
 
 ```
-The sign had never fully recovered.
-Two years later, Rhen stood beneath it with a ladder.
 Sera watched from the front step, arms folded.
->>> “No.”   <-- WHO SAYS THIS?
-Rhen looked down.
-“I haven't done anything yet.”
-```
-```
-Sera watched from the front step, arms folded.
-“No.”
+[sera] “No.”
 Rhen looked down.
 >>> “I haven't done anything yet.”   <-- WHO SAYS THIS?
 [sera] “That is why I am saying no now.”

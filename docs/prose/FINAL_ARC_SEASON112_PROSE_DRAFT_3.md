@@ -920,7 +920,7 @@ Tsubasa stared.
 
 She raised one hand.
 
-“No.”
+[[speaker:sera]]“No.”
 
 [[speaker:tsubasa]]“Sera.”
 
@@ -1208,7 +1208,7 @@ Sera's mouth moved faintly.
 
 Tsubasa shook his head.
 
-“No.”
+[[speaker:tsubasa]]“No.”
 
 That answer moved through the watching ranks faster than any official report ever would.
 

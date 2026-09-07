@@ -536,7 +536,7 @@ Lu opened a map.
 
 Qin's expression did not change.
 
-“Yurushi?”
+[[speaker:qin]]“Yurushi?”
 
 [[speaker:luweiran]]“No.”
 
@@ -726,7 +726,7 @@ A scout entered the shed.
 
 Kael turned.
 
-“What?”
+[[speaker:kael]]“What?”
 
 “Western ridge patrol missed a signal window.”
 
@@ -764,7 +764,7 @@ The corridor commander met them halfway.
 
 Kael looked toward the western ridge.
 
-“No.”
+[[speaker:kael]]“No.”
 
 The commander frowned.
 
@@ -792,7 +792,7 @@ Luo looked at Kael.
 
 Kael's eyes stayed on the ridge.
 
-“No.”
+[[speaker:kael]]“No.”
 
 [[speaker:luo]]“That is reassuring.”
 
@@ -908,7 +908,7 @@ Luo did not.
 
 Kael looked at him.
 
-“No.”
+[[speaker:kael]]“No.”
 
 Luo folded his sleeves higher.
 

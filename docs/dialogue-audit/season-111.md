@@ -1,6 +1,6 @@
 # Season 111 — unattributed dialogue
 
-55 quoted lines in this season have no speaker.
+43 quoted lines in this season have no speaker.
 See `README.md` in this folder for what to do with them.
 
 Lines already resolved show their speaker in `[brackets]` for context.
@@ -175,14 +175,6 @@ Then opened them.
 [tsubasa] “Send our own pursuit.”
 Kai stepped forward.
 ```
-```
-Lu opened a map.
-[luweiran] “Shunto escaped.”
-Qin's expression did not change.
->>> “Yurushi?”   <-- WHO SAYS THIS?
-[luweiran] “No.”
-[qin] “You sound sure.”
-```
 
 ### Chapter 462 — The Corridor
 
@@ -200,20 +192,12 @@ Mostly.
 A scout entered the shed.
 >>> “Lord Kael.”   <-- WHO SAYS THIS?
 Kael turned.
-“What?”
-```
-```
-A scout entered the shed.
-“Lord Kael.”
-Kael turned.
->>> “What?”   <-- WHO SAYS THIS?
-“Western ridge patrol missed a signal window.”
-Luo looked up.
+[kael] “What?”
 ```
 ```
 “Lord Kael.”
 Kael turned.
-“What?”
+[kael] “What?”
 >>> “Western ridge patrol missed a signal window.”   <-- WHO SAYS THIS?
 Luo looked up.
 Kael's expression changed immediately.
@@ -248,26 +232,18 @@ Luo followed.
 The corridor commander met them halfway.
 >>> “Could be equipment failure.”   <-- WHO SAYS THIS?
 Kael looked toward the western ridge.
-“No.”
-```
-```
-The corridor commander met them halfway.
-“Could be equipment failure.”
-Kael looked toward the western ridge.
->>> “No.”   <-- WHO SAYS THIS?
-The commander frowned.
-“You know that?”
+[kael] “No.”
 ```
 ```
 Kael looked toward the western ridge.
-“No.”
+[kael] “No.”
 The commander frowned.
 >>> “You know that?”   <-- WHO SAYS THIS?
 “No.”
 “Then—”
 ```
 ```
-“No.”
+[kael] “No.”
 The commander frowned.
 “You know that?”
 >>> “No.”   <-- WHO SAYS THIS?
@@ -291,39 +267,12 @@ Kael pointed.
 The commander saluted and ran.
 ```
 ```
-Luo looked at Kael.
-[luo] “You felt something.”
-Kael's eyes stayed on the ridge.
->>> “No.”   <-- WHO SAYS THIS?
-[luo] “That is reassuring.”
-[kael] “I said I dislike the timing.”
-```
-```
 He looked over his shoulder.
 [kael] “Did I become unclear while recovering?”
 The commander swallowed.
 >>> “Back!”   <-- WHO SAYS THIS?
 Troops withdrew toward Bridge Two.
 Luo did not.
-```
-```
-Troops withdrew toward Bridge Two.
-Luo did not.
-Kael looked at him.
->>> “No.”   <-- WHO SAYS THIS?
-Luo folded his sleeves higher.
-[luo] “I wasn't asking.”
-```
-
-### Chapter 467 — Number One Stands Here
-
-```
-Annoyance replaced surprise.
-[shunto] “You cannot stop me.”
-Kael spat red into the road.
->>> “No.”   <-- WHO SAYS THIS?
-[shunto] “Then why are you standing?”
-Kael looked at Luo.
 ```
 
 ### Chapter 468 — Undertaker's Measure
@@ -343,25 +292,6 @@ For one impossible instant, Shunto thought he was smiling.
 >>> “Yes.”   <-- WHO SAYS THIS?
 A silver needle punched through the webbing of Shunto's thumb.
 He dropped Luo instinctively.
-```
-
-### Chapter 469 — False Cure
-
-```
-Luo watched the smile.
-[luo] “Better?”
-Shunto flexed his fingers.
->>> “Yes.”   <-- WHO SAYS THIS?
-[luo] “Good.”
-Shunto's smile faded.
-```
-```
-He looked toward Luo.
-[kael] “Did that count?”
-Luo ran toward them.
->>> “Yes.”   <-- WHO SAYS THIS?
-[kael] “Good.”
-Kael fell over.
 ```
 
 ### Chapter 470 — Live Long Enough
@@ -423,42 +353,10 @@ Luo did not look up.
 The air changed.
 ```
 ```
+Rhen checked him from a distance with the Sanctuary's edge.
 [rhen] “Yes.”
-[luo] “Can he fight again?”
-Rhen looked at him as if the question were obvious.
->>> “Yes.”   <-- WHO SAYS THIS?
-Luo nodded. Not today, but later.
-Kael would never be able to say Shunto took the choice away from him.
-```
-```
-[rhen] “I wasn't planning to.”
-[luo] “He can survive as he is.”
-Rhen checked him from a distance with the Sanctuary's edge.
->>> “Yes.”   <-- WHO SAYS THIS?
-The Shinsei captain called again.
-“We request joint custody.”
-```
-```
-Rhen checked him from a distance with the Sanctuary's edge.
-“Yes.”
 The Shinsei captain called again.
 >>> “We request joint custody.”   <-- WHO SAYS THIS?
 Rhen looked at Luo.
 [rhen] “Your decision?”
-```
-```
-[kael] “So yes?”
-Rhen smiled faintly.
-Luo closed his eyes.
->>> “Yes.”   <-- WHO SAYS THIS?
-Kael relaxed.
-“Good.”
-```
-```
-Luo closed his eyes.
-“Yes.”
-Kael relaxed.
->>> “Good.”   <-- WHO SAYS THIS?
-Then, after a moment:
-[kael] “My face hurts.”
 ```

@@ -1072,7 +1072,7 @@ Annoyance replaced surprise.
 
 Kael spat red into the road.
 
-“No.”
+[[speaker:kael]]“No.”
 
 [[speaker:shunto]]“Then why are you standing?”
 

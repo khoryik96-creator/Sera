@@ -388,7 +388,7 @@ Aya placed Haru’s medical chart on the table.
 
 Tsubasa’s face hardened.
 
-“Yes.”
+[[speaker:tsubasa]]“Yes.”
 
 [[speaker:aya]]“Approximate future-life expenditure around thirty-five years.”
 
@@ -708,7 +708,7 @@ Nao found Aya in a treatment tent.
 
 Aya did not look up.
 
-“Yes.”
+[[speaker:aya]]“Yes.”
 
 [[speaker:nao]]“Why?”
 
@@ -726,7 +726,7 @@ Aya finally looked at her.
 
 Nao considered.
 
-“No.”
+[[speaker:nao]]“No.”
 
 [[speaker:aya]]“Good.”
 
@@ -802,7 +802,7 @@ Aya said, “We are not forming a faction.”
 
 Nao’s mouth moved.
 
-“No.”
+[[speaker:nao]]“No.”
 
 [[speaker:aya]]“We are not plotting against Tsubasa.”
 

@@ -1432,7 +1432,7 @@ He did not attack immediately.
 
 Haru’s jaw tightened.
 
-“Yes.”
+[[speaker:haru]]“Yes.”
 
 [[speaker:qin]]“Good.”
 
@@ -1584,7 +1584,7 @@ Then Lu opened the first ledger.
 
 Tae’s humor vanished.
 
-“Yes.”
+[[speaker:tae]]“Yes.”
 
 [[speaker:luweiran]]“They now know.”
 

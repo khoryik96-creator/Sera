@@ -1,6 +1,6 @@
 # Season 96 — unattributed dialogue
 
-52 quoted lines in this season have no speaker.
+50 quoted lines in this season have no speaker.
 See `README.md` in this folder for what to do with them.
 
 Lines already resolved show their speaker in `[brackets]` for context.
@@ -421,23 +421,4 @@ The voice came closer.
 >>> “Merchant, then?”   <-- WHO SAYS THIS?
 [yun] “Whichever permits are cheaper.”
 A hand touched her elbow.
-```
-
-### Chapter 320 — The Third Week Ends
-
-```
-She knew.
-[sera] “Say it.”
-Luo looked at her.
->>> “What?”   <-- WHO SAYS THIS?
-[sera] “The thing you’ve been refusing to say because saying it feels like making it true.”
-His jaw tightened.
-```
-```
-Lu raised one hand.
-[luweiran] “Not contact.”
-Luo stopped.
->>> “What?”   <-- WHO SAYS THIS?
-[luweiran] “A route change.”
-Lu put the papers down.
 ```

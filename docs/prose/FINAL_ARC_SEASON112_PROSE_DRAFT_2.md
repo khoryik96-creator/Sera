@@ -96,7 +96,7 @@ Rhen glanced back.
 
 That made her smile faintly.
 
-“No.”
+[[speaker:sera]]“No.”
 
 [[speaker:rhen]]“I thought so.”
 
@@ -110,7 +110,7 @@ Sera turned the cup between her hands.
 
 Rhen paused.
 
-“Yes.”
+[[speaker:rhen]]“Yes.”
 
 The pause was calculation, not uncertainty. Sera saw it.
 
@@ -130,7 +130,7 @@ Sera narrowed her eyes.
 
 [[speaker:sera]]“Rhen.”
 
-“Yes.”
+[[speaker:rhen]]“Yes.”
 
 [[speaker:sera]]“Do not do that.”
 
@@ -276,7 +276,7 @@ Then back up.
 
 Sera's eyes narrowed.
 
-“No.”
+[[speaker:sera]]“No.”
 
 [[speaker:rhen]]“Not because you're angry at being compared to me?”
 

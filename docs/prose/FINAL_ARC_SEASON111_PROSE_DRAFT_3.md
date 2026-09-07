@@ -474,7 +474,7 @@ Luo watched the smile.
 
 Shunto flexed his fingers.
 
-“Yes.”
+[[speaker:shunto]]“Yes.”
 
 [[speaker:luo]]“Good.”
 
@@ -814,7 +814,7 @@ He looked toward Luo.
 
 Luo ran toward them.
 
-“Yes.”
+[[speaker:luo]]“Yes.”
 
 [[speaker:kael]]“Good.”
 
@@ -1258,7 +1258,7 @@ Luo exhaled.
 
 Rhen looked at him as if the question were obvious.
 
-“Yes.”
+[[speaker:rhen]]“Yes.”
 
 Luo nodded. Not today, but later.
 
@@ -1302,7 +1302,7 @@ Rhen stood.
 
 Rhen checked him from a distance with the Sanctuary's edge.
 
-“Yes.”
+[[speaker:rhen]]“Yes.”
 
 The Shinsei captain called again.
 
@@ -1364,11 +1364,11 @@ Rhen smiled faintly.
 
 Luo closed his eyes.
 
-“Yes.”
+[[speaker:luo]]“Yes.”
 
 Kael relaxed.
 
-“Good.”
+[[speaker:kael]]“Good.”
 
 Then, after a moment:
 

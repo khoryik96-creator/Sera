@@ -1,6 +1,6 @@
 # Season 109 — unattributed dialogue
 
-29 quoted lines in this season have no speaker.
+20 quoted lines in this season have no speaker.
 See `README.md` in this folder for what to do with them.
 
 Lines already resolved show their speaker in `[brackets]` for context.
@@ -31,46 +31,6 @@ Then back at Rhen.
 “Yes,” Lu said.
 The quartermaster vanished.
 ```
-```
-[rhen] “You helped Yun.”
-The terrace quieted.
-Yurushi's expression did not change much, but the balance in his qi did. Light receded. Darkness thickened slightly around the edges of his circulation before settling again.
->>> “Yes.”   <-- WHO SAYS THIS?
-[rhen] “Why?”
-Yurushi looked at him.
-```
-```
-[black_radiance] “Was there supposed to be more?”
-Lu looked away because he had already heard this exchange once from Sera and apparently the world had decided he deserved it twice.
-Rhen smiled.
->>> “No.”   <-- WHO SAYS THIS?
-Yurushi seemed mildly relieved.
-Rhen stepped closer.
-```
-```
-Yurushi watched him.
-[black_radiance] “You're angry.”
-Rhen looked up.
->>> “No.”   <-- WHO SAYS THIS?
-Lu and Yurushi both stared at him.
-Rhen sighed.
-```
-```
-Yurushi hesitated only once.
-[black_radiance] “Sera did not wait for you.”
-Rhen's expression softened.
->>> “No.”   <-- WHO SAYS THIS?
-[black_radiance] “She fought the whole time.”
-[rhen] “I know.”
-```
-```
-Then he looked at Lu.
-[rhen] “Is there anything else I need before I leave?”
-Lu stared at him.
->>> “Yes.”   <-- WHO SAYS THIS?
-[rhen] “What?”
-[luweiran] “Food.”
-```
 
 ### Chapter 445 — North Without an Army
 
@@ -100,22 +60,6 @@ Rhen winced.
 >>> “Yes, sir.”   <-- WHO SAYS THIS?
 The sentry ran toward the hospital instead of the command post.
 Rhen nodded approvingly.
-```
-```
-Arin looked at him with the tired seriousness of someone who had watched Sera carry too many lists.
-[arin] “She did well.”
-Rhen's expression changed.
->>> “I know.”   <-- WHO SAYS THIS?
-He entered.
-Sera was standing over a map.
-```
-```
-[sera] “I know.”
-[rhen] “You are extremely annoying.”
-Sera smiled.
->>> “I know.”   <-- WHO SAYS THIS?
-Rhen looked at Luo.
-[rhen] “Is she always like this now?”
 ```
 
 ### Chapter 447 — Sanctuary of Petals
@@ -159,25 +103,6 @@ At sunset, a Wuyue captain approached Sera.
 >>> “How long can he keep this up?”   <-- WHO SAYS THIS?
 Sera looked toward Rhen.
 Frost-white petals still covered the sky.
-```
-
-### Chapter 448 — Aya Watches Another Physician
-
-```
-[aya] “You keep saying that.”
-[rhen] “It keeps being true.”
-[aya] “You understand I healed people so they could return to the same war.”
->>> “Yes.”   <-- WHO SAYS THIS?
-[aya] “And you think that is good?”
-Rhen's expression changed.
-```
-```
-[aya] “She found things my own institution did not tell its physicians plainly.”
-[rhen] “That seems bad.”
-Aya gave him a flat look.
->>> “Yes.”   <-- WHO SAYS THIS?
-Rhen's mouth moved faintly.
-Then his attention shifted.
 ```
 
 ### Chapter 449 — Isgard Stands Again

@@ -1566,7 +1566,7 @@ The terrace quieted.
 
 Yurushi's expression did not change much, but the balance in his qi did. Light receded. Darkness thickened slightly around the edges of his circulation before settling again.
 
-“Yes.”
+[[speaker:black_radiance]]“Yes.”
 
 [[speaker:rhen]]“Why?”
 
@@ -1586,7 +1586,7 @@ Lu looked away because he had already heard this exchange once from Sera and app
 
 Rhen smiled.
 
-“No.”
+[[speaker:rhen]]“No.”
 
 Yurushi seemed mildly relieved.
 
@@ -1792,7 +1792,7 @@ Yurushi watched him.
 
 Rhen looked up.
 
-“No.”
+[[speaker:rhen]]“No.”
 
 Lu and Yurushi both stared at him.
 
@@ -1950,7 +1950,7 @@ Yurushi hesitated only once.
 
 Rhen's expression softened.
 
-“No.”
+[[speaker:rhen]]“No.”
 
 [[speaker:black_radiance]]“She fought the whole time.”
 
@@ -1966,7 +1966,7 @@ Then he looked at Lu.
 
 Lu stared at him.
 
-“Yes.”
+[[speaker:luweiran]]“Yes.”
 
 [[speaker:rhen]]“What?”
 

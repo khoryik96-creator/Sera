@@ -1,20 +1,12 @@
 # Season 106 — unattributed dialogue
 
-21 quoted lines in this season have no speaker.
+17 quoted lines in this season have no speaker.
 See `README.md` in this folder for what to do with them.
 
 Lines already resolved show their speaker in `[brackets]` for context.
 
 ### Chapter 412 — After the War
 
-```
-Aya placed Haru’s medical chart on the table.
-[aya] “Three same-day 3× doses.”
-Tsubasa’s face hardened.
->>> “Yes.”   <-- WHO SAYS THIS?
-[aya] “Approximate future-life expenditure around thirty-five years.”
-The clerk’s breath caught.
-```
 ```
 [tsubasa] “Repeat-dose controls will tighten immediately.”
 Aya did not react.
@@ -90,30 +82,6 @@ That was Tsubasa’s tragedy in one page.
 
 ### Chapter 413 — Three Women Stop Pretending Their Work Is Separate
 
-```
-Nao found Aya in a treatment tent.
-[nao] “You sent this to Hana.”
-Aya did not look up.
->>> “Yes.”   <-- WHO SAYS THIS?
-[nao] “Why?”
-[aya] “Because she sees deployment records I don’t.”
-```
-```
-Aya finally looked at her.
-[aya] “Does that frighten you?”
-Nao considered.
->>> “No.”   <-- WHO SAYS THIS?
-[aya] “Good.”
-[nao] “It should.”
-```
-```
-Now the overlap was the point.
-Aya said, “We are not forming a faction.”
-Nao’s mouth moved.
->>> “No.”   <-- WHO SAYS THIS?
-[aya] “We are not plotting against Tsubasa.”
-[nao] “No.”
-```
 ```
 [nao] “You want to bureaucratize this.”
 [aya] “I am a physician.”
