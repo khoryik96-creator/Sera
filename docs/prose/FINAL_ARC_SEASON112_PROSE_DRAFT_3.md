@@ -162,7 +162,7 @@ He smiled without warmth.
 
 [[speaker:tsubasa]]“You see it.”
 
-“Yes.”
+[[speaker:sera]]“Yes.”
 
 [[speaker:tsubasa]]“You're quick.”
 
@@ -330,7 +330,7 @@ He looked at her.
 
 [[speaker:tsubasa]]“You stopped feeding me.”
 
-“Yes.”
+[[speaker:sera]]“Yes.”
 
 [[speaker:tsubasa]]“And I still hit you.”
 
@@ -340,7 +340,7 @@ Sera wiped her mouth.
 
 [[speaker:tsubasa]]“I am.”
 
-“Good.”
+[[speaker:sera]]“Good.”
 
 She lowered her stance again.
 
@@ -394,7 +394,7 @@ Tsubasa's eyes narrowed.
 
 [[speaker:tsubasa]]“You wanted this.”
 
-“Yes.”
+[[speaker:sera]]“Yes.”
 
 [[speaker:tsubasa]]“Why?”
 
@@ -1126,7 +1126,7 @@ Sera looked up.
 
 [[speaker:sera]]“Was talking about you.”
 
-“I know.”
+[[speaker:tsubasa]]“I know.”
 
 She tried one more time.
 
@@ -1232,7 +1232,7 @@ She closed her eyes.
 
 [[speaker:sera]]“For today.”
 
-“Good.”
+[[speaker:rhen]]“Good.”
 
 [[speaker:sera]]“Don't sound relieved.”
 
@@ -1244,7 +1244,7 @@ Sera smiled weakly.
 
 [[speaker:rhen]]“I don't play cards.”
 
-“I know.”
+[[speaker:sera]]“I know.”
 
 Across the basin, Aya reached Tsubasa.
 

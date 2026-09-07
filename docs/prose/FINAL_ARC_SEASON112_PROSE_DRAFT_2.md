@@ -52,7 +52,7 @@ Sera smiled.
 
 [[speaker:sera]]“Terrible?”
 
-“No.”
+[[speaker:rhen]]“No.”
 
 [[speaker:sera]]“Liar.”
 
@@ -66,11 +66,11 @@ Sera looked toward the Shinsei lines beyond the hills.
 
 [[speaker:sera]]“Jin's numbers are ugly.”
 
-“Yes.”
+[[speaker:rhen]]“Yes.”
 
 [[speaker:sera]]“You read them?”
 
-“Yes.”
+[[speaker:rhen]]“Yes.”
 
 [[speaker:sera]]“Of course you did.”
 
@@ -104,7 +104,7 @@ Sera turned the cup between her hands.
 
 [[speaker:sera]]“Can you stop the whole army?”
 
-“Yes.”
+[[speaker:rhen]]“Yes.”
 
 [[speaker:sera]]“Without killing them?”
 
@@ -192,7 +192,7 @@ Sera watched him.
 
 [[speaker:sera]]“That easy?”
 
-“Yes.”
+[[speaker:rhen]]“Yes.”
 
 [[speaker:sera]]“You're not going to tell me Tsubasa is dangerous?”
 
@@ -208,7 +208,7 @@ Rhen added, “Probably.”
 
 [[speaker:sera]]“Wonderful.”
 
-“You asked.”
+[[speaker:rhen]]“You asked.”
 
 She squeezed his hand harder.
 
@@ -222,7 +222,7 @@ Rhen waited.
 
 [[speaker:sera]]“If I let you walk out first, this war ends because Shinsei meets something it cannot understand.”
 
-“Yes.”
+[[speaker:rhen]]“Yes.”
 
 [[speaker:sera]]“But if I walk out first—”
 
@@ -248,7 +248,7 @@ Rhen frowned.
 
 [[speaker:sera]]“Focus.”
 
-“Okay.”
+[[speaker:rhen]]“Okay.”
 
 [[speaker:sera]]“If I challenge him, he cannot hide behind you.”
 
@@ -270,7 +270,7 @@ Then back up.
 
 [[speaker:rhen]]“Do you want the duel?”
 
-“Yes.”
+[[speaker:sera]]“Yes.”
 
 [[speaker:rhen]]“Not because you think you owe everyone proof?”
 
@@ -286,7 +286,7 @@ She considered it honestly.
 
 Then shook her head.
 
-“No.”
+[[speaker:sera]]“No.”
 
 Rhen nodded.
 
@@ -308,7 +308,7 @@ Sera groaned.
 
 [[speaker:sera]]“That was awful.”
 
-“You asked.”
+[[speaker:rhen]]“You asked.”
 
 She leaned into him anyway.
 
@@ -370,11 +370,11 @@ Kai stood beside him.
 
 [[speaker:kai]]“This is dangerous.”
 
-“Yes.”
+[[speaker:tsubasa]]“Yes.”
 
 [[speaker:kai]]“You don't need to accept.”
 
-“No.”
+[[speaker:tsubasa]]“No.”
 
 Kai looked at him.
 
@@ -404,7 +404,7 @@ Hana leaned against the wall.
 
 [[speaker:hana]]“You think that changes Sera's decision?”
 
-“No.”
+[[speaker:tsubasa]]“No.”
 
 [[speaker:hana]]“Then what does it change?”
 
@@ -532,19 +532,19 @@ Then his expression settled.
 
 [[speaker:sera]]“No Redline.”
 
-“Yes.”
+[[speaker:tsubasa]]“Yes.”
 
 [[speaker:sera]]“No outside interference while either of us can continue.”
 
-“Yes.”
+[[speaker:tsubasa]]“Yes.”
 
 [[speaker:sera]]“No execution.”
 
-“Yes.”
+[[speaker:tsubasa]]“Yes.”
 
 [[speaker:sera]]“If I win, you return to the ceasefire table before another general offensive.”
 
-“Yes.”
+[[speaker:tsubasa]]“Yes.”
 
 [[speaker:sera]]“If you win, you get your proof.”
 
@@ -944,7 +944,7 @@ Tsubasa pulled the chain around a second anchor.
 
 [[speaker:tsubasa]]“You punish choices.”
 
-“Yes.”
+[[speaker:sera]]“Yes.”
 
 [[speaker:tsubasa]]“Then I should make choices that keep changing.”
 
@@ -1050,11 +1050,11 @@ The armies became restless.
 
 Tsubasa said, “Your Domain doesn't punish patience.”
 
-“No.”
+[[speaker:sera]]“No.”
 
 [[speaker:tsubasa]]“Or defense.”
 
-“No.”
+[[speaker:sera]]“No.”
 
 [[speaker:tsubasa]]“Then it has a simple answer.”
 

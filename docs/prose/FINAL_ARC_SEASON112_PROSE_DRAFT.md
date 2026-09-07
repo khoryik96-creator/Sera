@@ -64,15 +64,15 @@ Kai continued.
 
 “He lost to Kael and Luo after taking three-times Redline.”
 
-“Yes.”
+[[speaker:tsubasa]]“Yes.”
 
 [[speaker:kai]]“Kael nearly died.”
 
-“Yes.”
+[[speaker:tsubasa]]“Yes.”
 
 [[speaker:kai]]“And Luo kept Shunto alive.”
 
-“Yes.”
+[[speaker:tsubasa]]“Yes.”
 
 Kai exhaled.
 
@@ -96,19 +96,19 @@ Tsubasa's expression hardened.
 
 [[speaker:tsubasa]]“Did Shunto break confinement?”
 
-“Yes.”
+[[speaker:eirik]]“Yes.”
 
 [[speaker:tsubasa]]“Did he steal restricted Axtaya?”
 
-“Yes.”
+[[speaker:eirik]]“Yes.”
 
 [[speaker:tsubasa]]“Did he attack Kael outside military authorization?”
 
-“Yes.”
+[[speaker:eirik]]“Yes.”
 
 [[speaker:tsubasa]]“Did he take three-times Redline after being stripped?”
 
-“Yes.”
+[[speaker:eirik]]“Yes.”
 
 [[speaker:tsubasa]]“Then which part requires propaganda?”
 
@@ -176,11 +176,11 @@ Aya's expression did not change.
 
 [[speaker:haru]]“He could have let Shunto die.”
 
-“Yes.”
+[[speaker:aya]]“Yes.”
 
 [[speaker:haru]]“He didn't.”
 
-“No.”
+[[speaker:aya]]“No.”
 
 Haru swallowed.
 
@@ -202,7 +202,7 @@ Jun spoke.
 
 “Judgment during the war?”
 
-“Yes.”
+[[speaker:tsubasa]]“Yes.”
 
 [[speaker:jun]]“Public?”
 
@@ -350,27 +350,27 @@ Sera nodded.
 
 [[speaker:sera]]“All current offensive operations cease.”
 
-“Yes.”
+[[speaker:jin]]“Yes.”
 
 [[speaker:sera]]“Axtaya production records, deployment logs and medical casualty data are opened to independent review.”
 
-“Yes.”
+[[speaker:jin]]“Yes.”
 
 [[speaker:sera]]“Prisoner exchange under marked medical corridors.”
 
-“Yes.”
+[[speaker:jin]]“Yes.”
 
 [[speaker:sera]]“Reparations and reconstruction negotiated after ceasefire.”
 
-“Yes.”
+[[speaker:jin]]“Yes.”
 
 [[speaker:sera]]“No Wuyue occupation of Shinrin.”
 
-“Yes.”
+[[speaker:jin]]“Yes.”
 
 [[speaker:sera]]“No dismantling of Shinsei by foreign decree.”
 
-“Yes.”
+[[speaker:jin]]“Yes.”
 
 Jin looked up.
 
@@ -472,7 +472,7 @@ Nao looked at the treaty draft.
 
 [[speaker:nao]]“They are not asking for dissolution.”
 
-“No.”
+[[speaker:tsubasa]]“No.”
 
 Eirik's eyes stayed on the Isgard clauses.
 
@@ -682,23 +682,23 @@ Sera spoke first.
 
 “You read the terms.”
 
-“Yes.”
+[[speaker:tsubasa]]“Yes.”
 
 [[speaker:sera]]“Then you know Wuyue does not intend to occupy Shinrin.”
 
-“Yes.”
+[[speaker:tsubasa]]“Yes.”
 
 [[speaker:sera]]“Isgard does not intend to claim Shinrin territory.”
 
-“Yes.”
+[[speaker:tsubasa]]“Yes.”
 
 [[speaker:sera]]“Axtaya records are not negotiable.”
 
-“I know.”
+[[speaker:tsubasa]]“I know.”
 
 [[speaker:sera]]“Shunto remains subject to judgment.”
 
-“Yes.”
+[[speaker:tsubasa]]“Yes.”
 
 Sera's eyes narrowed slightly.
 
@@ -714,19 +714,19 @@ Sera did not move.
 
 [[speaker:sera]]“You invaded Isgard.”
 
-“Yes.”
+[[speaker:tsubasa]]“Yes.”
 
 [[speaker:sera]]“You used lifespan-burning combat drugs on soldiers who were not properly informed.”
 
-“Yes.”
+[[speaker:tsubasa]]“Yes.”
 
 [[speaker:sera]]“You kept fighting after the cost became clear.”
 
-“Yes.”
+[[speaker:tsubasa]]“Yes.”
 
 [[speaker:sera]]“You are currently standing on foreign territory.”
 
-“Yes.”
+[[speaker:tsubasa]]“Yes.”
 
 Sera stared at him.
 
@@ -778,7 +778,7 @@ Sera's voice stayed level.
 
 [[speaker:sera]]“That is not the same statement.”
 
-“No.”
+[[speaker:tsubasa]]“No.”
 
 Sera studied him.
 
@@ -848,7 +848,7 @@ Tsubasa's expression softened by a fraction.
 
 [[speaker:sera]]“Withdraw.”
 
-“No.”
+[[speaker:tsubasa]]“No.”
 
 The word carried no anger.
 
@@ -874,7 +874,7 @@ Sera stared at him.
 
 [[speaker:sera]]“That's the lowest bar you could clear.”
 
-“Yes.”
+[[speaker:tsubasa]]“Yes.”
 
 [[speaker:sera]]“Good. Keep clearing it.”
 
