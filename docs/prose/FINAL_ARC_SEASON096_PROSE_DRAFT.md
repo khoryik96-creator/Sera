@@ -20,7 +20,7 @@ Yun Shizhen leaned over both with the expression she usually reserved for people
 
 Luo watched her rotate the second vial beneath the lamp.
 
-“You’ve been staring at that for half an hour.”
+[[speaker:luo]]“You’ve been staring at that for half an hour.”
 
 [[speaker:yun]]“I’m waiting for it to apologize.”
 
@@ -42,7 +42,7 @@ She set the vial down.
 
 Luo sighed.
 
-“You said that three times.”
+[[speaker:luo]]“You said that three times.”
 
 [[speaker:yun]]“And you were wrong twice.”
 
@@ -58,7 +58,7 @@ Luo looked up.
 
 Yun tapped the notes with one fingernail.
 
-“The body feels the first acceleration and assumes the problem is ordinary exertion. Then this second compound blunts the warning response.”
+[[speaker:yun]]“The body feels the first acceleration and assumes the problem is ordinary exertion. Then this second compound blunts the warning response.”
 
 [[speaker:luo]]“Pain?”
 
@@ -66,7 +66,7 @@ Yun tapped the notes with one fingernail.
 
 Luo frowned.
 
-“So the user thinks the body is tolerating more than it is.”
+[[speaker:luo]]“So the user thinks the body is tolerating more than it is.”
 
 [[speaker:yun]]“The body knows better. The user does not.”
 
@@ -192,7 +192,7 @@ Luo felt the back of his neck tighten.
 
 Yun’s expression flattened.
 
-“Yes.”
+[[speaker:yun]]“Yes.”
 
 The phrase was imprecise, but every physician understood the thing beneath it. The reserves a body spent over years without noticing. Recovery capacity. Organ resilience. The margin between a wound becoming survivable and becoming final.
 
@@ -592,7 +592,7 @@ Rhen reached for the cracked pot.
 
 Sera slapped his hand away.
 
-“No.”
+[[speaker:sera]]“No.”
 
 [[speaker:rhen]]“I can still use it.”
 
@@ -786,7 +786,7 @@ One thousand people, all at least Marquis, and most of the town still thought th
 
 Xie glanced at her.
 
-“No.”
+[[speaker:xie_wuchen]]“No.”
 
 [[speaker:sera]]“Huo?”
 

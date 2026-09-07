@@ -802,7 +802,7 @@ That meant there was definitely movement among the graves.
 
 Shunto’s mouth twitched.
 
-“For your meeting?”
+[[speaker:shunto]]“For your meeting?”
 
 [[speaker:yun]]“So you intercepted him.”
 
@@ -864,7 +864,7 @@ Shunto said, “You have been looking for northern transport seals.”
 
 Yun said nothing.
 
-“You stopped using coastal routes.”
+[[speaker:shunto]]“You stopped using coastal routes.”
 
 Still nothing.
 
@@ -898,11 +898,11 @@ He was collecting them.
 
 Yun smiled faintly.
 
-“Brilliant.”
+[[speaker:yun]]“Brilliant.”
 
 Shunto ignored it.
 
-“I can end this without injury.”
+[[speaker:shunto]]“I can end this without injury.”
 
 [[speaker:yun]]“There it is.”
 
@@ -916,7 +916,7 @@ Shunto ignored it.
 
 Shunto’s eyes hardened.
 
-“You did not even consider it.”
+[[speaker:shunto]]“You did not even consider it.”
 
 [[speaker:yun]]“I considered it months ago.”
 

@@ -1,6 +1,6 @@
 # Season 99 — unattributed dialogue
 
-35 quoted lines in this season have no speaker.
+34 quoted lines in this season have no speaker.
 See `README.md` in this folder for what to do with them.
 
 Lines already resolved show their speaker in `[brackets]` for context.
@@ -223,17 +223,6 @@ Yun moved closer to the door.
 >>> “Yurushi Amagiri.”   <-- WHO SAYS THIS?
 [yun] “Affiliation.”
 A pause.
-```
-
-### Chapter 347 — The Roads He Built for Other People
-
-```
-Outside, the rear yard looked empty.
-Yurushi pointed.
-[black_radiance] “See the wall?”
->>> “Yes.”   <-- WHO SAYS THIS?
-[black_radiance] “Behind it is an old dye lane. Three businesses share freight credentials. One owner owes me nothing and dislikes me. Best kind of contact.”
-[yun] “Why?”
 ```
 
 ### Chapter 349 — She Escapes on Her Own Feet

@@ -1,52 +1,9 @@
 # Season 96 — unattributed dialogue
 
-70 quoted lines in this season have no speaker.
+52 quoted lines in this season have no speaker.
 See `README.md` in this folder for what to do with them.
 
 Lines already resolved show their speaker in `[brackets]` for context.
-
-### Chapter 311 — Strength With a Dosage Table
-
-```
-The laboratory beneath the Quaint Teahouse smelled of bitterroot, dried citrus peel and the metallic sweetness of heated blood. Three narrow lamps burned over a stone workbench. Between them sat two tiny glass vials, one scraped nearly clean, the other holding less than a finger’s depth of cloudy amber liquid.
-Yun Shizhen leaned over both with the expression she usually reserved for people who said poison was merely a matter of making something toxic enough.
-Luo watched her rotate the second vial beneath the lamp.
->>> “You’ve been staring at that for half an hour.”   <-- WHO SAYS THIS?
-[yun] “I’m waiting for it to apologize.”
-[luo] “It won’t.”
-```
-```
-She set the vial down.
-[yun] “Again.”
-Luo sighed.
->>> “You said that three times.”   <-- WHO SAYS THIS?
-[yun] “And you were wrong twice.”
-[luo] “I was not wrong.”
-```
-```
-[yun] “It is also bait.”
-Luo looked up.
-Yun tapped the notes with one fingernail.
->>> “The body feels the first acceleration and assumes the problem is ordinary exertion. Then this second compound blunts the warning response.”   <-- WHO SAYS THIS?
-[luo] “Pain?”
-[yun] “Pain. Vascular resistance. Some of the defensive constriction that should happen when the meridians are being pushed too hard.”
-```
-```
-[luo] “Pain?”
-[yun] “Pain. Vascular resistance. Some of the defensive constriction that should happen when the meridians are being pushed too hard.”
-Luo frowned.
->>> “So the user thinks the body is tolerating more than it is.”   <-- WHO SAYS THIS?
-[yun] “The body knows better. The user does not.”
-He looked at the sample again.
-```
-```
-Luo felt the back of his neck tighten.
-[luo] “Future vitality.”
-Yun’s expression flattened.
->>> “Yes.”   <-- WHO SAYS THIS?
-The phrase was imprecise, but every physician understood the thing beneath it. The reserves a body spent over years without noticing. Recovery capacity. Organ resilience. The margin between a wound becoming survivable and becoming final.
-The first victim had lost some of that margin.
-```
 
 ### Chapter 312 — Frost Where Rhen Did Not Mean It
 
@@ -57,14 +14,6 @@ They had also survived because they did not pretend strange symptoms were normal
 >>> “When it stops being pottery,” she said, “you tell me.”   <-- WHO SAYS THIS?
 Rhen glanced down at her.
 [rhen] “What does that mean?”
-```
-```
-[sera] “That sounds right.”
-Rhen reached for the cracked pot.
-Sera slapped his hand away.
->>> “No.”   <-- WHO SAYS THIS?
-[rhen] “I can still use it.”
-[sera] “You froze it to death.”
 ```
 
 ### Chapter 313 — Leaving Is Still a Choice
@@ -86,14 +35,6 @@ Sera waited.
 [xie_wuchen] “It happened to everyone eventually.”
 ```
 ```
-One thousand people, all at least Marquis, and most of the town still thought the busiest thing they did was unload herbs.
-“Do you think Tae obeys me because I own him?” she asked.
-Xie glanced at her.
->>> “No.”   <-- WHO SAYS THIS?
-[sera] “Huo?”
-[xie_wuchen] “No.”
-```
-```
 Then the next.
 Sera leaned over the roof edge.
 The apprentice who had given him the pear looked up.
@@ -110,70 +51,8 @@ Sera considered the empty roof.
 [sera] “Ask me after he steals another pear.”
 ```
 
-### Chapter 314 — Yun Asks for the Road
-
-```
-He drank it anyway.
-[luo] “I should go with you.”
-Yun’s answer came immediately.
->>> “No.”   <-- WHO SAYS THIS?
-[luo] “I know the compound.”
-[yun] “You know my notation.”
-```
-```
-Sera noticed Luo noticing it.
-“How long?” Sera asked.
-Yun looked back at her.
->>> “Two weeks if the chain is clean. Three if I have to move slowly.”   <-- WHO SAYS THIS?
-Lu said, “Route time alone is six to eight days each way depending on ship transfer.”
-[sera] “Then call it three.”
-```
-```
-[sera] “A foreign shadow team is still a team,” Sera continued. “If Shinrin is ordinary, we risk creating the thing we’re supposedly investigating. If it isn’t ordinary, ten covert Wuyue operatives are not automatically safer than one.”
-Lu added, “I can keep eyes on ports and shipping from this side.”
-Sera looked at Yun.
->>> “If you miss the three-week contact window, we treat it as a problem.”   <-- WHO SAYS THIS?
-[yun] “Understood.”
-[sera] “If you learn the problem is larger than Axtaya, your objective changes from solving it to bringing back enough truth for the rest of us to act.”
-```
-
-### Chapter 315 — Three Weeks
-
-```
-Merchant-grade salve instead of the compound she normally made herself.
-Ordinary things for an ordinary foreign medical trader.
-Luo stood in the doorway of their room and watched her fold a grey outer robe.
->>> “You forgot your knife.”   <-- WHO SAYS THIS?
-[yun] “No, I didn’t.”
-[luo] “It isn’t in the case.”
-```
-```
-Ordinary evidence that a relationship had survived long enough to become clutter.
-Luo hated every object in the room for making departure visible.
-Yun closed the case.
->>> “You’re thinking loudly.”   <-- WHO SAYS THIS?
-[luo] “I am standing.”
-[yun] “You do both loudly.”
-```
-```
-[luo] “If somebody stronger than you starts hunting you—”
-Yun lifted one eyebrow.
-Luo stopped.
->>> “What?”   <-- WHO SAYS THIS?
-[yun] “You were going to say come back.”
-[luo] “I was.”
-```
-
 ### Chapter 316 — A Country That Works
 
-```
-Disciplined spacing. Clean equipment. No swaggering at merchants. No demanding “inspection gifts.” One stepped into the road only after the convoy stopped at the marked gate.
-“Medical cargo?” he asked.
-Yun handed over the permit Lu had arranged.
->>> “Herbal extracts. Two sealed resins. Dried fever bark.”   <-- WHO SAYS THIS?
-The soldier checked the document against a brass registry strip.
-Not carelessly.
-```
 ```
 Not carelessly.
 Not suspiciously either.
@@ -204,15 +83,7 @@ He returned the paper.
 He returned the paper.
 >>> “Clinic road is east if you need storage certification. West market inspectors are slower after midday.”   <-- WHO SAYS THIS?
 Yun blinked.
-“Thank you.”
-```
-```
-He returned the paper.
-“Clinic road is east if you need storage certification. West market inspectors are slower after midday.”
-Yun blinked.
->>> “Thank you.”   <-- WHO SAYS THIS?
-He had already moved to the next cart.
-She walked on.
+[yun] “Thank you.”
 ```
 ```
 A dispute board where two merchant families were waiting under the same awning without trying to kill each other.
@@ -300,19 +171,11 @@ The woman wiped her hands on her apron.
 The woman wiped her hands on her apron.
 >>> “For the bridge.”   <-- WHO SAYS THIS?
 Yun looked at her.
-“What bridge?”
-```
-```
-The woman wiped her hands on her apron.
-“For the bridge.”
-Yun looked at her.
->>> “What bridge?”   <-- WHO SAYS THIS?
-The question earned genuine surprise.
-“You really are foreign.”
+[yun] “What bridge?”
 ```
 ```
 Yun looked at her.
-“What bridge?”
+[yun] “What bridge?”
 The question earned genuine surprise.
 >>> “You really are foreign.”   <-- WHO SAYS THIS?
 [yun] “So I have been told.”
@@ -439,19 +302,11 @@ The clerk looked confused.
 [yun] “And medical licensing?”
 >>> “Different division.”   <-- WHO SAYS THIS?
 Yun rested both palms on the counter.
-“What does the civil administration do?”
-```
-```
-[yun] “And medical licensing?”
-“Different division.”
-Yun rested both palms on the counter.
->>> “What does the civil administration do?”   <-- WHO SAYS THIS?
-The clerk’s confusion deepened.
-“This is the civil administration.”
+[yun] “What does the civil administration do?”
 ```
 ```
 Yun rested both palms on the counter.
-“What does the civil administration do?”
+[yun] “What does the civil administration do?”
 The clerk’s confusion deepened.
 >>> “This is the civil administration.”   <-- WHO SAYS THIS?
 The answer sat in plain sight.
@@ -585,12 +440,4 @@ Luo stopped.
 >>> “What?”   <-- WHO SAYS THIS?
 [luweiran] “A route change.”
 Lu put the papers down.
-```
-```
-She touched two fingers to the notebook in his hand.
-[sera] “Yun knew what she was doing when she left you here.”
-Luo looked down.
->>> “I know.”   <-- WHO SAYS THIS?
-[sera] “Trust that part of her while we find the rest.”
-He closed his eyes once.
 ```

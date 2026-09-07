@@ -548,7 +548,7 @@ Solveig pointed at the northern markers.
 
 Sera stepped to the table.
 
-“No.”
+[[speaker:sera]]“No.”
 
 Solveig frowned.
 
@@ -1074,7 +1074,7 @@ Sera did not answer immediately.
 
 Then:
 
-“No.”
+[[speaker:sera]]“No.”
 
 Luo looked at her.
 

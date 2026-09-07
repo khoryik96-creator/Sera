@@ -1034,7 +1034,7 @@ Sera said, “Under guard.”
 
 Luo looked at the last line again.
 
-“Yes.”
+[[speaker:luo]]“Yes.”
 
 The packet had crossed Shinrin.
 

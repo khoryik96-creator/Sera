@@ -74,7 +74,7 @@ He laughed.
 
 Yun tapped the closed almanac.
 
-“Second Seat handles fugitives personally?”
+[[speaker:yun]]“Second Seat handles fugitives personally?”
 
 “Depends on the fugitive.”
 
@@ -318,7 +318,7 @@ A false identity was useful until the enemy had the truth. Clinging to it afterw
 
 Shunto tilted his head.
 
-“Why are you here?”
+[[speaker:shunto]]“Why are you here?”
 
 [[speaker:yun]]“Tourism.”
 
@@ -390,7 +390,7 @@ Shunto watched anyway.
 
 Yun lifted one hand.
 
-“Then react to this.”
+[[speaker:yun]]“Then react to this.”
 
 She snapped her fingers.
 
@@ -552,11 +552,11 @@ Xie Wuchen returned to the Quaint Teahouse through a window.
 
 Lu Weiran did not look up.
 
-“Door.”
+[[speaker:luweiran]]“Door.”
 
 Xie put one boot on the floor.
 
-“Window was open.”
+[[speaker:xie_wuchen]]“Window was open.”
 
 [[speaker:luweiran]]“That is because air is allowed in.”
 
@@ -598,7 +598,7 @@ Three intermediary names already present in the Axtaya investigation.
 
 Xie leaned against the wall.
 
-“A courier was being beaten.”
+[[speaker:xie_wuchen]]“A courier was being beaten.”
 
 [[speaker:luweiran]]“That does not explain how you acquired a commercial ledger.”
 
@@ -616,15 +616,15 @@ Lu turned the page.
 
 Shen Rui entered without knocking, saw Xie and stopped.
 
-“You.”
+[[speaker:rui]]“You.”
 
 Xie closed his eyes briefly.
 
-“This house is very bad at privacy.”
+[[speaker:xie_wuchen]]“This house is very bad at privacy.”
 
 Rui walked in.
 
-“You vanished after the west road.”
+[[speaker:rui]]“You vanished after the west road.”
 
 [[speaker:xie_wuchen]]“Yes.”
 
@@ -644,11 +644,11 @@ The two of them could kill each other after the useful pages.
 
 Rui folded his arms.
 
-“Why did you bring it here?”
+[[speaker:rui]]“Why did you bring it here?”
 
 Xie gestured toward Lu.
 
-“He likes paper.”
+[[speaker:xie_wuchen]]“He likes paper.”
 
 Lu said, “I do not like paper.”
 
@@ -656,15 +656,15 @@ Both looked at him.
 
 Lu turned another page.
 
-“I like accurate systems.”
+[[speaker:luweiran]]“I like accurate systems.”
 
 Xie nodded gravely.
 
-“Apologies.”
+[[speaker:xie_wuchen]]“Apologies.”
 
 Rui stepped closer to the ledger.
 
-“This connects to Yun?”
+[[speaker:rui]]“This connects to Yun?”
 
 “Possibly,” Lu said.
 
@@ -672,7 +672,7 @@ That changed the room.
 
 Rui’s irritation faded.
 
-“How long overdue?”
+[[speaker:rui]]“How long overdue?”
 
 [[speaker:luweiran]]“More than a week past her expected contact window.”
 
@@ -694,11 +694,11 @@ Xie looked toward the open window.
 
 Rui caught it.
 
-“No.”
+[[speaker:rui]]“No.”
 
 Xie glanced at him.
 
-“No what?”
+[[speaker:xie_wuchen]]“No what?”
 
 [[speaker:rui]]“You are thinking about disappearing again.”
 
@@ -708,7 +708,7 @@ Xie glanced at him.
 
 Lu closed the ledger.
 
-“Both of you stop.”
+[[speaker:luweiran]]“Both of you stop.”
 
 They did.
 
@@ -724,13 +724,13 @@ Xie said, “False transfer.”
 
 Rui frowned.
 
-“Smuggling?”
+[[speaker:rui]]“Smuggling?”
 
 [[speaker:luweiran]]“Maybe. But the customs clearance on the Shinrin side was unusually fast.”
 
 Xie pushed away from the wall.
 
-“You want the captain.”
+[[speaker:xie_wuchen]]“You want the captain.”
 
 [[speaker:luweiran]]“I want the records around the captain.”
 
@@ -754,7 +754,7 @@ Xie glanced at the window again.
 
 Lu pointed at him without looking.
 
-“You also do not start one.”
+[[speaker:luweiran]]“You also do not start one.”
 
 [[speaker:xie_wuchen]]“I have no affiliation. Very difficult to create an official incident.”
 
@@ -764,23 +764,23 @@ Xie looked at Rui.
 
 Rui smiled unpleasantly.
 
-“Congratulations. You’re official enough.”
+[[speaker:rui]]“Congratulations. You’re official enough.”
 
 Xie sighed.
 
 Lu pulled out a blank sheet.
 
-“I need three things. The captain’s next port. Whether the crew changed after Shinrin. And whether any medical cargo left the ship under military protection.”
+[[speaker:luweiran]]“I need three things. The captain’s next port. Whether the crew changed after Shinrin. And whether any medical cargo left the ship under military protection.”
 
 Xie took the sheet.
 
-“You assume I’m doing this.”
+[[speaker:xie_wuchen]]“You assume I’m doing this.”
 
 [[speaker:luweiran]]“No.”
 
 Lu dipped his brush.
 
-“I assume you’ll complain, leave, and return with the answer.”
+[[speaker:luweiran]]“I assume you’ll complain, leave, and return with the answer.”
 
 Rui coughed into one fist.
 
@@ -804,11 +804,11 @@ Xie vanished through the window.
 
 Lu looked at Rui.
 
-“Close that.”
+[[speaker:luweiran]]“Close that.”
 
 Rui stared.
 
-“I didn’t open it.”
+[[speaker:rui]]“I didn’t open it.”
 
 [[speaker:luweiran]]“You are closest.”
 
@@ -816,11 +816,11 @@ Wuyue No.5, Peak Sovereign, master of Azure forces and one of the most feared sw
 
 Lu reopened the ledger.
 
-“Thank you.”
+[[speaker:luweiran]]“Thank you.”
 
 Rui sat down.
 
-“You enjoy this.”
+[[speaker:rui]]“You enjoy this.”
 
 [[speaker:luweiran]]“No.”
 
@@ -1048,7 +1048,7 @@ Yun clicked her tongue.
 
 Shunto heard.
 
-“Disappointed?”
+[[speaker:shunto]]“Disappointed?”
 
 [[speaker:yun]]“Deeply.”
 

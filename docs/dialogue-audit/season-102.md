@@ -1,6 +1,6 @@
 # Season 102 — unattributed dialogue
 
-38 quoted lines in this season have no speaker.
+34 quoted lines in this season have no speaker.
 See `README.md` in this folder for what to do with them.
 
 Lines already resolved show their speaker in `[brackets]` for context.
@@ -54,14 +54,6 @@ He checked the evacuation ledger himself.
 >>> “Crossing the fork now.”   <-- WHO SAYS THIS?
 Halvek looked toward the gate.
 Shinsei banners were already visible.
-```
-```
-Shinsei banners were already visible.
-A young officer said, “Then we leave.”
-Halvek looked at him.
->>> “Yes.”   <-- WHO SAYS THIS?
-The officer blinked.
-He had expected something grander.
 ```
 ```
 Halvek pointed inland.
@@ -124,17 +116,6 @@ Maedra's face hardened.
 >>> “Yes.”   <-- WHO SAYS THIS?
 Eldran swore.
 Maedra lifted her spear.
-```
-
-### Chapter 376 — Graven Dominion
-
-```
-Kenji stepped back.
-[kenji] “Done.”
-Sigrun looked up.
->>> “No.”   <-- WHO SAYS THIS?
-She stood.
-Kenji stared.
 ```
 
 ### Chapter 377 — Last Body Standing Ends
@@ -309,26 +290,4 @@ A clerk blinked.
 >>> “Why goats?”   <-- WHO SAYS THIS?
 [astrid] “Food has legs.”
 Lu Weiran would have loved her.
-```
-
-### Chapter 379 — Sixth Petal
-
-```
-A flower had been etched into one side.
-Six petals.
-Yurushi looked at it.
->>> “Sixth Petal.”   <-- WHO SAYS THIS?
-[sera] “Yes.”
-[black_radiance] “Not sixth-in-command.”
-```
-
-### Chapter 380 — You Are Staying Here
-
-```
-He put the satchels down.
-[black_radiance] “This feels like a bad allocation of someone who actually knows Shinsei.”
-Sera pointed at the map.
->>> “Exactly.”   <-- WHO SAYS THIS?
-Yurushi frowned.
-She moved three black markers north.
 ```

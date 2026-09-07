@@ -774,7 +774,7 @@ She touched two fingers to the notebook in his hand.
 
 Luo looked down.
 
-“I know.”
+[[speaker:luo]]“I know.”
 
 [[speaker:sera]]“Trust that part of her while we find the rest.”
 

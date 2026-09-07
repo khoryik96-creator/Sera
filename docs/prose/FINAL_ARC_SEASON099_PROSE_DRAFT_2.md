@@ -886,7 +886,7 @@ Yurushi pointed.
 
 [[speaker:black_radiance]]“See the wall?”
 
-“Yes.”
+[[speaker:yun]]“Yes.”
 
 [[speaker:black_radiance]]“Behind it is an old dye lane. Three businesses share freight credentials. One owner owes me nothing and dislikes me. Best kind of contact.”
 

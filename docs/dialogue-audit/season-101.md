@@ -1,6 +1,6 @@
 # Season 101 — unattributed dialogue
 
-86 quoted lines in this season have no speaker.
+83 quoted lines in this season have no speaker.
 See `README.md` in this folder for what to do with them.
 
 Lines already resolved show their speaker in `[brackets]` for context.
@@ -204,14 +204,6 @@ The courier placed it on the table.
 >>> “Recovered through a merchant relay in the western ports. Three transfers. One dead-drop failed. This copy kept moving.”   <-- WHO SAYS THIS?
 Luo looked at the seal.
 It was not Yun's formal mark.
-```
-```
-[luo] “Keep the original here.”
-Sera said, “Under guard.”
-Luo looked at the last line again.
->>> “Yes.”   <-- WHO SAYS THIS?
-The packet had crossed Shinrin.
-A merchant relay.
 ```
 
 ### Chapter 364 — Black Radiance Burns the Last Safehouse
@@ -545,14 +537,6 @@ The soldier hesitated.
 [nao] “Yes.”
 That answer steadied him more than a lie would have.
 ```
-```
-Kenji watched her go.
-[kenji] “She likes you.”
-Eirik looked at him.
->>> “No.”   <-- WHO SAYS THIS?
-[kenji] “Respect?”
-[eirik] “Possibly.”
-```
 
 ### Chapter 370 — Isgard Recognizes Its Dead King
 
@@ -683,14 +667,6 @@ A third voice, harsher:
 >>> “My uncle disappeared during one of his emergency levies.”   <-- WHO SAYS THIS?
 History refused to simplify itself for the convenience of battle.
 Eirik heard some of it.
-```
-```
-Aldric's did.
-[aldric] “You chose Shinsei.”
-Eirik looked toward the broken-circle banner.
->>> “Yes.”   <-- WHO SAYS THIS?
-[aldric] “Why?”
-[eirik] “Because I spent half my life trying to make Isgard stop bleeding through the cracks between its own authorities.”
 ```
 ```
 Aldric stepped forward one pace.

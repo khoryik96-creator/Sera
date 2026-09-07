@@ -540,7 +540,7 @@ A young officer said, “Then we leave.”
 
 Halvek looked at him.
 
-“Yes.”
+[[speaker:halvek]]“Yes.”
 
 The officer blinked.
 

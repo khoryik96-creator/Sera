@@ -146,7 +146,7 @@ Six petals.
 
 Yurushi looked at it.
 
-“Sixth Petal.”
+[[speaker:black_radiance]]“Sixth Petal.”
 
 [[speaker:sera]]“Yes.”
 
@@ -444,7 +444,7 @@ He put the satchels down.
 
 Sera pointed at the map.
 
-“Exactly.”
+[[speaker:sera]]“Exactly.”
 
 Yurushi frowned.
 

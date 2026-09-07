@@ -614,7 +614,7 @@ Kenji stepped back.
 
 Sigrun looked up.
 
-“No.”
+[[speaker:sigrun]]“No.”
 
 She stood.
 

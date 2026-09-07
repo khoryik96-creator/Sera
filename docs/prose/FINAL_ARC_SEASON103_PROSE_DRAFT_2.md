@@ -891,7 +891,7 @@ Luo noticed.
 
 [[speaker:luo]]“Yes.”
 
-“I won.”
+[[speaker:kael]]“I won.”
 
 Luo tied the bandage harder than necessary.
 

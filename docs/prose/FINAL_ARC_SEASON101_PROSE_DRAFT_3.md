@@ -746,7 +746,7 @@ Kenji watched her go.
 
 Eirik looked at him.
 
-“No.”
+[[speaker:eirik]]“No.”
 
 [[speaker:kenji]]“Respect?”
 
@@ -1038,7 +1038,7 @@ Aldric's did.
 
 Eirik looked toward the broken-circle banner.
 
-“Yes.”
+[[speaker:eirik]]“Yes.”
 
 [[speaker:aldric]]“Why?”
 
