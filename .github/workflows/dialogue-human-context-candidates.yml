@@ -44,10 +44,12 @@ jobs:
           const p='docs/dialogue-audit/README.md';
           let txt=fs.readFileSync(p,'utf8');
           txt=txt.replace(/The result is that \*\*\d+ quoted lines now have no speaker name\.\*\*/,`The result is that **${total} quoted lines now have no speaker name.**`);
-          for(let s=95;s<=114;s++){
-            const re=new RegExp(`(\\| Season ${s} \\| )\\d+( \\| \\`season-${String(s).padStart(3,'0')}\\.md\\`)`);
-            txt=txt.replace(re,`$1${counts[s]}$2`);
-          }
+          txt=txt.split('\n').map(line=>{
+            const m=line.match(/^\| Season (\d+) \| \d+ (\|.*)$/);
+            if(!m) return line;
+            const s=Number(m[1]);
+            return counts[s]===undefined ? line : `| Season ${s} | ${counts[s]} ${m[2]}`;
+          }).join('\n');
           txt=txt.replace(/\| \*\*Total\*\* \| \*\*\d+\*\* \|/,`| **Total** | **${total}** |`);
           fs.writeFileSync(p,txt);
           console.log('README_TOTAL',total,counts);
