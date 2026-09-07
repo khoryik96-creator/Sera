@@ -80,23 +80,23 @@ Then tore the damaged armor off himself.
 
 Rhen watched.
 
-“That was expensive.”
+[[speaker:rhen]]“That was expensive.”
 
 Tsubasa gave him a flat look.
 
-“Are you worried about my equipment?”
+[[speaker:tsubasa]]“Are you worried about my equipment?”
 
-“A little.”
+[[speaker:rhen]]“A little.”
 
-“You destroyed it.”
+[[speaker:tsubasa]]“You destroyed it.”
 
 “Yes.”
 
-“That makes the concern difficult to appreciate.”
+[[speaker:tsubasa]]“That makes the concern difficult to appreciate.”
 
 Rhen considered.
 
-“Fair.”
+[[speaker:rhen]]“Fair.”
 
 Tsubasa moved again.
 
@@ -120,7 +120,7 @@ Instead he let go.
 
 Tsubasa's eyes narrowed.
 
-“You keep allowing me another attack.”
+[[speaker:tsubasa]]“You keep allowing me another attack.”
 
 “Yes.”
 
@@ -128,7 +128,7 @@ Tsubasa's eyes narrowed.
 
 Rhen looked at him.
 
-“You're still choosing one.”
+[[speaker:rhen]]“You're still choosing one.”
 
 Tsubasa's jaw tightened.
 
@@ -194,21 +194,21 @@ Tsubasa looked up sharply.
 
 He understood at once.
 
-“You're not controlling my thoughts.”
+[[speaker:tsubasa]]“You're not controlling my thoughts.”
 
 “No.”
 
-“My movement.”
+[[speaker:tsubasa]]“My movement.”
 
-“Your motor circulation.”
+[[speaker:rhen]]“Your motor circulation.”
 
 Tsubasa's expression darkened.
 
-“Using my own qi.”
+[[speaker:tsubasa]]“Using my own qi.”
 
-“A little of it.”
+[[speaker:rhen]]“A little of it.”
 
-“The qi you took.”
+[[speaker:tsubasa]]“The qi you took.”
 
 “Yes.”
 
@@ -216,27 +216,27 @@ Tsubasa laughed once.
 
 There was no humor in it.
 
-“That is unpleasant.”
+[[speaker:tsubasa]]“That is unpleasant.”
 
-“I know.”
+[[speaker:rhen]]“I know.”
 
-“You can make me strike myself.”
-
-“Yes.”
-
-“Break my own body.”
+[[speaker:tsubasa]]“You can make me strike myself.”
 
 “Yes.”
 
-“Kill myself.”
+[[speaker:tsubasa]]“Break my own body.”
+
+“Yes.”
+
+[[speaker:tsubasa]]“Kill myself.”
 
 Rhen's face went still.
 
-“If I chose that severity.”
+[[speaker:rhen]]“If I chose that severity.”
 
 Tsubasa held his gaze.
 
-“You won't.”
+[[speaker:tsubasa]]“You won't.”
 
 “No.”
 
@@ -246,7 +246,7 @@ Rhen looked across the field.
 
 Fifty thousand soldiers slept under Quiet Snow.
 
-“No reason to.”
+[[speaker:rhen]]“No reason to.”
 
 Tsubasa stared at him for a long moment.
 
@@ -254,21 +254,21 @@ Then reached for the chain again.
 
 Rhen sighed.
 
-“You are very committed to this.”
+[[speaker:rhen]]“You are very committed to this.”
 
-“You healed me to full strength.”
-
-“Yes.”
-
-“You let me take Redline.”
+[[speaker:tsubasa]]“You healed me to full strength.”
 
 “Yes.”
 
-“You let me use everything.”
+[[speaker:tsubasa]]“You let me take Redline.”
 
 “Yes.”
 
-“And now you're surprised I won't stop because you removed it?”
+[[speaker:tsubasa]]“You let me use everything.”
+
+“Yes.”
+
+[[speaker:tsubasa]]“And now you're surprised I won't stop because you removed it?”
 
 Rhen thought about that.
 
@@ -332,11 +332,11 @@ He lifted the damaged crescent.
 
 Rhen looked at him.
 
-“Last one?”
+[[speaker:rhen]]“Last one?”
 
 Tsubasa settled into stance.
 
-“No promises.”
+[[speaker:tsubasa]]“No promises.”
 
 Rhen almost smiled.
 
@@ -456,17 +456,17 @@ Tsubasa's knee missed.
 
 Jin glanced at her.
 
-“How many has he lost?”
+[[speaker:jin]]“How many has he lost?”
 
-“Too many.”
+[[speaker:sera]]“Too many.”
 
-“Is that a strategic concern?”
+[[speaker:jin]]“Is that a strategic concern?”
 
 “Yes.”
 
 Jin looked back at the fight.
 
-“I'll add it to reconstruction.”
+[[speaker:jin]]“I'll add it to reconstruction.”
 
 Sera smiled.
 
@@ -496,15 +496,15 @@ That distinction was important.
 
 Tsubasa wiped his mouth.
 
-“You were holding back.”
+[[speaker:tsubasa]]“You were holding back.”
 
 “Yes.”
 
-“How much?”
+[[speaker:tsubasa]]“How much?”
 
 Rhen looked uncomfortable.
 
-“That question never helps.”
+[[speaker:rhen]]“That question never helps.”
 
 Tsubasa laughed.
 
@@ -534,21 +534,21 @@ He still stepped forward.
 
 Rhen looked at him.
 
-“You proved it.”
+[[speaker:rhen]]“You proved it.”
 
 Tsubasa stopped.
 
 “What?”
 
-“That you're strong.”
+[[speaker:rhen]]“That you're strong.”
 
 Tsubasa's eyes narrowed.
 
-“I did not come here for your approval.”
+[[speaker:tsubasa]]“I did not come here for your approval.”
 
 “I know.”
 
-“Then don't offer it.”
+[[speaker:tsubasa]]“Then don't offer it.”
 
 Rhen nodded.
 
@@ -558,9 +558,9 @@ Tsubasa took another step.
 
 Rhen sighed.
 
-“You're difficult.”
+[[speaker:rhen]]“You're difficult.”
 
-“Your wife said the same thing about you.”
+[[speaker:tsubasa]]“Your wife said the same thing about you.”
 
 Rhen paused.
 
@@ -618,35 +618,35 @@ The Redline crash began settling through him.
 
 “Yes.”
 
-“You let me take the drug.”
+[[speaker:tsubasa]]“You let me take the drug.”
 
 “Yes.”
 
-“You let me use the Dominion.”
+[[speaker:tsubasa]]“You let me use the Dominion.”
 
 “Yes.”
 
-“The Ultimate.”
+[[speaker:tsubasa]]“The Ultimate.”
 
 “Yes.”
 
-“The army.”
+[[speaker:tsubasa]]“The army.”
 
 “Yes.”
 
-“And then you took the one thing all of it required.”
+[[speaker:tsubasa]]“And then you took the one thing all of it required.”
 
-“My turn.”
+[[speaker:rhen]]“My turn.”
 
 Tsubasa laughed weakly.
 
-“That's almost arrogant.”
+[[speaker:tsubasa]]“That's almost arrogant.”
 
 Rhen considered.
 
 “Sorry.”
 
-“You're not.”
+[[speaker:tsubasa]]“You're not.”
 
 “No.”
 
@@ -658,15 +658,15 @@ Just tired.
 
 Rhen crouched beside him.
 
-“Don't sleep from the drug.”
+[[speaker:rhen]]“Don't sleep from the drug.”
 
 Tsubasa opened one eye.
 
-“You put fifty thousand people to sleep.”
+[[speaker:tsubasa]]“You put fifty thousand people to sleep.”
 
-“Different sleep.”
+[[speaker:rhen]]“Different sleep.”
 
-“Of course it is.”
+[[speaker:tsubasa]]“Of course it is.”
 
 Rhen placed two fingers against his wrist.
 
@@ -678,15 +678,15 @@ He simply stabilized the immediate physical crash enough that Tsubasa would not 
 
 Tsubasa felt the correction.
 
-“You're healing me again.”
+[[speaker:tsubasa]]“You're healing me again.”
 
 “Yes.”
 
-“This is becoming insulting.”
+[[speaker:tsubasa]]“This is becoming insulting.”
 
 “Sorry.”
 
-“You're still not.”
+[[speaker:tsubasa]]“You're still not.”
 
 “No.”
 
@@ -728,15 +728,15 @@ Rhen stood.
 
 Sera saw them too.
 
-“Aya isn't attacking.”
+[[speaker:sera]]“Aya isn't attacking.”
 
 “No.”
 
-“Hana?”
+[[speaker:sera]]“Hana?”
 
 “No.”
 
-“Nao?”
+[[speaker:sera]]“Nao?”
 
 Rhen watched the remaining signatures.
 
@@ -744,7 +744,7 @@ Rhen watched the remaining signatures.
 
 Sera's eyes narrowed.
 
-“Haru?”
+[[speaker:sera]]“Haru?”
 
 Rhen waited.
 
@@ -888,13 +888,13 @@ Hana looked at him.
 
 Haru did not look back.
 
-“I already paid enough for being stupid.”
+[[speaker:haru]]“I already paid enough for being stupid.”
 
 Nao's mouth moved faintly.
 
-“That may be the smartest thing you've said.”
+[[speaker:nao]]“That may be the smartest thing you've said.”
 
-“Don't ruin it.”
+[[speaker:haru]]“Don't ruin it.”
 
 For once, Hana smiled.
 
@@ -1010,7 +1010,7 @@ Kai staggered.
 
 His Dominion flickered from the sudden transition.
 
-“What did you—”
+[[speaker:kai]]“What did you—”
 
 “Ended it,” Rhen said.
 
@@ -1036,23 +1036,23 @@ He had not lied about its cost.
 
 Kai looked furious.
 
-“You can cancel Redline.”
+[[speaker:kai]]“You can cancel Redline.”
 
 “No.”
 
 Rhen's correction was immediate.
 
-“I can end an artificial state.”
+[[speaker:rhen]]“I can end an artificial state.”
 
 Kai stared.
 
-“That distinction matters to you?”
+[[speaker:kai]]“That distinction matters to you?”
 
 “Yes.”
 
 “Why?”
 
-“Because if I call it something it isn't, somebody will try to use the wrong answer later.”
+[[speaker:rhen]]“Because if I call it something it isn't, somebody will try to use the wrong answer later.”
 
 Luo, hearing from the ridge, nodded despite himself.
 
@@ -1066,7 +1066,7 @@ The Redline was gone.
 
 His natural Paragon cultivation remained.
 
-“So we fight normally.”
+[[speaker:jun]]“So we fight normally.”
 
 Rhen looked at him.
 
@@ -1142,7 +1142,7 @@ Eirik did not move at all.
 
 Rhen looked at them.
 
-“Don't move.”
+[[speaker:rhen]]“Don't move.”
 
 Kai's jaw tightened.
 
@@ -1198,7 +1198,7 @@ He understood surrender.
 
 He opened his eyes.
 
-“Enough.”
+[[speaker:eirik]]“Enough.”
 
 Kai looked at him.
 
@@ -1240,23 +1240,23 @@ Kai flexed his fingers.
 
 Rhen looked toward Aya.
 
-“You should check them.”
+[[speaker:rhen]]“You should check them.”
 
 Aya stared at him.
 
-“Of course you say that now.”
+[[speaker:aya]]“Of course you say that now.”
 
-“They took Redline.”
+[[speaker:rhen]]“They took Redline.”
 
 “I know.”
 
-“It's bad for you.”
+[[speaker:rhen]]“It's bad for you.”
 
 Aya's expression became dangerous.
 
 Rhen looked at Sera.
 
-“She is still offended by me.”
+[[speaker:rhen]]“She is still offended by me.”
 
 Sera laughed.
 
@@ -1306,25 +1306,25 @@ Sera walked toward Rhen.
 
 He looked at her.
 
-“Done?”
+[[speaker:rhen]]“Done?”
 
 She stopped beside him.
 
-“For today.”
+[[speaker:sera]]“For today.”
 
 Rhen frowned.
 
-“You said that yesterday.”
+[[speaker:rhen]]“You said that yesterday.”
 
-“I was wrong yesterday.”
+[[speaker:sera]]“I was wrong yesterday.”
 
-“And today?”
+[[speaker:rhen]]“And today?”
 
 Sera looked across the sleeping army, the lowered banners, the physicians already moving, and Tsubasa alive on the ground.
 
 Then she took Rhen's hand.
 
-“Today we're closer.”
+[[speaker:sera]]“Today we're closer.”
 
 Rhen looked at their joined hands.
 

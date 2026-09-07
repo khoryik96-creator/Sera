@@ -54,11 +54,11 @@ He swore.
 
 Sera smiled despite herself.
 
-“That is annoyingly good.”
+[[speaker:sera]]“That is annoyingly good.”
 
 Jin looked at her.
 
-“Which one?”
+[[speaker:jin]]“Which one?”
 
 “Yes.”
 
@@ -122,9 +122,9 @@ Rhen was already gone.
 
 Luo looked at her.
 
-“Doing what?”
+[[speaker:luo]]“Doing what?”
 
-“Making impossible things look rude.”
+[[speaker:sera]]“Making impossible things look rude.”
 
 Tsubasa planted one foot.
 
@@ -158,7 +158,7 @@ Rhen stopped walking. Tsubasa had finally shown what Rhen was waiting to see.
 
 Tsubasa noticed.
 
-“So this is enough to interest you.”
+[[speaker:tsubasa]]“So this is enough to interest you.”
 
 Rhen looked at the chain network.
 
@@ -260,17 +260,17 @@ A Sovereign captain reached a signal tower and destroyed it before the defenders
 
 Jin responded immediately.
 
-“Do not hold the ridge. Give it.”
+[[speaker:jin]]“Do not hold the ridge. Give it.”
 
 Lei Zhen looked at him.
 
-“That is the third ridge.”
+[[speaker:lei]]“That is the third ridge.”
 
 “Yes.”
 
-“At what point do we stop giving them ridges?”
+[[speaker:lei]]“At what point do we stop giving them ridges?”
 
-“When they stop paying five years to walk uphill.”
+[[speaker:jin]]“When they stop paying five years to walk uphill.”
 
 Lei stared.
 
@@ -288,17 +288,17 @@ Still ugly.
 
 Tsubasa saw the movement through his peripheral awareness.
 
-“Your army is losing ground.”
+[[speaker:tsubasa]]“Your army is losing ground.”
 
 Rhen looked past him.
 
 “Yes.”
 
-“You could stop them.”
+[[speaker:tsubasa]]“You could stop them.”
 
 “Yes.”
 
-“But you're still here.”
+[[speaker:tsubasa]]“But you're still here.”
 
 “Yes.”
 
@@ -306,7 +306,7 @@ Rhen looked past him.
 
 Rhen looked back at him.
 
-“Because Sera told me not to be annoying.”
+[[speaker:rhen]]“Because Sera told me not to be annoying.”
 
 Tsubasa blinked.
 
@@ -314,7 +314,7 @@ The crescent nearly dipped.
 
 From the ridge, Sera shouted:
 
-“I SAID TRY.”
+[[speaker:sera]]“I SAID TRY.”
 
 Rhen called back without looking.
 
@@ -452,21 +452,21 @@ Tsubasa stared at the blood.
 
 Rhen looked at him.
 
-“Very good.”
+[[speaker:rhen]]“Very good.”
 
 Tsubasa's face became expressionless.
 
-“You are mocking me.”
+[[speaker:tsubasa]]“You are mocking me.”
 
 “No.”
 
-“You're bleeding.”
+[[speaker:tsubasa]]“You're bleeding.”
 
 “Yes.”
 
-“And you sound pleased.”
+[[speaker:tsubasa]]“And you sound pleased.”
 
-“You made me bleed.”
+[[speaker:rhen]]“You made me bleed.”
 
 Tsubasa's eyes narrowed.
 
@@ -474,7 +474,7 @@ Rhen closed his hand.
 
 The cut healed.
 
-“That is usually impressive.”
+[[speaker:rhen]]“That is usually impressive.”
 
 Tsubasa exhaled slowly.
 
@@ -582,7 +582,7 @@ He smiled.
 
 Rhen noticed.
 
-“You're enjoying this.”
+[[speaker:rhen]]“You're enjoying this.”
 
 Tsubasa wiped the blood away.
 
@@ -606,21 +606,21 @@ Rhen's expression changed.
 
 Tsubasa saw it.
 
-“You were waiting.”
+[[speaker:tsubasa]]“You were waiting.”
 
 “Yes.”
 
-“For what?”
+[[speaker:tsubasa]]“For what?”
 
-“For you to show me everything.”
+[[speaker:rhen]]“For you to show me everything.”
 
 Tsubasa's fingers tightened around the chain.
 
-“And now?”
+[[speaker:tsubasa]]“And now?”
 
 Rhen looked at the fifty thousand.
 
-“Now they've spent enough.”
+[[speaker:rhen]]“Now they've spent enough.”
 
 The air changed.
 
@@ -662,15 +662,15 @@ His expression sharpened.
 
 Rhen looked at him.
 
-“I wouldn't move too much for the next few breaths.”
+[[speaker:rhen]]“I wouldn't move too much for the next few breaths.”
 
 Tsubasa lifted the crescent.
 
-“That sounds like advice.”
+[[speaker:tsubasa]]“That sounds like advice.”
 
-“It is.”
+[[speaker:rhen]]“It is.”
 
-“I don't intend to take it.”
+[[speaker:tsubasa]]“I don't intend to take it.”
 
 “I know.”
 
@@ -840,21 +840,21 @@ It was compressing the usable reserve itself.
 
 Tsubasa looked at Rhen.
 
-“What did you do?”
+[[speaker:tsubasa]]“What did you do?”
 
 Rhen answered because there was no point hiding a rule already happening inside Tsubasa's body.
 
 “Condensed your reserve.”
 
-“Into that?”
+[[speaker:tsubasa]]“Into that?”
 
 “Yes.”
 
 Tsubasa looked at the petal.
 
-“How much?”
+[[speaker:tsubasa]]“How much?”
 
-“All of it.”
+[[speaker:rhen]]“All of it.”
 
 For the first time in the final arc, Tsubasa Kurokawa lost control of his expression.
 
@@ -1018,15 +1018,15 @@ One petal.
 
 Rhen looked up at it.
 
-“Very dense.”
+[[speaker:rhen]]“Very dense.”
 
 Tsubasa laughed once.
 
-“You are still doing that.”
+[[speaker:tsubasa]]“You are still doing that.”
 
-“What?”
+[[speaker:rhen]]“What?”
 
-“Complimenting me while ruining my day.”
+[[speaker:tsubasa]]“Complimenting me while ruining my day.”
 
 Rhen thought about it.
 
@@ -1034,13 +1034,13 @@ Rhen thought about it.
 
 Tsubasa looked at fifty thousand petals across the sky.
 
-“How many?”
+[[speaker:tsubasa]]“How many?”
 
 Rhen already knew.
 
 He counted circulations, not visually drifting shapes.
 
-“Fifty thousand and one.”
+[[speaker:rhen]]“Fifty thousand and one.”
 
 The number moved across the battlefield like a sentence.
 
@@ -1114,17 +1114,17 @@ Still efficient.
 
 Rhen watched him.
 
-“Don't.”
+[[speaker:rhen]]“Don't.”
 
 Tsubasa looked up.
 
-“Advice again?”
+[[speaker:tsubasa]]“Advice again?”
 
 “Yes.”
 
-“I remain bad at taking it.”
+[[speaker:tsubasa]]“I remain bad at taking it.”
 
-“I noticed.”
+[[speaker:rhen]]“I noticed.”
 
 Around them, Shinsei officers tried to reorganize the inner spearhead.
 
@@ -1198,17 +1198,17 @@ The materials failed because Rhen's frost-qi particles entered weaknesses ordina
 
 Sera watched a line of Shinsei shields collapse without a single explosion.
 
-“That is excessive.”
+[[speaker:sera]]“That is excessive.”
 
 Kael looked at her.
 
-“You fought him voluntarily.”
+[[speaker:kael]]“You fought him voluntarily.”
 
-“So did you once.”
+[[speaker:sera]]“So did you once.”
 
-“I was younger.”
+[[speaker:kael]]“I was younger.”
 
-“You were stupid.”
+[[speaker:sera]]“You were stupid.”
 
 “Yes.”
 
@@ -1278,11 +1278,11 @@ Her throat tightened.
 
 Haru stared beside her.
 
-“They're sleeping.”
+[[speaker:haru]]“They're sleeping.”
 
 “Yes.”
 
-“That's all?”
+[[speaker:haru]]“That's all?”
 
 Aya looked at the field.
 
@@ -1290,7 +1290,7 @@ Aya looked at the field.
 
 She knew enough medicine to understand the terrifying part.
 
-“He could have chosen something else.”
+[[speaker:aya]]“He could have chosen something else.”
 
 Haru said nothing.
 
@@ -1300,13 +1300,13 @@ Rhen had excluded him from Quiet Snow.
 
 Tsubasa noticed.
 
-“You want me conscious.”
+[[speaker:tsubasa]]“You want me conscious.”
 
 “Yes.”
 
 “Why?”
 
-“You're still fighting.”
+[[speaker:rhen]]“You're still fighting.”
 
 Tsubasa looked down at the chain in his hands.
 
@@ -1332,7 +1332,7 @@ Tsubasa lifted it.
 
 Rhen sighed.
 
-“You really are bad at advice.”
+[[speaker:rhen]]“You really are bad at advice.”
 
 Tsubasa settled into stance.
 
