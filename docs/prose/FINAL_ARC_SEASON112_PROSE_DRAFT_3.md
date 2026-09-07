@@ -96,7 +96,7 @@ Tsubasa wiped his mouth.
 
 She stared at him.
 
-“What did you do?”
+[[speaker:sera]]“What did you do?”
 
 He moved.
 
@@ -160,13 +160,13 @@ Tsubasa noticed immediately.
 
 He smiled without warmth.
 
-“You see it.”
+[[speaker:tsubasa]]“You see it.”
 
 “Yes.”
 
-“You're quick.”
+[[speaker:tsubasa]]“You're quick.”
 
-“I've been told.”
+[[speaker:sera]]“I've been told.”
 
 He released the crescent.
 
@@ -328,29 +328,29 @@ He was not winning cleanly either.
 
 He looked at her.
 
-“You stopped feeding me.”
+[[speaker:tsubasa]]“You stopped feeding me.”
 
 “Yes.”
 
-“And I still hit you.”
+[[speaker:tsubasa]]“And I still hit you.”
 
 Sera wiped her mouth.
 
-“You sound proud.”
+[[speaker:sera]]“You sound proud.”
 
-“I am.”
+[[speaker:tsubasa]]“I am.”
 
 “Good.”
 
 She lowered her stance again.
 
-“Keep that feeling.”
+[[speaker:sera]]“Keep that feeling.”
 
 Tsubasa's eyes narrowed.
 
 Sera smiled.
 
-“I'm going to take it from you.”
+[[speaker:sera]]“I'm going to take it from you.”
 
 The Pale Orchid moved.
 
@@ -388,17 +388,17 @@ If he wanted the duel back under his control, he had to expand the system.
 
 Sera smiled faintly.
 
-“There it is.”
+[[speaker:sera]]“There it is.”
 
 Tsubasa's eyes narrowed.
 
-“You wanted this.”
+[[speaker:tsubasa]]“You wanted this.”
 
 “Yes.”
 
-“Why?”
+[[speaker:tsubasa]]“Why?”
 
-“So I know what the strongest conventional cultivator alive looks like when he stops holding something back.”
+[[speaker:sera]]“So I know what the strongest conventional cultivator alive looks like when he stops holding something back.”
 
 The ridge behind Sera went silent.
 
@@ -408,7 +408,7 @@ Rhen did not move.
 
 Then Tsubasa looked back at Sera.
 
-“Fine.”
+[[speaker:tsubasa]]“Fine.”
 
 He released the chain.
 
@@ -574,7 +574,7 @@ Tsubasa saw the pale qi marks gathering.
 
 His expression changed.
 
-“What is that?”
+[[speaker:tsubasa]]“What is that?”
 
 Sera stood in the center of the chained basin.
 
@@ -586,7 +586,7 @@ Her left arm hung lower than before.
 
 And she smiled.
 
-“You kept committing.”
+[[speaker:sera]]“You kept committing.”
 
 Tsubasa pulled the crescent back.
 
@@ -782,7 +782,7 @@ Sera knew exactly what Tsubasa was doing.
 
 She smiled anyway.
 
-“Coward.”
+[[speaker:sera]]“Coward.”
 
 Tsubasa, bleeding from half a dozen serious wounds, answered:
 
@@ -852,17 +852,17 @@ Sera saw him see it.
 
 Tsubasa coughed blood.
 
-“I am not happy.”
+[[speaker:tsubasa]]“I am not happy.”
 
-“You have that face.”
+[[speaker:sera]]“You have that face.”
 
-“What face?”
+[[speaker:tsubasa]]“What face?”
 
 Sera almost laughed.
 
 Then winced.
 
-“Never mind.”
+[[speaker:sera]]“Never mind.”
 
 Tsubasa tightened his grip.
 
@@ -916,15 +916,15 @@ Sera forced herself upright.
 
 Tsubasa stared.
 
-“Enough.”
+[[speaker:tsubasa]]“Enough.”
 
 She raised one hand.
 
 “No.”
 
-“Sera.”
+[[speaker:tsubasa]]“Sera.”
 
-“Don't start sounding like him.”
+[[speaker:sera]]“Don't start sounding like him.”
 
 Tsubasa glanced toward Rhen despite himself.
 
@@ -932,7 +932,7 @@ Rhen stood completely still.
 
 Sera's eyes flashed.
 
-“Eyes here.”
+[[speaker:sera]]“Eyes here.”
 
 Tsubasa looked back.
 
@@ -1006,7 +1006,7 @@ Kael whispered, “She's still making him solve her.”
 
 Jin did not look away.
 
-“Can he?”
+[[speaker:jin]]“Can he?”
 
 Kael's face tightened.
 
@@ -1116,7 +1116,7 @@ She laughed once.
 
 Quietly.
 
-“Annoying.”
+[[speaker:sera]]“Annoying.”
 
 Tsubasa almost collapsed hearing it.
 
@@ -1124,7 +1124,7 @@ Tsubasa almost collapsed hearing it.
 
 Sera looked up.
 
-“Was talking about you.”
+[[speaker:sera]]“Was talking about you.”
 
 “I know.”
 
@@ -1156,13 +1156,13 @@ His arm caught her around the back.
 
 Sera opened one eye.
 
-“You took your time.”
+[[speaker:sera]]“You took your time.”
 
 Rhen looked down at her.
 
-“You told me to.”
+[[speaker:rhen]]“You told me to.”
 
-“Fair.”
+[[speaker:sera]]“Fair.”
 
 His fingers touched her wrist.
 
@@ -1200,11 +1200,11 @@ Then another.
 
 He looked at Sera.
 
-“No one has pushed me that far.”
+[[speaker:tsubasa]]“No one has pushed me that far.”
 
 Sera's mouth moved faintly.
 
-“Anyone?”
+[[speaker:sera]]“Anyone?”
 
 Tsubasa shook his head.
 
@@ -1226,23 +1226,23 @@ But now everyone knew how narrow the word above could become when the Pale Orchi
 
 Rhen looked at Sera.
 
-“Done?”
+[[speaker:rhen]]“Done?”
 
 She closed her eyes.
 
-“For today.”
+[[speaker:sera]]“For today.”
 
 “Good.”
 
-“Don't sound relieved.”
+[[speaker:sera]]“Don't sound relieved.”
 
-“I am relieved.”
+[[speaker:rhen]]“I am relieved.”
 
 Sera smiled weakly.
 
-“Terrible poker face.”
+[[speaker:sera]]“Terrible poker face.”
 
-“I don't play cards.”
+[[speaker:rhen]]“I don't play cards.”
 
 “I know.”
 
@@ -1254,13 +1254,13 @@ He flinched.
 
 Aya looked furious.
 
-“You are an idiot.”
+[[speaker:aya]]“You are an idiot.”
 
 Tsubasa coughed.
 
-“I won.”
+[[speaker:tsubasa]]“I won.”
 
-“That is not a medical diagnosis.”
+[[speaker:aya]]“That is not a medical diagnosis.”
 
 For the first time in hours, Sera laughed.
 
