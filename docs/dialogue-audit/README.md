@@ -13,7 +13,7 @@ scene and unreliable with three, so it produced visible mistakes (for example
 Huo's line in Chapter 301 was labelled Lu Weiran). The guessing has been
 removed.
 
-The result is that **3709 quoted lines now have no speaker name.** They
+The result is that **871 quoted lines now have no speaker name.** They
 render as plain quoted text. Nothing is wrong with them — the speaker is simply
 not recoverable automatically. This folder lists every one of them so a human or
 an assistant with full story context can resolve them.
@@ -158,27 +158,27 @@ list exists.
 
 | Season | Lines | Worklist file | Source draft to edit |
 |---|---|---|---|
-| Season 95 | 455 | `season-095.md` | `FINAL_ARC_SEASON095_PROSE_DRAFT*.md` |
-| Season 96 | 162 | `season-096.md` | `FINAL_ARC_SEASON096_PROSE_DRAFT*.md` |
-| Season 97 | 135 | `season-097.md` | `FINAL_ARC_SEASON097_PROSE_DRAFT*.md` |
-| Season 98 | 56 | `season-098.md` | `FINAL_ARC_SEASON098_PROSE_DRAFT*.md` |
-| Season 99 | 148 | `season-099.md` | `FINAL_ARC_SEASON099_PROSE_DRAFT*.md` |
-| Season 100 | 249 | `season-100.md` | `FINAL_ARC_SEASON100_PROSE_DRAFT*.md` |
-| Season 101 | 333 | `season-101.md` | `FINAL_ARC_SEASON101_PROSE_DRAFT*.md` |
-| Season 102 | 136 | `season-102.md` | `FINAL_ARC_SEASON102_PROSE_DRAFT*.md` |
-| Season 103 | 215 | `season-103.md` | `FINAL_ARC_SEASON103_PROSE_DRAFT*.md` |
-| Season 104 | 168 | `season-104.md` | `FINAL_ARC_SEASON104_PROSE_DRAFT*.md` |
-| Season 105 | 155 | `season-105.md` | `FINAL_ARC_SEASON105_PROSE_DRAFT*.md` |
-| Season 106 | 79 | `season-106.md` | `FINAL_ARC_SEASON106_PROSE_DRAFT*.md` |
-| Season 107 | 75 | `season-107.md` | `FINAL_ARC_SEASON107_PROSE_DRAFT*.md` |
-| Season 108 | 111 | `season-108.md` | `FINAL_ARC_SEASON108_PROSE_DRAFT*.md` |
-| Season 109 | 420 | `season-109.md` | `FINAL_ARC_SEASON109_PROSE_DRAFT*.md` |
-| Season 110 | 293 | `season-110.md` | `FINAL_ARC_SEASON110_PROSE_DRAFT*.md` |
-| Season 111 | 121 | `season-111.md` | `FINAL_ARC_SEASON111_PROSE_DRAFT*.md` |
-| Season 112 | 91 | `season-112.md` | `FINAL_ARC_SEASON112_PROSE_DRAFT*.md` |
-| Season 113 | 171 | `season-113.md` | `FINAL_ARC_SEASON113_PROSE_DRAFT*.md` |
-| Season 114 | 136 | `season-114.md` | `FINAL_ARC_SEASON114_PROSE_DRAFT*.md` |
-| **Total** | **3709** | | |
+| Season 95 | 228 | `season-095.md` | `FINAL_ARC_SEASON095_PROSE_DRAFT*.md` |
+| Season 96 | 50 | `season-096.md` | `FINAL_ARC_SEASON096_PROSE_DRAFT*.md` |
+| Season 97 | 47 | `season-097.md` | `FINAL_ARC_SEASON097_PROSE_DRAFT*.md` |
+| Season 98 | 18 | `season-098.md` | `FINAL_ARC_SEASON098_PROSE_DRAFT*.md` |
+| Season 99 | 34 | `season-099.md` | `FINAL_ARC_SEASON099_PROSE_DRAFT*.md` |
+| Season 100 | 67 | `season-100.md` | `FINAL_ARC_SEASON100_PROSE_DRAFT*.md` |
+| Season 101 | 83 | `season-101.md` | `FINAL_ARC_SEASON101_PROSE_DRAFT*.md` |
+| Season 102 | 34 | `season-102.md` | `FINAL_ARC_SEASON102_PROSE_DRAFT*.md` |
+| Season 103 | 57 | `season-103.md` | `FINAL_ARC_SEASON103_PROSE_DRAFT*.md` |
+| Season 104 | 12 | `season-104.md` | `FINAL_ARC_SEASON104_PROSE_DRAFT*.md` |
+| Season 105 | 74 | `season-105.md` | `FINAL_ARC_SEASON105_PROSE_DRAFT*.md` |
+| Season 106 | 17 | `season-106.md` | `FINAL_ARC_SEASON106_PROSE_DRAFT*.md` |
+| Season 107 | 15 | `season-107.md` | `FINAL_ARC_SEASON107_PROSE_DRAFT*.md` |
+| Season 108 | 25 | `season-108.md` | `FINAL_ARC_SEASON108_PROSE_DRAFT*.md` |
+| Season 109 | 20 | `season-109.md` | `FINAL_ARC_SEASON109_PROSE_DRAFT*.md` |
+| Season 110 | 38 | `season-110.md` | `FINAL_ARC_SEASON110_PROSE_DRAFT*.md` |
+| Season 111 | 43 | `season-111.md` | `FINAL_ARC_SEASON111_PROSE_DRAFT*.md` |
+| Season 112 | 0 | `season-112.md` | `FINAL_ARC_SEASON112_PROSE_DRAFT*.md` |
+| Season 113 | 3 | `season-113.md` | `FINAL_ARC_SEASON113_PROSE_DRAFT*.md` |
+| Season 114 | 6 | `season-114.md` | `FINAL_ARC_SEASON114_PROSE_DRAFT*.md` |
+| **Total** | **871** | | |
 
 ## Checking your work
 
