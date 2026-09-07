@@ -449,7 +449,7 @@ Kai laughed.
 
 Sera looked at him.
 
-“No.”
+[[speaker:sera]]“No.”
 
 Then **The Orchid Blooms Only Once** began building.
 

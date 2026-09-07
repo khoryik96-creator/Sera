@@ -446,7 +446,7 @@ Jun stopped.
 
 Rui smiled.
 
-“No.”
+[[speaker:rui]]“No.”
 
 [[speaker:jun]]“I do not need you dead.”
 

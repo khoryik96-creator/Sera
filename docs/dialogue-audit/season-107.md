@@ -1,20 +1,9 @@
 # Season 107 — unattributed dialogue
 
-16 quoted lines in this season have no speaker.
+14 quoted lines in this season have no speaker.
 See `README.md` in this folder for what to do with them.
 
 Lines already resolved show their speaker in `[brackets]` for context.
-
-### Chapter 423 — Shen Rui Holds the Breach
-
-```
-Jun stopped.
-[jun] “Move.”
-Rui smiled.
->>> “No.”   <-- WHO SAYS THIS?
-[jun] “I do not need you dead.”
-[rui] “Comforting.”
-```
 
 ### Chapter 426 — You Do Not Have Three Thousand Anymore
 
@@ -52,17 +41,6 @@ One captain stared.
 >>> “Then—”   <-- WHO SAYS THIS?
 [mo] “If we feed people into that wave before the road opens, we lose both.”
 Mo’s voice stayed level.
-```
-
-### Chapter 428 — Two High Paragons Against the Orchid
-
-```
-Kai laughed.
-[kai] “Busy?”
-Sera looked at him.
->>> “No.”   <-- WHO SAYS THIS?
-Then **The Orchid Blooms Only Once** began building.
-Not activated yet.
 ```
 
 ### Chapter 429 — Sera Keeps the Corridor
