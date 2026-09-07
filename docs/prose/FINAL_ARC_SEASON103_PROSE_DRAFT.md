@@ -1115,4 +1115,3 @@ He picked up the new poison notes.
 Sera leaned forward.
 
 The room where Yun died became, after Day Zero, a place where something new could begin.
-

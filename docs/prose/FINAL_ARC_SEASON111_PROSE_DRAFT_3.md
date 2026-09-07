@@ -1437,4 +1437,3 @@ And the physician had chosen to keep Shunto alive for judgment anyway.
 Kael Veyran lay beneath an Isgard sky, completely capable of fighting again one day.
 
 He simply did not yet know whether he wanted to.
-

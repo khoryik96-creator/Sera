@@ -1393,4 +1393,3 @@ Nao looked back.
 Despite herself, she smiled.
 
 Then ordered the medics to be careful with his left shoulder.
-

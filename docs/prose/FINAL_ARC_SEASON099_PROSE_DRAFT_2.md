@@ -1039,4 +1039,3 @@ They separated before the guard returned.
 Outside, Shinsei’s roads remained orderly, mapped and controlled.
 
 Underneath them, older roads remembered people the government had stopped seeing.
-

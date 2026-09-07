@@ -1105,4 +1105,3 @@ More focused.
 Yun had taught him enough to survive her poison.
 
 Now he intended to learn enough to survive her completely.
-

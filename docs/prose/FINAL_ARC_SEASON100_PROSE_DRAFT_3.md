@@ -887,4 +887,3 @@ The defensive pact was active.
 Rhen was unavailable by one day of cruel coincidence.
 
 And Shinsei was coming north toward an enemy that now had time to prepare.
-

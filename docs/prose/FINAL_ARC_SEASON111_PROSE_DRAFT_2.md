@@ -1453,4 +1453,3 @@ Shunto's eyes narrowed.
 Luo's gaze became clinical.
 
 [[speaker:luo]]“That's exactly where I need you.”
-

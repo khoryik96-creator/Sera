@@ -903,4 +903,3 @@ Sera grinned.
 Good.
 
 He was still listening.
-

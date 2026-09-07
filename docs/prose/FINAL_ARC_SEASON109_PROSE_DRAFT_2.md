@@ -1475,4 +1475,3 @@ Night settled over Isgard.
 The Sanctuary remained.
 
 That night, thousands of wounded soldiers slept beneath a sky they did not have to watch.
-

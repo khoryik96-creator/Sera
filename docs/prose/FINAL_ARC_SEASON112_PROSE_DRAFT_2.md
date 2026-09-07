@@ -1113,4 +1113,3 @@ The duel had passed the testing stage.
 Both had found enough of the other's system to begin hurting it properly.
 
 And Sera had not yet seen Tsubasa's most dangerous counter.
-

@@ -1147,4 +1147,3 @@ The empty road did not answer.
 Shunto had returned without touching her once.
 
 And still taken another piece of the map away.
-

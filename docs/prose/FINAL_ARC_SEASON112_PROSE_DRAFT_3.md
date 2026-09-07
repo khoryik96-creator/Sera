@@ -1297,4 +1297,3 @@ He did not need to.
 The strongest conventional cultivator alive was still standing.
 
 And the Petals Monarch preparing to make sure he stood at his very best.
-

@@ -1643,4 +1643,3 @@ He wrote one sentence on a priority dispatch.
 The dispatch began moving south.
 
 It would reach Tsubasa Kurokawa soon enough.
-

@@ -1219,4 +1219,3 @@ Behind him, the full institution of Shinsei tightened around one northern theate
 The war did not become smaller.
 
 It became denser.
-

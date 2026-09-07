@@ -723,4 +723,3 @@ Yun stood.
 [[speaker:yun]]“One more layer,” she whispered.
 
 Then hated herself slightly for saying it aloud.
-

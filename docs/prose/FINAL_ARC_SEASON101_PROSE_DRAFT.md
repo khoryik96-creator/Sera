@@ -1483,4 +1483,3 @@ Yun Shizhen had crossed half the world carrying a warning for people who might n
 Yurushi had spent years helping people escape through hidden doors.
 
 For once, he intended to walk through one himself.
-

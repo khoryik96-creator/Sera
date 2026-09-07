@@ -1285,4 +1285,3 @@ Luo nodded.
 He returned to the hospital.
 
 The first patient he treated was Shinsei.
-

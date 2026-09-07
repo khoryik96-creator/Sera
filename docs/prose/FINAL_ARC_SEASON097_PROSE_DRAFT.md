@@ -741,4 +741,3 @@ Rhen closed his eyes.
 The frost did not return before morning.
 
 Rhen still did not sleep.
-

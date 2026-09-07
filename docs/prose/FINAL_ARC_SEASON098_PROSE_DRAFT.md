@@ -1209,4 +1209,3 @@ One was building proof strong enough to outlive a witness.
 The other was making Rhen promise not to wait until power became injury.
 
 Both were already closer to the same war than either of them understood.
-

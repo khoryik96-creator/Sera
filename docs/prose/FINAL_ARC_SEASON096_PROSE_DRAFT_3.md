@@ -787,4 +787,3 @@ Day twenty-six became day twenty-seven.
 No message came.
 
 By then, nobody at the Quaint Teahouse called the delay ordinary.
-

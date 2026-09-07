@@ -1219,4 +1219,3 @@ Sera laughed.
 Then the lamp went out.
 
 **END**
-

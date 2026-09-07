@@ -1403,4 +1403,3 @@ Yun looked toward the locked door.
 The prison was still a laboratory.
 
 Now it had introduced a new variable.
-

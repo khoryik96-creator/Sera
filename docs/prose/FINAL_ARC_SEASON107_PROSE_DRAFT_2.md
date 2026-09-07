@@ -986,4 +986,3 @@ Outside the tent, the first shift bell of the sixth month sounded.
 Nobody in the room celebrated the victories on the map.
 
 They were too busy deciding how to make the next one stay won.
-

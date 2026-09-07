@@ -1485,4 +1485,3 @@ He closed his eyes.
 And began counting how long old authority took to die.
 
 The count had not reached zero yet.
-

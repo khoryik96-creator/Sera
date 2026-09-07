@@ -1815,4 +1815,3 @@ Then the third.
 Shunto looked at him.
 
 And vanished forward.
-

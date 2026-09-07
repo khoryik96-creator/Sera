@@ -1303,4 +1303,3 @@ She lifted her tea.
 Yurushi looked down at the first ledger.
 
 He was still reading when dinner arrived.
-

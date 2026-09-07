@@ -1229,4 +1229,3 @@ Then placed fifty thousand 3× elites around him.
 Rhen walked toward all of it.
 
 Because now, finally, nobody could say the comparison had been unfair to Tsubasa.
-

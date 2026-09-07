@@ -1275,4 +1275,3 @@ The warning was moving again.
 So was the damage inside her.
 
 Beyond the next door, at last, there was no locked room waiting for her.
-
