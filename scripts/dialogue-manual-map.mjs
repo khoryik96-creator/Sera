@@ -1,16 +1,13 @@
-export const season = 108;
+export const season = 104;
 export const entries = [
-  {chapter:434, quote:"“Yes.”", speaker:"aldric", before:"That reduces readiness", after:"The word landed harder"},
-  {chapter:434, quote:"“Why?”", speaker:"aldric", before:"Keep them.", after:"Because when this is over"},
-
-  {chapter:436, quote:"“I know.”", speaker:"luo", before:"They told us recovery could take months", after:"How?"},
-
-  {chapter:437, quote:"“Yes.”", speaker:"jin", before:"Peak Paragon.", after:"Has not spent six months"},
-  {chapter:437, quote:"“Yes.”", speaker:"jin", before:"Has not spent six months being punched", after:"Kael looked offended"},
-  {chapter:437, quote:"“Yes.”", speaker:"sera", before:"Still good?", after:"Why?"},
-  {chapter:437, quote:"“Why?”", speaker:"kael", before:"Still good?", after:"Because legends become easier"},
-
-  {chapter:439, quote:"“Yes.”", speaker:"qin", before:"That is new", after:"Qin placed his fingertips"},
-  {chapter:439, quote:"“Good.”", speaker:"huo", before:"No, Lu said", after:"Nobody woke Rhen"},
-  {chapter:439, quote:"“Yes.”", speaker:"qin", before:"Different?", after:"Dangerous?"},
+  {chapter:392, quote:"“Good.”", speaker:"tae", before:"Then at Haru.", after:"Haru did not appreciate the tone."},
+  {chapter:393, quote:"“No.”", speaker:"huo", before:"Huo laughed.", after:"Then hit him."},
+  {chapter:394, quote:"“Yes.”", speaker:"haru", before:"Haru’s jaw tightened.", after:"Good."},
+  {chapter:394, quote:"“Good.”", speaker:"qin", after:"Hana looked at him."},
+  {chapter:394, quote:"“Yes.”", speaker:"tae", before:"Tae’s humor vanished.", after:"They now know."},
+  {chapter:395, quote:"“Safe.”", speaker:"qin", before:"Civilians?", after:"Patients?"},
+  {chapter:395, quote:"“Safe.”", speaker:"qin", before:"Patients?", after:"Quaint?"},
+  {chapter:395, quote:"“Eleven significant injuries. No deaths.”", speaker:"qin"},
+  {chapter:397, quote:"“Yes.”", speaker:"hana", before:"Hana breathed carefully.", after:"Yurushi heard."},
+  {chapter:399, quote:"“Yes.”", speaker:"hana", before:"Hana looked at him.", after:"Tae stared at Haru."},
 ];
