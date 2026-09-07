@@ -40,7 +40,7 @@ The colonel stood opposite her desk for several breaths.
 
 Aya did not look up.
 
-“That title is not necessary in a field hospital.”
+[[speaker:aya]]“That title is not necessary in a field hospital.”
 
 “The wording is.”
 
@@ -70,17 +70,17 @@ The colonel placed both hands on the desk.
 
 Aya finally looked at him.
 
-“No. ‘Severe long-term vitality consequences’ was misleading.”
+[[speaker:aya]]“No. ‘Severe long-term vitality consequences’ was misleading.”
 
 He stiffened.
 
 “That language came from medical command.”
 
-“From my office.”
+[[speaker:aya]]“From my office.”
 
 Aya did not look away.
 
-“That is why I am correcting it.”
+[[speaker:aya]]“That is why I am correcting it.”
 
 The colonel's jaw tightened.
 
@@ -92,17 +92,17 @@ The colonel's jaw tightened.
 
 Aya's expression became very still.
 
-“That is the purpose of informed consent.”
+[[speaker:aya]]“That is the purpose of informed consent.”
 
 “This is an army.”
 
-“They still possess bodies.”
+[[speaker:aya]]“They still possess bodies.”
 
 The colonel exhaled sharply.
 
 “Redline is issued for catastrophic battlefield necessity.”
 
-“Then catastrophic battlefield necessity can survive the truth.”
+[[speaker:aya]]“Then catastrophic battlefield necessity can survive the truth.”
 
 He stared at her.
 
@@ -130,11 +130,11 @@ The colonel watched the pen move.
 
 “Command will challenge this.”
 
-“Then command may come here.”
+[[speaker:aya]]“Then command may come here.”
 
 “They will.”
 
-“Good.”
+[[speaker:aya]]“Good.”
 
 He left.
 
@@ -150,7 +150,7 @@ The clerk blinked.
 
 Aya looked up.
 
-“It was necessary. Those are not the same thing.”
+[[speaker:aya]]“It was necessary. Those are not the same thing.”
 
 By afternoon the correction had spread through three hospitals.
 
@@ -192,25 +192,25 @@ Aya's gaze touched him and moved on.
 
 Tsubasa held one of her amended reports.
 
-“You changed the standard language.”
+[[speaker:tsubasa]]“You changed the standard language.”
 
-“Yes.”
+[[speaker:aya]]“Yes.”
 
-“Without approval.”
+[[speaker:tsubasa]]“Without approval.”
 
-“Yes.”
+[[speaker:aya]]“Yes.”
 
-“Why?”
+[[speaker:tsubasa]]“Why?”
 
-“Because it was dishonest.”
+[[speaker:aya]]“Because it was dishonest.”
 
 Shunto's mouth curved faintly.
 
-“Dishonest.”
+[[speaker:shunto]]“Dishonest.”
 
 Aya looked at him.
 
-“Do you need the word defined?”
+[[speaker:aya]]“Do you need the word defined?”
 
 Haru stopped tapping his boot.
 
@@ -220,29 +220,29 @@ Tsubasa did not react to the insult.
 
 He lifted the report.
 
-“Is five years medically defensible?”
+[[speaker:tsubasa]]“Is five years medically defensible?”
 
-“Yes.”
+[[speaker:aya]]“Yes.”
 
-“As an average?”
+[[speaker:tsubasa]]“As an average?”
 
-“For a healthy adult at standard 3× Redline exposure of roughly five minutes. Individual cost varies.”
+[[speaker:aya]]“For a healthy adult at standard 3× Redline exposure of roughly five minutes. Individual cost varies.”
 
-“Could it be less?”
+[[speaker:tsubasa]]“Could it be less?”
 
-“Yes.”
+[[speaker:aya]]“Yes.”
 
-“More?”
+[[speaker:tsubasa]]“More?”
 
-“Yes.”
+[[speaker:aya]]“Yes.”
 
-“Substantially more?”
+[[speaker:tsubasa]]“Substantially more?”
 
-“With prior damage, poor baseline vitality, redosing, age, or overdraw—yes.”
+[[speaker:aya]]“With prior damage, poor baseline vitality, redosing, age, or overdraw—yes.”
 
 Tsubasa nodded.
 
-“Then the number stays.”
+[[speaker:tsubasa]]“Then the number stays.”
 
 Shunto turned toward him.
 
@@ -250,15 +250,15 @@ Aya did too.
 
 Tsubasa set the report down.
 
-“An estimate is not made safer by hiding the magnitude.”
+[[speaker:tsubasa]]“An estimate is not made safer by hiding the magnitude.”
 
 Shunto's eyes narrowed.
 
-“It weakens discipline.”
+[[speaker:shunto]]“It weakens discipline.”
 
 Tsubasa looked at him.
 
-“Truth does not weaken discipline. It reveals whether discipline was built on consent or ignorance.”
+[[speaker:tsubasa]]“Truth does not weaken discipline. It reveals whether discipline was built on consent or ignorance.”
 
 The room changed.
 
@@ -278,19 +278,19 @@ Tsubasa continued.
 
 Aya saw the unchanged doctrine beneath the amended language. Her jaw tightened.
 
-“Tsubasa.”
+[[speaker:aya]]“Tsubasa.”
 
-“Say it.”
+[[speaker:tsubasa]]“Say it.”
 
-“You cannot acknowledge the real cost and continue pretending one sealed 3× dose per expeditionary soldier is ordinary emergency doctrine.”
+[[speaker:aya]]“You cannot acknowledge the real cost and continue pretending one sealed 3× dose per expeditionary soldier is ordinary emergency doctrine.”
 
-“I am not pretending it is ordinary.”
+[[speaker:tsubasa]]“I am not pretending it is ordinary.”
 
-“You issue it ordinarily.”
+[[speaker:aya]]“You issue it ordinarily.”
 
-“Because we are in a war where five minutes can decide whether a formation is annihilated.”
+[[speaker:tsubasa]]“Because we are in a war where five minutes can decide whether a formation is annihilated.”
 
-“Then tell them five minutes may cost five years before you hand them the vial.”
+[[speaker:aya]]“Then tell them five minutes may cost five years before you hand them the vial.”
 
 Tsubasa held her gaze.
 
@@ -300,7 +300,7 @@ Aya paused.
 
 He continued.
 
-“Effective immediately, all new issue requires the lifespan estimate to be included in briefing. Existing deployed units receive amended notice through medical officers.”
+[[speaker:tsubasa]]“Effective immediately, all new issue requires the lifespan estimate to be included in briefing. Existing deployed units receive amended notice through medical officers.”
 
 Shunto's expression hardened further.
 
@@ -308,15 +308,15 @@ Haru looked at Aya.
 
 She looked back at Tsubasa.
 
-“And same-day redosing?”
+[[speaker:aya]]“And same-day redosing?”
 
-“Prohibited without direct field-commander and physician authorization.”
+[[speaker:tsubasa]]“Prohibited without direct field-commander and physician authorization.”
 
-“Second-dose cost?”
+[[speaker:aya]]“Second-dose cost?”
 
-“Included.”
+[[speaker:tsubasa]]“Included.”
 
-“Third?”
+[[speaker:aya]]“Third?”
 
 A silence.
 
@@ -324,13 +324,13 @@ Haru's face changed.
 
 Tsubasa did not look at him.
 
-“Classified as gross medical emergency and command violation outside imminent collapse.”
+[[speaker:tsubasa]]“Classified as gross medical emergency and command violation outside imminent collapse.”
 
 Aya folded her arms.
 
-“That should have been true before.”
+[[speaker:aya]]“That should have been true before.”
 
-“Yes.”
+[[speaker:tsubasa]]“Yes.”
 
 No excuse.
 
@@ -344,17 +344,17 @@ The movement was abrupt enough that everyone looked at him.
 
 He stared at the report on the table.
 
-“Put thirty-five years on mine.”
+[[speaker:haru]]“Put thirty-five years on mine.”
 
 Aya's chest tightened.
 
-“Haru.”
+[[speaker:aya]]“Haru.”
 
-“Put it there.”
+[[speaker:haru]]“Put it there.”
 
-“Your actual cost cannot be measured exactly yet.”
+[[speaker:aya]]“Your actual cost cannot be measured exactly yet.”
 
-“Then write the estimate.”
+[[speaker:haru]]“Then write the estimate.”
 
 Tsubasa watched him.
 
@@ -366,19 +366,19 @@ The numbers everyone already knew.
 
 He touched one finger to the report.
 
-“If the file says I used three, then the file should say what three means.”
+[[speaker:haru]]“If the file says I used three, then the file should say what three means.”
 
 Aya looked at him for a long time.
 
 Then nodded.
 
-“I will.”
+[[speaker:aya]]“I will.”
 
 Haru left.
 
 Shunto watched the tent flap fall shut.
 
-“Wonderful,” he said softly. “We are turning medical records into confession.”
+[[speaker:shunto]]“Wonderful,” he said softly. “We are turning medical records into confession.”
 
 Aya turned on him.
 
@@ -386,7 +386,7 @@ Aya turned on him.
 
 Her voice was quieter now.
 
-“Into records.”
+[[speaker:aya]]“Into records.”
 
 Tsubasa's gaze moved between them.
 
@@ -434,7 +434,7 @@ He looked at the sealed vial tied inside his emergency pouch.
 
 Aya did not lie.
 
-“Some did.”
+[[speaker:aya]]“Some did.”
 
 The soldier looked at her.
 
@@ -472,23 +472,23 @@ He reached for tea.
 
 Yurushi looked at the cup.
 
-“This is serious.”
+[[speaker:black_radiance]]“This is serious.”
 
-“Yes.”
+[[speaker:luweiran]]“Yes.”
 
-“And you're making tea.”
+[[speaker:black_radiance]]“And you're making tea.”
 
-“Yes.”
+[[speaker:luweiran]]“Yes.”
 
-“Rhen has infected you.”
+[[speaker:black_radiance]]“Rhen has infected you.”
 
 Lu's face remained calm.
 
-“No. Rhen makes bad tea when distracted.”
+[[speaker:luweiran]]“No. Rhen makes bad tea when distracted.”
 
-“That sounded personal.”
+[[speaker:black_radiance]]“That sounded personal.”
 
-“It is logistical.”
+[[speaker:luweiran]]“It is logistical.”
 
 Yurushi sat.
 
@@ -510,7 +510,7 @@ He poured.
 
 Yurushi's humor disappeared.
 
-“The final detention site.”
+[[speaker:black_radiance]]“The final detention site.”
 
 Lu nodded.
 
@@ -540,47 +540,47 @@ Lu waited.
 
 Yurushi stared at the tea.
 
-“When I reached her,” he said, “her injuries did not match interrogation alone.”
+[[speaker:black_radiance]]“When I reached her,” he said, “her injuries did not match interrogation alone.”
 
 Lu said nothing.
 
-“I asked her whether Shunto had done it.”
+[[speaker:black_radiance]]“I asked her whether Shunto had done it.”
 
 His jaw tightened.
 
-“She did not answer directly.”
+[[speaker:black_radiance]]“She did not answer directly.”
 
 Lu's eyes lowered.
 
-“She did not need to.”
+[[speaker:luweiran]]“She did not need to.”
 
-“No.”
+[[speaker:black_radiance]]“No.”
 
 The room became very still.
 
 Yurushi's hands stayed flat on the table.
 
-“She wanted the military evidence moved first. Ships. Troop estimates. Redline storage. Paragon sightings. Everything.”
+[[speaker:black_radiance]]“She wanted the military evidence moved first. Ships. Troop estimates. Redline storage. Paragon sightings. Everything.”
 
-“Of course she did.”
+[[speaker:luweiran]]“Of course she did.”
 
-“She was dying and still correcting my route priorities.”
+[[speaker:black_radiance]]“She was dying and still correcting my route priorities.”
 
 A faint, broken smile touched Yurushi's mouth.
 
-“She told me I was wasting time on the wrong crate.”
+[[speaker:black_radiance]]“She told me I was wasting time on the wrong crate.”
 
 Lu looked down.
 
-“That sounds like her.”
+[[speaker:luweiran]]“That sounds like her.”
 
-“You knew her well?”
+[[speaker:black_radiance]]“You knew her well?”
 
-“No.”
+[[speaker:luweiran]]“No.”
 
 Lu's answer was quiet.
 
-“But I knew people who did.”
+[[speaker:luweiran]]“But I knew people who did.”
 
 Yurushi nodded.
 
@@ -590,45 +590,45 @@ They did not need to.
 
 Lu finally slid a blank sheet across the table.
 
-“Now we write.”
+[[speaker:luweiran]]“Now we write.”
 
 Yurushi frowned.
 
-“You said you don't trust messages.”
+[[speaker:black_radiance]]“You said you don't trust messages.”
 
-“I don't.”
+[[speaker:luweiran]]“I don't.”
 
-“Then?”
+[[speaker:black_radiance]]“Then?”
 
-“We are not writing one message.”
+[[speaker:luweiran]]“We are not writing one message.”
 
 Lu divided the page into four sections.
 
-“Military facts go in one packet. Your direct observations in another. Medical inference in a third. Names and route compromise in a fourth.”
+[[speaker:luweiran]]“Military facts go in one packet. Your direct observations in another. Medical inference in a third. Names and route compromise in a fourth.”
 
-“Why split them?”
+[[speaker:black_radiance]]“Why split them?”
 
-“So stealing one does not reveal all of them.”
+[[speaker:luweiran]]“So stealing one does not reveal all of them.”
 
 He took out four different seals.
 
-“Two packets move north through ordinary Quaint medical supply traffic. One goes by a Wuyue military courier who does not know the other two exist. The final packet stays with a person.”
+[[speaker:luweiran]]“Two packets move north through ordinary Quaint medical supply traffic. One goes by a Wuyue military courier who does not know the other two exist. The final packet stays with a person.”
 
 Yurushi looked at him.
 
-“What person?”
+[[speaker:black_radiance]]“What person?”
 
 Lu sipped tea.
 
-“You don't need to know.”
+[[speaker:luweiran]]“You don't need to know.”
 
 Yurushi stared.
 
 Lu added, “Neither does the person until the final exchange point.”
 
-“You are unsettling.”
+[[speaker:black_radiance]]“You are unsettling.”
 
-“Yes.”
+[[speaker:luweiran]]“Yes.”
 
 They worked for three hours.
 
@@ -640,15 +640,15 @@ He refused to let inference become fact merely because the inference was likely 
 
 When they reached the assault, Lu stopped writing for the first time.
 
-“Do you know?”
+[[speaker:luweiran]]“Do you know?”
 
 Yurushi's eyes hardened.
 
 “Yes.”
 
-“Or infer?”
+[[speaker:luweiran]]“Or infer?”
 
-“Know enough.”
+[[speaker:black_radiance]]“Know enough.”
 
 Lu held his gaze.
 
@@ -666,13 +666,13 @@ He sanded the ink.
 
 Yurushi looked at the words.
 
-“They look too small.”
+[[speaker:black_radiance]]“They look too small.”
 
-“They are supposed to.”
+[[speaker:luweiran]]“They are supposed to.”
 
 “Why?”
 
-“Because the truth does not become more true if I decorate it.”
+[[speaker:luweiran]]“Because the truth does not become more true if I decorate it.”
 
 Yurushi closed his eyes.
 
@@ -718,23 +718,23 @@ Sera's hand stopped.
 
 Jin noticed.
 
-“What?”
+[[speaker:jin]]“What?”
 
-“Private.”
+[[speaker:sera]]“Private.”
 
 He closed his notebook immediately.
 
-“I'll leave.”
+[[speaker:jin]]“I'll leave.”
 
 Sera looked at him.
 
-“You don't know what it is.”
+[[speaker:sera]]“You don't know what it is.”
 
-“No.”
+[[speaker:jin]]“No.”
 
-“Then why—”
+[[speaker:sera]]“Then why—”
 
-“Because Lu does not send lacquer tubes for grain counts.”
+[[speaker:jin]]“Because Lu does not send lacquer tubes for grain counts.”
 
 He left.
 
@@ -778,7 +778,7 @@ Rhen entered without knocking because he had spent too many years pretending doo
 
 He stopped when he saw her face.
 
-“Sera.”
+[[speaker:rhen]]“Sera.”
 
 She folded the paper.
 
@@ -792,25 +792,25 @@ Not much.
 
 Enough.
 
-“Everything?”
+[[speaker:rhen]]“Everything?”
 
-“Yes.”
+[[speaker:sera]]“Yes.”
 
 A long silence.
 
 Sera looked at him.
 
-“She got out anyway.”
+[[speaker:sera]]“She got out anyway.”
 
 Rhen nodded.
 
-“She carried the evidence anyway.”
+[[speaker:rhen]]“She carried the evidence anyway.”
 
-“Yes.”
+[[speaker:sera]]“Yes.”
 
-“She reached Isgard anyway.”
+[[speaker:rhen]]“She reached Isgard anyway.”
 
-“Yes.”
+[[speaker:sera]]“Yes.”
 
 Sera's jaw trembled once.
 
@@ -826,31 +826,31 @@ For several breaths she said nothing.
 
 Then:
 
-“I need to tell Luo.”
+[[speaker:sera]]“I need to tell Luo.”
 
 Rhen's hand tightened slightly at her shoulder.
 
 “Yes.”
 
-“I hate that I have to.”
+[[speaker:sera]]“I hate that I have to.”
 
-“Yes.”
+[[speaker:rhen]]“Yes.”
 
-“I hate that he deserves to know.”
+[[speaker:sera]]“I hate that he deserves to know.”
 
-“Yes.”
+[[speaker:rhen]]“Yes.”
 
 Sera closed her eyes.
 
-“Don't say yes to everything.”
+[[speaker:sera]]“Don't say yes to everything.”
 
 Rhen looked down at her.
 
-“I can say no if you want.”
+[[speaker:rhen]]“I can say no if you want.”
 
 She gave a small, broken laugh despite herself.
 
-“Idiot.”
+[[speaker:sera]]“Idiot.”
 
 “Yes.”
 
@@ -882,17 +882,17 @@ No Top Ten.
 
 He put the charts down.
 
-“Who died?”
+[[speaker:luo]]“Who died?”
 
 Sera looked at him.
 
 The question hurt more because of how normal it sounded.
 
-“No one today.”
+[[speaker:sera]]“No one today.”
 
 Luo's shoulders lowered by a fraction.
 
-“Then what?”
+[[speaker:luo]]“Then what?”
 
 Sera gestured to the chair.
 
@@ -900,25 +900,25 @@ He did not sit.
 
 Neither did she.
 
-“Lu got the complete account from Yurushi.”
+[[speaker:sera]]“Lu got the complete account from Yurushi.”
 
 Luo went still.
 
-“The escape.”
+[[speaker:luo]]“The escape.”
 
-“Yes.”
+[[speaker:sera]]“Yes.”
 
-“The detention site?”
+[[speaker:luo]]“The detention site?”
 
-“Yes.”
+[[speaker:sera]]“Yes.”
 
-“Shunto?”
+[[speaker:luo]]“Shunto?”
 
 Sera's silence answered too quickly.
 
 Luo's eyes sharpened.
 
-“What did he do?”
+[[speaker:luo]]“What did he do?”
 
 Sera looked at the floor once.
 
@@ -926,7 +926,7 @@ Then back at him.
 
 She did not soften the truth into something easier to hear.
 
-“While Yun was held in Shinsei custody, Shunto sexually assaulted her.”
+[[speaker:sera]]“While Yun was held in Shinsei custody, Shunto sexually assaulted her.”
 
 Nothing happened.
 
@@ -952,9 +952,9 @@ Just touching wood.
 
 Sera watched him.
 
-“Luo.”
+[[speaker:sera]]“Luo.”
 
-“Where is Shunto Takamori?”
+[[speaker:luo]]“Where is Shunto Takamori?”
 
 His voice was completely calm.
 
@@ -962,15 +962,15 @@ Sera had expected anger.
 
 This was worse.
 
-“Tsubasa has consolidated the official Ten in Isgard.”
+[[speaker:sera]]“Tsubasa has consolidated the official Ten in Isgard.”
 
-“Where?”
+[[speaker:luo]]“Where?”
 
-“We do not have exact current camp position yet.”
+[[speaker:sera]]“We do not have exact current camp position yet.”
 
-“Who does?”
+[[speaker:luo]]“Who does?”
 
-“Jin has likely sectors. Lu is working routes. Yurushi's old intelligence helps.”
+[[speaker:sera]]“Jin has likely sectors. Lu is working routes. Yurushi's old intelligence helps.”
 
 Luo nodded once.
 
@@ -978,23 +978,23 @@ Luo nodded once.
 
 Sera stepped closer.
 
-“Do not disappear.”
+[[speaker:sera]]“Do not disappear.”
 
 Luo looked at her.
 
-“I am not Rhen.”
+[[speaker:luo]]“I am not Rhen.”
 
-“That is not reassuring.”
+[[speaker:sera]]“That is not reassuring.”
 
-“I am a Sovereign.”
+[[speaker:luo]]“I am a Sovereign.”
 
-“That is exactly why it isn't reassuring. Shunto is a High Paragon.”
+[[speaker:sera]]“That is exactly why it isn't reassuring. Shunto is a High Paragon.”
 
 Luo's eyes did not change.
 
 “I know.”
 
-“Then say what you are thinking.”
+[[speaker:sera]]“Then say what you are thinking.”
 
 Silence.
 
@@ -1002,17 +1002,17 @@ Sera waited.
 
 Finally Luo looked toward the patient charts.
 
-“I am thinking Yun would be angry if I died stupidly.”
+[[speaker:luo]]“I am thinking Yun would be angry if I died stupidly.”
 
 Sera's chest loosened by one breath.
 
 “Yes.”
 
-“She would call it inefficient.”
+[[speaker:luo]]“She would call it inefficient.”
 
 “Yes.”
 
-“She would probably correct my poison ratios at the funeral.”
+[[speaker:luo]]“She would probably correct my poison ratios at the funeral.”
 
 Sera almost smiled.
 
@@ -1024,19 +1024,19 @@ The calm finally cracked—not outward, but inward.
 
 His face tightened around something he refused to let become sound.
 
-“She didn't tell me.”
+[[speaker:luo]]“She didn't tell me.”
 
 Sera's throat closed.
 
-“She was dying.”
+[[speaker:sera]]“She was dying.”
+
+[[speaker:luo]]“I know.”
+
+[[speaker:sera]]“She prioritized the invasion evidence.”
 
 “I know.”
 
-“She prioritized the invasion evidence.”
-
-“I know.”
-
-“She may not have wanted her last minutes to become—”
+[[speaker:sera]]“She may not have wanted her last minutes to become—”
 
 “I know.”
 
@@ -1050,25 +1050,25 @@ Not yet.
 
 He stared at the wall.
 
-“She knew I would ask.”
+[[speaker:luo]]“She knew I would ask.”
 
 Sera said nothing.
 
-“She knew I would know something was missing.”
+[[speaker:luo]]“She knew I would know something was missing.”
 
 His shoulders moved once.
 
-“She still spent the time on troop counts.”
+[[speaker:luo]]“She still spent the time on troop counts.”
 
-“That was Yun.”
+[[speaker:sera]]“That was Yun.”
 
-“Yes.”
+[[speaker:luo]]“Yes.”
 
 Luo laughed once.
 
 It was not humor.
 
-“She corrected my silverroot notation before leaving.”
+[[speaker:luo]]“She corrected my silverroot notation before leaving.”
 
 Sera remembered the tiny note in the notebook.
 
@@ -1078,43 +1078,43 @@ Ordinary nonsense beside a war.
 
 Luo closed his eyes.
 
-“Did Yurushi save her?”
+[[speaker:luo]]“Did Yurushi save her?”
 
-“He helped her escape.”
+[[speaker:sera]]“He helped her escape.”
 
-“That wasn't the question.”
+[[speaker:luo]]“That wasn't the question.”
 
 Sera looked at him.
 
 Luo opened his eyes.
 
-“Did he save her from him?”
+[[speaker:luo]]“Did he save her from him?”
 
-“He got her out after.”
+[[speaker:sera]]“He got her out after.”
 
 Luo nodded.
 
-“He did what he could.”
+[[speaker:luo]]“He did what he could.”
 
-“Yes.”
+[[speaker:sera]]“Yes.”
 
-“Then I owe him.”
+[[speaker:luo]]“Then I owe him.”
 
-“You do not owe him revenge.”
+[[speaker:sera]]“You do not owe him revenge.”
 
-“I did not say revenge.”
+[[speaker:luo]]“I did not say revenge.”
 
-“No.”
+[[speaker:sera]]“No.”
 
 Sera studied him.
 
-“That worries me more.”
+[[speaker:sera]]“That worries me more.”
 
 Luo finally looked directly at her.
 
-“What do you want me to do?”
+[[speaker:luo]]“What do you want me to do?”
 
-“Keep being a doctor.”
+[[speaker:sera]]“Keep being a doctor.”
 
 His face went blank.
 
@@ -1124,11 +1124,11 @@ Sera continued.
 
 “Good.”
 
-“I am not asking you to forget.”
+[[speaker:sera]]“I am not asking you to forget.”
 
 “Good.”
 
-“I am asking you not to let him choose what you become next.”
+[[speaker:sera]]“I am asking you not to let him choose what you become next.”
 
 Luo looked away.
 
@@ -1140,15 +1140,15 @@ Sera's eyebrows rose.
 
 “No.”
 
-“He would.”
+[[speaker:luo]]“He would.”
 
-“He'd say it worse.”
+[[speaker:sera]]“He'd say it worse.”
 
 That earned the faintest movement at the corner of Luo's mouth.
 
 Sera stepped closer.
 
-“When the time comes, you will not face him alone.”
+[[speaker:sera]]“When the time comes, you will not face him alone.”
 
 Luo's gaze sharpened.
 
@@ -1156,19 +1156,19 @@ Luo's gaze sharpened.
 
 “No.”
 
-“You don't even know what I was going to say.”
+[[speaker:luo]]“You don't even know what I was going to say.”
 
-“Yes, I do. You were going to tell me this is personal.”
+[[speaker:sera]]“Yes, I do. You were going to tell me this is personal.”
 
-“It is.”
+[[speaker:luo]]“It is.”
 
-“So was Yun.”
+[[speaker:sera]]“So was Yun.”
 
 He stopped.
 
 Sera held his gaze.
 
-“And she belonged to more people than your grief.”
+[[speaker:sera]]“And she belonged to more people than your grief.”
 
 Luo's face changed.
 
@@ -1204,17 +1204,17 @@ Two handwriting styles arguing across paper.
 
 Luo traced one line with his thumb.
 
-“She hated this version.”
+[[speaker:luo]]“She hated this version.”
 
 “Why?”
 
-“She said I was thinking like a doctor.”
+[[speaker:luo]]“She said I was thinking like a doctor.”
 
 Sera blinked.
 
-“You are a doctor.”
+[[speaker:sera]]“You are a doctor.”
 
-“Yes. She found that disappointing whenever poison was involved.”
+[[speaker:luo]]“Yes. She found that disappointing whenever poison was involved.”
 
 Sera laughed softly.
 
@@ -1230,15 +1230,15 @@ Sera did not mistake the repetition for obsession.
 
 This time it was a practical question.
 
-“We'll find out.”
+[[speaker:sera]]“We'll find out.”
 
 Luo nodded.
 
-“And until then?”
+[[speaker:luo]]“And until then?”
 
 Sera glanced at the patient charts.
 
-“You have three people waiting for you.”
+[[speaker:sera]]“You have three people waiting for you.”
 
 Luo looked down.
 
@@ -1252,17 +1252,17 @@ Luo picked them up.
 
 His hands were steady.
 
-“Fine.”
+[[speaker:luo]]“Fine.”
 
 He stood.
 
 At the door he stopped.
 
-“Sera.”
+[[speaker:luo]]“Sera.”
 
-“Yes?”
+[[speaker:sera]]“Yes?”
 
-“Thank you for telling me yourself.”
+[[speaker:luo]]“Thank you for telling me yourself.”
 
 She nodded.
 
@@ -1270,13 +1270,13 @@ Luo opened the door.
 
 Then paused one last time.
 
-“When we find him, do not let Rhen erase the problem in one punch.”
+[[speaker:luo]]“When we find him, do not let Rhen erase the problem in one punch.”
 
 Sera looked at him.
 
 Despite everything, something almost wicked entered her eyes.
 
-“I wasn't planning to.”
+[[speaker:sera]]“I wasn't planning to.”
 
 Luo nodded.
 
