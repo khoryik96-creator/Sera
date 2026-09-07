@@ -8,13 +8,13 @@
 
 ## Chapter 441 — How Long?
 
-“Six months.”
+[[speaker:luweiran]]“Six months.”
 
 Lu Weiran stopped there.
 
 The silence inside the stone chamber did not change, but something in his face did. He had spent half a year learning how to carry bad numbers without letting them show until the work was finished. This one still resisted him.
 
-“Six months,” he repeated, quieter. “And twelve days.”
+[[speaker:luweiran]]“Six months,” he repeated, quieter. “And twelve days.”
 
 Rhen sat where Sera had left him.
 
@@ -58,19 +58,19 @@ That was one of the reasons he was Lu.
 
 Rhen lifted his eyes.
 
-“Where is Sera?”
+[[speaker:rhen]]“Where is Sera?”
 
-“Isgard.”
+[[speaker:luweiran]]“Isgard.”
 
 The answer came too quickly.
 
 Rhen's expression did not change.
 
-“How long?”
+[[speaker:rhen]]“How long?”
 
-“Most of the six months.”
+[[speaker:luweiran]]“Most of the six months.”
 
-“What happened?”
+[[speaker:rhen]]“What happened?”
 
 Lu breathed in through his nose.
 
@@ -84,7 +84,7 @@ Lu had expected that too.
 
 Rhen's gaze sharpened by a degree so small that another person might have missed it.
 
-“That was not what I asked.”
+[[speaker:rhen]]“That was not what I asked.”
 
 “I know.”
 
@@ -92,7 +92,7 @@ Lu crouched beside the ledgers and took the top one.
 
 He did not open it.
 
-“Before I tell you the war, you need to know why it began.”
+[[speaker:luweiran]]“Before I tell you the war, you need to know why it began.”
 
 Rhen waited.
 
@@ -102,7 +102,7 @@ Six months of waiting had ended, and suddenly nobody knew how loudly they were a
 
 Lu looked at Rhen.
 
-“Yun Shizhen made it back from Shinrin.”
+[[speaker:luweiran]]“Yun Shizhen made it back from Shinrin.”
 
 For the first time, Rhen moved before Lu finished.
 
@@ -124,11 +124,11 @@ Lu continued.
 
 Rhen's eyes stayed on him.
 
-“And?”
+[[speaker:rhen]]“And?”
 
 Lu's grip tightened around the ledger.
 
-“She died there.”
+[[speaker:luweiran]]“She died there.”
 
 The chamber became colder.
 
@@ -156,15 +156,15 @@ Because that was the first thing Rhen chose to say after learning a friend had d
 
 Rhen looked toward the sealed door.
 
-“When?”
+[[speaker:rhen]]“When?”
 
-“The day after you entered.”
+[[speaker:luweiran]]“The day after you entered.”
 
 That one landed harder.
 
 Lu saw it because Rhen's face became completely still.
 
-“One day.”
+[[speaker:rhen]]“One day.”
 
 “Yes.”
 
@@ -182,7 +182,7 @@ Then he asked, “What is Axtaya?”
 
 Lu finally opened the ledger.
 
-“Something Shinrin should never have turned into a weapon.”
+[[speaker:luweiran]]“Something Shinrin should never have turned into a weapon.”
 
 He gave Rhen the simplest version first.
 
@@ -196,23 +196,23 @@ Rhen listened without interrupting.
 
 Rhen's gaze dropped to the ledger.
 
-“Can Aya heal the damage?”
+[[speaker:rhen]]“Can Aya heal the damage?”
 
-“The physical damage, yes. She's a Paragon physician.”
+[[speaker:luweiran]]“The physical damage, yes. She's a Paragon physician.”
 
-“The lifespan?”
+[[speaker:rhen]]“The lifespan?”
 
 “No.”
 
 Rhen was quiet for several breaths.
 
-“Neither can I.”
+[[speaker:rhen]]“Neither can I.”
 
 Lu looked at him.
 
 Rhen's tone was matter-of-fact.
 
-“Not with ordinary healing.”
+[[speaker:rhen]]“Not with ordinary healing.”
 
 He did not elaborate.
 
@@ -252,27 +252,27 @@ Rhen put it on.
 
 His fingers paused against the repaired lining.
 
-“Did she do this?”
+[[speaker:rhen]]“Did she do this?”
 
 Lu considered lying.
 
 It would have been kinder.
 
-“She did it the night before you went in.”
+[[speaker:luweiran]]“She did it the night before you went in.”
 
 Rhen's thumb rested against the stitch once.
 
 Then he let the coat fall closed.
 
-“Tell me everything.”
+[[speaker:rhen]]“Tell me everything.”
 
 Lu looked toward the chamber door.
 
-“Everything will take a while.”
+[[speaker:luweiran]]“Everything will take a while.”
 
 Rhen stepped past him.
 
-“I have six months to catch up on.”
+[[speaker:rhen]]“I have six months to catch up on.”
 
 The stone seal opened.
 
@@ -288,7 +288,7 @@ Neither managed to speak.
 
 Rhen looked at them.
 
-“You should sit down.”
+[[speaker:rhen]]“You should sit down.”
 
 They sat.
 
@@ -328,13 +328,13 @@ All three vanished.
 
 Lu kept walking.
 
-“They were carrying soup.”
+[[speaker:luweiran]]“They were carrying soup.”
 
-“They dropped it.”
+[[speaker:rhen]]“They dropped it.”
 
-“They were surprised.”
+[[speaker:luweiran]]“They were surprised.”
 
-“It was good soup.”
+[[speaker:rhen]]“It was good soup.”
 
 Lu looked at him.
 
@@ -364,31 +364,31 @@ Lu shut the door.
 
 Rhen stood at the table.
 
-“Day Zero?”
+[[speaker:rhen]]“Day Zero?”
 
-“Jin's naming. Easier for planning.”
+[[speaker:luweiran]]“Jin's naming. Easier for planning.”
 
 Rhen's eyes moved over the board.
 
-“Of course it is.”
+[[speaker:rhen]]“Of course it is.”
 
 Lu pointed to Isgard's coast.
 
-“Her warning reached Wuyue immediately. The defensive pact activated. You had entered seclusion the previous day, and Sera reached your chamber before the first full war council.”
+[[speaker:luweiran]]“Her warning reached Wuyue immediately. The defensive pact activated. You had entered seclusion the previous day, and Sera reached your chamber before the first full war council.”
 
 Rhen's gaze stayed on the coast.
 
-“She didn't wake me.”
+[[speaker:rhen]]“She didn't wake me.”
 
-“No.”
+[[speaker:luweiran]]“No.”
 
-“Good.”
+[[speaker:rhen]]“Good.”
 
 Lu looked at him.
 
 Rhen finally looked back.
 
-“I told her what would happen if she did.”
+[[speaker:rhen]]“I told her what would happen if she did.”
 
 The answer was calm.
 
@@ -404,21 +404,21 @@ He did not insult it by wishing she had chosen differently.
 
 Lu moved to the next marker.
 
-“Shinsei attacked in roughly two weeks. Yun had placed them late in a four-month readiness cycle; the remaining launch window was already measured in weeks. Once her warning got out, Tsubasa cut even that down.”
+[[speaker:luweiran]]“Shinsei attacked in roughly two weeks. Yun had placed them late in a four-month readiness cycle; the remaining launch window was already measured in weeks. Once her warning got out, Tsubasa cut even that down.”
 
-“Tsubasa.”
+[[speaker:rhen]]“Tsubasa.”
 
-“Shinsei Number One. Peak Paragon.”
+[[speaker:luweiran]]“Shinsei Number One. Peak Paragon.”
 
 Rhen's eyes moved to the name.
 
-“Strong?”
+[[speaker:rhen]]“Strong?”
 
-“Yes.”
+[[speaker:luweiran]]“Yes.”
 
-“How strong?”
+[[speaker:rhen]]“How strong?”
 
-“Enough that nobody who has met him speaks casually about it.”
+[[speaker:luweiran]]“Enough that nobody who has met him speaks casually about it.”
 
 Rhen nodded once.
 
@@ -430,13 +430,13 @@ Lu continued.
 
 He tapped five markers.
 
-“Eirik Voss. Aya Katsuragi. Kenji Narukami. Jun Kajihara. Nao Shibasaki.”
+[[speaker:luweiran]]“Eirik Voss. Aya Katsuragi. Kenji Narukami. Jun Kajihara. Nao Shibasaki.”
 
 Rhen's gaze stopped on the first.
 
-“Voss.”
+[[speaker:rhen]]“Voss.”
 
-“Former ruler of Isgard.”
+[[speaker:luweiran]]“Former ruler of Isgard.”
 
 That made Rhen look up.
 
@@ -448,43 +448,43 @@ Then the casualties.
 
 Lu did not soften those either.
 
-“Halvek Veyrhald died holding an evacuation road.”
+[[speaker:luweiran]]“Halvek Veyrhald died holding an evacuation road.”
 
 A marker came off the board.
 
-“Raska Dravaryn died covering a retreat.”
+[[speaker:luweiran]]“Raska Dravaryn died covering a retreat.”
 
 Another.
 
-“Tor Veyrhald survived, but his meridians are destroyed badly enough that his frontline career is over.”
+[[speaker:luweiran]]“Tor Veyrhald survived, but his meridians are destroyed badly enough that his frontline career is over.”
 
 Another marker moved back from the line.
 
-“Eldran Dravaryn survived. Crippled. He took a killing sequence meant for Maedra.”
+[[speaker:luweiran]]“Eldran Dravaryn survived. Crippled. He took a killing sequence meant for Maedra.”
 
 Rhen's hand rested lightly on the table edge.
 
-“Aldric?”
+[[speaker:rhen]]“Aldric?”
 
-“Critically injured.”
+[[speaker:luweiran]]“Critically injured.”
 
-“Maedra?”
+[[speaker:rhen]]“Maedra?”
 
-“Same.”
+[[speaker:luweiran]]“Same.”
 
-“Sigrun?”
+[[speaker:rhen]]“Sigrun?”
 
-“Nearly died holding an evacuation corridor after becoming Paragon.”
+[[speaker:luweiran]]“Nearly died holding an evacuation corridor after becoming Paragon.”
 
 Rhen looked at Lu.
 
-“She reached Paragon?”
+[[speaker:rhen]]“She reached Paragon?”
 
-“Recently. Graven Dominion.”
+[[speaker:luweiran]]“Recently. Graven Dominion.”
 
 A faint smile touched Rhen's mouth.
 
-“Good for her.”
+[[speaker:rhen]]“Good for her.”
 
 Lu almost told him that Sigrun had then used that new Dominion to keep moving while her body accumulated damage it should not have survived.
 
@@ -496,11 +496,11 @@ The smile disappeared.
 
 “Who ran Isgard?” Rhen asked.
 
-“Someone had to.”
+[[speaker:luweiran]]“Someone had to.”
 
 Lu moved a grey marker into the center.
 
-“Solveig Skeldran. High Sovereign. Acting War Commander. Varok took mobile field command. Brynja held the coast. Astrid kept hidden roads and recon alive.”
+[[speaker:luweiran]]“Solveig Skeldran. High Sovereign. Acting War Commander. Varok took mobile field command. Brynja held the coast. Astrid kept hidden roads and recon alive.”
 
 Rhen nodded.
 
@@ -512,43 +512,43 @@ That changed now.
 
 Lu's eyes flicked up.
 
-“I already did.”
+[[speaker:luweiran]]“I already did.”
 
 Rhen glanced at him.
 
-“Right.”
+[[speaker:rhen]]“Right.”
 
 There were days when Lu suspected his entire purpose in life was making sure powerful people remembered that logistics existed before they urgently needed it.
 
 He moved the Wuyue markers north.
 
-“Wuyue arrived after roughly six weeks.”
+[[speaker:luweiran]]“Wuyue arrived after roughly six weeks.”
 
-“All ten?”
+[[speaker:rhen]]“All ten?”
 
-“All ten public Top Ten.”
+[[speaker:luweiran]]“All ten public Top Ten.”
 
-“Sera?”
+[[speaker:rhen]]“Sera?”
 
-“Yes.”
+[[speaker:luweiran]]“Yes.”
 
-“How many?”
+[[speaker:rhen]]“How many?”
 
-“About sixty-four thousand public troops, plus Sera's one hundred twenty Quaint Hands.”
+[[speaker:luweiran]]“About sixty-four thousand public troops, plus Sera's one hundred twenty Quaint Hands.”
 
 Rhen's eyes narrowed slightly.
 
-“Only one hundred twenty?”
+[[speaker:rhen]]“Only one hundred twenty?”
 
-“She left the rest home.”
+[[speaker:luweiran]]“She left the rest home.”
 
-“Smart.”
+[[speaker:rhen]]“Smart.”
 
-“She also left Tae, Huo and Qin.”
+[[speaker:luweiran]]“She also left Tae, Huo and Qin.”
 
 Rhen looked toward the door.
 
-“Smarter.”
+[[speaker:rhen]]“Smarter.”
 
 Lu waited.
 
@@ -570,35 +570,35 @@ Rhen listened with increasing stillness.
 
 “Yes.”
 
-“And the house?”
+[[speaker:rhen]]“And the house?”
 
-“Standing.”
+[[speaker:luweiran]]“Standing.”
 
-“The clinic?”
+[[speaker:rhen]]“The clinic?”
 
-“Standing.”
+[[speaker:luweiran]]“Standing.”
 
-“The tea?”
+[[speaker:rhen]]“The tea?”
 
 Lu stared at him.
 
 Rhen waited.
 
-“The tea survived.”
+[[speaker:luweiran]]“The tea survived.”
 
 “Good.”
 
-“Haru took three Redlines in a later engagement.”
+[[speaker:luweiran]]“Haru took three Redlines in a later engagement.”
 
 Rhen's face changed.
 
 Only slightly.
 
-“Three?”
+[[speaker:rhen]]“Three?”
 
-“In one day.”
+[[speaker:luweiran]]“In one day.”
 
-“Three three-times doses?”
+[[speaker:rhen]]“Three three-times doses?”
 
 “Yes.”
 
@@ -614,7 +614,7 @@ Then roughly quadruple for the third.
 
 “Approximately.”
 
-“Idiot.”
+[[speaker:rhen]]“Idiot.”
 
 Lu said nothing.
 
@@ -630,39 +630,39 @@ Because a twenty-eight-year-old prodigy had burned decades of his own future bec
 
 Lu moved to the Isgard front again.
 
-“Kael reached Paragon before the war. He beat Jun.”
+[[speaker:luweiran]]“Kael reached Paragon before the war. He beat Jun.”
 
 “Good.”
 
-“Kai Moriyama arrived after that. High Paragon. Kael lost to him.”
+[[speaker:luweiran]]“Kai Moriyama arrived after that. High Paragon. Kael lost to him.”
 
 Rhen nodded again.
 
-“Also good.”
+[[speaker:rhen]]“Also good.”
 
 Lu frowned.
 
-“He was badly injured.”
+[[speaker:luweiran]]“He was badly injured.”
 
-“I heard you.”
+[[speaker:rhen]]“I heard you.”
 
-“Then why is that good?”
+[[speaker:luweiran]]“Then why is that good?”
 
-“Because Kael spent too long being the strongest person everyone around him expected to see.”
+[[speaker:rhen]]“Because Kael spent too long being the strongest person everyone around him expected to see.”
 
 Rhen moved Kael's marker with one finger.
 
-“Losing to someone better can be useful if it doesn't kill you.”
+[[speaker:rhen]]“Losing to someone better can be useful if it doesn't kill you.”
 
 Lu considered this.
 
-“You have an irritating way of making injuries sound educational.”
+[[speaker:luweiran]]“You have an irritating way of making injuries sound educational.”
 
 “I am a physician.”
 
-“That is not what physicians do.”
+[[speaker:luweiran]]“That is not what physicians do.”
 
-“Bad physicians.”
+[[speaker:rhen]]“Bad physicians.”
 
 Lu refused to dignify that.
 
@@ -684,23 +684,23 @@ About Shinsei sending thousands of wounded back to Aya and receiving Paragons ag
 
 That made Rhen pause.
 
-“Aya can restore them completely?”
+[[speaker:rhen]]“Aya can restore them completely?”
 
-“With enough time. Recoverable damage, yes.”
+[[speaker:luweiran]]“With enough time. Recoverable damage, yes.”
 
 Rhen nodded.
 
-“Good doctor.”
+[[speaker:rhen]]“Good doctor.”
 
-“She is also the physician whose work became Axtaya.”
+[[speaker:luweiran]]“She is also the physician whose work became Axtaya.”
 
-“Still a good doctor.”
+[[speaker:rhen]]“Still a good doctor.”
 
 Lu looked at him.
 
 Rhen's eyes remained on the map.
 
-“Those can both be true.”
+[[speaker:rhen]]“Those can both be true.”
 
 Lu said nothing for a moment.
 
@@ -720,31 +720,31 @@ Rhen listened.
 
 Then Lu reached the numbers he had been avoiding.
 
-“Wuyue left with about sixty-three thousand eight hundred combat-ready public personnel.”
+[[speaker:luweiran]]“Wuyue left with about sixty-three thousand eight hundred combat-ready public personnel.”
 
 Rhen looked at the black markers.
 
-“And now?”
+[[speaker:rhen]]“And now?”
 
-“About fifty to fifty-one thousand combat-capable, depending on the day.”
+[[speaker:luweiran]]“About fifty to fifty-one thousand combat-capable, depending on the day.”
 
-“How many dead?”
+[[speaker:rhen]]“How many dead?”
 
-“Current estimate between five and six thousand Wuyue personnel. More wounded, rotated out, missing, or temporarily unfit.”
+[[speaker:luweiran]]“Current estimate between five and six thousand Wuyue personnel. More wounded, rotated out, missing, or temporarily unfit.”
 
 Rhen said nothing.
 
-“Isgard?”
+[[speaker:rhen]]“Isgard?”
 
-“Worse proportionally.”
+[[speaker:luweiran]]“Worse proportionally.”
 
-“Civilians?”
+[[speaker:rhen]]“Civilians?”
 
 Lu did not answer immediately.
 
 Rhen closed his eyes.
 
-“I see.”
+[[speaker:rhen]]“I see.”
 
 “No,” Lu said. “You don't. Not yet.”
 
@@ -758,69 +758,69 @@ Rhen looked at him for a long second.
 
 Then nodded.
 
-“Fair.”
+[[speaker:rhen]]“Fair.”
 
 Lu had not expected the apology hidden in that word.
 
 He turned to the last cluster.
 
-“Sera is still commanding.”
+[[speaker:luweiran]]“Sera is still commanding.”
 
 Rhen's attention sharpened again.
 
-“Injured?”
+[[speaker:rhen]]“Injured?”
 
-“Yes.”
+[[speaker:luweiran]]“Yes.”
 
-“How badly?”
+[[speaker:rhen]]“How badly?”
 
-“Enough that Luo has ordered her to stop fighting twice.”
+[[speaker:luweiran]]“Enough that Luo has ordered her to stop fighting twice.”
 
 “And?”
 
-“You know Sera.”
+[[speaker:luweiran]]“You know Sera.”
 
 Rhen exhaled through his nose.
 
 That was the closest he came to laughing.
 
-“Is she walking?”
+[[speaker:rhen]]“Is she walking?”
 
-“Yes.”
+[[speaker:luweiran]]“Yes.”
 
-“Eating?”
+[[speaker:rhen]]“Eating?”
 
 Lu hesitated.
 
 Rhen looked at him.
 
-“Lu.”
+[[speaker:rhen]]“Lu.”
 
-“She eats.”
+[[speaker:luweiran]]“She eats.”
 
-“That was a suspicious pause.”
+[[speaker:rhen]]“That was a suspicious pause.”
 
-“She eats when someone places food directly in front of her and remains there until she finishes.”
+[[speaker:luweiran]]“She eats when someone places food directly in front of her and remains there until she finishes.”
 
 Rhen stared.
 
 Lu raised both hands.
 
-“I am in Wuyue.”
+[[speaker:luweiran]]“I am in Wuyue.”
 
-“Who is doing that in Isgard?”
+[[speaker:rhen]]“Who is doing that in Isgard?”
 
-“Luo. Sometimes Arin. Once Jin.”
+[[speaker:luweiran]]“Luo. Sometimes Arin. Once Jin.”
 
-“Jin?”
+[[speaker:rhen]]“Jin?”
 
-“He threatened to classify lunch as a mandatory strategic resource.”
+[[speaker:luweiran]]“He threatened to classify lunch as a mandatory strategic resource.”
 
 Rhen's mouth twitched.
 
-“Effective?”
+[[speaker:rhen]]“Effective?”
 
-“Apparently.”
+[[speaker:luweiran]]“Apparently.”
 
 Rhen looked down at the northern map again.
 
@@ -836,11 +836,11 @@ Everyone else carrying the space he had left behind.
 
 He touched the edge of Isgard with one finger.
 
-“I should go.”
+[[speaker:rhen]]“I should go.”
 
-“Yes.”
+[[speaker:luweiran]]“Yes.”
 
-“But first—”
+[[speaker:rhen]]“But first—”
 
 A heavy footstep stopped outside the map-room door.
 
@@ -852,7 +852,7 @@ Rhen looked toward the door.
 
 Lu did not need to.
 
-“They heard.”
+[[speaker:luweiran]]“They heard.”
 
 Rhen's expression softened.
 
@@ -870,11 +870,11 @@ For a moment nobody said anything.
 
 Then Tae looked Rhen up and down.
 
-“You look annoyingly well-rested.”
+[[speaker:tae]]“You look annoyingly well-rested.”
 
 Rhen nodded.
 
-“You look louder.”
+[[speaker:rhen]]“You look louder.”
 
 Huo grinned.
 
@@ -930,21 +930,21 @@ Every foot shift. Every breath. Every tiny pressure change in the room reached Q
 
 Qin tilted his head.
 
-“What?”
+[[speaker:qin]]“What?”
 
-“You three got better.”
+[[speaker:rhen]]“You three got better.”
 
 Tae folded his arms.
 
-“You slept for six months.”
+[[speaker:tae]]“You slept for six months.”
 
-“That doesn't answer me.”
+[[speaker:rhen]]“That doesn't answer me.”
 
-“It wasn't a question.”
+[[speaker:tae]]“It wasn't a question.”
 
 Rhen considered this.
 
-“True.”
+[[speaker:rhen]]“True.”
 
 Huo walked over and stopped directly in front of him.
 
@@ -954,25 +954,25 @@ Rhen stared back.
 
 Huo leaned closer.
 
-“Your face is the same.”
+[[speaker:huo]]“Your face is the same.”
 
-“Most faces do that over six months.”
+[[speaker:rhen]]“Most faces do that over six months.”
 
-“Not yours. Yours is suspicious.”
+[[speaker:huo]]“Not yours. Yours is suspicious.”
 
 Tae rubbed his forehead.
 
-“Huo.”
+[[speaker:tae]]“Huo.”
 
-“What? He disappeared into a rock for half a year and came out looking like he took a nap.”
+[[speaker:huo]]“What? He disappeared into a rock for half a year and came out looking like he took a nap.”
 
 Rhen glanced at Lu.
 
-“Was I supposed to grow a beard?”
+[[speaker:rhen]]“Was I supposed to grow a beard?”
 
 Lu did not look up from his ledger.
 
-“I am not participating.”
+[[speaker:luweiran]]“I am not participating.”
 
 Qin's mouth moved at one corner.
 
@@ -980,17 +980,17 @@ Then his expression changed.
 
 He lifted one hand.
 
-“Rhen.”
+[[speaker:qin]]“Rhen.”
 
 Rhen looked at him.
 
 Qin's fingers hovered in the air as though feeling rain nobody else could sense.
 
-“Do that again.”
+[[speaker:qin]]“Do that again.”
 
-“Do what?”
+[[speaker:rhen]]“Do what?”
 
-“The petal.”
+[[speaker:qin]]“The petal.”
 
 Tae's posture changed.
 
@@ -1020,23 +1020,23 @@ Qin extended his perception further.
 
 His brow tightened.
 
-“Where is the rest of it?”
+[[speaker:qin]]“Where is the rest of it?”
 
 Rhen looked at the petal.
 
-“In the petal.”
+[[speaker:rhen]]“In the petal.”
 
 Qin's head turned toward him.
 
-“All of it?”
+[[speaker:qin]]“All of it?”
 
-“No.”
+[[speaker:rhen]]“No.”
 
 That answer did not help.
 
 Tae stepped closer.
 
-“How much?”
+[[speaker:tae]]“How much?”
 
 Rhen thought about it.
 
@@ -1050,31 +1050,31 @@ He had not tried to release it yet.
 
 Trying inside the mountain seemed discourteous.
 
-“I don't know exactly.”
+[[speaker:rhen]]“I don't know exactly.”
 
 Tae stared.
 
-“You spent six months doing it.”
+[[speaker:tae]]“You spent six months doing it.”
 
-“Yes.”
+[[speaker:rhen]]“Yes.”
 
-“And you don't know?”
+[[speaker:tae]]“And you don't know?”
 
-“I know it worked.”
+[[speaker:rhen]]“I know it worked.”
 
-“That is not the same thing.”
+[[speaker:tae]]“That is not the same thing.”
 
-“It usually is.”
+[[speaker:rhen]]“It usually is.”
 
-“No, it isn't.”
+[[speaker:tae]]“No, it isn't.”
 
 Huo looked from one to the other.
 
-“I missed this.”
+[[speaker:huo]]“I missed this.”
 
 “You were here,” Tae said.
 
-“I missed him annoying you.”
+[[speaker:huo]]“I missed him annoying you.”
 
 Rhen dismissed the petal.
 
@@ -1088,11 +1088,11 @@ Rhen looked at him.
 
 Qin chose his words carefully.
 
-“Before, even when you suppressed yourself, I could feel where the absence was. Like a bell wrapped in cloth. You hid the sound, but the shape was still there.”
+[[speaker:qin]]“Before, even when you suppressed yourself, I could feel where the absence was. Like a bell wrapped in cloth. You hid the sound, but the shape was still there.”
 
 He turned his face toward Rhen.
 
-“Now I can't find the bell.”
+[[speaker:qin]]“Now I can't find the bell.”
 
 Rhen absorbed that.
 
@@ -1100,17 +1100,17 @@ Rhen absorbed that.
 
 Tae threw both hands up.
 
-“Of course that's your answer.”
+[[speaker:tae]]“Of course that's your answer.”
 
 Rhen looked at him.
 
-“What did you want?”
+[[speaker:rhen]]“What did you want?”
 
-“I don't know. Something normal. ‘Interesting.’ ‘Concerning.’ ‘Maybe I should test this somewhere that doesn't contain everyone we know.’”
+[[speaker:tae]]“I don't know. Something normal. ‘Interesting.’ ‘Concerning.’ ‘Maybe I should test this somewhere that doesn't contain everyone we know.’”
 
 Rhen nodded.
 
-“That last one is sensible.”
+[[speaker:rhen]]“That last one is sensible.”
 
 Tae closed his eyes.
 
@@ -1118,13 +1118,13 @@ Huo laughed so hard the table pins moved.
 
 Lu caught one before it fell.
 
-“High Paragons,” he muttered. “All of you. Remarkable.”
+[[speaker:luweiran]]“High Paragons,” he muttered. “All of you. Remarkable.”
 
 Rhen's gaze returned to the three men in front of him.
 
 The humor remained, but something underneath it changed.
 
-“Lu told me about the attack here.”
+[[speaker:rhen]]“Lu told me about the attack here.”
 
 Huo's grin faded.
 
@@ -1136,43 +1136,43 @@ Qin went very still.
 
 “Yes,” Qin replied.
 
-“You fought them separately.”
+[[speaker:rhen]]“You fought them separately.”
 
 Tae nodded.
 
-“Mostly.”
+[[speaker:tae]]“Mostly.”
 
-“Why?”
+[[speaker:rhen]]“Why?”
 
 It was Huo who answered.
 
-“Because if we all jumped them at once, we'd learn less.”
+[[speaker:huo]]“Because if we all jumped them at once, we'd learn less.”
 
 Rhen looked at him.
 
 Huo shrugged.
 
-“And because Tae went first.”
+[[speaker:huo]]“And because Tae went first.”
 
-“That second part sounds more accurate.”
+[[speaker:rhen]]“That second part sounds more accurate.”
 
-“It is.”
+[[speaker:huo]]“It is.”
 
 Tae pointed at Huo.
 
-“You volunteered me.”
+[[speaker:tae]]“You volunteered me.”
 
-“You were standing closest to the door.”
+[[speaker:huo]]“You were standing closest to the door.”
 
-“That is not volunteering.”
+[[speaker:tae]]“That is not volunteering.”
 
-“It is if I volunteer you.”
+[[speaker:huo]]“It is if I volunteer you.”
 
 Rhen looked at Qin.
 
 Qin sighed.
 
-“They were trying to destroy the support hub. Tae engaged first. Huo replaced him when the pattern changed. I ended the fight when we had enough information and the objective shifted to forcing withdrawal.”
+[[speaker:qin]]“They were trying to destroy the support hub. Tae engaged first. Huo replaced him when the pattern changed. I ended the fight when we had enough information and the objective shifted to forcing withdrawal.”
 
 Rhen nodded.
 
@@ -1188,7 +1188,7 @@ Tae answered first.
 
 “Haru is dangerous. Very dangerous. His precision is worse than his raw strength. If he gets to choose the line, he wastes almost nothing.”
 
-“Hana?”
+[[speaker:rhen]]“Hana?”
 
 “Fast,” Huo said. “Actually fast. Not people-say-fast-because-they-lost-her fast.”
 
@@ -1196,17 +1196,17 @@ Qin added, “Her qinggong is physical. Wind and pressure. Hollow Sky creates mo
 
 Rhen nodded approval.
 
-“And Yurushi?”
+[[speaker:rhen]]“And Yurushi?”
 
 That changed the room.
 
 Qin's expression softened first.
 
-“Alive.”
+[[speaker:qin]]“Alive.”
 
-“Lu told me.”
+[[speaker:rhen]]“Lu told me.”
 
-“Then he didn't tell you how close.”
+[[speaker:qin]]“Then he didn't tell you how close.”
 
 Rhen looked toward Lu.
 
@@ -1224,23 +1224,23 @@ Rhen looked back at Tae.
 
 Tae shrugged once.
 
-“He was heavy.”
+[[speaker:tae]]“He was heavy.”
 
-“He is smaller than Huo.”
+[[speaker:rhen]]“He is smaller than Huo.”
 
-“Everyone is smaller than Huo.”
+[[speaker:tae]]“Everyone is smaller than Huo.”
 
 Huo looked pleased.
 
 Rhen's gaze stayed on Tae.
 
-“Thank you.”
+[[speaker:rhen]]“Thank you.”
 
 Tae's expression shifted.
 
 He did not make a joke.
 
-“Yeah.”
+[[speaker:tae]]“Yeah.”
 
 The room quieted again.
 
@@ -1266,27 +1266,27 @@ Rhen smiled faintly.
 
 “What?” Tae asked suspiciously.
 
-“Nothing.”
+[[speaker:rhen]]“Nothing.”
 
-“I hate when you say that.”
+[[speaker:tae]]“I hate when you say that.”
 
-“You hated when I said things too.”
+[[speaker:rhen]]“You hated when I said things too.”
 
-“That is because most things you say are irritating.”
+[[speaker:tae]]“That is because most things you say are irritating.”
 
-“Consistent.”
+[[speaker:rhen]]“Consistent.”
 
 Qin turned toward the northern wall.
 
-“You're going to Isgard.”
+[[speaker:qin]]“You're going to Isgard.”
 
 “Yes.”
 
 Huo stepped forward immediately.
 
-“We can—”
+[[speaker:huo]]“We can—”
 
-“No.”
+[[speaker:rhen]]“No.”
 
 Huo stopped.
 
@@ -1296,19 +1296,19 @@ It did not need to be.
 
 “Sera left you here,” Rhen said. “She had a reason.”
 
-“We're not children guarding the shop.”
+[[speaker:huo]]“We're not children guarding the shop.”
 
-“I know.”
+[[speaker:rhen]]“I know.”
 
-“Then—”
+[[speaker:huo]]“Then—”
 
-“That is why she trusted you with the continent.”
+[[speaker:rhen]]“That is why she trusted you with the continent.”
 
 Huo closed his mouth.
 
 Rhen looked at Tae and Qin too.
 
-“If all of you leave because I woke up, then her decision becomes meaningless the moment I return.”
+[[speaker:rhen]]“If all of you leave because I woke up, then her decision becomes meaningless the moment I return.”
 
 Qin nodded first.
 
@@ -1316,7 +1316,7 @@ Tae took longer.
 
 Then he exhaled.
 
-“Fine.”
+[[speaker:tae]]“Fine.”
 
 Huo frowned.
 
@@ -1324,31 +1324,31 @@ Rhen added, “Also someone should stop Huo from drinking the emergency tea stoc
 
 Huo looked offended.
 
-“That happened once.”
+[[speaker:huo]]“That happened once.”
 
 Lu spoke without lifting his head.
 
 “Four times.”
 
-“Those were separate emergencies.”
+[[speaker:huo]]“Those were separate emergencies.”
 
 “What emergencies?” Tae asked.
 
-“I was thirsty.”
+[[speaker:huo]]“I was thirsty.”
 
 Rhen nodded gravely.
 
-“Serious.”
+[[speaker:rhen]]“Serious.”
 
 Tae stared at him.
 
-“You've been awake less than an hour and you're already making him worse.”
+[[speaker:tae]]“You've been awake less than an hour and you're already making him worse.”
 
-“Impossible.”
+[[speaker:rhen]]“Impossible.”
 
 Huo pointed at Rhen.
 
-“See? He understands me.”
+[[speaker:huo]]“See? He understands me.”
 
 Qin actually laughed.
 
@@ -1362,19 +1362,19 @@ Then he asked, “Where is Yurushi?”
 
 Lu finally closed the ledger.
 
-“Lower west terrace. He thinks he's helping sort medical crates.”
+[[speaker:luweiran]]“Lower west terrace. He thinks he's helping sort medical crates.”
 
-“Is he?”
+[[speaker:rhen]]“Is he?”
 
-“No.”
+[[speaker:luweiran]]“No.”
 
-“What is he doing?”
+[[speaker:rhen]]“What is he doing?”
 
-“Reorganizing them in a way that makes Hana's old Shinsei packing system obvious to anyone who knows it.”
+[[speaker:luweiran]]“Reorganizing them in a way that makes Hana's old Shinsei packing system obvious to anyone who knows it.”
 
 Rhen looked at Lu.
 
-“So helping.”
+[[speaker:rhen]]“So helping.”
 
 Lu sighed.
 
@@ -1384,13 +1384,13 @@ Rhen turned toward the door.
 
 Before he reached it, Tae spoke.
 
-“Rhen.”
+[[speaker:tae]]“Rhen.”
 
 He looked back.
 
 Tae's expression had lost all humor.
 
-“Sera carried this.”
+[[speaker:tae]]“Sera carried this.”
 
 Rhen said nothing.
 
@@ -1402,7 +1402,7 @@ Qin remained still.
 
 Rhen's eyes softened.
 
-“I won't.”
+[[speaker:rhen]]“I won't.”
 
 Tae held his gaze another moment.
 
@@ -1412,7 +1412,7 @@ Rhen left the room.
 
 Only after the door closed did Huo look at Tae.
 
-“That was almost emotionally intelligent.”
+[[speaker:huo]]“That was almost emotionally intelligent.”
 
 Tae hit him.
 
@@ -1422,7 +1422,7 @@ Lu looked at the crack.
 
 Then at both High Paragons.
 
-“I am billing you.”
+[[speaker:luweiran]]“I am billing you.”
 
 ---
 
@@ -1442,15 +1442,15 @@ A young quartermaster stood nearby wearing the expression of a man who had lost 
 
 “You can't put the blue-marked crates beside the white-marked ones,” the quartermaster said.
 
-“In Shinsei depots, blue-marked compounds were often stored one aisle from circulation stabilizers.”
+[[speaker:black_radiance]]“In Shinsei depots, blue-marked compounds were often stored one aisle from circulation stabilizers.”
 
 “We are not Shinsei.”
 
-“I noticed.”
+[[speaker:black_radiance]]“I noticed.”
 
 “Then why are you reorganizing our stores like them?”
 
-“So if anyone trained in their system looks at this yard, they'll know which assumptions are dangerous.”
+[[speaker:black_radiance]]“So if anyone trained in their system looks at this yard, they'll know which assumptions are dangerous.”
 
 The quartermaster opened his mouth.
 
@@ -1460,7 +1460,7 @@ Opened it again.
 
 Rhen stopped several steps away.
 
-“Is this normal?”
+[[speaker:rhen]]“Is this normal?”
 
 The quartermaster turned.
 
@@ -1480,11 +1480,11 @@ Literal martial properties carried in one circulation without either consuming t
 
 Yurushi set the boxes down.
 
-“You're awake.”
+[[speaker:black_radiance]]“You're awake.”
 
 Rhen nodded.
 
-“So I've been told.”
+[[speaker:rhen]]“So I've been told.”
 
 The quartermaster looked between them.
 
@@ -1500,25 +1500,25 @@ The quartermaster vanished.
 
 Yurushi watched him go.
 
-“I think he dislikes me.”
+[[speaker:black_radiance]]“I think he dislikes me.”
 
 “He likes systems,” Lu said.
 
-“So do I.”
+[[speaker:black_radiance]]“So do I.”
 
-“You change his.”
+[[speaker:luweiran]]“You change his.”
 
-“Only when they're wrong.”
+[[speaker:black_radiance]]“Only when they're wrong.”
 
 Lu pinched the bridge of his nose.
 
 Rhen looked at Yurushi.
 
-“I like him.”
+[[speaker:rhen]]“I like him.”
 
 Lu's expression became pained.
 
-“Of course you do.”
+[[speaker:luweiran]]“Of course you do.”
 
 Rhen stepped onto the terrace.
 
@@ -1542,15 +1542,15 @@ Pale violet flickered inside it.
 
 Then he looked back at Rhen's face.
 
-“You changed.”
+[[speaker:black_radiance]]“You changed.”
 
 Rhen glanced at the petal.
 
-“So people keep saying.”
+[[speaker:rhen]]“So people keep saying.”
 
-“I meant your circulation.”
+[[speaker:black_radiance]]“I meant your circulation.”
 
-“That too.”
+[[speaker:rhen]]“That too.”
 
 Yurushi waited for more.
 
@@ -1560,7 +1560,7 @@ He nodded.
 
 Rhen appreciated that.
 
-“You helped Yun.”
+[[speaker:rhen]]“You helped Yun.”
 
 The terrace quieted.
 
@@ -1568,11 +1568,11 @@ Yurushi's expression did not change much, but the balance in his qi did. Light r
 
 “Yes.”
 
-“Why?”
+[[speaker:rhen]]“Why?”
 
 Yurushi looked at him.
 
-“She needed help.”
+[[speaker:black_radiance]]“She needed help.”
 
 Rhen waited.
 
@@ -1580,7 +1580,7 @@ Yurushi waited back.
 
 “That is all?” Rhen asked.
 
-“Was there supposed to be more?”
+[[speaker:black_radiance]]“Was there supposed to be more?”
 
 Lu looked away because he had already heard this exchange once from Sera and apparently the world had decided he deserved it twice.
 
@@ -1592,7 +1592,7 @@ Yurushi seemed mildly relieved.
 
 Rhen stepped closer.
 
-“Thank you.”
+[[speaker:rhen]]“Thank you.”
 
 The words were simple.
 
@@ -1606,9 +1606,9 @@ Yurushi's face changed more than it had since Rhen arrived.
 
 He looked down at the crate between them.
 
-“I didn't save her.”
+[[speaker:black_radiance]]“I didn't save her.”
 
-“No.”
+[[speaker:rhen]]“No.”
 
 That answer was immediate.
 
@@ -1636,11 +1636,11 @@ He simply refused to let Yurushi call the attempt worthless because the person a
 
 Yurushi breathed out slowly.
 
-“She poisoned me the first time I tried to help.”
+[[speaker:black_radiance]]“She poisoned me the first time I tried to help.”
 
 Rhen's eyebrow lifted.
 
-“Good.”
+[[speaker:rhen]]“Good.”
 
 Yurushi blinked.
 
@@ -1648,13 +1648,13 @@ Lu closed his eyes.
 
 Rhen continued, “She didn't know you.”
 
-“I know.”
+[[speaker:black_radiance]]“I know.”
 
-“What did she use?”
+[[speaker:rhen]]“What did she use?”
 
 Yurushi looked almost offended.
 
-“That's your question?”
+[[speaker:black_radiance]]“That's your question?”
 
 “I am a physician.”
 
@@ -1662,25 +1662,25 @@ Lu muttered, “He keeps saying that as if it explains him.”
 
 Yurushi's mouth twitched.
 
-“Modified sleep toxin. Fast circulation trigger. She expected me to purge upward and used the purge route as the second delivery.”
+[[speaker:black_radiance]]“Modified sleep toxin. Fast circulation trigger. She expected me to purge upward and used the purge route as the second delivery.”
 
 Rhen's eyes brightened with professional interest.
 
-“That's clever.”
+[[speaker:rhen]]“That's clever.”
 
-“It was unpleasant.”
+[[speaker:black_radiance]]“It was unpleasant.”
 
-“Those are compatible.”
+[[speaker:rhen]]“Those are compatible.”
 
 Yurushi looked at Lu.
 
-“Is he always like this?”
+[[speaker:black_radiance]]“Is he always like this?”
 
-“Yes.”
+[[speaker:luweiran]]“Yes.”
 
-“I heard he was quiet.”
+[[speaker:black_radiance]]“I heard he was quiet.”
 
-“He is. That is the problem.”
+[[speaker:luweiran]]“He is. That is the problem.”
 
 For the first time, Yurushi laughed around Rhen.
 
@@ -1690,25 +1690,25 @@ Enough.
 
 Rhen leaned against one of the crates.
 
-“You're staying in Wuyue.”
+[[speaker:rhen]]“You're staying in Wuyue.”
 
 It was not a question.
 
-“Sera ordered it.”
+[[speaker:black_radiance]]“Sera ordered it.”
 
-“Good.”
+[[speaker:rhen]]“Good.”
 
 Yurushi studied him.
 
-“You don't want me in Isgard?”
+[[speaker:black_radiance]]“You don't want me in Isgard?”
 
-“I want you where Sera decided you are useful.”
+[[speaker:rhen]]“I want you where Sera decided you are useful.”
 
-“That sounds suspiciously like obedience.”
+[[speaker:black_radiance]]“That sounds suspiciously like obedience.”
 
 Rhen considered it.
 
-“She is usually right.”
+[[speaker:rhen]]“She is usually right.”
 
 Lu made a choking sound that might have been a laugh.
 
@@ -1716,15 +1716,15 @@ Rhen ignored him.
 
 Yurushi looked north, toward a horizon that could not show Isgard from here.
 
-“Tsubasa will come eventually.”
+[[speaker:black_radiance]]“Tsubasa will come eventually.”
 
-“To Isgard?”
+[[speaker:rhen]]“To Isgard?”
 
-“Yes.”
+[[speaker:black_radiance]]“Yes.”
 
-“He hasn't yet?”
+[[speaker:rhen]]“He hasn't yet?”
 
-“No. Not personally.”
+[[speaker:black_radiance]]“No. Not personally.”
 
 Rhen absorbed that.
 
@@ -1734,21 +1734,21 @@ Yurushi continued.
 
 Rhen looked at him.
 
-“You know him well?”
+[[speaker:rhen]]“You know him well?”
 
-“Well enough to leave.”
+[[speaker:black_radiance]]“Well enough to leave.”
 
-“That is not what I asked.”
+[[speaker:rhen]]“That is not what I asked.”
 
 Yurushi's gaze lowered briefly.
 
-“Well enough to know he genuinely believes Shinsei is necessary.”
+[[speaker:black_radiance]]“Well enough to know he genuinely believes Shinsei is necessary.”
 
 Rhen waited.
 
-“And?”
+[[speaker:rhen]]“And?”
 
-“Well enough to know that makes him more dangerous, not less.”
+[[speaker:black_radiance]]“Well enough to know that makes him more dangerous, not less.”
 
 Rhen nodded.
 
@@ -1758,9 +1758,9 @@ A powerful man who believed coercion was the price of peace could build institut
 
 Rhen looked at the rearranged medical crates.
 
-“What does he think of Axtaya?”
+[[speaker:rhen]]“What does he think of Axtaya?”
 
-“That it is terrible.”
+[[speaker:black_radiance]]“That it is terrible.”
 
 Lu's eyes narrowed.
 
@@ -1770,13 +1770,13 @@ Yurushi continued.
 
 Rhen was quiet.
 
-“That sentence has killed a lot of people.”
+[[speaker:rhen]]“That sentence has killed a lot of people.”
 
-“Yes.”
+[[speaker:black_radiance]]“Yes.”
 
-“Does he know the lifespan cost?”
+[[speaker:rhen]]“Does he know the lifespan cost?”
 
-“The senior command knows severe long-term damage. Aya knows the numbers. Tsubasa likely knows enough to understand what he is authorizing.”
+[[speaker:black_radiance]]“The senior command knows severe long-term damage. Aya knows the numbers. Tsubasa likely knows enough to understand what he is authorizing.”
 
 Rhen looked down at his hands again.
 
@@ -1788,7 +1788,7 @@ He disliked it more each time he heard it.
 
 Yurushi watched him.
 
-“You're angry.”
+[[speaker:black_radiance]]“You're angry.”
 
 Rhen looked up.
 
@@ -1798,11 +1798,11 @@ Lu and Yurushi both stared at him.
 
 Rhen sighed.
 
-“Fine. A little.”
+[[speaker:rhen]]“Fine. A little.”
 
 Lu folded his arms.
 
-“A little.”
+[[speaker:luweiran]]“A little.”
 
 “Yes.”
 
@@ -1824,41 +1824,41 @@ They vanished.
 
 Yurushi nodded slowly.
 
-“I see.”
+[[speaker:black_radiance]]“I see.”
 
-“You don't.”
+[[speaker:rhen]]“You don't.”
 
-“No.”
+[[speaker:black_radiance]]“No.”
 
-“Neither do I.”
+[[speaker:rhen]]“Neither do I.”
 
 That was somehow worse.
 
 Lu stepped forward.
 
-“Before either of you turn this into another conversation where nobody says what they mean, there is one more thing.”
+[[speaker:luweiran]]“Before either of you turn this into another conversation where nobody says what they mean, there is one more thing.”
 
 Rhen looked at him.
 
 Lu handed Yurushi a sealed packet.
 
-“Your full account.”
+[[speaker:luweiran]]“Your full account.”
 
 Yurushi's expression hardened.
 
-“For Sera?”
+[[speaker:black_radiance]]“For Sera?”
 
 “Yes.”
 
 Rhen's gaze moved between them.
 
-“What account?”
+[[speaker:rhen]]“What account?”
 
 Lu did not answer immediately.
 
 Yurushi did.
 
-“The parts of Yun's captivity that weren't in the battlefield report.”
+[[speaker:black_radiance]]“The parts of Yun's captivity that weren't in the battlefield report.”
 
 Rhen went completely still.
 
@@ -1872,35 +1872,35 @@ Lu continued carefully.
 
 Rhen's eyes lowered to the packet.
 
-“What did Shunto do?”
+[[speaker:rhen]]“What did Shunto do?”
 
 Yurushi held his gaze.
 
-“Something Sera should hear before the rest of the war council does.”
+[[speaker:black_radiance]]“Something Sera should hear before the rest of the war council does.”
 
 Rhen understood the boundary.
 
 He did not push through it simply because he could.
 
-“Send it.”
+[[speaker:rhen]]“Send it.”
 
 “I am,” Lu said.
 
-“Today.”
+[[speaker:rhen]]“Today.”
 
-“It leaves in an hour.”
+[[speaker:luweiran]]“It leaves in an hour.”
 
 Rhen nodded.
 
 Yurushi looked at him for a long moment.
 
-“You're not asking me.”
+[[speaker:black_radiance]]“You're not asking me.”
 
-“No.”
+[[speaker:rhen]]“No.”
 
 “Why?”
 
-“Because Yun's story is not mine to turn into curiosity.”
+[[speaker:rhen]]“Because Yun's story is not mine to turn into curiosity.”
 
 Yurushi's expression softened.
 
@@ -1908,19 +1908,19 @@ Then Rhen added, “If Sera decides I should know, she will tell me.”
 
 Lu looked at him.
 
-“That was almost emotionally healthy.”
+[[speaker:luweiran]]“That was almost emotionally healthy.”
 
 Rhen frowned.
 
-“Almost?”
+[[speaker:rhen]]“Almost?”
 
-“You still plan to cross a continent immediately after waking from six months of seclusion.”
+[[speaker:luweiran]]“You still plan to cross a continent immediately after waking from six months of seclusion.”
 
-“I stood up first.”
+[[speaker:rhen]]“I stood up first.”
 
-“That is not the standard.”
+[[speaker:luweiran]]“That is not the standard.”
 
-“It should be.”
+[[speaker:rhen]]“It should be.”
 
 Yurushi laughed again.
 
@@ -1928,11 +1928,11 @@ Rhen looked toward the north.
 
 The humor left him gradually.
 
-“Take care of this place.”
+[[speaker:rhen]]“Take care of this place.”
 
 Yurushi followed his gaze.
 
-“I have been.”
+[[speaker:black_radiance]]“I have been.”
 
 “I know.”
 
@@ -1946,49 +1946,49 @@ He turned.
 
 Yurushi hesitated only once.
 
-“Sera did not wait for you.”
+[[speaker:black_radiance]]“Sera did not wait for you.”
 
 Rhen's expression softened.
 
 “No.”
 
-“She fought the whole time.”
+[[speaker:black_radiance]]“She fought the whole time.”
 
-“I know.”
+[[speaker:rhen]]“I know.”
 
-“Good.”
+[[speaker:black_radiance]]“Good.”
 
 Rhen nodded.
 
 Then he looked at Lu.
 
-“Is there anything else I need before I leave?”
+[[speaker:rhen]]“Is there anything else I need before I leave?”
 
 Lu stared at him.
 
 “Yes.”
 
-“What?”
+[[speaker:rhen]]“What?”
 
-“Food.”
+[[speaker:luweiran]]“Food.”
 
 Rhen blinked.
 
-“I just woke up.”
+[[speaker:rhen]]“I just woke up.”
 
-“That is precisely why.”
+[[speaker:luweiran]]“That is precisely why.”
 
-“I don't feel hungry.”
+[[speaker:rhen]]“I don't feel hungry.”
 
-“I do not care.”
+[[speaker:luweiran]]“I do not care.”
 
 Yurushi quietly picked up one feverroot box and moved it out of the argument's path.
 
 Rhen looked at Lu.
 
-“You sound like Sera.”
+[[speaker:rhen]]“You sound like Sera.”
 
-“Someone had to.”
+[[speaker:luweiran]]“Someone had to.”
 
 That ended the argument.
 

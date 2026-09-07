@@ -28,23 +28,23 @@ Lu watched the entire process.
 
 “This is excessive,” Rhen said.
 
-“You were sealed in stone for six months.”
+[[speaker:luweiran]]“You were sealed in stone for six months.”
 
-“I was not starving.”
+[[speaker:rhen]]“I was not starving.”
 
-“You were not eating.”
+[[speaker:luweiran]]“You were not eating.”
 
-“My body was maintaining itself.”
+[[speaker:rhen]]“My body was maintaining itself.”
 
-“That sentence is exactly why normal people don't trust cultivators.”
+[[speaker:luweiran]]“That sentence is exactly why normal people don't trust cultivators.”
 
 Rhen looked across the table at Qin.
 
-“Do people trust physicians?”
+[[speaker:rhen]]“Do people trust physicians?”
 
 Qin took a sip of tea.
 
-“Not this one.”
+[[speaker:qin]]“Not this one.”
 
 Tae laughed into his bowl.
 
@@ -62,15 +62,15 @@ The bun moved back.
 
 Huo looked delighted.
 
-“You're using cultivation to defend breakfast.”
+[[speaker:huo]]“You're using cultivation to defend breakfast.”
 
-“Yes.”
+[[speaker:rhen]]“Yes.”
 
-“Respect.”
+[[speaker:huo]]“Respect.”
 
 Lu put both palms on the table.
 
-“Can we please behave as if a continental war exists for ten consecutive breaths?”
+[[speaker:luweiran]]“Can we please behave as if a continental war exists for ten consecutive breaths?”
 
 Everyone stopped.
 
@@ -106,15 +106,15 @@ Pale violet beneath the surface.
 
 Tae watched it disappear.
 
-“You really don't know how strong you are now?”
+[[speaker:tae]]“You really don't know how strong you are now?”
 
 Rhen considered the question one last time.
 
-“I know approximately.”
+[[speaker:rhen]]“I know approximately.”
 
-“That is different from what you said earlier.”
+[[speaker:tae]]“That is different from what you said earlier.”
 
-“I have had breakfast since then.”
+[[speaker:rhen]]“I have had breakfast since then.”
 
 Tae stared.
 
@@ -142,15 +142,15 @@ Rhen continued.
 
 Huo leaned toward Tae.
 
-“He knows.”
+[[speaker:huo]]“He knows.”
 
-“Obviously he knows.”
+[[speaker:tae]]“Obviously he knows.”
 
-“They're bad spies.”
+[[speaker:huo]]“They're bad spies.”
 
-“They are healers carrying brooms.”
+[[speaker:tae]]“They are healers carrying brooms.”
 
-“Exactly.”
+[[speaker:huo]]“Exactly.”
 
 At the ridge, the northern sky was clear.
 
@@ -160,13 +160,13 @@ Sera.
 
 Rhen looked at Lu.
 
-“The packet?”
+[[speaker:rhen]]“The packet?”
 
-“Already moving through the first courier handoff.”
+[[speaker:luweiran]]“Already moving through the first courier handoff.”
 
 “Good.”
 
-“You will not reach Sera before it does.”
+[[speaker:luweiran]]“You will not reach Sera before it does.”
 
 Rhen raised an eyebrow.
 
@@ -174,11 +174,11 @@ Lu paused.
 
 Then amended, “You should not reach Sera before it does.”
 
-“That is different.”
+[[speaker:rhen]]“That is different.”
 
-“Yes.”
+[[speaker:luweiran]]“Yes.”
 
-“Which one did you mean?”
+[[speaker:rhen]]“Which one did you mean?”
 
 Lu glared at him.
 
@@ -188,57 +188,57 @@ Yurushi stood farther back with Qin. Tae and Huo had both followed despite prete
 
 Rhen looked at the three High Paragons.
 
-“Stay.”
+[[speaker:rhen]]“Stay.”
 
 Huo sighed dramatically.
 
-“We heard you the first time.”
+[[speaker:huo]]“We heard you the first time.”
 
-“I know.”
+[[speaker:rhen]]“I know.”
 
-“Then why say it again?”
+[[speaker:huo]]“Then why say it again?”
 
-“Because you followed me to the ridge.”
+[[speaker:rhen]]“Because you followed me to the ridge.”
 
-“We were saying goodbye.”
+[[speaker:huo]]“We were saying goodbye.”
 
-“That is suspiciously healthy.”
+[[speaker:rhen]]“That is suspiciously healthy.”
 
 Tae pointed at Rhen.
 
-“You don't get to use that line after what Lu said to you.”
+[[speaker:tae]]“You don't get to use that line after what Lu said to you.”
 
 Rhen ignored him.
 
 He looked at Yurushi.
 
-“If Shinsei moves here again?”
+[[speaker:rhen]]“If Shinsei moves here again?”
 
-“I know how they think.”
+[[speaker:black_radiance]]“I know how they think.”
 
-“At least how they used to.”
+[[speaker:rhen]]“At least how they used to.”
 
 Yurushi nodded.
 
 Rhen looked at Qin.
 
-“Central command?”
+[[speaker:rhen]]“Central command?”
 
-“Mine.”
+[[speaker:qin]]“Mine.”
 
-“Tae?”
+[[speaker:rhen]]“Tae?”
 
-“Mobile west and Stonecrown support.”
+[[speaker:tae]]“Mobile west and Stonecrown support.”
 
-“Huo?”
+[[speaker:rhen]]“Huo?”
 
 Huo grinned.
 
-“Wherever Sera lets me break things.”
+[[speaker:huo]]“Wherever Sera lets me break things.”
 
-“That is not a command assignment.”
+[[speaker:rhen]]“That is not a command assignment.”
 
-“It has worked so far.”
+[[speaker:huo]]“It has worked so far.”
 
 Tae sighed.
 
@@ -246,9 +246,9 @@ Rhen's eyes moved over them one last time.
 
 Then to Lu.
 
-“And you?”
+[[speaker:rhen]]“And you?”
 
-“I will continue doing everyone's actual work.”
+[[speaker:luweiran]]“I will continue doing everyone's actual work.”
 
 “Good.”
 
@@ -310,7 +310,7 @@ The petal remained intact.
 
 Rhen frowned.
 
-“Too much.”
+[[speaker:rhen]]“Too much.”
 
 He reduced output again.
 
@@ -470,17 +470,17 @@ Then back at the petal.
 
 Rhen looked down the slope.
 
-“Where is Sera?”
+[[speaker:rhen]]“Where is Sera?”
 
 The sentry pointed so quickly his shoulder popped.
 
 Rhen winced.
 
-“You should have that looked at.”
+[[speaker:rhen]]“You should have that looked at.”
 
 “Yes, sir.”
 
-“Now.”
+[[speaker:rhen]]“Now.”
 
 “Yes, sir.”
 
@@ -534,13 +534,13 @@ Then said, “You took your time.”
 
 Rhen nodded.
 
-“I was busy.”
+[[speaker:rhen]]“I was busy.”
 
 Arin's eyes narrowed.
 
-“Sleeping?”
+[[speaker:arin]]“Sleeping?”
 
-“Apparently.”
+[[speaker:rhen]]“Apparently.”
 
 She almost smiled.
 
@@ -548,7 +548,7 @@ Almost.
 
 Then she stepped aside.
 
-“She is in there.”
+[[speaker:arin]]“She is in there.”
 
 Rhen stopped before the command tent.
 
@@ -560,21 +560,21 @@ Rhen looked at her.
 
 “Why?”
 
-“Because she has spent six months threatening people who try to take care of her.”
+[[speaker:arin]]“Because she has spent six months threatening people who try to take care of her.”
 
-“That sounds normal.”
+[[speaker:rhen]]“That sounds normal.”
 
-“It is not normal when she can flatten a hill.”
+[[speaker:arin]]“It is not normal when she can flatten a hill.”
 
-“Fair.”
+[[speaker:rhen]]“Fair.”
 
-“And Rhen?”
+[[speaker:arin]]“And Rhen?”
 
 He waited.
 
 Arin looked at him with the tired seriousness of someone who had watched Sera carry too many lists.
 
-“She did well.”
+[[speaker:arin]]“She did well.”
 
 Rhen's expression changed.
 
@@ -648,23 +648,23 @@ He still accepted it.
 
 Rhen nodded.
 
-“Me.”
+[[speaker:rhen]]“Me.”
 
-“You slept through a war.”
+[[speaker:sera]]“You slept through a war.”
 
-“Yes.”
+[[speaker:rhen]]“Yes.”
 
-“Six months.”
+[[speaker:sera]]“Six months.”
 
-“Twelve days.”
+[[speaker:rhen]]“Twelve days.”
 
 Her face changed.
 
-“You counted?”
+[[speaker:sera]]“You counted?”
 
-“Lu did.”
+[[speaker:rhen]]“Lu did.”
 
-“Of course he did.”
+[[speaker:sera]]“Of course he did.”
 
 Then she grabbed the front of his coat and pulled him down into her.
 
@@ -700,13 +700,13 @@ Sera felt it.
 
 “Don't,” she said into his coat.
 
-“I didn't say anything.”
+[[speaker:rhen]]“I didn't say anything.”
 
-“You were about to.”
+[[speaker:sera]]“You were about to.”
 
-“I was going to say hello.”
+[[speaker:rhen]]“I was going to say hello.”
 
-“No, you weren't.”
+[[speaker:sera]]“No, you weren't.”
 
 Rhen considered lying.
 
@@ -714,33 +714,33 @@ Sera pulled back enough to look at him.
 
 He did not lie.
 
-“You're hurt.”
+[[speaker:rhen]]“You're hurt.”
 
-“There it is.”
+[[speaker:sera]]“There it is.”
 
-“Several times.”
+[[speaker:rhen]]“Several times.”
 
-“Yes, doctor.”
+[[speaker:sera]]“Yes, doctor.”
 
-“You haven't been sleeping.”
+[[speaker:rhen]]“You haven't been sleeping.”
 
-“I sleep.”
+[[speaker:sera]]“I sleep.”
 
-“How much?”
+[[speaker:rhen]]“How much?”
 
 Jin quietly moved toward the far side of the tent.
 
 Sera glared at him.
 
-“Do not.”
+[[speaker:sera]]“Do not.”
 
-“I said nothing.”
+[[speaker:jin]]“I said nothing.”
 
-“You were going to.”
+[[speaker:sera]]“You were going to.”
 
 Rhen looked between them.
 
-“I like this council.”
+[[speaker:rhen]]“I like this council.”
 
 Sera's mouth twitched.
 
@@ -760,19 +760,19 @@ Pale violet shone beneath its surface.
 
 Sera looked at Rhen.
 
-“What happened to you?”
+[[speaker:sera]]“What happened to you?”
 
-“It worked.”
+[[speaker:rhen]]“It worked.”
 
-“That is not an answer.”
+[[speaker:sera]]“That is not an answer.”
 
-“Tae said that too.”
+[[speaker:rhen]]“Tae said that too.”
 
-“Then Tae was right.”
+[[speaker:sera]]“Then Tae was right.”
 
-“He will be unbearable when I tell him.”
+[[speaker:rhen]]“He will be unbearable when I tell him.”
 
-“He already is.”
+[[speaker:sera]]“He already is.”
 
 Rhen smiled.
 
@@ -800,25 +800,25 @@ Two.
 
 Her brow furrowed.
 
-“Your qi is…”
+[[speaker:sera]]“Your qi is…”
 
-“Compressed.”
+[[speaker:rhen]]“Compressed.”
 
-“I know what compressed feels like.”
+[[speaker:sera]]“I know what compressed feels like.”
 
-“More compressed.”
+[[speaker:rhen]]“More compressed.”
 
 Sera looked up.
 
-“How much more?”
+[[speaker:sera]]“How much more?”
 
 Rhen hesitated.
 
 Sera narrowed her eyes.
 
-“Rhen.”
+[[speaker:sera]]“Rhen.”
 
-“Enough that we should not test it here.”
+[[speaker:rhen]]“Enough that we should not test it here.”
 
 The tent became very quiet.
 
@@ -832,21 +832,21 @@ Luo stared at the pale-violet petal.
 
 Sera released Rhen's wrist.
 
-“Of course.”
+[[speaker:sera]]“Of course.”
 
 Rhen looked mildly defensive.
 
 “What?”
 
-“I spend six months becoming increasingly unreasonable, and you come back with a new reason for everybody else to be unreasonable around you.”
+[[speaker:sera]]“I spend six months becoming increasingly unreasonable, and you come back with a new reason for everybody else to be unreasonable around you.”
 
-“I didn't choose the color.”
+[[speaker:rhen]]“I didn't choose the color.”
 
-“That is the part you object to?”
+[[speaker:sera]]“That is the part you object to?”
 
-“It is very purple.”
+[[speaker:rhen]]“It is very purple.”
 
-“Violet.”
+[[speaker:sera]]“Violet.”
 
 “Worse.”
 
@@ -858,7 +858,7 @@ Rhen heard that too.
 
 His expression softened.
 
-“I missed you.”
+[[speaker:rhen]]“I missed you.”
 
 Sera stopped.
 
@@ -866,13 +866,13 @@ The room politely became interested in other things again.
 
 She looked at him.
 
-“You were unconscious.”
+[[speaker:sera]]“You were unconscious.”
 
-“I was cultivating.”
+[[speaker:rhen]]“I was cultivating.”
 
-“You were a decorative rock.”
+[[speaker:sera]]“You were a decorative rock.”
 
-“I still missed you.”
+[[speaker:rhen]]“I still missed you.”
 
 Sera's eyes shone.
 
@@ -900,13 +900,13 @@ That improved her mood considerably.
 
 Rhen blinked.
 
-“Good?”
+[[speaker:rhen]]“Good?”
 
-“You still do that.”
+[[speaker:sera]]“You still do that.”
 
-“Do what?”
+[[speaker:rhen]]“Do what?”
 
-“Nothing.”
+[[speaker:sera]]“Nothing.”
 
 Rhen looked suspicious.
 
@@ -918,15 +918,15 @@ The war returned to the room.
 
 Jin gestured at the map.
 
-“We can give you the current state in an hour.”
+[[speaker:jin]]“We can give you the current state in an hour.”
 
 “Lu gave me six months on the way out,” Rhen said.
 
 Jin glanced at Sera.
 
-“Lu did?”
+[[speaker:jin]]“Lu did?”
 
-“He used names first.”
+[[speaker:rhen]]“He used names first.”
 
 Jin nodded once.
 
@@ -934,47 +934,47 @@ Jin nodded once.
 
 Rhen looked toward Solveig.
 
-“Acting War Commander?”
+[[speaker:rhen]]“Acting War Commander?”
 
 Solveig's eyebrows rose.
 
-“You know who I am.”
+[[speaker:solveig]]“You know who I am.”
 
-“Lu told me to remember your name.”
+[[speaker:rhen]]“Lu told me to remember your name.”
 
 Solveig looked as though she did not know whether to be honored or offended.
 
 Rhen extended a hand.
 
-“Thank you for keeping Isgard alive.”
+[[speaker:rhen]]“Thank you for keeping Isgard alive.”
 
 Solveig stared at his hand.
 
 Then took it.
 
-“We're not done yet.”
+[[speaker:solveig]]“We're not done yet.”
 
-“I know.”
+[[speaker:rhen]]“I know.”
 
 Rhen looked around the room.
 
 Then back at Sera.
 
-“How many wounded within thirty miles?”
+[[speaker:rhen]]“How many wounded within thirty miles?”
 
 Luo answered before she could.
 
 “Depends what you call wounded.”
 
-“Anyone whose body is limiting combat, work, sleep or survival because of recoverable damage.”
+[[speaker:rhen]]“Anyone whose body is limiting combat, work, sleep or survival because of recoverable damage.”
 
 Luo gave him a long look.
 
-“Too many.”
+[[speaker:luo]]“Too many.”
 
-“Number.”
+[[speaker:rhen]]“Number.”
 
-“Directly under allied care? More than forty thousand active cases. Add recovering troops, civilians, prisoners and people still on restricted duty, and you pass sixty thousand easily.”
+[[speaker:luo]]“Directly under allied care? More than forty thousand active cases. Add recovering troops, civilians, prisoners and people still on restricted duty, and you pass sixty thousand easily.”
 
 Rhen nodded.
 
@@ -982,31 +982,31 @@ Aya's work. Luo's work. Hundreds of physicians. Six months of keeping bodies tog
 
 Sera saw the decision form.
 
-“No.”
+[[speaker:sera]]“No.”
 
 Rhen looked at her.
 
-“You don't even know what I'm going to say.”
+[[speaker:rhen]]“You don't even know what I'm going to say.”
 
-“You're going to heal everyone.”
+[[speaker:sera]]“You're going to heal everyone.”
 
-“Not everyone.”
+[[speaker:rhen]]“Not everyone.”
 
-“Rhen.”
+[[speaker:sera]]“Rhen.”
 
-“Only the recoverable ones.”
+[[speaker:rhen]]“Only the recoverable ones.”
 
-“That is what I meant.”
+[[speaker:sera]]“That is what I meant.”
 
 He considered this.
 
-“Then yes.”
+[[speaker:rhen]]“Then yes.”
 
 Sera pinched the bridge of her nose.
 
-“You just woke up.”
+[[speaker:sera]]“You just woke up.”
 
-“I ate.”
+[[speaker:rhen]]“I ate.”
 
 Jin looked at Luo.
 
@@ -1016,7 +1016,7 @@ Somewhere, Lu Weiran's influence had crossed a sea.
 
 Sera stared at Rhen.
 
-“Can you even do that after what you just did to yourself?”
+[[speaker:sera]]“Can you even do that after what you just did to yourself?”
 
 Rhen looked at the pale-violet petal beside him.
 
@@ -1034,27 +1034,27 @@ Sera knew that tone.
 
 She exhaled.
 
-“Then you're not doing it alone.”
+[[speaker:sera]]“Then you're not doing it alone.”
 
 Rhen looked at her bandaged arm.
 
-“You are first.”
+[[speaker:rhen]]“You are first.”
 
-“No.”
+[[speaker:sera]]“No.”
 
-“Sera.”
+[[speaker:rhen]]“Sera.”
 
-“No.”
+[[speaker:sera]]“No.”
 
-“You have internal tearing.”
-
-“I know.”
-
-“You are compensating through the left shoulder and lower ribs.”
+[[speaker:rhen]]“You have internal tearing.”
 
 “I know.”
 
-“You are extremely annoying.”
+[[speaker:rhen]]“You are compensating through the left shoulder and lower ribs.”
+
+[[speaker:sera]]“I know.”
+
+[[speaker:rhen]]“You are extremely annoying.”
 
 Sera smiled.
 
@@ -1062,7 +1062,7 @@ Sera smiled.
 
 Rhen looked at Luo.
 
-“Is she always like this now?”
+[[speaker:rhen]]“Is she always like this now?”
 
 “Worse.”
 
@@ -1072,21 +1072,21 @@ Luo turned another page.
 
 Rhen's mouth twitched.
 
-“Fine.”
+[[speaker:rhen]]“Fine.”
 
 Sera narrowed her eyes.
 
-“That was too easy.”
+[[speaker:sera]]“That was too easy.”
 
-“I will heal you when the field starts.”
+[[speaker:rhen]]“I will heal you when the field starts.”
 
-“That is still first.”
+[[speaker:sera]]“That is still first.”
 
-“You will be standing near me.”
+[[speaker:rhen]]“You will be standing near me.”
 
-“That is manipulation.”
+[[speaker:sera]]“That is manipulation.”
 
-“I am a physician.”
+[[speaker:rhen]]“I am a physician.”
 
 Luo actually laughed.
 
@@ -1114,11 +1114,11 @@ Sera received it while Rhen was repairing the torn circulation beneath her ribs 
 
 Rhen's hand rested lightly against her side through layers of clothing and bandage.
 
-“This is medicine.”
+[[speaker:rhen]]“This is medicine.”
 
-“You waited until I couldn't move.”
+[[speaker:sera]]“You waited until I couldn't move.”
 
-“You can move.”
+[[speaker:rhen]]“You can move.”
 
 Sera tried.
 
@@ -1128,13 +1128,13 @@ She stared at him.
 
 Rhen looked innocent.
 
-“Temporarily.”
+[[speaker:rhen]]“Temporarily.”
 
-“I hate you.”
+[[speaker:sera]]“I hate you.”
 
-“No, you don't.”
+[[speaker:rhen]]“No, you don't.”
 
-“Currently evaluating.”
+[[speaker:sera]]“Currently evaluating.”
 
 Rhen's qi moved once.
 
@@ -1158,15 +1158,15 @@ Sera went quiet.
 
 “Better?” he asked.
 
-“Don't look smug.”
+[[speaker:sera]]“Don't look smug.”
 
-“I am not.”
+[[speaker:rhen]]“I am not.”
 
-“You have a smug face.”
+[[speaker:sera]]“You have a smug face.”
 
-“I have the same face as six months ago.”
+[[speaker:rhen]]“I have the same face as six months ago.”
 
-“That is also irritating.”
+[[speaker:sera]]“That is also irritating.”
 
 He finished.
 
@@ -1188,7 +1188,7 @@ Sera looked at him.
 
 Rhen's expression softened.
 
-“One patient,” he said. “Now help me with the others.”
+[[speaker:rhen]]“One patient,” he said. “Now help me with the others.”
 
 That was why she did not argue again.
 
@@ -1222,7 +1222,7 @@ Solveig farther back with the sector commanders.
 
 Rhen looked at the physicians.
 
-“Nothing about this replaces triage.”
+[[speaker:rhen]]“Nothing about this replaces triage.”
 
 Aya's eyes sharpened.
 
@@ -1232,7 +1232,7 @@ Rhen continued.
 
 He looked across the gathered medical staff.
 
-“You still matter.”
+[[speaker:rhen]]“You still matter.”
 
 Some shoulders lowered.
 
@@ -1240,7 +1240,7 @@ Not all.
 
 Rhen pointed to the twelve sectors.
 
-“Critical first. Then severe. Then restricted-duty and long recovery. Civilians and prisoners use the same medical priority rules as soldiers.”
+[[speaker:rhen]]“Critical first. Then severe. Then restricted-duty and long recovery. Civilians and prisoners use the same medical priority rules as soldiers.”
 
 A Wuyue officer raised a hand.
 
@@ -1248,7 +1248,7 @@ A Wuyue officer raised a hand.
 
 Rhen looked at him.
 
-“I said prisoners.”
+[[speaker:rhen]]“I said prisoners.”
 
 The officer lowered his hand.
 
@@ -1256,17 +1256,17 @@ Aya watched closely.
 
 Rhen turned to her.
 
-“Your Hundred Pulse can identify circulation collapse faster than most teams can report it.”
+[[speaker:rhen]]“Your Hundred Pulse can identify circulation collapse faster than most teams can report it.”
 
 Aya nodded cautiously.
 
-“Yes.”
+[[speaker:aya]]“Yes.”
 
-“Use it.”
+[[speaker:rhen]]“Use it.”
 
-“You know what it does?”
+[[speaker:aya]]“You know what it does?”
 
-“Luo explained.”
+[[speaker:rhen]]“Luo explained.”
 
 Luo did not look up from his board.
 
@@ -1292,7 +1292,7 @@ Whichever pipe carried the water fastest should be used.
 
 Rhen looked up at the morning sky.
 
-“Make the area easier to survive in.”
+[[speaker:rhen]]“Make the area easier to survive in.”
 
 He raised one hand.
 
@@ -1358,7 +1358,7 @@ Her perception touched pulse, circulation and meridian behavior across the livin
 
 She lifted one hand.
 
-“Sector Three. Bed line seven. Third patient from the west. Now.”
+[[speaker:aya]]“Sector Three. Bed line seven. Third patient from the west. Now.”
 
 A marker flashed.
 
@@ -1418,13 +1418,13 @@ At noon, Jin found her carrying two bowls of broth.
 
 “Yes.”
 
-“Good.”
+[[speaker:jin]]“Good.”
 
-“One is for me.”
+[[speaker:sera]]“One is for me.”
 
 Jin looked genuinely impressed.
 
-“Historic.”
+[[speaker:jin]]“Historic.”
 
 Sera kicked him lightly in the shin.
 
@@ -1468,7 +1468,7 @@ The captain swallowed.
 
 Sera smiled tiredly.
 
-“That's new for me too.”
+[[speaker:sera]]“That's new for me too.”
 
 Night settled over Isgard.
 
