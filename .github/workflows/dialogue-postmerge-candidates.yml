@@ -6,6 +6,7 @@ on:
       - story/dialogue-audit-postmerge-context-and-mixed
     paths:
       - 'scripts/dialogue-postmerge-candidates.mjs'
+      - 'scripts/split-dialogue-postmerge-reports.mjs'
       - '.github/workflows/dialogue-postmerge-candidates.yml'
 
 permissions:
@@ -22,6 +23,7 @@ jobs:
         with:
           node-version: 22
       - run: node scripts/dialogue-postmerge-candidates.mjs
+      - run: node scripts/split-dialogue-postmerge-reports.mjs
       - name: Commit candidate reports
         run: |
           git config user.name "github-actions[bot]"
@@ -30,6 +32,6 @@ jobs:
           if git diff --cached --quiet; then
             echo "No candidate report changes"
           else
-            git commit -m "Generate per-season post-merge dialogue review reports"
+            git commit -m "Generate split post-merge dialogue review reports"
             git push
           fi
