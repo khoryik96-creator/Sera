@@ -164,7 +164,7 @@ Rhen looked at Lu.
 
 [[speaker:luweiran]]“Already moving through the first courier handoff.”
 
-“Good.”
+[[speaker:rhen]]“Good.”
 
 [[speaker:luweiran]]“You will not reach Sera before it does.”
 
@@ -250,7 +250,7 @@ Then to Lu.
 
 [[speaker:luweiran]]“I will continue doing everyone's actual work.”
 
-“Good.”
+[[speaker:rhen]]“Good.”
 
 Lu's mouth twitched despite himself.
 
@@ -848,7 +848,7 @@ Rhen looked mildly defensive.
 
 [[speaker:sera]]“Violet.”
 
-“Worse.”
+[[speaker:rhen]]“Worse.”
 
 Sera laughed.
 
@@ -1048,7 +1048,7 @@ Rhen looked at her bandaged arm.
 
 [[speaker:rhen]]“You have internal tearing.”
 
-“I know.”
+[[speaker:sera]]“I know.”
 
 [[speaker:rhen]]“You are compensating through the left shoulder and lower ribs.”
 
@@ -1064,7 +1064,7 @@ Rhen looked at Luo.
 
 [[speaker:rhen]]“Is she always like this now?”
 
-“Worse.”
+[[speaker:luo]]“Worse.”
 
 “Traitor,” Sera said.
 
@@ -1416,7 +1416,7 @@ At noon, Jin found her carrying two bowls of broth.
 
 “One is for him?” he asked.
 
-“Yes.”
+[[speaker:sera]]“Yes.”
 
 [[speaker:jin]]“Good.”
 

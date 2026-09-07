@@ -54,7 +54,7 @@ Instead it made her distrust the universe.
 
 [[speaker:aya]]“He repaired a hidden arterial tear from across the district.”
 
-“Yes.”
+[[speaker:luo]]“Yes.”
 
 [[speaker:aya]]“Without seeing the patient.”
 
@@ -184,7 +184,7 @@ Then looked back at Rhen.
 
 [[speaker:aya]]“You're serious.”
 
-“Yes.”
+[[speaker:rhen]]“Yes.”
 
 [[speaker:aya]]“You can feel sixty thousand damaged circulations under this field.”
 
@@ -316,7 +316,7 @@ Aya did not soften it.
 
 [[speaker:rhen]]“But it existed.”
 
-“Yes.”
+[[speaker:aya]]“Yes.”
 
 [[speaker:rhen]]“And soldiers received it as standard sealed issue.”
 
@@ -388,7 +388,7 @@ Rhen looked toward the nearest hospital row.
 
 [[speaker:rhen]]“You treated people because they were in front of you.”
 
-“Yes.”
+[[speaker:rhen]]“Yes.”
 
 [[speaker:rhen]]“Even when you hated why they were hurt.”
 
@@ -538,7 +538,7 @@ For several breaths they stood beside the sleeping officer.
 
 Then Aya said, “I started writing the numbers into every Redline record.”
 
-“I heard.”
+[[speaker:rhen]]“I heard.”
 
 [[speaker:aya]]“Command objected.”
 
@@ -898,11 +898,11 @@ Sigrun blinked.
 
 [[speaker:sigrun]]“You just healed me.”
 
-“Yes.”
+[[speaker:rhen]]“Yes.”
 
 [[speaker:sigrun]]“You want me to use the thing that let me fight while injured.”
 
-“No.”
+[[speaker:rhen]]“No.”
 
 Rhen pointed at the spear.
 
@@ -956,7 +956,7 @@ Sigrun's smile faded.
 
 [[speaker:rhen]]“It delays consequences.”
 
-“I know.”
+[[speaker:sigrun]]“I know.”
 
 [[speaker:rhen]]“You used it until the evacuation cleared.”
 
@@ -1060,7 +1060,7 @@ Solveig's hand remained extended.
 
 [[speaker:aldric]]“And now we can.”
 
-“Yes.”
+[[speaker:solveig]]“Yes.”
 
 [[speaker:aldric]]“That changes our ability to fight. It does not erase your ability to command.”
 
@@ -1540,7 +1540,7 @@ Jin's eyes narrowed.
 
 [[speaker:jin]]“Yurushi says the same.”
 
-“Good.”
+[[speaker:rhen]]“Good.”
 
 [[speaker:jin]]“If Tsubasa moves personally, he will likely consolidate the official Ten around the Isgard theater.”
 

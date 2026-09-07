@@ -86,7 +86,7 @@ Rhen's gaze sharpened by a degree so small that another person might have missed
 
 [[speaker:rhen]]“That was not what I asked.”
 
-“I know.”
+[[speaker:luweiran]]“I know.”
 
 Lu crouched beside the ledgers and took the top one.
 
@@ -166,7 +166,7 @@ Lu saw it because Rhen's face became completely still.
 
 [[speaker:rhen]]“One day.”
 
-“Yes.”
+[[speaker:luweiran]]“Yes.”
 
 If Sera had brought the news twenty-four hours earlier, Rhen would have been standing in Isgard before Yun's body cooled.
 
@@ -202,7 +202,7 @@ Rhen's gaze dropped to the ledger.
 
 [[speaker:rhen]]“The lifespan?”
 
-“No.”
+[[speaker:luweiran]]“No.”
 
 Rhen was quiet for several breaths.
 
@@ -568,7 +568,7 @@ Rhen listened with increasing stillness.
 
 “Two Paragons?” he asked.
 
-“Yes.”
+[[speaker:luweiran]]“Yes.”
 
 [[speaker:rhen]]“And the house?”
 
@@ -586,7 +586,7 @@ Rhen waited.
 
 [[speaker:luweiran]]“The tea survived.”
 
-“Good.”
+[[speaker:rhen]]“Good.”
 
 [[speaker:luweiran]]“Haru took three Redlines in a later engagement.”
 
@@ -600,7 +600,7 @@ Only slightly.
 
 [[speaker:rhen]]“Three three-times doses?”
 
-“Yes.”
+[[speaker:luweiran]]“Yes.”
 
 Rhen did the arithmetic without asking.
 
@@ -612,7 +612,7 @@ Then roughly quadruple for the third.
 
 “Thirty-five years,” he said.
 
-“Approximately.”
+[[speaker:luweiran]]“Approximately.”
 
 [[speaker:rhen]]“Idiot.”
 
@@ -632,7 +632,7 @@ Lu moved to the Isgard front again.
 
 [[speaker:luweiran]]“Kael reached Paragon before the war. He beat Jun.”
 
-“Good.”
+[[speaker:rhen]]“Good.”
 
 [[speaker:luweiran]]“Kai Moriyama arrived after that. High Paragon. Kael lost to him.”
 
@@ -658,7 +658,7 @@ Lu considered this.
 
 [[speaker:luweiran]]“You have an irritating way of making injuries sound educational.”
 
-“I am a physician.”
+[[speaker:rhen]]“I am a physician.”
 
 [[speaker:luweiran]]“That is not what physicians do.”
 
@@ -776,7 +776,7 @@ Rhen's attention sharpened again.
 
 [[speaker:luweiran]]“Enough that Luo has ordered her to stop fighting twice.”
 
-“And?”
+[[speaker:rhen]]“And?”
 
 [[speaker:luweiran]]“You know Sera.”
 
@@ -1280,7 +1280,7 @@ Qin turned toward the northern wall.
 
 [[speaker:qin]]“You're going to Isgard.”
 
-“Yes.”
+[[speaker:rhen]]“Yes.”
 
 Huo stepped forward immediately.
 
@@ -1656,7 +1656,7 @@ Yurushi looked almost offended.
 
 [[speaker:black_radiance]]“That's your question?”
 
-“I am a physician.”
+[[speaker:rhen]]“I am a physician.”
 
 Lu muttered, “He keeps saying that as if it explains him.”
 
@@ -1804,7 +1804,7 @@ Lu folded his arms.
 
 [[speaker:luweiran]]“A little.”
 
-“Yes.”
+[[speaker:rhen]]“Yes.”
 
 A frost-white petal formed near Rhen's collar.
 
@@ -1848,7 +1848,7 @@ Yurushi's expression hardened.
 
 [[speaker:black_radiance]]“For Sera?”
 
-“Yes.”
+[[speaker:luweiran]]“Yes.”
 
 Rhen's gaze moved between them.
 
@@ -1934,7 +1934,7 @@ Yurushi followed his gaze.
 
 [[speaker:black_radiance]]“I have been.”
 
-“I know.”
+[[speaker:rhen]]“I know.”
 
 Rhen stepped away from the crates.
 
