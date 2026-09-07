@@ -7,6 +7,7 @@ on:
     paths:
       - scripts/apply-dialogue-final-residuals.mjs
       - scripts/apply-dialogue-final-safe.mjs
+      - scripts/dialogue-context-anchors.mjs
       - .github/workflows/dialogue-final-residuals.yml
 
 permissions:
@@ -27,6 +28,8 @@ jobs:
       - run: npm ci
       - name: Apply explicit residual mappings
         run: node scripts/apply-dialogue-final-safe.mjs
+      - name: Apply context-anchored residual mappings
+        run: node scripts/dialogue-context-anchors.mjs
       - name: Regenerate dialogue audit
         run: npm run audit:dialogue
       - name: Verify patch whitespace
@@ -41,5 +44,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add docs/prose docs/dialogue-audit
-          git commit -m "Audit dialogue speakers: final residual batch"
+          git commit -m "Audit dialogue speakers: context-anchored residuals"
           git push origin HEAD:story/dialogue-audit-final-residuals-s95-s114
