@@ -366,7 +366,7 @@ Hana's humor vanished.
 
 [[speaker:nao]]“About the amended Redline records?”
 
-“Yes.”
+[[speaker:hana]]“Yes.”
 
 [[speaker:nao]]“She did.”
 
@@ -474,7 +474,7 @@ Shunto leaned back.
 
 [[speaker:shunto]]“Dramatic.”
 
-“No.”
+[[speaker:tsubasa]]“No.”
 
 Tsubasa's voice remained even.
 
@@ -586,7 +586,7 @@ Tsubasa reached Aya's hospital tent.
 
 She was washing blood from her hands.
 
-“Tsubasa.”
+[[speaker:aya]]“Tsubasa.”
 
 [[speaker:tsubasa]]“I need your opinion.”
 
@@ -662,7 +662,7 @@ She looked back at the page.
 
 [[speaker:aya]]“I cannot identify a perpetrator from injuries.”
 
-“I know.”
+[[speaker:tsubasa]]“I know.”
 
 [[speaker:aya]]“Then why ask his name?”
 
@@ -678,7 +678,7 @@ Aya understood.
 
 [[speaker:aya]]“What did he say?”
 
-“No.”
+[[speaker:tsubasa]]“No.”
 
 Aya closed her eyes briefly.
 
@@ -686,7 +686,7 @@ When she opened them, anger sat there cleanly.
 
 [[speaker:aya]]“Do you believe him?”
 
-“No.”
+[[speaker:tsubasa]]“No.”
 
 Tsubasa took the sheet back.
 
@@ -698,7 +698,7 @@ Aya's voice sharpened.
 
 [[speaker:aya]]“You already have enough to remove him from custody authority.”
 
-“Yes.”
+[[speaker:tsubasa]]“Yes.”
 
 [[speaker:aya]]“Then do it.”
 
@@ -738,7 +738,7 @@ Aya almost laughed from sheer frustration.
 
 [[speaker:aya]]“You are impossible.”
 
-“No.”
+[[speaker:tsubasa]]“No.”
 
 He looked toward the command camp.
 
@@ -790,7 +790,7 @@ Aya rubbed her temple.
 
 [[speaker:aya]]“We are not sabotaging the army.”
 
-“No.”
+[[speaker:hana]]“No.”
 
 [[speaker:aya]]“We are not helping Wuyue win battles.”
 
@@ -922,7 +922,7 @@ Nao's eyes narrowed.
 
 “Did you?” Aya asked.
 
-“No.”
+[[speaker:hana]]“No.”
 
 Hana's answer came cleanly.
 
@@ -944,7 +944,7 @@ Hana met her eyes.
 
 [[speaker:hana]]“You wanted a place to put your records.”
 
-“Yes.”
+[[speaker:aya]]“Yes.”
 
 [[speaker:hana]]“Put them where Shunto cannot rewrite them afterward.”
 
@@ -1168,7 +1168,7 @@ Shunto's face hardened.
 
 [[speaker:shunto]]“You are accepting enemy reconstruction as fact.”
 
-“No.”
+[[speaker:tsubasa]]“No.”
 
 [[speaker:shunto]]“A frightened guard?”
 
@@ -1194,7 +1194,7 @@ Tsubasa continued.
 
 [[speaker:shunto]]“You came to me having already decided.”
 
-“No.”
+[[speaker:tsubasa]]“No.”
 
 For the first time, Tsubasa's voice sharpened.
 
@@ -1208,7 +1208,7 @@ Cold.
 
 [[speaker:shunto]]“You're doing this now.”
 
-“Yes.”
+[[speaker:tsubasa]]“Yes.”
 
 [[speaker:shunto]]“During a war.”
 
@@ -1220,7 +1220,7 @@ Cold.
 
 [[speaker:shunto]]“With Wuyue at the gate.”
 
-“Yes.”
+[[speaker:tsubasa]]“Yes.”
 
 Shunto looked around the room.
 
@@ -1402,7 +1402,7 @@ But Tsubasa saw it.
 
 [[speaker:shunto]]“Now?”
 
-“Yes.”
+[[speaker:tsubasa]]“Yes.”
 
 Shunto looked toward the command tables.
 
@@ -1444,7 +1444,7 @@ Kai looked toward him.
 
 [[speaker:kai]]“Because he may resist?”
 
-“No.”
+[[speaker:tsubasa]]“No.”
 
 Tsubasa watched Shunto disappear beyond the tent flap.
 

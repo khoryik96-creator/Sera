@@ -108,7 +108,7 @@ The junior officer looked back with the hollow bravery of a man who had already 
 
 Jin sighed.
 
-“Fine.”
+[[speaker:jin]]“Fine.”
 
 He drew a line across one ledger.
 
@@ -238,7 +238,7 @@ Jin looked at her.
 
 [[speaker:jin]]“Lu is a menace.”
 
-“Yes.”
+[[speaker:sera]]“Yes.”
 
 She put a wrapped bun beside Jin's hand.
 
@@ -390,7 +390,7 @@ Then another.
 
 [[speaker:sera]]“Will he panic?”
 
-“No.”
+[[speaker:jin]]“No.”
 
 Jin's answer came without hesitation.
 
@@ -620,7 +620,7 @@ Tsubasa leaned back.
 
 [[speaker:tsubasa]]“A boundary.”
 
-“Yes.”
+[[speaker:hana]]“Yes.”
 
 Hana looked down at the old reports.
 
@@ -828,11 +828,11 @@ The scout captain beside her looked confused.
 
 “They left.”
 
-“Yes.”
+[[speaker:ilyra]]“Yes.”
 
 “Without a fight.”
 
-“Yes.”
+[[speaker:ilyra]]“Yes.”
 
 “That's good.”
 
@@ -1128,7 +1128,7 @@ Sera rubbed her temple.
 
 [[speaker:sera]]“For us?”
 
-“Yes.”
+[[speaker:rhen]]“Yes.”
 
 Jin muttered something impolite.
 

@@ -44,15 +44,15 @@ Aya did not look up.
 
 “The wording is.”
 
-“Yes.”
+[[speaker:aya]]“Yes.”
 
 “It is causing concern.”
 
-“Yes.”
+[[speaker:aya]]“Yes.”
 
 “That was not praise.”
 
-“I know.”
+[[speaker:aya]]“I know.”
 
 Aya finished a number.
 
@@ -60,11 +60,11 @@ The colonel placed both hands on the desk.
 
 “Five years is an estimate.”
 
-“Yes.”
+[[speaker:aya]]“Yes.”
 
 “Not a guaranteed cost.”
 
-“Yes.”
+[[speaker:aya]]“Yes.”
 
 “Then writing it like that is misleading.”
 
@@ -86,7 +86,7 @@ The colonel's jaw tightened.
 
 “Soldiers do not need a lifespan estimate in the middle of active war.”
 
-“Why?”
+[[speaker:aya]]“Why?”
 
 “Because it affects willingness.”
 
@@ -428,7 +428,7 @@ He looked at the sealed vial tied inside his emergency pouch.
 
 “They told us recovery could take months.”
 
-“I know.”
+[[speaker:aya]]“I know.”
 
 “Did they know?”
 
@@ -670,7 +670,7 @@ Yurushi looked at the words.
 
 [[speaker:luweiran]]“They are supposed to.”
 
-“Why?”
+[[speaker:black_radiance]]“Why?”
 
 [[speaker:luweiran]]“Because the truth does not become more true if I decorate it.”
 
@@ -852,7 +852,7 @@ She gave a small, broken laugh despite herself.
 
 [[speaker:sera]]“Idiot.”
 
-“Yes.”
+[[speaker:rhen]]“Yes.”
 
 She hit him lightly in the ribs.
 
@@ -1010,7 +1010,7 @@ Sera's chest loosened by one breath.
 
 [[speaker:luo]]“She would call it inefficient.”
 
-“Yes.”
+[[speaker:sera]]“Yes.”
 
 [[speaker:luo]]“She would probably correct my poison ratios at the funeral.”
 
@@ -1034,11 +1034,11 @@ Sera's throat closed.
 
 [[speaker:sera]]“She prioritized the invasion evidence.”
 
-“I know.”
+[[speaker:luo]]“I know.”
 
 [[speaker:sera]]“She may not have wanted her last minutes to become—”
 
-“I know.”
+[[speaker:luo]]“I know.”
 
 The third answer broke.
 
@@ -1122,11 +1122,11 @@ Sera continued.
 
 “I am not asking you to forgive Shunto.”
 
-“Good.”
+[[speaker:luo]]“Good.”
 
 [[speaker:sera]]“I am not asking you to forget.”
 
-“Good.”
+[[speaker:luo]]“Good.”
 
 [[speaker:sera]]“I am asking you not to let him choose what you become next.”
 
@@ -1154,7 +1154,7 @@ Luo's gaze sharpened.
 
 “Sera.”
 
-“No.”
+[[speaker:sera]]“No.”
 
 [[speaker:luo]]“You don't even know what I was going to say.”
 
@@ -1206,7 +1206,7 @@ Luo traced one line with his thumb.
 
 [[speaker:luo]]“She hated this version.”
 
-“Why?”
+[[speaker:sera]]“Why?”
 
 [[speaker:luo]]“She said I was thinking like a doctor.”
 
