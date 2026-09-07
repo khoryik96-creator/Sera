@@ -1,44 +1,50 @@
-name: Dialogue final residual batch
+name: Dialogue audit tooling cleanup
 
 on:
   push:
     branches:
       - story/dialogue-audit-final-residuals-s95-s114
     paths:
-      - scripts/update-dialogue-audit-readme.mjs
       - .github/workflows/dialogue-final-residuals.yml
 
 permissions:
   contents: write
 
 jobs:
-  apply:
+  cleanup:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
         with:
           ref: story/dialogue-audit-final-residuals-s95-s114
           fetch-depth: 0
-      - uses: actions/setup-node@v4
-        with:
-          node-version: 22
-          cache: npm
-      - run: npm ci
-      - name: Regenerate dialogue audit
-        run: npm run audit:dialogue
-      - name: Refresh README counts
-        run: node scripts/update-dialogue-audit-readme.mjs
-      - name: Verify patch whitespace
-        run: git diff --check
-      - name: Commit refreshed audit docs
+      - name: Remove one-shot dialogue tooling
         shell: bash
         run: |
-          if git diff --quiet; then
-            echo "No audit doc changes to commit."
-            exit 0
-          fi
+          git rm -f --ignore-unmatch \
+            .github/workflows/dialogue-final-residuals.yml \
+            .github/workflows/dialogue-focus-safety.yml \
+            .github/workflows/dialogue-inference-safety.yml \
+            .github/workflows/dialogue-manual-map.yml \
+            .github/workflows/dialogue-s95-complete.yml \
+            .github/workflows/dialogue-s95-safe-run.yml \
+            scripts/apply-dialogue-final-residuals.mjs \
+            scripts/apply-dialogue-final-safe.mjs \
+            scripts/apply-dialogue-s95-complete.mjs \
+            scripts/dialogue-context-anchors.mjs \
+            scripts/dialogue-manual-map.mjs \
+            scripts/dialogue-residual-map-95.mjs \
+            scripts/dialogue-residual-map-96-103.mjs \
+            scripts/patch-dialogue-inference-safety.mjs \
+            scripts/remove-dialogue-focus-inference.mjs \
+            scripts/run-dialogue-manual-map.mjs \
+            scripts/run-s95-map-safely.mjs \
+            scripts/update-dialogue-audit-readme.mjs
+          git diff --cached --check
+      - name: Commit cleanup
+        shell: bash
+        run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add docs/dialogue-audit
-          git commit -m "Refresh dialogue audit residual counts"
+          git commit -m "Remove temporary dialogue audit tooling"
           git push origin HEAD:story/dialogue-audit-final-residuals-s95-s114
