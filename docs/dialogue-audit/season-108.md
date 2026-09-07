@@ -1,6 +1,6 @@
 # Season 108 — unattributed dialogue
 
-30 quoted lines in this season have no speaker.
+23 quoted lines in this season have no speaker.
 See `README.md` in this folder for what to do with them.
 
 Lines already resolved show their speaker in `[brackets]` for context.
@@ -44,24 +44,8 @@ Aldric looked at him.
 “My lord—”
 [aldric] “We purchase what can be purchased, borrow against the Wuyue shipment, and cut military issue before taking seed grain.”
 >>> “That reduces readiness.”   <-- WHO SAYS THIS?
-“Yes.”
+[aldric] “Yes.”
 The word landed harder than a heroic speech.
-```
-```
-“My lord—”
-[aldric] “We purchase what can be purchased, borrow against the Wuyue shipment, and cut military issue before taking seed grain.”
-“That reduces readiness.”
->>> “Yes.”   <-- WHO SAYS THIS?
-The word landed harder than a heroic speech.
-Aldric continued. “A government that saves its army by ensuring nobody can plant after the war has defended a uniform, not a country.”
-```
-```
-Eirik understood what that meant. Every functioning day weakened the strongest part of his political argument: that only imposed order could save the north from itself.
-Near sunset, Solveig placed the morning’s three denied petitions back on Aldric’s desk.
-[solveig] “Keep them.”
->>> “Why?”   <-- WHO SAYS THIS?
-[solveig] “Because when this is over, somebody will claim emergency command worked because everyone agreed.”
-Aldric looked around the hall.
 ```
 
 ### Chapter 436 — The Soldiers Learn What Five Years Means
@@ -189,33 +173,9 @@ The medic’s face hardened.
 ### Chapter 437 — Tsubasa Has Still Not Entered the Field
 
 ```
-[kael] “So he is fresh.”
-[jin] “Relative to the forward Paragons,” Jin said. “Yes.”
-[kael] “Peak Paragon.”
->>> “Yes.”   <-- WHO SAYS THIS?
-[kael] “Has not spent six months being punched by Wuyue and Isgard.”
-“Yes.”
-```
-```
-[kael] “Peak Paragon.”
-“Yes.”
-[kael] “Has not spent six months being punched by Wuyue and Isgard.”
->>> “Yes.”   <-- WHO SAYS THIS?
-Kael looked offended by the arithmetic.
-Sera said, “Good.”
-```
-```
-It had made him increasingly certain that because his answers worked, he had earned the right to choose the question for everyone else.
 Sera folded the pages.
 “Still good?” Kael asked.
->>> “Yes.”   <-- WHO SAYS THIS?
-“Why?”
-[sera] “Because legends become easier to fight when you know what they actually learned.”
-```
-```
-Sera folded the pages.
-“Still good?” Kael asked.
-“Yes.”
+[sera] “Yes.”
 >>> “Why?”   <-- WHO SAYS THIS?
 [sera] “Because legends become easier to fight when you know what they actually learned.”
 Jin looked at her.
@@ -235,26 +195,10 @@ He paled.
 ### Chapter 439 — The Frost Changes Colour
 
 ```
-Violet within.
-Tae’s expression changed.
-[tae] “That is new.”
->>> “Yes.”   <-- WHO SAYS THIS?
-Qin placed his fingertips against the outer stone.
-He did not send qi through it.
-```
-```
 He raised both hands.
 [huo] “I asked so nobody else had to.”
 “No,” Lu said.
 >>> “Good.”   <-- WHO SAYS THIS?
 Nobody woke Rhen.
 Nobody sent Sera a triumphant message claiming he would emerge by sunset.
-```
-```
-**Frost-white petal. Pale-violet radiance. Seal intact. No instability. No intervention.**
-Qin remained several minutes longer.
-“Different?” Tae asked him.
->>> “Yes.”   <-- WHO SAYS THIS?
-[tae] “Dangerous?”
-Qin considered.
 ```

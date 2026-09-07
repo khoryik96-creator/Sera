@@ -275,11 +275,11 @@ Kael leaned over the table.
 
 [[speaker:kael]]“Peak Paragon.”
 
-“Yes.”
+[[speaker:jin]]“Yes.”
 
 [[speaker:kael]]“Has not spent six months being punched by Wuyue and Isgard.”
 
-“Yes.”
+[[speaker:jin]]“Yes.”
 
 Kael looked offended by the arithmetic.
 
@@ -413,7 +413,7 @@ Sera folded the pages.
 
 “Still good?” Kael asked.
 
-“Yes.”
+[[speaker:sera]]“Yes.”
 
 “Why?”
 
@@ -659,7 +659,7 @@ Tae’s expression changed.
 
 [[speaker:tae]]“That is new.”
 
-“Yes.”
+[[speaker:qin]]“Yes.”
 
 Qin placed his fingertips against the outer stone.
 
@@ -713,7 +713,7 @@ Qin remained several minutes longer.
 
 “Different?” Tae asked him.
 
-“Yes.”
+[[speaker:qin]]“Yes.”
 
 [[speaker:tae]]“Dangerous?”
 

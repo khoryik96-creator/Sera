@@ -608,7 +608,7 @@ Aldric looked at him.
 
 “That reduces readiness.”
 
-“Yes.”
+[[speaker:aldric]]“Yes.”
 
 The word landed harder than a heroic speech.
 
@@ -658,7 +658,7 @@ Near sunset, Solveig placed the morning’s three denied petitions back on Aldri
 
 [[speaker:solveig]]“Keep them.”
 
-“Why?”
+[[speaker:aldric]]“Why?”
 
 [[speaker:solveig]]“Because when this is over, somebody will claim emergency command worked because everyone agreed.”
 
