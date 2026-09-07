@@ -77,11 +77,11 @@ A nervous officer looked at Jin.
 
 “We’re losing the ridge.”
 
-“Yes.”
+[[speaker:jin]]“Yes.”
 
 “Do we—”
 
-“No.”
+[[speaker:jin]]“No.”
 
 Three minutes.
 
@@ -327,7 +327,7 @@ Kenji looked away.
 
 [[speaker:kai]]“Was he trying to kill you?”
 
-“Yes.”
+[[speaker:kenji]]“Yes.”
 
 [[speaker:kai]]“Then don’t turn honesty into self-indulgence.”
 
@@ -365,7 +365,7 @@ Kai looked at the latter longest.
 
 “Two major,” Eirik said. “Several smaller.”
 
-“Aya?”
+[[speaker:kai]]“Aya?”
 
 She looked at him.
 
@@ -407,7 +407,7 @@ Kai looked at the Wuyue apex markers.
 
 [[speaker:kai]]“Kael?”
 
-“New Paragon. Better than initial model.”
+[[speaker:eirik]]“New Paragon. Better than initial model.”
 
 Jun said, “He learns quickly.”
 

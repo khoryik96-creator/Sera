@@ -1,6 +1,6 @@
 # Season 105 — unattributed dialogue
 
-84 quoted lines in this season have no speaker.
+74 quoted lines in this season have no speaker.
 See `README.md` in this folder for what to do with them.
 
 Lines already resolved show their speaker in `[brackets]` for context.
@@ -219,20 +219,12 @@ A command decision had taken years from hundreds of people in one afternoon.
 A colonel entered.
 >>> “Physician Katsuragi.”   <-- WHO SAYS THIS?
 Aya did not look up.
-“What?”
-```
-```
-A colonel entered.
-“Physician Katsuragi.”
-Aya did not look up.
->>> “What?”   <-- WHO SAYS THIS?
-“Command requests readiness estimate for surviving Redline formations.”
-Her hand stopped.
+[aya] “What?”
 ```
 ```
 “Physician Katsuragi.”
 Aya did not look up.
-“What?”
+[aya] “What?”
 >>> “Command requests readiness estimate for surviving Redline formations.”   <-- WHO SAYS THIS?
 Her hand stopped.
 [aya] “Readiness.”
@@ -289,16 +281,8 @@ He blinked.
 ### Chapter 404 — They Told Him Months
 
 ```
-Not pain.
-Anxiety.
 Aya finished adjusting the needle in his shoulder.
->>> “What?”   <-- WHO SAYS THIS?
-He looked at her.
-“Nothing.”
-```
-```
-Aya finished adjusting the needle in his shoulder.
-“What?”
+[aya] “What?”
 He looked at her.
 >>> “Nothing.”   <-- WHO SAYS THIS?
 [aya] “Your pulse disagrees.”
@@ -341,37 +325,21 @@ Something cold moved through Aya.
 [aya] “What exactly were you told about Redline?”
 The young man frowned.
 >>> “That it’s an emergency stimulant.”   <-- WHO SAYS THIS?
-“Yes.”
+[aya] “Yes.”
 “Three-times output for around five minutes.”
-```
-```
-[aya] “What exactly were you told about Redline?”
-The young man frowned.
-“That it’s an emergency stimulant.”
->>> “Yes.”   <-- WHO SAYS THIS?
-“Three-times output for around five minutes.”
-“Yes.”
 ```
 ```
 The young man frowned.
 “That it’s an emergency stimulant.”
-“Yes.”
+[aya] “Yes.”
 >>> “Three-times output for around five minutes.”   <-- WHO SAYS THIS?
-“Yes.”
+[aya] “Yes.”
 “Severe fatigue. Meridian damage. Recovery can take months. Repeated use is dangerous.”
 ```
 ```
-“That it’s an emergency stimulant.”
-“Yes.”
+[aya] “Yes.”
 “Three-times output for around five minutes.”
->>> “Yes.”   <-- WHO SAYS THIS?
-“Severe fatigue. Meridian damage. Recovery can take months. Repeated use is dangerous.”
-Aya’s hands went still.
-```
-```
-“Yes.”
-“Three-times output for around five minutes.”
-“Yes.”
+[aya] “Yes.”
 >>> “Severe fatigue. Meridian damage. Recovery can take months. Repeated use is dangerous.”   <-- WHO SAYS THIS?
 Aya’s hands went still.
 [aya] “Lifespan.”
@@ -469,21 +437,13 @@ On the first page she wrote:
 **3× REDLINE: APPROXIMATELY FIVE MINUTES OF TRIPLE COMBAT THROUGHPUT. STANDARD HEALTHY-ADULT FUTURE-LIFE COST MAY APPROXIMATE FIVE YEARS. REPEAT USE COMPOUNDS SHARPLY.**
 The clerk beside her stared.
 >>> “Physician—”   <-- WHO SAYS THIS?
-“Copy it.”
-“Command has not approved—”
-```
-```
-**3× REDLINE: APPROXIMATELY FIVE MINUTES OF TRIPLE COMBAT THROUGHPUT. STANDARD HEALTHY-ADULT FUTURE-LIFE COST MAY APPROXIMATE FIVE YEARS. REPEAT USE COMPOUNDS SHARPLY.**
-The clerk beside her stared.
-“Physician—”
->>> “Copy it.”   <-- WHO SAYS THIS?
-“Command has not approved—”
 [aya] “Copy it.”
+“Command has not approved—”
 ```
 ```
 The clerk beside her stared.
 “Physician—”
-“Copy it.”
+[aya] “Copy it.”
 >>> “Command has not approved—”   <-- WHO SAYS THIS?
 [aya] “Copy it.”
 Her voice did not rise.
@@ -578,32 +538,16 @@ Two.
 Wuyue gave more.
 A nervous officer looked at Jin.
 >>> “We’re losing the ridge.”   <-- WHO SAYS THIS?
-“Yes.”
+[jin] “Yes.”
 “Do we—”
-```
-```
-Wuyue gave more.
-A nervous officer looked at Jin.
-“We’re losing the ridge.”
->>> “Yes.”   <-- WHO SAYS THIS?
-“Do we—”
-“No.”
 ```
 ```
 A nervous officer looked at Jin.
 “We’re losing the ridge.”
-“Yes.”
+[jin] “Yes.”
 >>> “Do we—”   <-- WHO SAYS THIS?
-“No.”
+[jin] “No.”
 Three minutes.
-```
-```
-“We’re losing the ridge.”
-“Yes.”
-“Do we—”
->>> “No.”   <-- WHO SAYS THIS?
-Three minutes.
-The pursuing Shinsei officers sensed the trap.
 ```
 ```
 [jin] “We won.”
@@ -628,33 +572,6 @@ Jin looked at him.
 >>> “Yes.”   <-- WHO SAYS THIS?
 That was the point.
 War was not finding one clever answer and keeping it forever.
-```
-
-### Chapter 407 — Kai Moriyama Arrives
-
-```
-[kai] “Battle?”
-[kenji] “Yes.”
-[kai] “Was he trying to kill you?”
->>> “Yes.”   <-- WHO SAYS THIS?
-[kai] “Then don’t turn honesty into self-indulgence.”
-Kenji looked back.
-```
-```
-Kai looked at the latter longest.
-[kai] “How many mass activations?”
-[eirik] “Two major,” Eirik said. “Several smaller.”
->>> “Aya?”   <-- WHO SAYS THIS?
-She looked at him.
-[aya] “Too many.”
-```
-```
-[kai] “Sera.”
-“Peak Paragon,” Eirik said.
-[kai] “Kael?”
->>> “New Paragon. Better than initial model.”   <-- WHO SAYS THIS?
-Jun said, “He learns quickly.”
-Kai looked at him.
 ```
 
 ### Chapter 408 — Kael Learns What High Paragon Means

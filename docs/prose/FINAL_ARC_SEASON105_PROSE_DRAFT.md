@@ -712,7 +712,7 @@ A colonel entered.
 
 Aya did not look up.
 
-“What?”
+[[speaker:aya]]“What?”
 
 “Command requests readiness estimate for surviving Redline formations.”
 
@@ -834,7 +834,7 @@ Anxiety.
 
 Aya finished adjusting the needle in his shoulder.
 
-“What?”
+[[speaker:aya]]“What?”
 
 He looked at her.
 
@@ -874,11 +874,11 @@ The young man frowned.
 
 “That it’s an emergency stimulant.”
 
-“Yes.”
+[[speaker:aya]]“Yes.”
 
 “Three-times output for around five minutes.”
 
-“Yes.”
+[[speaker:aya]]“Yes.”
 
 “Severe fatigue. Meridian damage. Recovery can take months. Repeated use is dangerous.”
 
@@ -1052,7 +1052,7 @@ The clerk beside her stared.
 
 “Physician—”
 
-“Copy it.”
+[[speaker:aya]]“Copy it.”
 
 “Command has not approved—”
 
