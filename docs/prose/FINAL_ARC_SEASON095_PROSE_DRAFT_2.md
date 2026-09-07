@@ -52,7 +52,7 @@ The paper darkened at the edge.
 
 Luo watched.
 
-“Circulation opener.”
+[[speaker:luo]]“Circulation opener.”
 
 [[speaker:yun]]“Partly.”
 
@@ -106,7 +106,7 @@ Yun looked back.
 
 After a moment she added, “Professionally.”
 
-“Of course.”
+[[speaker:luo]]“Of course.”
 
 They had been together long enough that neither needed to perform affection every time they were alone.
 
@@ -300,7 +300,7 @@ Yun released him and returned to the sample.
 
 Luo sat beside her.
 
-“Why?”
+[[speaker:luo]]“Why?”
 
 [[speaker:yun]]“Because of the screening logic.”
 
@@ -350,7 +350,7 @@ Yun leaned back.
 
 [[speaker:yun]]“If I say six, does it become one?”
 
-“No.”
+[[speaker:luo]]“No.”
 
 [[speaker:yun]]“Cruel.”
 
@@ -490,7 +490,7 @@ Rhen withdrew his hand.
 
 Yun watched his face.
 
-“That is annoying you.”
+[[speaker:yun]]“That is annoying you.”
 
 “Yes.”
 
@@ -500,7 +500,7 @@ The patient swallowed.
 
 Rhen looked at him.
 
-“You are alive.”
+[[speaker:rhen]]“You are alive.”
 
 “That part was comforting.”
 
@@ -522,15 +522,15 @@ He disliked naming things before he understood them.
 
 Luo stepped closer.
 
-“Vital reserve?”
+[[speaker:luo]]“Vital reserve?”
 
 [[speaker:rhen]]“Something adjacent to it.”
 
 Yun folded her arms.
 
-“You said the body is repaired.”
+[[speaker:yun]]“You said the body is repaired.”
 
-“It is.”
+[[speaker:rhen]]“It is.”
 
 [[speaker:yun]]“Then this is not damage.”
 
@@ -538,7 +538,7 @@ Yun folded her arms.
 
 Sera pushed away from the wall.
 
-“What is the difference?”
+[[speaker:sera]]“What is the difference?”
 
 Rhen looked at her.
 
@@ -554,7 +554,7 @@ The patient looked at his hands.
 
 Rhen's jaw tightened slightly.
 
-“I do not know yet.”
+[[speaker:rhen]]“I do not know yet.”
 
 Yun did.
 
@@ -588,7 +588,7 @@ Rhen considered.
 
 [[speaker:sera]]“And the missing part?”
 
-“I do not know.”
+[[speaker:rhen]]“I do not know.”
 
 Qin spoke for the first time.
 
@@ -604,13 +604,13 @@ Qin tilted his head.
 
 Luo looked interested.
 
-“Thin how?”
+[[speaker:luo]]“Thin how?”
 
 [[speaker:qin]]“Like a bell with the right shape but less metal.”
 
 Yun's eyes sharpened.
 
-“That is useful.”
+[[speaker:yun]]“That is useful.”
 
 Qin smiled faintly.
 
@@ -626,11 +626,11 @@ Qin shook his head.
 
 Rhen nodded approvingly.
 
-“Reasonable.”
+[[speaker:rhen]]“Reasonable.”
 
 Sera looked at both of them.
 
-“I hate when you agree.”
+[[speaker:sera]]“I hate when you agree.”
 
 The patient almost smiled.
 
@@ -638,7 +638,7 @@ That helped.
 
 Rhen returned to the bedside.
 
-“What were you told before you took it?”
+[[speaker:rhen]]“What were you told before you took it?”
 
 The man hesitated.
 
@@ -668,17 +668,17 @@ The patient looked hopeful.
 
 Luo did not let him misunderstand.
 
-“That is not all it burns.”
+[[speaker:luo]]“That is not all it burns.”
 
 The hope disappeared.
 
 Sera crossed her arms.
 
-“Who gave it to you?”
+[[speaker:sera]]“Who gave it to you?”
 
 “A broker.”
 
-“Name.”
+[[speaker:sera]]“Name.”
 
 He gave one.
 
@@ -690,19 +690,19 @@ Of course he was there.
 
 Rhen looked again at the patient's face.
 
-“How old are you?”
+[[speaker:rhen]]“How old are you?”
 
 “Thirty-two.”
 
-“Any chronic illness?”
+[[speaker:rhen]]“Any chronic illness?”
 
 “No.”
 
-“Family heart weakness?”
+[[speaker:rhen]]“Family heart weakness?”
 
 “No.”
 
-“Previous stimulants?”
+[[speaker:rhen]]“Previous stimulants?”
 
 The man shook his head.
 
@@ -712,7 +712,7 @@ Nothing explained the gap.
 
 When the patient finally lay back, Rhen drew a thin blanket over him.
 
-“You are not dying today.”
+[[speaker:rhen]]“You are not dying today.”
 
 The man looked at him.
 
@@ -720,41 +720,41 @@ The man looked at him.
 
 Rhen's face stayed calm.
 
-“I do not make jokes about mortality with frightened patients.”
+[[speaker:rhen]]“I do not make jokes about mortality with frightened patients.”
 
 “That was not a joke.”
 
-“I know.”
+[[speaker:rhen]]“I know.”
 
 Rhen rested one hand on the bedframe.
 
-“You are stable. Eat. sleep. rebuild your qi normally. We will continue measuring what returns and what does not.”
+[[speaker:rhen]]“You are stable. Eat. sleep. rebuild your qi normally. We will continue measuring what returns and what does not.”
 
 The man nodded.
 
 When they stepped into the corridor, Sera shut the door behind them.
 
-“What do you think?”
+[[speaker:sera]]“What do you think?”
 
 Rhen looked toward the clinic window.
 
-“Something was spent.”
+[[speaker:rhen]]“Something was spent.”
 
 Yun nodded.
 
-“Future vitality.”
+[[speaker:yun]]“Future vitality.”
 
 Luo's mouth tightened.
 
-“That phrase is too broad.”
+[[speaker:luo]]“That phrase is too broad.”
 
 [[speaker:yun]]“It is still the nearest one.”
 
 Rhen looked at Yun.
 
-“What makes you think future?”
+[[speaker:rhen]]“What makes you think future?”
 
-“Because the compound delays collapse by pulling from somewhere the body normally refuses to access. If it were only present qi, you could restore the deficit by restoring qi.”
+[[speaker:yun]]“Because the compound delays collapse by pulling from somewhere the body normally refuses to access. If it were only present qi, you could restore the deficit by restoring qi.”
 
 Rhen said nothing.
 
@@ -778,7 +778,7 @@ They did not know.
 
 Sera looked at Rhen.
 
-“Can your strongest healing restore it?”
+[[speaker:sera]]“Can your strongest healing restore it?”
 
 He understood what she meant.
 
@@ -790,11 +790,11 @@ The deeper arts he almost never needed.
 
 Rhen shook his head once.
 
-“Not safely without knowing what I am restoring.”
+[[speaker:rhen]]“Not safely without knowing what I am restoring.”
 
 Yun lifted one eyebrow.
 
-“That is a very Rhen answer.”
+[[speaker:yun]]“That is a very Rhen answer.”
 
 [[speaker:rhen]]“It is a physician answer.”
 
@@ -802,7 +802,7 @@ Yun lifted one eyebrow.
 
 Rhen looked at her.
 
-“Sometimes.”
+[[speaker:rhen]]“Sometimes.”
 
 Sera glanced back through the clinic door.
 
@@ -830,7 +830,7 @@ He held up the original shipping manifest.
 
 Yun looked offended.
 
-“I have never contaminated your evidence table.”
+[[speaker:yun]]“I have never contaminated your evidence table.”
 
 Lu stared at her.
 
@@ -878,7 +878,7 @@ Sera's fingers tightened around his sleeve.
 
 Rhen covered her hand with his.
 
-“I am watching it.”
+[[speaker:rhen]]“I am watching it.”
 
 [[speaker:sera]]“So am I.”
 
@@ -946,13 +946,13 @@ The young woman swallowed.
 
 “No.”
 
-“Good.”
+[[speaker:luweiran]]“Good.”
 
 The courier blinked.
 
 Sera said, “He means useful.”
 
-“I said good.”
+[[speaker:luweiran]]“I said good.”
 
 The courier continued.
 
@@ -996,7 +996,7 @@ Sera waited.
 
 He continued.
 
-“Medicine moves on predictable schedules. Temperature-controlled compounds use certain wagons. Certain routes. Certain rest intervals. Controlled toxins require declared handlers. If someone wants to hide a dangerous substance inside legitimate medical traffic, they still have to obey enough of the boring rules to keep the cargo stable.”
+[[speaker:luweiran]]“Medicine moves on predictable schedules. Temperature-controlled compounds use certain wagons. Certain routes. Certain rest intervals. Controlled toxins require declared handlers. If someone wants to hide a dangerous substance inside legitimate medical traffic, they still have to obey enough of the boring rules to keep the cargo stable.”
 
 Sera nodded slowly.
 
@@ -1006,7 +1006,7 @@ Sera nodded slowly.
 
 Lu pointed at three route marks.
 
-“The first crate entered Isgard through South Fen. The second through a western grain exchange. The third came by sea disguised as fever medication.”
+[[speaker:luweiran]]“The first crate entered Isgard through South Fen. The second through a western grain exchange. The third came by sea disguised as fever medication.”
 
 [[speaker:sera]]“Different origins.”
 
@@ -1102,17 +1102,17 @@ Lu handed the packet to Sera.
 
 Qin turned his head.
 
-“Meaning if we kick the door in, half the evidence disappears into lawyers.”
+[[speaker:qin]]“Meaning if we kick the door in, half the evidence disappears into lawyers.”
 
 Sera looked at him.
 
-“Since when do you say lawyers?”
+[[speaker:sera]]“Since when do you say lawyers?”
 
 [[speaker:qin]]“Lu taught me.”
 
 Lu looked pained.
 
-“I did not.”
+[[speaker:luweiran]]“I did not.”
 
 [[speaker:qin]]“You did. Repeatedly. Usually with hatred.”
 
@@ -1196,7 +1196,7 @@ Lu looked at her.
 
 Luo opened the notebook without setting it down.
 
-“We think the first layer drives circulation. Another suppresses distress. A delayed component extends the high-output state after tissue begins failing.”
+[[speaker:luo]]“We think the first layer drives circulation. Another suppresses distress. A delayed component extends the high-output state after tissue begins failing.”
 
 “How long?” Sera asked.
 
@@ -1216,17 +1216,17 @@ Yun leaned against a cabinet.
 
 Sera pointed to the invoices.
 
-“We have three medical transport chains converging through the same suppliers and one Wuyue broker.”
+[[speaker:luweiran]]“We have three medical transport chains converging through the same suppliers and one Wuyue broker.”
 
 Yun's posture changed.
 
 [[speaker:yun]]“Local production?”
 
-“Not necessarily.”
+[[speaker:luweiran]]“Not necessarily.”
 
 [[speaker:yun]]“Then import.”
 
-“That is what I think.”
+[[speaker:luweiran]]“That is what I think.”
 
 Luo looked at the route map.
 
@@ -1290,7 +1290,7 @@ Then farther out across the blank space of the map.
 
 Sera looked at him.
 
-“What?”
+[[speaker:sera]]“What?”
 
 [[speaker:luweiran]]“The route does not begin anywhere.”
 
