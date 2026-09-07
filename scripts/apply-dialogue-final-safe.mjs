@@ -1,9 +1,11 @@
 import { readdir, readFile, writeFile } from 'node:fs/promises';
+import extraEntries from './dialogue-residual-map-96-103.mjs';
 
 const source = await readFile('scripts/apply-dialogue-final-residuals.mjs', 'utf8');
 const entriesMatch = source.match(/const entries = (\[[\s\S]*?\n\]);/);
 if (!entriesMatch) throw new Error('Could not load explicit residual mapping data.');
-const entries = Function(`"use strict"; return (${entriesMatch[1]});`)();
+const primaryEntries = Function(`"use strict"; return (${entriesMatch[1]});`)();
+const entries = [...primaryEntries, ...extraEntries];
 
 const valid = new Set(['rhen','sera','kael','liang','jin','lei','rui','ilyra','tae','mo','arin','luo','yun','qin','han','jianruo','xuweng','moqian','yeonhwa','wei','ji','cao','ye','zhao','lin','yan','meizhen','yunke','gaoren','shufen','baotien','meilin','song','shiyue','huo','nam','chun','haejin','gwon','daemun','baek','gong','jiang','duan','mi','qiu','zhao_renkai','mu','seo','gu','ren','qiao','miri','sorin','valeria','draven','aurel','vaelor','orun','iscaryn','rhavenn','tor','caedros','varesh','amon','aethon','mareth','garran','neris','sivra','oren','varok','raska','eira','tor_veyrhald','aldric','maedra','sigrun','halvek','solveig','eldran','brynja','oskar','astrid','jorek','freya','kellan','luweiran','xie_wuchen','black_radiance','tsubasa','shunto','kai','haru','eirik','hana','aya','kenji','jun','nao']);
 for (const [, , speaker, quote] of entries) {
