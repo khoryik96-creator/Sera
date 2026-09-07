@@ -34,31 +34,31 @@ The hatch opened three fingers wide.
 
 Shunto remained seated on the narrow cot.
 
-“No title?”
+[[speaker:shunto]]“No title?”
 
 The guard's jaw tightened.
 
 “You have been stripped of command.”
 
-“I heard.”
+[[speaker:shunto]]“I heard.”
 
 The cup slid through.
 
 Shunto did not reach for it.
 
-“How long have you served?”
+[[speaker:shunto]]“How long have you served?”
 
 The guard said nothing.
 
-“Eight years?”
+[[speaker:shunto]]“Eight years?”
 
 Silence.
 
-“Nine.”
+[[speaker:shunto]]“Nine.”
 
 The guard looked at him and understood. Shunto leaned back against the wall.
 
-“For nine years, if I told you to open a corridor, you opened it.”
+[[speaker:shunto]]“For nine years, if I told you to open a corridor, you opened it.”
 
 “You do not command me now.”
 
@@ -68,7 +68,7 @@ Shunto's gaze dropped to the man's hand.
 
 The hand holding the hatch lever.
 
-“Your body still thinks I do.”
+[[speaker:shunto]]“Your body still thinks I do.”
 
 The guard shut the hatch hard.
 
@@ -198,7 +198,7 @@ The guard stiffened.
 
 Shunto let his shoulder sag.
 
-“Chest.”
+[[speaker:shunto]]“Chest.”
 
 The guard did not move.
 
@@ -206,7 +206,7 @@ The guard did not move.
 
 Shunto breathed shallowly.
 
-“Redline withdrawal.”
+[[speaker:shunto]]“Redline withdrawal.”
 
 That phrase did what he expected.
 
@@ -396,7 +396,7 @@ Tsubasa looked at the hinge.
 
 Then at the unconscious guard.
 
-“Alive?”
+[[speaker:tsubasa]]“Alive?”
 
 Aya was already kneeling beside him.
 
@@ -406,7 +406,7 @@ Tsubasa's jaw tightened.
 
 Hana looked toward the south gate.
 
-“He is not heading for Shinrin.”
+[[speaker:hana]]“He is not heading for Shinrin.”
 
 “No.”
 
@@ -414,11 +414,11 @@ Hana looked toward the south gate.
 
 Tsubasa shook his head.
 
-“Too far.”
+[[speaker:tsubasa]]“Too far.”
 
 Kai studied the routing table dragged from the gate office.
 
-“Then what does he want?”
+[[speaker:kai]]“Then what does he want?”
 
 Tsubasa did not answer immediately.
 
@@ -436,19 +436,19 @@ Tsubasa looked at him.
 
 “Former Second Seat used still-live supply authorization at West Three.”
 
-“Destination?”
+[[speaker:tsubasa]]“Destination?”
 
 “Unclear. The route grants access toward the western recovered corridors.”
 
 Hana went still.
 
-“Wuyue.”
+[[speaker:hana]]“Wuyue.”
 
 Kai's eyes sharpened.
 
 Tsubasa looked toward the distant mountains.
 
-“Who is out there?”
+[[speaker:tsubasa]]“Who is out there?”
 
 The messenger unfolded a slate.
 
@@ -460,17 +460,17 @@ Tsubasa closed his eyes once.
 
 Then opened them.
 
-“Send warning to Wuyue command.”
+[[speaker:tsubasa]]“Send warning to Wuyue command.”
 
 “Already moving.”
 
-“Send our own pursuit.”
+[[speaker:tsubasa]]“Send our own pursuit.”
 
 Kai stepped forward.
 
-“I'll go.”
+[[speaker:kai]]“I'll go.”
 
-“No.”
+[[speaker:tsubasa]]“No.”
 
 Kai frowned.
 
@@ -478,17 +478,17 @@ Tsubasa continued.
 
 “If you leave now, every allied scout sees another Shinsei High Paragon racing toward their No.1 and assumes coordinated attack.”
 
-“Then Hana.”
+[[speaker:kai]]“Then Hana.”
 
-“Same problem.”
+[[speaker:tsubasa]]“Same problem.”
 
 Hana understood first.
 
-“You want normal pursuit.”
+[[speaker:hana]]“You want normal pursuit.”
 
-“Yes.”
+[[speaker:tsubasa]]“Yes.”
 
-“Too slow.”
+[[speaker:hana]]“Too slow.”
 
 “Yes.”
 
@@ -496,15 +496,15 @@ Tsubasa looked toward the route Shunto had taken.
 
 The cost of doing this lawfully was suddenly measured in distance.
 
-“Send riders under white custody banners,” he ordered. “Signal every Wuyue relay that Shunto Takamori is acting without Shinsei authority.”
+[[speaker:tsubasa]]“Send riders under white custody banners,” he ordered. “Signal every Wuyue relay that Shunto Takamori is acting without Shinsei authority.”
 
 Aya stood.
 
-“And if they don't believe us?”
+[[speaker:aya]]“And if they don't believe us?”
 
 Tsubasa's expression did not change.
 
-“They would be reasonable not to.”
+[[speaker:tsubasa]]“They would be reasonable not to.”
 
 ---
 
@@ -528,35 +528,35 @@ Lu put the paper down.
 
 Qin sat across from him.
 
-“What?”
+[[speaker:qin]]“What?”
 
 Lu opened a map.
 
-“Shunto escaped.”
+[[speaker:luweiran]]“Shunto escaped.”
 
 Qin's expression did not change.
 
 “Yurushi?”
 
-“No.”
+[[speaker:luweiran]]“No.”
 
-“You sound sure.”
+[[speaker:qin]]“You sound sure.”
 
-“Because Shunto is angry, not stupid.”
+[[speaker:luweiran]]“Because Shunto is angry, not stupid.”
 
 Lu moved one marker.
 
 Then another.
 
-“Yurushi is here. Tae is within response distance. Huo is within response distance. Qin Luo is sitting in front of me.”
+[[speaker:luweiran]]“Yurushi is here. Tae is within response distance. Huo is within response distance. Qin Luo is sitting in front of me.”
 
 Qin's mouth twitched.
 
-“Correct.”
+[[speaker:qin]]“Correct.”
 
-“Shunto would need to cross half a continent to reach a house full of people who already surprised Shinsei once.”
+[[speaker:luweiran]]“Shunto would need to cross half a continent to reach a house full of people who already surprised Shinsei once.”
 
-“So north.”
+[[speaker:qin]]“So north.”
 
 “Yes.”
 
@@ -564,19 +564,19 @@ Lu traced the western Isgard routes.
 
 His finger stopped.
 
-“Kael.”
+[[speaker:luweiran]]“Kael.”
 
 Qin's head tilted.
 
-“Why?”
+[[speaker:qin]]“Why?”
 
-“Because if you are a disgraced No.2 who thinks Wuyue destroyed your institution, what target lets you pretend one last time that rank still proves you were right?”
+[[speaker:luweiran]]“Because if you are a disgraced No.2 who thinks Wuyue destroyed your institution, what target lets you pretend one last time that rank still proves you were right?”
 
 Qin was silent.
 
 Then stood.
 
-“Send it.”
+[[speaker:qin]]“Send it.”
 
 Lu already was.
 
@@ -598,21 +598,21 @@ Luo Wen hated Kael Veyran recovering.
 
 These were related problems.
 
-“Sit.”
+[[speaker:luo]]“Sit.”
 
 Kael kept walking.
 
 Luo looked up from the crate he was inspecting.
 
-“Did you misunderstand?”
+[[speaker:luo]]“Did you misunderstand?”
 
-“No.”
+[[speaker:kael]]“No.”
 
-“Then sit.”
+[[speaker:luo]]“Then sit.”
 
-“I am walking.”
+[[speaker:kael]]“I am walking.”
 
-“Yes. Incorrectly.”
+[[speaker:luo]]“Yes. Incorrectly.”
 
 Kael stopped.
 
@@ -628,15 +628,15 @@ Kael liked it.
 
 Luo did not care.
 
-“You tore the same intercostal line yesterday.”
+[[speaker:luo]]“You tore the same intercostal line yesterday.”
 
-“It healed.”
+[[speaker:kael]]“It healed.”
 
-“It closed.”
+[[speaker:luo]]“It closed.”
 
-“Same thing.”
+[[speaker:kael]]“Same thing.”
 
-“No.”
+[[speaker:luo]]“No.”
 
 Kael folded his arms.
 
@@ -646,9 +646,9 @@ Luo noticed.
 
 Kael noticed Luo noticing.
 
-“This is why physicians are unpopular.”
+[[speaker:kael]]“This is why physicians are unpopular.”
 
-“Incorrect. Physicians are unpopular because patients are stupid.”
+[[speaker:luo]]“Incorrect. Physicians are unpopular because patients are stupid.”
 
 A nearby Isgard medic coughed into her sleeve to hide a laugh.
 
@@ -688,23 +688,23 @@ Luo called it evidence that numbers should require licensing.
 
 Kael leaned over the open crate.
 
-“Anything?”
+[[speaker:kael]]“Anything?”
 
-“Yes.”
+[[speaker:luo]]“Yes.”
 
 “What?”
 
-“A reason for you to stop breathing on my notes.”
+[[speaker:luo]]“A reason for you to stop breathing on my notes.”
 
 Kael straightened.
 
-“You've gotten less pleasant.”
+[[speaker:kael]]“You've gotten less pleasant.”
 
 Luo's hands stopped for one fraction of a second.
 
 Then resumed.
 
-“Probably.”
+[[speaker:luo]]“Probably.”
 
 Kael looked at him.
 
@@ -742,15 +742,15 @@ No recovery.
 
 Wuyue No.1 returned to his face like a door closing.
 
-“How long?”
+[[speaker:kael]]“How long?”
 
 “Seven minutes.”
 
-“Weather?”
+[[speaker:kael]]“Weather?”
 
 “Clear.”
 
-“Other relays?”
+[[speaker:kael]]“Other relays?”
 
 “Normal.”
 
@@ -774,35 +774,35 @@ The commander frowned.
 
 “Then—”
 
-“I dislike the timing.”
+[[speaker:kael]]“I dislike the timing.”
 
 Kael pointed.
 
-“Pull noncombatants behind Bridge Two. Prisoners too.”
+[[speaker:kael]]“Pull noncombatants behind Bridge Two. Prisoners too.”
 
 “Lord Kael, that will jam the road.”
 
-“Jam it.”
+[[speaker:kael]]“Jam it.”
 
 The commander saluted and ran.
 
 Luo looked at Kael.
 
-“You felt something.”
+[[speaker:luo]]“You felt something.”
 
 Kael's eyes stayed on the ridge.
 
 “No.”
 
-“That is reassuring.”
+[[speaker:luo]]“That is reassuring.”
 
-“I said I dislike the timing.”
+[[speaker:kael]]“I said I dislike the timing.”
 
-“Your instincts are not medicine.”
+[[speaker:luo]]“Your instincts are not medicine.”
 
-“They have kept me alive.”
+[[speaker:kael]]“They have kept me alive.”
 
-“Your physicians have kept you alive.”
+[[speaker:luo]]“Your physicians have kept you alive.”
 
 Kael almost answered.
 
@@ -834,7 +834,7 @@ One touch to the wrist.
 
 His expression sharpened.
 
-“Circulation locks.”
+[[speaker:luo]]“Circulation locks.”
 
 Kael looked up.
 
@@ -854,7 +854,7 @@ Mud barely splashed.
 
 Kael straightened.
 
-“Interesting.”
+[[speaker:kael]]“Interesting.”
 
 Luo's face went still.
 
@@ -864,7 +864,7 @@ His eyes found Luo.
 
 Recognition came slowly.
 
-“The physician.”
+[[speaker:shunto]]“The physician.”
 
 Luo stood.
 
@@ -872,15 +872,15 @@ Kael moved half a step between them without looking back.
 
 Shunto noticed.
 
-“Protective.”
+[[speaker:shunto]]“Protective.”
 
 Kael rolled his shoulder once.
 
-“What happened to your army?”
+[[speaker:kael]]“What happened to your army?”
 
-“I no longer require one.”
+[[speaker:shunto]]“I no longer require one.”
 
-“That sounds like something men say shortly before regretting it.”
+[[speaker:kael]]“That sounds like something men say shortly before regretting it.”
 
 Shunto's mouth tightened.
 
@@ -890,13 +890,13 @@ The corridor soldiers raised weapons.
 
 Kael lifted one hand.
 
-“Back.”
+[[speaker:kael]]“Back.”
 
 Nobody moved.
 
 He looked over his shoulder.
 
-“Did I become unclear while recovering?”
+[[speaker:kael]]“Did I become unclear while recovering?”
 
 The commander swallowed.
 
@@ -912,29 +912,29 @@ Kael looked at him.
 
 Luo folded his sleeves higher.
 
-“I wasn't asking.”
+[[speaker:luo]]“I wasn't asking.”
 
-“Shunto is a High Paragon.”
-
-“I know.”
-
-“You are a Sovereign.”
+[[speaker:kael]]“Shunto is a High Paragon.”
 
 “I know.”
 
-“Then why are you still here?”
+[[speaker:kael]]“You are a Sovereign.”
+
+“I know.”
+
+[[speaker:kael]]“Then why are you still here?”
 
 Luo looked toward the two injured scouts.
 
-“Because I am their physician.”
+[[speaker:luo]]“Because I am their physician.”
 
 Kael stared at him.
 
 Luo added, “And yours.”
 
-“That was not comforting.”
+[[speaker:kael]]“That was not comforting.”
 
-“It was not intended to be.”
+[[speaker:luo]]“It was not intended to be.”
 
 Shunto took one step forward.
 
@@ -952,11 +952,11 @@ The valley seemed to become attentive.
 
 Shunto smiled faintly.
 
-“So the new Paragon has learned to stand.”
+[[speaker:shunto]]“So the new Paragon has learned to stand.”
 
 Kael's expression flattened.
 
-“Come find out.”
+[[speaker:kael]]“Come find out.”
 
 **Worldweight Dominion** opened.
 
@@ -1042,7 +1042,7 @@ Shunto's head snapped sideways.
 
 Kael smiled.
 
-“Worth it.”
+[[speaker:kael]]“Worth it.”
 
 Shunto's left hook caught Kael's sleeve.
 
@@ -1098,15 +1098,15 @@ Gave Kael almost nothing to store.
 
 Shunto wiped blood from his upper lip.
 
-“You talk too much.”
+[[speaker:shunto]]“You talk too much.”
 
-“I've been told.”
+[[speaker:kael]]“I've been told.”
 
-“By stronger men?”
+[[speaker:shunto]]“By stronger men?”
 
 Kael thought of Rhen.
 
-“Yes.”
+[[speaker:kael]]“Yes.”
 
 Shunto's eyes narrowed.
 
@@ -1196,17 +1196,17 @@ His left arm shook.
 
 Luo noticed.
 
-“Stop forcing circulation through it.”
+[[speaker:luo]]“Stop forcing circulation through it.”
 
 Kael did not look back.
 
-“I need it.”
+[[speaker:kael]]“I need it.”
 
-“You need it later too.”
+[[speaker:luo]]“You need it later too.”
 
-“Later is a luxury.”
+[[speaker:kael]]“Later is a luxury.”
 
-“That's stupid.”
+[[speaker:luo]]“That's stupid.”
 
 “Yes.”
 
@@ -1228,15 +1228,15 @@ Even angry respect.
 
 Shunto flexed one hand.
 
-“You're not as weak as Jun made you sound.”
+[[speaker:shunto]]“You're not as weak as Jun made you sound.”
 
 Kael frowned.
 
-“Jun lost.”
+[[speaker:kael]]“Jun lost.”
 
-“Yes.”
+[[speaker:shunto]]“Yes.”
 
-“So his review seems suspect.”
+[[speaker:kael]]“So his review seems suspect.”
 
 Shunto moved again.
 
@@ -1330,13 +1330,13 @@ Kael saw it.
 
 Shunto looked back at him.
 
-“I didn't say anything.”
+[[speaker:shunto]]“I didn't say anything.”
 
-“You looked.”
+[[speaker:kael]]“You looked.”
 
-“Possessive.”
+[[speaker:shunto]]“Possessive.”
 
-“Practical.”
+[[speaker:kael]]“Practical.”
 
 Shunto came in low.
 
@@ -1350,11 +1350,11 @@ Shunto's eyes widened.
 
 Kael smiled.
 
-“You keep forgetting something.”
+[[speaker:kael]]“You keep forgetting something.”
 
 “What?”
 
-“I don't need the arm to be fast if you're already in it.”
+[[speaker:kael]]“I don't need the arm to be fast if you're already in it.”
 
 He twisted.
 
@@ -1394,15 +1394,15 @@ Blood darkened the bandage under his ribs.
 
 Luo came out from behind the wagon.
 
-“Enough.”
+[[speaker:luo]]“Enough.”
 
 Kael looked at him.
 
-“Are you surrendering?”
+[[speaker:kael]]“Are you surrendering?”
 
 “No.”
 
-“Then apparently not enough.”
+[[speaker:kael]]“Then apparently not enough.”
 
 The crater moved.
 
@@ -1498,17 +1498,17 @@ Another lock settled near the mandibular circulation line and made Kael's tongue
 
 Kael spat blood.
 
-“Annoying.”
+[[speaker:kael]]“Annoying.”
 
 Shunto circled.
 
-“You're slowing.”
+[[speaker:shunto]]“You're slowing.”
 
 “Yes.”
 
-“You don't sound concerned.”
+[[speaker:shunto]]“You don't sound concerned.”
 
-“I am.”
+[[speaker:kael]]“I am.”
 
 Shunto's eyes narrowed.
 
@@ -1582,13 +1582,13 @@ He rotated with the impact, used the motion to slip free and reset the joint aga
 
 Kael watched.
 
-“That's unpleasant.”
+[[speaker:kael]]“That's unpleasant.”
 
 Shunto breathed through his teeth.
 
-“So are you.”
+[[speaker:shunto]]“So are you.”
 
-“Thank you.”
+[[speaker:kael]]“Thank you.”
 
 Luo almost smiled.
 
@@ -1622,13 +1622,13 @@ Kael shifted again between them.
 
 Shunto laughed once.
 
-“Do you think he can save you?”
+[[speaker:shunto]]“Do you think he can save you?”
 
 Kael looked genuinely confused.
 
-“From what?”
+[[speaker:kael]]“From what?”
 
-“Me.”
+[[speaker:shunto]]“Me.”
 
 “No.”
 
@@ -1642,7 +1642,7 @@ Luo stared at the back of Kael's head.
 
 Kael rolled one shoulder.
 
-“And I think you're getting irritated that somebody weaker than you keeps understanding things you don't.”
+[[speaker:kael]]“And I think you're getting irritated that somebody weaker than you keeps understanding things you don't.”
 
 Shunto's face hardened.
 
@@ -1700,7 +1700,7 @@ Engineers screamed from fifty yards away.
 
 Kael winced.
 
-“Sorry.”
+[[speaker:kael]]“Sorry.”
 
 The engineers stared at him.
 
@@ -1746,7 +1746,7 @@ His good hand reached inside.
 
 Luo saw the movement first.
 
-“Kael.”
+[[speaker:luo]]“Kael.”
 
 Kael's eyes narrowed.
 
@@ -1758,7 +1758,7 @@ The new warning label was still visible through the mud.
 
 Kael stared at it.
 
-“You escaped custody and stopped for medicine?”
+[[speaker:kael]]“You escaped custody and stopped for medicine?”
 
 Shunto broke the seal with his thumb.
 
@@ -1768,7 +1768,7 @@ Not fear.
 
 Calculation.
 
-“Do not let him take that.”
+[[speaker:luo]]“Do not let him take that.”
 
 Kael moved.
 
