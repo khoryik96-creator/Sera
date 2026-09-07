@@ -1,0 +1,35 @@
+name: Dialogue postmerge candidates
+
+on:
+  push:
+    branches:
+      - story/dialogue-audit-postmerge-context-and-mixed
+    paths:
+      - 'scripts/dialogue-postmerge-candidates.mjs'
+      - '.github/workflows/dialogue-postmerge-candidates.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: story/dialogue-audit-postmerge-context-and-mixed
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: node scripts/dialogue-postmerge-candidates.mjs
+      - name: Commit candidate report
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/dialogue-audit/_postmerge-candidates.md
+          if git diff --cached --quiet; then
+            echo "No candidate report changes"
+          else
+            git commit -m "Generate post-merge dialogue candidate report"
+            git push
+          fi
