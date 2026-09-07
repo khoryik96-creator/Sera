@@ -64,7 +64,7 @@ Jun corrected himself.
 
 [[speaker:jun]]“Stop.”
 
-“Yes.”
+[[speaker:aya]]“Yes.”
 
 He reached for the halberd resting beside the cot.
 
@@ -874,11 +874,11 @@ The young man frowned.
 
 “That it’s an emergency stimulant.”
 
-“Yes.”
+[[speaker:aya]]“Yes.”
 
 “Three-times output for around five minutes.”
 
-“Yes.”
+[[speaker:aya]]“Yes.”
 
 “Severe fatigue. Meridian damage. Recovery can take months. Repeated use is dangerous.”
 
@@ -978,7 +978,7 @@ All true.
 
 None answered him.
 
-“Yes.”
+[[speaker:aya]]“Yes.”
 
 The boy looked away.
 
@@ -1238,7 +1238,7 @@ Luo stared.
 
 [[speaker:jin]]“They’ll remember it.”
 
-Sera said, “He’s right.”
+[[speaker:sera]]Sera said, “He’s right.”
 
 Luo looked betrayed.
 

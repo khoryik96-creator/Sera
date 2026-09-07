@@ -544,7 +544,7 @@ Not useful mechanically.
 
 Useful socially.
 
-Yun asked, “Stronger than Takamori?”
+[[speaker:yun]]Yun asked, “Stronger than Takamori?”
 
 The old man looked at her as though she had asked whether winter was colder than rain.
 
@@ -1120,7 +1120,7 @@ Perfect.
 
 It vanished.
 
-“The qi needs to become denser,” he said. “Same amount. Less space.”
+[[speaker:rhen]]“The qi needs to become denser,” he said. “Same amount. Less space.”
 
 [[speaker:sera]]“How long?”
 
@@ -1176,7 +1176,7 @@ Normal pulse.
 
 Too normal, because he was making it normal.
 
-“When it crosses from annoying to unsafe,” she said, “you tell me.”
+[[speaker:sera]]“When it crosses from annoying to unsafe,” she said, “you tell me.”
 
 [[speaker:rhen]]“I will.”
 
@@ -1209,3 +1209,4 @@ One was building proof strong enough to outlive a witness.
 The other was making Rhen promise not to wait until power became injury.
 
 Both were already closer to the same war than either of them understood.
+

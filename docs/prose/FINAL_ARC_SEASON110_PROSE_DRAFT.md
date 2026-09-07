@@ -36,7 +36,7 @@ He preferred numbers.
 
 So on the fourth morning after Rhen's arrival, he locked himself in a requisition room with six ledgers, two maps, one pot of tea and a junior officer who had made the mistake of being accurate in front of him twice.
 
-“Again,” Jin said.
+[[speaker:jin]]“Again,” Jin said.
 
 The junior officer swallowed.
 
@@ -610,7 +610,7 @@ The true one.
 
 Tsubasa waited.
 
-“He spoke about him like a boundary,” Hana said.
+[[speaker:hana]]“He spoke about him like a boundary,” Hana said.
 
 The room became quiet.
 
@@ -742,7 +742,7 @@ Kai looked up.
 
 [[speaker:tsubasa]]“Yes.”
 
-“All of us?” Hana asked.
+[[speaker:hana]]“All of us?” Hana asked.
 
 Tsubasa looked at every face in the room.
 
@@ -1070,7 +1070,7 @@ Rhen looked up.
 
 [[speaker:sera]]“You did.”
 
-Jin said, “He did.”
+[[speaker:jin]]Jin said, “He did.”
 
 Rhen looked betrayed.
 

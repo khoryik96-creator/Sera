@@ -616,7 +616,7 @@ Sera had known Yun was overdue too. Lu had quietly increased observation at ever
 
 But Luo was the first person with the right to say it aloud.
 
-“What do you want to do?” Sera asked.
+[[speaker:sera]]“What do you want to do?” Sera asked.
 
 [[speaker:luo]]“Go.”
 
@@ -736,7 +736,7 @@ Relief had nothing to do with it. His mind finally had something to work on.
 
 [[speaker:luweiran]]“From here? Slowly.”
 
-“Xie?” Sera asked.
+[[speaker:sera]]“Xie?” Sera asked.
 
 Lu’s mouth flattened.
 

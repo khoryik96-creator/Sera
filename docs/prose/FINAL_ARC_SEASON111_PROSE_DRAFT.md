@@ -930,7 +930,7 @@ Luo looked toward the two injured scouts.
 
 Kael stared at him.
 
-Luo added, “And yours.”
+[[speaker:luo]]Luo added, “And yours.”
 
 [[speaker:kael]]“That was not comforting.”
 
@@ -1094,7 +1094,7 @@ Landed lightly.
 
 Gave Kael almost nothing to store.
 
-“Better,” Kael said.
+[[speaker:kael]]“Better,” Kael said.
 
 Shunto wiped blood from his upper lip.
 
@@ -1704,7 +1704,7 @@ Kael winced.
 
 The engineers stared at him.
 
-“Later!” Luo shouted.
+[[speaker:luo]]“Later!” Luo shouted.
 
 Kael nodded.
 

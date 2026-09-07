@@ -9,7 +9,7 @@ Lines already resolved show their speaker in `[brackets]` for context.
 
 ```
 Also prepared.
-Yun said, “You forgot breakfast.”
+[yun] Yun said, “You forgot breakfast.”
 The physician’s hand paused.
 >>> “You are awake.”   <-- WHO SAYS THIS?
 [yun] “I had noticed.”

@@ -930,7 +930,7 @@ Shunto looked at Luo.
 
 Luo looked back.
 
-“Two exchanges,” Shunto said.
+[[speaker:shunto]]“Two exchanges,” Shunto said.
 
 Luo said nothing.
 

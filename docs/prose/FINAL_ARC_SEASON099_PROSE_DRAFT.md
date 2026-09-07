@@ -104,7 +104,7 @@ The guard remained beyond kicking range.
 
 Also prepared.
 
-Yun said, “You forgot breakfast.”
+[[speaker:yun]]Yun said, “You forgot breakfast.”
 
 The physician’s hand paused.
 
@@ -314,7 +314,7 @@ He pulled the room’s only chair closer but stopped outside kicking range.
 
 Still learning.
 
-Yun said, “You rehearsed the road for how long?”
+[[speaker:yun]]Yun said, “You rehearsed the road for how long?”
 
 [[speaker:shunto]]“Twenty-seven days.”
 
@@ -342,7 +342,7 @@ Interesting.
 
 She stored it.
 
-Shunto said, “You knew the road was a trap.”
+[[speaker:shunto]]Shunto said, “You knew the road was a trap.”
 
 [[speaker:yun]]“Yes.”
 
@@ -394,7 +394,7 @@ Good.
 
 The information war remained alive.
 
-Shunto said, “Where is the rest?”
+[[speaker:shunto]]Shunto said, “Where is the rest?”
 
 Yun smiled faintly.
 
@@ -714,7 +714,7 @@ Not weakness enough to matter in a fight.
 
 Information enough to matter later.
 
-Shunto said, “You think silence protects Wuyue.”
+[[speaker:shunto]]Shunto said, “You think silence protects Wuyue.”
 
 [[speaker:yun]]“It protects accuracy.”
 
@@ -906,7 +906,7 @@ Fear was evidence of danger, not consent.
 
 He stepped closer.
 
-Yun said, “No.”
+[[speaker:yun]]Yun said, “No.”
 
 Clear.
 
@@ -1030,7 +1030,7 @@ She swallowed once.
 
 He opened the door.
 
-Yun said, “Look at me.”
+[[speaker:yun]]Yun said, “Look at me.”
 
 He did.
 
@@ -1248,7 +1248,7 @@ A reminder.
 
 Even imprisoned, she was still working.
 
-Shunto said, “Physician.”
+[[speaker:shunto]]Shunto said, “Physician.”
 
 The doctor examined his hand.
 

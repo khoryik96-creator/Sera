@@ -354,7 +354,7 @@ Yun had prepared the building as a contingency after finding the address in a cl
 
 She had not expected Shunto specifically. She had prepared the room because survival favored people who prepared before they needed to.
 
-Shunto said, “Come with me.”
+[[speaker:shunto]]Shunto said, “Come with me.”
 
 [[speaker:yun]]“No.”
 
@@ -590,7 +590,7 @@ Shinrin origin stamps.
 
 Three intermediary names already present in the Axtaya investigation.
 
-“Where?” Lu asked.
+[[speaker:luweiran]]“Where?” Lu asked.
 
 [[speaker:xie_wuchen]]“Eastern port.”
 
@@ -650,7 +650,7 @@ Xie gestured toward Lu.
 
 [[speaker:xie_wuchen]]“He likes paper.”
 
-Lu said, “I do not like paper.”
+[[speaker:luweiran]]Lu said, “I do not like paper.”
 
 Both looked at him.
 
@@ -666,7 +666,7 @@ Rui stepped closer to the ledger.
 
 [[speaker:rui]]“This connects to Yun?”
 
-“Possibly,” Lu said.
+[[speaker:luweiran]]“Possibly,” Lu said.
 
 That changed the room.
 
@@ -718,7 +718,7 @@ He tapped one line.
 
 [[speaker:luweiran]]“This vessel unloaded in Wuyue three months ago under a fever-resin declaration. Same vessel departed for Shinrin twelve days later. Then it changed ownership on paper without changing crew.”
 
-Xie said, “False transfer.”
+[[speaker:xie_wuchen]]Xie said, “False transfer.”
 
 [[speaker:luweiran]]“Yes.”
 
@@ -742,7 +742,7 @@ Xie looked almost impressed.
 
 Lu disliked that too.
 
-Rui said, “I can send Azure people.”
+[[speaker:rui]]Rui said, “I can send Azure people.”
 
 “No visible sect detachment,” Lu said. “Not yet.”
 
@@ -798,7 +798,7 @@ Then folded the paper once and slid it into his sleeve.
 
 [[speaker:xie_wuchen]]“I am still not joining anything.”
 
-Rui said, “Nobody asked.”
+[[speaker:rui]]Rui said, “Nobody asked.”
 
 Xie vanished through the window.
 
@@ -888,7 +888,7 @@ Smart.
 
 Annoying.
 
-“You’ve been practicing,” Yun said.
+[[speaker:yun]]“You’ve been practicing,” Yun said.
 
 [[speaker:shunto]]“So have you.”
 

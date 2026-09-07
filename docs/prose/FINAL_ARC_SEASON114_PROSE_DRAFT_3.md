@@ -162,7 +162,7 @@ Then more.
 
 One evening Aldric found him repairing a shield rack outside a barracks.
 
-“You are terrible at carpentry,” Aldric said.
+[[speaker:aldric]]“You are terrible at carpentry,” Aldric said.
 
 Eirik kept working.
 
@@ -354,7 +354,7 @@ One prodigy once boasted that losing ten years of life would be worth becoming a
 
 Haru stared at him until the boy stopped smiling.
 
-“No,” Haru said.
+[[speaker:haru]]“No,” Haru said.
 
 Nothing more.
 
@@ -502,7 +502,7 @@ Both had been partly wrong.
 
 Now there was time to try each other again.
 
-From a balcony above them, Huo whispered loudly, “Finally.”
+[[speaker:huo]]From a balcony above them, Huo whispered loudly, “Finally.”
 
 Tae dragged him backward by the collar.
 
@@ -586,9 +586,9 @@ The governor frowned.
 
 “Are you related to the Petals Monarch?”
 
-Rhen said, “No.”
+[[speaker:rhen]]Rhen said, “No.”
 
-Sera said, “Never heard of him.”
+[[speaker:sera]]Sera said, “Never heard of him.”
 
 From a corner table, Kael Veyran choked on tea.
 
@@ -620,7 +620,7 @@ He did not leave.
 
 Liang continued appearing on Kael's travels through what he insisted were coincidences.
 
-“Why are you here?” Kael asked once at a coastal inn six hundred miles from Liang's territory.
+[[speaker:kael]]“Why are you here?” Kael asked once at a coastal inn six hundred miles from Liang's territory.
 
 [[speaker:liang]]“Coincidence.”
 
@@ -658,7 +658,7 @@ At first she had reasons.
 
 Then increasingly weak reasons.
 
-One afternoon Qin asked, “What brings you here?”
+[[speaker:qin]]One afternoon Qin asked, “What brings you here?”
 
 [[speaker:arin]]“Regional coordination.”
 
@@ -670,7 +670,7 @@ One afternoon Qin asked, “What brings you here?”
 
 [[speaker:arin]]“Warehouse allocation.”
 
-From three rooms away Lu shouted, “I handle that too.”
+[[speaker:luweiran]]From three rooms away Lu shouted, “I handle that too.”
 
 Arin stared at the wall.
 
@@ -732,7 +732,7 @@ He looked at the waiting cup.
 
 Then at Lu.
 
-“Nine minutes early,” Lu said.
+[[speaker:luweiran]]“Nine minutes early,” Lu said.
 
 [[speaker:xie_wuchen]]“Wind.”
 
@@ -794,9 +794,9 @@ Rhen looked around.
 
 [[speaker:rhen]]“It is quiet.”
 
-At that exact moment Huo shouted, “Tae, that is cowardice!”
+[[speaker:huo]]At that exact moment Huo shouted, “Tae, that is cowardice!”
 
-Tae shouted back, “IT IS A DOOR. USE THE DOOR.”
+[[speaker:tae]]Tae shouted back, “IT IS A DOOR. USE THE DOOR.”
 
 Sera looked at Rhen.
 

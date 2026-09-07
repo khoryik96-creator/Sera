@@ -452,7 +452,7 @@ Rhen allowed the coat to tear rather than resist the fabric.
 
 Tsubasa's knee missed.
 
-“Another coat,” Sera muttered.
+[[speaker:sera]]“Another coat,” Sera muttered.
 
 Jin glanced at her.
 
@@ -614,7 +614,7 @@ Tsubasa's breathing slowed.
 
 The Redline crash began settling through him.
 
-“You healed me,” Tsubasa said.
+[[speaker:tsubasa]]“You healed me,” Tsubasa said.
 
 [[speaker:rhen]]“Yes.”
 
@@ -1012,7 +1012,7 @@ His Dominion flickered from the sudden transition.
 
 [[speaker:kai]]“What did you—”
 
-“Ended it,” Rhen said.
+[[speaker:rhen]]“Ended it,” Rhen said.
 
 Eirik checked his own pulse.
 

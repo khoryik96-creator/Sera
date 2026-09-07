@@ -125,7 +125,7 @@ Yun did not have time for ceremony.
 The liaison looked at her once, then at the physician.
 >>> “Can she speak?”   <-- WHO SAYS THIS?
 The physician said, “Briefly.”
-Yun said, “Long enough.”
+[yun] Yun said, “Long enough.”
 ```
 ```
 The physician glared at her.
@@ -373,7 +373,7 @@ Yun closed her eyes.
 ```
 “Not yet,” she said.
 He looked angry now.
-“At whom?” Yun asked.
+[yun] “At whom?” Yun asked.
 >>> “You.”   <-- WHO SAYS THIS?
 [yun] “Fair.”
 Hallen returned to the chair.
@@ -436,7 +436,7 @@ The physician glanced at the injuries again.
 ```
 ```
 Good physician.
-Yun said quietly, “Captured means captured. Put that in the report.”
+[yun] Yun said quietly, “Captured means captured. Put that in the report.”
 Hallen nodded.
 >>> “Anything else about Takamori?”   <-- WHO SAYS THIS?
 Yun’s eyes stayed on the ceiling.
@@ -514,13 +514,13 @@ The clerk immediately regretted the sentence.
 Sera did not punish him for it.
 [sera] “What requires the number?”
 >>> “Public mobilization authority in two eastern formations. They are structured to receive emergency orders through ranked holders or regional sovereign command. We can reroute through Jin, but it creates delay.”   <-- WHO SAYS THIS?
-Jin said, “How much?”
+[jin] Jin said, “How much?”
 “Best case, hours. Worst case, a day if the road relay is interrupted.”
 ```
 ```
 [sera] “What requires the number?”
 “Public mobilization authority in two eastern formations. They are structured to receive emergency orders through ranked holders or regional sovereign command. We can reroute through Jin, but it creates delay.”
-Jin said, “How much?”
+[jin] Jin said, “How much?”
 >>> “Best case, hours. Worst case, a day if the road relay is interrupted.”   <-- WHO SAYS THIS?
 A day.
 Yun had died buying them days.

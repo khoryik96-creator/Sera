@@ -1,20 +1,12 @@
 # Season 105 — unattributed dialogue
 
-68 quoted lines in this season have no speaker.
+64 quoted lines in this season have no speaker.
 See `README.md` in this folder for what to do with them.
 
 Lines already resolved show their speaker in `[brackets]` for context.
 
 ### Chapter 401 — Jun Returns Before He Is Finished Healing
 
-```
-Aya looked at him.
-Jun corrected himself.
-[jun] “Stop.”
->>> “Yes.”   <-- WHO SAYS THIS?
-He reached for the halberd resting beside the cot.
-Aya’s hand closed around the shaft first.
-```
 ```
 Aya noticed immediately.
 [aya] “Where?”
@@ -317,37 +309,21 @@ Something cold moved through Aya.
 [aya] “What exactly were you told about Redline?”
 The young man frowned.
 >>> “That it’s an emergency stimulant.”   <-- WHO SAYS THIS?
-“Yes.”
+[aya] “Yes.”
 “Three-times output for around five minutes.”
-```
-```
-[aya] “What exactly were you told about Redline?”
-The young man frowned.
-“That it’s an emergency stimulant.”
->>> “Yes.”   <-- WHO SAYS THIS?
-“Three-times output for around five minutes.”
-“Yes.”
 ```
 ```
 The young man frowned.
 “That it’s an emergency stimulant.”
-“Yes.”
+[aya] “Yes.”
 >>> “Three-times output for around five minutes.”   <-- WHO SAYS THIS?
-“Yes.”
+[aya] “Yes.”
 “Severe fatigue. Meridian damage. Recovery can take months. Repeated use is dangerous.”
 ```
 ```
-“That it’s an emergency stimulant.”
-“Yes.”
+[aya] “Yes.”
 “Three-times output for around five minutes.”
->>> “Yes.”   <-- WHO SAYS THIS?
-“Severe fatigue. Meridian damage. Recovery can take months. Repeated use is dangerous.”
-Aya’s hands went still.
-```
-```
-“Yes.”
-“Three-times output for around five minutes.”
-“Yes.”
+[aya] “Yes.”
 >>> “Severe fatigue. Meridian damage. Recovery can take months. Repeated use is dangerous.”   <-- WHO SAYS THIS?
 Aya’s hands went still.
 [aya] “Lifespan.”
@@ -407,14 +383,6 @@ He looked at her.
 >>> “Did you know?”   <-- WHO SAYS THIS?
 The question had finally arrived. Aya could have explained.
 Could have told him she objected to higher dosing.
-```
-```
-That people were alive because she kept control of parts of the system.
-All true.
-None answered him.
->>> “Yes.”   <-- WHO SAYS THIS?
-The boy looked away.
-Aya felt his pulse break into anger.
 ```
 ```
 Aya felt his pulse break into anger.

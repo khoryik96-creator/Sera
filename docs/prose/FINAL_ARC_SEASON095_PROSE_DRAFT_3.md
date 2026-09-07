@@ -42,11 +42,11 @@ He looked surprised.
 
 “Now?”
 
-“Yes.”
+[[speaker:sera]]“Yes.”
 
 “Before I tell you anything?”
 
-“Yes.”
+[[speaker:sera]]“Yes.”
 
 Dae frowned.
 
@@ -56,7 +56,7 @@ Dae frowned.
 
 “People said the Pale Orchid was terrifying.”
 
-Yun said, “She is.”
+[[speaker:yun]]Yun said, “She is.”
 
 Sera looked at her.
 
@@ -90,7 +90,7 @@ Dae closed his eyes.
 
 “She knows?”
 
-“No.”
+[[speaker:luweiran]]“No.”
 
 “Oh.”
 
@@ -104,13 +104,13 @@ Sera rubbed her forehead.
 
 [[speaker:sera]]“Lu.”
 
-“What?”
+[[speaker:luweiran]]“What?”
 
 [[speaker:sera]]“Less helpful.”
 
 [[speaker:luweiran]]“I was motivating honesty.”
 
-Rhen said, “It worked.”
+[[speaker:rhen]]Rhen said, “It worked.”
 
 Sera looked at him.
 
@@ -142,7 +142,7 @@ Dae nodded.
 
 “The broker said it wasn't a breakthrough. Just... access.”
 
-“To what?” Luo asked.
+[[speaker:luo]]“To what?” Luo asked.
 
 “Everything I already had.”
 
@@ -150,7 +150,7 @@ Rhen's gaze sharpened slightly.
 
 That was closer to the truth than the broker probably understood.
 
-Sera asked, “Why did you take it?”
+[[speaker:sera]]Sera asked, “Why did you take it?”
 
 Dae looked ashamed.
 
@@ -160,7 +160,7 @@ Nobody interrupted.
 
 “I was going to pull him out. They had six men. Two were Marquis. I knew I could beat one. Maybe two. Not six.”
 
-“So you bought strength,” Yun said.
+[[speaker:yun]]“So you bought strength,” Yun said.
 
 Dae looked at her.
 
@@ -242,7 +242,7 @@ Worse in a quieter way.
 
 The body screaming stop while the chemical system lowered the volume of the scream.
 
-“How long?” Sera asked.
+[[speaker:sera]]“How long?” Sera asked.
 
 Dae swallowed.
 
@@ -252,7 +252,7 @@ Dae swallowed.
 
 “I woke up the next afternoon.”
 
-Luo asked, “What were you told recovery would be?”
+[[speaker:luo]]Luo asked, “What were you told recovery would be?”
 
 “Two days tired. Maybe nausea.”
 
@@ -430,7 +430,7 @@ Dae looked down.
 
 [[speaker:luweiran]]“That helps.”
 
-Yun asked, “Did the ampoule have writing?”
+[[speaker:yun]]Yun asked, “Did the ampoule have writing?”
 
 Dae frowned.
 
@@ -472,7 +472,7 @@ Dae added one more detail.
 
 Everyone looked at him again.
 
-“A chart?” Luo asked.
+[[speaker:luo]]“A chart?” Luo asked.
 
 “Different colors. Different weights.”
 
@@ -558,7 +558,7 @@ Sera covered a smile.
 
 Yun looked delighted.
 
-Luo muttered, “There it is.”
+[[speaker:luo]]Luo muttered, “There it is.”
 
 Rhen looked at all of them.
 
@@ -680,7 +680,7 @@ Sera's eyes narrowed.
 
 [[speaker:sera]]“They are not extracting him.”
 
-“No,” Rui said.
+[[speaker:rui]]“No,” Rui said.
 
 The first hooked blade went for the broker's throat.
 
@@ -802,7 +802,7 @@ He ran.
 
 The masked man let him.
 
-Lu said, “Interesting.”
+[[speaker:luweiran]]Lu said, “Interesting.”
 
 Sera looked at him.
 
@@ -858,7 +858,7 @@ Sera smiled faintly.
 
 [[speaker:xie_wuchen]]“I do not know who that is.”
 
-Rui said, “Liar.”
+[[speaker:rui]]Rui said, “Liar.”
 
 Xie's eyes moved to him.
 
@@ -898,7 +898,7 @@ Rui looked at both of them.
 
 [[speaker:rui]]“This is not funny.”
 
-“It is slightly funny,” Sera said.
+[[speaker:sera]]“It is slightly funny,” Sera said.
 
 Xie glanced toward the broker.
 
@@ -908,7 +908,7 @@ Xie pointed at him.
 
 [[speaker:xie_wuchen]]“He was about to be killed.”
 
-“We noticed,” Lu said.
+[[speaker:luweiran]]“We noticed,” Lu said.
 
 [[speaker:xie_wuchen]]“So I helped.”
 
@@ -932,7 +932,7 @@ Xie's gaze shifted toward the alley where the fifth assassin had escaped.
 
 He turned.
 
-Sera said, “You always leave this fast?”
+[[speaker:sera]]Sera said, “You always leave this fast?”
 
 Xie stopped.
 
@@ -1030,7 +1030,7 @@ Sera shrugged.
 
 [[speaker:xie_wuchen]]“The one people use before saying responsibility.”
 
-Lu said, “She does have that face.”
+[[speaker:luweiran]]Lu said, “She does have that face.”
 
 Sera looked at him.
 
@@ -1062,7 +1062,7 @@ Rui closed his eyes.
 
 [[speaker:sera]]“How badly?”
 
-“Do not.”
+[[speaker:rui]]“Do not.”
 
 Lu was already writing.
 
@@ -1404,7 +1404,7 @@ The broker said, “They told us not to copy it into local manifests.”
 
 “I don't know.”
 
-“Another useful sentence,” Yun muttered.
+[[speaker:yun]]“Another useful sentence,” Yun muttered.
 
 Lu ignored her.
 
@@ -1488,9 +1488,9 @@ Yun rested both forearms on the table.
 
 [[speaker:yun]]“So at the moment we know a dangerous medically designed stimulant moves through a foreign route touching a place called Shinrin.”
 
-Luo added, “We know users are lied to about cost.”
+[[speaker:luo]]Luo added, “We know users are lied to about cost.”
 
-Lu added, “We know the supply chain uses legitimate medical commerce and standardized screening.”
+[[speaker:luweiran]]Lu added, “We know the supply chain uses legitimate medical commerce and standardized screening.”
 
 Sera looked at the broker.
 

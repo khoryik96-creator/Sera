@@ -490,7 +490,7 @@ It was a machine his body had become the center of.
 
 Jin stopped breathing for a second.
 
-Xie Wuchen whispered, “That's absurd.”
+[[speaker:xie_wuchen]]Xie Wuchen whispered, “That's absurd.”
 
 Kael's eyes narrowed.
 
@@ -1002,7 +1002,7 @@ Both stumbled apart.
 
 Neither had enough left for elegance.
 
-Kael whispered, “She's still making him solve her.”
+[[speaker:kael]]Kael whispered, “She's still making him solve her.”
 
 Jin did not look away.
 

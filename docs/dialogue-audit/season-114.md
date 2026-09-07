@@ -58,6 +58,6 @@ Rhen pointed at Sera.
 [rhen] “Xue Ra.”
 The governor frowned.
 >>> “Are you related to the Petals Monarch?”   <-- WHO SAYS THIS?
-Rhen said, “No.”
-Sera said, “Never heard of him.”
+[rhen] Rhen said, “No.”
+[sera] Sera said, “Never heard of him.”
 ```

@@ -157,7 +157,7 @@ Yun lowered her eyes.
 ```
 An old fisherman had sat three paces away without asking permission.
 He held a bamboo pole and smelled strongly of river water.
-Yun said, “My math is usually polite.”
+[yun] Yun said, “My math is usually polite.”
 >>> “Then perhaps the country is rude.”   <-- WHO SAYS THIS?
 She looked at him.
 He grinned.
@@ -317,19 +317,19 @@ He looked at her torn sleeve.
 Then at the blood drying near her collar.
 Then through the tower window toward the Shinsei patrols.
 >>> “Are you the one they’re looking for?”   <-- WHO SAYS THIS?
-Yun said, “Possibly.”
+[yun] Yun said, “Possibly.”
 “That is not reassuring.”
 ```
 ```
 Then through the tower window toward the Shinsei patrols.
 “Are you the one they’re looking for?”
-Yun said, “Possibly.”
+[yun] Yun said, “Possibly.”
 >>> “That is not reassuring.”   <-- WHO SAYS THIS?
 [yun] “I’m not here to hurt you.”
 “Also what people say before hurting you.”
 ```
 ```
-Yun said, “Possibly.”
+[yun] Yun said, “Possibly.”
 “That is not reassuring.”
 [yun] “I’m not here to hurt you.”
 >>> “Also what people say before hurting you.”   <-- WHO SAYS THIS?

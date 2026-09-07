@@ -24,7 +24,7 @@ The soldier was asleep because his body finally believed it was allowed to be.
 
 Aya stared at the clean skin.
 
-“Offended?” Luo asked beside her.
+[[speaker:luo]]“Offended?” Luo asked beside her.
 
 She did not look at him.
 
@@ -218,7 +218,7 @@ She did not sit.
 
 Neither did he.
 
-“Tell me about Axtaya,” Rhen said.
+[[speaker:rhen]]“Tell me about Axtaya,” Rhen said.
 
 Aya's expression hardened.
 
@@ -342,7 +342,7 @@ Aya waited for judgment.
 
 It did not come.
 
-Instead Rhen asked, “How many patients have you restored to full combat condition after Redline?”
+[[speaker:rhen]]Instead Rhen asked, “How many patients have you restored to full combat condition after Redline?”
 
 The shift wrong-footed her.
 
@@ -398,7 +398,7 @@ Rhen looked toward the nearest hospital row.
 
 Aya glanced toward the physician several lanes away.
 
-“That is what Yun did too,” Rhen said.
+[[speaker:rhen]]“That is what Yun did too,” Rhen said.
 
 The name landed between them.
 
@@ -442,7 +442,7 @@ Aya felt it too through Hundred Pulse.
 
 “Sector Seven,” she said instantly.
 
-“Fourth row,” Rhen answered.
+[[speaker:rhen]]“Fourth row,” Rhen answered.
 
 [[speaker:aya]]“Paragon-level circulation instability.”
 
@@ -536,7 +536,7 @@ She did not press.
 
 For several breaths they stood beside the sleeping officer.
 
-Then Aya said, “I started writing the numbers into every Redline record.”
+[[speaker:aya]]Then Aya said, “I started writing the numbers into every Redline record.”
 
 [[speaker:rhen]]“I heard.”
 
@@ -616,7 +616,7 @@ Rhen handed the nurse one of the cups.
 
 She accepted it.
 
-“You can stand,” Rhen told Aldric.
+[[speaker:rhen]]“You can stand,” Rhen told Aldric.
 
 Aldric sat up so quickly the nurse inhaled sharply.
 
@@ -782,7 +782,7 @@ Sera groaned.
 
 [[speaker:sera]]“He has been awake three days and has said that approximately fifty times.”
 
-“Forty-seven,” Rhen said.
+[[speaker:rhen]]“Forty-seven,” Rhen said.
 
 Sera stared.
 
@@ -810,7 +810,7 @@ She looked toward the north.
 
 [[speaker:maedra]]“Where is Solveig?”
 
-“Working,” Sera said.
+[[speaker:sera]]“Working,” Sera said.
 
 [[speaker:maedra]]“Of course she is.”
 
@@ -1236,7 +1236,7 @@ Rhen considered this.
 
 The room went silent again.
 
-Rhen added, “Should I?”
+[[speaker:rhen]]Rhen added, “Should I?”
 
 Nobody answered immediately.
 
@@ -1252,7 +1252,7 @@ She pointed to the coastal map.
 
 [[speaker:sera]]“Those ships are also carrying wounded, physicians, food and replacement personnel. If we erase the fleet, we do not merely remove military pressure. We strand occupied zones, prisoners and our own people still trapped behind their lines.”
 
-Jin added, “And Shinsei has enough port infrastructure to replace part of it while using the destruction as justification for total mobilization.”
+[[speaker:jin]]Jin added, “And Shinsei has enough port infrastructure to replace part of it while using the destruction as justification for total mobilization.”
 
 Rhen nodded.
 
@@ -1386,7 +1386,7 @@ Aya looked up.
 
 [[speaker:aya]]“You want to cut their hospitals.”
 
-“No,” Jin said.
+[[speaker:jin]]“No,” Jin said.
 
 That answer came instantly.
 
@@ -1412,7 +1412,7 @@ Jin paused.
 
 Then looked annoyed.
 
-“What?” Rhen asked.
+[[speaker:rhen]]“What?” Rhen asked.
 
 [[speaker:jin]]“Nothing.”
 

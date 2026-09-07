@@ -344,7 +344,7 @@ An old fisherman had sat three paces away without asking permission.
 
 He held a bamboo pole and smelled strongly of river water.
 
-Yun said, “My math is usually polite.”
+[[speaker:yun]]Yun said, “My math is usually polite.”
 
 “Then perhaps the country is rude.”
 
@@ -628,7 +628,7 @@ Luo had become frighteningly quiet.
 
 No message.
 
-Sera said, “This is unrelated.”
+[[speaker:sera]]Sera said, “This is unrelated.”
 
 [[speaker:rhen]]“Yes.”
 

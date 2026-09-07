@@ -590,7 +590,7 @@ Aya picked up Haru’s chart.
 
 She turned to leave.
 
-Tsubasa said, “Aya.”
+[[speaker:tsubasa]]Tsubasa said, “Aya.”
 
 She stopped.
 
@@ -798,7 +798,7 @@ For years they had avoided naming the overlap because naming it made it politica
 
 Now the overlap was the point.
 
-Aya said, “We are not forming a faction.”
+[[speaker:aya]]Aya said, “We are not forming a faction.”
 
 Nao’s mouth moved.
 

@@ -866,7 +866,7 @@ Raska blocked.
 
 Thunder Qi discharged through the clash point and numbed three fingers.
 
-“I like fighting,” Kenji answered.
+[[speaker:kenji]]“I like fighting,” Kenji answered.
 
 [[speaker:raska]]“Bad place for it.”
 
@@ -998,7 +998,7 @@ Kenji rose.
 
 Raska grabbed his ankle.
 
-“You are very annoying,” Kenji said.
+[[speaker:kenji]]“You are very annoying,” Kenji said.
 
 [[speaker:raska]]“Good.”
 

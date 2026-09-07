@@ -78,7 +78,7 @@ The sentence stayed between them.
 
 No art in the world made that softer.
 
-“What about the qi?” Sera asked.
+[[speaker:sera]]“What about the qi?” Sera asked.
 
 Only after **Winter Ends, Spring Blossoms** had closed every still-active Redline cycle did Rhen touch the captured reserves again.
 
@@ -250,7 +250,7 @@ Not strong.
 
 Stable.
 
-“Why?” Tsubasa asked.
+[[speaker:tsubasa]]“Why?” Tsubasa asked.
 
 Rhen stood.
 
@@ -352,7 +352,7 @@ Then sighed.
 
 [[speaker:rhen]]“Frequently.”
 
-From the next cot, Sera said, “Accurately.”
+[[speaker:sera]]From the next cot, Sera said, “Accurately.”
 
 She was supposed to be resting.
 
@@ -646,7 +646,7 @@ Nao nodded.
 
 [[speaker:nao]]“Civil authority must survive disagreement with military command.”
 
-Aya added, “And medicine does not answer to either when treatment ethics are involved.”
+[[speaker:aya]]Aya added, “And medicine does not answer to either when treatment ethics are involved.”
 
 Kai looked at all three.
 

@@ -199,7 +199,7 @@ Abnormal skin temperature.
 
 A vitality signature that felt wrong in a way ordinary exhaustion did not.
 
-“How many?” Luo asked.
+[[speaker:luo]]“How many?” Luo asked.
 
 The man looked away.
 
@@ -753,7 +753,7 @@ Kai grunted.
 
 [[speaker:kai]]“Smart.”
 
-Shunto said, “Predictable.”
+[[speaker:shunto]]Shunto said, “Predictable.”
 
 Haru looked at him.
 

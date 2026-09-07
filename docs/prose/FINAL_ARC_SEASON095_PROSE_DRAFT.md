@@ -150,7 +150,7 @@ Qin's expression remained perfectly neutral.
 
 [[speaker:qin]]“I regret walking outside.”
 
-“You walked outside because you brought tea,” Sera said.
+[[speaker:sera]]“You walked outside because you brought tea,” Sera said.
 
 [[speaker:qin]]“I can regret several things.”
 
@@ -180,7 +180,7 @@ Huo's voice drifted in from the courtyard.
 
 “Not me.”
 
-Lu called back, “I did not ask you.”
+[[speaker:luweiran]]Lu called back, “I did not ask you.”
 
 [[speaker:huo]]“Still not me.”
 
@@ -238,7 +238,7 @@ Sera leaned against the counter.
 
 [[speaker:sera]]“You two are blocking paying customers.”
 
-“There are no paying customers here,” Luo said.
+[[speaker:luo]]“There are no paying customers here,” Luo said.
 
 [[speaker:sera]]“That is because you are both standing in front of the register.”
 
@@ -248,7 +248,7 @@ Yun glanced around.
 
 [[speaker:sera]]“Rhen doesn't charge anyone properly.”
 
-From the doorway, Rhen said, “I charge.”
+[[speaker:rhen]]From the doorway, Rhen said, “I charge.”
 
 Lu appeared behind him with three ledgers under one arm.
 
@@ -686,7 +686,7 @@ Rhen looked at her.
 
 She looked at him.
 
-“How do you know?” Sera asked.
+[[speaker:sera]]“How do you know?” Sera asked.
 
 [[speaker:luweiran]]“You have been arguing for ten minutes.”
 
@@ -778,7 +778,7 @@ Sera looked at him.
 
 [[speaker:sera]]“You thought it loudly.”
 
-Tae muttered, “He does most things loudly.”
+[[speaker:tae]]Tae muttered, “He does most things loudly.”
 
 Huo looked at him.
 
@@ -880,7 +880,7 @@ He turned his face toward Rhen.
 
 Rhen nodded.
 
-Qin added, “But if you tell me my right meridian branch is compensating four percent more than the left, I am leaving.”
+[[speaker:qin]]Qin added, “But if you tell me my right meridian branch is compensating four percent more than the left, I am leaving.”
 
 Sera stared.
 
@@ -1028,13 +1028,13 @@ The beam creaked into a more reasonable position.
 
 Arin looked at Sera.
 
-Sera said, “Do not encourage him.”
+[[speaker:sera]]Sera said, “Do not encourage him.”
 
 Arin set the braces down.
 
 The courtyard behind them was full of rebuilding noise.
 
-“Six hundred eleven,” Sera said.
+[[speaker:sera]]“Six hundred eleven,” Sera said.
 
 Arin's gaze shifted toward the formation ground.
 
@@ -1446,7 +1446,7 @@ Luo was already beside him.
 
 [[speaker:luo]]“Pulse is wrong.”
 
-“Which part?” Yun asked.
+[[speaker:yun]]“Which part?” Yun asked.
 
 [[speaker:luo]]“All of it.”
 
@@ -1506,7 +1506,7 @@ Rhen looked down at the patient again.
 
 Huo stepped forward.
 
-Luo said, “Not like that.”
+[[speaker:luo]]Luo said, “Not like that.”
 
 Huo paused.
 
@@ -1770,7 +1770,7 @@ Silence did the work.
 
 Finally he whispered, “Enough to get out.”
 
-“Did you?” Sera asked.
+[[speaker:sera]]“Did you?” Sera asked.
 
 He looked down at Huo's hands holding him to the table.
 

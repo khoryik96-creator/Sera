@@ -1,39 +1,12 @@
 # Season 96 — unattributed dialogue
 
-50 quoted lines in this season have no speaker.
+47 quoted lines in this season have no speaker.
 See `README.md` in this folder for what to do with them.
 
 Lines already resolved show their speaker in `[brackets]` for context.
 
-### Chapter 312 — Frost Where Rhen Did Not Mean It
-
-```
-Sera took that in without making it larger than it was.
-They had survived too many catastrophes to panic at every strange symptom.
-They had also survived because they did not pretend strange symptoms were normal.
->>> “When it stops being pottery,” she said, “you tell me.”   <-- WHO SAYS THIS?
-Rhen glanced down at her.
-[rhen] “What does that mean?”
-```
-
 ### Chapter 313 — Leaving Is Still a Choice
 
-```
-Xie looked at her.
-She patted the tile beside her.
-He stayed where he was.
->>> “Fine,” she said. “Be dramatic.”   <-- WHO SAYS THIS?
-[xie_wuchen] “I’m eating fruit.”
-[sera] “You’re eating it mysteriously.”
-```
-```
-Xie looked at the pear core.
-[xie_wuchen] “Because staying means somebody gives you a title.”
-Sera waited.
->>> “Then a responsibility,” he continued. “Then an office. Then one day somebody points at a person you’ve never met and says the banner requires you to kill them.”   <-- WHO SAYS THIS?
-[sera] “That happened to Tempest Hall?”
-[xie_wuchen] “It happened to everyone eventually.”
-```
 ```
 Then the next.
 Sera leaned over the roof edge.
@@ -160,7 +133,7 @@ It was good.
 ```
 Yun watched them run past.
 A woman selling tea from a roadside kettle noticed where Yun was looking.
-“Children still do that?” Yun asked.
+[yun] “Children still do that?” Yun asked.
 >>> “Every spring.”   <-- WHO SAYS THIS?
 [yun] “For Shinsei?”
 The woman wiped her hands on her apron.
@@ -274,7 +247,7 @@ A cart wheel squeaked.
 
 ```
 The arbitration desk carried the same broken-circle symbol.
-“Guild office?” Yun asked.
+[yun] “Guild office?” Yun asked.
 The clerk looked confused.
 >>> “Of course.”   <-- WHO SAYS THIS?
 [yun] “For taxes?”

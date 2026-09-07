@@ -715,11 +715,11 @@ Sera sighed.
 
 “Internal damage.”
 
-“Yes.”
+[[speaker:sera]]“Yes.”
 
 “Dehydration.”
 
-“Yes.”
+[[speaker:sera]]“Yes.”
 
 [[speaker:sera]]“You’ve been spending time with Luo.”
 
@@ -739,7 +739,7 @@ A road still functioning.
 
 She looked north where Kai and Eirik withdrew.
 
-“Next time,” she said quietly.
+[[speaker:sera]]“Next time,” she said quietly.
 
 The medic misunderstood.
 
@@ -769,7 +769,7 @@ He read the report once, then handed it to Luo without comment.
 
 Luo read it standing beside Sera’s treatment cot. She was awake, although the way she kept her eyes closed suggested she hoped everyone might forget that fact and discuss the war loudly enough for her to participate without being accused of participating.
 
-“We beat them yesterday,” Jin said.
+[[speaker:jin]]“We beat them yesterday,” Jin said.
 
 Sera opened one eye.
 
@@ -777,7 +777,7 @@ Sera opened one eye.
 
 [[speaker:jin]]“They’re back.”
 
-“Yes.”
+[[speaker:sera]]“Yes.”
 
 Luo folded the report very neatly.
 
@@ -829,7 +829,7 @@ Eirik.
 
 [[speaker:jin]]“Aldric hurt him.”
 
-“Maedra too,” Luo said.
+[[speaker:luo]]“Maedra too,” Luo said.
 
 **ACTIVE.**
 
@@ -869,7 +869,7 @@ Luo nodded.
 
 [[speaker:luo]]“Separate disabled from unrecoverable.”
 
-The medic beside Sera muttered, “Physicians have been telling armies to do that for centuries.”
+[[speaker:sera]]The medic beside Sera muttered, “Physicians have been telling armies to do that for centuries.”
 
 Jin looked at her.
 
@@ -903,7 +903,7 @@ Jin began a new column.
 
 [[speaker:jin]]“Captured information.”
 
-“Trust in command,” Sera added.
+[[speaker:sera]]“Trust in command,” Sera added.
 
 Jin’s brush paused.
 
@@ -913,7 +913,7 @@ Luo looked at Aya’s name on the intelligence sheet.
 
 [[speaker:luo]]“She is not the war.”
 
-“No,” Sera said.
+[[speaker:sera]]“No,” Sera said.
 
 The answer mattered. It would have been easy to reduce the strategic problem to one extraordinary physician and start thinking like people who solved medicine by killing doctors.
 
@@ -986,3 +986,4 @@ Outside the tent, the first shift bell of the sixth month sounded.
 Nobody in the room celebrated the victories on the map.
 
 They were too busy deciding how to make the next one stay won.
+

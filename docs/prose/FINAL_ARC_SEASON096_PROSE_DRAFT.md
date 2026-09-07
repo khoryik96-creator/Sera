@@ -206,15 +206,15 @@ Luo looked toward the ceiling as if he could see through two floors and find Rhe
 
 [[speaker:luo]]“Even he called it spent.”
 
-Yun said, “Because it was.”
+[[speaker:yun]]Yun said, “Because it was.”
 
 Lu folded his arms.
 
 [[speaker:luweiran]]“Can we quantify it?”
 
-“Not yet,” Luo said.
+[[speaker:luo]]“Not yet,” Luo said.
 
-Yun added, “But someone else probably can.”
+[[speaker:yun]]Yun added, “But someone else probably can.”
 
 Lu’s gaze moved to her.
 
@@ -454,7 +454,7 @@ Sera’s fingers pressed slightly harder against his wrist.
 
 She waited.
 
-Rhen added, “If dinner were inside my meridians.”
+[[speaker:rhen]]Rhen added, “If dinner were inside my meridians.”
 
 [[speaker:sera]]“That is a terrible explanation.”
 
@@ -538,7 +538,7 @@ They had survived too many catastrophes to panic at every strange symptom.
 
 They had also survived because they did not pretend strange symptoms were normal.
 
-“When it stops being pottery,” she said, “you tell me.”
+[[speaker:sera]]“When it stops being pottery,” she said, “you tell me.”
 
 Rhen glanced down at her.
 
@@ -700,7 +700,7 @@ She patted the tile beside her.
 
 He stayed where he was.
 
-“Fine,” she said. “Be dramatic.”
+[[speaker:sera]]“Fine,” she said. “Be dramatic.”
 
 [[speaker:xie_wuchen]]“I’m eating fruit.”
 
@@ -762,7 +762,7 @@ Xie looked at the pear core.
 
 Sera waited.
 
-“Then a responsibility,” he continued. “Then an office. Then one day somebody points at a person you’ve never met and says the banner requires you to kill them.”
+[[speaker:xie_wuchen]]“Then a responsibility,” he continued. “Then an office. Then one day somebody points at a person you’ve never met and says the banner requires you to kill them.”
 
 [[speaker:sera]]“That happened to Tempest Hall?”
 
@@ -903,3 +903,4 @@ Sera grinned.
 Good.
 
 He was still listening.
+

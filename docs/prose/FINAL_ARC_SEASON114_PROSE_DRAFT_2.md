@@ -56,7 +56,7 @@ Not in his face alone.
 
 In the way he listened when someone talked about paying tomorrow for strength today.
 
-“We kept saying emergency,” Haru said.
+[[speaker:haru]]“We kept saying emergency,” Haru said.
 
 The quartermaster turned toward him.
 
@@ -762,7 +762,7 @@ Arin froze.
 
 Qin smiled.
 
-From behind them, Lu Weiran called, “I handle warehouse allocation.”
+[[speaker:luweiran]]From behind them, Lu Weiran called, “I handle warehouse allocation.”
 
 Arin closed her eyes.
 

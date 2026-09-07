@@ -14,7 +14,7 @@ Luo Wen believed medicine should not have to survive interrogation by someone ho
 
 Their disagreement had lasted most of the morning.
 
-“It is not three knives,” Yun said.
+[[speaker:yun]]“It is not three knives,” Yun said.
 
 Luo looked at the table.
 
@@ -438,7 +438,7 @@ The patient looked back.
 
 The answer came quickly enough that the man believed it.
 
-Then Rhen added, “Sit.”
+[[speaker:rhen]]Then Rhen added, “Sit.”
 
 The man sat.
 
@@ -574,13 +574,13 @@ Yun did not soften the point, but neither did she make it cruel.
 
 “I didn't agree to that.”
 
-“No.”
+[[speaker:yun]]“No.”
 
 That word mattered.
 
 The patient looked away.
 
-Sera asked, “Can he recover naturally?”
+[[speaker:sera]]Sera asked, “Can he recover naturally?”
 
 Rhen considered.
 
@@ -644,7 +644,7 @@ The man hesitated.
 
 “That it would make me stronger.”
 
-“For how long?” Luo asked.
+[[speaker:luo]]“For how long?” Luo asked.
 
 “Minutes.”
 
@@ -662,7 +662,7 @@ The man continued.
 
 “They said the body would feel emptied because the drug burns qi fast.”
 
-“It does burn qi fast,” Luo said.
+[[speaker:luo]]“It does burn qi fast,” Luo said.
 
 The patient looked hopeful.
 
@@ -816,7 +816,7 @@ That made it easier to sell.
 
 And worse.
 
-“Find the source,” Sera said.
+[[speaker:sera]]“Find the source,” Sera said.
 
 Lu's voice came from behind them.
 
@@ -864,9 +864,9 @@ The healing he had just performed should have left a measurable absence.
 
 It had not.
 
-“Faster again?” she asked.
+[[speaker:sera]]“Faster again?” she asked.
 
-“Yes.”
+[[speaker:rhen]]“Yes.”
 
 [[speaker:sera]]“How fast?”
 
@@ -950,7 +950,7 @@ The young woman swallowed.
 
 The courier blinked.
 
-Sera said, “He means useful.”
+[[speaker:sera]]Sera said, “He means useful.”
 
 [[speaker:luweiran]]“I said good.”
 
@@ -1002,7 +1002,7 @@ Sera nodded slowly.
 
 [[speaker:sera]]“And those rules leave a trail.”
 
-“Yes.”
+[[speaker:luweiran]]“Yes.”
 
 Lu pointed at three route marks.
 
@@ -1022,11 +1022,11 @@ Sera looked at him.
 
 [[speaker:sera]]“That is it?”
 
-“No.”
+[[speaker:luweiran]]“No.”
 
 [[speaker:sera]]“The same rope?”
 
-“No.”
+[[speaker:luweiran]]“No.”
 
 [[speaker:sera]]“The same carpenter?”
 
@@ -1038,7 +1038,7 @@ Sera pointed at him.
 
 [[speaker:luweiran]]“It is not the carpenter.”
 
-Qin said, “You look disappointed.”
+[[speaker:qin]]Qin said, “You look disappointed.”
 
 [[speaker:luweiran]]“I am surrounded by children.”
 
@@ -1050,7 +1050,7 @@ Sera's amusement faded.
 
 [[speaker:sera]]“Those are not accidental.”
 
-“No.”
+[[speaker:luweiran]]“No.”
 
 [[speaker:sera]]“Who?”
 
@@ -1064,9 +1064,9 @@ Sera's amusement faded.
 
 [[speaker:luweiran]]“One relocated.”
 
-“Where?”
+[[speaker:sera]]“Where?”
 
-“Unknown.”
+[[speaker:luweiran]]“Unknown.”
 
 [[speaker:sera]]“And the third?”
 
@@ -1086,7 +1086,7 @@ Sera's eyes sharpened.
 
 [[speaker:sera]]“Wuyue?”
 
-“Yes.”
+[[speaker:luweiran]]“Yes.”
 
 That changed the problem.
 
@@ -1198,13 +1198,13 @@ Luo opened the notebook without setting it down.
 
 [[speaker:luo]]“We think the first layer drives circulation. Another suppresses distress. A delayed component extends the high-output state after tissue begins failing.”
 
-“How long?” Sera asked.
+[[speaker:sera]]“How long?” Sera asked.
 
-“Unknown.”
+[[speaker:luo]]“Unknown.”
 
-“Cost?”
+[[speaker:sera]]“Cost?”
 
-“Unknown.”
+[[speaker:luo]]“Unknown.”
 
 Lu's expression remained flat.
 
@@ -1252,7 +1252,7 @@ Yun looked at Luo.
 
 [[speaker:yun]]“Defend me.”
 
-“No.”
+[[speaker:luo]]“No.”
 
 [[speaker:yun]]“Coward.”
 
@@ -1300,7 +1300,7 @@ Lu continued.
 
 [[speaker:luweiran]]“Every record I have is middle.”
 
-“Meaning?” Luo asked.
+[[speaker:luo]]“Meaning?” Luo asked.
 
 [[speaker:luweiran]]“Meaning somebody did not merely hide the cargo.”
 
@@ -1346,7 +1346,7 @@ Qin lifted his tea.
 
 [[speaker:qin]]“Good judgment.”
 
-Lu said, “Then you are in the wrong room.”
+[[speaker:luweiran]]Lu said, “Then you are in the wrong room.”
 
 For once, everyone agreed.
 

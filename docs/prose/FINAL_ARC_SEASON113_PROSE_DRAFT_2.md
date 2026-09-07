@@ -118,7 +118,7 @@ Tsubasa yanked the line.
 
 Rhen was already gone.
 
-“Stop doing that,” Sera muttered.
+[[speaker:sera]]“Stop doing that,” Sera muttered.
 
 Luo looked at her.
 

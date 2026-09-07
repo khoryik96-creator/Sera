@@ -82,7 +82,7 @@ Sera did not punish him for it.
 
 “Public mobilization authority in two eastern formations. They are structured to receive emergency orders through ranked holders or regional sovereign command. We can reroute through Jin, but it creates delay.”
 
-Jin said, “How much?”
+[[speaker:jin]]Jin said, “How much?”
 
 “Best case, hours. Worst case, a day if the road relay is interrupted.”
 
@@ -116,7 +116,7 @@ The cost had finally been named. Nobody wanted the conversation.
 
 The war wanted it anyway.
 
-Sera said, “Not this morning.”
+[[speaker:sera]]Sera said, “Not this morning.”
 
 Jin nodded once.
 
@@ -168,7 +168,7 @@ Then:
 
 Luo’s mouth tightened.
 
-Sera said, “Nobody replaces her.”
+[[speaker:sera]]Sera said, “Nobody replaces her.”
 
 He looked at her.
 
@@ -194,7 +194,7 @@ Necessary.
 
 [[speaker:luo]]“Fine.”
 
-Jin said, “We have not chosen anyone.”
+[[speaker:jin]]Jin said, “We have not chosen anyone.”
 
 Luo gave him a tired look.
 
@@ -292,7 +292,7 @@ Shen Rui folded his arms.
 
 Rui looked at Sera.
 
-Sera said, “I am enjoying this. Continue.”
+[[speaker:sera]]Sera said, “I am enjoying this. Continue.”
 
 Xie sighed and sat.
 
@@ -318,7 +318,7 @@ That made the answer clearer.
 
 Sera watched him.
 
-Rui said, “Hear me.”
+[[speaker:rui]]Rui said, “Hear me.”
 
 [[speaker:xie_wuchen]]“I heard enough.”
 
@@ -394,13 +394,13 @@ Rui had lost the fight.
 
 The memory had aged poorly for his pride and very well for his judgment.
 
-“You beat me once,” Rui said.
+[[speaker:rui]]“You beat me once,” Rui said.
 
 Tae leaned toward Huo.
 
 [[speaker:tae]]“I like him already.”
 
-Huo whispered, “You knew that.”
+[[speaker:huo]]Huo whispered, “You knew that.”
 
 [[speaker:tae]]“I like hearing it again.”
 
@@ -434,7 +434,7 @@ Xie looked at Lu.
 
 [[speaker:xie_wuchen]]“This is your fault.”
 
-Lu said, “Probably.”
+[[speaker:luweiran]]Lu said, “Probably.”
 
 “You brought us ledgers.” Rui continued. “Stopped extortion. Identified routes. Went where officials could not move without announcing themselves.”
 
@@ -456,7 +456,7 @@ Rui knew because Xie had complained about it afterward.
 
 Apparently with enough detail to remember forever.
 
-Rui said, “No.10 does not need another army.”
+[[speaker:rui]]Rui said, “No.10 does not need another army.”
 
 Good. Xie had no personal army hidden behind the title.
 
@@ -488,7 +488,7 @@ Not insult.
 
 Assessment.
 
-Rui said, “The seat does not require us to lie about what he is.”
+[[speaker:rui]]Rui said, “The seat does not require us to lie about what he is.”
 
 Sera agreed.
 
@@ -518,7 +518,7 @@ The room became quiet.
 
 Xie looked down at his hands.
 
-Sera said, “Nobody can replace Yun.”
+[[speaker:sera]]Sera said, “Nobody can replace Yun.”
 
 He looked up.
 
@@ -532,7 +532,7 @@ Sera’s voice stayed level.
 
 Xie did not answer.
 
-Rui said, “Take the empty seat.”
+[[speaker:rui]]Rui said, “Take the empty seat.”
 
 Xie stared at him.
 
@@ -608,9 +608,9 @@ This time nobody stopped him.
 
 Shen Rui watched him go.
 
-Tae said, “He is coming back.”
+[[speaker:tae]]Tae said, “He is coming back.”
 
-Rui answered, “Yes.”
+[[speaker:rui]]Rui answered, “Yes.”
 
 Huo looked at him.
 
@@ -674,9 +674,9 @@ Wind moved through the courtyard.
 
 Of course it did.
 
-Tae whispered, “Dramatic.”
+[[speaker:tae]]Tae whispered, “Dramatic.”
 
-Huo said, “Weather.”
+[[speaker:huo]]Huo said, “Weather.”
 
 [[speaker:tae]]“Dramatic weather.”
 
@@ -762,7 +762,7 @@ Xie stared at it.
 
 [[speaker:xie_wuchen]]“That fast?”
 
-Jin said, “You wanted the work.”
+[[speaker:jin]]Jin said, “You wanted the work.”
 
 [[speaker:xie_wuchen]]“I did not say wanted.”
 

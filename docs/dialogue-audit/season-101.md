@@ -12,19 +12,19 @@ Sera had seen him fight entire campaigns with fewer weapons.
 “Again,” she said.
 A naval clerk swallowed.
 >>> “Forty-six deep-hull transports confirmed within nine days. Another nineteen if Stonecrown releases civilian grain carriers.”   <-- WHO SAYS THIS?
-“Do not count grain carriers twice,” Jin said.
+[jin] “Do not count grain carriers twice,” Jin said.
 “I did not.”
 ```
 ```
 A naval clerk swallowed.
 “Forty-six deep-hull transports confirmed within nine days. Another nineteen if Stonecrown releases civilian grain carriers.”
-“Do not count grain carriers twice,” Jin said.
+[jin] “Do not count grain carriers twice,” Jin said.
 >>> “I did not.”   <-- WHO SAYS THIS?
 [jin] “You did yesterday.”
 “That was another clerk.”
 ```
 ```
-“Do not count grain carriers twice,” Jin said.
+[jin] “Do not count grain carriers twice,” Jin said.
 “I did not.”
 [jin] “You did yesterday.”
 >>> “That was another clerk.”   <-- WHO SAYS THIS?
@@ -300,7 +300,7 @@ Jin pointed at the board.
 The clerk hesitated.
 ```
 ```
-Tae whispered, “He was about to ask.”
+[tae] Tae whispered, “He was about to ask.”
 Huo nodded gravely.
 The clerk decided survival mattered.
 >>> “Yes.”   <-- WHO SAYS THIS?
@@ -409,7 +409,7 @@ That would have wasted time.
 ```
 Nobody cursed.
 That would have wasted time.
-“What has moved?” Solveig asked.
+[solveig] “What has moved?” Solveig asked.
 >>> “Medicine. Preserved food. Surgical supplies. Two fast naval escorts. Wuyue says the main expedition is not ready to sail without becoming a supply failure halfway north.”   <-- WHO SAYS THIS?
 Varok muttered something impolite.
 Solveig ignored him.
@@ -436,7 +436,7 @@ Solveig looked at the map.
 The messenger blinked.
 >>> “Those exact words?”   <-- WHO SAYS THIS?
 [solveig] “Yes.”
-Varok said, “Add something inspiring.”
+[varok] Varok said, “Add something inspiring.”
 ```
 ```
 At sea, the first Shinsei transport lowered boats.
@@ -550,7 +550,7 @@ Solveig looked at the old officer.
 ```
 ```
 Not young enough to forget.
-“What did you say?” Solveig asked.
+[solveig] “What did you say?” Solveig asked.
 Orven stared at the shieldwork report from Brynja's coast.
 >>> “Read the brace again.”   <-- WHO SAYS THIS?
 A clerk did.
@@ -562,18 +562,18 @@ Orven stared at the shieldwork report from Brynja's coast.
 A clerk did.
 >>> “Impact received at shield rim. Force distributed through shoulder, hip and rear leg rather than direct arm absorption. Commander remained planted despite unstable deck.”   <-- WHO SAYS THIS?
 Orven's face had gone pale.
-Varok said, “That is a defensive method.”
+[varok] Varok said, “That is a defensive method.”
 ```
 ```
 “Impact received at shield rim. Force distributed through shoulder, hip and rear leg rather than direct arm absorption. Commander remained planted despite unstable deck.”
 Orven's face had gone pale.
-Varok said, “That is a defensive method.”
+[varok] Varok said, “That is a defensive method.”
 >>> “No.”   <-- WHO SAYS THIS?
 Orven looked at him.
 “That is **his** defensive method.”
 ```
 ```
-Varok said, “That is a defensive method.”
+[varok] Varok said, “That is a defensive method.”
 “No.”
 Orven looked at him.
 >>> “That is **his** defensive method.”   <-- WHO SAYS THIS?

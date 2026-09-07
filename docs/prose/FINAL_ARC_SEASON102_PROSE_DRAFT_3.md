@@ -20,7 +20,7 @@ On the seventh, Tae Muyeon handed him a crate and said, “If you are not one of
 
 Yurushi carried it.
 
-On the ninth, Huo Wujin shouted from across the training yard, “OUTSIDER! YOUR TEA IS GETTING COLD.”
+[[speaker:huo]]On the ninth, Huo Wujin shouted from across the training yard, “OUTSIDER! YOUR TEA IS GETTING COLD.”
 
 Yurushi drank it.
 
@@ -116,7 +116,7 @@ Yurushi noticed it and pointed.
 
 [[speaker:black_radiance]]“You knew she was going to ask.”
 
-Lu answered, “I hoped.”
+[[speaker:luweiran]]Lu answered, “I hoped.”
 
 [[speaker:black_radiance]]“That is worse.”
 
@@ -158,11 +158,11 @@ Yurushi looked at it.
 
 Tae would never have let him survive the jokes.
 
-Qin said, “The title is senior. The authority is specific.”
+[[speaker:qin]]Qin said, “The title is senior. The authority is specific.”
 
 [[speaker:black_radiance]]“That sounds like Lu wrote it.”
 
-“I did,” Lu said.
+[[speaker:luweiran]]“I did,” Lu said.
 
 Naturally.
 
@@ -262,7 +262,7 @@ He sighed.
 
 [[speaker:black_radiance]]“Of course.”
 
-Sera said, “You follow my lethal-force authorization. You do not kill because you are angry, afraid or convinced nobody will care. You protect the organization’s people. You do not use the Quaint network for private revenge. If I tell you to stop, you stop.”
+[[speaker:sera]]Sera said, “You follow my lethal-force authorization. You do not kill because you are angry, afraid or convinced nobody will care. You protect the organization’s people. You do not use the Quaint network for private revenge. If I tell you to stop, you stop.”
 
 Yurushi’s eyes darkened slightly at the word revenge.
 
@@ -274,7 +274,7 @@ So did Qin.
 
 Nobody named him.
 
-Yurushi asked, “And if your order is wrong?”
+[[speaker:yurushi]]Yurushi asked, “And if your order is wrong?”
 
 Sera answered immediately.
 
@@ -292,7 +292,7 @@ He stared.
 
 He looked at Qin.
 
-Qin said, “She means it.”
+[[speaker:qin]]Qin said, “She means it.”
 
 At Lu.
 
@@ -550,9 +550,9 @@ Yurushi looked at Sera.
 
 [[speaker:sera]]“Frequently.”
 
-Tae shouted from twenty paces away, “I HEARD THAT.”
+[[speaker:tae]]Tae shouted from twenty paces away, “I HEARD THAT.”
 
-Huo shouted from somewhere farther off, “EVERYONE HEARD THAT.”
+[[speaker:huo]]Huo shouted from somewhere farther off, “EVERYONE HEARD THAT.”
 
 For one breath, the courtyard laughed.
 
@@ -588,7 +588,7 @@ Yurushi picked up one satchel.
 
 Then handed it to Qin.
 
-“What?” Qin asked.
+[[speaker:qin]]“What?” Qin asked.
 
 [[speaker:black_radiance]]“Medical credentials. Useful if Shinsei tries to move through western ports.”
 
@@ -690,11 +690,11 @@ Sera looked at all four fighters and Lu.
 
 Qin nodded.
 
-Tae said, “Obviously.”
+[[speaker:tae]]Tae said, “Obviously.”
 
 Huo cracked his neck.
 
-Lu said, “Please do not interpret that as permission to destroy infrastructure.”
+[[speaker:luweiran]]Lu said, “Please do not interpret that as permission to destroy infrastructure.”
 
 Tae looked offended.
 

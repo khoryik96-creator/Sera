@@ -1,6 +1,6 @@
 # Season 107 — unattributed dialogue
 
-15 quoted lines in this season have no speaker.
+12 quoted lines in this season have no speaker.
 See `README.md` in this folder for what to do with them.
 
 Lines already resolved show their speaker in `[brackets]` for context.
@@ -59,43 +59,27 @@ Sera sighed.
 [sera] “Bad habit.”
 >>> “Yes.”   <-- WHO SAYS THIS?
 “Internal damage.”
-“Yes.”
+[sera] “Yes.”
 ```
 ```
 Sera sighed.
 [sera] “Bad habit.”
 “Yes.”
 >>> “Internal damage.”   <-- WHO SAYS THIS?
-“Yes.”
+[sera] “Yes.”
 “Dehydration.”
-```
-```
-[sera] “Bad habit.”
-“Yes.”
-“Internal damage.”
->>> “Yes.”   <-- WHO SAYS THIS?
-“Dehydration.”
-“Yes.”
 ```
 ```
 “Yes.”
 “Internal damage.”
-“Yes.”
+[sera] “Yes.”
 >>> “Dehydration.”   <-- WHO SAYS THIS?
-“Yes.”
+[sera] “Yes.”
 [sera] “You’ve been spending time with Luo.”
 ```
 ```
-“Internal damage.”
-“Yes.”
 “Dehydration.”
->>> “Yes.”   <-- WHO SAYS THIS?
-[sera] “You’ve been spending time with Luo.”
-“Yes.”
-```
-```
-“Dehydration.”
-“Yes.”
+[sera] “Yes.”
 [sera] “You’ve been spending time with Luo.”
 >>> “Yes.”   <-- WHO SAYS THIS?
 Sera sat.
@@ -103,7 +87,7 @@ The corridor remained open behind her.
 ```
 ```
 She looked north where Kai and Eirik withdrew.
-“Next time,” she said quietly.
+[sera] “Next time,” she said quietly.
 The medic misunderstood.
 >>> “Next time what?”   <-- WHO SAYS THIS?
 Sera closed her eyes.
@@ -113,14 +97,6 @@ Sera closed her eyes.
 ### Chapter 430 — We Beat Them Yesterday
 
 ```
-Sera opened one eye.
-[sera] “Yes.”
-[jin] “They’re back.”
->>> “Yes.”   <-- WHO SAYS THIS?
-Luo folded the report very neatly.
-[luo] “This is becoming repetitive.”
-```
-```
 Sera pushed herself upright despite the medic immediately appearing at the edge of her vision.
 “Don’t,” the medic said.
 [sera] “I’m sitting.”
@@ -129,7 +105,7 @@ Sera ignored that and looked at Jin.
 [sera] “So what changes?”
 ```
 ```
-The medic beside Sera muttered, “Physicians have been telling armies to do that for centuries.”
+[sera] The medic beside Sera muttered, “Physicians have been telling armies to do that for centuries.”
 Jin looked at her.
 [jin] “Armies have been ignoring physicians for centuries.”
 >>> “Also true.”   <-- WHO SAYS THIS?

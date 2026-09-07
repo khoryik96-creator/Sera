@@ -44,7 +44,7 @@ He opened one ledger.
 
 [[speaker:luweiran]]“Three merchant intermediaries. Two medical-export fronts. One port authority that repeatedly clears the same class of sealed container under different product names.”
 
-“Shinsei?” Sera asked.
+[[speaker:sera]]“Shinsei?” Sera asked.
 
 “Name appears on permits and tax forms,” Lu said. “Could be state. Could be regulator. Could be guild. Could be all three. We do not know yet.”
 
@@ -158,13 +158,13 @@ A tiny habitual gesture.
 
 Sera noticed Luo noticing it.
 
-“How long?” Sera asked.
+[[speaker:sera]]“How long?” Sera asked.
 
 Yun looked back at her.
 
 [[speaker:yun]]“Two weeks if the chain is clean. Three if I have to move slowly.”
 
-Lu said, “Route time alone is six to eight days each way depending on ship transfer.”
+[[speaker:luweiran]]Lu said, “Route time alone is six to eight days each way depending on ship transfer.”
 
 [[speaker:sera]]“Then call it three.”
 
@@ -214,7 +214,7 @@ He pushed off the wall.
 
 Yun nodded.
 
-Sera said, “No Quaint shadow team.”
+[[speaker:sera]]Sera said, “No Quaint shadow team.”
 
 Luo looked at her.
 
@@ -224,7 +224,7 @@ She had expected that.
 
 “A foreign shadow team is still a team,” Sera continued. “If Shinrin is ordinary, we risk creating the thing we’re supposedly investigating. If it isn’t ordinary, ten covert Wuyue operatives are not automatically safer than one.”
 
-Lu added, “I can keep eyes on ports and shipping from this side.”
+[[speaker:luweiran]]Lu added, “I can keep eyes on ports and shipping from this side.”
 
 Sera looked at Yun.
 
@@ -710,7 +710,7 @@ Yun watched them run past.
 
 A woman selling tea from a roadside kettle noticed where Yun was looking.
 
-“Children still do that?” Yun asked.
+[[speaker:yun]]“Children still do that?” Yun asked.
 
 “Every spring.”
 
@@ -902,7 +902,7 @@ The tax office sent her to a commercial arbitration desk.
 
 The arbitration desk carried the same broken-circle symbol.
 
-“Guild office?” Yun asked.
+[[speaker:yun]]“Guild office?” Yun asked.
 
 The clerk looked confused.
 

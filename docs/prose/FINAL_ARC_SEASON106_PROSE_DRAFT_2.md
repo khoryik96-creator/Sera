@@ -461,7 +461,7 @@ Aya became very still.
 
 He blinked.
 
-“You do not honor dead people by making one more injury permanent when it can be healed.” Her voice was quiet, but there was iron beneath it. “A physician does not correct injustice by creating another patient.”
+[[speaker:aya]]“You do not honor dead people by making one more injury permanent when it can be healed.” Her voice was quiet, but there was iron beneath it. “A physician does not correct injustice by creating another patient.”
 
 Kenji looked down.
 
@@ -767,7 +767,7 @@ Eldran sat there with one useless side and a book open in his good hand.
 
 Maedra’s expression changed.
 
-“Yes.”
+[[speaker:maedra]]“Yes.”
 
 Luo followed her gaze.
 
@@ -1149,7 +1149,7 @@ Aldric sat.
 
 [[speaker:aldric]]“We removed him.”
 
-“For three days,” Jin said.
+[[speaker:jin]]“For three days,” Jin said.
 
 Nobody liked how calm he sounded.
 
@@ -1177,7 +1177,7 @@ No shame.
 
 Important.
 
-“And Rhen?” Aldric asked.
+[[speaker:aldric]]“And Rhen?” Aldric asked.
 
 Luo looked at him.
 
@@ -1197,9 +1197,9 @@ All living.
 
 All repairable.
 
-“Shinsei’s manpower advantage isn’t just two hundred thousand trained elites,” Jin said.
+[[speaker:jin]]“Shinsei’s manpower advantage isn’t just two hundred thousand trained elites,” Jin said.
 
-“No,” Sera answered.
+[[speaker:sera]]“No,” Sera answered.
 
 [[speaker:jin]]“It’s that killing the same Paragon is apparently required if we want them permanently removed.”
 

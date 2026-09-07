@@ -26,7 +26,7 @@ Rhen finished one bowl of rice porridge, two steamed buns, half a plate of pickl
 
 Lu watched the entire process.
 
-“This is excessive,” Rhen said.
+[[speaker:rhen]]“This is excessive,” Rhen said.
 
 [[speaker:luweiran]]“You were sealed in stone for six months.”
 
@@ -616,7 +616,7 @@ Sera looked at Rhen.
 
 Six months fit into the space between them.
 
-Then Rhen said, “You look terrible.”
+[[speaker:rhen]]Then Rhen said, “You look terrible.”
 
 Arin, outside the tent, whispered something unprintable.
 
@@ -644,7 +644,7 @@ It was barely a cultivator's punch.
 
 He still accepted it.
 
-“You,” Sera said.
+[[speaker:sera]]“You,” Sera said.
 
 Rhen nodded.
 
@@ -920,7 +920,7 @@ Jin gestured at the map.
 
 [[speaker:jin]]“We can give you the current state in an hour.”
 
-“Lu gave me six months on the way out,” Rhen said.
+[[speaker:rhen]]“Lu gave me six months on the way out,” Rhen said.
 
 Jin glanced at Sera.
 
@@ -1066,7 +1066,7 @@ Rhen looked at Luo.
 
 [[speaker:luo]]“Worse.”
 
-“Traitor,” Sera said.
+[[speaker:sera]]“Traitor,” Sera said.
 
 Luo turned another page.
 

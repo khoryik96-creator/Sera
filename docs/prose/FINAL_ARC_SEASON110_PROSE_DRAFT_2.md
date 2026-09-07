@@ -624,7 +624,7 @@ Lu sipped tea.
 
 Yurushi stared.
 
-Lu added, “Neither does the person until the final exchange point.”
+[[speaker:luweiran]]Lu added, “Neither does the person until the final exchange point.”
 
 [[speaker:black_radiance]]“You are unsettling.”
 

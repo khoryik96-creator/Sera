@@ -176,12 +176,12 @@ Solveig Skeldran stood near the wall with one arm bandaged and dried blood still
 She had not sat in eighteen hours.
 An officer looked at the empty chair.
 >>> “When Aldric wakes—”   <-- WHO SAYS THIS?
-Solveig said, “He is not awake.”
+[solveig] Solveig said, “He is not awake.”
 The officer stopped.
 ```
 ```
 “When Aldric wakes—”
-Solveig said, “He is not awake.”
+[solveig] Solveig said, “He is not awake.”
 The officer stopped.
 >>> “Maedra—”   <-- WHO SAYS THIS?
 [solveig] “Cannot stand.”

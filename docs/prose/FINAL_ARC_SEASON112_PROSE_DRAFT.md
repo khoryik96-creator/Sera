@@ -48,7 +48,7 @@ Eirik Voss stood on the other side.
 
 Neither man spoke until the wagon disappeared toward the secure medical cells.
 
-Then Kai said, “He lost.”
+[[speaker:kai]]Then Kai said, “He lost.”
 
 Tsubasa kept watching the road.
 
@@ -244,7 +244,7 @@ The room went very quiet.
 
 [[speaker:tsubasa]]“He will answer for that.”
 
-Aya said, “Good.”
+[[speaker:aya]]Aya said, “Good.”
 
 Tsubasa looked at her.
 
@@ -274,7 +274,7 @@ Martial institutions loved martyrs.
 
 A martyr could excuse anything if enough people died saying his name.
 
-“He is not a martyr,” Tsubasa said.
+[[speaker:tsubasa]]“He is not a martyr,” Tsubasa said.
 
 No one moved.
 
@@ -392,7 +392,7 @@ Solveig ignored all of them.
 
 [[speaker:solveig]]“What about Isgard reparations?”
 
-“Negotiated separately but guaranteed in principle,” Jin said.
+[[speaker:jin]]“Negotiated separately but guaranteed in principle,” Jin said.
 
 Solveig nodded.
 
@@ -466,7 +466,7 @@ Aya was first to speak.
 
 [[speaker:aya]]“They are not asking for occupation.”
 
-“No,” Tsubasa said.
+[[speaker:tsubasa]]“No,” Tsubasa said.
 
 Nao looked at the treaty draft.
 
@@ -488,7 +488,7 @@ Kai leaned against the wall.
 
 [[speaker:kai]]“Axtaya records.”
 
-Aya said, “They should have them.”
+[[speaker:aya]]Aya said, “They should have them.”
 
 Kai glanced at her.
 
@@ -746,7 +746,7 @@ Tsubasa spoke without turning.
 
 “Not perfectly. Not cleanly. But it ended them.”
 
-Sera said, “And therefore?”
+[[speaker:sera]]Sera said, “And therefore?”
 
 [[speaker:tsubasa]]“Therefore if the institution that ended them can be forced to kneel whenever a stronger foreign coalition arrives, every clan chief in Shinrin learns the wrong lesson.”
 
@@ -760,7 +760,7 @@ Tsubasa continued.
 
 “They will not see restraint. They will see weakness. They will test every limit. Old vendettas will reopen. Regional commanders will make private arrangements. Tax provinces will stop obeying central courts. Martial families will begin measuring each other again.”
 
-Aldric said, “So you invade another continent to prove your government is strong.”
+[[speaker:aldric]]Aldric said, “So you invade another continent to prove your government is strong.”
 
 Tsubasa looked at him.
 
@@ -800,7 +800,7 @@ It could end clan wars.
 
 It could also justify almost anything.
 
-Sera said, “Then change it yourself.”
+[[speaker:sera]]Sera said, “Then change it yourself.”
 
 Tsubasa's eyes narrowed.
 

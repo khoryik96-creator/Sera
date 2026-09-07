@@ -204,7 +204,7 @@ Sera watched him.
 
 Sera stared.
 
-Rhen added, “Probably.”
+[[speaker:rhen]]Rhen added, “Probably.”
 
 [[speaker:sera]]“Wonderful.”
 
@@ -314,7 +314,7 @@ She leaned into him anyway.
 
 Rhen rested his head lightly against hers.
 
-After a while Sera said, “If I lose?”
+[[speaker:sera]]After a while Sera said, “If I lose?”
 
 Rhen's hand tightened around hers.
 
@@ -560,7 +560,7 @@ He touched the chain.
 
 She lowered her stance.
 
-Tsubasa said, “You understand I am not Aethon Vael.”
+[[speaker:tsubasa]]Tsubasa said, “You understand I am not Aethon Vael.”
 
 Sera's eyes sharpened.
 
@@ -610,9 +610,9 @@ No one on the ridge breathed normally.
 
 The first exchange had lasted less than three seconds.
 
-Jin said quietly, “He's testing distance.”
+[[speaker:jin]]Jin said quietly, “He's testing distance.”
 
-Kael answered, “So is she.”
+[[speaker:kael]]Kael answered, “So is she.”
 
 In the basin, Sera smiled.
 
@@ -1048,7 +1048,7 @@ For ten full seconds neither attacked.
 
 The armies became restless.
 
-Tsubasa said, “Your Domain doesn't punish patience.”
+[[speaker:tsubasa]]Tsubasa said, “Your Domain doesn't punish patience.”
 
 [[speaker:sera]]“No.”
 

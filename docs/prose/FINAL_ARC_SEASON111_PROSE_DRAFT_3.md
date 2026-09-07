@@ -582,7 +582,7 @@ Luo knew which man Shunto was.
 
 Shunto attacked.
 
-“Three,” Luo said.
+[[speaker:luo]]“Three,” Luo said.
 
 Shunto crossed ten paces.
 
@@ -1294,7 +1294,7 @@ That was somehow worse than praise.
 
 Rhen stood.
 
-“Do not restore Shunto to combat condition,” Luo said.
+[[speaker:luo]]“Do not restore Shunto to combat condition,” Luo said.
 
 [[speaker:rhen]]“I wasn't planning to.”
 

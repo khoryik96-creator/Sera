@@ -25,6 +25,13 @@ function characterMarkup(name: string, colorKey: string, characterKey: string | 
   return `<button type="button" class="${className} character-${colorKey} novel-lore-link" data-character-key="${characterKey}" aria-label="Open lore for ${name}">${name}</button>`;
 }
 
+function dialogueBodyMarkup(body: string): string {
+  const quoted = [...body.matchAll(/“[^”]*”/gu)];
+  const narration = body.replace(/“[^”]*”/gu, '').trim();
+  if (!quoted.length || !narration) return `<b class="dialogue-quote">${body}</b>`;
+  return body.replace(/“[^”]*”/gu, (quote) => `<b class="dialogue-quote">${quote}</b>`);
+}
+
 function annotateDialogue(text: string, interactiveNames: boolean): string {
   return String(text || '').split('\n').map((line) => {
     const match = line.match(/^\[\[speaker:([a-z0-9_]+)\]\](.*)$/);
@@ -34,7 +41,7 @@ function annotateDialogue(text: string, interactiveNames: boolean): string {
     const name = speakerName(speakerKey);
     const entry = entryForSpeaker(speakerKey);
     const speaker = characterMarkup(name, key, entry?.key, 'novel-speaker dialogue-speaker', interactiveNames);
-    return `<span class="novel-dialogue dialogue-card character-${key}">${speaker}<b class="dialogue-quote">${match[2]}</b></span>`;
+    return `<span class="novel-dialogue dialogue-card character-${key}">${speaker}${dialogueBodyMarkup(match[2])}</span>`;
   }).join('\n');
 }
 

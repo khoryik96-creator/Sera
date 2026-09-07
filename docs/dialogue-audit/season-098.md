@@ -1,6 +1,6 @@
 # Season 98 — unattributed dialogue
 
-18 quoted lines in this season have no speaker.
+16 quoted lines in this season have no speaker.
 See `README.md` in this folder for what to do with them.
 
 Lines already resolved show their speaker in `[brackets]` for context.
@@ -60,7 +60,7 @@ Useful socially.
 ```
 ```
 Useful socially.
-Yun asked, “Stronger than Takamori?”
+[yun] Yun asked, “Stronger than Takamori?”
 The old man looked at her as though she had asked whether winter was colder than rain.
 >>> “Of course.”   <-- WHO SAYS THIS?
 She had what she could defend and did not ask for secret techniques.
@@ -108,25 +108,6 @@ Then the landlord laughed through the door.
 >>> “I’m joking. River men all feel imaginary.”   <-- WHO SAYS THIS?
 Footsteps receded.
 Yun waited another full minute.
-```
-
-### Chapter 334 — Proof That Can Survive Her
-
-```
-White-blue.
-Perfect.
-It vanished.
->>> “The qi needs to become denser,” he said. “Same amount. Less space.”   <-- WHO SAYS THIS?
-[sera] “How long?”
-[rhen] “I don’t know yet.”
-```
-```
-Warm skin.
-Normal pulse.
-Too normal, because he was making it normal.
->>> “When it crosses from annoying to unsafe,” she said, “you tell me.”   <-- WHO SAYS THIS?
-[rhen] “I will.”
-[sera] “Before Lu.”
 ```
 
 ### Chapter 336 — What Paper Cannot Carry

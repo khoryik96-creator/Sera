@@ -1077,7 +1077,7 @@ Tae felt Yurushi tense slightly at her name.
 
 He ignored that too.
 
-After a while Yurushi asked, “Why didn’t you chase?”
+[[speaker:yurushi]]After a while Yurushi asked, “Why didn’t you chase?”
 
 Tae stopped.
 
@@ -1187,7 +1187,7 @@ Enemy command.
 
 Still a physician.
 
-“Through the medical exchange channel,” Qin said.
+[[speaker:qin]]“Through the medical exchange channel,” Qin said.
 
 Lu nodded.
 

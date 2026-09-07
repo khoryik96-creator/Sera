@@ -860,7 +860,7 @@ Shunto did not flinch.
 
 She withdrew an empty hand.
 
-Shunto said, “You have been looking for northern transport seals.”
+[[speaker:shunto]]Shunto said, “You have been looking for northern transport seals.”
 
 Yun said nothing.
 

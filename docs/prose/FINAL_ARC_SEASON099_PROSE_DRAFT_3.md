@@ -44,7 +44,7 @@ He noticed her noticing.
 
 Neither commented.
 
-Hana said, “What do you want?”
+[[speaker:hana]]Hana said, “What do you want?”
 
 [[speaker:black_radiance]]“One patrol moved.”
 
@@ -194,7 +194,7 @@ Not a rebellion.
 
 One patrol.
 
-Hana said, “Who is she?”
+[[speaker:hana]]Hana said, “Who is she?”
 
 [[speaker:black_radiance]]“I do not know exactly.”
 
@@ -674,7 +674,7 @@ Early.
 
 Shunto knew.
 
-Yun said, “How far to the old clan path?”
+[[speaker:yun]]Yun said, “How far to the old clan path?”
 
 [[speaker:black_radiance]]“Three districts.”
 
@@ -774,7 +774,7 @@ Then she looked toward the route north.
 
 He did not move.
 
-Yun added, “If there is one.”
+[[speaker:yun]]Yun added, “If there is one.”
 
 That answered enough.
 
@@ -972,7 +972,7 @@ No demand for numbers.
 
 Good.
 
-Yun said, “Come with me.”
+[[speaker:yun]]Yun said, “Come with me.”
 
 He looked at her.
 
@@ -1074,7 +1074,7 @@ Did not remove it.
 
 Shunto was still No.2, backed by the state, and Yurushi’s goal was not to fight him openly.
 
-“Then survive,” Yun said.
+[[speaker:yun]]“Then survive,” Yun said.
 
 [[speaker:black_radiance]]“I plan to.”
 

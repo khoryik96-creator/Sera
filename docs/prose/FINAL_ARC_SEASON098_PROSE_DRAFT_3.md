@@ -880,7 +880,7 @@ He had not decoded the intelligence.
 
 He had decoded her.
 
-Shunto said, “Give me the material.”
+[[speaker:shunto]]Shunto said, “Give me the material.”
 
 [[speaker:yun]]“No.”
 
@@ -1198,7 +1198,7 @@ She kicked it under the collapsed wall.
 
 One officer moved.
 
-Shunto said, “Leave it.”
+[[speaker:shunto]]Shunto said, “Leave it.”
 
 The officer stopped.
 
@@ -1274,7 +1274,7 @@ Twice.
 
 The world stayed upright.
 
-Shunto said, “Captured alive.”
+[[speaker:shunto]]Shunto said, “Captured alive.”
 
 Yun laughed weakly.
 

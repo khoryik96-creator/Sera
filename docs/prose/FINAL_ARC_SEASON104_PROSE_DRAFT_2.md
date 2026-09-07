@@ -213,7 +213,7 @@ He walked to the table.
 
 [[speaker:black_radiance]]“Not Stonecrown itself.”
 
-“Why?” Tae asked.
+[[speaker:tae]]“Why?” Tae asked.
 
 [[speaker:black_radiance]]“Too much fixed weight. Even without Kael, thirty-eight thousand plus fortress systems. Haru does not enjoy problems that cannot be narrowed.”
 
@@ -269,7 +269,7 @@ Yurushi noticed.
 
 [[speaker:black_radiance]]“Good.”
 
-Qin said, “You’re staying central with me.”
+[[speaker:qin]]Qin said, “You’re staying central with me.”
 
 Yurushi looked at him.
 
@@ -299,7 +299,7 @@ Huo looked toward the kitchen.
 
 [[speaker:huo]]“Can I eat first?”
 
-Qin said, “On the road.”
+[[speaker:qin]]Qin said, “On the road.”
 
 Huo looked betrayed.
 
@@ -361,7 +361,7 @@ They would die against Haru and Hana if they arrived first and tried to contest 
 
 Yurushi took his coat.
 
-Qin said, “No.”
+[[speaker:qin]]Qin said, “No.”
 
 Yurushi looked at him.
 
@@ -903,7 +903,7 @@ Light intensified across two roofs.
 
 Haru looked upward.
 
-“What?” Hana asked.
+[[speaker:hana]]“What?” Hana asked.
 
 [[speaker:haru]]“He changed scale.”
 

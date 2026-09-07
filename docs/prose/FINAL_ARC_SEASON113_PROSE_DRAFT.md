@@ -1142,7 +1142,7 @@ Sera's face hardened.
 
 [[speaker:sera]]“He's stronger than earlier.”
 
-“Yes,” Rhen said.
+[[speaker:rhen]]“Yes,” Rhen said.
 
 [[speaker:sera]]“How much?”
 
