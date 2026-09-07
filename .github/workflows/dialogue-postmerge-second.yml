@@ -1,0 +1,44 @@
+name: Dialogue postmerge second pass
+
+on:
+  push:
+    branches:
+      - story/dialogue-audit-postmerge-context-and-mixed
+    paths:
+      - 'scripts/apply-dialogue-postmerge-second.mjs'
+      - '.github/workflows/dialogue-postmerge-second.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  apply:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: story/dialogue-audit-postmerge-context-and-mixed
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - name: Apply second reviewed mixed-dialogue pass
+        run: node scripts/apply-dialogue-postmerge-second.mjs
+      - name: Regenerate reader data and dialogue worklists
+        run: |
+          npm run prepare:data
+          npm run audit:dialogue
+      - name: Run unit tests
+        run: npm test
+      - name: Commit second dialogue pass
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/prose src/data/seasons docs/dialogue-audit/season-*.md
+          if git diff --cached --quiet; then
+            echo "No dialogue changes"
+          else
+            git commit -m "Add reviewed mixed dialogue speaker cards"
+            git push
+          fi
