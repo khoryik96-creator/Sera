@@ -6,6 +6,7 @@ on:
       - story/dialogue-audit-final-residuals-s95-s114
     paths:
       - scripts/apply-dialogue-final-residuals.mjs
+      - scripts/apply-dialogue-final-safe.mjs
       - .github/workflows/dialogue-final-residuals.yml
 
 permissions:
@@ -25,7 +26,7 @@ jobs:
           cache: npm
       - run: npm ci
       - name: Apply explicit residual mappings
-        run: node scripts/apply-dialogue-final-residuals.mjs
+        run: node scripts/apply-dialogue-final-safe.mjs
       - name: Regenerate dialogue audit
         run: npm run audit:dialogue
       - name: Verify patch whitespace
