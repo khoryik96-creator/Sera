@@ -1,13 +1,10 @@
-export const season = 104;
+export const season = 106;
 export const entries = [
-  {chapter:392, quote:"“Good.”", speaker:"tae", before:"Then at Haru.", after:"Haru did not appreciate the tone."},
-  {chapter:393, quote:"“No.”", speaker:"huo", before:"Huo laughed.", after:"Then hit him."},
-  {chapter:394, quote:"“Yes.”", speaker:"haru", before:"Haru’s jaw tightened.", after:"Good."},
-  {chapter:394, quote:"“Good.”", speaker:"qin", after:"Hana looked at him."},
-  {chapter:394, quote:"“Yes.”", speaker:"tae", before:"Tae’s humor vanished.", after:"They now know."},
-  {chapter:395, quote:"“Safe.”", speaker:"qin", before:"Civilians?", after:"Patients?"},
-  {chapter:395, quote:"“Safe.”", speaker:"qin", before:"Patients?", after:"Quaint?"},
-  {chapter:395, quote:"“Eleven significant injuries. No deaths.”", speaker:"qin"},
-  {chapter:397, quote:"“Yes.”", speaker:"hana", before:"Hana breathed carefully.", after:"Yurushi heard."},
-  {chapter:399, quote:"“Yes.”", speaker:"hana", before:"Hana looked at him.", after:"Tae stared at Haru."},
+  {chapter:411, quote:"“Yes.”", speaker:"hana", before:"Hana’s face tightened.", after:"Same day."},
+  {chapter:412, quote:"“Yes.”", speaker:"tsubasa", before:"Tsubasa’s face hardened.", after:"Approximate future-life expenditure"},
+  {chapter:412, quote:"“Why?”", speaker:"aya", before:"Aya heard the evasion", after:"Because Wuyue entered the war"},
+  {chapter:413, quote:"“Yes.”", speaker:"aya", before:"Aya did not look up.", after:"Why?"},
+  {chapter:413, quote:"“No.”", speaker:"nao", before:"Nao considered.", after:"Good."},
+  {chapter:413, quote:"“No.”", speaker:"nao", before:"Nao’s mouth moved.", after:"We are not plotting against Tsubasa"},
+  {chapter:415, quote:"“Why?”", speaker:"kenji", before:"Then at her.", after:"Because I don’t need you dead"},
 ];
