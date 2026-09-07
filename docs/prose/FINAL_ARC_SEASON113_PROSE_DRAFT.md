@@ -56,7 +56,7 @@ Aya looked up.
 
 [[speaker:aya]]“I'm working.”
 
-“I know.”
+[[speaker:rhen]]“I know.”
 
 [[speaker:aya]]“Then why are you standing there?”
 
@@ -106,7 +106,7 @@ Aya waited. Rhen stopped where she stopped him.
 
 [[speaker:aya]]“To send him back into combat.”
 
-“Yes.”
+[[speaker:rhen]]“Yes.”
 
 Aya's expression became murderous.
 
@@ -124,15 +124,15 @@ Aya did not.
 
 [[speaker:aya]]“He is carrying multiple injuries.”
 
-“I know.”
+[[speaker:rhen]]“I know.”
 
 [[speaker:aya]]“He won.”
 
-“Yes.”
+[[speaker:rhen]]“Yes.”
 
 [[speaker:aya]]“And now you want to restore him so you can fight him too.”
 
-“Yes.”
+[[speaker:rhen]]“Yes.”
 
 Aya closed her eyes.
 
@@ -140,7 +140,7 @@ For one breath, perhaps two, the Established Paragon physician visibly considere
 
 Then she opened them again.
 
-“Why?”
+[[speaker:aya]]“Why?”
 
 Rhen looked at Tsubasa.
 
@@ -178,15 +178,15 @@ Tsubasa studied Rhen carefully.
 
 [[speaker:tsubasa]]“You understand she did this to me.”
 
-“Yes.”
+[[speaker:rhen]]“Yes.”
 
 [[speaker:tsubasa]]“You understand that damage is part of the outcome of our duel.”
 
-“Yes.”
+[[speaker:rhen]]“Yes.”
 
 [[speaker:tsubasa]]“You would erase it.”
 
-“No.”
+[[speaker:rhen]]“No.”
 
 That answer came immediately.
 
@@ -222,7 +222,7 @@ Real.
 
 Aya slowly removed her hand from Rhen's chest.
 
-“Fine.”
+[[speaker:aya]]“Fine.”
 
 Rhen looked at her.
 
@@ -230,7 +230,7 @@ Rhen looked at her.
 
 [[speaker:aya]]“Do not thank me.”
 
-“Why?”
+[[speaker:rhen]]“Why?”
 
 [[speaker:aya]]“Because if you heal him badly, I will fix him after I fix you.”
 
@@ -334,15 +334,15 @@ Tsubasa looked toward Rhen.
 
 [[speaker:tsubasa]]“Full reserve?”
 
-“Yes.”
+[[speaker:rhen]]“Yes.”
 
 [[speaker:tsubasa]]“Meridian strain?”
 
-“Gone.”
+[[speaker:rhen]]“Gone.”
 
 [[speaker:tsubasa]]“Fatigue?”
 
-“Gone.”
+[[speaker:rhen]]“Gone.”
 
 Tsubasa flexed his fingers once more.
 
@@ -442,7 +442,7 @@ Rhen looked back at Tsubasa.
 
 [[speaker:rhen]]“You're healthy.”
 
-“Yes.”
+[[speaker:tsubasa]]“Yes.”
 
 “Good.”
 
@@ -454,7 +454,7 @@ Sera waited until he reached her before speaking.
 
 [[speaker:sera]]“You enjoyed that.”
 
-“No.”
+[[speaker:rhen]]“No.”
 
 [[speaker:sera]]“Liar.”
 
@@ -478,7 +478,7 @@ She slapped his hand away.
 
 [[speaker:rhen]]“You said it hurt.”
 
-“I did not.”
+[[speaker:sera]]“I did not.”
 
 [[speaker:rhen]]“You made a pain noise.”
 
@@ -564,11 +564,11 @@ Then looked at Aya.
 
 “Is that real?”
 
-“Yes.”
+[[speaker:aya]]“Yes.”
 
 “One dose?”
 
-“Yes.”
+[[speaker:aya]]“Yes.”
 
 The woman swallowed.
 
@@ -694,7 +694,7 @@ Sera stood beside him.
 
 [[speaker:sera]]“The five years?”
 
-“Yes.”
+[[speaker:jin]]“Yes.”
 
 She was quiet.
 
@@ -702,7 +702,7 @@ Jin lowered the scope.
 
 [[speaker:jin]]“Some are leaving.”
 
-“Good.”
+[[speaker:sera]]“Good.”
 
 [[speaker:jin]]“Most aren't.”
 
@@ -744,7 +744,7 @@ Sera followed Rhen's attention.
 
 [[speaker:sera]]“He spread them.”
 
-“Yes.”
+[[speaker:rhen]]“Yes.”
 
 Jin looked up.
 
@@ -776,11 +776,11 @@ Jin's expression hardened.
 
 [[speaker:jin]]“He doesn't know the radius of what you can do.”
 
-“No.”
+[[speaker:rhen]]“No.”
 
 [[speaker:jin]]“He still moved them outside it.”
 
-“Yes.”
+[[speaker:rhen]]“Yes.”
 
 Jin looked at him.
 
@@ -798,7 +798,7 @@ Rhen looked at the fifty thousand.
 
 [[speaker:sera]]“That is not a strategy.”
 
-“No.”
+[[speaker:rhen]]“No.”
 
 [[speaker:sera]]“What are you thinking strategically?”
 
@@ -812,11 +812,11 @@ Sera's expression softened.
 
 [[speaker:sera]]“They're going to activate anyway.”
 
-“I know.”
+[[speaker:rhen]]“I know.”
 
 [[speaker:sera]]“And you can't stop the years already burned after activation.”
 
-“I know.”
+[[speaker:rhen]]“I know.”
 
 Rhen's eyes stayed on the field.
 
@@ -834,17 +834,17 @@ He looked at her.
 
 [[speaker:aya]]“It applies to you too.”
 
-“Yes.”
+[[speaker:tsubasa]]“Yes.”
 
 Aya's jaw tightened.
 
 [[speaker:aya]]“You are already the strongest one there.”
 
-“Yes.”
+[[speaker:tsubasa]]“Yes.”
 
 [[speaker:aya]]“You are healthy because the man you intend to fight healed you.”
 
-“Yes.”
+[[speaker:tsubasa]]“Yes.”
 
 [[speaker:aya]]“Then fight him healthy.”
 
@@ -872,7 +872,7 @@ He held the vial without opening it.
 
 [[speaker:tsubasa]]“Aya.”
 
-“What?”
+[[speaker:aya]]“What?”
 
 [[speaker:tsubasa]]“If we survive this, end the program.”
 
@@ -880,15 +880,15 @@ She stared at him.
 
 [[speaker:aya]]“That is not how responsibility works.”
 
-“I know.”
+[[speaker:tsubasa]]“I know.”
 
 [[speaker:aya]]“You don't get to give me a noble instruction before doing the thing I told you not to do.”
 
-“I know.”
+[[speaker:tsubasa]]“I know.”
 
 [[speaker:aya]]“You will still answer for it.”
 
-“Yes.”
+[[speaker:tsubasa]]“Yes.”
 
 Aya's anger faltered.
 
@@ -1004,7 +1004,7 @@ Sera looked at him.
 
 [[speaker:sera]]“They've been invading us for six months.”
 
-“I know.”
+[[speaker:rhen]]“I know.”
 
 [[speaker:sera]]“That wasn't praise.”
 
@@ -1062,7 +1062,7 @@ Lei Zhen looked at the collapsing forward ditch.
 
 [[speaker:lei]]“That is your expectation?”
 
-“Yes.”
+[[speaker:jin]]“Yes.”
 
 [[speaker:lei]]“I hate your expectations.”
 
@@ -1166,7 +1166,7 @@ Rhen looked at him.
 
 [[speaker:kael]]“That sounded like 'stay here.'”
 
-“Yes.”
+[[speaker:rhen]]“Yes.”
 
 Kael's jaw tightened.
 
@@ -1204,7 +1204,7 @@ He simply began walking toward fifty thousand people who had each chosen to spen
 
 Sera watched him go.
 
-“Rhen.”
+[[speaker:sera]]“Rhen.”
 
 He looked back.
 
@@ -1216,7 +1216,7 @@ Rhen considered that impossible instruction.
 
 [[speaker:sera]]“You won't.”
 
-“No.”
+[[speaker:rhen]]“No.”
 
 He turned back toward Tsubasa.
 

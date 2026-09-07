@@ -60,7 +60,7 @@ Jin looked at her.
 
 [[speaker:jin]]“Which one?”
 
-“Yes.”
+[[speaker:sera]]“Yes.”
 
 Tsubasa's **Tethered Heaven Dominion** pressed over the inner battlefield.
 
@@ -266,7 +266,7 @@ Lei Zhen looked at him.
 
 [[speaker:lei]]“That is the third ridge.”
 
-“Yes.”
+[[speaker:jin]]“Yes.”
 
 [[speaker:lei]]“At what point do we stop giving them ridges?”
 
@@ -296,11 +296,11 @@ Rhen looked past him.
 
 [[speaker:tsubasa]]“You could stop them.”
 
-“Yes.”
+[[speaker:rhen]]“Yes.”
 
 [[speaker:tsubasa]]“But you're still here.”
 
-“Yes.”
+[[speaker:rhen]]“Yes.”
 
 “Why?”
 
@@ -458,11 +458,11 @@ Tsubasa's face became expressionless.
 
 [[speaker:tsubasa]]“You are mocking me.”
 
-“No.”
+[[speaker:rhen]]“No.”
 
 [[speaker:tsubasa]]“You're bleeding.”
 
-“Yes.”
+[[speaker:rhen]]“Yes.”
 
 [[speaker:tsubasa]]“And you sound pleased.”
 
@@ -490,7 +490,7 @@ For one heartbeat, the leader of Shinsei was simply forty-two years old and stan
 
 Then he lifted the crescent again.
 
-“Fine.”
+[[speaker:tsubasa]]“Fine.”
 
 The chain network screamed into motion.
 
@@ -608,7 +608,7 @@ Tsubasa saw it.
 
 [[speaker:tsubasa]]“You were waiting.”
 
-“Yes.”
+[[speaker:rhen]]“Yes.”
 
 [[speaker:tsubasa]]“For what?”
 
@@ -672,7 +672,7 @@ Tsubasa lifted the crescent.
 
 [[speaker:tsubasa]]“I don't intend to take it.”
 
-“I know.”
+[[speaker:rhen]]“I know.”
 
 The first frozen petal formed.
 
@@ -1120,7 +1120,7 @@ Tsubasa looked up.
 
 [[speaker:tsubasa]]“Advice again?”
 
-“Yes.”
+[[speaker:rhen]]“Yes.”
 
 [[speaker:tsubasa]]“I remain bad at taking it.”
 
@@ -1210,7 +1210,7 @@ Kael looked at her.
 
 [[speaker:sera]]“You were stupid.”
 
-“Yes.”
+[[speaker:kael]]“Yes.”
 
 They looked back at Rhen.
 
@@ -1280,7 +1280,7 @@ Haru stared beside her.
 
 [[speaker:haru]]“They're sleeping.”
 
-“Yes.”
+[[speaker:aya]]“Yes.”
 
 [[speaker:haru]]“That's all?”
 
@@ -1302,7 +1302,7 @@ Tsubasa noticed.
 
 [[speaker:tsubasa]]“You want me conscious.”
 
-“Yes.”
+[[speaker:rhen]]“Yes.”
 
 “Why?”
 

@@ -90,7 +90,7 @@ Tsubasa gave him a flat look.
 
 [[speaker:tsubasa]]“You destroyed it.”
 
-“Yes.”
+[[speaker:rhen]]“Yes.”
 
 [[speaker:tsubasa]]“That makes the concern difficult to appreciate.”
 
@@ -122,7 +122,7 @@ Tsubasa's eyes narrowed.
 
 [[speaker:tsubasa]]“You keep allowing me another attack.”
 
-“Yes.”
+[[speaker:rhen]]“Yes.”
 
 “Why?”
 
@@ -196,7 +196,7 @@ He understood at once.
 
 [[speaker:tsubasa]]“You're not controlling my thoughts.”
 
-“No.”
+[[speaker:rhen]]“No.”
 
 [[speaker:tsubasa]]“My movement.”
 
@@ -210,7 +210,7 @@ Tsubasa's expression darkened.
 
 [[speaker:tsubasa]]“The qi you took.”
 
-“Yes.”
+[[speaker:rhen]]“Yes.”
 
 Tsubasa laughed once.
 
@@ -222,11 +222,11 @@ There was no humor in it.
 
 [[speaker:tsubasa]]“You can make me strike myself.”
 
-“Yes.”
+[[speaker:rhen]]“Yes.”
 
 [[speaker:tsubasa]]“Break my own body.”
 
-“Yes.”
+[[speaker:rhen]]“Yes.”
 
 [[speaker:tsubasa]]“Kill myself.”
 
@@ -238,7 +238,7 @@ Tsubasa held his gaze.
 
 [[speaker:tsubasa]]“You won't.”
 
-“No.”
+[[speaker:rhen]]“No.”
 
 “Why?”
 
@@ -258,15 +258,15 @@ Rhen sighed.
 
 [[speaker:tsubasa]]“You healed me to full strength.”
 
-“Yes.”
+[[speaker:rhen]]“Yes.”
 
 [[speaker:tsubasa]]“You let me take Redline.”
 
-“Yes.”
+[[speaker:rhen]]“Yes.”
 
 [[speaker:tsubasa]]“You let me use everything.”
 
-“Yes.”
+[[speaker:rhen]]“Yes.”
 
 [[speaker:tsubasa]]“And now you're surprised I won't stop because you removed it?”
 
@@ -462,7 +462,7 @@ Jin glanced at her.
 
 [[speaker:jin]]“Is that a strategic concern?”
 
-“Yes.”
+[[speaker:sera]]“Yes.”
 
 Jin looked back at the fight.
 
@@ -498,7 +498,7 @@ Tsubasa wiped his mouth.
 
 [[speaker:tsubasa]]“You were holding back.”
 
-“Yes.”
+[[speaker:rhen]]“Yes.”
 
 [[speaker:tsubasa]]“How much?”
 
@@ -546,7 +546,7 @@ Tsubasa's eyes narrowed.
 
 [[speaker:tsubasa]]“I did not come here for your approval.”
 
-“I know.”
+[[speaker:rhen]]“I know.”
 
 [[speaker:tsubasa]]“Then don't offer it.”
 
@@ -616,23 +616,23 @@ The Redline crash began settling through him.
 
 “You healed me,” Tsubasa said.
 
-“Yes.”
+[[speaker:rhen]]“Yes.”
 
 [[speaker:tsubasa]]“You let me take the drug.”
 
-“Yes.”
+[[speaker:rhen]]“Yes.”
 
 [[speaker:tsubasa]]“You let me use the Dominion.”
 
-“Yes.”
+[[speaker:rhen]]“Yes.”
 
 [[speaker:tsubasa]]“The Ultimate.”
 
-“Yes.”
+[[speaker:rhen]]“Yes.”
 
 [[speaker:tsubasa]]“The army.”
 
-“Yes.”
+[[speaker:rhen]]“Yes.”
 
 [[speaker:tsubasa]]“And then you took the one thing all of it required.”
 
@@ -648,7 +648,7 @@ Rhen considered.
 
 [[speaker:tsubasa]]“You're not.”
 
-“No.”
+[[speaker:rhen]]“No.”
 
 Tsubasa closed his eyes.
 
@@ -680,15 +680,15 @@ Tsubasa felt the correction.
 
 [[speaker:tsubasa]]“You're healing me again.”
 
-“Yes.”
+[[speaker:rhen]]“Yes.”
 
 [[speaker:tsubasa]]“This is becoming insulting.”
 
-“Sorry.”
+[[speaker:rhen]]“Sorry.”
 
 [[speaker:tsubasa]]“You're still not.”
 
-“No.”
+[[speaker:rhen]]“No.”
 
 Tsubasa's mouth moved faintly.
 
@@ -730,11 +730,11 @@ Sera saw them too.
 
 [[speaker:sera]]“Aya isn't attacking.”
 
-“No.”
+[[speaker:rhen]]“No.”
 
 [[speaker:sera]]“Hana?”
 
-“No.”
+[[speaker:rhen]]“No.”
 
 [[speaker:sera]]“Nao?”
 
@@ -1038,7 +1038,7 @@ Kai looked furious.
 
 [[speaker:kai]]“You can cancel Redline.”
 
-“No.”
+[[speaker:rhen]]“No.”
 
 Rhen's correction was immediate.
 
@@ -1048,7 +1048,7 @@ Kai stared.
 
 [[speaker:kai]]“That distinction matters to you?”
 
-“Yes.”
+[[speaker:rhen]]“Yes.”
 
 “Why?”
 
@@ -1248,7 +1248,7 @@ Aya stared at him.
 
 [[speaker:rhen]]“They took Redline.”
 
-“I know.”
+[[speaker:aya]]“I know.”
 
 [[speaker:rhen]]“It's bad for you.”
 
