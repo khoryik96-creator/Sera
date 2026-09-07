@@ -45,15 +45,13 @@ const entries = [
   [110,460,'tsubasa','“No.”','Tsubasa nodded once.'],
   [110,460,'tsubasa','“No.”','Tsubasa\'s face went still.'],
 
-  // S111
+  // S111 — leave Luo's Ch468 replies neutral: the nearby Luo narration is not sufficient proof.
   [111,461,'qin','“Yurushi?”','Qin\'s expression did not change.'],
   [111,462,'kael','“What?”','Kael turned.'],
   [111,462,'kael','“No.”','Kael looked toward the western ridge.'],
   [111,462,'kael','“No.”','Kael\'s eyes stayed on the ridge.'],
   [111,462,'kael','“No.”','Kael looked at him.'],
   [111,467,'kael','“No.”','Kael spat red into the road.'],
-  [111,468,'luo','“Yes.”','Luo reached into his sleeve.'],
-  [111,468,'luo','“Yes.”','Luo\'s mouth moved.'],
   [111,469,'shunto','“Yes.”','Shunto flexed his fingers.'],
   [111,469,'luo','“Yes.”','Luo ran toward them.'],
   [111,470,'rhen','“Yes.”','Rhen looked at him as if the question were obvious.'],
