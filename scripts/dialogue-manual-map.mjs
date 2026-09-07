@@ -1,5 +1,6 @@
-export const season = 107;
+export const season = 108;
 export const entries = [
-  {chapter:423, quote:"“No.”", speaker:"rui", before:"Rui smiled.", after:"I do not need you dead"},
-  {chapter:428, quote:"“No.”", speaker:"sera", before:"Sera looked at him.", after:"The Orchid Blooms Only Once"},
+  {chapter:436, quote:"“I know.”", speaker:"luo", before:"Luo’s jaw tightened.", after:"How?"},
+  {chapter:437, quote:"“Why?”", speaker:"kael", before:"Still good?", after:"Because legends become easier"},
+  {chapter:439, quote:"“Good.”", speaker:"huo", before:"No,” Lu said.", after:"Nobody woke Rhen."},
 ];
