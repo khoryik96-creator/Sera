@@ -177,15 +177,15 @@ Then looked at the damage ledger.
 
 [[speaker:black_radiance]]“Civilians?”
 
-“Safe.”
+[[speaker:qin]]“Safe.”
 
 [[speaker:black_radiance]]“Patients?”
 
-“Safe.”
+[[speaker:qin]]“Safe.”
 
 [[speaker:black_radiance]]“Quaint?”
 
-“Eleven significant injuries. No deaths.”
+[[speaker:qin]]“Eleven significant injuries. No deaths.”
 
 Yurushi nodded.
 
@@ -833,7 +833,7 @@ Haru’s eyes narrowed.
 
 Hana breathed carefully.
 
-“Yes.”
+[[speaker:hana]]“Yes.”
 
 Yurushi heard.
 

@@ -487,7 +487,7 @@ Tae understood.
 
 Hana looked at him.
 
-“Yes.”
+[[speaker:hana]]“Yes.”
 
 Tae stared at Haru.
 
