@@ -95,7 +95,7 @@ The patient stared at both physicians.
 
 Luo’s jaw tightened.
 
-“I know.”
+[[speaker:luo]]“I know.”
 
 “How?”
 
@@ -693,7 +693,7 @@ He raised both hands.
 
 “No,” Lu said.
 
-“Good.”
+[[speaker:huo]]“Good.”
 
 Nobody woke Rhen.
 
