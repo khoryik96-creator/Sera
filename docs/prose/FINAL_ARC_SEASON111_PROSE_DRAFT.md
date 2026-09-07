@@ -62,7 +62,7 @@ The guard looked at him and understood. Shunto leaned back against the wall.
 
 “You do not command me now.”
 
-“No.”
+[[speaker:shunto]]“No.”
 
 Shunto's gaze dropped to the man's hand.
 
@@ -408,7 +408,7 @@ Hana looked toward the south gate.
 
 [[speaker:hana]]“He is not heading for Shinrin.”
 
-“No.”
+[[speaker:tsubasa]]“No.”
 
 “Yurushi?”
 
@@ -490,7 +490,7 @@ Hana understood first.
 
 [[speaker:hana]]“Too slow.”
 
-“Yes.”
+[[speaker:tsubasa]]“Yes.”
 
 Tsubasa looked toward the route Shunto had taken.
 
@@ -558,7 +558,7 @@ Qin's mouth twitched.
 
 [[speaker:qin]]“So north.”
 
-“Yes.”
+[[speaker:luweiran]]“Yes.”
 
 Lu traced the western Isgard routes.
 
@@ -916,11 +916,11 @@ Luo folded his sleeves higher.
 
 [[speaker:kael]]“Shunto is a High Paragon.”
 
-“I know.”
+[[speaker:luo]]“I know.”
 
 [[speaker:kael]]“You are a Sovereign.”
 
-“I know.”
+[[speaker:luo]]“I know.”
 
 [[speaker:kael]]“Then why are you still here?”
 
@@ -1208,7 +1208,7 @@ Kael did not look back.
 
 [[speaker:luo]]“That's stupid.”
 
-“Yes.”
+[[speaker:kael]]“Yes.”
 
 Shunto walked back through the broken wall.
 
@@ -1352,7 +1352,7 @@ Kael smiled.
 
 [[speaker:kael]]“You keep forgetting something.”
 
-“What?”
+[[speaker:shunto]]“What?”
 
 [[speaker:kael]]“I don't need the arm to be fast if you're already in it.”
 
@@ -1400,7 +1400,7 @@ Kael looked at him.
 
 [[speaker:kael]]“Are you surrendering?”
 
-“No.”
+[[speaker:luo]]“No.”
 
 [[speaker:kael]]“Then apparently not enough.”
 
@@ -1504,7 +1504,7 @@ Shunto circled.
 
 [[speaker:shunto]]“You're slowing.”
 
-“Yes.”
+[[speaker:kael]]“Yes.”
 
 [[speaker:shunto]]“You don't sound concerned.”
 
@@ -1630,7 +1630,7 @@ Kael looked genuinely confused.
 
 [[speaker:shunto]]“Me.”
 
-“No.”
+[[speaker:kael]]“No.”
 
 That answer surprised everyone.
 

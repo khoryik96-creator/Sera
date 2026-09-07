@@ -1,6 +1,6 @@
 # Season 111 — unattributed dialogue
 
-88 quoted lines in this season have no speaker.
+65 quoted lines in this season have no speaker.
 See `README.md` in this folder for what to do with them.
 
 Lines already resolved show their speaker in `[brackets]` for context.
@@ -28,16 +28,8 @@ The cup slid through.
 The guard looked at him and understood. Shunto leaned back against the wall.
 [shunto] “For nine years, if I told you to open a corridor, you opened it.”
 >>> “You do not command me now.”   <-- WHO SAYS THIS?
-“No.”
+[shunto] “No.”
 Shunto's gaze dropped to the man's hand.
-```
-```
-The guard looked at him and understood. Shunto leaned back against the wall.
-[shunto] “For nine years, if I told you to open a corridor, you opened it.”
-“You do not command me now.”
->>> “No.”   <-- WHO SAYS THIS?
-Shunto's gaze dropped to the man's hand.
-The hand holding the hatch lever.
 ```
 ```
 He stored that.
@@ -144,17 +136,9 @@ Tsubasa's jaw tightened.
 Hana looked toward the south gate.
 ```
 ```
-Tsubasa's jaw tightened.
 Hana looked toward the south gate.
 [hana] “He is not heading for Shinrin.”
->>> “No.”   <-- WHO SAYS THIS?
-“Yurushi?”
-Tsubasa shook his head.
-```
-```
-Hana looked toward the south gate.
-[hana] “He is not heading for Shinrin.”
-“No.”
+[tsubasa] “No.”
 >>> “Yurushi?”   <-- WHO SAYS THIS?
 Tsubasa shook his head.
 [tsubasa] “Too far.”
@@ -200,28 +184,12 @@ Then opened them.
 Kai stepped forward.
 ```
 ```
-[hana] “You want normal pursuit.”
-[tsubasa] “Yes.”
-[hana] “Too slow.”
->>> “Yes.”   <-- WHO SAYS THIS?
-Tsubasa looked toward the route Shunto had taken.
-The cost of doing this lawfully was suddenly measured in distance.
-```
-```
 Lu opened a map.
 [luweiran] “Shunto escaped.”
 Qin's expression did not change.
 >>> “Yurushi?”   <-- WHO SAYS THIS?
 [luweiran] “No.”
 [qin] “You sound sure.”
-```
-```
-[qin] “Correct.”
-[luweiran] “Shunto would need to cross half a continent to reach a house full of people who already surprised Shinsei once.”
-[qin] “So north.”
->>> “Yes.”   <-- WHO SAYS THIS?
-Lu traced the western Isgard routes.
-His finger stopped.
 ```
 
 ### Chapter 462 — The Corridor
@@ -354,33 +322,9 @@ Kael looked at him.
 Luo folded his sleeves higher.
 [luo] “I wasn't asking.”
 ```
-```
-Luo folded his sleeves higher.
-[luo] “I wasn't asking.”
-[kael] “Shunto is a High Paragon.”
->>> “I know.”   <-- WHO SAYS THIS?
-[kael] “You are a Sovereign.”
-“I know.”
-```
-```
-[kael] “Shunto is a High Paragon.”
-“I know.”
-[kael] “You are a Sovereign.”
->>> “I know.”   <-- WHO SAYS THIS?
-[kael] “Then why are you still here?”
-Luo looked toward the two injured scouts.
-```
 
 ### Chapter 463 — Worldweight Against Hundred Locks
 
-```
-[luo] “You need it later too.”
-[kael] “Later is a luxury.”
-[luo] “That's stupid.”
->>> “Yes.”   <-- WHO SAYS THIS?
-Shunto walked back through the broken wall.
-One side of his coat was torn.
-```
 ```
 Shunto noticed Luo looking.
 His eyes flicked there once.
@@ -389,41 +333,9 @@ Kael saw it.
 Shunto looked back at him.
 [shunto] “I didn't say anything.”
 ```
-```
-Shunto's eyes widened.
-Kael smiled.
-[kael] “You keep forgetting something.”
->>> “What?”   <-- WHO SAYS THIS?
-[kael] “I don't need the arm to be fast if you're already in it.”
-He twisted.
-```
-```
-[luo] “Enough.”
-Kael looked at him.
-[kael] “Are you surrendering?”
->>> “No.”   <-- WHO SAYS THIS?
-[kael] “Then apparently not enough.”
-The crater moved.
-```
 
 ### Chapter 464 — Kael Makes Him Pay
 
-```
-[kael] “Annoying.”
-Shunto circled.
-[shunto] “You're slowing.”
->>> “Yes.”   <-- WHO SAYS THIS?
-[shunto] “You don't sound concerned.”
-[kael] “I am.”
-```
-```
-Kael looked genuinely confused.
-[kael] “From what?”
-[shunto] “Me.”
->>> “No.”   <-- WHO SAYS THIS?
-That answer surprised everyone.
-Kael continued.
-```
 ```
 The engineers stared at him.
 “Later!” Luo shouted.
@@ -433,27 +345,8 @@ Shunto lay beneath broken stone.
 For three breaths, he did not move.
 ```
 
-### Chapter 465 — Three Times
-
-```
-Kael spat blood.
-[kael] “I still am.”
-[shunto] “That is stupid.”
->>> “Yes.”   <-- WHO SAYS THIS?
-Shunto attacked.
-Kael gave ground for the first time.
-```
-
 ### Chapter 466 — Luo Becomes the Real Target
 
-```
-Kael grabbed his ankle.
-Shunto looked down.
-Kael looked up from the broken cart.
->>> “No.”   <-- WHO SAYS THIS?
-Shunto kicked him in the face.
-Kael's head snapped back.
-```
 ```
 Shunto stared.
 [shunto] “You're making this tedious.”
@@ -461,30 +354,6 @@ Kael's mouth was full of blood.
 >>> “Good.”   <-- WHO SAYS THIS?
 Another kick.
 Kael rolled with it and used the motion to pull Shunto off-line.
-```
-```
-He moved behind a stone supply marker rather than farther away.
-Shunto saw.
-[shunto] “Still studying?”
->>> “Yes.”   <-- WHO SAYS THIS?
-[shunto] “You think poison will bridge a realm?”
-“No.”
-```
-```
-[shunto] “Still studying?”
-“Yes.”
-[shunto] “You think poison will bridge a realm?”
->>> “No.”   <-- WHO SAYS THIS?
-Shunto paused.
-Luo continued.
-```
-```
-The name stopped Kael more than Luo.
-Only for a fraction.
-Luo's expression did not change.
->>> “Yes.”   <-- WHO SAYS THIS?
-Shunto watched him.
-Something ugly entered his smile.
 ```
 ```
 Blood ran from his mouth.
@@ -540,30 +409,6 @@ For one impossible instant, Shunto thought he was smiling.
 A silver needle punched through the webbing of Shunto's thumb.
 He dropped Luo instinctively.
 ```
-```
-[luo] “Four minutes, nine seconds.”
-Shunto's expression tightened.
-[shunto] “You keep counting.”
->>> “Yes.”   <-- WHO SAYS THIS?
-[shunto] “Why?”
-[luo] “Because your body is.”
-```
-```
-Yun's favourite teaching irritant because it smelled strong enough to make students overreact.
-Shunto realized a moment later.
-[shunto] “You're wasting time.”
->>> “No.”   <-- WHO SAYS THIS?
-Luo looked at his throat pulse.
-Four minutes, twenty-six seconds.
-```
-```
-Then the second.
-Her face emptied.
-Rhen noticed immediately.
->>> “What?”   <-- WHO SAYS THIS?
-Sera handed him the sheet.
-Shunto escaped.
-```
 
 ### Chapter 469 — False Cure
 
@@ -594,14 +439,6 @@ Kael fell over.
 
 ### Chapter 470 — Live Long Enough
 
-```
-[luo] “Kael.”
-No response.
-Luo pressed two fingers below the ribs.
->>> “Kael.”   <-- WHO SAYS THIS?
-One eyelid moved.
-Good.
-```
 ```
 Luo pointed without looking up.
 [luo] “Chest kit. Splints. Blood-support tonic. Do not move his neck.”
@@ -675,28 +512,12 @@ The air changed.
 Rhen stepped onto the road.
 ```
 ```
-[rhen] “Alive.”
-Luo exhaled.
-[luo] “He'll wake?”
->>> “Yes.”   <-- WHO SAYS THIS?
-[luo] “Can he fight again?”
-Rhen looked at him as if the question were obvious.
-```
-```
-“Yes.”
+[rhen] “Yes.”
 [luo] “Can he fight again?”
 Rhen looked at him as if the question were obvious.
 >>> “Yes.”   <-- WHO SAYS THIS?
 Luo nodded. Not today, but later.
 Kael would never be able to say Shunto took the choice away from him.
-```
-```
-[luo] “He's stable.”
-Rhen's expression did not change.
-[rhen] “You treated him.”
->>> “Yes.”   <-- WHO SAYS THIS?
-[rhen] “Good.”
-Luo looked at him.
 ```
 ```
 [rhen] “I wasn't planning to.”
@@ -729,12 +550,4 @@ Kael relaxed.
 >>> “Good.”   <-- WHO SAYS THIS?
 Then, after a moment:
 [kael] “My face hurts.”
-```
-```
-Real.
-Kael looked at him.
-[kael] “Was that a laugh?”
->>> “No.”   <-- WHO SAYS THIS?
-[kael] “It was.”
-[luo] “You have head trauma.”
 ```

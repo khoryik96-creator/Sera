@@ -302,7 +302,7 @@ Shunto's expression tightened.
 
 [[speaker:shunto]]“You keep counting.”
 
-“Yes.”
+[[speaker:luo]]“Yes.”
 
 [[speaker:shunto]]“Why?”
 
@@ -344,7 +344,7 @@ Shunto realized a moment later.
 
 [[speaker:shunto]]“You're wasting time.”
 
-“No.”
+[[speaker:luo]]“No.”
 
 Luo looked at his throat pulse.
 
@@ -366,7 +366,7 @@ Her face emptied.
 
 Rhen noticed immediately.
 
-“What?”
+[[speaker:rhen]]“What?”
 
 Sera handed him the sheet.
 
@@ -888,7 +888,7 @@ No response.
 
 Luo pressed two fingers below the ribs.
 
-“Kael.”
+[[speaker:luo]]“Kael.”
 
 One eyelid moved.
 
@@ -1252,7 +1252,7 @@ Luo exhaled.
 
 [[speaker:luo]]“He'll wake?”
 
-“Yes.”
+[[speaker:rhen]]“Yes.”
 
 [[speaker:luo]]“Can he fight again?”
 
@@ -1276,7 +1276,7 @@ Rhen's expression did not change.
 
 [[speaker:rhen]]“You treated him.”
 
-“Yes.”
+[[speaker:luo]]“Yes.”
 
 [[speaker:rhen]]“Good.”
 
@@ -1406,7 +1406,7 @@ Kael looked at him.
 
 [[speaker:kael]]“Was that a laugh?”
 
-“No.”
+[[speaker:luo]]“No.”
 
 [[speaker:kael]]“It was.”
 

@@ -158,7 +158,7 @@ Kael spat blood.
 
 [[speaker:shunto]]“That is stupid.”
 
-“Yes.”
+[[speaker:kael]]“Yes.”
 
 Shunto attacked.
 
@@ -552,7 +552,7 @@ Shunto looked down.
 
 Kael looked up from the broken cart.
 
-“No.”
+[[speaker:kael]]“No.”
 
 Shunto kicked him in the face.
 
@@ -590,11 +590,11 @@ Shunto saw.
 
 [[speaker:shunto]]“Still studying?”
 
-“Yes.”
+[[speaker:luo]]“Yes.”
 
 [[speaker:shunto]]“You think poison will bridge a realm?”
 
-“No.”
+[[speaker:luo]]“No.”
 
 Shunto paused.
 
@@ -612,7 +612,7 @@ Only for a fraction.
 
 Luo's expression did not change.
 
-“Yes.”
+[[speaker:luo]]“Yes.”
 
 Shunto watched him.
 
