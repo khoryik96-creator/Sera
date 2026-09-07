@@ -176,7 +176,7 @@ Aldric immediately regretted the sentence.
 
 Eirik looked at the unfinished rack.
 
-“No.”
+[[speaker:eirik]]“No.”
 
 That was all.
 
@@ -238,7 +238,7 @@ Rhen stood beside her.
 
 [[speaker:sera]]“Am I?”
 
-“Yes.”
+[[speaker:rhen]]“Yes.”
 
 [[speaker:sera]]“Maybe I like functional diplomacy.”
 
@@ -448,15 +448,15 @@ They looked at each other.
 
 “No report?” he asked.
 
-“No.”
+[[speaker:hana]]“No.”
 
 [[speaker:black_radiance]]“No security consultation?”
 
-“No.”
+[[speaker:hana]]“No.”
 
 [[speaker:black_radiance]]“No humanitarian route crisis?”
 
-“No.”
+[[speaker:hana]]“No.”
 
 Yurushi tried not to smile.
 
@@ -540,7 +540,7 @@ Sera had added the last line.
 
 Rhen had objected.
 
-“Why?”
+[[speaker:rhen]]“Why?”
 
 [[speaker:sera]]“Because people should be polite.”
 
@@ -926,7 +926,7 @@ Rhen looked at the door one final time.
 
 Sera narrowed her eyes.
 
-“Rhen.”
+[[speaker:sera]]“Rhen.”
 
 He came upstairs.
 
@@ -954,7 +954,7 @@ Sera watched him.
 
 “You're staring,” he said.
 
-“Yes.”
+[[speaker:sera]]“Yes.”
 
 “Why?”
 
@@ -988,7 +988,7 @@ She stopped between his knees.
 
 Rhen looked up at her.
 
-“What?”
+[[speaker:rhen]]“What?”
 
 She touched the pale scar over his left eyebrow.
 
@@ -1022,7 +1022,7 @@ Because he did not object.
 
 Rhen looked at her.
 
-“Sera.”
+[[speaker:rhen]]“Sera.”
 
 [[speaker:sera]]“Mm?”
 
@@ -1054,15 +1054,15 @@ Sera traced one finger down the front of his shirt.
 
 [[speaker:sera]]“We have three tea shops.”
 
-“Yes.”
+[[speaker:rhen]]“Yes.”
 
 [[speaker:sera]]“A mountain full of terrifying people who refuse to leave us alone.”
 
-“Yes.”
+[[speaker:rhen]]“Yes.”
 
 [[speaker:sera]]“A clinic full of patients.”
 
-“Yes.”
+[[speaker:rhen]]“Yes.”
 
 [[speaker:sera]]“A ridiculous extended family.”
 
@@ -1124,15 +1124,15 @@ For him, this was panic.
 
 [[speaker:rhen]]“I did.”
 
-“Good.”
+[[speaker:sera]]“Good.”
 
 [[speaker:rhen]]“We should discuss—”
 
-“No.”
+[[speaker:sera]]“No.”
 
 [[speaker:rhen]]“Timelines.”
 
-“No.”
+[[speaker:sera]]“No.”
 
 [[speaker:rhen]]“Clinic scheduling.”
 

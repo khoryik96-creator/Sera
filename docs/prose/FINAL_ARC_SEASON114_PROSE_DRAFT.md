@@ -62,7 +62,7 @@ She was healed enough to move cleanly again, though the memory of Tsubasa's chai
 
 “Are they safe?” she asked.
 
-“Yes.”
+[[speaker:rhen]]“Yes.”
 
 [[speaker:sera]]“All of them?”
 
@@ -122,7 +122,7 @@ Around them, allied officers began to understand what they were seeing.
 
 Jin Seoryu stared for several seconds, then rubbed his face.
 
-“Good.”
+[[speaker:jin]]“Good.”
 
 Kael looked at him.
 
@@ -150,7 +150,7 @@ Arin Vale glanced at him.
 
 [[speaker:arin]]“Talking?”
 
-“Yes.”
+[[speaker:mo]]“Yes.”
 
 [[speaker:arin]]“I preferred the war.”
 
@@ -158,7 +158,7 @@ Arin Vale glanced at him.
 
 Arin sighed.
 
-“No.”
+[[speaker:arin]]“No.”
 
 She had not.
 
@@ -210,7 +210,7 @@ He let his head rest against the stone.
 
 [[speaker:tsubasa]]“You could have killed all of us.”
 
-“Yes.”
+[[speaker:rhen]]“Yes.”
 
 [[speaker:tsubasa]]“You should not answer that so casually.”
 
@@ -426,7 +426,7 @@ She knew what he meant.
 
 [[speaker:aya]]“Dead?”
 
-“Yes.”
+[[speaker:tsubasa]]“Yes.”
 
 Aya gave him the number.
 
@@ -444,7 +444,7 @@ Aya's expression changed.
 
 [[speaker:tsubasa]]“Estimate.”
 
-“No.”
+[[speaker:aya]]“No.”
 
 He opened his eyes.
 
@@ -480,7 +480,7 @@ Aya stared at him.
 
 [[speaker:aya]]“You do not get to say good as if you were not responsible.”
 
-“I know.”
+[[speaker:tsubasa]]“I know.”
 
 That answer stopped her.
 
@@ -538,15 +538,15 @@ Aya was quiet.
 
 [[speaker:aya]]“Voluntarily?”
 
-“Yes.”
+[[speaker:tsubasa]]“Yes.”
 
 [[speaker:aya]]“Before anyone forces you?”
 
-“Yes.”
+[[speaker:tsubasa]]“Yes.”
 
 [[speaker:aya]]“That's inconvenient.”
 
-“Why?”
+[[speaker:tsubasa]]“Why?”
 
 [[speaker:aya]]“I wanted to enjoy removing you.”
 
@@ -624,7 +624,7 @@ Eirik spoke first.
 
 “You understand stepping down does not erase responsibility.”
 
-“Yes.”
+[[speaker:tsubasa]]“Yes.”
 
 “Good.”
 

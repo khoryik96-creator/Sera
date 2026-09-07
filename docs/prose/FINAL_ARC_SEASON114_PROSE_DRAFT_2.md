@@ -36,17 +36,17 @@ Even the sealed contingency stores that several commanders insisted should remai
 
 Aya personally opened those crates.
 
-“No.”
+[[speaker:aya]]“No.”
 
 The quartermaster swallowed.
 
 “Physician Katsuragi, if another continental invasion—”
 
-“No.”
+[[speaker:aya]]“No.”
 
 “What if—”
 
-“No.”
+[[speaker:aya]]“No.”
 
 Haru stood beside her.
 
@@ -200,11 +200,11 @@ Aya scanned them.
 
 [[speaker:aya]]“Research annex?”
 
-“Cleared.”
+[[speaker:nao]]“Cleared.”
 
 [[speaker:aya]]“Naval reserve?”
 
-“Cleared.”
+[[speaker:nao]]“Cleared.”
 
 [[speaker:aya]]“Internal-security vault?”
 
@@ -224,11 +224,11 @@ Aya's eyes narrowed.
 
 [[speaker:aya]]“You had one.”
 
-“Yes.”
+[[speaker:tsubasa]]“Yes.”
 
 [[speaker:aya]]“Of course you did.”
 
-“Yes.”
+[[speaker:tsubasa]]“Yes.”
 
 She wrote the final mark.
 
@@ -276,11 +276,11 @@ Jin Seoryu was furious.
 
 [[speaker:jin]]“You scheduled this.”
 
-“I know.”
+[[speaker:kael]]“I know.”
 
 [[speaker:jin]]“You chose the hour.”
 
-“I know.”
+[[speaker:kael]]“I know.”
 
 [[speaker:jin]]“You are forty-three minutes late.”
 
@@ -428,7 +428,7 @@ Kael looked at him.
 
 [[speaker:kael]]“You invited yourself.”
 
-“I did not.”
+[[speaker:liang]]“I did not.”
 
 [[speaker:kael]]“You packed yesterday.”
 
@@ -512,7 +512,7 @@ Kael looked down.
 
 [[speaker:kael]]“You called it a terrible idea.”
 
-“It is.”
+[[speaker:liang]]“It is.”
 
 [[speaker:kael]]“And yet?”
 
@@ -532,7 +532,7 @@ Sera came to stand beside him.
 
 [[speaker:sera]]“You want to go too.”
 
-“No.”
+[[speaker:jin]]“No.”
 
 [[speaker:sera]]“You do.”
 
@@ -656,7 +656,7 @@ Luo's eyes shifted toward her.
 
 [[speaker:luo]]“Not her title.”
 
-“No.”
+[[speaker:aya]]“No.”
 
 [[speaker:luo]]“There is no next Pale Venom.”
 
@@ -744,15 +744,15 @@ Arin's expression became defensive.
 
 [[speaker:arin]]“I came for Yun.”
 
-“Yes.”
+[[speaker:qin]]“Yes.”
 
 [[speaker:arin]]“And alliance coordination.”
 
-“Yes.”
+[[speaker:qin]]“Yes.”
 
 [[speaker:arin]]“And regional reconstruction.”
 
-“Yes.”
+[[speaker:qin]]“Yes.”
 
 [[speaker:arin]]“And—”
 
