@@ -1,6 +1,6 @@
 # Season 108 — unattributed dialogue
 
-23 quoted lines in this season have no speaker.
+21 quoted lines in this season have no speaker.
 See `README.md` in this folder for what to do with them.
 
 Lines already resolved show their speaker in `[brackets]` for context.
@@ -152,25 +152,6 @@ Luo looked at him.
 >>> “I think you gain something by frightening prisoners.”   <-- WHO SAYS THIS?
 [luo] “Of course we gain something.”
 The medic’s face hardened.
-```
-
-### Chapter 437 — Tsubasa Has Still Not Entered the Field
-
-```
-[kael] “So he is fresh.”
-[jin] “Relative to the forward Paragons,” Jin said. “Yes.”
-[kael] “Peak Paragon.”
->>> “Yes.”   <-- WHO SAYS THIS?
-[kael] “Has not spent six months being punched by Wuyue and Isgard.”
-“Yes.”
-```
-```
-[kael] “Peak Paragon.”
-“Yes.”
-[kael] “Has not spent six months being punched by Wuyue and Isgard.”
->>> “Yes.”   <-- WHO SAYS THIS?
-Kael looked offended by the arithmetic.
-Sera said, “Good.”
 ```
 
 ### Chapter 438 — Shunto Guards the Center

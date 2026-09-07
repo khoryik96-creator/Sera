@@ -1,6 +1,6 @@
 # Season 95 — unattributed dialogue
 
-194 quoted lines in this season have no speaker.
+177 quoted lines in this season have no speaker.
 See `README.md` in this folder for what to do with them.
 
 Lines already resolved show their speaker in `[brackets]` for context.
@@ -18,46 +18,6 @@ He walked away.
 
 ### Chapter 302 — The Garden Is Asked For, Not Imposed
 
-```
-The Garden simply refused to let damage and impurity steal pieces of what she earned.
-Rhen closed his eyes for one breath.
-[rhen] “Still comfortable?”
->>> “Yes.”   <-- WHO SAYS THIS?
-[rhen] “Any pressure?”
-[sera] “No.”
-```
-```
-[rhen] “Then no change.”
-Sera watched him for another moment.
-[sera] “You ask Lu too?”
->>> “Yes.”   <-- WHO SAYS THIS?
-[sera] “Huo?”
-“Yes.”
-```
-```
-[sera] “You ask Lu too?”
-“Yes.”
-[sera] “Huo?”
->>> “Yes.”   <-- WHO SAYS THIS?
-[sera] “Tae?”
-“Yes.”
-```
-```
-[sera] “Huo?”
-“Yes.”
-[sera] “Tae?”
->>> “Yes.”   <-- WHO SAYS THIS?
-[sera] “Qin?”
-“Yes.”
-```
-```
-[sera] “Tae?”
-“Yes.”
-[sera] “Qin?”
->>> “Yes.”   <-- WHO SAYS THIS?
-[sera] “And they all keep saying yes?”
-Rhen nodded.
-```
 ```
 Sera tapped the board.
 [sera] “Company Seven?”
@@ -217,65 +177,6 @@ Outside, the mountain remained quiet.
 Inside the clinic, Lu folded the manifest once.
 ```
 
-### Chapter 305 — Physician and Poisoner
-
-```
-[luo] “Circulation opener.”
-[yun] “Partly.”
-[luo] “Fast absorption.”
->>> “Yes.”   <-- WHO SAYS THIS?
-[luo] “Adrenal response.”
-Yun made a face.
-```
-```
-She continued.
-[yun] “Emergency battlefield stimulant. Collapse rescue. Shock response. A physician could have built the first principle.”
-[luo] “And someone kept going.”
->>> “Yes.”   <-- WHO SAYS THIS?
-Luo looked again at the pale thread inside the sample.
-Medicine often required violence.
-```
-```
-[luo] “You think vitality.”
-[yun] “I think the compound is not satisfied with qi.”
-[luo] “Vitality is not a jar of oil.”
->>> “I know.”   <-- WHO SAYS THIS?
-[luo] “You cannot simply pour it into a technique.”
-“I know.”
-```
-```
-[luo] “Vitality is not a jar of oil.”
-“I know.”
-[luo] “You cannot simply pour it into a technique.”
->>> “I know.”   <-- WHO SAYS THIS?
-[luo] “Then how?”
-Yun rested both hands on the workbench.
-```
-```
-Yun let him.
-When he finished, she curled her fingers around his wrist.
-[yun] “You are worried.”
->>> “Yes.”   <-- WHO SAYS THIS?
-[yun] “About me?”
-[luo] “About your terrible laboratory habits.”
-```
-```
-Yun continued.
-[yun] “This is ugly, but it is not ignorant.”
-[luo] “That may be worse.”
->>> “Yes.”   <-- WHO SAYS THIS?
-For several breaths neither spoke.
-Then Yun reached toward the patient chart.
-```
-```
-Yun looked at the samples.
-Then at him.
-[yun] “You know I can poison you.”
->>> “Yes.”   <-- WHO SAYS THIS?
-[yun] “And yet you command me.”
-[luo] “I am asking.”
-```
-
 ### Chapter 306 — Something Was Spent
 
 ```
@@ -283,28 +184,12 @@ The skin beneath his eyes held a faint hollowness. His recovery pulse lacked res
 Rhen watched him walk from the bed to the window.
 The patient looked back.
 >>> “Am I dying?”   <-- WHO SAYS THIS?
-“No.”
+[rhen] “No.”
 The answer came quickly enough that the man believed it.
 ```
 ```
-Rhen watched him walk from the bed to the window.
-The patient looked back.
-“Am I dying?”
->>> “No.”   <-- WHO SAYS THIS?
-The answer came quickly enough that the man believed it.
-Then Rhen added, “Sit.”
-```
-```
-Rhen withdrew his hand.
-Yun watched his face.
 [yun] “That is annoying you.”
->>> “Yes.”   <-- WHO SAYS THIS?
-The patient swallowed.
-“That is not comforting.”
-```
-```
-[yun] “That is annoying you.”
-“Yes.”
+[rhen] “Yes.”
 The patient swallowed.
 >>> “That is not comforting.”   <-- WHO SAYS THIS?
 Rhen looked at him.
@@ -333,14 +218,6 @@ The patient stared.
 >>> “What is missing?”   <-- WHO SAYS THIS?
 Rhen did not answer immediately.
 He disliked naming things before he understood them.
-```
-```
-[yun] “You said the body is repaired.”
-[rhen] “It is.”
-[yun] “Then this is not damage.”
->>> “No.”   <-- WHO SAYS THIS?
-Sera pushed away from the wall.
-[sera] “What is the difference?”
 ```
 ```
 He looked back at the patient.
@@ -379,37 +256,21 @@ The man hesitated.
 “That it would make me stronger.”
 “For how long?” Luo asked.
 >>> “Minutes.”   <-- WHO SAYS THIS?
-“What cost?”
+[luo] “What cost?”
 “Sickness after.”
-```
-```
-“That it would make me stronger.”
-“For how long?” Luo asked.
-“Minutes.”
->>> “What cost?”   <-- WHO SAYS THIS?
-“Sickness after.”
-“How much sickness?”
 ```
 ```
 “For how long?” Luo asked.
 “Minutes.”
-“What cost?”
+[luo] “What cost?”
 >>> “Sickness after.”   <-- WHO SAYS THIS?
-“How much sickness?”
+[luo] “How much sickness?”
 “A day. Maybe two.”
 ```
 ```
-“Minutes.”
-“What cost?”
+[luo] “What cost?”
 “Sickness after.”
->>> “How much sickness?”   <-- WHO SAYS THIS?
-“A day. Maybe two.”
-Yun's face went flat.
-```
-```
-“What cost?”
-“Sickness after.”
-“How much sickness?”
+[luo] “How much sickness?”
 >>> “A day. Maybe two.”   <-- WHO SAYS THIS?
 Yun's face went flat.
 The man continued.

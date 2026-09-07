@@ -1,6 +1,6 @@
 # Season 111 — unattributed dialogue
 
-39 quoted lines in this season have no speaker.
+37 quoted lines in this season have no speaker.
 See `README.md` in this folder for what to do with them.
 
 Lines already resolved show their speaker in `[brackets]` for context.
@@ -128,14 +128,6 @@ Shunto showed the old travel token on instinct.
 The man looked at it.
 ```
 ```
-Hana looked toward the south gate.
-[hana] “He is not heading for Shinrin.”
-[tsubasa] “No.”
->>> “Yurushi?”   <-- WHO SAYS THIS?
-Tsubasa shook his head.
-[tsubasa] “Too far.”
-```
-```
 Knew the way shame became accusation inside him.
 Knew that being stripped would feel worse to Shunto than being wounded.
 A messenger ran into the lane.
@@ -231,21 +223,13 @@ Kael looked toward the western ridge.
 [kael] “No.”
 The commander frowned.
 >>> “You know that?”   <-- WHO SAYS THIS?
-“No.”
-“Then—”
-```
-```
 [kael] “No.”
-The commander frowned.
-“You know that?”
->>> “No.”   <-- WHO SAYS THIS?
 “Then—”
-[kael] “I dislike the timing.”
 ```
 ```
 The commander frowned.
 “You know that?”
-“No.”
+[kael] “No.”
 >>> “Then—”   <-- WHO SAYS THIS?
 [kael] “I dislike the timing.”
 Kael pointed.

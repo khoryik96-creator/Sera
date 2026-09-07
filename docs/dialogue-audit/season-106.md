@@ -1,6 +1,6 @@
 # Season 106 — unattributed dialogue
 
-17 quoted lines in this season have no speaker.
+5 quoted lines in this season have no speaker.
 See `README.md` in this folder for what to do with them.
 
 Lines already resolved show their speaker in `[brackets]` for context.
@@ -8,131 +8,32 @@ Lines already resolved show their speaker in `[brackets]` for context.
 ### Chapter 412 — After the War
 
 ```
-[tsubasa] “Repeat-dose controls will tighten immediately.”
-Aya did not react.
-[tsubasa] “Same-day redosing prohibited without direct physician and field-command authorization.”
->>> “Not enough.”   <-- WHO SAYS THIS?
-[tsubasa] “Third dose classified as gross emergency and command violation outside imminent collapse.”
-“Not enough.”
-```
-```
-[tsubasa] “Same-day redosing prohibited without direct physician and field-command authorization.”
-“Not enough.”
-[tsubasa] “Third dose classified as gross emergency and command violation outside imminent collapse.”
->>> “Not enough.”   <-- WHO SAYS THIS?
-[tsubasa] “Every Redline briefing will include an explicit lifespan estimate.”
-Aya paused.
-```
-```
-[tsubasa] “Isgard continues resisting.”
-[aya] “Yes.”
-[tsubasa] “Shinsei soldiers are dying.”
->>> “Yes.”   <-- WHO SAYS THIS?
-[tsubasa] “Removing Redline now eliminates an option that can prevent entire formations from being destroyed.”
-Aya opened her eyes.
-```
-```
 After the door closed, Tsubasa looked at him.
 [tsubasa] “Write the new controls.”
 The clerk blinked.
 >>> “All of them?”   <-- WHO SAYS THIS?
-“Every one.”
+[tsubasa] “Every one.”
 “Lifespan estimate included?”
-```
-```
-[tsubasa] “Write the new controls.”
-The clerk blinked.
-“All of them?”
->>> “Every one.”   <-- WHO SAYS THIS?
-“Lifespan estimate included?”
-“Yes.”
 ```
 ```
 The clerk blinked.
 “All of them?”
-“Every one.”
+[tsubasa] “Every one.”
 >>> “Lifespan estimate included?”   <-- WHO SAYS THIS?
-“Yes.”
+[tsubasa] “Yes.”
 “3× remains authorized?”
 ```
 ```
-“All of them?”
-“Every one.”
+[tsubasa] “Every one.”
 “Lifespan estimate included?”
->>> “Yes.”   <-- WHO SAYS THIS?
-“3× remains authorized?”
-“Yes.”
-```
-```
-“Every one.”
-“Lifespan estimate included?”
-“Yes.”
+[tsubasa] “Yes.”
 >>> “3× remains authorized?”   <-- WHO SAYS THIS?
-“Yes.”
+[tsubasa] “Yes.”
 The clerk wrote.
-```
-```
-“Lifespan estimate included?”
-“Yes.”
-“3× remains authorized?”
->>> “Yes.”   <-- WHO SAYS THIS?
-The clerk wrote.
-That was Tsubasa’s tragedy in one page.
-```
-
-### Chapter 413 — Three Women Stop Pretending Their Work Is Separate
-
-```
-[nao] “You want to bureaucratize this.”
-[aya] “I am a physician.”
-[nao] “That did not answer me.”
->>> “Yes.”   <-- WHO SAYS THIS?
-For the first time in days, Nao smiled.
-They wrote nothing resembling conspiracy.
 ```
 
 ### Chapter 416 — Aya Gives Kenji Back His Body
 
-```
-[kenji] “You are.”
-[aya] “I’m checking facial nerve function.”
-[kenji] “That is a lie.”
->>> “Yes.”   <-- WHO SAYS THIS?
-The answer made him laugh. The laugh pulled at his ribs and stopped him immediately.
-Aya pointed at him without looking up from the chart.
-```
-```
-[kenji] “Will it be normal?”
-[aya] “Recoverable damage, yes.”
-[kenji] “All of it?”
->>> “Yes.”   <-- WHO SAYS THIS?
-He looked at the shoulder Sigrun had nearly destroyed.
-[kenji] “I thought she ended this arm.”
-```
-```
-[kenji] “Raska died.”
-[aya] “Yes.”
-[kenji] “Halvek too.”
->>> “Yes.”   <-- WHO SAYS THIS?
-[kenji] “Tor cannot return to the frontline.”
-“Yes.”
-```
-```
-[kenji] “Halvek too.”
-“Yes.”
-[kenji] “Tor cannot return to the frontline.”
->>> “Yes.”   <-- WHO SAYS THIS?
-[kenji] “Eldran may never fight properly again.”
-Aya’s eyes lowered.
-```
-```
-Aya’s eyes lowered.
-[aya] “Yes.”
-[kenji] “Sigrun nearly died.”
->>> “Yes.”   <-- WHO SAYS THIS?
-He flexed the repaired hand once more.
-[kenji] “And I get this.”
-```
 ```
 Aya became very still.
 [aya] “No.”

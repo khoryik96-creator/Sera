@@ -275,11 +275,11 @@ Kael leaned over the table.
 
 [[speaker:kael]]“Peak Paragon.”
 
-“Yes.”
+[[speaker:jin]]“Yes.”
 
 [[speaker:kael]]“Has not spent six months being punched by Wuyue and Isgard.”
 
-“Yes.”
+[[speaker:jin]]“Yes.”
 
 Kael looked offended by the arithmetic.
 

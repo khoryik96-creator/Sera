@@ -410,7 +410,7 @@ Hana looked toward the south gate.
 
 [[speaker:tsubasa]]“No.”
 
-“Yurushi?”
+[[speaker:hana]]“Yurushi?”
 
 Tsubasa shook his head.
 
@@ -770,7 +770,7 @@ The commander frowned.
 
 “You know that?”
 
-“No.”
+[[speaker:kael]]“No.”
 
 “Then—”
 

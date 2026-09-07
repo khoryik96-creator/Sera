@@ -363,7 +363,7 @@ Kenji watched her expression.
 
 [[speaker:kenji]]“That is a lie.”
 
-“Yes.”
+[[speaker:aya]]“Yes.”
 
 The answer made him laugh. The laugh pulled at his ribs and stopped him immediately.
 
@@ -381,7 +381,7 @@ Only then did Kenji ask the question he had been avoiding.
 
 [[speaker:kenji]]“All of it?”
 
-“Yes.”
+[[speaker:aya]]“Yes.”
 
 He looked at the shoulder Sigrun had nearly destroyed.
 
@@ -421,11 +421,11 @@ Kenji looked toward the canvas wall as though Isgard existed immediately beyond 
 
 [[speaker:kenji]]“Halvek too.”
 
-“Yes.”
+[[speaker:aya]]“Yes.”
 
 [[speaker:kenji]]“Tor cannot return to the frontline.”
 
-“Yes.”
+[[speaker:aya]]“Yes.”
 
 [[speaker:kenji]]“Eldran may never fight properly again.”
 
@@ -435,7 +435,7 @@ Aya’s eyes lowered.
 
 [[speaker:kenji]]“Sigrun nearly died.”
 
-“Yes.”
+[[speaker:aya]]“Yes.”
 
 He flexed the repaired hand once more.
 

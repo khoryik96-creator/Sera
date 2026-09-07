@@ -594,7 +594,7 @@ Rhen closed his eyes for one breath.
 
 [[speaker:rhen]]“Still comfortable?”
 
-“Yes.”
+[[speaker:sera]]“Yes.”
 
 [[speaker:rhen]]“Any pressure?”
 
@@ -618,19 +618,19 @@ Sera watched him for another moment.
 
 [[speaker:sera]]“You ask Lu too?”
 
-“Yes.”
+[[speaker:rhen]]“Yes.”
 
 [[speaker:sera]]“Huo?”
 
-“Yes.”
+[[speaker:rhen]]“Yes.”
 
 [[speaker:sera]]“Tae?”
 
-“Yes.”
+[[speaker:rhen]]“Yes.”
 
 [[speaker:sera]]“Qin?”
 
-“Yes.”
+[[speaker:rhen]]“Yes.”
 
 [[speaker:sera]]“And they all keep saying yes?”
 

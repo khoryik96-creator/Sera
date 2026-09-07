@@ -58,7 +58,7 @@ Luo watched.
 
 [[speaker:luo]]“Fast absorption.”
 
-“Yes.”
+[[speaker:yun]]“Yes.”
 
 [[speaker:luo]]“Adrenal response.”
 
@@ -156,7 +156,7 @@ She continued.
 
 [[speaker:luo]]“And someone kept going.”
 
-“Yes.”
+[[speaker:yun]]“Yes.”
 
 Luo looked again at the pale thread inside the sample.
 
@@ -232,11 +232,11 @@ He looked at Yun.
 
 [[speaker:luo]]“Vitality is not a jar of oil.”
 
-“I know.”
+[[speaker:yun]]“I know.”
 
 [[speaker:luo]]“You cannot simply pour it into a technique.”
 
-“I know.”
+[[speaker:yun]]“I know.”
 
 [[speaker:luo]]“Then how?”
 
@@ -278,7 +278,7 @@ When he finished, she curled her fingers around his wrist.
 
 [[speaker:yun]]“You are worried.”
 
-“Yes.”
+[[speaker:luo]]“Yes.”
 
 [[speaker:yun]]“About me?”
 
@@ -324,7 +324,7 @@ Yun continued.
 
 [[speaker:luo]]“That may be worse.”
 
-“Yes.”
+[[speaker:yun]]“Yes.”
 
 For several breaths neither spoke.
 
@@ -368,7 +368,7 @@ Then at him.
 
 [[speaker:yun]]“You know I can poison you.”
 
-“Yes.”
+[[speaker:luo]]“Yes.”
 
 [[speaker:yun]]“And yet you command me.”
 
@@ -434,7 +434,7 @@ The patient looked back.
 
 “Am I dying?”
 
-“No.”
+[[speaker:rhen]]“No.”
 
 The answer came quickly enough that the man believed it.
 
@@ -492,7 +492,7 @@ Yun watched his face.
 
 [[speaker:yun]]“That is annoying you.”
 
-“Yes.”
+[[speaker:rhen]]“Yes.”
 
 The patient swallowed.
 
@@ -534,7 +534,7 @@ Yun folded her arms.
 
 [[speaker:yun]]“Then this is not damage.”
 
-“No.”
+[[speaker:rhen]]“No.”
 
 Sera pushed away from the wall.
 
@@ -648,11 +648,11 @@ The man hesitated.
 
 “Minutes.”
 
-“What cost?”
+[[speaker:luo]]“What cost?”
 
 “Sickness after.”
 
-“How much sickness?”
+[[speaker:luo]]“How much sickness?”
 
 “A day. Maybe two.”
 

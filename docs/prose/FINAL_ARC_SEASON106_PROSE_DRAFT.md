@@ -498,11 +498,11 @@ Aya did not react.
 
 [[speaker:tsubasa]]“Same-day redosing prohibited without direct physician and field-command authorization.”
 
-“Not enough.”
+[[speaker:aya]]“Not enough.”
 
 [[speaker:tsubasa]]“Third dose classified as gross emergency and command violation outside imminent collapse.”
 
-“Not enough.”
+[[speaker:aya]]“Not enough.”
 
 [[speaker:tsubasa]]“Every Redline briefing will include an explicit lifespan estimate.”
 
@@ -534,7 +534,7 @@ Aya heard the evasion packed into one word and closed her eyes briefly.
 
 [[speaker:tsubasa]]“Shinsei soldiers are dying.”
 
-“Yes.”
+[[speaker:aya]]“Yes.”
 
 [[speaker:tsubasa]]“Removing Redline now eliminates an option that can prevent entire formations from being destroyed.”
 
@@ -616,15 +616,15 @@ The clerk blinked.
 
 “All of them?”
 
-“Every one.”
+[[speaker:tsubasa]]“Every one.”
 
 “Lifespan estimate included?”
 
-“Yes.”
+[[speaker:tsubasa]]“Yes.”
 
 “3× remains authorized?”
 
-“Yes.”
+[[speaker:tsubasa]]“Yes.”
 
 The clerk wrote.
 
@@ -832,7 +832,7 @@ Nao raised one eyebrow.
 
 [[speaker:nao]]“That did not answer me.”
 
-“Yes.”
+[[speaker:aya]]“Yes.”
 
 For the first time in days, Nao smiled.
 
