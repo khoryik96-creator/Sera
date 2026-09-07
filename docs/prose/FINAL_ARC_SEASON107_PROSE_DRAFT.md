@@ -254,7 +254,7 @@ Jun did not move.
 
 Aya eventually looked up.
 
-“What?”
+[[speaker:aya]]“What?”
 
 He had spent his recovery reading battlefield summaries because lying still was intolerable and because the first loss to Kael had embarrassed him enough to become educational. The reports contained more than technique notes now.
 
@@ -294,7 +294,7 @@ Then his face settled again.
 
 [[speaker:jun]]“Does getting cleared mean you think I should fight?”
 
-“No.”
+[[speaker:aya]]“No.”
 
 The answer came too quickly to misunderstand.
 
@@ -318,7 +318,7 @@ Aya’s brush stopped.
 
 [[speaker:aya]]“You do not owe me obedience because I treated you.”
 
-“I know.”
+[[speaker:jun]]“I know.”
 
 [[speaker:aya]]“You do not owe Shinsei more years because I returned your body.”
 
@@ -356,7 +356,7 @@ Luo nodded.
 
 [[speaker:kael]]“And now he is fine.”
 
-“Yes.”
+[[speaker:luo]]“Yes.”
 
 Kael looked personally offended by the concept of successful medicine.
 
@@ -572,7 +572,7 @@ This became extremely relevant while carrying Shen Rui through a collapsing war 
 
 “Put me down,” Rui said.
 
-“No.”
+[[speaker:xie_wuchen]]“No.”
 
 [[speaker:rui]]“I can run.”
 
@@ -778,7 +778,7 @@ Ilyra wanted it gone.
 
 Sera approved the raid with one condition.
 
-“No civilian fire spread.”
+[[speaker:sera]]“No civilian fire spread.”
 
 Ilyra looked offended.
 
