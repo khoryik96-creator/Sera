@@ -14,6 +14,7 @@ if(!files.length) throw new Error(`No source prose files for season ${season}`);
 function stripMarker(p){return p.replace(/^\[\[speaker:[^\]]+\]\]/,'');}
 function chapterParts(text){const re=/^## Chapter (\d+) — /gm;const heads=[...text.matchAll(re)];return heads.map((h,i)=>({chapter:Number(h[1]),start:h.index,end:heads[i+1]?.index??text.length}));}
 function pureQuote(q){return q.startsWith('“')&&q.endsWith('”');}
+function anchorMatches(paragraph, anchor){return stripMarker(paragraph.trim()).includes(anchor);}
 let added=0,already=0,skippedMissing=0,skippedAmbiguous=0,skippedNarration=0;
 for(const file of files){
   const original=await readFile(`${dir}/${file}`,'utf8');let text=original;
@@ -25,8 +26,8 @@ for(const file of files){
       const matches=[];
       for(let i=0;i<paras.length;i++){
         if(stripMarker(paras[i].trim())!==e.quote)continue;
-        if(e.before && (i===0||stripMarker(paras[i-1].trim())!==e.before))continue;
-        if(e.after && (i+1>=paras.length||stripMarker(paras[i+1].trim())!==e.after))continue;
+        if(e.before && (i===0||!anchorMatches(paras[i-1],e.before)))continue;
+        if(e.after && (i+1>=paras.length||!anchorMatches(paras[i+1],e.after)))continue;
         matches.push(i);
       }
       if(matches.length===0){skippedMissing++;continue;}
