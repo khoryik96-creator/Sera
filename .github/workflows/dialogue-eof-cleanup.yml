@@ -1,0 +1,51 @@
+name: Dialogue EOF cleanup
+
+on:
+  push:
+    branches:
+      - story/dialogue-audit-postmerge-context-and-mixed
+    paths:
+      - '.github/workflows/dialogue-eof-cleanup.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  cleanup:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          ref: story/dialogue-audit-postmerge-context-and-mixed
+          fetch-depth: 0
+      - name: Match final-arc EOF whitespace to main
+        run: |
+          git fetch origin main:refs/remotes/origin/main
+          python - <<'PY'
+          from pathlib import Path
+          import re, subprocess
+
+          root = Path('docs/prose')
+          changed = 0
+          for path in sorted(root.glob('FINAL_ARC_SEASON*_PROSE_DRAFT*.md')):
+              rel = path.as_posix()
+              branch = path.read_text()
+              base = subprocess.check_output(['git', 'show', f'origin/main:{rel}'], text=True)
+              suffix_match = re.search(r'(?:\r?\n)*\Z', base)
+              suffix = suffix_match.group(0) if suffix_match else ''
+              body = re.sub(r'(?:\r?\n)*\Z', '', branch)
+              fixed = body + suffix
+              if fixed != branch:
+                  path.write_text(fixed)
+                  changed += 1
+          print({'files_normalized': changed})
+          PY
+          rm -f .github/workflows/dialogue-final-validation.yml
+          rm -f .github/workflows/dialogue-eof-cleanup.yml
+      - name: Commit cleanup
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "Normalize dialogue audit prose whitespace"
+          git push
