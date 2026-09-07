@@ -1,59 +1,67 @@
-name: Dialogue human-context candidate scan
+name: Dialogue human-context pass
 
 on:
   push:
     branches:
       - story/dialogue-audit-final-residuals-s95-s114
     paths:
+      - scripts/apply-dialogue-human-context-pass.mjs
       - .github/workflows/dialogue-human-context-candidates.yml
 
 permissions:
-  contents: read
+  contents: write
 
 jobs:
-  scan:
+  apply:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v7
         with:
           ref: story/dialogue-audit-final-residuals-s95-s114
+          fetch-depth: 0
       - uses: actions/setup-node@v7
         with:
           node-version: 24
-      - name: Surface actual residuals with immediate named action context
+          cache: npm
+      - run: npm ci
+      - name: Apply reviewed human-context markers
+        run: node scripts/apply-dialogue-human-context-pass.mjs
+      - name: Regenerate dialogue audit
+        run: npm run audit:dialogue
+      - name: Refresh README residual counts
         run: |
           node --input-type=module <<'NODE'
           import fs from 'node:fs';
-          import { loadFinalArcSeasons } from './scripts/final-arc-reader.mjs';
-          const reg = fs.readFileSync('src/characterRegistry.ts','utf8');
-          const names = [];
-          for (const m of reg.matchAll(/\{ key: '([a-z0-9_]+)', displayName: '([^']+)'[^\n]*aliases: \[([^\]]+)\]/g)) {
-            const key=m[1], display=m[2];
-            const aliases=[display,...[...m[3].matchAll(/'([^']+)'/g)].map(x=>x[1])];
-            names.push({key,aliases:[...new Set(aliases)].sort((a,b)=>b.length-a.length)});
-          }
-          const strip=s=>s.replace(/^\[\[speaker:[^\]]+\]\]/,'').trim();
-          const narration=s=>{ const t=strip(s); return t && !t.startsWith('“'); };
-          const namedIn=s=>names.filter(n=>n.aliases.some(a=>new RegExp(`\\b${a.replace(/[.*+?^${}()|[\]\\]/g,'\\$&')}\\b`,'i').test(strip(s)))).map(n=>n.key);
-          const seasons=await loadFinalArcSeasons();
-          let total=0;
           const counts={};
-          for (const [seasonKey, eps] of Object.entries(seasons)) {
-            const season=Number(seasonKey.slice(6));
-            for (const ep of eps) {
-              const ch=Number(ep.ep.replace('Chapter ',''));
-              const ps=ep.text.split(/\n{2,}/).map(s=>s.trim()).filter(Boolean);
-              for(let i=0;i<ps.length;i++){
-                const q=ps[i];
-                if(q.startsWith('[[speaker:') || !/^“[\s\S]*”[.!?…]?$/.test(q)) continue;
-                const prev=i?ps[i-1]:''; const next=i+1<ps.length?ps[i+1]:'';
-                const pk=narration(prev)?[...new Set(namedIn(prev))]:[];
-                const nk=narration(next)?[...new Set(namedIn(next))]:[];
-                if(pk.length!==1 && nk.length!==1) continue;
-                total++; counts[season]=(counts[season]||0)+1;
-                console.log(JSON.stringify({season,ch,prevKey:pk.length===1?pk[0]:null,prev:strip(prev).replace(/\n/g,' '),quote:q,nextKey:nk.length===1?nk[0]:null,next:strip(next).replace(/\n/g,' ')}));
-              }
-            }
+          let total=0;
+          for(let s=95;s<=114;s++){
+            const p=`docs/dialogue-audit/season-${String(s).padStart(3,'0')}.md`;
+            const txt=fs.readFileSync(p,'utf8');
+            const m=txt.match(/\n(\d+) quoted lines in this season have no speaker\./);
+            if(!m) throw new Error(`Missing count in ${p}`);
+            counts[s]=Number(m[1]); total+=counts[s];
           }
-          console.log('ACTION_CANDIDATES',total,JSON.stringify(counts));
+          const p='docs/dialogue-audit/README.md';
+          let txt=fs.readFileSync(p,'utf8');
+          txt=txt.replace(/The result is that \*\*\d+ quoted lines now have no speaker name\.\*\*/,`The result is that **${total} quoted lines now have no speaker name.**`);
+          for(let s=95;s<=114;s++){
+            const re=new RegExp(`(\\| Season ${s} \\| )\\d+( \\| \\`season-${String(s).padStart(3,'0')}\\.md\\`)`);
+            txt=txt.replace(re,`$1${counts[s]}$2`);
+          }
+          txt=txt.replace(/\| \*\*Total\*\* \| \*\*\d+\*\* \|/,`| **Total** | **${total}** |`);
+          fs.writeFileSync(p,txt);
+          console.log('README_TOTAL',total,counts);
           NODE
+      - name: Verify whitespace
+        run: git diff --check
+      - name: Commit reviewed dialogue batch
+        run: |
+          if git diff --quiet; then
+            echo 'No changes.'
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add docs/prose docs/dialogue-audit
+          git commit -m 'Highlight additional context-proven dialogue'
+          git push origin HEAD:story/dialogue-audit-final-residuals-s95-s114
