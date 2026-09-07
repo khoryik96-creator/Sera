@@ -20,11 +20,11 @@ jobs:
       - uses: actions/setup-node@v7
         with:
           node-version: 24
-      - name: Surface residuals with nearby named-character cues
+      - name: Surface actual residuals with immediate named action context
         run: |
-          node <<'NODE'
-          const fs = require('fs');
-          const path = require('path');
+          node --input-type=module <<'NODE'
+          import fs from 'node:fs';
+          import { loadFinalArcSeasons } from './scripts/final-arc-reader.mjs';
           const reg = fs.readFileSync('src/characterRegistry.ts','utf8');
           const names = [];
           for (const m of reg.matchAll(/\{ key: '([a-z0-9_]+)', displayName: '([^']+)'[^\n]*aliases: \[([^\]]+)\]/g)) {
@@ -32,27 +32,28 @@ jobs:
             const aliases=[display,...[...m[3].matchAll(/'([^']+)'/g)].map(x=>x[1])];
             names.push({key,aliases:[...new Set(aliases)].sort((a,b)=>b.length-a.length)});
           }
-          const files=fs.readdirSync('docs/prose').filter(f=>/^FINAL_ARC_SEASON\d{3}_PROSE_DRAFT(?:_\d+)?\.md$/.test(f)).sort();
           const strip=s=>s.replace(/^\[\[speaker:[^\]]+\]\]/,'').trim();
-          const standalone=s=>/^“[\s\S]*”[.!?…]?$/.test(strip(s));
+          const narration=s=>{ const t=strip(s); return t && !t.startsWith('“'); };
           const namedIn=s=>names.filter(n=>n.aliases.some(a=>new RegExp(`\\b${a.replace(/[.*+?^${}()|[\]\\]/g,'\\$&')}\\b`,'i').test(strip(s)))).map(n=>n.key);
-          for (const file of files) {
-            const season=Number(file.match(/SEASON(\d{3})/)[1]);
-            const paras=fs.readFileSync(path.join('docs/prose',file),'utf8').split(/\n{2,}/);
-            let ch=null;
-            for(let i=0;i<paras.length;i++){
-              const t=paras[i].trim();
-              const h=t.match(/^## Chapter (\d+) — /); if(h){ch=Number(h[1]);continue;}
-              if(!ch || t.startsWith('[[speaker:') || !standalone(t)) continue;
-              const ctx=[];
-              for(let j=Math.max(0,i-2);j<=Math.min(paras.length-1,i+2);j++) if(j!==i) ctx.push(paras[j].trim());
-              const keys=[...new Set(ctx.flatMap(namedIn))];
-              if(!keys.length) continue;
-              const prev2=i>1?strip(paras[i-2]).replace(/\n/g,' '):'';
-              const prev1=i>0?strip(paras[i-1]).replace(/\n/g,' '):'';
-              const next1=i+1<paras.length?strip(paras[i+1]).replace(/\n/g,' '):'';
-              const next2=i+2<paras.length?strip(paras[i+2]).replace(/\n/g,' '):'';
-              console.log(JSON.stringify({season,ch,file,keys,prev2,prev1,quote:strip(t),next1,next2}));
+          const seasons=await loadFinalArcSeasons();
+          let total=0;
+          const counts={};
+          for (const [seasonKey, eps] of Object.entries(seasons)) {
+            const season=Number(seasonKey.slice(6));
+            for (const ep of eps) {
+              const ch=Number(ep.ep.replace('Chapter ',''));
+              const ps=ep.text.split(/\n{2,}/).map(s=>s.trim()).filter(Boolean);
+              for(let i=0;i<ps.length;i++){
+                const q=ps[i];
+                if(q.startsWith('[[speaker:') || !/^“[\s\S]*”[.!?…]?$/.test(q)) continue;
+                const prev=i?ps[i-1]:''; const next=i+1<ps.length?ps[i+1]:'';
+                const pk=narration(prev)?[...new Set(namedIn(prev))]:[];
+                const nk=narration(next)?[...new Set(namedIn(next))]:[];
+                if(pk.length!==1 && nk.length!==1) continue;
+                total++; counts[season]=(counts[season]||0)+1;
+                console.log(JSON.stringify({season,ch,prevKey:pk.length===1?pk[0]:null,prev:strip(prev).replace(/\n/g,' '),quote:q,nextKey:nk.length===1?nk[0]:null,next:strip(next).replace(/\n/g,' ')}));
+              }
             }
           }
+          console.log('ACTION_CANDIDATES',total,JSON.stringify(counts));
           NODE
