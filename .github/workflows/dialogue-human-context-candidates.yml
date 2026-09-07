@@ -1,0 +1,58 @@
+name: Dialogue human-context candidate scan
+
+on:
+  push:
+    branches:
+      - story/dialogue-audit-final-residuals-s95-s114
+    paths:
+      - .github/workflows/dialogue-human-context-candidates.yml
+
+permissions:
+  contents: read
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          ref: story/dialogue-audit-final-residuals-s95-s114
+      - uses: actions/setup-node@v7
+        with:
+          node-version: 24
+      - name: Surface residuals with nearby named-character cues
+        run: |
+          node <<'NODE'
+          const fs = require('fs');
+          const path = require('path');
+          const reg = fs.readFileSync('src/characterRegistry.ts','utf8');
+          const names = [];
+          for (const m of reg.matchAll(/\{ key: '([a-z0-9_]+)', displayName: '([^']+)'[^\n]*aliases: \[([^\]]+)\]/g)) {
+            const key=m[1], display=m[2];
+            const aliases=[display,...[...m[3].matchAll(/'([^']+)'/g)].map(x=>x[1])];
+            names.push({key,aliases:[...new Set(aliases)].sort((a,b)=>b.length-a.length)});
+          }
+          const files=fs.readdirSync('docs/prose').filter(f=>/^FINAL_ARC_SEASON\d{3}_PROSE_DRAFT(?:_\d+)?\.md$/.test(f)).sort();
+          const strip=s=>s.replace(/^\[\[speaker:[^\]]+\]\]/,'').trim();
+          const standalone=s=>/^“[\s\S]*”[.!?…]?$/.test(strip(s));
+          const namedIn=s=>names.filter(n=>n.aliases.some(a=>new RegExp(`\\b${a.replace(/[.*+?^${}()|[\]\\]/g,'\\$&')}\\b`,'i').test(strip(s)))).map(n=>n.key);
+          for (const file of files) {
+            const season=Number(file.match(/SEASON(\d{3})/)[1]);
+            const paras=fs.readFileSync(path.join('docs/prose',file),'utf8').split(/\n{2,}/);
+            let ch=null;
+            for(let i=0;i<paras.length;i++){
+              const t=paras[i].trim();
+              const h=t.match(/^## Chapter (\d+) — /); if(h){ch=Number(h[1]);continue;}
+              if(!ch || t.startsWith('[[speaker:') || !standalone(t)) continue;
+              const ctx=[];
+              for(let j=Math.max(0,i-2);j<=Math.min(paras.length-1,i+2);j++) if(j!==i) ctx.push(paras[j].trim());
+              const keys=[...new Set(ctx.flatMap(namedIn))];
+              if(!keys.length) continue;
+              const prev2=i>1?strip(paras[i-2]).replace(/\n/g,' '):'';
+              const prev1=i>0?strip(paras[i-1]).replace(/\n/g,' '):'';
+              const next1=i+1<paras.length?strip(paras[i+1]).replace(/\n/g,' '):'';
+              const next2=i+2<paras.length?strip(paras[i+2]).replace(/\n/g,' '):'';
+              console.log(JSON.stringify({season,ch,file,keys,prev2,prev1,quote:strip(t),next1,next2}));
+            }
+          }
+          NODE
