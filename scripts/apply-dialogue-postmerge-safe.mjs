@@ -5,7 +5,7 @@ const root=process.cwd();
 const proseDir=resolve(root,'docs/prose');
 const registryPath=resolve(root,'src/characterRegistry.ts');
 const SOURCE_RE=/^FINAL_ARC_SEASON(\d{3})_PROSE_DRAFT(?:_(\d+))?\.md$/;
-const CHAPTER_RE=/^## Chapter (\d+) — /gm;
+const CHAPTER_RE=/^## Chapter (\d+) — .+$/gm;
 const SPEECH_WORDS='(?:said|asked|answered|replied|called|shouted|whispered|murmured|muttered|snapped|continued|added|told|spoke)';
 function escRe(v){return v.replace(/[.*+?^${}()|[\]\\]/g,'\\$&');}
 function outsideQuotes(v){return v.replace(/“[^”]*”?/gu,' ');}
@@ -30,10 +30,7 @@ function explicitSpeakers(text){
   return [...new Map(found.map(x=>[x.key,x])).values()];
 }
 
-// Human-reviewed standalone misses. Exact neighbouring paragraphs are required,
-// so duplicated replies such as “Yes.” cannot be tagged by turn-taking alone.
 const standaloneMaps=[
-  // Season 95
   {chapter:306,quote:'“No.”',speaker:'yun',before:'“I didn\'t agree to that.”',after:'That word mattered.'},
   {chapter:306,quote:'“Yes.”',speaker:'rhen',before:'[[speaker:sera]]“Faster again?” she asked.',after:'[[speaker:sera]]“How fast?”'},
   {chapter:307,quote:'“Yes.”',speaker:'luweiran',before:'[[speaker:sera]]“And those rules leave a trail.”',after:'Lu pointed at three route marks.'},
@@ -52,14 +49,10 @@ const standaloneMaps=[
   {chapter:308,quote:'“No.”',speaker:'luweiran',before:'“She knows?”',after:'“Oh.”'},
   {chapter:308,quote:'“What?”',speaker:'luweiran',before:'[[speaker:sera]]“Lu.”',after:'[[speaker:sera]]“Less helpful.”'},
   {chapter:309,quote:'“Do not.”',speaker:'rui',before:'[[speaker:sera]]“How badly?”',after:'Lu was already writing.'},
-
-  // Season 105
   {chapter:401,quote:'“Yes.”',speaker:'aya',before:'[[speaker:jun]]“Stop.”',after:'He reached for the halberd resting beside the cot.'},
   {chapter:404,quote:'“Yes.”',speaker:'aya',before:'“That it’s an emergency stimulant.”',after:'“Three-times output for around five minutes.”'},
   {chapter:404,quote:'“Yes.”',speaker:'aya',before:'“Three-times output for around five minutes.”',after:'“Severe fatigue. Meridian damage. Recovery can take months. Repeated use is dangerous.”'},
   {chapter:404,quote:'“Yes.”',speaker:'aya',before:'None answered him.',after:'The boy looked away.'},
-
-  // Seasons 106–108
   {chapter:418,quote:'“Yes.”',speaker:'maedra',before:'Maedra’s expression changed.',after:'Luo followed her gaze.'},
   {chapter:429,quote:'“Yes.”',speaker:'sera',before:'“Internal damage.”',after:'“Dehydration.”'},
   {chapter:429,quote:'“Yes.”',speaker:'sera',before:'“Dehydration.”',after:'[[speaker:sera]]“You’ve been spending time with Luo.”'},
@@ -68,9 +61,6 @@ const standaloneMaps=[
   {chapter:439,quote:'“Good.”',speaker:'huo',before:'[[speaker:luweiran]]“No,” Lu said.',after:'Nobody woke Rhen.'}
 ];
 
-// Pronoun-attributed mixed paragraphs reviewed in their full scene. These are
-// explicit speech attributions once the pronoun antecedent is resolved; prose is
-// not rewritten, only a marker is prepended.
 const mixedManualMaps=[
   {chapter:306,paragraph:'“Faster again?” she asked.',speaker:'sera'},
   {chapter:312,paragraph:'“When it stops being pottery,” she said, “you tell me.”',speaker:'sera'},
@@ -92,8 +82,6 @@ for(const f of files){
   let paras=text.split(/\n{2,}/);
   let fileChanged=false;
 
-  // Explicit named attributions in the same mixed paragraph are factual. Ignore
-  // names occurring inside the spoken quotation itself and require one unique key.
   for(let i=0;i<paras.length;i++){
     const p=paras[i].trim();
     if(!p || /^\[\[speaker:[^\]]+\]\]/.test(p) || !p.includes('“') || !p.includes('”')) continue;
@@ -105,7 +93,6 @@ for(const f of files){
   }
   if(fileChanged) text=paras.join('\n\n');
 
-  // Manual mixed paragraphs. Match within the owning chapter and insist on one hit.
   for(const map of mixedManualMaps.filter(m=>new RegExp(`^## Chapter ${m.chapter} — `,'m').test(text))){
     const heads=[...text.matchAll(CHAPTER_RE)];
     const hIndex=heads.findIndex(h=>Number(h[1])===map.chapter);
@@ -119,7 +106,6 @@ for(const f of files){
     mixedManualAdded++; fileChanged=true;
   }
 
-  // Anchored standalone mappings. Recompute chapter offsets for every change.
   for(const map of standaloneMaps.filter(m=>new RegExp(`^## Chapter ${m.chapter} — `,'m').test(text))){
     const heads=[...text.matchAll(CHAPTER_RE)];
     const hIndex=heads.findIndex(h=>Number(h[1])===map.chapter);
@@ -138,8 +124,6 @@ for(const f of files){
   if(fileChanged) await writeFile(path,text);
 }
 
-// Mixed marked paragraphs keep narration normal-weight while each spoken segment
-// remains visually emphasized inside the character's dialogue card.
 const novelPath=resolve(root,'src/novel.ts');
 let novel=await readFile(novelPath,'utf8');
 const old=`function annotateDialogue(text: string, interactiveNames: boolean): string {\n  return String(text || '').split('\\n').map((line) => {\n    const match = line.match(/^\\[\\[speaker:([a-z0-9_]+)\\]\\](.*)$/);\n    if (!match) return line;\n    const speakerKey = match[1];\n    const key = colorKeyMap[speakerKey] || speakerKey;\n    const name = speakerName(speakerKey);\n    const entry = entryForSpeaker(speakerKey);\n    const speaker = characterMarkup(name, key, entry?.key, 'novel-speaker dialogue-speaker', interactiveNames);\n    return \`<span class="novel-dialogue dialogue-card character-\${key}">\${speaker}<b class="dialogue-quote">\${match[2]}</b></span>\`;\n  }).join('\\n');\n}`;
