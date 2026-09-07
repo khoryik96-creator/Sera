@@ -1,0 +1,44 @@
+name: Dialogue final residual batch
+
+on:
+  push:
+    branches:
+      - story/dialogue-audit-final-residuals-s95-s114
+    paths:
+      - scripts/apply-dialogue-final-residuals.mjs
+      - .github/workflows/dialogue-final-residuals.yml
+
+permissions:
+  contents: write
+
+jobs:
+  apply:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: story/dialogue-audit-final-residuals-s95-s114
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - name: Apply explicit residual mappings
+        run: node scripts/apply-dialogue-final-residuals.mjs
+      - name: Regenerate dialogue audit
+        run: npm run audit:dialogue
+      - name: Verify patch whitespace
+        run: git diff --check
+      - name: Commit regenerated batch
+        shell: bash
+        run: |
+          if git diff --quiet; then
+            echo "No dialogue changes to commit."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/prose docs/dialogue-audit
+          git commit -m "Audit dialogue speakers: final residual batch"
+          git push origin HEAD:story/dialogue-audit-final-residuals-s95-s114
