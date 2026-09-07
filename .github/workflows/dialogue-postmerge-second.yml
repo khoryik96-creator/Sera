@@ -23,6 +23,14 @@ jobs:
           node-version: 22
           cache: npm
       - run: npm ci
+      - name: Normalize one punctuation anchor in temporary script
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          p = Path('scripts/apply-dialogue-postmerge-second.mjs')
+          text = p.read_text()
+          p.write_text(text.replace('It’s too quiet', "It's too quiet"))
+          PY
       - name: Apply second reviewed mixed-dialogue pass
         run: node scripts/apply-dialogue-postmerge-second.mjs
       - name: Regenerate reader data and dialogue worklists
