@@ -5,10 +5,7 @@ on:
     branches:
       - story/dialogue-audit-final-residuals-s95-s114
     paths:
-      - scripts/apply-dialogue-final-residuals.mjs
-      - scripts/apply-dialogue-final-safe.mjs
-      - scripts/dialogue-context-anchors.mjs
-      - scripts/build-dialogue-audit.mjs
+      - scripts/update-dialogue-audit-readme.mjs
       - .github/workflows/dialogue-final-residuals.yml
 
 permissions:
@@ -27,23 +24,21 @@ jobs:
           node-version: 22
           cache: npm
       - run: npm ci
-      - name: Apply explicit residual mappings
-        run: node scripts/apply-dialogue-final-safe.mjs
-      - name: Apply context-anchored residual mappings
-        run: node scripts/dialogue-context-anchors.mjs
       - name: Regenerate dialogue audit
         run: npm run audit:dialogue
+      - name: Refresh README counts
+        run: node scripts/update-dialogue-audit-readme.mjs
       - name: Verify patch whitespace
         run: git diff --check
-      - name: Commit regenerated batch
+      - name: Commit refreshed audit docs
         shell: bash
         run: |
           if git diff --quiet; then
-            echo "No dialogue changes to commit."
+            echo "No audit doc changes to commit."
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add docs/prose docs/dialogue-audit
-          git commit -m "Audit dialogue speakers: context-anchored residuals"
+          git add docs/dialogue-audit
+          git commit -m "Refresh dialogue audit residual counts"
           git push origin HEAD:story/dialogue-audit-final-residuals-s95-s114
