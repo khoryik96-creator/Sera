@@ -189,9 +189,9 @@ Luo looked at him.
 
 Jin sighed.
 
-“Yes.”
+[[speaker:jin]]“Yes.”
 
-“Good.”
+[[speaker:luo]]“Good.”
 
 Arin arrived carrying a cracked helmet under one arm.
 
@@ -235,7 +235,7 @@ Luo said, “They will.”
 
 Jin looked at him.
 
-“Yes.”
+[[speaker:jin]]“Yes.”
 
 That was the point.
 
@@ -753,7 +753,7 @@ Assessment.
 
 Kael looked up.
 
-“No.”
+[[speaker:kael]]“No.”
 
 [[speaker:kai]]“You are.”
 
@@ -793,7 +793,7 @@ Sera looked at Kael.
 
 He glared.
 
-“Yes.”
+[[speaker:kael]]“Yes.”
 
 [[speaker:sera]]“Good.”
 
@@ -945,7 +945,7 @@ Kai laughed.
 
 Actually laughed.
 
-“Good.”
+[[speaker:kai]]“Good.”
 
 Kael, being treated twenty paces away, muttered:
 
@@ -1023,7 +1023,7 @@ From the medical line:
 
 Kai looked past Sera.
 
-“Good.”
+[[speaker:kai]]“Good.”
 
 Sera almost smiled.
 

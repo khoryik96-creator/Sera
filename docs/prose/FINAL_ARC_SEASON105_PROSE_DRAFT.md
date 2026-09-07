@@ -64,7 +64,7 @@ Jun corrected himself.
 
 [[speaker:jun]]“Stop.”
 
-“Yes.”
+[[speaker:aya]]“Yes.”
 
 He reached for the halberd resting beside the cot.
 
@@ -174,7 +174,7 @@ Formation.
 
 Aya stepped closer.
 
-“No.”
+[[speaker:aya]]“No.”
 
 The officer blinked.
 
@@ -978,7 +978,7 @@ All true.
 
 None answered him.
 
-“Yes.”
+[[speaker:aya]]“Yes.”
 
 The boy looked away.
 
@@ -1092,7 +1092,7 @@ A supply officer arrived.
 
 Aya looked at him.
 
-“Yes.”
+[[speaker:aya]]“Yes.”
 
 The officer’s jaw tightened.
 
@@ -1102,7 +1102,7 @@ Aya looked back at the nineteen-year-old soldier.
 
 His future had already been affected.
 
-“Good.”
+[[speaker:aya]]“Good.”
 
 That was the moment Aya stopped merely reducing harm quietly.
 
@@ -1116,7 +1116,7 @@ Luo Wen put six watches on Jin Seoryu’s table.
 
 Jin looked at them.
 
-“Why?”
+[[speaker:jin]]“Why?”
 
 [[speaker:luo]]“Because you keep saying five minutes as if war respects clocks.”
 

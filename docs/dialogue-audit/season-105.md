@@ -1,20 +1,12 @@
 # Season 105 — unattributed dialogue
 
-74 quoted lines in this season have no speaker.
+61 quoted lines in this season have no speaker.
 See `README.md` in this folder for what to do with them.
 
 Lines already resolved show their speaker in `[brackets]` for context.
 
 ### Chapter 401 — Jun Returns Before He Is Finished Healing
 
-```
-Aya looked at him.
-Jun corrected himself.
-[jun] “Stop.”
->>> “Yes.”   <-- WHO SAYS THIS?
-He reached for the halberd resting beside the cot.
-Aya’s hand closed around the shaft first.
-```
 ```
 Aya noticed immediately.
 [aya] “Where?”
@@ -72,16 +64,8 @@ The words landed badly.
 Not individual catastrophic necessity.
 ```
 ```
-Not selected breach response.
-Formation.
 Aya stepped closer.
->>> “No.”   <-- WHO SAYS THIS?
-The officer blinked.
-“Excuse me?”
-```
-```
-Aya stepped closer.
-“No.”
+[aya] “No.”
 The officer blinked.
 >>> “Excuse me?”   <-- WHO SAYS THIS?
 [aya] “No mass same-window 3× activation.”
@@ -401,14 +385,6 @@ The question had finally arrived. Aya could have explained.
 Could have told him she objected to higher dosing.
 ```
 ```
-That people were alive because she kept control of parts of the system.
-All true.
-None answered him.
->>> “Yes.”   <-- WHO SAYS THIS?
-The boy looked away.
-Aya felt his pulse break into anger.
-```
-```
 Aya felt his pulse break into anger.
 Good.
 He was entitled to it.
@@ -486,41 +462,15 @@ A supply officer arrived.
 [aya] “I can classify bodies medically unfit.”
 >>> “This many?”   <-- WHO SAYS THIS?
 Aya looked at him.
-“Yes.”
-```
-```
-[aya] “I can classify bodies medically unfit.”
-“This many?”
-Aya looked at him.
->>> “Yes.”   <-- WHO SAYS THIS?
-The officer’s jaw tightened.
-“This will affect battlefield readiness.”
+[aya] “Yes.”
 ```
 ```
 Aya looked at him.
-“Yes.”
+[aya] “Yes.”
 The officer’s jaw tightened.
 >>> “This will affect battlefield readiness.”   <-- WHO SAYS THIS?
 Aya looked back at the nineteen-year-old soldier.
 His future had already been affected.
-```
-```
-“This will affect battlefield readiness.”
-Aya looked back at the nineteen-year-old soldier.
-His future had already been affected.
->>> “Good.”   <-- WHO SAYS THIS?
-That was the moment Aya stopped merely reducing harm quietly.
-She began resisting the machine using the authority the machine had given her.
-```
-
-### Chapter 405 — Five Minutes
-
-```
-Luo Wen put six watches on Jin Seoryu’s table.
-Jin looked at them.
->>> “Why?”   <-- WHO SAYS THIS?
-[luo] “Because you keep saying five minutes as if war respects clocks.”
-[jin] “I do not.”
 ```
 
 ### Chapter 406 — The First Five-Minute Retreat
@@ -548,68 +498,6 @@ A nervous officer looked at Jin.
 >>> “Do we—”   <-- WHO SAYS THIS?
 [jin] “No.”
 Three minutes.
-```
-```
-[jin] “We won.”
-[luo] “You waited too long.”
-Jin sighed.
->>> “Yes.”   <-- WHO SAYS THIS?
-“Good.”
-Arin arrived carrying a cracked helmet under one arm.
-```
-```
-[luo] “You waited too long.”
-Jin sighed.
-“Yes.”
->>> “Good.”   <-- WHO SAYS THIS?
-Arin arrived carrying a cracked helmet under one arm.
-[arin] “Your retreat is insulting.”
-```
-```
-[jin] “Until they solve it.”
-Luo said, “They will.”
-Jin looked at him.
->>> “Yes.”   <-- WHO SAYS THIS?
-That was the point.
-War was not finding one clever answer and keeping it forever.
-```
-
-### Chapter 408 — Kael Learns What High Paragon Means
-
-```
-Assessment.
-[kai] “You’re done.”
-Kael looked up.
->>> “No.”   <-- WHO SAYS THIS?
-[kai] “You are.”
-[kael] “No.”
-```
-```
-Sera looked at Kael.
-[sera] “You learned?”
-He glared.
->>> “Yes.”   <-- WHO SAYS THIS?
-[sera] “Good.”
-Then she looked at Kai.
-```
-
-### Chapter 409 — Pale Orchid
-
-```
-Sera’s second strike hit his shoulder.
-Kai laughed.
-Actually laughed.
->>> “Good.”   <-- WHO SAYS THIS?
-Kael, being treated twenty paces away, muttered:
-[kael] “Stop encouraging people.”
-```
-```
-From the medical line:
-[kael] “I HEARD THAT.”
-Kai looked past Sera.
->>> “Good.”   <-- WHO SAYS THIS?
-Sera almost smiled.
-Then Kai’s expression became serious.
 ```
 
 ### Chapter 410 — The Second Wave Opens at Minute Four
