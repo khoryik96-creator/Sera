@@ -8,6 +8,7 @@ on:
       - scripts/apply-dialogue-final-residuals.mjs
       - scripts/apply-dialogue-final-safe.mjs
       - scripts/dialogue-context-anchors.mjs
+      - scripts/build-dialogue-audit.mjs
       - .github/workflows/dialogue-final-residuals.yml
 
 permissions:
