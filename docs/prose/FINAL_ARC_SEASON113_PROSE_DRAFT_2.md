@@ -162,7 +162,7 @@ Tsubasa noticed.
 
 Rhen looked at the chain network.
 
-“Yes.”
+[[speaker:rhen]]“Yes.”
 
 That answer irritated Tsubasa more than insult would have.
 
@@ -276,7 +276,7 @@ Lei stared.
 
 Then laughed once.
 
-“Fine.”
+[[speaker:lei]]“Fine.”
 
 The alliance withdrew again.
 
@@ -292,7 +292,7 @@ Tsubasa saw the movement through his peripheral awareness.
 
 Rhen looked past him.
 
-“Yes.”
+[[speaker:rhen]]“Yes.”
 
 [[speaker:tsubasa]]“You could stop them.”
 
@@ -302,7 +302,7 @@ Rhen looked past him.
 
 [[speaker:rhen]]“Yes.”
 
-“Why?”
+[[speaker:tsubasa]]“Why?”
 
 Rhen looked back at him.
 
@@ -586,11 +586,11 @@ Rhen noticed.
 
 Tsubasa wiped the blood away.
 
-“Yes.”
+[[speaker:tsubasa]]“Yes.”
 
 Rhen nodded.
 
-“Good.”
+[[speaker:rhen]]“Good.”
 
 Then he looked past him.
 
@@ -848,7 +848,7 @@ Rhen answered because there was no point hiding a rule already happening inside 
 
 [[speaker:tsubasa]]“Into that?”
 
-“Yes.”
+[[speaker:rhen]]“Yes.”
 
 Tsubasa looked at the petal.
 
@@ -1030,7 +1030,7 @@ Tsubasa laughed once.
 
 Rhen thought about it.
 
-“Yes.”
+[[speaker:rhen]]“Yes.”
 
 Tsubasa looked at fifty thousand petals across the sky.
 
@@ -1286,7 +1286,7 @@ Haru stared beside her.
 
 Aya looked at the field.
 
-“No.”
+[[speaker:aya]]“No.”
 
 She knew enough medicine to understand the terrifying part.
 
@@ -1304,7 +1304,7 @@ Tsubasa noticed.
 
 [[speaker:rhen]]“Yes.”
 
-“Why?”
+[[speaker:tsubasa]]“Why?”
 
 [[speaker:rhen]]“You're still fighting.”
 
@@ -1336,7 +1336,7 @@ Rhen sighed.
 
 Tsubasa settled into stance.
 
-“Yes.”
+[[speaker:tsubasa]]“Yes.”
 
 Rhen looked at the Winter Essence drifting between them.
 

@@ -96,7 +96,7 @@ Rhen looked at her hand.
 
 Then at her.
 
-“Yes.”
+[[speaker:rhen]]“Yes.”
 
 Aya waited. Rhen stopped where she stopped him.
 
@@ -160,7 +160,7 @@ Tsubasa leaned back against the broken anchor stone behind him.
 
 Rhen nodded.
 
-“Yes.”
+[[speaker:rhen]]“Yes.”
 
 The word reached farther than Rhen intended.
 
@@ -362,7 +362,7 @@ Rhen shrugged faintly.
 
 Tsubasa stared at him.
 
-“Why?”
+[[speaker:tsubasa]]“Why?”
 
 Rhen's answer was exactly what it had been before.
 
@@ -412,7 +412,7 @@ Tsubasa looked at her.
 
 Sera's expression softened.
 
-“No.”
+[[speaker:sera]]“No.”
 
 Then hardened again.
 
@@ -444,7 +444,7 @@ Rhen looked back at Tsubasa.
 
 [[speaker:tsubasa]]“Yes.”
 
-“Good.”
+[[speaker:rhen]]“Good.”
 
 Tsubasa's eyes narrowed.
 
@@ -1076,7 +1076,7 @@ Rhen answered.
 
 “Yes.”
 
-“What?”
+[[speaker:rui]]“What?”
 
 [[speaker:rhen]]“Tsubasa.”
 
@@ -1162,7 +1162,7 @@ Kael stood nearby, completely healed from Shunto's beating and visibly furious t
 
 Rhen looked at him.
 
-“I know.”
+[[speaker:rhen]]“I know.”
 
 [[speaker:kael]]“That sounded like 'stay here.'”
 

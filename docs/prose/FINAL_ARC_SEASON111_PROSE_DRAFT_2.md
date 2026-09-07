@@ -572,7 +572,7 @@ Shunto stared.
 
 Kael's mouth was full of blood.
 
-“Good.”
+[[speaker:kael]]“Good.”
 
 Another kick.
 
@@ -634,7 +634,7 @@ Blood ran from his mouth.
 
 Shunto glanced at him.
 
-“With what?”
+[[speaker:shunto]]“With what?”
 
 Kael's voice lost every trace of humor.
 
@@ -772,7 +772,7 @@ Shunto looked down again.
 
 Kael pulled himself up using Shunto's body.
 
-“Yes.”
+[[speaker:kael]]“Yes.”
 
 Shunto backhanded him with the hook guard.
 
@@ -1072,7 +1072,7 @@ Annoyance replaced surprise.
 
 Kael spat red into the road.
 
-“No.”
+[[speaker:kael]]“No.”
 
 [[speaker:shunto]]“Then why are you standing?”
 
@@ -1258,7 +1258,7 @@ Shunto smiled.
 
 Luo looked at the discarded needle.
 
-“Yes.”
+[[speaker:luo]]“Yes.”
 
 Shunto's smile faded.
 

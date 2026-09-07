@@ -728,7 +728,7 @@ Shunto had finally built a problem where recognizing the trap did not solve it.
 
 Yun smiled without humor.
 
-“Very good.”
+[[speaker:yun]]“Very good.”
 
 She took the open road.
 
@@ -864,7 +864,7 @@ That was worse.
 
 Yun turned to face him.
 
-“How would you know?”
+[[speaker:yun]]“How would you know?”
 
 [[speaker:shunto]]“Your movement changed.”
 
@@ -1056,7 +1056,7 @@ The cloud vanished around her.
 
 Yun stared at them.
 
-“You rehearsed this.”
+[[speaker:yun]]“You rehearsed this.”
 
 Shunto answered from beyond the clearing air.
 
@@ -1278,7 +1278,7 @@ Shunto said, “Captured alive.”
 
 Yun laughed weakly.
 
-“You sound pleased.”
+[[speaker:yun]]“You sound pleased.”
 
 [[speaker:shunto]]“I sound tired.”
 

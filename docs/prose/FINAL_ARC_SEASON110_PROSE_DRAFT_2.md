@@ -144,7 +144,7 @@ Then whispered, “Was that wise?”
 
 Aya kept writing.
 
-“No.”
+[[speaker:aya]]“No.”
 
 The clerk blinked.
 
@@ -294,7 +294,7 @@ Aya saw the unchanged doctrine beneath the amended language. Her jaw tightened.
 
 Tsubasa held her gaze.
 
-“Yes.”
+[[speaker:tsubasa]]“Yes.”
 
 Aya paused.
 
@@ -382,7 +382,7 @@ Shunto watched the tent flap fall shut.
 
 Aya turned on him.
 
-“No.”
+[[speaker:aya]]“No.”
 
 Her voice was quieter now.
 
@@ -422,7 +422,7 @@ At one bed, a nineteen-year-old soldier held the amended notice with both hands.
 
 Aya stopped.
 
-“Yes.”
+[[speaker:aya]]“Yes.”
 
 He looked at the sealed vial tied inside his emergency pouch.
 
@@ -442,7 +442,7 @@ The soldier looked at her.
 
 Aya's throat tightened.
 
-“Yes.”
+[[speaker:aya]]“Yes.”
 
 He stared for several breaths.
 
@@ -644,7 +644,7 @@ When they reached the assault, Lu stopped writing for the first time.
 
 Yurushi's eyes hardened.
 
-“Yes.”
+[[speaker:black_radiance]]“Yes.”
 
 [[speaker:luweiran]]“Or infer?”
 
@@ -830,7 +830,7 @@ Then:
 
 Rhen's hand tightened slightly at her shoulder.
 
-“Yes.”
+[[speaker:rhen]]“Yes.”
 
 [[speaker:sera]]“I hate that I have to.”
 
@@ -974,7 +974,7 @@ This was worse.
 
 Luo nodded once.
 
-“Good.”
+[[speaker:luo]]“Good.”
 
 Sera stepped closer.
 
@@ -992,7 +992,7 @@ Luo looked at her.
 
 Luo's eyes did not change.
 
-“I know.”
+[[speaker:luo]]“I know.”
 
 [[speaker:sera]]“Then say what you are thinking.”
 
@@ -1006,7 +1006,7 @@ Finally Luo looked toward the patient charts.
 
 Sera's chest loosened by one breath.
 
-“Yes.”
+[[speaker:sera]]“Yes.”
 
 [[speaker:luo]]“She would call it inefficient.”
 
@@ -1138,7 +1138,7 @@ Then he asked, “Did Rhen tell you to say that?”
 
 Sera's eyebrows rose.
 
-“No.”
+[[speaker:sera]]“No.”
 
 [[speaker:luo]]“He would.”
 
@@ -1152,7 +1152,7 @@ Sera stepped closer.
 
 Luo's gaze sharpened.
 
-“Sera.”
+[[speaker:luo]]“Sera.”
 
 [[speaker:sera]]“No.”
 
@@ -1280,7 +1280,7 @@ Despite everything, something almost wicked entered her eyes.
 
 Luo nodded.
 
-“Good.”
+[[speaker:luo]]“Good.”
 
 He returned to the hospital.
 

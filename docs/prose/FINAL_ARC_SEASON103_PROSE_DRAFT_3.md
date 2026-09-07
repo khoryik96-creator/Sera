@@ -427,7 +427,7 @@ One medic flinched.
 
 Aya did not.
 
-“Good.”
+[[speaker:aya]]“Good.”
 
 The medic stared.
 
@@ -729,7 +729,7 @@ Tsubasa looked up.
 
 [[speaker:tsubasa]]“Only six.”
 
-“Yes.”
+[[speaker:haru]]“Yes.”
 
 Their pre-war model had assumed Kael would either remain home or move a greater share of Stonecrown if Wuyue committed seriously.
 

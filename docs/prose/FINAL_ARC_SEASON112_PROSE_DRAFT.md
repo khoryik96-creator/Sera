@@ -118,7 +118,7 @@ Eirik's eyes sharpened slightly.
 
 Tsubasa looked back toward the secure ward.
 
-“Good.”
+[[speaker:tsubasa]]“Good.”
 
 He entered the pavilion.
 
@@ -428,7 +428,7 @@ Sera looked at him.
 
 Luo shook his head.
 
-“No.”
+[[speaker:luo]]“No.”
 
 [[speaker:sera]]“Even with Shunto alive?”
 
@@ -480,7 +480,7 @@ Eirik's eyes stayed on the Isgard clauses.
 
 Tsubasa looked at him.
 
-“Yes.”
+[[speaker:tsubasa]]“Yes.”
 
 Eirik did not look away.
 
@@ -844,7 +844,7 @@ Sera turned back.
 
 Tsubasa's expression softened by a fraction.
 
-“I know.”
+[[speaker:tsubasa]]“I know.”
 
 [[speaker:sera]]“Withdraw.”
 

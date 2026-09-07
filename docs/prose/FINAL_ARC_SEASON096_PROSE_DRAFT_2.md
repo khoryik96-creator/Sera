@@ -116,7 +116,7 @@ He drank it anyway.
 
 Yun’s answer came immediately.
 
-“No.”
+[[speaker:yun]]“No.”
 
 [[speaker:luo]]“I know the compound.”
 
@@ -162,7 +162,7 @@ Sera noticed Luo noticing it.
 
 Yun looked back at her.
 
-“Two weeks if the chain is clean. Three if I have to move slowly.”
+[[speaker:yun]]“Two weeks if the chain is clean. Three if I have to move slowly.”
 
 Lu said, “Route time alone is six to eight days each way depending on ship transfer.”
 
@@ -228,7 +228,7 @@ Lu added, “I can keep eyes on ports and shipping from this side.”
 
 Sera looked at Yun.
 
-“If you miss the three-week contact window, we treat it as a problem.”
+[[speaker:sera]]“If you miss the three-week contact window, we treat it as a problem.”
 
 [[speaker:yun]]“Understood.”
 
@@ -306,7 +306,7 @@ Ordinary things for an ordinary foreign medical trader.
 
 Luo stood in the doorway of their room and watched her fold a grey outer robe.
 
-“You forgot your knife.”
+[[speaker:luo]]“You forgot your knife.”
 
 [[speaker:yun]]“No, I didn’t.”
 
@@ -342,7 +342,7 @@ Luo hated every object in the room for making departure visible.
 
 Yun closed the case.
 
-“You’re thinking loudly.”
+[[speaker:yun]]“You’re thinking loudly.”
 
 [[speaker:luo]]“I am standing.”
 
@@ -368,7 +368,7 @@ Yun lifted one eyebrow.
 
 Luo stopped.
 
-“What?”
+[[speaker:luo]]“What?”
 
 [[speaker:yun]]“You were going to say come back.”
 
@@ -590,7 +590,7 @@ Disciplined spacing. Clean equipment. No swaggering at merchants. No demanding �
 
 Yun handed over the permit Lu had arranged.
 
-“Herbal extracts. Two sealed resins. Dried fever bark.”
+[[speaker:yun]]“Herbal extracts. Two sealed resins. Dried fever bark.”
 
 The soldier checked the document against a brass registry strip.
 
@@ -618,7 +618,7 @@ He returned the paper.
 
 Yun blinked.
 
-“Thank you.”
+[[speaker:yun]]“Thank you.”
 
 He had already moved to the next cart.
 
@@ -722,7 +722,7 @@ The woman wiped her hands on her apron.
 
 Yun looked at her.
 
-“What bridge?”
+[[speaker:yun]]“What bridge?”
 
 The question earned genuine surprise.
 
@@ -922,7 +922,7 @@ The clerk looked confused.
 
 Yun rested both palms on the counter.
 
-“What does the civil administration do?”
+[[speaker:yun]]“What does the civil administration do?”
 
 The clerk’s confusion deepened.
 

@@ -100,7 +100,7 @@ Luo reached into his sleeve.
 
 [[speaker:shunto]]“On me?”
 
-“Yes.”
+[[speaker:luo]]“Yes.”
 
 Shunto smiled.
 
@@ -246,7 +246,7 @@ Luo's mouth moved.
 
 For one impossible instant, Shunto thought he was smiling.
 
-“Yes.”
+[[speaker:luo]]“Yes.”
 
 A silver needle punched through the webbing of Shunto's thumb.
 
@@ -474,9 +474,9 @@ Luo watched the smile.
 
 Shunto flexed his fingers.
 
-“Yes.”
+[[speaker:shunto]]“Yes.”
 
-“Good.”
+[[speaker:luo]]“Good.”
 
 Shunto's smile faded.
 
@@ -814,7 +814,7 @@ He looked toward Luo.
 
 Luo ran toward them.
 
-“Yes.”
+[[speaker:luo]]“Yes.”
 
 [[speaker:kael]]“Good.”
 
@@ -1072,7 +1072,7 @@ Then back to Luo.
 
 [[speaker:shunto]]“You could let me die.”
 
-“Yes.”
+[[speaker:luo]]“Yes.”
 
 Shunto breathed shallowly.
 
@@ -1080,7 +1080,7 @@ Shunto breathed shallowly.
 
 Luo finally looked at him.
 
-“No.”
+[[speaker:luo]]“No.”
 
 Something like anger returned to Shunto's eyes.
 
@@ -1152,7 +1152,7 @@ Luo did not look up.
 
 “Doctor.”
 
-“What?”
+[[speaker:luo]]“What?”
 
 The air changed.
 
@@ -1258,7 +1258,7 @@ Luo exhaled.
 
 Rhen looked at him as if the question were obvious.
 
-“Yes.”
+[[speaker:rhen]]“Yes.”
 
 Luo nodded. Not today, but later.
 
@@ -1302,7 +1302,7 @@ Rhen stood.
 
 Rhen checked him from a distance with the Sanctuary's edge.
 
-“Yes.”
+[[speaker:rhen]]“Yes.”
 
 The Shinsei captain called again.
 
@@ -1364,11 +1364,11 @@ Rhen smiled faintly.
 
 Luo closed his eyes.
 
-“Yes.”
+[[speaker:luo]]“Yes.”
 
 Kael relaxed.
 
-“Good.”
+[[speaker:kael]]“Good.”
 
 Then, after a moment:
 

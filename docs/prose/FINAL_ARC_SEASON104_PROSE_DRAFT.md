@@ -456,7 +456,7 @@ Tae looked down at the torn cloth.
 
 Then at Haru.
 
-“Good.”
+[[speaker:tae]]“Good.”
 
 Haru did not appreciate the tone.
 
@@ -944,7 +944,7 @@ Haru saw it.
 
 Huo laughed.
 
-“No.”
+[[speaker:huo]]“No.”
 
 Then hit him.
 
@@ -1432,9 +1432,9 @@ He did not attack immediately.
 
 Haru’s jaw tightened.
 
-“Yes.”
+[[speaker:haru]]“Yes.”
 
-“Good.”
+[[speaker:qin]]“Good.”
 
 Hana looked at him.
 
@@ -1584,7 +1584,7 @@ Then Lu opened the first ledger.
 
 Tae’s humor vanished.
 
-“Yes.”
+[[speaker:tae]]“Yes.”
 
 [[speaker:luweiran]]“They now know.”
 

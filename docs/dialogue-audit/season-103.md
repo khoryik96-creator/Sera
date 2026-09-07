@@ -1,6 +1,6 @@
 # Season 103 — unattributed dialogue
 
-62 quoted lines in this season have no speaker.
+57 quoted lines in this season have no speaker.
 See `README.md` in this folder for what to do with them.
 
 Lines already resolved show their speaker in `[brackets]` for context.
@@ -90,14 +90,6 @@ Then bowed.
 Within fifteen minutes, grain was moving.
 Within thirty, warehouse four became a hospital.
 ```
-```
-Solveig pointed at the northern markers.
-[solveig] “This is what remains.”
-Sera stepped to the table.
->>> “No.”   <-- WHO SAYS THIS?
-Solveig frowned.
-Sera looked at the four of them.
-```
 
 ### Chapter 383 — Three Paragons in Beds
 
@@ -140,17 +132,6 @@ The physician gave a tired laugh.
 >>> “Everyone who was left.”   <-- WHO SAYS THIS?
 That answer followed her back to the command hall.
 Solveig had not left the table.
-```
-
-### Chapter 384 — Where Yun Died
-
-```
-[luo] “I’m going to kill him.”
-Sera did not answer immediately.
-Then:
->>> “No.”   <-- WHO SAYS THIS?
-Luo looked at her.
-[sera] “If a day comes when lethal force is necessary and I authorize it, that is different.”
 ```
 
 ### Chapter 385 — Jin Chooses One Beachhead
@@ -205,17 +186,6 @@ Kael glared.
 >>> “The fight is over.”   <-- WHO SAYS THIS?
 Kael considered that.
 [kael] “Annoyingly valid.”
-```
-
-### Chapter 387 — Kael Wins His First Paragon Fight
-
-```
-[luo] “Yes.”
-[kael] “My first Paragon fight.”
-[luo] “Yes.”
->>> “I won.”   <-- WHO SAYS THIS?
-Luo tied the bandage harder than necessary.
-Kael hissed.
 ```
 
 ### Chapter 388 — Wuyue Takes Prisoners
@@ -456,14 +426,6 @@ A medic raised one hand.
 The medic looked relieved.
 ```
 ```
-Jun coughed blood.
-One medic flinched.
-Aya did not.
->>> “Good.”   <-- WHO SAYS THIS?
-The medic stared.
-Aya looked at him.
-```
-```
 The medic stared.
 Aya looked at him.
 [aya] “It came out.”
@@ -518,15 +480,4 @@ Aya stopped moving for half a second.
 >>> “Report says yes.”   <-- WHO SAYS THIS?
 Jun stared at the ceiling.
 Aya looked down at his chart.
-```
-
-### Chapter 390 — Tsubasa Changes the Arithmetic
-
-```
-[haru] “Roughly six thousand Stonecrown.”
-Tsubasa looked up.
-[tsubasa] “Only six.”
->>> “Yes.”   <-- WHO SAYS THIS?
-Their pre-war model had assumed Kael would either remain home or move a greater share of Stonecrown if Wuyue committed seriously.
-Instead he had done both.
 ```

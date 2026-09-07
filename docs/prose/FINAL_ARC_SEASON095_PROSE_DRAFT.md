@@ -32,11 +32,11 @@ Two years later, Rhen stood beneath it with a ladder.
 
 Sera watched from the front step, arms folded.
 
-“No.”
+[[speaker:sera]]“No.”
 
 Rhen looked down.
 
-“I haven't done anything yet.”
+[[speaker:rhen]]“I haven't done anything yet.”
 
 [[speaker:sera]]“That is why I am saying no now.”
 
@@ -62,11 +62,11 @@ Huo's voice answered from farther away.
 
 Rhen looked back at Sera.
 
-“I could fix the sign before they destroy something expensive.”
+[[speaker:rhen]]“I could fix the sign before they destroy something expensive.”
 
 Sera's mouth twitched.
 
-“You say that like the sign is not the expensive thing you're about to destroy.”
+[[speaker:sera]]“You say that like the sign is not the expensive thing you're about to destroy.”
 
 [[speaker:rhen]]“It is wood.”
 
@@ -116,7 +116,7 @@ Rhen kept his hand where it was.
 
 Sera reached up, pushed the sign two fingers farther left, and climbed down.
 
-“There.”
+[[speaker:sera]]“There.”
 
 Rhen looked at the sign.
 
@@ -140,15 +140,15 @@ He did not need eyes to know what they were doing.
 
 Rhen took one cup.
 
-“She interfered.”
+[[speaker:rhen]]“She interfered.”
 
 Sera took the other.
 
-“He developed intentions.”
+[[speaker:sera]]“He developed intentions.”
 
 Qin's expression remained perfectly neutral.
 
-“I regret walking outside.”
+[[speaker:qin]]“I regret walking outside.”
 
 “You walked outside because you brought tea,” Sera said.
 
@@ -188,7 +188,7 @@ Lu called back, “I did not ask you.”
 
 Sera stepped past Qin.
 
-“Good morning, Lu.”
+[[speaker:sera]]“Good morning, Lu.”
 
 [[speaker:luweiran]]“It was.”
 
@@ -202,11 +202,11 @@ At the far counter, Yun Shizhen was stealing dried plum from a jar clearly label
 
 Luo Wen stood beside her with the expression of a physician watching a preventable medical event.
 
-“That is the fourth one.”
+[[speaker:luo]]“That is the fourth one.”
 
 Yun chewed.
 
-“You counted?”
+[[speaker:yun]]“You counted?”
 
 [[speaker:luo]]“Yes.”
 
@@ -218,7 +218,7 @@ Yun chewed.
 
 Luo looked at Sera as she approached.
 
-“She is impossible.”
+[[speaker:luo]]“She is impossible.”
 
 Yun reached for another plum.
 
@@ -236,7 +236,7 @@ She took the plum anyway.
 
 Sera leaned against the counter.
 
-“You two are blocking paying customers.”
+[[speaker:sera]]“You two are blocking paying customers.”
 
 “There are no paying customers here,” Luo said.
 
@@ -244,7 +244,7 @@ Sera leaned against the counter.
 
 Yun glanced around.
 
-“Rhen never charges injured people.”
+[[speaker:yun]]“Rhen never charges injured people.”
 
 [[speaker:sera]]“Rhen doesn't charge anyone properly.”
 
@@ -252,11 +252,11 @@ From the doorway, Rhen said, “I charge.”
 
 Lu appeared behind him with three ledgers under one arm.
 
-“No, you do not.”
+[[speaker:luweiran]]“No, you do not.”
 
 Rhen looked at him.
 
-“I have prices.”
+[[speaker:rhen]]“I have prices.”
 
 [[speaker:luweiran]]“You have numbers written on a board.”
 
@@ -268,7 +268,7 @@ Sera hid a smile in her cup.
 
 Lu noticed.
 
-“Do not encourage him.”
+[[speaker:luweiran]]“Do not encourage him.”
 
 [[speaker:sera]]“I married him. That ship left years ago.”
 
@@ -278,7 +278,7 @@ Shock had nothing to do with it. Huo had just entered through the side door carr
 
 Tae followed him.
 
-“You broke it.”
+[[speaker:tae]]“You broke it.”
 
 [[speaker:huo]]“I improved it.”
 
@@ -292,7 +292,7 @@ Tae followed him.
 
 Huo saw Sera.
 
-“Morning.”
+[[speaker:huo]]“Morning.”
 
 Then he saw Lu.
 
@@ -304,7 +304,7 @@ Huo slowly turned his body so the intact-looking side faced him.
 
 Lu's expression did not change.
 
-“Huo.”
+[[speaker:luweiran]]“Huo.”
 
 [[speaker:huo]]“Yes?”
 
@@ -322,7 +322,7 @@ Tae followed, visibly offended by the entire world.
 
 Qin sat at an empty table.
 
-“Very disciplined organization.”
+[[speaker:qin]]“Very disciplined organization.”
 
 Sera looked around the room.
 
@@ -356,7 +356,7 @@ The customer stared.
 
 Rhen stared back.
 
-“Too hot?”
+[[speaker:rhen]]“Too hot?”
 
 “No.”
 
@@ -390,7 +390,7 @@ Just enough that Huo, walking back through the side door without the broken post
 
 Tae walked into him.
 
-“What are you doing?”
+[[speaker:tae]]“What are you doing?”
 
 [[speaker:huo]]“Respecting privacy.”
 
@@ -414,11 +414,11 @@ His grey eyes stayed on her.
 
 Sera leaned closer.
 
-“You like difficult.”
+[[speaker:sera]]“You like difficult.”
 
 Rhen's mouth moved slightly.
 
-“Unfortunately.”
+[[speaker:rhen]]“Unfortunately.”
 
 She kicked his ankle.
 
@@ -486,7 +486,7 @@ Rhen's fingers brushed a loose strand of hair from her cheek.
 
 Sera caught his wrist.
 
-“You're about to ask me again.”
+[[speaker:sera]]“You're about to ask me again.”
 
 [[speaker:rhen]]“Yes.”
 
@@ -540,11 +540,11 @@ The Garden did not switch off every six months; Rhen simply refused to treat old
 
 Sera looked down at him.
 
-“Still yes.”
+[[speaker:sera]]“Still yes.”
 
 Rhen nodded.
 
-“That was easy.”
+[[speaker:rhen]]“That was easy.”
 
 [[speaker:sera]]“You woke me with ice.”
 
@@ -556,7 +556,7 @@ Rhen nodded.
 
 Sera paused.
 
-“What did he do?”
+[[speaker:sera]]“What did he do?”
 
 [[speaker:rhen]]“Unknown.”
 
@@ -592,13 +592,13 @@ The Garden simply refused to let damage and impurity steal pieces of what she ea
 
 Rhen closed his eyes for one breath.
 
-“Still comfortable?”
+[[speaker:rhen]]“Still comfortable?”
 
-“Yes.”
+[[speaker:sera]]“Yes.”
 
 [[speaker:rhen]]“Any pressure?”
 
-“No.”
+[[speaker:sera]]“No.”
 
 [[speaker:rhen]]“Sleep disturbance?”
 
@@ -616,21 +616,21 @@ He ignored that.
 
 Sera watched him for another moment.
 
-“You ask Lu too?”
+[[speaker:sera]]“You ask Lu too?”
 
-“Yes.”
+[[speaker:rhen]]“Yes.”
 
 [[speaker:sera]]“Huo?”
 
-“Yes.”
+[[speaker:rhen]]“Yes.”
 
 [[speaker:sera]]“Tae?”
 
-“Yes.”
+[[speaker:rhen]]“Yes.”
 
 [[speaker:sera]]“Qin?”
 
-“Yes.”
+[[speaker:rhen]]“Yes.”
 
 [[speaker:sera]]“And they all keep saying yes?”
 
@@ -638,15 +638,15 @@ Rhen nodded.
 
 Sera smiled.
 
-“What did Tae say?”
+[[speaker:sera]]“What did Tae say?”
 
 Rhen's expression went blank in the particular way that meant he was about to quote someone exactly.
 
-“He said, ‘If this is another excuse to tell me my meridians are asymmetrical, I will leave.’”
+[[speaker:rhen]]“He said, ‘If this is another excuse to tell me my meridians are asymmetrical, I will leave.’”
 
 Sera laughed.
 
-“And?”
+[[speaker:sera]]“And?”
 
 [[speaker:rhen]]“I told him his left shoulder still compensates three percent more than the right.”
 
@@ -654,7 +654,7 @@ She laughed harder.
 
 Rhen looked mildly offended.
 
-“It does.”
+[[speaker:rhen]]“It does.”
 
 [[speaker:sera]]“That is not the point.”
 
@@ -668,7 +668,7 @@ Lu.
 
 Sera looked toward it.
 
-“If that is a ledger, I am going back to bed.”
+[[speaker:sera]]“If that is a ledger, I am going back to bed.”
 
 [[speaker:rhen]]“It is morning.”
 
@@ -696,7 +696,7 @@ She looked at him.
 
 Sera sighed.
 
-“Which ones?”
+[[speaker:sera]]“Which ones?”
 
 [[speaker:luweiran]]“All ten.”
 
@@ -768,11 +768,11 @@ Lu answered immediately.
 
 Huo sounded disappointed.
 
-“Cowards.”
+[[speaker:huo]]“Cowards.”
 
 Sera looked at him.
 
-“You are not going to provoke bandits because you are bored.”
+[[speaker:sera]]“You are not going to provoke bandits because you are bored.”
 
 [[speaker:huo]]“I did not say that.”
 
@@ -782,7 +782,7 @@ Tae muttered, “He does most things loudly.”
 
 Huo looked at him.
 
-“Want to train?”
+[[speaker:huo]]“Want to train?”
 
 [[speaker:tae]]“No.”
 
@@ -792,7 +792,7 @@ Huo looked at him.
 
 Sera tapped the board.
 
-“Company Seven?”
+[[speaker:sera]]“Company Seven?”
 
 A captain stood.
 
@@ -806,7 +806,7 @@ A force that could flatten a lesser martial sect, discussing blankets and antibi
 
 Sera nodded.
 
-“Good.”
+[[speaker:sera]]“Good.”
 
 The captain sat.
 
@@ -848,11 +848,11 @@ Huo immediately tried to leave through the wrong door because it was closer to t
 
 Lu stopped him without looking up.
 
-“Training court.”
+[[speaker:luweiran]]“Training court.”
 
 Huo stopped.
 
-“How?”
+[[speaker:huo]]“How?”
 
 [[speaker:luweiran]]“I know you.”
 
@@ -892,11 +892,11 @@ She covered her mouth.
 
 Qin smiled faintly.
 
-“I heard Tae complaining.”
+[[speaker:qin]]“I heard Tae complaining.”
 
 Rhen leaned back.
 
-“This house is intolerable.”
+[[speaker:rhen]]“This house is intolerable.”
 
 Sera's hand found his beneath the table.
 
@@ -980,7 +980,7 @@ The swordswoman waited.
 
 Arin sighed.
 
-“Fine.”
+[[speaker:arin]]“Fine.”
 
 Six hundred eleven terrifying women immediately became extremely enthusiastic construction labor.
 
@@ -990,7 +990,7 @@ By afternoon, Rhen was standing on Silver Horizon's damaged wall with one hand a
 
 Sera stood below him.
 
-“You know they asked for resin.”
+[[speaker:sera]]“You know they asked for resin.”
 
 [[speaker:rhen]]“I brought resin.”
 
@@ -1004,7 +1004,7 @@ Sera stared.
 
 Rhen looked down.
 
-“That was moisture.”
+[[speaker:rhen]]“That was moisture.”
 
 [[speaker:sera]]“Of course.”
 
@@ -1038,7 +1038,7 @@ The courtyard behind them was full of rebuilding noise.
 
 Arin's gaze shifted toward the formation ground.
 
-“Fit for formation.”
+[[speaker:arin]]“Fit for formation.”
 
 [[speaker:sera]]“The others?”
 
@@ -1048,7 +1048,7 @@ Arin's gaze shifted toward the formation ground.
 
 Arin did not answer immediately.
 
-“Nine hundred three dead or missing.”
+[[speaker:arin]]“Nine hundred three dead or missing.”
 
 Sera nodded.
 
@@ -1062,7 +1062,7 @@ He had spent enough years around survivors to know that some grief became insult
 
 Arin looked at him.
 
-“You could probably put half the injured back into formation.”
+[[speaker:arin]]“You could probably put half the injured back into formation.”
 
 [[speaker:rhen]]“Yes.”
 
@@ -1078,7 +1078,7 @@ Arin watched him.
 
 Rhen wiped dust from his hand.
 
-“If someone asks me to repair damage, I repair it. If someone decided they are done, I do not heal that decision.”
+[[speaker:rhen]]“If someone asks me to repair damage, I repair it. If someone decided they are done, I do not heal that decision.”
 
 Arin's mouth tightened.
 
@@ -1120,11 +1120,11 @@ The defensive pact had become ordinary enough that northern reports now arrived 
 
 Sera broke the seal.
 
-“Epidemic numbers are down.”
+[[speaker:sera]]“Epidemic numbers are down.”
 
 Rhen glanced over.
 
-“Good.”
+[[speaker:rhen]]“Good.”
 
 [[speaker:sera]]“Coastal rebuilding behind schedule.”
 
@@ -1136,19 +1136,19 @@ Rhen glanced over.
 
 Sera snorted.
 
-“Maedra added a note.”
+[[speaker:sera]]“Maedra added a note.”
 
 Rhen looked interested.
 
-“What does it say?”
+[[speaker:rhen]]“What does it say?”
 
 Sera read it.
 
-“‘Tell the healer his northern tonic tastes like boiled boots.’”
+[[speaker:sera]]“‘Tell the healer his northern tonic tastes like boiled boots.’”
 
 Rhen looked offended.
 
-“It contains licorice.”
+[[speaker:sera]]“It contains licorice.”
 
 [[speaker:sera]]“That does not defend it.”
 
@@ -1222,7 +1222,7 @@ Rhen flexed his fingers once.
 
 Sera stepped closer.
 
-“What?”
+[[speaker:sera]]“What?”
 
 [[speaker:rhen]]“Nothing.”
 
@@ -1230,7 +1230,7 @@ She raised one eyebrow.
 
 Rhen corrected himself.
 
-“Something small.”
+[[speaker:rhen]]“Something small.”
 
 [[speaker:sera]]“What?”
 
@@ -1246,7 +1246,7 @@ Sera's expression changed.
 
 Rhen touched her wrist lightly.
 
-“Not dangerous.”
+[[speaker:rhen]]“Not dangerous.”
 
 [[speaker:sera]]“You do not get to use that tone.”
 
@@ -1284,11 +1284,11 @@ He squeezed her wrist gently.
 
 Sera narrowed her eyes.
 
-“Define immediately.”
+[[speaker:sera]]“Define immediately.”
 
 Rhen's mouth moved.
 
-“Before you ask.”
+[[speaker:rhen]]“Before you ask.”
 
 [[speaker:sera]]“Good.”
 
@@ -1318,7 +1318,7 @@ A door.
 
 Huo stared at it.
 
-“Why?”
+[[speaker:huo]]“Why?”
 
 The courier looked exhausted.
 
@@ -1326,7 +1326,7 @@ The courier looked exhausted.
 
 Huo nodded as though this were a complete and respectable explanation.
 
-“Good door.”
+[[speaker:huo]]“Good door.”
 
 “It was.”
 
@@ -1348,7 +1348,7 @@ Luo handed her his spare sandals.
 
 Yun looked at him.
 
-“You brought two pairs?”
+[[speaker:yun]]“You brought two pairs?”
 
 [[speaker:luo]]“I know you.”
 
@@ -1358,7 +1358,7 @@ The man on the door screamed.
 
 Rhen cut the bindings.
 
-“Inside.”
+[[speaker:rhen]]“Inside.”
 
 The courier caught his sleeve.
 
@@ -1376,7 +1376,7 @@ His cultivation foundation was there, but the circulation was so violently disto
 
 Rhen's gaze shifted to him.
 
-“How much stronger?”
+[[speaker:rhen]]“How much stronger?”
 
 The courier swallowed.
 
@@ -1384,7 +1384,7 @@ The courier swallowed.
 
 Sera's eyes narrowed.
 
-“Thought?”
+[[speaker:sera]]“Thought?”
 
 “He wasn't.”
 
@@ -1400,7 +1400,7 @@ He stopped.
 
 Huo leaned against the wall.
 
-“Faster?”
+[[speaker:huo]]“Faster?”
 
 “Three times, maybe. More. He hit like he had no reason to preserve himself. Ran through two spear lines. Broke a wagon axle with his shoulder.”
 
@@ -1476,7 +1476,7 @@ Luo's expression suggested he had several answers and had wisely chosen none.
 
 Sera moved to the courier.
 
-“Where did you capture him?”
+[[speaker:sera]]“Where did you capture him?”
 
 “Northwest Isgard. Trade road feeding the epidemic clinics.”
 
@@ -1496,13 +1496,13 @@ The courier blinked.
 
 Lu held out a hand.
 
-“Manifest.”
+[[speaker:luweiran]]“Manifest.”
 
 The man gave it to him.
 
 Rhen looked down at the patient again.
 
-“Hold him.”
+[[speaker:rhen]]“Hold him.”
 
 Huo stepped forward.
 
@@ -1510,7 +1510,7 @@ Luo said, “Not like that.”
 
 Huo paused.
 
-“How was I holding him?”
+[[speaker:huo]]“How was I holding him?”
 
 [[speaker:luo]]“You were about to use one hand.”
 
@@ -1556,15 +1556,15 @@ More output through the same vessel.
 
 Rhen withdrew his hand.
 
-“He did not become Duke.”
+[[speaker:rhen]]“He did not become Duke.”
 
 Tae nodded.
 
-“Obviously.”
+[[speaker:tae]]“Obviously.”
 
 Huo looked at him.
 
-“You were not here when they said it.”
+[[speaker:huo]]“You were not here when they said it.”
 
 [[speaker:tae]]“I have ears.”
 
@@ -1586,19 +1586,19 @@ She had lifted the stained collar toward the lamp without touching the residue.
 
 Yun's eyes sharpened.
 
-“Chemical.”
+[[speaker:yun]]“Chemical.”
 
 [[speaker:rhen]]“Probably.”
 
 Luo leaned over the sample.
 
-“Circulatory stimulant?”
+[[speaker:luo]]“Circulatory stimulant?”
 
 [[speaker:rhen]]“Not ordinary.”
 
 Yun smiled without humor.
 
-“Ordinary medicine does not ask a body to tear itself apart for five good minutes.”
+[[speaker:yun]]“Ordinary medicine does not ask a body to tear itself apart for five good minutes.”
 
 The patient coughed.
 
@@ -1620,13 +1620,13 @@ Then Rhen stopped.
 
 Luo looked at him.
 
-“You missed three tears.”
+[[speaker:luo]]“You missed three tears.”
 
 [[speaker:rhen]]“No.”
 
 Rhen touched the patient's wrist.
 
-“I left them because I want you to see the pattern before I erase it.”
+[[speaker:rhen]]“I left them because I want you to see the pattern before I erase it.”
 
 Luo's irritation vanished.
 
@@ -1648,15 +1648,15 @@ Luo spoke first.
 
 Yun nodded.
 
-“Something prevented the crash from arriving when it should have.”
+[[speaker:yun]]“Something prevented the crash from arriving when it should have.”
 
 Sera looked between them.
 
-“Meaning?”
+[[speaker:sera]]“Meaning?”
 
 Yun pointed to the patient's arm.
 
-“The body tried to stop.”
+[[speaker:yun]]“The body tried to stop.”
 
 Then to another tear near the shoulder.
 
@@ -1668,7 +1668,7 @@ Then the third.
 
 Luo's face had gone still.
 
-“This was designed.”
+[[speaker:luo]]“This was designed.”
 
 [[speaker:yun]]“Obviously.”
 
@@ -1676,7 +1676,7 @@ Luo's face had gone still.
 
 Yun looked at him.
 
-“Yes.”
+[[speaker:yun]]“Yes.”
 
 That answer changed the room.
 
@@ -1692,11 +1692,11 @@ Enough to make it sophisticated.
 
 Lu turned one page of the manifest.
 
-“Three crates passed through registered medical distributors before the route went dark.”
+[[speaker:luweiran]]“Three crates passed through registered medical distributors before the route went dark.”
 
 Sera looked at him.
 
-“In Isgard?”
+[[speaker:sera]]“In Isgard?”
 
 [[speaker:luweiran]]“Originally, no.”
 
@@ -1704,7 +1704,7 @@ Sera looked at him.
 
 Lu tapped a small notation written beside a shipping code.
 
-“Still tracing it.”
+[[speaker:luweiran]]“Still tracing it.”
 
 The patient groaned.
 
@@ -1728,13 +1728,13 @@ Recognition arrived too late.
 
 Huo smiled.
 
-“Hi.”
+[[speaker:huo]]“Hi.”
 
 The patient stopped struggling.
 
 Sera stepped closer.
 
-“What did you take?”
+[[speaker:sera]]“What did you take?”
 
 The man looked at her.
 
@@ -1746,7 +1746,7 @@ That did not help him.
 
 Yun watched his pupils.
 
-“Lie.”
+[[speaker:yun]]“Lie.”
 
 “I don't know what it was.”
 
@@ -1758,7 +1758,7 @@ He swallowed.
 
 Luo's eyes hardened.
 
-“For five minutes?”
+[[speaker:luo]]“For five minutes?”
 
 The man's breathing changed.
 
@@ -1796,15 +1796,15 @@ Just more violence forced through the same human vessel.
 
 Sera looked at the sealed sample.
 
-“Find out what it is.”
+[[speaker:sera]]“Find out what it is.”
 
 Yun smiled faintly.
 
-“That part sounds fun.”
+[[speaker:yun]]“That part sounds fun.”
 
 Luo looked at her.
 
-“No.”
+[[speaker:luo]]“No.”
 
 She looked back.
 

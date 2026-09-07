@@ -746,7 +746,7 @@ Kenji watched her go.
 
 Eirik looked at him.
 
-“No.”
+[[speaker:eirik]]“No.”
 
 [[speaker:kenji]]“Respect?”
 
@@ -1038,7 +1038,7 @@ Aldric's did.
 
 Eirik looked toward the broken-circle banner.
 
-“Yes.”
+[[speaker:eirik]]“Yes.”
 
 [[speaker:aldric]]“Why?”
 
@@ -1094,7 +1094,7 @@ Aldric stepped forward one pace.
 
 Eirik did not deny it.
 
-“No.”
+[[speaker:eirik]]“No.”
 
 That surprised people.
 
@@ -1226,7 +1226,7 @@ Yet.
 
 Aldric's spear settled into both hands.
 
-“No.”
+[[speaker:aldric]]“No.”
 
 One syllable.
 

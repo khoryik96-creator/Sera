@@ -36,7 +36,7 @@ Then at the door.
 
 Sera nodded.
 
-“Yes.”
+[[speaker:sera]]“Yes.”
 
 He looked surprised.
 
@@ -52,7 +52,7 @@ Dae frowned.
 
 “That feels like a trap.”
 
-“It is not.”
+[[speaker:sera]]“It is not.”
 
 “People said the Pale Orchid was terrifying.”
 
@@ -66,7 +66,7 @@ Dae did not.
 
 Sera rested both hands on her knees.
 
-“You came here because Lu found your name on a purchase ledger and you agreed to be examined. That does not make you a prisoner.”
+[[speaker:sera]]“You came here because Lu found your name on a purchase ledger and you agreed to be examined. That does not make you a prisoner.”
 
 Dae's fingers tightened around the cup.
 
@@ -80,11 +80,11 @@ Dae glanced at him.
 
 “That sounded suspiciously precise.”
 
-“It is.”
+[[speaker:luweiran]]“It is.”
 
 “Am I in trouble?”
 
-“Possibly with your wife.”
+[[speaker:luweiran]]“Possibly with your wife.”
 
 Dae closed his eyes.
 
@@ -96,19 +96,19 @@ Dae closed his eyes.
 
 Lu finally looked up.
 
-“But if you die because you bought secret miracle strength from a man at the docks, I assume she will become informed.”
+[[speaker:luweiran]]“But if you die because you bought secret miracle strength from a man at the docks, I assume she will become informed.”
 
 Dae looked stricken.
 
 Sera rubbed her forehead.
 
-“Lu.”
+[[speaker:sera]]“Lu.”
 
 “What?”
 
-“Less helpful.”
+[[speaker:sera]]“Less helpful.”
 
-“I was motivating honesty.”
+[[speaker:luweiran]]“I was motivating honesty.”
 
 Rhen said, “It worked.”
 
@@ -124,11 +124,11 @@ The room settled.
 
 Luo stepped closer.
 
-“What did they tell you it did?”
+[[speaker:luo]]“What did they tell you it did?”
 
 “Opened the meridians. Increased circulation. Made your body use everything at once.”
 
-“Did they say it raised cultivation?”
+[[speaker:luo]]“Did they say it raised cultivation?”
 
 Dae hesitated.
 
@@ -136,7 +136,7 @@ Dae hesitated.
 
 Yun's mouth flattened.
 
-“Careful wording.”
+[[speaker:yun]]“Careful wording.”
 
 Dae nodded.
 
@@ -166,7 +166,7 @@ Dae looked at her.
 
 “Yes.”
 
-“Did it work?”
+[[speaker:yun]]“Did it work?”
 
 His expression changed.
 
@@ -198,13 +198,13 @@ Disarmed another before the man understood he had moved.
 
 Luo's eyes stayed on him.
 
-“And then?”
+[[speaker:luo]]“And then?”
 
 “My left hand stopped closing.”
 
 Yun sat straighter.
 
-“During the effect?”
+[[speaker:yun]]“During the effect?”
 
 “Yes.”
 
@@ -284,7 +284,7 @@ Dae looked from Luo to Rhen.
 
 Rhen stepped away from the wall.
 
-“May I?”
+[[speaker:rhen]]“May I?”
 
 Dae held out his wrist.
 
@@ -306,21 +306,21 @@ Still there.
 
 Rhen withdrew his hand.
 
-“When did you take it?”
+[[speaker:rhen]]“When did you take it?”
 
 “Four months ago.”
 
-“Any second dose?”
+[[speaker:rhen]]“Any second dose?”
 
 “No.”
 
-“Any other stimulants?”
+[[speaker:rhen]]“Any other stimulants?”
 
 “No.”
 
 Rhen looked at Luo.
 
-“The absence remains.”
+[[speaker:rhen]]“The absence remains.”
 
 Dae went pale.
 
@@ -328,21 +328,21 @@ Dae went pale.
 
 Sera intervened before fear filled the gap with something worse.
 
-“We do not know exactly yet.”
+[[speaker:sera]]“We do not know exactly yet.”
 
 “That sounds bad.”
 
-“It is why we are asking.”
+[[speaker:sera]]“It is why we are asking.”
 
 Yun slid off the cabinet.
 
-“What did the broker ask before selling it?”
+[[speaker:yun]]“What did the broker ask before selling it?”
 
 Dae frowned.
 
 “Money.”
 
-“Besides money.”
+[[speaker:yun]]“Besides money.”
 
 “Weight.”
 
@@ -354,19 +354,19 @@ Dae noticed.
 
 Yun stepped closer.
 
-“Exact wording.”
+[[speaker:yun]]“Exact wording.”
 
 “He asked how much I weighed.”
 
-“Height?”
+[[speaker:yun]]“Height?”
 
 “Yes.”
 
-“Age?”
+[[speaker:yun]]“Age?”
 
 “Yes.”
 
-“Resting pulse?”
+[[speaker:yun]]“Resting pulse?”
 
 Dae blinked.
 
@@ -374,17 +374,17 @@ Dae blinked.
 
 Luo's face changed.
 
-“Where?”
+[[speaker:luo]]“Where?”
 
 “Wrist.”
 
-“What else?”
+[[speaker:luo]]“What else?”
 
 “He asked if I had heart weakness. If my father died young. If I had ever coughed blood after cultivation. If I used fire qi.”
 
 Yun looked at Luo.
 
-“That is screening.”
+[[speaker:yun]]“That is screening.”
 
 Luo nodded once.
 
@@ -404,31 +404,31 @@ Dae's face lost color.
 
 Sera glanced at Lu.
 
-“Do we have the broker?”
+[[speaker:sera]]“Do we have the broker?”
 
-“Under observation.”
+[[speaker:luweiran]]“Under observation.”
 
-“Do not move yet.”
+[[speaker:sera]]“Do not move yet.”
 
-“I was not going to.”
+[[speaker:luweiran]]“I was not going to.”
 
 Dae looked confused.
 
 “You know who sold it?”
 
-“We know which company touched your purchase.”
+[[speaker:luweiran]]“We know which company touched your purchase.”
 
 “Then arrest him.”
 
 Lu's tone stayed calm.
 
-“If we arrest the middle of a chain, the beginning disappears.”
+[[speaker:luweiran]]“If we arrest the middle of a chain, the beginning disappears.”
 
 Dae looked down.
 
 “I could identify him.”
 
-“That helps.”
+[[speaker:luweiran]]“That helps.”
 
 Yun asked, “Did the ampoule have writing?”
 
@@ -436,13 +436,13 @@ Dae frowned.
 
 “Not writing I could read.”
 
-“What kind?”
+[[speaker:yun]]“What kind?”
 
 “Small marks near the base.”
 
 Lu slid a blank page toward him.
 
-“Draw them.”
+[[speaker:luweiran]]“Draw them.”
 
 Dae took the charcoal.
 
@@ -454,15 +454,15 @@ By the fourth, three marks appeared repeatedly.
 
 Yun looked at them.
 
-“Not Wuyue script.”
+[[speaker:yun]]“Not Wuyue script.”
 
 Luo leaned over her shoulder.
 
-“Not Isgard either.”
+[[speaker:luo]]“Not Isgard either.”
 
 Lu took the page.
 
-“Merchant shorthand?”
+[[speaker:luweiran]]“Merchant shorthand?”
 
 “Maybe.”
 
@@ -476,11 +476,11 @@ Everyone looked at him again.
 
 “Different colors. Different weights.”
 
-“How many?”
+[[speaker:luo]]“How many?”
 
 “I don't know. Rows.”
 
-“Did he choose your ampoule from the chart?”
+[[speaker:luo]]“Did he choose your ampoule from the chart?”
 
 “Yes.”
 
@@ -504,21 +504,21 @@ Somewhere, someone had standardized the act of asking a cultivator's body how mu
 
 Sera stood.
 
-“Dae.”
+[[speaker:sera]]“Dae.”
 
 He looked at her.
 
-“You are staying tonight.”
+[[speaker:sera]]“You are staying tonight.”
 
 He stiffened.
 
 “Prisoner?”
 
-“Patient.”
+[[speaker:sera]]“Patient.”
 
 His shoulders loosened.
 
-“Rhen is going to repair what he can. Luo and Yun will run tests. You can leave tomorrow if you want.”
+[[speaker:sera]]“Rhen is going to repair what he can. Luo and Yun will run tests. You can leave tomorrow if you want.”
 
 Dae nodded.
 
@@ -528,7 +528,7 @@ Then looked at Rhen.
 
 Rhen did not lie.
 
-“I do not know.”
+[[speaker:rhen]]“I do not know.”
 
 Dae absorbed that.
 
@@ -544,7 +544,7 @@ Dae stared at the cup.
 
 Rhen looked at him.
 
-“People say many things.”
+[[speaker:rhen]]“People say many things.”
 
 Dae took a careful sip.
 
@@ -552,7 +552,7 @@ Dae took a careful sip.
 
 Rhen considered.
 
-“No.”
+[[speaker:rhen]]“No.”
 
 Sera covered a smile.
 
@@ -562,7 +562,7 @@ Luo muttered, “There it is.”
 
 Rhen looked at all of them.
 
-“What?”
+[[speaker:rhen]]“What?”
 
 Nobody answered.
 
@@ -612,7 +612,7 @@ He closed his eyes.
 
 Sera looked at him.
 
-“I gave them one instruction.”
+[[speaker:luweiran]]“I gave them one instruction.”
 
 [[speaker:sera]]“Do not spook him?”
 
@@ -662,13 +662,13 @@ Sera stopped.
 
 Rui nodded.
 
-“Reasonable.”
+[[speaker:rui]]“Reasonable.”
 
 Then three men with hooked blades emerged from an alley ahead of the broker.
 
 Lu's expression changed.
 
-“Not ours.”
+[[speaker:luweiran]]“Not ours.”
 
 The broker saw them too.
 
@@ -678,7 +678,7 @@ Two more appeared behind him.
 
 Sera's eyes narrowed.
 
-“They are not extracting him.”
+[[speaker:sera]]“They are not extracting him.”
 
 “No,” Rui said.
 
@@ -708,7 +708,7 @@ Rui stopped breathing for one beat.
 
 Sera noticed.
 
-“You know him.”
+[[speaker:sera]]“You know him.”
 
 The masked man moved.
 
@@ -748,7 +748,7 @@ Rui's expression had gone very still.
 
 Sera looked at him.
 
-“Definitely know him.”
+[[speaker:sera]]“Definitely know him.”
 
 Rui did not answer.
 
@@ -806,7 +806,7 @@ Lu said, “Interesting.”
 
 Sera looked at him.
 
-“You say that when you are about to become annoying.”
+[[speaker:sera]]“You say that when you are about to become annoying.”
 
 [[speaker:luweiran]]“He left one.”
 
@@ -822,7 +822,7 @@ Of course he had.
 
 Sera stepped into the street.
 
-“Xie Wuchen.”
+[[speaker:sera]]“Xie Wuchen.”
 
 The masked man froze.
 
@@ -830,13 +830,13 @@ The name was right. That was why he froze.
 
 Rui looked at Sera.
 
-“You know his name?”
+[[speaker:rui]]“You know his name?”
 
 [[speaker:sera]]“Lu does.”
 
 Lu looked offended.
 
-“I know everyone's name.”
+[[speaker:luweiran]]“I know everyone's name.”
 
 The masked man turned fully.
 
@@ -998,7 +998,7 @@ Rui continued.
 
 Xie's face lost its lightness.
 
-“Yes.”
+[[speaker:xie_wuchen]]“Yes.”
 
 Rui nodded.
 
@@ -1058,7 +1058,7 @@ Sera turned to him.
 
 Rui closed his eyes.
 
-“Do not.”
+[[speaker:rui]]“Do not.”
 
 [[speaker:sera]]“How badly?”
 
@@ -1076,7 +1076,7 @@ Rui looked at him.
 
 Lu looked up.
 
-“I know everyone's name.”
+[[speaker:luweiran]]“I know everyone's name.”
 
 Rui stared.
 
@@ -1550,7 +1550,7 @@ A dangerous one.
 
 Yun looked down at the word.
 
-“Axtaya.”
+[[speaker:yun]]“Axtaya.”
 
 Luo watched her.
 
@@ -1564,7 +1564,7 @@ Lu closed the ledger.
 
 Sera looked at the route mark beneath it.
 
-“Shinrin.”
+[[speaker:sera]]“Shinrin.”
 
 The word meant almost nothing to her.
 

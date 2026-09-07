@@ -96,7 +96,7 @@ Rhen glanced back.
 
 That made her smile faintly.
 
-“No.”
+[[speaker:sera]]“No.”
 
 [[speaker:rhen]]“I thought so.”
 
@@ -110,7 +110,7 @@ Sera turned the cup between her hands.
 
 Rhen paused.
 
-“Yes.”
+[[speaker:rhen]]“Yes.”
 
 The pause was calculation, not uncertainty. Sera saw it.
 
@@ -130,7 +130,7 @@ Sera narrowed her eyes.
 
 [[speaker:sera]]“Rhen.”
 
-“Yes.”
+[[speaker:rhen]]“Yes.”
 
 [[speaker:sera]]“Do not do that.”
 
@@ -186,7 +186,7 @@ No hidden sigh.
 
 Just:
 
-“Okay.”
+[[speaker:rhen]]“Okay.”
 
 Sera watched him.
 
@@ -276,7 +276,7 @@ Then back up.
 
 Sera's eyes narrowed.
 
-“No.”
+[[speaker:sera]]“No.”
 
 [[speaker:rhen]]“Not because you're angry at being compared to me?”
 
@@ -428,7 +428,7 @@ Aya stared at him.
 
 Tsubasa's jaw tightened.
 
-“Yes.”
+[[speaker:tsubasa]]“Yes.”
 
 At least he did not lie.
 
@@ -518,7 +518,7 @@ Sera smiled faintly.
 
 Tsubasa paused.
 
-“No.”
+[[speaker:tsubasa]]“No.”
 
 [[speaker:sera]]“Good answer.”
 
@@ -554,7 +554,7 @@ Tsubasa looked at her.
 
 Sera rolled one shoulder.
 
-“Good.”
+[[speaker:sera]]“Good.”
 
 He touched the chain.
 
@@ -770,7 +770,7 @@ On the ridge, Shen Rui breathed out.
 
 Lei Zhen's eyes stayed fixed on the basin.
 
-“No.”
+[[speaker:lei]]“No.”
 
 Rui glanced at him.
 
@@ -1002,7 +1002,7 @@ Jin stopped pretending he understood every exchange.
 
 Kael's eyes remained on the basin.
 
-“Yes.”
+[[speaker:kael]]“Yes.”
 
 Jin looked at him.
 

@@ -510,7 +510,7 @@ A former clan fighter drinking rice liquor behind a stable.
 
 Yun sat beside him because he had mistaken her for a travelling apothecary.
 
-“He sounds unpleasant.”
+[[speaker:yun]]“He sounds unpleasant.”
 
 “He is efficient.”
 
@@ -520,7 +520,7 @@ The old man laughed.
 
 Yun poured another cup.
 
-“And First Seat?”
+[[speaker:yun]]“And First Seat?”
 
 The man’s expression changed.
 
@@ -792,13 +792,13 @@ The landlord.
 
 Yun closed the notebook.
 
-“Yes?”
+[[speaker:yun]]“Yes?”
 
 “Your husband has become worse.”
 
 Yun looked toward the ceiling.
 
-“What did he do now?”
+[[speaker:yun]]“What did he do now?”
 
 “Nothing. That is the problem. Three months and no letter.”
 
@@ -1016,7 +1016,7 @@ The tea was still hot.
 
 Sera folded her arms.
 
-“You are showing off badly.”
+[[speaker:sera]]“You are showing off badly.”
 
 [[speaker:rhen]]“I was not showing off.”
 
@@ -1038,7 +1038,7 @@ This was not that.
 
 Rhen glanced toward the wall.
 
-“Annoying.”
+[[speaker:rhen]]“Annoying.”
 
 [[speaker:sera]]“That is not a measurement.”
 
@@ -1052,7 +1052,7 @@ Sera waited.
 
 Rhen rested two fingers against his sternum.
 
-“My reserve keeps returning faster than I spend it.”
+[[speaker:rhen]]“My reserve keeps returning faster than I spend it.”
 
 [[speaker:sera]]“That sounds like something Tae would call a problem to get punched for.”
 
@@ -1072,7 +1072,7 @@ The answer removed the humor.
 
 Sera sat opposite him.
 
-“How continuous?”
+[[speaker:sera]]“How continuous?”
 
 [[speaker:rhen]]“If I stop paying attention, things freeze.”
 
@@ -1106,7 +1106,7 @@ Sera’s eyes narrowed.
 
 Rhen almost smiled.
 
-“Comforting?”
+[[speaker:rhen]]“Comforting?”
 
 [[speaker:sera]]“No.”
 
@@ -1140,7 +1140,7 @@ Rhen did not answer quickly enough.
 
 Sera leaned back.
 
-“Wonderful.”
+[[speaker:sera]]“Wonderful.”
 
 [[speaker:rhen]]“I have not decided to do it.”
 
@@ -1160,7 +1160,7 @@ She continued.
 
 Rhen looked at the thawed pot.
 
-“I can still pour tea.”
+[[speaker:rhen]]“I can still pour tea.”
 
 [[speaker:sera]]“That was not the point.”
 

@@ -1,6 +1,6 @@
 # Season 108 — unattributed dialogue
 
-30 quoted lines in this season have no speaker.
+21 quoted lines in this season have no speaker.
 See `README.md` in this folder for what to do with them.
 
 Lines already resolved show their speaker in `[brackets]` for context.
@@ -44,24 +44,8 @@ Aldric looked at him.
 “My lord—”
 [aldric] “We purchase what can be purchased, borrow against the Wuyue shipment, and cut military issue before taking seed grain.”
 >>> “That reduces readiness.”   <-- WHO SAYS THIS?
-“Yes.”
+[aldric] “Yes.”
 The word landed harder than a heroic speech.
-```
-```
-“My lord—”
-[aldric] “We purchase what can be purchased, borrow against the Wuyue shipment, and cut military issue before taking seed grain.”
-“That reduces readiness.”
->>> “Yes.”   <-- WHO SAYS THIS?
-The word landed harder than a heroic speech.
-Aldric continued. “A government that saves its army by ensuring nobody can plant after the war has defended a uniform, not a country.”
-```
-```
-Eirik understood what that meant. Every functioning day weakened the strongest part of his political argument: that only imposed order could save the north from itself.
-Near sunset, Solveig placed the morning’s three denied petitions back on Aldric’s desk.
-[solveig] “Keep them.”
->>> “Why?”   <-- WHO SAYS THIS?
-[solveig] “Because when this is over, somebody will claim emergency command worked because everyone agreed.”
-Aldric looked around the hall.
 ```
 
 ### Chapter 436 — The Soldiers Learn What Five Years Means
@@ -86,16 +70,8 @@ The medic stared at him as though the approximation were the offensive part.
 “That is absurd.”
 [luo] “Yes.”
 >>> “I mean your claim.”   <-- WHO SAYS THIS?
-“I know.”
+[luo] “I know.”
 They were standing in one of the prisoner-treatment tents behind the eastern allied line. Wuyue cloth had been tied over an old Isgard frame. Shinsei wounded lay beneath it beside Wuyue wounded because Sera had refused to build a medical system that became less medical when the patient wore the wrong insignia.
-```
-```
-“That is absurd.”
-[luo] “Yes.”
-“I mean your claim.”
->>> “I know.”   <-- WHO SAYS THIS?
-They were standing in one of the prisoner-treatment tents behind the eastern allied line. Wuyue cloth had been tied over an old Isgard frame. Shinsei wounded lay beneath it beside Wuyue wounded because Sera had refused to build a medical system that became less medical when the patient wore the wrong insignia.
-The medic had expected interrogation.
 ```
 ```
 [luo] “Check him.”
@@ -127,20 +103,12 @@ Luo crouched opposite him.
 The patient stared at both physicians.
 >>> “They told us recovery could take months.”   <-- WHO SAYS THIS?
 Luo’s jaw tightened.
-“I know.”
-```
-```
-The patient stared at both physicians.
-“They told us recovery could take months.”
-Luo’s jaw tightened.
->>> “I know.”   <-- WHO SAYS THIS?
-“How?”
-[luo] “Because we found the same language in captured issue material.”
+[luo] “I know.”
 ```
 ```
 “They told us recovery could take months.”
 Luo’s jaw tightened.
-“I know.”
+[luo] “I know.”
 >>> “How?”   <-- WHO SAYS THIS?
 [luo] “Because we found the same language in captured issue material.”
 The Shinsei medic looked away.
@@ -186,41 +154,6 @@ Luo looked at him.
 The medic’s face hardened.
 ```
 
-### Chapter 437 — Tsubasa Has Still Not Entered the Field
-
-```
-[kael] “So he is fresh.”
-[jin] “Relative to the forward Paragons,” Jin said. “Yes.”
-[kael] “Peak Paragon.”
->>> “Yes.”   <-- WHO SAYS THIS?
-[kael] “Has not spent six months being punched by Wuyue and Isgard.”
-“Yes.”
-```
-```
-[kael] “Peak Paragon.”
-“Yes.”
-[kael] “Has not spent six months being punched by Wuyue and Isgard.”
->>> “Yes.”   <-- WHO SAYS THIS?
-Kael looked offended by the arithmetic.
-Sera said, “Good.”
-```
-```
-It had made him increasingly certain that because his answers worked, he had earned the right to choose the question for everyone else.
-Sera folded the pages.
-“Still good?” Kael asked.
->>> “Yes.”   <-- WHO SAYS THIS?
-“Why?”
-[sera] “Because legends become easier to fight when you know what they actually learned.”
-```
-```
-Sera folded the pages.
-“Still good?” Kael asked.
-“Yes.”
->>> “Why?”   <-- WHO SAYS THIS?
-[sera] “Because legends become easier to fight when you know what they actually learned.”
-Jin looked at her.
-```
-
 ### Chapter 438 — Shunto Guards the Center
 
 ```
@@ -249,12 +182,4 @@ He raised both hands.
 >>> “Good.”   <-- WHO SAYS THIS?
 Nobody woke Rhen.
 Nobody sent Sera a triumphant message claiming he would emerge by sunset.
-```
-```
-**Frost-white petal. Pale-violet radiance. Seal intact. No instability. No intervention.**
-Qin remained several minutes longer.
-“Different?” Tae asked him.
->>> “Yes.”   <-- WHO SAYS THIS?
-[tae] “Dangerous?”
-Qin considered.
 ```

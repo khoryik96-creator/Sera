@@ -558,7 +558,7 @@ Arin's voice softened.
 
 Rhen looked at her.
 
-“Why?”
+[[speaker:rhen]]“Why?”
 
 [[speaker:arin]]“Because she has spent six months threatening people who try to take care of her.”
 
@@ -578,7 +578,7 @@ Arin looked at him with the tired seriousness of someone who had watched Sera ca
 
 Rhen's expression changed.
 
-“I know.”
+[[speaker:rhen]]“I know.”
 
 He entered.
 
@@ -836,7 +836,7 @@ Sera released Rhen's wrist.
 
 Rhen looked mildly defensive.
 
-“What?”
+[[speaker:rhen]]“What?”
 
 [[speaker:sera]]“I spend six months becoming increasingly unreasonable, and you come back with a new reason for everybody else to be unreasonable around you.”
 
@@ -930,7 +930,7 @@ Jin glanced at Sera.
 
 Jin nodded once.
 
-“Good.”
+[[speaker:jin]]“Good.”
 
 Rhen looked toward Solveig.
 
@@ -1022,7 +1022,7 @@ Rhen looked at the pale-violet petal beside him.
 
 Then at the hospital fields beyond the tent.
 
-“Yes.”
+[[speaker:rhen]]“Yes.”
 
 No boasting.
 
@@ -1058,7 +1058,7 @@ Rhen looked at her bandaged arm.
 
 Sera smiled.
 
-“I know.”
+[[speaker:sera]]“I know.”
 
 Rhen looked at Luo.
 

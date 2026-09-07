@@ -92,7 +92,7 @@ Sera's eyes narrowed.
 
 Tsubasa wiped his mouth.
 
-“Good.”
+[[speaker:tsubasa]]“Good.”
 
 She stared at him.
 
@@ -920,7 +920,7 @@ Tsubasa stared.
 
 She raised one hand.
 
-“No.”
+[[speaker:sera]]“No.”
 
 [[speaker:tsubasa]]“Sera.”
 
@@ -1010,7 +1010,7 @@ Jin did not look away.
 
 Kael's face tightened.
 
-“Yes.”
+[[speaker:kael]]“Yes.”
 
 That was the truth.
 
@@ -1208,7 +1208,7 @@ Sera's mouth moved faintly.
 
 Tsubasa shook his head.
 
-“No.”
+[[speaker:tsubasa]]“No.”
 
 That answer moved through the watching ranks faster than any official report ever would.
 

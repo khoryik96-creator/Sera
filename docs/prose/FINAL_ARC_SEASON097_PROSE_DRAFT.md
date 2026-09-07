@@ -80,7 +80,7 @@ A woman in a brown Shinsei inspection coat stepped in.
 
 Yun looked up with mild irritation.
 
-“Can I help you?”
+[[speaker:yun]]“Can I help you?”
 
 The inspector’s eyes moved over the room.
 
@@ -142,7 +142,7 @@ Then returned the permit.
 
 Yun gave her the exact amount of offense a legitimate merchant would feel.
 
-“I was comparing prices.”
+[[speaker:yun]]“I was comparing prices.”
 
 “Compare less deeply.”
 
@@ -364,7 +364,7 @@ He grinned.
 
 Yun watched a patrol cross the bridge.
 
-“Were there always this many?”
+[[speaker:yun]]“Were there always this many?”
 
 The fisherman snorted.
 
@@ -402,7 +402,7 @@ Again, the state refused to become simple for her convenience.
 
 Yun stood.
 
-“Catch anything?”
+[[speaker:yun]]“Catch anything?”
 
 “Not yet.”
 
@@ -452,13 +452,13 @@ She opened one eye.
 
 Rhen was lying on his back beside her, awake.
 
-“Are you doing that?”
+[[speaker:sera]]“Are you doing that?”
 
 [[speaker:rhen]]“No.”
 
 Sera lifted the frozen edge of the blanket.
 
-“You understand why that answer is worse.”
+[[speaker:sera]]“You understand why that answer is worse.”
 
 [[speaker:rhen]]“Yes.”
 
@@ -472,7 +472,7 @@ The window remained warm from late-summer air. The floorboards were normal. Only
 
 Sera touched his shoulder.
 
-“No pain?”
+[[speaker:sera]]“No pain?”
 
 [[speaker:rhen]]“No.”
 
@@ -484,11 +484,11 @@ Sera touched his shoulder.
 
 Rhen stared at the ceiling.
 
-“Enough that I’m no longer sure dispersal is useful.”
+[[speaker:rhen]]“Enough that I’m no longer sure dispersal is useful.”
 
 Sera’s expression sharpened.
 
-“You promised.”
+[[speaker:sera]]“You promised.”
 
 [[speaker:rhen]]“I’m telling you.”
 
@@ -500,7 +500,7 @@ Sera’s expression sharpened.
 
 Rhen looked over.
 
-“Am I?”
+[[speaker:rhen]]“Am I?”
 
 [[speaker:sera]]“Don’t ruin it.”
 
@@ -532,7 +532,7 @@ Then he closed it again.
 
 Sera’s hand stayed on his chest.
 
-“That is new.”
+[[speaker:sera]]“That is new.”
 
 [[speaker:rhen]]“Yes.”
 
@@ -566,7 +566,7 @@ He considered.
 
 Sera waited.
 
-“So?”
+[[speaker:sera]]“So?”
 
 [[speaker:rhen]]“So the reserve returns denser than before.”
 
@@ -578,7 +578,7 @@ Sera waited.
 
 Rhen ignored that.
 
-“Think of pouring water into a sealed jar.”
+[[speaker:rhen]]“Think of pouring water into a sealed jar.”
 
 [[speaker:sera]]“Finally, a normal metaphor.”
 
@@ -590,7 +590,7 @@ Rhen ignored that.
 
 Sera’s amusement faded.
 
-“You’re the jar.”
+[[speaker:sera]]“You’re the jar.”
 
 [[speaker:rhen]]“Yes.”
 
@@ -612,7 +612,7 @@ She pressed her face into his shoulder for one irritated second.
 
 Rhen looked toward the dark window.
 
-“Not while Yun is overdue.”
+[[speaker:rhen]]“Not while Yun is overdue.”
 
 Sera went still.
 
@@ -690,7 +690,7 @@ Then stared.
 
 Sera covered her face with one hand.
 
-“Of course he did.”
+[[speaker:sera]]“Of course he did.”
 
 Rhen’s smile returned.
 
@@ -700,7 +700,7 @@ The problem remained; he was simply awake enough to control it again.
 
 Sera settled back against him.
 
-“Promise me something else.”
+[[speaker:sera]]“Promise me something else.”
 
 [[speaker:rhen]]“What?”
 
@@ -708,11 +708,11 @@ Sera settled back against him.
 
 Rhen looked at the frost dissolving along the blanket edge.
 
-“Okay.”
+[[speaker:rhen]]“Okay.”
 
 Sera lifted her head.
 
-“Okay as in yes?”
+[[speaker:sera]]“Okay as in yes?”
 
 [[speaker:rhen]]“Yes.”
 
@@ -728,11 +728,11 @@ Both looked down.
 
 Sera sighed.
 
-“You owe me bedding now too.”
+[[speaker:sera]]“You owe me bedding now too.”
 
 Rhen closed his eyes.
 
-“Add it to the teapot.”
+[[speaker:rhen]]“Add it to the teapot.”
 
 [[speaker:sera]]“I have a list.”
 

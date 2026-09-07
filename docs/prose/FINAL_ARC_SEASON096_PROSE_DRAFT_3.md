@@ -586,7 +586,7 @@ She knew.
 
 Luo looked at her.
 
-“What?”
+[[speaker:luo]]“What?”
 
 [[speaker:sera]]“The thing you’ve been refusing to say because saying it feels like making it true.”
 
@@ -710,7 +710,7 @@ Lu raised one hand.
 
 Luo stopped.
 
-“What?”
+[[speaker:luo]]“What?”
 
 [[speaker:luweiran]]“A route change.”
 
@@ -774,7 +774,7 @@ She touched two fingers to the notebook in his hand.
 
 Luo looked down.
 
-“I know.”
+[[speaker:luo]]“I know.”
 
 [[speaker:sera]]“Trust that part of her while we find the rest.”
 

@@ -34,7 +34,7 @@ Aya looked at it.
 
 Hana’s face tightened.
 
-“Yes.”
+[[speaker:hana]]“Yes.”
 
 [[speaker:aya]]“Same day.”
 
@@ -388,7 +388,7 @@ Aya placed Haru’s medical chart on the table.
 
 Tsubasa’s face hardened.
 
-“Yes.”
+[[speaker:tsubasa]]“Yes.”
 
 [[speaker:aya]]“Approximate future-life expenditure around thirty-five years.”
 
@@ -498,11 +498,11 @@ Aya did not react.
 
 [[speaker:tsubasa]]“Same-day redosing prohibited without direct physician and field-command authorization.”
 
-“Not enough.”
+[[speaker:aya]]“Not enough.”
 
 [[speaker:tsubasa]]“Third dose classified as gross emergency and command violation outside imminent collapse.”
 
-“Not enough.”
+[[speaker:aya]]“Not enough.”
 
 [[speaker:tsubasa]]“Every Redline briefing will include an explicit lifespan estimate.”
 
@@ -522,7 +522,7 @@ Tsubasa looked at her.
 
 Aya heard the evasion packed into one word and closed her eyes briefly.
 
-“Why?”
+[[speaker:aya]]“Why?”
 
 [[speaker:tsubasa]]“Because Wuyue entered the war.”
 
@@ -534,7 +534,7 @@ Aya heard the evasion packed into one word and closed her eyes briefly.
 
 [[speaker:tsubasa]]“Shinsei soldiers are dying.”
 
-“Yes.”
+[[speaker:aya]]“Yes.”
 
 [[speaker:tsubasa]]“Removing Redline now eliminates an option that can prevent entire formations from being destroyed.”
 
@@ -616,15 +616,15 @@ The clerk blinked.
 
 “All of them?”
 
-“Every one.”
+[[speaker:tsubasa]]“Every one.”
 
 “Lifespan estimate included?”
 
-“Yes.”
+[[speaker:tsubasa]]“Yes.”
 
 “3× remains authorized?”
 
-“Yes.”
+[[speaker:tsubasa]]“Yes.”
 
 The clerk wrote.
 
@@ -642,7 +642,7 @@ Aya returned to Haru’s treatment room.
 
 Hana looked up.
 
-“Well?”
+[[speaker:hana]]“Well?”
 
 Aya removed her gloves.
 
@@ -708,7 +708,7 @@ Nao found Aya in a treatment tent.
 
 Aya did not look up.
 
-“Yes.”
+[[speaker:aya]]“Yes.”
 
 [[speaker:nao]]“Why?”
 
@@ -726,7 +726,7 @@ Aya finally looked at her.
 
 Nao considered.
 
-“No.”
+[[speaker:nao]]“No.”
 
 [[speaker:aya]]“Good.”
 
@@ -736,7 +736,7 @@ Nao considered.
 
 Nao placed another file on the table.
 
-“What?”
+[[speaker:aya]]“What?”
 
 [[speaker:nao]]“Three infantry groups reassigned away from a Redline-dependent breach plan.”
 
@@ -802,7 +802,7 @@ Aya said, “We are not forming a faction.”
 
 Nao’s mouth moved.
 
-“No.”
+[[speaker:nao]]“No.”
 
 [[speaker:aya]]“We are not plotting against Tsubasa.”
 
@@ -832,7 +832,7 @@ Nao raised one eyebrow.
 
 [[speaker:nao]]“That did not answer me.”
 
-“Yes.”
+[[speaker:aya]]“Yes.”
 
 For the first time in days, Nao smiled.
 

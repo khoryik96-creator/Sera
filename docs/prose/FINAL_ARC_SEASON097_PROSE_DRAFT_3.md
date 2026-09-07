@@ -172,7 +172,7 @@ He pointed toward the back stair.
 
 Yun blinked.
 
-“Why are you helping me?”
+[[speaker:yun]]“Why are you helping me?”
 
 The old man looked offended.
 
@@ -184,7 +184,7 @@ He glanced at the soldiers below.
 
 Yun almost smiled.
 
-“Of course.”
+[[speaker:yun]]“Of course.”
 
 “Also,” he added, “Second Seat does not usually bring this many people for harmless merchants.”
 
@@ -338,7 +338,7 @@ Only after the woman left did he say, “The arm was clever.”
 
 Yun kept her eyes on her own cup.
 
-“You recovered.”
+[[speaker:yun]]“You recovered.”
 
 [[speaker:shunto]]“I did.”
 

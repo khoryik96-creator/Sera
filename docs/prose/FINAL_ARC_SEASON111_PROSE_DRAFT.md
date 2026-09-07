@@ -400,7 +400,7 @@ Then at the unconscious guard.
 
 Aya was already kneeling beside him.
 
-“Yes.”
+[[speaker:aya]]“Yes.”
 
 Tsubasa's jaw tightened.
 
@@ -410,7 +410,7 @@ Hana looked toward the south gate.
 
 [[speaker:tsubasa]]“No.”
 
-“Yurushi?”
+[[speaker:hana]]“Yurushi?”
 
 Tsubasa shook his head.
 
@@ -536,7 +536,7 @@ Lu opened a map.
 
 Qin's expression did not change.
 
-“Yurushi?”
+[[speaker:qin]]“Yurushi?”
 
 [[speaker:luweiran]]“No.”
 
@@ -692,7 +692,7 @@ Kael leaned over the open crate.
 
 [[speaker:luo]]“Yes.”
 
-“What?”
+[[speaker:kael]]“What?”
 
 [[speaker:luo]]“A reason for you to stop breathing on my notes.”
 
@@ -726,7 +726,7 @@ A scout entered the shed.
 
 Kael turned.
 
-“What?”
+[[speaker:kael]]“What?”
 
 “Western ridge patrol missed a signal window.”
 
@@ -764,13 +764,13 @@ The corridor commander met them halfway.
 
 Kael looked toward the western ridge.
 
-“No.”
+[[speaker:kael]]“No.”
 
 The commander frowned.
 
 “You know that?”
 
-“No.”
+[[speaker:kael]]“No.”
 
 “Then—”
 
@@ -792,7 +792,7 @@ Luo looked at Kael.
 
 Kael's eyes stayed on the ridge.
 
-“No.”
+[[speaker:kael]]“No.”
 
 [[speaker:luo]]“That is reassuring.”
 
@@ -908,7 +908,7 @@ Luo did not.
 
 Kael looked at him.
 
-“No.”
+[[speaker:kael]]“No.”
 
 Luo folded his sleeves higher.
 
@@ -1326,7 +1326,7 @@ His eyes flicked there once.
 
 Kael saw it.
 
-“No.”
+[[speaker:kael]]“No.”
 
 Shunto looked back at him.
 
@@ -1708,7 +1708,7 @@ The engineers stared at him.
 
 Kael nodded.
 
-“Later.”
+[[speaker:kael]]“Later.”
 
 Shunto lay beneath broken stone.
 
