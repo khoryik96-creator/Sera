@@ -25,7 +25,7 @@ The medic stared at him as though the approximation were the offensive part.
 
 “I mean your claim.”
 
-“I know.”
+[[speaker:luo]]“I know.”
 
 They were standing in one of the prisoner-treatment tents behind the eastern allied line. Wuyue cloth had been tied over an old Isgard frame. Shinsei wounded lay beneath it beside Wuyue wounded because Sera had refused to build a medical system that became less medical when the patient wore the wrong insignia.
 
@@ -413,7 +413,7 @@ Sera folded the pages.
 
 “Still good?” Kael asked.
 
-“Yes.”
+[[speaker:sera]]“Yes.”
 
 [[speaker:kael]]“Why?”
 

@@ -1,36 +1,12 @@
 # Season 95 — unattributed dialogue
 
-228 quoted lines in this season have no speaker.
+194 quoted lines in this season have no speaker.
 See `README.md` in this folder for what to do with them.
 
 Lines already resolved show their speaker in `[brackets]` for context.
 
 ### Chapter 301 — Two Years Beneath the Crooked Sign
 
-```
-Sera watched from the front step, arms folded.
-[sera] “No.”
-Rhen looked down.
->>> “I haven't done anything yet.”   <-- WHO SAYS THIS?
-[sera] “That is why I am saying no now.”
-The morning road below the Quaint Teahouse was already busy. A grain wagon creaked toward the eastern market. Two old soldiers argued over whose turn it was to buy breakfast. A woman from the next village carried a basket of pears toward the clinic entrance built into the side wing. Somewhere behind the main building, one of the younger Quaint companies was running formation drills badly enough that Tae had begun shouting.
-```
-```
-[huo] “I can do two things.”
-[tae] “You were doing one badly.”
-Rhen looked back at Sera.
->>> “I could fix the sign before they destroy something expensive.”   <-- WHO SAYS THIS?
-Sera's mouth twitched.
-“You say that like the sign is not the expensive thing you're about to destroy.”
-```
-```
-Rhen looked back at Sera.
-“I could fix the sign before they destroy something expensive.”
-Sera's mouth twitched.
->>> “You say that like the sign is not the expensive thing you're about to destroy.”   <-- WHO SAYS THIS?
-[rhen] “It is wood.”
-[sera] “It is history.”
-```
 ```
 The customer stared.
 Rhen stared back.
@@ -42,14 +18,6 @@ He walked away.
 
 ### Chapter 302 — The Garden Is Asked For, Not Imposed
 
-```
-She had won.
-Rhen's fingers brushed a loose strand of hair from her cheek.
-Sera caught his wrist.
->>> “You're about to ask me again.”   <-- WHO SAYS THIS?
-[rhen] “Yes.”
-[sera] “Every time?”
-```
 ```
 The Garden simply refused to let damage and impurity steal pieces of what she earned.
 Rhen closed his eyes for one breath.
@@ -91,14 +59,6 @@ Sera watched him for another moment.
 Rhen nodded.
 ```
 ```
-Sera smiled.
-[sera] “What did Tae say?”
-Rhen's expression went blank in the particular way that meant he was about to quote someone exactly.
->>> “He said, ‘If this is another excuse to tell me my meridians are asymmetrical, I will leave.’”   <-- WHO SAYS THIS?
-Sera laughed.
-[sera] “And?”
-```
-```
 Sera tapped the board.
 [sera] “Company Seven?”
 A captain stood.
@@ -124,22 +84,6 @@ A young swordswoman in the front rank lifted her chin.
 >>> “You said we were rebuilding the east practice wall today.”   <-- WHO SAYS THIS?
 Arin looked toward the wall.
 Half of it leaned inward.
-```
-```
-[rhen] “Because injured and retired are not the same word.”
-Arin watched him.
-Rhen wiped dust from his hand.
->>> “If someone asks me to repair damage, I repair it. If someone decided they are done, I do not heal that decision.”   <-- WHO SAYS THIS?
-Arin's mouth tightened.
-Then eased.
-```
-```
-Rhen looked interested.
-[rhen] “What does it say?”
-Sera read it.
->>> “‘Tell the healer his northern tonic tastes like boiled boots.’”   <-- WHO SAYS THIS?
-Rhen looked offended.
-[sera] “It contains licorice.”
 ```
 ```
 The injury was ordinary.
@@ -241,46 +185,6 @@ Lu arrived at the word crate.
 Nobody had sent for him.
 ```
 ```
-[luo] “Circulatory stimulant?”
-[rhen] “Not ordinary.”
-Yun smiled without humor.
->>> “Ordinary medicine does not ask a body to tear itself apart for five good minutes.”   <-- WHO SAYS THIS?
-The patient coughed.
-Blood darkened his lips.
-```
-```
-[luo] “You missed three tears.”
-[rhen] “No.”
-Rhen touched the patient's wrist.
->>> “I left them because I want you to see the pattern before I erase it.”   <-- WHO SAYS THIS?
-Luo's irritation vanished.
-He bent closer.
-```
-```
-Luo spoke first.
-[luo] “Layered.”
-Yun nodded.
->>> “Something prevented the crash from arriving when it should have.”   <-- WHO SAYS THIS?
-Sera looked between them.
-[sera] “Meaning?”
-```
-```
-[yun] “Obviously.”
-[luo] “By someone who understood medicine.”
-Yun looked at him.
->>> “Yes.”   <-- WHO SAYS THIS?
-That answer changed the room.
-A poisoner could create suffering.
-```
-```
-Not enough to make it merciful.
-Enough to make it sophisticated.
-Lu turned one page of the manifest.
->>> “Three crates passed through registered medical distributors before the route went dark.”   <-- WHO SAYS THIS?
-Sera looked at him.
-[sera] “In Isgard?”
-```
-```
 The man looked at her.
 Pale Orchid was not wearing a mask.
 That did not help him.
@@ -312,14 +216,6 @@ He looked down at Huo's hands holding him to the table.
 Outside, the mountain remained quiet.
 Inside the clinic, Lu folded the manifest once.
 ```
-```
-Yun smiled faintly.
-[yun] “That part sounds fun.”
-Luo looked at her.
->>> “No.”   <-- WHO SAYS THIS?
-She looked back.
-[yun] “It sounds a little fun.”
-```
 
 ### Chapter 305 — Physician and Poisoner
 
@@ -330,14 +226,6 @@ She looked back.
 >>> “Yes.”   <-- WHO SAYS THIS?
 [luo] “Adrenal response.”
 Yun made a face.
-```
-```
-[luo] “Second suppresses pain feedback.”
-[yun] “Not only pain.”
-Yun tapped the glass.
->>> “Warning responses. Tremor. breath distress. vascular pressure. The body begins screaming and something tells it to lower its voice.”   <-- WHO SAYS THIS?
-Luo's expression hardened.
-[luo] “That is not medicine.”
 ```
 ```
 She continued.
@@ -370,14 +258,6 @@ When he finished, she curled her fingers around his wrist.
 >>> “Yes.”   <-- WHO SAYS THIS?
 [yun] “About me?”
 [luo] “About your terrible laboratory habits.”
-```
-```
-[luo] “We do not have screening logic.”
-[yun] “We have the body.”
-Yun pointed toward the notes.
->>> “The patient's damage clusters around thresholds. Whoever made the compound expected variance in meridian width, cardiovascular tolerance and body mass.”   <-- WHO SAYS THIS?
-[luo] “That could be trial and error.”
-[yun] “Then there would be more random failure.”
 ```
 ```
 Yun continued.
@@ -463,14 +343,6 @@ Sera pushed away from the wall.
 [sera] “What is the difference?”
 ```
 ```
-Sera pushed away from the wall.
-[sera] “What is the difference?”
-Rhen looked at her.
->>> “If you cut someone, there is a wound. I can close it.”   <-- WHO SAYS THIS?
-He looked back at the patient.
-[rhen] “If someone empties a cup, repairing the cup does not put the water back.”
-```
-```
 He looked back at the patient.
 [rhen] “If someone empties a cup, repairing the cup does not put the water back.”
 The patient looked at his hands.
@@ -479,68 +351,20 @@ Rhen's jaw tightened slightly.
 [rhen] “I do not know yet.”
 ```
 ```
-[yun] “You spent it.”
 His expression changed.
 Yun did not soften the point, but neither did she make it cruel.
->>> “The drug made your body spend something it normally protects.”   <-- WHO SAYS THIS?
-“I didn't agree to that.”
-“No.”
-```
-```
-His expression changed.
-Yun did not soften the point, but neither did she make it cruel.
-“The drug made your body spend something it normally protects.”
+[yun] “The drug made your body spend something it normally protects.”
 >>> “I didn't agree to that.”   <-- WHO SAYS THIS?
 “No.”
 That word mattered.
 ```
 ```
 Yun did not soften the point, but neither did she make it cruel.
-“The drug made your body spend something it normally protects.”
+[yun] “The drug made your body spend something it normally protects.”
 “I didn't agree to that.”
 >>> “No.”   <-- WHO SAYS THIS?
 That word mattered.
 The patient looked away.
-```
-```
-The patient looked away.
-Sera asked, “Can he recover naturally?”
-Rhen considered.
->>> “Some things, yes. Ordinary exhaustion. Qi. physical condition.”   <-- WHO SAYS THIS?
-[sera] “And the missing part?”
-[rhen] “I do not know.”
-```
-```
-Everyone turned toward him.
-The patient blinked.
-Qin tilted his head.
->>> “The pulse rhythm is correct. The resonance behind it is thin.”   <-- WHO SAYS THIS?
-Luo looked interested.
-[luo] “Thin how?”
-```
-```
-Yun's eyes sharpened.
-[yun] “That is useful.”
-Qin smiled faintly.
->>> “Good. I was worried being blind had become decorative.”   <-- WHO SAYS THIS?
-Sera ignored the tone.
-“Can Echo Dominion read it more clearly?”
-```
-```
-Qin smiled faintly.
-“Good. I was worried being blind had become decorative.”
-Sera ignored the tone.
->>> “Can Echo Dominion read it more clearly?”   <-- WHO SAYS THIS?
-Qin shook his head.
-“I am not activating a Domain inside a clinic to listen to one recovering man's pulse.”
-```
-```
-Sera ignored the tone.
-“Can Echo Dominion read it more clearly?”
-Qin shook his head.
->>> “I am not activating a Domain inside a clinic to listen to one recovering man's pulse.”   <-- WHO SAYS THIS?
-Rhen nodded approvingly.
-[rhen] “Reasonable.”
 ```
 ```
 Rhen returned to the bedside.
@@ -746,15 +570,7 @@ Sera's amusement faded.
 Lu looked toward the archive door.
 ```
 ```
-Lu took it, opened it and read.
-[luweiran] “Still operating.”
-Sera's eyes sharpened.
->>> “Where?”   <-- WHO SAYS THIS?
-[luweiran] “Port city. East coast.”
-[sera] “Wuyue?”
-```
-```
-“Where?”
+[sera] “Where?”
 [luweiran] “Port city. East coast.”
 [sera] “Wuyue?”
 >>> “Yes.”   <-- WHO SAYS THIS?
@@ -783,23 +599,7 @@ Lu's expression remained flat.
 “Cost?”
 >>> “Unknown.”   <-- WHO SAYS THIS?
 Lu's expression remained flat.
-“Excellent.”
-```
-```
-“Cost?”
-“Unknown.”
-Lu's expression remained flat.
->>> “Excellent.”   <-- WHO SAYS THIS?
-Yun leaned against a cabinet.
-“You are welcome.”
-```
-```
-Lu's expression remained flat.
-“Excellent.”
-Yun leaned against a cabinet.
->>> “You are welcome.”   <-- WHO SAYS THIS?
-Sera pointed to the invoices.
-[luweiran] “We have three medical transport chains converging through the same suppliers and one Wuyue broker.”
+[luweiran] “Excellent.”
 ```
 ```
 [luweiran] “No. Your hobbies are.”
@@ -818,26 +618,18 @@ Dae looked at all of them.
 Then at the door.
 >>> “Can I leave?”   <-- WHO SAYS THIS?
 Sera nodded.
-“Yes.”
-```
-```
-Then at the door.
-“Can I leave?”
-Sera nodded.
->>> “Yes.”   <-- WHO SAYS THIS?
-He looked surprised.
-“Now?”
+[sera] “Yes.”
 ```
 ```
 Sera nodded.
-“Yes.”
+[sera] “Yes.”
 He looked surprised.
 >>> “Now?”   <-- WHO SAYS THIS?
 “Yes.”
 “Before I tell you anything?”
 ```
 ```
-“Yes.”
+[sera] “Yes.”
 He looked surprised.
 “Now?”
 >>> “Yes.”   <-- WHO SAYS THIS?
@@ -1418,23 +1210,7 @@ Rhen looked at him.
 Dae took a careful sip.
 >>> “Are they wrong?”   <-- WHO SAYS THIS?
 Rhen considered.
-“No.”
-```
-```
-Dae took a careful sip.
-“Are they wrong?”
-Rhen considered.
->>> “No.”   <-- WHO SAYS THIS?
-Sera covered a smile.
-Yun looked delighted.
-```
-```
-Yun looked delighted.
-Luo muttered, “There it is.”
-Rhen looked at all of them.
->>> “What?”   <-- WHO SAYS THIS?
-Nobody answered.
-On the table, Lu folded the charcoal drawing of the foreign marks and placed it beside the shipping invoices.
+[rhen] “No.”
 ```
 
 ### Chapter 309 — The Wind That Would Not Stay
@@ -1446,14 +1222,6 @@ Sera looked at him.
 >>> “Yes.”   <-- WHO SAYS THIS?
 [sera] “Did we spook him?”
 [luweiran] “He is currently crossing a roof.”
-```
-```
-[rui] “You know his name?”
-[sera] “Lu does.”
-Lu looked offended.
->>> “I know everyone's name.”   <-- WHO SAYS THIS?
-The masked man turned fully.
-He removed the cloth covering the lower half of his face.
 ```
 ```
 [rui] “Oh?”
@@ -1488,14 +1256,6 @@ He turned.
 Sera tilted her head.
 ```
 ```
-Rui continued.
-[rui] “Last successor?”
-Xie's face lost its lightness.
->>> “Yes.”   <-- WHO SAYS THIS?
-Rui nodded.
-He knew enough of Tempest Hall's old history to understand what that meant.
-```
-```
 Sera shrugged.
 [sera] “I did not stop you.”
 [xie_wuchen] “You were about to.”
@@ -1504,28 +1264,12 @@ Sera shrugged.
 [sera] “What face?”
 ```
 ```
-Sera turned to him.
-[sera] “You really lost to him?”
 Rui closed his eyes.
->>> “Do not.”   <-- WHO SAYS THIS?
-[sera] “How badly?”
-“Do not.”
-```
-```
-Rui closed his eyes.
-“Do not.”
+[rui] “Do not.”
 [sera] “How badly?”
 >>> “Do not.”   <-- WHO SAYS THIS?
 Lu was already writing.
 Rui looked at him.
-```
-```
-[luweiran] “Xie Wuchen. The Unseen Gale. Tempest Hall. Newly Sovereign.”
-[rui] “How do you know he is newly Sovereign?”
-Lu looked up.
->>> “I know everyone's name.”   <-- WHO SAYS THIS?
-Rui stared.
-Sera laughed.
 ```
 
 ### Chapter 310 — Axtaya
@@ -1841,20 +1585,4 @@ Sera looked at Yun.
 >>> “What do you need?”   <-- WHO SAYS THIS?
 Yun did not answer immediately.
 Her instinct was already moving ahead.
-```
-```
-A pharmaceutical network.
-A dangerous one.
-Yun looked down at the word.
->>> “Axtaya.”   <-- WHO SAYS THIS?
-Luo watched her.
-[luo] “What?”
-```
-```
-Lu closed the ledger.
-[luweiran] “Most products do.”
-Sera looked at the route mark beneath it.
->>> “Shinrin.”   <-- WHO SAYS THIS?
-The word meant almost nothing to her.
-That was what made it dangerous.
 ```

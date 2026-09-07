@@ -138,7 +138,7 @@ Luo wrote three lines in the notebook.
 
 Yun tapped the glass.
 
-“Warning responses. Tremor. breath distress. vascular pressure. The body begins screaming and something tells it to lower its voice.”
+[[speaker:yun]]“Warning responses. Tremor. breath distress. vascular pressure. The body begins screaming and something tells it to lower its voice.”
 
 Luo's expression hardened.
 
@@ -310,7 +310,7 @@ Luo sat beside her.
 
 Yun pointed toward the notes.
 
-“The patient's damage clusters around thresholds. Whoever made the compound expected variance in meridian width, cardiovascular tolerance and body mass.”
+[[speaker:yun]]“The patient's damage clusters around thresholds. Whoever made the compound expected variance in meridian width, cardiovascular tolerance and body mass.”
 
 [[speaker:luo]]“That could be trial and error.”
 
@@ -542,7 +542,7 @@ Sera pushed away from the wall.
 
 Rhen looked at her.
 
-“If you cut someone, there is a wound. I can close it.”
+[[speaker:rhen]]“If you cut someone, there is a wound. I can close it.”
 
 He looked back at the patient.
 
@@ -570,7 +570,7 @@ His expression changed.
 
 Yun did not soften the point, but neither did she make it cruel.
 
-“The drug made your body spend something it normally protects.”
+[[speaker:yun]]“The drug made your body spend something it normally protects.”
 
 “I didn't agree to that.”
 
@@ -584,7 +584,7 @@ Sera asked, “Can he recover naturally?”
 
 Rhen considered.
 
-“Some things, yes. Ordinary exhaustion. Qi. physical condition.”
+[[speaker:rhen]]“Some things, yes. Ordinary exhaustion. Qi. physical condition.”
 
 [[speaker:sera]]“And the missing part?”
 
@@ -600,7 +600,7 @@ The patient blinked.
 
 Qin tilted his head.
 
-“The pulse rhythm is correct. The resonance behind it is thin.”
+[[speaker:qin]]“The pulse rhythm is correct. The resonance behind it is thin.”
 
 Luo looked interested.
 
@@ -614,15 +614,15 @@ Yun's eyes sharpened.
 
 Qin smiled faintly.
 
-“Good. I was worried being blind had become decorative.”
+[[speaker:qin]]“Good. I was worried being blind had become decorative.”
 
 Sera ignored the tone.
 
-“Can Echo Dominion read it more clearly?”
+[[speaker:sera]]“Can Echo Dominion read it more clearly?”
 
 Qin shook his head.
 
-“I am not activating a Domain inside a clinic to listen to one recovering man's pulse.”
+[[speaker:qin]]“I am not activating a Domain inside a clinic to listen to one recovering man's pulse.”
 
 Rhen nodded approvingly.
 
@@ -1080,7 +1080,7 @@ Lu took it, opened it and read.
 
 Sera's eyes sharpened.
 
-“Where?”
+[[speaker:sera]]“Where?”
 
 [[speaker:luweiran]]“Port city. East coast.”
 
@@ -1208,11 +1208,11 @@ Luo opened the notebook without setting it down.
 
 Lu's expression remained flat.
 
-“Excellent.”
+[[speaker:luweiran]]“Excellent.”
 
 Yun leaned against a cabinet.
 
-“You are welcome.”
+[[speaker:yun]]“You are welcome.”
 
 Sera pointed to the invoices.
 

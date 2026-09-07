@@ -36,7 +36,7 @@ Sera watched from the front step, arms folded.
 
 Rhen looked down.
 
-“I haven't done anything yet.”
+[[speaker:rhen]]“I haven't done anything yet.”
 
 [[speaker:sera]]“That is why I am saying no now.”
 
@@ -62,11 +62,11 @@ Huo's voice answered from farther away.
 
 Rhen looked back at Sera.
 
-“I could fix the sign before they destroy something expensive.”
+[[speaker:rhen]]“I could fix the sign before they destroy something expensive.”
 
 Sera's mouth twitched.
 
-“You say that like the sign is not the expensive thing you're about to destroy.”
+[[speaker:sera]]“You say that like the sign is not the expensive thing you're about to destroy.”
 
 [[speaker:rhen]]“It is wood.”
 
@@ -486,7 +486,7 @@ Rhen's fingers brushed a loose strand of hair from her cheek.
 
 Sera caught his wrist.
 
-“You're about to ask me again.”
+[[speaker:sera]]“You're about to ask me again.”
 
 [[speaker:rhen]]“Yes.”
 
@@ -642,7 +642,7 @@ Sera smiled.
 
 Rhen's expression went blank in the particular way that meant he was about to quote someone exactly.
 
-“He said, ‘If this is another excuse to tell me my meridians are asymmetrical, I will leave.’”
+[[speaker:rhen]]“He said, ‘If this is another excuse to tell me my meridians are asymmetrical, I will leave.’”
 
 Sera laughed.
 
@@ -1078,7 +1078,7 @@ Arin watched him.
 
 Rhen wiped dust from his hand.
 
-“If someone asks me to repair damage, I repair it. If someone decided they are done, I do not heal that decision.”
+[[speaker:rhen]]“If someone asks me to repair damage, I repair it. If someone decided they are done, I do not heal that decision.”
 
 Arin's mouth tightened.
 
@@ -1144,7 +1144,7 @@ Rhen looked interested.
 
 Sera read it.
 
-“‘Tell the healer his northern tonic tastes like boiled boots.’”
+[[speaker:sera]]“‘Tell the healer his northern tonic tastes like boiled boots.’”
 
 Rhen looked offended.
 
@@ -1598,7 +1598,7 @@ Luo leaned over the sample.
 
 Yun smiled without humor.
 
-“Ordinary medicine does not ask a body to tear itself apart for five good minutes.”
+[[speaker:yun]]“Ordinary medicine does not ask a body to tear itself apart for five good minutes.”
 
 The patient coughed.
 
@@ -1626,7 +1626,7 @@ Luo looked at him.
 
 Rhen touched the patient's wrist.
 
-“I left them because I want you to see the pattern before I erase it.”
+[[speaker:rhen]]“I left them because I want you to see the pattern before I erase it.”
 
 Luo's irritation vanished.
 
@@ -1648,7 +1648,7 @@ Luo spoke first.
 
 Yun nodded.
 
-“Something prevented the crash from arriving when it should have.”
+[[speaker:yun]]“Something prevented the crash from arriving when it should have.”
 
 Sera looked between them.
 
@@ -1676,7 +1676,7 @@ Luo's face had gone still.
 
 Yun looked at him.
 
-“Yes.”
+[[speaker:yun]]“Yes.”
 
 That answer changed the room.
 
@@ -1692,7 +1692,7 @@ Enough to make it sophisticated.
 
 Lu turned one page of the manifest.
 
-“Three crates passed through registered medical distributors before the route went dark.”
+[[speaker:luweiran]]“Three crates passed through registered medical distributors before the route went dark.”
 
 Sera looked at him.
 
@@ -1804,7 +1804,7 @@ Yun smiled faintly.
 
 Luo looked at her.
 
-“No.”
+[[speaker:luo]]“No.”
 
 She looked back.
 

@@ -36,7 +36,7 @@ Then at the door.
 
 Sera nodded.
 
-“Yes.”
+[[speaker:sera]]“Yes.”
 
 He looked surprised.
 
@@ -552,7 +552,7 @@ Dae took a careful sip.
 
 Rhen considered.
 
-“No.”
+[[speaker:rhen]]“No.”
 
 Sera covered a smile.
 
@@ -562,7 +562,7 @@ Luo muttered, “There it is.”
 
 Rhen looked at all of them.
 
-“What?”
+[[speaker:rhen]]“What?”
 
 Nobody answered.
 
@@ -836,7 +836,7 @@ Rui looked at Sera.
 
 Lu looked offended.
 
-“I know everyone's name.”
+[[speaker:luweiran]]“I know everyone's name.”
 
 The masked man turned fully.
 
@@ -998,7 +998,7 @@ Rui continued.
 
 Xie's face lost its lightness.
 
-“Yes.”
+[[speaker:xie_wuchen]]“Yes.”
 
 Rui nodded.
 
@@ -1058,7 +1058,7 @@ Sera turned to him.
 
 Rui closed his eyes.
 
-“Do not.”
+[[speaker:rui]]“Do not.”
 
 [[speaker:sera]]“How badly?”
 
@@ -1076,7 +1076,7 @@ Rui looked at him.
 
 Lu looked up.
 
-“I know everyone's name.”
+[[speaker:luweiran]]“I know everyone's name.”
 
 Rui stared.
 
@@ -1550,7 +1550,7 @@ A dangerous one.
 
 Yun looked down at the word.
 
-“Axtaya.”
+[[speaker:yun]]“Axtaya.”
 
 Luo watched her.
 
@@ -1564,7 +1564,7 @@ Lu closed the ledger.
 
 Sera looked at the route mark beneath it.
 
-“Shinrin.”
+[[speaker:sera]]“Shinrin.”
 
 The word meant almost nothing to her.
 

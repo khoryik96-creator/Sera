@@ -692,7 +692,7 @@ Kael leaned over the open crate.
 
 [[speaker:luo]]“Yes.”
 
-“What?”
+[[speaker:kael]]“What?”
 
 [[speaker:luo]]“A reason for you to stop breathing on my notes.”
 

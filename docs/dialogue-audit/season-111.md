@@ -1,6 +1,6 @@
 # Season 111 — unattributed dialogue
 
-43 quoted lines in this season have no speaker.
+39 quoted lines in this season have no speaker.
 See `README.md` in this folder for what to do with them.
 
 Lines already resolved show their speaker in `[brackets]` for context.
@@ -179,14 +179,6 @@ Kai stepped forward.
 ### Chapter 462 — The Corridor
 
 ```
-Kael leaned over the open crate.
-[kael] “Anything?”
-[luo] “Yes.”
->>> “What?”   <-- WHO SAYS THIS?
-[luo] “A reason for you to stop breathing on my notes.”
-Kael straightened.
-```
-```
 Kael respected that.
 Mostly.
 A scout entered the shed.
@@ -275,25 +267,6 @@ Troops withdrew toward Bridge Two.
 Luo did not.
 ```
 
-### Chapter 468 — Undertaker's Measure
-
-```
-Luo reached into his sleeve.
-[luo] “I'm working.”
-[shunto] “On me?”
->>> “Yes.”   <-- WHO SAYS THIS?
-Shunto smiled.
-[shunto] “Then work faster.”
-```
-```
-[shunto] “There was only one Pale Venom.”
-Luo's mouth moved.
-For one impossible instant, Shunto thought he was smiling.
->>> “Yes.”   <-- WHO SAYS THIS?
-A silver needle punched through the webbing of Shunto's thumb.
-He dropped Luo instinctively.
-```
-
 ### Chapter 470 — Live Long Enough
 
 ```
@@ -319,14 +292,6 @@ The soldier's hand tightened.
 >>> “You don't have to.”   <-- WHO SAYS THIS?
 Luo looked at the hand.
 The soldier released him.
-```
-```
-Blood everywhere.
-Then back to Luo.
-[shunto] “You could let me die.”
->>> “Yes.”   <-- WHO SAYS THIS?
-Shunto breathed shallowly.
-[shunto] “Then do it.”
 ```
 ```
 Hands visible.

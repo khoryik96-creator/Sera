@@ -1,6 +1,6 @@
 # Season 105 — unattributed dialogue
 
-74 quoted lines in this season have no speaker.
+68 quoted lines in this season have no speaker.
 See `README.md` in this folder for what to do with them.
 
 Lines already resolved show their speaker in `[brackets]` for context.
@@ -273,16 +273,8 @@ He blinked.
 ### Chapter 404 — They Told Him Months
 
 ```
-Not pain.
-Anxiety.
 Aya finished adjusting the needle in his shoulder.
->>> “What?”   <-- WHO SAYS THIS?
-He looked at her.
-“Nothing.”
-```
-```
-Aya finished adjusting the needle in his shoulder.
-“What?”
+[aya] “What?”
 He looked at her.
 >>> “Nothing.”   <-- WHO SAYS THIS?
 [aya] “Your pulse disagrees.”
@@ -502,19 +494,11 @@ A supply officer arrived.
 [aya] “I can classify bodies medically unfit.”
 >>> “This many?”   <-- WHO SAYS THIS?
 Aya looked at him.
-“Yes.”
-```
-```
-[aya] “I can classify bodies medically unfit.”
-“This many?”
-Aya looked at him.
->>> “Yes.”   <-- WHO SAYS THIS?
-The officer’s jaw tightened.
-“This will affect battlefield readiness.”
+[aya] “Yes.”
 ```
 ```
 Aya looked at him.
-“Yes.”
+[aya] “Yes.”
 The officer’s jaw tightened.
 >>> “This will affect battlefield readiness.”   <-- WHO SAYS THIS?
 Aya looked back at the nineteen-year-old soldier.
@@ -564,47 +548,12 @@ Three minutes.
 The pursuing Shinsei officers sensed the trap.
 ```
 ```
-[jin] “We won.”
 [luo] “You waited too long.”
 Jin sighed.
->>> “Yes.”   <-- WHO SAYS THIS?
-“Good.”
-Arin arrived carrying a cracked helmet under one arm.
-```
-```
-[luo] “You waited too long.”
-Jin sighed.
-“Yes.”
+[jin] “Yes.”
 >>> “Good.”   <-- WHO SAYS THIS?
 Arin arrived carrying a cracked helmet under one arm.
 [arin] “Your retreat is insulting.”
-```
-```
-[jin] “Until they solve it.”
-Luo said, “They will.”
-Jin looked at him.
->>> “Yes.”   <-- WHO SAYS THIS?
-That was the point.
-War was not finding one clever answer and keeping it forever.
-```
-
-### Chapter 409 — Pale Orchid
-
-```
-Sera’s second strike hit his shoulder.
-Kai laughed.
-Actually laughed.
->>> “Good.”   <-- WHO SAYS THIS?
-Kael, being treated twenty paces away, muttered:
-[kael] “Stop encouraging people.”
-```
-```
-From the medical line:
-[kael] “I HEARD THAT.”
-Kai looked past Sera.
->>> “Good.”   <-- WHO SAYS THIS?
-Sera almost smiled.
-Then Kai’s expression became serious.
 ```
 
 ### Chapter 410 — The Second Wave Opens at Minute Four

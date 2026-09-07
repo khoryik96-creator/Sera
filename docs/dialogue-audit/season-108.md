@@ -1,6 +1,6 @@
 # Season 108 — unattributed dialogue
 
-25 quoted lines in this season have no speaker.
+23 quoted lines in this season have no speaker.
 See `README.md` in this folder for what to do with them.
 
 Lines already resolved show their speaker in `[brackets]` for context.
@@ -70,16 +70,8 @@ The medic stared at him as though the approximation were the offensive part.
 “That is absurd.”
 [luo] “Yes.”
 >>> “I mean your claim.”   <-- WHO SAYS THIS?
-“I know.”
+[luo] “I know.”
 They were standing in one of the prisoner-treatment tents behind the eastern allied line. Wuyue cloth had been tied over an old Isgard frame. Shinsei wounded lay beneath it beside Wuyue wounded because Sera had refused to build a medical system that became less medical when the patient wore the wrong insignia.
-```
-```
-“That is absurd.”
-[luo] “Yes.”
-“I mean your claim.”
->>> “I know.”   <-- WHO SAYS THIS?
-They were standing in one of the prisoner-treatment tents behind the eastern allied line. Wuyue cloth had been tied over an old Isgard frame. Shinsei wounded lay beneath it beside Wuyue wounded because Sera had refused to build a medical system that became less medical when the patient wore the wrong insignia.
-The medic had expected interrogation.
 ```
 ```
 [luo] “Check him.”
@@ -179,14 +171,6 @@ The medic’s face hardened.
 >>> “Yes.”   <-- WHO SAYS THIS?
 Kael looked offended by the arithmetic.
 Sera said, “Good.”
-```
-```
-It had made him increasingly certain that because his answers worked, he had earned the right to choose the question for everyone else.
-Sera folded the pages.
-“Still good?” Kael asked.
->>> “Yes.”   <-- WHO SAYS THIS?
-[kael] “Why?”
-[sera] “Because legends become easier to fight when you know what they actually learned.”
 ```
 
 ### Chapter 438 — Shunto Guards the Center

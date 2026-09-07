@@ -1,6 +1,6 @@
 # Season 101 — unattributed dialogue
 
-83 quoted lines in this season have no speaker.
+81 quoted lines in this season have no speaker.
 See `README.md` in this folder for what to do with them.
 
 Lines already resolved show their speaker in `[brackets]` for context.
@@ -669,26 +669,10 @@ History refused to simplify itself for the convenience of battle.
 Eirik heard some of it.
 ```
 ```
-Aldric stepped forward one pace.
-[aldric] “And you saw that weakness and brought an army.”
-Eirik did not deny it.
->>> “No.”   <-- WHO SAYS THIS?
-That surprised people.
-He continued.
-```
-```
 Eirik looked past Aldric toward the grey banners.
 Toward old soldiers who remembered him.
 Toward young ones who only knew stories.
 >>> “Submit the ports to joint Shinsei administration,” he said. “Open military inventory. Accept unified coastal command. No reprisals against local officers who comply. Existing civil councils remain provisionally in place.”   <-- WHO SAYS THIS?
 Aldric almost smiled.
 [aldric] “Provisionally.”
-```
-```
-Yet.
-[eirik] “Last chance.”
-Aldric's spear settled into both hands.
->>> “No.”   <-- WHO SAYS THIS?
-One syllable.
-The thing Tsubasa's system had become increasingly bad at hearing.
 ```

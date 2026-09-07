@@ -834,7 +834,7 @@ Anxiety.
 
 Aya finished adjusting the needle in his shoulder.
 
-“What?”
+[[speaker:aya]]“What?”
 
 He looked at her.
 
@@ -1092,7 +1092,7 @@ A supply officer arrived.
 
 Aya looked at him.
 
-“Yes.”
+[[speaker:aya]]“Yes.”
 
 The officer’s jaw tightened.
 

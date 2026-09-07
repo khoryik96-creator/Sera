@@ -1094,7 +1094,7 @@ Aldric stepped forward one pace.
 
 Eirik did not deny it.
 
-“No.”
+[[speaker:eirik]]“No.”
 
 That surprised people.
 
@@ -1226,7 +1226,7 @@ Yet.
 
 Aldric's spear settled into both hands.
 
-“No.”
+[[speaker:aldric]]“No.”
 
 One syllable.
 

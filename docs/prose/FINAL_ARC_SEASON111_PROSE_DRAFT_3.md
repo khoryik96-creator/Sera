@@ -100,7 +100,7 @@ Luo reached into his sleeve.
 
 [[speaker:shunto]]“On me?”
 
-“Yes.”
+[[speaker:luo]]“Yes.”
 
 Shunto smiled.
 
@@ -246,7 +246,7 @@ Luo's mouth moved.
 
 For one impossible instant, Shunto thought he was smiling.
 
-“Yes.”
+[[speaker:luo]]“Yes.”
 
 A silver needle punched through the webbing of Shunto's thumb.
 
@@ -1072,7 +1072,7 @@ Then back to Luo.
 
 [[speaker:shunto]]“You could let me die.”
 
-“Yes.”
+[[speaker:luo]]“Yes.”
 
 Shunto breathed shallowly.
 

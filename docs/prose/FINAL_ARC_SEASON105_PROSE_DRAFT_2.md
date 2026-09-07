@@ -189,7 +189,7 @@ Luo looked at him.
 
 Jin sighed.
 
-“Yes.”
+[[speaker:jin]]“Yes.”
 
 “Good.”
 
@@ -235,7 +235,7 @@ Luo said, “They will.”
 
 Jin looked at him.
 
-“Yes.”
+[[speaker:jin]]“Yes.”
 
 That was the point.
 
@@ -945,7 +945,7 @@ Kai laughed.
 
 Actually laughed.
 
-“Good.”
+[[speaker:kai]]“Good.”
 
 Kael, being treated twenty paces away, muttered:
 
@@ -1023,7 +1023,7 @@ From the medical line:
 
 Kai looked past Sera.
 
-“Good.”
+[[speaker:kai]]“Good.”
 
 Sera almost smiled.
 
