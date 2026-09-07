@@ -47,12 +47,12 @@ const entries = [
   E(105,406,'jin',`“Yes.”`,`Jin looked at him.`),
   E(105,409,'kai',`“Good.”`,`Actually laughed.`, {prev2:`Kai laughed.`}),
   E(105,409,'kai',`“Good.”`,`Kai looked past Sera.`),
-  E(108,436,'luo',`“I know.”`,`“I mean your claim.”`, {prev2:`[luo] “Yes.”`}),
+  E(108,436,'luo',`“I know.”`,`“I mean your claim.”`, {prev2:`“Yes.”`}),
   E(108,437,'sera',`“Yes.”`,`“Still good?” Kael asked.`, {prev2:`Sera folded the pages.`}),
-  E(111,462,'kael',`“What?”`,`[luo] “Yes.”`, {prev2:`[kael] “Anything?”`}),
-  E(111,468,'luo',`“Yes.”`,`[shunto] “On me?”`, {prev2:`[luo] “I'm working.”`}),
+  E(111,462,'kael',`“What?”`,`“Yes.”`, {prev2:`“Anything?”`}),
+  E(111,468,'luo',`“Yes.”`,`“On me?”`, {prev2:`“I'm working.”`}),
   E(111,468,'luo',`“Yes.”`,`For one impossible instant, Shunto thought he was smiling.`, {prev2:`Luo's mouth moved.`}),
-  E(111,470,'luo',`“Yes.”`,`[shunto] “You could let me die.”`),
+  E(111,470,'luo',`“Yes.”`,`“You could let me die.”`),
 ];
 
 const strip = s => s.replace(/^\[\[speaker:[^\]]+\]\]/,'').trim();
