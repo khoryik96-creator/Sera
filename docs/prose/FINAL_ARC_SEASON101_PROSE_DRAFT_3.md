@@ -1160,7 +1160,7 @@ Toward old soldiers who remembered him.
 
 Toward young ones who only knew stories.
 
-“Submit the ports to joint Shinsei administration,” he said. “Open military inventory. Accept unified coastal command. No reprisals against local officers who comply. Existing civil councils remain provisionally in place.”
+[[speaker:eirik]]“Submit the ports to joint Shinsei administration,” he said. “Open military inventory. Accept unified coastal command. No reprisals against local officers who comply. Existing civil councils remain provisionally in place.”
 
 Aldric almost smiled.
 

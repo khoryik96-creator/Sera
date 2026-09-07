@@ -105,7 +105,7 @@ Sera ignored that and looked at Jin.
 [sera] “So what changes?”
 ```
 ```
-[sera] The medic beside Sera muttered, “Physicians have been telling armies to do that for centuries.”
+The medic beside Sera muttered, “Physicians have been telling armies to do that for centuries.”
 Jin looked at her.
 [jin] “Armies have been ignoring physicians for centuries.”
 >>> “Also true.”   <-- WHO SAYS THIS?

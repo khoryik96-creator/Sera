@@ -1,6 +1,6 @@
 # Season 101 — unattributed dialogue
 
-81 quoted lines in this season have no speaker.
+80 quoted lines in this season have no speaker.
 See `README.md` in this folder for what to do with them.
 
 Lines already resolved show their speaker in `[brackets]` for context.
@@ -667,12 +667,4 @@ A third voice, harsher:
 >>> “My uncle disappeared during one of his emergency levies.”   <-- WHO SAYS THIS?
 History refused to simplify itself for the convenience of battle.
 Eirik heard some of it.
-```
-```
-Eirik looked past Aldric toward the grey banners.
-Toward old soldiers who remembered him.
-Toward young ones who only knew stories.
->>> “Submit the ports to joint Shinsei administration,” he said. “Open military inventory. Accept unified coastal command. No reprisals against local officers who comply. Existing civil councils remain provisionally in place.”   <-- WHO SAYS THIS?
-Aldric almost smiled.
-[aldric] “Provisionally.”
 ```

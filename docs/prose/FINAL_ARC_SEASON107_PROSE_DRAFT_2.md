@@ -869,7 +869,7 @@ Luo nodded.
 
 [[speaker:luo]]“Separate disabled from unrecoverable.”
 
-[[speaker:sera]]The medic beside Sera muttered, “Physicians have been telling armies to do that for centuries.”
+The medic beside Sera muttered, “Physicians have been telling armies to do that for centuries.”
 
 Jin looked at her.
 
