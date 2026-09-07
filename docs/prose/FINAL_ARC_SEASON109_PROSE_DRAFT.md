@@ -856,7 +856,7 @@ Lu did not need to.
 
 Rhen's expression softened.
 
-“Good.”
+[[speaker:rhen]]“Good.”
 
 The door opened.
 
@@ -1096,7 +1096,7 @@ He turned his face toward Rhen.
 
 Rhen absorbed that.
 
-“Good.”
+[[speaker:rhen]]“Good.”
 
 Tae threw both hands up.
 
@@ -1378,7 +1378,7 @@ Rhen looked at Lu.
 
 Lu sighed.
 
-“Yes.”
+[[speaker:luweiran]]“Yes.”
 
 Rhen turned toward the door.
 
@@ -1898,7 +1898,7 @@ Yurushi looked at him for a long moment.
 
 [[speaker:rhen]]“No.”
 
-“Why?”
+[[speaker:black_radiance]]“Why?”
 
 [[speaker:rhen]]“Because Yun's story is not mine to turn into curiosity.”
 

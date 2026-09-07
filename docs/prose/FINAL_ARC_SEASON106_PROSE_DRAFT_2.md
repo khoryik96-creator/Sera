@@ -49,7 +49,7 @@ Kenji’s expression tightened.
 
 [[speaker:kenji]]“I was attacking it.”
 
-“Yes.”
+[[speaker:sigrun]]“Yes.”
 
 [[speaker:kenji]]“That sounds less terrible when you say it properly.”
 
@@ -295,7 +295,7 @@ Kenji looked at the spear.
 
 Then at her.
 
-“Why?”
+[[speaker:kenji]]“Why?”
 
 [[speaker:sigrun]]“Because I don’t need you dead to win this ridge.”
 
@@ -451,7 +451,7 @@ Kenji swallowed.
 
 [[speaker:kenji]]“That doesn’t feel fair.”
 
-“No.”
+[[speaker:aya]]“No.”
 
 [[speaker:kenji]]“Should I refuse the rest of the treatment?”
 
@@ -491,7 +491,7 @@ She did not look up from the next chart.
 
 [[speaker:aya]]“You owe me no obedience because I treated you.”
 
-“I know.”
+[[speaker:kenji]]“I know.”
 
 [[speaker:aya]]“No extra years because I returned your body.”
 
@@ -1027,7 +1027,7 @@ Eirik’s face changed.
 
 [[speaker:eirik]]“Still fighting yourselves.”
 
-“Yes.”
+[[speaker:aldric]]“Yes.”
 
 [[speaker:eirik]]“Still starving regions because clans protected privilege.”
 
@@ -1113,7 +1113,7 @@ She stopped eating.
 
 Sera noticed.
 
-“What?”
+[[speaker:sera]]“What?”
 
 Solveig slid the page across the table.
 

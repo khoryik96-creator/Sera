@@ -1,6 +1,6 @@
 # Season 110 — unattributed dialogue
 
-60 quoted lines in this season have no speaker.
+54 quoted lines in this season have no speaker.
 See `README.md` in this folder for what to do with them.
 
 Lines already resolved show their speaker in `[brackets]` for context.
@@ -423,38 +423,6 @@ Sera stepped closer.
 [sera] “Do not disappear.”
 ```
 ```
-[luo] “I am a Sovereign.”
-[sera] “That is exactly why it isn't reassuring. Shunto is a High Paragon.”
-Luo's eyes did not change.
->>> “I know.”   <-- WHO SAYS THIS?
-[sera] “Then say what you are thinking.”
-Silence.
-```
-```
-Finally Luo looked toward the patient charts.
-[luo] “I am thinking Yun would be angry if I died stupidly.”
-Sera's chest loosened by one breath.
->>> “Yes.”   <-- WHO SAYS THIS?
-[luo] “She would call it inefficient.”
-[sera] “Yes.”
-```
-```
-The silence stretched.
-Then he asked, “Did Rhen tell you to say that?”
-Sera's eyebrows rose.
->>> “No.”   <-- WHO SAYS THIS?
-[luo] “He would.”
-[sera] “He'd say it worse.”
-```
-```
-Sera stepped closer.
-[sera] “When the time comes, you will not face him alone.”
-Luo's gaze sharpened.
->>> “Sera.”   <-- WHO SAYS THIS?
-[sera] “No.”
-[luo] “You don't even know what I was going to say.”
-```
-```
 Despite everything, something almost wicked entered her eyes.
 [sera] “I wasn't planning to.”
 Luo nodded.
@@ -472,25 +440,6 @@ A guard entered.
 >>> “Lord Takamori. Lady Arakawa is here.”   <-- WHO SAYS THIS?
 Shunto smiled faintly.
 [shunto] “Send her in.”
-```
-```
-She stopped.
-[shunto] “Did you know what Yurushi found in the detention site?”
-Her back remained toward him.
->>> “No.”   <-- WHO SAYS THIS?
-The answer was true.
-Shunto could not prove otherwise because there was nothing to prove.
-```
-
-### Chapter 459 — The Three Who Say No
-
-```
-Aya looked at both.
-[aya] “This is policy.”
-Hana's mouth twisted.
->>> “Yes.”   <-- WHO SAYS THIS?
-[aya] “We have no authority to rewrite policy.”
-Nao said, “We have authority over our own departments.”
 ```
 
 ### Chapter 460 — The Second Seat Is Stripped

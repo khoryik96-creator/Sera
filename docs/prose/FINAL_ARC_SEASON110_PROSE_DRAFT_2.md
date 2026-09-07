@@ -992,7 +992,7 @@ Luo looked at her.
 
 Luo's eyes did not change.
 
-“I know.”
+[[speaker:luo]]“I know.”
 
 [[speaker:sera]]“Then say what you are thinking.”
 
@@ -1006,7 +1006,7 @@ Finally Luo looked toward the patient charts.
 
 Sera's chest loosened by one breath.
 
-“Yes.”
+[[speaker:sera]]“Yes.”
 
 [[speaker:luo]]“She would call it inefficient.”
 
@@ -1138,7 +1138,7 @@ Then he asked, “Did Rhen tell you to say that?”
 
 Sera's eyebrows rose.
 
-“No.”
+[[speaker:sera]]“No.”
 
 [[speaker:luo]]“He would.”
 
@@ -1152,7 +1152,7 @@ Sera stepped closer.
 
 Luo's gaze sharpened.
 
-“Sera.”
+[[speaker:luo]]“Sera.”
 
 [[speaker:sera]]“No.”
 

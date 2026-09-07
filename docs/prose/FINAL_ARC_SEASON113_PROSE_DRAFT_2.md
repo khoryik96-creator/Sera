@@ -276,7 +276,7 @@ Lei stared.
 
 Then laughed once.
 
-“Fine.”
+[[speaker:lei]]“Fine.”
 
 The alliance withdrew again.
 
@@ -302,7 +302,7 @@ Rhen looked past him.
 
 [[speaker:rhen]]“Yes.”
 
-“Why?”
+[[speaker:tsubasa]]“Why?”
 
 Rhen looked back at him.
 
@@ -586,11 +586,11 @@ Rhen noticed.
 
 Tsubasa wiped the blood away.
 
-“Yes.”
+[[speaker:tsubasa]]“Yes.”
 
 Rhen nodded.
 
-“Good.”
+[[speaker:rhen]]“Good.”
 
 Then he looked past him.
 
@@ -1286,7 +1286,7 @@ Haru stared beside her.
 
 Aya looked at the field.
 
-“No.”
+[[speaker:aya]]“No.”
 
 She knew enough medicine to understand the terrifying part.
 
@@ -1304,7 +1304,7 @@ Tsubasa noticed.
 
 [[speaker:rhen]]“Yes.”
 
-“Why?”
+[[speaker:tsubasa]]“Why?”
 
 [[speaker:rhen]]“You're still fighting.”
 
@@ -1336,7 +1336,7 @@ Rhen sighed.
 
 Tsubasa settled into stance.
 
-“Yes.”
+[[speaker:tsubasa]]“Yes.”
 
 Rhen looked at the Winter Essence drifting between them.
 

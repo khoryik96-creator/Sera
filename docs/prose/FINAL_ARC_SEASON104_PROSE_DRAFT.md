@@ -456,7 +456,7 @@ Tae looked down at the torn cloth.
 
 Then at Haru.
 
-“Good.”
+[[speaker:tae]]“Good.”
 
 Haru did not appreciate the tone.
 
@@ -944,7 +944,7 @@ Haru saw it.
 
 Huo laughed.
 
-“No.”
+[[speaker:huo]]“No.”
 
 Then hit him.
 
@@ -1434,7 +1434,7 @@ Haru’s jaw tightened.
 
 “Yes.”
 
-“Good.”
+[[speaker:qin]]“Good.”
 
 Hana looked at him.
 

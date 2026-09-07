@@ -34,7 +34,7 @@ Aya looked at it.
 
 Hana’s face tightened.
 
-“Yes.”
+[[speaker:hana]]“Yes.”
 
 [[speaker:aya]]“Same day.”
 
@@ -522,7 +522,7 @@ Tsubasa looked at her.
 
 Aya heard the evasion packed into one word and closed her eyes briefly.
 
-“Why?”
+[[speaker:aya]]“Why?”
 
 [[speaker:tsubasa]]“Because Wuyue entered the war.”
 
@@ -642,7 +642,7 @@ Aya returned to Haru’s treatment room.
 
 Hana looked up.
 
-“Well?”
+[[speaker:hana]]“Well?”
 
 Aya removed her gloves.
 
@@ -736,7 +736,7 @@ Nao considered.
 
 Nao placed another file on the table.
 
-“What?”
+[[speaker:aya]]“What?”
 
 [[speaker:nao]]“Three infantry groups reassigned away from a Redline-dependent breach plan.”
 

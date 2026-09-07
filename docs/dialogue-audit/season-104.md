@@ -1,6 +1,6 @@
 # Season 104 — unattributed dialogue
 
-19 quoted lines in this season have no speaker.
+14 quoted lines in this season have no speaker.
 See `README.md` in this folder for what to do with them.
 
 Lines already resolved show their speaker in `[brackets]` for context.
@@ -24,28 +24,6 @@ The teahouse changed.
 Not visibly at first.
 ```
 
-### Chapter 392 — Tae Muyeon Takes Both
-
-```
-First blood.
-Tae looked down at the torn cloth.
-Then at Haru.
->>> “Good.”   <-- WHO SAYS THIS?
-Haru did not appreciate the tone.
-Another chain settled over his forearm.
-```
-
-### Chapter 393 — Huo Changes the Answer
-
-```
-Haru saw it.
-[haru] “Your Domain affects you?”
-Huo laughed.
->>> “No.”   <-- WHO SAYS THIS?
-Then hit him.
-Haru blocked.
-```
-
 ### Chapter 394 — Qin Ends the First Attack
 
 ```
@@ -53,16 +31,8 @@ He did not attack immediately.
 [qin] “Leaving?”
 Haru’s jaw tightened.
 >>> “Yes.”   <-- WHO SAYS THIS?
-“Good.”
+[qin] “Good.”
 Hana looked at him.
-```
-```
-[qin] “Leaving?”
-Haru’s jaw tightened.
-“Yes.”
->>> “Good.”   <-- WHO SAYS THIS?
-Hana looked at him.
-[hana] “You’re letting us?”
 ```
 ```
 Then Lu opened the first ledger.
@@ -123,28 +93,6 @@ One pointed.
 >>> “Road command.”   <-- WHO SAYS THIS?
 Yurushi moved.
 Hana saw him first.
-```
-
-### Chapter 397 — Twilight Dominion
-
-```
-Haru’s eyes narrowed.
-[haru] “He’s solving us.”
-Hana breathed carefully.
->>> “Yes.”   <-- WHO SAYS THIS?
-Yurushi heard.
-They were also solving him.
-```
-
-### Chapter 399 — Tae Arrives Before the Crash
-
-```
-Tae understood.
-[tae] “Three?”
-Hana looked at him.
->>> “Yes.”   <-- WHO SAYS THIS?
-Tae stared at Haru.
-[tae] “You took three?”
 ```
 
 ### Chapter 400 — Take Him Before I Change My Mind

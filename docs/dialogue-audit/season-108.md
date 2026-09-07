@@ -1,6 +1,6 @@
 # Season 108 — unattributed dialogue
 
-30 quoted lines in this season have no speaker.
+27 quoted lines in this season have no speaker.
 See `README.md` in this folder for what to do with them.
 
 Lines already resolved show their speaker in `[brackets]` for context.
@@ -44,24 +44,8 @@ Aldric looked at him.
 “My lord—”
 [aldric] “We purchase what can be purchased, borrow against the Wuyue shipment, and cut military issue before taking seed grain.”
 >>> “That reduces readiness.”   <-- WHO SAYS THIS?
-“Yes.”
+[aldric] “Yes.”
 The word landed harder than a heroic speech.
-```
-```
-“My lord—”
-[aldric] “We purchase what can be purchased, borrow against the Wuyue shipment, and cut military issue before taking seed grain.”
-“That reduces readiness.”
->>> “Yes.”   <-- WHO SAYS THIS?
-The word landed harder than a heroic speech.
-Aldric continued. “A government that saves its army by ensuring nobody can plant after the war has defended a uniform, not a country.”
-```
-```
-Eirik understood what that meant. Every functioning day weakened the strongest part of his political argument: that only imposed order could save the north from itself.
-Near sunset, Solveig placed the morning’s three denied petitions back on Aldric’s desk.
-[solveig] “Keep them.”
->>> “Why?”   <-- WHO SAYS THIS?
-[solveig] “Because when this is over, somebody will claim emergency command worked because everyone agreed.”
-Aldric looked around the hall.
 ```
 
 ### Chapter 436 — The Soldiers Learn What Five Years Means
@@ -209,16 +193,8 @@ It had made him increasingly certain that because his answers worked, he had ear
 Sera folded the pages.
 “Still good?” Kael asked.
 >>> “Yes.”   <-- WHO SAYS THIS?
-“Why?”
+[kael] “Why?”
 [sera] “Because legends become easier to fight when you know what they actually learned.”
-```
-```
-Sera folded the pages.
-“Still good?” Kael asked.
-“Yes.”
->>> “Why?”   <-- WHO SAYS THIS?
-[sera] “Because legends become easier to fight when you know what they actually learned.”
-Jin looked at her.
 ```
 
 ### Chapter 438 — Shunto Guards the Center

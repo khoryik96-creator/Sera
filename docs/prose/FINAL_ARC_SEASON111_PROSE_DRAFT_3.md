@@ -476,7 +476,7 @@ Shunto flexed his fingers.
 
 “Yes.”
 
-“Good.”
+[[speaker:luo]]“Good.”
 
 Shunto's smile faded.
 
@@ -1080,7 +1080,7 @@ Shunto breathed shallowly.
 
 Luo finally looked at him.
 
-“No.”
+[[speaker:luo]]“No.”
 
 Something like anger returned to Shunto's eyes.
 
@@ -1152,7 +1152,7 @@ Luo did not look up.
 
 “Doctor.”
 
-“What?”
+[[speaker:luo]]“What?”
 
 The air changed.
 

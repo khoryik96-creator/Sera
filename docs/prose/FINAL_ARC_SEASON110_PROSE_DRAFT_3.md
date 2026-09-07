@@ -328,7 +328,7 @@ She stopped.
 
 Her back remained toward him.
 
-“No.”
+[[speaker:hana]]“No.”
 
 The answer was true.
 
@@ -966,7 +966,7 @@ Aya looked at both.
 
 Hana's mouth twisted.
 
-“Yes.”
+[[speaker:hana]]“Yes.”
 
 [[speaker:aya]]“We have no authority to rewrite policy.”
 

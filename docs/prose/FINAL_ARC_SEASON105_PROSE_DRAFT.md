@@ -174,7 +174,7 @@ Formation.
 
 Aya stepped closer.
 
-“No.”
+[[speaker:aya]]“No.”
 
 The officer blinked.
 
@@ -712,7 +712,7 @@ A colonel entered.
 
 Aya did not look up.
 
-“What?”
+[[speaker:aya]]“What?”
 
 “Command requests readiness estimate for surviving Redline formations.”
 
@@ -1052,7 +1052,7 @@ The clerk beside her stared.
 
 “Physician—”
 
-“Copy it.”
+[[speaker:aya]]“Copy it.”
 
 “Command has not approved—”
 
@@ -1102,7 +1102,7 @@ Aya looked back at the nineteen-year-old soldier.
 
 His future had already been affected.
 
-“Good.”
+[[speaker:aya]]“Good.”
 
 That was the moment Aya stopped merely reducing harm quietly.
 
@@ -1116,7 +1116,7 @@ Luo Wen put six watches on Jin Seoryu’s table.
 
 Jin looked at them.
 
-“Why?”
+[[speaker:jin]]“Why?”
 
 [[speaker:luo]]“Because you keep saying five minutes as if war respects clocks.”
 

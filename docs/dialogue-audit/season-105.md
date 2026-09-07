@@ -1,6 +1,6 @@
 # Season 105 — unattributed dialogue
 
-84 quoted lines in this season have no speaker.
+74 quoted lines in this season have no speaker.
 See `README.md` in this folder for what to do with them.
 
 Lines already resolved show their speaker in `[brackets]` for context.
@@ -72,16 +72,8 @@ The words landed badly.
 Not individual catastrophic necessity.
 ```
 ```
-Not selected breach response.
-Formation.
 Aya stepped closer.
->>> “No.”   <-- WHO SAYS THIS?
-The officer blinked.
-“Excuse me?”
-```
-```
-Aya stepped closer.
-“No.”
+[aya] “No.”
 The officer blinked.
 >>> “Excuse me?”   <-- WHO SAYS THIS?
 [aya] “No mass same-window 3× activation.”
@@ -219,20 +211,12 @@ A command decision had taken years from hundreds of people in one afternoon.
 A colonel entered.
 >>> “Physician Katsuragi.”   <-- WHO SAYS THIS?
 Aya did not look up.
-“What?”
-```
-```
-A colonel entered.
-“Physician Katsuragi.”
-Aya did not look up.
->>> “What?”   <-- WHO SAYS THIS?
-“Command requests readiness estimate for surviving Redline formations.”
-Her hand stopped.
+[aya] “What?”
 ```
 ```
 “Physician Katsuragi.”
 Aya did not look up.
-“What?”
+[aya] “What?”
 >>> “Command requests readiness estimate for surviving Redline formations.”   <-- WHO SAYS THIS?
 Her hand stopped.
 [aya] “Readiness.”
@@ -469,21 +453,13 @@ On the first page she wrote:
 **3× REDLINE: APPROXIMATELY FIVE MINUTES OF TRIPLE COMBAT THROUGHPUT. STANDARD HEALTHY-ADULT FUTURE-LIFE COST MAY APPROXIMATE FIVE YEARS. REPEAT USE COMPOUNDS SHARPLY.**
 The clerk beside her stared.
 >>> “Physician—”   <-- WHO SAYS THIS?
-“Copy it.”
-“Command has not approved—”
-```
-```
-**3× REDLINE: APPROXIMATELY FIVE MINUTES OF TRIPLE COMBAT THROUGHPUT. STANDARD HEALTHY-ADULT FUTURE-LIFE COST MAY APPROXIMATE FIVE YEARS. REPEAT USE COMPOUNDS SHARPLY.**
-The clerk beside her stared.
-“Physician—”
->>> “Copy it.”   <-- WHO SAYS THIS?
-“Command has not approved—”
 [aya] “Copy it.”
+“Command has not approved—”
 ```
 ```
 The clerk beside her stared.
 “Physician—”
-“Copy it.”
+[aya] “Copy it.”
 >>> “Command has not approved—”   <-- WHO SAYS THIS?
 [aya] “Copy it.”
 Her voice did not rise.
@@ -543,24 +519,6 @@ The officer’s jaw tightened.
 >>> “This will affect battlefield readiness.”   <-- WHO SAYS THIS?
 Aya looked back at the nineteen-year-old soldier.
 His future had already been affected.
-```
-```
-“This will affect battlefield readiness.”
-Aya looked back at the nineteen-year-old soldier.
-His future had already been affected.
->>> “Good.”   <-- WHO SAYS THIS?
-That was the moment Aya stopped merely reducing harm quietly.
-She began resisting the machine using the authority the machine had given her.
-```
-
-### Chapter 405 — Five Minutes
-
-```
-Luo Wen put six watches on Jin Seoryu’s table.
-Jin looked at them.
->>> “Why?”   <-- WHO SAYS THIS?
-[luo] “Because you keep saying five minutes as if war respects clocks.”
-[jin] “I do not.”
 ```
 
 ### Chapter 406 — The First Five-Minute Retreat
@@ -628,52 +586,6 @@ Jin looked at him.
 >>> “Yes.”   <-- WHO SAYS THIS?
 That was the point.
 War was not finding one clever answer and keeping it forever.
-```
-
-### Chapter 407 — Kai Moriyama Arrives
-
-```
-[kai] “Battle?”
-[kenji] “Yes.”
-[kai] “Was he trying to kill you?”
->>> “Yes.”   <-- WHO SAYS THIS?
-[kai] “Then don’t turn honesty into self-indulgence.”
-Kenji looked back.
-```
-```
-Kai looked at the latter longest.
-[kai] “How many mass activations?”
-[eirik] “Two major,” Eirik said. “Several smaller.”
->>> “Aya?”   <-- WHO SAYS THIS?
-She looked at him.
-[aya] “Too many.”
-```
-```
-[kai] “Sera.”
-“Peak Paragon,” Eirik said.
-[kai] “Kael?”
->>> “New Paragon. Better than initial model.”   <-- WHO SAYS THIS?
-Jun said, “He learns quickly.”
-Kai looked at him.
-```
-
-### Chapter 408 — Kael Learns What High Paragon Means
-
-```
-Assessment.
-[kai] “You’re done.”
-Kael looked up.
->>> “No.”   <-- WHO SAYS THIS?
-[kai] “You are.”
-[kael] “No.”
-```
-```
-Sera looked at Kael.
-[sera] “You learned?”
-He glared.
->>> “Yes.”   <-- WHO SAYS THIS?
-[sera] “Good.”
-Then she looked at Kai.
 ```
 
 ### Chapter 409 — Pale Orchid

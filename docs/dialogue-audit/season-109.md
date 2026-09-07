@@ -1,39 +1,9 @@
 # Season 109 — unattributed dialogue
 
-41 quoted lines in this season have no speaker.
+29 quoted lines in this season have no speaker.
 See `README.md` in this folder for what to do with them.
 
 Lines already resolved show their speaker in `[brackets]` for context.
-
-### Chapter 442 — Six Months of Names
-
-```
-Lu did not need to.
-[luweiran] “They heard.”
-Rhen's expression softened.
->>> “Good.”   <-- WHO SAYS THIS?
-The door opened.
-Tae Muyeon stood first.
-```
-
-### Chapter 443 — The Three Who Stayed Home
-
-```
-He turned his face toward Rhen.
-[qin] “Now I can't find the bell.”
-Rhen absorbed that.
->>> “Good.”   <-- WHO SAYS THIS?
-Tae threw both hands up.
-[tae] “Of course that's your answer.”
-```
-```
-Rhen looked at Lu.
-[rhen] “So helping.”
-Lu sighed.
->>> “Yes.”   <-- WHO SAYS THIS?
-Rhen turned toward the door.
-Before he reached it, Tae spoke.
-```
 
 ### Chapter 444 — Black Radiance and the Hidden Petal
 
@@ -86,14 +56,6 @@ Lu and Yurushi both stared at him.
 Rhen sighed.
 ```
 ```
-Yurushi looked at him for a long moment.
-[black_radiance] “You're not asking me.”
-[rhen] “No.”
->>> “Why?”   <-- WHO SAYS THIS?
-[rhen] “Because Yun's story is not mine to turn into curiosity.”
-Yurushi's expression softened.
-```
-```
 Yurushi hesitated only once.
 [black_radiance] “Sera did not wait for you.”
 Rhen's expression softened.
@@ -140,44 +102,12 @@ The sentry ran toward the hospital instead of the command post.
 Rhen nodded approvingly.
 ```
 ```
-Arin's voice softened.
-[arin] “Don't make a joke first.”
-Rhen looked at her.
->>> “Why?”   <-- WHO SAYS THIS?
-[arin] “Because she has spent six months threatening people who try to take care of her.”
-[rhen] “That sounds normal.”
-```
-```
 Arin looked at him with the tired seriousness of someone who had watched Sera carry too many lists.
 [arin] “She did well.”
 Rhen's expression changed.
 >>> “I know.”   <-- WHO SAYS THIS?
 He entered.
 Sera was standing over a map.
-```
-```
-Sera released Rhen's wrist.
-[sera] “Of course.”
-Rhen looked mildly defensive.
->>> “What?”   <-- WHO SAYS THIS?
-[sera] “I spend six months becoming increasingly unreasonable, and you come back with a new reason for everybody else to be unreasonable around you.”
-[rhen] “I didn't choose the color.”
-```
-```
-[jin] “Lu did?”
-[rhen] “He used names first.”
-Jin nodded once.
->>> “Good.”   <-- WHO SAYS THIS?
-Rhen looked toward Solveig.
-[rhen] “Acting War Commander?”
-```
-```
-[sera] “Can you even do that after what you just did to yourself?”
-Rhen looked at the pale-violet petal beside him.
-Then at the hospital fields beyond the tent.
->>> “Yes.”   <-- WHO SAYS THIS?
-No boasting.
-No drama.
 ```
 ```
 [sera] “I know.”
@@ -233,14 +163,6 @@ Frost-white petals still covered the sky.
 
 ### Chapter 448 — Aya Watches Another Physician
 
-```
-She forced herself not to look away.
-“That is not the same as saying I bear no responsibility,” she added.
-Rhen nodded once.
->>> “No.”   <-- WHO SAYS THIS?
-Aya waited for judgment.
-It did not come.
-```
 ```
 [aya] “You keep saying that.”
 [rhen] “It keeps being true.”
@@ -325,37 +247,10 @@ Maedra sat.
 Sera watched from the entrance, delighted.
 ```
 ```
-Maedra looked toward them.
-[maedra] “Are you two going to stand there flirting while I'm imprisoned?”
-Sera smiled.
->>> “Yes.”   <-- WHO SAYS THIS?
-Rhen nodded.
-[rhen] “Probably.”
-```
-```
 Maedra closed her eyes.
 [maedra] “War was simpler.”
 The surgeon patted her shoulder.
 >>> “No, it wasn't.”   <-- WHO SAYS THIS?
 Rhen checked Maedra's circulation himself.
 Her worst damage had not been broken bone or torn muscle. It was the repeated overpressure through already unstable meridians after Eldran took the killing sequence meant for her. She had continued fighting through grief, command collapse and a body that had been operating on borrowed repair for months.
-```
-```
-Solveig took the command seal from her belt.
-[solveig] “Good,” she said. “You're standing.”
-Aldric nodded.
->>> “Apparently.”   <-- WHO SAYS THIS?
-She held the seal out.
-[solveig] “Then take this.”
-```
-
-### Chapter 450 — Rhen Does Not Take Command
-
-```
-Jin answered.
-A third asked whether Rhen could destroy Shinsei's northern fleet.
-Rhen considered this.
->>> “Probably.”   <-- WHO SAYS THIS?
-The room went silent again.
-Rhen added, “Should I?”
 ```

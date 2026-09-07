@@ -92,7 +92,7 @@ Sera's eyes narrowed.
 
 Tsubasa wiped his mouth.
 
-“Good.”
+[[speaker:tsubasa]]“Good.”
 
 She stared at him.
 
@@ -1010,7 +1010,7 @@ Jin did not look away.
 
 Kael's face tightened.
 
-“Yes.”
+[[speaker:kael]]“Yes.”
 
 That was the truth.
 

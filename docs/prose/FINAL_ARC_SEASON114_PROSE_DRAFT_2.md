@@ -662,7 +662,7 @@ Luo's eyes shifted toward her.
 
 Aya nodded.
 
-“No.”
+[[speaker:aya]]“No.”
 
 Luo looked toward Yun's stone.
 

@@ -400,7 +400,7 @@ Then at the unconscious guard.
 
 Aya was already kneeling beside him.
 
-“Yes.”
+[[speaker:aya]]“Yes.”
 
 Tsubasa's jaw tightened.
 
@@ -1326,7 +1326,7 @@ His eyes flicked there once.
 
 Kael saw it.
 
-“No.”
+[[speaker:kael]]“No.”
 
 Shunto looked back at him.
 
@@ -1708,7 +1708,7 @@ The engineers stared at him.
 
 Kael nodded.
 
-“Later.”
+[[speaker:kael]]“Later.”
 
 Shunto lay beneath broken stone.
 

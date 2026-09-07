@@ -272,7 +272,7 @@ Rhen sighed.
 
 Rhen thought about that.
 
-“No.”
+[[speaker:rhen]]“No.”
 
 Tsubasa wrapped the chain around his forearm manually.
 
@@ -538,7 +538,7 @@ Rhen looked at him.
 
 Tsubasa stopped.
 
-“What?”
+[[speaker:tsubasa]]“What?”
 
 [[speaker:rhen]]“That you're strong.”
 
@@ -552,7 +552,7 @@ Tsubasa's eyes narrowed.
 
 Rhen nodded.
 
-“Fine.”
+[[speaker:rhen]]“Fine.”
 
 Tsubasa took another step.
 
@@ -644,7 +644,7 @@ Tsubasa laughed weakly.
 
 Rhen considered.
 
-“Sorry.”
+[[speaker:rhen]]“Sorry.”
 
 [[speaker:tsubasa]]“You're not.”
 
@@ -1050,7 +1050,7 @@ Kai stared.
 
 [[speaker:rhen]]“Yes.”
 
-“Why?”
+[[speaker:kai]]“Why?”
 
 [[speaker:rhen]]“Because if I call it something it isn't, somebody will try to use the wrong answer later.”
 
@@ -1070,7 +1070,7 @@ His natural Paragon cultivation remained.
 
 Rhen looked at him.
 
-“No.”
+[[speaker:rhen]]“No.”
 
 Jun's eyes narrowed.
 
@@ -1260,7 +1260,7 @@ Rhen looked at Sera.
 
 Sera laughed.
 
-“Good.”
+[[speaker:sera]]“Good.”
 
 Aya walked onto the field with her needles already in hand.
 

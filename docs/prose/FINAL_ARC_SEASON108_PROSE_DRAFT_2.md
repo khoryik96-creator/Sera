@@ -415,7 +415,7 @@ Sera folded the pages.
 
 “Yes.”
 
-“Why?”
+[[speaker:kael]]“Why?”
 
 [[speaker:sera]]“Because legends become easier to fight when you know what they actually learned.”
 

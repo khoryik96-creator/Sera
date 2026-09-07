@@ -680,7 +680,7 @@ Qin smiled.
 
 She sat down.
 
-“Yes.”
+[[speaker:arin]]“Yes.”
 
 When they traveled together, she described places to him.
 
@@ -956,7 +956,7 @@ Sera watched him.
 
 [[speaker:sera]]“Yes.”
 
-“Why?”
+[[speaker:rhen]]“Why?”
 
 [[speaker:sera]]“Thinking.”
 
@@ -998,7 +998,7 @@ Then his cheek.
 
 Rhen's expression softened.
 
-“I know.”
+[[speaker:rhen]]“I know.”
 
 [[speaker:sera]]“You slept through a war.”
 
@@ -1084,7 +1084,7 @@ A little wicked.
 
 Rhen looked at her carefully.
 
-“What?”
+[[speaker:rhen]]“What?”
 
 Sera leaned down until her lips were beside his ear.
 
@@ -1118,7 +1118,7 @@ Rhen's eyes widened by perhaps half a fraction.
 
 For him, this was panic.
 
-“Sera.”
+[[speaker:rhen]]“Sera.”
 
 [[speaker:sera]]“You heard me.”
 

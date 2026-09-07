@@ -336,7 +336,7 @@ She forced herself not to look away.
 
 Rhen nodded once.
 
-“No.”
+[[speaker:rhen]]“No.”
 
 Aya waited for judgment.
 
@@ -728,7 +728,7 @@ Maedra looked toward them.
 
 Sera smiled.
 
-“Yes.”
+[[speaker:sera]]“Yes.”
 
 Rhen nodded.
 
@@ -1040,7 +1040,7 @@ Solveig took the command seal from her belt.
 
 Aldric nodded.
 
-“Apparently.”
+[[speaker:aldric]]“Apparently.”
 
 She held the seal out.
 
@@ -1232,7 +1232,7 @@ A third asked whether Rhen could destroy Shinsei's northern fleet.
 
 Rhen considered this.
 
-“Probably.”
+[[speaker:rhen]]“Probably.”
 
 The room went silent again.
 

@@ -833,7 +833,7 @@ Haru’s eyes narrowed.
 
 Hana breathed carefully.
 
-“Yes.”
+[[speaker:hana]]“Yes.”
 
 Yurushi heard.
 

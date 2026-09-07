@@ -1,6 +1,6 @@
 # Season 111 — unattributed dialogue
 
-65 quoted lines in this season have no speaker.
+55 quoted lines in this season have no speaker.
 See `README.md` in this folder for what to do with them.
 
 Lines already resolved show their speaker in `[brackets]` for context.
@@ -126,14 +126,6 @@ The supply officer at the checkpoint held up a hand.
 >>> “Seal.”   <-- WHO SAYS THIS?
 Shunto showed the old travel token on instinct.
 The man looked at it.
-```
-```
-Then at the unconscious guard.
-[tsubasa] “Alive?”
-Aya was already kneeling beside him.
->>> “Yes.”   <-- WHO SAYS THIS?
-Tsubasa's jaw tightened.
-Hana looked toward the south gate.
 ```
 ```
 Hana looked toward the south gate.
@@ -323,55 +315,6 @@ Luo folded his sleeves higher.
 [luo] “I wasn't asking.”
 ```
 
-### Chapter 463 — Worldweight Against Hundred Locks
-
-```
-Shunto noticed Luo looking.
-His eyes flicked there once.
-Kael saw it.
->>> “No.”   <-- WHO SAYS THIS?
-Shunto looked back at him.
-[shunto] “I didn't say anything.”
-```
-
-### Chapter 464 — Kael Makes Him Pay
-
-```
-The engineers stared at him.
-“Later!” Luo shouted.
-Kael nodded.
->>> “Later.”   <-- WHO SAYS THIS?
-Shunto lay beneath broken stone.
-For three breaths, he did not move.
-```
-
-### Chapter 466 — Luo Becomes the Real Target
-
-```
-Shunto stared.
-[shunto] “You're making this tedious.”
-Kael's mouth was full of blood.
->>> “Good.”   <-- WHO SAYS THIS?
-Another kick.
-Kael rolled with it and used the motion to pull Shunto off-line.
-```
-```
-Blood ran from his mouth.
-“Careful,” he said.
-Shunto glanced at him.
->>> “With what?”   <-- WHO SAYS THIS?
-Kael's voice lost every trace of humor.
-[kael] “My patience.”
-```
-```
-Shunto looked down again.
-[shunto] “Really?”
-Kael pulled himself up using Shunto's body.
->>> “Yes.”   <-- WHO SAYS THIS?
-Shunto backhanded him with the hook guard.
-Kael went down.
-```
-
 ### Chapter 467 — Number One Stands Here
 
 ```
@@ -381,14 +324,6 @@ Kael spat red into the road.
 >>> “No.”   <-- WHO SAYS THIS?
 [shunto] “Then why are you standing?”
 Kael looked at Luo.
-```
-```
-Shunto smiled.
-[shunto] “Missed.”
-Luo looked at the discarded needle.
->>> “Yes.”   <-- WHO SAYS THIS?
-Shunto's smile faded.
-Something in Luo's tone bothered him.
 ```
 
 ### Chapter 468 — Undertaker's Measure
@@ -417,16 +352,8 @@ Luo watched the smile.
 [luo] “Better?”
 Shunto flexed his fingers.
 >>> “Yes.”   <-- WHO SAYS THIS?
-“Good.”
+[luo] “Good.”
 Shunto's smile faded.
-```
-```
-[luo] “Better?”
-Shunto flexed his fingers.
-“Yes.”
->>> “Good.”   <-- WHO SAYS THIS?
-Shunto's smile faded.
-Luo raised one finger.
 ```
 ```
 He looked toward Luo.
@@ -472,14 +399,6 @@ Shunto breathed shallowly.
 [shunto] “Then do it.”
 ```
 ```
-Shunto breathed shallowly.
-[shunto] “Then do it.”
-Luo finally looked at him.
->>> “No.”   <-- WHO SAYS THIS?
-Something like anger returned to Shunto's eyes.
-Luo leaned closer.
-```
-```
 Hands visible.
 The corridor troops raised bows anyway.
 The Shinsei captain stopped well outside range.
@@ -500,16 +419,8 @@ Luo did not look up.
 Luo did not look up.
 [luo] “Busy.”
 >>> “Doctor.”   <-- WHO SAYS THIS?
-“What?”
+[luo] “What?”
 The air changed.
-```
-```
-Luo did not look up.
-[luo] “Busy.”
-“Doctor.”
->>> “What?”   <-- WHO SAYS THIS?
-The air changed.
-Rhen stepped onto the road.
 ```
 ```
 [rhen] “Yes.”

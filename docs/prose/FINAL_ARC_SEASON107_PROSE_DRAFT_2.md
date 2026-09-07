@@ -51,7 +51,7 @@ She looked at the formation board.
 
 [[speaker:arin]]“Sent north: eighteen hundred.”
 
-“Yes.”
+[[speaker:jin]]“Yes.”
 
 [[speaker:arin]]“Current available after dead, hospitalized and rotation: one thousand six hundred seventy-two.”
 
@@ -163,7 +163,7 @@ Today they needed six minutes.
 
 Lei had three.
 
-“Hold.”
+[[speaker:lei]]“Hold.”
 
 His officers looked at the Redline wave.
 
@@ -449,7 +449,7 @@ Kai laughed.
 
 Sera looked at him.
 
-“No.”
+[[speaker:sera]]“No.”
 
 Then **The Orchid Blooms Only Once** began building.
 
@@ -883,7 +883,7 @@ Luo pointed at her without looking.
 
 [[speaker:luo]]“That.”
 
-“I know.”
+[[speaker:sera]]“I know.”
 
 He turned back to the map.
 

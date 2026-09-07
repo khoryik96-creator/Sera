@@ -220,7 +220,7 @@ Rhen considered.
 
 Tsubasa almost smiled.
 
-“No.”
+[[speaker:tsubasa]]“No.”
 
 Rhen touched two fingers to his wrist.
 
@@ -474,7 +474,7 @@ Aya's voice hardened.
 
 Tsubasa nodded.
 
-“Good.”
+[[speaker:tsubasa]]“Good.”
 
 Aya stared at him.
 
@@ -494,7 +494,7 @@ Tsubasa looked at his hands.
 
 Aya folded her arms.
 
-“Yes.”
+[[speaker:aya]]“Yes.”
 
 [[speaker:tsubasa]]“And then I met someone stronger.”
 
@@ -504,7 +504,7 @@ Aya's eyes narrowed.
 
 Tsubasa looked at her.
 
-“No.”
+[[speaker:tsubasa]]“No.”
 
 He turned toward the open pavilion flap.
 
@@ -626,7 +626,7 @@ Eirik spoke first.
 
 [[speaker:tsubasa]]“Yes.”
 
-“Good.”
+[[speaker:eirik]]“Good.”
 
 Sera studied him.
 
@@ -704,7 +704,7 @@ Tsubasa glanced at him.
 
 Rhen took another sip.
 
-“Yes.”
+[[speaker:rhen]]“Yes.”
 
 [[speaker:tsubasa]]“And you still leave the terms to them.”
 
