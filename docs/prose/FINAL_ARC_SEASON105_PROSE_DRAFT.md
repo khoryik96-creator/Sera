@@ -228,7 +228,7 @@ Aya knew that.
 
 She also knew what several thousand 3× doses meant inside living bodies.
 
-“Necessary to whom?” she asked.
+[[speaker:aya]]“Necessary to whom?” she asked.
 
 Jun did not answer.
 
@@ -658,7 +658,7 @@ His meridians were torn but salvageable.
 
 His future vitality loss was not.
 
-“How many doses?” she asked.
+[[speaker:aya]]“How many doses?” she asked.
 
 “One.”
 
@@ -1020,7 +1020,7 @@ She removed one damaged needle and replaced it.
 
 The soldier flinched.
 
-“Sorry,” she said.
+[[speaker:aya]]“Sorry,” she said.
 
 Not for the needle.
 

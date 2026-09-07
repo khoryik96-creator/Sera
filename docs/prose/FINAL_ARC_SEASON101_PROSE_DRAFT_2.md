@@ -20,7 +20,7 @@ Three weeks of preparation disappearing beneath his hand.
 
 Tsubasa Kurokawa watched from the center of the command chamber.
 
-“Again,” he said.
+[[speaker:tsubasa]]“Again,” he said.
 
 Haru did not complain.
 
@@ -272,7 +272,7 @@ He had watched that disease destroy Shinrin once.
 
 He would not pretend his fear was imaginary simply because his answer had become dangerous.
 
-“I think Isgard cannot sustain another decade like the last two years,” he said.
+[[speaker:tsubasa]]“I think Isgard cannot sustain another decade like the last two years,” he said.
 
 [[speaker:kai]]Kai said, “Then trade with them.”
 
@@ -460,7 +460,7 @@ Jin nearly killed none of them.
 
 This was considered growth.
 
-“Again,” he said.
+[[speaker:jin]]“Again,” he said.
 
 The youngest clerk stared at the deployment board.
 
@@ -518,7 +518,7 @@ Six thousand sounded small beside the army carrying his name.
 
 The current Kael had buried enough soldiers to understand why thirty-eight thousand staying home could be the stronger decision.
 
-“Most of Stonecrown's fixed defence remains,” he said.
+[[speaker:kael]]“Most of Stonecrown's fixed defence remains,” he said.
 
 Jin nodded.
 
@@ -966,7 +966,7 @@ He had also waited outside until an apprentice carrying laundry finished using t
 
 Sera had noticed that too.
 
-“Start at the point you found Yun,” she said.
+[[speaker:sera]]“Start at the point you found Yun,” she said.
 
 Yurushi did.
 
@@ -1303,3 +1303,4 @@ She lifted her tea.
 Yurushi looked down at the first ledger.
 
 He was still reading when dinner arrived.
+

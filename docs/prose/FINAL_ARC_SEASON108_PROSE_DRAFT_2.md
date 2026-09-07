@@ -237,7 +237,7 @@ Three days later, the answer returned.
 
 Sera read the report beside a field brazier while Luo changed the bandage under her ribs.
 
-“Hold still,” he said.
+[[speaker:luo]]“Hold still,” he said.
 
 [[speaker:sera]]“I am holding still.”
 

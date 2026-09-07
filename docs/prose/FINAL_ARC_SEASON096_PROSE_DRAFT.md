@@ -564,7 +564,7 @@ Rhen’s expression softened.
 
 She settled back against him.
 
-After a moment she said, “You owe me a teapot.”
+[[speaker:sera]]After a moment she said, “You owe me a teapot.”
 
 [[speaker:rhen]]“I’ll buy one tomorrow.”
 
@@ -682,7 +682,7 @@ The Unseen Gale had earned the title because people usually noticed the result o
 
 In person, Sera was discovering, that principle extended well beyond martial arts.
 
-“You dislike institutions,” she said.
+[[speaker:sera]]“You dislike institutions,” she said.
 
 Xie’s expression did not change.
 
@@ -782,7 +782,7 @@ Quaint members moved in and out of the rear courtyard carrying medicine, tea, be
 
 One thousand people, all at least Marquis, and most of the town still thought the busiest thing they did was unload herbs.
 
-“Do you think Tae obeys me because I own him?” she asked.
+[[speaker:sera]]“Do you think Tae obeys me because I own him?” she asked.
 
 Xie glanced at her.
 
@@ -838,7 +838,7 @@ His eyes did.
 
 Sera stepped past him toward the roof access.
 
-Behind her, he said, “You were waiting to say that.”
+[[speaker:xie_wuchen]]Behind her, he said, “You were waiting to say that.”
 
 [[speaker:sera]]“No.”
 

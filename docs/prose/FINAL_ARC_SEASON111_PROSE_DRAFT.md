@@ -356,7 +356,7 @@ The new labels Aya had forced onto the stock were impossible to miss.
 
 Shunto's mouth tightened.
 
-“Five years,” he murmured.
+[[speaker:shunto]]“Five years,” he murmured.
 
 Then slipped the vial into his coat.
 
@@ -1610,7 +1610,7 @@ Shunto saw that too.
 
 And hated it.
 
-“What are you looking at?” he asked.
+[[speaker:shunto]]“What are you looking at?” he asked.
 
 Luo answered honestly.
 
@@ -1810,8 +1810,9 @@ Then the second.
 
 Then the third.
 
-“Five minutes,” he said.
+[[speaker:luo]]“Five minutes,” he said.
 
 Shunto looked at him.
 
 And vanished forward.
+

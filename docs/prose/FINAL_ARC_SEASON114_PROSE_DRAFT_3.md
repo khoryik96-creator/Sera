@@ -22,7 +22,7 @@ The first permanent Wuyue–Isgard treaty was signed in a hall whose roof still 
 
 Aldric Veyrhald insisted they use it anyway.
 
-“It survived,” he said.
+[[speaker:aldric]]“It survived,” he said.
 
 Maedra Dravaryn looked up at the patched beams.
 
@@ -234,7 +234,7 @@ At the treaty hall, Sera watched Eirik take his place behind Isgard's delegation
 
 Rhen stood beside her.
 
-“You're smiling,” he said.
+[[speaker:rhen]]“You're smiling,” he said.
 
 [[speaker:sera]]“Am I?”
 
@@ -446,7 +446,7 @@ Yurushi opened the mountain-base gate.
 
 They looked at each other.
 
-“No report?” he asked.
+[[speaker:black_radiance]]“No report?” he asked.
 
 [[speaker:hana]]“No.”
 
@@ -788,7 +788,7 @@ Luo reading by the window.
 
 Rhen beside her.
 
-“This was supposed to be a quiet organization,” she said.
+[[speaker:sera]]“This was supposed to be a quiet organization,” she said.
 
 Rhen looked around.
 
@@ -850,7 +850,7 @@ Rhen looked at the tea kettle.
 
 Then at the growing queue.
 
-“Your idea,” he said.
+[[speaker:rhen]]“Your idea,” he said.
 
 [[speaker:sera]]“Our idea.”
 
@@ -952,7 +952,7 @@ Rhen removed his outer coat and hung it beside the door.
 
 Sera watched him.
 
-“You're staring,” he said.
+[[speaker:rhen]]“You're staring,” he said.
 
 [[speaker:sera]]“Yes.”
 
@@ -1160,7 +1160,7 @@ Just Rhen.
 
 When they finally separated, his forehead rested against hers.
 
-“You planned this,” he murmured.
+[[speaker:rhen]]“You planned this,” he murmured.
 
 Sera's smile turned smug.
 
@@ -1219,3 +1219,4 @@ Sera laughed.
 Then the lamp went out.
 
 **END**
+

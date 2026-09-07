@@ -216,7 +216,7 @@ Aldric chose the second.
 
 Eirik had expected that too.
 
-“You always hated long arguments,” he said.
+[[speaker:eirik]]“You always hated long arguments,” he said.
 
 Aldric thrust.
 
@@ -408,7 +408,7 @@ A normal siege commander might have admired it.
 
 Jun did not care.
 
-“Where does the road split behind it?” he asked.
+[[speaker:jun]]“Where does the road split behind it?” he asked.
 
 An officer pointed.
 
@@ -712,7 +712,7 @@ Jun lowered him carefully against the wall.
 
 Halvek's breathing shortened.
 
-“Road?” he asked.
+[[speaker:halvek]]“Road?” he asked.
 
 Jun looked toward the empty gate.
 
@@ -776,7 +776,7 @@ Do not let that happen cleanly.
 
 Raska raised his sword.
 
-“Two passes,” he told his riders.
+[[speaker:raska]]“Two passes,” he told his riders.
 
 His lieutenant looked at the Shinsei line.
 
@@ -858,7 +858,7 @@ This was not a trial ground.
 
 Raska saw the correction in his face.
 
-“You like this,” he said.
+[[speaker:raska]]“You like this,” he said.
 
 Kenji's sword flashed.
 
@@ -1070,7 +1070,7 @@ Nao Shibasaki told Tor Veyrhald exactly what her Domain was doing to him.
 
 He hated her for the courtesy.
 
-“Your output is falling,” she said.
+[[speaker:nao]]“Your output is falling,” she said.
 
 Tor's axe hit her jian hard enough to bend the blade line sideways.
 
@@ -1378,7 +1378,7 @@ Now she was helping one army invade another and telling herself necessity had al
 
 Tor closed his eyes.
 
-“Terrible face,” he muttered.
+[[speaker:tor_veyrhald]]“Terrible face,” he muttered.
 
 Nao looked back.
 
@@ -1393,3 +1393,4 @@ Nao looked back.
 Despite herself, she smiled.
 
 Then ordered the medics to be careful with his left shoulder.
+

@@ -644,7 +644,7 @@ Luo looked at the line for a long time.
 
 Nobody interrupted.
 
-Finally he said, “I know.”
+[[speaker:luo]]Finally he said, “I know.”
 
 He closed the book.
 
@@ -812,7 +812,7 @@ Hana noticed.
 
 Of course she did.
 
-“Maybe longer,” she added.
+[[speaker:hana]]“Maybe longer,” she added.
 
 Yurushi looked away too quickly.
 
@@ -837,3 +837,4 @@ Yun's tea cooled untouched on the table.
 Nobody tried to replace her.
 
 Nobody forgot her. They did not need a second Pale Venom to prove it.
+

@@ -136,7 +136,7 @@ Qin Luo stood in the doorway holding two cups of tea.
 
 He did not need eyes to know what they were doing.
 
-“You're arguing with the sign again,” he said.
+[[speaker:qin]]“You're arguing with the sign again,” he said.
 
 Rhen took one cup.
 
@@ -402,7 +402,7 @@ Sera released Rhen.
 
 His grey eyes stayed on her.
 
-“Was that about the sign?” he asked.
+[[speaker:rhen]]“Was that about the sign?” he asked.
 
 [[speaker:sera]]“No.”
 
@@ -938,7 +938,7 @@ Some marks were not damage.
 
 They were accounting.
 
-“Again,” she said.
+[[speaker:arin]]“Again,” she said.
 
 Six hundred eleven blades rose.
 
@@ -1490,7 +1490,7 @@ Nobody had sent for him.
 
 Sera was not surprised.
 
-“What seal?” he asked.
+[[speaker:luweiran]]“What seal?” he asked.
 
 The courier blinked.
 
@@ -1572,7 +1572,7 @@ Huo looked at him.
 
 Sera ignored them.
 
-“What happened?” she asked Rhen.
+[[speaker:sera]]“What happened?” she asked Rhen.
 
 [[speaker:rhen]]“His cultivation stayed Peak Marquis.”
 

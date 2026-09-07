@@ -12,7 +12,7 @@ Hana Arakawa knew Yurushi was lying before he finished the first sentence.
 
 Yurushi was good at lying. Excessive precision was simply his tell when the truth mattered.
 
-“The eastern medical corridor has an unnecessary double patrol between third and fourth bell,” he said.
+[[speaker:black_radiance]]“The eastern medical corridor has an unnecessary double patrol between third and fourth bell,” he said.
 
 Hana looked up from the deployment ledger.
 
@@ -564,7 +564,7 @@ Not teleportation.
 
 He had been physically pressed behind a storage buttress where the darkness concealed him.
 
-“Late,” he said.
+[[speaker:black_radiance]]“Late,” he said.
 
 [[speaker:yun]]“Guard.”
 
@@ -596,7 +596,7 @@ The worker did not object.
 
 Yun climbed into the covered rear compartment among empty herb crates.
 
-“Humiliating,” she muttered.
+[[speaker:yun]]“Humiliating,” she muttered.
 
 [[speaker:black_radiance]]“Alive.”
 
@@ -718,7 +718,7 @@ Shunto’s own improvements now bought her time.
 
 Yun nearly smiled.
 
-“His training helps,” she said.
+[[speaker:yun]]“His training helps,” she said.
 
 Yurushi understood immediately.
 
@@ -1258,7 +1258,7 @@ Recognition of method.
 
 Someone inside—or close enough to inside—had helped her.
 
-“Find the corridor,” he said.
+[[speaker:shunto]]“Find the corridor,” he said.
 
 A guard bowed.
 
@@ -1275,3 +1275,4 @@ The warning was moving again.
 So was the damage inside her.
 
 Beyond the next door, at last, there was no locked room waiting for her.
+

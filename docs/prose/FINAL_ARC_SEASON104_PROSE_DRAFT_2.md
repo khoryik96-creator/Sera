@@ -579,7 +579,7 @@ She always noticed those things.
 
 Haru noticed her noticing.
 
-“Five minutes,” he said.
+[[speaker:haru]]“Five minutes,” he said.
 
 Hana looked at him.
 

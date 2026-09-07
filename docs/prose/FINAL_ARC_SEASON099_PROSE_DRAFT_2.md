@@ -580,7 +580,7 @@ That answer sounded like history.
 
 Not performance.
 
-She said, “I have evidence.”
+[[speaker:yun]]She said, “I have evidence.”
 
 Yurushi became quiet.
 
@@ -600,7 +600,7 @@ Yun almost smiled.
 
 Three points again.
 
-She said, “The evidence cannot be left behind.”
+[[speaker:yun]]She said, “The evidence cannot be left behind.”
 
 [[speaker:black_radiance]]“Where?”
 
@@ -784,7 +784,7 @@ Anyone who built secret routes through a continental government had to believe t
 
 The question was whether the judgment had limits.
 
-“How many?” she asked.
+[[speaker:yun]]“How many?” she asked.
 
 Yurushi shrugged.
 
@@ -1039,3 +1039,4 @@ They separated before the guard returned.
 Outside, Shinsei’s roads remained orderly, mapped and controlled.
 
 Underneath them, older roads remembered people the government had stopped seeing.
+

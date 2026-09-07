@@ -176,13 +176,13 @@ Aya placed Seven Pulse Needles into a young soldier’s chest.
 ```
 His meridians were torn but salvageable.
 His future vitality loss was not.
-“How many doses?” she asked.
+[aya] “How many doses?” she asked.
 >>> “One.”   <-- WHO SAYS THIS?
 [aya] “Duration?”
 “Four minutes something.”
 ```
 ```
-“How many doses?” she asked.
+[aya] “How many doses?” she asked.
 “One.”
 [aya] “Duration?”
 >>> “Four minutes something.”   <-- WHO SAYS THIS?

@@ -848,7 +848,7 @@ Tsubasa saw it.
 
 Sera saw him see it.
 
-“Don't look so happy,” she said.
+[[speaker:sera]]“Don't look so happy,” she said.
 
 Tsubasa coughed blood.
 
@@ -1120,7 +1120,7 @@ Quietly.
 
 Tsubasa almost collapsed hearing it.
 
-“You are,” he answered.
+[[speaker:tsubasa]]“You are,” he answered.
 
 Sera looked up.
 
@@ -1297,3 +1297,4 @@ He did not need to.
 The strongest conventional cultivator alive was still standing.
 
 And the Petals Monarch preparing to make sure he stood at his very best.
+

@@ -546,7 +546,7 @@ Tsubasa turned toward the exit.
 
 Tsubasa stopped.
 
-Without looking back, he said, “Because there is a difference between discovering that a report is false and discovering that the man who wrote it will lie to my face.”
+[[speaker:tsubasa]]Without looking back, he said, “Because there is a difference between discovering that a report is false and discovering that the man who wrote it will lie to my face.”
 
 Then he left.
 
@@ -1272,7 +1272,7 @@ Hana's Wind Qi whispered once.
 
 Tsubasa did not move.
 
-“Do not,” he said.
+[[speaker:tsubasa]]“Do not,” he said.
 
 Shunto looked at him.
 
@@ -1485,3 +1485,4 @@ He closed his eyes.
 And began counting how long old authority took to die.
 
 The count had not reached zero yet.
+

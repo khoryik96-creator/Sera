@@ -24,7 +24,7 @@ Jin Seoryu stood over the main command table before sunrise with three brushes t
 
 Sera had seen him fight entire campaigns with fewer weapons.
 
-“Again,” she said.
+[[speaker:sera]]“Again,” she said.
 
 A naval clerk swallowed.
 
@@ -254,7 +254,7 @@ Both answers had been variations of no.
 
 He stood over Yun's Axtaya sample with three assistants and a cup of tea that had gone cold enough to become an accusation.
 
-“Do not heat it,” he said when one assistant reached for the kettle.
+[[speaker:luo]]“Do not heat it,” he said when one assistant reached for the kettle.
 
 The assistant froze.
 
@@ -412,7 +412,7 @@ His eyes moved to Haru.
 
 Haru put down the charcoal.
 
-“Not enough,” he said.
+[[speaker:haru]]“Not enough,” he said.
 
 Tsubasa waited.
 
@@ -690,7 +690,7 @@ Sera finally had the question she needed.
 
 Sera looked at the three men who had lived beneath her roof, eaten her food, broken her training grounds, annoyed Lu and somehow become High Paragons while most of the world still thought Wuyue's strength ended at its public ranking board.
 
-“Home,” she said.
+[[speaker:sera]]“Home,” she said.
 
 Huo's brow furrowed.
 
@@ -1054,7 +1054,7 @@ Not too late to keep doing what she sent it to do.
 
 Luo placed one palm over the paper.
 
-“Fine,” he murmured.
+[[speaker:luo]]“Fine,” he murmured.
 
 Sera heard.
 
@@ -1350,7 +1350,7 @@ Hana looked away first.
 
 The fire caught the roof beam.
 
-“Where will you go?” she asked.
+[[speaker:hana]]“Where will you go?” she asked.
 
 [[speaker:black_radiance]]“Somewhere with tea.”
 
@@ -1380,7 +1380,7 @@ Yurushi felt it too.
 
 They had minutes.
 
-She said, “The western inspection office receives the updated route notices at sunset.”
+[[speaker:hana]]She said, “The western inspection office receives the updated route notices at sunset.”
 
 He looked at her.
 
@@ -1406,7 +1406,7 @@ He could tell because he had once spent four years learning which of her silence
 
 He did not laugh.
 
-“Thank you,” he said.
+[[speaker:black_radiance]]“Thank you,” he said.
 
 Her face tightened.
 
@@ -1483,3 +1483,4 @@ Yun Shizhen had crossed half the world carrying a warning for people who might n
 Yurushi had spent years helping people escape through hidden doors.
 
 For once, he intended to walk through one himself.
+

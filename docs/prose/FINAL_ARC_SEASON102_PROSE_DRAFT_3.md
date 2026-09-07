@@ -26,11 +26,11 @@ Yurushi drank it.
 
 On the twelfth, Sera asked him why he kept appearing at breakfast.
 
-He said, “Coincidence.”
+[[speaker:black_radiance]]He said, “Coincidence.”
 
-She said, “Three weeks of coincidence is employment.”
+[[speaker:sera]]She said, “Three weeks of coincidence is employment.”
 
-He said, “I have not accepted wages.”
+[[speaker:black_radiance]]He said, “I have not accepted wages.”
 
 Lu, without looking up from a ledger, said, “You have eaten fourteen meals.”
 

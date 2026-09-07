@@ -198,7 +198,7 @@ Yun smiled despite herself.
 
 He had learned.
 
-“Wet floor?” he asked.
+[[speaker:shunto]]“Wet floor?” he asked.
 
 [[speaker:yun]]“Dangerous.”
 
@@ -288,7 +288,7 @@ No hooks drawn.
 
 Yun stood beside three empty vats.
 
-“You’re improving,” she said.
+[[speaker:yun]]“You’re improving,” she said.
 
 [[speaker:shunto]]“I’ve had a good teacher.”
 
@@ -376,13 +376,13 @@ There was intelligence there.
 
 That was inconvenient.
 
-“You’re looking for Axtaya,” he said.
+[[speaker:shunto]]“You’re looking for Axtaya,” he said.
 
 Yun’s pulse stayed steady.
 
 Shunto watched anyway.
 
-“Interesting,” he murmured.
+[[speaker:shunto]]“Interesting,” he murmured.
 
 [[speaker:yun]]“You say that often?”
 
@@ -854,7 +854,7 @@ Yun stood on the dry edge of the canal.
 
 Shunto stopped fifteen paces away.
 
-“No wet floors today?” he asked.
+[[speaker:shunto]]“No wet floors today?” he asked.
 
 [[speaker:yun]]“Seasonal.”
 
@@ -1105,3 +1105,4 @@ More focused.
 Yun had taught him enough to survive her poison.
 
 Now he intended to learn enough to survive her completely.
+

@@ -60,7 +60,7 @@ Sera came to stand beside him.
 
 She was healed enough to move cleanly again, though the memory of Tsubasa's chain still lived in the set of her shoulders.
 
-“Are they safe?” she asked.
+[[speaker:sera]]“Are they safe?” she asked.
 
 [[speaker:rhen]]“Yes.”
 
@@ -328,7 +328,7 @@ Aya watched his triage order and found almost nothing to disagree with.
 
 That annoyed her too.
 
-“You're doing that wrong,” she said anyway.
+[[speaker:aya]]“You're doing that wrong,” she said anyway.
 
 Rhen looked at the patient between them.
 

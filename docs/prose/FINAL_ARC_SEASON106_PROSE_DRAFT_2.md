@@ -405,7 +405,7 @@ Kenji had spent most of his adult life believing physical consequence clarified 
 
 Now his body was erasing the evidence faster than his mind could.
 
-“If she beats me again?” he asked.
+[[speaker:kenji]]“If she beats me again?” he asked.
 
 [[speaker:aya]]“That is not medical.”
 

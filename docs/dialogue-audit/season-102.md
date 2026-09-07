@@ -9,7 +9,7 @@ Lines already resolved show their speaker in `[brackets]` for context.
 
 ```
 Jun did not care.
-“Where does the road split behind it?” he asked.
+[jun] “Where does the road split behind it?” he asked.
 An officer pointed.
 >>> “Two miles inland.”   <-- WHO SAYS THIS?
 [jun] “Evacuation traffic?”
@@ -84,7 +84,7 @@ The young officer's jaw trembled.
 
 ```
 Raska raised his sword.
-“Two passes,” he told his riders.
+[raska] “Two passes,” he told his riders.
 His lieutenant looked at the Shinsei line.
 >>> “Only two?”   <-- WHO SAYS THIS?
 [raska] “After two, we are tired horses pretending otherwise.”

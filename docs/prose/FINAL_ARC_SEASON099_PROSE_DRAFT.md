@@ -296,7 +296,7 @@ Yun disliked statements.
 
 Shunto stood beyond reach anyway.
 
-“How are the locks?” he asked.
+[[speaker:shunto]]“How are the locks?” he asked.
 
 [[speaker:yun]]“Amateurish.”
 
@@ -532,7 +532,7 @@ He watched her.
 
 Yun watched back.
 
-“Your physician,” he said.
+[[speaker:shunto]]“Your physician,” he said.
 
 [[speaker:yun]]“Many people are physicians.”
 
@@ -1004,7 +1004,7 @@ Yun looked back.
 
 Whatever he expected to see, she refused to perform it for him.
 
-He said, “You should have—”
+[[speaker:shunto]]He said, “You should have—”
 
 [[speaker:yun]]“Do not finish that sentence.”
 
@@ -1192,7 +1192,7 @@ Shunto lifted his right hand.
 
 They stopped.
 
-“When?” he asked.
+[[speaker:shunto]]“When?” he asked.
 
 Yun shrugged.
 
@@ -1254,7 +1254,7 @@ The doctor examined his hand.
 
 Yun watched professionally.
 
-“Delayed peripheral toxin,” she said.
+[[speaker:yun]]“Delayed peripheral toxin,” she said.
 
 The physician glanced at her.
 
@@ -1403,3 +1403,4 @@ Yun looked toward the locked door.
 The prison was still a laboratory.
 
 Now it had introduced a new variable.
+

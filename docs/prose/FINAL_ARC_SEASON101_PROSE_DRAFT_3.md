@@ -546,7 +546,7 @@ The body in the sand had not been arrived at in time.
 
 Kenji looked away.
 
-“Form on the ridge,” he said.
+[[speaker:kenji]]“Form on the ridge,” he said.
 
 No joke this time.
 

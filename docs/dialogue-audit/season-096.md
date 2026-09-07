@@ -85,7 +85,7 @@ The woman offered her a bun.
 ```
 The woman offered her a bun.
 Yun paid.
-“What happens there?” she asked, nodding toward the dispute hall.
+[yun] “What happens there?” she asked, nodding toward the dispute hall.
 >>> “Depends who is lying.”   <-- WHO SAYS THIS?
 [yun] “Clan court?”
 The woman snorted.

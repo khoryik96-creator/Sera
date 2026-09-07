@@ -288,7 +288,7 @@ The man opened a freight panel.
 
 ```
 Someone inside—or close enough to inside—had helped her.
-“Find the corridor,” he said.
+[shunto] “Find the corridor,” he said.
 A guard bowed.
 >>> “And the person?”   <-- WHO SAYS THIS?
 Shunto looked at the open door.

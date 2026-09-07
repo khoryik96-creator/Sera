@@ -1052,7 +1052,7 @@ Wrong room.
 
 Wrong world.
 
-After a long time he asked, “Did she say his name?”
+[[speaker:luo]]After a long time he asked, “Did she say his name?”
 
 [[speaker:sera]]“No.”
 
@@ -1094,7 +1094,7 @@ Luo looked away.
 
 Minutes passed.
 
-Then he said, “I hate you sometimes.”
+[[speaker:luo]]Then he said, “I hate you sometimes.”
 
 [[speaker:sera]]“I know.”
 
@@ -1115,3 +1115,4 @@ He picked up the new poison notes.
 Sera leaned forward.
 
 The room where Yun died became, after Day Zero, a place where something new could begin.
+

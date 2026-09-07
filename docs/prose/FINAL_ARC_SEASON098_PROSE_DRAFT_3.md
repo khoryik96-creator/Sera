@@ -840,7 +840,7 @@ He did not rush.
 
 She kept moving.
 
-“Three months,” he called.
+[[speaker:shunto]]“Three months,” he called.
 
 [[speaker:yun]]“Your hospitality needs work.”
 
@@ -860,7 +860,7 @@ He did not smile.
 
 That was worse.
 
-“You stopped searching,” he said.
+[[speaker:shunto]]“You stopped searching,” he said.
 
 Yun turned to face him.
 
@@ -1317,3 +1317,4 @@ Yun closed her eyes.
 The chase was over.
 
 The warning was not.
+

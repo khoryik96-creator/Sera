@@ -640,7 +640,7 @@ Haru hated that.
 
 Hana understood it better.
 
-“Stop forcing it,” she said.
+[[speaker:hana]]“Stop forcing it,” she said.
 
 [[speaker:haru]]“I know.”
 

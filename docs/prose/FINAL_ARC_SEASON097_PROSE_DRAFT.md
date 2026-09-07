@@ -650,7 +650,7 @@ Sera pinched his side.
 
 Rhen did not flinch.
 
-“That is cheating,” she said.
+[[speaker:sera]]“That is cheating,” she said.
 
 [[speaker:rhen]]“I’m durable.”
 
@@ -674,7 +674,7 @@ Rhen looked at her.
 
 Sera raised one eyebrow.
 
-“Leaving before anyone can depend on you is still a choice,” he said.
+[[speaker:rhen]]“Leaving before anyone can depend on you is still a choice,” he said.
 
 She blinked.
 
@@ -741,3 +741,4 @@ Rhen closed his eyes.
 The frost did not return before morning.
 
 Rhen still did not sleep.
+

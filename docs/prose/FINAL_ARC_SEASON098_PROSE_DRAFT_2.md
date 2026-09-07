@@ -798,7 +798,7 @@ No movement among the graves.
 
 That meant there was definitely movement among the graves.
 
-“You are late,” she said.
+[[speaker:yun]]“You are late,” she said.
 
 Shunto’s mouth twitched.
 
@@ -816,7 +816,7 @@ Yun believed him.
 
 Kindness had nothing to do with it; killing a transport-seal broker would waste information.
 
-“You disappoint me,” she said.
+[[speaker:yun]]“You disappoint me,” she said.
 
 [[speaker:shunto]]“I have had three months to become comfortable with that.”
 
@@ -850,7 +850,7 @@ Yun reached slowly into her sleeve.
 
 Shunto did not flinch.
 
-“Needle?” he asked.
+[[speaker:shunto]]“Needle?” he asked.
 
 [[speaker:yun]]“Handkerchief.”
 
@@ -886,7 +886,7 @@ He had stopped trying to intimidate her into mistakes.
 
 He was collecting them.
 
-“You want out,” he said.
+[[speaker:shunto]]“You want out,” he said.
 
 [[speaker:yun]]“Everyone eventually does.”
 
@@ -950,7 +950,7 @@ Yun respected that.
 
 She also hated him for it.
 
-“You learned,” she said.
+[[speaker:yun]]“You learned,” she said.
 
 [[speaker:shunto]]“So did you.”
 
@@ -1147,3 +1147,4 @@ The empty road did not answer.
 Shunto had returned without touching her once.
 
 And still taken another piece of the map away.
+

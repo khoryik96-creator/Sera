@@ -664,7 +664,7 @@ Sera did not tell him to calm down.
 
 She hated when people did that to her.
 
-Instead she said, “Then we act like she missed the window.”
+[[speaker:sera]]Instead she said, “Then we act like she missed the window.”
 
 Luo’s eyes sharpened.
 
@@ -787,3 +787,4 @@ Day twenty-six became day twenty-seven.
 No message came.
 
 By then, nobody at the Quaint Teahouse called the delay ordinary.
+

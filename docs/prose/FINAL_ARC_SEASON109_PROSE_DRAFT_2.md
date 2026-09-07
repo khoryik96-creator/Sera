@@ -134,7 +134,7 @@ Rhen stopped.
 
 Every broom froze.
 
-“Good work,” he said.
+[[speaker:rhen]]“Good work,” he said.
 
 The apprentices bowed so quickly one struck another with the handle.
 
@@ -698,7 +698,7 @@ Rhen's jaw tightened.
 
 Sera felt it.
 
-“Don't,” she said into his coat.
+[[speaker:sera]]“Don't,” she said into his coat.
 
 [[speaker:rhen]]“I didn't say anything.”
 
@@ -896,7 +896,7 @@ Sera noticed.
 
 That improved her mood considerably.
 
-“Good,” she said.
+[[speaker:sera]]“Good,” she said.
 
 Rhen blinked.
 
@@ -1110,7 +1110,7 @@ Luo Wen received it with relief.
 
 Sera received it while Rhen was repairing the torn circulation beneath her ribs and therefore lacked the leverage to object.
 
-“This is cheating,” she said.
+[[speaker:sera]]“This is cheating,” she said.
 
 Rhen's hand rested lightly against her side through layers of clothing and bandage.
 
@@ -1156,7 +1156,7 @@ Rhen moved to the shoulder channel.
 
 Sera went quiet.
 
-“Better?” he asked.
+[[speaker:rhen]]“Better?” he asked.
 
 [[speaker:sera]]“Don't look smug.”
 
@@ -1414,7 +1414,7 @@ Fully restored, she spent the morning walking sectors, resolving arguments and f
 
 At noon, Jin found her carrying two bowls of broth.
 
-“One is for him?” he asked.
+[[speaker:jin]]“One is for him?” he asked.
 
 [[speaker:sera]]“Yes.”
 
@@ -1462,7 +1462,7 @@ Frost-white petals still covered the sky.
 
 The pale violet within them had not dimmed.
 
-“I don't know,” she said.
+[[speaker:sera]]“I don't know,” she said.
 
 The captain swallowed.
 
@@ -1475,3 +1475,4 @@ Night settled over Isgard.
 The Sanctuary remained.
 
 That night, thousands of wounded soldiers slept beneath a sky they did not have to watch.
+

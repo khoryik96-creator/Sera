@@ -9,7 +9,7 @@ Lines already resolved show their speaker in `[brackets]` for context.
 
 ```
 Sera had seen him fight entire campaigns with fewer weapons.
-“Again,” she said.
+[sera] “Again,” she said.
 A naval clerk swallowed.
 >>> “Forty-six deep-hull transports confirmed within nine days. Another nineteen if Stonecrown releases civilian grain carriers.”   <-- WHO SAYS THIS?
 [jin] “Do not count grain carriers twice,” Jin said.
@@ -73,7 +73,7 @@ He signed anyway.
 ```
 ```
 He stood over Yun's Axtaya sample with three assistants and a cup of tea that had gone cold enough to become an accusation.
-“Do not heat it,” he said when one assistant reached for the kettle.
+[luo] “Do not heat it,” he said when one assistant reached for the kettle.
 The assistant froze.
 >>> “The tea?”   <-- WHO SAYS THIS?
 [luo] “The sample.”
@@ -253,7 +253,7 @@ Yurushi looked back at the safehouse.
 
 ```
 This was considered growth.
-“Again,” he said.
+[jin] “Again,” he said.
 The youngest clerk stared at the deployment board.
 >>> “Sixty percent of continental combat strength—”   <-- WHO SAYS THIS?
 [jin] “No.”

@@ -44,7 +44,7 @@ The difference should have made Aya distrust Rhen.
 
 Instead it made her distrust the universe.
 
-“I am not offended,” she said.
+[[speaker:aya]]“I am not offended,” she said.
 
 [[speaker:luo]]“Good.”
 
@@ -148,7 +148,7 @@ Aya stopped.
 
 Luo did not.
 
-“You're late,” he said.
+[[speaker:luo]]“You're late,” he said.
 
 Rhen looked at Aya.
 
@@ -306,7 +306,7 @@ Rhen only became quieter.
 
 That was worse.
 
-“Did you approve three-times use?” he asked.
+[[speaker:rhen]]“Did you approve three-times use?” he asked.
 
 [[speaker:aya]]“I signed the medical viability assessment.”
 
@@ -332,7 +332,7 @@ Rhen looked at her.
 
 She forced herself not to look away.
 
-“That is not the same as saying I bear no responsibility,” she added.
+[[speaker:aya]]“That is not the same as saying I bear no responsibility,” she added.
 
 Rhen nodded once.
 
@@ -440,7 +440,7 @@ A marker flashed inside the Sanctuary.
 
 Aya felt it too through Hundred Pulse.
 
-“Sector Seven,” she said instantly.
+[[speaker:aya]]“Sector Seven,” she said instantly.
 
 [[speaker:rhen]]“Fourth row,” Rhen answered.
 
@@ -490,7 +490,7 @@ Rhen looked at her.
 
 Aya almost told him to stop saying that.
 
-Instead she asked, “Why can't you restore the years?”
+[[speaker:aya]]Instead she asked, “Why can't you restore the years?”
 
 Rhen's gaze settled on the sleeping patient.
 
@@ -528,7 +528,7 @@ A different threshold.
 
 Something he had never promised anyone.
 
-“Not this,” he said.
+[[speaker:rhen]]“Not this,” he said.
 
 Aya heard the precision.
 
@@ -666,7 +666,7 @@ He still was.
 
 None had ever made him feel so much as if the rules were being observed by someone who did not need them.
 
-“Maedra?” he asked.
+[[speaker:aldric]]“Maedra?” he asked.
 
 [[speaker:rhen]]“Threatening a surgeon.”
 
@@ -872,7 +872,7 @@ Everyone in Isgard's upper ranks knew what he represented.
 
 Now the frost-white petals around him held pale violet, and his presence felt so empty that her instincts kept searching for the missing weight.
 
-“You changed,” she said.
+[[speaker:sigrun]]“You changed,” she said.
 
 [[speaker:rhen]]“Apparently.”
 
@@ -1096,7 +1096,7 @@ Something more dangerous.
 
 Respect being returned rather than granted.
 
-“Fine,” she said.
+[[speaker:sigrun]]“Fine,” she said.
 
 Aldric nodded.
 
@@ -1120,7 +1120,7 @@ He watched Isgard's command continue without needing him.
 
 Sera leaned slightly into his shoulder.
 
-“Happy?” she asked.
+[[speaker:sera]]“Happy?” she asked.
 
 [[speaker:rhen]]“Yes.”
 
@@ -1296,7 +1296,7 @@ Solveig continued.
 
 Aya's eyes lowered.
 
-“And people inside it who do not agree with everything command has done,” she said.
+[[speaker:aya]]“And people inside it who do not agree with everything command has done,” she said.
 
 Several Wuyue officers looked toward her.
 
@@ -1470,7 +1470,7 @@ Eventually Sera nudged him under the table.
 
 He looked at her.
 
-“You're smiling,” she whispered.
+[[speaker:sera]]“You're smiling,” she whispered.
 
 [[speaker:rhen]]“Am I?”
 
@@ -1548,7 +1548,7 @@ Aya went very still.
 
 Sera noticed.
 
-“So we plan for all of them,” she said.
+[[speaker:sera]]“So we plan for all of them,” she said.
 
 [[speaker:jin]]“Yes.”
 
@@ -1612,7 +1612,7 @@ Rhen remained seated for another moment.
 
 Sera squeezed his hand once before letting go.
 
-“You're really okay with this?” she asked.
+[[speaker:sera]]“You're really okay with this?” she asked.
 
 [[speaker:rhen]]“With what?”
 
@@ -1643,3 +1643,4 @@ He wrote one sentence on a priority dispatch.
 The dispatch began moving south.
 
 It would reach Tsubasa Kurokawa soon enough.
+

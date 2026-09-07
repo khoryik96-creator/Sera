@@ -608,7 +608,7 @@ Lu received the signal while standing beside Sera near a warehouse full of dried
 
 He closed his eyes.
 
-“One instruction,” he said.
+[[speaker:luweiran]]“One instruction,” he said.
 
 Sera looked at him.
 
@@ -632,7 +632,7 @@ Shen Rui arrived from the eastern quay at the same moment, white-blue robes movi
 
 He had come because the broker's shipping company also serviced one of Azure's medicine routes, and Rui had learned the hard way that medical corridors became dangerous when martial people treated them as someone else's problem.
 
-“Where?” he asked.
+[[speaker:rui]]“Where?” he asked.
 
 Lu pointed.
 

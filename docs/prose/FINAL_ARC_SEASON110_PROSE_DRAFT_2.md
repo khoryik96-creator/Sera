@@ -506,7 +506,7 @@ Lu had built most of the system that made that possible.
 
 He poured.
 
-“Start at the point you are certain,” he said.
+[[speaker:luweiran]]“Start at the point you are certain,” he said.
 
 Yurushi's humor disappeared.
 
@@ -784,7 +784,7 @@ She folded the paper.
 
 Rhen did not ask to see it. He respected the boundary without requiring it to be explained.
 
-“Yurushi told me everything,” she said.
+[[speaker:sera]]“Yurushi told me everything,” she said.
 
 Rhen's expression changed.
 
@@ -1134,7 +1134,7 @@ Luo looked away.
 
 The silence stretched.
 
-Then he asked, “Did Rhen tell you to say that?”
+[[speaker:luo]]Then he asked, “Did Rhen tell you to say that?”
 
 Sera's eyebrows rose.
 
@@ -1224,7 +1224,7 @@ This one was real enough to hurt.
 
 Then he closed the notebook.
 
-“Where is Shunto Takamori?” he asked again.
+[[speaker:luo]]“Where is Shunto Takamori?” he asked again.
 
 Sera did not mistake the repetition for obsession.
 
@@ -1285,3 +1285,4 @@ Luo nodded.
 He returned to the hospital.
 
 The first patient he treated was Shinsei.
+

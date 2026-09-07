@@ -524,7 +524,7 @@ Another older.
 
 He placed them beside the new report.
 
-“Nation army destroyed in one night,” he said.
+[[speaker:tsubasa]]“Nation army destroyed in one night,” he said.
 
 Kai's eyes lowered to the page.
 
@@ -734,7 +734,7 @@ Those were comforting thoughts.
 
 Comfort was not strategy.
 
-“Prepare relocation,” he said.
+[[speaker:tsubasa]]“Prepare relocation,” he said.
 
 Kai looked up.
 
@@ -822,7 +822,7 @@ Every arrow worth carrying was gone.
 
 Ilyra stood in the central yard and hated it immediately.
 
-“This is worse,” she said.
+[[speaker:ilyra]]“This is worse,” she said.
 
 The scout captain beside her looked confused.
 
@@ -1058,7 +1058,7 @@ Nothing dramatic happened.
 
 That was beginning to become its own kind of drama.
 
-“What?” she asked.
+[[speaker:sera]]“What?” she asked.
 
 Rhen looked up.
 
@@ -1219,3 +1219,4 @@ Behind him, the full institution of Shinsei tightened around one northern theate
 The war did not become smaller.
 
 It became denser.
+

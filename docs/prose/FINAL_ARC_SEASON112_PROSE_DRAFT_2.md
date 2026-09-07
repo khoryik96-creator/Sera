@@ -998,7 +998,7 @@ Neither had solved the other.
 
 Jin stopped pretending he understood every exchange.
 
-“Can she win?” he asked.
+[[speaker:jin]]“Can she win?” he asked.
 
 Kael's eyes remained on the basin.
 
@@ -1113,3 +1113,4 @@ The duel had passed the testing stage.
 Both had found enough of the other's system to begin hurting it properly.
 
 And Sera had not yet seen Tsubasa's most dangerous counter.
+

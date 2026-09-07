@@ -298,7 +298,7 @@ Yun looked at the ceiling.
 
 Of course he had not.
 
-“He is unreliable,” she said.
+[[speaker:yun]]“He is unreliable,” she said.
 
 “I told you river men were useless.”
 
@@ -586,7 +586,7 @@ She looked at them for a long time.
 
 Then picked up the bean.
 
-“Embarrassing,” she told it.
+[[speaker:yun]]“Embarrassing,” she told it.
 
 The bean remained professionally silent.
 
@@ -1034,7 +1034,7 @@ His face gave nothing away, but Sera knew what his stillness looked like when it
 
 This was not that.
 
-“How full?” she asked.
+[[speaker:sera]]“How full?” she asked.
 
 Rhen glanced toward the wall.
 

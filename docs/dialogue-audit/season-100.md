@@ -80,7 +80,7 @@ The healer looked embarrassed.
 He almost smiled.
 ```
 ```
-“How long?” she asked.
+[yun] “How long?” she asked.
 He said, “Do not talk.”
 [yun] “Bad answer.”
 >>> “We are stabilizing you.”   <-- WHO SAYS THIS?
@@ -371,7 +371,7 @@ Good.
 Yun closed her eyes.
 ```
 ```
-“Not yet,” she said.
+[yun] “Not yet,” she said.
 He looked angry now.
 [yun] “At whom?” Yun asked.
 >>> “You.”   <-- WHO SAYS THIS?

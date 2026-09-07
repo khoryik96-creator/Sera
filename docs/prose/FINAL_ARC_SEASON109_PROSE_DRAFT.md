@@ -80,7 +80,7 @@ Rhen asked where Sera was.
 
 Lu had expected that too.
 
-“She is alive,” he said.
+[[speaker:luweiran]]“She is alive,” he said.
 
 Rhen's gaze sharpened by a degree so small that another person might have missed it.
 
@@ -178,7 +178,7 @@ Rhen did not curse it.
 
 He sat with it.
 
-Then he asked, “What is Axtaya?”
+[[speaker:rhen]]Then he asked, “What is Axtaya?”
 
 Lu finally opened the ledger.
 
@@ -324,7 +324,7 @@ Rhen glanced at them.
 
 All three vanished.
 
-“Your security has improved,” he said.
+[[speaker:rhen]]“Your security has improved,” he said.
 
 Lu kept walking.
 
@@ -360,7 +360,7 @@ Lines crossed the northern sea like wounds.
 
 Lu shut the door.
 
-“Yun died on Day Zero,” he said.
+[[speaker:luweiran]]“Yun died on Day Zero,” he said.
 
 Rhen stood at the table.
 
@@ -508,7 +508,7 @@ He knew Solveig only distantly.
 
 That changed now.
 
-“Remember her name,” he said.
+[[speaker:rhen]]“Remember her name,” he said.
 
 Lu's eyes flicked up.
 
@@ -566,7 +566,7 @@ Then Qin.
 
 Rhen listened with increasing stillness.
 
-“Two Paragons?” he asked.
+[[speaker:rhen]]“Two Paragons?” he asked.
 
 [[speaker:luweiran]]“Yes.”
 
@@ -610,7 +610,7 @@ Then roughly double cost for the second.
 
 Then roughly quadruple for the third.
 
-“Thirty-five years,” he said.
+[[speaker:rhen]]“Thirty-five years,” he said.
 
 [[speaker:luweiran]]“Approximately.”
 
@@ -1080,7 +1080,7 @@ Rhen dismissed the petal.
 
 Qin's fingers slowly lowered.
 
-“It's too quiet,” he said.
+[[speaker:qin]]“It's too quiet,” he said.
 
 That silenced the room more effectively than Huo ever could.
 
@@ -1182,7 +1182,7 @@ Not three strong men chasing the satisfaction of winning.
 
 Three officers using strength for an objective.
 
-“What did you think of their Domains?” he asked.
+[[speaker:rhen]]“What did you think of their Domains?” he asked.
 
 Tae answered first.
 
@@ -1358,7 +1358,7 @@ But after six months of casualty lists, it sounded strange enough that everyone 
 
 Rhen let the moment remain.
 
-Then he asked, “Where is Yurushi?”
+[[speaker:rhen]]Then he asked, “Where is Yurushi?”
 
 Lu finally closed the ledger.
 
@@ -1820,7 +1820,7 @@ Rhen looked at the petals.
 
 They vanished.
 
-“Still adjusting,” he said.
+[[speaker:rhen]]“Still adjusting,” he said.
 
 Yurushi nodded slowly.
 
@@ -2007,3 +2007,4 @@ Not today.
 Not without cost.
 
 But eventually. For one morning, that was all they needed.
+

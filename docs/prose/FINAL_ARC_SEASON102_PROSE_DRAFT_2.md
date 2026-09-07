@@ -22,7 +22,7 @@ Eldran hated that about her.
 
 He also understood it.
 
-“Your leg is bleeding again,” he said.
+[[speaker:eldran]]“Your leg is bleeding again,” he said.
 
 Maedra looked down as if surprised to own one.
 
@@ -222,7 +222,7 @@ It also tore Maedra's injured leg worse.
 
 She collapsed beside him.
 
-“Idiot,” she said.
+[[speaker:maedra]]“Idiot,” she said.
 
 Eldran tried to laugh.
 
@@ -778,7 +778,7 @@ That restraint cost him time.
 
 Sigrun knew it.
 
-“Merciful?” she asked.
+[[speaker:sigrun]]“Merciful?” she asked.
 
 [[speaker:kenji]]“Efficient.”
 

@@ -170,7 +170,7 @@ Yun watched his expression.
 
 Physicians were bad liars around other physicians.
 
-“How long?” she asked.
+[[speaker:yun]]“How long?” she asked.
 
 He said, “Do not talk.”
 
@@ -580,7 +580,7 @@ His face changed.
 
 She knew that expression.
 
-“Not yet,” she said.
+[[speaker:yun]]“Not yet,” she said.
 
 He looked angry now.
 
@@ -842,7 +842,7 @@ Qin went completely still.
 
 Jin did not move at all for several seconds.
 
-Then he said, “Facts first.”
+[[speaker:jin]]Then he said, “Facts first.”
 
 Not cold.
 
@@ -1127,3 +1127,4 @@ Wuyue was moving.
 Yun Shizhen had died.
 
 The warning had not.
+

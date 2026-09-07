@@ -630,7 +630,7 @@ One eye was swelling.
 
 Blood ran from his mouth.
 
-“Careful,” he said.
+[[speaker:kael]]“Careful,” he said.
 
 Shunto glanced at him.
 
@@ -1440,7 +1440,7 @@ But the work Kael had purchased was complete.
 
 Luo looked at Shunto.
 
-“No,” he said.
+[[speaker:luo]]“No,” he said.
 
 Shunto frowned.
 
@@ -1453,3 +1453,4 @@ Shunto's eyes narrowed.
 Luo's gaze became clinical.
 
 [[speaker:luo]]“That's exactly where I need you.”
+

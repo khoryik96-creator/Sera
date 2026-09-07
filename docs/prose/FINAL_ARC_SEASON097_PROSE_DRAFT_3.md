@@ -384,7 +384,7 @@ Yun wanted him to know she did not care.
 
 They both lied politely.
 
-“What are you trying to find?” he asked.
+[[speaker:shunto]]“What are you trying to find?” he asked.
 
 [[speaker:yun]]“Good tea.”
 
@@ -720,6 +720,7 @@ Far to the north, Isgard had no idea a woman it barely knew was sitting in a dar
 
 Yun stood.
 
-“One more layer,” she whispered.
+[[speaker:yun]]“One more layer,” she whispered.
 
 Then hated herself slightly for saying it aloud.
+

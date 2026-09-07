@@ -266,7 +266,7 @@ That was why he loved her.
 
 Sera had spent too much of her life being protected without consent to confuse love with refusing another person the right to make a necessary choice.
 
-Instead she asked, “Can the Garden keep running while you are inside?”
+[[speaker:sera]]Instead she asked, “Can the Garden keep running while you are inside?”
 
 [[speaker:rhen]]“Yes. The long-term passive is already established. It does not require me to consciously maintain every cycle.”
 

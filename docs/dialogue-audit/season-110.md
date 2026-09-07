@@ -132,7 +132,7 @@ Jin tapped the page harder.
 
 ```
 Ilyra stood in the central yard and hated it immediately.
-“This is worse,” she said.
+[ilyra] “This is worse,” she said.
 The scout captain beside her looked confused.
 >>> “They left.”   <-- WHO SAYS THIS?
 [ilyra] “Yes.”

@@ -282,7 +282,7 @@ Relief.
 
 Aya returned to Haru.
 
-“What happens now?” he asked.
+[[speaker:haru]]“What happens now?” he asked.
 
 [[speaker:aya]]“I repair what can be repaired.”
 

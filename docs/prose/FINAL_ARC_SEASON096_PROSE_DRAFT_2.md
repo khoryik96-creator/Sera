@@ -318,7 +318,7 @@ He looked at the sleeve hanging over the edge of the bed.
 
 Yun looked too.
 
-“There’s a knife in the sleeve,” he said.
+[[speaker:luo]]“There’s a knife in the sleeve,” he said.
 
 [[speaker:yun]]“There are two.”
 
@@ -440,7 +440,7 @@ No one who knew Pale Venom by reputation would have recognized the scene.
 
 That was probably why Luo liked it.
 
-After a while he said, “Use the second notebook.”
+[[speaker:luo]]After a while he said, “Use the second notebook.”
 
 [[speaker:yun]]“I know.”
 
@@ -656,7 +656,7 @@ The woman offered her a bun.
 
 Yun paid.
 
-“What happens there?” she asked, nodding toward the dispute hall.
+[[speaker:yun]]“What happens there?” she asked, nodding toward the dispute hall.
 
 “Depends who is lying.”
 

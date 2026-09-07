@@ -104,7 +104,7 @@ Luo looked at her.
 
 Yun looked back.
 
-After a moment she added, “Professionally.”
+[[speaker:yun]]After a moment she added, “Professionally.”
 
 [[speaker:luo]]“Of course.”
 
@@ -174,7 +174,7 @@ Medicine hurt a body so it could continue being a body.
 
 This compound seemed designed to make survival secondary to output.
 
-“What is the third layer?” he asked.
+[[speaker:luo]]“What is the third layer?” he asked.
 
 Yun smiled.
 
@@ -198,7 +198,7 @@ One crystalline.
 
 One waxy.
 
-“Release coating,” he said.
+[[speaker:luo]]“Release coating,” he said.
 
 Yun nodded.
 
@@ -560,7 +560,7 @@ Yun did.
 
 Or at least suspected.
 
-“Not they,” she said.
+[[speaker:yun]]“Not they,” she said.
 
 The man looked at her.
 
@@ -928,7 +928,7 @@ Yun had called this tyranny.
 
 Lu had thanked her.
 
-“Start again,” he told the courier.
+[[speaker:luweiran]]“Start again,” he told the courier.
 
 The young woman swallowed.
 
@@ -1328,7 +1328,7 @@ Perhaps one of them had just arrived in a sealed medical crate.
 
 Lu gathered the manifests.
 
-“I follow the boxes,” he said.
+[[speaker:luweiran]]“I follow the boxes,” he said.
 
 Yun smiled faintly.
 
