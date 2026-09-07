@@ -23,13 +23,18 @@ jobs:
           node-version: 22
           cache: npm
       - run: npm ci
-      - name: Normalize one punctuation anchor in temporary script
+      - name: Normalize punctuation handling in temporary script
         run: |
           python - <<'PY'
           from pathlib import Path
           p = Path('scripts/apply-dialogue-postmerge-second.mjs')
           text = p.read_text()
-          p.write_text(text.replace('It’s too quiet', r'It\u0027s too quiet'))
+          text = text.replace('It’s too quiet', r'It\u0027s too quiet')
+          old = "if (body.includes(map.snippet)) hits.push(i);"
+          new = "if (body.replaceAll('’', '<APOS>').replaceAll(\"'\", '<APOS>').includes(map.snippet.replaceAll('’', '<APOS>').replaceAll(\"'\", '<APOS>'))) hits.push(i);"
+          if old not in text:
+              raise SystemExit('matcher anchor not found')
+          p.write_text(text.replace(old, new))
           PY
       - name: Apply second reviewed mixed-dialogue pass
         run: node scripts/apply-dialogue-postmerge-second.mjs
