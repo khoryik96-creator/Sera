@@ -13,7 +13,7 @@ Jin had expected that.
 
 He had not expected how loudly Arin Vale would solve it.
 
-“BACK.”
+[[speaker:arin]]“BACK.”
 
 Her swordswomen moved.
 
@@ -21,11 +21,11 @@ One captain hesitated.
 
 Arin struck her across the helmet with the flat of her blade.
 
-“Did I say debate?”
+[[speaker:arin]]“Did I say debate?”
 
 “No.”
 
-“Then move.”
+[[speaker:arin]]“Then move.”
 
 The Silver Horizon formation peeled away from the ridge.
 
@@ -101,7 +101,7 @@ Four minutes.
 
 Luo stood beside Jin.
 
-“Watch hands.”
+[[speaker:luo]]“Watch hands.”
 
 Jin did.
 
@@ -155,7 +155,7 @@ Too fast.
 
 Jin saw some soldiers throw weapons down.
 
-“Prisoners alive!”
+[[speaker:jin]]“Prisoners alive!”
 
 Order relayed.
 
@@ -181,11 +181,11 @@ Six minutes twelve seconds.
 
 Luo looked at him.
 
-“You waited too long on the left.”
+[[speaker:luo]]“You waited too long on the left.”
 
-“We won.”
+[[speaker:jin]]“We won.”
 
-“You waited too long.”
+[[speaker:luo]]“You waited too long.”
 
 Jin sighed.
 
@@ -195,29 +195,29 @@ Jin sighed.
 
 Arin arrived carrying a cracked helmet under one arm.
 
-“Your retreat is insulting.”
+[[speaker:arin]]“Your retreat is insulting.”
 
-“Effective?”
+[[speaker:jin]]“Effective?”
 
-“Yes.”
+[[speaker:arin]]“Yes.”
 
-“Then?”
+[[speaker:jin]]“Then?”
 
-“I still hate it.”
+[[speaker:arin]]“I still hate it.”
 
 Jin nodded.
 
-“Healthy.”
+[[speaker:jin]]“Healthy.”
 
 Sera approached from the rear line.
 
-“How many?”
+[[speaker:sera]]“How many?”
 
-“Losses?”
+[[speaker:jin]]“Losses?”
 
-“Yes.”
+[[speaker:sera]]“Yes.”
 
-“Lower than last mass Redline clash by more than half.”
+[[speaker:jin]]“Lower than last mass Redline clash by more than half.”
 
 She looked at the field.
 
@@ -225,11 +225,11 @@ Wounded everywhere.
 
 Still too many.
 
-“Again?”
+[[speaker:sera]]“Again?”
 
 Jin answered.
 
-“Until they solve it.”
+[[speaker:jin]]“Until they solve it.”
 
 Luo said, “They will.”
 
@@ -289,21 +289,21 @@ Good steel could still fail if the smith insisted the answer was always more hea
 
 Kenji Narukami met him first.
 
-“You came.”
+[[speaker:kenji]]“You came.”
 
 Kai looked at him.
 
-“That was the order.”
+[[speaker:kai]]“That was the order.”
 
 Kenji smiled despite fatigue.
 
-“You hate boats.”
+[[speaker:kenji]]“You hate boats.”
 
-“I hate bad boats.”
+[[speaker:kai]]“I hate bad boats.”
 
-“That was a good one.”
+[[speaker:kenji]]“That was a good one.”
 
-“It moved.”
+[[speaker:kai]]“It moved.”
 
 Kenji laughed.
 
@@ -313,29 +313,29 @@ Still a young man under the war.
 
 Kai put one hand on his shoulder.
 
-“Raska?”
+[[speaker:kai]]“Raska?”
 
 The smile vanished.
 
 Kenji looked away.
 
-“I killed him.”
+[[speaker:kenji]]“I killed him.”
 
-“Battle?”
+[[speaker:kai]]“Battle?”
+
+[[speaker:kenji]]“Yes.”
+
+[[speaker:kai]]“Was he trying to kill you?”
 
 “Yes.”
 
-“Was he trying to kill you?”
-
-“Yes.”
-
-“Then don’t turn honesty into self-indulgence.”
+[[speaker:kai]]“Then don’t turn honesty into self-indulgence.”
 
 Kenji looked back.
 
 Kai’s voice softened by one degree.
 
-“But remember him.”
+[[speaker:kai]]“But remember him.”
 
 Kenji nodded.
 
@@ -361,7 +361,7 @@ Redline issue charts.
 
 Kai looked at the latter longest.
 
-“How many mass activations?”
+[[speaker:kai]]“How many mass activations?”
 
 “Two major,” Eirik said. “Several smaller.”
 
@@ -369,7 +369,7 @@ Kai looked at the latter longest.
 
 She looked at him.
 
-“Too many.”
+[[speaker:aya]]“Too many.”
 
 Kai nodded.
 
@@ -377,35 +377,35 @@ Good answer.
 
 Eirik moved to the main map.
 
-“Wuyue has developed a timed withdrawal against Redline.”
+[[speaker:eirik]]“Wuyue has developed a timed withdrawal against Redline.”
 
 Kai studied it.
 
-“They make us spend the window moving.”
+[[speaker:kai]]“They make us spend the window moving.”
 
-“Yes.”
+[[speaker:eirik]]“Yes.”
 
-“Then hit the crash.”
+[[speaker:kai]]“Then hit the crash.”
 
-“Yes.”
+[[speaker:eirik]]“Yes.”
 
 Kai grunted.
 
-“Smart.”
+[[speaker:kai]]“Smart.”
 
 Jun leaned on the halberd.
 
-“Annoying.”
+[[speaker:jun]]“Annoying.”
 
-“Those are usually related.”
+[[speaker:kai]]“Those are usually related.”
 
 Kai looked at the Wuyue apex markers.
 
-“Sera.”
+[[speaker:kai]]“Sera.”
 
 “Peak Paragon,” Eirik said.
 
-“Kael?”
+[[speaker:kai]]“Kael?”
 
 “New Paragon. Better than initial model.”
 
@@ -413,11 +413,11 @@ Jun said, “He learns quickly.”
 
 Kai looked at him.
 
-“You lost.”
+[[speaker:kai]]“You lost.”
 
-“Yes.”
+[[speaker:jun]]“Yes.”
 
-“Good.”
+[[speaker:kai]]“Good.”
 
 Jun frowned.
 
@@ -425,27 +425,27 @@ Kenji grinned.
 
 Kai continued.
 
-“If losing teaches you faster than winning, it’s cheaper than stupidity.”
+[[speaker:kai]]“If losing teaches you faster than winning, it’s cheaper than stupidity.”
 
 Aya said dryly, “Physically it was not cheap.”
 
 Kai looked at Jun’s bandaging.
 
-“Also fair.”
+[[speaker:kai]]“Also fair.”
 
 Then he pointed at the front.
 
-“Do not send me to duel Kael for revenge.”
+[[speaker:kai]]“Do not send me to duel Kael for revenge.”
 
 Eirik’s mouth moved slightly.
 
-“Tsubasa already said the same.”
+[[speaker:eirik]]“Tsubasa already said the same.”
 
-“Good. He remembers things.”
+[[speaker:kai]]“Good. He remembers things.”
 
-“Your purpose is pressure.”
+[[speaker:eirik]]“Your purpose is pressure.”
 
-“Exactly.”
+[[speaker:kai]]“Exactly.”
 
 Kai’s Crimson Crucible Dominion was not a ceremonial challenge field.
 
@@ -461,35 +461,35 @@ Every prolonged engagement became worse for everyone except the man whose body h
 
 Kai looked at the terrain.
 
-“Where does Jin expect us to hit?”
+[[speaker:kai]]“Where does Jin expect us to hit?”
 
 Eirik pointed.
 
 Kai shook his head.
 
-“Then not there.”
+[[speaker:kai]]“Then not there.”
 
 Jun raised an eyebrow.
 
-“That simple?”
+[[speaker:jun]]“That simple?”
 
-“No.”
+[[speaker:kai]]“No.”
 
 Kai looked at him.
 
-“But we can begin by respecting that their strategist is not an idiot.”
+[[speaker:kai]]“But we can begin by respecting that their strategist is not an idiot.”
 
 He moved one marker three miles south.
 
-“Make them choose between protecting the evacuation road and preserving their Five-Minute Retreat geometry.”
+[[speaker:kai]]“Make them choose between protecting the evacuation road and preserving their Five-Minute Retreat geometry.”
 
 Nao studied it.
 
-“That increases civilian pressure.”
+[[speaker:nao]]“That increases civilian pressure.”
 
 Kai looked at her.
 
-“Then we build an exclusion corridor and announce it before engagement.”
+[[speaker:kai]]“Then we build an exclusion corridor and announce it before engagement.”
 
 Jun nodded.
 
@@ -503,19 +503,19 @@ Not careless.
 
 He looked at the map again.
 
-“Let’s see what Wuyue’s new Paragon learned from Jun.”
+[[speaker:kai]]“Let’s see what Wuyue’s new Paragon learned from Jun.”
 
 Far away, Kael Veyran sneezed.
 
 Luo looked at him.
 
-“Medical issue?”
+[[speaker:luo]]“Medical issue?”
 
-“No.”
+[[speaker:kael]]“No.”
 
-“How do you know?”
+[[speaker:luo]]“How do you know?”
 
-“Instinct.”
+[[speaker:kael]]“Instinct.”
 
 Luo sighed.
 
@@ -557,19 +557,19 @@ That was offensive.
 
 Kael lifted both hands.
 
-“You look happy.”
+[[speaker:kael]]“You look happy.”
 
 Kai rested the heavy saber against one shoulder.
 
-“I grew up near furnaces.”
+[[speaker:kai]]“I grew up near furnaces.”
 
-“I grew up near mountains.”
+[[speaker:kael]]“I grew up near mountains.”
 
-“Yes.”
+[[speaker:kai]]“Yes.”
 
-“Mountains are better.”
+[[speaker:kael]]“Mountains are better.”
 
-“Objectively false.”
+[[speaker:kai]]“Objectively false.”
 
 Then Kai moved.
 
@@ -603,15 +603,15 @@ Sometimes deliberately gave Kael smaller burdens because the heat was already do
 
 Kael hated him immediately.
 
-“Jun was more straightforward.”
+[[speaker:kael]]“Jun was more straightforward.”
 
 Kai laughed.
 
-“Jun is thirty-six and formal.”
+[[speaker:kai]]“Jun is thirty-six and formal.”
 
-“What are you?”
+[[speaker:kael]]“What are you?”
 
-“Forty-six and tired.”
+[[speaker:kai]]“Forty-six and tired.”
 
 The saber came down.
 
@@ -677,13 +677,13 @@ Kael’s breathing worsened.
 
 Kai saw.
 
-“Still want mountains?”
+[[speaker:kai]]“Still want mountains?”
 
-“Yes.”
+[[speaker:kael]]“Yes.”
 
-“Stubborn.”
+[[speaker:kai]]“Stubborn.”
 
-“Public requirement.”
+[[speaker:kael]]“Public requirement.”
 
 Kai laughed again.
 
@@ -749,19 +749,19 @@ Not mercy.
 
 Assessment.
 
-“You’re done.”
+[[speaker:kai]]“You’re done.”
 
 Kael looked up.
 
 “No.”
 
-“You are.”
+[[speaker:kai]]“You are.”
 
-“No.”
+[[speaker:kael]]“No.”
 
 Kai sighed.
 
-“I see why people find you tiring.”
+[[speaker:kai]]“I see why people find you tiring.”
 
 Kael stood.
 
@@ -779,27 +779,27 @@ Kai’s eyes shifted.
 
 Kael closed his.
 
-“Of course.”
+[[speaker:kael]]“Of course.”
 
 Sera stepped into the edge of Crimson Crucible.
 
 Kai looked at her.
 
-“Pale Orchid.”
+[[speaker:kai]]“Pale Orchid.”
 
 Sera looked at Kael.
 
-“You learned?”
+[[speaker:sera]]“You learned?”
 
 He glared.
 
 “Yes.”
 
-“Good.”
+[[speaker:sera]]“Good.”
 
 Then she looked at Kai.
 
-“My turn.”
+[[speaker:sera]]“My turn.”
 
 ---
 
@@ -855,11 +855,11 @@ Enough to remind him the rule was real.
 
 Kai smiled.
 
-“Annoying.”
+[[speaker:kai]]“Annoying.”
 
 Sera’s expression did not change.
 
-“I get that often.”
+[[speaker:sera]]“I get that often.”
 
 He attacked smaller.
 
@@ -949,11 +949,11 @@ Actually laughed.
 
 Kael, being treated twenty paces away, muttered:
 
-“Stop encouraging people.”
+[[speaker:kael]]“Stop encouraging people.”
 
 Luo shoved a bandage into his hand.
 
-“Be quiet.”
+[[speaker:luo]]“Be quiet.”
 
 The fight continued.
 
@@ -1003,23 +1003,23 @@ Kai stepped back.
 
 Sera did not chase.
 
-“Leaving?”
+[[speaker:sera]]“Leaving?”
 
-“Yes.”
+[[speaker:kai]]“Yes.”
 
-“You can still fight.”
+[[speaker:sera]]“You can still fight.”
 
-“Yes.”
+[[speaker:kai]]“Yes.”
 
-“Then why?”
+[[speaker:sera]]“Then why?”
 
 Kai looked at her.
 
-“Because I came here to change the battlefield, not prove I have a larger ego than Kael.”
+[[speaker:kai]]“Because I came here to change the battlefield, not prove I have a larger ego than Kael.”
 
 From the medical line:
 
-“I HEARD THAT.”
+[[speaker:kael]]“I HEARD THAT.”
 
 Kai looked past Sera.
 
@@ -1029,13 +1029,13 @@ Sera almost smiled.
 
 Then Kai’s expression became serious.
 
-“You are stronger than the report.”
+[[speaker:kai]]“You are stronger than the report.”
 
-“So are you.”
+[[speaker:sera]]“So are you.”
 
-“Mine was accurate.”
+[[speaker:kai]]“Mine was accurate.”
 
-“Then your report writers are better.”
+[[speaker:sera]]“Then your report writers are better.”
 
 Kai barked a laugh.
 
@@ -1051,27 +1051,27 @@ The heat receded slowly.
 
 Kael looked at her.
 
-“You could have finished him.”
+[[speaker:kael]]“You could have finished him.”
 
-“Maybe.”
+[[speaker:sera]]“Maybe.”
 
-“Maybe?”
+[[speaker:kael]]“Maybe?”
 
-“He’s High Paragon and not stupid.”
+[[speaker:sera]]“He’s High Paragon and not stupid.”
 
 Kael frowned.
 
-“That sounded respectful.”
+[[speaker:kael]]“That sounded respectful.”
 
-“It is.”
+[[speaker:sera]]“It is.”
 
-“Enemy.”
+[[speaker:kael]]“Enemy.”
 
-“Yes.”
+[[speaker:sera]]“Yes.”
 
-“Still respectful.”
+[[speaker:kael]]“Still respectful.”
 
-“Yes.”
+[[speaker:sera]]“Yes.”
 
 Kael considered that.
 
@@ -1135,7 +1135,7 @@ Fresh troops moved.
 
 Jin’s face changed.
 
-“No.”
+[[speaker:jin]]“No.”
 
 Four minutes.
 
@@ -1163,7 +1163,7 @@ Perfect time to hit them.
 
 Jin slammed one hand onto the table.
 
-“Abort counterattack!”
+[[speaker:jin]]“Abort counterattack!”
 
 Signal horns changed.
 
@@ -1199,53 +1199,53 @@ Borrow lifespan in sequence instead of all at once.
 
 Luo arrived at the command position already swearing.
 
-“They redosed?”
+[[speaker:luo]]“They redosed?”
 
-“Fresh troops.”
+[[speaker:jin]]“Fresh troops.”
 
-“Better medically.”
+[[speaker:luo]]“Better medically.”
 
-“Worse strategically.”
+[[speaker:jin]]“Worse strategically.”
 
-“Yes.”
+[[speaker:luo]]“Yes.”
 
 Jin tore another plan.
 
 Luo looked at him.
 
-“You enjoy that too much.”
+[[speaker:luo]]“You enjoy that too much.”
 
-“I hate paper.”
+[[speaker:jin]]“I hate paper.”
 
-“That explains nothing.”
+[[speaker:luo]]“That explains nothing.”
 
 Sera entered from the right sector.
 
 Blood on one sleeve from the Kai clash.
 
-“Status.”
+[[speaker:sera]]“Status.”
 
 Jin pointed.
 
-“They found the seam.”
+[[speaker:jin]]“They found the seam.”
 
 She saw immediately.
 
-“Second wave before crash.”
+[[speaker:sera]]“Second wave before crash.”
 
-“Yes.”
+[[speaker:jin]]“Yes.”
 
-“How do we answer?”
+[[speaker:sera]]“How do we answer?”
 
 Jin looked at the map.
 
-“Not today.”
+[[speaker:jin]]“Not today.”
 
 Sera stared.
 
 He continued.
 
-“Today we survive it. Then we answer.”
+[[speaker:jin]]“Today we survive it. Then we answer.”
 
 Good.
 
@@ -1279,7 +1279,7 @@ Bad enough.
 
 Jin stood over the evening casualty ledger.
 
-“Deaths?”
+[[speaker:jin]]“Deaths?”
 
 The aide gave him the number.
 
@@ -1287,11 +1287,11 @@ He closed his eyes.
 
 Then opened them.
 
-“Write them all.”
+[[speaker:jin]]“Write them all.”
 
 “They are being written.”
 
-“I know.”
+[[speaker:jin]]“I know.”
 
 He looked at the map.
 

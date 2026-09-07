@@ -22,11 +22,11 @@ Luo watched her rotate the second vial beneath the lamp.
 
 “You’ve been staring at that for half an hour.”
 
-“I’m waiting for it to apologize.”
+[[speaker:yun]]“I’m waiting for it to apologize.”
 
-“It won’t.”
+[[speaker:luo]]“It won’t.”
 
-“Then I’ll keep judging it.”
+[[speaker:yun]]“Then I’ll keep judging it.”
 
 Luo returned to his notes.
 
@@ -38,21 +38,21 @@ The Quaint Teahouse had changed many things about both of them. It had not made 
 
 She set the vial down.
 
-“Again.”
+[[speaker:yun]]“Again.”
 
 Luo sighed.
 
 “You said that three times.”
 
-“And you were wrong twice.”
+[[speaker:yun]]“And you were wrong twice.”
 
-“I was not wrong.”
+[[speaker:luo]]“I was not wrong.”
 
-“You called the first layer a stimulant.”
+[[speaker:yun]]“You called the first layer a stimulant.”
 
-“It is a stimulant.”
+[[speaker:luo]]“It is a stimulant.”
 
-“It is also bait.”
+[[speaker:yun]]“It is also bait.”
 
 Luo looked up.
 
@@ -60,15 +60,15 @@ Yun tapped the notes with one fingernail.
 
 “The body feels the first acceleration and assumes the problem is ordinary exertion. Then this second compound blunts the warning response.”
 
-“Pain?”
+[[speaker:luo]]“Pain?”
 
-“Pain. Vascular resistance. Some of the defensive constriction that should happen when the meridians are being pushed too hard.”
+[[speaker:yun]]“Pain. Vascular resistance. Some of the defensive constriction that should happen when the meridians are being pushed too hard.”
 
 Luo frowned.
 
 “So the user thinks the body is tolerating more than it is.”
 
-“The body knows better. The user does not.”
+[[speaker:yun]]“The body knows better. The user does not.”
 
 He looked at the sample again.
 
@@ -82,59 +82,59 @@ They had simply forced existing cultivation through the body at a rate the body 
 
 Luo rubbed one thumb against the side of his forefinger.
 
-“Third layer.”
+[[speaker:luo]]“Third layer.”
 
 Yun nodded.
 
-“That one is uglier.”
+[[speaker:yun]]“That one is uglier.”
 
 He smiled without humor.
 
-“You said the second one was ugly.”
+[[speaker:luo]]“You said the second one was ugly.”
 
-“I was being polite.”
+[[speaker:yun]]“I was being polite.”
 
 The door opened.
 
 Lu Weiran entered carrying a bundle of shipping papers, two folded ledgers and exactly no interest in the smell of the room.
 
-“Breakfast.”
+[[speaker:luweiran]]“Breakfast.”
 
 Luo blinked.
 
-“You brought invoices.”
+[[speaker:luo]]“You brought invoices.”
 
-“I ate already.”
+[[speaker:luweiran]]“I ate already.”
 
 Yun looked at the papers.
 
-“Useful breakfast.”
+[[speaker:yun]]“Useful breakfast.”
 
 Luo pointed at her.
 
-“Do not encourage him.”
+[[speaker:luo]]“Do not encourage him.”
 
 Lu ignored both of them and laid the bundle on the dry end of the workbench.
 
-“The same weight categories appear on three separate shipments.”
+[[speaker:luweiran]]“The same weight categories appear on three separate shipments.”
 
 Luo’s attention sharpened.
 
-“What categories?”
+[[speaker:luo]]“What categories?”
 
 Lu unfolded one sheet.
 
-“Body mass. Resting pulse. Previous injury status. Estimated circulation tolerance.”
+[[speaker:luweiran]]“Body mass. Resting pulse. Previous injury status. Estimated circulation tolerance.”
 
 Yun’s eyes moved from the paper to the vial.
 
-“Medical screening.”
+[[speaker:yun]]“Medical screening.”
 
-“Yes.”
+[[speaker:luweiran]]“Yes.”
 
 Lu slid over a second sheet.
 
-“Different ports. Different merchant houses. Same table structure.”
+[[speaker:luweiran]]“Different ports. Different merchant houses. Same table structure.”
 
 Luo read it once.
 
@@ -152,33 +152,33 @@ But measurement.
 
 Yun leaned back against the bench.
 
-“That depends on how generous you feel toward physicians.”
+[[speaker:yun]]“That depends on how generous you feel toward physicians.”
 
-“I’m a physician.”
+[[speaker:luo]]“I’m a physician.”
 
-“I know.”
+[[speaker:yun]]“I know.”
 
-“You’re dating one.”
+[[speaker:luo]]“You’re dating one.”
 
-“I make questionable decisions.”
+[[speaker:yun]]“I make questionable decisions.”
 
 Lu turned a page with complete composure.
 
 Luo stared at him.
 
-“Do you ever leave when people are having a private conversation?”
+[[speaker:luo]]“Do you ever leave when people are having a private conversation?”
 
-“No.”
+[[speaker:luweiran]]“No.”
 
 Yun nodded once.
 
-“Reliable.”
+[[speaker:yun]]“Reliable.”
 
 Luo closed his eyes.
 
 When he reopened them, Yun was already pointing at the third compound pattern.
 
-“The real problem is here.”
+[[speaker:yun]]“The real problem is here.”
 
 He followed.
 
@@ -188,7 +188,7 @@ It forced the body to keep supplying that acceleration after safer reserves shou
 
 Luo felt the back of his neck tighten.
 
-“Future vitality.”
+[[speaker:luo]]“Future vitality.”
 
 Yun’s expression flattened.
 
@@ -204,13 +204,13 @@ He had not restored what had already been consumed.
 
 Luo looked toward the ceiling as if he could see through two floors and find Rhen somewhere above serving tea.
 
-“Even he called it spent.”
+[[speaker:luo]]“Even he called it spent.”
 
 Yun said, “Because it was.”
 
 Lu folded his arms.
 
-“Can we quantify it?”
+[[speaker:luweiran]]“Can we quantify it?”
 
 “Not yet,” Luo said.
 
@@ -218,11 +218,11 @@ Yun added, “But someone else probably can.”
 
 Lu’s gaze moved to her.
 
-“The dosage tables.”
+[[speaker:luweiran]]“The dosage tables.”
 
 She nodded.
 
-“Those aren’t just about keeping users alive. They’re about predicting how much a body can be made to surrender before it stops being useful.”
+[[speaker:yun]]“Those aren’t just about keeping users alive. They’re about predicting how much a body can be made to surrender before it stops being useful.”
 
 For several breaths nobody spoke.
 
@@ -232,45 +232,45 @@ Life continued one floor above a table covered in documents explaining how to bo
 
 Luo picked up the vial.
 
-“We need to know whether this was designed for emergency medicine and corrupted afterward, or designed for combat from the start.”
+[[speaker:luo]]“We need to know whether this was designed for emergency medicine and corrupted afterward, or designed for combat from the start.”
 
 Yun watched the amber liquid slide along the glass.
 
-“Does the difference matter to the dead?”
+[[speaker:yun]]“Does the difference matter to the dead?”
 
-“It matters to whoever still has the original formula.”
+[[speaker:luo]]“It matters to whoever still has the original formula.”
 
 That answer pleased neither of them.
 
 Lu opened one of the new ledgers.
 
-“I have three foreign route fragments.”
+[[speaker:luweiran]]“I have three foreign route fragments.”
 
 Yun looked over.
 
-“From where?”
+[[speaker:yun]]“From where?”
 
-“Still working on that.”
+[[speaker:luweiran]]“Still working on that.”
 
-“Useful.”
+[[speaker:yun]]“Useful.”
 
-“I try.”
+[[speaker:luweiran]]“I try.”
 
 Luo reached for the ledger.
 
 Lu pulled it away.
 
-“You’ll get blood on it.”
+[[speaker:luweiran]]“You’ll get blood on it.”
 
-“It is a medical investigation.”
+[[speaker:luo]]“It is a medical investigation.”
 
-“It is my ledger.”
+[[speaker:luweiran]]“It is my ledger.”
 
 Yun, without looking up, said, “He loves those more than he loves people.”
 
 Lu considered this.
 
-“Some people.”
+[[speaker:luweiran]]“Some people.”
 
 Luo laughed despite himself.
 
@@ -312,17 +312,17 @@ Then at him.
 
 Rhen looked at the pot too.
 
-“That seems excessive.”
+[[speaker:rhen]]“That seems excessive.”
 
-“You think?”
+[[speaker:sera]]“You think?”
 
-“I was making tea.”
+[[speaker:rhen]]“I was making tea.”
 
-“You murdered it.”
+[[speaker:sera]]“You murdered it.”
 
-“The leaves are probably fine.”
+[[speaker:rhen]]“The leaves are probably fine.”
 
-“The pot is dead.”
+[[speaker:sera]]“The pot is dead.”
 
 Rhen touched one finger to the rim.
 
@@ -332,17 +332,17 @@ The crack remained.
 
 Sera put down the report she had been pretending to read.
 
-“How long?”
+[[speaker:sera]]“How long?”
 
 Rhen glanced at her.
 
-“How long what?”
+[[speaker:rhen]]“How long what?”
 
-“How long have you been doing that when I’m not looking?”
+[[speaker:sera]]“How long have you been doing that when I’m not looking?”
 
-“I don’t generally freeze pottery when you’re not looking.”
+[[speaker:rhen]]“I don’t generally freeze pottery when you’re not looking.”
 
-“Rhen.”
+[[speaker:sera]]“Rhen.”
 
 He sighed.
 
@@ -350,17 +350,17 @@ There were people in Wuyue who would rather fight a Sovereign than hear that ton
 
 Rhen understood them.
 
-“A few weeks.”
+[[speaker:rhen]]“A few weeks.”
 
 Her eyes narrowed.
 
-“Define few.”
+[[speaker:sera]]“Define few.”
 
-“Four.”
+[[speaker:rhen]]“Four.”
 
-“Four is not a few when the problem is spontaneous winter.”
+[[speaker:sera]]“Four is not a few when the problem is spontaneous winter.”
 
-“It is a small winter.”
+[[speaker:rhen]]“It is a small winter.”
 
 She reached across the table and flicked him in the forehead.
 
@@ -370,7 +370,7 @@ That was marriage.
 
 Sera shifted closer.
 
-“Show me.”
+[[speaker:sera]]“Show me.”
 
 He held out his hand.
 
@@ -388,35 +388,35 @@ This quiet was crowded.
 
 Her fingers stayed there.
 
-“You’re full again.”
+[[speaker:sera]]“You’re full again.”
 
-“Yes.”
+[[speaker:rhen]]“Yes.”
 
-“How full?”
+[[speaker:sera]]“How full?”
 
 Rhen considered lying.
 
 He did not.
 
-“More than after the Isgard finale.”
+[[speaker:rhen]]“More than after the Isgard finale.”
 
 Sera’s gaze snapped up.
 
-“That was two years ago.”
+[[speaker:sera]]“That was two years ago.”
 
-“I know.”
+[[speaker:rhen]]“I know.”
 
-“And you’ve used qi constantly since then.”
+[[speaker:sera]]“And you’ve used qi constantly since then.”
 
-“Healing. Garden maintenance. Training repairs. The occasional mountain.”
+[[speaker:rhen]]“Healing. Garden maintenance. Training repairs. The occasional mountain.”
 
 She stared at him.
 
-“The occasional mountain?”
+[[speaker:sera]]“The occasional mountain?”
 
-“It was in the way.”
+[[speaker:rhen]]“It was in the way.”
 
-“That is not the important part of that sentence.”
+[[speaker:sera]]“That is not the important part of that sentence.”
 
 Rhen smiled faintly.
 
@@ -424,11 +424,11 @@ Sera did not.
 
 He let the smile go.
 
-“The reserve comes back too fast.”
+[[speaker:rhen]]“The reserve comes back too fast.”
 
-“How fast?”
+[[speaker:sera]]“How fast?”
 
-“Faster than I can comfortably disperse it without making the dispersal itself noticeable.”
+[[speaker:rhen]]“Faster than I can comfortably disperse it without making the dispersal itself noticeable.”
 
 That was the real problem.
 
@@ -440,47 +440,47 @@ For Rhen, whose baseline reserve was already ridiculous, efficiency had become a
 
 Sera’s fingers pressed slightly harder against his wrist.
 
-“Does it hurt?”
+[[speaker:sera]]“Does it hurt?”
 
-“No.”
+[[speaker:rhen]]“No.”
 
-“Uncomfortable?”
+[[speaker:sera]]“Uncomfortable?”
 
-“Yes.”
+[[speaker:rhen]]“Yes.”
 
-“How much?”
+[[speaker:sera]]“How much?”
 
-“Like being too full after dinner.”
+[[speaker:rhen]]“Like being too full after dinner.”
 
 She waited.
 
 Rhen added, “If dinner were inside my meridians.”
 
-“That is a terrible explanation.”
+[[speaker:sera]]“That is a terrible explanation.”
 
-“It is accurate.”
+[[speaker:rhen]]“It is accurate.”
 
 Sera pulled his hand closer and turned it palm-up.
 
-“No new technique.”
+[[speaker:sera]]“No new technique.”
 
 Rhen blinked.
 
-“What?”
+[[speaker:rhen]]“What?”
 
-“No experimenting because you’re bored.”
+[[speaker:sera]]“No experimenting because you’re bored.”
 
-“I’m not bored.”
+[[speaker:rhen]]“I’m not bored.”
 
-“You’re always bored when the problem is inside your own body.”
+[[speaker:sera]]“You’re always bored when the problem is inside your own body.”
 
-“That seems unfair.”
+[[speaker:rhen]]“That seems unfair.”
 
-“You once tested a healing variation on yourself because you wanted to know whether broken ribs felt different when repaired from the inside.”
+[[speaker:sera]]“You once tested a healing variation on yourself because you wanted to know whether broken ribs felt different when repaired from the inside.”
 
-“They did.”
+[[speaker:rhen]]“They did.”
 
-“Rhen.”
+[[speaker:sera]]“Rhen.”
 
 He looked appropriately chastened.
 
@@ -496,33 +496,33 @@ Outside, the town moved through an ordinary night. A cart rolled over stone. Som
 
 Sera rested her cheek against his shoulder.
 
-“Can you fix it?”
+[[speaker:sera]]“Can you fix it?”
 
-“Yes.”
+[[speaker:rhen]]“Yes.”
 
 He answered too quickly.
 
 She lifted her head.
 
-“Can you?”
+[[speaker:sera]]“Can you?”
 
 Rhen looked out the window.
 
-“I think so.”
+[[speaker:rhen]]“I think so.”
 
-“That is a different answer.”
+[[speaker:sera]]“That is a different answer.”
 
-“It needs less space.”
+[[speaker:rhen]]“It needs less space.”
 
 She followed his gaze.
 
-“The qi.”
+[[speaker:sera]]“The qi.”
 
-“Yes.”
+[[speaker:rhen]]“Yes.”
 
-“You mean condense it.”
+[[speaker:sera]]“You mean condense it.”
 
-“Eventually.”
+[[speaker:rhen]]“Eventually.”
 
 The word sat between them.
 
@@ -542,13 +542,13 @@ They had also survived because they did not pretend strange symptoms were normal
 
 Rhen glanced down at her.
 
-“What does that mean?”
+[[speaker:rhen]]“What does that mean?”
 
-“When you start freezing walls. People. Tae’s ridiculous metal weights.”
+[[speaker:sera]]“When you start freezing walls. People. Tae’s ridiculous metal weights.”
 
-“Tae would be upset.”
+[[speaker:rhen]]“Tae would be upset.”
 
-“That is why I listed them after people.”
+[[speaker:sera]]“That is why I listed them after people.”
 
 Rhen laughed quietly.
 
@@ -556,37 +556,37 @@ Sera kissed the corner of his mouth.
 
 Then she leaned away just enough to look at him.
 
-“Promise.”
+[[speaker:sera]]“Promise.”
 
 Rhen’s expression softened.
 
-“I promise.”
+[[speaker:rhen]]“I promise.”
 
 She settled back against him.
 
 After a moment she said, “You owe me a teapot.”
 
-“I’ll buy one tomorrow.”
+[[speaker:rhen]]“I’ll buy one tomorrow.”
 
-“Expensive one.”
+[[speaker:sera]]“Expensive one.”
 
-“You break expensive ones too.”
+[[speaker:rhen]]“You break expensive ones too.”
 
-“That was Huo.”
+[[speaker:sera]]“That was Huo.”
 
-“Huo broke the table.”
+[[speaker:rhen]]“Huo broke the table.”
 
-“Then maybe it was Qin.”
+[[speaker:sera]]“Then maybe it was Qin.”
 
-“Qin is blind, not clumsy.”
+[[speaker:rhen]]“Qin is blind, not clumsy.”
 
 Sera considered.
 
-“Tae?”
+[[speaker:sera]]“Tae?”
 
-“Tae would deny it while holding the pieces.”
+[[speaker:rhen]]“Tae would deny it while holding the pieces.”
 
-“That sounds right.”
+[[speaker:sera]]“That sounds right.”
 
 Rhen reached for the cracked pot.
 
@@ -594,13 +594,13 @@ Sera slapped his hand away.
 
 “No.”
 
-“I can still use it.”
+[[speaker:rhen]]“I can still use it.”
 
-“You froze it to death.”
+[[speaker:sera]]“You froze it to death.”
 
-“It’s ceramic.”
+[[speaker:rhen]]“It’s ceramic.”
 
-“It had a good life.”
+[[speaker:sera]]“It had a good life.”
 
 Rhen looked down at her.
 
@@ -626,17 +626,17 @@ This was mostly because he was standing on the Quaint Teahouse roof in broad day
 
 Xie looked at Sera as she stepped onto the roof.
 
-“This is mine.”
+[[speaker:xie_wuchen]]“This is mine.”
 
-“The pear?”
+[[speaker:sera]]“The pear?”
 
-“Yes.”
+[[speaker:xie_wuchen]]“Yes.”
 
-“You took it from my kitchen.”
+[[speaker:sera]]“You took it from my kitchen.”
 
-“I was given it.”
+[[speaker:xie_wuchen]]“I was given it.”
 
-“By whom?”
+[[speaker:sera]]“By whom?”
 
 Xie looked toward the courtyard below.
 
@@ -644,33 +644,33 @@ A twelve-year-old apprentice immediately ducked behind a medicine rack.
 
 Sera followed his gaze.
 
-“Traitor.”
+[[speaker:sera]]“Traitor.”
 
 From below came a muffled, “Sorry, Lady Sera.”
 
 Xie took a bite.
 
-“Good pear.”
+[[speaker:xie_wuchen]]“Good pear.”
 
 Sera folded her arms.
 
-“You’re very relaxed for a man who spent last week insisting he wanted nothing to do with us.”
+[[speaker:sera]]“You’re very relaxed for a man who spent last week insisting he wanted nothing to do with us.”
 
-“I still want nothing to do with you.”
+[[speaker:xie_wuchen]]“I still want nothing to do with you.”
 
-“You are on my roof.”
+[[speaker:sera]]“You are on my roof.”
 
-“The view is good.”
+[[speaker:xie_wuchen]]“The view is good.”
 
-“You brought Lu a ledger.”
+[[speaker:sera]]“You brought Lu a ledger.”
 
-“I found a ledger.”
+[[speaker:xie_wuchen]]“I found a ledger.”
 
-“You crossed two counties to bring it here.”
+[[speaker:sera]]“You crossed two counties to bring it here.”
 
-“I was traveling this direction.”
+[[speaker:xie_wuchen]]“I was traveling this direction.”
 
-“From the west.”
+[[speaker:sera]]“From the west.”
 
 Xie chewed.
 
@@ -686,11 +686,11 @@ In person, Sera was discovering, that principle extended well beyond martial art
 
 Xie’s expression did not change.
 
-“I dislike being owned by them.”
+[[speaker:xie_wuchen]]“I dislike being owned by them.”
 
-“Not the same thing.”
+[[speaker:sera]]“Not the same thing.”
 
-“Often becomes the same thing.”
+[[speaker:xie_wuchen]]“Often becomes the same thing.”
 
 Sera sat on the roof ridge.
 
@@ -702,9 +702,9 @@ He stayed where he was.
 
 “Fine,” she said. “Be dramatic.”
 
-“I’m eating fruit.”
+[[speaker:xie_wuchen]]“I’m eating fruit.”
 
-“You’re eating it mysteriously.”
+[[speaker:sera]]“You’re eating it mysteriously.”
 
 That almost got him.
 
@@ -716,57 +716,57 @@ Sera saw it.
 
 She decided not to embarrass him by winning visibly.
 
-“Rui said you saved six witnesses years ago.”
+[[speaker:sera]]“Rui said you saved six witnesses years ago.”
 
 Xie’s gaze went to the distant hills.
 
-“He said too much.”
+[[speaker:xie_wuchen]]“He said too much.”
 
-“He said he was chasing them because his intelligence was compromised.”
+[[speaker:sera]]“He said he was chasing them because his intelligence was compromised.”
 
-“He was younger.”
+[[speaker:xie_wuchen]]“He was younger.”
 
-“He said you beat him.”
+[[speaker:sera]]“He said you beat him.”
 
-“Also younger.”
+[[speaker:xie_wuchen]]“Also younger.”
 
-“He is still upset about that part.”
+[[speaker:sera]]“He is still upset about that part.”
 
-“That seems healthy.”
+[[speaker:xie_wuchen]]“That seems healthy.”
 
 Sera smiled.
 
 Then the smile faded.
 
-“Why did you leave?”
+[[speaker:sera]]“Why did you leave?”
 
 Xie finished chewing.
 
-“After?”
+[[speaker:xie_wuchen]]“After?”
 
-“After you learned the witnesses were innocent. After Rui realized he’d been used. After you had every reason to stay long enough to make sure the people who created the bad intelligence couldn’t do it again.”
+[[speaker:sera]]“After you learned the witnesses were innocent. After Rui realized he’d been used. After you had every reason to stay long enough to make sure the people who created the bad intelligence couldn’t do it again.”
 
 Xie’s eyes sharpened.
 
-“You’ve been talking to him a lot.”
+[[speaker:xie_wuchen]]“You’ve been talking to him a lot.”
 
-“He talks more when irritated.”
+[[speaker:sera]]“He talks more when irritated.”
 
-“That is unfortunate.”
+[[speaker:xie_wuchen]]“That is unfortunate.”
 
-“Why did you leave?”
+[[speaker:sera]]“Why did you leave?”
 
 Xie looked at the pear core.
 
-“Because staying means somebody gives you a title.”
+[[speaker:xie_wuchen]]“Because staying means somebody gives you a title.”
 
 Sera waited.
 
 “Then a responsibility,” he continued. “Then an office. Then one day somebody points at a person you’ve never met and says the banner requires you to kill them.”
 
-“That happened to Tempest Hall?”
+[[speaker:sera]]“That happened to Tempest Hall?”
 
-“It happened to everyone eventually.”
+[[speaker:xie_wuchen]]“It happened to everyone eventually.”
 
 His answer was quiet.
 
@@ -788,19 +788,19 @@ Xie glanced at her.
 
 “No.”
 
-“Huo?”
+[[speaker:sera]]“Huo?”
 
-“No.”
+[[speaker:xie_wuchen]]“No.”
 
-“Qin?”
+[[speaker:sera]]“Qin?”
 
-“Definitely not.”
+[[speaker:xie_wuchen]]“Definitely not.”
 
-“Good.”
+[[speaker:sera]]“Good.”
 
 She leaned back on both hands.
 
-“They stay because they choose the structure. If they stop choosing it, I have a problem, not a deserter.”
+[[speaker:sera]]“They stay because they choose the structure. If they stop choosing it, I have a problem, not a deserter.”
 
 Xie said nothing.
 
@@ -808,27 +808,27 @@ Xie said nothing.
 
 His gaze narrowed.
 
-“What opposite rule?”
+[[speaker:xie_wuchen]]“What opposite rule?”
 
-“That depending on nobody keeps you morally clean.”
+[[speaker:sera]]“That depending on nobody keeps you morally clean.”
 
-“I did not say that.”
+[[speaker:xie_wuchen]]“I did not say that.”
 
-“You behave it.”
+[[speaker:sera]]“You behave it.”
 
 The pear core stopped turning between his fingers.
 
 Sera looked at him directly.
 
-“You help somebody. Then you leave before they can ask for anything else.”
+[[speaker:sera]]“You help somebody. Then you leave before they can ask for anything else.”
 
-“Better than staying until they stop knowing where gratitude ends and obligation begins.”
+[[speaker:xie_wuchen]]“Better than staying until they stop knowing where gratitude ends and obligation begins.”
 
-“Sometimes.”
+[[speaker:sera]]“Sometimes.”
 
 She stood.
 
-“But leaving before anyone can depend on you is still a choice.”
+[[speaker:sera]]“But leaving before anyone can depend on you is still a choice.”
 
 That landed.
 
@@ -840,13 +840,13 @@ Sera stepped past him toward the roof access.
 
 Behind her, he said, “You were waiting to say that.”
 
-“No.”
+[[speaker:sera]]“No.”
 
-“You were.”
+[[speaker:xie_wuchen]]“You were.”
 
-“I’m naturally wise.”
+[[speaker:sera]]“I’m naturally wise.”
 
-“That is not what Rui said.”
+[[speaker:xie_wuchen]]“That is not what Rui said.”
 
 Sera stopped.
 
@@ -858,15 +858,15 @@ Wind gathered around his boots.
 
 Sera pointed at him.
 
-“Tell Rui I said he’s banned from tea for a week.”
+[[speaker:sera]]“Tell Rui I said he’s banned from tea for a week.”
 
-“I’m not your courier.”
+[[speaker:xie_wuchen]]“I’m not your courier.”
 
-“You keep bringing ledgers here.”
+[[speaker:sera]]“You keep bringing ledgers here.”
 
-“That is different.”
+[[speaker:xie_wuchen]]“That is different.”
 
-“See? Already useful.”
+[[speaker:sera]]“See? Already useful.”
 
 Xie vanished from the roof.
 
@@ -884,19 +884,19 @@ The apprentice who had given him the pear looked up.
 
 “Did he join?”
 
-“No.”
+[[speaker:sera]]“No.”
 
 “Will he?”
 
 Sera considered the empty roof.
 
-“Ask me after he steals another pear.”
+[[speaker:sera]]“Ask me after he steals another pear.”
 
 The apprentice nodded solemnly.
 
 From the street beyond the teahouse came Xie’s voice, carried back by a perfectly ordinary gust.
 
-“I heard that.”
+[[speaker:xie_wuchen]]“I heard that.”
 
 Sera grinned.
 

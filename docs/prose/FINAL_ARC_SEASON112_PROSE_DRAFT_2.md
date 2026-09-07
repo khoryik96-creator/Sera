@@ -28,19 +28,19 @@ She tasted it.
 
 Then looked at him.
 
-“This is terrible.”
+[[speaker:sera]]“This is terrible.”
 
 Rhen looked offended.
 
-“It is not.”
+[[speaker:rhen]]“It is not.”
 
-“It tastes like you boiled an old boot.”
+[[speaker:sera]]“It tastes like you boiled an old boot.”
 
-“That is the water.”
+[[speaker:rhen]]“That is the water.”
 
-“You made the water.”
+[[speaker:sera]]“You made the water.”
 
-“I did not make the river.”
+[[speaker:rhen]]“I did not make the river.”
 
 Sera stared at him.
 
@@ -50,11 +50,11 @@ His face changed by one degree.
 
 Sera smiled.
 
-“Terrible?”
+[[speaker:sera]]“Terrible?”
 
-“No.”
+[[speaker:rhen]]“No.”
 
-“Liar.”
+[[speaker:sera]]“Liar.”
 
 He put the cup down.
 
@@ -64,19 +64,19 @@ The joke faded naturally.
 
 Sera looked toward the Shinsei lines beyond the hills.
 
-“Jin's numbers are ugly.”
+[[speaker:sera]]“Jin's numbers are ugly.”
 
-“Yes.”
+[[speaker:rhen]]“Yes.”
 
-“You read them?”
+[[speaker:sera]]“You read them?”
 
-“Yes.”
+[[speaker:rhen]]“Yes.”
 
-“Of course you did.”
+[[speaker:sera]]“Of course you did.”
 
 Rhen's gaze stayed on the dark horizon.
 
-“I can stop Tsubasa.”
+[[speaker:rhen]]“I can stop Tsubasa.”
 
 Sera did not answer immediately. Rhen’s certainty sat between them without boast.
 
@@ -88,25 +88,25 @@ The strongest person alive stating a practical fact in the same tone he might us
 
 Sera looked at him.
 
-“How?”
+[[speaker:sera]]“How?”
 
 Rhen glanced back.
 
-“You don't actually want the answer yet.”
+[[speaker:rhen]]“You don't actually want the answer yet.”
 
 That made her smile faintly.
 
 “No.”
 
-“I thought so.”
+[[speaker:rhen]]“I thought so.”
 
 Sera turned the cup between her hands.
 
-“Can you stop the whole army?”
+[[speaker:sera]]“Can you stop the whole army?”
 
-“Yes.”
+[[speaker:rhen]]“Yes.”
 
-“Without killing them?”
+[[speaker:sera]]“Without killing them?”
 
 Rhen paused.
 
@@ -114,41 +114,41 @@ Rhen paused.
 
 The pause was calculation, not uncertainty. Sera saw it.
 
-“You figured something out in that cave.”
+[[speaker:sera]]“You figured something out in that cave.”
 
-“I was not in a cave.”
+[[speaker:rhen]]“I was not in a cave.”
 
-“Room.”
+[[speaker:sera]]“Room.”
 
-“Better.”
+[[speaker:rhen]]“Better.”
 
-“You figured something out.”
+[[speaker:sera]]“You figured something out.”
 
 Rhen looked innocent.
 
 Sera narrowed her eyes.
 
-“Rhen.”
+[[speaker:sera]]“Rhen.”
 
 “Yes.”
 
-“Do not do that.”
+[[speaker:sera]]“Do not do that.”
 
-“Do what?”
+[[speaker:rhen]]“Do what?”
 
-“That face.”
+[[speaker:sera]]“That face.”
 
-“What face?”
+[[speaker:rhen]]“What face?”
 
-“The face you make before revealing you can do something obscene to the laws of martial arts while pretending it's a gardening problem.”
+[[speaker:sera]]“The face you make before revealing you can do something obscene to the laws of martial arts while pretending it's a gardening problem.”
 
 Rhen considered this.
 
-“That seems unfair.”
+[[speaker:rhen]]“That seems unfair.”
 
-“You are unfair.”
+[[speaker:sera]]“You are unfair.”
 
-“True.”
+[[speaker:rhen]]“True.”
 
 Sera laughed once.
 
@@ -174,7 +174,7 @@ And he was asking.
 
 Sera reached over and took his hand.
 
-“Not yet.”
+[[speaker:sera]]“Not yet.”
 
 Rhen nodded immediately.
 
@@ -190,25 +190,25 @@ Just:
 
 Sera watched him.
 
-“That easy?”
+[[speaker:sera]]“That easy?”
 
-“Yes.”
+[[speaker:rhen]]“Yes.”
 
-“You're not going to tell me Tsubasa is dangerous?”
+[[speaker:sera]]“You're not going to tell me Tsubasa is dangerous?”
 
-“He is.”
+[[speaker:rhen]]“He is.”
 
-“You're not going to tell me I could get hurt?”
+[[speaker:sera]]“You're not going to tell me I could get hurt?”
 
-“You will.”
+[[speaker:rhen]]“You will.”
 
 Sera stared.
 
 Rhen added, “Probably.”
 
-“Wonderful.”
+[[speaker:sera]]“Wonderful.”
 
-“You asked.”
+[[speaker:rhen]]“You asked.”
 
 She squeezed his hand harder.
 
@@ -216,17 +216,17 @@ Rhen did not complain.
 
 Sera looked back toward the horizon.
 
-“I need one more path before yours.”
+[[speaker:sera]]“I need one more path before yours.”
 
 Rhen waited.
 
-“If I let you walk out first, this war ends because Shinsei meets something it cannot understand.”
+[[speaker:sera]]“If I let you walk out first, this war ends because Shinsei meets something it cannot understand.”
 
-“Yes.”
+[[speaker:rhen]]“Yes.”
 
-“But if I walk out first—”
+[[speaker:sera]]“But if I walk out first—”
 
-“Tsubasa has to answer Wuyue.”
+[[speaker:rhen]]“Tsubasa has to answer Wuyue.”
 
 Sera looked at him.
 
@@ -236,21 +236,21 @@ Of course he did.
 
 She continued.
 
-“He built his whole refusal around the idea that surrendering to a stronger foreign monster destroys Shinsei's legitimacy.”
+[[speaker:sera]]“He built his whole refusal around the idea that surrendering to a stronger foreign monster destroys Shinsei's legitimacy.”
 
 Rhen frowned.
 
-“I'm a foreign monster?”
+[[speaker:rhen]]“I'm a foreign monster?”
 
-“In this argument, yes.”
+[[speaker:sera]]“In this argument, yes.”
 
-“That seems rude.”
+[[speaker:rhen]]“That seems rude.”
 
-“Focus.”
+[[speaker:sera]]“Focus.”
 
-“Okay.”
+[[speaker:rhen]]“Okay.”
 
-“If I challenge him, he cannot hide behind you.”
+[[speaker:sera]]“If I challenge him, he cannot hide behind you.”
 
 Rhen's expression sharpened.
 
@@ -268,17 +268,17 @@ Rhen looked down at their joined hands.
 
 Then back up.
 
-“Do you want the duel?”
+[[speaker:rhen]]“Do you want the duel?”
 
-“Yes.”
+[[speaker:sera]]“Yes.”
 
-“Not because you think you owe everyone proof?”
+[[speaker:rhen]]“Not because you think you owe everyone proof?”
 
 Sera's eyes narrowed.
 
 “No.”
 
-“Not because you're angry at being compared to me?”
+[[speaker:rhen]]“Not because you're angry at being compared to me?”
 
 That one hit closer.
 
@@ -286,29 +286,29 @@ She considered it honestly.
 
 Then shook her head.
 
-“No.”
+[[speaker:sera]]“No.”
 
 Rhen nodded.
 
-“Then do it.”
+[[speaker:rhen]]“Then do it.”
 
 Sera stared at him.
 
-“That's all?”
+[[speaker:sera]]“That's all?”
 
-“What else?”
+[[speaker:rhen]]“What else?”
 
-“You're supposed to say something romantic.”
+[[speaker:sera]]“You're supposed to say something romantic.”
 
 Rhen thought.
 
-“You are very pretty when making dangerous decisions.”
+[[speaker:rhen]]“You are very pretty when making dangerous decisions.”
 
 Sera groaned.
 
-“That was awful.”
+[[speaker:sera]]“That was awful.”
 
-“You asked.”
+[[speaker:rhen]]“You asked.”
 
 She leaned into him anyway.
 
@@ -318,7 +318,7 @@ After a while Sera said, “If I lose?”
 
 Rhen's hand tightened around hers.
 
-“Then I catch you.”
+[[speaker:rhen]]“Then I catch you.”
 
 She smiled. That was the difference she had been waiting for.
 
@@ -368,47 +368,47 @@ He read the challenge twice.
 
 Kai stood beside him.
 
-“This is dangerous.”
+[[speaker:kai]]“This is dangerous.”
 
-“Yes.”
+[[speaker:tsubasa]]“Yes.”
 
-“You don't need to accept.”
+[[speaker:kai]]“You don't need to accept.”
 
-“No.”
+[[speaker:tsubasa]]“No.”
 
 Kai looked at him.
 
 Tsubasa placed the paper down.
 
-“But I will.”
+[[speaker:tsubasa]]“But I will.”
 
 Aya's expression hardened from across the table.
 
-“Why?”
+[[speaker:aya]]“Why?”
 
 Tsubasa looked at her.
 
-“Because tomorrow's alternative is twenty thousand people discovering which artillery line collapses first.”
+[[speaker:tsubasa]]“Because tomorrow's alternative is twenty thousand people discovering which artillery line collapses first.”
 
 Aya said nothing.
 
 Nao looked at the paper.
 
-“And because if you defeat her?”
+[[speaker:nao]]“And because if you defeat her?”
 
 Tsubasa's eyes narrowed slightly.
 
-“Then the coalition has to absorb the fact that its Peak Paragon could not defeat ours without Rhen.”
+[[speaker:tsubasa]]“Then the coalition has to absorb the fact that its Peak Paragon could not defeat ours without Rhen.”
 
 Hana leaned against the wall.
 
-“You think that changes Sera's decision?”
+[[speaker:hana]]“You think that changes Sera's decision?”
 
-“No.”
+[[speaker:tsubasa]]“No.”
 
-“Then what does it change?”
+[[speaker:hana]]“Then what does it change?”
 
-“Everyone else's.”
+[[speaker:tsubasa]]“Everyone else's.”
 
 That was the strategic answer.
 
@@ -424,7 +424,7 @@ Maybe enough to force a negotiated end that did not look like surrender.
 
 Aya stared at him.
 
-“You're still trying to win the shape of the surrender.”
+[[speaker:aya]]“You're still trying to win the shape of the surrender.”
 
 Tsubasa's jaw tightened.
 
@@ -510,17 +510,17 @@ Tsubasa looked toward Rhen once.
 
 Then back to Sera.
 
-“He agreed to stay out?”
+[[speaker:tsubasa]]“He agreed to stay out?”
 
 Sera smiled faintly.
 
-“You think I need permission from him?”
+[[speaker:sera]]“You think I need permission from him?”
 
 Tsubasa paused.
 
 “No.”
 
-“Good answer.”
+[[speaker:sera]]“Good answer.”
 
 His mouth moved slightly.
 
@@ -528,29 +528,29 @@ Almost a smile.
 
 Then his expression settled.
 
-“Terms remain?”
+[[speaker:tsubasa]]“Terms remain?”
 
-“No Redline.”
+[[speaker:sera]]“No Redline.”
 
-“Yes.”
+[[speaker:tsubasa]]“Yes.”
 
-“No outside interference while either of us can continue.”
+[[speaker:sera]]“No outside interference while either of us can continue.”
 
-“Yes.”
+[[speaker:tsubasa]]“Yes.”
 
-“No execution.”
+[[speaker:sera]]“No execution.”
 
-“Yes.”
+[[speaker:tsubasa]]“Yes.”
 
-“If I win, you return to the ceasefire table before another general offensive.”
+[[speaker:sera]]“If I win, you return to the ceasefire table before another general offensive.”
 
-“Yes.”
+[[speaker:tsubasa]]“Yes.”
 
-“If you win, you get your proof.”
+[[speaker:sera]]“If you win, you get your proof.”
 
 Tsubasa looked at her.
 
-“Something like that.”
+[[speaker:tsubasa]]“Something like that.”
 
 Sera rolled one shoulder.
 
@@ -564,7 +564,7 @@ Tsubasa said, “You understand I am not Aethon Vael.”
 
 Sera's eyes sharpened.
 
-“I'd be disappointed if you were.”
+[[speaker:sera]]“I'd be disappointed if you were.”
 
 The chain moved.
 
@@ -766,7 +766,7 @@ Tsubasa had built a martial system around making every distance the wrong distan
 
 On the ridge, Shen Rui breathed out.
 
-“So this is Shinsei No.1.”
+[[speaker:rui]]“So this is Shinsei No.1.”
 
 Lei Zhen's eyes stayed fixed on the basin.
 
@@ -784,15 +784,15 @@ Blood touched the corner of her mouth.
 
 Tsubasa looked at it.
 
-“Still want the duel?”
+[[speaker:tsubasa]]“Still want the duel?”
 
 Sera wiped the blood with one thumb.
 
-“You've hit me once.”
+[[speaker:sera]]“You've hit me once.”
 
-“Twice.”
+[[speaker:tsubasa]]“Twice.”
 
-“The first was rude, not meaningful.”
+[[speaker:sera]]“The first was rude, not meaningful.”
 
 For the first time Tsubasa actually smiled.
 
@@ -938,17 +938,17 @@ Tsubasa's eyes sharpened.
 
 Sera smiled.
 
-“You change the answer after choosing the question.”
+[[speaker:sera]]“You change the answer after choosing the question.”
 
 Tsubasa pulled the chain around a second anchor.
 
-“You punish choices.”
+[[speaker:tsubasa]]“You punish choices.”
 
-“Yes.”
+[[speaker:sera]]“Yes.”
 
-“Then I should make choices that keep changing.”
+[[speaker:tsubasa]]“Then I should make choices that keep changing.”
 
-“Try.”
+[[speaker:sera]]“Try.”
 
 He did.
 
@@ -1050,17 +1050,17 @@ The armies became restless.
 
 Tsubasa said, “Your Domain doesn't punish patience.”
 
-“No.”
+[[speaker:sera]]“No.”
 
-“Or defense.”
+[[speaker:tsubasa]]“Or defense.”
 
-“No.”
+[[speaker:sera]]“No.”
 
-“Then it has a simple answer.”
+[[speaker:tsubasa]]“Then it has a simple answer.”
 
 Sera smiled.
 
-“Everything has a simple answer when nobody is trying to win.”
+[[speaker:sera]]“Everything has a simple answer when nobody is trying to win.”
 
 Tsubasa's eyes narrowed. He had found the choice inside her rule: if he refused hostile commitment entirely, Orchid Dominion gave Sera nothing.
 

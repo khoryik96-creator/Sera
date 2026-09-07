@@ -14,15 +14,15 @@ Not because the number was low.
 
 Because Aya Katsuragi had measured it.
 
-“How precise is seventy-eight?”
+[[speaker:jun]]“How precise is seventy-eight?”
 
 Aya did not look up from the chart.
 
-“Precise enough to irritate you.”
+[[speaker:aya]]“Precise enough to irritate you.”
 
-“That is not medicine.”
+[[speaker:jun]]“That is not medicine.”
 
-“It is today.”
+[[speaker:aya]]“It is today.”
 
 Jun sat on the edge of the treatment cot in partial armor.
 
@@ -38,31 +38,31 @@ That was not the same as finished.
 
 Aya checked his pulse again.
 
-“You can fight.”
+[[speaker:aya]]“You can fight.”
 
 Jun nodded.
 
-“You should not maintain full Dominion output longer than necessary.”
+[[speaker:aya]]“You should not maintain full Dominion output longer than necessary.”
 
 He nodded again.
 
-“If your chest pain sharpens, stop.”
+[[speaker:aya]]“If your chest pain sharpens, stop.”
 
 A pause.
 
-“If your left hand begins to numb, stop.”
+[[speaker:aya]]“If your left hand begins to numb, stop.”
 
 Another.
 
-“If you taste blood—”
+[[speaker:aya]]“If you taste blood—”
 
-“I know.”
+[[speaker:jun]]“I know.”
 
 Aya looked at him.
 
 Jun corrected himself.
 
-“Stop.”
+[[speaker:jun]]“Stop.”
 
 “Yes.”
 
@@ -74,19 +74,19 @@ Jun stared.
 
 She did not release it.
 
-“You are not healed because command needs you.”
+[[speaker:aya]]“You are not healed because command needs you.”
 
-“I know.”
+[[speaker:jun]]“I know.”
 
-“You are being returned early because command needs you.”
+[[speaker:aya]]“You are being returned early because command needs you.”
 
-“Yes.”
+[[speaker:jun]]“Yes.”
 
-“Those are different sentences.”
+[[speaker:aya]]“Those are different sentences.”
 
 Jun’s expression softened by a fraction.
 
-“I know.”
+[[speaker:jun]]“I know.”
 
 Aya let go.
 
@@ -114,23 +114,23 @@ More than before.
 
 Aya noticed immediately.
 
-“Where?”
+[[speaker:aya]]“Where?”
 
 The quartermaster stopped.
 
 “Forward Third and Sixth.”
 
-“How many?”
+[[speaker:aya]]“How many?”
 
 He hesitated.
 
 Aya looked at him.
 
-“How many?”
+[[speaker:aya]]“How many?”
 
 “Formation allocation.”
 
-“That is not a number.”
+[[speaker:aya]]“That is not a number.”
 
 The quartermaster glanced toward his officer.
 
@@ -138,17 +138,17 @@ The officer approached.
 
 “Physician Katsuragi.”
 
-“How many 3× seals?”
+[[speaker:aya]]“How many 3× seals?”
 
 “Operationally restricted.”
 
 Aya’s face went still.
 
-“I designed the medical screening protocol for the drug you are carrying.”
+[[speaker:aya]]“I designed the medical screening protocol for the drug you are carrying.”
 
 “This is command authorization.”
 
-“That did not answer me.”
+[[speaker:aya]]“That did not answer me.”
 
 Jun remained near the pavilion entrance.
 
@@ -160,7 +160,7 @@ The officer lowered his voice.
 
 Aya’s hand tightened around the chart.
 
-“For emergency distribution?”
+[[speaker:aya]]“For emergency distribution?”
 
 “Formation activation.”
 
@@ -180,15 +180,15 @@ The officer blinked.
 
 “Excuse me?”
 
-“No mass same-window 3× activation.”
+[[speaker:aya]]“No mass same-window 3× activation.”
 
 “Command approved it.”
 
-“I am objecting medically.”
+[[speaker:aya]]“I am objecting medically.”
 
 “I will record that.”
 
-“And then?”
+[[speaker:aya]]“And then?”
 
 The officer said nothing.
 
@@ -198,7 +198,7 @@ Then anyway.
 
 Jun looked at the crates.
 
-“How critical?”
+[[speaker:jun]]“How critical?”
 
 The officer answered him.
 
@@ -208,15 +208,15 @@ Jun’s jaw tightened.
 
 Aya turned to him.
 
-“Do not.”
+[[speaker:aya]]“Do not.”
 
-“I didn’t say anything.”
+[[speaker:jun]]“I didn’t say anything.”
 
-“You were about to say necessity.”
+[[speaker:aya]]“You were about to say necessity.”
 
 Jun looked at her.
 
-“Sometimes it is.”
+[[speaker:jun]]“Sometimes it is.”
 
 Aya stared.
 
@@ -242,15 +242,15 @@ Aya watched them go.
 
 Jun lifted the halberd.
 
-“I’ll be careful.”
+[[speaker:jun]]“I’ll be careful.”
 
 She looked at him.
 
-“No, you won’t.”
+[[speaker:aya]]“No, you won’t.”
 
 A faint smile.
 
-“Fair.”
+[[speaker:jun]]“Fair.”
 
 Then he returned to war before she had finished healing him.
 
@@ -288,13 +288,13 @@ Instead, every officer in the front rank touched the same place on their belt.
 
 Jin’s face changed.
 
-“Signal withdrawal.”
+[[speaker:jin]]“Signal withdrawal.”
 
 The aide stared.
 
 “We’re winning.”
 
-“Signal withdrawal.”
+[[speaker:jin]]“Signal withdrawal.”
 
 A horn began.
 
@@ -330,7 +330,7 @@ Because the people striking them had borrowed tomorrow’s body to pay today’s
 
 Arin saw her left flank disappear into speed.
 
-“BACK.”
+[[speaker:arin]]“BACK.”
 
 Her swordswomen moved.
 
@@ -348,19 +348,19 @@ The aide stared.
 
 “New orders?”
 
-“Everything changes.”
+[[speaker:jin]]“Everything changes.”
 
 “What about the ridge?”
 
-“Give it back.”
+[[speaker:jin]]“Give it back.”
 
 “The beachhead?”
 
-“Keep only the hospital road.”
+[[speaker:jin]]“Keep only the hospital road.”
 
 “We just spent—”
 
-“I know what we spent.”
+[[speaker:jin]]“I know what we spent.”
 
 Jin’s voice cut harder.
 
@@ -374,23 +374,23 @@ Others hesitated because winning lines were psychologically harder to abandon th
 
 Sera appeared beside the central relay.
 
-“What?”
+[[speaker:sera]]“What?”
 
 Jin pointed.
 
-“Mass 3×.”
+[[speaker:jin]]“Mass 3×.”
 
-“How many?”
+[[speaker:sera]]“How many?”
 
-“Thousands.”
+[[speaker:jin]]“Thousands.”
 
 Her face hardened.
 
-“Window?”
+[[speaker:sera]]“Window?”
 
-“Luo said roughly five minutes.”
+[[speaker:jin]]“Luo said roughly five minutes.”
 
-“Then we don’t fight five minutes.”
+[[speaker:sera]]“Then we don’t fight five minutes.”
 
 Jin looked at her.
 
@@ -452,13 +452,13 @@ Fourth forced him back.
 
 Jin watched the timer.
 
-“One minute.”
+[[speaker:jin]]“One minute.”
 
 Aide shouted:
 
 “Which one?”
 
-“Since first activation.”
+[[speaker:jin]]“Since first activation.”
 
 “Not simultaneous!”
 
@@ -478,17 +478,17 @@ Still usable.
 
 Luo arrived at the command line.
 
-“Watch skin temperature and hand tremor. Crash starts unevenly.”
+[[speaker:luo]]“Watch skin temperature and hand tremor. Crash starts unevenly.”
 
 Jin looked at him.
 
-“How uneven?”
+[[speaker:jin]]“How uneven?”
 
-“Enough to get people killed if you treat five minutes like a bell.”
+[[speaker:luo]]“Enough to get people killed if you treat five minutes like a bell.”
 
-“Helpful.”
+[[speaker:jin]]“Helpful.”
 
-“Medicine is rude.”
+[[speaker:luo]]“Medicine is rude.”
 
 The first Shinsei soldier collapsed at four minutes forty-two.
 
@@ -504,7 +504,7 @@ The wave began losing coherence.
 
 Jin saw it.
 
-“Now.”
+[[speaker:jin]]“Now.”
 
 Wuyue counter-formations moved.
 
@@ -572,15 +572,15 @@ Every body became a medical statement written in motion.
 
 And the statements were screaming.
 
-“Triage one through twelve, severe meridian tearing.”
+[[speaker:aya]]“Triage one through twelve, severe meridian tearing.”
 
 Assistants moved.
 
-“Thirteen to twenty, internal bleeding but stable core.”
+[[speaker:aya]]“Thirteen to twenty, internal bleeding but stable core.”
 
 Moved.
 
-“Twenty-one—stop him walking.”
+[[speaker:aya]]“Twenty-one—stop him walking.”
 
 A soldier protested.
 
@@ -588,7 +588,7 @@ A soldier protested.
 
 Aya pointed without looking.
 
-“Your left femoral meridian is splitting.”
+[[speaker:aya]]“Your left femoral meridian is splitting.”
 
 He stopped.
 
@@ -648,7 +648,7 @@ One assistant noticed.
 
 “Physician?”
 
-“Continue.”
+[[speaker:aya]]“Continue.”
 
 Aya placed Seven Pulse Needles into a young soldier’s chest.
 
@@ -662,11 +662,11 @@ His future vitality loss was not.
 
 “One.”
 
-“Duration?”
+[[speaker:aya]]“Duration?”
 
 “Four minutes something.”
 
-“Prior use?”
+[[speaker:aya]]“Prior use?”
 
 “No.”
 
@@ -718,11 +718,11 @@ Aya did not look up.
 
 Her hand stopped.
 
-“Readiness.”
+[[speaker:aya]]“Readiness.”
 
 “Yes.”
 
-“When?”
+[[speaker:aya]]“When?”
 
 “Tomorrow morning.”
 
@@ -730,19 +730,19 @@ Aya looked at him.
 
 The colonel took one step back.
 
-“Tomorrow.”
+[[speaker:aya]]“Tomorrow.”
 
 “Yes.”
 
 She pointed at the room.
 
-“Do you see them?”
+[[speaker:aya]]“Do you see them?”
 
 He swallowed.
 
 “Yes.”
 
-“No. You see wounded soldiers.”
+[[speaker:aya]]“No. You see wounded soldiers.”
 
 Aya’s voice remained quiet.
 
@@ -750,29 +750,29 @@ Aya’s voice remained quiet.
 
 She touched one patient’s chart.
 
-“This man can walk tomorrow.”
+[[speaker:aya]]“This man can walk tomorrow.”
 
 Another.
 
-“This one could fight in three days if I were willing to be irresponsible.”
+[[speaker:aya]]“This one could fight in three days if I were willing to be irresponsible.”
 
 Another.
 
-“This one may recover completely from tissue damage.”
+[[speaker:aya]]“This one may recover completely from tissue damage.”
 
 The colonel said nothing.
 
 Aya looked at him.
 
-“None of those sentences restore what Redline spent.”
+[[speaker:aya]]“None of those sentences restore what Redline spent.”
 
 “I understand.”
 
-“No.”
+[[speaker:aya]]“No.”
 
 For the first time, anger entered her voice.
 
-“You know the phrase. I am not convinced you understand it.”
+[[speaker:aya]]“You know the phrase. I am not convinced you understand it.”
 
 The room had gone quieter.
 
@@ -798,15 +798,15 @@ Could not repair time already burned.
 
 Aya turned back to the colonel.
 
-“Readiness estimate tomorrow.”
+[[speaker:aya]]“Readiness estimate tomorrow.”
 
 “Yes?”
 
-“Alive.”
+[[speaker:aya]]“Alive.”
 
 He blinked.
 
-“That is the estimate.”
+[[speaker:aya]]“That is the estimate.”
 
 Then she returned to work.
 
@@ -840,7 +840,7 @@ He looked at her.
 
 “Nothing.”
 
-“Your pulse disagrees.”
+[[speaker:aya]]“Your pulse disagrees.”
 
 He almost smiled.
 
@@ -850,7 +850,7 @@ Then didn’t.
 
 Aya understood the question as recovery.
 
-“Meridian tearing? Six to eight weeks before full unrestricted combat if you follow instructions.”
+[[speaker:aya]]“Meridian tearing? Six to eight weeks before full unrestricted combat if you follow instructions.”
 
 The soldier stared.
 
@@ -858,17 +858,17 @@ The soldier stared.
 
 Aya paused.
 
-“What did you think?”
+[[speaker:aya]]“What did you think?”
 
 “They said months.”
 
-“Yes.”
+[[speaker:aya]]“Yes.”
 
 “So I got lucky.”
 
 Something cold moved through Aya.
 
-“What exactly were you told about Redline?”
+[[speaker:aya]]“What exactly were you told about Redline?”
 
 The young man frowned.
 
@@ -884,13 +884,13 @@ The young man frowned.
 
 Aya’s hands went still.
 
-“Lifespan.”
+[[speaker:aya]]“Lifespan.”
 
 He looked at her.
 
 “What?”
 
-“What were you told about lifespan?”
+[[speaker:aya]]“What were you told about lifespan?”
 
 The soldier stared.
 
@@ -930,7 +930,7 @@ Years.
 
 Aya looked at the boy.
 
-“One standard 3× exposure of roughly five minutes may cost approximately five years of future life.”
+[[speaker:aya]]“One standard 3× exposure of roughly five minutes may cost approximately five years of future life.”
 
 His pulse stopped accelerating.
 
@@ -940,7 +940,7 @@ For half a beat, it almost slowed too much.
 
 Aya did not soften it.
 
-“Five years. Approximate. Individual cost varies.”
+[[speaker:aya]]“Five years. Approximate. Individual cost varies.”
 
 The soldier looked at his hands.
 
@@ -950,11 +950,11 @@ Aya said nothing.
 
 “They said months.”
 
-“I know.”
+[[speaker:aya]]“I know.”
 
 “No, they said recovery could take months.”
 
-“I know.”
+[[speaker:aya]]“I know.”
 
 He looked at her.
 
@@ -992,7 +992,7 @@ He was entitled to it.
 
 Aya’s throat tightened.
 
-“I thought the warnings remained in operational briefing.”
+[[speaker:aya]]“I thought the warnings remained in operational briefing.”
 
 “That isn’t an answer.”
 
@@ -1002,17 +1002,17 @@ It wasn’t.
 
 Aya looked down at her own hands.
 
-“I stayed because I believed if the military was going to use Axtaya, someone had to keep it from becoming worse.”
+[[speaker:aya]]“I stayed because I believed if the military was going to use Axtaya, someone had to keep it from becoming worse.”
 
 The soldier said nothing.
 
-“I believed being inside meant I could control dosage, screening, recovery, repeat use.”
+[[speaker:aya]]“I believed being inside meant I could control dosage, screening, recovery, repeat use.”
 
 “And?”
 
 Aya looked around the hospital.
 
-“And this is worse.”
+[[speaker:aya]]“And this is worse.”
 
 Silence.
 
@@ -1056,7 +1056,7 @@ The clerk beside her stared.
 
 “Command has not approved—”
 
-“Copy it.”
+[[speaker:aya]]“Copy it.”
 
 Her voice did not rise.
 
@@ -1074,19 +1074,19 @@ A supply officer arrived.
 
 “What are you doing?”
 
-“Medicine.”
+[[speaker:aya]]“Medicine.”
 
 “You’re cutting Redline availability.”
 
-“Yes.”
+[[speaker:aya]]“Yes.”
 
 “On whose authority?”
 
-“Mine.”
+[[speaker:aya]]“Mine.”
 
 “You cannot block command issue.”
 
-“I can classify bodies medically unfit.”
+[[speaker:aya]]“I can classify bodies medically unfit.”
 
 “This many?”
 
@@ -1118,15 +1118,15 @@ Jin looked at them.
 
 “Why?”
 
-“Because you keep saying five minutes as if war respects clocks.”
+[[speaker:luo]]“Because you keep saying five minutes as if war respects clocks.”
 
-“I do not.”
+[[speaker:jin]]“I do not.”
 
-“You did twice.”
+[[speaker:luo]]“You did twice.”
 
-“Those were estimates.”
+[[speaker:jin]]“Those were estimates.”
 
-“Good. Then learn the estimate properly.”
+[[speaker:luo]]“Good. Then learn the estimate properly.”
 
 Luo opened his notes.
 
@@ -1142,101 +1142,101 @@ One voluntary test using a non-Redline lower stimulant analogue under controlled
 
 Jin frowned at that line.
 
-“You tested it?”
+[[speaker:jin]]“You tested it?”
 
-“Not 3×.”
+[[speaker:luo]]“Not 3×.”
 
-“Good.”
+[[speaker:jin]]“Good.”
 
-“I’m reckless, not stupid.”
+[[speaker:luo]]“I’m reckless, not stupid.”
 
 Sera, sitting beside the table, said nothing.
 
 Luo looked at her.
 
-“What?”
+[[speaker:luo]]“What?”
 
-“Nothing.”
+[[speaker:sera]]“Nothing.”
 
-“That was judgement.”
+[[speaker:luo]]“That was judgement.”
 
-“Yes.”
+[[speaker:sera]]“Yes.”
 
 He ignored her.
 
-“Standard 3× active peak is roughly five minutes. But onset varies. Crash varies. Body mass, prior fatigue, circulation quality, dose absorption, temperature, injury.”
+[[speaker:luo]]“Standard 3× active peak is roughly five minutes. But onset varies. Crash varies. Body mass, prior fatigue, circulation quality, dose absorption, temperature, injury.”
 
 Jin nodded.
 
-“So no exact bell.”
+[[speaker:jin]]“So no exact bell.”
 
-“No.”
+[[speaker:luo]]“No.”
 
-“But tactical window.”
+[[speaker:jin]]“But tactical window.”
 
-“Yes.”
+[[speaker:luo]]“Yes.”
 
 Luo moved the watches.
 
-“First minute, don’t contest unless terrain forces you.”
+[[speaker:luo]]“First minute, don’t contest unless terrain forces you.”
 
 Second.
 
-“Minutes two to four, make them move for nothing.”
+[[speaker:luo]]“Minutes two to four, make them move for nothing.”
 
 Third.
 
-“Force direction changes. Deny fixed targets. Make them spend qinggong, formation acceleration, weapon reinforcement.”
+[[speaker:luo]]“Force direction changes. Deny fixed targets. Make them spend qinggong, formation acceleration, weapon reinforcement.”
 
 Fourth.
 
-“Near expected crash, do not rush too early. Some users hold longer.”
+[[speaker:luo]]“Near expected crash, do not rush too early. Some users hold longer.”
 
 Fifth.
 
-“When tremor, temperature drop after peak, gait instability and circulation noise appear—then punish.”
+[[speaker:luo]]“When tremor, temperature drop after peak, gait instability and circulation noise appear—then punish.”
 
 Jin studied the arrangement.
 
-“Retreat as offense.”
+[[speaker:jin]]“Retreat as offense.”
 
-“Yes.”
+[[speaker:luo]]“Yes.”
 
-“Not rout.”
+[[speaker:jin]]“Not rout.”
 
-“No.”
+[[speaker:luo]]“No.”
 
-“Structured denial.”
+[[speaker:jin]]“Structured denial.”
 
-“Yes.”
+[[speaker:luo]]“Yes.”
 
 Jin smiled.
 
 Luo looked suspicious.
 
-“What?”
+[[speaker:luo]]“What?”
 
-“I like it.”
+[[speaker:jin]]“I like it.”
 
-“That is rarely comforting.”
+[[speaker:luo]]“That is rarely comforting.”
 
 Jin stood and moved to the map.
 
-“Five-Minute Retreat.”
+[[speaker:jin]]“Five-Minute Retreat.”
 
 Luo stared.
 
-“You named it already.”
+[[speaker:luo]]“You named it already.”
 
-“Yes.”
+[[speaker:jin]]“Yes.”
 
-“That is terrible.”
+[[speaker:luo]]“That is terrible.”
 
-“It is accurate.”
+[[speaker:jin]]“It is accurate.”
 
-“It sounds like soldiers are taking a break.”
+[[speaker:luo]]“It sounds like soldiers are taking a break.”
 
-“They’ll remember it.”
+[[speaker:jin]]“They’ll remember it.”
 
 Sera said, “He’s right.”
 
@@ -1264,11 +1264,11 @@ Quaint recon could identify red-vial distribution before activation where possib
 
 Sera watched the plan become real.
 
-“How much ground do we give?”
+[[speaker:sera]]“How much ground do we give?”
 
 Jin answered.
 
-“Whatever costs less than the people.”
+[[speaker:jin]]“Whatever costs less than the people.”
 
 Good.
 
@@ -1282,21 +1282,21 @@ Trade land for time only when time had measurable value.
 
 Luo tapped the watches.
 
-“One more thing.”
+[[speaker:luo]]“One more thing.”
 
 Jin looked at him.
 
-“Some crash hard enough to die if you hit immediately.”
+[[speaker:luo]]“Some crash hard enough to die if you hit immediately.”
 
-“And?”
+[[speaker:jin]]“And?”
 
-“If they surrender, treat them.”
+[[speaker:luo]]“If they surrender, treat them.”
 
 Jin nodded.
 
-“If they keep attacking?”
+[[speaker:jin]]“If they keep attacking?”
 
-“Stop them.”
+[[speaker:luo]]“Stop them.”
 
 Simple.
 
@@ -1304,11 +1304,11 @@ Medicine did not require passivity.
 
 Sera stood.
 
-“When do we test it?”
+[[speaker:sera]]“When do we test it?”
 
 Jin looked at the newest Shinsei formation report.
 
-“Tomorrow.”
+[[speaker:jin]]“Tomorrow.”
 
 Luo collected five watches.
 
@@ -1316,11 +1316,11 @@ Left one.
 
 Jin looked at it.
 
-“For you.”
+[[speaker:luo]]“For you.”
 
-“I own one.”
+[[speaker:jin]]“I own one.”
 
-“You forget to use it when excited.”
+[[speaker:luo]]“You forget to use it when excited.”
 
 Jin stared.
 

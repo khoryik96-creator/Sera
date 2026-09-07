@@ -1,6 +1,6 @@
 # Season 97 — unattributed dialogue
 
-135 quoted lines in this season have no speaker.
+101 quoted lines in this season have no speaker.
 See `README.md` in this folder for what to do with them.
 
 Lines already resolved show their speaker in `[brackets]` for context.
@@ -8,25 +8,25 @@ Lines already resolved show their speaker in `[brackets]` for context.
 ### Chapter 321 — Too Much Medicine for a Black Market
 
 ```
+The attic door opened.
+A woman in a brown Shinsei inspection coat stepped in.
 Yun looked up with mild irritation.
-[yun] “Can I help you?”
+>>> “Can I help you?”   <-- WHO SAYS THIS?
+The inspector’s eyes moved over the room.
+“Foreign medical trader?”
+```
+```
+Yun looked up with mild irritation.
+“Can I help you?”
 The inspector’s eyes moved over the room.
 >>> “Foreign medical trader?”   <-- WHO SAYS THIS?
-“Yes.”
+[yun] “Yes.”
 “Permit.”
-```
-```
-[yun] “Can I help you?”
-The inspector’s eyes moved over the room.
-“Foreign medical trader?”
->>> “Yes.”   <-- WHO SAYS THIS?
-“Permit.”
-Yun handed it over.
 ```
 ```
 The inspector’s eyes moved over the room.
 “Foreign medical trader?”
-“Yes.”
+[yun] “Yes.”
 >>> “Permit.”   <-- WHO SAYS THIS?
 Yun handed it over.
 The woman checked the seal.
@@ -36,21 +36,13 @@ The woman checked the seal.
 Yun handed it over.
 The woman checked the seal.
 >>> “What are you doing in a grain office?”   <-- WHO SAYS THIS?
-“Trying to understand why fever bark costs twelve percent more here than at the southern port.”
+[yun] “Trying to understand why fever bark costs twelve percent more here than at the southern port.”
 “That requires military transport schedules?”
-```
-```
-Yun handed it over.
-The woman checked the seal.
-“What are you doing in a grain office?”
->>> “Trying to understand why fever bark costs twelve percent more here than at the southern port.”   <-- WHO SAYS THIS?
-“That requires military transport schedules?”
-The visible paper had one protected-route stamp on it.
 ```
 ```
 The woman checked the seal.
 “What are you doing in a grain office?”
-“Trying to understand why fever bark costs twelve percent more here than at the southern port.”
+[yun] “Trying to understand why fever bark costs twelve percent more here than at the southern port.”
 >>> “That requires military transport schedules?”   <-- WHO SAYS THIS?
 The visible paper had one protected-route stamp on it.
 Yun looked down as though noticing for the first time.
@@ -60,45 +52,37 @@ The inspector lifted the fever ledger.
 Found the transport sheet.
 Read it.
 >>> “This is restricted.”   <-- WHO SAYS THIS?
-“Then your broker has poor filing discipline.”
+[yun] “Then your broker has poor filing discipline.”
 “Where is he?”
-```
-```
-Found the transport sheet.
-Read it.
-“This is restricted.”
->>> “Then your broker has poor filing discipline.”   <-- WHO SAYS THIS?
-“Where is he?”
-“Downstairs, unless you’ve arrested him on the way up.”
 ```
 ```
 Read it.
 “This is restricted.”
-“Then your broker has poor filing discipline.”
+[yun] “Then your broker has poor filing discipline.”
 >>> “Where is he?”   <-- WHO SAYS THIS?
-“Downstairs, unless you’ve arrested him on the way up.”
+[yun] “Downstairs, unless you’ve arrested him on the way up.”
 The woman watched Yun for three breaths.
 ```
 ```
-“This is restricted.”
-“Then your broker has poor filing discipline.”
-“Where is he?”
->>> “Downstairs, unless you’ve arrested him on the way up.”   <-- WHO SAYS THIS?
-The woman watched Yun for three breaths.
-Then returned the permit.
-```
-```
-“Downstairs, unless you’ve arrested him on the way up.”
+[yun] “Downstairs, unless you’ve arrested him on the way up.”
 The woman watched Yun for three breaths.
 Then returned the permit.
 >>> “Stay out of protected logistics.”   <-- WHO SAYS THIS?
 Yun gave her the exact amount of offense a legitimate merchant would feel.
-[yun] “I was comparing prices.”
+“I was comparing prices.”
+```
+```
+Then returned the permit.
+“Stay out of protected logistics.”
+Yun gave her the exact amount of offense a legitimate merchant would feel.
+>>> “I was comparing prices.”   <-- WHO SAYS THIS?
+“Compare less deeply.”
+The inspector left.
 ```
 ```
 “Stay out of protected logistics.”
 Yun gave her the exact amount of offense a legitimate merchant would feel.
-[yun] “I was comparing prices.”
+“I was comparing prices.”
 >>> “Compare less deeply.”   <-- WHO SAYS THIS?
 The inspector left.
 Yun waited.
@@ -108,21 +92,13 @@ Then another hundred.
 Only after she heard the broker’s familiar dragging step did she move.
 He poked his head into the attic.
 >>> “What did you do?”   <-- WHO SAYS THIS?
-“Read.”
+[yun] “Read.”
 “That is what I feared.”
-```
-```
-Only after she heard the broker’s familiar dragging step did she move.
-He poked his head into the attic.
-“What did you do?”
->>> “Read.”   <-- WHO SAYS THIS?
-“That is what I feared.”
-Yun gave him the agreed coin and packed the remaining ledger copies.
 ```
 ```
 He poked his head into the attic.
 “What did you do?”
-“Read.”
+[yun] “Read.”
 >>> “That is what I feared.”   <-- WHO SAYS THIS?
 Yun gave him the agreed coin and packed the remaining ledger copies.
 [yun] “Did she ask about me?”
@@ -140,32 +116,16 @@ The broker swallowed.
 Yun’s hands stopped.
 The broker swallowed.
 >>> “I mean foreign merchants. Archives. Clinics. Nothing specific.”   <-- WHO SAYS THIS?
-“Specific enough.”
+[yun] “Specific enough.”
 He looked miserable.
-```
-```
-Yun’s hands stopped.
-The broker swallowed.
-“I mean foreign merchants. Archives. Clinics. Nothing specific.”
->>> “Specific enough.”   <-- WHO SAYS THIS?
-He looked miserable.
-Yun softened by one degree.
 ```
 ```
 He looked miserable.
 Yun softened by one degree.
 [yun] “You did not see me again after tonight.”
 >>> “I would prefer not to.”   <-- WHO SAYS THIS?
-“Wise.”
+[yun] “Wise.”
 She left through the rear stairs.
-```
-```
-Yun softened by one degree.
-[yun] “You did not see me again after tonight.”
-“I would prefer not to.”
->>> “Wise.”   <-- WHO SAYS THIS?
-She left through the rear stairs.
-By dawn she had changed lodging, merchant coat and hairstyle.
 ```
 
 ### Chapter 322 — Peak Marquis Is Ordinary Here
@@ -211,71 +171,63 @@ The shop laughed.
 Yun lowered her eyes.
 ```
 ```
-[yun] “Then perhaps the country is rude.”
+An old fisherman had sat three paces away without asking permission.
+He held a bamboo pole and smelled strongly of river water.
+Yun said, “My math is usually polite.”
+>>> “Then perhaps the country is rude.”   <-- WHO SAYS THIS?
+She looked at him.
+He grinned.
+```
+```
+“Then perhaps the country is rude.”
 She looked at him.
 He grinned.
 >>> “Foreign?”   <-- WHO SAYS THIS?
-“Apparently obvious.”
+[yun] “Apparently obvious.”
 “You stare at soldiers.”
-```
-```
-She looked at him.
-He grinned.
-“Foreign?”
->>> “Apparently obvious.”   <-- WHO SAYS THIS?
-“You stare at soldiers.”
-“That seems unsafe.”
 ```
 ```
 He grinned.
 “Foreign?”
-“Apparently obvious.”
+[yun] “Apparently obvious.”
 >>> “You stare at soldiers.”   <-- WHO SAYS THIS?
-“That seems unsafe.”
+[yun] “That seems unsafe.”
 “Locals stopped staring years ago.”
 ```
 ```
-“Foreign?”
-“Apparently obvious.”
+[yun] “Apparently obvious.”
 “You stare at soldiers.”
->>> “That seems unsafe.”   <-- WHO SAYS THIS?
-“Locals stopped staring years ago.”
-Yun watched a patrol cross the bridge.
-```
-```
-“Apparently obvious.”
-“You stare at soldiers.”
-“That seems unsafe.”
+[yun] “That seems unsafe.”
 >>> “Locals stopped staring years ago.”   <-- WHO SAYS THIS?
 Yun watched a patrol cross the bridge.
-[yun] “Were there always this many?”
+“Were there always this many?”
+```
+```
+[yun] “That seems unsafe.”
+“Locals stopped staring years ago.”
+Yun watched a patrol cross the bridge.
+>>> “Were there always this many?”   <-- WHO SAYS THIS?
+The fisherman snorted.
+“Before Shinsei? Every clan had soldiers. More flags. Less discipline.”
 ```
 ```
 Yun watched a patrol cross the bridge.
-[yun] “Were there always this many?”
+“Were there always this many?”
 The fisherman snorted.
 >>> “Before Shinsei? Every clan had soldiers. More flags. Less discipline.”   <-- WHO SAYS THIS?
-“I meant cultivators.”
+[yun] “I meant cultivators.”
 “Ah.”
-```
-```
-[yun] “Were there always this many?”
-The fisherman snorted.
-“Before Shinsei? Every clan had soldiers. More flags. Less discipline.”
->>> “I meant cultivators.”   <-- WHO SAYS THIS?
-“Ah.”
-He considered.
 ```
 ```
 The fisherman snorted.
 “Before Shinsei? Every clan had soldiers. More flags. Less discipline.”
-“I meant cultivators.”
+[yun] “I meant cultivators.”
 >>> “Ah.”   <-- WHO SAYS THIS?
 He considered.
 “No. Training got better when the guild stopped letting every house keep techniques locked in family vaults.”
 ```
 ```
-“I meant cultivators.”
+[yun] “I meant cultivators.”
 “Ah.”
 He considered.
 >>> “No. Training got better when the guild stopped letting every house keep techniques locked in family vaults.”   <-- WHO SAYS THIS?
@@ -299,25 +251,25 @@ The line landed in the canal.
 Yun looked at his hands.
 ```
 ```
+He had no reason to flatter Shinsei’s military program except that he believed what it had changed.
 Again, the state refused to become simple for her convenience.
 Yun stood.
-[yun] “Catch anything?”
->>> “Not yet.”   <-- WHO SAYS THIS?
-“How long have you been here?”
-“Twenty years.”
+>>> “Catch anything?”   <-- WHO SAYS THIS?
+“Not yet.”
+[yun] “How long have you been here?”
 ```
 ```
+Again, the state refused to become simple for her convenience.
 Yun stood.
-[yun] “Catch anything?”
-“Not yet.”
->>> “How long have you been here?”   <-- WHO SAYS THIS?
+“Catch anything?”
+>>> “Not yet.”   <-- WHO SAYS THIS?
+[yun] “How long have you been here?”
 “Twenty years.”
-Yun stared.
 ```
 ```
-[yun] “Catch anything?”
+“Catch anything?”
 “Not yet.”
-“How long have you been here?”
+[yun] “How long have you been here?”
 >>> “Twenty years.”   <-- WHO SAYS THIS?
 Yun stared.
 The old man laughed until he coughed.
@@ -326,12 +278,140 @@ The old man laughed until he coughed.
 ### Chapter 323 — The Aura That Would Not Stay Small
 
 ```
+Sera discovered the problem at three in the morning when she rolled over and found the blanket rim stiff with frost.
 She opened one eye.
 Rhen was lying on his back beside her, awake.
-[rhen] “Are you doing that?”
->>> “No.”   <-- WHO SAYS THIS?
+>>> “Are you doing that?”   <-- WHO SAYS THIS?
+[rhen] “No.”
 Sera lifted the frozen edge of the blanket.
-[sera] “You understand why that answer is worse.”
+```
+```
+“Are you doing that?”
+[rhen] “No.”
+Sera lifted the frozen edge of the blanket.
+>>> “You understand why that answer is worse.”   <-- WHO SAYS THIS?
+[rhen] “Yes.”
+She sat up.
+```
+```
+That was the strange part.
+The window remained warm from late-summer air. The floorboards were normal. Only a thin crescent around Rhen’s side of the bed had accumulated frost, as though his qi had become too dense to stay completely inside while his conscious suppression relaxed.
+Sera touched his shoulder.
+>>> “No pain?”   <-- WHO SAYS THIS?
+[rhen] “No.”
+[sera] “Pressure?”
+```
+```
+[rhen] “More.”
+[sera] “How much more?”
+Rhen stared at the ceiling.
+>>> “Enough that I’m no longer sure dispersal is useful.”   <-- WHO SAYS THIS?
+Sera’s expression sharpened.
+“You promised.”
+```
+```
+Rhen stared at the ceiling.
+“Enough that I’m no longer sure dispersal is useful.”
+Sera’s expression sharpened.
+>>> “You promised.”   <-- WHO SAYS THIS?
+[rhen] “I’m telling you.”
+[sera] “After I woke up frozen.”
+```
+```
+[rhen] “The blanket is frozen.”
+[sera] “You’re lucky you’re pretty.”
+Rhen looked over.
+>>> “Am I?”   <-- WHO SAYS THIS?
+[sera] “Don’t ruin it.”
+That got the small smile she wanted.
+```
+```
+An impossible sense that Rhen’s body contained a distance larger than the room, packed inward so tightly that her instincts could not find the bottom of it.
+Then he closed it again.
+Sera’s hand stayed on his chest.
+>>> “That is new.”   <-- WHO SAYS THIS?
+[rhen] “Yes.”
+[sera] “Bad?”
+```
+```
+[sera] “I know that too.”
+[rhen] “The refinement increased recovery efficiency.”
+Sera waited.
+>>> “So?”   <-- WHO SAYS THIS?
+[rhen] “So the reserve returns denser than before.”
+[sera] “And?”
+```
+```
+[rhen] “And I was already not short on reserve.”
+[sera] “That is the understatement of your life.”
+Rhen ignored that.
+>>> “Think of pouring water into a sealed jar.”   <-- WHO SAYS THIS?
+[sera] “Finally, a normal metaphor.”
+[rhen] “Then replacing the water with mercury.”
+```
+```
+[sera] “There it is.”
+[rhen] “The jar does not get larger.”
+Sera’s amusement faded.
+>>> “You’re the jar.”   <-- WHO SAYS THIS?
+[rhen] “Yes.”
+[sera] “And the answer is what you said before. Make the qi take less space.”
+```
+```
+[rhen] “So do I.”
+[sera] “When?”
+Rhen looked toward the dark window.
+>>> “Not while Yun is overdue.”   <-- WHO SAYS THIS?
+Sera went still.
+He felt it.
+```
+```
+[sera] “You heard that?”
+[rhen] “Xie complained about it downstairs.”
+Sera covered her face with one hand.
+>>> “Of course he did.”   <-- WHO SAYS THIS?
+Rhen’s smile returned.
+The room warmed slightly.
+```
+```
+The room warmed slightly.
+The problem remained; he was simply awake enough to control it again.
+Sera settled back against him.
+>>> “Promise me something else.”   <-- WHO SAYS THIS?
+[rhen] “What?”
+[sera] “When you know it’s time, don’t wait for a crisis to make the decision.”
+```
+```
+[rhen] “What?”
+[sera] “When you know it’s time, don’t wait for a crisis to make the decision.”
+Rhen looked at the frost dissolving along the blanket edge.
+>>> “Okay.”   <-- WHO SAYS THIS?
+Sera lifted her head.
+“Okay as in yes?”
+```
+```
+Rhen looked at the frost dissolving along the blanket edge.
+“Okay.”
+Sera lifted her head.
+>>> “Okay as in yes?”   <-- WHO SAYS THIS?
+[rhen] “Yes.”
+[sera] “Good.”
+```
+```
+It cracked.
+Both looked down.
+Sera sighed.
+>>> “You owe me bedding now too.”   <-- WHO SAYS THIS?
+Rhen closed his eyes.
+“Add it to the teapot.”
+```
+```
+Sera sighed.
+“You owe me bedding now too.”
+Rhen closed his eyes.
+>>> “Add it to the teapot.”   <-- WHO SAYS THIS?
+[sera] “I have a list.”
+[rhen] “I know.”
 ```
 
 ### Chapter 324 — Shunto Takamori
@@ -341,37 +421,29 @@ It was poor.
 That helped.
 The stall owner noticed her expression.
 >>> “Foreigners always hate the smoked leaves.”   <-- WHO SAYS THIS?
-“Correctly.”
+[yun] “Correctly.”
 He laughed.
 ```
 ```
-That helped.
-The stall owner noticed her expression.
-“Foreigners always hate the smoked leaves.”
->>> “Correctly.”   <-- WHO SAYS THIS?
+[yun] “Correctly.”
 He laughed.
 Yun tapped the closed almanac.
+>>> “Second Seat handles fugitives personally?”   <-- WHO SAYS THIS?
+“Depends on the fugitive.”
+[yun] “Seems excessive.”
 ```
 ```
 He laughed.
 Yun tapped the closed almanac.
-[yun] “Second Seat handles fugitives personally?”
+“Second Seat handles fugitives personally?”
 >>> “Depends on the fugitive.”   <-- WHO SAYS THIS?
-“Seems excessive.”
+[yun] “Seems excessive.”
 “Not if he wants them alive.”
 ```
 ```
-Yun tapped the closed almanac.
-[yun] “Second Seat handles fugitives personally?”
+“Second Seat handles fugitives personally?”
 “Depends on the fugitive.”
->>> “Seems excessive.”   <-- WHO SAYS THIS?
-“Not if he wants them alive.”
-That matched.
-```
-```
-[yun] “Second Seat handles fugitives personally?”
-“Depends on the fugitive.”
-“Seems excessive.”
+[yun] “Seems excessive.”
 >>> “Not if he wants them alive.”   <-- WHO SAYS THIS?
 That matched.
 The owner leaned closer as if sharing gossip.
@@ -382,504 +454,263 @@ That matched.
 The owner leaned closer as if sharing gossip.
 >>> “Old saying from the border families.”   <-- WHO SAYS THIS?
 Yun waited.
-[yun] “Don’t let Takamori touch you.”
+“Don’t let Takamori touch you.”
 ```
 ```
-[yun] “Don’t let Takamori touch you.”
+The owner leaned closer as if sharing gossip.
+“Old saying from the border families.”
+Yun waited.
+>>> “Don’t let Takamori touch you.”   <-- WHO SAYS THIS?
+She stared at him.
+He grinned.
+```
+```
+“Don’t let Takamori touch you.”
 She stared at him.
 He grinned.
 >>> “Everyone knows that one.”   <-- WHO SAYS THIS?
 Apparently everyone except the foreign Sovereign who had learned it with half her body numb in a market lane.
 Yun finished the tea and left.
 ```
-```
-Not her signal.
-Yun’s fingers closed around a needle.
-[yun] “Who?”
->>> “Laundry.”   <-- WHO SAYS THIS?
-She looked at the laundry chute.
-Then at the door.
-```
-```
-“Laundry.”
-She looked at the laundry chute.
-Then at the door.
->>> “No laundry.”   <-- WHO SAYS THIS?
-Silence.
-A man outside said, pleasantly:
-```
-```
-“No laundry.”
-Silence.
-A man outside said, pleasantly:
->>> “That is unfortunate. Your cover identity paid for the weekly service.”   <-- WHO SAYS THIS?
-Yun’s blood went cold.
-Shunto.
-```
-```
-Yun smiled despite herself.
-He had learned.
-“Wet floor?” he asked.
->>> “Dangerous.”   <-- WHO SAYS THIS?
-“I’ve heard.”
-He did not enter.
-```
-```
-He had learned.
-“Wet floor?” he asked.
-“Dangerous.”
->>> “I’ve heard.”   <-- WHO SAYS THIS?
-He did not enter.
-That was worse than confidence.
-```
 
 ### Chapter 325 — Poison the Room, Not the Man
 
 ```
-No hooks drawn.
-Yun stood beside three empty vats.
-“You’re improving,” she said.
->>> “I’ve had a good teacher.”   <-- WHO SAYS THIS?
-“I charge more than peaches.”
-Shunto smiled.
-```
-```
-Yun stood beside three empty vats.
-“You’re improving,” she said.
-“I’ve had a good teacher.”
->>> “I charge more than peaches.”   <-- WHO SAYS THIS?
-Shunto smiled.
-So that part had not changed.
-```
-```
-“I charge more than peaches.”
-Shunto smiled.
-So that part had not changed.
->>> “Yun Shizhen.”   <-- WHO SAYS THIS?
-Her face remained still.
-He continued.
-```
-```
-“Yun Shizhen.”
-Her face remained still.
-He continued.
->>> “Wuyue. Physician-adjacent poison specialist. Public rank uncertain until recently. Pale Venom.”   <-- WHO SAYS THIS?
-“You make me sound employable.”
-“Are you denying it?”
-```
-```
-Her face remained still.
-He continued.
-“Wuyue. Physician-adjacent poison specialist. Public rank uncertain until recently. Pale Venom.”
->>> “You make me sound employable.”   <-- WHO SAYS THIS?
-“Are you denying it?”
-“No.”
-```
-```
-He continued.
-“Wuyue. Physician-adjacent poison specialist. Public rank uncertain until recently. Pale Venom.”
-“You make me sound employable.”
->>> “Are you denying it?”   <-- WHO SAYS THIS?
-“No.”
-There was no point.
-```
-```
-“Wuyue. Physician-adjacent poison specialist. Public rank uncertain until recently. Pale Venom.”
-“You make me sound employable.”
-“Are you denying it?”
->>> “No.”   <-- WHO SAYS THIS?
 There was no point.
 A false identity was useful until the enemy had the truth. Clinging to it afterward only wasted attention.
-```
-```
-A false identity was useful until the enemy had the truth. Clinging to it afterward only wasted attention.
 Shunto tilted his head.
-[shunto] “Why are you here?”
->>> “Tourism.”   <-- WHO SAYS THIS?
-“You have visited six medical archives.”
-“I like paperwork.”
+>>> “Why are you here?”   <-- WHO SAYS THIS?
+[yun] “Tourism.”
+[shunto] “You have visited six medical archives.”
 ```
 ```
-Shunto tilted his head.
-[shunto] “Why are you here?”
-“Tourism.”
->>> “You have visited six medical archives.”   <-- WHO SAYS THIS?
-“I like paperwork.”
-“Three military-adjacent warehouses.”
-```
-```
-[shunto] “Why are you here?”
-“Tourism.”
-“You have visited six medical archives.”
->>> “I like paperwork.”   <-- WHO SAYS THIS?
-“Three military-adjacent warehouses.”
-“Architecture.”
-```
-```
-“Tourism.”
-“You have visited six medical archives.”
-“I like paperwork.”
->>> “Three military-adjacent warehouses.”   <-- WHO SAYS THIS?
-“Architecture.”
-“A river logistics office.”
-```
-```
-“You have visited six medical archives.”
-“I like paperwork.”
-“Three military-adjacent warehouses.”
->>> “Architecture.”   <-- WHO SAYS THIS?
-“A river logistics office.”
-“Good view.”
-```
-```
-“I like paperwork.”
-“Three military-adjacent warehouses.”
-“Architecture.”
->>> “A river logistics office.”   <-- WHO SAYS THIS?
-“Good view.”
-His smile widened.
-```
-```
-“Three military-adjacent warehouses.”
-“Architecture.”
-“A river logistics office.”
->>> “Good view.”   <-- WHO SAYS THIS?
-His smile widened.
-Yun watched his feet.
-```
-```
-She had not expected Shunto specifically. She had prepared the room because survival favored people who prepared before they needed to.
-Shunto said, “Come with me.”
-[shunto] “No.”
->>> “I am asking once.”   <-- WHO SAYS THIS?
-“How ceremonial.”
-“You are a foreign ranked officer inside restricted Shinsei infrastructure.”
-```
-```
-Shunto said, “Come with me.”
-[shunto] “No.”
-“I am asking once.”
->>> “How ceremonial.”   <-- WHO SAYS THIS?
-“You are a foreign ranked officer inside restricted Shinsei infrastructure.”
-“And yet your streets remain standing.”
-```
-```
-[shunto] “No.”
-“I am asking once.”
-“How ceremonial.”
->>> “You are a foreign ranked officer inside restricted Shinsei infrastructure.”   <-- WHO SAYS THIS?
-“And yet your streets remain standing.”
-“That is not the standard.”
-```
-```
-“I am asking once.”
-“How ceremonial.”
-“You are a foreign ranked officer inside restricted Shinsei infrastructure.”
->>> “And yet your streets remain standing.”   <-- WHO SAYS THIS?
-“That is not the standard.”
-“It should be.”
-```
-```
-“How ceremonial.”
-“You are a foreign ranked officer inside restricted Shinsei infrastructure.”
-“And yet your streets remain standing.”
->>> “That is not the standard.”   <-- WHO SAYS THIS?
-“It should be.”
-His expression changed a little.
-```
-```
-“You are a foreign ranked officer inside restricted Shinsei infrastructure.”
-“And yet your streets remain standing.”
-“That is not the standard.”
->>> “It should be.”   <-- WHO SAYS THIS?
-His expression changed a little.
-There was intelligence there.
-```
-```
-Yun’s pulse stayed steady.
-Shunto watched anyway.
-“Interesting,” he murmured.
->>> “You say that often?”   <-- WHO SAYS THIS?
-“Only when people pretend not to react.”
+[yun] “You say that often?”
+[shunto] “Only when people pretend not to react.”
 Yun lifted one hand.
-```
-```
-Shunto watched anyway.
-“Interesting,” he murmured.
-“You say that often?”
->>> “Only when people pretend not to react.”   <-- WHO SAYS THIS?
-Yun lifted one hand.
-[yun] “Then react to this.”
+>>> “Then react to this.”   <-- WHO SAYS THIS?
+She snapped her fingers.
+A pellet dropped from the rafter behind him.
 ```
 
 ### Chapter 326 — The Gale Brings One More Ledger
 
 ```
-[xie_wuchen] “This house is very bad at privacy.”
+Xie Wuchen returned to the Quaint Teahouse through a window.
+Lu Weiran did not look up.
+>>> “Door.”   <-- WHO SAYS THIS?
+Xie put one boot on the floor.
+“Window was open.”
+```
+```
+Lu Weiran did not look up.
+“Door.”
+Xie put one boot on the floor.
+>>> “Window was open.”   <-- WHO SAYS THIS?
+[luweiran] “That is because air is allowed in.”
+[xie_wuchen] “So am I.”
+```
+```
+[xie_wuchen] “Eastern port.”
+[luweiran] “How?”
+Xie leaned against the wall.
+>>> “A courier was being beaten.”   <-- WHO SAYS THIS?
+[luweiran] “That does not explain how you acquired a commercial ledger.”
+[xie_wuchen] “The men beating him dropped it.”
+```
+```
+Xie stared back.
+Lu turned the page.
+Shen Rui entered without knocking, saw Xie and stopped.
+>>> “You.”   <-- WHO SAYS THIS?
+Xie closed his eyes briefly.
+“This house is very bad at privacy.”
+```
+```
+Shen Rui entered without knocking, saw Xie and stopped.
+“You.”
+Xie closed his eyes briefly.
+>>> “This house is very bad at privacy.”   <-- WHO SAYS THIS?
 Rui walked in.
-[rui] “You vanished after the west road.”
->>> “Yes.”   <-- WHO SAYS THIS?
-“You said you were going south.”
-“I went east.”
+“You vanished after the west road.”
 ```
 ```
+Xie closed his eyes briefly.
+“This house is very bad at privacy.”
 Rui walked in.
-[rui] “You vanished after the west road.”
-“Yes.”
->>> “You said you were going south.”   <-- WHO SAYS THIS?
-“I went east.”
-“That is not south.”
+>>> “You vanished after the west road.”   <-- WHO SAYS THIS?
+[xie_wuchen] “Yes.”
+[rui] “You said you were going south.”
 ```
 ```
-[rui] “You vanished after the west road.”
-“Yes.”
-“You said you were going south.”
->>> “I went east.”   <-- WHO SAYS THIS?
-“That is not south.”
-“Strong geography.”
-```
-```
-“Yes.”
-“You said you were going south.”
-“I went east.”
->>> “That is not south.”   <-- WHO SAYS THIS?
-“Strong geography.”
-Rui’s eye twitched.
-```
-```
-“You said you were going south.”
-“I went east.”
-“That is not south.”
->>> “Strong geography.”   <-- WHO SAYS THIS?
-Rui’s eye twitched.
 Lu kept reading.
+The two of them could kill each other after the useful pages.
+Rui folded his arms.
+>>> “Why did you bring it here?”   <-- WHO SAYS THIS?
+Xie gestured toward Lu.
+“He likes paper.”
 ```
 ```
+Rui folded his arms.
+“Why did you bring it here?”
+Xie gestured toward Lu.
+>>> “He likes paper.”   <-- WHO SAYS THIS?
+Lu said, “I do not like paper.”
+Both looked at him.
+```
+```
+Lu said, “I do not like paper.”
+Both looked at him.
+Lu turned another page.
+>>> “I like accurate systems.”   <-- WHO SAYS THIS?
+Xie nodded gravely.
+“Apologies.”
+```
+```
+Lu turned another page.
+“I like accurate systems.”
+Xie nodded gravely.
+>>> “Apologies.”   <-- WHO SAYS THIS?
+Rui stepped closer to the ledger.
+“This connects to Yun?”
+```
+```
+Xie nodded gravely.
+“Apologies.”
+Rui stepped closer to the ledger.
+>>> “This connects to Yun?”   <-- WHO SAYS THIS?
+“Possibly,” Lu said.
+That changed the room.
+```
+```
+“Possibly,” Lu said.
 That changed the room.
 Rui’s irritation faded.
-[rui] “How long overdue?”
->>> “More than a week past her expected contact window.”   <-- WHO SAYS THIS?
+>>> “How long overdue?”   <-- WHO SAYS THIS?
+[luweiran] “More than a week past her expected contact window.”
 Xie’s expression went still.
-He had known she was away.
 ```
 ```
-Xie’s expression went still.
-He had known she was away.
-He had not known that.
->>> “Where?”   <-- WHO SAYS THIS?
-“Shinrin.”
-“Alone?”
-```
-```
-He had known she was away.
-He had not known that.
-“Where?”
->>> “Shinrin.”   <-- WHO SAYS THIS?
-“Alone?”
-“Yes.”
-```
-```
-He had not known that.
-“Where?”
-“Shinrin.”
->>> “Alone?”   <-- WHO SAYS THIS?
-“Yes.”
-Xie looked toward the open window.
-```
-```
-“Where?”
-“Shinrin.”
-“Alone?”
->>> “Yes.”   <-- WHO SAYS THIS?
+[luweiran] “Yes.”
 Xie looked toward the open window.
 Rui caught it.
-```
-```
-[rui] “No.”
+>>> “No.”   <-- WHO SAYS THIS?
 Xie glanced at him.
-[xie_wuchen] “No what?”
->>> “You are thinking about disappearing again.”   <-- WHO SAYS THIS?
-“I’m always thinking about disappearing.”
-“That is the problem.”
+“No what?”
 ```
 ```
+Rui caught it.
+“No.”
 Xie glanced at him.
-[xie_wuchen] “No what?”
-“You are thinking about disappearing again.”
->>> “I’m always thinking about disappearing.”   <-- WHO SAYS THIS?
-“That is the problem.”
+>>> “No what?”   <-- WHO SAYS THIS?
+[rui] “You are thinking about disappearing again.”
+[xie_wuchen] “I’m always thinking about disappearing.”
+```
+```
+[xie_wuchen] “I’m always thinking about disappearing.”
+[rui] “That is the problem.”
 Lu closed the ledger.
+>>> “Both of you stop.”   <-- WHO SAYS THIS?
+They did.
+Lu was not stronger; somehow everyone eventually obeyed the man holding the documents.
 ```
 ```
-[xie_wuchen] “No what?”
-“You are thinking about disappearing again.”
-“I’m always thinking about disappearing.”
->>> “That is the problem.”   <-- WHO SAYS THIS?
-Lu closed the ledger.
-[luweiran] “Both of you stop.”
-```
-```
-[xie_wuchen] “Yes.”
+Xie said, “False transfer.”
+[luweiran] “Yes.”
 Rui frowned.
-[rui] “Smuggling?”
->>> “Maybe. But the customs clearance on the Shinrin side was unusually fast.”   <-- WHO SAYS THIS?
+>>> “Smuggling?”   <-- WHO SAYS THIS?
+[luweiran] “Maybe. But the customs clearance on the Shinrin side was unusually fast.”
 Xie pushed away from the wall.
-[xie_wuchen] “You want the captain.”
 ```
 ```
-“Maybe. But the customs clearance on the Shinrin side was unusually fast.”
+“Smuggling?”
+[luweiran] “Maybe. But the customs clearance on the Shinrin side was unusually fast.”
 Xie pushed away from the wall.
-[xie_wuchen] “You want the captain.”
->>> “I want the records around the captain.”   <-- WHO SAYS THIS?
-“Same problem.”
-“No. Captains lie. Routes lie less.”
+>>> “You want the captain.”   <-- WHO SAYS THIS?
+[luweiran] “I want the records around the captain.”
+[xie_wuchen] “Same problem.”
 ```
 ```
-Xie pushed away from the wall.
-[xie_wuchen] “You want the captain.”
-“I want the records around the captain.”
->>> “Same problem.”   <-- WHO SAYS THIS?
-“No. Captains lie. Routes lie less.”
-Xie looked almost impressed.
-```
-```
-[xie_wuchen] “You want the captain.”
-“I want the records around the captain.”
-“Same problem.”
->>> “No. Captains lie. Routes lie less.”   <-- WHO SAYS THIS?
-Xie looked almost impressed.
-Lu disliked that too.
-```
-```
-Lu disliked that too.
-Rui said, “I can send Azure people.”
-[luweiran] “No visible sect detachment,” Lu said. “Not yet.”
->>> “Why?”   <-- WHO SAYS THIS?
-“Because Yun left to investigate a pharmaceutical route, not to start an international incident.”
-Xie glanced at the window again.
-```
-```
-Rui said, “I can send Azure people.”
-[luweiran] “No visible sect detachment,” Lu said. “Not yet.”
-“Why?”
->>> “Because Yun left to investigate a pharmaceutical route, not to start an international incident.”   <-- WHO SAYS THIS?
+[luweiran] “Because Yun left to investigate a pharmaceutical route, not to start an international incident.”
 Xie glanced at the window again.
 Lu pointed at him without looking.
+>>> “You also do not start one.”   <-- WHO SAYS THIS?
+[xie_wuchen] “I have no affiliation. Very difficult to create an official incident.”
+[luweiran] “You are a newly Sovereign Wind-Qi cultivator personally recognized by Wuyue’s No.5.”
 ```
 ```
-Xie glanced at the window again.
-Lu pointed at him without looking.
-[luweiran] “You also do not start one.”
->>> “I have no affiliation. Very difficult to create an official incident.”   <-- WHO SAYS THIS?
-“You are a newly Sovereign Wind-Qi cultivator personally recognized by Wuyue’s No.5.”
-Xie looked at Rui.
-```
-```
-Lu pointed at him without looking.
-[luweiran] “You also do not start one.”
-“I have no affiliation. Very difficult to create an official incident.”
->>> “You are a newly Sovereign Wind-Qi cultivator personally recognized by Wuyue’s No.5.”   <-- WHO SAYS THIS?
+[luweiran] “You are a newly Sovereign Wind-Qi cultivator personally recognized by Wuyue’s No.5.”
 Xie looked at Rui.
 Rui smiled unpleasantly.
+>>> “Congratulations. You’re official enough.”   <-- WHO SAYS THIS?
+Xie sighed.
+Lu pulled out a blank sheet.
 ```
 ```
-[luweiran] “I need three things. The captain’s next port. Whether the crew changed after Shinrin. And whether any medical cargo left the ship under military protection.”
+“Congratulations. You’re official enough.”
+Xie sighed.
+Lu pulled out a blank sheet.
+>>> “I need three things. The captain’s next port. Whether the crew changed after Shinrin. And whether any medical cargo left the ship under military protection.”   <-- WHO SAYS THIS?
 Xie took the sheet.
-[xie_wuchen] “You assume I’m doing this.”
->>> “No.”   <-- WHO SAYS THIS?
+“You assume I’m doing this.”
+```
+```
+Lu pulled out a blank sheet.
+“I need three things. The captain’s next port. Whether the crew changed after Shinrin. And whether any medical cargo left the ship under military protection.”
+Xie took the sheet.
+>>> “You assume I’m doing this.”   <-- WHO SAYS THIS?
+[luweiran] “No.”
 Lu dipped his brush.
-[luweiran] “I assume you’ll complain, leave, and return with the answer.”
 ```
 ```
+“You assume I’m doing this.”
+[luweiran] “No.”
+Lu dipped his brush.
+>>> “I assume you’ll complain, leave, and return with the answer.”   <-- WHO SAYS THIS?
 Rui coughed into one fist.
 Xie looked offended.
-That was new.
->>> “I may not.”   <-- WHO SAYS THIS?
-[xie_wuchen] “Then the sheet was inexpensive.”
-For a long moment Xie said nothing.
 ```
 ```
-[luweiran] “Close that.”
+Rui said, “Nobody asked.”
+Xie vanished through the window.
+Lu looked at Rui.
+>>> “Close that.”   <-- WHO SAYS THIS?
 Rui stared.
-[rui] “I didn’t open it.”
->>> “You are closest.”   <-- WHO SAYS THIS?
+“I didn’t open it.”
+```
+```
+Lu looked at Rui.
+“Close that.”
+Rui stared.
+>>> “I didn’t open it.”   <-- WHO SAYS THIS?
+[luweiran] “You are closest.”
+Wuyue No.5, Peak Sovereign, master of Azure forces and one of the most feared swordsmen alive, walked over and closed the window.
+```
+```
+[luweiran] “You are closest.”
 Wuyue No.5, Peak Sovereign, master of Azure forces and one of the most feared swordsmen alive, walked over and closed the window.
 Lu reopened the ledger.
-```
-```
-[luweiran] “Thank you.”
+>>> “Thank you.”   <-- WHO SAYS THIS?
 Rui sat down.
-[rui] “You enjoy this.”
->>> “No.”   <-- WHO SAYS THIS?
-“You absolutely do.”
-Lu turned a page.
+“You enjoy this.”
 ```
 ```
+Lu reopened the ledger.
+“Thank you.”
 Rui sat down.
-[rui] “You enjoy this.”
-“No.”
->>> “You absolutely do.”   <-- WHO SAYS THIS?
-Lu turned a page.
-Outside, somewhere above the roofs, wind changed direction.
+>>> “You enjoy this.”   <-- WHO SAYS THIS?
+[luweiran] “No.”
+[rui] “You absolutely do.”
 ```
 
 ### Chapter 327 — Shunto Changes His Bloodflow
 
 ```
-Yun stood on the dry edge of the canal.
-Shunto stopped fifteen paces away.
-“No wet floors today?” he asked.
->>> “Seasonal.”   <-- WHO SAYS THIS?
-He touched the ceramic vial.
-“I brought a gift.”
-```
-```
-“No wet floors today?” he asked.
-“Seasonal.”
-He touched the ceramic vial.
->>> “I brought a gift.”   <-- WHO SAYS THIS?
-“You should drink it now.”
-“What is it?”
-```
-```
-“Seasonal.”
-He touched the ceramic vial.
-“I brought a gift.”
->>> “You should drink it now.”   <-- WHO SAYS THIS?
-“What is it?”
-“Depends what I put here yesterday.”
-```
-```
-He touched the ceramic vial.
-“I brought a gift.”
-“You should drink it now.”
->>> “What is it?”   <-- WHO SAYS THIS?
-“Depends what I put here yesterday.”
-Shunto’s eyes flicked once toward the stone under his boots.
-```
-```
-“I brought a gift.”
-“You should drink it now.”
-“What is it?”
->>> “Depends what I put here yesterday.”   <-- WHO SAYS THIS?
-Shunto’s eyes flicked once toward the stone under his boots.
-Nothing visible.
-```
-```
-Annoying.
-“You’ve been practicing,” Yun said.
-[yun] “So have you.”
->>> “Mine is more fun.”   <-- WHO SAYS THIS?
-“I disagree.”
-He moved.
-```
-```
-“You’ve been practicing,” Yun said.
-[yun] “So have you.”
-“Mine is more fun.”
->>> “I disagree.”   <-- WHO SAYS THIS?
-He moved.
-Yun threw three needles.
+The numbness stopped spreading.
+Yun clicked her tongue.
+Shunto heard.
+>>> “Disappointed?”   <-- WHO SAYS THIS?
+[yun] “Deeply.”
+[shunto] “Good.”
 ```
 
 ### Chapter 328 — The Arm He Could Not Feel
@@ -890,20 +721,36 @@ Yun held still.
 The man squinted.
 >>> “Mouse?”   <-- WHO SAYS THIS?
 Yun did not answer.
-[yun] “Big mouse.”
+“Big mouse.”
 ```
 ```
-[yun] “Are you the one they’re looking for?”
+The man squinted.
+“Mouse?”
+Yun did not answer.
+>>> “Big mouse.”   <-- WHO SAYS THIS?
+He dragged a stool beneath the crawlspace hatch.
+Yun considered three options, all stupid.
+```
+```
+He looked at her torn sleeve.
+Then at the blood drying near her collar.
+Then through the tower window toward the Shinsei patrols.
+>>> “Are you the one they’re looking for?”   <-- WHO SAYS THIS?
 Yun said, “Possibly.”
-[yun] “That is not reassuring.”
->>> “I’m not here to hurt you.”   <-- WHO SAYS THIS?
+“That is not reassuring.”
+```
+```
+Then through the tower window toward the Shinsei patrols.
+“Are you the one they’re looking for?”
+Yun said, “Possibly.”
+>>> “That is not reassuring.”   <-- WHO SAYS THIS?
+[yun] “I’m not here to hurt you.”
 “Also what people say before hurting you.”
-Fair.
 ```
 ```
 Yun said, “Possibly.”
-[yun] “That is not reassuring.”
-“I’m not here to hurt you.”
+“That is not reassuring.”
+[yun] “I’m not here to hurt you.”
 >>> “Also what people say before hurting you.”   <-- WHO SAYS THIS?
 Fair.
 Yun reached slowly for her coin pouch.
@@ -922,11 +769,19 @@ She stopped.
 He pointed toward the back stair.
 >>> “Roof drainage connects to the old shrine wall.”   <-- WHO SAYS THIS?
 Yun blinked.
-[yun] “Why are you helping me?”
+“Why are you helping me?”
+```
+```
+He pointed toward the back stair.
+“Roof drainage connects to the old shrine wall.”
+Yun blinked.
+>>> “Why are you helping me?”   <-- WHO SAYS THIS?
+The old man looked offended.
+“I am helping my bell tower.”
 ```
 ```
 Yun blinked.
-[yun] “Why are you helping me?”
+“Why are you helping me?”
 The old man looked offended.
 >>> “I am helping my bell tower.”   <-- WHO SAYS THIS?
 He glanced at the soldiers below.
@@ -938,12 +793,20 @@ The old man looked offended.
 He glanced at the soldiers below.
 >>> “If they search properly, they’ll tear everything apart.”   <-- WHO SAYS THIS?
 Yun almost smiled.
-[yun] “Of course.”
+“Of course.”
+```
+```
+He glanced at the soldiers below.
+“If they search properly, they’ll tear everything apart.”
+Yun almost smiled.
+>>> “Of course.”   <-- WHO SAYS THIS?
+“Also,” he added, “Second Seat does not usually bring this many people for harmless merchants.”
+Yun’s expression flattened.
 ```
 ```
 “If they search properly, they’ll tear everything apart.”
 Yun almost smiled.
-[yun] “Of course.”
+“Of course.”
 >>> “Also,” he added, “Second Seat does not usually bring this many people for harmless merchants.”   <-- WHO SAYS THIS?
 Yun’s expression flattened.
 The old man saw enough.
@@ -957,157 +820,21 @@ Yun moved.
 At the back stair she paused.
 ```
 ```
-“Whatever you did, leave before they decide my roof is evidence.”
 Yun moved.
 At the back stair she paused.
->>> “Thank you.”   <-- WHO SAYS THIS?
-“Do not come back.”
-“Reasonable.”
-```
-```
-Yun moved.
-At the back stair she paused.
-“Thank you.”
+[yun] “Thank you.”
 >>> “Do not come back.”   <-- WHO SAYS THIS?
-“Reasonable.”
+[yun] “Reasonable.”
 She slipped into the rain.
-```
-```
-At the back stair she paused.
-“Thank you.”
-“Do not come back.”
->>> “Reasonable.”   <-- WHO SAYS THIS?
-She slipped into the rain.
-Across the square, Shunto flexed his left hand again.
 ```
 
 ### Chapter 329 — He Learns From Pain
 
 ```
+The server poured his tea.
 Only after the woman left did he say, “The arm was clever.”
 Yun kept her eyes on her own cup.
-[yun] “You recovered.”
->>> “I did.”   <-- WHO SAYS THIS?
-“Tragic.”
-A faint smile.
-```
-```
-Yun kept her eyes on her own cup.
-[yun] “You recovered.”
-“I did.”
->>> “Tragic.”   <-- WHO SAYS THIS?
-A faint smile.
-“I changed six pursuit procedures because of you.”
-```
-```
-“I did.”
-“Tragic.”
-A faint smile.
->>> “I changed six pursuit procedures because of you.”   <-- WHO SAYS THIS?
-“I should charge consulting fees.”
-“You already cost the Guild enough.”
-```
-```
-“Tragic.”
-A faint smile.
-“I changed six pursuit procedures because of you.”
->>> “I should charge consulting fees.”   <-- WHO SAYS THIS?
-“You already cost the Guild enough.”
-There.
-```
-```
-A faint smile.
-“I changed six pursuit procedures because of you.”
-“I should charge consulting fees.”
->>> “You already cost the Guild enough.”   <-- WHO SAYS THIS?
-There.
-Guild.
-```
-```
-The hunt was institutional now.
-Yun said, “If I’m so expensive, stop looking.”
-[yun] “You are a foreign Sovereign moving through restricted medical and military infrastructure.”
->>> “Still no cities on fire.”   <-- WHO SAYS THIS?
-“You keep returning to that defense.”
-“It keeps being true.”
-```
-```
-Yun said, “If I’m so expensive, stop looking.”
-[yun] “You are a foreign Sovereign moving through restricted medical and military infrastructure.”
-“Still no cities on fire.”
->>> “You keep returning to that defense.”   <-- WHO SAYS THIS?
-“It keeps being true.”
-Shunto lifted his cup.
-```
-```
-[yun] “You are a foreign Sovereign moving through restricted medical and military infrastructure.”
-“Still no cities on fire.”
-“You keep returning to that defense.”
->>> “It keeps being true.”   <-- WHO SAYS THIS?
-Shunto lifted his cup.
-His left hand.
-```
-```
-Yun wanted him to know she did not care.
-They both lied politely.
-“What are you trying to find?” he asked.
->>> “Good tea.”   <-- WHO SAYS THIS?
-“You came to the wrong district.”
-Yun finally looked at him.
-```
-```
-They both lied politely.
-“What are you trying to find?” he asked.
-“Good tea.”
->>> “You came to the wrong district.”   <-- WHO SAYS THIS?
-Yun finally looked at him.
-That was almost funny.
-```
-```
-She listened.
-No obvious boots outside.
-Which meant he had learned that too.
->>> “Then why are we talking?”   <-- WHO SAYS THIS?
-“Because you keep behaving as though escape is more important than killing me.”
-“It is.”
-```
-```
-No obvious boots outside.
-Which meant he had learned that too.
-“Then why are we talking?”
->>> “Because you keep behaving as though escape is more important than killing me.”   <-- WHO SAYS THIS?
-“It is.”
-“That suggests you have an objective beyond me.”
-```
-```
-Which meant he had learned that too.
-“Then why are we talking?”
-“Because you keep behaving as though escape is more important than killing me.”
->>> “It is.”   <-- WHO SAYS THIS?
-“That suggests you have an objective beyond me.”
-“Everyone has an objective beyond you.”
-```
-```
-“Then why are we talking?”
-“Because you keep behaving as though escape is more important than killing me.”
-“It is.”
->>> “That suggests you have an objective beyond me.”   <-- WHO SAYS THIS?
-“Everyone has an objective beyond you.”
-He smiled.
-```
-```
-“Because you keep behaving as though escape is more important than killing me.”
-“It is.”
-“That suggests you have an objective beyond me.”
->>> “Everyone has an objective beyond you.”   <-- WHO SAYS THIS?
-He smiled.
-“Not everyone.”
-```
-```
-“That suggests you have an objective beyond me.”
-“Everyone has an objective beyond you.”
-He smiled.
->>> “Not everyone.”   <-- WHO SAYS THIS?
-The answer was too revealing in a different direction.
-Yun filed it away.
+>>> “You recovered.”   <-- WHO SAYS THIS?
+[shunto] “I did.”
+[yun] “Tragic.”
 ```

@@ -30,33 +30,33 @@ Not hers.
 
 Aya looked at it.
 
-“Three?”
+[[speaker:aya]]“Three?”
 
 Hana’s face tightened.
 
 “Yes.”
 
-“Same day.”
+[[speaker:aya]]“Same day.”
 
-“Yes.”
+[[speaker:hana]]“Yes.”
 
-“Did you take any?”
+[[speaker:aya]]“Did you take any?”
 
-“No.”
+[[speaker:hana]]“No.”
 
-“Did you try to stop him?”
+[[speaker:aya]]“Did you try to stop him?”
 
 Hana laughed once.
 
 No humor.
 
-“I slapped one vial out of his hand.”
+[[speaker:hana]]“I slapped one vial out of his hand.”
 
 Aya looked toward the closed treatment room.
 
-“And?”
+[[speaker:aya]]“And?”
 
-“He caught it.”
+[[speaker:hana]]“He caught it.”
 
 Of course he did.
 
@@ -92,7 +92,7 @@ Mostly.
 
 Aya sat beside him.
 
-“Pulse.”
+[[speaker:aya]]“Pulse.”
 
 Haru extended his wrist.
 
@@ -132,21 +132,21 @@ But medically defensible enough to make the number monstrous.
 
 Aya opened her eyes.
 
-“How many years do you think you spent?”
+[[speaker:aya]]“How many years do you think you spent?”
 
 Haru said nothing.
 
-“Haru.”
+[[speaker:aya]]“Haru.”
 
-“I don’t know.”
+[[speaker:haru]]“I don’t know.”
 
-“Guess.”
+[[speaker:aya]]“Guess.”
 
-“Twenty.”
+[[speaker:haru]]“Twenty.”
 
 Aya stared.
 
-“Thirty-five.”
+[[speaker:aya]]“Thirty-five.”
 
 His face changed.
 
@@ -154,7 +154,7 @@ Hana looked away.
 
 Aya continued.
 
-“Approximate. Could be lower. Could be higher.”
+[[speaker:aya]]“Approximate. Could be lower. Could be higher.”
 
 Haru’s mouth opened.
 
@@ -162,59 +162,59 @@ Closed.
 
 Aya touched one inflamed meridian through the wrist.
 
-“I can repair this.”
+[[speaker:aya]]“I can repair this.”
 
 Another.
 
-“This too.”
+[[speaker:aya]]“This too.”
 
 She pointed at his chest.
 
-“Heart strain. Repairable.”
+[[speaker:aya]]“Heart strain. Repairable.”
 
 Eye.
 
-“Bleeding. Repairable.”
+[[speaker:aya]]“Bleeding. Repairable.”
 
 Then she took her hand away.
 
-“The years are not.”
+[[speaker:aya]]“The years are not.”
 
 Haru stared at the blanket.
 
 Aya’s voice became quieter.
 
-“Why did you take the second dose?”
+[[speaker:aya]]“Why did you take the second dose?”
 
 No answer.
 
-“The first one was already active.”
+[[speaker:aya]]“The first one was already active.”
 
-“It was ending.”
+[[speaker:haru]]“It was ending.”
 
-“Why did you need another?”
+[[speaker:aya]]“Why did you need another?”
 
-“The objective was incomplete.”
+[[speaker:haru]]“The objective was incomplete.”
 
-“Were you dying?”
+[[speaker:aya]]“Were you dying?”
 
-“No.”
+[[speaker:haru]]“No.”
 
-“Was Hana dying?”
+[[speaker:aya]]“Was Hana dying?”
 
-“No.”
+[[speaker:haru]]“No.”
 
-“Were civilians trapped?”
+[[speaker:aya]]“Were civilians trapped?”
 
-“No.”
+[[speaker:haru]]“No.”
 
 Aya leaned forward.
 
-“Was the unit collapsing in a way that required emergency breakthrough to save lives?”
+[[speaker:aya]]“Was the unit collapsing in a way that required emergency breakthrough to save lives?”
 
 Haru’s jaw tightened.
 
-“No.”
+[[speaker:haru]]“No.”
 
 There.
 
@@ -222,11 +222,11 @@ Hana had already said it on the road.
 
 Aya said it again with the precision of a diagnosis.
 
-“You weren’t dying.”
+[[speaker:aya]]“You weren’t dying.”
 
 Haru looked at her.
 
-“You were losing.”
+[[speaker:aya]]“You were losing.”
 
 Silence.
 
@@ -242,25 +242,25 @@ Aya did not let him.
 
 She moved the lamp so light fell across his face.
 
-“Look at me.”
+[[speaker:aya]]“Look at me.”
 
 He did.
 
-“You took an emergency medicine because you could not tolerate that somebody had solved your battlefield.”
+[[speaker:aya]]“You took an emergency medicine because you could not tolerate that somebody had solved your battlefield.”
 
-“I believed we could still complete the objective.”
+[[speaker:haru]]“I believed we could still complete the objective.”
 
-“Of course you did.”
+[[speaker:aya]]“Of course you did.”
 
 Aya’s anger sharpened.
 
-“You always believe the correct line exists if you measure enough.”
+[[speaker:aya]]“You always believe the correct line exists if you measure enough.”
 
 Haru flinched.
 
 Good.
 
-“This time the line was withdrawal.”
+[[speaker:aya]]“This time the line was withdrawal.”
 
 No answer.
 
@@ -268,11 +268,11 @@ Hana stood by the wall, arms folded tightly.
 
 Aya looked at her.
 
-“You brought him back.”
+[[speaker:aya]]“You brought him back.”
 
-“Yes.”
+[[speaker:hana]]“Yes.”
 
-“Good.”
+[[speaker:aya]]“Good.”
 
 Hana’s expression nearly broke.
 
@@ -284,11 +284,11 @@ Aya returned to Haru.
 
 “What happens now?” he asked.
 
-“I repair what can be repaired.”
+[[speaker:aya]]“I repair what can be repaired.”
 
-“And the rest?”
+[[speaker:haru]]“And the rest?”
 
-“You live with it.”
+[[speaker:aya]]“You live with it.”
 
 His eyes closed.
 
@@ -308,11 +308,11 @@ No miracle.
 
 Haru opened his eyes again after several minutes.
 
-“Will Tsubasa stop Redline?”
+[[speaker:haru]]“Will Tsubasa stop Redline?”
 
 Aya’s hands paused.
 
-“I am going to ask him.”
+[[speaker:aya]]“I am going to ask him.”
 
 Hana looked at her.
 
@@ -332,25 +332,25 @@ Aya finished the first repair cycle.
 
 Then stood.
 
-“Hana.”
+[[speaker:aya]]“Hana.”
 
-“Yes.”
+[[speaker:hana]]“Yes.”
 
-“Stay.”
+[[speaker:aya]]“Stay.”
 
-“With him?”
+[[speaker:hana]]“With him?”
 
-“Yes.”
+[[speaker:aya]]“Yes.”
 
 Haru looked offended.
 
-“I do not require supervision.”
+[[speaker:haru]]“I do not require supervision.”
 
 Both women looked at him.
 
 He sighed.
 
-“Apparently I do.”
+[[speaker:haru]]“Apparently I do.”
 
 Aya left the treatment hall.
 
@@ -384,59 +384,59 @@ One clerk who looked increasingly desperate to become invisible.
 
 Aya placed Haru’s medical chart on the table.
 
-“Three same-day 3× doses.”
+[[speaker:aya]]“Three same-day 3× doses.”
 
 Tsubasa’s face hardened.
 
 “Yes.”
 
-“Approximate future-life expenditure around thirty-five years.”
+[[speaker:aya]]“Approximate future-life expenditure around thirty-five years.”
 
 The clerk’s breath caught.
 
 Tsubasa did not move.
 
-“Can you prove that number?”
+[[speaker:tsubasa]]“Can you prove that number?”
 
-“Not exactly.”
+[[speaker:aya]]“Not exactly.”
 
-“Range?”
+[[speaker:tsubasa]]“Range?”
 
-“Wide. But five, ten and twenty remains a medically reasonable same-day compounding estimate under current evidence.”
+[[speaker:aya]]“Wide. But five, ten and twenty remains a medically reasonable same-day compounding estimate under current evidence.”
 
 Tsubasa looked at the chart.
 
-“He violated repeat-dose doctrine.”
+[[speaker:tsubasa]]“He violated repeat-dose doctrine.”
 
-“Yes.”
+[[speaker:aya]]“Yes.”
 
-“That will be addressed.”
+[[speaker:tsubasa]]“That will be addressed.”
 
 Aya stared.
 
-“That is not the problem.”
+[[speaker:aya]]“That is not the problem.”
 
-“It is one problem.”
+[[speaker:tsubasa]]“It is one problem.”
 
-“No.”
+[[speaker:aya]]“No.”
 
 Her voice stayed level.
 
-“It is evidence.”
+[[speaker:aya]]“It is evidence.”
 
 Tsubasa looked up.
 
 Aya continued.
 
-“Haru did not redose because the alternative was death.”
+[[speaker:aya]]“Haru did not redose because the alternative was death.”
 
-“I know.”
+[[speaker:tsubasa]]“I know.”
 
-“He redosed because he was losing.”
+[[speaker:aya]]“He redosed because he was losing.”
 
-“I know.”
+[[speaker:tsubasa]]“I know.”
 
-“Then say what that means.”
+[[speaker:aya]]“Then say what that means.”
 
 Tsubasa was quiet.
 
@@ -444,19 +444,19 @@ The clerk stopped writing.
 
 Aya’s hands flattened on the table.
 
-“It means Shinsei has taught its officers that lifespan is an acceptable tactical resource.”
+[[speaker:aya]]“It means Shinsei has taught its officers that lifespan is an acceptable tactical resource.”
 
-“We have not taught—”
+[[speaker:tsubasa]]“We have not taught—”
 
-“We issue the vial.”
+[[speaker:aya]]“We issue the vial.”
 
-“For emergencies.”
+[[speaker:tsubasa]]“For emergencies.”
 
-“We normalized carrying it.”
+[[speaker:aya]]“We normalized carrying it.”
 
-“We are at war.”
+[[speaker:tsubasa]]“We are at war.”
 
-“There is always a war.”
+[[speaker:aya]]“There is always a war.”
 
 That landed.
 
@@ -466,45 +466,45 @@ Aya saw it.
 
 So she kept going.
 
-“I stayed inside Axtaya because I told myself the same thing you are about to tell me.”
+[[speaker:aya]]“I stayed inside Axtaya because I told myself the same thing you are about to tell me.”
 
-“I have not answered yet.”
+[[speaker:tsubasa]]“I have not answered yet.”
 
-“You will.”
+[[speaker:aya]]“You will.”
 
 Tsubasa’s jaw tightened.
 
 Aya continued.
 
-“Stay through this crisis. Control what I can. Fix the system afterward.”
+[[speaker:aya]]“Stay through this crisis. Control what I can. Fix the system afterward.”
 
 Silence.
 
-“Then another crisis comes.”
+[[speaker:aya]]“Then another crisis comes.”
 
 Tsubasa looked at the chart again.
 
 Aya’s voice lowered.
 
-“You keep promising to become better after the thing that requires you to become worse.”
+[[speaker:aya]]“You keep promising to become better after the thing that requires you to become worse.”
 
 The clerk looked at the floor.
 
 Tsubasa took a long breath.
 
-“Repeat-dose controls will tighten immediately.”
+[[speaker:tsubasa]]“Repeat-dose controls will tighten immediately.”
 
 Aya did not react.
 
-“Same-day redosing prohibited without direct physician and field-command authorization.”
+[[speaker:tsubasa]]“Same-day redosing prohibited without direct physician and field-command authorization.”
 
 “Not enough.”
 
-“Third dose classified as gross emergency and command violation outside imminent collapse.”
+[[speaker:tsubasa]]“Third dose classified as gross emergency and command violation outside imminent collapse.”
 
 “Not enough.”
 
-“Every Redline briefing will include an explicit lifespan estimate.”
+[[speaker:tsubasa]]“Every Redline briefing will include an explicit lifespan estimate.”
 
 Aya paused.
 
@@ -514,35 +514,35 @@ Necessary.
 
 Still not enough.
 
-“And 3× issue?”
+[[speaker:aya]]“And 3× issue?”
 
 Tsubasa looked at her.
 
-“Remains.”
+[[speaker:tsubasa]]“Remains.”
 
 Aya heard the evasion packed into one word and closed her eyes briefly.
 
 “Why?”
 
-“Because Wuyue entered the war.”
+[[speaker:tsubasa]]“Because Wuyue entered the war.”
+
+[[speaker:aya]]“Yes.”
+
+[[speaker:tsubasa]]“Isgard continues resisting.”
+
+[[speaker:aya]]“Yes.”
+
+[[speaker:tsubasa]]“Shinsei soldiers are dying.”
 
 “Yes.”
 
-“Isgard continues resisting.”
-
-“Yes.”
-
-“Shinsei soldiers are dying.”
-
-“Yes.”
-
-“Removing Redline now eliminates an option that can prevent entire formations from being destroyed.”
+[[speaker:tsubasa]]“Removing Redline now eliminates an option that can prevent entire formations from being destroyed.”
 
 Aya opened her eyes.
 
-“And costs the survivors years.”
+[[speaker:aya]]“And costs the survivors years.”
 
-“Yes.”
+[[speaker:tsubasa]]“Yes.”
 
 No lie.
 
@@ -552,7 +552,7 @@ That made it worse.
 
 Tsubasa continued.
 
-“We reform its doctrine after the war.”
+[[speaker:tsubasa]]“We reform its doctrine after the war.”
 
 Aya laughed.
 
@@ -564,29 +564,29 @@ Broken.
 
 Tsubasa looked at her.
 
-“You hear yourself?”
+[[speaker:aya]]“You hear yourself?”
 
-“Yes.”
+[[speaker:tsubasa]]“Yes.”
 
-“Do you?”
+[[speaker:aya]]“Do you?”
 
-“Yes.”
+[[speaker:tsubasa]]“Yes.”
 
-“Then why?”
+[[speaker:aya]]“Then why?”
 
-“Because I am responsible for Shinrin surviving this war.”
+[[speaker:tsubasa]]“Because I am responsible for Shinrin surviving this war.”
 
-“And who decides what surviving means?”
+[[speaker:aya]]“And who decides what surviving means?”
 
 Tsubasa’s expression hardened.
 
-“Not now.”
+[[speaker:tsubasa]]“Not now.”
 
-“Exactly.”
+[[speaker:aya]]“Exactly.”
 
 Aya picked up Haru’s chart.
 
-“It is never now.”
+[[speaker:aya]]“It is never now.”
 
 She turned to leave.
 
@@ -594,13 +594,13 @@ Tsubasa said, “Aya.”
 
 She stopped.
 
-“I am not dismissing what you said.”
+[[speaker:tsubasa]]“I am not dismissing what you said.”
 
-“No.”
+[[speaker:aya]]“No.”
 
 She looked back.
 
-“You’re postponing it.”
+[[speaker:aya]]“You’re postponing it.”
 
 Tsubasa did not answer.
 
@@ -610,7 +610,7 @@ The clerk remained very still.
 
 After the door closed, Tsubasa looked at him.
 
-“Write the new controls.”
+[[speaker:tsubasa]]“Write the new controls.”
 
 The clerk blinked.
 
@@ -646,11 +646,11 @@ Hana looked up.
 
 Aya removed her gloves.
 
-“He tightened redosing.”
+[[speaker:aya]]“He tightened redosing.”
 
 Hana waited.
 
-“3× remains.”
+[[speaker:aya]]“3× remains.”
 
 Hana closed her eyes.
 
@@ -658,13 +658,13 @@ Haru said nothing.
 
 Aya sat.
 
-“I’m returning to Isgard tomorrow.”
+[[speaker:aya]]“I’m returning to Isgard tomorrow.”
 
 Hana looked at her.
 
-“So soon?”
+[[speaker:hana]]“So soon?”
 
-“People are dying there.”
+[[speaker:aya]]“People are dying there.”
 
 The trap returned in a different form: people die when the physician leaves.
 
@@ -704,41 +704,41 @@ Good.
 
 Nao found Aya in a treatment tent.
 
-“You sent this to Hana.”
+[[speaker:nao]]“You sent this to Hana.”
 
 Aya did not look up.
 
 “Yes.”
 
-“Why?”
+[[speaker:nao]]“Why?”
 
-“Because she sees deployment records I don’t.”
+[[speaker:aya]]“Because she sees deployment records I don’t.”
 
 Nao sat.
 
-“That sounds coordinated.”
+[[speaker:nao]]“That sounds coordinated.”
 
-“Yes.”
+[[speaker:aya]]“Yes.”
 
 Aya finally looked at her.
 
-“Does that frighten you?”
+[[speaker:aya]]“Does that frighten you?”
 
 Nao considered.
 
 “No.”
 
-“Good.”
+[[speaker:aya]]“Good.”
 
-“It should.”
+[[speaker:nao]]“It should.”
 
-“Probably.”
+[[speaker:aya]]“Probably.”
 
 Nao placed another file on the table.
 
 “What?”
 
-“Three infantry groups reassigned away from a Redline-dependent breach plan.”
+[[speaker:nao]]“Three infantry groups reassigned away from a Redline-dependent breach plan.”
 
 Aya looked at the authorization.
 
@@ -756,31 +756,31 @@ Politically deliberate.
 
 Aya almost smiled.
 
-“Nao.”
+[[speaker:aya]]“Nao.”
 
-“Yes?”
+[[speaker:nao]]“Yes?”
 
-“What are you doing?”
+[[speaker:aya]]“What are you doing?”
 
 Nao folded her hands.
 
-“Stillwater evacuation sectors now accept any soldier refusing Redline issue into medical review before disciplinary referral.”
+[[speaker:nao]]“Stillwater evacuation sectors now accept any soldier refusing Redline issue into medical review before disciplinary referral.”
 
 Aya stared.
 
-“That is not standard procedure.”
+[[speaker:aya]]“That is not standard procedure.”
 
-“No.”
+[[speaker:nao]]“No.”
 
-“Command will notice.”
+[[speaker:aya]]“Command will notice.”
 
-“Yes.”
+[[speaker:nao]]“Yes.”
 
-“Why?”
+[[speaker:aya]]“Why?”
 
 Nao’s expression remained soft.
 
-“Because frightened people are easier to threaten when they are alone.”
+[[speaker:nao]]“Because frightened people are easier to threaten when they are alone.”
 
 Aya looked down.
 
@@ -804,15 +804,15 @@ Nao’s mouth moved.
 
 “No.”
 
-“We are not plotting against Tsubasa.”
+[[speaker:aya]]“We are not plotting against Tsubasa.”
 
-“No.”
+[[speaker:nao]]“No.”
 
-“We are not sabotaging Shinsei.”
+[[speaker:aya]]“We are not sabotaging Shinsei.”
 
 Nao looked at the Redline memo.
 
-“We are protecting Shinsei soldiers from Shinsei policy.”
+[[speaker:nao]]“We are protecting Shinsei soldiers from Shinsei policy.”
 
 Aya became still.
 
@@ -822,15 +822,15 @@ Good.
 
 She took out a blank page.
 
-“Then we need rules.”
+[[speaker:aya]]“Then we need rules.”
 
 Nao raised one eyebrow.
 
-“You want to bureaucratize this.”
+[[speaker:nao]]“You want to bureaucratize this.”
 
-“I am a physician.”
+[[speaker:aya]]“I am a physician.”
 
-“That did not answer me.”
+[[speaker:nao]]“That did not answer me.”
 
 “Yes.”
 
@@ -902,37 +902,37 @@ Graven Dominion was built on memory.
 
 Solveig met her at the command entrance.
 
-“You’re not taking command back.”
+[[speaker:solveig]]“You’re not taking command back.”
 
 Sigrun blinked.
 
-“Hello to you too.”
+[[speaker:sigrun]]“Hello to you too.”
 
-“You’re Paragon. You will be tempted.”
+[[speaker:solveig]]“You’re Paragon. You will be tempted.”
 
-“Tempted to what?”
+[[speaker:sigrun]]“Tempted to what?”
 
-“Walk into the map room and start issuing orders because everyone is relieved you’re standing.”
+[[speaker:solveig]]“Walk into the map room and start issuing orders because everyone is relieved you’re standing.”
 
 Sigrun considered.
 
-“That sounds plausible.”
+[[speaker:sigrun]]“That sounds plausible.”
 
-“Don’t.”
+[[speaker:solveig]]“Don’t.”
 
-“Why?”
+[[speaker:sigrun]]“Why?”
 
 Solveig stared.
 
 Sigrun smiled.
 
-“Joking.”
+[[speaker:sigrun]]“Joking.”
 
-“Terrible.”
+[[speaker:solveig]]“Terrible.”
 
-“I was injured for weeks.”
+[[speaker:sigrun]]“I was injured for weeks.”
 
-“You should have practiced.”
+[[speaker:solveig]]“You should have practiced.”
 
 They clasped forearms.
 
@@ -966,23 +966,23 @@ The last month had corrected that stupidity.
 
 Solveig handed her one assignment.
 
-“Kenji.”
+[[speaker:solveig]]“Kenji.”
 
 Sigrun’s smile disappeared.
 
-“The thunder boy.”
+[[speaker:sigrun]]“The thunder boy.”
 
-“He’s back in the northern movement sector.”
+[[speaker:solveig]]“He’s back in the northern movement sector.”
 
-“He thought he broke me.”
+[[speaker:sigrun]]“He thought he broke me.”
 
-“He almost did.”
+[[speaker:solveig]]“He almost did.”
 
-“Not the point.”
+[[speaker:sigrun]]“Not the point.”
 
 Solveig nodded.
 
-“No.”
+[[speaker:solveig]]“No.”
 
 The point was history.
 
@@ -996,7 +996,7 @@ Now she would meet him again.
 
 Sigrun rested one hand on her spear.
 
-“Support?”
+[[speaker:sigrun]]“Support?”
 
 Solveig named three formations.
 
@@ -1006,19 +1006,19 @@ Not alone.
 
 Sigrun nodded.
 
-“No Last Body Standing unless collapse.”
+[[speaker:sigrun]]“No Last Body Standing unless collapse.”
 
 Solveig’s eyes narrowed.
 
-“That was not a suggestion.”
+[[speaker:solveig]]“That was not a suggestion.”
 
-“I know.”
+[[speaker:sigrun]]“I know.”
 
-“You smiled.”
+[[speaker:solveig]]“You smiled.”
 
-“I smile when threatened.”
+[[speaker:sigrun]]“I smile when threatened.”
 
-“That explains your family.”
+[[speaker:solveig]]“That explains your family.”
 
 Sigrun laughed.
 
@@ -1026,17 +1026,17 @@ Then winced at one rib.
 
 Solveig noticed.
 
-“Still hurts.”
+[[speaker:solveig]]“Still hurts.”
 
-“Yes.”
+[[speaker:sigrun]]“Yes.”
 
-“Good.”
+[[speaker:solveig]]“Good.”
 
 Sigrun looked offended.
 
 Solveig continued.
 
-“Pain means you remember you’re not repaired by legend.”
+[[speaker:solveig]]“Pain means you remember you’re not repaired by legend.”
 
 Fair.
 

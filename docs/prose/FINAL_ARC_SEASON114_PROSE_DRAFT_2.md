@@ -36,17 +36,17 @@ Even the sealed contingency stores that several commanders insisted should remai
 
 Aya personally opened those crates.
 
-“No.”
+[[speaker:aya]]“No.”
 
 The quartermaster swallowed.
 
 “Physician Katsuragi, if another continental invasion—”
 
-“No.”
+[[speaker:aya]]“No.”
 
 “What if—”
 
-“No.”
+[[speaker:aya]]“No.”
 
 Haru stood beside her.
 
@@ -62,19 +62,19 @@ The quartermaster turned toward him.
 
 Haru looked at the rows of red glass.
 
-“Then every loss became an emergency.”
+[[speaker:haru]]“Then every loss became an emergency.”
 
 Nao Shibasaki signed the destruction ledger.
 
-“Every commander who wants a future exception can argue for it without the drug already waiting in a warehouse.”
+[[speaker:nao]]“Every commander who wants a future exception can argue for it without the drug already waiting in a warehouse.”
 
 Aya looked at her.
 
-“There will be no future exception.”
+[[speaker:aya]]“There will be no future exception.”
 
 Nao met her eyes.
 
-“Then they can waste their time arguing.”
+[[speaker:nao]]“Then they can waste their time arguing.”
 
 That was close enough to humor that Aya allowed it.
 
@@ -122,19 +122,19 @@ He had spent far more than five.
 
 Aya did not look at him when she spoke.
 
-“I should have stopped earlier.”
+[[speaker:aya]]“I should have stopped earlier.”
 
 Haru's answer was quiet.
 
-“So should I.”
+[[speaker:haru]]“So should I.”
 
-“You were a patient.”
+[[speaker:aya]]“You were a patient.”
 
-“I was also an officer.”
+[[speaker:haru]]“I was also an officer.”
 
 Aya finally looked at him.
 
-“You were losing.”
+[[speaker:aya]]“You were losing.”
 
 Haru exhaled.
 
@@ -142,7 +142,7 @@ The old sentence no longer cut like accusation.
 
 It sat between them as fact.
 
-“I know.”
+[[speaker:haru]]“I know.”
 
 Aya threw the vial into the furnace.
 
@@ -194,19 +194,19 @@ Then checked it again.
 
 Nao handed her the regional audit sheets.
 
-“All known military stores accounted for.”
+[[speaker:nao]]“All known military stores accounted for.”
 
 Aya scanned them.
 
-“Research annex?”
+[[speaker:aya]]“Research annex?”
 
-“Cleared.”
+[[speaker:nao]]“Cleared.”
 
-“Naval reserve?”
+[[speaker:aya]]“Naval reserve?”
 
-“Cleared.”
+[[speaker:nao]]“Cleared.”
 
-“Internal-security vault?”
+[[speaker:aya]]“Internal-security vault?”
 
 Hana answered.
 
@@ -214,7 +214,7 @@ Hana answered.
 
 Aya looked toward her.
 
-“Hidden No.1 contingency?”
+[[speaker:aya]]“Hidden No.1 contingency?”
 
 Tsubasa answered from behind the barrier.
 
@@ -222,37 +222,37 @@ Tsubasa answered from behind the barrier.
 
 Aya's eyes narrowed.
 
-“You had one.”
+[[speaker:aya]]“You had one.”
 
-“Yes.”
+[[speaker:tsubasa]]“Yes.”
 
-“Of course you did.”
+[[speaker:aya]]“Of course you did.”
 
-“Yes.”
+[[speaker:tsubasa]]“Yes.”
 
 She wrote the final mark.
 
 Then turned to the gathered physicians, soldiers, investigators and civilians.
 
-“3× Redline is abolished.”
+[[speaker:aya]]“3× Redline is abolished.”
 
 No applause.
 
 Good.
 
-“Axtaya research concerning lifespan-burning military throughput is closed. Remaining medical research is limited to treatment, reversal of physical damage, and safe emergency support without future-vitality consumption.”
+[[speaker:aya]]“Axtaya research concerning lifespan-burning military throughput is closed. Remaining medical research is limited to treatment, reversal of physical damage, and safe emergency support without future-vitality consumption.”
 
 She looked at the furnace.
 
-“No hidden emergency stock.”
+[[speaker:aya]]“No hidden emergency stock.”
 
 Then at the officers.
 
-“No special-command exception.”
+[[speaker:aya]]“No special-command exception.”
 
 Then at Tsubasa.
 
-“No person above the rule.”
+[[speaker:aya]]“No person above the rule.”
 
 Tsubasa bowed his head once.
 
@@ -274,27 +274,27 @@ Three months after the surrender, Kael Veyran retired from Wuyue's public No.1 s
 
 Jin Seoryu was furious.
 
-“You scheduled this.”
+[[speaker:jin]]“You scheduled this.”
 
-“I know.”
+[[speaker:kael]]“I know.”
 
-“You chose the hour.”
+[[speaker:jin]]“You chose the hour.”
 
-“I know.”
+[[speaker:kael]]“I know.”
 
-“You are forty-three minutes late.”
+[[speaker:jin]]“You are forty-three minutes late.”
 
 Kael looked toward the ceremonial plaza.
 
-“Then everyone had time to sit.”
+[[speaker:kael]]“Then everyone had time to sit.”
 
 Jin stared at him.
 
-“This is why I hate you.”
+[[speaker:jin]]“This is why I hate you.”
 
-“No, it isn't.”
+[[speaker:kael]]“No, it isn't.”
 
-“No. It is one of several reasons.”
+[[speaker:jin]]“No. It is one of several reasons.”
 
 The plaza beneath Stonecrown's old council terraces had filled before dawn.
 
@@ -376,7 +376,7 @@ He did not give a long speech.
 
 Nobody expected him to.
 
-“I am retiring.”
+[[speaker:kael]]“I am retiring.”
 
 A murmur moved through the crowd anyway.
 
@@ -384,7 +384,7 @@ The announcement was known.
 
 Hearing it aloud made it real.
 
-“I can still fight.”
+[[speaker:kael]]“I can still fight.”
 
 That quieted the plaza.
 
@@ -392,17 +392,17 @@ Kael flexed the hand Shunto had once broken.
 
 Perfectly healed.
 
-“My body works.”
+[[speaker:kael]]“My body works.”
 
 He bent the knee Shunto had destroyed.
 
 Perfectly healed.
 
-“I am not being forced out.”
+[[speaker:kael]]“I am not being forced out.”
 
 He looked across the soldiers who had followed him through disasters nobody should have survived.
 
-“I am tired.”
+[[speaker:kael]]“I am tired.”
 
 Silence.
 
@@ -412,13 +412,13 @@ Not defeat.
 
 Simple truth.
 
-“I have spent enough years waiting for the next person who thinks Wuyue needs to be tested.”
+[[speaker:kael]]“I have spent enough years waiting for the next person who thinks Wuyue needs to be tested.”
 
 A few soldiers laughed.
 
 Kael almost smiled.
 
-“I want to travel.”
+[[speaker:kael]]“I want to travel.”
 
 That produced more confusion than the retirement.
 
@@ -426,17 +426,17 @@ Liang Yue, standing beside the second pillar, muttered, “Terrible idea.”
 
 Kael looked at him.
 
-“You invited yourself.”
+[[speaker:kael]]“You invited yourself.”
 
-“I did not.”
+[[speaker:liang]]“I did not.”
 
-“You packed yesterday.”
+[[speaker:kael]]“You packed yesterday.”
 
-“That proves nothing.”
+[[speaker:liang]]“That proves nothing.”
 
-“You packed three cloaks.”
+[[speaker:kael]]“You packed three cloaks.”
 
-“Climate is unpredictable.”
+[[speaker:liang]]“Climate is unpredictable.”
 
 Jin pinched the bridge of his nose.
 
@@ -444,23 +444,23 @@ The plaza finally laughed properly.
 
 Kael waited for it to settle.
 
-“Stonecrown will not receive a replacement Kael.”
+[[speaker:kael]]“Stonecrown will not receive a replacement Kael.”
 
 That line mattered.
 
-“No one person needs to become the region.”
+[[speaker:kael]]“No one person needs to become the region.”
 
 He turned toward Jin.
 
-“Jin Seoryu will help manage military command and administration during transition.”
+[[speaker:kael]]“Jin Seoryu will help manage military command and administration during transition.”
 
 Jin's expression suggested Kael had omitted the part where Jin had spent two days refusing.
 
-“He will build something that does not collapse if one person leaves.”
+[[speaker:kael]]“He will build something that does not collapse if one person leaves.”
 
 Kael looked directly at him.
 
-“That is why I asked him.”
+[[speaker:kael]]“That is why I asked him.”
 
 Jin's irritation softened by one degree.
 
@@ -506,19 +506,19 @@ Liang appeared beside him carrying travel papers.
 
 Kael looked down.
 
-“You said you weren't coming.”
+[[speaker:kael]]“You said you weren't coming.”
 
-“I said nothing of the sort.”
+[[speaker:liang]]“I said nothing of the sort.”
 
-“You called it a terrible idea.”
+[[speaker:kael]]“You called it a terrible idea.”
 
-“It is.”
+[[speaker:liang]]“It is.”
 
-“And yet?”
+[[speaker:kael]]“And yet?”
 
 Liang adjusted one of his three cloaks.
 
-“Someone needs to stop you eating poisonous roadside mushrooms.”
+[[speaker:liang]]“Someone needs to stop you eating poisonous roadside mushrooms.”
 
 Kael began walking.
 
@@ -526,23 +526,23 @@ Liang followed.
 
 Jin watched them leave.
 
-“Cowards.”
+[[speaker:jin]]“Cowards.”
 
 Sera came to stand beside him.
 
-“You want to go too.”
+[[speaker:sera]]“You want to go too.”
 
-“No.”
+[[speaker:jin]]“No.”
 
-“You do.”
+[[speaker:sera]]“You do.”
 
-“I have Stonecrown.”
+[[speaker:jin]]“I have Stonecrown.”
 
-“You hate Stonecrown.”
+[[speaker:sera]]“You hate Stonecrown.”
 
-“I hate Kael.”
+[[speaker:jin]]“I hate Kael.”
 
-“Different issue.”
+[[speaker:sera]]“Different issue.”
 
 Jin sighed.
 
@@ -610,13 +610,13 @@ Beside it, he set one cup.
 
 Sera watched him.
 
-“You brought terrible tea.”
+[[speaker:sera]]“You brought terrible tea.”
 
 Luo looked at her.
 
-“It was hers.”
+[[speaker:luo]]“It was hers.”
 
-“That explains it.”
+[[speaker:sera]]“That explains it.”
 
 A few people laughed.
 
@@ -650,15 +650,15 @@ He closed the book.
 
 Aya stepped forward after him.
 
-“There will be physicians studying her work.”
+[[speaker:aya]]“There will be physicians studying her work.”
 
 Luo's eyes shifted toward her.
 
-“Not her title.”
+[[speaker:luo]]“Not her title.”
 
-“No.”
+[[speaker:aya]]“No.”
 
-“There is no next Pale Venom.”
+[[speaker:luo]]“There is no next Pale Venom.”
 
 Aya nodded.
 
@@ -666,7 +666,7 @@ Aya nodded.
 
 Luo looked toward Yun's stone.
 
-“There was only one.”
+[[speaker:luo]]“There was only one.”
 
 Later, students would call the combined physician-poison principles the Luo–Yun Method.
 
@@ -688,7 +688,7 @@ At first neither spoke.
 
 Then Arin looked toward the valley.
 
-“The clouds are breaking over the western ridge.”
+[[speaker:arin]]“The clouds are breaking over the western ridge.”
 
 Qin tilted his head.
 
@@ -698,19 +698,19 @@ He still asked, “What does it look like?”
 
 Arin glanced at him.
 
-“You know.”
+[[speaker:arin]]“You know.”
 
-“I know what it feels like.”
+[[speaker:qin]]“I know what it feels like.”
 
 He smiled faintly.
 
-“I asked what it looks like to you.”
+[[speaker:qin]]“I asked what it looks like to you.”
 
 Arin looked back toward the ridge.
 
 The answer took longer than it should have.
 
-“Gold at the edges,” she said. “Grey underneath. The light is making the snow look blue.”
+[[speaker:arin]]“Gold at the edges,” she said. “Grey underneath. The light is making the snow look blue.”
 
 Qin listened.
 
@@ -732,31 +732,31 @@ Qin laughed.
 
 Arin stopped.
 
-“What?”
+[[speaker:arin]]“What?”
 
-“Nothing.”
+[[speaker:qin]]“Nothing.”
 
-“That was not nothing.”
+[[speaker:arin]]“That was not nothing.”
 
-“You came three hundred miles to describe Huo stealing pastries.”
+[[speaker:qin]]“You came three hundred miles to describe Huo stealing pastries.”
 
 Arin's expression became defensive.
 
-“I came for Yun.”
+[[speaker:arin]]“I came for Yun.”
 
-“Yes.”
+[[speaker:qin]]“Yes.”
 
-“And alliance coordination.”
+[[speaker:arin]]“And alliance coordination.”
 
-“Yes.”
+[[speaker:qin]]“Yes.”
 
-“And regional reconstruction.”
+[[speaker:arin]]“And regional reconstruction.”
 
-“Yes.”
+[[speaker:qin]]“Yes.”
 
-“And—”
+[[speaker:arin]]“And—”
 
-“Warehouse allocation?”
+[[speaker:qin]]“Warehouse allocation?”
 
 Arin froze.
 
@@ -800,11 +800,11 @@ For deciding whether something broken years ago was actually dead.
 
 Yurushi looked at Hana.
 
-“Are you staying long?”
+[[speaker:black_radiance]]“Are you staying long?”
 
 She considered.
 
-“A few days.”
+[[speaker:hana]]“A few days.”
 
 He failed to hide how happy that made him.
 
@@ -820,15 +820,15 @@ Sera saw the entire exchange from across the hill.
 
 She leaned toward Rhen.
 
-“They're doomed.”
+[[speaker:sera]]“They're doomed.”
 
 Rhen looked at Hana and Yurushi.
 
-“To what?”
+[[speaker:rhen]]“To what?”
 
 Sera stared at him.
 
-“Never mind.”
+[[speaker:sera]]“Never mind.”
 
 The wind moved through the grass.
 

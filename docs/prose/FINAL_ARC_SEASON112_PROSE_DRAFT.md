@@ -52,11 +52,11 @@ Then Kai said, “He lost.”
 
 Tsubasa kept watching the road.
 
-“Obviously.”
+[[speaker:tsubasa]]“Obviously.”
 
 Kai's mouth tightened.
 
-“That is not what I meant.”
+[[speaker:kai]]“That is not what I meant.”
 
 Tsubasa looked at him.
 
@@ -64,57 +64,57 @@ Kai continued.
 
 “He lost to Kael and Luo after taking three-times Redline.”
 
-“Yes.”
+[[speaker:tsubasa]]“Yes.”
 
-“Kael nearly died.”
+[[speaker:kai]]“Kael nearly died.”
 
-“Yes.”
+[[speaker:tsubasa]]“Yes.”
 
-“And Luo kept Shunto alive.”
+[[speaker:kai]]“And Luo kept Shunto alive.”
 
-“Yes.”
+[[speaker:tsubasa]]“Yes.”
 
 Kai exhaled.
 
-“People will talk.”
+[[speaker:kai]]“People will talk.”
 
-“They should.”
+[[speaker:tsubasa]]“They should.”
 
 That answer made Eirik glance toward him.
 
 Tsubasa noticed.
 
-“Do you disagree?”
+[[speaker:tsubasa]]“Do you disagree?”
 
 “No,” Eirik said. “I am surprised.”
 
-“By what?”
+[[speaker:tsubasa]]“By what?”
 
-“That you are not going to call it enemy propaganda.”
+[[speaker:eirik]]“That you are not going to call it enemy propaganda.”
 
 Tsubasa's expression hardened.
 
-“Did Shunto break confinement?”
+[[speaker:tsubasa]]“Did Shunto break confinement?”
 
-“Yes.”
+[[speaker:eirik]]“Yes.”
 
-“Did he steal restricted Axtaya?”
+[[speaker:tsubasa]]“Did he steal restricted Axtaya?”
 
-“Yes.”
+[[speaker:eirik]]“Yes.”
 
-“Did he attack Kael outside military authorization?”
+[[speaker:tsubasa]]“Did he attack Kael outside military authorization?”
 
-“Yes.”
+[[speaker:eirik]]“Yes.”
 
-“Did he take three-times Redline after being stripped?”
+[[speaker:tsubasa]]“Did he take three-times Redline after being stripped?”
 
-“Yes.”
+[[speaker:eirik]]“Yes.”
 
-“Then which part requires propaganda?”
+[[speaker:tsubasa]]“Then which part requires propaganda?”
 
 Eirik's eyes sharpened slightly.
 
-“None.”
+[[speaker:eirik]]“None.”
 
 Tsubasa looked back toward the secure ward.
 
@@ -150,11 +150,11 @@ Kai and Eirik already knew the core report.
 
 Tsubasa stood.
 
-“Shunto Takamori is alive.”
+[[speaker:tsubasa]]“Shunto Takamori is alive.”
 
 Silence.
 
-“He broke lawful confinement after being stripped of authority. He stole restricted Redline stock. He attacked Kael Veyran and Luo Wen without command authorization. He attempted to kill Luo after identifying him as the battlefield physician solving his circulation.”
+[[speaker:tsubasa]]“He broke lawful confinement after being stripped of authority. He stole restricted Redline stock. He attacked Kael Veyran and Luo Wen without command authorization. He attempted to kill Luo after identifying him as the battlefield physician solving his circulation.”
 
 Aya's jaw tightened.
 
@@ -164,7 +164,7 @@ Tsubasa continued.
 
 Haru looked at the table.
 
-“Why?”
+[[speaker:haru]]“Why?”
 
 Aya answered before Tsubasa.
 
@@ -174,13 +174,13 @@ Haru looked at her.
 
 Aya's expression did not change.
 
-“He could have let Shunto die.”
+[[speaker:haru]]“He could have let Shunto die.”
 
-“Yes.”
+[[speaker:aya]]“Yes.”
 
-“He didn't.”
+[[speaker:haru]]“He didn't.”
 
-“No.”
+[[speaker:aya]]“No.”
 
 Haru swallowed.
 
@@ -188,7 +188,7 @@ Aya looked away.
 
 Tsubasa placed one hand against the table.
 
-“Shunto is no longer Shinsei No.2.”
+[[speaker:tsubasa]]“Shunto is no longer Shinsei No.2.”
 
 Nobody reacted visibly.
 
@@ -196,25 +196,25 @@ The sentence had already become true days ago.
 
 Now it became historical.
 
-“He will not be restored to command. He will not be returned to active service. He will remain under medical restraint until he is stable enough for formal judgment.”
+[[speaker:tsubasa]]“He will not be restored to command. He will not be returned to active service. He will remain under medical restraint until he is stable enough for formal judgment.”
 
 Jun spoke.
 
 “Judgment during the war?”
 
-“Yes.”
+[[speaker:tsubasa]]“Yes.”
 
-“Public?”
+[[speaker:jun]]“Public?”
 
-“Eventually.”
+[[speaker:tsubasa]]“Eventually.”
 
 Kai's gaze hardened.
 
-“And if Wuyue demands custody?”
+[[speaker:kai]]“And if Wuyue demands custody?”
 
 Tsubasa looked at him.
 
-“They can demand.”
+[[speaker:tsubasa]]“They can demand.”
 
 Kai waited.
 
@@ -226,7 +226,7 @@ Nao's fingers tightened slightly over the civilian reports.
 
 Tsubasa saw it.
 
-“But,” he added, “we will not hide what he did.”
+[[speaker:tsubasa]]“But,” he added, “we will not hide what he did.”
 
 That changed the room.
 
@@ -238,11 +238,11 @@ Even Eirik's expression shifted.
 
 Tsubasa met their eyes one by one.
 
-“His assault on Yun Shizhen was committed under Shinsei custody. Concealed from Shinsei command. Then concealed again when I asked directly.”
+[[speaker:tsubasa]]“His assault on Yun Shizhen was committed under Shinsei custody. Concealed from Shinsei command. Then concealed again when I asked directly.”
 
 The room went very quiet.
 
-“He will answer for that.”
+[[speaker:tsubasa]]“He will answer for that.”
 
 Aya said, “Good.”
 
@@ -254,7 +254,7 @@ He did not ask her to.
 
 Hana leaned back.
 
-“What about the men still calling him a hero?”
+[[speaker:hana]]“What about the men still calling him a hero?”
 
 Tsubasa's eyes narrowed.
 
@@ -278,7 +278,7 @@ A martyr could excuse anything if enough people died saying his name.
 
 No one moved.
 
-“He was not betrayed by Shinsei. He betrayed command, law and custody. He was not abandoned on a battlefield. He fled lawful confinement. He was not killed by foreigners. He was kept alive by the physician of the woman he wronged.”
+[[speaker:tsubasa]]“He was not betrayed by Shinsei. He betrayed command, law and custody. He was not abandoned on a battlefield. He fled lawful confinement. He was not killed by foreigners. He was kept alive by the physician of the woman he wronged.”
 
 Aya's eyes lowered.
 
@@ -344,53 +344,53 @@ That was deliberate.
 
 Jin finished reading the draft.
 
-“Shinsei withdraws all offensive forces from Isgard territory.”
+[[speaker:jin]]“Shinsei withdraws all offensive forces from Isgard territory.”
 
 Sera nodded.
 
-“All current offensive operations cease.”
+[[speaker:sera]]“All current offensive operations cease.”
 
-“Yes.”
+[[speaker:jin]]“Yes.”
 
-“Axtaya production records, deployment logs and medical casualty data are opened to independent review.”
+[[speaker:sera]]“Axtaya production records, deployment logs and medical casualty data are opened to independent review.”
 
-“Yes.”
+[[speaker:jin]]“Yes.”
 
-“Prisoner exchange under marked medical corridors.”
+[[speaker:sera]]“Prisoner exchange under marked medical corridors.”
 
-“Yes.”
+[[speaker:jin]]“Yes.”
 
-“Reparations and reconstruction negotiated after ceasefire.”
+[[speaker:sera]]“Reparations and reconstruction negotiated after ceasefire.”
 
-“Yes.”
+[[speaker:jin]]“Yes.”
 
-“No Wuyue occupation of Shinrin.”
+[[speaker:sera]]“No Wuyue occupation of Shinrin.”
 
-“Yes.”
+[[speaker:jin]]“Yes.”
 
-“No dismantling of Shinsei by foreign decree.”
+[[speaker:sera]]“No dismantling of Shinsei by foreign decree.”
 
-“Yes.”
+[[speaker:jin]]“Yes.”
 
 Jin looked up.
 
-“That's generous.”
+[[speaker:jin]]“That's generous.”
 
 Maedra snorted from across the table.
 
-“That is one word.”
+[[speaker:maedra]]“That is one word.”
 
 Aldric looked at her.
 
-“You prefer annihilation?”
+[[speaker:aldric]]“You prefer annihilation?”
 
-“I prefer invoices with teeth.”
+[[speaker:maedra]]“I prefer invoices with teeth.”
 
 Sigrun hid a smile.
 
 Solveig ignored all of them.
 
-“What about Isgard reparations?”
+[[speaker:solveig]]“What about Isgard reparations?”
 
 “Negotiated separately but guaranteed in principle,” Jin said.
 
@@ -398,7 +398,7 @@ Solveig nodded.
 
 Sera looked around the table.
 
-“This is the last offer before the war becomes something else.”
+[[speaker:sera]]“This is the last offer before the war becomes something else.”
 
 Nobody asked what she meant.
 
@@ -424,17 +424,17 @@ Luo sat near the medical side, pale but steady.
 
 Sera looked at him.
 
-“Any objection?”
+[[speaker:sera]]“Any objection?”
 
 Luo shook his head.
 
 “No.”
 
-“Even with Shunto alive?”
+[[speaker:sera]]“Even with Shunto alive?”
 
 Luo's expression did not change.
 
-“Especially with Shunto alive.”
+[[speaker:luo]]“Especially with Shunto alive.”
 
 Sera held his gaze.
 
@@ -464,19 +464,19 @@ The room remained silent after the last page.
 
 Aya was first to speak.
 
-“They are not asking for occupation.”
+[[speaker:aya]]“They are not asking for occupation.”
 
 “No,” Tsubasa said.
 
 Nao looked at the treaty draft.
 
-“They are not asking for dissolution.”
+[[speaker:nao]]“They are not asking for dissolution.”
 
-“No.”
+[[speaker:tsubasa]]“No.”
 
 Eirik's eyes stayed on the Isgard clauses.
 
-“They are asking us to leave a country we invaded.”
+[[speaker:eirik]]“They are asking us to leave a country we invaded.”
 
 Tsubasa looked at him.
 
@@ -486,7 +486,7 @@ Eirik did not look away.
 
 Kai leaned against the wall.
 
-“Axtaya records.”
+[[speaker:kai]]“Axtaya records.”
 
 Aya said, “They should have them.”
 
@@ -494,7 +494,7 @@ Kai glanced at her.
 
 Aya met his gaze.
 
-“They should.”
+[[speaker:aya]]“They should.”
 
 Tsubasa folded the final page.
 
@@ -542,13 +542,13 @@ A structure that had become too comfortable believing the strength required to c
 
 Nao looked at Tsubasa.
 
-“Say yes.”
+[[speaker:nao]]“Say yes.”
 
 Kai turned sharply.
 
 Nao did not flinch.
 
-“Say yes to the ceasefire,” she continued. “Then negotiate the rest.”
+[[speaker:nao]]“Say yes to the ceasefire,” she continued. “Then negotiate the rest.”
 
 Tsubasa was silent.
 
@@ -558,11 +558,11 @@ Eirik watched too.
 
 Kai's face hardened.
 
-“You think Wuyue stops once we show weakness?”
+[[speaker:kai]]“You think Wuyue stops once we show weakness?”
 
 Nao looked at him.
 
-“They have Rhen.”
+[[speaker:nao]]“They have Rhen.”
 
 The room went quiet.
 
@@ -578,17 +578,17 @@ Tsubasa looked at the treaty again.
 
 Then at Eirik.
 
-“What happens in Isgard if we withdraw tomorrow?”
+[[speaker:tsubasa]]“What happens in Isgard if we withdraw tomorrow?”
 
 Eirik answered immediately.
 
 “Isgard rebuilds.”
 
-“And Shinrin?”
+[[speaker:tsubasa]]“And Shinrin?”
 
 Eirik's eyes narrowed.
 
-“That is our problem.”
+[[speaker:eirik]]“That is our problem.”
 
 Tsubasa almost smiled.
 
@@ -596,19 +596,19 @@ Almost.
 
 Then he looked at Aya.
 
-“Axtaya records?”
+[[speaker:tsubasa]]“Axtaya records?”
 
-“Open them.”
+[[speaker:aya]]“Open them.”
 
-“Nao?”
+[[speaker:tsubasa]]“Nao?”
 
-“Ceasefire.”
+[[speaker:nao]]“Ceasefire.”
 
-“Kai?”
+[[speaker:tsubasa]]“Kai?”
 
 Kai took longer.
 
-“Not like this.”
+[[speaker:kai]]“Not like this.”
 
 Tsubasa nodded.
 
@@ -622,15 +622,15 @@ A question of whether an institution survived by admitting limits or by proving 
 
 Tsubasa closed the document.
 
-“Prepare a response.”
+[[speaker:tsubasa]]“Prepare a response.”
 
 Aya's eyes hardened.
 
-“Which one?”
+[[speaker:aya]]“Which one?”
 
 Tsubasa looked toward the north.
 
-“The honest one.”
+[[speaker:tsubasa]]“The honest one.”
 
 ---
 
@@ -682,51 +682,51 @@ Sera spoke first.
 
 “You read the terms.”
 
-“Yes.”
+[[speaker:tsubasa]]“Yes.”
 
-“Then you know Wuyue does not intend to occupy Shinrin.”
+[[speaker:sera]]“Then you know Wuyue does not intend to occupy Shinrin.”
 
-“Yes.”
+[[speaker:tsubasa]]“Yes.”
 
-“Isgard does not intend to claim Shinrin territory.”
+[[speaker:sera]]“Isgard does not intend to claim Shinrin territory.”
 
-“Yes.”
+[[speaker:tsubasa]]“Yes.”
 
-“Axtaya records are not negotiable.”
+[[speaker:sera]]“Axtaya records are not negotiable.”
 
-“I know.”
+[[speaker:tsubasa]]“I know.”
 
-“Shunto remains subject to judgment.”
+[[speaker:sera]]“Shunto remains subject to judgment.”
 
-“Yes.”
+[[speaker:tsubasa]]“Yes.”
 
 Sera's eyes narrowed slightly.
 
-“Then what are we arguing about?”
+[[speaker:sera]]“Then what are we arguing about?”
 
 Tsubasa looked past her toward the allied lines.
 
-“Whether Shinsei may be forced into surrender by foreign martial pressure.”
+[[speaker:tsubasa]]“Whether Shinsei may be forced into surrender by foreign martial pressure.”
 
 Jin's mouth tightened.
 
 Sera did not move.
 
-“You invaded Isgard.”
+[[speaker:sera]]“You invaded Isgard.”
 
-“Yes.”
+[[speaker:tsubasa]]“Yes.”
 
-“You used lifespan-burning combat drugs on soldiers who were not properly informed.”
+[[speaker:sera]]“You used lifespan-burning combat drugs on soldiers who were not properly informed.”
 
-“Yes.”
+[[speaker:tsubasa]]“Yes.”
 
-“You kept fighting after the cost became clear.”
+[[speaker:sera]]“You kept fighting after the cost became clear.”
 
-“Yes.”
+[[speaker:tsubasa]]“Yes.”
 
-“You are currently standing on foreign territory.”
+[[speaker:sera]]“You are currently standing on foreign territory.”
 
-“Yes.”
+[[speaker:tsubasa]]“Yes.”
 
 Sera stared at him.
 
@@ -738,7 +738,7 @@ That was conviction.
 
 He continued.
 
-“Shinsei ended clan wars that killed generations.”
+[[speaker:tsubasa]]“Shinsei ended clan wars that killed generations.”
 
 Eirik's eyes shifted slightly.
 
@@ -748,7 +748,7 @@ Tsubasa spoke without turning.
 
 Sera said, “And therefore?”
 
-“Therefore if the institution that ended them can be forced to kneel whenever a stronger foreign coalition arrives, every clan chief in Shinrin learns the wrong lesson.”
+[[speaker:tsubasa]]“Therefore if the institution that ended them can be forced to kneel whenever a stronger foreign coalition arrives, every clan chief in Shinrin learns the wrong lesson.”
 
 Nao's jaw tightened.
 
@@ -764,7 +764,7 @@ Aldric said, “So you invade another continent to prove your government is stro
 
 Tsubasa looked at him.
 
-“I invade because deterrence failed before invasion became necessary.”
+[[speaker:tsubasa]]“I invade because deterrence failed before invasion became necessary.”
 
 Maedra was not present.
 
@@ -774,11 +774,11 @@ Sera's voice stayed level.
 
 “You believe Shinsei's survival gives Shinsei the right to continue a war Shinsei started.”
 
-“I believe Shinsei collapsing can kill more people than this war already has.”
+[[speaker:tsubasa]]“I believe Shinsei collapsing can kill more people than this war already has.”
 
-“That is not the same statement.”
+[[speaker:sera]]“That is not the same statement.”
 
-“No.”
+[[speaker:tsubasa]]“No.”
 
 Sera studied him.
 
@@ -804,7 +804,7 @@ Sera said, “Then change it yourself.”
 
 Tsubasa's eyes narrowed.
 
-“Withdraw. Open the records. Put civilian authority between martial command and national policy. Let Shinsei survive without making your strength the constitution.”
+[[speaker:sera]]“Withdraw. Open the records. Put civilian authority between martial command and national policy. Let Shinsei survive without making your strength the constitution.”
 
 Aya looked at Tsubasa.
 
@@ -814,15 +814,15 @@ For a moment he said nothing.
 
 Then:
 
-“After the war.”
+[[speaker:tsubasa]]“After the war.”
 
 Sera's face went cold.
 
-“There is always an after.”
+[[speaker:sera]]“There is always an after.”
 
 Tsubasa held her gaze.
 
-“And there is always a war.”
+[[speaker:tsubasa]]“And there is always a war.”
 
 That was the answer.
 
@@ -840,15 +840,15 @@ He kept promises.
 
 Sera turned back.
 
-“Last chance.”
+[[speaker:sera]]“Last chance.”
 
 Tsubasa's expression softened by a fraction.
 
 “I know.”
 
-“Withdraw.”
+[[speaker:sera]]“Withdraw.”
 
-“No.”
+[[speaker:tsubasa]]“No.”
 
 The word carried no anger.
 
@@ -868,15 +868,15 @@ Nao looked worse.
 
 Tsubasa inclined his head.
 
-“I will still honor marked medical corridors and prisoner protections.”
+[[speaker:tsubasa]]“I will still honor marked medical corridors and prisoner protections.”
 
 Sera stared at him.
 
-“That's the lowest bar you could clear.”
+[[speaker:sera]]“That's the lowest bar you could clear.”
 
-“Yes.”
+[[speaker:tsubasa]]“Yes.”
 
-“Good. Keep clearing it.”
+[[speaker:sera]]“Good. Keep clearing it.”
 
 Tsubasa almost smiled.
 
@@ -892,17 +892,17 @@ The armies waited.
 
 That evening Jin brought updated casualty projections to Sera.
 
-“If both sides commit tomorrow,” he said, “we lose thousands before anyone decisive even reaches Tsubasa.”
+[[speaker:jin]]“If both sides commit tomorrow,” he said, “we lose thousands before anyone decisive even reaches Tsubasa.”
 
 Sera looked at the numbers.
 
-“Shinsei?”
+[[speaker:sera]]“Shinsei?”
 
-“Worse, if Rhen intervenes.”
+[[speaker:jin]]“Worse, if Rhen intervenes.”
 
-“Without him?”
+[[speaker:sera]]“Without him?”
 
-“Comparable.”
+[[speaker:jin]]“Comparable.”
 
 Sera leaned back.
 
@@ -914,11 +914,11 @@ Then away.
 
 Sera noticed.
 
-“Say it.”
+[[speaker:sera]]“Say it.”
 
 Jin's jaw tightened.
 
-“If Rhen fights, the casualty projection becomes meaningless.”
+[[speaker:jin]]“If Rhen fights, the casualty projection becomes meaningless.”
 
 Sera looked at Rhen.
 

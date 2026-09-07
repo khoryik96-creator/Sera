@@ -44,11 +44,11 @@ The junior officer swallowed.
 
 Jin lifted one finger.
 
-“Yesterday.”
+[[speaker:jin]]“Yesterday.”
 
 “Fifty-one thousand, four hundred and eleven.”
 
-“The day before.”
+[[speaker:jin]]“The day before.”
 
 “Fifty thousand, nine hundred and six.”
 
@@ -58,19 +58,19 @@ The junior officer stopped breathing properly.
 
 Jin turned a page.
 
-“Hospitalized but expected back within seven days.”
+[[speaker:jin]]“Hospitalized but expected back within seven days.”
 
 “Yesterday, seven thousand two hundred and twelve.”
 
-“Today.”
+[[speaker:jin]]“Today.”
 
 “Four thousand eight hundred and ninety.”
 
-“Permanent or long-duration removal?”
+[[speaker:jin]]“Permanent or long-duration removal?”
 
 “Unchanged except for reclassification of one hundred and six cases after the Sanctuary review.”
 
-“Dead?”
+[[speaker:jin]]“Dead?”
 
 The officer's voice changed.
 
@@ -82,11 +82,11 @@ That number did not go backward.
 
 Jin marked the page.
 
-“Isgard?”
+[[speaker:jin]]“Isgard?”
 
 “Operational strength rising. Three Paragons returned to fighting condition. Senior Sovereign and Duke numbers are still being reconciled because—”
 
-“Because people who had spent months on reduced duty have started walking out of hospitals and commanders are claiming them before the physicians sign the paper.”
+[[speaker:jin]]“Because people who had spent months on reduced duty have started walking out of hospitals and commanders are claiming them before the physicians sign the paper.”
 
 The junior officer hesitated.
 
@@ -94,11 +94,11 @@ The junior officer hesitated.
 
 Jin rubbed his forehead.
 
-“Make the physicians sign first.”
+[[speaker:jin]]“Make the physicians sign first.”
 
 “I told them.”
 
-“And?”
+[[speaker:jin]]“And?”
 
 “They told me to tell the commanders.”
 
@@ -108,7 +108,7 @@ The junior officer looked back with the hollow bravery of a man who had already 
 
 Jin sighed.
 
-“Fine.”
+[[speaker:jin]]“Fine.”
 
 He drew a line across one ledger.
 
@@ -144,13 +144,13 @@ The junior officer shifted.
 
 Jin pointed to the line.
 
-“What is that?”
+[[speaker:jin]]“What is that?”
 
 The officer looked.
 
 “Recovery.”
 
-“No.”
+[[speaker:jin]]“No.”
 
 He frowned.
 
@@ -160,7 +160,7 @@ He frowned.
 
 Jin tapped the page harder.
 
-“That is Shinsei's six-month assumption dying.”
+[[speaker:jin]]“That is Shinsei's six-month assumption dying.”
 
 The junior officer did not know what answer was safe.
 
@@ -228,65 +228,65 @@ Sera entered carrying breakfast.
 
 Jin looked at her.
 
-“You are not allowed in here.”
+[[speaker:jin]]“You are not allowed in here.”
 
-“I own the people who built half these ledgers.”
+[[speaker:sera]]“I own the people who built half these ledgers.”
 
-“That is not how ownership works.”
+[[speaker:jin]]“That is not how ownership works.”
 
-“Lu disagrees.”
+[[speaker:sera]]“Lu disagrees.”
 
-“Lu is a menace.”
+[[speaker:jin]]“Lu is a menace.”
 
-“Yes.”
+[[speaker:sera]]“Yes.”
 
 She put a wrapped bun beside Jin's hand.
 
 He looked at it suspiciously.
 
-“Rhen said you forgot breakfast.”
+[[speaker:sera]]“Rhen said you forgot breakfast.”
 
-“I did not forget it.”
+[[speaker:jin]]“I did not forget it.”
 
-“You intentionally did not eat it.”
+[[speaker:sera]]“You intentionally did not eat it.”
 
-“That is different.”
+[[speaker:jin]]“That is different.”
 
-“It isn't.”
+[[speaker:sera]]“It isn't.”
 
 Jin looked at the junior officer.
 
-“Leave.”
+[[speaker:jin]]“Leave.”
 
 The officer escaped.
 
 Sera watched him go.
 
-“You frightened him.”
+[[speaker:sera]]“You frightened him.”
 
-“He gave me adjectives.”
+[[speaker:jin]]“He gave me adjectives.”
 
-“Monster.”
+[[speaker:sera]]“Monster.”
 
 Jin pointed to the ledger.
 
 Sera's smile faded as she read.
 
-“That's today?”
+[[speaker:sera]]“That's today?”
 
-“Yes.”
+[[speaker:jin]]“Yes.”
 
-“And the second number?”
+[[speaker:sera]]“And the second number?”
 
-“Expected return within seven days.”
+[[speaker:jin]]“Expected return within seven days.”
 
 She looked up.
 
-“That's a lot.”
+[[speaker:sera]]“That's a lot.”
 
-“Yes.”
+[[speaker:jin]]“Yes.”
 
-“How much does it change?”
+[[speaker:sera]]“How much does it change?”
 
 Jin picked up the bun.
 
@@ -294,35 +294,35 @@ He stared at it while thinking.
 
 Then took a bite because Sera would not leave otherwise.
 
-“It changes everything and not enough.”
+[[speaker:jin]]“It changes everything and not enough.”
 
-“Very Jin answer.”
+[[speaker:sera]]“Very Jin answer.”
 
-“Shinsei still has more depth. It still has a continental government behind the army. It still controls ports. It can still feed replacement waves into the theater.”
+[[speaker:jin]]“Shinsei still has more depth. It still has a continental government behind the army. It still controls ports. It can still feed replacement waves into the theater.”
 
 Sera nodded.
 
-“But?”
+[[speaker:sera]]“But?”
 
-“But our wounded stop being a permanent slope.”
+[[speaker:jin]]“But our wounded stop being a permanent slope.”
 
 He drew two lines on a spare page.
 
-“One line was us.”
+[[speaker:jin]]“One line was us.”
 
 Downward.
 
-“The other was them.”
+[[speaker:jin]]“The other was them.”
 
 Flatter.
 
-“Not because they were not taking losses. Because their system had more replacements and Aya kept returning apex fighters.”
+[[speaker:jin]]“Not because they were not taking losses. Because their system had more replacements and Aya kept returning apex fighters.”
 
 He drew a third line.
 
 It climbed.
 
-“This is the last four days.”
+[[speaker:jin]]“This is the last four days.”
 
 Sera looked at it.
 
@@ -330,49 +330,49 @@ Jin continued.
 
 “If Rhen remains available, then every battle where Shinsei trades one-for-one becomes worse for Shinsei than it was before. Every time they spend a week removing Lei or Rui, we may get them back in days. Every time they cripple a formation without killing it, the formation may return.”
 
-“Unless they start killing instead of disabling.”
+[[speaker:sera]]“Unless they start killing instead of disabling.”
 
 Jin looked at her.
 
-“Exactly.”
+[[speaker:jin]]“Exactly.”
 
 The room cooled despite the brazier.
 
 Sera leaned over the map.
 
-“Tsubasa will see this.”
+[[speaker:sera]]“Tsubasa will see this.”
 
-“He will.”
+[[speaker:jin]]“He will.”
 
-“He won't keep fighting the same way.”
+[[speaker:sera]]“He won't keep fighting the same way.”
 
-“No.”
+[[speaker:jin]]“No.”
 
-“Then what does he do?”
+[[speaker:sera]]“Then what does he do?”
 
 Jin swallowed the rest of the bun.
 
-“Stops paying for wounds.”
+[[speaker:jin]]“Stops paying for wounds.”
 
 Sera's face went still.
 
 Jin pointed to three Shinsei fronts.
 
-“He contracts. Consolidates. Forces fewer, larger decisions. He stops letting us trade local damage for time because local damage is now reversible.”
+[[speaker:jin]]“He contracts. Consolidates. Forces fewer, larger decisions. He stops letting us trade local damage for time because local damage is now reversible.”
 
-“And the Ten?”
+[[speaker:sera]]“And the Ten?”
 
-“He brings them closer.”
+[[speaker:jin]]“He brings them closer.”
 
 Sera glanced toward the hospital district where the Sanctuary still shimmered faintly over the horizon.
 
-“Rhen said the same.”
+[[speaker:sera]]“Rhen said the same.”
 
-“I know.”
+[[speaker:jin]]“I know.”
 
-“You hate that.”
+[[speaker:sera]]“You hate that.”
 
-“I hate when he says sensible things casually.”
+[[speaker:jin]]“I hate when he says sensible things casually.”
 
 Sera smiled.
 
@@ -382,47 +382,47 @@ He moved one black marker south.
 
 Then another.
 
-“Tsubasa's best answer is concentration.”
+[[speaker:jin]]“Tsubasa's best answer is concentration.”
 
-“His worst?”
+[[speaker:sera]]“His worst?”
 
-“Panic.”
+[[speaker:jin]]“Panic.”
 
-“Will he panic?”
+[[speaker:sera]]“Will he panic?”
 
-“No.”
+[[speaker:jin]]“No.”
 
 Jin's answer came without hesitation.
 
 Sera watched him.
 
-“You respect him.”
+[[speaker:sera]]“You respect him.”
 
-“I respect competent enemies. Incompetent ones get people killed unpredictably.”
+[[speaker:jin]]“I respect competent enemies. Incompetent ones get people killed unpredictably.”
 
 He looked back at the map.
 
-“Tsubasa is not stupid. That is why he is dangerous.”
+[[speaker:jin]]“Tsubasa is not stupid. That is why he is dangerous.”
 
 Sera folded her arms.
 
-“And Rhen?”
+[[speaker:sera]]“And Rhen?”
 
 Jin looked toward the window.
 
 Outside, one frost-white petal drifted past, pale violet at the edge.
 
-“That is why Tsubasa's problem is worse than ours.”
+[[speaker:jin]]“That is why Tsubasa's problem is worse than ours.”
 
 Sera said nothing.
 
 Jin turned another page.
 
-“For six months Shinsei was asking whether Wuyue and Isgard could survive the arithmetic.”
+[[speaker:jin]]“For six months Shinsei was asking whether Wuyue and Isgard could survive the arithmetic.”
 
 He tapped the new numbers.
 
-“Now Tsubasa has to ask whether arithmetic still applies.”
+[[speaker:jin]]“Now Tsubasa has to ask whether arithmetic still applies.”
 
 ---
 
@@ -468,19 +468,19 @@ Nobody discussed them in front of him unless Aya was present.
 
 Tsubasa placed the strip on the table.
 
-“Read.”
+[[speaker:tsubasa]]“Read.”
 
 Kai did.
 
 His expression changed very little.
 
-“Confirmed?”
+[[speaker:kai]]“Confirmed?”
 
-“Three independent reports.”
+[[speaker:tsubasa]]“Three independent reports.”
 
 Shunto's eyes narrowed.
 
-“Three reports confirming a title.”
+[[speaker:shunto]]“Three reports confirming a title.”
 
 Tsubasa looked at him.
 
@@ -494,23 +494,23 @@ That silence should have warned him.
 
 Hana stepped closer to the table.
 
-“What exactly was seen?”
+[[speaker:hana]]“What exactly was seen?”
 
 Tsubasa handed her the second report.
 
 She read aloud.
 
-“Thirty-mile medical field. Multiple hospital districts affected. Wuyue and Isgard critical casualties recovering simultaneously. Frost-white petals with pale-violet radiance. No visible formation anchors.”
+[[speaker:hana]]“Thirty-mile medical field. Multiple hospital districts affected. Wuyue and Isgard critical casualties recovering simultaneously. Frost-white petals with pale-violet radiance. No visible formation anchors.”
 
 Haru looked up.
 
 Hana read the final line more slowly.
 
-“Confirmed by prisoners: Rhen of the Quaint Teahouse. Known title Petals Monarch.”
+[[speaker:hana]]“Confirmed by prisoners: Rhen of the Quaint Teahouse. Known title Petals Monarch.”
 
 Shunto's jaw tightened.
 
-“Prisoners repeat stories.”
+[[speaker:shunto]]“Prisoners repeat stories.”
 
 Tsubasa opened a drawer.
 
@@ -528,7 +528,7 @@ He placed them beside the new report.
 
 Kai's eyes lowered to the page.
 
-“Frozen petals at the site.”
+[[speaker:tsubasa]]“Frozen petals at the site.”
 
 Tsubasa added another.
 
@@ -536,15 +536,15 @@ Tsubasa added another.
 
 A third.
 
-“Mountain ranges damaged in engagements attributed to the same unidentified cultivator.”
+[[speaker:tsubasa]]“Mountain ranges damaged in engagements attributed to the same unidentified cultivator.”
 
 Shunto's expression hardened.
 
-“Stories.”
+[[speaker:shunto]]“Stories.”
 
 Tsubasa looked at him.
 
-“Then explain the medical field.”
+[[speaker:tsubasa]]“Then explain the medical field.”
 
 Shunto did not answer.
 
@@ -552,31 +552,31 @@ Tsubasa did not raise his voice.
 
 That was not how he led.
 
-“Explain why the same visual marker appears across independent records spanning more than a decade.”
+[[speaker:tsubasa]]“Explain why the same visual marker appears across independent records spanning more than a decade.”
 
 Silence.
 
-“Explain why Wuyue's most dangerous people treated one village physician as if he could not be ranked.”
+[[speaker:tsubasa]]“Explain why Wuyue's most dangerous people treated one village physician as if he could not be ranked.”
 
 Haru shifted in his chair.
 
 Tsubasa looked toward him.
 
-“You fought the house.”
+[[speaker:tsubasa]]“You fought the house.”
 
 Haru's mouth flattened.
 
 “Yes.”
 
-“Did you see Rhen?”
+[[speaker:tsubasa]]“Did you see Rhen?”
 
-“No.”
+[[speaker:haru]]“No.”
 
-“Who was there?”
+[[speaker:tsubasa]]“Who was there?”
 
-“Tae Muyeon. Huo Wujin. Qin Luo. Yurushi later.”
+[[speaker:haru]]“Tae Muyeon. Huo Wujin. Qin Luo. Yurushi later.”
 
-“Three hidden High Paragons inside one household.”
+[[speaker:tsubasa]]“Three hidden High Paragons inside one household.”
 
 Haru's fingers curled against his knee.
 
@@ -584,21 +584,21 @@ Haru's fingers curled against his knee.
 
 Tsubasa turned to Hana.
 
-“You knew Yurushi's habits better than anyone.”
+[[speaker:tsubasa]]“You knew Yurushi's habits better than anyone.”
 
 Hana held his gaze.
 
 “Yes.”
 
-“Did he fear the healer?”
+[[speaker:tsubasa]]“Did he fear the healer?”
 
-“No.”
+[[speaker:hana]]“No.”
 
-“Respect?”
+[[speaker:tsubasa]]“Respect?”
 
-“Yes.”
+[[speaker:hana]]“Yes.”
 
-“Why?”
+[[speaker:tsubasa]]“Why?”
 
 Hana thought about the question.
 
@@ -606,7 +606,7 @@ Not the safest answer.
 
 The true one.
 
-“Because Yurushi did not speak about him like a superior.”
+[[speaker:hana]]“Because Yurushi did not speak about him like a superior.”
 
 Tsubasa waited.
 
@@ -618,47 +618,47 @@ Kai's eyes sharpened.
 
 Tsubasa leaned back.
 
-“A boundary.”
+[[speaker:tsubasa]]“A boundary.”
 
-“Yes.”
+[[speaker:hana]]“Yes.”
 
 Hana looked down at the old reports.
 
-“Something you do not test casually just because you want to know where the edge is.”
+[[speaker:hana]]“Something you do not test casually just because you want to know where the edge is.”
 
 Shunto scoffed softly.
 
 Tsubasa turned his head.
 
-“Do you disagree?”
+[[speaker:tsubasa]]“Do you disagree?”
 
-“I disagree with building strategy around reverence.”
+[[speaker:shunto]]“I disagree with building strategy around reverence.”
 
-“So do I.”
+[[speaker:tsubasa]]“So do I.”
 
 That answer stopped him.
 
 Tsubasa gathered the reports.
 
-“I am building strategy around evidence.”
+[[speaker:tsubasa]]“I am building strategy around evidence.”
 
 He handed one to Kai.
 
-“Read the casualty revision.”
+[[speaker:tsubasa]]“Read the casualty revision.”
 
 Kai scanned it.
 
 His expression changed for the first time.
 
-“Wuyue recovered nearly three thousand combat-capable personnel in four days.”
+[[speaker:kai]]“Wuyue recovered nearly three thousand combat-capable personnel in four days.”
 
-“Expected to recover more.”
+[[speaker:tsubasa]]“Expected to recover more.”
 
 Kai looked up.
 
-“Aya-scale?”
+[[speaker:kai]]“Aya-scale?”
 
-“No.”
+[[speaker:tsubasa]]“No.”
 
 Aya was not in the room.
 
@@ -672,7 +672,7 @@ The order was moving.
 
 Shunto's gaze moved to the map.
 
-“Then kill him before he finishes.”
+[[speaker:shunto]]“Then kill him before he finishes.”
 
 Hana looked at him.
 
@@ -684,13 +684,13 @@ He simply asked, “How?”
 
 Shunto's jaw shifted.
 
-“He is one man.”
+[[speaker:shunto]]“He is one man.”
 
-“So is Kai.”
+[[speaker:tsubasa]]“So is Kai.”
 
 Kai said nothing.
 
-“So are you.”
+[[speaker:tsubasa]]“So are you.”
 
 Shunto's expression cooled.
 
@@ -738,23 +738,23 @@ Comfort was not strategy.
 
 Kai looked up.
 
-“To Isgard?”
+[[speaker:kai]]“To Isgard?”
 
-“Yes.”
+[[speaker:tsubasa]]“Yes.”
 
 “All of us?” Hana asked.
 
 Tsubasa looked at every face in the room.
 
-“All official Ten.”
+[[speaker:tsubasa]]“All official Ten.”
 
 Haru's eyes narrowed.
 
 Shunto pushed away from the post.
 
-“That leaves Shinrin exposed.”
+[[speaker:shunto]]“That leaves Shinrin exposed.”
 
-“It leaves Shinrin governed by the state apparatus it is supposed to possess.”
+[[speaker:tsubasa]]“It leaves Shinrin governed by the state apparatus it is supposed to possess.”
 
 Shunto stared at him.
 
@@ -772,13 +772,13 @@ Neither spoke.
 
 Tsubasa pointed north.
 
-“Rhen's return changes the theater. We stop pretending it does not.”
+[[speaker:tsubasa]]“Rhen's return changes the theater. We stop pretending it does not.”
 
 Kai nodded once.
 
-“What about the forward fronts?”
+[[speaker:kai]]“What about the forward fronts?”
 
-“We contract.”
+[[speaker:tsubasa]]“We contract.”
 
 Tsubasa looked at the sentence again.
 
@@ -786,13 +786,13 @@ Tsubasa looked at the sentence again.
 
 Then folded the strip in half.
 
-“Our greatest intelligence failure was not that Wuyue hid a man from us.”
+[[speaker:tsubasa]]“Our greatest intelligence failure was not that Wuyue hid a man from us.”
 
 He placed it in the brazier.
 
 The paper curled.
 
-“It was that we saw him and decided ‘healer’ was enough.”
+[[speaker:tsubasa]]“It was that we saw him and decided ‘healer’ was enough.”
 
 ---
 
@@ -828,11 +828,11 @@ The scout captain beside her looked confused.
 
 “They left.”
 
-“Yes.”
+[[speaker:ilyra]]“Yes.”
 
 “Without a fight.”
 
-“Yes.”
+[[speaker:ilyra]]“Yes.”
 
 “That's good.”
 
@@ -842,17 +842,17 @@ The captain reconsidered his life.
 
 She crouched near the cold fire pit.
 
-“No panic.”
+[[speaker:ilyra]]“No panic.”
 
 Her fingers touched wheel grooves in the mud.
 
-“Heavy wagons first. Infantry after. Rear guard last.”
+[[speaker:ilyra]]“Heavy wagons first. Infantry after. Rear guard last.”
 
 The scout nodded.
 
 “They withdrew on schedule.”
 
-“They consolidated.”
+[[speaker:ilyra]]“They consolidated.”
 
 By noon, three more Shinsei positions had done the same.
 
@@ -864,23 +864,23 @@ Then threw a piece of charcoal at the wall.
 
 Sera ducked.
 
-“That was almost my head.”
+[[speaker:sera]]“That was almost my head.”
 
-“I missed deliberately.”
+[[speaker:jin]]“I missed deliberately.”
 
-“You are a terrible liar.”
+[[speaker:sera]]“You are a terrible liar.”
 
 Jin pointed at the map.
 
-“He is doing it.”
+[[speaker:jin]]“He is doing it.”
 
 Rhen stood near the window with tea.
 
 Sera looked between them.
 
-“Consolidating.”
+[[speaker:sera]]“Consolidating.”
 
-“Yes.”
+[[speaker:jin]]“Yes.”
 
 Jin marked the abandoned ridges.
 
@@ -902,19 +902,19 @@ One protected medical artery.
 
 Rhen watched.
 
-“He is shortening his response time.”
+[[speaker:rhen]]“He is shortening his response time.”
 
 Jin nodded.
 
-“And reducing the number of places we can hurt without committing.”
+[[speaker:jin]]“And reducing the number of places we can hurt without committing.”
 
 Sera leaned over the map.
 
-“Can we punish the withdrawals?”
+[[speaker:sera]]“Can we punish the withdrawals?”
 
-“We can try.”
+[[speaker:jin]]“We can try.”
 
-“Should we?”
+[[speaker:sera]]“Should we?”
 
 Jin looked at her.
 
@@ -922,95 +922,95 @@ Jin looked at her.
 
 Ilyra, newly arrived and still muddy, smiled.
 
-“I already did.”
+[[speaker:ilyra]]“I already did.”
 
 Everyone turned.
 
 Jin's eyes closed.
 
-“How much?”
+[[speaker:jin]]“How much?”
 
-“Two rear-guard companies.”
+[[speaker:ilyra]]“Two rear-guard companies.”
 
-“Casualties?”
+[[speaker:jin]]“Casualties?”
 
-“Ours? Minimal.”
+[[speaker:ilyra]]“Ours? Minimal.”
 
-“Theirs?”
+[[speaker:jin]]“Theirs?”
 
-“Enough.”
+[[speaker:ilyra]]“Enough.”
 
 Jin opened his eyes.
 
-“Did they turn?”
+[[speaker:jin]]“Did they turn?”
 
-“No.”
+[[speaker:ilyra]]“No.”
 
-“Did they pursue?”
+[[speaker:jin]]“Did they pursue?”
 
-“No.”
+[[speaker:ilyra]]“No.”
 
-“Did they alter route?”
+[[speaker:jin]]“Did they alter route?”
 
-“No.”
+[[speaker:ilyra]]“No.”
 
 Ilyra's smile disappeared.
 
 Jin nodded.
 
-“That is the point.”
+[[speaker:jin]]“That is the point.”
 
 Sera looked at her.
 
-“They were ordered to absorb it.”
+[[speaker:sera]]“They were ordered to absorb it.”
 
 Ilyra's jaw tightened.
 
-“They let me cut them while they kept moving.”
+[[speaker:ilyra]]“They let me cut them while they kept moving.”
 
-“Yes.”
+[[speaker:jin]]“Yes.”
 
 Rhen set down his cup.
 
-“Tsubasa values the concentration more than the rear guard.”
+[[speaker:rhen]]“Tsubasa values the concentration more than the rear guard.”
 
 Ilyra looked toward him.
 
-“That does not make me feel better.”
+[[speaker:ilyra]]“That does not make me feel better.”
 
-“It was not intended to.”
+[[speaker:rhen]]“It was not intended to.”
 
 Jin moved another marker.
 
-“Ports are changing too.”
+[[speaker:jin]]“Ports are changing too.”
 
 Mo Qingzhao entered with fresh sheets.
 
-“Confirmed. Three smaller landing sites are empty. Shipping redirected to the eastern deep-water port.”
+[[speaker:mo]]“Confirmed. Three smaller landing sites are empty. Shipping redirected to the eastern deep-water port.”
 
 Sera frowned.
 
-“That creates congestion.”
+[[speaker:sera]]“That creates congestion.”
 
-“Yes.”
+[[speaker:mo]]“Yes.”
 
-“Which Jin should love.”
+[[speaker:sera]]“Which Jin should love.”
 
-“I do.”
+[[speaker:jin]]“I do.”
 
 Jin's face did not change.
 
-“Why don't you look happy?”
+[[speaker:sera]]“Why don't you look happy?”
 
-“Because the congestion is protected by Eirik's people, Kai's rotation and enough shore artillery to make a landing expensive.”
+[[speaker:jin]]“Because the congestion is protected by Eirik's people, Kai's rotation and enough shore artillery to make a landing expensive.”
 
 Rhen looked at the coast.
 
-“They are accepting inefficiency in exchange for defensibility.”
+[[speaker:rhen]]“They are accepting inefficiency in exchange for defensibility.”
 
 Jin nodded.
 
-“Again: intelligent.”
+[[speaker:jin]]“Again: intelligent.”
 
 By the next morning, Shinsei announced a theater-wide command reorganization.
 
@@ -1026,7 +1026,7 @@ Her eyes moved once.
 
 Then again.
 
-“All Ten.”
+[[speaker:sera]]“All Ten.”
 
 Jin looked up.
 
@@ -1062,13 +1062,13 @@ That was beginning to become its own kind of drama.
 
 Rhen looked up.
 
-“What?”
+[[speaker:rhen]]“What?”
 
-“You made a face.”
+[[speaker:sera]]“You made a face.”
 
-“I did not.”
+[[speaker:rhen]]“I did not.”
 
-“You did.”
+[[speaker:sera]]“You did.”
 
 Jin said, “He did.”
 
@@ -1076,15 +1076,15 @@ Rhen looked betrayed.
 
 Sera pointed at him.
 
-“That. That exact face.”
+[[speaker:sera]]“That. That exact face.”
 
 Rhen sighed.
 
-“I was thinking.”
+[[speaker:rhen]]“I was thinking.”
 
-“Dangerous.”
+[[speaker:sera]]“Dangerous.”
 
-“All ten in one theater is cleaner.”
+[[speaker:rhen]]“All ten in one theater is cleaner.”
 
 The room went quiet.
 
@@ -1092,25 +1092,25 @@ Sera stared.
 
 Jin slowly put down the strip.
 
-“Cleaner.”
+[[speaker:jin]]“Cleaner.”
 
-“Yes.”
+[[speaker:rhen]]“Yes.”
 
-“For whom?”
+[[speaker:jin]]“For whom?”
 
 Rhen considered.
 
-“Everyone.”
+[[speaker:rhen]]“Everyone.”
 
 Ilyra laughed from the doorway.
 
 Jin did not.
 
-“Explain.”
+[[speaker:jin]]“Explain.”
 
 Rhen gestured to the map.
 
-“If they were spread across two continents, every decision risks surprise somewhere else. Now the threat is concentrated.”
+[[speaker:rhen]]“If they were spread across two continents, every decision risks surprise somewhere else. Now the threat is concentrated.”
 
 Jin looked at Sera.
 
@@ -1118,33 +1118,33 @@ Sera looked at Jin.
 
 Rhen frowned.
 
-“What?”
+[[speaker:rhen]]“What?”
 
 Sera rubbed her temple.
 
-“You describe ten Paragons concentrating in one theater as organizational improvement.”
+[[speaker:sera]]“You describe ten Paragons concentrating in one theater as organizational improvement.”
 
-“It is.”
+[[speaker:rhen]]“It is.”
 
-“For us?”
+[[speaker:sera]]“For us?”
 
-“Yes.”
+[[speaker:rhen]]“Yes.”
 
 Jin muttered something impolite.
 
 Rhen ignored him.
 
-“Tsubasa is also making the same calculation.”
+[[speaker:rhen]]“Tsubasa is also making the same calculation.”
 
 Sera's expression sobered.
 
-“What calculation?”
+[[speaker:sera]]“What calculation?”
 
-“That the war is no longer about wearing us down everywhere.”
+[[speaker:rhen]]“That the war is no longer about wearing us down everywhere.”
 
 Rhen looked at the black markers condensing into three dense clusters.
 
-“It is about deciding whether one side can make the other stop.”
+[[speaker:rhen]]“It is about deciding whether one side can make the other stop.”
 
 Across the northern plain, Tsubasa stood inside the newly consolidated Shinsei command camp.
 
@@ -1162,41 +1162,41 @@ Command pavilions connected by covered trenches.
 
 Shunto walked beside him.
 
-“You pulled us too tightly.”
+[[speaker:shunto]]“You pulled us too tightly.”
 
 Tsubasa did not look at him.
 
 “No.”
 
-“Wuyue now knows where to find the Ten.”
+[[speaker:shunto]]“Wuyue now knows where to find the Ten.”
 
-“Yes.”
+[[speaker:tsubasa]]“Yes.”
 
-“That does not concern you?”
+[[speaker:shunto]]“That does not concern you?”
 
-“It concerns me less than not knowing where Rhen will appear.”
+[[speaker:tsubasa]]“It concerns me less than not knowing where Rhen will appear.”
 
 Shunto's mouth tightened.
 
 Tsubasa stopped at the central map.
 
-“Our old advantage was depth.”
+[[speaker:tsubasa]]“Our old advantage was depth.”
 
-“It still is.”
+[[speaker:shunto]]“It still is.”
 
-“Partly.”
+[[speaker:tsubasa]]“Partly.”
 
 Tsubasa pointed to a casualty column.
 
-“Depth works when damage remains damage.”
+[[speaker:tsubasa]]“Depth works when damage remains damage.”
 
 Shunto said nothing.
 
 Tsubasa moved his finger to the latest Wuyue readiness estimate.
 
-“Now their wounded return.”
+[[speaker:tsubasa]]“Now their wounded return.”
 
-“Then kill them.”
+[[speaker:shunto]]“Then kill them.”
 
 The words came too quickly.
 
@@ -1208,7 +1208,7 @@ Neither man moved.
 
 Tsubasa turned away first.
 
-“Do not confuse brutality with strategy.”
+[[speaker:tsubasa]]“Do not confuse brutality with strategy.”
 
 Shunto's expression hardened.
 

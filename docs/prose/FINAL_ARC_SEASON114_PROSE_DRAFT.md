@@ -62,17 +62,17 @@ She was healed enough to move cleanly again, though the memory of Tsubasa's chai
 
 “Are they safe?” she asked.
 
-“Yes.”
+[[speaker:rhen]]“Yes.”
 
-“All of them?”
+[[speaker:sera]]“All of them?”
 
-“Most.”
+[[speaker:rhen]]“Most.”
 
 Sera looked at him.
 
 Rhen clarified.
 
-“The ones who died before I stopped the charge are still dead.”
+[[speaker:rhen]]“The ones who died before I stopped the charge are still dead.”
 
 The sentence stayed between them.
 
@@ -108,11 +108,11 @@ Enough that he would not wake empty.
 
 Sera watched the field begin to glow faintly with returning circulation.
 
-“You're giving it back.”
+[[speaker:sera]]“You're giving it back.”
 
 Rhen looked confused.
 
-“It was theirs.”
+[[speaker:rhen]]“It was theirs.”
 
 Sera smiled.
 
@@ -122,19 +122,19 @@ Around them, allied officers began to understand what they were seeing.
 
 Jin Seoryu stared for several seconds, then rubbed his face.
 
-“Good.”
+[[speaker:jin]]“Good.”
 
 Kael looked at him.
 
-“You sound disappointed.”
+[[speaker:kael]]“You sound disappointed.”
 
-“I had already started writing procedures for what happens if fifty thousand enemy cultivators wake with no cultivation reserve.”
+[[speaker:jin]]“I had already started writing procedures for what happens if fifty thousand enemy cultivators wake with no cultivation reserve.”
 
 Kael considered that.
 
-“You write procedures quickly.”
+[[speaker:kael]]“You write procedures quickly.”
 
-“I have spent six months writing procedures for things that should not exist.”
+[[speaker:jin]]“I have spent six months writing procedures for things that should not exist.”
 
 Lei Zhen laughed once.
 
@@ -144,21 +144,21 @@ Ilyra Serath simply sheathed her weapon and said, “Finally.”
 
 Mo Qingzhao looked toward the sleeping Shinsei army.
 
-“Now comes the harder part.”
+[[speaker:mo]]“Now comes the harder part.”
 
 Arin Vale glanced at him.
 
-“Talking?”
+[[speaker:arin]]“Talking?”
 
-“Yes.”
+[[speaker:mo]]“Yes.”
 
-“I preferred the war.”
+[[speaker:arin]]“I preferred the war.”
 
-“No, you didn't.”
+[[speaker:mo]]“No, you didn't.”
 
 Arin sighed.
 
-“No.”
+[[speaker:arin]]“No.”
 
 She had not.
 
@@ -184,15 +184,15 @@ Rhen crouched.
 
 Tsubasa opened one eye.
 
-“You won.”
+[[speaker:tsubasa]]“You won.”
 
 Rhen shook his head.
 
-“The war ended.”
+[[speaker:rhen]]“The war ended.”
 
-“That is a careful answer.”
+[[speaker:tsubasa]]“That is a careful answer.”
 
-“It is an accurate one.”
+[[speaker:rhen]]“It is an accurate one.”
 
 Tsubasa looked across the field.
 
@@ -208,15 +208,15 @@ No Wuyue banner had been planted over a Shinsei command pavilion.
 
 He let his head rest against the stone.
 
-“You could have killed all of us.”
+[[speaker:tsubasa]]“You could have killed all of us.”
 
-“Yes.”
+[[speaker:rhen]]“Yes.”
 
-“You should not answer that so casually.”
+[[speaker:tsubasa]]“You should not answer that so casually.”
 
 Rhen considered.
 
-“Would lying help?”
+[[speaker:rhen]]“Would lying help?”
 
 Tsubasa almost smiled.
 
@@ -226,13 +226,13 @@ Rhen touched two fingers to his wrist.
 
 Tsubasa's eyes opened fully.
 
-“Again?”
+[[speaker:tsubasa]]“Again?”
 
-“You are crashing.”
+[[speaker:rhen]]“You are crashing.”
 
-“I deserve to.”
+[[speaker:tsubasa]]“I deserve to.”
 
-“That is not a medical category.”
+[[speaker:rhen]]“That is not a medical category.”
 
 Somewhere behind them, Aya heard that and looked offended that Rhen had stolen her line.
 
@@ -254,7 +254,7 @@ Stable.
 
 Rhen stood.
 
-“Because the fight is over.”
+[[speaker:rhen]]“Because the fight is over.”
 
 That answer landed harder than any boast could have.
 
@@ -334,23 +334,23 @@ Rhen looked at the patient between them.
 
 A Shinsei Duke with three broken ribs.
 
-“How?”
+[[speaker:rhen]]“How?”
 
 Aya stared.
 
 Then sighed.
 
-“You aren't.”
+[[speaker:aya]]“You aren't.”
 
-“Okay.”
+[[speaker:rhen]]“Okay.”
 
-“I dislike you.”
+[[speaker:aya]]“I dislike you.”
 
-“I've been told.”
+[[speaker:rhen]]“I've been told.”
 
-“By Sera?”
+[[speaker:aya]]“By Sera?”
 
-“Frequently.”
+[[speaker:rhen]]“Frequently.”
 
 From the next cot, Sera said, “Accurately.”
 
@@ -360,17 +360,17 @@ She was not.
 
 Aya pointed at her.
 
-“You. Bed.”
+[[speaker:aya]]“You. Bed.”
 
 Sera looked at Rhen.
 
 Rhen immediately sided with Aya.
 
-“Bed.”
+[[speaker:rhen]]“Bed.”
 
 Sera's betrayal was visible.
 
-“You're both unbearable.”
+[[speaker:sera]]“You're both unbearable.”
 
 “Bed,” they said together.
 
@@ -420,13 +420,13 @@ Aya was there.
 
 He looked at her first.
 
-“How many?”
+[[speaker:tsubasa]]“How many?”
 
 She knew what he meant.
 
-“Dead?”
+[[speaker:aya]]“Dead?”
 
-“Yes.”
+[[speaker:tsubasa]]“Yes.”
 
 Aya gave him the number.
 
@@ -436,21 +436,21 @@ Not rounded.
 
 Tsubasa closed his eyes.
 
-“And lifespan?”
+[[speaker:tsubasa]]“And lifespan?”
 
 Aya's expression changed.
 
-“That cannot be counted cleanly yet.”
+[[speaker:aya]]“That cannot be counted cleanly yet.”
 
-“Estimate.”
+[[speaker:tsubasa]]“Estimate.”
 
-“No.”
+[[speaker:aya]]“No.”
 
 He opened his eyes.
 
 Aya looked down at him.
 
-“I will not turn five years times fifty thousand into a neat ledger entry so command can pretend it understands what was spent.”
+[[speaker:aya]]“I will not turn five years times fifty thousand into a neat ledger entry so command can pretend it understands what was spent.”
 
 Tsubasa did not argue.
 
@@ -458,15 +458,15 @@ Aya continued.
 
 “Some activated for seconds. Some longer. Bodies differ. Prior exposure differs. Some will lose months. Some years. Some more than the estimate. We will record every case we can.”
 
-“And the years?”
+[[speaker:tsubasa]]“And the years?”
 
-“Gone.”
+[[speaker:aya]]“Gone.”
 
 Tsubasa looked toward the Sanctuary light beyond the pavilion.
 
-“Even he cannot return them.”
+[[speaker:tsubasa]]“Even he cannot return them.”
 
-“Not with ordinary healing.”
+[[speaker:aya]]“Not with ordinary healing.”
 
 Aya's voice hardened.
 
@@ -478,9 +478,9 @@ Tsubasa nodded.
 
 Aya stared at him.
 
-“You do not get to say good as if you were not responsible.”
+[[speaker:aya]]“You do not get to say good as if you were not responsible.”
 
-“I know.”
+[[speaker:tsubasa]]“I know.”
 
 That answer stopped her.
 
@@ -490,17 +490,17 @@ Stopped.
 
 Tsubasa looked at his hands.
 
-“I used strength to justify decisions because strength kept working.”
+[[speaker:tsubasa]]“I used strength to justify decisions because strength kept working.”
 
 Aya folded her arms.
 
 “Yes.”
 
-“And then I met someone stronger.”
+[[speaker:tsubasa]]“And then I met someone stronger.”
 
 Aya's eyes narrowed.
 
-“If your lesson is only that Rhen gets to rule now, I will hit you.”
+[[speaker:aya]]“If your lesson is only that Rhen gets to rule now, I will hit you.”
 
 Tsubasa looked at her.
 
@@ -518,13 +518,13 @@ Rhen believed Huo was an idiot.
 
 Aya waited.
 
-“And he doesn't.”
+[[speaker:tsubasa]]“And he doesn't.”
 
 That was closer.
 
 Aya sat beside the bed.
 
-“What are you going to do?”
+[[speaker:aya]]“What are you going to do?”
 
 Tsubasa looked at the white command band folded on the table.
 
@@ -532,23 +532,23 @@ The one that had identified him as Shinsei's absolute leader.
 
 He did not reach for it.
 
-“Step down.”
+[[speaker:tsubasa]]“Step down.”
 
 Aya was quiet.
 
-“Voluntarily?”
+[[speaker:aya]]“Voluntarily?”
 
-“Yes.”
+[[speaker:tsubasa]]“Yes.”
 
-“Before anyone forces you?”
+[[speaker:aya]]“Before anyone forces you?”
 
-“Yes.”
+[[speaker:tsubasa]]“Yes.”
 
-“That's inconvenient.”
+[[speaker:aya]]“That's inconvenient.”
 
-“Why?”
+[[speaker:tsubasa]]“Why?”
 
-“I wanted to enjoy removing you.”
+[[speaker:aya]]“I wanted to enjoy removing you.”
 
 Tsubasa laughed.
 
@@ -600,7 +600,7 @@ Tsubasa took the head of the table, then deliberately stepped away from it.
 
 He removed the white command band from his arm.
 
-“I resign executive command of Shinsei.”
+[[speaker:tsubasa]]“I resign executive command of Shinsei.”
 
 No dramatic intake of breath.
 
@@ -608,7 +608,7 @@ Everyone in the room had expected it.
 
 That did not make the moment small.
 
-“Effective immediately,” he continued, “military command, civil administration, medical authority and internal security will no longer answer to one office.”
+[[speaker:tsubasa]]“Effective immediately,” he continued, “military command, civil administration, medical authority and internal security will no longer answer to one office.”
 
 Haru looked at him sharply.
 
@@ -618,39 +618,39 @@ Aya's expression remained unreadable.
 
 Tsubasa placed the band on the table.
 
-“I will submit to inquiry regarding the invasion, Redline doctrine, custody abuses under my administration and any orders issued under emergency authority.”
+[[speaker:tsubasa]]“I will submit to inquiry regarding the invasion, Redline doctrine, custody abuses under my administration and any orders issued under emergency authority.”
 
 Eirik spoke first.
 
 “You understand stepping down does not erase responsibility.”
 
-“Yes.”
+[[speaker:tsubasa]]“Yes.”
 
 “Good.”
 
 Sera studied him.
 
-“What happens if your people refuse your resignation?”
+[[speaker:sera]]“What happens if your people refuse your resignation?”
 
 Tsubasa looked toward Haru and Nao.
 
-“They won't be asked to accept a new absolute leader.”
+[[speaker:tsubasa]]“They won't be asked to accept a new absolute leader.”
 
 That answer mattered.
 
 Haru leaned forward.
 
-“We are not replacing one No.1 with another.”
+[[speaker:haru]]“We are not replacing one No.1 with another.”
 
 Nao nodded.
 
-“Civil authority must survive disagreement with military command.”
+[[speaker:nao]]“Civil authority must survive disagreement with military command.”
 
 Aya added, “And medicine does not answer to either when treatment ethics are involved.”
 
 Kai looked at all three.
 
-“This sounds slow.”
+[[speaker:kai]]“This sounds slow.”
 
 Jin answered before anyone else could.
 
@@ -658,11 +658,11 @@ Jin answered before anyone else could.
 
 Kai considered that.
 
-“Fair.”
+[[speaker:kai]]“Fair.”
 
 Aldric looked at Tsubasa.
 
-“What remains of Shinsei?”
+[[speaker:aldric]]“What remains of Shinsei?”
 
 Tsubasa answered honestly.
 
@@ -672,17 +672,17 @@ Maedra Dravaryn, joining by sealed field relay from another Isgard command point
 
 Tsubasa nodded.
 
-“Enough to rebuild.”
+[[speaker:tsubasa]]“Enough to rebuild.”
 
 That was better.
 
 Sera tapped one finger against the table.
 
-“Wuyue is not occupying Shinrin.”
+[[speaker:sera]]“Wuyue is not occupying Shinrin.”
 
 Several Shinsei officers looked up.
 
-“We are not dismantling your civil institutions for you,” she continued. “We are not choosing your replacement leaders. We are not taking your tax offices, courts or roads.”
+[[speaker:sera]]“We are not dismantling your civil institutions for you,” she continued. “We are not choosing your replacement leaders. We are not taking your tax offices, courts or roads.”
 
 Tsubasa listened.
 
@@ -690,7 +690,7 @@ Tsubasa listened.
 
 Her eyes hardened.
 
-“Don't.”
+[[speaker:sera]]“Don't.”
 
 Nobody mistook the word for weakness.
 
@@ -700,17 +700,17 @@ He had said almost nothing.
 
 Tsubasa glanced at him.
 
-“You could enforce all of this alone.”
+[[speaker:tsubasa]]“You could enforce all of this alone.”
 
 Rhen took another sip.
 
 “Yes.”
 
-“And you still leave the terms to them.”
+[[speaker:tsubasa]]“And you still leave the terms to them.”
 
 Rhen looked toward Sera, Jin, Aldric and Solveig.
 
-“They're better at it.”
+[[speaker:rhen]]“They're better at it.”
 
 Jin closed his eyes briefly.
 
@@ -758,7 +758,7 @@ Not to Rhen.
 
 To the room.
 
-“I was wrong.”
+[[speaker:tsubasa]]“I was wrong.”
 
 No one rushed to forgive him.
 

@@ -24,7 +24,7 @@ Yun had apparently objected to that description twice.
 
 Yun, half-supported against the clinic wall, lifted one finger.
 
-“Accurate.”
+[[speaker:yun]]“Accurate.”
 
 Then her knees gave way.
 
@@ -64,15 +64,15 @@ The physician looked at the pattern and stopped treating her like an ordinary tr
 
 Yun opened her eyes.
 
-“Later.”
+[[speaker:yun]]“Later.”
 
 “You need treatment now.”
 
-“I need an officer.”
+[[speaker:yun]]“I need an officer.”
 
 “You need a bed.”
 
-“Both.”
+[[speaker:yun]]“Both.”
 
 The physician almost argued.
 
@@ -86,7 +86,7 @@ The word changed the type of foreign.
 
 “Name?”
 
-“Yun Shizhen.”
+[[speaker:yun]]“Yun Shizhen.”
 
 Nothing.
 
@@ -94,7 +94,7 @@ Border physicians could not be expected to memorize every martial rank across an
 
 Yun swallowed.
 
-“The Pale Venom.”
+[[speaker:yun]]“The Pale Venom.”
 
 The junior healer beside him went completely still.
 
@@ -112,7 +112,7 @@ Silence.
 
 Yun closed her eyes again.
 
-“No.10.”
+[[speaker:yun]]“No.10.”
 
 The room changed.
 
@@ -128,11 +128,11 @@ Weakly.
 
 Still enough.
 
-“Military liaison.”
+[[speaker:yun]]“Military liaison.”
 
 He looked at her.
 
-“Not just diplomatic.”
+[[speaker:yun]]“Not just diplomatic.”
 
 That changed his face again.
 
@@ -154,13 +154,13 @@ A third checked her circulation and swore under his breath.
 
 Yun heard it.
 
-“Professional.”
+[[speaker:yun]]“Professional.”
 
 The healer looked embarrassed.
 
 “Sorry.”
 
-“I agree with you.”
+[[speaker:yun]]“I agree with you.”
 
 He almost smiled.
 
@@ -174,11 +174,11 @@ Physicians were bad liars around other physicians.
 
 He said, “Do not talk.”
 
-“Bad answer.”
+[[speaker:yun]]“Bad answer.”
 
 “We are stabilizing you.”
 
-“Also not an answer.”
+[[speaker:yun]]“Also not an answer.”
 
 The senior physician returned and leaned over her.
 
@@ -210,13 +210,13 @@ Her body had simply spent too long being asked for one more mile.
 
 Yun touched the wrap around her wrist.
 
-“Cut this carefully.”
+[[speaker:yun]]“Cut this carefully.”
 
 The physician frowned.
 
 “Why?”
 
-“Inside seam.”
+[[speaker:yun]]“Inside seam.”
 
 He cut the outer wrap.
 
@@ -230,23 +230,23 @@ Yun exhaled.
 
 Still there.
 
-“Do not open it here.”
+[[speaker:yun]]“Do not open it here.”
 
 “What is it?”
 
-“Axtaya.”
+[[speaker:yun]]“Axtaya.”
 
 The name meant nothing to him.
 
 Yet.
 
-“Foreign stimulant. Military.”
+[[speaker:yun]]“Foreign stimulant. Military.”
 
 The physician’s eyes sharpened.
 
 “From where?”
 
-“Shinrin.”
+[[speaker:yun]]“Shinrin.”
 
 That name he knew as geography.
 
@@ -278,33 +278,33 @@ The liaison pulled a chair close.
 
 “Yun Shizhen?”
 
-“Yes.”
+[[speaker:yun]]“Yes.”
 
 “Wuyue No.10?”
 
-“Yes.”
+[[speaker:yun]]“Yes.”
 
 “I am Commander Hallen, northern pact liaison. Whatever you tell me now goes directly to central command and Wuyue.”
 
 Yun looked at him.
 
-“Send the alert first.”
+[[speaker:yun]]“Send the alert first.”
 
 He paused.
 
 “I need cause.”
 
-“Foreign invasion preparation against Isgard.”
+[[speaker:yun]]“Foreign invasion preparation against Isgard.”
 
 Hallen’s face hardened. He had heard enough.
 
 “Confirmed?”
 
-“Yes.”
+[[speaker:yun]]“Yes.”
 
 “How soon?”
 
-“Weeks possible.”
+[[speaker:yun]]“Weeks possible.”
 
 He stood immediately.
 
@@ -332,13 +332,13 @@ The physician touched her shoulder.
 
 Yun shook her head.
 
-“No.”
+[[speaker:yun]]“No.”
 
 “You will kill yourself finishing a report.”
 
 She looked at him.
 
-“I did not cross Shinrin to die before the useful part.”
+[[speaker:yun]]“I did not cross Shinrin to die before the useful part.”
 
 Hallen sat again.
 
@@ -350,7 +350,7 @@ She closed her eyes for one breath.
 
 Then opened them.
 
-“Write.”
+[[speaker:yun]]“Write.”
 
 ---
 
@@ -364,39 +364,39 @@ Not the order it hurt.
 
 The order that mattered now.
 
-“Country: Shinrin.”
+[[speaker:yun]]“Country: Shinrin.”
 
 The clerk wrote.
 
-“Ruling structure: Shinsei Guild. Guild is effectively central government, military command, judiciary and infrastructure authority.”
+[[speaker:yun]]“Ruling structure: Shinsei Guild. Guild is effectively central government, military command, judiciary and infrastructure authority.”
 
 Hallen looked up.
 
 “One institution?”
 
-“Yes.”
+[[speaker:yun]]“Yes.”
 
 “Continue.”
 
-“Axtaya.”
+[[speaker:yun]]“Axtaya.”
 
 Yun pointed weakly toward the sealed capillary now sitting inside a padded evidence tray.
 
-“Circulatory stimulant program. Multiplies combat throughput temporarily. Does not raise cultivation realm or skill.”
+[[speaker:yun]]“Circulatory stimulant program. Multiplies combat throughput temporarily. Does not raise cultivation realm or skill.”
 
 “Military issue?”
 
-“Yes.”
+[[speaker:yun]]“Yes.”
 
 “How strong?”
 
-“Multiple tiers. I confirmed escalation beyond safe medical origin. Highest field tier can produce roughly triple throughput for a short window.”
+[[speaker:yun]]“Multiple tiers. I confirmed escalation beyond safe medical origin. Highest field tier can produce roughly triple throughput for a short window.”
 
 The physician stopped writing treatment notes.
 
 “Cost?”
 
-“Future vitality. Also acute physical damage. Not the same thing.”
+[[speaker:yun]]“Future vitality. Also acute physical damage. Not the same thing.”
 
 His expression changed.
 
@@ -408,21 +408,21 @@ The physician looked at the capillary differently now.
 
 Hallen said, “Army size.”
 
-“Do not write one field army.”
+[[speaker:yun]]“Do not write one field army.”
 
 The clerk paused.
 
 Yun’s breathing became shallower.
 
-“Wider trained apparatus exceeds two hundred thousand by conservative reconstruction. Regional forces, reserves, support-connected trained units. I did not confirm all would deploy at once.”
+[[speaker:yun]]“Wider trained apparatus exceeds two hundred thousand by conservative reconstruction. Regional forces, reserves, support-connected trained units. I did not confirm all would deploy at once.”
 
 “Quality?”
 
-“High.”
+[[speaker:yun]]“High.”
 
 “How high?”
 
-“Peak Marquis appears ordinary enough inside trained elite cohorts that Isgard must not plan around Wuyue scarcity assumptions.”
+[[speaker:yun]]“Peak Marquis appears ordinary enough inside trained elite cohorts that Isgard must not plan around Wuyue scarcity assumptions.”
 
 Hallen went very still.
 
@@ -438,7 +438,7 @@ Yun continued.
 
 Hallen said, “Ten commanders?”
 
-“Ten Paragons.”
+[[speaker:yun]]“Ten Paragons.”
 
 The room went silent.
 
@@ -448,15 +448,15 @@ Yun heard someone outside the curtain inhale sharply.
 
 “Ten?” Hallen repeated.
 
-“Yes.”
+[[speaker:yun]]“Yes.”
 
 “Confirmed?”
 
-“Multiple independent medical and administrative sources. Treat all ten as Paragon until disproven.”
+[[speaker:yun]]“Multiple independent medical and administrative sources. Treat all ten as Paragon until disproven.”
 
 “Names?”
 
-“I do not have a complete reliable ten-name operational list. Do not invent one from my report.”
+[[speaker:yun]]“I do not have a complete reliable ten-name operational list. Do not invent one from my report.”
 
 Even dying, Yun remained Yun.
 
@@ -464,7 +464,7 @@ Hallen nodded.
 
 “Known?”
 
-“Shunto Takamori. No.2. High Paragon. Capture specialist.”
+[[speaker:yun]]“Shunto Takamori. No.2. High Paragon. Capture specialist.”
 
 Her voice changed by one degree.
 
@@ -478,15 +478,15 @@ Yun continued.
 
 Hallen said, “How much stronger?”
 
-“I do not know.”
+[[speaker:yun]]“I do not know.”
 
 “Estimate?”
 
-“No.”
+[[speaker:yun]]“No.”
 
 The refusal was immediate.
 
-“Fear is not permission to manufacture intelligence.”
+[[speaker:yun]]“Fear is not permission to manufacture intelligence.”
 
 The clerk wrote that too before realizing it was not part of the report.
 
@@ -498,19 +498,19 @@ The physician stepped closer.
 
 “Stop.”
 
-“One more section.”
+[[speaker:yun]]“One more section.”
 
 “You said that three sections ago.”
 
-“This is the important one.”
+[[speaker:yun]]“This is the important one.”
 
 “They were all important.”
 
-“Good physician.”
+[[speaker:yun]]“Good physician.”
 
 “Terrible patient.”
 
-“Frequently.”
+[[speaker:yun]]“Frequently.”
 
 Hallen waited.
 
@@ -520,33 +520,33 @@ Isgard.
 
 The coastline she had spent three months finding in other people’s paperwork.
 
-“Target is here.”
+[[speaker:yun]]“Target is here.”
 
 Nobody needed clarification.
 
-“Evidence: cold-weather medical staging, deep-keel transport repair, northern harbor studies, grain movement, elite training cycles, troop requisitions, leave compression, forward clinic staffing.”
+[[speaker:yun]]“Evidence: cold-weather medical staging, deep-keel transport repair, northern harbor studies, grain movement, elite training cycles, troop requisitions, leave compression, forward clinic staffing.”
 
 The clerk’s brush moved quickly.
 
-“No master order recovered. Independent systems converge on Isgard.”
+[[speaker:yun]]“No master order recovered. Independent systems converge on Isgard.”
 
 “Launch timing?”
 
-“Four-month readiness architecture from initial staging. I left late month three.”
+[[speaker:yun]]“Four-month readiness architecture from initial staging. I left late month three.”
 
 Hallen’s face lost what little color remained.
 
 “Weeks.”
 
-“Yes.”
+[[speaker:yun]]“Yes.”
 
 “Could be delayed.”
 
-“Yes.”
+[[speaker:yun]]“Yes.”
 
 “Could be accelerated.”
 
-“Yes.”
+[[speaker:yun]]“Yes.”
 
 He stood.
 
@@ -588,41 +588,41 @@ He looked angry now.
 
 “You.”
 
-“Fair.”
+[[speaker:yun]]“Fair.”
 
 Hallen returned to the chair.
 
 “You said Takamori captured you.”
 
-“Yes.”
+[[speaker:yun]]“Yes.”
 
 “How did you escape?”
 
-“Insider assistance.”
+[[speaker:yun]]“Insider assistance.”
 
 “Name?”
 
 Yun looked at him.
 
-“No.”
+[[speaker:yun]]“No.”
 
 “For protection?”
 
-“For theirs.”
+[[speaker:yun]]“For theirs.”
 
 “Shinsei insider?”
 
-“Close enough to its systems to create a route.”
+[[speaker:yun]]“Close enough to its systems to create a route.”
 
 Hallen accepted the boundary.
 
 “Did Takamori obtain your evidence?”
 
-“Notebook, probably. Not all meaning. Physical sample survived. Essential facts memorized. One coded packet may have left Shinrin earlier.”
+[[speaker:yun]]“Notebook, probably. Not all meaning. Physical sample survived. Essential facts memorized. One coded packet may have left Shinrin earlier.”
 
 “Destination?”
 
-“Wuyue medical channels. Luo Wen may recognize it if it arrives.”
+[[speaker:yun]]“Wuyue medical channels. Luo Wen may recognize it if it arrives.”
 
 The physician glanced at the injuries again.
 
@@ -640,7 +640,7 @@ Hallen nodded.
 
 Yun’s eyes stayed on the ceiling.
 
-“Not for this report.”
+[[speaker:yun]]“Not for this report.”
 
 No detail.
 
@@ -658,35 +658,35 @@ Yun knew.
 
 She looked at Hallen.
 
-“Has Wuyue been sent?”
+[[speaker:yun]]“Has Wuyue been sent?”
 
 “Yes.”
 
-“Pact?”
+[[speaker:yun]]“Pact?”
 
 “Activated.”
 
-“Good.”
+[[speaker:yun]]“Good.”
 
 The word came out almost soundless.
 
 Yun turned her head toward the evidence tray.
 
-“Sample.”
+[[speaker:yun]]“Sample.”
 
 “We have it.”
 
-“Luo Wen.”
+[[speaker:yun]]“Luo Wen.”
 
 “We will make sure Wuyue medical command receives the findings and the sample as soon as transport allows.”
 
 Yun frowned.
 
-“Not medical command.”
+[[speaker:yun]]“Not medical command.”
 
 Hallen waited.
 
-“Luo.”
+[[speaker:yun]]“Luo.”
 
 A tiny distinction.
 
@@ -704,7 +704,7 @@ Medicine did not require the touch. Sometimes physicians ran out of medicine bef
 
 Yun looked at him.
 
-“Did I make it?”
+[[speaker:yun]]“Did I make it?”
 
 He understood what she meant.
 
@@ -712,7 +712,7 @@ He understood what she meant.
 
 She closed her eyes.
 
-“Good.”
+[[speaker:yun]]“Good.”
 
 That was the last clear word she spoke.
 
@@ -770,7 +770,7 @@ Then again.
 
 Sera saw his face before she saw the paper.
 
-“What?”
+[[speaker:sera]]“What?”
 
 Lu did not answer immediately.
 
@@ -784,17 +784,17 @@ Luo Wen was in the clinic.
 
 Lu looked at Sera.
 
-“Isgard activated the pact.”
+[[speaker:luweiran]]“Isgard activated the pact.”
 
 The room stopped.
 
 Jin’s hand left the map.
 
-“Cause?”
+[[speaker:jin]]“Cause?”
 
 Lu held out the report.
 
-“Foreign invasion preparation. Shinrin.”
+[[speaker:luweiran]]“Foreign invasion preparation. Shinrin.”
 
 Sera took it.
 
@@ -820,7 +820,7 @@ One heartbeat.
 
 Then continued.
 
-“Alive?”
+[[speaker:sera]]“Alive?”
 
 Lu looked at the second page.
 
@@ -828,7 +828,7 @@ Nobody spoke.
 
 Sera already knew.
 
-“Say it.”
+[[speaker:sera]]“Say it.”
 
 Lu’s voice was quiet.
 
@@ -852,11 +852,11 @@ Sera nodded.
 
 She read aloud.
 
-“Shinsei Guild controls Shinrin’s state and military structure.”
+[[speaker:sera]]“Shinsei Guild controls Shinrin’s state and military structure.”
 
 Jin’s eyes sharpened.
 
-“Axtaya is institutional. Combat-throughput stimulant. Multiple tiers. High tier approximately three-times throughput for short duration. Future-vitality cost.”
+[[speaker:sera]]“Axtaya is institutional. Combat-throughput stimulant. Multiple tiers. High tier approximately three-times throughput for short duration. Future-vitality cost.”
 
 Huo swore.
 
@@ -870,21 +870,21 @@ Silence again.
 
 Tae said, “Two hundred thousand?”
 
-“Lower bound.”
+[[speaker:sera]]“Lower bound.”
 
 His expression changed.
 
 Then Sera reached the next line.
 
-“Ten ranked Paragon officers.”
+[[speaker:sera]]“Ten ranked Paragon officers.”
 
 Nobody interrupted her this time.
 
-“Shunto Takamori. No.2. High Paragon. Capture specialist.”
+[[speaker:sera]]“Shunto Takamori. No.2. High Paragon. Capture specialist.”
 
 Qin’s gaze sharpened.
 
-“Tsubasa Kurokawa. No.1. Stronger than Shunto. Exact mechanics unknown.”
+[[speaker:sera]]“Tsubasa Kurokawa. No.1. Stronger than Shunto. Exact mechanics unknown.”
 
 Jin said, “Good. She did not guess.”
 
@@ -894,19 +894,19 @@ He meant it as respect.
 
 She knew.
 
-“Target: Isgard. Four-month readiness cycle. Yun left late month three. Launch window may be weeks.”
+[[speaker:sera]]“Target: Isgard. Four-month readiness cycle. Yun left late month three. Launch window may be weeks.”
 
 Jin moved immediately.
 
 The strategist replaced the grieving man because both had to exist and only one could use the next hour.
 
-“Activate pact mobilization protocols. Do not wait for a second message.”
+[[speaker:jin]]“Activate pact mobilization protocols. Do not wait for a second message.”
 
 Lu was already writing.
 
-“Which forces?”
+[[speaker:luweiran]]“Which forces?”
 
-“All assigned defensive contingencies first. No public panic order until we know transport capacity and landing options.”
+[[speaker:jin]]“All assigned defensive contingencies first. No public panic order until we know transport capacity and landing options.”
 
 Sera said, “Quaint prepares.”
 
@@ -914,19 +914,19 @@ Qin nodded.
 
 Tae said, “All one thousand?”
 
-“Prepare all. Move only on command.”
+[[speaker:sera]]“Prepare all. Move only on command.”
 
 Huo was already halfway through the door.
 
 “Where are you going?” Tae asked.
 
-“To make sure your company does not pack six months of tea and no bandages.”
+[[speaker:huo]]“To make sure your company does not pack six months of tea and no bandages.”
 
-“That happened once.”
+[[speaker:tae]]“That happened once.”
 
-“Twice.”
+[[speaker:huo]]“Twice.”
 
-“It was good tea.”
+[[speaker:tae]]“It was good tea.”
 
 For one impossible second, Yun would have found that funny.
 
@@ -934,17 +934,17 @@ Then the room remembered she was dead.
 
 Sera folded the report.
 
-“Luo.”
+[[speaker:sera]]“Luo.”
 
 Lu nodded.
 
-“I will tell him.”
+[[speaker:luweiran]]“I will tell him.”
 
-“No.”
+[[speaker:sera]]“No.”
 
 Sera stood.
 
-“I will.”
+[[speaker:sera]]“I will.”
 
 The clinic smelled like bitterroot and boiled cloth.
 
@@ -956,13 +956,13 @@ Saw her face.
 
 Finished tying the bandage anyway.
 
-“Change this in six hours,” he told the apprentice. “If the swelling crosses the ink line, wake me.”
+[[speaker:luo]]“Change this in six hours,” he told the apprentice. “If the swelling crosses the ink line, wake me.”
 
 The apprentice nodded and left.
 
 Only then did Luo turn fully toward Sera.
 
-“She made it?”
+[[speaker:luo]]“She made it?”
 
 Sera’s chest tightened.
 
@@ -978,7 +978,7 @@ Because he knew what Yun had gone to do.
 
 Sera nodded.
 
-“The warning reached Isgard.”
+[[speaker:sera]]“The warning reached Isgard.”
 
 Luo closed his eyes.
 
@@ -986,9 +986,9 @@ One breath.
 
 Then:
 
-“And her?”
+[[speaker:luo]]“And her?”
 
-“She died after giving the report.”
+[[speaker:sera]]“She died after giving the report.”
 
 Nothing broke dramatically.
 
@@ -1002,15 +1002,15 @@ He sat down on the nearest stool because standing had become unnecessary.
 
 Sera placed the report beside him.
 
-“There is an Axtaya sample in Isgard. She asked that it reach you.”
+[[speaker:sera]]“There is an Axtaya sample in Isgard. She asked that it reach you.”
 
 His hand moved to the paper.
 
 Stopped before touching it.
 
-“She said my name?”
+[[speaker:luo]]“She said my name?”
 
-“Yes.”
+[[speaker:sera]]“Yes.”
 
 That one hurt more.
 
@@ -1036,11 +1036,11 @@ Not yet.
 
 He kept reading.
 
-“She remembered everything.”
+[[speaker:luo]]“She remembered everything.”
 
-“Yes.”
+[[speaker:sera]]“Yes.”
 
-“Of course she did.”
+[[speaker:luo]]“Of course she did.”
 
 His voice almost failed there.
 
@@ -1054,33 +1054,33 @@ Grief remained. So did the work Yun had spent her final strength giving him.
 
 Luo stood.
 
-“Tell Isgard not to open the capillary outside controlled ventilation. I want comparative bloodwork from any exposed users they have. And no one assumes healing restored spent vitality.”
+[[speaker:luo]]“Tell Isgard not to open the capillary outside controlled ventilation. I want comparative bloodwork from any exposed users they have. And no one assumes healing restored spent vitality.”
 
 Sera watched him.
 
-“Luo.”
+[[speaker:sera]]“Luo.”
 
-“I know.”
+[[speaker:luo]]“I know.”
 
 He looked at her.
 
 His eyes were wet now.
 
-“I know she is dead.”
+[[speaker:luo]]“I know she is dead.”
 
 Sera said nothing.
 
 Luo looked down at the report.
 
-“I can know that and still work.”
+[[speaker:luo]]“I can know that and still work.”
 
-“Yes.”
+[[speaker:sera]]“Yes.”
 
-“Good.”
+[[speaker:luo]]“Good.”
 
 He wiped his face once with the heel of his hand, irritated by the inconvenience of tears.
 
-“Then we work.”
+[[speaker:luo]]“Then we work.”
 
 Sera left him with the report.
 

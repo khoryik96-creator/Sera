@@ -78,7 +78,7 @@ The clerk immediately regretted the sentence.
 
 Sera did not punish him for it.
 
-“What requires the number?”
+[[speaker:sera]]“What requires the number?”
 
 “Public mobilization authority in two eastern formations. They are structured to receive emergency orders through ranked holders or regional sovereign command. We can reroute through Jin, but it creates delay.”
 
@@ -96,21 +96,21 @@ That did not mean replacing her before the room stopped remembering her voice.
 
 Sera looked at the blank line on the deployment matrix.
 
-“No.10.”
+[[speaker:sera]]“No.10.”
 
 The clerk nodded.
 
 Jin leaned back.
 
-“We can leave it empty another day if we restructure the relay.”
+[[speaker:jin]]“We can leave it empty another day if we restructure the relay.”
 
-“Can we do that without weakening response?”
+[[speaker:sera]]“Can we do that without weakening response?”
 
-“Yes.”
+[[speaker:jin]]“Yes.”
 
 He paused.
 
-“Not without cost.”
+[[speaker:jin]]“Not without cost.”
 
 The cost had finally been named. Nobody wanted the conversation.
 
@@ -134,23 +134,23 @@ Three Axtaya case sheets covered the table beside Yun’s untouched cup.
 
 Sera stood in the doorway.
 
-“Have you slept?”
+[[speaker:sera]]“Have you slept?”
 
-“No.”
+[[speaker:luo]]“No.”
 
-“That was not a difficult question.”
+[[speaker:sera]]“That was not a difficult question.”
 
-“I answered it.”
+[[speaker:luo]]“I answered it.”
 
 Jin entered behind her.
 
 Luo saw him and understood immediately that this was not a medical visit.
 
-“What?”
+[[speaker:luo]]“What?”
 
 Jin did not circle it.
 
-“The No.10 command seat creates an operational gap.”
+[[speaker:jin]]“The No.10 command seat creates an operational gap.”
 
 Luo looked at Yun’s cup.
 
@@ -158,13 +158,13 @@ For several breaths he said nothing.
 
 Then:
 
-“Do you have to fill it?”
+[[speaker:luo]]“Do you have to fill it?”
 
-“Soon.”
+[[speaker:jin]]“Soon.”
 
-“Today?”
+[[speaker:luo]]“Today?”
 
-“Preferably before full mobilization leaves central roads.”
+[[speaker:jin]]“Preferably before full mobilization leaves central roads.”
 
 Luo’s mouth tightened.
 
@@ -172,9 +172,9 @@ Sera said, “Nobody replaces her.”
 
 He looked at her.
 
-“I know what the sentence means politically.”
+[[speaker:luo]]“I know what the sentence means politically.”
 
-“That is not what I meant.”
+[[speaker:sera]]“That is not what I meant.”
 
 Silence.
 
@@ -192,31 +192,31 @@ Painful.
 
 Necessary.
 
-“Fine.”
+[[speaker:luo]]“Fine.”
 
 Jin said, “We have not chosen anyone.”
 
 Luo gave him a tired look.
 
-“You came to ask permission?”
+[[speaker:luo]]“You came to ask permission?”
 
-“No.”
+[[speaker:jin]]“No.”
 
-“Good. She would hate that.”
+[[speaker:luo]]“Good. She would hate that.”
 
 That was true enough to hurt.
 
 Luo picked up one of the Axtaya sheets.
 
-“Choose somebody useful.”
+[[speaker:luo]]“Choose somebody useful.”
 
 Sera almost smiled.
 
-“Also something she would say.”
+[[speaker:sera]]“Also something she would say.”
 
-“Probably with more insults.”
+[[speaker:luo]]“Probably with more insults.”
 
-“Definitely.”
+[[speaker:sera]]“Definitely.”
 
 The smile vanished quickly, but it had existed, and Sera kept that small fact with her.
 
@@ -240,15 +240,15 @@ Xie had not.
 
 He was halfway through leaving the meeting when Rui spoke.
 
-“Sit down.”
+[[speaker:rui]]“Sit down.”
 
 Xie stopped at the door.
 
-“No.”
+[[speaker:xie_wuchen]]“No.”
 
 Tae looked delighted.
 
-“Good start.”
+[[speaker:tae]]“Good start.”
 
 Huo elbowed him.
 
@@ -282,13 +282,13 @@ Responsibility had apparently learned qinggong.
 
 Shen Rui folded his arms.
 
-“Xie Wuchen.”
+[[speaker:rui]]“Xie Wuchen.”
 
-“That is still my name.”
+[[speaker:xie_wuchen]]“That is still my name.”
 
-“Sit.”
+[[speaker:rui]]“Sit.”
 
-“No.”
+[[speaker:xie_wuchen]]“No.”
 
 Rui looked at Sera.
 
@@ -296,21 +296,21 @@ Sera said, “I am enjoying this. Continue.”
 
 Xie sighed and sat.
 
-“Traitors.”
+[[speaker:xie_wuchen]]“Traitors.”
 
 Tae nodded solemnly.
 
-“Many.”
+[[speaker:tae]]“Many.”
 
 Rui ignored him.
 
-“The No.10 seat is empty.”
+[[speaker:rui]]“The No.10 seat is empty.”
 
 The humor left the room.
 
 Xie’s expression changed.
 
-“No.”
+[[speaker:xie_wuchen]]“No.”
 
 Rui had not asked yet.
 
@@ -320,13 +320,13 @@ Sera watched him.
 
 Rui said, “Hear me.”
 
-“I heard enough.”
+[[speaker:xie_wuchen]]“I heard enough.”
 
-“No, you heard a number.”
+[[speaker:rui]]“No, you heard a number.”
 
 Xie stood again.
 
-“That number belonged to Yun Shizhen.”
+[[speaker:xie_wuchen]]“That number belonged to Yun Shizhen.”
 
 Sera spoke before Rui could.
 
@@ -334,9 +334,9 @@ Sera spoke before Rui could.
 
 Xie looked at her.
 
-“No argument?”
+[[speaker:xie_wuchen]]“No argument?”
 
-“Why would I argue with the truth?”
+[[speaker:sera]]“Why would I argue with the truth?”
 
 He hesitated.
 
@@ -346,39 +346,39 @@ Sera continued.
 
 Xie’s jaw tightened.
 
-“So leave it hers.”
+[[speaker:xie_wuchen]]“So leave it hers.”
 
-“The history will.”
+[[speaker:sera]]“The history will.”
 
 He looked at her.
 
-“The command function cannot remain empty through an invasion because we are afraid filling it means forgetting her.”
+[[speaker:sera]]“The command function cannot remain empty through an invasion because we are afraid filling it means forgetting her.”
 
 Xie’s eyes cooled.
 
-“You have Sovereigns.”
+[[speaker:xie_wuchen]]“You have Sovereigns.”
 
-“Yes.”
+[[speaker:sera]]“Yes.”
 
-“Dukes.”
+[[speaker:xie_wuchen]]“Dukes.”
 
-“Yes.”
+[[speaker:sera]]“Yes.”
 
-“Quaint has ten Sovereign captains without counting the people in this room.”
+[[speaker:xie_wuchen]]“Quaint has ten Sovereign captains without counting the people in this room.”
 
-“Yes.”
+[[speaker:sera]]“Yes.”
 
-“Then choose one of them.”
+[[speaker:xie_wuchen]]“Then choose one of them.”
 
 Sera did not answer.
 
 Rui did.
 
-“Because I named you.”
+[[speaker:rui]]“Because I named you.”
 
 Xie turned.
 
-“Why?”
+[[speaker:xie_wuchen]]“Why?”
 
 Shen Rui was quiet for a moment.
 
@@ -398,31 +398,31 @@ The memory had aged poorly for his pride and very well for his judgment.
 
 Tae leaned toward Huo.
 
-“I like him already.”
+[[speaker:tae]]“I like him already.”
 
 Huo whispered, “You knew that.”
 
-“I like hearing it again.”
+[[speaker:tae]]“I like hearing it again.”
 
 Rui’s stare silenced both.
 
 Then he looked at Xie.
 
-“You could have killed me.”
+[[speaker:rui]]“You could have killed me.”
 
 Xie said nothing.
 
-“You did not.”
+[[speaker:rui]]“You did not.”
 
-“You were misinformed, not evil.”
+[[speaker:xie_wuchen]]“You were misinformed, not evil.”
 
-“That is my point.”
+[[speaker:rui]]“That is my point.”
 
-“No, that is my point.”
+[[speaker:xie_wuchen]]“No, that is my point.”
 
 Rui almost smiled.
 
-“Then let me finish it.”
+[[speaker:rui]]“Then let me finish it.”
 
 Xie sat again, irritated.
 
@@ -432,19 +432,19 @@ Rui continued.
 
 Xie looked at Lu.
 
-“This is your fault.”
+[[speaker:xie_wuchen]]“This is your fault.”
 
 Lu said, “Probably.”
 
 “You brought us ledgers.” Rui continued. “Stopped extortion. Identified routes. Went where officials could not move without announcing themselves.”
 
-“I was nearby.”
+[[speaker:xie_wuchen]]“I was nearby.”
 
-“Repeatedly.”
+[[speaker:rui]]“Repeatedly.”
 
-“Unfortunate geography.”
+[[speaker:xie_wuchen]]“Unfortunate geography.”
 
-“You help people and then leave before anyone can depend on you.”
+[[speaker:rui]]“You help people and then leave before anyone can depend on you.”
 
 Xie’s eyes moved to Sera.
 
@@ -476,11 +476,11 @@ And a persistent inability to walk past the wrong thing without interfering.
 
 Xie looked at him.
 
-“No.”
+[[speaker:xie_wuchen]]“No.”
 
 “No Dominion.”
 
-“No.”
+[[speaker:xie_wuchen]]“No.”
 
 The commander nodded.
 
@@ -492,15 +492,15 @@ Rui said, “The seat does not require us to lie about what he is.”
 
 Sera agreed.
 
-“Newly Sovereign. No Dominion. No fantasy added because the number sounds grand.”
+[[speaker:sera]]“Newly Sovereign. No Dominion. No fantasy added because the number sounds grand.”
 
 Xie looked between them.
 
-“You are both making a poor recruitment pitch.”
+[[speaker:xie_wuchen]]“You are both making a poor recruitment pitch.”
 
 “We are describing the job.”
 
-“That is worse.”
+[[speaker:xie_wuchen]]“That is worse.”
 
 Jin finally spoke.
 
@@ -514,7 +514,7 @@ Jin continued.
 
 The room became quiet.
 
-“Her number now sits inside communication structures we built before she left. We can redesign them. Or someone can carry the operational burden immediately.”
+[[speaker:jin]]“Her number now sits inside communication structures we built before she left. We can redesign them. Or someone can carry the operational burden immediately.”
 
 Xie looked down at his hands.
 
@@ -522,9 +522,9 @@ Sera said, “Nobody can replace Yun.”
 
 He looked up.
 
-“Then why use her number?”
+[[speaker:xie_wuchen]]“Then why use her number?”
 
-“Because she died warning us the people on the other side are coming.”
+[[speaker:sera]]“Because she died warning us the people on the other side are coming.”
 
 Sera’s voice stayed level.
 
@@ -536,21 +536,21 @@ Rui said, “Take the empty seat.”
 
 Xie stared at him.
 
-“Not her place.”
+[[speaker:xie_wuchen]]“Not her place.”
 
-“No.”
+[[speaker:rui]]“No.”
 
-“Not her title.”
+[[speaker:xie_wuchen]]“Not her title.”
 
-“No.”
+[[speaker:rui]]“No.”
 
-“Not her legacy.”
+[[speaker:xie_wuchen]]“Not her legacy.”
 
-“No.”
+[[speaker:rui]]“No.”
 
 Rui leaned forward.
 
-“The work.”
+[[speaker:rui]]“The work.”
 
 That one reached him.
 
@@ -572,25 +572,25 @@ Xie finally said, “Publicly?”
 
 Sera nodded.
 
-“Yes.”
+[[speaker:sera]]“Yes.”
 
 He grimaced.
 
-“That is cruel.”
+[[speaker:xie_wuchen]]“That is cruel.”
 
-“Probably.”
+[[speaker:sera]]“Probably.”
 
-“I hate ceremonies.”
+[[speaker:xie_wuchen]]“I hate ceremonies.”
 
-“So do I.”
+[[speaker:sera]]“So do I.”
 
-“You own a tea house with a thousand armed employees.”
+[[speaker:xie_wuchen]]“You own a tea house with a thousand armed employees.”
 
-“That is not a ceremony.”
+[[speaker:sera]]“That is not a ceremony.”
 
-“It is barely a tea house.”
+[[speaker:xie_wuchen]]“It is barely a tea house.”
 
-“Do you want the seat or not?”
+[[speaker:sera]]“Do you want the seat or not?”
 
 Xie stared at her.
 
@@ -598,7 +598,7 @@ Then at Rui.
 
 Then at the empty No.10 line on the command sheet.
 
-“Give me an hour.”
+[[speaker:xie_wuchen]]“Give me an hour.”
 
 Sera nodded.
 
@@ -614,15 +614,15 @@ Rui answered, “Yes.”
 
 Huo looked at him.
 
-“You sound certain.”
+[[speaker:huo]]“You sound certain.”
 
 Rui’s eyes stayed on the door.
 
-“I have made the mistake of misjudging that man once.”
+[[speaker:rui]]“I have made the mistake of misjudging that man once.”
 
 He leaned back.
 
-“I do not plan to do it twice.”
+[[speaker:rui]]“I do not plan to do it twice.”
 
 ---
 
@@ -638,7 +638,7 @@ Of course Lu noticed.
 
 Xie looked offended.
 
-“I changed my mind efficiently.”
+[[speaker:xie_wuchen]]“I changed my mind efficiently.”
 
 The public confirmation was held in the command courtyard because there was no time to build anything more ceremonial.
 
@@ -678,7 +678,7 @@ Tae whispered, “Dramatic.”
 
 Huo said, “Weather.”
 
-“Dramatic weather.”
+[[speaker:tae]]“Dramatic weather.”
 
 Qin ignored both.
 
@@ -702,11 +702,11 @@ The clerk stopped.
 
 Xie looked at Sera.
 
-“I need this said correctly.”
+[[speaker:xie_wuchen]]“I need this said correctly.”
 
 Sera nodded.
 
-“Then say it.”
+[[speaker:sera]]“Then say it.”
 
 He looked around the courtyard.
 
@@ -718,11 +718,11 @@ At the people preparing to send orders into a war Yun had discovered before any 
 
 Then he looked at the No.10 marker.
 
-“I'm not replacing her.”
+[[speaker:xie_wuchen]]“I'm not replacing her.”
 
 His voice carried without effort.
 
-“I’m taking the empty number.”
+[[speaker:xie_wuchen]]“I’m taking the empty number.”
 
 Nobody applauded.
 
@@ -730,7 +730,7 @@ That would have been wrong.
 
 Sera picked up the marker and handed it to him.
 
-“Then carry the number.”
+[[speaker:sera]]“Then carry the number.”
 
 Xie took it.
 
@@ -760,17 +760,17 @@ A messenger immediately stepped forward with the first command relay.
 
 Xie stared at it.
 
-“That fast?”
+[[speaker:xie_wuchen]]“That fast?”
 
 Jin said, “You wanted the work.”
 
-“I did not say wanted.”
+[[speaker:xie_wuchen]]“I did not say wanted.”
 
-“Accepted.”
+[[speaker:jin]]“Accepted.”
 
-“Different word.”
+[[speaker:xie_wuchen]]“Different word.”
 
-“Same paperwork.”
+[[speaker:jin]]“Same paperwork.”
 
 Xie took the relay.
 
@@ -796,33 +796,33 @@ The distinction echoed Luo’s medicine more than anyone noticed.
 
 Sera turned toward Jin.
 
-“Status.”
+[[speaker:sera]]“Status.”
 
 He had already moved on.
 
-“First pact columns are assembling. Isgard has begun coastal warning and medical reserve movement. We need verified transport counts before committing the heaviest formations.”
+[[speaker:jin]]“First pact columns are assembling. Isgard has begun coastal warning and medical reserve movement. We need verified transport counts before committing the heaviest formations.”
 
-“Shinsei?”
+[[speaker:sera]]“Shinsei?”
 
-“No confirmed launch yet.”
+[[speaker:jin]]“No confirmed launch yet.”
 
-“Good.”
+[[speaker:sera]]“Good.”
 
 Tae frowned.
 
-“Good?”
+[[speaker:tae]]“Good?”
 
-“Every hour before launch is one Yun bought us.”
+[[speaker:sera]]“Every hour before launch is one Yun bought us.”
 
 That silenced him.
 
 Jin looked toward the north road.
 
-“Phase one mobilization begins now.”
+[[speaker:jin]]“Phase one mobilization begins now.”
 
 Sera nodded.
 
-“Do it.”
+[[speaker:sera]]“Do it.”
 
 Across Wuyue, relay stations changed flags.
 
@@ -872,7 +872,7 @@ One dead woman whose warning had moved all of them.
 
 Sera unfolded the Isgard map.
 
-“Show me the northern roads.”
+[[speaker:sera]]“Show me the northern roads.”
 
 Lu did.
 

@@ -140,7 +140,7 @@ A guard entered.
 
 Shunto smiled faintly.
 
-“Send her in.”
+[[speaker:shunto]]“Send her in.”
 
 Hana entered wearing a plain field coat, twin short swords at her waist.
 
@@ -148,11 +148,11 @@ She looked at the reports.
 
 Then at him.
 
-“You asked for me.”
+[[speaker:hana]]“You asked for me.”
 
-“Yes.”
+[[speaker:shunto]]“Yes.”
 
-“Why?”
+[[speaker:hana]]“Why?”
 
 Shunto pushed the deployment note across the table.
 
@@ -160,49 +160,49 @@ Hana read it.
 
 Her expression did not change.
 
-“Mine.”
+[[speaker:hana]]“Mine.”
 
-“Yes.”
+[[speaker:shunto]]“Yes.”
 
-“What about it?”
+[[speaker:hana]]“What about it?”
 
-“Checkpoint Seven moved because of it.”
+[[speaker:shunto]]“Checkpoint Seven moved because of it.”
 
-“Many checkpoints moved because of it.”
+[[speaker:hana]]“Many checkpoints moved because of it.”
 
-“That one opened Yurushi's escape corridor.”
+[[speaker:shunto]]“That one opened Yurushi's escape corridor.”
 
 Hana looked at him.
 
-“So?”
+[[speaker:hana]]“So?”
 
 Shunto studied her face.
 
-“You tell me.”
+[[speaker:shunto]]“You tell me.”
 
 Hana put the paper down.
 
-“I issued a broad patrol rebalance after reports of grain-road disruption.”
+[[speaker:hana]]“I issued a broad patrol rebalance after reports of grain-road disruption.”
 
-“The reports were false.”
+[[speaker:shunto]]“The reports were false.”
 
-“I learned that later.”
+[[speaker:hana]]“I learned that later.”
 
-“You didn't verify them.”
+[[speaker:shunto]]“You didn't verify them.”
 
-“It was a field deployment, not a tribunal.”
+[[speaker:hana]]“It was a field deployment, not a tribunal.”
 
-“Convenient.”
+[[speaker:shunto]]“Convenient.”
 
 Hana's eyes cooled.
 
-“Be careful.”
+[[speaker:hana]]“Be careful.”
 
 Shunto almost laughed.
 
-“Of what?”
+[[speaker:shunto]]“Of what?”
 
-“Confusing suspicion with proof.”
+[[speaker:hana]]“Confusing suspicion with proof.”
 
 The words landed harder than they should have.
 
@@ -210,21 +210,21 @@ Shunto stood.
 
 Hana did not move.
 
-“You were with Yurushi for four years.”
+[[speaker:shunto]]“You were with Yurushi for four years.”
 
-“Yes.”
+[[speaker:hana]]“Yes.”
 
-“You knew his civilian routes.”
+[[speaker:shunto]]“You knew his civilian routes.”
 
-“Some.”
+[[speaker:hana]]“Some.”
 
-“You knew how he thought.”
+[[speaker:shunto]]“You knew how he thought.”
 
-“Yes.”
+[[speaker:hana]]“Yes.”
 
-“You knew he would help Yun.”
+[[speaker:shunto]]“You knew he would help Yun.”
 
-“No.”
+[[speaker:hana]]“No.”
 
 A pause.
 
@@ -242,13 +242,13 @@ Not innocence either.
 
 Shunto stepped closer.
 
-“How much did you know?”
+[[speaker:shunto]]“How much did you know?”
 
-“Enough to know your lockdown was hurting civilians who had nothing to do with Yun.”
+[[speaker:hana]]“Enough to know your lockdown was hurting civilians who had nothing to do with Yun.”
 
-“That is not what I asked.”
+[[speaker:shunto]]“That is not what I asked.”
 
-“It is what I am answering.”
+[[speaker:hana]]“It is what I am answering.”
 
 His qi shifted.
 
@@ -262,15 +262,15 @@ Wind Qi stirred lightly around her sleeves.
 
 Shunto noticed.
 
-“So defensive.”
+[[speaker:shunto]]“So defensive.”
 
-“So predictable.”
+[[speaker:hana]]“So predictable.”
 
 For one breath they stood close enough that either could start something neither could later call misunderstanding.
 
 Then a voice came from the entrance.
 
-“Enough.”
+[[speaker:nao]]“Enough.”
 
 Nao Shibasaki stood in the doorway.
 
@@ -282,17 +282,17 @@ Nao entered.
 
 Her hand rested nowhere near her jian.
 
-“Lady Arakawa is due in the eastern civilian sector.”
+[[speaker:nao]]“Lady Arakawa is due in the eastern civilian sector.”
 
 Shunto looked at her.
 
-“I did not dismiss her.”
+[[speaker:shunto]]“I did not dismiss her.”
 
 Nao's expression remained mild.
 
-“You also did not arrest her.”
+[[speaker:nao]]“You also did not arrest her.”
 
-“Should I?”
+[[speaker:shunto]]“Should I?”
 
 Hana looked at Nao.
 
@@ -310,11 +310,11 @@ Water-Qi control units that happened to place themselves between angry officers 
 
 Shunto gathered the reports.
 
-“No,” he said. “Not yet.”
+[[speaker:shunto]]“No,” he said. “Not yet.”
 
 Hana's gaze hardened.
 
-“Then we're done.”
+[[speaker:hana]]“Then we're done.”
 
 She turned.
 
@@ -324,7 +324,7 @@ Shunto spoke before she reached the flap.
 
 She stopped.
 
-“Did you know what Yurushi found in the detention site?”
+[[speaker:shunto]]“Did you know what Yurushi found in the detention site?”
 
 Her back remained toward him.
 
@@ -344,37 +344,37 @@ Nao finally said, “That was stupid.”
 
 Hana looked at her.
 
-“Which part?”
+[[speaker:hana]]“Which part?”
 
-“Going alone.”
+[[speaker:nao]]“Going alone.”
 
-“He summoned me.”
+[[speaker:hana]]“He summoned me.”
 
-“That does not make going alone less stupid.”
+[[speaker:nao]]“That does not make going alone less stupid.”
 
 Hana almost smiled.
 
-“You sound like Aya.”
+[[speaker:hana]]“You sound like Aya.”
 
-“I have been spending too much time with physicians.”
+[[speaker:nao]]“I have been spending too much time with physicians.”
 
 They reached the civilian road.
 
 Hana's humor vanished.
 
-“Did Aya tell you?”
+[[speaker:hana]]“Did Aya tell you?”
 
-“About the amended Redline records?”
+[[speaker:nao]]“About the amended Redline records?”
 
-“Yes.”
+[[speaker:hana]]“Yes.”
 
-“She did.”
+[[speaker:nao]]“She did.”
 
-“And?”
+[[speaker:hana]]“And?”
 
 Nao looked at the distant campfires.
 
-“I think we have spent too long calling things accidents because admitting they are choices would require us to choose differently.”
+[[speaker:nao]]“I think we have spent too long calling things accidents because admitting they are choices would require us to choose differently.”
 
 Hana stopped walking.
 
@@ -382,11 +382,11 @@ Nao continued a few steps before noticing.
 
 Hana stared at her.
 
-“That was almost radical.”
+[[speaker:hana]]“That was almost radical.”
 
 Nao sighed.
 
-“Do not make me regret saying it.”
+[[speaker:nao]]“Do not make me regret saying it.”
 
 Hana followed.
 
@@ -426,9 +426,9 @@ Just Tsubasa entering the internal-security tent shortly after dawn while Shunto
 
 Shunto looked up.
 
-“Tsubasa.”
+[[speaker:shunto]]“Tsubasa.”
 
-“Shunto.”
+[[speaker:tsubasa]]“Shunto.”
 
 The use of names instead of titles removed the last excuse to treat this as procedure.
 
@@ -454,27 +454,27 @@ His expression did not change.
 
 Tsubasa watched him anyway.
 
-“Yun Shizhen.”
+[[speaker:tsubasa]]“Yun Shizhen.”
 
-“Yes.”
+[[speaker:shunto]]“Yes.”
 
-“Her final detention site.”
+[[speaker:tsubasa]]“Her final detention site.”
 
-“Yes.”
+[[speaker:shunto]]“Yes.”
 
-“Your custody.”
+[[speaker:tsubasa]]“Your custody.”
 
-“Yes.”
+[[speaker:shunto]]“Yes.”
 
 Tsubasa folded his hands.
 
-“I am going to ask once.”
+[[speaker:tsubasa]]“I am going to ask once.”
 
 Shunto leaned back.
 
-“Dramatic.”
+[[speaker:shunto]]“Dramatic.”
 
-“No.”
+[[speaker:tsubasa]]“No.”
 
 Tsubasa's voice remained even.
 
@@ -526,23 +526,23 @@ That was almost insulting.
 
 “No follow-up?” Shunto said.
 
-“I said once.”
+[[speaker:tsubasa]]“I said once.”
 
-“You came here for one question.”
+[[speaker:shunto]]“You came here for one question.”
 
-“Yes.”
+[[speaker:tsubasa]]“Yes.”
 
-“And you believe me?”
+[[speaker:shunto]]“And you believe me?”
 
 Tsubasa stood.
 
-“I did not say that.”
+[[speaker:tsubasa]]“I did not say that.”
 
 Shunto's eyes narrowed.
 
 Tsubasa turned toward the exit.
 
-“Then why ask?”
+[[speaker:shunto]]“Then why ask?”
 
 Tsubasa stopped.
 
@@ -586,17 +586,17 @@ Tsubasa reached Aya's hospital tent.
 
 She was washing blood from her hands.
 
-“Tsubasa.”
+[[speaker:aya]]“Tsubasa.”
 
-“I need your opinion.”
+[[speaker:tsubasa]]“I need your opinion.”
 
 Aya looked suspicious immediately.
 
-“Medical?”
+[[speaker:aya]]“Medical?”
 
-“Yes.”
+[[speaker:tsubasa]]“Yes.”
 
-“Good.”
+[[speaker:aya]]“Good.”
 
 He handed her the reconstructed injury sheet.
 
@@ -604,13 +604,13 @@ She read.
 
 Her expression changed.
 
-“This is Yun.”
+[[speaker:aya]]“This is Yun.”
 
-“Yes.”
+[[speaker:tsubasa]]“Yes.”
 
-“Where did you get it?”
+[[speaker:aya]]“Where did you get it?”
 
-“Isgard prisoner-exchange archive. Their physicians documented her condition on arrival.”
+[[speaker:tsubasa]]“Isgard prisoner-exchange archive. Their physicians documented her condition on arrival.”
 
 Aya read more slowly.
 
@@ -626,67 +626,67 @@ Then injuries that did not align cleanly with ordinary interrogation restraint.
 
 Aya's face hardened.
 
-“Tsubasa.”
+[[speaker:aya]]“Tsubasa.”
 
-“Say it.”
+[[speaker:tsubasa]]“Say it.”
 
 She looked at him.
 
-“These injuries are consistent with sexual assault.”
+[[speaker:aya]]“These injuries are consistent with sexual assault.”
 
 Silence.
 
 “Consistent,” Tsubasa repeated.
 
-“Yes. Not proof by themselves.”
+[[speaker:aya]]“Yes. Not proof by themselves.”
 
-“Could lawful interrogation create the same pattern?”
+[[speaker:tsubasa]]“Could lawful interrogation create the same pattern?”
 
 Aya's mouth tightened.
 
-“Not the way this is distributed.”
+[[speaker:aya]]“Not the way this is distributed.”
 
-“Could escape?”
+[[speaker:tsubasa]]“Could escape?”
 
-“Some. Not all.”
+[[speaker:aya]]“Some. Not all.”
 
-“Could guards?”
+[[speaker:tsubasa]]“Could guards?”
 
-“Yes.”
+[[speaker:aya]]“Yes.”
 
-“Could Shunto?”
+[[speaker:tsubasa]]“Could Shunto?”
 
 Aya went very still.
 
 She looked back at the page.
 
-“I cannot identify a perpetrator from injuries.”
+[[speaker:aya]]“I cannot identify a perpetrator from injuries.”
 
-“I know.”
+[[speaker:tsubasa]]“I know.”
 
-“Then why ask his name?”
+[[speaker:aya]]“Then why ask his name?”
 
-“Because he personally controlled the site.”
+[[speaker:tsubasa]]“Because he personally controlled the site.”
 
 Aya stared at him.
 
 Tsubasa's expression did not move.
 
-“I asked whether anything material was omitted.”
+[[speaker:tsubasa]]“I asked whether anything material was omitted.”
 
 Aya understood.
 
-“What did he say?”
+[[speaker:aya]]“What did he say?”
 
-“No.”
+[[speaker:tsubasa]]“No.”
 
 Aya closed her eyes briefly.
 
 When she opened them, anger sat there cleanly.
 
-“Do you believe him?”
+[[speaker:aya]]“Do you believe him?”
 
-“No.”
+[[speaker:tsubasa]]“No.”
 
 Tsubasa took the sheet back.
 
@@ -694,13 +694,13 @@ Aya's voice sharpened.
 
 “What are you going to do?”
 
-“Confirm enough to act.”
+[[speaker:tsubasa]]“Confirm enough to act.”
 
-“You already have enough to remove him from custody authority.”
+[[speaker:aya]]“You already have enough to remove him from custody authority.”
 
-“Yes.”
+[[speaker:tsubasa]]“Yes.”
 
-“Then do it.”
+[[speaker:aya]]“Then do it.”
 
 Tsubasa looked at her.
 
@@ -708,7 +708,7 @@ Aya did not retreat.
 
 He nodded once.
 
-“I will.”
+[[speaker:tsubasa]]“I will.”
 
 She exhaled.
 
@@ -716,19 +716,19 @@ Then added, “And if you discover what I think you will discover, do not bury i
 
 Tsubasa's face changed by a fraction.
 
-“Aya.”
+[[speaker:tsubasa]]“Aya.”
 
-“No.”
+[[speaker:aya]]“No.”
 
 She stepped closer.
 
-“You asked for my opinion. Here it is.”
+[[speaker:aya]]“You asked for my opinion. Here it is.”
 
 Tsubasa waited.
 
 Aya pointed toward the Redline notice pinned outside her tent.
 
-“I am done helping this institution survive by making ugly facts easier to swallow.”
+[[speaker:aya]]“I am done helping this institution survive by making ugly facts easier to swallow.”
 
 Tsubasa held her gaze.
 
@@ -736,13 +736,13 @@ Then said, “Good.”
 
 Aya almost laughed from sheer frustration.
 
-“You are impossible.”
+[[speaker:aya]]“You are impossible.”
 
-“No.”
+[[speaker:tsubasa]]“No.”
 
 He looked toward the command camp.
 
-“Just late.”
+[[speaker:tsubasa]]“Just late.”
 
 ---
 
@@ -764,35 +764,35 @@ Aya used two because her feet hurt and she wanted them elevated.
 
 Hana stared at her.
 
-“You are sitting incorrectly.”
+[[speaker:hana]]“You are sitting incorrectly.”
 
-“I am a physician.”
+[[speaker:aya]]“I am a physician.”
 
-“That does not answer anything.”
+[[speaker:hana]]“That does not answer anything.”
 
-“It answers enough.”
+[[speaker:aya]]“It answers enough.”
 
 Nao closed the door.
 
-“Can we please finish before someone notices three members of the official Ten entering an abandoned grain office at midnight?”
+[[speaker:nao]]“Can we please finish before someone notices three members of the official Ten entering an abandoned grain office at midnight?”
 
 Hana looked at her.
 
-“That does sound suspicious when you say it like that.”
+[[speaker:hana]]“That does sound suspicious when you say it like that.”
 
-“It is suspicious.”
+[[speaker:nao]]“It is suspicious.”
 
 Aya rubbed her temple.
 
-“We are not overthrowing Shinsei.”
+[[speaker:aya]]“We are not overthrowing Shinsei.”
 
 “No,” Hana said.
 
-“We are not sabotaging the army.”
+[[speaker:aya]]“We are not sabotaging the army.”
 
-“No.”
+[[speaker:hana]]“No.”
 
-“We are not helping Wuyue win battles.”
+[[speaker:aya]]“We are not helping Wuyue win battles.”
 
 Nao hesitated.
 
@@ -800,13 +800,13 @@ Aya looked at her.
 
 Nao sighed.
 
-“Not intentionally.”
+[[speaker:nao]]“Not intentionally.”
 
 Hana covered a smile.
 
 Aya ignored both of them.
 
-“We are stopping our own people from being destroyed by decisions they are not allowed to understand.”
+[[speaker:aya]]“We are stopping our own people from being destroyed by decisions they are not allowed to understand.”
 
 Hana's humor faded.
 
@@ -814,75 +814,75 @@ Nao nodded.
 
 Aya took out three sheets.
 
-“First. Redline.”
+[[speaker:aya]]“First. Redline.”
 
 She pushed copies across the table.
 
-“Every medical unit under my authority receives exact lifespan estimates. Same-day redosing requires my office or a designated Paragon physician.”
+[[speaker:aya]]“Every medical unit under my authority receives exact lifespan estimates. Same-day redosing requires my office or a designated Paragon physician.”
 
 Hana read.
 
-“Commanders will route around you.”
+[[speaker:hana]]“Commanders will route around you.”
 
-“Yes.”
+[[speaker:aya]]“Yes.”
 
-“Then?”
+[[speaker:hana]]“Then?”
 
-“I mark units medically ineligible when their recent circulation makes redosing likely to cause irreversible collapse.”
+[[speaker:aya]]“I mark units medically ineligible when their recent circulation makes redosing likely to cause irreversible collapse.”
 
 Nao looked up.
 
-“Can they override?”
+[[speaker:nao]]“Can they override?”
 
-“Technically.”
+[[speaker:aya]]“Technically.”
 
-“Practically?”
+[[speaker:nao]]“Practically?”
 
 Aya's eyes hardened.
 
-“They can sign their own names to it.”
+[[speaker:aya]]“They can sign their own names to it.”
 
 Hana smiled faintly.
 
-“There it is.”
+[[speaker:hana]]“There it is.”
 
 “Second,” Aya said. “Civilian medical access.”
 
 Nao leaned forward.
 
-“That one is mine.”
+[[speaker:nao]]“That one is mine.”
 
 She unfolded a route map.
 
-“Current consolidation has moved forty thousand civilians through three road systems built for half that. Command keeps prioritizing military wagons at the choke points.”
+[[speaker:nao]]“Current consolidation has moved forty thousand civilians through three road systems built for half that. Command keeps prioritizing military wagons at the choke points.”
 
 Hana frowned.
 
-“Because the eastern supply corridor is unstable.”
+[[speaker:hana]]“Because the eastern supply corridor is unstable.”
 
-“I know why.”
+[[speaker:nao]]“I know why.”
 
 Nao pointed to two crossings.
 
-“If this continues, people start dying without Shinsei or Wuyue touching them.”
+[[speaker:nao]]“If this continues, people start dying without Shinsei or Wuyue touching them.”
 
-“What do you want?”
+[[speaker:hana]]“What do you want?”
 
-“Protected civilian windows twice daily. No military override except active attack.”
+[[speaker:nao]]“Protected civilian windows twice daily. No military override except active attack.”
 
 Aya nodded immediately.
 
 Hana thought longer.
 
-“Shunto's people will call it predictable vulnerability.”
+[[speaker:hana]]“Shunto's people will call it predictable vulnerability.”
 
-“Then we defend it.”
+[[speaker:nao]]“Then we defend it.”
 
-“With whom?”
+[[speaker:hana]]“With whom?”
 
 Nao looked at her.
 
-“With us if necessary.”
+[[speaker:nao]]“With us if necessary.”
 
 Hana blinked.
 
@@ -890,85 +890,85 @@ Aya smiled despite herself.
 
 Nao frowned.
 
-“What?”
+[[speaker:nao]]“What?”
 
-“Nothing.”
+[[speaker:aya]]“Nothing.”
 
-“You made a face.”
+[[speaker:nao]]“You made a face.”
 
-“Hana has infected me.”
+[[speaker:aya]]“Hana has infected me.”
 
 Hana looked pleased.
 
 Nao ignored them.
 
-“Third?”
+[[speaker:nao]]“Third?”
 
 Hana placed her own sheet down.
 
-“Internal security.”
+[[speaker:hana]]“Internal security.”
 
 Aya's smile disappeared.
 
 Hana looked at both women.
 
-“Shunto is reconstructing Yurushi's routes. He found my old patrol change.”
+[[speaker:hana]]“Shunto is reconstructing Yurushi's routes. He found my old patrol change.”
 
 Nao's eyes narrowed.
 
-“How much?”
+[[speaker:nao]]“How much?”
 
-“Enough to suspect. Not enough to prove I knew Yun would use that road.”
+[[speaker:hana]]“Enough to suspect. Not enough to prove I knew Yun would use that road.”
 
 “Did you?” Aya asked.
 
-“No.”
+[[speaker:hana]]“No.”
 
 Hana's answer came cleanly.
 
-“I knew civilians were being crushed by the lockdown. I knew Yurushi would resist if he believed Shinsei crossed a line. I shifted patrol pressure because the grain road did not need military harassment.”
+[[speaker:hana]]“I knew civilians were being crushed by the lockdown. I knew Yurushi would resist if he believed Shinsei crossed a line. I shifted patrol pressure because the grain road did not need military harassment.”
 
 She looked at the table.
 
-“That happened to help him.”
+[[speaker:hana]]“That happened to help him.”
 
 Nao understood the careful wording.
 
-“So what is your proposal?”
+[[speaker:nao]]“So what is your proposal?”
 
-“Any detention tied to internal-security investigation gets independent medical logging.”
+[[speaker:hana]]“Any detention tied to internal-security investigation gets independent medical logging.”
 
 Aya stared.
 
 Hana met her eyes.
 
-“You wanted a place to put your records.”
+[[speaker:hana]]“You wanted a place to put your records.”
 
-“Yes.”
+[[speaker:aya]]“Yes.”
 
-“Put them where Shunto cannot rewrite them afterward.”
+[[speaker:hana]]“Put them where Shunto cannot rewrite them afterward.”
 
 The room went quiet.
 
 Nao nodded slowly.
 
-“Civilian witness?”
+[[speaker:nao]]“Civilian witness?”
 
-“Where possible.”
+[[speaker:hana]]“Where possible.”
 
-“Officer witness?”
+[[speaker:nao]]“Officer witness?”
 
-“Not from his chain.”
+[[speaker:hana]]“Not from his chain.”
 
 Aya looked at both.
 
-“This is policy.”
+[[speaker:aya]]“This is policy.”
 
 Hana's mouth twisted.
 
 “Yes.”
 
-“We have no authority to rewrite policy.”
+[[speaker:aya]]“We have no authority to rewrite policy.”
 
 Nao said, “We have authority over our own departments.”
 
@@ -976,15 +976,15 @@ Aya looked at her.
 
 Nao's expression remained calm.
 
-“We keep pretending that only Tsubasa makes Shinsei because it lets the rest of us avoid responsibility.”
+[[speaker:nao]]“We keep pretending that only Tsubasa makes Shinsei because it lets the rest of us avoid responsibility.”
 
 Hana leaned back.
 
-“That was more radical than yesterday.”
+[[speaker:hana]]“That was more radical than yesterday.”
 
 Nao closed her eyes.
 
-“I regret coming.”
+[[speaker:nao]]“I regret coming.”
 
 Aya laughed.
 
@@ -994,7 +994,7 @@ Then the sound faded.
 
 Aya looked at the papers.
 
-“Are we betraying him?”
+[[speaker:aya]]“Are we betraying him?”
 
 Neither woman asked who.
 
@@ -1014,21 +1014,21 @@ The name settled heavily.
 
 Aya looked at Hana.
 
-“You still love him.”
+[[speaker:aya]]“You still love him.”
 
 Hana's eyes snapped toward her.
 
 Nao looked suddenly fascinated by the wall.
 
-“That is irrelevant.”
+[[speaker:hana]]“That is irrelevant.”
 
 Aya smiled.
 
-“So yes.”
+[[speaker:aya]]“So yes.”
 
-“Haru has lost thirty-five years and you're doing this?”
+[[speaker:hana]]“Haru has lost thirty-five years and you're doing this?”
 
-“Both things can matter.”
+[[speaker:aya]]“Both things can matter.”
 
 Hana stared at her.
 
@@ -1036,7 +1036,7 @@ Then, unwillingly, laughed.
 
 Nao shook her head.
 
-“Can we finish?”
+[[speaker:nao]]“Can we finish?”
 
 They did.
 
@@ -1142,11 +1142,11 @@ His eyes moved across the room.
 
 He understood instantly.
 
-“What is this?”
+[[speaker:shunto]]“What is this?”
 
 Tsubasa did not invite him to sit.
 
-“Shunto Takamori.”
+[[speaker:tsubasa]]“Shunto Takamori.”
 
 The use of his full name made Haru look down.
 
@@ -1166,19 +1166,19 @@ Tsubasa spoke.
 
 Shunto's face hardened.
 
-“You are accepting enemy reconstruction as fact.”
+[[speaker:shunto]]“You are accepting enemy reconstruction as fact.”
 
-“No.”
+[[speaker:tsubasa]]“No.”
 
-“A frightened guard?”
+[[speaker:shunto]]“A frightened guard?”
 
-“No.”
+[[speaker:tsubasa]]“No.”
 
-“Then what?”
+[[speaker:shunto]]“Then what?”
 
 Tsubasa looked at him.
 
-“Your lie.”
+[[speaker:tsubasa]]“Your lie.”
 
 Silence.
 
@@ -1188,17 +1188,17 @@ Tsubasa continued.
 
 “I asked whether anything material was omitted.”
 
-“You asked a vague question about a chaotic detention.”
+[[speaker:shunto]]“You asked a vague question about a chaotic detention.”
 
-“I asked once so there would be no confusion.”
+[[speaker:tsubasa]]“I asked once so there would be no confusion.”
 
-“You came to me having already decided.”
+[[speaker:shunto]]“You came to me having already decided.”
 
-“No.”
+[[speaker:tsubasa]]“No.”
 
 For the first time, Tsubasa's voice sharpened.
 
-“I came to you hoping the man in the report was not the man sitting in front of me.”
+[[speaker:tsubasa]]“I came to you hoping the man in the report was not the man sitting in front of me.”
 
 The pavilion went still.
 
@@ -1206,25 +1206,25 @@ Shunto laughed once.
 
 Cold.
 
-“You're doing this now.”
+[[speaker:shunto]]“You're doing this now.”
 
-“Yes.”
+[[speaker:tsubasa]]“Yes.”
 
-“During a war.”
+[[speaker:shunto]]“During a war.”
 
-“Yes.”
+[[speaker:tsubasa]]“Yes.”
 
-“With Rhen active.”
+[[speaker:shunto]]“With Rhen active.”
 
-“Yes.”
+[[speaker:tsubasa]]“Yes.”
 
-“With Wuyue at the gate.”
+[[speaker:shunto]]“With Wuyue at the gate.”
 
-“Yes.”
+[[speaker:tsubasa]]“Yes.”
 
 Shunto looked around the room.
 
-“Do any of you understand what happens if No.2 is publicly stripped while the state is fighting for survival?”
+[[speaker:shunto]]“Do any of you understand what happens if No.2 is publicly stripped while the state is fighting for survival?”
 
 Eirik answered before Tsubasa could.
 
@@ -1246,7 +1246,7 @@ Kai watched Tsubasa.
 
 Shunto's mouth tightened.
 
-“This is weakness.”
+[[speaker:shunto]]“This is weakness.”
 
 Tsubasa nodded once.
 
@@ -1254,7 +1254,7 @@ Tsubasa nodded once.
 
 He removed the official No.2 command seal from the table box.
 
-“Effective immediately, you are stripped of command authority, internal-security authority and access to Redline stores, military dispatch, prisoner systems and troop movement.”
+[[speaker:tsubasa]]“Effective immediately, you are stripped of command authority, internal-security authority and access to Redline stores, military dispatch, prisoner systems and troop movement.”
 
 Shunto's qi pressure changed.
 
@@ -1286,17 +1286,17 @@ Shunto's pressure receded.
 
 Barely.
 
-“You would imprison me.”
+[[speaker:shunto]]“You would imprison me.”
 
-“Yes.”
+[[speaker:tsubasa]]“Yes.”
 
-“Pending whose judgment?”
+[[speaker:shunto]]“Pending whose judgment?”
 
-“Shinsei's.”
+[[speaker:tsubasa]]“Shinsei's.”
 
 Shunto almost smiled.
 
-“You are Shinsei.”
+[[speaker:shunto]]“You are Shinsei.”
 
 Tsubasa's face went still.
 
@@ -1318,11 +1318,11 @@ Then his expression changed into something uglier than anger.
 
 Contempt.
 
-“You bring the strongest ten people in the country into one tent and tell me strength is not authority.”
+[[speaker:shunto]]“You bring the strongest ten people in the country into one tent and tell me strength is not authority.”
 
 Tsubasa held his gaze.
 
-“I am telling you that if strength were enough, Rhen would already own all of us.”
+[[speaker:tsubasa]]“I am telling you that if strength were enough, Rhen would already own all of us.”
 
 Nobody spoke.
 
@@ -1340,13 +1340,13 @@ No single department owned the confinement.
 
 Shunto noticed that too.
 
-“You planned this carefully.”
+[[speaker:shunto]]“You planned this carefully.”
 
-“Yes.”
+[[speaker:tsubasa]]“Yes.”
 
-“Afraid of me?”
+[[speaker:shunto]]“Afraid of me?”
 
-“Responsible for you.”
+[[speaker:tsubasa]]“Responsible for you.”
 
 Shunto's eyes flashed.
 
@@ -1358,17 +1358,17 @@ Then Nao.
 
 Something clicked behind his expression.
 
-“You three.”
+[[speaker:shunto]]“You three.”
 
 Aya folded her arms.
 
-“This is about Yun.”
+[[speaker:aya]]“This is about Yun.”
 
-“No.”
+[[speaker:shunto]]“No.”
 
 His gaze sharpened.
 
-“This is about rot.”
+[[speaker:shunto]]“This is about rot.”
 
 Hana's voice went cold.
 
@@ -1378,21 +1378,21 @@ The answer surprised him.
 
 She continued.
 
-“That is exactly what it is about.”
+[[speaker:hana]]“That is exactly what it is about.”
 
 Shunto stared at her.
 
 Tsubasa stepped between the exchange before it became another confrontation.
 
-“Enough.”
+[[speaker:tsubasa]]“Enough.”
 
 He looked at Shunto.
 
-“You will be confined inside the northern military camp until formal judgment can be arranged.”
+[[speaker:tsubasa]]“You will be confined inside the northern military camp until formal judgment can be arranged.”
 
 Shunto did not move.
 
-“Your old clearances are being revoked now.”
+[[speaker:tsubasa]]“Your old clearances are being revoked now.”
 
 That finally got his attention.
 
@@ -1400,9 +1400,9 @@ A tiny one.
 
 But Tsubasa saw it.
 
-“Now?”
+[[speaker:shunto]]“Now?”
 
-“Yes.”
+[[speaker:tsubasa]]“Yes.”
 
 Shunto looked toward the command tables.
 
@@ -1442,13 +1442,13 @@ Tsubasa said, “Double the guard.”
 
 Kai looked toward him.
 
-“Because he may resist?”
+[[speaker:kai]]“Because he may resist?”
 
-“No.”
+[[speaker:tsubasa]]“No.”
 
 Tsubasa watched Shunto disappear beyond the tent flap.
 
-“Because he stopped resisting too quickly.”
+[[speaker:tsubasa]]“Because he stopped resisting too quickly.”
 
 The guards escorted the former No.2 through the camp.
 

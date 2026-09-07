@@ -27,17 +27,17 @@ Solveig listened to all of them.
 
 Then looked at Jin.
 
-“What do you want?”
+[[speaker:solveig]]“What do you want?”
 
 Jin stood over the map.
 
-“One beachhead.”
+[[speaker:jin]]“One beachhead.”
 
 Kael frowned.
 
-“That is not an answer.”
+[[speaker:kael]]“That is not an answer.”
 
-“It is the answer.”
+[[speaker:jin]]“It is the answer.”
 
 Jin placed one black marker beside the western coastal supply corridor.
 
@@ -49,25 +49,25 @@ Not the deepest penetration.
 
 Not the place poets would choose.
 
-“This.”
+[[speaker:jin]]“This.”
 
 Lei looked at it.
 
-“Why?”
+[[speaker:lei]]“Why?”
 
-“Because Shinsei can lose the east road and reroute.”
+[[speaker:jin]]“Because Shinsei can lose the east road and reroute.”
 
 He moved two red lines.
 
-“Lose the north ridge and they move artillery.”
+[[speaker:jin]]“Lose the north ridge and they move artillery.”
 
 Another.
 
-“Lose one coastal fort and they still have three.”
+[[speaker:jin]]“Lose one coastal fort and they still have three.”
 
 Then he tapped the western corridor.
 
-“But this position feeds Jun’s current formation, two inland medical routes and the reinforcement road connecting the southern landing to Eirik’s center.”
+[[speaker:jin]]“But this position feeds Jun’s current formation, two inland medical routes and the reinforcement road connecting the southern landing to Eirik’s center.”
 
 Solveig leaned closer.
 
@@ -77,25 +77,25 @@ Jin continued.
 
 Kael looked at him.
 
-“That sounds less impressive.”
+[[speaker:kael]]“That sounds less impressive.”
 
-“Good. Impressive plans usually have hidden costs.”
+[[speaker:jin]]“Good. Impressive plans usually have hidden costs.”
 
 Arin’s mouth twitched.
 
 Jin drew three arrows.
 
-“They can retake it. But to do so they must move troops from somewhere else. That movement is the point.”
+[[speaker:jin]]“They can retake it. But to do so they must move troops from somewhere else. That movement is the point.”
 
 Solveig saw it first.
 
-“You’re not choosing the place we want to own.”
+[[speaker:solveig]]“You’re not choosing the place we want to own.”
 
-“No.”
+[[speaker:jin]]“No.”
 
-“You’re choosing the place they cannot ignore.”
+[[speaker:solveig]]“You’re choosing the place they cannot ignore.”
 
-“Yes.”
+[[speaker:jin]]“Yes.”
 
 There.
 
@@ -113,11 +113,11 @@ That bothered one Isgard colonel enough to finally ask.
 
 Sera looked at him.
 
-“Yes.”
+[[speaker:sera]]“Yes.”
 
 “That’s all?”
 
-“What else do you need?”
+[[speaker:sera]]“What else do you need?”
 
 The man hesitated.
 
@@ -129,15 +129,15 @@ The colonel realized what he had said and became very interested in the table.
 
 Sera ignored it.
 
-“Strength does not improve a supply map.”
+[[speaker:sera]]“Strength does not improve a supply map.”
 
 Jin nodded solemnly.
 
-“Finally, recognition.”
+[[speaker:jin]]“Finally, recognition.”
 
 Sera looked at him.
 
-“Do not make me regret it.”
+[[speaker:sera]]“Do not make me regret it.”
 
 The room relaxed by one degree.
 
@@ -151,27 +151,27 @@ The colonel looked surprised again.
 
 Sera noticed.
 
-“Jun is Stable Paragon.”
+[[speaker:sera]]“Jun is Stable Paragon.”
 
 “Yes.”
 
-“Kael is newly Paragon.”
+[[speaker:sera]]“Kael is newly Paragon.”
 
 “Yes.”
 
-“So Kael needs Paragon battlefield experience.”
+[[speaker:sera]]“So Kael needs Paragon battlefield experience.”
 
 Kael looked at her.
 
-“You are discussing me like medicine.”
+[[speaker:kael]]“You are discussing me like medicine.”
 
-“You survived Rhen.”
+[[speaker:sera]]“You survived Rhen.”
 
-“That sentence could mean several things.”
+[[speaker:kael]]“That sentence could mean several things.”
 
 Jin cut in.
 
-“Can we return to the war?”
+[[speaker:jin]]“Can we return to the war?”
 
 Sera nodded.
 
@@ -207,29 +207,29 @@ Useful work.
 
 Xie read his assignment.
 
-“Again with messages.”
+[[speaker:xie_wuchen]]“Again with messages.”
 
 Jin looked up.
 
-“You are extremely fast.”
+[[speaker:jin]]“You are extremely fast.”
 
-“I am also Wuyue No.10.”
+[[speaker:xie_wuchen]]“I am also Wuyue No.10.”
 
-“Yes.”
+[[speaker:jin]]“Yes.”
 
-“Should that not mean something more dignified?”
+[[speaker:xie_wuchen]]“Should that not mean something more dignified?”
 
-“Yun carried information across a continent.”
+[[speaker:jin]]“Yun carried information across a continent.”
 
 Xie stopped.
 
 Jin’s tone had not changed.
 
-“That number has already established its standard.”
+[[speaker:jin]]“That number has already established its standard.”
 
 Xie folded the assignment.
 
-“Fine.”
+[[speaker:xie_wuchen]]“Fine.”
 
 No joke afterward.
 
@@ -239,27 +239,27 @@ Then Solveig said, “When?”
 
 Jin looked at the western corridor.
 
-“Dawn tomorrow.”
+[[speaker:jin]]“Dawn tomorrow.”
 
 Kael rested one hand on the table.
 
-“Jun will be there.”
+[[speaker:kael]]“Jun will be there.”
 
-“Yes.”
+[[speaker:jin]]“Yes.”
 
-“Good.”
+[[speaker:kael]]“Good.”
 
 Sera looked at him.
 
-“Do not say that like you’re happy.”
+[[speaker:sera]]“Do not say that like you’re happy.”
 
-“I am Paragon now.”
+[[speaker:kael]]“I am Paragon now.”
 
-“That did not answer me.”
+[[speaker:sera]]“That did not answer me.”
 
 Kael smiled.
 
-“I want to know what it means.”
+[[speaker:kael]]“I want to know what it means.”
 
 Sera understood.
 
@@ -345,19 +345,19 @@ Precise.
 
 No wasted flourish.
 
-“Kael Veyran.”
+[[speaker:jun]]“Kael Veyran.”
 
-“Jun Kajihara.”
+[[speaker:kael]]“Jun Kajihara.”
 
-“You’ve seen the rule.”
+[[speaker:jun]]“You’ve seen the rule.”
 
-“Yes.”
+[[speaker:kael]]“Yes.”
 
-“Then don’t block me again.”
+[[speaker:jun]]“Then don’t block me again.”
 
 Kael smiled.
 
-“Helpful.”
+[[speaker:kael]]“Helpful.”
 
 Jun attacked.
 
@@ -445,13 +445,13 @@ Not decorative.
 
 Kael laughed.
 
-“You sound disappointed.”
+[[speaker:kael]]“You sound disappointed.”
 
-“I prefer opponents who learn before they die.”
+[[speaker:jun]]“I prefer opponents who learn before they die.”
 
-“That is almost kind.”
+[[speaker:kael]]“That is almost kind.”
 
-“It is practical.”
+[[speaker:jun]]“It is practical.”
 
 There was the man beneath the invasion.
 
@@ -519,21 +519,21 @@ Jun looked at the torn armor near his shoulder.
 
 Then at Kael.
 
-“You’re new.”
+[[speaker:jun]]“You’re new.”
 
-“To Paragon.”
+[[speaker:kael]]“To Paragon.”
 
-“Yes.”
+[[speaker:jun]]“Yes.”
 
-“Was it obvious?”
+[[speaker:kael]]“Was it obvious?”
 
-“You still think Domains are the fight.”
+[[speaker:jun]]“You still think Domains are the fight.”
 
 Kael’s smile faded.
 
 Jun lifted the halberd.
 
-“They’re the rule.”
+[[speaker:jun]]“They’re the rule.”
 
 Then he attacked with no Domain gimmick at all.
 
@@ -575,21 +575,21 @@ Stonecrown soldiers moved again.
 
 He slammed one fist into the earth.
 
-“NO.”
+[[speaker:kael]]“NO.”
 
 They stopped.
 
 Jun approached.
 
-“You have disciplined troops.”
+[[speaker:jun]]“You have disciplined troops.”
 
-“Yes.”
+[[speaker:kael]]“Yes.”
 
-“They’d save you.”
+[[speaker:jun]]“They’d save you.”
 
-“No.”
+[[speaker:kael]]“No.”
 
-“They would try.”
+[[speaker:jun]]“They would try.”
 
 Kael stood.
 
@@ -599,15 +599,15 @@ Worldweight pulsed beneath the road.
 
 He looked at Jun.
 
-“This is my fight.”
+[[speaker:kael]]“This is my fight.”
 
 Jun’s expression did not change.
 
-“That is usually what men say before getting others killed.”
+[[speaker:jun]]“That is usually what men say before getting others killed.”
 
 Kael’s eyes hardened.
 
-“Then watch.”
+[[speaker:kael]]“Then watch.”
 
 He stopped blocking.
 
@@ -655,7 +655,7 @@ Jun saw that understanding arrive.
 
 For the first time, he looked pleased.
 
-“Now you’re Paragon.”
+[[speaker:jun]]“Now you’re Paragon.”
 
 Then **Third Wall Falls** began.
 
@@ -747,13 +747,13 @@ A Stonecrown captain caught him.
 
 Kael glared.
 
-“You were told to stay out.”
+[[speaker:kael]]“You were told to stay out.”
 
 “The fight is over.”
 
 Kael considered that.
 
-“Annoyingly valid.”
+[[speaker:kael]]“Annoyingly valid.”
 
 Behind them, Wuyue banners pushed into the western corridor.
 
@@ -767,11 +767,11 @@ Kael woke up angry because somebody had removed his armor.
 
 Luo Wen looked at him.
 
-“You were bleeding inside it.”
+[[speaker:luo]]“You were bleeding inside it.”
 
-“That is not permission.”
+[[speaker:kael]]“That is not permission.”
 
-“It is exactly permission.”
+[[speaker:luo]]“It is exactly permission.”
 
 Kael tried to sit.
 
@@ -783,15 +783,15 @@ The public Number One stared at him.
 
 Luo stared back.
 
-“You are newly Paragon.”
+[[speaker:luo]]“You are newly Paragon.”
 
-“Yes.”
+[[speaker:kael]]“Yes.”
 
-“You are not newly sensible.”
+[[speaker:luo]]“You are not newly sensible.”
 
-“No.”
+[[speaker:kael]]“No.”
 
-“Good. Diagnostic complete.”
+[[speaker:luo]]“Good. Diagnostic complete.”
 
 Kael closed his eyes.
 
@@ -815,41 +815,41 @@ Jin’s one-beachhead strategy had become a battlefield rather than a theory.
 
 Kael opened his eyes.
 
-“Status.”
+[[speaker:kael]]“Status.”
 
 Luo kept wrapping his shoulder.
 
-“Jun defeated.”
+[[speaker:luo]]“Jun defeated.”
 
-“I remember.”
+[[speaker:kael]]“I remember.”
 
-“Congratulations.”
+[[speaker:luo]]“Congratulations.”
 
-“That sounded insincere.”
+[[speaker:kael]]“That sounded insincere.”
 
-“It was sincere until you tried to stand.”
+[[speaker:luo]]“It was sincere until you tried to stand.”
 
-“Status.”
+[[speaker:kael]]“Status.”
 
 Luo sighed.
 
-“Position mostly ours. Shinsei withdrawing from two secondary depots. We captured prisoners and Axtaya stores. Sera has not fought.”
+[[speaker:luo]]“Position mostly ours. Shinsei withdrawing from two secondary depots. We captured prisoners and Axtaya stores. Sera has not fought.”
 
 Kael looked at him.
 
-“Why did you say that last part?”
+[[speaker:kael]]“Why did you say that last part?”
 
-“Because I know you.”
+[[speaker:luo]]“Because I know you.”
 
 Kael frowned.
 
-“I wasn’t going to ask.”
+[[speaker:kael]]“I wasn’t going to ask.”
 
-“You were going to ask whether she needed to intervene.”
+[[speaker:luo]]“You were going to ask whether she needed to intervene.”
 
-“That is different.”
+[[speaker:kael]]“That is different.”
 
-“No.”
+[[speaker:luo]]“No.”
 
 Kael let his head fall back.
 
@@ -881,15 +881,15 @@ He smiled.
 
 Luo noticed.
 
-“What?”
+[[speaker:luo]]“What?”
 
-“I won.”
+[[speaker:kael]]“I won.”
 
-“Yes.”
+[[speaker:luo]]“Yes.”
 
-“My first Paragon fight.”
+[[speaker:kael]]“My first Paragon fight.”
 
-“Yes.”
+[[speaker:luo]]“Yes.”
 
 “I won.”
 
@@ -897,15 +897,15 @@ Luo tied the bandage harder than necessary.
 
 Kael hissed.
 
-“Arrogance causes swelling.”
+[[speaker:luo]]“Arrogance causes swelling.”
 
-“That is medically false.”
+[[speaker:kael]]“That is medically false.”
 
-“I am the physician.”
+[[speaker:luo]]“I am the physician.”
 
-“You’re abusing authority.”
+[[speaker:kael]]“You’re abusing authority.”
 
-“Correct.”
+[[speaker:luo]]“Correct.”
 
 Outside, soldiers began shouting.
 
@@ -915,7 +915,7 @@ Something else.
 
 Kael turned his head.
 
-“What?”
+[[speaker:kael]]“What?”
 
 Luo listened.
 
@@ -945,115 +945,115 @@ Kael looked at her.
 
 She looked at the bandages.
 
-“You look terrible.”
+[[speaker:sera]]“You look terrible.”
 
-“Victory is ugly.”
+[[speaker:kael]]“Victory is ugly.”
 
-“You lost half your shoulder function.”
+[[speaker:sera]]“You lost half your shoulder function.”
 
-“Temporary.”
+[[speaker:kael]]“Temporary.”
 
 Luo said, “If he behaves.”
 
 Sera nodded.
 
-“So permanent.”
+[[speaker:sera]]“So permanent.”
 
 Kael glared at both.
 
 Then asked, “Beachhead?”
 
-“Ours for now.”
+[[speaker:sera]]“Ours for now.”
 
-“For now.”
+[[speaker:kael]]“For now.”
 
 Sera walked to the small field map.
 
-“Jin was right. Shinsei has started moving reserves toward it.”
+[[speaker:sera]]“Jin was right. Shinsei has started moving reserves toward it.”
 
 Kael smiled.
 
-“So the point wasn’t the point.”
+[[speaker:kael]]“So the point wasn’t the point.”
 
-“Exactly.”
+[[speaker:sera]]“Exactly.”
 
-“What did we capture?”
+[[speaker:kael]]“What did we capture?”
 
-“Axtaya. Supply records. Seventy-three prisoners so far, more surrendering.”
+[[speaker:sera]]“Axtaya. Supply records. Seventy-three prisoners so far, more surrendering.”
 
 Kael’s expression sharpened.
 
-“Treatment?”
+[[speaker:kael]]“Treatment?”
 
-“The same as ours.”
+[[speaker:sera]]“The same as ours.”
 
-“Good.”
+[[speaker:kael]]“Good.”
 
 Sera looked at him.
 
-“Jun?”
+[[speaker:sera]]“Jun?”
 
 “Alive when extracted from the field,” Luo said. “Severe internal trauma. One arm damaged. Multiple meridian disruptions. Shinsei recovery team reached him during their withdrawal.”
 
 Kael frowned.
 
-“They took him.”
+[[speaker:kael]]“They took him.”
 
-“Yes.”
+[[speaker:luo]]“Yes.”
 
-“Good.”
+[[speaker:kael]]“Good.”
 
 Sera raised an eyebrow.
 
 Kael looked at her.
 
-“What?”
+[[speaker:kael]]“What?”
 
-“You wanted him dead?”
+[[speaker:sera]]“You wanted him dead?”
 
-“No.”
+[[speaker:kael]]“No.”
 
-“Then good.”
+[[speaker:sera]]“Then good.”
 
 Kael considered that.
 
-“Annoyingly reasonable.”
+[[speaker:kael]]“Annoyingly reasonable.”
 
 Sera’s gaze stayed on him.
 
-“You learned something?”
+[[speaker:sera]]“You learned something?”
 
 Kael looked at his useless shoulder.
 
-“Several things.”
+[[speaker:kael]]“Several things.”
 
-“About Breach?”
+[[speaker:sera]]“About Breach?”
 
-“About Paragon.”
+[[speaker:kael]]“About Paragon.”
 
 That answer satisfied her more.
 
 He continued.
 
-“Jun said Domains are the rule, not the fight.”
+[[speaker:kael]]“Jun said Domains are the rule, not the fight.”
 
 Sera nodded.
 
-“He’s right.”
+[[speaker:sera]]“He’s right.”
 
 Kael looked at her.
 
-“You already knew.”
+[[speaker:kael]]“You already knew.”
 
-“Yes.”
+[[speaker:sera]]“Yes.”
 
-“You could have told me.”
+[[speaker:kael]]“You could have told me.”
 
-“I did.”
+[[speaker:sera]]“I did.”
 
-“When?”
+[[speaker:kael]]“When?”
 
-“Repeatedly.”
+[[speaker:sera]]“Repeatedly.”
 
 Kael searched memory.
 
@@ -1067,23 +1067,23 @@ Then the tent flap opened.
 
 Jin entered carrying three captured ledgers.
 
-“Enjoying yourself?”
+[[speaker:jin]]“Enjoying yourself?”
 
-“No.”
+[[speaker:kael]]“No.”
 
-“You look happy.”
+[[speaker:jin]]“You look happy.”
 
-“I am injured.”
+[[speaker:kael]]“I am injured.”
 
-“Those can coexist.”
+[[speaker:jin]]“Those can coexist.”
 
 Kael pointed at the ledgers.
 
-“What?”
+[[speaker:kael]]“What?”
 
 Jin’s expression changed.
 
-“Redline distribution records.”
+[[speaker:jin]]“Redline distribution records.”
 
 Luo stood immediately.
 
@@ -1091,7 +1091,7 @@ The humor disappeared.
 
 Jin placed the first book on the table.
 
-“We knew Axtaya was military.”
+[[speaker:jin]]“We knew Axtaya was military.”
 
 He opened it.
 
@@ -1109,7 +1109,7 @@ Not rare emergency stocks.
 
 System.
 
-“We did not know how normal they intend to make it.”
+[[speaker:jin]]“We did not know how normal they intend to make it.”
 
 Luo reached for the ledger.
 

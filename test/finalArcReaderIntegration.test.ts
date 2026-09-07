@@ -7,6 +7,8 @@ import season114 from '../src/generated/season-114.json';
 import searchIndex from '../src/generated/search-index.json';
 import { TOTAL_CHAPTERS, TOTAL_SEASONS } from '../src/episodeMeta';
 
+const stripLeadingSpeakerHint = (text: string) => text.trim().replace(/^\[\[speaker:[^\]]+\]\]/, '');
+
 describe('final arc reader integration', () => {
   it('extends the archive through Season 114 while preserving total archive counting', () => {
     expect(TOTAL_SEASONS).toBe(114);
@@ -32,7 +34,7 @@ describe('final arc reader integration', () => {
     expect(season108[9].ep).toBe('Chapter 440');
     expect(season108[9].text.trim().endsWith('“How long?”')).toBe(true);
     expect(season109[0].ep).toBe('Chapter 441');
-    expect(season109[0].text.trim().startsWith('“Six months.”')).toBe(true);
+    expect(stripLeadingSpeakerHint(season109[0].text).startsWith('“Six months.”')).toBe(true);
   });
 
   it('does not leak source headings or writer handoff notes into reader prose', () => {

@@ -27,15 +27,15 @@ Legends were dangerous when officers started planning as though dead people stil
 
 Jin found Arin at the evacuation corridor before dawn.
 
-“You cannot hold both approaches.”
+[[speaker:jin]]“You cannot hold both approaches.”
 
-“I know.”
+[[speaker:arin]]“I know.”
 
-“You are planning both.”
+[[speaker:jin]]“You are planning both.”
 
-“I know.”
+[[speaker:arin]]“I know.”
 
-“You do not have three thousand anymore.”
+[[speaker:jin]]“You do not have three thousand anymore.”
 
 Arin turned slowly.
 
@@ -45,29 +45,29 @@ Good.
 
 She looked at the formation board.
 
-“Field-ready when this war began: two thousand one hundred.”
+[[speaker:arin]]“Field-ready when this war began: two thousand one hundred.”
+
+[[speaker:jin]]“Yes.”
+
+[[speaker:arin]]“Sent north: eighteen hundred.”
 
 “Yes.”
 
-“Sent north: eighteen hundred.”
-
-“Yes.”
-
-“Current available after dead, hospitalized and rotation: one thousand six hundred seventy-two.”
+[[speaker:arin]]“Current available after dead, hospitalized and rotation: one thousand six hundred seventy-two.”
 
 Jin paused.
 
 Arin tapped the board.
 
-“I know the number better than you do.”
+[[speaker:arin]]“I know the number better than you do.”
 
-“That is why I said it.”
+[[speaker:jin]]“That is why I said it.”
 
 She looked at him.
 
 Jin continued.
 
-“I need you to plan like you believe it.”
+[[speaker:jin]]“I need you to plan like you believe it.”
 
 That hurt more.
 
@@ -83,17 +83,17 @@ Arin closed her eyes.
 
 Then erased one route.
 
-“We abandon east approach.”
+[[speaker:arin]]“We abandon east approach.”
 
 Jin nodded.
 
-“Evacuation?”
+[[speaker:jin]]“Evacuation?”
 
-“Shift through north corridor.”
+[[speaker:arin]]“Shift through north corridor.”
 
-“That adds distance.”
+[[speaker:jin]]“That adds distance.”
 
-“Better than adding funerals.”
+[[speaker:arin]]“Better than adding funerals.”
 
 Good.
 
@@ -121,13 +121,13 @@ Arin looked at the hundreds of civilians and wounded passing behind her.
 
 Then back at him.
 
-“Yes.”
+[[speaker:arin]]“Yes.”
 
 The officer blinked.
 
 Arin smiled.
 
-“With everyone.”
+[[speaker:arin]]“With everyone.”
 
 Then Silver Horizon withdrew in order.
 
@@ -169,7 +169,7 @@ His officers looked at the Redline wave.
 
 “Lord Lei—”
 
-“Hold.”
+[[speaker:lei]]“Hold.”
 
 They held.
 
@@ -205,29 +205,29 @@ Not as regent on paper.
 
 As commander.
 
-“Second Imperial line left!”
+[[speaker:mo]]“Second Imperial line left!”
 
 Officers obeyed.
 
-“Bridge company under the shields!”
+[[speaker:mo]]“Bridge company under the shields!”
 
 Engineers moved while arrows fell.
 
-“Do not reinforce Lei yet.”
+[[speaker:mo]]“Do not reinforce Lei yet.”
 
 One captain stared.
 
 “He’s collapsing.”
 
-“I know.”
+[[speaker:mo]]“I know.”
 
 “Then—”
 
-“If we feed people into that wave before the road opens, we lose both.”
+[[speaker:mo]]“If we feed people into that wave before the road opens, we lose both.”
 
 Mo’s voice stayed level.
 
-“Trust him for ninety seconds.”
+[[speaker:mo]]“Trust him for ninety seconds.”
 
 Lei heard none of that.
 
@@ -271,21 +271,21 @@ Mo reached him personally.
 
 Lei opened one eye.
 
-“Late.”
+[[speaker:lei]]“Late.”
 
 Mo laughed once.
 
-“Ninety-two seconds.”
+[[speaker:mo]]“Ninety-two seconds.”
 
-“Late.”
+[[speaker:lei]]“Late.”
 
-“Ungrateful.”
+[[speaker:mo]]“Ungrateful.”
 
 Lei’s mouth moved.
 
-“Line?”
+[[speaker:lei]]“Line?”
 
-“Holding.”
+[[speaker:mo]]“Holding.”
 
 Only then did he let the medics take him.
 
@@ -445,7 +445,7 @@ Crownless remained.
 
 Kai laughed.
 
-“Busy?”
+[[speaker:kai]]“Busy?”
 
 Sera looked at him.
 
@@ -529,7 +529,7 @@ Something cracked.
 
 Kai grinned through pain.
 
-“Very good.”
+[[speaker:kai]]“Very good.”
 
 Sera’s breathing had become too shallow.
 
@@ -601,17 +601,17 @@ Supply teams kept crossing.
 
 Kai understood.
 
-“You’re not fighting us anymore.”
+[[speaker:kai]]“You’re not fighting us anymore.”
 
 Sera looked at him.
 
-“I am.”
+[[speaker:sera]]“I am.”
 
-“No.”
+[[speaker:kai]]“No.”
 
 He smiled.
 
-“You’re fighting the map.”
+[[speaker:kai]]“You’re fighting the map.”
 
 Sera said nothing.
 
@@ -703,13 +703,13 @@ One Quaint medic appeared instantly.
 
 “Leader.”
 
-“I’m fine.”
+[[speaker:sera]]“I’m fine.”
 
 The medic stared.
 
 Sera sighed.
 
-“Bad habit.”
+[[speaker:sera]]“Bad habit.”
 
 “Yes.”
 
@@ -721,7 +721,7 @@ Sera sighed.
 
 “Yes.”
 
-“You’ve been spending time with Luo.”
+[[speaker:sera]]“You’ve been spending time with Luo.”
 
 “Yes.”
 
@@ -747,7 +747,7 @@ The medic misunderstood.
 
 Sera closed her eyes.
 
-“Nothing.”
+[[speaker:sera]]“Nothing.”
 
 There would be a next time because Aya existed.
 
@@ -773,19 +773,19 @@ Luo read it standing beside Sera’s treatment cot. She was awake, although the 
 
 Sera opened one eye.
 
-“Yes.”
+[[speaker:sera]]“Yes.”
 
-“They’re back.”
+[[speaker:jin]]“They’re back.”
 
 “Yes.”
 
 Luo folded the report very neatly.
 
-“This is becoming repetitive.”
+[[speaker:luo]]“This is becoming repetitive.”
 
 Jin gave him a flat look.
 
-“Repetition is the problem.”
+[[speaker:jin]]“Repetition is the problem.”
 
 He pulled the latest map closer.
 
@@ -815,11 +815,11 @@ The two documents disagreed about what victory meant.
 
 He tapped Kai’s marker.
 
-“Kael hurt him.”
+[[speaker:jin]]“Kael hurt him.”
 
 Another notation.
 
-“Sera hurt him.”
+[[speaker:jin]]“Sera hurt him.”
 
 Kai’s current-status seal sat beside both.
 
@@ -827,7 +827,7 @@ Kai’s current-status seal sat beside both.
 
 Eirik.
 
-“Aldric hurt him.”
+[[speaker:jin]]“Aldric hurt him.”
 
 “Maedra too,” Luo said.
 
@@ -835,13 +835,13 @@ Eirik.
 
 Jun.
 
-“Kael beat him.”
+[[speaker:jin]]“Kael beat him.”
 
 **ACTIVE.**
 
 Kenji.
 
-“Sigrun beat him.”
+[[speaker:jin]]“Sigrun beat him.”
 
 **ACTIVE.**
 
@@ -849,13 +849,13 @@ Sera pushed herself upright despite the medic immediately appearing at the edge 
 
 “Don’t,” the medic said.
 
-“I’m sitting.”
+[[speaker:sera]]“I’m sitting.”
 
 “You were lying down better.”
 
 Sera ignored that and looked at Jin.
 
-“So what changes?”
+[[speaker:sera]]“So what changes?”
 
 For months, their reports had counted an injured enemy Paragon as temporary strategic relief. A week without Kai could save a corridor. Two weeks without Eirik could let Isgard rebuild a command sector. Those windows still mattered.
 
@@ -863,17 +863,17 @@ But the language had quietly become dishonest whenever anyone let *wounded* soun
 
 Jin crossed out four old assumptions.
 
-“We stop counting bodies we know Aya can return as permanent gains.”
+[[speaker:jin]]“We stop counting bodies we know Aya can return as permanent gains.”
 
 Luo nodded.
 
-“Separate disabled from unrecoverable.”
+[[speaker:luo]]“Separate disabled from unrecoverable.”
 
 The medic beside Sera muttered, “Physicians have been telling armies to do that for centuries.”
 
 Jin looked at her.
 
-“Armies have been ignoring physicians for centuries.”
+[[speaker:jin]]“Armies have been ignoring physicians for centuries.”
 
 “Also true.”
 
@@ -881,27 +881,27 @@ Sera almost laughed and immediately regretted it when her ribs answered.
 
 Luo pointed at her without looking.
 
-“That.”
+[[speaker:luo]]“That.”
 
 “I know.”
 
 He turned back to the map.
 
-“Count the things Aya cannot simply restore with a treatment cycle.”
+[[speaker:luo]]“Count the things Aya cannot simply restore with a treatment cycle.”
 
 Jin began a new column.
 
-“Spent lifespan.”
+[[speaker:jin]]“Spent lifespan.”
 
-“Redline stock.”
+[[speaker:jin]]“Redline stock.”
 
-“Shipping capacity.”
+[[speaker:jin]]“Shipping capacity.”
 
-“Morale.”
+[[speaker:jin]]“Morale.”
 
-“Legitimacy.”
+[[speaker:jin]]“Legitimacy.”
 
-“Captured information.”
+[[speaker:jin]]“Captured information.”
 
 “Trust in command,” Sera added.
 
@@ -911,7 +911,7 @@ Then wrote it.
 
 Luo looked at Aya’s name on the intelligence sheet.
 
-“She is not the war.”
+[[speaker:luo]]“She is not the war.”
 
 “No,” Sera said.
 
@@ -921,11 +921,11 @@ Aya had created the healing asymmetry. Shinsei’s institution decided how that 
 
 Jin drew a circle around the support network instead of the physician.
 
-“So we attack conversion.”
+[[speaker:jin]]“So we attack conversion.”
 
 Sera nodded.
 
-“Make every victory cost them something healing cannot refund.”
+[[speaker:sera]]“Make every victory cost them something healing cannot refund.”
 
 A depot.
 
@@ -947,13 +947,13 @@ Luo said that aloud.
 
 Jin looked at him.
 
-“You’re comparing my war plan to bad medicine.”
+[[speaker:jin]]“You’re comparing my war plan to bad medicine.”
 
-“Yes.”
+[[speaker:luo]]“Yes.”
 
-“Helpful.”
+[[speaker:jin]]“Helpful.”
 
-“I try.”
+[[speaker:luo]]“I try.”
 
 Sera studied the southern road on the map, the one that eventually led back toward Wuyue and the sealed chamber beneath the mountain.
 
@@ -969,17 +969,17 @@ Neither side had proven the other wrong.
 
 Jin moved one marker, then another.
 
-“We are winning battles.”
+[[speaker:jin]]“We are winning battles.”
 
 Luo looked at the casualty ledger.
 
-“And losing people.”
+[[speaker:luo]]“And losing people.”
 
-“Yes.”
+[[speaker:jin]]“Yes.”
 
 Sera’s voice stayed level.
 
-“Then don’t waste either.”
+[[speaker:sera]]“Then don’t waste either.”
 
 Outside the tent, the first shift bell of the sixth month sounded.
 

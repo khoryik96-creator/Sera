@@ -302,7 +302,7 @@ Of course he had not.
 
 “I told you river men were useless.”
 
-“You were right.”
+[[speaker:yun]]“You were right.”
 
 The landlord left satisfied.
 
@@ -514,7 +514,7 @@ Yun sat beside him because he had mistaken her for a travelling apothecary.
 
 “He is efficient.”
 
-“Worse.”
+[[speaker:yun]]“Worse.”
 
 The old man laughed.
 
@@ -530,13 +530,13 @@ Memory.
 
 “Different.”
 
-“How?”
+[[speaker:yun]]“How?”
 
 The old man considered.
 
 “You know when someone strong enters a room and everyone notices?”
 
-“Yes.”
+[[speaker:yun]]“Yes.”
 
 “With Kurokawa, the room notices before you do.”
 
@@ -804,11 +804,11 @@ Yun looked toward the ceiling.
 
 The fictional marriage was deteriorating faster than Yun’s real one.
 
-“I will speak to him.”
+[[speaker:yun]]“I will speak to him.”
 
 “When?”
 
-“When he returns.”
+[[speaker:yun]]“When he returns.”
 
 “He is imaginary, isn’t he?”
 
@@ -1018,9 +1018,9 @@ Sera folded her arms.
 
 “You are showing off badly.”
 
-“I was not showing off.”
+[[speaker:rhen]]“I was not showing off.”
 
-“That is why it was bad.”
+[[speaker:sera]]“That is why it was bad.”
 
 Rhen leaned back in the private room behind Quaint’s clinic wing.
 
@@ -1040,11 +1040,11 @@ Rhen glanced toward the wall.
 
 “Annoying.”
 
-“That is not a measurement.”
+[[speaker:sera]]“That is not a measurement.”
 
-“It is my preferred measurement.”
+[[speaker:rhen]]“It is my preferred measurement.”
 
-“Try again.”
+[[speaker:sera]]“Try again.”
 
 He sighed.
 
@@ -1054,9 +1054,9 @@ Rhen rested two fingers against his sternum.
 
 “My reserve keeps returning faster than I spend it.”
 
-“That sounds like something Tae would call a problem to get punched for.”
+[[speaker:sera]]“That sounds like something Tae would call a problem to get punched for.”
 
-“It would be, if the reserve stayed where I put it.”
+[[speaker:rhen]]“It would be, if the reserve stayed where I put it.”
 
 Sera’s expression sharpened.
 
@@ -1064,9 +1064,9 @@ Rhen continued.
 
 “The old circulation pattern is too diffuse. Too much qi held across too much internal space.”
 
-“And suppression?”
+[[speaker:sera]]“And suppression?”
 
-“Continuous now.”
+[[speaker:rhen]]“Continuous now.”
 
 The answer removed the humor.
 
@@ -1074,17 +1074,17 @@ Sera sat opposite him.
 
 “How continuous?”
 
-“If I stop paying attention, things freeze.”
+[[speaker:rhen]]“If I stop paying attention, things freeze.”
 
 She looked at the teapot.
 
-“Things.”
+[[speaker:sera]]“Things.”
 
-“Yes.”
+[[speaker:rhen]]“Yes.”
 
-“Anything alive?”
+[[speaker:sera]]“Anything alive?”
 
-“No.”
+[[speaker:rhen]]“No.”
 
 Immediate.
 
@@ -1094,13 +1094,13 @@ Sera believed him.
 
 That mattered more than the rest.
 
-“Can you fix it?”
+[[speaker:sera]]“Can you fix it?”
 
-“I think so.”
+[[speaker:rhen]]“I think so.”
 
-“What does ‘think’ mean when you say it?”
+[[speaker:sera]]“What does ‘think’ mean when you say it?”
 
-“That I have not done it before.”
+[[speaker:rhen]]“That I have not done it before.”
 
 Sera’s eyes narrowed.
 
@@ -1108,7 +1108,7 @@ Rhen almost smiled.
 
 “Comforting?”
 
-“No.”
+[[speaker:sera]]“No.”
 
 He looked down at his hand.
 
@@ -1122,19 +1122,19 @@ It vanished.
 
 “The qi needs to become denser,” he said. “Same amount. Less space.”
 
-“How long?”
+[[speaker:sera]]“How long?”
 
-“I don’t know yet.”
+[[speaker:rhen]]“I don’t know yet.”
 
-“Days?”
+[[speaker:sera]]“Days?”
 
-“Probably not.”
+[[speaker:rhen]]“Probably not.”
 
-“Weeks?”
+[[speaker:sera]]“Weeks?”
 
-“Possibly.”
+[[speaker:rhen]]“Possibly.”
 
-“Months?”
+[[speaker:sera]]“Months?”
 
 Rhen did not answer quickly enough.
 
@@ -1142,9 +1142,9 @@ Sera leaned back.
 
 “Wonderful.”
 
-“I have not decided to do it.”
+[[speaker:rhen]]“I have not decided to do it.”
 
-“That is worse.”
+[[speaker:sera]]“That is worse.”
 
 He looked at her.
 
@@ -1156,15 +1156,15 @@ Rhen’s expression changed slightly.
 
 She continued.
 
-“If you need to close a door, close it before the room catches frost because you are too stubborn to stop pouring tea.”
+[[speaker:sera]]“If you need to close a door, close it before the room catches frost because you are too stubborn to stop pouring tea.”
 
 Rhen looked at the thawed pot.
 
 “I can still pour tea.”
 
-“That was not the point.”
+[[speaker:sera]]“That was not the point.”
 
-“I know.”
+[[speaker:rhen]]“I know.”
 
 Sera reached across the table and took his wrist.
 
@@ -1178,19 +1178,19 @@ Too normal, because he was making it normal.
 
 “When it crosses from annoying to unsafe,” she said, “you tell me.”
 
-“I will.”
+[[speaker:rhen]]“I will.”
 
-“Before Lu.”
+[[speaker:sera]]“Before Lu.”
 
-“Yes.”
+[[speaker:rhen]]“Yes.”
 
-“Before Tae.”
+[[speaker:sera]]“Before Tae.”
 
-“Obviously.”
+[[speaker:rhen]]“Obviously.”
 
-“Before Huo.”
+[[speaker:sera]]“Before Huo.”
 
-“Especially before Huo.”
+[[speaker:rhen]]“Especially before Huo.”
 
 That earned a smile.
 

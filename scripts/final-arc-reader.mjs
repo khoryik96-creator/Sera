@@ -64,15 +64,6 @@ function assertKnownSpeakers(body, keys, where) {
   }
 }
 
-function subjectSpeaker(paragraph, aliases) {
-  const text = paragraph.trim().replace(/^\*\*/, '');
-  for (const row of aliases) {
-    const re = new RegExp(`^${escRe(row.alias)}(?:[’']s)?\\b`);
-    if (re.test(text)) return row.key;
-  }
-  return null;
-}
-
 function attributedSpeaker(paragraph, aliases) {
   const text = paragraph.trim();
   for (const row of aliases) {
@@ -114,11 +105,7 @@ function addDialogueHints(body, aliases) {
   const paragraphs = body.split(/\n{2,}/);
   let tagged = 0;
   let total = 0;
-  let lastSpeaker = null;
-  let previousSpeaker = null;
-  let focusSpeaker = null;
   let announced = null;
-  let recentSpeakers = new Set();
   // reset per chapter; addDialogueHints is called once per chapter body
 
   for (let i = 0; i < paragraphs.length; i++) {
@@ -126,46 +113,24 @@ function addDialogueHints(body, aliases) {
     if (!paragraph) continue;
 
     if (!isStandaloneDialogue(paragraph)) {
-      const explicit = attributedSpeaker(paragraph, aliases);
-      const subject = subjectSpeaker(paragraph, aliases);
-      announced = announcedSpeaker(paragraph, aliases);
-      focusSpeaker = explicit || subject;
+      const narrationOnly = !paragraph.includes('“');
+      announced = narrationOnly ? announcedSpeaker(paragraph, aliases) : null;
       continue;
     }
 
     total++;
-    const next = paragraphs[i + 1]?.trim() || '';
-    const nextAttribution = attributedSpeaker(next, aliases);
     // A quote paragraph can carry its own attribution — `“No,” Eirik said. “I am
-    // surprised.”` — and that is stated fact, so it outranks every neighbouring
-    // guess below. Only the narration OUTSIDE the quotation marks counts: a name
-    // inside the quote is reported speech (`“Rui said you saved six witnesses.”`)
-    // and says nothing about who is speaking.
+    // surprised.”` — and that is stated fact. Otherwise only a speaker explicitly
+    // announced by the preceding prose is used. Do not infer from the following
+    // paragraph and do not assume conversational turn-taking: either can assign a
+    // plausible but wrong name in multi-person scenes.
     const selfAttribution = attributedSpeaker(outsideQuotes(paragraph), aliases);
-    let speaker = selfAttribution || announced || nextAttribution || focusSpeaker;
-
-    // In a clean two-person exchange, consecutive quote paragraphs usually
-    // alternate. Only use this when two distinct speakers were already observed;
-    // multi-person scenes without a fresh narrative subject stay untagged rather
-    // than risk assigning the wrong colour.
-    // The alternation guess rests on nothing but "they take turns", which only
-    // holds in a clean two-person exchange. Once a third voice is active in the
-    // scene it is a coin flip, and a wrong name reads worse than none, so those
-    // quotes stay untagged.
-    if (!speaker && lastSpeaker && previousSpeaker && lastSpeaker !== previousSpeaker && recentSpeakers.size <= 2) {
-      speaker = previousSpeaker;
-    }
+    const speaker = selfAttribution || announced;
 
     if (speaker) {
       paragraphs[i] = `[[speaker:${speaker}]]${paragraph}`;
       tagged++;
-      recentSpeakers.add(speaker);
-      if (speaker !== lastSpeaker) {
-        previousSpeaker = lastSpeaker;
-        lastSpeaker = speaker;
-      }
     }
-    focusSpeaker = null;
     announced = null;
   }
 

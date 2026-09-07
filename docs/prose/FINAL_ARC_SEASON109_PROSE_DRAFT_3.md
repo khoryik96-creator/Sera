@@ -28,9 +28,9 @@ Aya stared at the clean skin.
 
 She did not look at him.
 
-“You can hear thoughts now?”
+[[speaker:aya]]“You can hear thoughts now?”
 
-“No. Your face is loud.”
+[[speaker:luo]]“No. Your face is loud.”
 
 Aya turned.
 
@@ -46,25 +46,25 @@ Instead it made her distrust the universe.
 
 “I am not offended,” she said.
 
-“Good.”
+[[speaker:luo]]“Good.”
 
-“I am evaluating.”
+[[speaker:aya]]“I am evaluating.”
 
-“Of course.”
+[[speaker:luo]]“Of course.”
 
-“He repaired a hidden arterial tear from across the district.”
+[[speaker:aya]]“He repaired a hidden arterial tear from across the district.”
 
-“Yes.”
+[[speaker:luo]]“Yes.”
 
-“Without seeing the patient.”
+[[speaker:aya]]“Without seeing the patient.”
 
-“Your Dominion found it.”
+[[speaker:luo]]“Your Dominion found it.”
 
 Aya's eyes narrowed.
 
 Luo smiled faintly.
 
-“That part bothers you more.”
+[[speaker:luo]]“That part bothers you more.”
 
 She looked back at the sleeping soldier.
 
@@ -92,33 +92,33 @@ That irritated Aya in ways she did not enjoy examining.
 
 Luo checked the patient's pulse.
 
-“Rhen wants you in the central lane.”
+[[speaker:luo]]“Rhen wants you in the central lane.”
 
-“Why?”
+[[speaker:aya]]“Why?”
 
-“He wants to ask you about Redline.”
+[[speaker:luo]]“He wants to ask you about Redline.”
 
 Aya went still.
 
 Luo noticed.
 
-“You don't have to enjoy the conversation.”
+[[speaker:luo]]“You don't have to enjoy the conversation.”
 
-“I know.”
+[[speaker:aya]]“I know.”
 
-“He is not Tsubasa.”
+[[speaker:luo]]“He is not Tsubasa.”
 
-“I know.”
+[[speaker:aya]]“I know.”
 
-“He is also not me.”
+[[speaker:luo]]“He is also not me.”
 
 Aya finally looked at him.
 
-“What does that mean?”
+[[speaker:aya]]“What does that mean?”
 
 Luo's gaze dropped to his own hands.
 
-“That you shouldn't decide what he will say before he says it.”
+[[speaker:luo]]“That you shouldn't decide what he will say before he says it.”
 
 Aya understood the warning.
 
@@ -152,17 +152,17 @@ Luo did not.
 
 Rhen looked at Aya.
 
-“She was working.”
+[[speaker:rhen]]“She was working.”
 
 Luo's mouth tightened.
 
-“Do not encourage her.”
+[[speaker:luo]]“Do not encourage her.”
 
 Aya folded her arms.
 
 Rhen finished the apple.
 
-“Your Dominion is very good.”
+[[speaker:rhen]]“Your Dominion is very good.”
 
 Aya had prepared herself for many things.
 
@@ -172,41 +172,41 @@ She stared.
 
 Rhen looked mildly concerned.
 
-“Was that rude?”
+[[speaker:rhen]]“Was that rude?”
 
 Luo walked away.
 
-“I'm leaving.”
+[[speaker:luo]]“I'm leaving.”
 
 Aya watched him go.
 
 Then looked back at Rhen.
 
-“You're serious.”
+[[speaker:aya]]“You're serious.”
 
-“Yes.”
+[[speaker:rhen]]“Yes.”
 
-“You can feel sixty thousand damaged circulations under this field.”
+[[speaker:aya]]“You can feel sixty thousand damaged circulations under this field.”
 
-“More than that now.”
+[[speaker:rhen]]“More than that now.”
 
-“And you're telling me my perception art is good.”
+[[speaker:aya]]“And you're telling me my perception art is good.”
 
-“Yes.”
+[[speaker:rhen]]“Yes.”
 
-“Why?”
+[[speaker:aya]]“Why?”
 
 Rhen blinked.
 
-“Because it is.”
+[[speaker:rhen]]“Because it is.”
 
 Aya exhaled slowly.
 
-“You are extremely irritating.”
+[[speaker:aya]]“You are extremely irritating.”
 
-“Sera says that.”
+[[speaker:rhen]]“Sera says that.”
 
-“I understand her better already.”
+[[speaker:aya]]“I understand her better already.”
 
 Rhen seemed pleased.
 
@@ -222,17 +222,17 @@ Neither did he.
 
 Aya's expression hardened.
 
-“What part?”
+[[speaker:aya]]“What part?”
 
-“The beginning.”
+[[speaker:rhen]]“The beginning.”
 
 She looked past him at the Sanctuary.
 
-“The beginning was not three-times Redline.”
+[[speaker:aya]]“The beginning was not three-times Redline.”
 
-“I know.”
+[[speaker:rhen]]“I know.”
 
-“It was circulatory support.”
+[[speaker:aya]]“It was circulatory support.”
 
 Her voice changed as she spoke.
 
@@ -242,19 +242,19 @@ Precise.
 
 The voice of a doctor giving a history because vague history killed patients.
 
-“Twenty to thirty percent temporary elevation in a failing patient's throughput. Enough to keep qi moving when shock, blood loss or meridian collapse would otherwise start a cascade. Properly dosed, properly monitored, no meaningful lifespan loss.”
+[[speaker:aya]]“Twenty to thirty percent temporary elevation in a failing patient's throughput. Enough to keep qi moving when shock, blood loss or meridian collapse would otherwise start a cascade. Properly dosed, properly monitored, no meaningful lifespan loss.”
 
 Rhen nodded.
 
-“A useful medicine.”
+[[speaker:rhen]]“A useful medicine.”
 
-“Yes.”
+[[speaker:aya]]“Yes.”
 
-“What changed?”
+[[speaker:rhen]]“What changed?”
 
-“Military interest.”
+[[speaker:aya]]“Military interest.”
 
-“That is not a mechanism.”
+[[speaker:rhen]]“That is not a mechanism.”
 
 Aya looked at him sharply.
 
@@ -262,17 +262,17 @@ Rhen waited.
 
 She appreciated the correction despite herself.
 
-“Higher concentrations. Different carrier compounds. Faster uptake. Less safety margin. Then deliberate use on healthy bodies instead of failing ones.”
+[[speaker:aya]]“Higher concentrations. Different carrier compounds. Faster uptake. Less safety margin. Then deliberate use on healthy bodies instead of failing ones.”
 
-“Because healthy circulation can be forced harder.”
+[[speaker:rhen]]“Because healthy circulation can be forced harder.”
 
-“Yes.”
+[[speaker:aya]]“Yes.”
 
-“And the lifespan cost?”
+[[speaker:rhen]]“And the lifespan cost?”
 
 Aya's jaw tightened.
 
-“Not an accidental side effect at Redline scale.”
+[[speaker:aya]]“Not an accidental side effect at Redline scale.”
 
 Rhen's eyes sharpened.
 
@@ -280,13 +280,13 @@ Aya continued.
 
 “At one and a half times, the body borrows from long-term vitality to sustain the throughput. At two times, the borrowing becomes severe. At three—”
 
-“About five years.”
+[[speaker:rhen]]“About five years.”
 
-“Yes.”
+[[speaker:aya]]“Yes.”
 
-“For five minutes.”
+[[speaker:rhen]]“For five minutes.”
 
-“Approximately.”
+[[speaker:aya]]“Approximately.”
 
 Rhen was silent.
 
@@ -308,25 +308,25 @@ That was worse.
 
 “Did you approve three-times use?” he asked.
 
-“I signed the medical viability assessment.”
+[[speaker:aya]]“I signed the medical viability assessment.”
 
 Aya did not soften it.
 
-“I argued it should exist only for catastrophic emergency use under physician authorization.”
+[[speaker:aya]]“I argued it should exist only for catastrophic emergency use under physician authorization.”
 
-“But it existed.”
+[[speaker:rhen]]“But it existed.”
 
-“Yes.”
+[[speaker:aya]]“Yes.”
 
-“And soldiers received it as standard sealed issue.”
+[[speaker:rhen]]“And soldiers received it as standard sealed issue.”
 
-“Yes.”
+[[speaker:aya]]“Yes.”
 
-“Without the five-year number.”
+[[speaker:rhen]]“Without the five-year number.”
 
 Aya's face went cold.
 
-“Not from me.”
+[[speaker:aya]]“Not from me.”
 
 Rhen looked at her.
 
@@ -346,55 +346,55 @@ Instead Rhen asked, “How many patients have you restored to full combat condit
 
 The shift wrong-footed her.
 
-“Paragons?”
+[[speaker:aya]]“Paragons?”
 
-“Anyone.”
+[[speaker:rhen]]“Anyone.”
 
-“Thousands in some degree. Fewer to full combat readiness. Kai. Eirik. Jun. Kenji. Others.”
+[[speaker:aya]]“Thousands in some degree. Fewer to full combat readiness. Kai. Eirik. Jun. Kenji. Others.”
 
-“You can restore Paragon meridians completely?”
+[[speaker:rhen]]“You can restore Paragon meridians completely?”
 
-“If the damage is recoverable and I have uninterrupted time.”
+[[speaker:aya]]“If the damage is recoverable and I have uninterrupted time.”
 
-“Good.”
+[[speaker:rhen]]“Good.”
 
 Aya stared at him again.
 
-“You keep saying that.”
+[[speaker:aya]]“You keep saying that.”
 
-“It keeps being true.”
+[[speaker:rhen]]“It keeps being true.”
 
-“You understand I healed people so they could return to the same war.”
+[[speaker:aya]]“You understand I healed people so they could return to the same war.”
 
 “Yes.”
 
-“And you think that is good?”
+[[speaker:aya]]“And you think that is good?”
 
 Rhen's expression changed.
 
-“The healing is.”
+[[speaker:rhen]]“The healing is.”
 
 Aya said nothing.
 
-“The war is separate,” he continued. “Do not confuse repairing a person with endorsing every order that person may receive afterward.”
+[[speaker:rhen]]“The war is separate,” he continued. “Do not confuse repairing a person with endorsing every order that person may receive afterward.”
 
-“That is convenient.”
+[[speaker:aya]]“That is convenient.”
 
-“It is medicine.”
+[[speaker:rhen]]“It is medicine.”
 
 Aya's eyes narrowed.
 
 Rhen looked toward the nearest hospital row.
 
-“You treated people because they were in front of you.”
+[[speaker:rhen]]“You treated people because they were in front of you.”
 
-“Yes.”
+[[speaker:rhen]]“Yes.”
 
-“Even when you hated why they were hurt.”
+[[speaker:rhen]]“Even when you hated why they were hurt.”
 
-“Yes.”
+[[speaker:aya]]“Yes.”
 
-“That is what Luo does.”
+[[speaker:rhen]]“That is what Luo does.”
 
 Aya glanced toward the physician several lanes away.
 
@@ -406,17 +406,17 @@ Aya's face tightened.
 
 Rhen watched her carefully.
 
-“You knew her?”
+[[speaker:rhen]]“You knew her?”
 
-“No.”
+[[speaker:aya]]“No.”
 
-“Her work?”
+[[speaker:rhen]]“Her work?”
 
-“Now.”
+[[speaker:aya]]“Now.”
 
 Aya looked down.
 
-“I saw the report after she died.”
+[[speaker:aya]]“I saw the report after she died.”
 
 Rhen did not ask which report.
 
@@ -426,7 +426,7 @@ Aya continued.
 
 “She found things my own institution did not tell its physicians plainly.”
 
-“That seems bad.”
+[[speaker:rhen]]“That seems bad.”
 
 Aya gave him a flat look.
 
@@ -444,9 +444,9 @@ Aya felt it too through Hundred Pulse.
 
 “Fourth row,” Rhen answered.
 
-“Paragon-level circulation instability.”
+[[speaker:aya]]“Paragon-level circulation instability.”
 
-“Not Paragon. Sovereign. Dense foundation.”
+[[speaker:rhen]]“Not Paragon. Sovereign. Dense foundation.”
 
 Aya looked at him.
 
@@ -486,7 +486,7 @@ Aya withdrew the needles.
 
 Rhen looked at her.
 
-“Very good.”
+[[speaker:rhen]]“Very good.”
 
 Aya almost told him to stop saying that.
 
@@ -494,31 +494,31 @@ Instead she asked, “Why can't you restore the years?”
 
 Rhen's gaze settled on the sleeping patient.
 
-“Because there is no wound where the years used to be.”
+[[speaker:rhen]]“Because there is no wound where the years used to be.”
 
 Aya went still.
 
 Rhen touched two fingers lightly against the officer's wrist.
 
-“Muscle tears. Meridian rupture. Organ damage. Poison. Those are structures in the present.”
+[[speaker:rhen]]“Muscle tears. Meridian rupture. Organ damage. Poison. Those are structures in the present.”
 
 He looked at her.
 
-“Redline turns future vitality into present expenditure. Once the expenditure happens, ordinary healing can repair what the spending damaged. It cannot put an unspent year back into a future that already paid it.”
+[[speaker:rhen]]“Redline turns future vitality into present expenditure. Once the expenditure happens, ordinary healing can repair what the spending damaged. It cannot put an unspent year back into a future that already paid it.”
 
 Aya swallowed.
 
-“You make it sound simple.”
+[[speaker:aya]]“You make it sound simple.”
 
-“It is simple.”
+[[speaker:rhen]]“It is simple.”
 
-“Not easy.”
+[[speaker:aya]]“Not easy.”
 
-“No.”
+[[speaker:rhen]]“No.”
 
 Aya looked up at the Sanctuary.
 
-“Can anything restore it?”
+[[speaker:aya]]“Can anything restore it?”
 
 Rhen did not answer immediately.
 
@@ -538,15 +538,15 @@ For several breaths they stood beside the sleeping officer.
 
 Then Aya said, “I started writing the numbers into every Redline record.”
 
-“I heard.”
+[[speaker:rhen]]“I heard.”
 
-“Command objected.”
+[[speaker:aya]]“Command objected.”
 
-“I heard that too.”
+[[speaker:rhen]]“I heard that too.”
 
-“I am telling the soldiers now.”
+[[speaker:aya]]“I am telling the soldiers now.”
 
-“Good.”
+[[speaker:rhen]]“Good.”
 
 Aya looked at him sharply.
 
@@ -586,11 +586,11 @@ The Isgard nurse beside him did not look up from the chart.
 
 Aldric frowned.
 
-“I remember that part.”
+[[speaker:aldric]]“I remember that part.”
 
 “Then why ask?”
 
-“Why am I still here?”
+[[speaker:aldric]]“Why am I still here?”
 
 The nurse finally looked at him.
 
@@ -598,7 +598,7 @@ The nurse finally looked at him.
 
 Aldric considered this.
 
-“That seems exaggerated.”
+[[speaker:aldric]]“That seems exaggerated.”
 
 The nurse held up four separate records.
 
@@ -638,21 +638,21 @@ The floor remained beneath him.
 
 Aldric looked at Rhen.
 
-“You healed it.”
+[[speaker:aldric]]“You healed it.”
 
-“Yes.”
+[[speaker:rhen]]“Yes.”
 
-“All of it?”
+[[speaker:aldric]]“All of it?”
 
-“The recoverable damage.”
+[[speaker:rhen]]“The recoverable damage.”
 
 Aldric drew a deeper breath.
 
 His ribs expanded without pain.
 
-“That was all of it.”
+[[speaker:aldric]]“That was all of it.”
 
-“Then yes.”
+[[speaker:rhen]]“Then yes.”
 
 Aldric stared at him.
 
@@ -668,27 +668,27 @@ None had ever made him feel so much as if the rules were being observed by someo
 
 “Maedra?” he asked.
 
-“Threatening a surgeon.”
+[[speaker:rhen]]“Threatening a surgeon.”
 
 Aldric smiled.
 
-“Then she is better.”
+[[speaker:aldric]]“Then she is better.”
 
 Across the hospital district, Maedra Dravaryn was indeed threatening a surgeon.
 
-“I said I can walk.”
+[[speaker:maedra]]“I said I can walk.”
 
 The surgeon, a Wuyue woman half her size, did not move.
 
 “I heard you.”
 
-“Then move.”
+[[speaker:maedra]]“Then move.”
 
 “No.”
 
 Maedra's eyes narrowed.
 
-“I was ruling armies before your grandmother learned to braid her hair.”
+[[speaker:maedra]]“I was ruling armies before your grandmother learned to braid her hair.”
 
 “My grandmother is bald.”
 
@@ -702,29 +702,29 @@ Maedra sat.
 
 Sera watched from the entrance, delighted.
 
-“I'm hiring her.”
+[[speaker:sera]]“I'm hiring her.”
 
 Rhen arrived behind her.
 
-“No.”
+[[speaker:rhen]]“No.”
 
 Sera glanced back.
 
-“Why?”
+[[speaker:sera]]“Why?”
 
-“She is useful here.”
+[[speaker:rhen]]“She is useful here.”
 
-“Fine. I'm borrowing her.”
+[[speaker:sera]]“Fine. I'm borrowing her.”
 
-“That is how you got Lu.”
+[[speaker:rhen]]“That is how you got Lu.”
 
-“I did not borrow Lu.”
+[[speaker:sera]]“I did not borrow Lu.”
 
-“You definitely did.”
+[[speaker:rhen]]“You definitely did.”
 
 Maedra looked toward them.
 
-“Are you two going to stand there flirting while I'm imprisoned?”
+[[speaker:maedra]]“Are you two going to stand there flirting while I'm imprisoned?”
 
 Sera smiled.
 
@@ -732,11 +732,11 @@ Sera smiled.
 
 Rhen nodded.
 
-“Probably.”
+[[speaker:rhen]]“Probably.”
 
 Maedra closed her eyes.
 
-“War was simpler.”
+[[speaker:maedra]]“War was simpler.”
 
 The surgeon patted her shoulder.
 
@@ -756,41 +756,41 @@ Then relaxed.
 
 She looked down at her hand.
 
-“That's unpleasant.”
+[[speaker:maedra]]“That's unpleasant.”
 
 Sera blinked.
 
-“He healed you.”
+[[speaker:sera]]“He healed you.”
 
-“Yes.”
+[[speaker:maedra]]“Yes.”
 
-“And that is unpleasant?”
+[[speaker:sera]]“And that is unpleasant?”
 
-“I had become accustomed to knowing where the pain was.”
+[[speaker:maedra]]“I had become accustomed to knowing where the pain was.”
 
 Rhen nodded.
 
-“That happens.”
+[[speaker:rhen]]“That happens.”
 
 Maedra looked at him.
 
-“You understand?”
+[[speaker:maedra]]“You understand?”
 
-“I am a physician.”
+[[speaker:rhen]]“I am a physician.”
 
 Sera groaned.
 
-“He has been awake three days and has said that approximately fifty times.”
+[[speaker:sera]]“He has been awake three days and has said that approximately fifty times.”
 
 “Forty-seven,” Rhen said.
 
 Sera stared.
 
-“You counted?”
+[[speaker:sera]]“You counted?”
 
-“No.”
+[[speaker:rhen]]“No.”
 
-“That was too fast.”
+[[speaker:sera]]“That was too fast.”
 
 Rhen looked innocent.
 
@@ -808,11 +808,11 @@ Stable.
 
 She looked toward the north.
 
-“Where is Solveig?”
+[[speaker:maedra]]“Where is Solveig?”
 
 “Working,” Sera said.
 
-“Of course she is.”
+[[speaker:maedra]]“Of course she is.”
 
 Sigrun Veyrhald was harder.
 
@@ -828,7 +828,7 @@ The younger Paragon wore simple training clothes and had wrapped one forearm out
 
 Rhen stopped beside the fence.
 
-“You escaped.”
+[[speaker:rhen]]“You escaped.”
 
 Sigrun turned.
 
@@ -836,31 +836,31 @@ Her eyes widened.
 
 Then narrowed.
 
-“I walked out.”
+[[speaker:sigrun]]“I walked out.”
 
-“Without permission.”
+[[speaker:rhen]]“Without permission.”
 
-“I am a Paragon.”
+[[speaker:sigrun]]“I am a Paragon.”
 
-“So is Aya.”
+[[speaker:rhen]]“So is Aya.”
 
 Sigrun frowned.
 
-“What does that have to do with anything?”
+[[speaker:sigrun]]“What does that have to do with anything?”
 
-“She is still a patient when injured.”
+[[speaker:rhen]]“She is still a patient when injured.”
 
-“That is different.”
+[[speaker:sigrun]]“That is different.”
 
-“It is exactly the same.”
+[[speaker:rhen]]“It is exactly the same.”
 
 Sigrun rested the spear against one shoulder.
 
-“You sound like my aunt.”
+[[speaker:sigrun]]“You sound like my aunt.”
 
-“I don't know your aunt.”
+[[speaker:rhen]]“I don't know your aunt.”
 
-“You'd get along.”
+[[speaker:sigrun]]“You'd get along.”
 
 Rhen stepped into the training ground.
 
@@ -874,39 +874,39 @@ Now the frost-white petals around him held pale violet, and his presence felt so
 
 “You changed,” she said.
 
-“Apparently.”
+[[speaker:rhen]]“Apparently.”
 
-“Everyone keeps saying that?”
+[[speaker:sigrun]]“Everyone keeps saying that?”
 
-“Yes.”
+[[speaker:rhen]]“Yes.”
 
 Sigrun smiled.
 
-“Good.”
+[[speaker:sigrun]]“Good.”
 
 Rhen looked at the spear.
 
-“Show me.”
+[[speaker:rhen]]“Show me.”
 
 Her expression sharpened.
 
-“Show you what?”
+[[speaker:sigrun]]“Show you what?”
 
-“Graven Dominion.”
+[[speaker:rhen]]“Graven Dominion.”
 
 Sigrun blinked.
 
-“You just healed me.”
+[[speaker:sigrun]]“You just healed me.”
 
-“Yes.”
+[[speaker:rhen]]“Yes.”
 
-“You want me to use the thing that let me fight while injured.”
+[[speaker:sigrun]]“You want me to use the thing that let me fight while injured.”
 
-“No.”
+[[speaker:rhen]]“No.”
 
 Rhen pointed at the spear.
 
-“I want you to show me enough to understand it without getting injured.”
+[[speaker:rhen]]“I want you to show me enough to understand it without getting injured.”
 
 Sigrun considered this.
 
@@ -924,45 +924,45 @@ It was adaptation through wounds already paid for.
 
 Rhen watched.
 
-“Interesting.”
+[[speaker:rhen]]“Interesting.”
 
 Sigrun looked suspicious.
 
-“That sounded genuine.”
+[[speaker:sigrun]]“That sounded genuine.”
 
-“It was.”
+[[speaker:rhen]]“It was.”
 
-“You usually annoy people after saying things like that?”
+[[speaker:sigrun]]“You usually annoy people after saying things like that?”
 
-“Yes.”
+[[speaker:rhen]]“Yes.”
 
-“Good.”
+[[speaker:sigrun]]“Good.”
 
 Rhen stepped closer.
 
-“Last Body Standing?”
+[[speaker:rhen]]“Last Body Standing?”
 
 Sigrun's smile faded.
 
-“You know about it.”
+[[speaker:sigrun]]“You know about it.”
 
-“Lu.”
+[[speaker:rhen]]“Lu.”
 
-“Of course.”
+[[speaker:sigrun]]“Of course.”
 
-“It does not heal you.”
+[[speaker:rhen]]“It does not heal you.”
 
-“I know.”
+[[speaker:sigrun]]“I know.”
 
-“It delays consequences.”
+[[speaker:rhen]]“It delays consequences.”
 
-“I know.”
+[[speaker:sigrun]]“I know.”
 
-“You used it until the evacuation cleared.”
+[[speaker:rhen]]“You used it until the evacuation cleared.”
 
 Sigrun looked down.
 
-“Yes.”
+[[speaker:sigrun]]“Yes.”
 
 Rhen's voice stayed gentle.
 
@@ -972,41 +972,41 @@ She looked up, surprised.
 
 He continued.
 
-“But do not mistake being able to postpone dying for being harder to kill.”
+[[speaker:rhen]]“But do not mistake being able to postpone dying for being harder to kill.”
 
 Sigrun's jaw tightened.
 
 Rhen nodded toward the spear.
 
-“Your Domain is strong because you understand damage. Respect it enough to remember damage still matters.”
+[[speaker:rhen]]“Your Domain is strong because you understand damage. Respect it enough to remember damage still matters.”
 
 For several breaths she said nothing.
 
 Then she deactivated the Domain.
 
-“Fine.”
+[[speaker:sigrun]]“Fine.”
 
 Rhen turned to leave.
 
-“Rhen.”
+[[speaker:sigrun]]“Rhen.”
 
 He looked back.
 
-“Thank you.”
+[[speaker:sigrun]]“Thank you.”
 
 He nodded.
 
-“Try not to make me redo it tomorrow.”
+[[speaker:rhen]]“Try not to make me redo it tomorrow.”
 
 Sigrun smiled.
 
-“No promises.”
+[[speaker:sigrun]]“No promises.”
 
-“Bad patient.”
+[[speaker:rhen]]“Bad patient.”
 
-“Good Paragon.”
+[[speaker:sigrun]]“Good Paragon.”
 
-“Those are compatible.”
+[[speaker:rhen]]“Those are compatible.”
 
 She laughed.
 
@@ -1036,7 +1036,7 @@ For a moment the entire hall waited for the old hierarchy to snap back into plac
 
 Solveig took the command seal from her belt.
 
-“Good,” she said. “You're standing.”
+[[speaker:solveig]]“Good,” she said. “You're standing.”
 
 Aldric nodded.
 
@@ -1044,41 +1044,41 @@ Aldric nodded.
 
 She held the seal out.
 
-“Then take this.”
+[[speaker:solveig]]“Then take this.”
 
 Aldric looked at it.
 
-“No.”
+[[speaker:aldric]]“No.”
 
 Solveig's hand remained extended.
 
-“Aldric.”
+[[speaker:solveig]]“Aldric.”
 
-“You have been running the theater for months.”
+[[speaker:aldric]]“You have been running the theater for months.”
 
-“Because none of you could stand.”
+[[speaker:solveig]]“Because none of you could stand.”
 
-“And now we can.”
+[[speaker:aldric]]“And now we can.”
 
-“Yes.”
+[[speaker:solveig]]“Yes.”
 
-“That changes our ability to fight. It does not erase your ability to command.”
+[[speaker:aldric]]“That changes our ability to fight. It does not erase your ability to command.”
 
 The hall stayed silent.
 
 Solveig's eyes narrowed.
 
-“You are the highest legal authority in Isgard still active.”
+[[speaker:solveig]]“You are the highest legal authority in Isgard still active.”
 
-“Then legally, I am telling you to keep the operational seal until the war ends.”
+[[speaker:aldric]]“Then legally, I am telling you to keep the operational seal until the war ends.”
 
 Maedra snorted.
 
 Solveig looked at her.
 
-“Problem?”
+[[speaker:solveig]]“Problem?”
 
-“No. I'm enjoying this.”
+[[speaker:maedra]]“No. I'm enjoying this.”
 
 Sigrun covered a smile.
 
@@ -1100,11 +1100,11 @@ Respect being returned rather than granted.
 
 Aldric nodded.
 
-“Fine.”
+[[speaker:aldric]]“Fine.”
 
 Maedra looked at both.
 
-“Excellent. Now that everyone has finished being mature, can we discuss killing the people still invading us?”
+[[speaker:maedra]]“Excellent. Now that everyone has finished being mature, can we discuss killing the people still invading us?”
 
 The hall exhaled.
 
@@ -1122,25 +1122,25 @@ Sera leaned slightly into his shoulder.
 
 “Happy?” she asked.
 
-“Yes.”
+[[speaker:rhen]]“Yes.”
 
-“You haven't even done the impossible part yet.”
+[[speaker:sera]]“You haven't even done the impossible part yet.”
 
 Rhen looked at her.
 
-“What impossible part?”
+[[speaker:rhen]]“What impossible part?”
 
 Sera gestured toward the hall.
 
-“Convincing everyone not to ask you to run the war.”
+[[speaker:sera]]“Convincing everyone not to ask you to run the war.”
 
 Rhen frowned.
 
-“That sounds easy.”
+[[speaker:rhen]]“That sounds easy.”
 
 Sera smiled.
 
-“It isn't.”
+[[speaker:sera]]“It isn't.”
 
 ---
 
@@ -1196,13 +1196,13 @@ There was nobody there.
 
 Then he looked back.
 
-“Why did everyone stop?”
+[[speaker:rhen]]“Why did everyone stop?”
 
 Ilyra barked a laugh.
 
 Jin closed one notebook.
 
-“Sit down.”
+[[speaker:jin]]“Sit down.”
 
 Rhen sat beside Sera.
 
@@ -1244,49 +1244,49 @@ That was the actual question.
 
 Sera leaned forward.
 
-“No.”
+[[speaker:sera]]“No.”
 
 Several officers looked at her.
 
 She pointed to the coastal map.
 
-“Those ships are also carrying wounded, physicians, food and replacement personnel. If we erase the fleet, we do not merely remove military pressure. We strand occupied zones, prisoners and our own people still trapped behind their lines.”
+[[speaker:sera]]“Those ships are also carrying wounded, physicians, food and replacement personnel. If we erase the fleet, we do not merely remove military pressure. We strand occupied zones, prisoners and our own people still trapped behind their lines.”
 
 Jin added, “And Shinsei has enough port infrastructure to replace part of it while using the destruction as justification for total mobilization.”
 
 Rhen nodded.
 
-“Then no.”
+[[speaker:rhen]]“Then no.”
 
 The simplicity unsettled everyone more than if he had insisted.
 
 Aldric watched him.
 
-“You could end individual battles.”
+[[speaker:aldric]]“You could end individual battles.”
 
-“Yes.”
+[[speaker:rhen]]“Yes.”
 
-“Quickly.”
+[[speaker:aldric]]“Quickly.”
 
-“Probably.”
+[[speaker:rhen]]“Probably.”
 
 Maedra gave him a flat look.
 
-“Stop saying probably.”
+[[speaker:maedra]]“Stop saying probably.”
 
 Rhen looked at her.
 
-“I have not tested the new reserve.”
+[[speaker:rhen]]“I have not tested the new reserve.”
 
-“That is not reassuring.”
+[[speaker:maedra]]“That is not reassuring.”
 
-“It was not intended to be.”
+[[speaker:rhen]]“It was not intended to be.”
 
 Sigrun smiled into her cup.
 
 Solveig tapped the map.
 
-“The problem is not whether he can kill a formation.”
+[[speaker:solveig]]“The problem is not whether he can kill a formation.”
 
 Rhen looked at her appreciatively.
 
@@ -1306,7 +1306,7 @@ Rhen nodded.
 
 Sera looked around the table.
 
-“If our answer to a centralized martial government is to send one stronger man to terrify the whole continent into obedience, we have learned nothing.”
+[[speaker:sera]]“If our answer to a centralized martial government is to send one stronger man to terrify the whole continent into obedience, we have learned nothing.”
 
 The room became still.
 
@@ -1316,23 +1316,23 @@ She did not look back.
 
 She was looking at everyone else.
 
-“This war ends when Shinsei can no longer continue the invasion and has a structure capable of choosing to stop,” she said. “Not when Rhen proves he can kill more people than they can.”
+[[speaker:sera]]“This war ends when Shinsei can no longer continue the invasion and has a structure capable of choosing to stop,” she said. “Not when Rhen proves he can kill more people than they can.”
 
 Rhen raised one hand.
 
-“Yes.”
+[[speaker:rhen]]“Yes.”
 
 Sera finally looked at him.
 
-“You don't have to vote.”
+[[speaker:sera]]“You don't have to vote.”
 
-“I agree.”
+[[speaker:rhen]]“I agree.”
 
-“I know.”
+[[speaker:sera]]“I know.”
 
-“Then why—”
+[[speaker:sera]]“Then why—”
 
-“Because everyone keeps looking at me.”
+[[speaker:rhen]]“Because everyone keeps looking at me.”
 
 Ilyra laughed again.
 
@@ -1342,7 +1342,7 @@ Jin used the opening.
 
 He spread a fresh map across the center.
 
-“Current position.”
+[[speaker:jin]]“Current position.”
 
 The next hour belonged to him.
 
@@ -1364,49 +1364,49 @@ It did not make geography disappear.
 
 Jin pointed to three fronts.
 
-“We can push here, here and here.”
+[[speaker:jin]]“We can push here, here and here.”
 
 Lei Zhen frowned.
 
-“All three?”
+[[speaker:lei]]“All three?”
 
-“No.”
+[[speaker:jin]]“No.”
 
-“Then why mark three?”
+[[speaker:lei]]“Then why mark three?”
 
-“Because those are the three places Shinsei expects us to choose.”
+[[speaker:jin]]“Because those are the three places Shinsei expects us to choose.”
 
 Lei stared at him.
 
 Jin looked exhausted enough to enjoy the irritation.
 
-“Our actual priority is the medical and command corridor between their coast and the central occupied plain.”
+[[speaker:jin]]“Our actual priority is the medical and command corridor between their coast and the central occupied plain.”
 
 Aya looked up.
 
-“You want to cut their hospitals.”
+[[speaker:aya]]“You want to cut their hospitals.”
 
 “No,” Jin said.
 
 That answer came instantly.
 
-“I want to cut military rotation while preserving a medical lane.”
+[[speaker:jin]]“I want to cut military rotation while preserving a medical lane.”
 
 Aya studied him.
 
 Jin pointed to a thinner route.
 
-“Your wounded can continue south under marked truce movement. Combat replacements cannot use the same road.”
+[[speaker:jin]]“Your wounded can continue south under marked truce movement. Combat replacements cannot use the same road.”
 
-“Why would Shinsei agree?”
+[[speaker:aya]]“Why would Shinsei agree?”
 
-“Because if they don't, we take the whole corridor and their wounded move nowhere.”
+[[speaker:jin]]“Because if they don't, we take the whole corridor and their wounded move nowhere.”
 
 Aya's face tightened.
 
 Rhen looked at Jin.
 
-“Good.”
+[[speaker:rhen]]“Good.”
 
 Jin paused.
 
@@ -1414,21 +1414,21 @@ Then looked annoyed.
 
 “What?” Rhen asked.
 
-“Nothing.”
+[[speaker:jin]]“Nothing.”
 
-“That sounded like something.”
+[[speaker:rhen]]“That sounded like something.”
 
 Sera leaned toward Rhen.
 
-“He hates praise.”
+[[speaker:sera]]“He hates praise.”
 
-“I do not.”
+[[speaker:jin]]“I do not.”
 
-“You do from people who can flatten maps.”
+[[speaker:sera]]“You do from people who can flatten maps.”
 
 Jin looked at Sera.
 
-“Continue the meeting.”
+[[speaker:jin]]“Continue the meeting.”
 
 She smiled.
 
@@ -1472,25 +1472,25 @@ He looked at her.
 
 “You're smiling,” she whispered.
 
-“Am I?”
+[[speaker:rhen]]“Am I?”
 
-“Yes.”
+[[speaker:sera]]“Yes.”
 
-“Sorry.”
+[[speaker:rhen]]“Sorry.”
 
-“Don't be.”
+[[speaker:sera]]“Don't be.”
 
 He looked at the room again.
 
-“I was worried.”
+[[speaker:rhen]]“I was worried.”
 
 Sera's expression softened.
 
-“About us?”
+[[speaker:sera]]“About us?”
 
-“Yes.”
+[[speaker:rhen]]“Yes.”
 
-“We noticed.”
+[[speaker:sera]]“We noticed.”
 
 Rhen looked at her.
 
@@ -1498,7 +1498,7 @@ She held his gaze.
 
 Then, very quietly, so nobody else could hear:
 
-“We were worried about you too.”
+[[speaker:sera]]“We were worried about you too.”
 
 Rhen's hand moved beneath the table.
 
@@ -1508,7 +1508,7 @@ Sera let him hold them.
 
 Jin slapped one palm against the map.
 
-“Decision.”
+[[speaker:jin]]“Decision.”
 
 The room quieted.
 
@@ -1520,7 +1520,7 @@ Then Aldric.
 
 Only after that did his gaze touch Rhen.
 
-“We have enough restored strength to stop reacting.”
+[[speaker:jin]]“We have enough restored strength to stop reacting.”
 
 Sera nodded.
 
@@ -1534,15 +1534,15 @@ Jin continued.
 
 Rhen looked at the map.
 
-“Then assume he changes intelligently.”
+[[speaker:rhen]]“Then assume he changes intelligently.”
 
 Jin's eyes narrowed.
 
-“Yurushi says the same.”
+[[speaker:jin]]“Yurushi says the same.”
 
-“Good.”
+[[speaker:rhen]]“Good.”
 
-“If Tsubasa moves personally, he will likely consolidate the official Ten around the Isgard theater.”
+[[speaker:jin]]“If Tsubasa moves personally, he will likely consolidate the official Ten around the Isgard theater.”
 
 Aya went very still.
 
@@ -1550,11 +1550,11 @@ Sera noticed.
 
 “So we plan for all of them,” she said.
 
-“Yes.”
+[[speaker:jin]]“Yes.”
 
 Rhen looked at Sera.
 
-“What do you want me to do?”
+[[speaker:rhen]]“What do you want me to do?”
 
 That question silenced the room one last time.
 
@@ -1570,21 +1570,21 @@ Sera held his gaze, weighing the question.
 
 Then pointed to the hospital district first.
 
-“Finish what you started.”
+[[speaker:sera]]“Finish what you started.”
 
 Rhen nodded.
 
-“Then?”
+[[speaker:rhen]]“Then?”
 
-“Then you stay where we can reach you until we know what Tsubasa does.”
+[[speaker:sera]]“Then you stay where we can reach you until we know what Tsubasa does.”
 
-“Reasonable.”
+[[speaker:rhen]]“Reasonable.”
 
-“And you do not disappear alone into Shinsei lines because you think you can solve something in ten minutes.”
+[[speaker:sera]]“And you do not disappear alone into Shinsei lines because you think you can solve something in ten minutes.”
 
 Rhen looked offended.
 
-“I have never—”
+[[speaker:rhen]]“I have never—”
 
 Sera stared.
 
@@ -1598,7 +1598,7 @@ Even Aya.
 
 Sera leaned back.
 
-“Good. Meeting adjourned.”
+[[speaker:sera]]“Good. Meeting adjourned.”
 
 People stood.
 
@@ -1614,13 +1614,13 @@ Sera squeezed his hand once before letting go.
 
 “You're really okay with this?” she asked.
 
-“With what?”
+[[speaker:rhen]]“With what?”
 
-“Not being in charge.”
+[[speaker:sera]]“Not being in charge.”
 
 Rhen looked genuinely confused.
 
-“Why would I want that?”
+[[speaker:rhen]]“Why would I want that?”
 
 Sera stared at him.
 

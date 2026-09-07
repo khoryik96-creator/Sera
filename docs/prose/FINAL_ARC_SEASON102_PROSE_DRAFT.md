@@ -76,11 +76,11 @@ Their formation remained quiet.
 
 Eirik's eyes stayed on Aldric.
 
-“So that is what you became.”
+[[speaker:eirik]]“So that is what you became.”
 
 Aldric's jaw tightened.
 
-“You came home to find out.”
+[[speaker:aldric]]“You came home to find out.”
 
 He twisted the spear.
 
@@ -126,13 +126,13 @@ Aldric's eyes sharpened.
 
 Eirik lifted his damaged shield.
 
-“Do you understand?”
+[[speaker:eirik]]“Do you understand?”
 
-“Yes.”
+[[speaker:aldric]]“Yes.”
 
-“Then stop.”
+[[speaker:eirik]]“Then stop.”
 
-“No.”
+[[speaker:aldric]]“No.”
 
 Aldric attacked again.
 
@@ -220,7 +220,7 @@ Eirik had expected that too.
 
 Aldric thrust.
 
-“You always made them long.”
+[[speaker:aldric]]“You always made them long.”
 
 The spear hit Eirik's shield again.
 
@@ -304,21 +304,21 @@ That surprised everyone.
 
 Aldric looked up.
 
-“Finish it.”
+[[speaker:aldric]]“Finish it.”
 
-“No.”
+[[speaker:eirik]]“No.”
 
-“Why?”
+[[speaker:aldric]]“Why?”
 
-“Because I came here to make Isgard submit.”
+[[speaker:eirik]]“Because I came here to make Isgard submit.”
 
 Eirik's face was tired.
 
-“Not to prove I can kill you.”
+[[speaker:eirik]]“Not to prove I can kill you.”
 
 Aldric laughed once and coughed blood.
 
-“Very civilized invasion.”
+[[speaker:aldric]]“Very civilized invasion.”
 
 The words landed harder than the spear had.
 
@@ -414,17 +414,17 @@ An officer pointed.
 
 “Two miles inland.”
 
-“Evacuation traffic?”
+[[speaker:jun]]“Evacuation traffic?”
 
 “Continuous.”
 
-“Then the wall is not the objective.”
+[[speaker:jun]]“Then the wall is not the objective.”
 
 The officer looked at the wall.
 
 Jun lifted his halberd.
 
-“The road is.”
+[[speaker:jun]]“The road is.”
 
 The first swing struck the gate.
 
@@ -486,17 +486,17 @@ Halvek's engineers dropped pre-cut support posts from two adjoining structures a
 
 Jun stopped the next rank before it fed into the blockage.
 
-“Clear side route.”
+[[speaker:jun]]“Clear side route.”
 
 The officer beside him looked furious.
 
 “They destroyed their own town.”
 
-“They destroyed our timetable.”
+[[speaker:jun]]“They destroyed our timetable.”
 
 Jun watched Isgard withdraw.
 
-“Respect the distinction.”
+[[speaker:jun]]“Respect the distinction.”
 
 By sunset, the gate belonged to Shinsei.
 
@@ -520,15 +520,15 @@ On Day Twenty-Four, Halvek reached the last fortified choke point before the int
 
 He checked the evacuation ledger himself.
 
-“Last medical wagon?”
+[[speaker:halvek]]“Last medical wagon?”
 
 “Passed.”
 
-“Civilians?”
+[[speaker:halvek]]“Civilians?”
 
 “Western villages clear.”
 
-“Rear infantry?”
+[[speaker:halvek]]“Rear infantry?”
 
 “Crossing the fork now.”
 
@@ -548,27 +548,27 @@ He had expected something grander.
 
 Halvek pointed inland.
 
-“You leave.”
+[[speaker:halvek]]“You leave.”
 
 The officer's face changed.
 
 “Commander—”
 
-“Somebody has to make them believe this gate still matters for another ten minutes.”
+[[speaker:halvek]]“Somebody has to make them believe this gate still matters for another ten minutes.”
 
 “We can leave a company.”
 
-“No.”
+[[speaker:halvek]]“No.”
 
 “Then a squad.”
 
-“No.”
+[[speaker:halvek]]“No.”
 
 The young officer's jaw trembled.
 
 Halvek softened.
 
-“Do not turn my job into other people's graves because you dislike the shape of it.”
+[[speaker:halvek]]“Do not turn my job into other people's graves because you dislike the shape of it.”
 
 The officer stared at him.
 
@@ -592,29 +592,29 @@ He entered cautiously.
 
 Halvek stood on the inner road.
 
-“Jun Kajihara?”
+[[speaker:halvek]]“Jun Kajihara?”
 
 Jun held his halberd low.
 
-“Yes.”
+[[speaker:jun]]“Yes.”
 
-“Thirteen Gates.”
+[[speaker:halvek]]“Thirteen Gates.”
 
 Jun's expression shifted.
 
-“You know it.”
+[[speaker:jun]]“You know it.”
 
-“I study roads.”
+[[speaker:halvek]]“I study roads.”
 
-“That was a siege.”
+[[speaker:jun]]“That was a siege.”
 
-“Sieges are roads with worse manners.”
+[[speaker:halvek]]“Sieges are roads with worse manners.”
 
 Jun almost smiled.
 
 Almost.
 
-“Move.”
+[[speaker:jun]]“Move.”
 
 Halvek looked behind him.
 
@@ -626,15 +626,15 @@ The last rear company had cleared the fork.
 
 He lifted his spear.
 
-“No.”
+[[speaker:halvek]]“No.”
 
 Jun sighed.
 
-“You know how this ends.”
+[[speaker:jun]]“You know how this ends.”
 
-“Yes.”
+[[speaker:halvek]]“Yes.”
 
-“Then why?”
+[[speaker:jun]]“Then why?”
 
 Halvek pulled the first signal cord.
 
@@ -656,7 +656,7 @@ The final gate dropped behind Jun's advance column, dividing the first companies
 
 Halvek looked at him.
 
-“Because ten minutes is still ten minutes.”
+[[speaker:halvek]]“Because ten minutes is still ten minutes.”
 
 Jun moved.
 
@@ -702,11 +702,11 @@ Jun caught Halvek before he hit the ground.
 
 Halvek looked annoyed by this.
 
-“Put me down.”
+[[speaker:halvek]]“Put me down.”
 
-“You'll die.”
+[[speaker:jun]]“You'll die.”
 
-“That was already happening.”
+[[speaker:halvek]]“That was already happening.”
 
 Jun lowered him carefully against the wall.
 
@@ -716,13 +716,13 @@ Halvek's breathing shortened.
 
 Jun looked toward the empty gate.
 
-“Clear.”
+[[speaker:jun]]“Clear.”
 
 Halvek's mouth moved.
 
 Not quite a smile.
 
-“Then the gate was cheap.”
+[[speaker:halvek]]“Then the gate was cheap.”
 
 He died before Jun answered.
 
@@ -782,13 +782,13 @@ His lieutenant looked at the Shinsei line.
 
 “Only two?”
 
-“After two, we are tired horses pretending otherwise.”
+[[speaker:raska]]“After two, we are tired horses pretending otherwise.”
 
 The lieutenant nodded.
 
 Raska smiled.
 
-“Good. Nice to be understood.”
+[[speaker:raska]]“Good. Nice to be understood.”
 
 They charged.
 
@@ -820,13 +820,13 @@ The animal screamed and veered.
 
 Raska understood immediately.
 
-“Disengage mounts!”
+[[speaker:raska]]“Disengage mounts!”
 
 His lieutenant stared.
 
 “What?”
 
-“Off the horses!”
+[[speaker:raska]]“Off the horses!”
 
 A cavalry commander ordering dismount in open ground sounded insane.
 
@@ -868,9 +868,9 @@ Thunder Qi discharged through the clash point and numbed three fingers.
 
 “I like fighting,” Kenji answered.
 
-“Bad place for it.”
+[[speaker:raska]]“Bad place for it.”
 
-“Yes.”
+[[speaker:kenji]]“Yes.”
 
 That honesty irritated Raska more than bravado would have.
 
@@ -888,11 +888,11 @@ Jumped once, then realized landing counted too.
 
 Kenji smiled despite himself.
 
-“Good.”
+[[speaker:kenji]]“Good.”
 
-“Stop complimenting me.”
+[[speaker:raska]]“Stop complimenting me.”
 
-“No.”
+[[speaker:kenji]]“No.”
 
 Raska cut for his shoulder.
 
@@ -936,13 +936,13 @@ But every moment Kenji spent solving Raska was a moment the river kept filling w
 
 Kenji saw it.
 
-“You're not trying to beat me.”
+[[speaker:kenji]]“You're not trying to beat me.”
 
-“Congratulations.”
+[[speaker:raska]]“Congratulations.”
 
-“You're trying to keep me here.”
+[[speaker:kenji]]“You're trying to keep me here.”
 
-“Second congratulations.”
+[[speaker:raska]]“Second congratulations.”
 
 Kenji's face tightened.
 
@@ -1000,11 +1000,11 @@ Raska grabbed his ankle.
 
 “You are very annoying,” Kenji said.
 
-“Good.”
+[[speaker:raska]]“Good.”
 
-“Let go.”
+[[speaker:kenji]]“Let go.”
 
-“No.”
+[[speaker:raska]]“No.”
 
 The second Isgard infantry formation reached the river.
 
@@ -1016,11 +1016,11 @@ He understood.
 
 His expression changed.
 
-“Damn you.”
+[[speaker:kenji]]“Damn you.”
 
 Raska laughed blood into the snow.
 
-“Third congratulations.”
+[[speaker:raska]]“Third congratulations.”
 
 Kenji could have cut the hand off.
 
@@ -1036,11 +1036,11 @@ Raska lay on his back.
 
 Kenji stood over him.
 
-“Why didn't you retreat?”
+[[speaker:kenji]]“Why didn't you retreat?”
 
 Raska looked toward the river.
 
-“They did.”
+[[speaker:raska]]“They did.”
 
 Not **we**.
 
@@ -1092,13 +1092,13 @@ The collision spread through her body instead of breaking one point.
 
 Tor drove forward.
 
-“You think I had not noticed?”
+[[speaker:tor_veyrhald]]“You think I had not noticed?”
 
-“No.”
+[[speaker:nao]]“No.”
 
-“Then stop explaining.”
+[[speaker:tor_veyrhald]]“Then stop explaining.”
 
-“No.”
+[[speaker:nao]]“No.”
 
 He swung again.
 
@@ -1146,17 +1146,17 @@ His axe regained full weight.
 
 Nao's eyes changed.
 
-“You'll tear something.”
+[[speaker:nao]]“You'll tear something.”
 
-“Probably.”
+[[speaker:tor_veyrhald]]“Probably.”
 
-“Then reduce output.”
+[[speaker:nao]]“Then reduce output.”
 
-“No.”
+[[speaker:tor_veyrhald]]“No.”
 
-“You cannot hold the old level indefinitely.”
+[[speaker:nao]]“You cannot hold the old level indefinitely.”
 
-“Do I look like I need indefinitely?”
+[[speaker:tor_veyrhald]]“Do I look like I need indefinitely?”
 
 Nao glanced past him.
 
@@ -1186,13 +1186,13 @@ Tor grinned.
 
 Nao looked furious.
 
-“Stop.”
+[[speaker:nao]]“Stop.”
 
-“You first.”
+[[speaker:tor_veyrhald]]“You first.”
 
-“This is unnecessary.”
+[[speaker:nao]]“This is unnecessary.”
 
-“It becomes unnecessary when the last company clears.”
+[[speaker:tor_veyrhald]]“It becomes unnecessary when the last company clears.”
 
 Nao's sword paused for half a beat.
 
@@ -1212,9 +1212,9 @@ A Rain-Cut sequence severed two wagon traces and collapsed the empty cart blocki
 
 Tor looked at her.
 
-“You missed.”
+[[speaker:tor_veyrhald]]“You missed.”
 
-“No.”
+[[speaker:nao]]“No.”
 
 The fallen cart narrowed the approach.
 
@@ -1222,21 +1222,21 @@ Shinsei infantry behind Nao had to slow.
 
 Tor understood.
 
-“You are helping me.”
+[[speaker:tor_veyrhald]]“You are helping me.”
 
-“I am preventing my soldiers from entering a bad choke point.”
+[[speaker:nao]]“I am preventing my soldiers from entering a bad choke point.”
 
-“That was almost convincing.”
+[[speaker:tor_veyrhald]]“That was almost convincing.”
 
 Nao's jaw tightened.
 
-“You are still the enemy commander.”
+[[speaker:nao]]“You are still the enemy commander.”
 
-“Yes.”
+[[speaker:tor_veyrhald]]“Yes.”
 
-“Move.”
+[[speaker:nao]]“Move.”
 
-“No.”
+[[speaker:tor_veyrhald]]“No.”
 
 She sighed.
 
@@ -1260,7 +1260,7 @@ Nao's sword stopped a finger from his throat.
 
 Tor looked at it.
 
-“Last company?”
+[[speaker:tor_veyrhald]]“Last company?”
 
 A horn sounded from inside the ravine.
 
@@ -1272,11 +1272,11 @@ Gone.
 
 Tor smiled.
 
-“Yes.”
+[[speaker:tor_veyrhald]]“Yes.”
 
 Nao lowered the sword.
 
-“Then leave.”
+[[speaker:nao]]“Then leave.”
 
 He tried.
 
@@ -1290,33 +1290,33 @@ Nao caught his shoulder before he hit the ground.
 
 He stared at her.
 
-“This is humiliating.”
+[[speaker:tor_veyrhald]]“This is humiliating.”
 
-“You're welcome.”
+[[speaker:nao]]“You're welcome.”
 
-“Why?”
+[[speaker:tor_veyrhald]]“Why?”
 
-“Because the battle is over.”
+[[speaker:nao]]“Because the battle is over.”
 
-“Not the war.”
+[[speaker:tor_veyrhald]]“Not the war.”
 
-“No.”
+[[speaker:nao]]“No.”
 
 Shinsei soldiers reached them.
 
 Nao raised one hand.
 
-“Prisoner. Alive.”
+[[speaker:nao]]“Prisoner. Alive.”
 
 Tor laughed weakly.
 
-“Isgard will retrieve me.”
+[[speaker:tor_veyrhald]]“Isgard will retrieve me.”
 
-“Probably.”
+[[speaker:nao]]“Probably.”
 
-“You sound certain.”
+[[speaker:tor_veyrhald]]“You sound certain.”
 
-“You are irritating enough that somebody will pay.”
+[[speaker:nao]]“You are irritating enough that somebody will pay.”
 
 He almost laughed again.
 
@@ -1348,25 +1348,25 @@ Her face became very quiet.
 
 Tor saw.
 
-“Do not.”
+[[speaker:tor_veyrhald]]“Do not.”
 
-“What?”
+[[speaker:nao]]“What?”
 
-“Look guilty.”
+[[speaker:tor_veyrhald]]“Look guilty.”
 
-“I did this.”
+[[speaker:nao]]“I did this.”
 
-“I did this.”
+[[speaker:tor_veyrhald]]“I did this.”
 
-“You chose because I gave you the choice.”
+[[speaker:tor_veyrhald]]“You chose because I gave you the choice.”
 
-“And I would choose it again.”
+[[speaker:tor_veyrhald]]“And I would choose it again.”
 
 Nao stared at him.
 
 Tor leaned his head back against the ravine wall.
 
-“That is what command is.”
+[[speaker:tor_veyrhald]]“That is what command is.”
 
 Nao looked toward the road where Shinsei banners were advancing deeper into Isgard.
 
@@ -1382,13 +1382,13 @@ Tor closed his eyes.
 
 Nao looked back.
 
-“What?”
+[[speaker:nao]]“What?”
 
-“You are thinking.”
+[[speaker:tor_veyrhald]]“You are thinking.”
 
-“I do that.”
+[[speaker:nao]]“I do that.”
 
-“Dangerous habit.”
+[[speaker:tor_veyrhald]]“Dangerous habit.”
 
 Despite herself, she smiled.
 

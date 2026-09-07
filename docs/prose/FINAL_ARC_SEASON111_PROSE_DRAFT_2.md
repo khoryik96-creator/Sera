@@ -88,7 +88,7 @@ Shunto was already airborne.
 
 Kael snarled.
 
-“Annoying.”
+[[speaker:kael]]“Annoying.”
 
 Shunto landed on the side of a cart.
 
@@ -150,15 +150,15 @@ Kael's jaw went numb.
 
 Shunto smiled.
 
-“You were enjoying yourself before.”
+[[speaker:shunto]]“You were enjoying yourself before.”
 
 Kael spat blood.
 
-“I still am.”
+[[speaker:kael]]“I still am.”
 
-“That is stupid.”
+[[speaker:shunto]]“That is stupid.”
 
-“Yes.”
+[[speaker:kael]]“Yes.”
 
 Shunto attacked.
 
@@ -206,11 +206,11 @@ He was trying to move the fight farther from the people behind him.
 
 Shunto noticed too.
 
-“You think you're leading me?”
+[[speaker:shunto]]“You think you're leading me?”
 
 Kael shrugged.
 
-“You followed.”
+[[speaker:kael]]“You followed.”
 
 Shunto's smile vanished.
 
@@ -356,7 +356,7 @@ The arm dropped.
 
 Kael looked at it.
 
-“That's inconvenient.”
+[[speaker:kael]]“That's inconvenient.”
 
 Shunto drove a hook into his guard.
 
@@ -490,7 +490,7 @@ Kael's locked left leg responded late.
 
 He was three paces behind before he even turned.
 
-“Luo!”
+[[speaker:kael]]“Luo!”
 
 Luo did not move.
 
@@ -552,7 +552,7 @@ Shunto looked down.
 
 Kael looked up from the broken cart.
 
-“No.”
+[[speaker:kael]]“No.”
 
 Shunto kicked him in the face.
 
@@ -568,7 +568,7 @@ Kael caught the ankle again.
 
 Shunto stared.
 
-“You're making this tedious.”
+[[speaker:shunto]]“You're making this tedious.”
 
 Kael's mouth was full of blood.
 
@@ -588,13 +588,13 @@ He moved behind a stone supply marker rather than farther away.
 
 Shunto saw.
 
-“Still studying?”
+[[speaker:shunto]]“Still studying?”
 
-“Yes.”
+[[speaker:luo]]“Yes.”
 
-“You think poison will bridge a realm?”
+[[speaker:shunto]]“You think poison will bridge a realm?”
 
-“No.”
+[[speaker:luo]]“No.”
 
 Shunto paused.
 
@@ -604,7 +604,7 @@ Luo continued.
 
 Shunto laughed.
 
-“Yun taught you that?”
+[[speaker:shunto]]“Yun taught you that?”
 
 The name stopped Kael more than Luo.
 
@@ -612,13 +612,13 @@ Only for a fraction.
 
 Luo's expression did not change.
 
-“Yes.”
+[[speaker:luo]]“Yes.”
 
 Shunto watched him.
 
 Something ugly entered his smile.
 
-“She taught you poorly.”
+[[speaker:shunto]]“She taught you poorly.”
 
 Kael stood.
 
@@ -768,7 +768,7 @@ Kael's hand closed around his coat.
 
 Shunto looked down again.
 
-“Really?”
+[[speaker:shunto]]“Really?”
 
 Kael pulled himself up using Shunto's body.
 
@@ -832,11 +832,11 @@ Shunto saw the gesture.
 
 His expression changed.
 
-“What was that?”
+[[speaker:shunto]]“What was that?”
 
 Kael smiled through blood.
 
-“Nothing.”
+[[speaker:kael]]“Nothing.”
 
 Shunto's eyes went to Luo.
 
@@ -936,13 +936,13 @@ Luo said nothing.
 
 Shunto smiled.
 
-“I heard.”
+[[speaker:shunto]]“I heard.”
 
 Then he turned back to Kael.
 
 The smile disappeared.
 
-“I only need one.”
+[[speaker:shunto]]“I only need one.”
 
 ---
 
@@ -976,7 +976,7 @@ Kael now had no reliable arms.
 
 Shunto looked at Luo.
 
-“One.”
+[[speaker:shunto]]“One.”
 
 Kael headbutted him.
 
@@ -986,7 +986,7 @@ Kael laughed.
 
 It sounded wrong through the blood in his mouth.
 
-“Still one.”
+[[speaker:kael]]“Still one.”
 
 Shunto's expression went blank.
 
@@ -1020,7 +1020,7 @@ Luo twenty paces away.
 
 Shunto's hand still in his hair.
 
-“Stay down.”
+[[speaker:shunto]]“Stay down.”
 
 Kael tried to stand.
 
@@ -1068,13 +1068,13 @@ Shunto glanced back.
 
 Annoyance replaced surprise.
 
-“You cannot stop me.”
+[[speaker:shunto]]“You cannot stop me.”
 
 Kael spat red into the road.
 
 “No.”
 
-“Then why are you standing?”
+[[speaker:shunto]]“Then why are you standing?”
 
 Kael looked at Luo.
 
@@ -1084,17 +1084,17 @@ Still waiting.
 
 Kael looked back at Shunto.
 
-“Because he's not done.”
+[[speaker:kael]]“Because he's not done.”
 
 Shunto's eyes narrowed.
 
 He turned fully.
 
-“You are Wuyue's Number One.”
+[[speaker:shunto]]“You are Wuyue's Number One.”
 
 Kael smiled with half his mouth.
 
-“That's why I'm standing here.”
+[[speaker:kael]]“That's why I'm standing here.”
 
 Shunto crossed the distance instantly.
 
@@ -1132,11 +1132,11 @@ He used the seconds anyway.
 
 Shunto seized Kael by the front of his coat and hauled him upright.
 
-“Look at yourself.”
+[[speaker:shunto]]“Look at yourself.”
 
 Kael's left eye opened.
 
-“Seen worse.”
+[[speaker:kael]]“Seen worse.”
 
 Shunto punched him in the stomach.
 
@@ -1164,13 +1164,13 @@ Controlled almost immediately.
 
 Shunto stared down at him.
 
-“There.”
+[[speaker:shunto]]“There.”
 
 Kael breathed in broken pieces.
 
-“There what?”
+[[speaker:kael]]“There what?”
 
-“You finally sound human.”
+[[speaker:shunto]]“You finally sound human.”
 
 Kael laughed.
 
@@ -1178,7 +1178,7 @@ It became a cough.
 
 Blood touched his lips.
 
-“I've always been human.”
+[[speaker:kael]]“I've always been human.”
 
 Shunto kicked him in the face again.
 
@@ -1254,7 +1254,7 @@ The needle spun into the mud.
 
 Shunto smiled.
 
-“Missed.”
+[[speaker:shunto]]“Missed.”
 
 Luo looked at the discarded needle.
 
@@ -1290,7 +1290,7 @@ Shunto burned the foreign substance out before it entered anything important.
 
 He tossed the needle aside.
 
-“You waited all this time for that?”
+[[speaker:shunto]]“You waited all this time for that?”
 
 Luo's voice remained quiet.
 
@@ -1334,11 +1334,11 @@ His face changed.
 
 He turned on Kael with pure fury.
 
-“You.”
+[[speaker:shunto]]“You.”
 
 Kael smiled from the ground.
 
-“Me.”
+[[speaker:kael]]“Me.”
 
 Shunto crossed back to him and seized his coat.
 
@@ -1404,13 +1404,13 @@ Every clue.
 
 Shunto looked back.
 
-“Now.”
+[[speaker:shunto]]“Now.”
 
 Luo did not move.
 
-“Now what?”
+[[speaker:luo]]“Now what?”
 
-“Now there is nobody between us.”
+[[speaker:shunto]]“Now there is nobody between us.”
 
 Luo looked past him.
 
@@ -1446,10 +1446,10 @@ Shunto frowned.
 
 Luo raised one empty hand.
 
-“You're between me and him.”
+[[speaker:luo]]“You're between me and him.”
 
 Shunto's eyes narrowed.
 
 Luo's gaze became clinical.
 
-“That's exactly where I need you.”
+[[speaker:luo]]“That's exactly where I need you.”

@@ -20,13 +20,13 @@ Sera entered the back room, shut the door and took the empty seat opposite them.
 
 Yun slid a thin packet of route papers toward Sera.
 
-“I want to follow the chain.”
+[[speaker:yun]]“I want to follow the chain.”
 
 Sera looked at the packet.
 
-“To Shinrin.”
+[[speaker:sera]]“To Shinrin.”
 
-“Yes.”
+[[speaker:yun]]“Yes.”
 
 Luo’s jaw tightened.
 
@@ -34,15 +34,15 @@ The movement was so small that most people would have missed it.
 
 Sera did not.
 
-“How much do we know?”
+[[speaker:sera]]“How much do we know?”
 
 Lu answered first.
 
-“Enough to say the product is not local. Not enough to say where in Shinrin it begins.”
+[[speaker:luweiran]]“Enough to say the product is not local. Not enough to say where in Shinrin it begins.”
 
 He opened one ledger.
 
-“Three merchant intermediaries. Two medical-export fronts. One port authority that repeatedly clears the same class of sealed container under different product names.”
+[[speaker:luweiran]]“Three merchant intermediaries. Two medical-export fronts. One port authority that repeatedly clears the same class of sealed container under different product names.”
 
 “Shinsei?” Sera asked.
 
@@ -50,19 +50,19 @@ He opened one ledger.
 
 Yun tapped the route packet.
 
-“That is why I need to see it from the other side.”
+[[speaker:yun]]“That is why I need to see it from the other side.”
 
 Rhen spoke from the window.
 
-“Need?”
+[[speaker:rhen]]“Need?”
 
 Yun glanced at him.
 
-“Best available option.”
+[[speaker:yun]]“Best available option.”
 
-“Different word.”
+[[speaker:rhen]]“Different word.”
 
-“Fine. I want to.”
+[[speaker:yun]]“Fine. I want to.”
 
 Rhen nodded.
 
@@ -70,37 +70,37 @@ That answer satisfied him more.
 
 Sera looked at Yun.
 
-“You’re proposing what exactly?”
+[[speaker:sera]]“You’re proposing what exactly?”
 
-“Merchant-medical cover. Ordinary entry. No martial banner. No Wuyue rank.”
+[[speaker:yun]]“Merchant-medical cover. Ordinary entry. No martial banner. No Wuyue rank.”
 
-“You’re Wuyue No.10.”
+[[speaker:sera]]“You’re Wuyue No.10.”
 
-“Which is why I would prefer nobody announces me at the border.”
+[[speaker:yun]]“Which is why I would prefer nobody announces me at the border.”
 
 Sera ignored the dryness.
 
-“And if Shinrin is more than a pharmaceutical source?”
+[[speaker:sera]]“And if Shinrin is more than a pharmaceutical source?”
 
-“Then I leave.”
+[[speaker:yun]]“Then I leave.”
 
 Luo made a sound that might have been a laugh if there had been anything funny in it.
 
 Yun turned her head toward him.
 
-“You disagree?”
+[[speaker:yun]]“You disagree?”
 
-“I disagree with the ease of that sentence.”
+[[speaker:luo]]“I disagree with the ease of that sentence.”
 
-“I said I leave. I did not say elegantly.”
+[[speaker:yun]]“I said I leave. I did not say elegantly.”
 
-“You also said the last black-market laboratory would take one day.”
+[[speaker:luo]]“You also said the last black-market laboratory would take one day.”
 
-“It did.”
+[[speaker:yun]]“It did.”
 
-“You were poisoned for four.”
+[[speaker:luo]]“You were poisoned for four.”
 
-“Different measurement.”
+[[speaker:yun]]“Different measurement.”
 
 Sera watched them.
 
@@ -112,39 +112,39 @@ It had gone cold.
 
 He drank it anyway.
 
-“I should go with you.”
+[[speaker:luo]]“I should go with you.”
 
 Yun’s answer came immediately.
 
 “No.”
 
-“I know the compound.”
+[[speaker:luo]]“I know the compound.”
 
-“You know my notation.”
+[[speaker:yun]]“You know my notation.”
 
-“I’m a physician.”
+[[speaker:luo]]“I’m a physician.”
 
-“That is not a travel credential.”
+[[speaker:yun]]“That is not a travel credential.”
 
-“It can be.”
+[[speaker:luo]]“It can be.”
 
-“Two Wuyue medical specialists arriving together on the same route is twice the profile.”
+[[speaker:yun]]“Two Wuyue medical specialists arriving together on the same route is twice the profile.”
 
-“Or twice the chance one gets out.”
+[[speaker:luo]]“Or twice the chance one gets out.”
 
 Yun’s gaze stayed on him.
 
-“And if both are caught?”
+[[speaker:yun]]“And if both are caught?”
 
 Luo did not answer.
 
 She continued more quietly.
 
-“If I find something, somebody here needs to understand it.”
+[[speaker:yun]]“If I find something, somebody here needs to understand it.”
 
-“I can understand it beside you.”
+[[speaker:luo]]“I can understand it beside you.”
 
-“If you’re beside me, nobody here can.”
+[[speaker:yun]]“If you’re beside me, nobody here can.”
 
 That stopped him.
 
@@ -166,13 +166,13 @@ Yun looked back at her.
 
 Lu said, “Route time alone is six to eight days each way depending on ship transfer.”
 
-“Then call it three.”
+[[speaker:sera]]“Then call it three.”
 
 “Three weeks,” Luo repeated.
 
 Yun nodded.
 
-“If I have nothing useful by then, I come home.”
+[[speaker:yun]]“If I have nothing useful by then, I come home.”
 
 Sera leaned back.
 
@@ -186,31 +186,31 @@ Yun would obey a direct order. Sera knew that.
 
 She also knew the order would not make the problem disappear. It would only mean somebody less suited followed the route later.
 
-“What do you need?”
+[[speaker:sera]]“What do you need?”
 
 Yun’s eyes sharpened.
 
-“Merchant documents. Medical credentials that survive casual verification. Coin in local forms if Lu can arrange it. Two dead-drop codes. One emergency route toward Isgard if southern return closes.”
+[[speaker:yun]]“Merchant documents. Medical credentials that survive casual verification. Coin in local forms if Lu can arrange it. Two dead-drop codes. One emergency route toward Isgard if southern return closes.”
 
 Lu was already writing.
 
-“Anything else?”
+[[speaker:luweiran]]“Anything else?”
 
 Yun looked at Rhen.
 
-“Antidotes.”
+[[speaker:yun]]“Antidotes.”
 
 Rhen raised an eyebrow.
 
-“For what?”
+[[speaker:rhen]]“For what?”
 
-“I don’t know yet.”
+[[speaker:yun]]“I don’t know yet.”
 
-“Good answer.”
+[[speaker:rhen]]“Good answer.”
 
 He pushed off the wall.
 
-“I’ll prepare broad-spectrum support, not a suitcase full of miracles that announces who supplied you.”
+[[speaker:rhen]]“I’ll prepare broad-spectrum support, not a suitcase full of miracles that announces who supplied you.”
 
 Yun nodded.
 
@@ -230,25 +230,25 @@ Sera looked at Yun.
 
 “If you miss the three-week contact window, we treat it as a problem.”
 
-“Understood.”
+[[speaker:yun]]“Understood.”
 
-“If you learn the problem is larger than Axtaya, your objective changes from solving it to bringing back enough truth for the rest of us to act.”
+[[speaker:sera]]“If you learn the problem is larger than Axtaya, your objective changes from solving it to bringing back enough truth for the rest of us to act.”
 
 Yun’s mouth moved slightly.
 
-“Also understood.”
+[[speaker:yun]]“Also understood.”
 
-“And if somebody offers you tea that smells like bitter almond—”
+[[speaker:sera]]“And if somebody offers you tea that smells like bitter almond—”
 
 Yun stared at her.
 
 Sera smiled.
 
-“I wanted one piece of advice that annoyed you.”
+[[speaker:sera]]“I wanted one piece of advice that annoyed you.”
 
-“It worked.”
+[[speaker:yun]]“It worked.”
 
-“Good.”
+[[speaker:sera]]“Good.”
 
 The meeting ended without ceremony.
 
@@ -308,11 +308,11 @@ Luo stood in the doorway of their room and watched her fold a grey outer robe.
 
 “You forgot your knife.”
 
-“No, I didn’t.”
+[[speaker:yun]]“No, I didn’t.”
 
-“It isn’t in the case.”
+[[speaker:luo]]“It isn’t in the case.”
 
-“Exactly.”
+[[speaker:yun]]“Exactly.”
 
 He looked at the sleeve hanging over the edge of the bed.
 
@@ -320,9 +320,9 @@ Yun looked too.
 
 “There’s a knife in the sleeve,” he said.
 
-“There are two.”
+[[speaker:yun]]“There are two.”
 
-“Of course.”
+[[speaker:luo]]“Of course.”
 
 She folded the robe over them.
 
@@ -344,25 +344,25 @@ Yun closed the case.
 
 “You’re thinking loudly.”
 
-“I am standing.”
+[[speaker:luo]]“I am standing.”
 
-“You do both loudly.”
+[[speaker:yun]]“You do both loudly.”
 
 He walked in.
 
-“Three weeks.”
+[[speaker:luo]]“Three weeks.”
 
-“Yes.”
+[[speaker:yun]]“Yes.”
 
-“If you have nothing, you come back.”
+[[speaker:luo]]“If you have nothing, you come back.”
 
-“Yes.”
+[[speaker:yun]]“Yes.”
 
-“If the route turns bad, you come back.”
+[[speaker:luo]]“If the route turns bad, you come back.”
 
-“Yes.”
+[[speaker:yun]]“Yes.”
 
-“If somebody stronger than you starts hunting you—”
+[[speaker:luo]]“If somebody stronger than you starts hunting you—”
 
 Yun lifted one eyebrow.
 
@@ -370,21 +370,21 @@ Luo stopped.
 
 “What?”
 
-“You were going to say come back.”
+[[speaker:yun]]“You were going to say come back.”
 
-“I was.”
+[[speaker:luo]]“I was.”
 
-“I had guessed.”
+[[speaker:yun]]“I had guessed.”
 
 He sat on the edge of the bed.
 
-“You’re enjoying this.”
+[[speaker:luo]]“You’re enjoying this.”
 
-“No.”
+[[speaker:yun]]“No.”
 
-“You look amused.”
+[[speaker:luo]]“You look amused.”
 
-“I’m enjoying you trying to phrase fear as procedure.”
+[[speaker:yun]]“I’m enjoying you trying to phrase fear as procedure.”
 
 Luo looked down at his hands.
 
@@ -394,19 +394,19 @@ Yun’s expression softened.
 
 She came closer and stood between his knees.
 
-“I am not walking into a war.”
+[[speaker:yun]]“I am not walking into a war.”
 
-“We don’t know that.”
+[[speaker:luo]]“We don’t know that.”
 
-“We know enough that I would not go if I thought it was one.”
+[[speaker:yun]]“We know enough that I would not go if I thought it was one.”
 
-“That is not the same thing.”
+[[speaker:luo]]“That is not the same thing.”
 
-“No.”
+[[speaker:yun]]“No.”
 
 She touched two fingers beneath his chin and made him look up.
 
-“But it is true.”
+[[speaker:yun]]“But it is true.”
 
 Luo held her wrist.
 
@@ -414,23 +414,23 @@ Her pulse was steady.
 
 He hated that too.
 
-“I should still go.”
+[[speaker:luo]]“I should still go.”
 
-“We had this argument.”
+[[speaker:yun]]“We had this argument.”
 
-“I have improved it since.”
+[[speaker:luo]]“I have improved it since.”
 
-“Have you?”
+[[speaker:yun]]“Have you?”
 
-“Yes. My new argument is that I dislike the old conclusion.”
+[[speaker:luo]]“Yes. My new argument is that I dislike the old conclusion.”
 
 Yun’s mouth twitched.
 
-“Strong.”
+[[speaker:yun]]“Strong.”
 
-“Thank you.”
+[[speaker:luo]]“Thank you.”
 
-“Still no.”
+[[speaker:yun]]“Still no.”
 
 He leaned his forehead against her stomach for a moment.
 
@@ -442,23 +442,23 @@ That was probably why Luo liked it.
 
 After a while he said, “Use the second notebook.”
 
-“I know.”
+[[speaker:yun]]“I know.”
 
-“The one with the false herb-index headings.”
+[[speaker:luo]]“The one with the false herb-index headings.”
 
-“I know.”
+[[speaker:yun]]“I know.”
 
-“Page offsets in thirds.”
+[[speaker:luo]]“Page offsets in thirds.”
 
-“I invented them.”
+[[speaker:yun]]“I invented them.”
 
-“You forget things.”
+[[speaker:luo]]“You forget things.”
 
 Yun looked down at him.
 
-“I am considering poisoning you before I leave.”
+[[speaker:yun]]“I am considering poisoning you before I leave.”
 
-“See? Romance.”
+[[speaker:luo]]“See? Romance.”
 
 She pushed his face away with one palm.
 
@@ -480,47 +480,47 @@ The kind of kiss built from having done it enough times to know where the other 
 
 When she pulled back, Luo did not let go of her hand.
 
-“Three weeks.”
+[[speaker:luo]]“Three weeks.”
 
-“Three weeks.”
+[[speaker:yun]]“Three weeks.”
 
-“You owe me tea when you get back.”
+[[speaker:luo]]“You owe me tea when you get back.”
 
-“Why do I owe you tea?”
+[[speaker:yun]]“Why do I owe you tea?”
 
-“Because you’re leaving.”
+[[speaker:luo]]“Because you’re leaving.”
 
-“That is not how debt works.”
+[[speaker:yun]]“That is not how debt works.”
 
-“It is medical debt.”
+[[speaker:luo]]“It is medical debt.”
 
-“You made that up.”
+[[speaker:yun]]“You made that up.”
 
-“I’m a physician.”
+[[speaker:luo]]“I’m a physician.”
 
-“Apparently that means law now.”
+[[speaker:yun]]“Apparently that means law now.”
 
-“Only when useful.”
+[[speaker:luo]]“Only when useful.”
 
 Yun picked up the case.
 
 At the door she stopped.
 
-“Luo.”
+[[speaker:yun]]“Luo.”
 
 He looked up.
 
-“If something comes back before I do, read it twice.”
+[[speaker:yun]]“If something comes back before I do, read it twice.”
 
 His expression changed.
 
-“Why?”
+[[speaker:luo]]“Why?”
 
-“Because if I’m hiding something in medical shorthand, the obvious layer will be for whoever opens it first.”
+[[speaker:yun]]“Because if I’m hiding something in medical shorthand, the obvious layer will be for whoever opens it first.”
 
-“And the second?”
+[[speaker:luo]]“And the second?”
 
-“For you.”
+[[speaker:yun]]“For you.”
 
 He nodded.
 
@@ -528,27 +528,27 @@ Yun opened the door.
 
 Then glanced back.
 
-“Do not reorganize my poisons.”
+[[speaker:yun]]“Do not reorganize my poisons.”
 
-“I would never.”
+[[speaker:luo]]“I would never.”
 
-“You did last winter.”
+[[speaker:yun]]“You did last winter.”
 
-“I improved the labels.”
+[[speaker:luo]]“I improved the labels.”
 
-“You alphabetized compounds that should be stored by reaction class.”
+[[speaker:yun]]“You alphabetized compounds that should be stored by reaction class.”
 
-“It looked better.”
+[[speaker:luo]]“It looked better.”
 
-“If you touch them, I will know.”
+[[speaker:yun]]“If you touch them, I will know.”
 
-“How?”
+[[speaker:luo]]“How?”
 
 Yun stared at him.
 
 Luo remembered who he was speaking to.
 
-“Right.”
+[[speaker:luo]]“Right.”
 
 She left.
 
@@ -602,15 +602,15 @@ Routine.
 
 “Any live cultures?”
 
-“No.”
+[[speaker:yun]]“No.”
 
 “Animal material?”
 
-“No.”
+[[speaker:yun]]“No.”
 
 “Restricted meridian tonics?”
 
-“None.”
+[[speaker:yun]]“None.”
 
 He returned the paper.
 
@@ -642,11 +642,11 @@ A woman selling steamed buns noticed.
 
 Yun looked at her.
 
-“Is it obvious?”
+[[speaker:yun]]“Is it obvious?”
 
 “You read notices.”
 
-“That is how you identify foreigners?”
+[[speaker:yun]]“That is how you identify foreigners?”
 
 “Locals complain without reading.”
 
@@ -660,13 +660,13 @@ Yun paid.
 
 “Depends who is lying.”
 
-“Clan court?”
+[[speaker:yun]]“Clan court?”
 
 The woman snorted.
 
 “Not anymore.”
 
-“Shinsei?”
+[[speaker:yun]]“Shinsei?”
 
 That changed the woman’s face.
 
@@ -676,7 +676,7 @@ Recognition.
 
 “Guild arbitration. Local magistrate sits with one guild clerk. Used to be the families handled it.”
 
-“Better now?”
+[[speaker:yun]]“Better now?”
 
 The woman looked toward the two waiting merchants.
 
@@ -714,7 +714,7 @@ A woman selling tea from a roadside kettle noticed where Yun was looking.
 
 “Every spring.”
 
-“For Shinsei?”
+[[speaker:yun]]“For Shinsei?”
 
 The woman wiped her hands on her apron.
 
@@ -728,7 +728,7 @@ The question earned genuine surprise.
 
 “You really are foreign.”
 
-“So I have been told.”
+[[speaker:yun]]“So I have been told.”
 
 “Seven Bridges.”
 
@@ -748,13 +748,13 @@ Yun said nothing.
 
 “By the last night, six bridges were gone. Burned or broken. The clans were fighting over the seventh while families were still trying to cross.”
 
-“Tsubasa Kurokawa?”
+[[speaker:yun]]“Tsubasa Kurokawa?”
 
 The woman nodded.
 
 “He was young then. Not what he is now.”
 
-“What did he do?”
+[[speaker:yun]]“What did he do?”
 
 “Stayed.”
 
@@ -764,11 +764,11 @@ The woman shrugged.
 
 “That is the story.”
 
-“He fought three clans.”
+[[speaker:yun]]“He fought three clans.”
 
 “Probably.”
 
-“You don't know?”
+[[speaker:yun]]“You don't know?”
 
 “I know my mother crossed.”
 
@@ -908,15 +908,15 @@ The clerk looked confused.
 
 “Of course.”
 
-“For taxes?”
+[[speaker:yun]]“For taxes?”
 
 “Yes.”
 
-“And disputes?”
+[[speaker:yun]]“And disputes?”
 
 “Yes.”
 
-“And medical licensing?”
+[[speaker:yun]]“And medical licensing?”
 
 “Different division.”
 

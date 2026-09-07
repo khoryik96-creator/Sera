@@ -26,11 +26,11 @@ He also understood it.
 
 Maedra looked down as if surprised to own one.
 
-“Rude.”
+[[speaker:maedra]]“Rude.”
 
-“That is not a medical assessment.”
+[[speaker:eldran]]“That is not a medical assessment.”
 
-“It is the assessment I have.”
+[[speaker:maedra]]“It is the assessment I have.”
 
 They stood at the western cut where two Isgard retreat columns were crossing behind a temporary shield line.
 
@@ -46,7 +46,7 @@ A scout came running.
 
 Maedra's face hardened.
 
-“Jun?”
+[[speaker:maedra]]“Jun?”
 
 “Yes.”
 
@@ -54,15 +54,15 @@ Eldran swore.
 
 Maedra lifted her spear.
 
-“Move the wounded first.”
+[[speaker:maedra]]“Move the wounded first.”
 
-“They are already moving.”
+[[speaker:eldran]]“They are already moving.”
 
-“Then faster.”
+[[speaker:maedra]]“Then faster.”
 
-“That is not how wounded work.”
+[[speaker:eldran]]“That is not how wounded work.”
 
-“Today it is.”
+[[speaker:maedra]]“Today it is.”
 
 Jun's first halberd strike hit the outer barricade two minutes later.
 
@@ -228,15 +228,15 @@ Eldran tried to laugh.
 
 It became a wet cough.
 
-“You were going to die.”
+[[speaker:eldran]]“You were going to die.”
 
-“That was my decision.”
+[[speaker:maedra]]“That was my decision.”
 
-“Bad decision.”
+[[speaker:eldran]]“Bad decision.”
 
-“Still mine.”
+[[speaker:maedra]]“Still mine.”
 
-“Complain later.”
+[[speaker:eldran]]“Complain later.”
 
 A Dravaryn extraction squad reached them.
 
@@ -264,23 +264,23 @@ Villains were easier when they wanted blood more than purpose.
 
 Eldran's eyes opened once during transport.
 
-“Did they get through?”
+[[speaker:eldran]]“Did they get through?”
 
 Maedra thought he meant Jun.
 
 Then understood.
 
-“The column?”
+[[speaker:maedra]]“The column?”
 
 He blinked.
 
-“Yes.”
+[[speaker:eldran]]“Yes.”
 
-“Both.”
+[[speaker:maedra]]“Both.”
 
 His face relaxed.
 
-“Good.”
+[[speaker:eldran]]“Good.”
 
 The medics did not tell him what his shoulder looked like.
 
@@ -354,27 +354,27 @@ Thunder Qi snapped around his boots.
 
 Sigrun looked at him.
 
-“Raska.”
+[[speaker:sigrun]]“Raska.”
 
 Kenji's expression changed.
 
 Not much.
 
-“He died holding a retreat.”
+[[speaker:kenji]]“He died holding a retreat.”
 
-“I know.”
+[[speaker:sigrun]]“I know.”
 
-“You killed him.”
+[[speaker:sigrun]]“You killed him.”
 
-“Yes.”
+[[speaker:kenji]]“Yes.”
 
-“Good.”
+[[speaker:sigrun]]“Good.”
 
 Kenji blinked.
 
 Sigrun lowered her spear.
 
-“Now I know which one to hit.”
+[[speaker:sigrun]]“Now I know which one to hit.”
 
 She attacked.
 
@@ -410,7 +410,7 @@ His eyes widened.
 
 Sigrun smiled without humor.
 
-“Again.”
+[[speaker:sigrun]]“Again.”
 
 He did not.
 
@@ -468,15 +468,15 @@ Pain did not disappear simply because the body had learned to stand around it.
 
 Kenji understood the rule.
 
-“Different targets.”
+[[speaker:kenji]]“Different targets.”
 
 Sigrun heard him say it to himself.
 
-“Very clever.”
+[[speaker:sigrun]]“Very clever.”
 
-“You're rude.”
+[[speaker:kenji]]“You're rude.”
 
-“So was Raska.”
+[[speaker:sigrun]]“So was Raska.”
 
 That shut him up.
 
@@ -530,23 +530,23 @@ The line was still too long.
 
 He exhaled.
 
-“I need the road.”
+[[speaker:kenji]]“I need the road.”
 
 Sigrun answered, “I know.”
 
-“You cannot keep standing.”
+[[speaker:kenji]]“You cannot keep standing.”
 
-“I know.”
+[[speaker:sigrun]]“I know.”
 
-“Then what are we doing?”
+[[speaker:kenji]]“Then what are we doing?”
 
 She smiled.
 
-“Waiting.”
+[[speaker:sigrun]]“Waiting.”
 
-“For what?”
+[[speaker:kenji]]“For what?”
 
-“The road to stop needing me.”
+[[speaker:sigrun]]“The road to stop needing me.”
 
 Kenji hated that answer.
 
@@ -610,7 +610,7 @@ She went to one knee.
 
 Kenji stepped back.
 
-“Done.”
+[[speaker:kenji]]“Done.”
 
 Sigrun looked up.
 
@@ -640,7 +640,7 @@ Kenji whispered, “What are you?”
 
 She answered with the truth.
 
-“Tired.”
+[[speaker:sigrun]]“Tired.”
 
 Then attacked him again.
 
@@ -676,37 +676,37 @@ Nothing healed.
 
 That mattered enough that she said it aloud.
 
-“Not healing.”
+[[speaker:sigrun]]“Not healing.”
 
 Kenji stopped for half a beat.
 
-“What?”
+[[speaker:kenji]]“What?”
 
-“I know what face you're making.”
+[[speaker:sigrun]]“I know what face you're making.”
 
-“I am not making a face.”
+[[speaker:kenji]]“I am not making a face.”
 
-“You are.”
+[[speaker:sigrun]]“You are.”
 
 Sigrun drew breath through pain.
 
-“Last Body Standing delays consequences. It does not remove them.”
+[[speaker:sigrun]]“Last Body Standing delays consequences. It does not remove them.”
 
 Kenji looked at the blood covering her armour.
 
-“That is worse.”
+[[speaker:kenji]]“That is worse.”
 
-“Yes.”
+[[speaker:sigrun]]“Yes.”
 
-“Stop.”
+[[speaker:kenji]]“Stop.”
 
-“No.”
+[[speaker:sigrun]]“No.”
 
 He laughed once in disbelief.
 
-“I hate this country.”
+[[speaker:kenji]]“I hate this country.”
 
-“Get in line.”
+[[speaker:sigrun]]“Get in line.”
 
 Then the technique settled fully.
 
@@ -732,13 +732,13 @@ His entire art was movement.
 
 He knew what it meant when a body borrowed movement from its own future.
 
-“You are going to die when that ends.”
+[[speaker:kenji]]“You are going to die when that ends.”
 
-“Maybe.”
+[[speaker:sigrun]]“Maybe.”
 
-“That is not strategy.”
+[[speaker:kenji]]“That is not strategy.”
 
-“The last wagon is still in sight.”
+[[speaker:sigrun]]“The last wagon is still in sight.”
 
 Kenji looked past her.
 
@@ -780,11 +780,11 @@ Sigrun knew it.
 
 “Merciful?” she asked.
 
-“Efficient.”
+[[speaker:kenji]]“Efficient.”
 
-“Liar.”
+[[speaker:sigrun]]“Liar.”
 
-“Rude.”
+[[speaker:kenji]]“Rude.”
 
 He swept her leg.
 
@@ -802,13 +802,13 @@ She used the spear as a crutch and stood again.
 
 Kenji stared at her.
 
-“You are making Paragons look stupid.”
+[[speaker:kenji]]“You are making Paragons look stupid.”
 
-“You are doing fine.”
+[[speaker:sigrun]]“You are doing fine.”
 
-“That was almost nice.”
+[[speaker:kenji]]“That was almost nice.”
 
-“Do not get used to it.”
+[[speaker:sigrun]]“Do not get used to it.”
 
 A horn sounded behind Sigrun.
 
@@ -838,7 +838,7 @@ Her spear lowered.
 
 Kenji's eyes widened.
 
-“Wait.”
+[[speaker:kenji]]“Wait.”
 
 Sigrun released Last Body Standing.
 
@@ -866,29 +866,29 @@ Kenji caught her head before it struck stone.
 
 He swore.
 
-“Medic!”
+[[speaker:kenji]]“Medic!”
 
 A Shinsei officer stared.
 
 “Lady Sigrun is enemy command.”
 
-“Medic!”
+[[speaker:kenji]]“Medic!”
 
 The officer ran.
 
 Sigrun's eyes opened a fraction.
 
-“You won?”
+[[speaker:sigrun]]“You won?”
 
 Kenji looked down the empty road.
 
-“No.”
+[[speaker:kenji]]“No.”
 
-“Good.”
+[[speaker:sigrun]]“Good.”
 
-“You are impossible.”
+[[speaker:kenji]]“You are impossible.”
 
-“Also good.”
+[[speaker:sigrun]]“Also good.”
 
 Then she lost consciousness.
 
@@ -904,7 +904,7 @@ A medic arrived.
 
 Kenji moved aside.
 
-“Keep her alive.”
+[[speaker:kenji]]“Keep her alive.”
 
 “Prisoner?”
 
@@ -912,7 +912,7 @@ He looked at Sigrun.
 
 Then toward the northern bend.
 
-“Until Isgard comes for her.”
+[[speaker:kenji]]“Until Isgard comes for her.”
 
 The medic blinked.
 
@@ -920,7 +920,7 @@ The medic blinked.
 
 Kenji's expression hardened.
 
-“We have the road. We do not need a dying woman for decoration.”
+[[speaker:kenji]]“We have the road. We do not need a dying woman for decoration.”
 
 The medic nodded.
 
@@ -988,7 +988,7 @@ Another messenger entered.
 
 Varok Skeldran looked up.
 
-“How many?”
+[[speaker:varok]]“How many?”
 
 “Two companies.”
 
@@ -1018,11 +1018,11 @@ The officer stopped.
 
 “Maedra—”
 
-“Cannot stand.”
+[[speaker:solveig]]“Cannot stand.”
 
 “Sigrun—”
 
-“May not survive the night.”
+[[speaker:solveig]]“May not survive the night.”
 
 Nobody spoke.
 
@@ -1036,13 +1036,13 @@ An old staff captain asked the question nobody wanted responsibility for.
 
 Solveig looked at him.
 
-“Until one of them can stand again?”
+[[speaker:solveig]]“Until one of them can stand again?”
 
 He swallowed.
 
 “Yes.”
 
-“Me.”
+[[speaker:solveig]]“Me.”
 
 There.
 
@@ -1054,11 +1054,11 @@ A woman deciding that seven minutes was already six too many.
 
 Solveig took the supply order from the courier.
 
-“Halvek's seal is dead. Route this under emergency theatre authority.”
+[[speaker:solveig]]“Halvek's seal is dead. Route this under emergency theatre authority.”
 
 “Does that exist?”
 
-“It does now.”
+[[speaker:solveig]]“It does now.”
 
 “Can you do that?”
 
@@ -1068,43 +1068,43 @@ He reconsidered the philosophical value of the question.
 
 “Yes, Acting Commander.”
 
-“Good.”
+[[speaker:solveig]]“Good.”
 
 She turned to Varok.
 
-“You cannot go east and west.”
+[[speaker:solveig]]“You cannot go east and west.”
 
-“I had noticed.”
+[[speaker:varok]]“I had noticed.”
 
-“Which front collapses faster without you?”
+[[speaker:solveig]]“Which front collapses faster without you?”
 
 Varok looked at both messages.
 
 Pain crossed his face.
 
-“East.”
+[[speaker:varok]]“East.”
 
-“Then go east.”
+[[speaker:solveig]]“Then go east.”
 
-“West loses ground.”
+[[speaker:varok]]“West loses ground.”
 
-“Yes.”
+[[speaker:solveig]]“Yes.”
 
-“Possibly the ridge.”
+[[speaker:varok]]“Possibly the ridge.”
 
-“Yes.”
+[[speaker:solveig]]“Yes.”
 
 Varok hated her for agreeing.
 
 Solveig let him.
 
-“Save the people whose retreat becomes impossible without you. Ground can be retaken.”
+[[speaker:solveig]]“Save the people whose retreat becomes impossible without you. Ground can be retaken.”
 
 Varok grabbed his coat.
 
-“Tell the west I chose east.”
+[[speaker:varok]]“Tell the west I chose east.”
 
-“I will tell them **I** chose east.”
+[[speaker:solveig]]“I will tell them **I** chose east.”
 
 He stopped.
 
@@ -1120,11 +1120,11 @@ Varok left.
 
 Solveig turned to the coast board.
 
-“Brynja.”
+[[speaker:solveig]]“Brynja.”
 
 A clerk said, “No reply to the last two messages.”
 
-“Why?”
+[[speaker:solveig]]“Why?”
 
 “We do not know.”
 
@@ -1134,13 +1134,13 @@ Then the door opened and a coastal runner stumbled in covered in soot.
 
 Solveig's face tightened.
 
-“Brynja?”
+[[speaker:solveig]]“Brynja?”
 
 “Alive.”
 
 The room exhaled.
 
-“Port?”
+[[speaker:solveig]]“Port?”
 
 “Still ours.”
 
@@ -1166,13 +1166,13 @@ Her officers stared at her.
 
 “Commander—”
 
-“Wait.”
+[[speaker:brynja]]“Wait.”
 
 Shinsei troops formed.
 
 Heavy infantry moved toward the road.
 
-“Wait.”
+[[speaker:brynja]]“Wait.”
 
 More boats entered the shallows behind them.
 
@@ -1224,25 +1224,25 @@ When a clerk later called it a victory, Brynja said, “It was a bill we could a
 
 Solveig read the coastal report once.
 
-“Give Brynja independent authority over coastal denial.”
+[[speaker:solveig]]“Give Brynja independent authority over coastal denial.”
 
 A staff officer said, “Halvek used to coordinate port roads.”
 
-“Halvek is dead.”
+[[speaker:solveig]]“Halvek is dead.”
 
 The sentence hurt.
 
 Solveig did not soften it.
 
-“Do not replace him with one person and pretend the institution survived unchanged.”
+[[speaker:solveig]]“Do not replace him with one person and pretend the institution survived unchanged.”
 
 She looked at the forest routes.
 
-“Astrid.”
+[[speaker:solveig]]“Astrid.”
 
 Another clerk said, “She is missing.”
 
-“Missing how?”
+[[speaker:solveig]]“Missing how?”
 
 “No contact for eleven hours.”
 
@@ -1250,7 +1250,7 @@ Solveig closed her eyes.
 
 Then a voice came from the doorway.
 
-“Your definition of missing is dramatic.”
+[[speaker:astrid]]“Your definition of missing is dramatic.”
 
 Astrid Vardrenn entered carrying a broken map case and three sticks tied with red cloth.
 
@@ -1258,39 +1258,39 @@ Everyone stared.
 
 Solveig said, “Where were you?”
 
-“Finding a road.”
+[[speaker:astrid]]“Finding a road.”
 
-“There is no road through Greyroot.”
+[[speaker:solveig]]“There is no road through Greyroot.”
 
-“There is now.”
+[[speaker:astrid]]“There is now.”
 
 Astrid dropped the sticks on the table.
 
-“Not a good road.”
+[[speaker:astrid]]“Not a good road.”
 
-“How bad?”
+[[speaker:solveig]]“How bad?”
 
-“Wagons one at a time. No heavy cavalry. Mud in two gullies. One bridge is actually three trees lying convincingly near each other.”
+[[speaker:astrid]]“Wagons one at a time. No heavy cavalry. Mud in two gullies. One bridge is actually three trees lying convincingly near each other.”
 
 Solveig looked at her.
 
-“Can medicine use it?”
+[[speaker:solveig]]“Can medicine use it?”
 
-“Yes.”
+[[speaker:astrid]]“Yes.”
 
-“Wounded?”
+[[speaker:solveig]]“Wounded?”
 
-“Slowly.”
+[[speaker:astrid]]“Slowly.”
 
-“How many did you move?”
+[[speaker:solveig]]“How many did you move?”
 
-“Six hundred wounded. Three medicine carts. Two field kitchens. One extremely angry goat herd.”
+[[speaker:astrid]]“Six hundred wounded. Three medicine carts. Two field kitchens. One extremely angry goat herd.”
 
 A clerk blinked.
 
 “Why goats?”
 
-“Food has legs.”
+[[speaker:astrid]]“Food has legs.”
 
 Lu Weiran would have loved her.
 
@@ -1298,17 +1298,17 @@ Solveig almost smiled.
 
 Almost.
 
-“Greyroot becomes emergency route authority under you.”
+[[speaker:solveig]]“Greyroot becomes emergency route authority under you.”
 
 Astrid grimaced.
 
-“That sounds like paperwork.”
+[[speaker:astrid]]“That sounds like paperwork.”
 
-“It is.”
+[[speaker:solveig]]“It is.”
 
-“I withdraw the road.”
+[[speaker:astrid]]“I withdraw the road.”
 
-“Denied.”
+[[speaker:solveig]]“Denied.”
 
 The room laughed.
 

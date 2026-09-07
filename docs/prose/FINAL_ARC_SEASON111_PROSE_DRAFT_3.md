@@ -92,19 +92,19 @@ If Kael was alive, looking would waste the thing Kael had nearly died to buy.
 
 Shunto raised one hook.
 
-“You're very calm.”
+[[speaker:shunto]]“You're very calm.”
 
 Luo reached into his sleeve.
 
-“I'm working.”
+[[speaker:luo]]“I'm working.”
 
-“On me?”
+[[speaker:shunto]]“On me?”
 
 “Yes.”
 
 Shunto smiled.
 
-“Then work faster.”
+[[speaker:shunto]]“Then work faster.”
 
 He moved.
 
@@ -186,7 +186,7 @@ Excellent.
 
 Shunto's eyes sharpened.
 
-“You want me to purge.”
+[[speaker:shunto]]“You want me to purge.”
 
 Luo said nothing.
 
@@ -226,7 +226,7 @@ Luo's feet left the ground.
 
 Shunto held him one-handed.
 
-“You're not Yun.”
+[[speaker:shunto]]“You're not Yun.”
 
 Luo's face changed for the first time.
 
@@ -240,7 +240,7 @@ Recognition.
 
 Shunto tightened his grip.
 
-“There was only one Pale Venom.”
+[[speaker:shunto]]“There was only one Pale Venom.”
 
 Luo's mouth moved.
 
@@ -296,17 +296,17 @@ That was the missing line.
 
 Luo inhaled.
 
-“Four minutes, nine seconds.”
+[[speaker:luo]]“Four minutes, nine seconds.”
 
 Shunto's expression tightened.
 
-“You keep counting.”
+[[speaker:shunto]]“You keep counting.”
 
-“Yes.”
+[[speaker:luo]]“Yes.”
 
-“Why?”
+[[speaker:shunto]]“Why?”
 
-“Because your body is.”
+[[speaker:luo]]“Because your body is.”
 
 Shunto stepped forward.
 
@@ -342,15 +342,15 @@ Yun's favourite teaching irritant because it smelled strong enough to make stude
 
 Shunto realized a moment later.
 
-“You're wasting time.”
+[[speaker:shunto]]“You're wasting time.”
 
-“No.”
+[[speaker:luo]]“No.”
 
 Luo looked at his throat pulse.
 
 Four minutes, twenty-six seconds.
 
-“You are.”
+[[speaker:shunto]]“You are.”
 
 ---
 
@@ -366,7 +366,7 @@ Her face emptied.
 
 Rhen noticed immediately.
 
-“What?”
+[[speaker:rhen]]“What?”
 
 Sera handed him the sheet.
 
@@ -386,7 +386,7 @@ No confirmation received.
 
 Rhen folded the paper once.
 
-“Distance?”
+[[speaker:rhen]]“Distance?”
 
 Jin answered from the map.
 
@@ -396,7 +396,7 @@ Rhen was already standing.
 
 Sera looked at him.
 
-“Go.”
+[[speaker:sera]]“Go.”
 
 No argument.
 
@@ -470,7 +470,7 @@ He smiled.
 
 Luo watched the smile.
 
-“Better?”
+[[speaker:luo]]“Better?”
 
 Shunto flexed his fingers.
 
@@ -518,7 +518,7 @@ Luo saw that too.
 
 Shunto's eyes lifted.
 
-“You—”
+[[speaker:shunto]]“You—”
 
 Luo's second finger rose.
 
@@ -630,7 +630,7 @@ He looked up at Luo with murder in his eyes.
 
 Luo did not move.
 
-“Four minutes, forty-eight seconds.”
+[[speaker:luo]]“Four minutes, forty-eight seconds.”
 
 Shunto ripped the hook free.
 
@@ -672,7 +672,7 @@ Luo raised his hand.
 
 His voice was almost gentle.
 
-“Diagnosis complete.”
+[[speaker:luo]]“Diagnosis complete.”
 
 **Final Diagnosis.**
 
@@ -810,13 +810,13 @@ Pain tore through everything.
 
 He looked toward Luo.
 
-“Did that count?”
+[[speaker:kael]]“Did that count?”
 
 Luo ran toward them.
 
 “Yes.”
 
-“Good.”
+[[speaker:kael]]“Good.”
 
 Kael fell over.
 
@@ -882,13 +882,13 @@ Blood had pooled beneath it.
 
 Too much.
 
-“Kael.”
+[[speaker:luo]]“Kael.”
 
 No response.
 
 Luo pressed two fingers below the ribs.
 
-“Kael.”
+[[speaker:luo]]“Kael.”
 
 One eyelid moved.
 
@@ -910,7 +910,7 @@ Not enough.
 
 He looked toward the corridor.
 
-“Medic!”
+[[speaker:luo]]“Medic!”
 
 The first teams had already started forward the moment Shunto fell.
 
@@ -918,7 +918,7 @@ They ran now.
 
 Luo pointed without looking up.
 
-“Chest kit. Splints. Blood-support tonic. Do not move his neck.”
+[[speaker:luo]]“Chest kit. Splints. Blood-support tonic. Do not move his neck.”
 
 The Isgard medic dropped beside him.
 
@@ -938,7 +938,7 @@ He would be soon.
 
 Luo looked back at Kael.
 
-“Kael first.”
+[[speaker:luo]]“Kael first.”
 
 They worked.
 
@@ -986,7 +986,7 @@ The soldier frowned.
 
 Luo checked Shunto's pulse.
 
-“I do.”
+[[speaker:luo]]“I do.”
 
 Shunto's circulation was a disaster.
 
@@ -1050,7 +1050,7 @@ Confusion.
 
 Then recognition.
 
-“You.”
+[[speaker:shunto]]“You.”
 
 Luo kept working.
 
@@ -1058,7 +1058,7 @@ Shunto swallowed.
 
 It hurt.
 
-“Why?”
+[[speaker:shunto]]“Why?”
 
 Luo said nothing.
 
@@ -1070,13 +1070,13 @@ Blood everywhere.
 
 Then back to Luo.
 
-“You could let me die.”
+[[speaker:shunto]]“You could let me die.”
 
 “Yes.”
 
 Shunto breathed shallowly.
 
-“Then do it.”
+[[speaker:shunto]]“Then do it.”
 
 Luo finally looked at him.
 
@@ -1088,7 +1088,7 @@ Luo leaned closer.
 
 His voice remained quiet.
 
-“You are going to live long enough to answer for her.”
+[[speaker:luo]]“You are going to live long enough to answer for her.”
 
 Shunto stared at him.
 
@@ -1124,11 +1124,11 @@ Luo did not care.
 
 Kael's pulse had weakened again.
 
-“Come on.”
+[[speaker:luo]]“Come on.”
 
 His hands were bloody now.
 
-“Do not make me explain to Sera why Wuyue No.1 died because he refused to sit down.”
+[[speaker:luo]]“Do not make me explain to Sera why Wuyue No.1 died because he refused to sit down.”
 
 Kael did not answer.
 
@@ -1148,7 +1148,7 @@ The medic stopped breathing.
 
 Luo did not look up.
 
-“Busy.”
+[[speaker:luo]]“Busy.”
 
 “Doctor.”
 
@@ -1194,15 +1194,15 @@ Rhen placed two fingers against Kael's chest.
 
 Frost-white petals gathered.
 
-“Good work.”
+[[speaker:rhen]]“Good work.”
 
 Luo almost laughed.
 
-“Fix him.”
+[[speaker:luo]]“Fix him.”
 
 Rhen looked at him.
 
-“I will.”
+[[speaker:rhen]]“I will.”
 
 **Sanctuary of Petals.**
 
@@ -1246,15 +1246,15 @@ Kael remained unconscious.
 
 Rhen checked his pulse.
 
-“Alive.”
+[[speaker:rhen]]“Alive.”
 
 Luo exhaled.
 
-“He'll wake?”
+[[speaker:luo]]“He'll wake?”
 
-“Yes.”
+[[speaker:rhen]]“Yes.”
 
-“Can he fight again?”
+[[speaker:luo]]“Can he fight again?”
 
 Rhen looked at him as if the question were obvious.
 
@@ -1270,23 +1270,23 @@ The Shinsei custody riders went very still.
 
 Luo followed his gaze.
 
-“He's stable.”
+[[speaker:luo]]“He's stable.”
 
 Rhen's expression did not change.
 
-“You treated him.”
+[[speaker:rhen]]“You treated him.”
 
-“Yes.”
+[[speaker:luo]]“Yes.”
 
-“Good.”
+[[speaker:rhen]]“Good.”
 
 Luo looked at him.
 
-“You aren't going to ask why?”
+[[speaker:luo]]“You aren't going to ask why?”
 
 Rhen glanced at him.
 
-“You're a physician.”
+[[speaker:rhen]]“You're a physician.”
 
 Luo looked away.
 
@@ -1296,9 +1296,9 @@ Rhen stood.
 
 “Do not restore Shunto to combat condition,” Luo said.
 
-“I wasn't planning to.”
+[[speaker:rhen]]“I wasn't planning to.”
 
-“He can survive as he is.”
+[[speaker:luo]]“He can survive as he is.”
 
 Rhen checked him from a distance with the Sanctuary's edge.
 
@@ -1310,13 +1310,13 @@ The Shinsei captain called again.
 
 Rhen looked at Luo.
 
-“Your decision?”
+[[speaker:rhen]]“Your decision?”
 
 Luo stared.
 
-“Mine?”
+[[speaker:luo]]“Mine?”
 
-“You were here.”
+[[speaker:rhen]]“You were here.”
 
 Luo looked toward the corridor commander.
 
@@ -1324,11 +1324,11 @@ Then toward the white banners.
 
 Then at Shunto.
 
-“Wuyue and Isgard guards until Sera and Solveig approve transfer terms. Shinsei may provide physicians under observation.”
+[[speaker:luo]]“Wuyue and Isgard guards until Sera and Solveig approve transfer terms. Shinsei may provide physicians under observation.”
 
 Rhen nodded.
 
-“Reasonable.”
+[[speaker:rhen]]“Reasonable.”
 
 The corridor commander repeated the order.
 
@@ -1350,15 +1350,15 @@ Then Luo.
 
 His voice came out rough.
 
-“Did we win?”
+[[speaker:kael]]“Did we win?”
 
 Luo stared at him.
 
-“You were clinically dead-adjacent five minutes ago.”
+[[speaker:luo]]“You were clinically dead-adjacent five minutes ago.”
 
 Kael blinked.
 
-“So yes?”
+[[speaker:kael]]“So yes?”
 
 Rhen smiled faintly.
 
@@ -1372,17 +1372,17 @@ Kael relaxed.
 
 Then, after a moment:
 
-“My face hurts.”
+[[speaker:kael]]“My face hurts.”
 
 Rhen frowned.
 
-“It shouldn't.”
+[[speaker:rhen]]“It shouldn't.”
 
 Kael considered that.
 
-“Then I remember it hurting.”
+[[speaker:kael]]“Then I remember it hurting.”
 
-“That seems likely.”
+[[speaker:rhen]]“That seems likely.”
 
 Kael looked toward the ruined bridge.
 
@@ -1390,7 +1390,7 @@ Engineers were already staring at him.
 
 He sighed.
 
-“I owe them a bridge.”
+[[speaker:kael]]“I owe them a bridge.”
 
 Luo sat down in the mud.
 
@@ -1404,17 +1404,17 @@ Real.
 
 Kael looked at him.
 
-“Was that a laugh?”
+[[speaker:kael]]“Was that a laugh?”
 
-“No.”
+[[speaker:luo]]“No.”
 
-“It was.”
+[[speaker:kael]]“It was.”
 
-“You have head trauma.”
+[[speaker:luo]]“You have head trauma.”
 
-“Rhen fixed it.”
+[[speaker:kael]]“Rhen fixed it.”
 
-“Then perhaps he missed something.”
+[[speaker:luo]]“Then perhaps he missed something.”
 
 Rhen looked offended.
 

@@ -101,17 +101,17 @@ Blood hit stone.
 
 Hana looked at Haru.
 
-“How long?”
+[[speaker:hana]]“How long?”
 
-“Four minutes thirty.”
+[[speaker:haru]]“Four minutes thirty.”
 
-“You sound proud.”
+[[speaker:hana]]“You sound proud.”
 
-“I am timing.”
+[[speaker:haru]]“I am timing.”
 
-“Haru.”
+[[speaker:hana]]“Haru.”
 
-“I know.”
+[[speaker:haru]]“I know.”
 
 Did he?
 
@@ -157,7 +157,7 @@ A tremor touched Haru’s left hand.
 
 Hana saw.
 
-“Enough.”
+[[speaker:hana]]“Enough.”
 
 Haru stepped back.
 
@@ -167,23 +167,23 @@ Then Haru reached for a second vial.
 
 Hana caught his wrist.
 
-“No.”
+[[speaker:hana]]“No.”
 
 Haru looked at her.
 
-“We are thirty seconds from the command archive.”
+[[speaker:haru]]“We are thirty seconds from the command archive.”
 
-“Then we withdraw.”
+[[speaker:hana]]“Then we withdraw.”
 
-“We can finish.”
+[[speaker:haru]]“We can finish.”
 
-“The first dose is ending.”
+[[speaker:hana]]“The first dose is ending.”
 
-“Yes.”
+[[speaker:haru]]“Yes.”
 
-“That is the signal.”
+[[speaker:hana]]“That is the signal.”
 
-“No. It is a timing constraint.”
+[[speaker:haru]]“No. It is a timing constraint.”
 
 Hana stared.
 
@@ -193,9 +193,9 @@ Almost.
 
 “Haru,” Hana said, quieter. “Tsubasa said no heroics.”
 
-“This is not heroics.”
+[[speaker:haru]]“This is not heroics.”
 
-“It is exactly heroics with a ruler.”
+[[speaker:hana]]“It is exactly heroics with a ruler.”
 
 He pulled his wrist free.
 
@@ -265,11 +265,11 @@ Saw qi leaking through microtears along one forearm.
 
 Saw the skin beneath his collar flush too dark.
 
-“Haru.”
+[[speaker:hana]]“Haru.”
 
 No answer.
 
-“Haru!”
+[[speaker:hana]]“Haru!”
 
 He struck Yurushi across the ribs.
 
@@ -291,13 +291,13 @@ Yurushi coughed blood.
 
 Still smiled.
 
-“You always did have terrible timing.”
+[[speaker:black_radiance]]“You always did have terrible timing.”
 
 Hana’s eyes flashed.
 
-“Shut up.”
+[[speaker:hana]]“Shut up.”
 
-“Comforting.”
+[[speaker:black_radiance]]“Comforting.”
 
 Haru’s second dose began fading.
 
@@ -325,7 +325,7 @@ One vial left.
 
 Her face changed.
 
-“No.”
+[[speaker:hana]]“No.”
 
 Haru’s breathing was ragged.
 
@@ -335,25 +335,25 @@ He reached for it anyway.
 
 Hana stepped between his hand and the vial.
 
-“I said no.”
+[[speaker:hana]]“I said no.”
 
 Haru stared at her.
 
-“The objective is unfinished.”
+[[speaker:haru]]“The objective is unfinished.”
 
-“The objective is lost.”
+[[speaker:hana]]“The objective is lost.”
 
-“We are one breakthrough from—”
+[[speaker:haru]]“We are one breakthrough from—”
 
-“You don’t know that.”
+[[speaker:hana]]“You don’t know that.”
 
-“I do.”
+[[speaker:haru]]“I do.”
 
-“No.”
+[[speaker:hana]]“No.”
 
 Hana’s voice cracked like a blade.
 
-“You know the line you want to be true.”
+[[speaker:hana]]“You know the line you want to be true.”
 
 That hit him.
 
@@ -413,7 +413,7 @@ Thirty-five years of future life had just become a plausible medical estimate fo
 
 Hana whispered:
 
-“You idiot.”
+[[speaker:hana]]“You idiot.”
 
 Haru attacked.
 
@@ -445,7 +445,7 @@ Looked at the map.
 
 Tae was already stationed in the western-central response belt after redistribution.
 
-“Send him now.”
+[[speaker:qin]]“Send him now.”
 
 The courier left.
 
@@ -483,7 +483,7 @@ The circulation was driving harder than the flesh containing it.
 
 Tae understood.
 
-“Three?”
+[[speaker:tae]]“Three?”
 
 Hana looked at him.
 
@@ -491,7 +491,7 @@ Hana looked at him.
 
 Tae stared at Haru.
 
-“You took three?”
+[[speaker:tae]]“You took three?”
 
 Haru moved.
 
@@ -557,9 +557,9 @@ There.
 
 Haru saw it.
 
-“What?”
+[[speaker:haru]]“What?”
 
-“You’re solving the wrong problem.”
+[[speaker:tae]]“You’re solving the wrong problem.”
 
 Haru thrust.
 
@@ -571,11 +571,11 @@ Haru shattered it.
 
 Tae laughed.
 
-“Exactly.”
+[[speaker:tae]]“Exactly.”
 
 Hana understood first.
 
-“Haru. Stop breaking them.”
+[[speaker:hana]]“Haru. Stop breaking them.”
 
 He ignored her.
 
@@ -643,15 +643,15 @@ Tae stayed standing.
 
 Hana saw the calculation.
 
-“He’s waiting.”
+[[speaker:hana]]“He’s waiting.”
 
 Haru’s eyes sharpened.
 
-“For what?”
+[[speaker:haru]]“For what?”
 
 Tae answered.
 
-“You.”
+[[speaker:tae]]“You.”
 
 The third Redline still had time.
 
@@ -693,7 +693,7 @@ Broke.
 
 Hana shouted:
 
-“STOP BREAKING THEM.”
+[[speaker:hana]]“STOP BREAKING THEM.”
 
 Haru finally listened.
 
@@ -739,7 +739,7 @@ Then Haru attacked barehanded.
 
 Tae stared.
 
-“You really don’t know when to stop.”
+[[speaker:tae]]“You really don’t know when to stop.”
 
 Haru’s fist hit him in the jaw.
 
@@ -751,7 +751,7 @@ He broke them.
 
 Tae smiled through split lips.
 
-“Thanks.”
+[[speaker:tae]]“Thanks.”
 
 Haru finally understood.
 
@@ -797,13 +797,13 @@ That was more frightening than the peak.
 
 Hana reached him first.
 
-“Haru.”
+[[speaker:hana]]“Haru.”
 
 He tried to stand.
 
 She shoved him down.
 
-“No.”
+[[speaker:hana]]“No.”
 
 Tae approached.
 
@@ -853,17 +853,17 @@ The moment they vanished, he dropped to one knee.
 
 Yurushi laughed weakly.
 
-“You looked impressive until that part.”
+[[speaker:black_radiance]]“You looked impressive until that part.”
 
 Tae turned his head.
 
-“You look dead.”
+[[speaker:tae]]“You look dead.”
 
-“Not yet.”
+[[speaker:black_radiance]]“Not yet.”
 
-“Annoying.”
+[[speaker:tae]]“Annoying.”
 
-“Frequently.”
+[[speaker:black_radiance]]“Frequently.”
 
 The third Redline ended somewhere beyond the hills.
 
@@ -885,7 +885,7 @@ Because his pulse vanished for one beat.
 
 Then returned wrong.
 
-“Haru.”
+[[speaker:hana]]“Haru.”
 
 No answer.
 
@@ -911,11 +911,11 @@ Not a heroic collapse.
 
 His body had spent something it could not rebuild.
 
-“Haru.”
+[[speaker:hana]]“Haru.”
 
 His gaze found her.
 
-“We lost.”
+[[speaker:haru]]“We lost.”
 
 Hana stared.
 
@@ -929,13 +929,13 @@ His head turned.
 
 He blinked.
 
-“What—”
+[[speaker:haru]]“What—”
 
-“You weren’t dying.”
+[[speaker:hana]]“You weren’t dying.”
 
 He frowned.
 
-“You were losing.”
+[[speaker:hana]]“You were losing.”
 
 Hana’s voice shook.
 
@@ -951,19 +951,19 @@ Hana said it now because she was furious enough to name the truth before anyone 
 
 Haru closed his eyes.
 
-“We need to move.”
+[[speaker:haru]]“We need to move.”
 
-“Yes.”
+[[speaker:hana]]“Yes.”
 
-“You should leave me if—”
+[[speaker:haru]]“You should leave me if—”
 
 She slapped him again.
 
 His eyes opened.
 
-“That was less deserved.”
+[[speaker:haru]]“That was less deserved.”
 
-“No, it wasn’t.”
+[[speaker:hana]]“No, it wasn’t.”
 
 Hana got his arm over her shoulder.
 
@@ -983,31 +983,31 @@ Twilight Dominion gone.
 
 Tae looked him over.
 
-“How many things are broken?”
+[[speaker:tae]]“How many things are broken?”
 
 Yurushi considered.
 
-“Yes.”
+[[speaker:black_radiance]]“Yes.”
 
-“Helpful.”
+[[speaker:tae]]“Helpful.”
 
-“I learned from physicians.”
+[[speaker:black_radiance]]“I learned from physicians.”
 
 Tae crouched.
 
-“Get on.”
+[[speaker:tae]]“Get on.”
 
 Yurushi stared.
 
-“No.”
+[[speaker:black_radiance]]“No.”
 
-“You can barely stand.”
+[[speaker:tae]]“You can barely stand.”
 
-“I can walk.”
+[[speaker:black_radiance]]“I can walk.”
 
-“You are leaning on architecture.”
+[[speaker:tae]]“You are leaning on architecture.”
 
-“It is supportive.”
+[[speaker:black_radiance]]“It is supportive.”
 
 Tae looked at him.
 
@@ -1015,7 +1015,7 @@ Yurushi looked back.
 
 Tae’s voice became dangerously calm.
 
-“Get. On.”
+[[speaker:tae]]“Get. On.”
 
 Yurushi hesitated.
 
@@ -1039,15 +1039,15 @@ Yurushi finally put one arm over his shoulder.
 
 Tae stood.
 
-“Heavy.”
+[[speaker:tae]]“Heavy.”
 
-“I am injured.”
+[[speaker:black_radiance]]“I am injured.”
 
-“That does not reduce mass.”
+[[speaker:tae]]“That does not reduce mass.”
 
-“You are insufferable.”
+[[speaker:black_radiance]]“You are insufferable.”
 
-“So I’ve heard.”
+[[speaker:tae]]“So I’ve heard.”
 
 They crossed the damaged node slowly.
 
@@ -1061,17 +1061,17 @@ The command archive remained intact.
 
 Yurushi looked at it.
 
-“Objective held.”
+[[speaker:black_radiance]]“Objective held.”
 
-“Yes.”
+[[speaker:tae]]“Yes.”
 
-“Haru nearly got it.”
+[[speaker:black_radiance]]“Haru nearly got it.”
 
-“Yes.”
+[[speaker:tae]]“Yes.”
 
-“Hana could have.”
+[[speaker:black_radiance]]“Hana could have.”
 
-“Yes.”
+[[speaker:tae]]“Yes.”
 
 Tae felt Yurushi tense slightly at her name.
 
@@ -1083,7 +1083,7 @@ Tae stopped.
 
 Looked at him.
 
-“Because you were here.”
+[[speaker:tae]]“Because you were here.”
 
 Yurushi said nothing.
 
@@ -1097,13 +1097,13 @@ Yurushi tried to object.
 
 Tae pushed him onto it.
 
-“Take him before I change my mind.”
+[[speaker:tae]]“Take him before I change my mind.”
 
 The physician blinked.
 
 “Change your mind about treatment?”
 
-“About carrying him.”
+[[speaker:tae]]“About carrying him.”
 
 Yurushi, half-conscious, muttered:
 
@@ -1111,9 +1111,9 @@ Yurushi, half-conscious, muttered:
 
 Tae looked down.
 
-“What?”
+[[speaker:tae]]“What?”
 
-“You came.”
+[[speaker:black_radiance]]“You came.”
 
 Then Yurushi passed out.
 
@@ -1127,7 +1127,7 @@ Tae did not move.
 
 “Lord Tae.”
 
-“I’m not a lord.”
+[[speaker:tae]]“I’m not a lord.”
 
 “Outside.”
 
@@ -1151,15 +1151,15 @@ Lu read it once.
 
 Then sat down.
 
-“Three.”
+[[speaker:luweiran]]“Three.”
 
-“Yes.”
+[[speaker:qin]]“Yes.”
 
-“How much life?”
+[[speaker:luweiran]]“How much life?”
 
 Qin shook his head.
 
-“Luo would know better.”
+[[speaker:qin]]“Luo would know better.”
 
 Lu looked at the map.
 
@@ -1173,11 +1173,11 @@ Wuyue now knew Shinsei would spend Paragon lives and future years trying to solv
 
 Qin folded the report.
 
-“Send Sera everything.”
+[[speaker:qin]]“Send Sera everything.”
 
 Lu nodded.
 
-“Also Aya?”
+[[speaker:luweiran]]“Also Aya?”
 
 Qin paused.
 

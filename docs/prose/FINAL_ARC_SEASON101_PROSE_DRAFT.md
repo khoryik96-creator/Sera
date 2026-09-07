@@ -34,7 +34,7 @@ A naval clerk swallowed.
 
 “I did not.”
 
-“You did yesterday.”
+[[speaker:jin]]“You did yesterday.”
 
 “That was another clerk.”
 
@@ -44,7 +44,7 @@ The clerk amended himself.
 
 “That was the office.”
 
-“Better.”
+[[speaker:jin]]“Better.”
 
 Sera leaned against the table.
 
@@ -74,21 +74,21 @@ Weeks were what people called time when they were trying not to say **soon**.
 
 Jin moved one counter.
 
-“Medical reserve first.”
+[[speaker:jin]]“Medical reserve first.”
 
 A logistics officer said, “Before troops?”
 
-“Yes.”
+[[speaker:jin]]“Yes.”
 
 “If the fleet launches—”
 
-“If Isgard loses hospitals before we arrive, troops become decorative.”
+[[speaker:jin]]“If Isgard loses hospitals before we arrive, troops become decorative.”
 
 The officer nodded.
 
 Jin continued.
 
-“Send preserved bloodroot, feverleaf, suturing silk, splints, anti-rot compounds and grain concentrate under pact priority. Isgard already moved its coastal reserve inland last night. Their bottleneck is civilian handling capacity.”
+[[speaker:jin]]“Send preserved bloodroot, feverleaf, suturing silk, splints, anti-rot compounds and grain concentrate under pact priority. Isgard already moved its coastal reserve inland last night. Their bottleneck is civilian handling capacity.”
 
 The last sentence mattered.
 
@@ -130,53 +130,53 @@ They were not waiting to be saved.
 
 Sera handed the message to Jin.
 
-“Reply that the first medicine convoy leaves before noon.”
+[[speaker:sera]]“Reply that the first medicine convoy leaves before noon.”
 
-“We have not finished escort allocation.”
+[[speaker:jin]]“We have not finished escort allocation.”
 
-“Then finish it before noon.”
+[[speaker:sera]]“Then finish it before noon.”
 
 Jin looked at her.
 
-“That was already the plan.”
+[[speaker:jin]]“That was already the plan.”
 
-“Good.”
+[[speaker:sera]]“Good.”
 
-“You enjoy giving orders after I have made them.”
+[[speaker:jin]]“You enjoy giving orders after I have made them.”
 
-“I enjoy correct plans.”
+[[speaker:sera]]“I enjoy correct plans.”
 
-“That is not the same thing.”
+[[speaker:jin]]“That is not the same thing.”
 
-“It is from my side of the table.”
+[[speaker:sera]]“It is from my side of the table.”
 
 For half a breath, Tae looked like he might laugh.
 
 He thought better of it when Jin turned toward him.
 
-“Tae.”
+[[speaker:jin]]“Tae.”
 
-“No.”
+[[speaker:tae]]“No.”
 
 Jin paused.
 
-“I have not asked anything.”
+[[speaker:jin]]“I have not asked anything.”
 
-“I know what your face means.”
+[[speaker:tae]]“I know what your face means.”
 
-“Move the western Quaint storehouses into hardened distribution.”
+[[speaker:jin]]“Move the western Quaint storehouses into hardened distribution.”
 
 Tae frowned.
 
-“That was less annoying than expected.”
+[[speaker:tae]]“That was less annoying than expected.”
 
-“Give me time.”
+[[speaker:jin]]“Give me time.”
 
 Huo Wujin was already carrying two supply crates that ordinary men would have put on carts.
 
 He set them down.
 
-“Where do you want these?”
+[[speaker:huo]]“Where do you want these?”
 
 Lu Weiran answered without looking up from his ledger.
 
@@ -184,13 +184,13 @@ Lu Weiran answered without looking up from his ledger.
 
 Huo looked down.
 
-“Why?”
+[[speaker:huo]]“Why?”
 
-“That corridor is for outgoing medical cargo.”
+[[speaker:luweiran]]“That corridor is for outgoing medical cargo.”
 
-“These are medical cargo.”
+[[speaker:huo]]“These are medical cargo.”
 
-“They are training stones.”
+[[speaker:luweiran]]“They are training stones.”
 
 Huo looked at the crates again.
 
@@ -200,15 +200,15 @@ Tae became suddenly interested in a wall.
 
 Lu's eyes lifted.
 
-“Tae.”
+[[speaker:luweiran]]“Tae.”
 
-“No evidence.”
+[[speaker:tae]]“No evidence.”
 
-“You wrote it.”
+[[speaker:luweiran]]“You wrote it.”
 
-“You cannot prove that.”
+[[speaker:tae]]“You cannot prove that.”
 
-“It is your handwriting.”
+[[speaker:luweiran]]“It is your handwriting.”
 
 Sera closed her eyes.
 
@@ -228,17 +228,17 @@ He still looked offended every time someone addressed him by the number.
 
 A clerk said, “Number Ten, the eastern reserve—”
 
-“Xie.”
+[[speaker:xie_wuchen]]“Xie.”
 
 The clerk stopped.
 
 “Sir?”
 
-“Xie is shorter.”
+[[speaker:xie_wuchen]]“Xie is shorter.”
 
 “The regulation says—”
 
-“Then the regulation has too many syllables.”
+[[speaker:xie_wuchen]]“Then the regulation has too many syllables.”
 
 He signed anyway.
 
@@ -260,13 +260,13 @@ The assistant froze.
 
 “The tea?”
 
-“The sample.”
+[[speaker:luo]]“The sample.”
 
 “I meant the tea.”
 
 Luo looked at the cup as if seeing it for the first time.
 
-“Oh.”
+[[speaker:luo]]“Oh.”
 
 The assistant heated it.
 
@@ -278,17 +278,17 @@ That worried Sera more than shaking would have.
 
 She stood in the doorway.
 
-“Anything new?”
+[[speaker:sera]]“Anything new?”
 
-“Not yet.”
+[[speaker:luo]]“Not yet.”
 
-“Anything useful?”
+[[speaker:sera]]“Anything useful?”
 
-“Yes.”
+[[speaker:luo]]“Yes.”
 
 He tapped the sealed capillary.
 
-“She was right about throughput.”
+[[speaker:luo]]“She was right about throughput.”
 
 Sera waited.
 
@@ -296,27 +296,27 @@ Luo continued.
 
 “Whatever else they have done to the compound, it is still forcing existing systems to spend faster. It is not creating cultivation. If somebody comes at us under Redline, treat the body like an overpressurized vessel, not a stronger realm.”
 
-“Can you stop it?”
+[[speaker:sera]]“Can you stop it?”
 
-“Eventually.”
+[[speaker:luo]]“Eventually.”
 
-“That is not an answer.”
+[[speaker:sera]]“That is not an answer.”
 
-“It is the honest one.”
+[[speaker:luo]]“It is the honest one.”
 
 Sera accepted it.
 
 Luo looked at the capillary again.
 
-“She got this here.”
+[[speaker:luo]]“She got this here.”
 
-“Yes.”
+[[speaker:sera]]“Yes.”
 
-“She should have come with it.”
+[[speaker:luo]]“She should have come with it.”
 
 Sera did not offer comfort shaped like a lie.
 
-“Yes.”
+[[speaker:sera]]“Yes.”
 
 Luo's jaw moved once.
 
@@ -386,13 +386,13 @@ Shunto Takamori stood near the window.
 
 Tsubasa folded the report.
 
-“Then the calendar is wrong.”
+[[speaker:tsubasa]]“Then the calendar is wrong.”
 
 Haru looked up.
 
 Shunto said, “We can still contain—”
 
-“No.”
+[[speaker:tsubasa]]“No.”
 
 Tsubasa's voice was quiet.
 
@@ -400,15 +400,15 @@ Not angry.
 
 That made Shunto stop.
 
-“The warning is out.”
+[[speaker:tsubasa]]“The warning is out.”
 
 Tsubasa looked toward the north wall where shipping schedules covered half the stone.
 
-“The question is no longer whether they know.”
+[[speaker:tsubasa]]“The question is no longer whether they know.”
 
 His eyes moved to Haru.
 
-“It is how much time knowing buys them.”
+[[speaker:tsubasa]]“It is how much time knowing buys them.”
 
 Haru put down the charcoal.
 
@@ -418,7 +418,7 @@ Tsubasa waited.
 
 Haru walked toward the schedule board.
 
-“But more than we should give them.”
+[[speaker:haru]]“But more than we should give them.”
 
 Day One ended in three countries.
 
@@ -450,25 +450,25 @@ This was simply the first time disappearance had become treatment.
 
 Sera looked at Core.
 
-“Say it again.”
+[[speaker:sera]]“Say it again.”
 
 Core did not ask what.
 
 “Do not open the door.”
 
-“Why?”
+[[speaker:sera]]“Why?”
 
 “The condensation has already passed the first reversible stage.”
 
 Sera's eyes stayed on the stone.
 
-“Plain language.”
+[[speaker:sera]]“Plain language.”
 
 Core exhaled.
 
 “The first hours were compression. If he had stopped then, he would have been sick and furious but probably safe.”
 
-“And now?”
+[[speaker:sera]]“And now?”
 
 “Now his old circulation structure is being rebuilt around the denser reserve.”
 
@@ -476,7 +476,7 @@ He tapped one slate.
 
 “The meridians are not simply carrying qi. They are changing how they carry it. If the process is forced open from outside, the pressure can tear through channels that are only half stabilized.”
 
-“Can he repair that?”
+[[speaker:sera]]“Can he repair that?”
 
 “Maybe.”
 
@@ -486,7 +486,7 @@ Core held her gaze.
 
 “You asked for plain language.”
 
-“I did.”
+[[speaker:sera]]“I did.”
 
 “Maybe he repairs it. Maybe he wakes with enough of himself intact to repair the rest. Maybe the damage propagates faster than he can reorganize from inside it.”
 
@@ -502,11 +502,11 @@ Sera almost smiled.
 
 Almost.
 
-“How long before interruption becomes safe?”
+[[speaker:sera]]“How long before interruption becomes safe?”
 
 “It becomes safe when he finishes.”
 
-“That was not my question.”
+[[speaker:sera]]“That was not my question.”
 
 “It is the only honest answer.”
 
@@ -536,25 +536,25 @@ Sera removed her hand.
 
 Lu said, “We can leave a watch.”
 
-“We already have one.”
+[[speaker:sera]]“We already have one.”
 
-“A second.”
+[[speaker:luweiran]]“A second.”
 
-“For what?”
+[[speaker:sera]]“For what?”
 
-“In case the chamber changes.”
+[[speaker:luweiran]]“In case the chamber changes.”
 
 Sera looked at him.
 
 Lu's expression remained practical.
 
-“If the frost pattern changes. If the seal cracks. If he communicates. If anything suggests the process has entered a stable interruption state.”
+[[speaker:luweiran]]“If the frost pattern changes. If the seal cracks. If he communicates. If anything suggests the process has entered a stable interruption state.”
 
 Core nodded.
 
 “That is reasonable.”
 
-“Then do it.”
+[[speaker:sera]]“Then do it.”
 
 Lu made a note.
 
@@ -564,21 +564,21 @@ Core watched her.
 
 “You are not going to ask me a fourth time?”
 
-“No.”
+[[speaker:sera]]“No.”
 
 He looked surprised.
 
 Sera glanced back at the stone once.
 
-“I married a physician.”
+[[speaker:sera]]“I married a physician.”
 
 Core waited.
 
-“He told me what would happen if I opened it.”
+[[speaker:sera]]“He told me what would happen if I opened it.”
 
 Her voice stayed level.
 
-“I believed him before I needed the answer to be different.”
+[[speaker:sera]]“I believed him before I needed the answer to be different.”
 
 That was the whole thing.
 
@@ -598,33 +598,33 @@ Halfway to the map room, Lu said, “Jin currently has Rhen listed as unavailabl
 
 Sera stopped.
 
-“Currently?”
+[[speaker:sera]]“Currently?”
 
-“He dislikes leaving variables undefined.”
+[[speaker:luweiran]]“He dislikes leaving variables undefined.”
 
-“He is unavailable.”
+[[speaker:sera]]“He is unavailable.”
 
-“Yes.”
+[[speaker:luweiran]]“Yes.”
 
-“Then remove him from the war model.”
+[[speaker:sera]]“Then remove him from the war model.”
 
 Lu raised an eyebrow.
 
-“Jin may object philosophically.”
+[[speaker:luweiran]]“Jin may object philosophically.”
 
-“Jin can object while moving ships.”
+[[speaker:sera]]“Jin can object while moving ships.”
 
-“What if Rhen finishes earlier?”
+[[speaker:luweiran]]“What if Rhen finishes earlier?”
 
-“Then he can complain that we planned competently without him.”
+[[speaker:sera]]“Then he can complain that we planned competently without him.”
 
 Lu considered this.
 
-“He may find that romantic.”
+[[speaker:luweiran]]“He may find that romantic.”
 
-“Rhen finds inventory romantic.”
+[[speaker:sera]]“Rhen finds inventory romantic.”
 
-“That is true.”
+[[speaker:luweiran]]“That is true.”
 
 They reached the stair.
 
@@ -636,55 +636,55 @@ Qin sat on the railing.
 
 Sera looked at all three.
 
-“No.”
+[[speaker:sera]]“No.”
 
 Tae frowned.
 
-“We did not ask.”
+[[speaker:tae]]“We did not ask.”
 
-“You were going to.”
+[[speaker:sera]]“You were going to.”
 
 Huo looked at Tae.
 
-“She is getting worse.”
+[[speaker:huo]]“She is getting worse.”
 
-“Marriage.”
+[[speaker:tae]]“Marriage.”
 
 Sera stared at them.
 
 Huo corrected himself.
 
-“Better.”
+[[speaker:huo]]“Better.”
 
 Qin's mouth moved faintly.
 
 Sera continued down.
 
-“Rhen is not an available asset.”
+[[speaker:sera]]“Rhen is not an available asset.”
 
 Tae's humor disappeared.
 
-“How long?”
+[[speaker:tae]]“How long?”
 
-“We do not know.”
+[[speaker:sera]]“We do not know.”
 
 Huo looked up the stair toward the sealed chamber.
 
-“And if Shinsei lands?”
+[[speaker:huo]]“And if Shinsei lands?”
 
-“We fight.”
+[[speaker:sera]]“We fight.”
 
-“If ten Paragons land?”
+[[speaker:huo]]“If ten Paragons land?”
 
-“We fight smarter.”
+[[speaker:sera]]“We fight smarter.”
 
 Tae said, “That sounded like Jin.”
 
-“I have been near him too long.”
+[[speaker:sera]]“I have been near him too long.”
 
 Qin stood.
 
-“What do you need from us?”
+[[speaker:qin]]“What do you need from us?”
 
 Sera finally had the question she needed.
 
@@ -694,19 +694,19 @@ Sera looked at the three men who had lived beneath her roof, eaten her food, bro
 
 Huo's brow furrowed.
 
-“We are not leaving yet.”
+[[speaker:huo]]“We are not leaving yet.”
 
-“I know.”
+[[speaker:sera]]“I know.”
 
-“Then why—”
+[[speaker:huo]]“Then why—”
 
-“Because when we do, Shinsei may discover Wuyue has a door behind the door.”
+[[speaker:sera]]“Because when we do, Shinsei may discover Wuyue has a door behind the door.”
 
 Tae's eyes narrowed.
 
 Sera looked at Qin.
 
-“Start designing what happens when they try to open it.”
+[[speaker:sera]]“Start designing what happens when they try to open it.”
 
 Qin nodded once.
 
@@ -854,17 +854,17 @@ It was Yun.
 
 Lu leaned forward slightly.
 
-“Useful?”
+[[speaker:luweiran]]“Useful?”
 
-“Yes.”
+[[speaker:luo]]“Yes.”
 
-“New?”
+[[speaker:luweiran]]“New?”
 
-“Some.”
+[[speaker:luo]]“Some.”
 
-“Enough to change deployment?”
+[[speaker:luweiran]]“Enough to change deployment?”
 
-“Not yet.”
+[[speaker:luo]]“Not yet.”
 
 Luo kept reading.
 
@@ -896,7 +896,7 @@ He stopped breathing for a moment.
 
 Sera saw it.
 
-“What?”
+[[speaker:sera]]“What?”
 
 Luo did not answer.
 
@@ -962,15 +962,15 @@ Lu exhaled through his nose.
 
 Luo looked at him.
 
-“Do not make this a moment.”
+[[speaker:luo]]“Do not make this a moment.”
 
-“I did not speak.”
+[[speaker:luweiran]]“I did not speak.”
 
-“Your face did.”
+[[speaker:luo]]“Your face did.”
 
-“My face is neutral.”
+[[speaker:luweiran]]“My face is neutral.”
 
-“Your face is irritating.”
+[[speaker:luo]]“Your face is irritating.”
 
 Sera said, “Eat.”
 
@@ -1000,15 +1000,15 @@ When the bowl was empty, Luo pulled a clean sheet toward himself.
 
 “What are you doing?” Sera asked.
 
-“Separating the useful parts.”
+[[speaker:luo]]“Separating the useful parts.”
 
-“You just finished reading it.”
+[[speaker:sera]]“You just finished reading it.”
 
-“Yes.”
+[[speaker:luo]]“Yes.”
 
-“And?”
+[[speaker:sera]]“And?”
 
-“And Shinsei's medical structure can tell us where it expects losses before troop reports do.”
+[[speaker:luo]]“And Shinsei's medical structure can tell us where it expects losses before troop reports do.”
 
 His eyes had changed.
 
@@ -1018,17 +1018,17 @@ Working.
 
 He drew three columns.
 
-“Give Jin this. Not the private notation.”
+[[speaker:luo]]“Give Jin this. Not the private notation.”
 
 Lu nodded.
 
-“Obviously.”
+[[speaker:luweiran]]“Obviously.”
 
-“Give Qin the route structure.”
+[[speaker:luo]]“Give Qin the route structure.”
 
-“Done.”
+[[speaker:luweiran]]“Done.”
 
-“Keep the original here.”
+[[speaker:luo]]“Keep the original here.”
 
 Sera said, “Under guard.”
 
@@ -1058,11 +1058,11 @@ Luo placed one palm over the paper.
 
 Sera heard.
 
-“What?”
+[[speaker:sera]]“What?”
 
 He looked at the empty bowl.
 
-“Nothing.”
+[[speaker:luo]]“Nothing.”
 
 But when he returned to work, he moved Yun's untouched cup slightly closer to the lamp.
 
@@ -1108,21 +1108,21 @@ A woman waited there with two children and a travel bundle.
 
 “South road?” she asked.
 
-“No.”
+[[speaker:black_radiance]]“No.”
 
 Her face tightened.
 
 Yurushi continued.
 
-“South road is watched. Take the dyers' canal west, then the old kiln track. There will be a cart at the broken shrine.”
+[[speaker:black_radiance]]“South road is watched. Take the dyers' canal west, then the old kiln track. There will be a cart at the broken shrine.”
 
 “Whose cart?”
 
-“You do not want to know.”
+[[speaker:black_radiance]]“You do not want to know.”
 
 “That sounds reassuring.”
 
-“It is not.”
+[[speaker:black_radiance]]“It is not.”
 
 She almost smiled.
 
@@ -1132,23 +1132,23 @@ Fear became easier to move when it remembered it could change shape.
 
 Yurushi handed her a merchant chit.
 
-“Do not show this unless someone stops the cart.”
+[[speaker:black_radiance]]“Do not show this unless someone stops the cart.”
 
 “What if Shinsei stops it?”
 
-“Especially then.”
+[[speaker:black_radiance]]“Especially then.”
 
 She looked at the mark.
 
 “Will it work?”
 
-“For another day.”
+[[speaker:black_radiance]]“For another day.”
 
 “And after that?”
 
 Yurushi looked back at the safehouse.
 
-“After that I would not recommend returning.”
+[[speaker:black_radiance]]“After that I would not recommend returning.”
 
 The woman understood.
 
@@ -1184,11 +1184,11 @@ He watched long enough to be certain the hidden ledger cache burned.
 
 A voice came from the roof behind him.
 
-“You always did hate paperwork.”
+[[speaker:hana]]“You always did hate paperwork.”
 
 Yurushi did not turn.
 
-“Hello, Hana.”
+[[speaker:black_radiance]]“Hello, Hana.”
 
 Hana Arakawa dropped into the alley without sound.
 
@@ -1200,31 +1200,31 @@ Neither of them had needed weapons to make a conversation dangerous in years.
 
 She looked at the fire.
 
-“Yours?”
+[[speaker:hana]]“Yours?”
 
-“Temporarily.”
+[[speaker:black_radiance]]“Temporarily.”
 
-“Was.”
+[[speaker:hana]]“Was.”
 
-“Better.”
+[[speaker:black_radiance]]“Better.”
 
 Hana's eyes moved over him.
 
-“You are leaving.”
+[[speaker:hana]]“You are leaving.”
 
-“Am I?”
+[[speaker:black_radiance]]“Am I?”
 
-“You destroyed three route caches in two days.”
+[[speaker:hana]]“You destroyed three route caches in two days.”
 
-“Poor storage discipline.”
+[[speaker:black_radiance]]“Poor storage discipline.”
 
-“You moved forty-seven civilians out of districts Shunto is searching.”
+[[speaker:hana]]“You moved forty-seven civilians out of districts Shunto is searching.”
 
-“Coincidence.”
+[[speaker:black_radiance]]“Coincidence.”
 
-“You hate coincidences.”
+[[speaker:hana]]“You hate coincidences.”
 
-“Growth.”
+[[speaker:black_radiance]]“Growth.”
 
 Her expression did not change.
 
@@ -1240,57 +1240,57 @@ Neither mentioned it.
 
 Hana said, “Shunto knows someone helped the foreign woman.”
 
-“He should investigate harder.”
+[[speaker:black_radiance]]“He should investigate harder.”
 
-“He is.”
+[[speaker:hana]]“He is.”
 
-“I noticed.”
+[[speaker:black_radiance]]“I noticed.”
 
-“He has your old eastern corridor lists.”
+[[speaker:hana]]“He has your old eastern corridor lists.”
 
 That made Yurushi still.
 
-“Which version?”
+[[speaker:black_radiance]]“Which version?”
 
-“Two years old.”
+[[speaker:hana]]“Two years old.”
 
-“Then he has six dead routes and one dangerous one.”
+[[speaker:black_radiance]]“Then he has six dead routes and one dangerous one.”
 
-“He will still find people if you leave them.”
+[[speaker:hana]]“He will still find people if you leave them.”
 
-“I did not.”
+[[speaker:black_radiance]]“I did not.”
 
 Hana looked toward the street the woman had taken.
 
-“No.”
+[[speaker:hana]]“No.”
 
 Something softened in her face.
 
 Not enough to become agreement.
 
-“Yurushi.”
+[[speaker:hana]]“Yurushi.”
 
 He waited.
 
-“Was she Wuyue?”
+[[speaker:hana]]“Was she Wuyue?”
 
 He did not answer immediately.
 
 Hana's eyes narrowed.
 
-“She was.”
+[[speaker:hana]]“She was.”
 
-“She was a woman being hunted by our own people.”
+[[speaker:black_radiance]]“She was a woman being hunted by our own people.”
 
-“That is not an answer.”
+[[speaker:hana]]“That is not an answer.”
 
-“It was the answer when I helped her.”
+[[speaker:black_radiance]]“It was the answer when I helped her.”
 
-“And afterward?”
+[[speaker:hana]]“And afterward?”
 
 Yurushi looked into the burning room.
 
-“Afterward I learned her name.”
+[[speaker:black_radiance]]“Afterward I learned her name.”
 
 Hana did not ask it.
 
@@ -1310,31 +1310,31 @@ Yun had merely removed the last excuse.
 
 Hana said, “If you leave, you lose what access you have.”
 
-“If I stay, my access becomes a reason to keep lending the rest of myself to people I no longer trust.”
+[[speaker:black_radiance]]“If I stay, my access becomes a reason to keep lending the rest of myself to people I no longer trust.”
 
-“You think I trust everything?”
+[[speaker:hana]]“You think I trust everything?”
 
-“No.”
+[[speaker:black_radiance]]“No.”
 
 That answer hurt her more than accusation would have.
 
 He continued.
 
-“I think you believe somebody decent has to remain near the machinery.”
+[[speaker:black_radiance]]“I think you believe somebody decent has to remain near the machinery.”
 
-“Yes.”
+[[speaker:hana]]“Yes.”
 
-“I think decent people can become lubrication.”
+[[speaker:black_radiance]]“I think decent people can become lubrication.”
 
 Hana's face hardened.
 
-“And leaving makes you clean?”
+[[speaker:hana]]“And leaving makes you clean?”
 
-“No.”
+[[speaker:black_radiance]]“No.”
 
 He met her eyes.
 
-“Nothing makes me clean.”
+[[speaker:black_radiance]]“Nothing makes me clean.”
 
 He had finally named the thing he could never say while they were together.
 
@@ -1352,23 +1352,23 @@ The fire caught the roof beam.
 
 “Where will you go?” she asked.
 
-“Somewhere with tea.”
+[[speaker:black_radiance]]“Somewhere with tea.”
 
 Her eyes closed briefly.
 
-“That is not a country.”
+[[speaker:hana]]“That is not a country.”
 
-“It narrows the search.”
+[[speaker:black_radiance]]“It narrows the search.”
 
-“Wuyue.”
+[[speaker:hana]]“Wuyue.”
 
 Yurushi smiled faintly.
 
-“You said it.”
+[[speaker:black_radiance]]“You said it.”
 
-“Idiot.”
+[[speaker:hana]]“Idiot.”
 
-“Probably.”
+[[speaker:black_radiance]]“Probably.”
 
 A bell rang three streets away.
 
@@ -1386,17 +1386,17 @@ He looked at her.
 
 Hana's expression was blank.
 
-“That sounds like ordinary administration.”
+[[speaker:black_radiance]]“That sounds like ordinary administration.”
 
-“It is.”
+[[speaker:hana]]“It is.”
 
-“Of course.”
+[[speaker:black_radiance]]“Of course.”
 
-“If someone intended to be gone before then, the old river credentials might still pass.”
+[[speaker:hana]]“If someone intended to be gone before then, the old river credentials might still pass.”
 
-“Someone?”
+[[speaker:black_radiance]]“Someone?”
 
-“I have no idea who.”
+[[speaker:hana]]“I have no idea who.”
 
 Yurushi's smile became real for half a second.
 
@@ -1410,21 +1410,21 @@ He did not laugh.
 
 Her face tightened.
 
-“Do not make this into more than it is.”
+[[speaker:hana]]“Do not make this into more than it is.”
 
-“I wouldn't dare.”
+[[speaker:black_radiance]]“I wouldn't dare.”
 
-“You always dared.”
+[[speaker:hana]]“You always dared.”
 
-“That was different.”
+[[speaker:black_radiance]]“That was different.”
 
-“How?”
+[[speaker:hana]]“How?”
 
-“We were younger.”
+[[speaker:black_radiance]]“We were younger.”
 
-“We were together four years, Yurushi. We were not children.”
+[[speaker:hana]]“We were together four years, Yurushi. We were not children.”
 
-“Emotionally debatable.”
+[[speaker:black_radiance]]“Emotionally debatable.”
 
 She nearly smiled.
 
@@ -1434,25 +1434,25 @@ Then the patrol bell rang again.
 
 Hana stepped backward into the dark edge of the alley.
 
-“Go.”
+[[speaker:hana]]“Go.”
 
 Yurushi looked at her.
 
-“You know Shunto will eventually ask whether you saw me.”
+[[speaker:black_radiance]]“You know Shunto will eventually ask whether you saw me.”
 
-“Yes.”
+[[speaker:hana]]“Yes.”
 
-“What will you say?”
+[[speaker:black_radiance]]“What will you say?”
 
-“That I inspected a fire.”
+[[speaker:hana]]“That I inspected a fire.”
 
-“That is true.”
+[[speaker:black_radiance]]“That is true.”
 
-“I am learning from you.”
+[[speaker:hana]]“I am learning from you.”
 
-“That should concern you.”
+[[speaker:black_radiance]]“That should concern you.”
 
-“It does.”
+[[speaker:hana]]“It does.”
 
 Then she was gone.
 

@@ -26,15 +26,15 @@ Aldric Veyrhald insisted they use it anyway.
 
 Maedra Dravaryn looked up at the patched beams.
 
-“Barely.”
+[[speaker:maedra]]“Barely.”
 
-“So did we.”
+[[speaker:aldric]]“So did we.”
 
-“That is not architecture.”
+[[speaker:maedra]]“That is not architecture.”
 
-“It is symbolism.”
+[[speaker:aldric]]“It is symbolism.”
 
-“I hate symbolism.”
+[[speaker:maedra]]“I hate symbolism.”
 
 Solveig, standing between them, said, “Sign the document.”
 
@@ -166,9 +166,9 @@ One evening Aldric found him repairing a shield rack outside a barracks.
 
 Eirik kept working.
 
-“I know.”
+[[speaker:eirik]]“I know.”
 
-“You were better at ruling.”
+[[speaker:aldric]]“You were better at ruling.”
 
 Eirik stopped.
 
@@ -176,7 +176,7 @@ Aldric immediately regretted the sentence.
 
 Eirik looked at the unfinished rack.
 
-“No.”
+[[speaker:eirik]]“No.”
 
 That was all.
 
@@ -186,25 +186,25 @@ After a while he produced a folded appointment document.
 
 Eirik did not take it.
 
-“What is it?”
+[[speaker:eirik]]“What is it?”
 
-“Not a crown.”
+[[speaker:aldric]]“Not a crown.”
 
-“That narrows it.”
+[[speaker:eirik]]“That narrows it.”
 
-“Warden of the Northern Shield.”
+[[speaker:aldric]]“Warden of the Northern Shield.”
 
 Eirik looked at him.
 
-“Under whose authority?”
+[[speaker:eirik]]“Under whose authority?”
 
-“Mine when I am being reasonable.”
+[[speaker:aldric]]“Mine when I am being reasonable.”
 
-“That is concerning.”
+[[speaker:eirik]]“That is concerning.”
 
-“Solveig's when I am not.”
+[[speaker:aldric]]“Solveig's when I am not.”
 
-“Better.”
+[[speaker:eirik]]“Better.”
 
 The role carried military responsibility.
 
@@ -236,17 +236,17 @@ Rhen stood beside her.
 
 “You're smiling,” he said.
 
-“Am I?”
+[[speaker:sera]]“Am I?”
 
-“Yes.”
+[[speaker:rhen]]“Yes.”
 
-“Maybe I like functional diplomacy.”
+[[speaker:sera]]“Maybe I like functional diplomacy.”
 
 Rhen looked at Aldric and Maedra arguing over a comma while Solveig threatened both of them.
 
-“This is functional?”
+[[speaker:rhen]]“This is functional?”
 
-“For Isgard, extremely.”
+[[speaker:sera]]“For Isgard, extremely.”
 
 Rhen accepted that.
 
@@ -448,15 +448,15 @@ They looked at each other.
 
 “No report?” he asked.
 
-“No.”
+[[speaker:hana]]“No.”
 
-“No security consultation?”
+[[speaker:black_radiance]]“No security consultation?”
 
-“No.”
+[[speaker:hana]]“No.”
 
-“No humanitarian route crisis?”
+[[speaker:black_radiance]]“No humanitarian route crisis?”
 
-“No.”
+[[speaker:hana]]“No.”
 
 Yurushi tried not to smile.
 
@@ -464,7 +464,7 @@ Failed.
 
 Hana stepped closer.
 
-“I came to see you.”
+[[speaker:hana]]“I came to see you.”
 
 That finally shut him up.
 
@@ -472,13 +472,13 @@ For several seconds.
 
 Then:
 
-“You hated my tea.”
+[[speaker:black_radiance]]“You hated my tea.”
 
-“I still hate your tea.”
+[[speaker:hana]]“I still hate your tea.”
 
-“That seems incompatible with visiting this often.”
+[[speaker:black_radiance]]“That seems incompatible with visiting this often.”
 
-“I am not visiting the tea.”
+[[speaker:hana]]“I am not visiting the tea.”
 
 Yurushi's expression changed.
 
@@ -508,11 +508,11 @@ Tae dragged him backward by the collar.
 
 Huo protested.
 
-“I was being supportive.”
+[[speaker:huo]]“I was being supportive.”
 
-“You were spying.”
+[[speaker:tae]]“You were spying.”
 
-“Supportively.”
+[[speaker:huo]]“Supportively.”
 
 Some things did not need character development.
 
@@ -540,13 +540,13 @@ Sera had added the last line.
 
 Rhen had objected.
 
-“Why?”
+[[speaker:rhen]]“Why?”
 
-“Because people should be polite.”
+[[speaker:sera]]“Because people should be polite.”
 
-“That is not how clinics usually work.”
+[[speaker:rhen]]“That is not how clinics usually work.”
 
-“This is also a tea shop.”
+[[speaker:sera]]“This is also a tea shop.”
 
 Rhen had no answer to that.
 
@@ -576,11 +576,11 @@ The governor looked between them.
 
 Sera pointed at Rhen.
 
-“Ri Xue.”
+[[speaker:sera]]“Ri Xue.”
 
 Rhen pointed at Sera.
 
-“Xue Ra.”
+[[speaker:rhen]]“Xue Ra.”
 
 The governor frowned.
 
@@ -598,7 +598,7 @@ The governor turned.
 
 Kael covered the cough badly.
 
-“Hot.”
+[[speaker:kael]]“Hot.”
 
 The tea was cold.
 
@@ -622,11 +622,11 @@ Liang continued appearing on Kael's travels through what he insisted were coinci
 
 “Why are you here?” Kael asked once at a coastal inn six hundred miles from Liang's territory.
 
-“Coincidence.”
+[[speaker:liang]]“Coincidence.”
 
-“You rented the room next to mine.”
+[[speaker:kael]]“You rented the room next to mine.”
 
-“Extended coincidence.”
+[[speaker:liang]]“Extended coincidence.”
 
 Back at the mountain base, the main Petals and Sepals still convened regularly.
 
@@ -660,15 +660,15 @@ Then increasingly weak reasons.
 
 One afternoon Qin asked, “What brings you here?”
 
-“Regional coordination.”
+[[speaker:arin]]“Regional coordination.”
 
-“Lu handles that.”
+[[speaker:qin]]“Lu handles that.”
 
-“Medical logistics.”
+[[speaker:arin]]“Medical logistics.”
 
-“Luo handles that.”
+[[speaker:qin]]“Luo handles that.”
 
-“Warehouse allocation.”
+[[speaker:arin]]“Warehouse allocation.”
 
 From three rooms away Lu shouted, “I handle that too.”
 
@@ -676,7 +676,7 @@ Arin stared at the wall.
 
 Qin smiled.
 
-“Tea?”
+[[speaker:qin]]“Tea?”
 
 She sat down.
 
@@ -696,7 +696,7 @@ Sera billed them.
 
 At the gate, Xie adjusted his travel coat.
 
-“I'll be back in eight days.”
+[[speaker:xie_wuchen]]“I'll be back in eight days.”
 
 Sera looked at him.
 
@@ -708,21 +708,21 @@ Or nothing at all.
 
 Shen Rui noticed too.
 
-“That sounded like a promise.”
+[[speaker:rui]]“That sounded like a promise.”
 
 Xie gave him a flat look.
 
-“Do not make it unpleasant.”
+[[speaker:xie_wuchen]]“Do not make it unpleasant.”
 
 Eight days later, Lu placed an extra cup on the table before noon.
 
 Sera looked at it.
 
-“You believe him?”
+[[speaker:sera]]“You believe him?”
 
 Lu opened a ledger.
 
-“He said eight days.”
+[[speaker:luweiran]]“He said eight days.”
 
 The front door opened before Sera could answer.
 
@@ -734,7 +734,7 @@ Then at Lu.
 
 “Nine minutes early,” Lu said.
 
-“Wind.”
+[[speaker:xie_wuchen]]“Wind.”
 
 Nobody congratulated him.
 
@@ -792,7 +792,7 @@ Rhen beside her.
 
 Rhen looked around.
 
-“It is quiet.”
+[[speaker:rhen]]“It is quiet.”
 
 At that exact moment Huo shouted, “Tae, that is cowardice!”
 
@@ -802,7 +802,7 @@ Sera looked at Rhen.
 
 Rhen took another sip.
 
-“Relatively quiet.”
+[[speaker:rhen]]“Relatively quiet.”
 
 A week later, Xue Ra and Ri Xue reopened the third shop after one of their mountain visits.
 
@@ -820,23 +820,23 @@ By sunset every table was full.
 
 Sera leaned against the counter.
 
-“You know the aliases aren't working.”
+[[speaker:sera]]“You know the aliases aren't working.”
 
 Rhen arranged cups.
 
-“They work a little.”
+[[speaker:rhen]]“They work a little.”
 
-“Kael calls you Rhen in public.”
+[[speaker:sera]]“Kael calls you Rhen in public.”
 
-“He forgets.”
+[[speaker:rhen]]“He forgets.”
 
-“Huo shouted Petals Monarch from across the street yesterday.”
+[[speaker:sera]]“Huo shouted Petals Monarch from across the street yesterday.”
 
-“He also forgets.”
+[[speaker:rhen]]“He also forgets.”
 
-“Tae threatened to kill him.”
+[[speaker:sera]]“Tae threatened to kill him.”
 
-“He remembered.”
+[[speaker:rhen]]“He remembered.”
 
 Sera laughed.
 
@@ -852,15 +852,15 @@ Then at the growing queue.
 
 “Your idea,” he said.
 
-“Our idea.”
+[[speaker:sera]]“Our idea.”
 
-“You said clinic.”
+[[speaker:rhen]]“You said clinic.”
 
-“You said people keep finding us anyway.”
+[[speaker:sera]]“You said people keep finding us anyway.”
 
 Rhen considered.
 
-“Fair.”
+[[speaker:rhen]]“Fair.”
 
 Xue Ra turned the sign back to **OPEN**.
 
@@ -906,27 +906,27 @@ Then checked them again.
 
 Sera leaned over the railing.
 
-“Ri Xue.”
+[[speaker:sera]]“Ri Xue.”
 
 He looked up.
 
 She smiled.
 
-“Stop pretending you're normal.”
+[[speaker:sera]]“Stop pretending you're normal.”
 
-“I am checking the door.”
+[[speaker:rhen]]“I am checking the door.”
 
-“You checked it twice.”
+[[speaker:sera]]“You checked it twice.”
 
-“Doors are important.”
+[[speaker:rhen]]“Doors are important.”
 
-“Come upstairs.”
+[[speaker:sera]]“Come upstairs.”
 
 Rhen looked at the door one final time.
 
 Sera narrowed her eyes.
 
-“Rhen.”
+[[speaker:sera]]“Rhen.”
 
 He came upstairs.
 
@@ -954,23 +954,23 @@ Sera watched him.
 
 “You're staring,” he said.
 
-“Yes.”
+[[speaker:sera]]“Yes.”
 
 “Why?”
 
-“Thinking.”
+[[speaker:sera]]“Thinking.”
 
 Rhen immediately became cautious.
 
 That made Sera smile wider.
 
-“About what?”
+[[speaker:rhen]]“About what?”
 
-“The future.”
+[[speaker:sera]]“The future.”
 
-“That sounds dangerous.”
+[[speaker:rhen]]“That sounds dangerous.”
 
-“It is.”
+[[speaker:sera]]“It is.”
 
 Rhen settled onto the edge of the bed.
 
@@ -988,25 +988,25 @@ She stopped between his knees.
 
 Rhen looked up at her.
 
-“What?”
+[[speaker:rhen]]“What?”
 
 She touched the pale scar over his left eyebrow.
 
 Then his cheek.
 
-“You disappeared for six months.”
+[[speaker:sera]]“You disappeared for six months.”
 
 Rhen's expression softened.
 
 “I know.”
 
-“You slept through a war.”
+[[speaker:sera]]“You slept through a war.”
 
-“I was not sleeping.”
+[[speaker:rhen]]“I was not sleeping.”
 
-“You were horizontal for most of it.”
+[[speaker:sera]]“You were horizontal for most of it.”
 
-“That is not the definition of sleeping.”
+[[speaker:rhen]]“That is not the definition of sleeping.”
 
 Sera pushed him backward onto the bed.
 
@@ -1022,25 +1022,25 @@ Because he did not object.
 
 Rhen looked at her.
 
-“Sera.”
+[[speaker:rhen]]“Sera.”
 
-“Mm?”
+[[speaker:sera]]“Mm?”
 
-“What are you doing?”
+[[speaker:rhen]]“What are you doing?”
 
 She leaned closer.
 
 Her hair fell around them.
 
-“Planning.”
+[[speaker:sera]]“Planning.”
 
-“You said the future.”
+[[speaker:rhen]]“You said the future.”
 
-“Same thing.”
+[[speaker:sera]]“Same thing.”
 
 Rhen's mouth twitched.
 
-“What kind of plan?”
+[[speaker:rhen]]“What kind of plan?”
 
 Sera kissed him once.
 
@@ -1052,23 +1052,23 @@ Good.
 
 Sera traced one finger down the front of his shirt.
 
-“We have three tea shops.”
+[[speaker:sera]]“We have three tea shops.”
 
-“Yes.”
+[[speaker:rhen]]“Yes.”
 
-“A mountain full of terrifying people who refuse to leave us alone.”
+[[speaker:sera]]“A mountain full of terrifying people who refuse to leave us alone.”
 
-“Yes.”
+[[speaker:rhen]]“Yes.”
 
-“A clinic full of patients.”
+[[speaker:sera]]“A clinic full of patients.”
 
-“Yes.”
+[[speaker:rhen]]“Yes.”
 
-“A ridiculous extended family.”
+[[speaker:sera]]“A ridiculous extended family.”
 
 Rhen considered Huo.
 
-“Unfortunately.”
+[[speaker:rhen]]“Unfortunately.”
 
 Sera laughed.
 
@@ -1080,7 +1080,7 @@ Warmer.
 
 A little wicked.
 
-“And now,” she said, “I want something else.”
+[[speaker:sera]]“And now,” she said, “I want something else.”
 
 Rhen looked at her carefully.
 
@@ -1088,7 +1088,7 @@ Rhen looked at her carefully.
 
 Sera leaned down until her lips were beside his ear.
 
-“I want my minis.”
+[[speaker:sera]]“I want my minis.”
 
 Silence.
 
@@ -1096,7 +1096,7 @@ Rhen stared at the ceiling.
 
 Then at her.
 
-“...Minis?”
+[[speaker:rhen]]“...Minis?”
 
 Sera sat back just enough to see his face.
 
@@ -1112,7 +1112,7 @@ Defeated by one word.
 
 Sera grinned.
 
-“Little versions.”
+[[speaker:sera]]“Little versions.”
 
 Rhen's eyes widened by perhaps half a fraction.
 
@@ -1120,25 +1120,25 @@ For him, this was panic.
 
 “Sera.”
 
-“You heard me.”
+[[speaker:sera]]“You heard me.”
 
-“I did.”
+[[speaker:rhen]]“I did.”
 
-“Good.”
+[[speaker:sera]]“Good.”
 
-“We should discuss—”
+[[speaker:rhen]]“We should discuss—”
 
-“No.”
+[[speaker:sera]]“No.”
 
-“Timelines.”
+[[speaker:rhen]]“Timelines.”
 
-“No.”
+[[speaker:sera]]“No.”
 
-“Clinic scheduling.”
+[[speaker:rhen]]“Clinic scheduling.”
 
-“Absolutely not.”
+[[speaker:sera]]“Absolutely not.”
 
-“Potential—”
+[[speaker:rhen]]“Potential—”
 
 Sera kissed him again.
 
@@ -1164,9 +1164,9 @@ When they finally separated, his forehead rested against hers.
 
 Sera's smile turned smug.
 
-“For a while.”
+[[speaker:sera]]“For a while.”
 
-“How long?”
+[[speaker:rhen]]“How long?”
 
 She thought about the question.
 
@@ -1174,7 +1174,7 @@ Then laughed because once, after six months of silence, those had been the first
 
 Now they meant something entirely different.
 
-“Long enough.”
+[[speaker:sera]]“Long enough.”
 
 Outside, rain moved over the river.
 
