@@ -13,7 +13,7 @@ scene and unreliable with three, so it produced visible mistakes (for example
 Huo's line in Chapter 301 was labelled Lu Weiran). The guessing has been
 removed.
 
-The result is that **755 quoted lines now have no speaker name.** They
+The result is that **752 quoted lines now have no speaker name.** They
 render as plain quoted text. Nothing is wrong with them — the speaker is simply
 not recoverable automatically. This folder lists every one of them so a human or
 an assistant with full story context can resolve them.
@@ -161,7 +161,7 @@ list exists.
 
 | Season | Lines | Worklist file | Source draft to edit |
 |---|---|---|---|
-| Season 95 | 159 | `season-095.md` | `FINAL_ARC_SEASON095_PROSE_DRAFT*.md` |
+| Season 95 | 156 | `season-095.md` | `FINAL_ARC_SEASON095_PROSE_DRAFT*.md` |
 | Season 96 | 47 | `season-096.md` | `FINAL_ARC_SEASON096_PROSE_DRAFT*.md` |
 | Season 97 | 47 | `season-097.md` | `FINAL_ARC_SEASON097_PROSE_DRAFT*.md` |
 | Season 98 | 16 | `season-098.md` | `FINAL_ARC_SEASON098_PROSE_DRAFT*.md` |
@@ -181,7 +181,7 @@ list exists.
 | Season 112 | 0 | `season-112.md` | `FINAL_ARC_SEASON112_PROSE_DRAFT*.md` |
 | Season 113 | 3 | `season-113.md` | `FINAL_ARC_SEASON113_PROSE_DRAFT*.md` |
 | Season 114 | 6 | `season-114.md` | `FINAL_ARC_SEASON114_PROSE_DRAFT*.md` |
-| **Total** | **755** | | |
+| **Total** | **752** | | |
 
 ## Checking your work
 
