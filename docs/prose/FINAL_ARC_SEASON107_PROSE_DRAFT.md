@@ -118,7 +118,7 @@ The war had made enemies out of two cultivators spending most of their talent mi
 
 Liang found that absurd.
 
-“Do you believe in this invasion?” he asked.
+[[speaker:liang]]“Do you believe in this invasion?” he asked.
 
 Nao’s sword stopped for less than a breath.
 
@@ -270,7 +270,7 @@ Sigrun returning after Kenji nearly killed her.
 
 People on the other side kept paying costs that Aya could erase from Shinsei bodies but not from theirs.
 
-“I used to think recovery meant we were harder to defeat,” Jun said.
+[[speaker:jun]]“I used to think recovery meant we were harder to defeat,” Jun said.
 
 [[speaker:aya]]“We are.”
 
@@ -278,7 +278,7 @@ People on the other side kept paying costs that Aya could erase from Shinsei bod
 
 Aya put the brush down.
 
-Jun continued. “Kael beat me. I came back before I was ready. Then I finished healing anyway. Kenji loses and you rebuild him. Eirik gets hurt and comes back. We keep treating the fact that we can stand again as proof we should keep standing in the same place.”
+[[speaker:jun]]Jun continued. “Kael beat me. I came back before I was ready. Then I finished healing anyway. Kenji loses and you rebuild him. Eirik gets hurt and comes back. We keep treating the fact that we can stand again as proof we should keep standing in the same place.”
 
 Aya watched him carefully.
 
@@ -314,7 +314,7 @@ He looked at her for a long time.
 
 Aya’s brush stopped.
 
-“For healing me,” he added.
+[[speaker:jun]]“For healing me,” he added.
 
 [[speaker:aya]]“You do not owe me obedience because I treated you.”
 
@@ -500,7 +500,7 @@ Old Jun might have spent one more attack because decisive violence ended uncerta
 
 This Jun had lost to Kael, been healed by Aya, and returned with less interest in proving that every breach required a body beneath it.
 
-“Go,” Jun said.
+[[speaker:jun]]“Go,” Jun said.
 
 Rui laughed.
 
@@ -570,7 +570,7 @@ Xie Wuchen had no Dominion.
 
 This became extremely relevant while carrying Shen Rui through a collapsing war zone chased by people who did.
 
-“Put me down,” Rui said.
+[[speaker:rui]]“Put me down,” Rui said.
 
 [[speaker:xie_wuchen]]“No.”
 
@@ -648,7 +648,7 @@ He accelerated again.
 
 Pain sharpened.
 
-Rui said, “Xie.”
+[[speaker:rui]]Rui said, “Xie.”
 
 [[speaker:xie_wuchen]]“No.”
 

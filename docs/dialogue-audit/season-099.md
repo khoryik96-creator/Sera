@@ -9,7 +9,7 @@ Lines already resolved show their speaker in `[brackets]` for context.
 
 ```
 Also prepared.
-Yun said, “You forgot breakfast.”
+[yun] Yun said, “You forgot breakfast.”
 The physician’s hand paused.
 >>> “You are awake.”   <-- WHO SAYS THIS?
 [yun] “I had noticed.”
@@ -288,7 +288,7 @@ The man opened a freight panel.
 
 ```
 Someone inside—or close enough to inside—had helped her.
-“Find the corridor,” he said.
+[shunto] “Find the corridor,” he said.
 A guard bowed.
 >>> “And the person?”   <-- WHO SAYS THIS?
 Shunto looked at the open door.

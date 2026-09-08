@@ -36,7 +36,7 @@ He preferred numbers.
 
 So on the fourth morning after Rhen's arrival, he locked himself in a requisition room with six ledgers, two maps, one pot of tea and a junior officer who had made the mistake of being accurate in front of him twice.
 
-“Again,” Jin said.
+[[speaker:jin]]“Again,” Jin said.
 
 The junior officer swallowed.
 
@@ -524,7 +524,7 @@ Another older.
 
 He placed them beside the new report.
 
-“Nation army destroyed in one night,” he said.
+[[speaker:tsubasa]]“Nation army destroyed in one night,” he said.
 
 Kai's eyes lowered to the page.
 
@@ -610,7 +610,7 @@ The true one.
 
 Tsubasa waited.
 
-“He spoke about him like a boundary,” Hana said.
+[[speaker:hana]]“He spoke about him like a boundary,” Hana said.
 
 The room became quiet.
 
@@ -734,7 +734,7 @@ Those were comforting thoughts.
 
 Comfort was not strategy.
 
-“Prepare relocation,” he said.
+[[speaker:tsubasa]]“Prepare relocation,” he said.
 
 Kai looked up.
 
@@ -742,7 +742,7 @@ Kai looked up.
 
 [[speaker:tsubasa]]“Yes.”
 
-“All of us?” Hana asked.
+[[speaker:hana]]“All of us?” Hana asked.
 
 Tsubasa looked at every face in the room.
 
@@ -822,7 +822,7 @@ Every arrow worth carrying was gone.
 
 Ilyra stood in the central yard and hated it immediately.
 
-“This is worse,” she said.
+[[speaker:ilyra]]“This is worse,” she said.
 
 The scout captain beside her looked confused.
 
@@ -1058,7 +1058,7 @@ Nothing dramatic happened.
 
 That was beginning to become its own kind of drama.
 
-“What?” she asked.
+[[speaker:sera]]“What?” she asked.
 
 Rhen looked up.
 
@@ -1070,7 +1070,7 @@ Rhen looked up.
 
 [[speaker:sera]]“You did.”
 
-Jin said, “He did.”
+[[speaker:jin]]Jin said, “He did.”
 
 Rhen looked betrayed.
 

@@ -524,7 +524,7 @@ Tsubasa asked nothing else.
 
 That was almost insulting.
 
-“No follow-up?” Shunto said.
+[[speaker:shunto]]“No follow-up?” Shunto said.
 
 [[speaker:tsubasa]]“I said once.”
 
@@ -546,7 +546,7 @@ Tsubasa turned toward the exit.
 
 Tsubasa stopped.
 
-Without looking back, he said, “Because there is a difference between discovering that a report is false and discovering that the man who wrote it will lie to my face.”
+[[speaker:tsubasa]]Without looking back, he said, “Because there is a difference between discovering that a report is false and discovering that the man who wrote it will lie to my face.”
 
 Then he left.
 
@@ -786,7 +786,7 @@ Aya rubbed her temple.
 
 [[speaker:aya]]“We are not overthrowing Shinsei.”
 
-“No,” Hana said.
+[[speaker:hana]]“No,” Hana said.
 
 [[speaker:aya]]“We are not sabotaging the army.”
 
@@ -920,7 +920,7 @@ Nao's eyes narrowed.
 
 [[speaker:hana]]“Enough to suspect. Not enough to prove I knew Yun would use that road.”
 
-“Did you?” Aya asked.
+[[speaker:aya]]“Did you?” Aya asked.
 
 [[speaker:hana]]“No.”
 
@@ -970,7 +970,7 @@ Hana's mouth twisted.
 
 [[speaker:aya]]“We have no authority to rewrite policy.”
 
-Nao said, “We have authority over our own departments.”
+[[speaker:nao]]Nao said, “We have authority over our own departments.”
 
 Aya looked at her.
 
@@ -1272,7 +1272,7 @@ Hana's Wind Qi whispered once.
 
 Tsubasa did not move.
 
-“Do not,” he said.
+[[speaker:tsubasa]]“Do not,” he said.
 
 Shunto looked at him.
 
@@ -1438,7 +1438,7 @@ Hana watched too.
 
 Nao's eyes narrowed.
 
-Tsubasa said, “Double the guard.”
+[[speaker:tsubasa]]Tsubasa said, “Double the guard.”
 
 Kai looked toward him.
 

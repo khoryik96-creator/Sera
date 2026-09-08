@@ -56,7 +56,7 @@ Not in his face alone.
 
 In the way he listened when someone talked about paying tomorrow for strength today.
 
-“We kept saying emergency,” Haru said.
+[[speaker:haru]]“We kept saying emergency,” Haru said.
 
 The quartermaster turned toward him.
 
@@ -644,7 +644,7 @@ Luo looked at the line for a long time.
 
 Nobody interrupted.
 
-Finally he said, “I know.”
+[[speaker:luo]]Finally he said, “I know.”
 
 He closed the book.
 
@@ -762,7 +762,7 @@ Arin froze.
 
 Qin smiled.
 
-From behind them, Lu Weiran called, “I handle warehouse allocation.”
+[[speaker:luweiran]]From behind them, Lu Weiran called, “I handle warehouse allocation.”
 
 Arin closed her eyes.
 
@@ -812,7 +812,7 @@ Hana noticed.
 
 Of course she did.
 
-“Maybe longer,” she added.
+[[speaker:hana]]“Maybe longer,” she added.
 
 Yurushi looked away too quickly.
 

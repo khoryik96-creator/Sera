@@ -237,7 +237,7 @@ Three days later, the answer returned.
 
 Sera read the report beside a field brazier while Luo changed the bandage under her ribs.
 
-“Hold still,” he said.
+[[speaker:luo]]“Hold still,” he said.
 
 [[speaker:sera]]“I am holding still.”
 
@@ -283,7 +283,7 @@ Kael leaned over the table.
 
 Kael looked offended by the arithmetic.
 
-Sera said, “Good.”
+[[speaker:sera]]Sera said, “Good.”
 
 He turned to her.
 
@@ -411,7 +411,7 @@ It had made him increasingly certain that because his answers worked, he had ear
 
 Sera folded the pages.
 
-“Still good?” Kael asked.
+[[speaker:kael]]“Still good?” Kael asked.
 
 [[speaker:sera]]“Yes.”
 
@@ -641,7 +641,7 @@ Tae arrived eleven minutes later with his right arm still wrapped from the home-
 
 Huo arrived twenty-nine minutes later because a runner told him “lower east corridor” and he went to the lower eastern training corridor rather than the chamber passage.
 
-“This mountain needs better names,” Huo whispered.
+[[speaker:huo]]“This mountain needs better names,” Huo whispered.
 
 Lu stared at him.
 
@@ -659,7 +659,7 @@ Tae’s expression changed.
 
 [[speaker:tae]]“That is new.”
 
-“Yes.”
+[[speaker:qin]]“Yes.”
 
 Qin placed his fingertips against the outer stone.
 
@@ -691,9 +691,9 @@ He raised both hands.
 
 [[speaker:huo]]“I asked so nobody else had to.”
 
-“No,” Lu said.
+[[speaker:luweiran]]“No,” Lu said.
 
-“Good.”
+[[speaker:huo]]“Good.”
 
 Nobody woke Rhen.
 
@@ -711,7 +711,7 @@ Lu recorded the observation.
 
 Qin remained several minutes longer.
 
-“Different?” Tae asked him.
+[[speaker:tae]]“Different?” Tae asked him.
 
 [[speaker:qin]]“Yes.”
 
@@ -731,7 +731,7 @@ Huo looked at the stone.
 
 [[speaker:huo]]“He will be angry we did all this without him.”
 
-Lu said, “No.”
+[[speaker:luweiran]]Lu said, “No.”
 
 [[speaker:huo]]“You sound certain.”
 

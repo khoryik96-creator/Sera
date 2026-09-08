@@ -24,13 +24,13 @@ Jin Seoryu stood over the main command table before sunrise with three brushes t
 
 Sera had seen him fight entire campaigns with fewer weapons.
 
-“Again,” she said.
+[[speaker:sera]]“Again,” she said.
 
 A naval clerk swallowed.
 
 “Forty-six deep-hull transports confirmed within nine days. Another nineteen if Stonecrown releases civilian grain carriers.”
 
-“Do not count grain carriers twice,” Jin said.
+[[speaker:jin]]“Do not count grain carriers twice,” Jin said.
 
 “I did not.”
 
@@ -254,7 +254,7 @@ Both answers had been variations of no.
 
 He stood over Yun's Axtaya sample with three assistants and a cup of tea that had gone cold enough to become an accusation.
 
-“Do not heat it,” he said when one assistant reached for the kettle.
+[[speaker:luo]]“Do not heat it,” he said when one assistant reached for the kettle.
 
 The assistant froze.
 
@@ -390,7 +390,7 @@ Tsubasa folded the report.
 
 Haru looked up.
 
-Shunto said, “We can still contain—”
+[[speaker:shunto]]Shunto said, “We can still contain—”
 
 [[speaker:tsubasa]]“No.”
 
@@ -412,7 +412,7 @@ His eyes moved to Haru.
 
 Haru put down the charcoal.
 
-“Not enough,” he said.
+[[speaker:haru]]“Not enough,” he said.
 
 Tsubasa waited.
 
@@ -534,7 +534,7 @@ There were cruelties nobody could punch.
 
 Sera removed her hand.
 
-Lu said, “We can leave a watch.”
+[[speaker:luweiran]]Lu said, “We can leave a watch.”
 
 [[speaker:sera]]“We already have one.”
 
@@ -594,7 +594,7 @@ Lu followed.
 
 Core remained at the door to check the seal.
 
-Halfway to the map room, Lu said, “Jin currently has Rhen listed as unavailable.”
+[[speaker:luweiran]]Halfway to the map room, Lu said, “Jin currently has Rhen listed as unavailable.”
 
 Sera stopped.
 
@@ -678,7 +678,7 @@ Huo looked up the stair toward the sealed chamber.
 
 [[speaker:sera]]“We fight smarter.”
 
-Tae said, “That sounded like Jin.”
+[[speaker:tae]]Tae said, “That sounded like Jin.”
 
 [[speaker:sera]]“I have been near him too long.”
 
@@ -690,7 +690,7 @@ Sera finally had the question she needed.
 
 Sera looked at the three men who had lived beneath her roof, eaten her food, broken her training grounds, annoyed Lu and somehow become High Paragons while most of the world still thought Wuyue's strength ended at its public ranking board.
 
-“Home,” she said.
+[[speaker:sera]]“Home,” she said.
 
 Huo's brow furrowed.
 
@@ -972,7 +972,7 @@ Luo looked at him.
 
 [[speaker:luo]]“Your face is irritating.”
 
-Sera said, “Eat.”
+[[speaker:sera]]Sera said, “Eat.”
 
 Luo glared at both of them.
 
@@ -998,7 +998,7 @@ That was kindness too.
 
 When the bowl was empty, Luo pulled a clean sheet toward himself.
 
-“What are you doing?” Sera asked.
+[[speaker:sera]]“What are you doing?” Sera asked.
 
 [[speaker:luo]]“Separating the useful parts.”
 
@@ -1030,7 +1030,7 @@ Lu nodded.
 
 [[speaker:luo]]“Keep the original here.”
 
-Sera said, “Under guard.”
+[[speaker:sera]]Sera said, “Under guard.”
 
 Luo looked at the last line again.
 
@@ -1054,7 +1054,7 @@ Not too late to keep doing what she sent it to do.
 
 Luo placed one palm over the paper.
 
-“Fine,” he murmured.
+[[speaker:luo]]“Fine,” he murmured.
 
 Sera heard.
 
@@ -1238,7 +1238,7 @@ He knew the way her left thumb touched the edge of her sword guard when she want
 
 Neither mentioned it.
 
-Hana said, “Shunto knows someone helped the foreign woman.”
+[[speaker:hana]]Hana said, “Shunto knows someone helped the foreign woman.”
 
 [[speaker:black_radiance]]“He should investigate harder.”
 
@@ -1308,7 +1308,7 @@ Then one day he had looked at all the people he was secretly moving around Shins
 
 Yun had merely removed the last excuse.
 
-Hana said, “If you leave, you lose what access you have.”
+[[speaker:hana]]Hana said, “If you leave, you lose what access you have.”
 
 [[speaker:black_radiance]]“If I stay, my access becomes a reason to keep lending the rest of myself to people I no longer trust.”
 
@@ -1350,7 +1350,7 @@ Hana looked away first.
 
 The fire caught the roof beam.
 
-“Where will you go?” she asked.
+[[speaker:hana]]“Where will you go?” she asked.
 
 [[speaker:black_radiance]]“Somewhere with tea.”
 
@@ -1380,7 +1380,7 @@ Yurushi felt it too.
 
 They had minutes.
 
-She said, “The western inspection office receives the updated route notices at sunset.”
+[[speaker:hana]]She said, “The western inspection office receives the updated route notices at sunset.”
 
 He looked at her.
 
@@ -1406,7 +1406,7 @@ He could tell because he had once spent four years learning which of her silence
 
 He did not laugh.
 
-“Thank you,” he said.
+[[speaker:black_radiance]]“Thank you,” he said.
 
 Her face tightened.
 

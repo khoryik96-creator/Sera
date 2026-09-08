@@ -336,7 +336,7 @@ There.
 
 He saw it.
 
-“The report said Sovereign?” Tae asked.
+[[speaker:tae]]“The report said Sovereign?” Tae asked.
 
 Hana said nothing.
 
@@ -640,7 +640,7 @@ Haru hated that.
 
 Hana understood it better.
 
-“Stop forcing it,” she said.
+[[speaker:hana]]“Stop forcing it,” she said.
 
 [[speaker:haru]]“I know.”
 
@@ -652,7 +652,7 @@ Tae heard.
 
 [[speaker:tae]]“Healthy relationship.”
 
-“We are not together,” Hana snapped.
+[[speaker:hana]]“We are not together,” Hana snapped.
 
 Tae blinked.
 
@@ -876,7 +876,7 @@ The second cut his shoulder.
 
 Hana passed him.
 
-“Not bad,” Huo said.
+[[speaker:huo]]“Not bad,” Huo said.
 
 [[speaker:hana]]“Stop complimenting us.”
 
@@ -962,7 +962,7 @@ Huo’s second strike landed in the ribs.
 
 Haru coughed.
 
-“I let you think that,” Huo said.
+[[speaker:huo]]“I let you think that,” Huo said.
 
 Haru hated him instantly.
 
@@ -1224,7 +1224,7 @@ Another echo returned.
 
 Haru’s face changed.
 
-“Do less,” Hana said.
+[[speaker:hana]]“Do less,” Hana said.
 
 [[speaker:haru]]“I know.”
 
@@ -1592,7 +1592,7 @@ Qin nodded.
 
 [[speaker:qin]]“So do we.”
 
-“Know what?” Huo asked.
+[[speaker:huo]]“Know what?” Huo asked.
 
 Qin turned toward the continental map inside.
 

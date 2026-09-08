@@ -1,6 +1,6 @@
 # Season 101 — unattributed dialogue
 
-81 quoted lines in this season have no speaker.
+80 quoted lines in this season have no speaker.
 See `README.md` in this folder for what to do with them.
 
 Lines already resolved show their speaker in `[brackets]` for context.
@@ -9,22 +9,22 @@ Lines already resolved show their speaker in `[brackets]` for context.
 
 ```
 Sera had seen him fight entire campaigns with fewer weapons.
-“Again,” she said.
+[sera] “Again,” she said.
 A naval clerk swallowed.
 >>> “Forty-six deep-hull transports confirmed within nine days. Another nineteen if Stonecrown releases civilian grain carriers.”   <-- WHO SAYS THIS?
-“Do not count grain carriers twice,” Jin said.
+[jin] “Do not count grain carriers twice,” Jin said.
 “I did not.”
 ```
 ```
 A naval clerk swallowed.
 “Forty-six deep-hull transports confirmed within nine days. Another nineteen if Stonecrown releases civilian grain carriers.”
-“Do not count grain carriers twice,” Jin said.
+[jin] “Do not count grain carriers twice,” Jin said.
 >>> “I did not.”   <-- WHO SAYS THIS?
 [jin] “You did yesterday.”
 “That was another clerk.”
 ```
 ```
-“Do not count grain carriers twice,” Jin said.
+[jin] “Do not count grain carriers twice,” Jin said.
 “I did not.”
 [jin] “You did yesterday.”
 >>> “That was another clerk.”   <-- WHO SAYS THIS?
@@ -73,7 +73,7 @@ He signed anyway.
 ```
 ```
 He stood over Yun's Axtaya sample with three assistants and a cup of tea that had gone cold enough to become an accusation.
-“Do not heat it,” he said when one assistant reached for the kettle.
+[luo] “Do not heat it,” he said when one assistant reached for the kettle.
 The assistant froze.
 >>> “The tea?”   <-- WHO SAYS THIS?
 [luo] “The sample.”
@@ -253,7 +253,7 @@ Yurushi looked back at the safehouse.
 
 ```
 This was considered growth.
-“Again,” he said.
+[jin] “Again,” he said.
 The youngest clerk stared at the deployment board.
 >>> “Sixty percent of continental combat strength—”   <-- WHO SAYS THIS?
 [jin] “No.”
@@ -300,7 +300,7 @@ Jin pointed at the board.
 The clerk hesitated.
 ```
 ```
-Tae whispered, “He was about to ask.”
+[tae] Tae whispered, “He was about to ask.”
 Huo nodded gravely.
 The clerk decided survival mattered.
 >>> “Yes.”   <-- WHO SAYS THIS?
@@ -409,7 +409,7 @@ That would have wasted time.
 ```
 Nobody cursed.
 That would have wasted time.
-“What has moved?” Solveig asked.
+[solveig] “What has moved?” Solveig asked.
 >>> “Medicine. Preserved food. Surgical supplies. Two fast naval escorts. Wuyue says the main expedition is not ready to sail without becoming a supply failure halfway north.”   <-- WHO SAYS THIS?
 Varok muttered something impolite.
 Solveig ignored him.
@@ -436,7 +436,7 @@ Solveig looked at the map.
 The messenger blinked.
 >>> “Those exact words?”   <-- WHO SAYS THIS?
 [solveig] “Yes.”
-Varok said, “Add something inspiring.”
+[varok] Varok said, “Add something inspiring.”
 ```
 ```
 At sea, the first Shinsei transport lowered boats.
@@ -550,7 +550,7 @@ Solveig looked at the old officer.
 ```
 ```
 Not young enough to forget.
-“What did you say?” Solveig asked.
+[solveig] “What did you say?” Solveig asked.
 Orven stared at the shieldwork report from Brynja's coast.
 >>> “Read the brace again.”   <-- WHO SAYS THIS?
 A clerk did.
@@ -562,18 +562,18 @@ Orven stared at the shieldwork report from Brynja's coast.
 A clerk did.
 >>> “Impact received at shield rim. Force distributed through shoulder, hip and rear leg rather than direct arm absorption. Commander remained planted despite unstable deck.”   <-- WHO SAYS THIS?
 Orven's face had gone pale.
-Varok said, “That is a defensive method.”
+[varok] Varok said, “That is a defensive method.”
 ```
 ```
 “Impact received at shield rim. Force distributed through shoulder, hip and rear leg rather than direct arm absorption. Commander remained planted despite unstable deck.”
 Orven's face had gone pale.
-Varok said, “That is a defensive method.”
+[varok] Varok said, “That is a defensive method.”
 >>> “No.”   <-- WHO SAYS THIS?
 Orven looked at him.
 “That is **his** defensive method.”
 ```
 ```
-Varok said, “That is a defensive method.”
+[varok] Varok said, “That is a defensive method.”
 “No.”
 Orven looked at him.
 >>> “That is **his** defensive method.”   <-- WHO SAYS THIS?
@@ -667,12 +667,4 @@ A third voice, harsher:
 >>> “My uncle disappeared during one of his emergency levies.”   <-- WHO SAYS THIS?
 History refused to simplify itself for the convenience of battle.
 Eirik heard some of it.
-```
-```
-Eirik looked past Aldric toward the grey banners.
-Toward old soldiers who remembered him.
-Toward young ones who only knew stories.
->>> “Submit the ports to joint Shinsei administration,” he said. “Open military inventory. Accept unified coastal command. No reprisals against local officers who comply. Existing civil councils remain provisionally in place.”   <-- WHO SAYS THIS?
-Aldric almost smiled.
-[aldric] “Provisionally.”
 ```

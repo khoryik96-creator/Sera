@@ -26,7 +26,7 @@ Rhen finished one bowl of rice porridge, two steamed buns, half a plate of pickl
 
 Lu watched the entire process.
 
-“This is excessive,” Rhen said.
+[[speaker:rhen]]“This is excessive,” Rhen said.
 
 [[speaker:luweiran]]“You were sealed in stone for six months.”
 
@@ -134,7 +134,7 @@ Rhen stopped.
 
 Every broom froze.
 
-“Good work,” he said.
+[[speaker:rhen]]“Good work,” he said.
 
 The apprentices bowed so quickly one struck another with the handle.
 
@@ -616,7 +616,7 @@ Sera looked at Rhen.
 
 Six months fit into the space between them.
 
-Then Rhen said, “You look terrible.”
+[[speaker:rhen]]Then Rhen said, “You look terrible.”
 
 Arin, outside the tent, whispered something unprintable.
 
@@ -644,7 +644,7 @@ It was barely a cultivator's punch.
 
 He still accepted it.
 
-“You,” Sera said.
+[[speaker:sera]]“You,” Sera said.
 
 Rhen nodded.
 
@@ -698,7 +698,7 @@ Rhen's jaw tightened.
 
 Sera felt it.
 
-“Don't,” she said into his coat.
+[[speaker:sera]]“Don't,” she said into his coat.
 
 [[speaker:rhen]]“I didn't say anything.”
 
@@ -896,7 +896,7 @@ Sera noticed.
 
 That improved her mood considerably.
 
-“Good,” she said.
+[[speaker:sera]]“Good,” she said.
 
 Rhen blinked.
 
@@ -920,7 +920,7 @@ Jin gestured at the map.
 
 [[speaker:jin]]“We can give you the current state in an hour.”
 
-“Lu gave me six months on the way out,” Rhen said.
+[[speaker:rhen]]“Lu gave me six months on the way out,” Rhen said.
 
 Jin glanced at Sera.
 
@@ -1066,7 +1066,7 @@ Rhen looked at Luo.
 
 [[speaker:luo]]“Worse.”
 
-“Traitor,” Sera said.
+[[speaker:sera]]“Traitor,” Sera said.
 
 Luo turned another page.
 
@@ -1110,7 +1110,7 @@ Luo Wen received it with relief.
 
 Sera received it while Rhen was repairing the torn circulation beneath her ribs and therefore lacked the leverage to object.
 
-“This is cheating,” she said.
+[[speaker:sera]]“This is cheating,” she said.
 
 Rhen's hand rested lightly against her side through layers of clothing and bandage.
 
@@ -1156,7 +1156,7 @@ Rhen moved to the shoulder channel.
 
 Sera went quiet.
 
-“Better?” he asked.
+[[speaker:rhen]]“Better?” he asked.
 
 [[speaker:sera]]“Don't look smug.”
 
@@ -1414,7 +1414,7 @@ Fully restored, she spent the morning walking sectors, resolving arguments and f
 
 At noon, Jin found her carrying two bowls of broth.
 
-“One is for him?” he asked.
+[[speaker:jin]]“One is for him?” he asked.
 
 [[speaker:sera]]“Yes.”
 
@@ -1462,7 +1462,7 @@ Frost-white petals still covered the sky.
 
 The pale violet within them had not dimmed.
 
-“I don't know,” she said.
+[[speaker:sera]]“I don't know,” she said.
 
 The captain swallowed.
 

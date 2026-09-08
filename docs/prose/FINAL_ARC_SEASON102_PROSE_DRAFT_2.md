@@ -22,7 +22,7 @@ Eldran hated that about her.
 
 He also understood it.
 
-“Your leg is bleeding again,” he said.
+[[speaker:eldran]]“Your leg is bleeding again,” he said.
 
 Maedra looked down as if surprised to own one.
 
@@ -222,7 +222,7 @@ It also tore Maedra's injured leg worse.
 
 She collapsed beside him.
 
-“Idiot,” she said.
+[[speaker:maedra]]“Idiot,” she said.
 
 Eldran tried to laugh.
 
@@ -532,7 +532,7 @@ He exhaled.
 
 [[speaker:kenji]]“I need the road.”
 
-Sigrun answered, “I know.”
+[[speaker:sigrun]]Sigrun answered, “I know.”
 
 [[speaker:kenji]]“You cannot keep standing.”
 
@@ -636,7 +636,7 @@ Not yet.
 
 Sigrun lifted the spear.
 
-Kenji whispered, “What are you?”
+[[speaker:kenji]]Kenji whispered, “What are you?”
 
 She answered with the truth.
 
@@ -778,7 +778,7 @@ That restraint cost him time.
 
 Sigrun knew it.
 
-“Merciful?” she asked.
+[[speaker:sigrun]]“Merciful?” she asked.
 
 [[speaker:kenji]]“Efficient.”
 
@@ -1012,7 +1012,7 @@ An officer looked at the empty chair.
 
 “When Aldric wakes—”
 
-Solveig said, “He is not awake.”
+[[speaker:solveig]]Solveig said, “He is not awake.”
 
 The officer stopped.
 
@@ -1218,7 +1218,7 @@ One signal tower.
 
 The port remained.
 
-When a clerk later called it a victory, Brynja said, “It was a bill we could afford.”
+[[speaker:brynja]]When a clerk later called it a victory, Brynja said, “It was a bill we could afford.”
 
 ###
 
@@ -1256,7 +1256,7 @@ Astrid Vardrenn entered carrying a broken map case and three sticks tied with re
 
 Everyone stared.
 
-Solveig said, “Where were you?”
+[[speaker:solveig]]Solveig said, “Where were you?”
 
 [[speaker:astrid]]“Finding a road.”
 

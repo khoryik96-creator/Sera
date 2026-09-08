@@ -248,7 +248,7 @@ Ordinary life.
 
 Rhen listened.
 
-Sera said, “You are going to close the door.”
+[[speaker:sera]]Sera said, “You are going to close the door.”
 
 [[speaker:rhen]]“Yes.”
 
@@ -266,7 +266,7 @@ That was why he loved her.
 
 Sera had spent too much of her life being protected without consent to confuse love with refusing another person the right to make a necessary choice.
 
-Instead she asked, “Can the Garden keep running while you are inside?”
+[[speaker:sera]]Instead she asked, “Can the Garden keep running while you are inside?”
 
 [[speaker:rhen]]“Yes. The long-term passive is already established. It does not require me to consciously maintain every cycle.”
 
@@ -292,7 +292,7 @@ Warm.
 
 The frost in the room had already vanished.
 
-Rhen said, “I am sorry.”
+[[speaker:rhen]]Rhen said, “I am sorry.”
 
 [[speaker:sera]]“For needing medical treatment?”
 
@@ -312,7 +312,7 @@ Nobody knew enough to call it war.
 
 Nobody knew enough to call it anything else.
 
-Rhen said, “It feels like a bad time to disappear.”
+[[speaker:rhen]]Rhen said, “It feels like a bad time to disappear.”
 
 Sera squeezed his hand.
 
@@ -406,7 +406,7 @@ Luo looked at him.
 
 [[speaker:xie_wuchen]]“The courier was extorting refugees.”
 
-Lu said, “He stopped the extortion, found the ledger and brought it here.”
+[[speaker:luweiran]]Lu said, “He stopped the extortion, found the ledger and brought it here.”
 
 Xie looked offended.
 
@@ -524,7 +524,7 @@ Everyone looked at him.
 
 He immediately regretted speaking.
 
-Sera said, “To where?”
+[[speaker:sera]]Sera said, “To where?”
 
 Xie gestured at the ledger.
 
@@ -616,7 +616,7 @@ Still nothing.
 
 [[speaker:xie_wuchen]]“You are all irritating.”
 
-Sera said, “See you tomorrow.”
+[[speaker:sera]]Sera said, “See you tomorrow.”
 
 Xie left.
 
@@ -624,7 +624,7 @@ Lu watched the door close.
 
 [[speaker:luweiran]]“He will be back.”
 
-Luo said, “Probably.”
+[[speaker:luo]]Luo said, “Probably.”
 
 For the first time, there was no humor in it.
 
@@ -1106,7 +1106,7 @@ Rhen nodded.
 
 [[speaker:rhen]]“I know.”
 
-Tae said, “If something happens, we punch it.”
+[[speaker:tae]]Tae said, “If something happens, we punch it.”
 
 Huo closed his eyes.
 
@@ -1134,7 +1134,7 @@ The corridor suddenly felt longer.
 
 Rhen looked at her.
 
-Sera said, “You owe me rent.”
+[[speaker:sera]]Sera said, “You owe me rent.”
 
 [[speaker:rhen]]“I remember.”
 

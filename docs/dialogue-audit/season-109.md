@@ -28,7 +28,7 @@ The quartermaster looked between them.
 Then at Lu, who had followed at a distance.
 Then back at Rhen.
 >>> “Should I—”   <-- WHO SAYS THIS?
-“Yes,” Lu said.
+[luweiran] “Yes,” Lu said.
 The quartermaster vanished.
 ```
 

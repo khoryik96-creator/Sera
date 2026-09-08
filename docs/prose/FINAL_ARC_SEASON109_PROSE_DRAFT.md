@@ -80,7 +80,7 @@ Rhen asked where Sera was.
 
 Lu had expected that too.
 
-“She is alive,” he said.
+[[speaker:luweiran]]“She is alive,” he said.
 
 Rhen's gaze sharpened by a degree so small that another person might have missed it.
 
@@ -146,7 +146,7 @@ The frost stopped spreading.
 
 A second later it withdrew.
 
-“Sorry,” Rhen said.
+[[speaker:rhen]]“Sorry,” Rhen said.
 
 Lu almost laughed.
 
@@ -178,7 +178,7 @@ Rhen did not curse it.
 
 He sat with it.
 
-Then he asked, “What is Axtaya?”
+[[speaker:rhen]]Then he asked, “What is Axtaya?”
 
 Lu finally opened the ledger.
 
@@ -238,7 +238,7 @@ No sense of depth.
 
 Rhen stood three steps away, and Lu's instincts gave him no useful answer at all.
 
-“Your coat,” Lu said.
+[[speaker:luweiran]]“Your coat,” Lu said.
 
 Rhen glanced down at the folded dark green traveling coat.
 
@@ -324,7 +324,7 @@ Rhen glanced at them.
 
 All three vanished.
 
-“Your security has improved,” he said.
+[[speaker:rhen]]“Your security has improved,” he said.
 
 Lu kept walking.
 
@@ -360,7 +360,7 @@ Lines crossed the northern sea like wounds.
 
 Lu shut the door.
 
-“Yun died on Day Zero,” he said.
+[[speaker:luweiran]]“Yun died on Day Zero,” he said.
 
 Rhen stood at the table.
 
@@ -494,7 +494,7 @@ Then he told him anyway.
 
 The smile disappeared.
 
-“Who ran Isgard?” Rhen asked.
+[[speaker:rhen]]“Who ran Isgard?” Rhen asked.
 
 [[speaker:luweiran]]“Someone had to.”
 
@@ -508,7 +508,7 @@ He knew Solveig only distantly.
 
 That changed now.
 
-“Remember her name,” he said.
+[[speaker:rhen]]“Remember her name,” he said.
 
 Lu's eyes flicked up.
 
@@ -566,7 +566,7 @@ Then Qin.
 
 Rhen listened with increasing stillness.
 
-“Two Paragons?” he asked.
+[[speaker:rhen]]“Two Paragons?” he asked.
 
 [[speaker:luweiran]]“Yes.”
 
@@ -610,7 +610,7 @@ Then roughly double cost for the second.
 
 Then roughly quadruple for the third.
 
-“Thirty-five years,” he said.
+[[speaker:rhen]]“Thirty-five years,” he said.
 
 [[speaker:luweiran]]“Approximately.”
 
@@ -1072,7 +1072,7 @@ Huo looked from one to the other.
 
 [[speaker:huo]]“I missed this.”
 
-“You were here,” Tae said.
+[[speaker:tae]]“You were here,” Tae said.
 
 [[speaker:huo]]“I missed him annoying you.”
 
@@ -1080,7 +1080,7 @@ Rhen dismissed the petal.
 
 Qin's fingers slowly lowered.
 
-“It's too quiet,” he said.
+[[speaker:qin]]“It's too quiet,” he said.
 
 That silenced the room more effectively than Huo ever could.
 
@@ -1134,7 +1134,7 @@ Qin went very still.
 
 “Two of them,” Rhen said. “Haru and Hana.”
 
-“Yes,” Qin replied.
+[[speaker:qin]]“Yes,” Qin replied.
 
 [[speaker:rhen]]“You fought them separately.”
 
@@ -1182,7 +1182,7 @@ Not three strong men chasing the satisfaction of winning.
 
 Three officers using strength for an objective.
 
-“What did you think of their Domains?” he asked.
+[[speaker:rhen]]“What did you think of their Domains?” he asked.
 
 Tae answered first.
 
@@ -1192,7 +1192,7 @@ Tae answered first.
 
 “Fast,” Huo said. “Actually fast. Not people-say-fast-because-they-lost-her fast.”
 
-Qin added, “Her qinggong is physical. Wind and pressure. Hollow Sky creates moving low-pressure pockets: breathing, balance and sustained exertion worsen inside them, and collapsing a pocket can turn the returning air into a violent physical opening. No spatial tricks.”
+[[speaker:qin]]Qin added, “Her qinggong is physical. Wind and pressure. Hollow Sky creates moving low-pressure pockets: breathing, balance and sustained exertion worsen inside them, and collapsing a pocket can turn the returning air into a violent physical opening. No spatial tricks.”
 
 Rhen nodded approval.
 
@@ -1264,7 +1264,7 @@ People who had held Wuyue while the strongest public fighters were gone.
 
 Rhen smiled faintly.
 
-“What?” Tae asked suspiciously.
+[[speaker:tae]]“What?” Tae asked suspiciously.
 
 [[speaker:rhen]]“Nothing.”
 
@@ -1320,7 +1320,7 @@ Then he exhaled.
 
 Huo frowned.
 
-Rhen added, “Also someone should stop Huo from drinking the emergency tea stock.”
+[[speaker:rhen]]Rhen added, “Also someone should stop Huo from drinking the emergency tea stock.”
 
 Huo looked offended.
 
@@ -1332,7 +1332,7 @@ Lu spoke without lifting his head.
 
 [[speaker:huo]]“Those were separate emergencies.”
 
-“What emergencies?” Tae asked.
+[[speaker:tae]]“What emergencies?” Tae asked.
 
 [[speaker:huo]]“I was thirsty.”
 
@@ -1358,7 +1358,7 @@ But after six months of casualty lists, it sounded strange enough that everyone 
 
 Rhen let the moment remain.
 
-Then he asked, “Where is Yurushi?”
+[[speaker:rhen]]Then he asked, “Where is Yurushi?”
 
 Lu finally closed the ledger.
 
@@ -1494,7 +1494,7 @@ Then back at Rhen.
 
 “Should I—”
 
-“Yes,” Lu said.
+[[speaker:luweiran]]“Yes,” Lu said.
 
 The quartermaster vanished.
 
@@ -1502,7 +1502,7 @@ Yurushi watched him go.
 
 [[speaker:black_radiance]]“I think he dislikes me.”
 
-“He likes systems,” Lu said.
+[[speaker:luweiran]]“He likes systems,” Lu said.
 
 [[speaker:black_radiance]]“So do I.”
 
@@ -1578,7 +1578,7 @@ Rhen waited.
 
 Yurushi waited back.
 
-“That is all?” Rhen asked.
+[[speaker:rhen]]“That is all?” Rhen asked.
 
 [[speaker:black_radiance]]“Was there supposed to be more?”
 
@@ -1646,7 +1646,7 @@ Yurushi blinked.
 
 Lu closed his eyes.
 
-Rhen continued, “She didn't know you.”
+[[speaker:rhen]]Rhen continued, “She didn't know you.”
 
 [[speaker:black_radiance]]“I know.”
 
@@ -1658,7 +1658,7 @@ Yurushi looked almost offended.
 
 [[speaker:rhen]]“I am a physician.”
 
-Lu muttered, “He keeps saying that as if it explains him.”
+[[speaker:luweiran]]Lu muttered, “He keeps saying that as if it explains him.”
 
 Yurushi's mouth twitched.
 
@@ -1820,7 +1820,7 @@ Rhen looked at the petals.
 
 They vanished.
 
-“Still adjusting,” he said.
+[[speaker:rhen]]“Still adjusting,” he said.
 
 Yurushi nodded slowly.
 
@@ -1884,7 +1884,7 @@ He did not push through it simply because he could.
 
 [[speaker:rhen]]“Send it.”
 
-“I am,” Lu said.
+[[speaker:luweiran]]“I am,” Lu said.
 
 [[speaker:rhen]]“Today.”
 
@@ -1904,7 +1904,7 @@ Yurushi looked at him for a long moment.
 
 Yurushi's expression softened.
 
-Then Rhen added, “If Sera decides I should know, she will tell me.”
+[[speaker:rhen]]Then Rhen added, “If Sera decides I should know, she will tell me.”
 
 Lu looked at him.
 

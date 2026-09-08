@@ -104,7 +104,7 @@ The guard remained beyond kicking range.
 
 Also prepared.
 
-Yun said, “You forgot breakfast.”
+[[speaker:yun]]Yun said, “You forgot breakfast.”
 
 The physician’s hand paused.
 
@@ -296,7 +296,7 @@ Yun disliked statements.
 
 Shunto stood beyond reach anyway.
 
-“How are the locks?” he asked.
+[[speaker:shunto]]“How are the locks?” he asked.
 
 [[speaker:yun]]“Amateurish.”
 
@@ -314,7 +314,7 @@ He pulled the room’s only chair closer but stopped outside kicking range.
 
 Still learning.
 
-Yun said, “You rehearsed the road for how long?”
+[[speaker:yun]]Yun said, “You rehearsed the road for how long?”
 
 [[speaker:shunto]]“Twenty-seven days.”
 
@@ -342,7 +342,7 @@ Interesting.
 
 She stored it.
 
-Shunto said, “You knew the road was a trap.”
+[[speaker:shunto]]Shunto said, “You knew the road was a trap.”
 
 [[speaker:yun]]“Yes.”
 
@@ -394,7 +394,7 @@ Good.
 
 The information war remained alive.
 
-Shunto said, “Where is the rest?”
+[[speaker:shunto]]Shunto said, “Where is the rest?”
 
 Yun smiled faintly.
 
@@ -532,7 +532,7 @@ He watched her.
 
 Yun watched back.
 
-“Your physician,” he said.
+[[speaker:shunto]]“Your physician,” he said.
 
 [[speaker:yun]]“Many people are physicians.”
 
@@ -714,7 +714,7 @@ Not weakness enough to matter in a fight.
 
 Information enough to matter later.
 
-Shunto said, “You think silence protects Wuyue.”
+[[speaker:shunto]]Shunto said, “You think silence protects Wuyue.”
 
 [[speaker:yun]]“It protects accuracy.”
 
@@ -906,7 +906,7 @@ Fear was evidence of danger, not consent.
 
 He stepped closer.
 
-Yun said, “No.”
+[[speaker:yun]]Yun said, “No.”
 
 Clear.
 
@@ -1004,7 +1004,7 @@ Yun looked back.
 
 Whatever he expected to see, she refused to perform it for him.
 
-He said, “You should have—”
+[[speaker:shunto]]He said, “You should have—”
 
 [[speaker:yun]]“Do not finish that sentence.”
 
@@ -1030,7 +1030,7 @@ She swallowed once.
 
 He opened the door.
 
-Yun said, “Look at me.”
+[[speaker:yun]]Yun said, “Look at me.”
 
 He did.
 
@@ -1192,7 +1192,7 @@ Shunto lifted his right hand.
 
 They stopped.
 
-“When?” he asked.
+[[speaker:shunto]]“When?” he asked.
 
 Yun shrugged.
 
@@ -1248,13 +1248,13 @@ A reminder.
 
 Even imprisoned, she was still working.
 
-Shunto said, “Physician.”
+[[speaker:shunto]]Shunto said, “Physician.”
 
 The doctor examined his hand.
 
 Yun watched professionally.
 
-“Delayed peripheral toxin,” she said.
+[[speaker:yun]]“Delayed peripheral toxin,” she said.
 
 The physician glanced at her.
 

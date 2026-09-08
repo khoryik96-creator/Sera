@@ -13,7 +13,7 @@ scene and unreliable with three, so it produced visible mistakes (for example
 Huo's line in Chapter 301 was labelled Lu Weiran). The guessing has been
 removed.
 
-The result is that **790 quoted lines now have no speaker name.** They
+The result is that **755 quoted lines now have no speaker name.** They
 render as plain quoted text. Nothing is wrong with them — the speaker is simply
 not recoverable automatically. This folder lists every one of them so a human or
 an assistant with full story context can resolve them.
@@ -46,8 +46,11 @@ list exists.
 - The marker is invisible in the reader; it only sets the name on the card.
 - Lines already labelled appear in the worklist as `[key]` for context. Leave
   those alone unless one is clearly wrong, in which case correct the marker.
-- Do not add markers to narration — only to paragraphs that are entirely a
-  quoted line.
+- For an all-dialogue paragraph, the marker applies to that quoted line.
+- A mixed dialogue+narration paragraph may also be marked when the prose itself
+  makes the named speaker unambiguous. In the reader, only the quoted spans are
+  emphasized; narration remains normal-weight. Do not mark mixed paragraphs from
+  turn-taking alone.
 
 ## Speaker keys
 
@@ -158,27 +161,27 @@ list exists.
 
 | Season | Lines | Worklist file | Source draft to edit |
 |---|---|---|---|
-| Season 95 | 177 | `season-095.md` | `FINAL_ARC_SEASON095_PROSE_DRAFT*.md` |
-| Season 96 | 50 | `season-096.md` | `FINAL_ARC_SEASON096_PROSE_DRAFT*.md` |
+| Season 95 | 159 | `season-095.md` | `FINAL_ARC_SEASON095_PROSE_DRAFT*.md` |
+| Season 96 | 47 | `season-096.md` | `FINAL_ARC_SEASON096_PROSE_DRAFT*.md` |
 | Season 97 | 47 | `season-097.md` | `FINAL_ARC_SEASON097_PROSE_DRAFT*.md` |
-| Season 98 | 18 | `season-098.md` | `FINAL_ARC_SEASON098_PROSE_DRAFT*.md` |
+| Season 98 | 16 | `season-098.md` | `FINAL_ARC_SEASON098_PROSE_DRAFT*.md` |
 | Season 99 | 34 | `season-099.md` | `FINAL_ARC_SEASON099_PROSE_DRAFT*.md` |
 | Season 100 | 67 | `season-100.md` | `FINAL_ARC_SEASON100_PROSE_DRAFT*.md` |
-| Season 101 | 81 | `season-101.md` | `FINAL_ARC_SEASON101_PROSE_DRAFT*.md` |
+| Season 101 | 80 | `season-101.md` | `FINAL_ARC_SEASON101_PROSE_DRAFT*.md` |
 | Season 102 | 34 | `season-102.md` | `FINAL_ARC_SEASON102_PROSE_DRAFT*.md` |
 | Season 103 | 57 | `season-103.md` | `FINAL_ARC_SEASON103_PROSE_DRAFT*.md` |
 | Season 104 | 12 | `season-104.md` | `FINAL_ARC_SEASON104_PROSE_DRAFT*.md` |
-| Season 105 | 68 | `season-105.md` | `FINAL_ARC_SEASON105_PROSE_DRAFT*.md` |
-| Season 106 | 5 | `season-106.md` | `FINAL_ARC_SEASON106_PROSE_DRAFT*.md` |
-| Season 107 | 15 | `season-107.md` | `FINAL_ARC_SEASON107_PROSE_DRAFT*.md` |
-| Season 108 | 21 | `season-108.md` | `FINAL_ARC_SEASON108_PROSE_DRAFT*.md` |
+| Season 105 | 64 | `season-105.md` | `FINAL_ARC_SEASON105_PROSE_DRAFT*.md` |
+| Season 106 | 3 | `season-106.md` | `FINAL_ARC_SEASON106_PROSE_DRAFT*.md` |
+| Season 107 | 12 | `season-107.md` | `FINAL_ARC_SEASON107_PROSE_DRAFT*.md` |
+| Season 108 | 19 | `season-108.md` | `FINAL_ARC_SEASON108_PROSE_DRAFT*.md` |
 | Season 109 | 20 | `season-109.md` | `FINAL_ARC_SEASON109_PROSE_DRAFT*.md` |
 | Season 110 | 38 | `season-110.md` | `FINAL_ARC_SEASON110_PROSE_DRAFT*.md` |
 | Season 111 | 37 | `season-111.md` | `FINAL_ARC_SEASON111_PROSE_DRAFT*.md` |
 | Season 112 | 0 | `season-112.md` | `FINAL_ARC_SEASON112_PROSE_DRAFT*.md` |
 | Season 113 | 3 | `season-113.md` | `FINAL_ARC_SEASON113_PROSE_DRAFT*.md` |
 | Season 114 | 6 | `season-114.md` | `FINAL_ARC_SEASON114_PROSE_DRAFT*.md` |
-| **Total** | **790** | | |
+| **Total** | **755** | | |
 
 ## Checking your work
 

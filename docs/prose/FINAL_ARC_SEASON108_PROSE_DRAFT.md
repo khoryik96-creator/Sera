@@ -122,7 +122,7 @@ Jin moved supply markers.
 
 [[speaker:jin]]“We need Wuyue grain shipments increased.”
 
-“Home reserve?” Sera asked.
+[[speaker:sera]]“Home reserve?” Sera asked.
 
 [[speaker:jin]]“Can absorb some. Not indefinitely.”
 
@@ -250,7 +250,7 @@ Jin looked briefly impressed.
 
 [[speaker:sera]]“Do not make this unpleasant.”
 
-Luo said, “Too late.”
+[[speaker:luo]]Luo said, “Too late.”
 
 Jin turned the replacement ledger toward her.
 
@@ -306,7 +306,7 @@ Sera looked at him.
 
 Luo drank his tea.
 
-“Aya?” Sera asked.
+[[speaker:sera]]“Aya?” Sera asked.
 
 “Still appears to be pushing accurate disclosure from inside,” Luo said. “Likely more than we can prove.”
 
@@ -612,7 +612,7 @@ Aldric looked at him.
 
 The word landed harder than a heroic speech.
 
-Aldric continued. “A government that saves its army by ensuring nobody can plant after the war has defended a uniform, not a country.”
+[[speaker:aldric]]Aldric continued. “A government that saves its army by ensuring nobody can plant after the war has defended a uniform, not a country.”
 
 Solveig wrote the order down.
 
@@ -772,7 +772,7 @@ Old Sera might have chosen the Paragon because it was the most dangerous thing.
 
 Current Sera chose the convoy because destroying it changed more future fights.
 
-“Send Ilyra?” Jin asked.
+[[speaker:jin]]“Send Ilyra?” Jin asked.
 
 [[speaker:sera]]“Restricted duty.”
 

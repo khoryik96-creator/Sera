@@ -1,6 +1,6 @@
 # Season 95 — unattributed dialogue
 
-177 quoted lines in this season have no speaker.
+159 quoted lines in this season have no speaker.
 See `README.md` in this folder for what to do with them.
 
 Lines already resolved show their speaker in `[brackets]` for context.
@@ -170,7 +170,7 @@ Luo's eyes hardened.
 ```
 ```
 Finally he whispered, “Enough to get out.”
-“Did you?” Sera asked.
+[sera] “Did you?” Sera asked.
 He looked down at Huo's hands holding him to the table.
 >>> “No.”   <-- WHO SAYS THIS?
 Outside, the mountain remained quiet.
@@ -232,35 +232,27 @@ His expression changed.
 Yun did not soften the point, but neither did she make it cruel.
 [yun] “The drug made your body spend something it normally protects.”
 >>> “I didn't agree to that.”   <-- WHO SAYS THIS?
-“No.”
+[yun] “No.”
 That word mattered.
-```
-```
-Yun did not soften the point, but neither did she make it cruel.
-[yun] “The drug made your body spend something it normally protects.”
-“I didn't agree to that.”
->>> “No.”   <-- WHO SAYS THIS?
-That word mattered.
-The patient looked away.
 ```
 ```
 Rhen returned to the bedside.
 [rhen] “What were you told before you took it?”
 The man hesitated.
 >>> “That it would make me stronger.”   <-- WHO SAYS THIS?
-“For how long?” Luo asked.
+[luo] “For how long?” Luo asked.
 “Minutes.”
 ```
 ```
 The man hesitated.
 “That it would make me stronger.”
-“For how long?” Luo asked.
+[luo] “For how long?” Luo asked.
 >>> “Minutes.”   <-- WHO SAYS THIS?
 [luo] “What cost?”
 “Sickness after.”
 ```
 ```
-“For how long?” Luo asked.
+[luo] “For how long?” Luo asked.
 “Minutes.”
 [luo] “What cost?”
 >>> “Sickness after.”   <-- WHO SAYS THIS?
@@ -280,7 +272,7 @@ The man continued.
 Yun's face went flat.
 The man continued.
 >>> “They said the body would feel emptied because the drug burns qi fast.”   <-- WHO SAYS THIS?
-“It does burn qi fast,” Luo said.
+[luo] “It does burn qi fast,” Luo said.
 The patient looked hopeful.
 ```
 ```
@@ -331,20 +323,12 @@ Rhen's face stayed calm.
 [rhen] “I know.”
 Rhen rested one hand on the bedframe.
 ```
-```
-The healing he had just performed should have left a measurable absence.
-It had not.
-“Faster again?” she asked.
->>> “Yes.”   <-- WHO SAYS THIS?
-[sera] “How fast?”
-[rhen] “Too fast.”
-```
 
 ### Chapter 307 — Lu Follows the Box, Not the Poison
 
 ```
 Lu had thanked her.
-“Start again,” he told the courier.
+[luweiran] “Start again,” he told the courier.
 The young woman swallowed.
 >>> “Crate entered Isgard at South Fen relay on the ninth day of early spring.”   <-- WHO SAYS THIS?
 [luweiran] “Origin?”
@@ -375,100 +359,12 @@ The young woman swallowed.
 The courier blinked.
 ```
 ```
-Sera said, “He means useful.”
+[sera] Sera said, “He means useful.”
 [luweiran] “I said good.”
 The courier continued.
 >>> “Seal matches an Isgard epidemic clinic destroyed by fire eight months earlier.”   <-- WHO SAYS THIS?
 Lu tapped the manifest.
 [luweiran] “Meaning the seal itself could be genuine.”
-```
-```
-[luweiran] “Medicine moves on predictable schedules. Temperature-controlled compounds use certain wagons. Certain routes. Certain rest intervals. Controlled toxins require declared handlers. If someone wants to hide a dangerous substance inside legitimate medical traffic, they still have to obey enough of the boring rules to keep the cargo stable.”
-Sera nodded slowly.
-[sera] “And those rules leave a trail.”
->>> “Yes.”   <-- WHO SAYS THIS?
-Lu pointed at three route marks.
-[luweiran] “The first crate entered Isgard through South Fen. The second through a western grain exchange. The third came by sea disguised as fever medication.”
-```
-```
-[luweiran] “All three used the same wax supplier.”
-Sera looked at him.
-[sera] “That is it?”
->>> “No.”   <-- WHO SAYS THIS?
-[sera] “The same rope?”
-“No.”
-```
-```
-[sera] “That is it?”
-“No.”
-[sera] “The same rope?”
->>> “No.”   <-- WHO SAYS THIS?
-[sera] “The same carpenter?”
-Lu's face changed by half a degree.
-```
-```
-[luweiran] “Same wax supplier. Same ceramic ampoule maker. Same transit insurer.”
-Sera's amusement faded.
-[sera] “Those are not accidental.”
->>> “No.”   <-- WHO SAYS THIS?
-[sera] “Who?”
-[luweiran] “Intermediaries.”
-```
-```
-[luweiran] “One is already dead.”
-[sera] “Of course.”
-[luweiran] “One relocated.”
->>> “Where?”   <-- WHO SAYS THIS?
-“Unknown.”
-[sera] “And the third?”
-```
-```
-[sera] “Of course.”
-[luweiran] “One relocated.”
-“Where?”
->>> “Unknown.”   <-- WHO SAYS THIS?
-[sera] “And the third?”
-Lu looked toward the archive door.
-```
-```
-[sera] “Where?”
-[luweiran] “Port city. East coast.”
-[sera] “Wuyue?”
->>> “Yes.”   <-- WHO SAYS THIS?
-That changed the problem.
-The source being Wuyue was less important than the route touching home.
-```
-```
-Luo opened the notebook without setting it down.
-[luo] “We think the first layer drives circulation. Another suppresses distress. A delayed component extends the high-output state after tissue begins failing.”
-“How long?” Sera asked.
->>> “Unknown.”   <-- WHO SAYS THIS?
-“Cost?”
-“Unknown.”
-```
-```
-[luo] “We think the first layer drives circulation. Another suppresses distress. A delayed component extends the high-output state after tissue begins failing.”
-“How long?” Sera asked.
-“Unknown.”
->>> “Cost?”   <-- WHO SAYS THIS?
-“Unknown.”
-Lu's expression remained flat.
-```
-```
-“How long?” Sera asked.
-“Unknown.”
-“Cost?”
->>> “Unknown.”   <-- WHO SAYS THIS?
-Lu's expression remained flat.
-[luweiran] “Excellent.”
-```
-```
-[luweiran] “No. Your hobbies are.”
-Yun looked at Luo.
-[yun] “Defend me.”
->>> “No.”   <-- WHO SAYS THIS?
-[yun] “Coward.”
-[luo] “Alive.”
 ```
 
 ### Chapter 308 — He Thought It Was Temporary
@@ -486,36 +382,20 @@ Sera nodded.
 [sera] “Yes.”
 He looked surprised.
 >>> “Now?”   <-- WHO SAYS THIS?
-“Yes.”
-“Before I tell you anything?”
-```
-```
 [sera] “Yes.”
-He looked surprised.
-“Now?”
->>> “Yes.”   <-- WHO SAYS THIS?
 “Before I tell you anything?”
-“Yes.”
 ```
 ```
 He looked surprised.
 “Now?”
-“Yes.”
+[sera] “Yes.”
 >>> “Before I tell you anything?”   <-- WHO SAYS THIS?
-“Yes.”
+[sera] “Yes.”
 Dae frowned.
 ```
 ```
-“Now?”
-“Yes.”
 “Before I tell you anything?”
->>> “Yes.”   <-- WHO SAYS THIS?
-Dae frowned.
-“That feels like a trap.”
-```
-```
-“Before I tell you anything?”
-“Yes.”
+[sera] “Yes.”
 Dae frowned.
 >>> “That feels like a trap.”   <-- WHO SAYS THIS?
 [sera] “It is not.”
@@ -526,7 +406,7 @@ Dae frowned.
 “That feels like a trap.”
 [sera] “It is not.”
 >>> “People said the Pale Orchid was terrifying.”   <-- WHO SAYS THIS?
-Yun said, “She is.”
+[yun] Yun said, “She is.”
 Sera looked at her.
 ```
 ```
@@ -558,32 +438,16 @@ Dae closed his eyes.
 [luweiran] “Possibly with your wife.”
 Dae closed his eyes.
 >>> “She knows?”   <-- WHO SAYS THIS?
-“No.”
+[luweiran] “No.”
 “Oh.”
-```
-```
-[luweiran] “Possibly with your wife.”
-Dae closed his eyes.
-“She knows?”
->>> “No.”   <-- WHO SAYS THIS?
-“Oh.”
-Lu finally looked up.
 ```
 ```
 Dae closed his eyes.
 “She knows?”
-“No.”
+[luweiran] “No.”
 >>> “Oh.”   <-- WHO SAYS THIS?
 Lu finally looked up.
 [luweiran] “But if you die because you bought secret miracle strength from a man at the docks, I assume she will become informed.”
-```
-```
-Dae looked stricken.
-Sera rubbed her forehead.
-[sera] “Lu.”
->>> “What?”   <-- WHO SAYS THIS?
-[sera] “Less helpful.”
-[luweiran] “I was motivating honesty.”
 ```
 ```
 Sera looked at him.
@@ -614,20 +478,20 @@ Yun's mouth flattened.
 [yun] “Careful wording.”
 Dae nodded.
 >>> “The broker said it wasn't a breakthrough. Just... access.”   <-- WHO SAYS THIS?
-“To what?” Luo asked.
+[luo] “To what?” Luo asked.
 “Everything I already had.”
 ```
 ```
 Dae nodded.
 “The broker said it wasn't a breakthrough. Just... access.”
-“To what?” Luo asked.
+[luo] “To what?” Luo asked.
 >>> “Everything I already had.”   <-- WHO SAYS THIS?
 Rhen's gaze sharpened slightly.
 That was closer to the truth than the broker probably understood.
 ```
 ```
 That was closer to the truth than the broker probably understood.
-Sera asked, “Why did you take it?”
+[sera] Sera asked, “Why did you take it?”
 Dae looked ashamed.
 >>> “My younger brother got into debt with a dock gang.”   <-- WHO SAYS THIS?
 Nobody interrupted.
@@ -638,12 +502,12 @@ Dae looked ashamed.
 “My younger brother got into debt with a dock gang.”
 Nobody interrupted.
 >>> “I was going to pull him out. They had six men. Two were Marquis. I knew I could beat one. Maybe two. Not six.”   <-- WHO SAYS THIS?
-“So you bought strength,” Yun said.
+[yun] “So you bought strength,” Yun said.
 Dae looked at her.
 ```
 ```
 “I was going to pull him out. They had six men. Two were Marquis. I knew I could beat one. Maybe two. Not six.”
-“So you bought strength,” Yun said.
+[yun] “So you bought strength,” Yun said.
 Dae looked at her.
 >>> “Yes.”   <-- WHO SAYS THIS?
 [yun] “Did it work?”
@@ -739,39 +603,39 @@ The distinction Yun had been waiting for surfaced at last.
 ```
 ```
 The body screaming stop while the chemical system lowered the volume of the scream.
-“How long?” Sera asked.
+[sera] “How long?” Sera asked.
 Dae swallowed.
 >>> “Seven minutes, maybe eight.”   <-- WHO SAYS THIS?
 “Then?”
 “I woke up the next afternoon.”
 ```
 ```
-“How long?” Sera asked.
+[sera] “How long?” Sera asked.
 Dae swallowed.
 “Seven minutes, maybe eight.”
 >>> “Then?”   <-- WHO SAYS THIS?
 “I woke up the next afternoon.”
-Luo asked, “What were you told recovery would be?”
+[luo] Luo asked, “What were you told recovery would be?”
 ```
 ```
 Dae swallowed.
 “Seven minutes, maybe eight.”
 “Then?”
 >>> “I woke up the next afternoon.”   <-- WHO SAYS THIS?
-Luo asked, “What were you told recovery would be?”
+[luo] Luo asked, “What were you told recovery would be?”
 “Two days tired. Maybe nausea.”
 ```
 ```
 “Then?”
 “I woke up the next afternoon.”
-Luo asked, “What were you told recovery would be?”
+[luo] Luo asked, “What were you told recovery would be?”
 >>> “Two days tired. Maybe nausea.”   <-- WHO SAYS THIS?
 “Anything about future vitality?”
 Dae frowned.
 ```
 ```
 “I woke up the next afternoon.”
-Luo asked, “What were you told recovery would be?”
+[luo] Luo asked, “What were you told recovery would be?”
 “Two days tired. Maybe nausea.”
 >>> “Anything about future vitality?”   <-- WHO SAYS THIS?
 Dae frowned.
@@ -983,11 +847,11 @@ Lu's tone stayed calm.
 Dae looked down.
 >>> “I could identify him.”   <-- WHO SAYS THIS?
 [luweiran] “That helps.”
-Yun asked, “Did the ampoule have writing?”
+[yun] Yun asked, “Did the ampoule have writing?”
 ```
 ```
 [luweiran] “That helps.”
-Yun asked, “Did the ampoule have writing?”
+[yun] Yun asked, “Did the ampoule have writing?”
 Dae frowned.
 >>> “Not writing I could read.”   <-- WHO SAYS THIS?
 [yun] “What kind?”
@@ -1015,18 +879,18 @@ Dae added one more detail.
 Dae added one more detail.
 >>> “The broker had a chart.”   <-- WHO SAYS THIS?
 Everyone looked at him again.
-“A chart?” Luo asked.
+[luo] “A chart?” Luo asked.
 ```
 ```
 “The broker had a chart.”
 Everyone looked at him again.
-“A chart?” Luo asked.
+[luo] “A chart?” Luo asked.
 >>> “Different colors. Different weights.”   <-- WHO SAYS THIS?
 [luo] “How many?”
 “I don't know. Rows.”
 ```
 ```
-“A chart?” Luo asked.
+[luo] “A chart?” Luo asked.
 “Different colors. Different weights.”
 [luo] “How many?”
 >>> “I don't know. Rows.”   <-- WHO SAYS THIS?
@@ -1123,14 +987,6 @@ Sera shrugged.
 >>> “No.”   <-- WHO SAYS THIS?
 [xie_wuchen] “You have the face.”
 [sera] “What face?”
-```
-```
-Rui closed his eyes.
-[rui] “Do not.”
-[sera] “How badly?”
->>> “Do not.”   <-- WHO SAYS THIS?
-Lu was already writing.
-Rui looked at him.
 ```
 
 ### Chapter 310 — Axtaya
@@ -1372,7 +1228,7 @@ Yun looked at Lu.
 The broker said, “They told us not to copy it into local manifests.”
 [yun] “Why?”
 >>> “I don't know.”   <-- WHO SAYS THIS?
-“Another useful sentence,” Yun muttered.
+[yun] “Another useful sentence,” Yun muttered.
 Lu ignored her.
 ```
 ```

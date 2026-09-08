@@ -24,7 +24,7 @@ The soldier was asleep because his body finally believed it was allowed to be.
 
 Aya stared at the clean skin.
 
-“Offended?” Luo asked beside her.
+[[speaker:luo]]“Offended?” Luo asked beside her.
 
 She did not look at him.
 
@@ -44,7 +44,7 @@ The difference should have made Aya distrust Rhen.
 
 Instead it made her distrust the universe.
 
-“I am not offended,” she said.
+[[speaker:aya]]“I am not offended,” she said.
 
 [[speaker:luo]]“Good.”
 
@@ -148,7 +148,7 @@ Aya stopped.
 
 Luo did not.
 
-“You're late,” he said.
+[[speaker:luo]]“You're late,” he said.
 
 Rhen looked at Aya.
 
@@ -218,7 +218,7 @@ She did not sit.
 
 Neither did he.
 
-“Tell me about Axtaya,” Rhen said.
+[[speaker:rhen]]“Tell me about Axtaya,” Rhen said.
 
 Aya's expression hardened.
 
@@ -306,7 +306,7 @@ Rhen only became quieter.
 
 That was worse.
 
-“Did you approve three-times use?” he asked.
+[[speaker:rhen]]“Did you approve three-times use?” he asked.
 
 [[speaker:aya]]“I signed the medical viability assessment.”
 
@@ -332,7 +332,7 @@ Rhen looked at her.
 
 She forced herself not to look away.
 
-“That is not the same as saying I bear no responsibility,” she added.
+[[speaker:aya]]“That is not the same as saying I bear no responsibility,” she added.
 
 Rhen nodded once.
 
@@ -342,7 +342,7 @@ Aya waited for judgment.
 
 It did not come.
 
-Instead Rhen asked, “How many patients have you restored to full combat condition after Redline?”
+[[speaker:rhen]]Instead Rhen asked, “How many patients have you restored to full combat condition after Redline?”
 
 The shift wrong-footed her.
 
@@ -398,7 +398,7 @@ Rhen looked toward the nearest hospital row.
 
 Aya glanced toward the physician several lanes away.
 
-“That is what Yun did too,” Rhen said.
+[[speaker:rhen]]“That is what Yun did too,” Rhen said.
 
 The name landed between them.
 
@@ -440,9 +440,9 @@ A marker flashed inside the Sanctuary.
 
 Aya felt it too through Hundred Pulse.
 
-“Sector Seven,” she said instantly.
+[[speaker:aya]]“Sector Seven,” she said instantly.
 
-“Fourth row,” Rhen answered.
+[[speaker:rhen]]“Fourth row,” Rhen answered.
 
 [[speaker:aya]]“Paragon-level circulation instability.”
 
@@ -490,7 +490,7 @@ Rhen looked at her.
 
 Aya almost told him to stop saying that.
 
-Instead she asked, “Why can't you restore the years?”
+[[speaker:aya]]Instead she asked, “Why can't you restore the years?”
 
 Rhen's gaze settled on the sleeping patient.
 
@@ -528,7 +528,7 @@ A different threshold.
 
 Something he had never promised anyone.
 
-“Not this,” he said.
+[[speaker:rhen]]“Not this,” he said.
 
 Aya heard the precision.
 
@@ -536,7 +536,7 @@ She did not press.
 
 For several breaths they stood beside the sleeping officer.
 
-Then Aya said, “I started writing the numbers into every Redline record.”
+[[speaker:aya]]Then Aya said, “I started writing the numbers into every Redline record.”
 
 [[speaker:rhen]]“I heard.”
 
@@ -616,7 +616,7 @@ Rhen handed the nurse one of the cups.
 
 She accepted it.
 
-“You can stand,” Rhen told Aldric.
+[[speaker:rhen]]“You can stand,” Rhen told Aldric.
 
 Aldric sat up so quickly the nurse inhaled sharply.
 
@@ -666,7 +666,7 @@ He still was.
 
 None had ever made him feel so much as if the rules were being observed by someone who did not need them.
 
-“Maedra?” he asked.
+[[speaker:aldric]]“Maedra?” he asked.
 
 [[speaker:rhen]]“Threatening a surgeon.”
 
@@ -782,7 +782,7 @@ Sera groaned.
 
 [[speaker:sera]]“He has been awake three days and has said that approximately fifty times.”
 
-“Forty-seven,” Rhen said.
+[[speaker:rhen]]“Forty-seven,” Rhen said.
 
 Sera stared.
 
@@ -810,7 +810,7 @@ She looked toward the north.
 
 [[speaker:maedra]]“Where is Solveig?”
 
-“Working,” Sera said.
+[[speaker:sera]]“Working,” Sera said.
 
 [[speaker:maedra]]“Of course she is.”
 
@@ -872,7 +872,7 @@ Everyone in Isgard's upper ranks knew what he represented.
 
 Now the frost-white petals around him held pale violet, and his presence felt so empty that her instincts kept searching for the missing weight.
 
-“You changed,” she said.
+[[speaker:sigrun]]“You changed,” she said.
 
 [[speaker:rhen]]“Apparently.”
 
@@ -1096,7 +1096,7 @@ Something more dangerous.
 
 Respect being returned rather than granted.
 
-“Fine,” she said.
+[[speaker:sigrun]]“Fine,” she said.
 
 Aldric nodded.
 
@@ -1120,7 +1120,7 @@ He watched Isgard's command continue without needing him.
 
 Sera leaned slightly into his shoulder.
 
-“Happy?” she asked.
+[[speaker:sera]]“Happy?” she asked.
 
 [[speaker:rhen]]“Yes.”
 
@@ -1236,7 +1236,7 @@ Rhen considered this.
 
 The room went silent again.
 
-Rhen added, “Should I?”
+[[speaker:rhen]]Rhen added, “Should I?”
 
 Nobody answered immediately.
 
@@ -1252,7 +1252,7 @@ She pointed to the coastal map.
 
 [[speaker:sera]]“Those ships are also carrying wounded, physicians, food and replacement personnel. If we erase the fleet, we do not merely remove military pressure. We strand occupied zones, prisoners and our own people still trapped behind their lines.”
 
-Jin added, “And Shinsei has enough port infrastructure to replace part of it while using the destruction as justification for total mobilization.”
+[[speaker:jin]]Jin added, “And Shinsei has enough port infrastructure to replace part of it while using the destruction as justification for total mobilization.”
 
 Rhen nodded.
 
@@ -1296,7 +1296,7 @@ Solveig continued.
 
 Aya's eyes lowered.
 
-“And people inside it who do not agree with everything command has done,” she said.
+[[speaker:aya]]“And people inside it who do not agree with everything command has done,” she said.
 
 Several Wuyue officers looked toward her.
 
@@ -1386,7 +1386,7 @@ Aya looked up.
 
 [[speaker:aya]]“You want to cut their hospitals.”
 
-“No,” Jin said.
+[[speaker:jin]]“No,” Jin said.
 
 That answer came instantly.
 
@@ -1412,7 +1412,7 @@ Jin paused.
 
 Then looked annoyed.
 
-“What?” Rhen asked.
+[[speaker:rhen]]“What?” Rhen asked.
 
 [[speaker:jin]]“Nothing.”
 
@@ -1470,7 +1470,7 @@ Eventually Sera nudged him under the table.
 
 He looked at her.
 
-“You're smiling,” she whispered.
+[[speaker:sera]]“You're smiling,” she whispered.
 
 [[speaker:rhen]]“Am I?”
 
@@ -1548,7 +1548,7 @@ Aya went very still.
 
 Sera noticed.
 
-“So we plan for all of them,” she said.
+[[speaker:sera]]“So we plan for all of them,” she said.
 
 [[speaker:jin]]“Yes.”
 
@@ -1612,7 +1612,7 @@ Rhen remained seated for another moment.
 
 Sera squeezed his hand once before letting go.
 
-“You're really okay with this?” she asked.
+[[speaker:sera]]“You're really okay with this?” she asked.
 
 [[speaker:rhen]]“With what?”
 

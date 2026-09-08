@@ -630,7 +630,7 @@ One eye was swelling.
 
 Blood ran from his mouth.
 
-“Careful,” he said.
+[[speaker:kael]]“Careful,” he said.
 
 Shunto glanced at him.
 
@@ -930,7 +930,7 @@ Shunto looked at Luo.
 
 Luo looked back.
 
-“Two exchanges,” Shunto said.
+[[speaker:shunto]]“Two exchanges,” Shunto said.
 
 Luo said nothing.
 
@@ -1440,7 +1440,7 @@ But the work Kael had purchased was complete.
 
 Luo looked at Shunto.
 
-“No,” he said.
+[[speaker:luo]]“No,” he said.
 
 Shunto frowned.
 

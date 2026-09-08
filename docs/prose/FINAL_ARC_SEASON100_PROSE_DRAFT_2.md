@@ -76,7 +76,7 @@ Yun opened her eyes.
 
 The physician almost argued.
 
-Then Yun said, “Wuyue.”
+[[speaker:yun]]Then Yun said, “Wuyue.”
 
 He paused.
 
@@ -170,7 +170,7 @@ Yun watched his expression.
 
 Physicians were bad liars around other physicians.
 
-“How long?” she asked.
+[[speaker:yun]]“How long?” she asked.
 
 He said, “Do not talk.”
 
@@ -268,7 +268,7 @@ The liaison looked at her once, then at the physician.
 
 The physician said, “Briefly.”
 
-Yun said, “Long enough.”
+[[speaker:yun]]Yun said, “Long enough.”
 
 The physician glared at her.
 
@@ -580,11 +580,11 @@ His face changed.
 
 She knew that expression.
 
-“Not yet,” she said.
+[[speaker:yun]]“Not yet,” she said.
 
 He looked angry now.
 
-“At whom?” Yun asked.
+[[speaker:yun]]“At whom?” Yun asked.
 
 “You.”
 
@@ -632,7 +632,7 @@ She saw him choose not to ask.
 
 Good physician.
 
-Yun said quietly, “Captured means captured. Put that in the report.”
+[[speaker:yun]]Yun said quietly, “Captured means captured. Put that in the report.”
 
 Hallen nodded.
 
@@ -842,7 +842,7 @@ Qin went completely still.
 
 Jin did not move at all for several seconds.
 
-Then he said, “Facts first.”
+[[speaker:jin]]Then he said, “Facts first.”
 
 Not cold.
 
@@ -860,7 +860,7 @@ Jin’s eyes sharpened.
 
 Huo swore.
 
-“Army?” Qin asked.
+[[speaker:qin]]“Army?” Qin asked.
 
 Sera continued.
 
@@ -868,7 +868,7 @@ Sera continued.
 
 Silence again.
 
-Tae said, “Two hundred thousand?”
+[[speaker:tae]]Tae said, “Two hundred thousand?”
 
 [[speaker:sera]]“Lower bound.”
 
@@ -886,7 +886,7 @@ Qin’s gaze sharpened.
 
 [[speaker:sera]]“Tsubasa Kurokawa. No.1. Stronger than Shunto. Exact mechanics unknown.”
 
-Jin said, “Good. She did not guess.”
+[[speaker:jin]]Jin said, “Good. She did not guess.”
 
 Sera looked at him.
 
@@ -908,17 +908,17 @@ Lu was already writing.
 
 [[speaker:jin]]“All assigned defensive contingencies first. No public panic order until we know transport capacity and landing options.”
 
-Sera said, “Quaint prepares.”
+[[speaker:sera]]Sera said, “Quaint prepares.”
 
 Qin nodded.
 
-Tae said, “All one thousand?”
+[[speaker:tae]]Tae said, “All one thousand?”
 
 [[speaker:sera]]“Prepare all. Move only on command.”
 
 Huo was already halfway through the door.
 
-“Where are you going?” Tae asked.
+[[speaker:tae]]“Where are you going?” Tae asked.
 
 [[speaker:huo]]“To make sure your company does not pack six months of tea and no bandages.”
 

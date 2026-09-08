@@ -45,6 +45,13 @@ describe('renderNovel', () => {
     expect(out).toContain('dialogue-quote');
   });
 
+  it('keeps narration normal inside mixed dialogue cards', () => {
+    const out = renderNovel('[[speaker:sera]]“No,” she said. “Not today.”');
+    expect((out.match(/class="dialogue-quote"/g) || []).length).toBe(2);
+    expect(out).toContain('<b class="dialogue-quote">“No,”</b> she said. <b class="dialogue-quote">“Not today.”</b>');
+    expect(out).not.toContain('<b class="dialogue-quote">“No,” she said.');
+  });
+
   it('marks supreme arts', () => {
     const out = renderNovel('SUPREME ART — Frozen Bloom');
     expect(out).toContain('novel-skill-supreme');

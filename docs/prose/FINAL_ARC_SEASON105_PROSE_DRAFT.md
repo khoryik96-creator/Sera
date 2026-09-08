@@ -64,7 +64,7 @@ Jun corrected himself.
 
 [[speaker:jun]]“Stop.”
 
-“Yes.”
+[[speaker:aya]]“Yes.”
 
 He reached for the halberd resting beside the cot.
 
@@ -228,7 +228,7 @@ Aya knew that.
 
 She also knew what several thousand 3× doses meant inside living bodies.
 
-“Necessary to whom?” she asked.
+[[speaker:aya]]“Necessary to whom?” she asked.
 
 Jun did not answer.
 
@@ -658,7 +658,7 @@ His meridians were torn but salvageable.
 
 His future vitality loss was not.
 
-“How many doses?” she asked.
+[[speaker:aya]]“How many doses?” she asked.
 
 “One.”
 
@@ -874,11 +874,11 @@ The young man frowned.
 
 “That it’s an emergency stimulant.”
 
-“Yes.”
+[[speaker:aya]]“Yes.”
 
 “Three-times output for around five minutes.”
 
-“Yes.”
+[[speaker:aya]]“Yes.”
 
 “Severe fatigue. Meridian damage. Recovery can take months. Repeated use is dangerous.”
 
@@ -978,7 +978,7 @@ All true.
 
 None answered him.
 
-“Yes.”
+[[speaker:aya]]“Yes.”
 
 The boy looked away.
 
@@ -1020,7 +1020,7 @@ She removed one damaged needle and replaced it.
 
 The soldier flinched.
 
-“Sorry,” she said.
+[[speaker:aya]]“Sorry,” she said.
 
 Not for the needle.
 
@@ -1238,7 +1238,7 @@ Luo stared.
 
 [[speaker:jin]]“They’ll remember it.”
 
-Sera said, “He’s right.”
+[[speaker:sera]]Sera said, “He’s right.”
 
 Luo looked betrayed.
 

@@ -186,7 +186,7 @@ Solveig read Brynja's first count.
 
 [[speaker:solveig]]“Begin inland dispersal.”
 
-Halvek said, “Already moving.”
+[[speaker:halvek]]Halvek said, “Already moving.”
 
 [[speaker:solveig]]“Primary roads?”
 
@@ -242,7 +242,7 @@ Solveig moved counters.
 
 [[speaker:solveig]]“Brynja holds the main western port. Do not reinforce every false landing.”
 
-Varok said, “I can take mobile reserve south.”
+[[speaker:varok]]Varok said, “I can take mobile reserve south.”
 
 [[speaker:solveig]]“You take center until we know which landing is real.”
 
@@ -278,7 +278,7 @@ Nobody cursed.
 
 That would have wasted time.
 
-“What has moved?” Solveig asked.
+[[speaker:solveig]]“What has moved?” Solveig asked.
 
 “Medicine. Preserved food. Surgical supplies. Two fast naval escorts. Wuyue says the main expedition is not ready to sail without becoming a supply failure halfway north.”
 
@@ -310,7 +310,7 @@ The messenger blinked.
 
 [[speaker:solveig]]“Yes.”
 
-Varok said, “Add something inspiring.”
+[[speaker:varok]]Varok said, “Add something inspiring.”
 
 Solveig looked at him.
 
@@ -546,7 +546,7 @@ The body in the sand had not been arrived at in time.
 
 Kenji looked away.
 
-“Form on the ridge,” he said.
+[[speaker:kenji]]“Form on the ridge,” he said.
 
 No joke this time.
 
@@ -704,7 +704,7 @@ Kenji stared.
 
 [[speaker:kenji]]“Betrayal.”
 
-Nao said, “Regulation.”
+[[speaker:nao]]Nao said, “Regulation.”
 
 [[speaker:kenji]]“Worse.”
 
@@ -832,7 +832,7 @@ He had been young when Eirik disappeared.
 
 Not young enough to forget.
 
-“What did you say?” Solveig asked.
+[[speaker:solveig]]“What did you say?” Solveig asked.
 
 Orven stared at the shieldwork report from Brynja's coast.
 
@@ -844,7 +844,7 @@ A clerk did.
 
 Orven's face had gone pale.
 
-Varok said, “That is a defensive method.”
+[[speaker:varok]]Varok said, “That is a defensive method.”
 
 “No.”
 
@@ -1060,7 +1060,7 @@ Eirik's answer was immediate.
 
 Maedra's eyes hardened.
 
-Aldric said, “Then you learned the wrong lesson from surviving us.”
+[[speaker:aldric]]Aldric said, “Then you learned the wrong lesson from surviving us.”
 
 Eirik's face finally shifted.
 
@@ -1160,7 +1160,7 @@ Toward old soldiers who remembered him.
 
 Toward young ones who only knew stories.
 
-“Submit the ports to joint Shinsei administration,” he said. “Open military inventory. Accept unified coastal command. No reprisals against local officers who comply. Existing civil councils remain provisionally in place.”
+[[speaker:eirik]]“Submit the ports to joint Shinsei administration,” he said. “Open military inventory. Accept unified coastal command. No reprisals against local officers who comply. Existing civil councils remain provisionally in place.”
 
 Aldric almost smiled.
 
@@ -1210,7 +1210,7 @@ His expression became sad.
 
 [[speaker:eirik]]“Tsubasa believes Wuyue will commit cautiously.”
 
-Aldric said, “Then Tsubasa does not know Sera.”
+[[speaker:aldric]]Aldric said, “Then Tsubasa does not know Sera.”
 
 For the first time, Eirik almost smiled.
 

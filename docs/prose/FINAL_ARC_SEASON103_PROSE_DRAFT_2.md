@@ -235,7 +235,7 @@ No joke afterward.
 
 The room went quiet for a moment.
 
-Then Solveig said, “When?”
+[[speaker:solveig]]Then Solveig said, “When?”
 
 Jin looked at the western corridor.
 
@@ -279,7 +279,7 @@ Kael had advanced.
 
 But advancement without collision was only a word.
 
-Sera said, “Then learn.”
+[[speaker:sera]]Sera said, “Then learn.”
 
 At dawn, the alliance moved for one unremarkable strip of coast.
 
@@ -441,7 +441,7 @@ Experienced.
 
 Not decorative.
 
-“Better,” Jun said.
+[[speaker:jun]]“Better,” Jun said.
 
 Kael laughed.
 
@@ -953,7 +953,7 @@ She looked at the bandages.
 
 [[speaker:kael]]“Temporary.”
 
-Luo said, “If he behaves.”
+[[speaker:luo]]Luo said, “If he behaves.”
 
 Sera nodded.
 

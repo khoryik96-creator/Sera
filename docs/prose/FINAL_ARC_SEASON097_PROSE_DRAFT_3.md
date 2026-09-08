@@ -148,7 +148,7 @@ Then through the tower window toward the Shinsei patrols.
 
 “Are you the one they’re looking for?”
 
-Yun said, “Possibly.”
+[[speaker:yun]]Yun said, “Possibly.”
 
 “That is not reassuring.”
 
@@ -362,7 +362,7 @@ Not district command.
 
 The hunt was institutional now.
 
-Yun said, “If I’m so expensive, stop looking.”
+[[speaker:yun]]Yun said, “If I’m so expensive, stop looking.”
 
 [[speaker:shunto]]“You are a foreign Sovereign moving through restricted medical and military infrastructure.”
 
@@ -384,7 +384,7 @@ Yun wanted him to know she did not care.
 
 They both lied politely.
 
-“What are you trying to find?” he asked.
+[[speaker:shunto]]“What are you trying to find?” he asked.
 
 [[speaker:yun]]“Good tea.”
 
@@ -410,7 +410,7 @@ Chair placed where nobody could pass behind him.
 
 Pain had taught him.
 
-Yun said, “You could have surrounded this place.”
+[[speaker:yun]]Yun said, “You could have surrounded this place.”
 
 [[speaker:shunto]]“I did.”
 
@@ -720,6 +720,6 @@ Far to the north, Isgard had no idea a woman it barely knew was sitting in a dar
 
 Yun stood.
 
-“One more layer,” she whispered.
+[[speaker:yun]]“One more layer,” she whispered.
 
 Then hated herself slightly for saying it aloud.

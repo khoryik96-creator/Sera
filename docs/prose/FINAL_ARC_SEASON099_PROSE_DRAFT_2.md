@@ -536,7 +536,7 @@ Yun considered.
 
 Silence.
 
-Then Yurushi said, “Because I saw you after they brought you in.”
+[[speaker:yurushi]]Then Yurushi said, “Because I saw you after they brought you in.”
 
 Yun’s hand tightened.
 
@@ -552,7 +552,7 @@ His voice stayed level.
 
 [[speaker:black_radiance]]“And I know wrong when I see it.”
 
-Yun said, “That is not enough reason to risk a High Paragon.”
+[[speaker:yun]]Yun said, “That is not enough reason to risk a High Paragon.”
 
 [[speaker:black_radiance]]“For some people it is.”
 
@@ -580,7 +580,7 @@ That answer sounded like history.
 
 Not performance.
 
-She said, “I have evidence.”
+[[speaker:yun]]She said, “I have evidence.”
 
 Yurushi became quiet.
 
@@ -600,7 +600,7 @@ Yun almost smiled.
 
 Three points again.
 
-She said, “The evidence cannot be left behind.”
+[[speaker:yun]]She said, “The evidence cannot be left behind.”
 
 [[speaker:black_radiance]]“Where?”
 
@@ -612,7 +612,7 @@ She said, “The evidence cannot be left behind.”
 
 Yun liked that he understood immediately.
 
-“Your priority?” Yurushi asked.
+[[speaker:yurushi]]“Your priority?” Yurushi asked.
 
 [[speaker:yun]]“Get me far enough north that I can reach an Isgard-linked route.”
 
@@ -664,9 +664,9 @@ It had four.
 
 Better.
 
-At the end, Yurushi said, “I can create ten minutes.”
+[[speaker:yurushi]]At the end, Yurushi said, “I can create ten minutes.”
 
-Yun answered, “I need seven.”
+[[speaker:yun]]Yun answered, “I need seven.”
 
 [[speaker:black_radiance]]“Why not take ten?”
 
@@ -784,7 +784,7 @@ Anyone who built secret routes through a continental government had to believe t
 
 The question was whether the judgment had limits.
 
-“How many?” she asked.
+[[speaker:yun]]“How many?” she asked.
 
 Yurushi shrugged.
 
@@ -1002,7 +1002,7 @@ That made his help more believable.
 
 It also made the risk heavier.
 
-Yun said, “If I get out, Shunto will look for who helped.”
+[[speaker:yun]]Yun said, “If I get out, Shunto will look for who helped.”
 
 [[speaker:black_radiance]]“I know.”
 

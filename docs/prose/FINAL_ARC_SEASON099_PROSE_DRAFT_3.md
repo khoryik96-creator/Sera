@@ -12,7 +12,7 @@ Hana Arakawa knew Yurushi was lying before he finished the first sentence.
 
 Yurushi was good at lying. Excessive precision was simply his tell when the truth mattered.
 
-“The eastern medical corridor has an unnecessary double patrol between third and fourth bell,” he said.
+[[speaker:black_radiance]]“The eastern medical corridor has an unnecessary double patrol between third and fourth bell,” he said.
 
 Hana looked up from the deployment ledger.
 
@@ -44,7 +44,7 @@ He noticed her noticing.
 
 Neither commented.
 
-Hana said, “What do you want?”
+[[speaker:hana]]Hana said, “What do you want?”
 
 [[speaker:black_radiance]]“One patrol moved.”
 
@@ -194,7 +194,7 @@ Not a rebellion.
 
 One patrol.
 
-Hana said, “Who is she?”
+[[speaker:hana]]Hana said, “Who is she?”
 
 [[speaker:black_radiance]]“I do not know exactly.”
 
@@ -564,7 +564,7 @@ Not teleportation.
 
 He had been physically pressed behind a storage buttress where the darkness concealed him.
 
-“Late,” he said.
+[[speaker:black_radiance]]“Late,” he said.
 
 [[speaker:yun]]“Guard.”
 
@@ -596,7 +596,7 @@ The worker did not object.
 
 Yun climbed into the covered rear compartment among empty herb crates.
 
-“Humiliating,” she muttered.
+[[speaker:yun]]“Humiliating,” she muttered.
 
 [[speaker:black_radiance]]“Alive.”
 
@@ -674,7 +674,7 @@ Early.
 
 Shunto knew.
 
-Yun said, “How far to the old clan path?”
+[[speaker:yun]]Yun said, “How far to the old clan path?”
 
 [[speaker:black_radiance]]“Three districts.”
 
@@ -718,7 +718,7 @@ Shunto’s own improvements now bought her time.
 
 Yun nearly smiled.
 
-“His training helps,” she said.
+[[speaker:yun]]“His training helps,” she said.
 
 Yurushi understood immediately.
 
@@ -774,7 +774,7 @@ Then she looked toward the route north.
 
 He did not move.
 
-Yun added, “If there is one.”
+[[speaker:yun]]Yun added, “If there is one.”
 
 That answered enough.
 
@@ -972,7 +972,7 @@ No demand for numbers.
 
 Good.
 
-Yun said, “Come with me.”
+[[speaker:yun]]Yun said, “Come with me.”
 
 He looked at her.
 
@@ -1074,7 +1074,7 @@ Did not remove it.
 
 Shunto was still No.2, backed by the state, and Yurushi’s goal was not to fight him openly.
 
-“Then survive,” Yun said.
+[[speaker:yun]]“Then survive,” Yun said.
 
 [[speaker:black_radiance]]“I plan to.”
 
@@ -1258,7 +1258,7 @@ Recognition of method.
 
 Someone inside—or close enough to inside—had helped her.
 
-“Find the corridor,” he said.
+[[speaker:shunto]]“Find the corridor,” he said.
 
 A guard bowed.
 

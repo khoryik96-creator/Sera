@@ -66,7 +66,7 @@ Aya's eyes narrowed.
 
 Tsubasa laughed once, then immediately regretted it when one of Sera's rib injuries reminded him it still existed.
 
-“You need me?” he asked.
+[[speaker:tsubasa]]“You need me?” he asked.
 
 Rhen nodded.
 
@@ -100,7 +100,7 @@ Then at her.
 
 Aya waited. Rhen stopped where she stopped him.
 
-“What are you doing?” she asked.
+[[speaker:aya]]“What are you doing?” she asked.
 
 [[speaker:rhen]]“Finishing the treatment faster.”
 
@@ -328,7 +328,7 @@ Not surprise anymore.
 
 Acceptance.
 
-“He's clean,” she said.
+[[speaker:aya]]“He's clean,” she said.
 
 Tsubasa looked toward Rhen.
 
@@ -688,7 +688,7 @@ That distinction mattered.
 
 Across the allied observation ridge, Jin watched through a brass scope.
 
-“They're telling them,” he said.
+[[speaker:jin]]“They're telling them,” he said.
 
 Sera stood beside him.
 
@@ -998,7 +998,7 @@ Not impressed by Redline.
 
 Impressed by the people using it.
 
-“They're good,” he said.
+[[speaker:rhen]]“They're good,” he said.
 
 Sera looked at him.
 
@@ -1142,7 +1142,7 @@ Sera's face hardened.
 
 [[speaker:sera]]“He's stronger than earlier.”
 
-“Yes,” Rhen said.
+[[speaker:rhen]]“Yes,” Rhen said.
 
 [[speaker:sera]]“How much?”
 

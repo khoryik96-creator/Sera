@@ -298,7 +298,7 @@ Yun looked at the ceiling.
 
 Of course he had not.
 
-“He is unreliable,” she said.
+[[speaker:yun]]“He is unreliable,” she said.
 
 “I told you river men were useless.”
 
@@ -544,7 +544,7 @@ Not useful mechanically.
 
 Useful socially.
 
-Yun asked, “Stronger than Takamori?”
+[[speaker:yun]]Yun asked, “Stronger than Takamori?”
 
 The old man looked at her as though she had asked whether winter was colder than rain.
 
@@ -586,7 +586,7 @@ She looked at them for a long time.
 
 Then picked up the bean.
 
-“Embarrassing,” she told it.
+[[speaker:yun]]“Embarrassing,” she told it.
 
 The bean remained professionally silent.
 
@@ -1034,7 +1034,7 @@ His face gave nothing away, but Sera knew what his stillness looked like when it
 
 This was not that.
 
-“How full?” she asked.
+[[speaker:sera]]“How full?” she asked.
 
 Rhen glanced toward the wall.
 
@@ -1120,7 +1120,7 @@ Perfect.
 
 It vanished.
 
-“The qi needs to become denser,” he said. “Same amount. Less space.”
+[[speaker:rhen]]“The qi needs to become denser,” he said. “Same amount. Less space.”
 
 [[speaker:sera]]“How long?”
 
@@ -1176,7 +1176,7 @@ Normal pulse.
 
 Too normal, because he was making it normal.
 
-“When it crosses from annoying to unsafe,” she said, “you tell me.”
+[[speaker:sera]]“When it crosses from annoying to unsafe,” she said, “you tell me.”
 
 [[speaker:rhen]]“I will.”
 

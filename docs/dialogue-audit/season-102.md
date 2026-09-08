@@ -9,7 +9,7 @@ Lines already resolved show their speaker in `[brackets]` for context.
 
 ```
 Jun did not care.
-“Where does the road split behind it?” he asked.
+[jun] “Where does the road split behind it?” he asked.
 An officer pointed.
 >>> “Two miles inland.”   <-- WHO SAYS THIS?
 [jun] “Evacuation traffic?”
@@ -84,7 +84,7 @@ The young officer's jaw trembled.
 
 ```
 Raska raised his sword.
-“Two passes,” he told his riders.
+[raska] “Two passes,” he told his riders.
 His lieutenant looked at the Shinsei line.
 >>> “Only two?”   <-- WHO SAYS THIS?
 [raska] “After two, we are tired horses pretending otherwise.”
@@ -176,12 +176,12 @@ Solveig Skeldran stood near the wall with one arm bandaged and dried blood still
 She had not sat in eighteen hours.
 An officer looked at the empty chair.
 >>> “When Aldric wakes—”   <-- WHO SAYS THIS?
-Solveig said, “He is not awake.”
+[solveig] Solveig said, “He is not awake.”
 The officer stopped.
 ```
 ```
 “When Aldric wakes—”
-Solveig said, “He is not awake.”
+[solveig] Solveig said, “He is not awake.”
 The officer stopped.
 >>> “Maedra—”   <-- WHO SAYS THIS?
 [solveig] “Cannot stand.”

@@ -111,7 +111,7 @@ Another soldier stumbled after a direction change.
 
 Skin flush became pallor in patches.
 
-“Not yet,” Luo said.
+[[speaker:luo]]“Not yet,” Luo said.
 
 Four-forty.
 
@@ -121,7 +121,7 @@ Four-fifty.
 
 The front rank began breathing too hard for the output they were producing.
 
-Luo said, “Now.”
+[[speaker:luo]]Luo said, “Now.”
 
 Jin raised one hand.
 
@@ -231,7 +231,7 @@ Jin answered.
 
 [[speaker:jin]]“Until they solve it.”
 
-Luo said, “They will.”
+[[speaker:luo]]Luo said, “They will.”
 
 Jin looked at him.
 
@@ -403,13 +403,13 @@ Kai looked at the Wuyue apex markers.
 
 [[speaker:kai]]“Sera.”
 
-“Peak Paragon,” Eirik said.
+[[speaker:eirik]]“Peak Paragon,” Eirik said.
 
 [[speaker:kai]]“Kael?”
 
 [[speaker:eirik]]“New Paragon. Better than initial model.”
 
-Jun said, “He learns quickly.”
+[[speaker:jun]]Jun said, “He learns quickly.”
 
 Kai looked at him.
 
@@ -427,7 +427,7 @@ Kai continued.
 
 [[speaker:kai]]“If losing teaches you faster than winning, it’s cheaper than stupidity.”
 
-Aya said dryly, “Physically it was not cheap.”
+[[speaker:aya]]Aya said dryly, “Physically it was not cheap.”
 
 Kai looked at Jun’s bandaging.
 

@@ -1,6 +1,6 @@
 # Season 108 — unattributed dialogue
 
-21 quoted lines in this season have no speaker.
+19 quoted lines in this season have no speaker.
 See `README.md` in this folder for what to do with them.
 
 Lines already resolved show their speaker in `[brackets]` for context.
@@ -163,23 +163,4 @@ The clerk froze.
 >>> “What lines?”   <-- WHO SAYS THIS?
 [hana] “Good answer.”
 He paled.
-```
-
-### Chapter 439 — The Frost Changes Colour
-
-```
-Violet within.
-Tae’s expression changed.
-[tae] “That is new.”
->>> “Yes.”   <-- WHO SAYS THIS?
-Qin placed his fingertips against the outer stone.
-He did not send qi through it.
-```
-```
-He raised both hands.
-[huo] “I asked so nobody else had to.”
-“No,” Lu said.
->>> “Good.”   <-- WHO SAYS THIS?
-Nobody woke Rhen.
-Nobody sent Sera a triumphant message claiming he would emerge by sunset.
 ```

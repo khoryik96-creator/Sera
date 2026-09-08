@@ -20,7 +20,7 @@ Three weeks of preparation disappearing beneath his hand.
 
 Tsubasa Kurokawa watched from the center of the command chamber.
 
-“Again,” he said.
+[[speaker:tsubasa]]“Again,” he said.
 
 Haru did not complain.
 
@@ -116,7 +116,7 @@ Another.
 
 That one made the room quieter.
 
-Tsubasa asked, “How much do we actually know?”
+[[speaker:tsubasa]]Tsubasa asked, “How much do we actually know?”
 
 Haru answered without pretending certainty.
 
@@ -166,7 +166,7 @@ He disliked giving them time more.
 
 [[speaker:tsubasa]]“How much does fourteen days cost our estimate of Wuyue?”
 
-Haru said, “A lot.”
+[[speaker:haru]]Haru said, “A lot.”
 
 Shunto's smile thinned.
 
@@ -176,7 +176,7 @@ Haru ignored him.
 
 [[speaker:haru]]“To improve our model materially, we need more agents, more port observation, more time around Stonecrown, and actual visibility on Quaint's inner structure. Fourteen days gives us almost none of that.”
 
-Kai said, “So we're choosing to fight people we haven't measured.”
+[[speaker:kai]]Kai said, “So we're choosing to fight people we haven't measured.”
 
 Haru glanced at him.
 
@@ -210,7 +210,7 @@ Tsubasa looked at the readiness board.
 
 [[speaker:tsubasa]]“If we wait for perfect intelligence, we arrive against prepared ports, Wuyue formations already north, dispersed medical stores and coordinated command.”
 
-Kai said, “And if we rush?”
+[[speaker:kai]]Kai said, “And if we rush?”
 
 [[speaker:tsubasa]]“We arrive against an enemy that knows we're coming but has not finished becoming ready.”
 
@@ -234,7 +234,7 @@ Tsubasa did not take offense.
 
 That was one of the reasons Kai had stayed beside him this long.
 
-“Yes,” Tsubasa said.
+[[speaker:tsubasa]]“Yes,” Tsubasa said.
 
 Kai's expression hardened.
 
@@ -272,9 +272,9 @@ He had watched that disease destroy Shinrin once.
 
 He would not pretend his fear was imaginary simply because his answer had become dangerous.
 
-“I think Isgard cannot sustain another decade like the last two years,” he said.
+[[speaker:tsubasa]]“I think Isgard cannot sustain another decade like the last two years,” he said.
 
-Kai said, “Then trade with them.”
+[[speaker:kai]]Kai said, “Then trade with them.”
 
 [[speaker:tsubasa]]“We tried.”
 
@@ -298,7 +298,7 @@ That memory was why Kai still spoke like this.
 
 It was also why the question hurt.
 
-Tsubasa said, “I remember.”
+[[speaker:tsubasa]]Tsubasa said, “I remember.”
 
 Kai's answer was immediate.
 
@@ -420,7 +420,7 @@ Tsubasa looked around the room.
 
 [[speaker:tsubasa]]“Fourteen days.”
 
-Kai said, “You are accepting the intelligence gap.”
+[[speaker:kai]]Kai said, “You are accepting the intelligence gap.”
 
 [[speaker:tsubasa]]“Yes.”
 
@@ -460,7 +460,7 @@ Jin nearly killed none of them.
 
 This was considered growth.
 
-“Again,” he said.
+[[speaker:jin]]“Again,” he said.
 
 The youngest clerk stared at the deployment board.
 
@@ -498,7 +498,7 @@ Jin pointed at the board.
 
 The clerk hesitated.
 
-Tae whispered, “He was about to ask.”
+[[speaker:tae]]Tae whispered, “He was about to ask.”
 
 Huo nodded gravely.
 
@@ -518,7 +518,7 @@ Six thousand sounded small beside the army carrying his name.
 
 The current Kael had buried enough soldiers to understand why thirty-eight thousand staying home could be the stronger decision.
 
-“Most of Stonecrown's fixed defence remains,” he said.
+[[speaker:kael]]“Most of Stonecrown's fixed defence remains,” he said.
 
 Jin nodded.
 
@@ -540,7 +540,7 @@ Kael looked at him.
 
 [[speaker:liang]]“Preparedness.”
 
-Sera said, “Continue before they become married in public.”
+[[speaker:sera]]Sera said, “Continue before they become married in public.”
 
 Both men turned toward her.
 
@@ -600,7 +600,7 @@ Mo looked at the figure.
 
 [[speaker:mo]]“Eighteen stays.”
 
-Jin said, “Yes.”
+[[speaker:jin]]Jin said, “Yes.”
 
 [[speaker:mo]]“My ministers will complain.”
 
@@ -642,7 +642,7 @@ Eighteen hundred would go north.
 
 Three hundred would remain for sect continuity, wounded veterans, training infrastructure and the simple fact that destroying your own organization to prove commitment was not strategy.
 
-Arin said, “Confirmed.”
+[[speaker:arin]]Arin said, “Confirmed.”
 
 No speech.
 
@@ -698,7 +698,7 @@ She looked around the table.
 
 [[speaker:sera]]“That means some people will hate their number.”
 
-Kael said, “I already do.”
+[[speaker:kael]]Kael said, “I already do.”
 
 [[speaker:sera]]“Good.”
 
@@ -714,7 +714,7 @@ Jin tapped the home-defence column.
 
 [[speaker:jin]]“Approximately eighty-three thousand eight hundred public combat-ready personnel remain distributed across Wuyue.”
 
-“Plus Quaint,” Qin said.
+[[speaker:qin]]“Plus Quaint,” Qin said.
 
 Everyone looked at him.
 
@@ -722,7 +722,7 @@ He had been silent for most of the meeting.
 
 That usually meant he had found the part everyone else was avoiding.
 
-“Eight hundred eighty,” Lu said.
+[[speaker:luweiran]]“Eight hundred eighty,” Lu said.
 
 Qin nodded.
 
@@ -736,7 +736,7 @@ Sera looked at both.
 
 [[speaker:sera]]“You are staying.”
 
-Tae said, “We have not reached that agenda item.”
+[[speaker:tae]]Tae said, “We have not reached that agenda item.”
 
 [[speaker:sera]]“We have now.”
 
@@ -794,7 +794,7 @@ Sera looked at him.
 
 [[speaker:huo]]“I will heroically defend the tea.”
 
-Tae said, “The tea does need you.”
+[[speaker:tae]]Tae said, “The tea does need you.”
 
 Huo pointed at him.
 
@@ -862,7 +862,7 @@ Not because he was Shinsei.
 
 Because the criticism was specific.
 
-“The leaves are good,” Yurushi said.
+[[speaker:yurushi]]“The leaves are good,” Yurushi said.
 
 Sera stared at him across the table.
 
@@ -966,7 +966,7 @@ He had also waited outside until an apprentice carrying laundry finished using t
 
 Sera had noticed that too.
 
-“Start at the point you found Yun,” she said.
+[[speaker:sera]]“Start at the point you found Yun,” she said.
 
 Yurushi did.
 
@@ -1038,7 +1038,7 @@ Lu's brush remained perfectly still.
 
 Sera did not move.
 
-Luo asked, “Did she tell you?”
+[[speaker:luo]]Luo asked, “Did she tell you?”
 
 [[speaker:black_radiance]]“No.”
 
@@ -1072,7 +1072,7 @@ Not a laugh.
 
 Close enough to hurt.
 
-Sera said, “Why did you wait eleven days to come here?”
+[[speaker:sera]]Sera said, “Why did you wait eleven days to come here?”
 
 The question was sharp on purpose.
 
@@ -1128,7 +1128,7 @@ Yurushi looked at the tea.
 
 [[speaker:black_radiance]]“I told myself I was correcting local abuses before they embarrassed the institution.”
 
-Sera said, “And now?”
+[[speaker:sera]]Sera said, “And now?”
 
 [[speaker:black_radiance]]“Now I think I spent years hiding people from a government I kept claiming I still served.”
 
@@ -1202,7 +1202,7 @@ Looked at Sera.
 
 [[speaker:huo]]“Who is this?”
 
-Yurushi said, “I have not joined.”
+[[speaker:yurushi]]Yurushi said, “I have not joined.”
 
 Nobody had asked.
 
@@ -1226,7 +1226,7 @@ Yurushi looked between them.
 
 [[speaker:black_radiance]]“This is the hidden organization?”
 
-Lu said, “Unfortunately.”
+[[speaker:luweiran]]Lu said, “Unfortunately.”
 
 Huo placed the food down.
 

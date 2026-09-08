@@ -288,14 +288,14 @@ He looked at the prisoners.
 ```
 ```
 A vitality signature that felt wrong in a way ordinary exhaustion did not.
-“How many?” Luo asked.
+[luo] “How many?” Luo asked.
 The man looked away.
 >>> “One.”   <-- WHO SAYS THIS?
 “When?”
 “Six days ago.”
 ```
 ```
-“How many?” Luo asked.
+[luo] “How many?” Luo asked.
 The man looked away.
 “One.”
 >>> “When?”   <-- WHO SAYS THIS?

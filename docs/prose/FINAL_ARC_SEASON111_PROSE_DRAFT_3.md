@@ -422,7 +422,7 @@ Sera looked back at Lu's message.
 
 Her finger tightened on the page.
 
-“Be alive,” she whispered.
+[[speaker:sera]]“Be alive,” she whispered.
 
 She did not specify which man.
 
@@ -582,7 +582,7 @@ Luo knew which man Shunto was.
 
 Shunto attacked.
 
-“Three,” Luo said.
+[[speaker:luo]]“Three,” Luo said.
 
 Shunto crossed ten paces.
 
@@ -980,7 +980,7 @@ The soldier released him.
 
 Luo knelt beside Shunto.
 
-“No,” he said.
+[[speaker:luo]]“No,” he said.
 
 The soldier frowned.
 
@@ -1294,7 +1294,7 @@ That was somehow worse than praise.
 
 Rhen stood.
 
-“Do not restore Shunto to combat condition,” Luo said.
+[[speaker:luo]]“Do not restore Shunto to combat condition,” Luo said.
 
 [[speaker:rhen]]“I wasn't planning to.”
 

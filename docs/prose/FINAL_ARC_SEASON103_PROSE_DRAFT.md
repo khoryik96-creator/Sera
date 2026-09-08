@@ -592,7 +592,7 @@ Aldric’s mouth moved.
 
 Pain stopped the laugh before it formed.
 
-“Eirik?” Sera asked.
+[[speaker:sera]]“Eirik?” Sera asked.
 
 [[speaker:aldric]]“Alive.”
 
@@ -674,7 +674,7 @@ His right hand rested on Maedra’s blanket.
 
 The left remained useless at his side.
 
-“Jun?” Sera asked.
+[[speaker:sera]]“Jun?” Sera asked.
 
 [[speaker:eldran]]“Breach Dominion.”
 
@@ -720,7 +720,7 @@ A faint smile.
 
 [[speaker:sera]]“Everyone does.”
 
-From the next room, Aldric shouted weakly, “I HEARD THAT.”
+[[speaker:aldric]]From the next room, Aldric shouted weakly, “I HEARD THAT.”
 
 Eldran closed his eyes.
 
@@ -1024,7 +1024,7 @@ She sat.
 
 Neither spoke for a while.
 
-Then Sera said, “Yurushi told me what he knew.”
+[[speaker:sera]]Then Sera said, “Yurushi told me what he knew.”
 
 Luo’s face changed.
 
@@ -1052,7 +1052,7 @@ Wrong room.
 
 Wrong world.
 
-After a long time he asked, “Did she say his name?”
+[[speaker:luo]]After a long time he asked, “Did she say his name?”
 
 [[speaker:sera]]“No.”
 
@@ -1094,7 +1094,7 @@ Luo looked away.
 
 Minutes passed.
 
-Then he said, “I hate you sometimes.”
+[[speaker:luo]]Then he said, “I hate you sometimes.”
 
 [[speaker:sera]]“I know.”
 

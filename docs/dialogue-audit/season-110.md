@@ -9,7 +9,7 @@ Lines already resolved show their speaker in `[brackets]` for context.
 
 ```
 So on the fourth morning after Rhen's arrival, he locked himself in a requisition room with six ledgers, two maps, one pot of tea and a junior officer who had made the mistake of being accurate in front of him twice.
-“Again,” Jin said.
+[jin] “Again,” Jin said.
 The junior officer swallowed.
 >>> “Active combat-capable Wuyue personnel as of dawn: fifty-three thousand, eight hundred and—”   <-- WHO SAYS THIS?
 Jin lifted one finger.
@@ -132,7 +132,7 @@ Jin tapped the page harder.
 
 ```
 Ilyra stood in the central yard and hated it immediately.
-“This is worse,” she said.
+[ilyra] “This is worse,” she said.
 The scout captain beside her looked confused.
 >>> “They left.”   <-- WHO SAYS THIS?
 [ilyra] “Yes.”
