@@ -5,7 +5,7 @@ on:
     branches:
       - audit/dialogue-highlight-full-repo-post160
     paths:
-      - scripts/dialogue-full-repo-audit-v2.mjs
+      - scripts/dialogue-full-repo-audit-v3.mjs
       - .github/workflows/dialogue-full-repo-audit.yml
 
 permissions:
@@ -22,16 +22,16 @@ jobs:
       - uses: actions/setup-node@v7
         with:
           node-version: 22
-      - name: Run corrected all-season dialogue audit
-        run: node scripts/dialogue-full-repo-audit-v2.mjs
-      - name: Commit corrected audit reports
+      - name: Run precision all-season dialogue audit
+        run: node scripts/dialogue-full-repo-audit-v3.mjs
+      - name: Commit precision audit reports
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add docs/dialogue-audit/FULL_REPO_POST160_AUDIT_V2.md docs/dialogue-audit/FULL_REPO_POST160_COUNTS_V2.json
+          git add docs/dialogue-audit/FULL_REPO_POST160_AUDIT_V3.md docs/dialogue-audit/FULL_REPO_POST160_COUNTS_V3.json
           if git diff --cached --quiet; then
             echo "No audit report changes"
             exit 0
           fi
-          git commit -m "Generate corrected all-season dialogue audit report"
+          git commit -m "Generate precision full-repo dialogue audit report"
           git push
