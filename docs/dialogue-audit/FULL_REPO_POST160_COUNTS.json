@@ -1,0 +1,964 @@
+{
+  "totals": {
+    "seasons": 94,
+    "episodes": 933,
+    "paragraphs": 26396,
+    "markers": 5462,
+    "quoteParagraphs": 5564
+  },
+  "counts": {
+    "malformedMarkers": 0,
+    "unknownMarkers": 275,
+    "markedNoQuote": 0,
+    "markedExplicitMismatch": 0,
+    "markedMultipleSpeakerRisk": 0,
+    "markedAsciiMixedRisk": 0,
+    "unmarkedExplicitNamed": 2,
+    "unmarkedPronoun": 2,
+    "unmarkedActionCue": 2,
+    "unmarkedStandalone": 86,
+    "asciiQuoteCandidates": 2
+  },
+  "seasonSummary": [
+    {
+      "season": 1,
+      "episodes": 10,
+      "markers": 173,
+      "quoteParas": 177,
+      "unmarkedStandalone": 4,
+      "explicitNamed": 0,
+      "pronoun": 0,
+      "actionCue": 0
+    },
+    {
+      "season": 2,
+      "episodes": 10,
+      "markers": 158,
+      "quoteParas": 164,
+      "unmarkedStandalone": 4,
+      "explicitNamed": 0,
+      "pronoun": 0,
+      "actionCue": 0
+    },
+    {
+      "season": 3,
+      "episodes": 10,
+      "markers": 137,
+      "quoteParas": 138,
+      "unmarkedStandalone": 1,
+      "explicitNamed": 0,
+      "pronoun": 0,
+      "actionCue": 0
+    },
+    {
+      "season": 4,
+      "episodes": 10,
+      "markers": 54,
+      "quoteParas": 54,
+      "unmarkedStandalone": 0,
+      "explicitNamed": 0,
+      "pronoun": 0,
+      "actionCue": 0
+    },
+    {
+      "season": 5,
+      "episodes": 10,
+      "markers": 42,
+      "quoteParas": 42,
+      "unmarkedStandalone": 0,
+      "explicitNamed": 0,
+      "pronoun": 0,
+      "actionCue": 0
+    },
+    {
+      "season": 6,
+      "episodes": 10,
+      "markers": 48,
+      "quoteParas": 48,
+      "unmarkedStandalone": 0,
+      "explicitNamed": 0,
+      "pronoun": 0,
+      "actionCue": 0
+    },
+    {
+      "season": 7,
+      "episodes": 10,
+      "markers": 50,
+      "quoteParas": 50,
+      "unmarkedStandalone": 0,
+      "explicitNamed": 0,
+      "pronoun": 0,
+      "actionCue": 0
+    },
+    {
+      "season": 8,
+      "episodes": 10,
+      "markers": 49,
+      "quoteParas": 50,
+      "unmarkedStandalone": 1,
+      "explicitNamed": 0,
+      "pronoun": 0,
+      "actionCue": 0
+    },
+    {
+      "season": 9,
+      "episodes": 10,
+      "markers": 85,
+      "quoteParas": 85,
+      "unmarkedStandalone": 0,
+      "explicitNamed": 0,
+      "pronoun": 0,
+      "actionCue": 0
+    },
+    {
+      "season": 10,
+      "episodes": 10,
+      "markers": 55,
+      "quoteParas": 55,
+      "unmarkedStandalone": 0,
+      "explicitNamed": 0,
+      "pronoun": 0,
+      "actionCue": 0
+    },
+    {
+      "season": 11,
+      "episodes": 10,
+      "markers": 47,
+      "quoteParas": 47,
+      "unmarkedStandalone": 0,
+      "explicitNamed": 0,
+      "pronoun": 0,
+      "actionCue": 0
+    },
+    {
+      "season": 12,
+      "episodes": 10,
+      "markers": 50,
+      "quoteParas": 50,
+      "unmarkedStandalone": 0,
+      "explicitNamed": 0,
+      "pronoun": 0,
+      "actionCue": 0
+    },
+    {
+      "season": 13,
+      "episodes": 10,
+      "markers": 75,
+      "quoteParas": 75,
+      "unmarkedStandalone": 0,
+      "explicitNamed": 0,
+      "pronoun": 0,
+      "actionCue": 0
+    },
+    {
+      "season": 14,
+      "episodes": 10,
+      "markers": 164,
+      "quoteParas": 164,
+      "unmarkedStandalone": 0,
+      "explicitNamed": 0,
+      "pronoun": 0,
+      "actionCue": 0
+    },
+    {
+      "season": 15,
+      "episodes": 10,
+      "markers": 153,
+      "quoteParas": 153,
+      "unmarkedStandalone": 0,
+      "explicitNamed": 0,
+      "pronoun": 0,
+      "actionCue": 0
+    },
+    {
+      "season": 16,
+      "episodes": 10,
+      "markers": 118,
+      "quoteParas": 120,
+      "unmarkedStandalone": 0,
+      "explicitNamed": 0,
+      "pronoun": 0,
+      "actionCue": 0
+    },
+    {
+      "season": 17,
+      "episodes": 10,
+      "markers": 72,
+      "quoteParas": 73,
+      "unmarkedStandalone": 1,
+      "explicitNamed": 0,
+      "pronoun": 0,
+      "actionCue": 0
+    },
+    {
+      "season": 18,
+      "episodes": 10,
+      "markers": 136,
+      "quoteParas": 136,
+      "unmarkedStandalone": 0,
+      "explicitNamed": 0,
+      "pronoun": 0,
+      "actionCue": 0
+    },
+    {
+      "season": 19,
+      "episodes": 10,
+      "markers": 133,
+      "quoteParas": 133,
+      "unmarkedStandalone": 0,
+      "explicitNamed": 0,
+      "pronoun": 0,
+      "actionCue": 0
+    },
+    {
+      "season": 20,
+      "episodes": 10,
+      "markers": 137,
+      "quoteParas": 137,
+      "unmarkedStandalone": 0,
+      "explicitNamed": 0,
+      "pronoun": 0,
+      "actionCue": 0
+    },
+    {
+      "season": 21,
+      "episodes": 10,
+      "markers": 149,
+      "quoteParas": 149,
+      "unmarkedStandalone": 0,
+      "explicitNamed": 0,
+      "pronoun": 0,
+      "actionCue": 0
+    },
+    {
+      "season": 22,
+      "episodes": 10,
+      "markers": 81,
+      "quoteParas": 81,
+      "unmarkedStandalone": 0,
+      "explicitNamed": 0,
+      "pronoun": 0,
+      "actionCue": 0
+    },
+    {
+      "season": 23,
+      "episodes": 10,
+      "markers": 48,
+      "quoteParas": 48,
+      "unmarkedStandalone": 0,
+      "explicitNamed": 0,
+      "pronoun": 0,
+      "actionCue": 0
+    },
+    {
+      "season": 24,
+      "episodes": 10,
+      "markers": 56,
+      "quoteParas": 56,
+      "unmarkedStandalone": 0,
+      "explicitNamed": 0,
+      "pronoun": 0,
+      "actionCue": 0
+    },
+    {
+      "season": 25,
+      "episodes": 10,
+      "markers": 69,
+      "quoteParas": 69,
+      "unmarkedStandalone": 0,
+      "explicitNamed": 0,
+      "pronoun": 0,
+      "actionCue": 0
+    },
+    {
+      "season": 26,
+      "episodes": 10,
+      "markers": 49,
+      "quoteParas": 49,
+      "unmarkedStandalone": 0,
+      "explicitNamed": 0,
+      "pronoun": 0,
+      "actionCue": 0
+    },
+    {
+      "season": 27,
+      "episodes": 10,
+      "markers": 46,
+      "quoteParas": 46,
+      "unmarkedStandalone": 0,
+      "explicitNamed": 0,
+      "pronoun": 0,
+      "actionCue": 0
+    },
+    {
+      "season": 28,
+      "episodes": 10,
+      "markers": 42,
+      "quoteParas": 42,
+      "unmarkedStandalone": 0,
+      "explicitNamed": 0,
+      "pronoun": 0,
+      "actionCue": 0
+    },
+    {
+      "season": 29,
+      "episodes": 10,
+      "markers": 25,
+      "quoteParas": 25,
+      "unmarkedStandalone": 0,
+      "explicitNamed": 0,
+      "pronoun": 0,
+      "actionCue": 0
+    },
+    {
+      "season": 30,
+      "episodes": 10,
+      "markers": 30,
+      "quoteParas": 30,
+      "unmarkedStandalone": 0,
+      "explicitNamed": 0,
+      "pronoun": 0,
+      "actionCue": 0
+    },
+    {
+      "season": 31,
+      "episodes": 10,
+      "markers": 30,
+      "quoteParas": 30,
+      "unmarkedStandalone": 0,
+      "explicitNamed": 0,
+      "pronoun": 0,
+      "actionCue": 0
+    },
+    {
+      "season": 32,
+      "episodes": 10,
+      "markers": 62,
+      "quoteParas": 62,
+      "unmarkedStandalone": 0,
+      "explicitNamed": 0,
+      "pronoun": 0,
+      "actionCue": 0
+    },
+    {
+      "season": 33,
+      "episodes": 10,
+      "markers": 25,
+      "quoteParas": 25,
+      "unmarkedStandalone": 0,
+      "explicitNamed": 0,
+      "pronoun": 0,
+      "actionCue": 0
+    },
+    {
+      "season": 34,
+      "episodes": 10,
+      "markers": 16,
+      "quoteParas": 16,
+      "unmarkedStandalone": 0,
+      "explicitNamed": 0,
+      "pronoun": 0,
+      "actionCue": 0
+    },
+    {
+      "season": 35,
+      "episodes": 10,
+      "markers": 7,
+      "quoteParas": 7,
+      "unmarkedStandalone": 0,
+      "explicitNamed": 0,
+      "pronoun": 0,
+      "actionCue": 0
+    },
+    {
+      "season": 36,
+      "episodes": 10,
+      "markers": 13,
+      "quoteParas": 13,
+      "unmarkedStandalone": 0,
+      "explicitNamed": 0,
+      "pronoun": 0,
+      "actionCue": 0
+    },
+    {
+      "season": 37,
+      "episodes": 10,
+      "markers": 9,
+      "quoteParas": 9,
+      "unmarkedStandalone": 0,
+      "explicitNamed": 0,
+      "pronoun": 0,
+      "actionCue": 0
+    },
+    {
+      "season": 38,
+      "episodes": 10,
+      "markers": 25,
+      "quoteParas": 25,
+      "unmarkedStandalone": 0,
+      "explicitNamed": 0,
+      "pronoun": 0,
+      "actionCue": 0
+    },
+    {
+      "season": 39,
+      "episodes": 10,
+      "markers": 32,
+      "quoteParas": 32,
+      "unmarkedStandalone": 0,
+      "explicitNamed": 0,
+      "pronoun": 0,
+      "actionCue": 0
+    },
+    {
+      "season": 40,
+      "episodes": 10,
+      "markers": 15,
+      "quoteParas": 15,
+      "unmarkedStandalone": 0,
+      "explicitNamed": 0,
+      "pronoun": 0,
+      "actionCue": 0
+    },
+    {
+      "season": 41,
+      "episodes": 10,
+      "markers": 11,
+      "quoteParas": 11,
+      "unmarkedStandalone": 0,
+      "explicitNamed": 0,
+      "pronoun": 0,
+      "actionCue": 0
+    },
+    {
+      "season": 42,
+      "episodes": 10,
+      "markers": 19,
+      "quoteParas": 19,
+      "unmarkedStandalone": 0,
+      "explicitNamed": 0,
+      "pronoun": 0,
+      "actionCue": 0
+    },
+    {
+      "season": 43,
+      "episodes": 10,
+      "markers": 39,
+      "quoteParas": 39,
+      "unmarkedStandalone": 0,
+      "explicitNamed": 0,
+      "pronoun": 0,
+      "actionCue": 0
+    },
+    {
+      "season": 44,
+      "episodes": 10,
+      "markers": 20,
+      "quoteParas": 20,
+      "unmarkedStandalone": 0,
+      "explicitNamed": 0,
+      "pronoun": 0,
+      "actionCue": 0
+    },
+    {
+      "season": 45,
+      "episodes": 10,
+      "markers": 17,
+      "quoteParas": 17,
+      "unmarkedStandalone": 0,
+      "explicitNamed": 0,
+      "pronoun": 0,
+      "actionCue": 0
+    },
+    {
+      "season": 46,
+      "episodes": 10,
+      "markers": 26,
+      "quoteParas": 27,
+      "unmarkedStandalone": 0,
+      "explicitNamed": 0,
+      "pronoun": 0,
+      "actionCue": 0
+    },
+    {
+      "season": 47,
+      "episodes": 10,
+      "markers": 13,
+      "quoteParas": 14,
+      "unmarkedStandalone": 0,
+      "explicitNamed": 0,
+      "pronoun": 0,
+      "actionCue": 0
+    },
+    {
+      "season": 48,
+      "episodes": 10,
+      "markers": 36,
+      "quoteParas": 36,
+      "unmarkedStandalone": 0,
+      "explicitNamed": 0,
+      "pronoun": 0,
+      "actionCue": 0
+    },
+    {
+      "season": 49,
+      "episodes": 10,
+      "markers": 18,
+      "quoteParas": 18,
+      "unmarkedStandalone": 0,
+      "explicitNamed": 0,
+      "pronoun": 0,
+      "actionCue": 0
+    },
+    {
+      "season": 50,
+      "episodes": 10,
+      "markers": 24,
+      "quoteParas": 24,
+      "unmarkedStandalone": 0,
+      "explicitNamed": 0,
+      "pronoun": 0,
+      "actionCue": 0
+    },
+    {
+      "season": 51,
+      "episodes": 10,
+      "markers": 22,
+      "quoteParas": 22,
+      "unmarkedStandalone": 0,
+      "explicitNamed": 0,
+      "pronoun": 0,
+      "actionCue": 0
+    },
+    {
+      "season": 52,
+      "episodes": 10,
+      "markers": 25,
+      "quoteParas": 25,
+      "unmarkedStandalone": 0,
+      "explicitNamed": 0,
+      "pronoun": 0,
+      "actionCue": 0
+    },
+    {
+      "season": 53,
+      "episodes": 10,
+      "markers": 23,
+      "quoteParas": 23,
+      "unmarkedStandalone": 0,
+      "explicitNamed": 0,
+      "pronoun": 0,
+      "actionCue": 0
+    },
+    {
+      "season": 54,
+      "episodes": 10,
+      "markers": 15,
+      "quoteParas": 15,
+      "unmarkedStandalone": 0,
+      "explicitNamed": 0,
+      "pronoun": 0,
+      "actionCue": 0
+    },
+    {
+      "season": 55,
+      "episodes": 10,
+      "markers": 20,
+      "quoteParas": 20,
+      "unmarkedStandalone": 0,
+      "explicitNamed": 0,
+      "pronoun": 0,
+      "actionCue": 0
+    },
+    {
+      "season": 56,
+      "episodes": 10,
+      "markers": 22,
+      "quoteParas": 22,
+      "unmarkedStandalone": 0,
+      "explicitNamed": 0,
+      "pronoun": 0,
+      "actionCue": 0
+    },
+    {
+      "season": 57,
+      "episodes": 10,
+      "markers": 25,
+      "quoteParas": 25,
+      "unmarkedStandalone": 0,
+      "explicitNamed": 0,
+      "pronoun": 0,
+      "actionCue": 0
+    },
+    {
+      "season": 58,
+      "episodes": 10,
+      "markers": 5,
+      "quoteParas": 5,
+      "unmarkedStandalone": 0,
+      "explicitNamed": 0,
+      "pronoun": 0,
+      "actionCue": 0
+    },
+    {
+      "season": 59,
+      "episodes": 10,
+      "markers": 17,
+      "quoteParas": 17,
+      "unmarkedStandalone": 0,
+      "explicitNamed": 0,
+      "pronoun": 0,
+      "actionCue": 0
+    },
+    {
+      "season": 60,
+      "episodes": 10,
+      "markers": 21,
+      "quoteParas": 21,
+      "unmarkedStandalone": 0,
+      "explicitNamed": 0,
+      "pronoun": 0,
+      "actionCue": 0
+    },
+    {
+      "season": 61,
+      "episodes": 10,
+      "markers": 21,
+      "quoteParas": 21,
+      "unmarkedStandalone": 0,
+      "explicitNamed": 0,
+      "pronoun": 0,
+      "actionCue": 0
+    },
+    {
+      "season": 62,
+      "episodes": 10,
+      "markers": 27,
+      "quoteParas": 27,
+      "unmarkedStandalone": 0,
+      "explicitNamed": 0,
+      "pronoun": 0,
+      "actionCue": 0
+    },
+    {
+      "season": 63,
+      "episodes": 10,
+      "markers": 25,
+      "quoteParas": 25,
+      "unmarkedStandalone": 0,
+      "explicitNamed": 0,
+      "pronoun": 0,
+      "actionCue": 0
+    },
+    {
+      "season": 64,
+      "episodes": 3,
+      "markers": 81,
+      "quoteParas": 81,
+      "unmarkedStandalone": 0,
+      "explicitNamed": 0,
+      "pronoun": 0,
+      "actionCue": 0
+    },
+    {
+      "season": 65,
+      "episodes": 10,
+      "markers": 490,
+      "quoteParas": 490,
+      "unmarkedStandalone": 0,
+      "explicitNamed": 0,
+      "pronoun": 0,
+      "actionCue": 0
+    },
+    {
+      "season": 66,
+      "episodes": 10,
+      "markers": 178,
+      "quoteParas": 178,
+      "unmarkedStandalone": 0,
+      "explicitNamed": 0,
+      "pronoun": 0,
+      "actionCue": 0
+    },
+    {
+      "season": 67,
+      "episodes": 10,
+      "markers": 76,
+      "quoteParas": 76,
+      "unmarkedStandalone": 0,
+      "explicitNamed": 0,
+      "pronoun": 0,
+      "actionCue": 0
+    },
+    {
+      "season": 68,
+      "episodes": 10,
+      "markers": 97,
+      "quoteParas": 98,
+      "unmarkedStandalone": 0,
+      "explicitNamed": 0,
+      "pronoun": 0,
+      "actionCue": 0
+    },
+    {
+      "season": 69,
+      "episodes": 10,
+      "markers": 77,
+      "quoteParas": 78,
+      "unmarkedStandalone": 0,
+      "explicitNamed": 0,
+      "pronoun": 0,
+      "actionCue": 0
+    },
+    {
+      "season": 70,
+      "episodes": 10,
+      "markers": 65,
+      "quoteParas": 65,
+      "unmarkedStandalone": 0,
+      "explicitNamed": 0,
+      "pronoun": 0,
+      "actionCue": 0
+    },
+    {
+      "season": 71,
+      "episodes": 10,
+      "markers": 45,
+      "quoteParas": 45,
+      "unmarkedStandalone": 0,
+      "explicitNamed": 0,
+      "pronoun": 0,
+      "actionCue": 0
+    },
+    {
+      "season": 72,
+      "episodes": 10,
+      "markers": 31,
+      "quoteParas": 31,
+      "unmarkedStandalone": 0,
+      "explicitNamed": 0,
+      "pronoun": 0,
+      "actionCue": 0
+    },
+    {
+      "season": 73,
+      "episodes": 10,
+      "markers": 37,
+      "quoteParas": 37,
+      "unmarkedStandalone": 0,
+      "explicitNamed": 0,
+      "pronoun": 0,
+      "actionCue": 0
+    },
+    {
+      "season": 74,
+      "episodes": 10,
+      "markers": 36,
+      "quoteParas": 36,
+      "unmarkedStandalone": 0,
+      "explicitNamed": 0,
+      "pronoun": 0,
+      "actionCue": 0
+    },
+    {
+      "season": 75,
+      "episodes": 10,
+      "markers": 173,
+      "quoteParas": 173,
+      "unmarkedStandalone": 0,
+      "explicitNamed": 0,
+      "pronoun": 0,
+      "actionCue": 0
+    },
+    {
+      "season": 76,
+      "episodes": 10,
+      "markers": 75,
+      "quoteParas": 75,
+      "unmarkedStandalone": 0,
+      "explicitNamed": 0,
+      "pronoun": 0,
+      "actionCue": 0
+    },
+    {
+      "season": 77,
+      "episodes": 10,
+      "markers": 39,
+      "quoteParas": 39,
+      "unmarkedStandalone": 0,
+      "explicitNamed": 0,
+      "pronoun": 0,
+      "actionCue": 0
+    },
+    {
+      "season": 78,
+      "episodes": 10,
+      "markers": 59,
+      "quoteParas": 59,
+      "unmarkedStandalone": 0,
+      "explicitNamed": 0,
+      "pronoun": 0,
+      "actionCue": 0
+    },
+    {
+      "season": 79,
+      "episodes": 10,
+      "markers": 50,
+      "quoteParas": 50,
+      "unmarkedStandalone": 0,
+      "explicitNamed": 0,
+      "pronoun": 0,
+      "actionCue": 0
+    },
+    {
+      "season": 80,
+      "episodes": 10,
+      "markers": 40,
+      "quoteParas": 40,
+      "unmarkedStandalone": 0,
+      "explicitNamed": 0,
+      "pronoun": 0,
+      "actionCue": 0
+    },
+    {
+      "season": 81,
+      "episodes": 10,
+      "markers": 23,
+      "quoteParas": 23,
+      "unmarkedStandalone": 0,
+      "explicitNamed": 0,
+      "pronoun": 0,
+      "actionCue": 0
+    },
+    {
+      "season": 82,
+      "episodes": 10,
+      "markers": 20,
+      "quoteParas": 20,
+      "unmarkedStandalone": 0,
+      "explicitNamed": 0,
+      "pronoun": 0,
+      "actionCue": 0
+    },
+    {
+      "season": 83,
+      "episodes": 10,
+      "markers": 25,
+      "quoteParas": 25,
+      "unmarkedStandalone": 0,
+      "explicitNamed": 0,
+      "pronoun": 0,
+      "actionCue": 0
+    },
+    {
+      "season": 84,
+      "episodes": 10,
+      "markers": 21,
+      "quoteParas": 21,
+      "unmarkedStandalone": 0,
+      "explicitNamed": 0,
+      "pronoun": 0,
+      "actionCue": 0
+    },
+    {
+      "season": 85,
+      "episodes": 10,
+      "markers": 106,
+      "quoteParas": 119,
+      "unmarkedStandalone": 13,
+      "explicitNamed": 0,
+      "pronoun": 0,
+      "actionCue": 1
+    },
+    {
+      "season": 86,
+      "episodes": 10,
+      "markers": 44,
+      "quoteParas": 58,
+      "unmarkedStandalone": 13,
+      "explicitNamed": 0,
+      "pronoun": 0,
+      "actionCue": 0
+    },
+    {
+      "season": 87,
+      "episodes": 10,
+      "markers": 38,
+      "quoteParas": 57,
+      "unmarkedStandalone": 16,
+      "explicitNamed": 1,
+      "pronoun": 1,
+      "actionCue": 1
+    },
+    {
+      "season": 88,
+      "episodes": 10,
+      "markers": 34,
+      "quoteParas": 43,
+      "unmarkedStandalone": 5,
+      "explicitNamed": 1,
+      "pronoun": 1,
+      "actionCue": 0
+    },
+    {
+      "season": 89,
+      "episodes": 10,
+      "markers": 19,
+      "quoteParas": 24,
+      "unmarkedStandalone": 5,
+      "explicitNamed": 0,
+      "pronoun": 0,
+      "actionCue": 0
+    },
+    {
+      "season": 90,
+      "episodes": 10,
+      "markers": 71,
+      "quoteParas": 77,
+      "unmarkedStandalone": 6,
+      "explicitNamed": 0,
+      "pronoun": 0,
+      "actionCue": 0
+    },
+    {
+      "season": 91,
+      "episodes": 10,
+      "markers": 41,
+      "quoteParas": 45,
+      "unmarkedStandalone": 4,
+      "explicitNamed": 0,
+      "pronoun": 0,
+      "actionCue": 0
+    },
+    {
+      "season": 92,
+      "episodes": 10,
+      "markers": 39,
+      "quoteParas": 47,
+      "unmarkedStandalone": 8,
+      "explicitNamed": 0,
+      "pronoun": 0,
+      "actionCue": 0
+    },
+    {
+      "season": 93,
+      "episodes": 10,
+      "markers": 28,
+      "quoteParas": 30,
+      "unmarkedStandalone": 2,
+      "explicitNamed": 0,
+      "pronoun": 0,
+      "actionCue": 0
+    },
+    {
+      "season": 94,
+      "episodes": 10,
+      "markers": 48,
+      "quoteParas": 51,
+      "unmarkedStandalone": 3,
+      "explicitNamed": 0,
+      "pronoun": 0,
+      "actionCue": 0
+    }
+  ]
+}
