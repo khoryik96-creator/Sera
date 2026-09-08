@@ -36,7 +36,7 @@ Maedra Dravaryn looked up at the patched beams.
 
 [[speaker:maedra]]“I hate symbolism.”
 
-Solveig, standing between them, said, “Sign the document.”
+[[speaker:solveig]]Solveig, standing between them, said, “Sign the document.”
 
 They did.
 

@@ -236,7 +236,7 @@ Not rage.
 
 Recognition.
 
-“No,” he rasped.
+[[speaker:luo]]“No,” he rasped.
 
 Shunto tightened his grip.
 

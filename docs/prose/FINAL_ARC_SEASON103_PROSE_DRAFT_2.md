@@ -961,7 +961,7 @@ Sera nodded.
 
 Kael glared at both.
 
-Then asked, “Beachhead?”
+[[speaker:kael]]Then asked, “Beachhead?”
 
 [[speaker:sera]]“Ours for now.”
 

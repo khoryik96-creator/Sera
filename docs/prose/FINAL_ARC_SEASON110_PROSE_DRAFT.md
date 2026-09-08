@@ -680,7 +680,7 @@ Haru did too.
 
 Tsubasa did not.
 
-He simply asked, “How?”
+[[speaker:tsubasa]]He simply asked, “How?”
 
 Shunto's jaw shifted.
 

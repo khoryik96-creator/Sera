@@ -168,7 +168,7 @@ Yun looked back at her.
 
 [[speaker:sera]]“Then call it three.”
 
-“Three weeks,” Luo repeated.
+[[speaker:luo]]“Three weeks,” Luo repeated.
 
 Yun nodded.
 

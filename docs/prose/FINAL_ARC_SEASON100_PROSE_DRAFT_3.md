@@ -568,7 +568,7 @@ He remained silent long enough that Tae began to open his mouth.
 
 Huo covered it with one hand.
 
-Xie finally said, “Publicly?”
+[[speaker:xie_wuchen]]Xie finally said, “Publicly?”
 
 Sera nodded.
 

@@ -3,7 +3,7 @@
     "seasons": 114,
     "episodes": 1133,
     "paragraphs": 59813,
-    "markers": 14178,
+    "markers": 14242,
     "quoteParagraphs": 15152
   },
   "counts": {
@@ -14,11 +14,11 @@
     "markedExplicitMismatch": 0,
     "markedStrictCueMismatch": 16,
     "multiSpeakerMarked": 0,
-    "explicitNamedMiss": 6,
+    "explicitNamedMiss": 1,
     "strictAnnouncedMiss": 0,
-    "pronounMiss": 20,
-    "actionMiss": 17,
-    "standalonePool": 841,
+    "pronounMiss": 13,
+    "actionMiss": 16,
+    "standalonePool": 817,
     "asciiPool": 2
   },
   "summary": [
@@ -971,23 +971,23 @@
     {
       "season": 87,
       "episodes": 10,
-      "markers": 38,
+      "markers": 46,
       "quoteParas": 57,
-      "standalone": 16,
-      "explicit": 1,
+      "standalone": 11,
+      "explicit": 0,
       "announced": 0,
-      "pronoun": 1,
-      "action": 1
+      "pronoun": 0,
+      "action": 0
     },
     {
       "season": 88,
       "episodes": 10,
-      "markers": 34,
+      "markers": 39,
       "quoteParas": 43,
-      "standalone": 5,
-      "explicit": 1,
+      "standalone": 3,
+      "explicit": 0,
       "announced": 0,
-      "pronoun": 1,
+      "pronoun": 0,
       "action": 0
     },
     {
@@ -1004,9 +1004,9 @@
     {
       "season": 90,
       "episodes": 10,
-      "markers": 71,
+      "markers": 75,
       "quoteParas": 77,
-      "standalone": 6,
+      "standalone": 2,
       "explicit": 0,
       "announced": 0,
       "pronoun": 0,
@@ -1015,9 +1015,9 @@
     {
       "season": 91,
       "episodes": 10,
-      "markers": 41,
+      "markers": 44,
       "quoteParas": 45,
-      "standalone": 4,
+      "standalone": 1,
       "explicit": 0,
       "announced": 0,
       "pronoun": 0,
@@ -1026,9 +1026,9 @@
     {
       "season": 92,
       "episodes": 10,
-      "markers": 39,
+      "markers": 43,
       "quoteParas": 47,
-      "standalone": 8,
+      "standalone": 4,
       "explicit": 0,
       "announced": 0,
       "pronoun": 0,
@@ -1037,9 +1037,9 @@
     {
       "season": 93,
       "episodes": 10,
-      "markers": 28,
+      "markers": 30,
       "quoteParas": 30,
-      "standalone": 2,
+      "standalone": 0,
       "explicit": 0,
       "announced": 0,
       "pronoun": 0,
@@ -1048,9 +1048,9 @@
     {
       "season": 94,
       "episodes": 10,
-      "markers": 48,
+      "markers": 49,
       "quoteParas": 51,
-      "standalone": 3,
+      "standalone": 2,
       "explicit": 0,
       "announced": 0,
       "pronoun": 0,
@@ -1059,9 +1059,9 @@
     {
       "season": 95,
       "episodes": 10,
-      "markers": 818,
+      "markers": 821,
       "quoteParas": 984,
-      "standalone": 159,
+      "standalone": 156,
       "explicit": 0,
       "announced": 0,
       "pronoun": 2,
@@ -1070,10 +1070,10 @@
     {
       "season": 96,
       "episodes": 10,
-      "markers": 453,
+      "markers": 455,
       "quoteParas": 506,
       "standalone": 47,
-      "explicit": 1,
+      "explicit": 0,
       "announced": 0,
       "pronoun": 2,
       "action": 1
@@ -1081,7 +1081,7 @@
     {
       "season": 97,
       "episodes": 10,
-      "markers": 268,
+      "markers": 269,
       "quoteParas": 321,
       "standalone": 47,
       "explicit": 0,
@@ -1103,18 +1103,18 @@
     {
       "season": 99,
       "episodes": 10,
-      "markers": 481,
+      "markers": 485,
       "quoteParas": 521,
       "standalone": 34,
       "explicit": 0,
       "announced": 0,
-      "pronoun": 4,
+      "pronoun": 1,
       "action": 1
     },
     {
       "season": 100,
       "episodes": 10,
-      "markers": 522,
+      "markers": 523,
       "quoteParas": 602,
       "standalone": 67,
       "explicit": 0,
@@ -1125,10 +1125,10 @@
     {
       "season": 101,
       "episodes": 10,
-      "markers": 630,
+      "markers": 632,
       "quoteParas": 722,
       "standalone": 80,
-      "explicit": 1,
+      "explicit": 0,
       "announced": 0,
       "pronoun": 1,
       "action": 1
@@ -1136,18 +1136,18 @@
     {
       "season": 102,
       "episodes": 10,
-      "markers": 401,
+      "markers": 406,
       "quoteParas": 445,
       "standalone": 34,
       "explicit": 0,
       "announced": 0,
-      "pronoun": 2,
+      "pronoun": 1,
       "action": 0
     },
     {
       "season": 103,
       "episodes": 10,
-      "markers": 446,
+      "markers": 447,
       "quoteParas": 504,
       "standalone": 57,
       "explicit": 0,
@@ -1202,7 +1202,7 @@
     {
       "season": 108,
       "episodes": 10,
-      "markers": 191,
+      "markers": 192,
       "quoteParas": 214,
       "standalone": 19,
       "explicit": 0,
@@ -1213,21 +1213,21 @@
     {
       "season": 109,
       "episodes": 10,
-      "markers": 941,
+      "markers": 947,
       "quoteParas": 970,
       "standalone": 20,
       "explicit": 0,
       "announced": 0,
-      "pronoun": 2,
+      "pronoun": 1,
       "action": 1
     },
     {
       "season": 110,
       "episodes": 10,
-      "markers": 719,
+      "markers": 724,
       "quoteParas": 765,
       "standalone": 38,
-      "explicit": 1,
+      "explicit": 0,
       "announced": 0,
       "pronoun": 1,
       "action": 0
@@ -1235,7 +1235,7 @@
     {
       "season": 111,
       "episodes": 10,
-      "markers": 305,
+      "markers": 306,
       "quoteParas": 345,
       "standalone": 37,
       "explicit": 0,
@@ -1268,7 +1268,7 @@
     {
       "season": 114,
       "episodes": 10,
-      "markers": 357,
+      "markers": 362,
       "quoteParas": 373,
       "standalone": 6,
       "explicit": 0,

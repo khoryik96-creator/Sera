@@ -369,7 +369,7 @@ Kael whistled once.
 
 [[speaker:kael]]“Annoying.”
 
-Liang, seated farther back, said, “You call all strong people annoying.”
+[[speaker:liang]]Liang, seated farther back, said, “You call all strong people annoying.”
 
 [[speaker:kael]]“I call you annoying and you are not even Paragon.”
 

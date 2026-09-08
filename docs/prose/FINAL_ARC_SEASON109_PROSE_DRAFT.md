@@ -552,7 +552,7 @@ Rhen looked toward the door.
 
 Lu waited.
 
-Then added, “Shinsei attacked Wuyue anyway.”
+[[speaker:luweiran]]Then added, “Shinsei attacked Wuyue anyway.”
 
 Rhen slowly looked back.
 

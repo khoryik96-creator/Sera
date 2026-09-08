@@ -618,7 +618,7 @@ Mo smiled.
 
 [[speaker:mo]]“If the quartermasters are not complaining, somebody forgot to move an army.”
 
-Lu, from the other side of the room, said, “Correct.”
+[[speaker:luweiran]]Lu, from the other side of the room, said, “Correct.”
 
 Mo looked pleased to receive the highest available logistical blessing.
 
@@ -808,7 +808,7 @@ Tae slowly looked at Huo.
 
 Lu made a note.
 
-“What are you writing?” Tae demanded.
+[[speaker:tae]]“What are you writing?” Tae demanded.
 
 [[speaker:luweiran]]“Evidence.”
 

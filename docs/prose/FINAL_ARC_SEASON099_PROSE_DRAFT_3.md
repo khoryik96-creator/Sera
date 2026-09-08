@@ -742,7 +742,7 @@ Did not apologize too loudly.
 
 Did not make the moment about his feelings.
 
-He simply said, “Wall on your left.”
+[[speaker:black_radiance]]He simply said, “Wall on your left.”
 
 Yun caught the wall herself.
 
@@ -796,7 +796,7 @@ No promise to avenge her.
 
 No attempt to turn her escape into his anger.
 
-“Isgard first,” he agreed.
+[[speaker:black_radiance]]“Isgard first,” he agreed.
 
 By dusk, they reached the forgotten ridge path.
 

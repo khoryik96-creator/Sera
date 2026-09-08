@@ -109,7 +109,7 @@ Frost-white petals still covered the sky.
 
 ```
 This reassured everyone.
-The Established Paragon opened his eyes on the third morning beneath Sanctuary of Petals, stared at the ceiling of the hospital pavilion, and said, “Why am I here?”
+[aldric] The Established Paragon opened his eyes on the third morning beneath Sanctuary of Petals, stared at the ceiling of the hospital pavilion, and said, “Why am I here?”
 The Isgard nurse beside him did not look up from the chart.
 >>> “Because Eirik Voss nearly killed you.”   <-- WHO SAYS THIS?
 Aldric frowned.

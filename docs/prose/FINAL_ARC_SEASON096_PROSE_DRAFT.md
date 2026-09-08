@@ -266,7 +266,7 @@ Lu pulled it away.
 
 [[speaker:luweiran]]“It is my ledger.”
 
-Yun, without looking up, said, “He loves those more than he loves people.”
+[[speaker:yun]]Yun, without looking up, said, “He loves those more than he loves people.”
 
 Lu considered this.
 

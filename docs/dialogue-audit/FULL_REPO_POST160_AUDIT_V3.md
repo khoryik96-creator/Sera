@@ -1,6 +1,6 @@
 # Full-repository dialogue attribution/highlight audit — precision pass
 
-Scanned **114 seasons**, **1133 episodes**, **59813 paragraphs**, **14178 speaker markers**, **15152 quoted paragraphs**.
+Scanned **114 seasons**, **1133 episodes**, **59813 paragraphs**, **14242 speaker markers**, **15152 quoted paragraphs**.
 
 This pass uses grammar-constrained speaker attribution to avoid the false positives produced by broad proximity rules. It treats named-subject speech verbs and strict name-leading announced-speaker narration as high-confidence; pronouns/action beats remain review-only.
 
@@ -94,34 +94,34 @@ This pass uses grammar-constrained speaker attribution to avoid the false positi
 | 84 | 10 | 21 | 21 | 0 | 0 | 0 | 0 | 0 |
 | 85 | 10 | 106 | 119 | 13 | 0 | 0 | 0 | 1 |
 | 86 | 10 | 44 | 58 | 13 | 0 | 0 | 0 | 0 |
-| 87 | 10 | 38 | 57 | 16 | 1 | 0 | 1 | 1 |
-| 88 | 10 | 34 | 43 | 5 | 1 | 0 | 1 | 0 |
+| 87 | 10 | 46 | 57 | 11 | 0 | 0 | 0 | 0 |
+| 88 | 10 | 39 | 43 | 3 | 0 | 0 | 0 | 0 |
 | 89 | 10 | 19 | 24 | 5 | 0 | 0 | 0 | 0 |
-| 90 | 10 | 71 | 77 | 6 | 0 | 0 | 0 | 0 |
-| 91 | 10 | 41 | 45 | 4 | 0 | 0 | 0 | 0 |
-| 92 | 10 | 39 | 47 | 8 | 0 | 0 | 0 | 0 |
-| 93 | 10 | 28 | 30 | 2 | 0 | 0 | 0 | 0 |
-| 94 | 10 | 48 | 51 | 3 | 0 | 0 | 0 | 0 |
-| 95 | 10 | 818 | 984 | 159 | 0 | 0 | 2 | 3 |
-| 96 | 10 | 453 | 506 | 47 | 1 | 0 | 2 | 1 |
-| 97 | 10 | 268 | 321 | 47 | 0 | 0 | 1 | 0 |
+| 90 | 10 | 75 | 77 | 2 | 0 | 0 | 0 | 0 |
+| 91 | 10 | 44 | 45 | 1 | 0 | 0 | 0 | 0 |
+| 92 | 10 | 43 | 47 | 4 | 0 | 0 | 0 | 0 |
+| 93 | 10 | 30 | 30 | 0 | 0 | 0 | 0 | 0 |
+| 94 | 10 | 49 | 51 | 2 | 0 | 0 | 0 | 0 |
+| 95 | 10 | 821 | 984 | 156 | 0 | 0 | 2 | 3 |
+| 96 | 10 | 455 | 506 | 47 | 0 | 0 | 2 | 1 |
+| 97 | 10 | 269 | 321 | 47 | 0 | 0 | 1 | 0 |
 | 98 | 10 | 142 | 172 | 16 | 0 | 0 | 0 | 0 |
-| 99 | 10 | 481 | 521 | 34 | 0 | 0 | 4 | 1 |
-| 100 | 10 | 522 | 602 | 67 | 0 | 0 | 1 | 1 |
-| 101 | 10 | 630 | 722 | 80 | 1 | 0 | 1 | 1 |
-| 102 | 10 | 401 | 445 | 34 | 0 | 0 | 2 | 0 |
-| 103 | 10 | 446 | 504 | 57 | 0 | 0 | 0 | 3 |
+| 99 | 10 | 485 | 521 | 34 | 0 | 0 | 1 | 1 |
+| 100 | 10 | 523 | 602 | 67 | 0 | 0 | 1 | 1 |
+| 101 | 10 | 632 | 722 | 80 | 0 | 0 | 1 | 1 |
+| 102 | 10 | 406 | 445 | 34 | 0 | 0 | 1 | 0 |
+| 103 | 10 | 447 | 504 | 57 | 0 | 0 | 0 | 3 |
 | 104 | 10 | 382 | 394 | 12 | 0 | 0 | 0 | 0 |
 | 105 | 10 | 320 | 384 | 64 | 0 | 0 | 0 | 1 |
 | 106 | 10 | 389 | 394 | 3 | 0 | 0 | 0 | 0 |
 | 107 | 10 | 217 | 231 | 12 | 1 | 0 | 0 | 0 |
-| 108 | 10 | 191 | 214 | 19 | 0 | 0 | 0 | 1 |
-| 109 | 10 | 941 | 970 | 20 | 0 | 0 | 2 | 1 |
-| 110 | 10 | 719 | 765 | 38 | 1 | 0 | 1 | 0 |
-| 111 | 10 | 305 | 345 | 37 | 0 | 0 | 1 | 1 |
+| 108 | 10 | 192 | 214 | 19 | 0 | 0 | 0 | 1 |
+| 109 | 10 | 947 | 970 | 20 | 0 | 0 | 1 | 1 |
+| 110 | 10 | 724 | 765 | 38 | 0 | 0 | 1 | 0 |
+| 111 | 10 | 306 | 345 | 37 | 0 | 0 | 1 | 1 |
 | 112 | 10 | 347 | 348 | 0 | 0 | 0 | 0 | 0 |
 | 113 | 10 | 387 | 393 | 3 | 0 | 0 | 0 | 1 |
-| 114 | 10 | 357 | 373 | 6 | 0 | 0 | 1 | 0 |
+| 114 | 10 | 362 | 373 | 6 | 0 | 0 | 1 | 0 |
 
 ## A. Marker placement errors
 
@@ -304,47 +304,7 @@ Count: **0**
 
 ## H. HIGH-VALUE unmarked dialogue with grammatical named speaker
 
-Count: **6**
-
-**S87 Chapter 221 P10 — Three Gates Open at Once** — `src/data/seasons/season-087.json`
-
-```text
-before: He felt the difference through his weapon.
->>> “Again,” Sigrun said.
-after: Kael did not mistake invitation for confidence. She wanted his strength committed where her law could learn its weight.
-```
-
-Candidate: **Sigrun Veyrhald** (`sigrun`).
-
-**S88 Chapter 234 P13 — Sera Cannot Call It Orchid Dominion** — `src/data/seasons/season-088.json`
-
-```text
-before: [[speaker:sera]]“No.”
->>> “It buys time,” Jin said through the signal officer.
-after: [[speaker:sera]]“With a lie that becomes a battlefield order.”
-```
-
-Candidate: **Jin Seoryu** (`jin`).
-
-**S96 Chapter 314 P81 — Yun Asks for the Road** — `docs/prose/FINAL_ARC_SEASON096_PROSE_DRAFT*.md`
-
-```text
-before: [[speaker:sera]]“Then call it three.”
->>> “Three weeks,” Luo repeated.
-after: Yun nodded.
-```
-
-Candidate: **Luo Wen** (`luo`).
-
-**S101 Chapter 366 P179 — Sixty Percent Does Not Mean Sixty Percent of the Men** — `docs/prose/FINAL_ARC_SEASON101_PROSE_DRAFT*.md`
-
-```text
-before: Lu made a note.
->>> “What are you writing?” Tae demanded.
-after: [[speaker:luweiran]]“Evidence.”
-```
-
-Candidate: **Tae Muyeon** (`tae`).
+Count: **1**
 
 **S107 Chapter 430 P57 — We Beat Them Yesterday** — `docs/prose/FINAL_ARC_SEASON107_PROSE_DRAFT*.md`
 
@@ -356,16 +316,6 @@ after: Jin looked at her.
 
 Candidate: **Sera** (`sera`).
 
-**S110 Chapter 458 P114 — Tsubasa Asks Once** — `docs/prose/FINAL_ARC_SEASON110_PROSE_DRAFT*.md`
-
-```text
-before: Silence.
->>> “Consistent,” Tsubasa repeated.
-after: [[speaker:aya]]“Yes. Not proof by themselves.”
-```
-
-Candidate: **Tsubasa Kurokawa** (`tsubasa`).
-
 
 ## I. HIGH-VALUE unmarked standalone after strict announced-speaker cue
 
@@ -374,27 +324,7 @@ Count: **0**
 
 ## J. REVIEW unmarked mixed dialogue with pronoun attribution
 
-Count: **20**
-
-**S87 Chapter 228 P9 — Kael Holds the Centre Alone** — `src/data/seasons/season-087.json`
-
-```text
-before: Kael did not turn.
->>> “You heard it,” she said.
-after: [[speaker:kael]]“So did you.”
-```
-
-Named mentions: _none_.
-
-**S88 Chapter 235 P31 — Kael Carries a Retreat Instead of a Victory** — `src/data/seasons/season-088.json`
-
-```text
-before: Sigrun did not declare herself stronger than everything he was. She had prepared the battlefield, chosen the plea and required three other Sovereigns to close the roads.
->>> “You carried them,” she said.
-after: Kael tried to rise. His weapon arm did not answer.
-```
-
-Named mentions: _none_.
+Count: **13**
 
 **S95 Chapter 304 P208 — The Man Who Was Strong for Five Minutes** — `docs/prose/FINAL_ARC_SEASON095_PROSE_DRAFT*.md`
 
@@ -456,36 +386,6 @@ after: [[speaker:yun]]“I was hoping for a holiday.”
 
 Named mentions: _none_.
 
-**S99 Chapter 342 P59 — She Does Not Give Him the War** — `docs/prose/FINAL_ARC_SEASON099_PROSE_DRAFT*.md`
-
-```text
-before: Good.
->>> “Who is waiting for this?” he asked.
-after: [[speaker:yun]]“No one.”
-```
-
-Named mentions: _none_.
-
-**S99 Chapter 344 P74 — The Prison Is Still a Laboratory** — `docs/prose/FINAL_ARC_SEASON099_PROSE_DRAFT*.md`
-
-```text
-before: Shunto did not.
->>> “Treatment?” he asked.
-after: Yun answered before the doctor.
-```
-
-Named mentions: _none_.
-
-**S99 Chapter 349 P222 — She Escapes on Her Own Feet** — `docs/prose/FINAL_ARC_SEASON099_PROSE_DRAFT*.md`
-
-```text
-before: No attempt to turn her escape into his anger.
->>> “Isgard first,” he agreed.
-after: By dusk, they reached the forgotten ridge path.
-```
-
-Named mentions: _none_.
-
 **S100 Chapter 355 P83 — One Day Later** — `docs/prose/FINAL_ARC_SEASON100_PROSE_DRAFT*.md`
 
 ```text
@@ -516,32 +416,12 @@ after: Silence.
 
 Named mentions: _none_.
 
-**S102 Chapter 378 P200 — Until One of Them Can Stand Again — Me** — `docs/prose/FINAL_ARC_SEASON102_PROSE_DRAFT*.md`
-
-```text
-before: She had no intention of becoming comfortable in it.
->>> “Next,” she said.
-after: The next messenger stepped forward.
-```
-
-Named mentions: _none_.
-
 **S109 Chapter 445 P181 — North Without an Army** — `docs/prose/FINAL_ARC_SEASON109_PROSE_DRAFT*.md`
 
 ```text
 before: A Wuyue naval officer on the hospital ship looked over the rail when a line of tiny frost crystals appeared across the water fifty yards away.
 >>> “Did you see that?” she asked.
 after: The sailor beside her squinted.
-```
-
-Named mentions: _none_.
-
-**S109 Chapter 447 P96 — Sanctuary of Petals** — `docs/prose/FINAL_ARC_SEASON109_PROSE_DRAFT*.md`
-
-```text
-before: Whichever pipe carried the water fastest should be used.
->>> “What are you going to do?” she asked.
-after: Rhen looked up at the morning sky.
 ```
 
 Named mentions: _none_.
@@ -579,7 +459,7 @@ Named mentions: _none_.
 
 ## K. REVIEW unmarked standalone after single named action cue
 
-Count: **17**
+Count: **16**
 
 **S85 Chapter 203 P8 — Sixty Percent Must Remain** — `src/data/seasons/season-085.json`
 
@@ -590,16 +470,6 @@ after: [[speaker:kael]]“My army is not my shadow.”
 ```
 
 Candidate: **Kael Veyran** (`kael`).
-
-**S87 Chapter 228 P7 — Kael Holds the Centre Alone** — `src/data/seasons/season-087.json`
-
-```text
-before: Sigrun looked toward the southern smoke.
->>> “A settlement beyond the east road sent a civilian bell.”
-after: Kael did not turn.
-```
-
-Candidate: **Sigrun Veyrhald** (`sigrun`).
 
 **S95 Chapter 304 P233 — The Man Who Was Strong for Five Minutes** — `docs/prose/FINAL_ARC_SEASON095_PROSE_DRAFT*.md`
 
@@ -754,7 +624,7 @@ Candidate: **Aya Katsuragi** (`aya`).
 
 ## L. Full unmarked standalone pool
 
-Count: **841**
+Count: **817**
 
 **S1 Episode 2 P14 — The Pale Orchid** — `src/data/seasons/season-001.json`
 
@@ -1100,30 +970,6 @@ before: [[speaker:arin]]“The siege. Not the hands.”
 after: [[speaker:arin]]“So can the person you kill beside him.”
 ```
 
-**S87 Chapter 225 P7 — Skeldran Hunts the Hospital** — `src/data/seasons/season-087.json`
-
-```text
-before: Solveig did not slow.
->>> “Wuyue hides military movement beneath physicians.”
-after: [[speaker:varok]]“Duskvein used medicine as bait.”
-```
-
-**S87 Chapter 225 P9 — Skeldran Hunts the Hospital** — `src/data/seasons/season-087.json`
-
-```text
-before: [[speaker:varok]]“Duskvein used medicine as bait.”
->>> “And Wuyue crossed with an army.”
-after: Both accusations carried evidence. Neither changed the bodies on the road.
-```
-
-**S87 Chapter 225 P19 — Skeldran Hunts the Hospital** — `src/data/seasons/season-087.json`
-
-```text
-before: Solveig stopped within sight of the white stakes.
->>> “Move.”
-after: [[speaker:varok]]“Not through Eirholt.”
-```
-
 **S87 Chapter 226 P9 — Luo Wen Buries No Patient Early** — `src/data/seasons/season-087.json`
 
 ```text
@@ -1162,38 +1008,6 @@ after: [[speaker:ilyra]]“Nobody chases.”
 before: [[speaker:ilyra]]“Nobody chases.”
 >>> “They will reform.”
 after: [[speaker:ilyra]]“So will the people behind you if you keep the road open.”
-```
-
-**S87 Chapter 228 P7 — Kael Holds the Centre Alone** — `src/data/seasons/season-087.json`
-
-```text
-before: Sigrun looked toward the southern smoke.
->>> “A settlement beyond the east road sent a civilian bell.”
-after: Kael did not turn.
-```
-
-**S87 Chapter 228 P11 — Kael Holds the Centre Alone** — `src/data/seasons/season-087.json`
-
-```text
-before: [[speaker:kael]]“So did you.”
->>> “I know which army occupies the road between.”
-after: The bell rang again, distant and irregular.
-```
-
-**S88 Chapter 235 P7 — Kael Carries a Retreat Instead of a Victory** — `src/data/seasons/season-088.json`
-
-```text
-before: Sigrun raised her shield.
->>> “The Mountain came.”
-after: [[speaker:kael]]“The wounded leave.”
-```
-
-**S88 Chapter 235 P9 — Kael Carries a Retreat Instead of a Victory** — `src/data/seasons/season-088.json`
-
-```text
-before: [[speaker:kael]]“The wounded leave.”
->>> “If you can carry them through the First Wall.”
-after: Kael released **The Mountain Does Not Move**.
 ```
 
 **S88 Chapter 237 P7 — Arin’s Inner Disciples Refuse the Gap** — `src/data/seasons/season-088.json`
@@ -1260,38 +1074,6 @@ before: The marshal pointed toward the two coastal approaches.
 after: Tae accepted only the ground assigned to him.
 ```
 
-**S90 Chapter 251 P12 — Five Pairs, One Exit** — `src/data/seasons/season-090.json`
-
-```text
-before: Kellan Haldren met Mo before six thousand lowered spearheads.
->>> “You crossed into Isgard with an army.”
-after: [[speaker:mo]]“Yes.”
-```
-
-**S90 Chapter 251 P14 — Five Pairs, One Exit** — `src/data/seasons/season-090.json`
-
-```text
-before: [[speaker:mo]]“Yes.”
->>> “You broke our gates.”
-after: [[speaker:mo]]“Yes.”
-```
-
-**S90 Chapter 251 P16 — Five Pairs, One Exit** — `src/data/seasons/season-090.json`
-
-```text
-before: [[speaker:mo]]“Yes.”
->>> “And now you lecture us on law?”
-after: Mo unfolded the oath.
-```
-
-**S90 Chapter 254 P9 — Kael Leaves the Perfect Wall** — `src/data/seasons/season-090.json`
-
-```text
-before: Sigrun lowered her shield.
->>> “Leave this wall and you do not take it back.”
-after: Kael felt the perfect geometry of Rimewall beneath his feet. If he remained, the central fortress could hold another day. If he crossed east, Norrvek would occupy the structure behind him and turn it against Wuyue.
-```
-
 **S90 Chapter 255 P11 — Six Hundred Eleven Swords Still Stand** — `src/data/seasons/season-090.json`
 
 ```text
@@ -1306,30 +1088,6 @@ after: Arin looked beyond her. Three thousand had left home. The standing body b
 before: [[speaker:arin]]“Can you still choose what your sword protects?”
 >>> “Yes.”
 after: [[speaker:arin]]“Then stand if you can. Serve another way if you cannot. Nobody disappears because the battlefield changed the work available to her.”
-```
-
-**S91 Chapter 262 P10 — Veiled Moon Cannot Hide an Army** — `src/data/seasons/season-091.json`
-
-```text
-before: Astrid Vardrenn emerged beneath a black-pine standard.
->>> “You surrendered your advantage.”
-after: [[speaker:sera]]“I removed yours.”
-```
-
-**S91 Chapter 262 P16 — Veiled Moon Cannot Hide an Army** — `src/data/seasons/season-091.json`
-
-```text
-before: Astrid lowered one hand. The eastern bows remained drawn.
->>> “Maedra ordered the corridor closed.”
-after: [[speaker:sera]]“Then close it after the Hearth passes.”
-```
-
-**S91 Chapter 262 P18 — Veiled Moon Cannot Hide an Army** — `src/data/seasons/season-091.json`
-
-```text
-before: [[speaker:sera]]“Then close it after the Hearth passes.”
->>> “And your wounded?”
-after: [[speaker:sera]]“They pass with them under my name.”
 ```
 
 **S91 Chapter 270 P29 — Isgard Sees Orchid Dominion** — `src/data/seasons/season-091.json`
@@ -1348,44 +1106,12 @@ before: A Dravaryn officer called across the field.
 after: Sera watched grain wagons halt as their escorts lost timing.
 ```
 
-**S92 Chapter 273 P11 — Kael Does Not Win the Wall Back** — `src/data/seasons/season-092.json`
-
-```text
-before: Sigrun’s shield drove Kael backward through three sand ridges. He did not reverse the exchange. Her boundary remained. Her control of the fortress remained.
->>> “You left this wall once.”
-after: [[speaker:kael]]“Yes.”
-```
-
-**S92 Chapter 273 P13 — Kael Does Not Win the Wall Back** — `src/data/seasons/season-092.json`
-
-```text
-before: [[speaker:kael]]“Yes.”
->>> “You will not take it back today.”
-after: [[speaker:kael]]“No.”
-```
-
 **S92 Chapter 276 P8 — Rui Moves the Ground as Water** — `src/data/seasons/season-092.json`
 
 ```text
 before: [[speaker:rui]]“Your wound is a road into everyone obeying you.”
 >>> “I can still command.”
 after: [[speaker:rui]]“Then command from behind the ice.”
-```
-
-**S92 Chapter 278 P6 — Chainforge Falls in One Night** — `src/data/seasons/season-092.json`
-
-```text
-before: Jin entered beneath a white lantern.
->>> “Chainforge does not surrender.”
-after: [[speaker:jin]]“Chainforge is no longer functioning.”
-```
-
-**S92 Chapter 278 P8 — Chainforge Falls in One Night** — `src/data/seasons/season-092.json`
-
-```text
-before: [[speaker:jin]]“Chainforge is no longer functioning.”
->>> “We have eight thousand soldiers.”
-after: [[speaker:jin]]“You have eight thousand people alive enough to decide whether walls, contracts and a vacant Ledger rank are worth dying after the decision has already failed.”
 ```
 
 **S92 Chapter 280 P7 — The World Remembers Number Three** — `src/data/seasons/season-092.json`
@@ -1404,22 +1130,6 @@ before: [[speaker:jin]]“Yes.”
 after: Jin turned the four markers sideways.
 ```
 
-**S93 Chapter 284 P4 — Maedra Stands Beside the First Banner** — `src/data/seasons/season-093.json`
-
-```text
-before: The Crimson Marshal remained mounted before formations that had followed her across two years of conquest, retreat and winter burial roads.
->>> “Those riders would not strengthen your Domain. Their wounds would give you roads.”
-after: [[speaker:maedra]]“Their sacrifice restores the invasion.”
-```
-
-**S93 Chapter 284 P6 — Maedra Stands Beside the First Banner** — `src/data/seasons/season-093.json`
-
-```text
-before: [[speaker:maedra]]“Their sacrifice restores the invasion.”
->>> “It restores your political claim.”
-after: Raska did not join Wuyue. She did not apologize for the Red Miles or surrender the cavalry she had preserved. She placed the Crimson Host beneath its lawful field officers and withdrew it from the Paragon contest Maedra meant to purchase with bodies.
-```
-
 **S94 Chapter 292 P5 — The Silver Horizon Returns Every Sword** — `src/data/seasons/season-094.json`
 
 ```text
@@ -1434,14 +1144,6 @@ after: [[speaker:rhen]]“Physically, after recovery.”
 before: [[speaker:rhen]]“Physically, after recovery.”
 >>> “Must I?”
 after: [[speaker:rhen]]“No.”
-```
-
-**S94 Chapter 295 P10 — Maedra Wakes Without Command** — `src/data/seasons/season-094.json`
-
-```text
-before: [[speaker:rhen]]“No.”
->>> “How much did you hold back?”
-after: Rhen checked the repaired meridian once more.
 ```
 
 **S95 Chapter 301 P176 — Two Years Beneath the Crooked Sign** — `docs/prose/FINAL_ARC_SEASON095_PROSE_DRAFT*.md`
@@ -2356,14 +2058,6 @@ before: Dae took a careful sip.
 after: Rhen considered.
 ```
 
-**S95 Chapter 309 P18 — The Wind That Would Not Stay** — `docs/prose/FINAL_ARC_SEASON095_PROSE_DRAFT*.md`
-
-```text
-before: [[speaker:sera]]“Do not spook him?”
->>> “Yes.”
-after: [[speaker:sera]]“Did we spook him?”
-```
-
 **S95 Chapter 309 P147 — The Wind That Would Not Stay** — `docs/prose/FINAL_ARC_SEASON095_PROSE_DRAFT*.md`
 
 ```text
@@ -2378,22 +2072,6 @@ after: [[speaker:rui]]“That is all?”
 before: [[speaker:rui]]“Enough to beat you?”
 >>> “No.”
 after: The smile vanished.
-```
-
-**S95 Chapter 309 P173 — The Wind That Would Not Stay** — `docs/prose/FINAL_ARC_SEASON095_PROSE_DRAFT*.md`
-
-```text
-before: [[speaker:xie_wuchen]]“I assume you are following that one.”
->>> “Yes.”
-after: [[speaker:xie_wuchen]]“Then I am done.”
-```
-
-**S95 Chapter 309 P188 — The Wind That Would Not Stay** — `docs/prose/FINAL_ARC_SEASON095_PROSE_DRAFT*.md`
-
-```text
-before: [[speaker:xie_wuchen]]“The problem is no longer immediate.”
->>> “No.”
-after: [[speaker:xie_wuchen]]“Then I am leaving.”
 ```
 
 **S95 Chapter 309 P221 — The Wind That Would Not Stay** — `docs/prose/FINAL_ARC_SEASON095_PROSE_DRAFT*.md`
