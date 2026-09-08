@@ -5,7 +5,7 @@ on:
     branches:
       - audit/dialogue-highlight-full-repo-post160
     paths:
-      - scripts/dialogue-full-repo-audit-v3.mjs
+      - scripts/dialogue-older-residual-review.mjs
       - .github/workflows/dialogue-full-repo-audit.yml
 
 permissions:
@@ -22,16 +22,16 @@ jobs:
       - uses: actions/setup-node@v7
         with:
           node-version: 22
-      - name: Run precision all-season dialogue audit
-        run: node scripts/dialogue-full-repo-audit-v3.mjs
-      - name: Commit precision audit reports
+      - name: Generate older-season residual review
+        run: node scripts/dialogue-older-residual-review.mjs
+      - name: Commit review packets
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add docs/dialogue-audit/FULL_REPO_POST160_AUDIT_V3.md docs/dialogue-audit/FULL_REPO_POST160_COUNTS_V3.json
+          git add docs/dialogue-audit/older-residual-review
           if git diff --cached --quiet; then
-            echo "No audit report changes"
+            echo "No review changes"
             exit 0
           fi
-          git commit -m "Generate precision full-repo dialogue audit report"
+          git commit -m "Generate older-season dialogue review packets"
           git push
