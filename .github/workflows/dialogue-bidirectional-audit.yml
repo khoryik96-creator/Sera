@@ -8,6 +8,7 @@ on:
       - scripts/dialogue-bidirectional-context-audit.mjs
       - scripts/dialogue-ranked-named-candidates.mjs
       - scripts/dialogue-two-name-turn-review.mjs
+      - scripts/dialogue-unmarked-mixed-review.mjs
       - .github/workflows/dialogue-bidirectional-audit.yml
 
 permissions:
@@ -29,14 +30,15 @@ jobs:
           node scripts/dialogue-bidirectional-context-audit.mjs
           node scripts/dialogue-ranked-named-candidates.mjs
           node scripts/dialogue-two-name-turn-review.mjs
+          node scripts/dialogue-unmarked-mixed-review.mjs
       - name: Commit review reports
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add docs/dialogue-audit/BIDIRECTIONAL_POST160_REVIEW.md docs/dialogue-audit/RANKED_NAMED_POST160_REVIEW.md docs/dialogue-audit/TWO_NAME_TURN_POST160_REVIEW.md
+          git add docs/dialogue-audit/BIDIRECTIONAL_POST160_REVIEW.md docs/dialogue-audit/RANKED_NAMED_POST160_REVIEW.md docs/dialogue-audit/TWO_NAME_TURN_POST160_REVIEW.md docs/dialogue-audit/UNMARKED_MIXED_POST160_REVIEW.md
           if git diff --cached --quiet; then
             echo "No review changes"
             exit 0
           fi
-          git commit -m "Generate two-name dialogue review"
+          git commit -m "Generate exhaustive mixed dialogue review"
           git push
