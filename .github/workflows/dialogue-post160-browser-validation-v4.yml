@@ -1,0 +1,105 @@
+name: Dialogue post160 canonical browser validation
+
+on:
+  push:
+    branches:
+      - audit/dialogue-highlight-full-repo-post160
+    paths:
+      - .github/workflows/dialogue-post160-browser-validation-v4.yml
+
+permissions:
+  contents: write
+
+jobs:
+  validate:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          ref: audit/dialogue-highlight-full-repo-post160
+          fetch-depth: 0
+      - uses: actions/setup-node@v7
+        with:
+          node-version: 22
+          cache: npm
+
+      - name: Remove temporary workflow
+        run: |
+          rm .github/workflows/dialogue-post160-browser-validation-v4.yml
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "Remove canonical browser validation workflow"
+          git push
+
+      - name: Install project dependencies
+        run: npm ci
+
+      - name: Prepare canonical isolated browser tooling
+        run: |
+          PW_BIN=$(npm exec --yes --package=@playwright/test@1.55.0 --package=@axe-core/playwright@4.10.2 -- which playwright)
+          test -x "$PW_BIN"
+          PW_NODE_MODULES=$(realpath $(dirname "$PW_BIN")/..)
+          test -d "$PW_NODE_MODULES/@playwright/test"
+          test -d "$PW_NODE_MODULES/@axe-core/playwright"
+          test -d "$PW_NODE_MODULES/playwright"
+          test -d "$PW_NODE_MODULES/playwright-core"
+          mkdir -p node_modules/@playwright node_modules/@axe-core
+          ln -s "$PW_NODE_MODULES/@playwright/test" node_modules/@playwright/test
+          ln -s "$PW_NODE_MODULES/@axe-core/playwright" node_modules/@axe-core/playwright
+          ln -s "$PW_NODE_MODULES/playwright" node_modules/playwright
+          ln -s "$PW_NODE_MODULES/playwright-core" node_modules/playwright-core
+          if [ -d "$PW_NODE_MODULES/axe-core" ]; then ln -s "$PW_NODE_MODULES/axe-core" node_modules/axe-core; fi
+          echo "PW_BIN=$PW_BIN" >> "$GITHUB_ENV"
+
+      - name: Install Chromium and WebKit
+        run: "$PW_BIN" install --with-deps chromium webkit
+
+      - name: Chromium regressions and WebKit smoke
+        run: "$PW_BIN" test
+
+      - name: Final clean-tree verification
+        env:
+          BASE: 3696e8765ca183261578f5be63e3b1d3546271cb
+        run: |
+          node <<'NODE'
+          const cp = require('child_process');
+          const fs = require('fs');
+          const base = process.env.BASE;
+          const raw = cp.execFileSync('git', ['diff','--name-only',base,'HEAD','--','src/data/seasons','docs/prose'], {encoding:'utf8'}).trim();
+          const files = raw ? raw.split('\n') : [];
+          const strip = s => s.replace(/\[\[speaker:[a-z0-9_]+\]\]/g, '');
+          for (const f of files) {
+            const before = cp.execFileSync('git', ['show', `${base}:${f}`], {encoding:'utf8', maxBuffer:20*1024*1024});
+            const after = fs.readFileSync(f, 'utf8');
+            if (strip(before) !== strip(after)) throw new Error(`Non-marker prose change: ${f}`);
+          }
+          console.log(`Marker-only proof passed for ${files.length} source files.`);
+          NODE
+          npm run audit:dialogue
+          grep -Fq '**752 quoted lines now have no speaker name.**' docs/dialogue-audit/README.md
+          grep -Fq '| Season 95 | 156 |' docs/dialogue-audit/README.md
+          grep -Fq '| **Total** | **752** |' docs/dialogue-audit/README.md
+          git diff --check
+          git diff --exit-code -- package.json package-lock.json
+          test ! -e .github/workflows/dialogue-post160-browser-validation-v4.yml
+          test ! -e .github/workflows/dialogue-post160-browser-validation-v3.yml
+          test ! -e .github/workflows/dialogue-post160-browser-validation-v2.yml
+          test ! -e .github/workflows/dialogue-post160-browser-validation.yml
+          test ! -e .github/workflows/dialogue-post160-final-validation.yml
+          test ! -e .github/workflows/dialogue-bidirectional-audit.yml
+          test ! -e .github/workflows/dialogue-full-repo-audit.yml
+          test ! -e .github/workflows/dialogue-post160-apply.yml
+          test ! -e scripts/apply-post160-dialogue-audit-fixes.mjs
+          test ! -e scripts/dialogue-bidirectional-context-audit.mjs
+          test ! -e scripts/dialogue-full-repo-audit-v2.mjs
+          test ! -e scripts/dialogue-full-repo-audit-v3.mjs
+          test ! -e scripts/dialogue-full-repo-audit.mjs
+          test ! -e scripts/dialogue-older-residual-review.mjs
+          test ! -e scripts/dialogue-ranked-named-candidates.mjs
+          test ! -e scripts/dialogue-two-name-turn-review.mjs
+          test ! -e scripts/dialogue-unmarked-mixed-review.mjs
+          test ! -d docs/dialogue-audit/older-residual-review
+          ! find docs/dialogue-audit -maxdepth 1 -type f -name '*POST160*' -print -quit | grep -q .
+          git status --short
