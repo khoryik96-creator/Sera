@@ -1,0 +1,37 @@
+name: Dialogue full-repo audit
+
+on:
+  push:
+    branches:
+      - audit/dialogue-highlight-full-repo-post160
+    paths:
+      - scripts/dialogue-full-repo-audit.mjs
+      - .github/workflows/dialogue-full-repo-audit.yml
+
+permissions:
+  contents: write
+
+jobs:
+  audit:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          ref: audit/dialogue-highlight-full-repo-post160
+      - uses: actions/setup-node@v7
+        with:
+          node-version: 22
+      - name: Run full-repo dialogue audit
+        run: node scripts/dialogue-full-repo-audit.mjs
+      - name: Commit audit reports
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/dialogue-audit/FULL_REPO_POST160_AUDIT.md docs/dialogue-audit/FULL_REPO_POST160_COUNTS.json
+          if git diff --cached --quiet; then
+            echo "No audit report changes"
+            exit 0
+          fi
+          git commit -m "Generate full-repo dialogue audit report"
+          git push
