@@ -1,0 +1,43 @@
+name: Dialogue post160 reviewed fixes
+
+on:
+  push:
+    branches:
+      - audit/dialogue-highlight-full-repo-post160
+    paths:
+      - scripts/apply-post160-dialogue-audit-fixes.mjs
+      - .github/workflows/dialogue-post160-apply.yml
+
+permissions:
+  contents: write
+
+jobs:
+  apply:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          ref: audit/dialogue-highlight-full-repo-post160
+      - uses: actions/setup-node@v7
+        with:
+          node-version: 22
+      - name: Apply reviewed markers
+        run: node scripts/apply-post160-dialogue-audit-fixes.mjs
+      - name: Regenerate final-arc dialogue worklists
+        run: npm run audit:dialogue
+      - name: Rerun precision and mixed scans
+        run: |
+          node scripts/dialogue-full-repo-audit-v3.mjs
+          node scripts/dialogue-unmarked-mixed-review.mjs
+      - name: Commit reviewed fixes and refreshed audits
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add src/data/seasons/season-087.json src/data/seasons/season-088.json src/data/seasons/season-090.json src/data/seasons/season-091.json src/data/seasons/season-092.json src/data/seasons/season-093.json src/data/seasons/season-094.json docs/prose docs/dialogue-audit
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+            exit 1
+          fi
+          git commit -m "Fix additional reviewed dialogue highlights"
+          git push
