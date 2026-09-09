@@ -172,7 +172,7 @@ Rhen raised an eyebrow.
 
 Lu paused.
 
-Then amended, “You should not reach Sera before it does.”
+[[speaker:luweiran]]Then amended, “You should not reach Sera before it does.”
 
 [[speaker:rhen]]“That is different.”
 
@@ -530,7 +530,7 @@ One leg carried a reinforced brace beneath the trousers. Her face looked leaner.
 
 She looked at him for a long moment.
 
-Then said, “You took your time.”
+[[speaker:arin]]Then said, “You took your time.”
 
 Rhen nodded.
 
@@ -1288,7 +1288,7 @@ Rhen treated power as plumbing.
 
 Whichever pipe carried the water fastest should be used.
 
-“What are you going to do?” she asked.
+[[speaker:aya]]“What are you going to do?” she asked.
 
 Rhen looked up at the morning sky.
 

@@ -252,7 +252,7 @@ The battlefield objective was the road junction.
 
 Not two bodies for a story.
 
-“Take the junction,” he ordered.
+[[speaker:jun]]“Take the junction,” he ordered.
 
 Shinsei moved.
 
@@ -1350,6 +1350,6 @@ Good.
 
 She had no intention of becoming comfortable in it.
 
-“Next,” she said.
+[[speaker:solveig]]“Next,” she said.
 
 The next messenger stepped forward.

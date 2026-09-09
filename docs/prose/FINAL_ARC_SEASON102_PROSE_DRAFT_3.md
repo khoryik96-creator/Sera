@@ -16,7 +16,7 @@ On the first day, Lu gave him a list of medicine shipments whose seals Shinsei w
 
 On the fourth, Qin Luo asked him to explain which kinds of Shinsei requisition orders could be forged by regional officers and which required central authentication.
 
-On the seventh, Tae Muyeon handed him a crate and said, “If you are not one of us, carry this like an outsider.”
+[[speaker:tae]]On the seventh, Tae Muyeon handed him a crate and said, “If you are not one of us, carry this like an outsider.”
 
 Yurushi carried it.
 
@@ -32,7 +32,7 @@ On the twelfth, Sera asked him why he kept appearing at breakfast.
 
 [[speaker:black_radiance]]He said, “I have not accepted wages.”
 
-Lu, without looking up from a ledger, said, “You have eaten fourteen meals.”
+[[speaker:luweiran]]Lu, without looking up from a ledger, said, “You have eaten fourteen meals.”
 
 Yurushi stared at him.
 

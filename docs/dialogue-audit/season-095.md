@@ -1,6 +1,6 @@
 # Season 95 — unattributed dialogue
 
-159 quoted lines in this season have no speaker.
+156 quoted lines in this season have no speaker.
 See `README.md` in this folder for what to do with them.
 
 Lines already resolved show their speaker in `[brackets]` for context.
@@ -941,14 +941,6 @@ Rhen considered.
 ### Chapter 309 — The Wind That Would Not Stay
 
 ```
-Sera looked at him.
-[luweiran] “I gave them one instruction.”
-[sera] “Do not spook him?”
->>> “Yes.”   <-- WHO SAYS THIS?
-[sera] “Did we spook him?”
-[luweiran] “He is currently crossing a roof.”
-```
-```
 [rui] “Oh?”
 [xie_wuchen] “You got older.”
 [rui] “So did you.”
@@ -963,22 +955,6 @@ Rui almost smiled despite himself.
 >>> “No.”   <-- WHO SAYS THIS?
 The smile vanished.
 Sera covered her mouth.
-```
-```
-[luweiran] “Good answer.”
-Xie's gaze shifted toward the alley where the fifth assassin had escaped.
-[xie_wuchen] “I assume you are following that one.”
->>> “Yes.”   <-- WHO SAYS THIS?
-[xie_wuchen] “Then I am done.”
-He turned.
-```
-```
-[xie_wuchen] “I helped.”
-[sera] “You did.”
-[xie_wuchen] “The problem is no longer immediate.”
->>> “No.”   <-- WHO SAYS THIS?
-[xie_wuchen] “Then I am leaving.”
-Sera tilted her head.
 ```
 ```
 Sera shrugged.

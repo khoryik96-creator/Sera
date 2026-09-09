@@ -422,7 +422,7 @@ Kael almost smiled.
 
 That produced more confusion than the retirement.
 
-Liang Yue, standing beside the second pillar, muttered, “Terrible idea.”
+[[speaker:liang]]Liang Yue, standing beside the second pillar, muttered, “Terrible idea.”
 
 Kael looked at him.
 
@@ -694,7 +694,7 @@ Qin tilted his head.
 
 He could already feel the change in air pressure, hear the distant birds shifting, sense the warmth returning to the stones.
 
-He still asked, “What does it look like?”
+[[speaker:qin]]He still asked, “What does it look like?”
 
 Arin glanced at him.
 

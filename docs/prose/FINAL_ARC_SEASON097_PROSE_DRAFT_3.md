@@ -334,7 +334,7 @@ Did not look at her.
 
 The server poured his tea.
 
-Only after the woman left did he say, “The arm was clever.”
+[[speaker:shunto]]Only after the woman left did he say, “The arm was clever.”
 
 Yun kept her eyes on her own cup.
 

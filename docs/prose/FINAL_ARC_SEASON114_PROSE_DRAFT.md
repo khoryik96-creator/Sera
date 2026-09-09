@@ -140,7 +140,7 @@ Lei Zhen laughed once.
 
 Shen Rui sat down on a broken supply crate without dignity.
 
-Ilyra Serath simply sheathed her weapon and said, “Finally.”
+[[speaker:ilyra]]Ilyra Serath simply sheathed her weapon and said, “Finally.”
 
 Mo Qingzhao looked toward the sleeping Shinsei army.
 
@@ -668,7 +668,7 @@ Tsubasa answered honestly.
 
 “Enough to be dangerous.”
 
-Maedra Dravaryn, joining by sealed field relay from another Isgard command point, said, “That was not the question.”
+[[speaker:maedra]]Maedra Dravaryn, joining by sealed field relay from another Isgard command point, said, “That was not the question.”
 
 Tsubasa nodded.
 

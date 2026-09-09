@@ -568,7 +568,7 @@ Not meaning.
 
 Good.
 
-“Who is waiting for this?” he asked.
+[[speaker:shunto]]“Who is waiting for this?” he asked.
 
 [[speaker:yun]]“No one.”
 
@@ -1260,7 +1260,7 @@ The physician glanced at her.
 
 Shunto did not.
 
-“Treatment?” he asked.
+[[speaker:shunto]]“Treatment?” he asked.
 
 Yun answered before the doctor.
 

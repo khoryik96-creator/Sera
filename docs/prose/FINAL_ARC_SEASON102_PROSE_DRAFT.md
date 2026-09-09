@@ -474,7 +474,7 @@ Not panicking.
 
 Executing a schedule.
 
-“Push,” Jun ordered.
+[[speaker:jun]]“Push,” Jun ordered.
 
 Shinsei moved through the breach.
 

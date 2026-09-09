@@ -616,7 +616,7 @@ Sera looked at him.
 
 [[speaker:sera]]“Do not spook him?”
 
-“Yes.”
+[[speaker:luweiran]]“Yes.”
 
 [[speaker:sera]]“Did we spook him?”
 
@@ -926,7 +926,7 @@ Xie's gaze shifted toward the alley where the fifth assassin had escaped.
 
 [[speaker:xie_wuchen]]“I assume you are following that one.”
 
-“Yes.”
+[[speaker:luweiran]]“Yes.”
 
 [[speaker:xie_wuchen]]“Then I am done.”
 
@@ -956,7 +956,7 @@ Xie looked back over one shoulder.
 
 [[speaker:xie_wuchen]]“The problem is no longer immediate.”
 
-“No.”
+[[speaker:sera]]“No.”
 
 [[speaker:xie_wuchen]]“Then I am leaving.”
 

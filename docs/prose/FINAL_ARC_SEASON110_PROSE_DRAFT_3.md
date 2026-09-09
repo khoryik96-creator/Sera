@@ -340,7 +340,7 @@ Hana left with Nao.
 
 Outside, they walked in silence until the security tents were behind them.
 
-Nao finally said, “That was stupid.”
+[[speaker:nao]]Nao finally said, “That was stupid.”
 
 Hana looked at her.
 
@@ -636,7 +636,7 @@ She looked at him.
 
 Silence.
 
-“Consistent,” Tsubasa repeated.
+[[speaker:tsubasa]]“Consistent,” Tsubasa repeated.
 
 [[speaker:aya]]“Yes. Not proof by themselves.”
 
@@ -712,7 +712,7 @@ He nodded once.
 
 She exhaled.
 
-Then added, “And if you discover what I think you will discover, do not bury it because he is No.2.”
+[[speaker:aya]]Then added, “And if you discover what I think you will discover, do not bury it because he is No.2.”
 
 Tsubasa's face changed by a fraction.
 
@@ -732,7 +732,7 @@ Aya pointed toward the Redline notice pinned outside her tent.
 
 Tsubasa held her gaze.
 
-Then said, “Good.”
+[[speaker:tsubasa]]Then said, “Good.”
 
 Aya almost laughed from sheer frustration.
 
