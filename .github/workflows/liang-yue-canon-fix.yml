@@ -23,11 +23,10 @@ jobs:
           node-version: 22
           cache: npm
 
-      - name: Apply exact Liang Yue gender corrections
+      - name: Apply residual Liang Yue corrections
         shell: python
         run: |
           from pathlib import Path
-          import re
 
           def replace_once(text, old, new, label):
               count = text.count(old)
@@ -38,10 +37,8 @@ jobs:
           def edit_chapter(path, chapter_no, next_chapter_no, replacements):
               p = Path(path)
               text = p.read_text(encoding='utf-8')
-              start_token = f"## Chapter {chapter_no} —"
-              end_token = f"## Chapter {next_chapter_no} —"
-              start = text.index(start_token)
-              end = text.index(end_token, start)
+              start = text.index(f"## Chapter {chapter_no} —")
+              end = text.index(f"## Chapter {next_chapter_no} —", start)
               section = text[start:end]
               for old, new in replacements:
                   section = replace_once(section, old, new, f"{path} Ch{chapter_no}")
@@ -50,79 +47,106 @@ jobs:
           edit_chapter(
               'docs/prose/FINAL_ARC_SEASON107_PROSE_DRAFT.md', 421, 422,
               [
-                  ('He simply used less.', 'She simply used less.'),
-                  ('No attempt to reproduce his opening output.', 'No attempt to reproduce her opening output.'),
-                  ('His body accepted that eighty percent now was better than damaging himself trying to pretend one hundred still existed.', 'Her body accepted that eighty percent now was better than damaging herself trying to pretend one hundred still existed.'),
-                  ('He did not need to beat her.', 'She did not need to beat her.'),
-                  ('He needed her not to stop the evacuation.', 'She needed her not to stop the evacuation.'),
-                  ('Stillwater reduced his explosive qinggong.', 'Stillwater reduced her explosive qinggong.'),
-                  ('He stopped using explosive qinggong.', 'She stopped using explosive qinggong.'),
-                  ('He stopped using large techniques.', 'She stopped using large techniques.'),
-                  ('He gave her less structure to flow around.', 'She gave her less structure to flow around.'),
-                  ('One blade line passed his sleeve.', 'One blade line passed her sleeve.'),
-                  ('Second he redirected with the smallest possible wrist movement.', 'Second she redirected with the smallest possible wrist movement.'),
-                  ('He ignored it.', 'She ignored it.'),
-                  ('Behind him, casualty wagons moved.', 'Behind her, casualty wagons moved.'),
-                  ('[[speaker:liang]]“Do you believe in this invasion?” he asked.', '[[speaker:liang]]“Do you believe in this invasion?” she asked.'),
-                  ('His technique quality barely changed.', 'Her technique quality barely changed.'),
-                  ('That meant she could hold him.', 'That meant she could hold her.'),
-                  ('He looked at her.', 'She looked at her.'),
-                  ('He smiled and withdrew.', 'She smiled and withdrew.'),
+                  ('Liang Yue chose neither.\n\nShe simply used less.', 'Liang Yue chose neither.\n\nShe simply used less.'),
+                  ('She did not need to beat her.', 'Liang did not need to beat Nao.'),
+                  ('She needed her not to stop the evacuation.', 'She needed Nao not to stop the evacuation.'),
+                  ('She gave her less structure to flow around.', 'Liang gave Nao less structure to flow around.'),
+                  ('Nao looked past him.', 'Nao looked past her.'),
+                  ('She almost smiled.\n\nThen used Mercy Current to redirect a heavy clash from one allied officer nearby and create an escape path.', 'Nao almost smiled.\n\nThen Nao used Mercy Current to redirect a heavy clash from one allied officer nearby and create an escape path.'),
+                  ('That meant she could hold her.\n\nNot cheaply defeat him.', 'That meant Nao could hold Liang.\n\nNot cheaply defeat her.'),
+                  ('She looked at her.\n\n[[speaker:liang]]“Why?”', 'Liang looked at Nao.\n\n[[speaker:liang]]“Why?”'),
+                  ('She smiled and withdrew.', 'Liang smiled and withdrew.'),
               ],
           )
 
           edit_chapter(
-              'docs/prose/FINAL_ARC_SEASON101_PROSE_DRAFT_2.md', 366, 367,
+              'docs/prose/FINAL_ARC_SEASON114_PROSE_DRAFT_2.md', 495, 496,
               [
-                  ('Liang Yue adjusted one of his unnecessary cloaks.', 'Liang Yue adjusted one of her unnecessary cloaks.'),
-                  ('Kael looked at him.', 'Kael looked at her.'),
-                  ('Both men turned toward her.', 'Both turned toward her.'),
+                  ('[[speaker:liang]]Liang Yue, standing beside the second pillar, muttered, “Terrible idea.”\n\nKael looked at him.', '[[speaker:liang]]Liang Yue, standing beside the second pillar, muttered, “Terrible idea.”\n\nKael looked at her.'),
+                  ('Liang adjusted one of his three cloaks.', 'Liang adjusted one of her three cloaks.'),
               ],
           )
 
-          p = Path('docs/FINAL_ARC_TOP_TEN_THIRD_SHOP_ENDING_LOCK.md')
-          text = p.read_text(encoding='utf-8')
-          text = replace_once(
-              text,
-              '- Liang Yue when one of his "coincidental" excursions overlaps Kael\'s;',
-              '- Liang Yue when one of her "coincidental" excursions overlaps Kael\'s;',
-              'third-shop ending lock',
-          )
-          p.write_text(text, encoding='utf-8')
+          test = Path('test/liangGenderCanon.test.ts')
+          test.write_text("""import { readFileSync } from 'node:fs';
+import { resolve } from 'node:path';
+import { describe, expect, it } from 'vitest';
 
-          print('Applied Liang Yue female-canon corrections.')
+const read = (path: string) => readFileSync(resolve(process.cwd(), path), 'utf8');
 
-      - name: Scan repository for remaining Liang male-pronoun candidates
+const season107 = read('docs/prose/FINAL_ARC_SEASON107_PROSE_DRAFT.md');
+const season101 = read('docs/prose/FINAL_ARC_SEASON101_PROSE_DRAFT_2.md');
+const season114 = read('docs/prose/FINAL_ARC_SEASON114_PROSE_DRAFT_2.md');
+const endingLock = read('docs/FINAL_ARC_TOP_TEN_THIRD_SHOP_ENDING_LOCK.md');
+const season7 = read('src/data/seasons/season-007.json');
+
+const chapter421 = season107.slice(
+  season107.indexOf('## Chapter 421 —'),
+  season107.indexOf('## Chapter 422 —'),
+);
+
+describe('Liang Yue gender canon', () => {
+  it('preserves the established female canon', () => {
+    expect(season7).toContain('Liang Yue arrived because the released records named her victory');
+    expect(season7).toContain('She did not bring attendants');
+  });
+
+  it('keeps the Liang/Nao Season 107 duel free of male pronouns for Liang', () => {
+    expect(chapter421).not.toMatch(/\\b(?:he|him|his|himself)\\b/i);
+    expect(chapter421).toContain('Liang did not need to beat Nao.');
+    expect(chapter421).toContain('Nao looked past her.');
+    expect(chapter421).toContain('Liang smiled and withdrew.');
+  });
+
+  it('guards the later final-arc and epilogue regressions', () => {
+    expect(season101).toContain('Liang Yue adjusted one of her unnecessary cloaks.');
+    expect(season101).toContain('Kael looked at her.');
+    expect(season114).toContain('Kael looked at her.');
+    expect(season114).toContain('Liang adjusted one of her three cloaks.');
+    expect(endingLock).toContain('Liang Yue when one of her "coincidental" excursions overlaps Kael');
+
+    const combined = [season101, season107, season114, endingLock].join('\\n');
+    expect(combined).not.toContain('Liang Yue adjusted one of his');
+    expect(combined).not.toContain('Liang adjusted one of his three cloaks');
+    expect(combined).not.toContain('Liang Yue when one of his "coincidental" excursions');
+  });
+});
+""", encoding='utf-8')
+
+          print('Applied residual Liang Yue corrections and added regression guard.')
+
+      - name: Targeted residual scan
         shell: python
         run: |
           from pathlib import Path
           import re
 
-          exts = {'.md', '.json', '.ts', '.tsx', '.js', '.mjs', '.html'}
+          paths = sorted(Path('docs/prose').glob('FINAL_ARC*.md')) + sorted(Path('docs').glob('FINAL_ARC*.md'))
           male = re.compile(r'\b(?:he|him|his|himself|man|men)\b', re.I)
-          liang = re.compile(r'(?:Liang Yue|\[\[speaker:liang\]\])', re.I)
-          skip_dirs = {'.git', 'node_modules', 'dist', 'coverage'}
+          liang = re.compile(r'(?:Liang Yue|\bLiang\b|\[\[speaker:liang\]\])', re.I)
+          starts_male = re.compile(r'^\s*(?:He|His|Him|Himself)\b')
+          candidates = []
 
-          hits = []
-          for p in Path('.').rglob('*'):
-              if not p.is_file() or p.suffix.lower() not in exts or any(part in skip_dirs for part in p.parts):
-                  continue
-              try:
-                  text = p.read_text(encoding='utf-8')
-              except UnicodeDecodeError:
-                  continue
+          for p in paths:
+              text = p.read_text(encoding='utf-8')
               paras = re.split(r'\n\s*\n', text)
               for i, para in enumerate(paras):
-                  if not liang.search(para):
-                      continue
-                  lo, hi = max(0, i-2), min(len(paras), i+3)
-                  window = '\n\n'.join(paras[lo:hi])
-                  if male.search(window):
-                      hits.append((str(p), i+1, window.replace('\n', ' ')[:900]))
+                  if liang.search(para) and male.search(para):
+                      candidates.append((p, i, 'same', para))
+                  if i and starts_male.search(para) and liang.search(paras[i-1]):
+                      candidates.append((p, i, 'after-liang', paras[i-1] + '\n\n' + para))
+                  if i + 1 < len(paras) and starts_male.search(para) and '[[speaker:liang]]' in paras[i+1]:
+                      candidates.append((p, i, 'before-liang-dialogue', para + '\n\n' + paras[i+1]))
 
-          print(f'RESIDUAL_CANDIDATES={len(hits)}')
-          for path, idx, ctx in hits:
-              print(f'--- {path} paragraph#{idx}\n{ctx}')
+          # The scan is deliberately heuristic: print for human review rather than bulk-editing.
+          print(f'TARGETED_RESIDUAL_CANDIDATES={len(candidates)}')
+          seen = set()
+          for p, i, kind, ctx in candidates:
+              key = (str(p), i, kind)
+              if key in seen:
+                  continue
+              seen.add(key)
+              print(f'--- {p} paragraph#{i+1} [{kind}]\n{ctx.replace(chr(10), " ")[:1000]}')
 
       - name: Install and validate
         run: |
@@ -133,14 +157,14 @@ jobs:
           npm run build
           git diff --check
 
-      - name: Commit corrections
+      - name: Commit residual corrections
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add docs/prose/FINAL_ARC_SEASON107_PROSE_DRAFT.md \
-                  docs/prose/FINAL_ARC_SEASON101_PROSE_DRAFT_2.md \
-                  docs/FINAL_ARC_TOP_TEN_THIRD_SHOP_ENDING_LOCK.md \
+                  docs/prose/FINAL_ARC_SEASON114_PROSE_DRAFT_2.md \
+                  test/liangGenderCanon.test.ts \
                   src/data
           git diff --cached --quiet && { echo 'No changes to commit'; exit 1; }
-          git commit -m "Fix Liang Yue female canon [liang-fix-applied]"
+          git commit -m "Complete Liang Yue female canon guard [liang-fix-applied]"
           git push origin HEAD:fix/liang-yue-female-canon
