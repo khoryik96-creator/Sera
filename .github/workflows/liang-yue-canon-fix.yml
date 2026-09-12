@@ -1,0 +1,146 @@
+name: Liang Yue canon correction
+
+on:
+  push:
+    branches:
+      - fix/liang-yue-female-canon
+
+permissions:
+  contents: write
+
+jobs:
+  correct:
+    if: ${{ !contains(github.event.head_commit.message, '[liang-fix-applied]') }}
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: fix/liang-yue-female-canon
+          fetch-depth: 0
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - name: Apply exact Liang Yue gender corrections
+        shell: python
+        run: |
+          from pathlib import Path
+          import re
+
+          def replace_once(text, old, new, label):
+              count = text.count(old)
+              if count != 1:
+                  raise SystemExit(f"{label}: expected exactly 1 match, found {count}: {old!r}")
+              return text.replace(old, new, 1)
+
+          def edit_chapter(path, chapter_no, next_chapter_no, replacements):
+              p = Path(path)
+              text = p.read_text(encoding='utf-8')
+              start_token = f"## Chapter {chapter_no} —"
+              end_token = f"## Chapter {next_chapter_no} —"
+              start = text.index(start_token)
+              end = text.index(end_token, start)
+              section = text[start:end]
+              for old, new in replacements:
+                  section = replace_once(section, old, new, f"{path} Ch{chapter_no}")
+              p.write_text(text[:start] + section + text[end:], encoding='utf-8')
+
+          edit_chapter(
+              'docs/prose/FINAL_ARC_SEASON107_PROSE_DRAFT.md', 421, 422,
+              [
+                  ('He simply used less.', 'She simply used less.'),
+                  ('No attempt to reproduce his opening output.', 'No attempt to reproduce her opening output.'),
+                  ('His body accepted that eighty percent now was better than damaging himself trying to pretend one hundred still existed.', 'Her body accepted that eighty percent now was better than damaging herself trying to pretend one hundred still existed.'),
+                  ('He did not need to beat her.', 'She did not need to beat her.'),
+                  ('He needed her not to stop the evacuation.', 'She needed her not to stop the evacuation.'),
+                  ('Stillwater reduced his explosive qinggong.', 'Stillwater reduced her explosive qinggong.'),
+                  ('He stopped using explosive qinggong.', 'She stopped using explosive qinggong.'),
+                  ('He stopped using large techniques.', 'She stopped using large techniques.'),
+                  ('He gave her less structure to flow around.', 'She gave her less structure to flow around.'),
+                  ('One blade line passed his sleeve.', 'One blade line passed her sleeve.'),
+                  ('Second he redirected with the smallest possible wrist movement.', 'Second she redirected with the smallest possible wrist movement.'),
+                  ('He ignored it.', 'She ignored it.'),
+                  ('Behind him, casualty wagons moved.', 'Behind her, casualty wagons moved.'),
+                  ('[[speaker:liang]]“Do you believe in this invasion?” he asked.', '[[speaker:liang]]“Do you believe in this invasion?” she asked.'),
+                  ('His technique quality barely changed.', 'Her technique quality barely changed.'),
+                  ('That meant she could hold him.', 'That meant she could hold her.'),
+                  ('He looked at her.', 'She looked at her.'),
+                  ('He smiled and withdrew.', 'She smiled and withdrew.'),
+              ],
+          )
+
+          edit_chapter(
+              'docs/prose/FINAL_ARC_SEASON101_PROSE_DRAFT_2.md', 366, 367,
+              [
+                  ('Liang Yue adjusted one of his unnecessary cloaks.', 'Liang Yue adjusted one of her unnecessary cloaks.'),
+                  ('Kael looked at him.', 'Kael looked at her.'),
+                  ('Both men turned toward her.', 'Both turned toward her.'),
+              ],
+          )
+
+          p = Path('docs/FINAL_ARC_TOP_TEN_THIRD_SHOP_ENDING_LOCK.md')
+          text = p.read_text(encoding='utf-8')
+          text = replace_once(
+              text,
+              '- Liang Yue when one of his "coincidental" excursions overlaps Kael\'s;',
+              '- Liang Yue when one of her "coincidental" excursions overlaps Kael\'s;',
+              'third-shop ending lock',
+          )
+          p.write_text(text, encoding='utf-8')
+
+          print('Applied Liang Yue female-canon corrections.')
+
+      - name: Scan repository for remaining Liang male-pronoun candidates
+        shell: python
+        run: |
+          from pathlib import Path
+          import re
+
+          exts = {'.md', '.json', '.ts', '.tsx', '.js', '.mjs', '.html'}
+          male = re.compile(r'\b(?:he|him|his|himself|man|men)\b', re.I)
+          liang = re.compile(r'(?:Liang Yue|\[\[speaker:liang\]\])', re.I)
+          skip_dirs = {'.git', 'node_modules', 'dist', 'coverage'}
+
+          hits = []
+          for p in Path('.').rglob('*'):
+              if not p.is_file() or p.suffix.lower() not in exts or any(part in skip_dirs for part in p.parts):
+                  continue
+              try:
+                  text = p.read_text(encoding='utf-8')
+              except UnicodeDecodeError:
+                  continue
+              paras = re.split(r'\n\s*\n', text)
+              for i, para in enumerate(paras):
+                  if not liang.search(para):
+                      continue
+                  lo, hi = max(0, i-2), min(len(paras), i+3)
+                  window = '\n\n'.join(paras[lo:hi])
+                  if male.search(window):
+                      hits.append((str(p), i+1, window.replace('\n', ' ')[:900]))
+
+          print(f'RESIDUAL_CANDIDATES={len(hits)}')
+          for path, idx, ctx in hits:
+              print(f'--- {path} paragraph#{idx}\n{ctx}')
+
+      - name: Install and validate
+        run: |
+          npm ci
+          npm run prepare:data
+          npm test
+          npm run quality
+          npm run build
+          git diff --check
+
+      - name: Commit corrections
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/prose/FINAL_ARC_SEASON107_PROSE_DRAFT.md \
+                  docs/prose/FINAL_ARC_SEASON101_PROSE_DRAFT_2.md \
+                  docs/FINAL_ARC_TOP_TEN_THIRD_SHOP_ENDING_LOCK.md \
+                  src/data
+          git diff --cached --quiet && { echo 'No changes to commit'; exit 1; }
+          git commit -m "Fix Liang Yue female canon [liang-fix-applied]"
+          git push origin HEAD:fix/liang-yue-female-canon
