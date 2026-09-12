@@ -50,9 +50,9 @@ They were not fighting for a knockout. Nao held a broad retreat-control field ov
 
 Liang’s assignment was to extract nearly three thousand wounded Wuyue and Isgard personnel from a corridor that was becoming untenable.
 
-She did not need to beat her.
+Liang did not need to beat Nao.
 
-She needed her not to stop the evacuation.
+She needed Nao not to stop the evacuation.
 
 Stillwater reduced her explosive qinggong.
 
@@ -80,7 +80,7 @@ Light precise cuts flowed around a stronger guard.
 
 Liang did not produce a stronger guard.
 
-She gave her less structure to flow around.
+Liang gave Nao less structure to flow around.
 
 One blade line passed her sleeve.
 
@@ -94,7 +94,7 @@ Behind her, casualty wagons moved.
 
 Hundreds already clear.
 
-Nao looked past him.
+Nao looked past her.
 
 [[speaker:nao]]“Those are wounded.”
 
@@ -104,9 +104,9 @@ Nao looked past him.
 
 [[speaker:liang]]“To keep you asking questions.”
 
-She almost smiled.
+Nao almost smiled.
 
-Then used Mercy Current to redirect a heavy clash from one allied officer nearby and create an escape path.
+Then Nao used Mercy Current to redirect a heavy clash from one allied officer nearby and create an escape path.
 
 Liang saw the choice.
 
@@ -140,9 +140,9 @@ Stillwater was working.
 
 Liang was simply too disciplined to make the Domain’s penalty dramatic.
 
-That meant she could hold her.
+That meant Nao could hold Liang.
 
-Not cheaply defeat him.
+Not cheaply defeat her.
 
 Good.
 
@@ -156,7 +156,7 @@ Nao could pursue.
 
 Did not.
 
-She looked at her.
+Liang looked at Nao.
 
 [[speaker:liang]]“Why?”
 
@@ -178,7 +178,7 @@ Nao looked irritated.
 
 [[speaker:nao]]“Stop grading me.”
 
-She smiled and withdrew.
+Liang smiled and withdrew.
 
 Later, both command reports described the engagement differently.
 
