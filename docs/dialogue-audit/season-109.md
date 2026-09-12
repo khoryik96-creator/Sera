@@ -1,6 +1,6 @@
 # Season 109 — unattributed dialogue
 
-20 quoted lines in this season have no speaker.
+18 quoted lines in this season have no speaker.
 See `README.md` in this folder for what to do with them.
 
 Lines already resolved show their speaker in `[brackets]` for context.
@@ -41,25 +41,6 @@ The sailor beside her squinted.
 >>> “See what?”   <-- WHO SAYS THIS?
 The crystals were gone.
 Rhen continued north.
-```
-
-### Chapter 446 — Sera
-
-```
-The sentry pointed so quickly his shoulder popped.
-Rhen winced.
-[rhen] “You should have that looked at.”
->>> “Yes, sir.”   <-- WHO SAYS THIS?
-[rhen] “Now.”
-“Yes, sir.”
-```
-```
-[rhen] “You should have that looked at.”
-“Yes, sir.”
-[rhen] “Now.”
->>> “Yes, sir.”   <-- WHO SAYS THIS?
-The sentry ran toward the hospital instead of the command post.
-Rhen nodded approvingly.
 ```
 
 ### Chapter 447 — Sanctuary of Petals

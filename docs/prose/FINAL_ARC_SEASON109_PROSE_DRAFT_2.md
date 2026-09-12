@@ -436,91 +436,239 @@ Somewhere beyond the command lines was Sera.
 
 He released the last layer of invisibility.
 
-A single frost-white petal appeared beside him.
+A single frost-white petal formed beside his shoulder.
 
 Pale violet moved through it like trapped dawn.
 
-Below, a sentry looked up.
+The color was new.
+
+The signature was not.
+
+The petal left him before he moved.
+
+It drifted down the ridge on a wind too weak to carry it that far.
+
+Then another formed.
+
+Then another.
+
+Not a technique.
+
+Not yet.
+
+Only the quiet overflow of a circulation that had spent six months learning how to hold an impossible amount of winter without announcing it.
+
+The first petal reached the hospital road before Rhen did.
+
+A Wuyue stretcher bearer saw it settle on the black shaft of his spear and stopped walking.
+
+He had never seen Rhen's face.
+
+He did not need to.
+
+After the previous Isgard war, Wuyue had returned from this same continent carrying a story every soldier knew. Sera had held two Paragons until **Orchid Dominion** broke. Then one man had crossed the wreckage of both Domains, punched through one Paragon, broken the other with **Meridian Bloom**, and ended the final battle while frozen petals filled the field.
+
+The stretcher bearer looked up at the ridge.
+
+One title left his mouth so quietly that the wounded man beside him almost missed it.
+
+Petals Monarch.
+
+An Isgard veteran heard him.
+
+The veteran turned toward the petal.
+
+His expression changed before he ever found the man on the ridge.
+
+Isgard had spent the years since arguing about the last war—about Duskvein, Wuyue, law, pride, invasion and blame.
+
+It did not argue about how the war ended.
+
+The last battlefield had belonged to two broken Paragon laws and frozen petals.
+
+Every garrison school knew the title attached to them.
+
+Every veteran who had survived the final campaign knew what happened when that title entered a battlefield.
+
+Petals Monarch.
+
+The words moved without a courier.
+
+A Wuyue medical orderly repeated them at the next lane.
+
+An Isgard shieldman heard and straightened.
+
+A Silver Horizon swordswoman who had been sitting against a wagon stood despite the blood drying down one sleeve.
+
+An Isgard captain looked toward the ridge, then toward the exhausted soldiers under his command, and for the first time that day his shoulders stopped sagging.
+
+A wounded man tried to sit up.
+
+His physician shoved him flat again.
+
+The physician was smiling.
+
+No one had been healed yet.
+
+No enemy had been struck.
+
+No reinforcement horn had sounded.
+
+Morale changed anyway.
+
+For six months Wuyue and Isgard had carried the war without him. They had buried friends, promoted replacements, held roads with half-strength companies and learned exactly how much survival cost when no miracle was coming.
+
+His return did not erase any of that.
+
+It told them the miracle had finally caught up.
+
+Rhen noticed the change below.
+
+He looked mildly puzzled by the number of people suddenly staring in his direction.
+
+Then another petal drifted past him toward the hospitals.
+
+Understanding arrived.
+
+He sighed once.
+
+Not annoyed.
+
+Almost embarrassed.
+
+Then he started down the ridge.
+
+Below, one Isgard sentry looked up.
 
 The spear fell from his hand.
+
+Not from fear.
+
+Recognition.
 
 ---
 
 ## Chapter 446 — Sera
 
-The sentry did not recognize Rhen's face.
+The sentry did not know Rhen's face.
 
-That was understandable.
+He knew the title.
 
-Most of Wuyue did not.
+The frost-white petal hovering beside the faded dark-green coat was enough.
 
-He recognized the petal.
+Pale violet moved beneath the ice.
 
-That was worse.
+The sentry's lips parted.
 
-For five years, frozen petals had belonged to stories people told with lowered voices. A healer's miracle. A battlefield disappearing beneath winter. A man whose name had become less useful than the title attached to it.
+Petals Monarch.
 
-The sentry stared at the pale-violet light inside the frost-white petal.
-
-Then at Rhen.
-
-Then back at the petal.
-
-“Sir,” he managed.
-
-Rhen looked down the slope.
+Rhen looked down the road.
 
 [[speaker:rhen]]“Where is Sera?”
 
-The sentry pointed so quickly his shoulder popped.
+The sentry pointed toward the allied command district.
 
-Rhen winced.
+Rhen nodded once and walked past him.
 
-[[speaker:rhen]]“You should have that looked at.”
+The title outran him.
 
-“Yes, sir.”
+Nobody shouted Rhen.
 
-[[speaker:rhen]]“Now.”
+At first the words moved in low voices between hospital lanes, supply wagons and exhausted sentries.
 
-“Yes, sir.”
+Petals Monarch.
 
-The sentry ran toward the hospital instead of the command post.
+Then Wuyue's western camp heard.
 
-Rhen nodded approvingly.
+A line of soldiers who had been eating in silence stood almost together.
 
-News outran him anyway.
+A sword struck the rim of a shield once.
 
-By the time he reached the allied command district, people were already stepping out of tents.
+Another answered.
 
-A Silver Horizon swordswoman froze halfway through tying her hair.
+Then another.
 
-An Imperial officer stopped with a spoon in his mouth.
+The sound traveled through the camp like a pulse.
 
-Two Isgard guards looked ready to challenge him until a Wuyue captain grabbed both by the sleeves.
+Isgard heard it next.
 
-Nobody cheered.
+Some of those soldiers had fought Wuyue in the previous war. Some had carried wounded away from the battlefield where the Petals Monarch ended the last war. Some were too young to have been there and knew the story only because older fighters never agreed on anything except the ending.
 
-The reaction was stranger than cheering.
+They did not need an explanation now.
 
-The war simply paused around him in small pieces.
+Frost-white petals were crossing an Isgard sky again.
 
-A stretcher team slowed.
+This time they were falling behind their own lines.
 
-A clerk forgot the report in his hand.
+An Isgard spear company began striking weapon shafts against the frozen earth.
 
-A physician came out of a tent, saw Rhen, and began crying before she seemed to understand why.
+A Wuyue formation answered with shields.
 
-Rhen did not know what to do with that.
+The rhythm spread.
 
-So he kept walking.
+Not celebration.
+
+Not yet.
+
+Something harder.
+
+Relief turning back into aggression.
+
+Men and women who had spent weeks measuring every retreat route began looking north instead of south.
+
+Banners that had hung limp in the evening cold were lifted higher.
+
+A stretcher patient heard the title and started laughing until his ribs hurt badly enough for the medic to threaten him.
+
+A wounded Isgard officer who had asked twice that morning whether evacuation ships were still running stopped asking.
+
+The alliance had survived six months without the Petals Monarch.
+
+That mattered.
+
+His return did not make those six months smaller.
+
+It made every person who had endured them feel, for the first time in too long, that endurance might actually reach an ending.
+
+Rhen kept walking.
+
+The closer he came to the command district, the quieter the people nearest him became.
+
+The roar belonged to the formations farther out.
+
+Up close, myth was stranger.
+
+A tall man in an old traveling coat.
+
+Tousled black hair.
+
+A pale scar through one eyebrow.
+
+No aura.
+
+No army.
+
+No weapon.
+
+Only petals.
+
+Soldiers moved aside before he asked.
+
+Wuyue veterans bowed their heads.
+
+Isgard soldiers straightened.
+
+More than one person stared at him with the disorientation of someone discovering that a story had ordinary footsteps.
+
+Rhen did not look left or right.
+
+He was searching for one person.
 
 The command post stood farther inland behind three defensive rings and a line of black pines that had somehow survived artillery, qi shock and six months of people cutting branches for firewood.
 
-Rhen reached the first ring.
+The first ring opened before Rhen reached it.
 
-The guards moved aside without being told.
-
-The second did the same.
+So did the second.
 
 At the third, Arin Vale stood waiting.
 
@@ -528,51 +676,17 @@ Her silver hair was shorter than he remembered.
 
 One leg carried a reinforced brace beneath the trousers. Her face looked leaner. The old elegance remained, but war had carved away anything decorative around it.
 
-She looked at him for a long moment.
+She looked at him for a long moment while the title rolled through the camps behind her.
 
-[[speaker:arin]]Then said, “You took your time.”
+[[speaker:arin]]“You took your time.”
 
 Rhen nodded.
 
-[[speaker:rhen]]“I was busy.”
+[[speaker:rhen]]“I know.”
 
-Arin's eyes narrowed.
+Arin stepped aside.
 
-[[speaker:arin]]“Sleeping?”
-
-[[speaker:rhen]]“Apparently.”
-
-She almost smiled.
-
-Almost.
-
-Then she stepped aside.
-
-[[speaker:arin]]“She is in there.”
-
-Rhen stopped before the command tent.
-
-Arin's voice softened.
-
-“Don't make a joke first.”
-
-Rhen looked at her.
-
-[[speaker:rhen]]“Why?”
-
-[[speaker:arin]]“Because she has spent six months threatening people who try to take care of her.”
-
-[[speaker:rhen]]“That sounds normal.”
-
-[[speaker:arin]]“It is not normal when she can flatten a hill.”
-
-[[speaker:rhen]]“Fair.”
-
-[[speaker:arin]]“And Rhen?”
-
-He waited.
-
-Arin looked at him with the tired seriousness of someone who had watched Sera carry too many lists.
+Then stopped him with one sentence.
 
 [[speaker:arin]]“She did well.”
 
@@ -580,9 +694,7 @@ Rhen's expression changed.
 
 [[speaker:rhen]]“I know.”
 
-He entered.
-
-Sera was standing over a map.
+Inside the command tent, Sera was standing over a map.
 
 Of course she was.
 
@@ -598,7 +710,87 @@ She was thinner.
 
 Not dramatically.
 
-Enough that Rhen noticed before he noticed anything else.
+Enough that Rhen would notice before he noticed anything else.
+
+Outside, the first full roar finally broke across the allied rear.
+
+**PETALS MONARCH.**
+
+It came from Wuyue first.
+
+Isgard answered.
+
+Shinsei heard it too.
+
+Forward observation posts had spent six months learning the sounds of the Wuyue–Isgard rear: evacuation horns, rotation bells, casualty wagons, exhausted formations changing watch.
+
+This was none of them.
+
+At first, Shinsei officers assumed another army had arrived.
+
+Then the first scout report came back.
+
+Frost-white petals.
+
+Pale violet beneath the ice.
+
+No banner.
+
+No formation source.
+
+A veteran intelligence officer read the report twice and stopped asking how many reinforcements had landed.
+
+He knew the title.
+
+Petals Monarch.
+
+For six months Shinsei had measured the people opposing it. Sera. Tae. Huo. Qin. Kael. Isgard's surviving Paragons. Every one of them had a file, a cultivation estimate, a known limit and a plan built around that limit.
+
+The Petals Monarch had a file too.
+
+The useful part was very short.
+
+No accepted rank.
+
+No verified upper limit.
+
+Last decisive appearance in Isgard: two hostile Paragons defeated after Orchid Dominion collapsed. War ended.
+
+Across the northern line, Shinsei signal flags changed.
+
+Not retreat.
+
+Recalculation.
+
+Behind them, the allied roar grew louder.
+
+Jin stopped speaking.
+
+Solveig's head turned toward the canvas wall.
+
+A single frost-white petal slipped beneath the tent flap.
+
+It crossed the floor without wind and settled on the map directly over Isgard.
+
+Pale violet moved beneath its surface.
+
+Sera stared at it.
+
+For six months she had received casualty totals, retreat orders, reinforcement schedules and messages that began with another name she knew.
+
+This message needed one petal.
+
+She touched it with two fingers.
+
+The frost did not burn her.
+
+Sera closed her eyes for half a breath.
+
+When she opened them, some weight the room had forgotten she was carrying was gone.
+
+[[speaker:sera]]“He's here.”
+
+Rhen entered.
 
 Sera looked up.
 
@@ -1329,6 +1521,46 @@ Twenty.
 Thirty.
 
 The hemisphere reached its full thirty-mile span over hospital fields, allied camps, prisoner wards, civilian shelters, supply roads and stretches of ruined Isgard earth where people had been sleeping under patched canvas because no building remained.
+
+Every watch post in the allied rear could see it.
+
+No signal officer had to explain what the sky meant.
+
+The title rose again.
+
+**PETALS MONARCH.**
+
+This time it did not travel as rumor.
+
+It rolled through tens of thousands of people at once.
+
+Wuyue shouted first. Isgard answered almost immediately.
+
+The response from Isgard was not simple worship. Too many of its veterans remembered standing on the other side five years earlier. They remembered the humiliation, the fear and the arguments that followed.
+
+They also remembered the ending.
+
+The last Isgard war had many causes, many commanders and many people who made victory possible. Its final image was simpler: Sera's broken Domain, two defeated Paragons, and frozen petals falling while the man beyond the ranking system decided the battle was over.
+
+Now that same legend was not walking against Isgard.
+
+He was standing inside its hospital district.
+
+The same winter that had ended one war was spreading over Isgard to keep its people alive in another.
+
+For six months, every readiness report Jin received had moved in one direction. Down.
+
+He watched exhausted formations stand straighter without receiving an order.
+
+He watched units that had been discussing rotation begin asking when they would be cleared to return.
+
+He watched Isgard officers stop checking the southern roads every time a distant horn sounded.
+
+No one sensible believed the Petals Monarch made them immortal.
+
+They knew better than that now.
+
+But morale was also a battlefield resource, and his arrival had changed it before the first repaired meridian was counted.
 
 Petals covered the sky like a second weather system.
 

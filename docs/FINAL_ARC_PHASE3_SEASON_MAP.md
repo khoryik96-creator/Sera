@@ -24,19 +24,19 @@ Rhen reunites with Tae Muyeon, Huo Wujin and Qin Luo. They are now High Paragons
 Rhen properly meets Yurushi Amagiri at the Wuyue home front. He learns that Yurushi helped Yun escape because it was the right thing to do. Rhen gives him a simple, sincere thank-you. Yurushi remains assigned to Wuyue / the Quaint Teahouse network rather than being dragged north just to participate in every later confrontation.
 
 ### Chapter 445 — North Without an Army
-Rhen leaves for Isgard alone. Drifting Petals should make the distance feel absurd without becoming teleportation or spatial magic. He does not summon a second army or seize command on arrival.
+Rhen leaves for Isgard alone. Drifting Petals should make the distance feel absurd without becoming teleportation or spatial magic. His first pale-violet frost-white petals reach the allied rear before he does. Wuyue and Isgard veterans recognize the signature immediately as the **Petals Monarch**, the legendary figure who ended the previous Isgard war. Morale begins rising before Rhen heals or attacks anyone. He does not summon a second army or seize command on arrival.
 
 ### Chapter 446 — Sera
-Rhen finds Sera injured, exhausted and still commanding. The reunion is intimate but not helpless-rescue framing. She carried the war without him. Preferred tonal beat: Rhen says she looks terrible; Sera replies that he slept through a war; then she embraces him anyway.
+The allied rear recognizes the return publicly before the private reunion: soldiers call him **Petals Monarch**, Wuyue and Isgard formations visibly regain morale, and nobody outside his intimate circle treats the event as merely “Rhen came back.” A single pale-violet frost-white petal reaches Sera's map before he enters, and she knows exactly what it means. The reunion then becomes intimate rather than helpless-rescue framing. She carried the war without him. Keep the tonal beat where Rhen says she looks terrible, Sera replies that he slept through a war, then embraces him anyway.
 
 ### Chapter 447 — Sanctuary of Petals
-Rhen's first enormous post-seclusion display is healing, not offense. His upgraded thirty-mile Sanctuary treats Wuyue, Isgard, civilians, soldiers and prisoners alike. Severe but recoverable physical and meridian damage can be restored. The dead remain dead. Axtaya-spent lifespan remains spent.
+Rhen's first enormous post-seclusion display is healing, not offense. His upgraded thirty-mile Sanctuary treats Wuyue, Isgard, civilians, soldiers and prisoners alike. The visible Sanctuary turns the return into a strategic morale event: Wuyue and Isgard both answer the title **Petals Monarch**, and Isgard explicitly remembers that the same legend ended the previous war. Severe but recoverable physical and meridian damage can be restored. The dead remain dead. Axtaya-spent lifespan remains spent.
 
 ### Chapter 448 — Aya Watches Another Physician
 Aya sees what Rhen can do and understands that his medicine is beyond hers without making her own Paragon-level healing meaningless. She also confirms that even Rhen's ordinary healing does not casually refund already-consumed lifespan. This preserves the finality of Haru's Redline cost.
 
 ### Chapter 449 — Isgard Stands Again
-Aldric, Maedra and Sigrun regain the recoverable condition needed to stand and fight again. Solveig's wartime command is not erased simply because the Paragons recover; the people who kept Isgard functioning while they were down remain institutionally important.
+Isgard spends the days beneath Sanctuary openly talking about the **Petals Monarch**. Veterans remember the previous war from the opposite side; younger soldiers know the same ending from stories and training halls. The title carries old fear, reluctant respect and new relief because the man who ended Isgard's last war has returned by healing Isgard. Aldric, Maedra and Sigrun regain the recoverable condition needed to stand and fight again. Solveig's wartime command is not erased simply because the Paragons recover; the people who kept Isgard functioning while they were down remain institutionally important.
 
 ### Chapter 450 — Rhen Does Not Take Command
 The room naturally turns toward the strongest person alive. Rhen turns to Sera and Jin instead and asks for the plan. Sera remains the central political/martial protagonist of her own organization; Jin remains the alliance strategist. Rhen joins the existing machine rather than replacing it.
