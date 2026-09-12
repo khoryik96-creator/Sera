@@ -424,7 +424,7 @@ That produced more confusion than the retirement.
 
 [[speaker:liang]]Liang Yue, standing beside the second pillar, muttered, “Terrible idea.”
 
-Kael looked at him.
+Kael looked at her.
 
 [[speaker:kael]]“You invited yourself.”
 
@@ -516,7 +516,7 @@ Kael looked down.
 
 [[speaker:kael]]“And yet?”
 
-Liang adjusted one of his three cloaks.
+Liang adjusted one of her three cloaks.
 
 [[speaker:liang]]“Someone needs to stop you eating poisonous roadside mushrooms.”
 
