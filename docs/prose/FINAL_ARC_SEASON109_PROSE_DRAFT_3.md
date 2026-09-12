@@ -602,7 +602,67 @@ Another broken by a Transcended art.
 
 The war stopped.
 
-One old Isgard shieldman answered a younger lancer's question by telling him the stories had made the Petals Monarch smaller, not larger.
+One old Isgard shieldman sat outside a hospital tent while a younger lancer worked up the courage to ask him what everyone else had been asking for three days.
+
+“Were you really there?”
+
+The shieldman kept oiling the rim of his battered shield.
+
+“I was.”
+
+“Did he actually punch through a Paragon?”
+
+“Yes.”
+
+“Just like that?”
+
+The old man looked up.
+
+“No.”
+
+The lancer leaned closer.
+
+The shieldman smiled without humor.
+
+“Faster.”
+
+The younger man looked through the open tent flap at frost-white petals drifting over rows of recovering soldiers.
+
+“The stories make him sound terrifying.”
+
+“The stories made him smaller.”
+
+A second veteran on the next cot snorted.
+
+“You hated him last time.”
+
+“I hated losing.”
+
+“You cursed his title for a month.”
+
+“I was injured and creative.”
+
+The younger lancer laughed.
+
+Then his expression softened.
+
+“And now?”
+
+The old shieldman looked toward the bed behind him, where his own son was breathing cleanly for the first time in weeks.
+
+“Now I can hate the memory and be grateful to the man. I'm old enough to manage two thoughts.”
+
+A Wuyue veteran passing with a bowl of broth overheard him.
+
+“That's the Petals Monarch problem.”
+
+The shieldman looked over.
+
+“What problem?”
+
+The Wuyue veteran kept walking.
+
+“Eventually you stop trying to make him fit anything sensible.”
 
 That answer traveled almost as quickly as the title itself.
 
@@ -615,6 +675,78 @@ History had not become friendship.
 It had become context.
 
 The man who ended Isgard's last war had returned to Isgard by healing it.
+
+At a mess line two streets away, a young Isgard soldier asked the question for the fourth time that morning.
+
+“That's really him?”
+
+The cook did not look up.
+
+“Yes.”
+
+“The actual Petals Monarch?”
+
+“Yes.”
+
+“The one from the last war?”
+
+The cook put down the ladle.
+
+“Boy, if you ask me again, I am putting you back in the hospital.”
+
+The soldier accepted his bowl.
+
+“I just keep expecting somebody to say the rumor was wrong.”
+
+A Wuyue veteran behind him snorted.
+
+“First time?”
+
+The Isgard soldier turned.
+
+“Seeing him? Yes.”
+
+“You get used to the face.”
+
+“What about the rest?”
+
+The veteran looked up at the Sanctuary.
+
+“No.”
+
+Someone farther down the queue called, “Is he really as strong as they say?”
+
+The Wuyue veteran answered without raising his voice.
+
+“No.”
+
+The queue went quiet.
+
+He took his bowl from the cook.
+
+“He's worse.”
+
+The quiet lasted one heartbeat.
+
+Then half the line started talking at once.
+
+“Worse how?”
+
+“What does that mean?”
+
+“Did you actually see him fight?”
+
+“Was the mountain story true?”
+
+“Which mountain story?”
+
+“There are several?”
+
+The Wuyue veteran closed his eyes.
+
+The cook started laughing.
+
+For the first time in months, the loudest thing in that street was not a casualty cart.
 
 Then Aldric Veyrhald woke angry.
 
