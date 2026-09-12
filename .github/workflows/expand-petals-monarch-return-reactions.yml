@@ -1,0 +1,59 @@
+name: Expand Petals Monarch Return Reactions
+
+on:
+  push:
+    branches:
+      - story/petals-monarch-return-reactions
+
+permissions:
+  contents: write
+
+jobs:
+  expand-and-validate:
+    if: ${{ !contains(github.event.head_commit.message, '[return-reactions-done]') }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }}
+          fetch-depth: 0
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: npm
+
+      - name: Apply story expansion
+        run: node scripts/expand-petals-monarch-return-reactions.mjs
+
+      - name: Remove one-shot tooling
+        run: |
+          rm scripts/expand-petals-monarch-return-reactions.mjs
+          rm .github/workflows/expand-petals-monarch-return-reactions.yml
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Refresh dialogue audit
+        run: npm run audit:dialogue
+
+      - name: Validate
+        run: |
+          npm run prepare:data
+          npm test
+          npm run quality
+          npm run build
+          npm run budget:perf
+          npm run build:single
+          git diff --check
+
+      - name: Commit expanded return
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git diff --cached --check
+          git commit -m "Expand Petals Monarch battlefield reactions [return-reactions-done]"
+          git push origin HEAD:${{ github.ref_name }}
