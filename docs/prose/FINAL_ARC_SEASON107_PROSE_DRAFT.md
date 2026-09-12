@@ -24,7 +24,7 @@ A cruel choice.
 
 Liang Yue chose neither.
 
-He simply used less.
+She simply used less.
 
 Nao saw it in the first minute.
 
@@ -32,11 +32,11 @@ White Vein circulation became narrower.
 
 Cleaner.
 
-No attempt to reproduce his opening output.
+No attempt to reproduce her opening output.
 
 No ego.
 
-His body accepted that eighty percent now was better than damaging himself trying to pretend one hundred still existed.
+Her body accepted that eighty percent now was better than damaging herself trying to pretend one hundred still existed.
 
 Nao’s eyes narrowed.
 
@@ -50,17 +50,17 @@ They were not fighting for a knockout. Nao held a broad retreat-control field ov
 
 Liang’s assignment was to extract nearly three thousand wounded Wuyue and Isgard personnel from a corridor that was becoming untenable.
 
-He did not need to beat her.
+She did not need to beat her.
 
-He needed her not to stop the evacuation.
+She needed her not to stop the evacuation.
 
-Stillwater reduced his explosive qinggong.
+Stillwater reduced her explosive qinggong.
 
-He stopped using explosive qinggong.
+She stopped using explosive qinggong.
 
 Stillwater made large techniques require too much circulation.
 
-He stopped using large techniques.
+She stopped using large techniques.
 
 White Vein became surgical.
 
@@ -80,17 +80,17 @@ Light precise cuts flowed around a stronger guard.
 
 Liang did not produce a stronger guard.
 
-He gave her less structure to flow around.
+She gave her less structure to flow around.
 
-One blade line passed his sleeve.
+One blade line passed her sleeve.
 
-Second he redirected with the smallest possible wrist movement.
+Second she redirected with the smallest possible wrist movement.
 
 Third opened a shallow cut.
 
-He ignored it.
+She ignored it.
 
-Behind him, casualty wagons moved.
+Behind her, casualty wagons moved.
 
 Hundreds already clear.
 
@@ -118,7 +118,7 @@ The war had made enemies out of two cultivators spending most of their talent mi
 
 Liang found that absurd.
 
-[[speaker:liang]]“Do you believe in this invasion?” he asked.
+[[speaker:liang]]“Do you believe in this invasion?” she asked.
 
 Nao’s sword stopped for less than a breath.
 
@@ -132,7 +132,7 @@ Nao attacked again.
 
 Liang yielded another five percent of output instead of forcing it back.
 
-His technique quality barely changed.
+Her technique quality barely changed.
 
 Nao understood the problem.
 
@@ -140,7 +140,7 @@ Stillwater was working.
 
 Liang was simply too disciplined to make the Domain’s penalty dramatic.
 
-That meant she could hold him.
+That meant she could hold her.
 
 Not cheaply defeat him.
 
@@ -156,7 +156,7 @@ Nao could pursue.
 
 Did not.
 
-He looked at her.
+She looked at her.
 
 [[speaker:liang]]“Why?”
 
@@ -178,7 +178,7 @@ Nao looked irritated.
 
 [[speaker:nao]]“Stop grading me.”
 
-He smiled and withdrew.
+She smiled and withdrew.
 
 Later, both command reports described the engagement differently.
 

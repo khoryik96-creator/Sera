@@ -526,11 +526,11 @@ Jin nodded.
 
 [[speaker:jin]]“White Vein sends six.”
 
-Liang Yue adjusted one of his unnecessary cloaks.
+Liang Yue adjusted one of her unnecessary cloaks.
 
 [[speaker:liang]]“Appropriate.”
 
-Kael looked at him.
+Kael looked at her.
 
 [[speaker:kael]]“You have three cloaks.”
 
@@ -542,7 +542,7 @@ Kael looked at him.
 
 [[speaker:sera]]Sera said, “Continue before they become married in public.”
 
-Both men turned toward her.
+Both turned toward her.
 
 Jin did not react.
 

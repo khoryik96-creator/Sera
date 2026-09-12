@@ -115,7 +115,7 @@ The third shop should inherit the warm epilogue rhythm established for the Quain
 Recurring visitors may naturally include:
 
 - Kael during his retirement travels;
-- Liang Yue when one of his "coincidental" excursions overlaps Kael's;
+- Liang Yue when one of her "coincidental" excursions overlaps Kael's;
 - Arin while visiting Qin Luo;
 - Hana as she increasingly visits Yurushi and rekindles their relationship;
 - Tae and Huo, who remain Tae and Huo;
