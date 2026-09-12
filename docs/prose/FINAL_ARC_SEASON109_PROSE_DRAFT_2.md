@@ -466,7 +466,7 @@ He had never seen Rhen's face.
 
 He did not need to.
 
-Five years earlier, Wuyue had returned from this same continent carrying a story every soldier knew. Sera had held two Paragons until **Orchid Dominion** broke. Then one man had crossed the wreckage of both Domains, punched through one Paragon, broken the other with **Meridian Bloom**, and ended the final battle while frozen petals filled the field.
+After the previous Isgard war, Wuyue had returned from this same continent carrying a story every soldier knew. Sera had held two Paragons until **Orchid Dominion** broke. Then one man had crossed the wreckage of both Domains, punched through one Paragon, broken the other with **Meridian Bloom**, and ended the final battle while frozen petals filled the field.
 
 The stretcher bearer looked up at the ridge.
 
@@ -480,7 +480,7 @@ The veteran turned toward the petal.
 
 His expression changed before he ever found the man on the ridge.
 
-Isgard had spent five years arguing about the last war—about Duskvein, Wuyue, law, pride, invasion and blame.
+Isgard had spent the years since arguing about the last war—about Duskvein, Wuyue, law, pride, invasion and blame.
 
 It did not argue about how the war ended.
 
@@ -592,7 +592,7 @@ The sound traveled through the camp like a pulse.
 
 Isgard heard it next.
 
-Some of those soldiers had fought Wuyue five years earlier. Some had carried wounded away from the battlefield where the Petals Monarch ended the last war. Some were too young to have been there and knew the story only because older fighters never agreed on anything except the ending.
+Some of those soldiers had fought Wuyue in the previous war. Some had carried wounded away from the battlefield where the Petals Monarch ended the last war. Some were too young to have been there and knew the story only because older fighters never agreed on anything except the ending.
 
 They did not need an explanation now.
 

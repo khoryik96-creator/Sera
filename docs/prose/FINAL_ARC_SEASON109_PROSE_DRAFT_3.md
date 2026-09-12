@@ -606,7 +606,7 @@ One old Isgard shieldman answered a younger lancer's question by telling him the
 
 That answer traveled almost as quickly as the title itself.
 
-Five years earlier, many Isgard soldiers had said Petals Monarch with anger.
+During the previous war, many Isgard soldiers had said Petals Monarch with anger.
 
 Now they said it while waking beneath repaired roofs, testing limbs that should still have been broken and watching their own Paragons prepare to stand again.
 
