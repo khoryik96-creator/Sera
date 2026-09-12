@@ -1,0 +1,66 @@
+name: Young Soldier Petals Monarch Beat
+
+on:
+  push:
+    branches:
+      - story/petals-monarch-young-soldier
+
+permissions:
+  contents: write
+
+jobs:
+  apply-and-validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: story/petals-monarch-young-soldier
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+      - name: Apply young soldier comeback beat
+        run: python scripts/tmp_add_young_soldier_return.py
+      - name: Install dependencies
+        run: npm ci
+      - name: Refresh dialogue audit
+        run: npm run audit:dialogue
+      - name: Sync dialogue README counts
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import re
+          season = Path('docs/dialogue-audit/season-109.md').read_text()
+          m = re.search(r'\n(\d+) quoted lines in this season', season)
+          if not m:
+              raise SystemExit('season 109 count not found')
+          count = int(m.group(1))
+          p = Path('docs/dialogue-audit/README.md')
+          s = p.read_text()
+          s = re.sub(r'(\| Season 109 \| )\d+( \|)', rf'\g<1>{count}\2', s)
+          counts = [int(x) for x in re.findall(r'\| Season \d+ \| (\d+) \|', s)]
+          total = sum(counts)
+          s = re.sub(r'The result is that \*\*\d+ quoted lines now have no speaker name\.\*\*', f'The result is that **{total} quoted lines now have no speaker name.**', s)
+          s = re.sub(r'\| \*\*Total\*\* \| \*\*\d+\*\* \|', f'| **Total** | **{total}** |', s)
+          p.write_text(s)
+          print(f'Season 109 neutral dialogue: {count}; total: {total}')
+          PY
+      - name: Validate
+        run: |
+          npm run prepare:data
+          npm test
+          npm run quality
+          npm run build
+          git diff --check
+      - name: Remove one-shot tooling
+        run: |
+          rm scripts/tmp_add_young_soldier_return.py
+          rm .github/workflows/tmp-young-soldier-return.yml
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/prose/FINAL_ARC_SEASON109_PROSE_DRAFT_2.md docs/dialogue-audit/README.md docs/dialogue-audit/season-109.md test/petalsMonarchReturn.test.ts scripts/tmp_add_young_soldier_return.py .github/workflows/tmp-young-soldier-return.yml
+          git commit -m "Add young soldier Petals Monarch return beat"
+          git push origin HEAD:story/petals-monarch-young-soldier
