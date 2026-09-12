@@ -22,6 +22,9 @@ describe('Petals Monarch Isgard return', () => {
     expect(part2).toContain('Everyone knows!');
     expect(part2).toContain('Then tell them again.');
     expect(part2).toContain('To beat us before he woke up.');
+    expect(part2).toContain('Who is that?');
+    expect(part2).toContain("Because that's the Petals Monarch.");
+    expect(part2).toContain('We are in for a ride.');
     expect(part2).toContain('Today they think we have to survive him.');
     expect(part2).toContain('One planned advance horn was quietly cancelled.');
     expect(part2).toContain('No accepted rank.');

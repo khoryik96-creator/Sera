@@ -1,6 +1,6 @@
 # Season 109 — unattributed dialogue
 
-194 quoted lines in this season have no speaker.
+204 quoted lines in this season have no speaker.
 See `README.md` in this folder for what to do with them.
 
 Lines already resolved show their speaker in `[brackets]` for context.
@@ -135,6 +135,86 @@ Her hand tightened around the hilt at her hip.
 “No.”
 Her hand tightened around the hilt at her hip.
 >>> “For yourself. You don't sit through this.”   <-- WHO SAYS THIS?
+One of the youngest Wuyue soldiers leaned around the wagon and finally found the man coming down from the ridge.
+Faded dark-green coat.
+```
+```
+No escort.
+Only frozen petals.
+The recruit stared.
+>>> “Who is that?”   <-- WHO SAYS THIS?
+The Silver Horizon veteran turned to him.
+For weeks, the young soldier had known her as a woman who rationed words, sleep and smiles with equal cruelty.
+```
+```
+Now her face split into the first real grin he had ever seen on her.
+Not relief.
+Excitement.
+>>> “Boy.”   <-- WHO SAYS THIS?
+The recruit blinked.
+“What?”
+```
+```
+Excitement.
+“Boy.”
+The recruit blinked.
+>>> “What?”   <-- WHO SAYS THIS?
+“You joined this army at a very good time.”
+He looked from her to the lone man on the ridge.
+```
+```
+“Boy.”
+The recruit blinked.
+“What?”
+>>> “You joined this army at a very good time.”   <-- WHO SAYS THIS?
+He looked from her to the lone man on the ridge.
+“Why?”
+```
+```
+“What?”
+“You joined this army at a very good time.”
+He looked from her to the lone man on the ridge.
+>>> “Why?”   <-- WHO SAYS THIS?
+The veteran drew her sword.
+“Because that's the Petals Monarch.”
+```
+```
+He looked from her to the lone man on the ridge.
+“Why?”
+The veteran drew her sword.
+>>> “Because that's the Petals Monarch.”   <-- WHO SAYS THIS?
+The recruit froze.
+“The one from the stories?”
+```
+```
+The veteran drew her sword.
+“Because that's the Petals Monarch.”
+The recruit froze.
+>>> “The one from the stories?”   <-- WHO SAYS THIS?
+The veteran laughed.
+“No. The one the stories couldn't keep up with.”
+```
+```
+The recruit froze.
+“The one from the stories?”
+The veteran laughed.
+>>> “No. The one the stories couldn't keep up with.”   <-- WHO SAYS THIS?
+She rested the sword against her shoulder and looked north, toward Shinsei.
+“Boy...”
+```
+```
+The veteran laughed.
+“No. The one the stories couldn't keep up with.”
+She rested the sword against her shoulder and looked north, toward Shinsei.
+>>> “Boy...”   <-- WHO SAYS THIS?
+Her grin widened.
+“We are in for a ride.”
+```
+```
+She rested the sword against her shoulder and looked north, toward Shinsei.
+“Boy...”
+Her grin widened.
+>>> “We are in for a ride.”   <-- WHO SAYS THIS?
 An Isgard veteran heard them.
 The veteran turned toward the petal.
 ```

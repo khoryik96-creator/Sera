@@ -516,6 +516,64 @@ Her hand tightened around the hilt at her hip.
 
 “For yourself. You don't sit through this.”
 
+One of the youngest Wuyue soldiers leaned around the wagon and finally found the man coming down from the ridge.
+
+Faded dark-green coat.
+
+Black hair moving in the cold.
+
+No banner.
+
+No escort.
+
+Only frozen petals.
+
+The recruit stared.
+
+“Who is that?”
+
+The Silver Horizon veteran turned to him.
+
+For weeks, the young soldier had known her as a woman who rationed words, sleep and smiles with equal cruelty.
+
+Now her face split into the first real grin he had ever seen on her.
+
+Not relief.
+
+Excitement.
+
+“Boy.”
+
+The recruit blinked.
+
+“What?”
+
+“You joined this army at a very good time.”
+
+He looked from her to the lone man on the ridge.
+
+“Why?”
+
+The veteran drew her sword.
+
+“Because that's the Petals Monarch.”
+
+The recruit froze.
+
+“The one from the stories?”
+
+The veteran laughed.
+
+“No. The one the stories couldn't keep up with.”
+
+She rested the sword against her shoulder and looked north, toward Shinsei.
+
+“Boy...”
+
+Her grin widened.
+
+“We are in for a ride.”
+
 An Isgard veteran heard them.
 
 The veteran turned toward the petal.
