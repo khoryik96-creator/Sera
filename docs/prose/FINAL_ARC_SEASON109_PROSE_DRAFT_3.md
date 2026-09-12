@@ -574,7 +574,49 @@ That was exactly what he wanted.
 
 ## Chapter 449 — Isgard Stands Again
 
-Aldric Veyrhald woke angry.
+For three days, Isgard talked about the same person.
+
+Not Rhen.
+
+The Petals Monarch.
+
+The name moved through mess lines, bridge crews, hospital queues and night watches with the peculiar certainty reserved for things people had once believed were already history.
+
+Older soldiers remembered the previous Wuyue war directly.
+
+Some had fought beneath banners that opposed him.
+
+Some had carried wounded from the final battlefield after Sera's Domain fell and the two Paragons facing her discovered that the ranking system had no useful place to put the man who stepped in next.
+
+Younger soldiers knew the same scene from veterans, academy lectures and arguments around winter fires.
+
+Details changed depending on who told it.
+
+The ending never did.
+
+Frozen petals.
+
+One Paragon punched through.
+
+Another broken by a Transcended art.
+
+The war stopped.
+
+One old Isgard shieldman answered a younger lancer's question by telling him the stories had made the Petals Monarch smaller, not larger.
+
+That answer traveled almost as quickly as the title itself.
+
+Five years earlier, many Isgard soldiers had said Petals Monarch with anger.
+
+Now they said it while waking beneath repaired roofs, testing limbs that should still have been broken and watching their own Paragons prepare to stand again.
+
+History had not become friendship.
+
+It had become context.
+
+The man who ended Isgard's last war had returned to Isgard by healing it.
+
+Then Aldric Veyrhald woke angry.
 
 This reassured everyone.
 
