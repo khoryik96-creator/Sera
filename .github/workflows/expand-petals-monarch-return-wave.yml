@@ -1,0 +1,107 @@
+name: Expand Petals Monarch Return Wave
+
+on:
+  push:
+    branches:
+      - story/petals-monarch-return-reactions
+    paths:
+      - .github/workflows/expand-petals-monarch-return-wave.yml
+
+permissions:
+  contents: write
+
+jobs:
+  expand-and-validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          ref: story/petals-monarch-return-reactions
+          fetch-depth: 0
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: npm
+
+      - name: Apply living battlefield reaction expansion
+        run: python .github/scripts/expand-return-wave.py
+
+      - name: Remove one-shot tooling
+        run: |
+          rm .github/scripts/expand-return-wave.py
+          rm .github/workflows/expand-petals-monarch-return-wave.yml
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Refresh dialogue audit
+        run: npm run audit:dialogue
+
+      - name: Synchronize dialogue README counts
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import re
+
+          readme_path = Path('docs/dialogue-audit/README.md')
+          readme = readme_path.read_text()
+          counts = {}
+          for season in range(95, 115):
+              p = Path(f'docs/dialogue-audit/season-{season:03d}.md')
+              first = p.read_text().splitlines()[2]
+              m = re.match(r'(\d+) quoted lines', first)
+              if not m:
+                  raise SystemExit(f'Cannot parse {p}: {first!r}')
+              counts[season] = int(m.group(1))
+
+          for season, count in counts.items():
+              readme = re.sub(
+                  rf'\| Season {season} \| \d+ \|',
+                  f'| Season {season} | {count} |',
+                  readme,
+                  count=1,
+              )
+
+          total = sum(counts.values())
+          readme = re.sub(
+              r'The result is that \*\*\d+ quoted lines now have no speaker name\.\*\*',
+              f'The result is that **{total} quoted lines now have no speaker name.**',
+              readme,
+              count=1,
+          )
+          readme = re.sub(
+              r'\| \*\*Total\*\* \| \*\*\d+\*\* \|',
+              f'| **Total** | **{total}** |',
+              readme,
+              count=1,
+          )
+          readme_path.write_text(readme)
+          print(f'Synchronized dialogue audit total: {total}')
+          PY
+
+      - name: Validate
+        run: |
+          npm run prepare:data
+          npm test
+          npm run quality
+          npm run build
+          npm run budget:perf
+          npm run build:single
+          git diff --check
+
+      - name: Commit expansion
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/prose/FINAL_ARC_SEASON109_PROSE_DRAFT_2.md \
+                  docs/prose/FINAL_ARC_SEASON109_PROSE_DRAFT_3.md \
+                  docs/dialogue-audit/README.md \
+                  docs/dialogue-audit/season-109.md \
+                  test/petalsMonarchReturn.test.ts \
+                  .github/scripts/expand-return-wave.py \
+                  .github/workflows/expand-petals-monarch-return-wave.yml
+          git commit -m "Make Petals Monarch return spread through the armies"
+          git push origin HEAD:story/petals-monarch-return-reactions
