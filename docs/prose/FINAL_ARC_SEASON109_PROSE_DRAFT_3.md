@@ -602,7 +602,67 @@ Another broken by a Transcended art.
 
 The war stopped.
 
-One old Isgard shieldman answered a younger lancer's question by telling him the stories had made the Petals Monarch smaller, not larger.
+One old Isgard shieldman sat outside a hospital tent while a younger lancer worked up the courage to ask him what everyone else had been asking for three days.
+
+“Were you really there?”
+
+The shieldman kept oiling the rim of his battered shield.
+
+“I was.”
+
+“Did he actually punch through a Paragon?”
+
+“Yes.”
+
+“Just like that?”
+
+The old man looked up.
+
+“No.”
+
+The lancer leaned closer.
+
+The shieldman smiled without humor.
+
+“Faster.”
+
+The younger man looked through the open tent flap at frost-white petals drifting over rows of recovering soldiers.
+
+“The stories make him sound terrifying.”
+
+“The stories made him smaller.”
+
+A second veteran on the next cot snorted.
+
+“You hated him last time.”
+
+“I hated losing.”
+
+“You cursed his title for a month.”
+
+“I was injured and creative.”
+
+The younger lancer laughed.
+
+Then his expression softened.
+
+“And now?”
+
+The old shieldman looked toward the bed behind him, where his own son was breathing cleanly for the first time in weeks.
+
+“Now I can hate the memory and be grateful to the man. I'm old enough to manage two thoughts.”
+
+A Wuyue veteran passing with a bowl of broth overheard him.
+
+“That's the Petals Monarch problem.”
+
+The shieldman looked over.
+
+“What problem?”
+
+The Wuyue veteran kept walking.
+
+“Eventually you stop trying to make him fit anything sensible.”
 
 That answer traveled almost as quickly as the title itself.
 

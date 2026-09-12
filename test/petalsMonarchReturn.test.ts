@@ -17,7 +17,9 @@ describe('Petals Monarch Isgard return', () => {
     expect(part2).toContain('Wuyue shouted first. Isgard answered almost immediately.');
     expect(part2).toContain('morale was also a battlefield resource');
     expect(part2).toContain('Shinsei heard it too.');
+    expect(part2).toContain('One planned advance horn was quietly cancelled.');
     expect(part2).toContain('No accepted rank.');
+    expect(part2).toContain('THE PETALS MONARCH IS ACTIVE.');
     expect(part2).toContain("[[speaker:sera]]“He's here.”");
   });
 
@@ -28,6 +30,7 @@ describe('Petals Monarch Isgard return', () => {
 
   it('makes Isgard remember who ended the previous war', () => {
     expect(part3).toContain('Not Rhen.\n\nThe Petals Monarch.');
+    expect(part3).toContain('The stories made him smaller.');
     expect(part3).toContain("The man who ended Isgard's last war had returned to Isgard by healing it.");
     expect(seasonMap).toContain('the legendary figure who ended the previous Isgard war');
   });
