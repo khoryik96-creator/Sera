@@ -16,6 +16,8 @@ describe('Petals Monarch Isgard return', () => {
   it('turns the return into a Wuyue and Isgard morale event', () => {
     expect(part2).toContain('Wuyue shouted first. Isgard answered almost immediately.');
     expect(part2).toContain('morale was also a battlefield resource');
+    expect(part2).toContain('Shinsei heard it too.');
+    expect(part2).toContain('No accepted rank.');
     expect(part2).toContain("[[speaker:sera]]“He's here.”");
   });
 

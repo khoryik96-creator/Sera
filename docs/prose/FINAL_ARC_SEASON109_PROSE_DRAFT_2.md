@@ -720,6 +720,50 @@ It came from Wuyue first.
 
 Isgard answered.
 
+Shinsei heard it too.
+
+Forward observation posts had spent six months learning the sounds of the Wuyue–Isgard rear: evacuation horns, rotation bells, casualty wagons, exhausted formations changing watch.
+
+This was none of them.
+
+At first, Shinsei officers assumed another army had arrived.
+
+Then the first scout report came back.
+
+Frost-white petals.
+
+Pale violet beneath the ice.
+
+No banner.
+
+No formation source.
+
+A veteran intelligence officer read the report twice and stopped asking how many reinforcements had landed.
+
+He knew the title.
+
+Petals Monarch.
+
+For six months Shinsei had measured the people opposing it. Sera. Tae. Huo. Qin. Kael. Isgard's surviving Paragons. Every one of them had a file, a cultivation estimate, a known limit and a plan built around that limit.
+
+The Petals Monarch had a file too.
+
+The useful part was very short.
+
+No accepted rank.
+
+No verified upper limit.
+
+Last decisive appearance in Isgard: two hostile Paragons defeated after Orchid Dominion collapsed. War ended.
+
+Across the northern line, Shinsei signal flags changed.
+
+Not retreat.
+
+Recalculation.
+
+Behind them, the allied roar grew louder.
+
 Jin stopped speaking.
 
 Solveig's head turned toward the canvas wall.

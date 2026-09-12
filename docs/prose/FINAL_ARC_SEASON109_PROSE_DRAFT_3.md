@@ -388,7 +388,7 @@ Rhen looked toward the nearest hospital row.
 
 [[speaker:rhen]]“You treated people because they were in front of you.”
 
-[[speaker:rhen]]“Yes.”
+[[speaker:aya]]“Yes.”
 
 [[speaker:rhen]]“Even when you hated why they were hurt.”
 
