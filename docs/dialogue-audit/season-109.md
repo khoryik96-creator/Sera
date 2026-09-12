@@ -1,6 +1,6 @@
 # Season 109 — unattributed dialogue
 
-118 quoted lines in this season have no speaker.
+194 quoted lines in this season have no speaker.
 See `README.md` in this folder for what to do with them.
 
 Lines already resolved show their speaker in `[brackets]` for context.
@@ -208,7 +208,79 @@ The lancer looked from the petal to the allied hospital tents.
 The veteran finally smiled.
 >>> “Now they're falling on our side.”   <-- WHO SAYS THIS?
 Petals Monarch.
+A Wuyue runner came around the hospital corner at speed and nearly collided with the stretcher team.
+```
+```
+“Now they're falling on our side.”
+Petals Monarch.
+A Wuyue runner came around the hospital corner at speed and nearly collided with the stretcher team.
+>>> “What happened?”   <-- WHO SAYS THIS?
+The stretcher bearer pointed at the petal on his spear.
+The runner stopped.
+```
+```
+The runner stopped.
+For one heartbeat he simply stared.
+Then he grabbed the nearest orderly by both shoulders.
+>>> “West reserve.”   <-- WHO SAYS THIS?
+The orderly blinked.
+“What?”
+```
+```
+Then he grabbed the nearest orderly by both shoulders.
+“West reserve.”
+The orderly blinked.
+>>> “What?”   <-- WHO SAYS THIS?
+“Go to west reserve. Tell them the Petals Monarch is back.”
+The orderly looked at the petal.
+```
+```
+“West reserve.”
+The orderly blinked.
+“What?”
+>>> “Go to west reserve. Tell them the Petals Monarch is back.”   <-- WHO SAYS THIS?
+The orderly looked at the petal.
+“Confirmed?”
+```
+```
+“What?”
+“Go to west reserve. Tell them the Petals Monarch is back.”
+The orderly looked at the petal.
+>>> “Confirmed?”   <-- WHO SAYS THIS?
+The runner almost laughed.
+“Look at the sky.”
+```
+```
+The orderly looked at the petal.
+“Confirmed?”
+The runner almost laughed.
+>>> “Look at the sky.”   <-- WHO SAYS THIS?
+The orderly ran.
+The runner turned to the next road.
+```
+```
+“Look at the sky.”
+The orderly ran.
+The runner turned to the next road.
+>>> “North hospital!” he shouted. “Pass it!”   <-- WHO SAYS THIS?
+Someone farther away answered without knowing why yet.
+“Pass what?”
+```
+```
+The runner turned to the next road.
+“North hospital!” he shouted. “Pass it!”
+Someone farther away answered without knowing why yet.
+>>> “Pass what?”   <-- WHO SAYS THIS?
+The reply came from three voices at once.
+“PETALS MONARCH IS BACK!”
+```
+```
+Someone farther away answered without knowing why yet.
+“Pass what?”
+The reply came from three voices at once.
+>>> “PETALS MONARCH IS BACK!”   <-- WHO SAYS THIS?
 The words moved without a courier.
+A Wuyue medical orderly repeated them at the next lane.
 ```
 
 ### Chapter 446 — Sera
@@ -362,8 +434,240 @@ The younger spearman looked at him.
 “And now?”
 The old man raised his spear.
 >>> “Now I think Shinsei should be worried.”   <-- WHO SAYS THIS?
+A Wuyue pikeman on the neighboring road heard him and barked a laugh.
+“They had six months.”
+```
+```
+The old man raised his spear.
+“Now I think Shinsei should be worried.”
+A Wuyue pikeman on the neighboring road heard him and barked a laugh.
+>>> “They had six months.”   <-- WHO SAYS THIS?
+His partner looked over.
+“Six months for what?”
+```
+```
+A Wuyue pikeman on the neighboring road heard him and barked a laugh.
+“They had six months.”
+His partner looked over.
+>>> “Six months for what?”   <-- WHO SAYS THIS?
+“To beat us before he woke up.”
+The partner looked toward the falling petals.
+```
+```
+“They had six months.”
+His partner looked over.
+“Six months for what?”
+>>> “To beat us before he woke up.”   <-- WHO SAYS THIS?
+The partner looked toward the falling petals.
+“They didn't.”
+```
+```
+“Six months for what?”
+“To beat us before he woke up.”
+The partner looked toward the falling petals.
+>>> “They didn't.”   <-- WHO SAYS THIS?
+“No.”
+The pikeman's grin widened.
+```
+```
+“To beat us before he woke up.”
+The partner looked toward the falling petals.
+“They didn't.”
+>>> “No.”   <-- WHO SAYS THIS?
+The pikeman's grin widened.
+“That's their problem now.”
+```
+```
+“They didn't.”
+“No.”
+The pikeman's grin widened.
+>>> “That's their problem now.”   <-- WHO SAYS THIS?
+A messenger came sprinting between the two formations.
+“Command confirmation!”
+```
+```
+The pikeman's grin widened.
+“That's their problem now.”
+A messenger came sprinting between the two formations.
+>>> “Command confirmation!”   <-- WHO SAYS THIS?
+Heads turned.
+The messenger did not slow.
+```
+```
+“Command confirmation!”
+Heads turned.
+The messenger did not slow.
+>>> “PETALS MONARCH IS BACK! PASS IT TO EVERY LINE!”   <-- WHO SAYS THIS?
+A Wuyue soldier cupped both hands around his mouth.
+“EAST LINE!”
+```
+```
+The messenger did not slow.
+“PETALS MONARCH IS BACK! PASS IT TO EVERY LINE!”
+A Wuyue soldier cupped both hands around his mouth.
+>>> “EAST LINE!”   <-- WHO SAYS THIS?
+Another voice answered from beyond the wagons.
+“WE HEARD!”
+```
+```
+A Wuyue soldier cupped both hands around his mouth.
+“EAST LINE!”
+Another voice answered from beyond the wagons.
+>>> “WE HEARD!”   <-- WHO SAYS THIS?
+“THEN TELL THE NORTH!”
+“THE NORTH ALREADY KNOWS!”
+```
+```
+“EAST LINE!”
+Another voice answered from beyond the wagons.
+“WE HEARD!”
+>>> “THEN TELL THE NORTH!”   <-- WHO SAYS THIS?
+“THE NORTH ALREADY KNOWS!”
+Laughter broke out.
+```
+```
+Another voice answered from beyond the wagons.
+“WE HEARD!”
+“THEN TELL THE NORTH!”
+>>> “THE NORTH ALREADY KNOWS!”   <-- WHO SAYS THIS?
+Laughter broke out.
+It had been weeks since that sound had traveled farther than one campfire.
+```
+```
+Laughter broke out.
+It had been weeks since that sound had traveled farther than one campfire.
+An Isgard officer tried to restore order and failed because he was smiling too.
+>>> “Stop shouting and get into formation!”   <-- WHO SAYS THIS?
+A soldier called back, “Which part?”
+“The formation part!”
+```
+```
+An Isgard officer tried to restore order and failed because he was smiling too.
+“Stop shouting and get into formation!”
+A soldier called back, “Which part?”
+>>> “The formation part!”   <-- WHO SAYS THIS?
+“Can we keep the shouting?”
+The officer looked at the petals.
+```
+```
+“Stop shouting and get into formation!”
+A soldier called back, “Which part?”
+“The formation part!”
+>>> “Can we keep the shouting?”   <-- WHO SAYS THIS?
+The officer looked at the petals.
+“Yes.”
+```
+```
+“The formation part!”
+“Can we keep the shouting?”
+The officer looked at the petals.
+>>> “Yes.”   <-- WHO SAYS THIS?
 That was when the first Isgard weapon struck frozen earth.
 They did not need an explanation now.
+```
+```
+Men and women who had spent weeks measuring every retreat route began looking north instead of south.
+Banners that had hung limp in the evening cold were lifted higher.
+At a forward rest trench, a Wuyue corporal came running down the line without his helmet.
+>>> “Up.”   <-- WHO SAYS THIS?
+Nobody moved.
+One exhausted soldier looked at him from beneath a blanket.
+```
+```
+“Up.”
+Nobody moved.
+One exhausted soldier looked at him from beneath a blanket.
+>>> “We rotate in an hour.”   <-- WHO SAYS THIS?
+“Not for rotation.”
+The corporal pointed south.
+```
+```
+Nobody moved.
+One exhausted soldier looked at him from beneath a blanket.
+“We rotate in an hour.”
+>>> “Not for rotation.”   <-- WHO SAYS THIS?
+The corporal pointed south.
+“He's back.”
+```
+```
+“We rotate in an hour.”
+“Not for rotation.”
+The corporal pointed south.
+>>> “He's back.”   <-- WHO SAYS THIS?
+Silence.
+Then somebody asked the only question that mattered.
+```
+```
+“He's back.”
+Silence.
+Then somebody asked the only question that mattered.
+>>> “Who?”   <-- WHO SAYS THIS?
+The corporal stared at him.
+A frost-white petal drifted into the trench between them.
+```
+```
+One man stood.
+Then another.
+A third soldier started laughing.
+>>> “Six months they kept telling us Wuyue had no answer left.”   <-- WHO SAYS THIS?
+The corporal picked up his helmet.
+“We had an answer.”
+```
+```
+A third soldier started laughing.
+“Six months they kept telling us Wuyue had no answer left.”
+The corporal picked up his helmet.
+>>> “We had an answer.”   <-- WHO SAYS THIS?
+He looked at the petal.
+“He was asleep.”
+```
+```
+The corporal picked up his helmet.
+“We had an answer.”
+He looked at the petal.
+>>> “He was asleep.”   <-- WHO SAYS THIS?
+Across the trench, an Isgard sergeant heard that and shook his head.
+“You people are unbearable.”
+```
+```
+He looked at the petal.
+“He was asleep.”
+Across the trench, an Isgard sergeant heard that and shook his head.
+>>> “You people are unbearable.”   <-- WHO SAYS THIS?
+The Wuyue soldier grinned.
+“You're smiling.”
+```
+```
+Across the trench, an Isgard sergeant heard that and shook his head.
+“You people are unbearable.”
+The Wuyue soldier grinned.
+>>> “You're smiling.”   <-- WHO SAYS THIS?
+“I'm allowed one mistake.”
+“Make it two. Say the title.”
+```
+```
+“You people are unbearable.”
+The Wuyue soldier grinned.
+“You're smiling.”
+>>> “I'm allowed one mistake.”   <-- WHO SAYS THIS?
+“Make it two. Say the title.”
+The sergeant looked north toward Shinsei's lines.
+```
+```
+The Wuyue soldier grinned.
+“You're smiling.”
+“I'm allowed one mistake.”
+>>> “Make it two. Say the title.”   <-- WHO SAYS THIS?
+The sergeant looked north toward Shinsei's lines.
+Then he said it loud enough for both armies to hear.
+```
+```
+“Make it two. Say the title.”
+The sergeant looked north toward Shinsei's lines.
+Then he said it loud enough for both armies to hear.
+>>> “PETALS MONARCH!”   <-- WHO SAYS THIS?
+The trench answered him.
+A stretcher patient heard the title and started laughing until his ribs hurt badly enough for the medic to threaten him.
 ```
 ```
 Forward observation posts had spent six months learning the sounds of the Wuyue–Isgard rear: evacuation horns, rotation bells, casualty wagons, exhausted formations changing watch.
@@ -520,7 +824,55 @@ The roar crossed the valley again.
 ```
 The roar crossed the valley again.
 **PETALS MONARCH.**
+A second Shinsei scout looked toward the allied trenches through a long glass.
+>>> “They're passing it down every line.”   <-- WHO SAYS THIS?
+The lieutenant took the glass.
+Wuyue runners were moving between positions. Isgard soldiers were striking spear shafts into the ground. Men who had spent the previous week sitting whenever they were not ordered to stand were standing without orders now.
+```
+```
+“They're passing it down every line.”
+The lieutenant took the glass.
+Wuyue runners were moving between positions. Isgard soldiers were striking spear shafts into the ground. Men who had spent the previous week sitting whenever they were not ordered to stand were standing without orders now.
+>>> “They were exhausted yesterday.”   <-- WHO SAYS THIS?
+“They're exhausted today.”
+“Then why do they look like that?”
+```
+```
+The lieutenant took the glass.
+Wuyue runners were moving between positions. Isgard soldiers were striking spear shafts into the ground. Men who had spent the previous week sitting whenever they were not ordered to stand were standing without orders now.
+“They were exhausted yesterday.”
+>>> “They're exhausted today.”   <-- WHO SAYS THIS?
+“Then why do they look like that?”
 The veteran closed the file.
+```
+```
+Wuyue runners were moving between positions. Isgard soldiers were striking spear shafts into the ground. Men who had spent the previous week sitting whenever they were not ordered to stand were standing without orders now.
+“They were exhausted yesterday.”
+“They're exhausted today.”
+>>> “Then why do they look like that?”   <-- WHO SAYS THIS?
+The veteran closed the file.
+“Because yesterday they thought they had to survive us.”
+```
+```
+“They're exhausted today.”
+“Then why do they look like that?”
+The veteran closed the file.
+>>> “Because yesterday they thought they had to survive us.”   <-- WHO SAYS THIS?
+He looked toward the petals.
+“Today they think we have to survive him.”
+```
+```
+The veteran closed the file.
+“Because yesterday they thought they had to survive us.”
+He looked toward the petals.
+>>> “Today they think we have to survive him.”   <-- WHO SAYS THIS?
+The junior lieutenant said nothing.
+A cheer rolled across the valley again, clearer this time.
+```
+```
+A cheer rolled across the valley again, clearer this time.
+**PETALS MONARCH IS BACK.**
+The scout swallowed.
 >>> “He's here.”   <-- WHO SAYS THIS?
 Across the northern line, Shinsei signal flags changed.
 Not retreat.
@@ -550,11 +902,67 @@ A laugh broke through the formation.
 The sergeant pointed north with his blade.
 >>> “Then stand up straight. He didn't cross the Black Current to find us looking dead already.”   <-- WHO SAYS THIS?
 The shield line came up as one.
-Across the road, an Isgard veteran stared into the petal-filled sky.
+A runner reached the next Wuyue company already out of breath.
 ```
 ```
 “Then stand up straight. He didn't cross the Black Current to find us looking dead already.”
 The shield line came up as one.
+A runner reached the next Wuyue company already out of breath.
+>>> “Petals Monarch is back!”   <-- WHO SAYS THIS?
+A soldier under a bandaged brow shouted back, “You're late!”
+The runner stopped.
+```
+```
+“Petals Monarch is back!”
+A soldier under a bandaged brow shouted back, “You're late!”
+The runner stopped.
+>>> “What?”   <-- WHO SAYS THIS?
+“We've got eyes!”
+The whole company laughed.
+```
+```
+A soldier under a bandaged brow shouted back, “You're late!”
+The runner stopped.
+“What?”
+>>> “We've got eyes!”   <-- WHO SAYS THIS?
+The whole company laughed.
+Another man slapped the runner on the shoulder.
+```
+```
+“We've got eyes!”
+The whole company laughed.
+Another man slapped the runner on the shoulder.
+>>> “Keep going. Tell the ones who don't.”   <-- WHO SAYS THIS?
+“Everyone knows!”
+“Then tell them again.”
+```
+```
+The whole company laughed.
+Another man slapped the runner on the shoulder.
+“Keep going. Tell the ones who don't.”
+>>> “Everyone knows!”   <-- WHO SAYS THIS?
+“Then tell them again.”
+The runner grinned and took off.
+```
+```
+Another man slapped the runner on the shoulder.
+“Keep going. Tell the ones who don't.”
+“Everyone knows!”
+>>> “Then tell them again.”   <-- WHO SAYS THIS?
+The runner grinned and took off.
+“PETALS MONARCH IS BACK!”
+```
+```
+“Everyone knows!”
+“Then tell them again.”
+The runner grinned and took off.
+>>> “PETALS MONARCH IS BACK!”   <-- WHO SAYS THIS?
+Across the road, an Isgard veteran stared into the petal-filled sky.
+“The last time I saw this,” he said, “I was praying he would stop.”
+```
+```
+The runner grinned and took off.
+“PETALS MONARCH IS BACK!”
 Across the road, an Isgard veteran stared into the petal-filled sky.
 >>> “The last time I saw this,” he said, “I was praying he would stop.”   <-- WHO SAYS THIS?
 A younger soldier beside him grinned despite a split lip.
@@ -694,18 +1102,58 @@ The captain pulled a priority strip from the signal case.
 The signal officer raised his brush.
 >>> “What wording?”   <-- WHO SAYS THIS?
 The captain watched frost-white petals turn the allied sky pale.
-“Exact wording.”
+Below the observation post, two Shinsei infantrymen were listening to the allied noise.
 ```
 ```
-The signal officer raised his brush.
-“What wording?”
-The captain watched frost-white petals turn the allied sky pale.
+Below the observation post, two Shinsei infantrymen were listening to the allied noise.
+One muttered, “They sound different.”
+The other kept his eyes on the distant shields.
+>>> “They are different.”   <-- WHO SAYS THIS?
+“They were breaking.”
+“They were bending.”
+```
+```
+One muttered, “They sound different.”
+The other kept his eyes on the distant shields.
+“They are different.”
+>>> “They were breaking.”   <-- WHO SAYS THIS?
+“They were bending.”
+“What's the difference?”
+```
+```
+The other kept his eyes on the distant shields.
+“They are different.”
+“They were breaking.”
+>>> “They were bending.”   <-- WHO SAYS THIS?
+“What's the difference?”
+The second soldier looked up at thirty miles of winter.
+```
+```
+“They are different.”
+“They were breaking.”
+“They were bending.”
+>>> “What's the difference?”   <-- WHO SAYS THIS?
+The second soldier looked up at thirty miles of winter.
+“That.”
+```
+```
+“They were bending.”
+“What's the difference?”
+The second soldier looked up at thirty miles of winter.
+>>> “That.”   <-- WHO SAYS THIS?
+The captain heard them.
+He did not correct either man.
+```
+```
+“That.”
+The captain heard them.
+He did not correct either man.
 >>> “Exact wording.”   <-- WHO SAYS THIS?
 He waited until the officer was ready.
 “THE PETALS MONARCH IS ACTIVE.”
 ```
 ```
-The captain watched frost-white petals turn the allied sky pale.
+He did not correct either man.
 “Exact wording.”
 He waited until the officer was ready.
 >>> “THE PETALS MONARCH IS ACTIVE.”   <-- WHO SAYS THIS?
@@ -890,6 +1338,166 @@ The Wuyue veteran kept walking.
 >>> “Eventually you stop trying to make him fit anything sensible.”   <-- WHO SAYS THIS?
 That answer traveled almost as quickly as the title itself.
 During the previous war, many Isgard soldiers had said Petals Monarch with anger.
+```
+```
+It had become context.
+The man who ended Isgard's last war had returned to Isgard by healing it.
+At a mess line two streets away, a young Isgard soldier asked the question for the fourth time that morning.
+>>> “That's really him?”   <-- WHO SAYS THIS?
+The cook did not look up.
+“Yes.”
+```
+```
+At a mess line two streets away, a young Isgard soldier asked the question for the fourth time that morning.
+“That's really him?”
+The cook did not look up.
+>>> “Yes.”   <-- WHO SAYS THIS?
+“The actual Petals Monarch?”
+“Yes.”
+```
+```
+“That's really him?”
+The cook did not look up.
+“Yes.”
+>>> “The actual Petals Monarch?”   <-- WHO SAYS THIS?
+“Yes.”
+“The one from the last war?”
+```
+```
+The cook did not look up.
+“Yes.”
+“The actual Petals Monarch?”
+>>> “Yes.”   <-- WHO SAYS THIS?
+“The one from the last war?”
+The cook put down the ladle.
+```
+```
+“Yes.”
+“The actual Petals Monarch?”
+“Yes.”
+>>> “The one from the last war?”   <-- WHO SAYS THIS?
+The cook put down the ladle.
+“Boy, if you ask me again, I am putting you back in the hospital.”
+```
+```
+“Yes.”
+“The one from the last war?”
+The cook put down the ladle.
+>>> “Boy, if you ask me again, I am putting you back in the hospital.”   <-- WHO SAYS THIS?
+The soldier accepted his bowl.
+“I just keep expecting somebody to say the rumor was wrong.”
+```
+```
+The cook put down the ladle.
+“Boy, if you ask me again, I am putting you back in the hospital.”
+The soldier accepted his bowl.
+>>> “I just keep expecting somebody to say the rumor was wrong.”   <-- WHO SAYS THIS?
+A Wuyue veteran behind him snorted.
+“First time?”
+```
+```
+The soldier accepted his bowl.
+“I just keep expecting somebody to say the rumor was wrong.”
+A Wuyue veteran behind him snorted.
+>>> “First time?”   <-- WHO SAYS THIS?
+The Isgard soldier turned.
+“Seeing him? Yes.”
+```
+```
+A Wuyue veteran behind him snorted.
+“First time?”
+The Isgard soldier turned.
+>>> “Seeing him? Yes.”   <-- WHO SAYS THIS?
+“You get used to the face.”
+“What about the rest?”
+```
+```
+“First time?”
+The Isgard soldier turned.
+“Seeing him? Yes.”
+>>> “You get used to the face.”   <-- WHO SAYS THIS?
+“What about the rest?”
+The veteran looked up at the Sanctuary.
+```
+```
+The Isgard soldier turned.
+“Seeing him? Yes.”
+“You get used to the face.”
+>>> “What about the rest?”   <-- WHO SAYS THIS?
+The veteran looked up at the Sanctuary.
+“No.”
+```
+```
+“You get used to the face.”
+“What about the rest?”
+The veteran looked up at the Sanctuary.
+>>> “No.”   <-- WHO SAYS THIS?
+Someone farther down the queue called, “Is he really as strong as they say?”
+The Wuyue veteran answered without raising his voice.
+```
+```
+“No.”
+Someone farther down the queue called, “Is he really as strong as they say?”
+The Wuyue veteran answered without raising his voice.
+>>> “No.”   <-- WHO SAYS THIS?
+The queue went quiet.
+He took his bowl from the cook.
+```
+```
+“No.”
+The queue went quiet.
+He took his bowl from the cook.
+>>> “He's worse.”   <-- WHO SAYS THIS?
+The quiet lasted one heartbeat.
+Then half the line started talking at once.
+```
+```
+“He's worse.”
+The quiet lasted one heartbeat.
+Then half the line started talking at once.
+>>> “Worse how?”   <-- WHO SAYS THIS?
+“What does that mean?”
+“Did you actually see him fight?”
+```
+```
+The quiet lasted one heartbeat.
+Then half the line started talking at once.
+“Worse how?”
+>>> “What does that mean?”   <-- WHO SAYS THIS?
+“Did you actually see him fight?”
+“Was the mountain story true?”
+```
+```
+Then half the line started talking at once.
+“Worse how?”
+“What does that mean?”
+>>> “Did you actually see him fight?”   <-- WHO SAYS THIS?
+“Was the mountain story true?”
+“Which mountain story?”
+```
+```
+“Worse how?”
+“What does that mean?”
+“Did you actually see him fight?”
+>>> “Was the mountain story true?”   <-- WHO SAYS THIS?
+“Which mountain story?”
+“There are several?”
+```
+```
+“What does that mean?”
+“Did you actually see him fight?”
+“Was the mountain story true?”
+>>> “Which mountain story?”   <-- WHO SAYS THIS?
+“There are several?”
+The Wuyue veteran closed his eyes.
+```
+```
+“Did you actually see him fight?”
+“Was the mountain story true?”
+“Which mountain story?”
+>>> “There are several?”   <-- WHO SAYS THIS?
+The Wuyue veteran closed his eyes.
+The cook started laughing.
 ```
 ```
 This reassured everyone.

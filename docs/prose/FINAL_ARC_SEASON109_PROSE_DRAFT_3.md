@@ -676,6 +676,78 @@ It had become context.
 
 The man who ended Isgard's last war had returned to Isgard by healing it.
 
+At a mess line two streets away, a young Isgard soldier asked the question for the fourth time that morning.
+
+“That's really him?”
+
+The cook did not look up.
+
+“Yes.”
+
+“The actual Petals Monarch?”
+
+“Yes.”
+
+“The one from the last war?”
+
+The cook put down the ladle.
+
+“Boy, if you ask me again, I am putting you back in the hospital.”
+
+The soldier accepted his bowl.
+
+“I just keep expecting somebody to say the rumor was wrong.”
+
+A Wuyue veteran behind him snorted.
+
+“First time?”
+
+The Isgard soldier turned.
+
+“Seeing him? Yes.”
+
+“You get used to the face.”
+
+“What about the rest?”
+
+The veteran looked up at the Sanctuary.
+
+“No.”
+
+Someone farther down the queue called, “Is he really as strong as they say?”
+
+The Wuyue veteran answered without raising his voice.
+
+“No.”
+
+The queue went quiet.
+
+He took his bowl from the cook.
+
+“He's worse.”
+
+The quiet lasted one heartbeat.
+
+Then half the line started talking at once.
+
+“Worse how?”
+
+“What does that mean?”
+
+“Did you actually see him fight?”
+
+“Was the mountain story true?”
+
+“Which mountain story?”
+
+“There are several?”
+
+The Wuyue veteran closed his eyes.
+
+The cook started laughing.
+
+For the first time in months, the loudest thing in that street was not a casualty cart.
+
 Then Aldric Veyrhald woke angry.
 
 This reassured everyone.

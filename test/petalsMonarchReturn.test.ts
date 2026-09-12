@@ -17,6 +17,9 @@ describe('Petals Monarch Isgard return', () => {
     expect(part2).toContain('Wuyue shouted first. Isgard answered almost immediately.');
     expect(part2).toContain('morale was also a battlefield resource');
     expect(part2).toContain('Shinsei heard it too.');
+    expect(part2).toContain('PETALS MONARCH IS BACK!');
+    expect(part2).toContain('To beat us before he woke up.');
+    expect(part2).toContain('Today they think we have to survive him.');
     expect(part2).toContain('One planned advance horn was quietly cancelled.');
     expect(part2).toContain('No accepted rank.');
     expect(part2).toContain('THE PETALS MONARCH IS ACTIVE.');

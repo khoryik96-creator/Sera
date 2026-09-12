@@ -564,6 +564,48 @@ The veteran finally smiled.
 
 Petals Monarch.
 
+A Wuyue runner came around the hospital corner at speed and nearly collided with the stretcher team.
+
+“What happened?”
+
+The stretcher bearer pointed at the petal on his spear.
+
+The runner stopped.
+
+For one heartbeat he simply stared.
+
+Then he grabbed the nearest orderly by both shoulders.
+
+“West reserve.”
+
+The orderly blinked.
+
+“What?”
+
+“Go to west reserve. Tell them the Petals Monarch is back.”
+
+The orderly looked at the petal.
+
+“Confirmed?”
+
+The runner almost laughed.
+
+“Look at the sky.”
+
+The orderly ran.
+
+The runner turned to the next road.
+
+“North hospital!” he shouted. “Pass it!”
+
+Someone farther away answered without knowing why yet.
+
+“Pass what?”
+
+The reply came from three voices at once.
+
+“PETALS MONARCH IS BACK!”
+
 The words moved without a courier.
 
 A Wuyue medical orderly repeated them at the next lane.
@@ -736,6 +778,66 @@ The old man raised his spear.
 
 “Now I think Shinsei should be worried.”
 
+A Wuyue pikeman on the neighboring road heard him and barked a laugh.
+
+“They had six months.”
+
+His partner looked over.
+
+“Six months for what?”
+
+“To beat us before he woke up.”
+
+The partner looked toward the falling petals.
+
+“They didn't.”
+
+“No.”
+
+The pikeman's grin widened.
+
+“That's their problem now.”
+
+A messenger came sprinting between the two formations.
+
+“Command confirmation!”
+
+Heads turned.
+
+The messenger did not slow.
+
+“PETALS MONARCH IS BACK! PASS IT TO EVERY LINE!”
+
+A Wuyue soldier cupped both hands around his mouth.
+
+“EAST LINE!”
+
+Another voice answered from beyond the wagons.
+
+“WE HEARD!”
+
+“THEN TELL THE NORTH!”
+
+“THE NORTH ALREADY KNOWS!”
+
+Laughter broke out.
+
+It had been weeks since that sound had traveled farther than one campfire.
+
+An Isgard officer tried to restore order and failed because he was smiling too.
+
+“Stop shouting and get into formation!”
+
+A soldier called back, “Which part?”
+
+“The formation part!”
+
+“Can we keep the shouting?”
+
+The officer looked at the petals.
+
+“Yes.”
+
 That was when the first Isgard weapon struck frozen earth.
 
 They did not need an explanation now.
@@ -761,6 +863,70 @@ Relief turning back into aggression.
 Men and women who had spent weeks measuring every retreat route began looking north instead of south.
 
 Banners that had hung limp in the evening cold were lifted higher.
+
+At a forward rest trench, a Wuyue corporal came running down the line without his helmet.
+
+“Up.”
+
+Nobody moved.
+
+One exhausted soldier looked at him from beneath a blanket.
+
+“We rotate in an hour.”
+
+“Not for rotation.”
+
+The corporal pointed south.
+
+“He's back.”
+
+Silence.
+
+Then somebody asked the only question that mattered.
+
+“Who?”
+
+The corporal stared at him.
+
+A frost-white petal drifted into the trench between them.
+
+Nobody needed the answer anymore.
+
+One man stood.
+
+Then another.
+
+A third soldier started laughing.
+
+“Six months they kept telling us Wuyue had no answer left.”
+
+The corporal picked up his helmet.
+
+“We had an answer.”
+
+He looked at the petal.
+
+“He was asleep.”
+
+Across the trench, an Isgard sergeant heard that and shook his head.
+
+“You people are unbearable.”
+
+The Wuyue soldier grinned.
+
+“You're smiling.”
+
+“I'm allowed one mistake.”
+
+“Make it two. Say the title.”
+
+The sergeant looked north toward Shinsei's lines.
+
+Then he said it loud enough for both armies to hear.
+
+“PETALS MONARCH!”
+
+The trench answered him.
 
 A stretcher patient heard the title and started laughing until his ribs hurt badly enough for the medic to threaten him.
 
@@ -962,7 +1128,35 @@ The roar crossed the valley again.
 
 **PETALS MONARCH.**
 
+A second Shinsei scout looked toward the allied trenches through a long glass.
+
+“They're passing it down every line.”
+
+The lieutenant took the glass.
+
+Wuyue runners were moving between positions. Isgard soldiers were striking spear shafts into the ground. Men who had spent the previous week sitting whenever they were not ordered to stand were standing without orders now.
+
+“They were exhausted yesterday.”
+
+“They're exhausted today.”
+
+“Then why do they look like that?”
+
 The veteran closed the file.
+
+“Because yesterday they thought they had to survive us.”
+
+He looked toward the petals.
+
+“Today they think we have to survive him.”
+
+The junior lieutenant said nothing.
+
+A cheer rolled across the valley again, clearer this time.
+
+**PETALS MONARCH IS BACK.**
+
+The scout swallowed.
 
 “He's here.”
 
@@ -1770,6 +1964,32 @@ The sergeant pointed north with his blade.
 
 The shield line came up as one.
 
+A runner reached the next Wuyue company already out of breath.
+
+“Petals Monarch is back!”
+
+A soldier under a bandaged brow shouted back, “You're late!”
+
+The runner stopped.
+
+“What?”
+
+“We've got eyes!”
+
+The whole company laughed.
+
+Another man slapped the runner on the shoulder.
+
+“Keep going. Tell the ones who don't.”
+
+“Everyone knows!”
+
+“Then tell them again.”
+
+The runner grinned and took off.
+
+“PETALS MONARCH IS BACK!”
+
 Across the road, an Isgard veteran stared into the petal-filled sky.
 
 “The last time I saw this,” he said, “I was praying he would stop.”
@@ -1875,6 +2095,28 @@ The signal officer raised his brush.
 “What wording?”
 
 The captain watched frost-white petals turn the allied sky pale.
+
+Below the observation post, two Shinsei infantrymen were listening to the allied noise.
+
+One muttered, “They sound different.”
+
+The other kept his eyes on the distant shields.
+
+“They are different.”
+
+“They were breaking.”
+
+“They were bending.”
+
+“What's the difference?”
+
+The second soldier looked up at thirty miles of winter.
+
+“That.”
+
+The captain heard them.
+
+He did not correct either man.
 
 “Exact wording.”
 
